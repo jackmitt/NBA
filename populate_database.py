@@ -8,7 +8,11 @@ from nba_api.stats.endpoints import boxscorescoringv3
 from nba_api.stats.endpoints import boxscoreusagev3
 from nba_api.stats.endpoints import boxscorefourfactorsv3
 import pandas as pd
+import numpy as np
 from tqdm import tqdm
+import requests
+from os.path import exists
+import os
 import time
 
 db_path = "./database/"
@@ -56,12 +60,19 @@ def boxscore_table(type):
     string_s = seasons[0]
     for season in seasons:
         string_s += "|" + season
+    game_ids = list(games[games["season"].str.contains(string_s[8:])]["game_id"])
+
+    if (exists(db_path+type+"_boxscores_players.csv")):
+        team_df = pd.read_csv(db_path+type+"_boxscores_teams.csv")
+        player_df = pd.read_csv(db_path+type+"_boxscores_players.csv")
+        stored_games = team_df["game_id"].unique()
+        for game in stored_games:
+            game_ids.remove(game)
 
     player_table = []
     team_table = []
-    game_ids = games[games["season"].str.contains(string_s[8:])]["game_id"]
     for game in tqdm(game_ids):
-        #time.sleep(0.5)
+        #time.sleep(0.15)
         try:
             if (type == "traditional"):
                 a = boxscoretraditionalv3.BoxScoreTraditionalV3(game_id="00"+str(game)).get_dict()
@@ -82,8 +93,21 @@ def boxscore_table(type):
                 a = boxscorefourfactorsv3.BoxScoreFourFactorsV3(game_id="00"+str(game)).get_dict()
                 bs_containter = "boxScoreFourFactors"
         except AttributeError:
-            print ("Error: 00" + str(game))
+            #print ("Error: 00" + str(game))
             continue
+        except (requests.exceptions.ReadTimeout, KeyboardInterrupt):
+            if (len(team_table) == 0):
+                return (-1)
+            df = pd.DataFrame(team_table)
+            if (exists(db_path+type+"_boxscores_teams.csv")):
+                df = pd.concat([team_df,df])
+            df.to_csv(db_path+type+"_boxscores_teams.csv",index=False)
+
+            df = pd.DataFrame(player_table)
+            if (exists(db_path+type+"_boxscores_players.csv")):
+                df = pd.concat([player_df,df])
+            df.to_csv(db_path+type+"_boxscores_players.csv",index=False)
+            return (-1)
         for side in ["homeTeam","awayTeam"]:
             temp_t = {"game_id":a[bs_containter]['gameId'],"team_id":a[bs_containter][side]["teamId"]}
             for key in a[bs_containter][side]['statistics']:
@@ -94,11 +118,49 @@ def boxscore_table(type):
                 for key in player['statistics']:
                     temp_p[key] = player['statistics'][key]
                 player_table.append(temp_p)
+
     
     df = pd.DataFrame(team_table)
+    if (exists(db_path+type+"_boxscores_teams.csv")):
+                df = pd.concat([team_df,df])
     df.to_csv(db_path+type+"_boxscores_teams.csv",index=False)
 
     df = pd.DataFrame(player_table)
+    if (exists(db_path+type+"_boxscores_players.csv")):
+        df = pd.concat([player_df,df])
     df.to_csv(db_path+type+"_boxscores_players.csv",index=False)
 
-boxscore_table("advanced")
+
+#Must have scraped nowgoal odds and have nowgoal_odds.csv in intermediates
+def odds_table():
+    odds = pd.read_csv("./intermediates/nowgoal_odds.csv")
+    teams = pd.read_csv(db_path+"teams.csv")
+    games = pd.read_csv(db_path+"games.csv")
+    id_map = {}
+    for i in range(len(teams.index)):
+        id_map[teams["full_name"].to_list()[i]] = teams["id"].to_list()[i]
+    odds["h_team"] = odds["h_team"].transform(lambda x: id_map[x])
+    odds["a_team"] = odds["a_team"].transform(lambda x: id_map[x])
+    odds = odds.rename(columns={"h_team":"h_team_id","a_team":"a_team_id"})
+    games["game_date"] = pd.to_datetime(games["game_date"]).dt.date
+    odds["date"] = pd.to_datetime(odds["date"]).dt.date
+    odds = odds.merge(games, how='inner', left_on=["h_team_id","a_team_id","date"], right_on=["h_team_id","a_team_id","game_date"])
+    odds = odds.drop(["nowgoal_id","season","game_type","game_date","matchup"],axis=1)
+    odds.insert(0, "game_id", odds.pop("game_id"))
+    odds = odds.sort_values("date")
+    odds = odds.replace(["-"," - "], np.nan)
+    odds.to_csv(db_path+"odds.csv",index=False)
+
+
+#for uploading to git
+def compress_db():
+    for file in tqdm(os.listdir("./database")):
+        a = pd.read_csv(db_path+file)
+        a.to_csv("./compressed_database/"+file+".gz",index=False,compression="gzip")
+
+def extract_db():
+    for file in tqdm(os.listdir("./compressed_database")):
+        a = pd.read_csv("./compressed_database/"+file, compression="gzip")
+        a.to_csv("./database/"+file.split(".gz")[0],index=False)
+
+compress_db()
