@@ -1,6 +1,8 @@
 import pandas as pd
 import numpy as np
 from tqdm import tqdm
+import time
+import datetime
 
 db_path = "./database/"
 i_path = "./intermediates/"
@@ -115,4 +117,4 @@ def beginning_baseline():
         games[key] = responses[key]
     games.to_csv(p_path+"beginning_baseline.csv")
 
-beginning_baseline()
+
