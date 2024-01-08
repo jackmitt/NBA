@@ -1,4 +1,4 @@
-# Model Chronological Experimentation
+# Model Chronological Experimentation (In progress)
 
 This file will be used to document the evolution of the model. 
 
