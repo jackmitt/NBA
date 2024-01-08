@@ -51,7 +51,33 @@ Season_avg performs the worst among the practical alternatives over the inspecte
 
 Above is a summary of a regression model to predict the error of the pace from the Arma_0.1 method. The idea is to see whether or not factors like rest, back-to-backs, and roadtrips affect the pace a team plays with after our prediction is taken into account. I coded this in a few different ways with this way being the only promising outcome: number of days since the last game (capped at 7). I would argue it isn't just overfitting since the coefficients for both the home and the away side are similar indicating a very similar effect. Something to consider...
 
-#### Advanced Methods
+#### Advanced Methods and Results
+
+We will experiment with a Bayesian hierarchical model. The structure is very simple for a team-based hierarchical model for pace: each team has a 'pace rating' distribution which is initialized as N(47.5, 2). The distribution of the observed pace is N(mu pace rating of team A + mu pace rating of team B, halfnormal(sigma=1)). Predictions are made using the prior distributions of the pace ratings, the posterior distributions are estimated afterwards considering the observed pace, then we set the prior means and standard deviations to the estimated posterior. Computation is done using PYMC and nutpie sampling on Windows. I am choosing to generate 10,000 draws per game day; in turn, running the model through the 2002-03 season takes around 3.5 hours. The first season is excluded from evaluation of predictions.
+
+Below is the base model. Pace rating over time is given with a shaded region for each team indicated 2 standard deviations on either side.
+
+<img src="./figures/pace/Base_BHM_team.png" alt="okc_pace" width="1300"/>
+
+
+
+No max sigma, no fattening constant; simply start with sigma = 2 for all and never widen it
+
+<img src="./figures/pace/v1_BHM_team.png" alt="okc_pace" width="1300"/>
+
+base but with per_game_fatten of 1.1 and max sigma 3
+
+<img src="./figures/pace/v2_BHM_team.png" alt="okc_pace" width="1300"/>
+
+base but with per_game_fatten of 1.025 and max sigma 3 - just realized that fattening was happening to ALL teams after every game and not just to the teams that played
+
+<img src="./figures/pace/v3_BHM_team.png" alt="okc_pace" width="1300"/>
+
+V2 but fixed to only fatten teams who have play
+
+<img src="./figures/pace/v4_BHM_team.png" alt="okc_pace" width="1300"/>
+
+added per_season_fatten = 2 which is the fattening multiplier applied at the end of every season and increased the fattening_per_game to 1.05
 
 ### Player-based Approaches
 

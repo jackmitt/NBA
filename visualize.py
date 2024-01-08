@@ -3,6 +3,8 @@ import numpy as np
 import plotly.graph_objects as go
 import matplotlib.pyplot as plt
 import scipy.stats as stats
+import pickle
+import datetime
 
 #Generates figures from the naive_pace models
 def naive_pace_team():
@@ -255,5 +257,41 @@ def player_pace_within_team():
     plt.figtext(0.75,0.78,"Average Pace given by Team Boxscores",color="k")
     plt.show()
     
+def BHM_tracker():
+    pred = pd.read_csv('./predictions/pace_BHM_base_v4.csv').dropna()
+    pred["AE"] = abs(pred["pred"] - pred["actual"])
+    pred["SE"] = (pred["pred"] - pred["actual"])**2
+    abs_err = np.average(pred['AE']).round(2)
+    sq_err = np.average(pred['SE']).round(2)
 
-naive_pace_player()
+    teams = pd.read_csv('./database/teams.csv')
+    team_map = {}
+    for index, row in teams.iterrows():
+        team_map[row['id']] = row['full_name']
+
+    with open('./intermediates/BHM_base_tracker_v4.pkl', 'rb') as f:
+        tracker = pickle.load(f)
+    
+    formatted = {}
+    for key in tracker:
+        formatted[key] = {"date":[],"mean":[],"sd":[]}
+        for dk in tracker[key]:
+            formatted[key]['date'].append(datetime.datetime.strptime(dk, "%Y-%m-%d"))
+            formatted[key]['mean'].append(tracker[key][dk][0])
+            formatted[key]['sd'].append(tracker[key][dk][1])
+    for key in formatted:
+        #if (key == list(formatted.keys())[5]):
+            #break
+        plt.plot(formatted[key]['date'], formatted[key]['mean'], label=team_map[key])
+        plt.fill_between(formatted[key]['date'], np.array(formatted[key]['mean']) - 2*np.array(formatted[key]['sd']), np.array(formatted[key]['mean']) + 2*np.array(formatted[key]['sd']), alpha=0.1)
+    plt.figtext(0.8,0.85,"Absolute Error: "+str(abs_err), fontsize=10)
+    plt.figtext(0.8,0.82,"Squared Error: "+str(sq_err), fontsize=10)
+    plt.legend(loc = 'upper left',fontsize = 'xx-small')
+    plt.xlabel("Date")
+    plt.ylabel("Pace Rating")
+    plt.title("V4 Bayesian Hierarchical Model 1996-97 thru 2002-03")
+    plt.show()
+
+
+
+BHM_tracker()
