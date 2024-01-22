@@ -5,8 +5,8 @@ This file will be used to document the evolution of the model.
 There is so much to mess with that I likely would forget what has been promising and what hasn't.
 
 The goal is to find the best performing models for predicting the probability of winning in one of the following markets:
-* Moneyline - team a winning vs team b
-* Spread - a number of points is given for how much team a must beat team b by
+* Moneyline - team A winning vs team B
+* Spread - a number of points is given for how much team A must beat team B by
 * Total - a number for the sum of points scored in a game is given - will it be higher or lower
 
 Sports data is tricky - performance data naturally exists as a lagged series. For example: Points scored 1,2,3,4...,n games ago.
@@ -19,7 +19,7 @@ Because of this, any model will consist of latent variables that try to capture 
 
 Pace is the single most important variable, and it is used differently from others. It is defined as the average number of possessions of both teams adjusted for overtime.
 Obviously pace is a key part of the total market, but it is also nearly as important in finding edge in the others. 
-Even if you know the true relative skill of the two teams, pace will alter the probability of the better team winning: a higher pace game will have less variable results than a lower pace game. At least to start with, our models will use pace as the time parameter, although eventually I will probably compare models that use real time (pace is a simplistic measure in that not all possessions are equal - those from a team with better offensive rebounding would have more shots per possession and thus more points per possession). Additionally, forecasting pace will be provide useful lessons for all latent variables.
+Even if you know the true relative skill of the two teams, pace will alter the probability of the better team winning: a higher pace game will have less variable results than a lower pace game. At least to start with, our models will use pace as the time parameter, although eventually I will probably compare models that use real time (pace is a simplistic measure in that not all possessions are equal - those from a team with better offensive rebounding would have more shots per possession and thus more points per possession). Additionally, forecasting pace will provide useful lessons for all latent variables.
 
 I have set aside 1996-97 thru 2002-2003 as the training set exclusively for latent variables. Maybe this is unnecessary, I am not sure.
 
@@ -31,7 +31,7 @@ I will explore models that focus on team metrics and player metrics. The granula
 
 The following methods are naive in that they do not involve any fitting or simulations. 
 
-A traditional approach and one I have used in the past with little thought is simply averaging all the metrics by the team in the current season. For the first 5 games, where there is little date, I use a weighted average of the last season's average ((5-n)/5 weighting where n is games played). **Throughout this latent-variable step, we are excluding predictions from the first season since you really need a prior season to 'warm-up' some methods or to encorporate via weighted averaging like this.** To actually forecast the pace for a game, we average each team's latent pace average. For this model, the 'season-avg' label is used.
+A traditional approach and one I have used in the past with little thought is simply averaging all the metrics by the team in the current season. For the first 5 games, where there is little data, I use a weighted average of the last season's average ((5-n)/5 weighting where n is games played). **Throughout this latent-variable step, we are excluding predictions from the first season since you really need a prior season to 'warm-up' some methods or to encorporate via weighted averaging like this.** To actually forecast the pace for a game, we average each team's latent pace average. For this model, the 'season-avg' label is used.
 
 Another batch of models uses moving averages with a certain amount of games specified. A 5-game moving average pace model would average the last 5 games of pace for a team. Like the above model, we also average each team's latent pace to form a prediction for the pace in a game.
 
@@ -43,17 +43,20 @@ Finally, I want to try some Bayesian updating. As in the previous method, each t
 
 ![table](./figures/pace/naive_table_cropped2.png) 
 
-<img src="./figures/pace/season_avg_plot.png" alt="season_avg" width="300"/> <img src="./figures/pace/ma10_plot.png" alt="ma10" width="300"/> <img src="./figures/pace/arma_0.1_plot.png" alt="arma_0.1" width="300"/> <img src="./figures/pace/bayes_0.25_plot.png" alt="arma_0.1" width="300"/>
+<img src="./figures/pace/season_avg_plot.png" alt="season_avg" width="300"/>
+<img src="./figures/pace/ma10_plot.png" alt="ma10" width="300"/>
+<img src="./figures/pace/arma_0.1_plot.png" alt="arma_0.1" width="300"/>
+<img src="./figures/pace/bayes_0.25_plot.png" alt="arma_0.1" width="300"/>
 
 Season_avg performs the worst among the practical alternatives over the inspected time range (seasons 1996-97 thru 2002-2003 - the latent variable training set) which was unexpected. The naive-ARMA method seems to be the best of the naive methods. First, it has the lowest error at the 0.1 weight and the 2nd lowest at the 0.05 weight. Additionally, the other methods seem to not be adaptive enough. We can see from the plots that for games that we estimate to have a lower pace than average, we actually end up overestimating and vice versa for games we predict a higher pace than average. The ARMA updating does not appear to have this issue, which is promising. 
 
 <img src="./figures/pace/game_hist_OLS.png" alt="season_avg" width="500"/>
 
-Above is a summary of a regression model to predict the error of the pace from the Arma_0.1 method. The idea is to see whether or not factors like rest, back-to-backs, and roadtrips affect the pace a team plays with after our prediction is taken into account. I coded this in a few different ways with this way being the only promising outcome: number of days since the last game (capped at 7). I would argue it isn't just overfitting since the coefficients for both the home and the away side are similar indicating a very similar effect. Something to consider...
+Above is a summary of a regression model to predict the error of the pace from the ARMA_0.1 method. The idea is to see whether or not factors like rest, back-to-backs, and roadtrips affect the pace a team plays with after our prediction is taken into account. I coded this in a few different ways with this way being the only promising outcome: number of days since the last game (capped at 7). I would argue it isn't just overfitting since the coefficients for both the home and the away side are similar indicating a very similar effect. Something to consider...
 
 #### Advanced Methods and Results
 
-We will experiment with a Bayesian hierarchical model. The structure is very simple for a team-based hierarchical model for pace: each team has a 'pace rating' distribution which is initialized as N(47.5, 2). The distribution of the observed pace is N(mu pace rating of team A + mu pace rating of team B, halfnormal(sigma=1)). Predictions are made using the prior distributions of the pace ratings, the posterior distributions are estimated afterwards considering the observed pace, then we set the prior means and standard deviations to the estimated posterior. Computation is done using PYMC and nutpie sampling on Windows. I am choosing to generate 10,000 draws per game day; in turn, running the model through the 2002-03 season takes around 3.5 hours. The first season is excluded from evaluation of predictions.
+We will experiment with a Bayesian hierarchical model. The structure is very simple for a team-based hierarchical model for pace: each team has a 'pace rating' distribution which is initialized as N(47.5, 2). The distribution of the observed pace is N(&mu; pace rating of team A + &mu; pace rating of team B, halfnormal(&sigma;=1)). Predictions are made using the prior distributions of the pace ratings, the posterior distributions are estimated afterwards considering the observed pace, then we set the prior means and standard deviations to the estimated posterior. Computation is done using PYMC and nutpie sampling on Windows. I am choosing to generate 10,000 draws per game day; in turn, running the model through the 2002-03 season takes around 3.5 hours. The first season is excluded from evaluation of predictions.
 
 Below is the base model. Pace rating over time is given with a shaded region for each team indicated 2 standard deviations on either side.
 
@@ -73,7 +76,7 @@ base but with per_game_fatten of 1.025 and max sigma 3 - just realized that fatt
 
 <img src="./figures/pace/v3_BHM_team.png" alt="okc_pace" width="1300"/>
 
-V2 but fixed to only fatten teams who have play
+V2 but fixed to only fatten teams who have played
 
 <img src="./figures/pace/v4_BHM_team.png" alt="okc_pace" width="1300"/>
 
@@ -87,7 +90,7 @@ To begin, I chose a team from one season to see how much each player's pace diff
 
 #### Naive Methods 
 
-There are two methods we will try for modeling pace using each player's 'contribution'. Contribution is the pace of the game when they were on the court. Of course, each player is on the court for different amounts of time. A player who plays 5 minutes at the end of the game should not have their pace rating adjusted as much per game as a starter. Additionally, our findings from above show that player paces are higher when combined than team average pace, so we must adjust for that. Both methods we look at will assign each player a pace rating and adjust it after each game. To predict pace using the pace ratings, we will have a full-knowledge approach (denoted 'fk_) that assumes we know exactly how much every player will be playing based on the results from the game and a low-knowledge approach (denoted 'lk_') that assumes the same play time for each player as the previous game they played (or didn't, in which case, we don't consider them). We won't have full-knowledge when the model is in production, but we will do better than low-knowledge which has no concept of injury news. 
+There are two methods we will try for modeling pace using each player's 'contribution'. Contribution is the pace of the game when they were on the court. Of course, each player is on the court for different amounts of time. A player who plays 5 minutes at the end of the game should not have their pace rating adjusted as much per game as a starter. Additionally, our findings from above show that player paces are higher when combined than team average pace, so we must adjust for that. Both methods we look at will assign each player a pace rating and adjust it after each game. To predict pace using the pace ratings, we will have a full-knowledge approach (denoted 'fk_') that assumes we know exactly how much every player will be playing based on the results from the game and a limited-knowledge approach (denoted 'lk_') that assumes the same play time for each player as the previous game they played (or didn't, in which case, we don't consider them). We won't have full-knowledge when the model is in production, but we will do better than limited-knowledge which has no concept of injury news. 
 
 The first method is the ARMA-related method that was the best for the team approach. One key thing we must do is calculate the 'predicted pace' for the opposing team to adjust a player on any team. Really, it is more like the pace we would expect based on the opposing team's actual play time info. Each player's pace rating is weighted in to the 'predicted pace' based on who actually played and how much. This should give us the other team's contribution to the pace for calculating the error term alongside the player's recorded pace. There is a clear problem of not being able to consider which players are actually on the court on the opposing side for each player.
 
@@ -112,27 +115,27 @@ Like with the team-based approach, we will use a bayesian hierarchical model... 
 
 V1 - no fattening, start sigma 3, max sigma 6, obs sigma 1
 
-<img src="./figures/pace/v1_BHM_player.png" alt="okc_pace" width="1300"/>
+<img src="./figures/pace/V1_BHM_player.png" alt="okc_pace" width="1300"/>
 
 V2 - added per_game_fatten of 1.05
 
-<img src="./figures/pace/v2_BHM_player.png" alt="okc_pace" width="1300"/>
+<img src="./figures/pace/V2_BHM_player.png" alt="okc_pace" width="1300"/>
 
 V3 - per_game_fatten of 1.15
 
-<img src="./figures/pace/v3_BHM_player.png" alt="okc_pace" width="1300"/>
+<img src="./figures/pace/V3_BHM_player.png" alt="okc_pace" width="1300"/>
 
 V4 - per_game_fatten of 1.10
 
-<img src="./figures/pace/v4_BHM_player.png" alt="okc_pace" width="1300"/>
+<img src="./figures/pace/V4_BHM_player.png" alt="okc_pace" width="1300"/>
 
 V5 - per_game_fatten of 1.025
 
-<img src="./figures/pace/v5_BHM_player.png" alt="okc_pace" width="1300"/>
+<img src="./figures/pace/V5_BHM_player.png" alt="okc_pace" width="1300"/>
 
 V6 - return to per_game_fatten of 1.05; obs sigma to 3... How is there no real difference from v2??
 
-<img src="./figures/pace/v6_BHM_player.png" alt="okc_pace" width="1300"/>
+<img src="./figures/pace/V6_BHM_player.png" alt="okc_pace" width="1300"/>
 
 
 
