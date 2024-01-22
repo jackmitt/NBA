@@ -8,6 +8,7 @@ import pymc as pm
 import nutpie
 import pytensor
 import pickle
+import math
 
 def team_pace():
     ### Hyperparams
@@ -284,9 +285,9 @@ def player_pace():
     ### Hyperparams
     start_mu = 47.5
     start_sigma = 3
-    max_sigma = 3
+    max_sigma = 6
     per_game_fatten = 1.05
-    obs_sigma = 1
+    obs_sigma = 3
     #per_season_fatten = 2
     seed = 1
 
@@ -313,8 +314,9 @@ def player_pace():
         priors[1].append(start_sigma)
         player_map[players[i]] = i
         tracker[players[i]] = {}
-    priors[0] = np.array(priors[0])
-    priors[1] = np.array(priors[1])
+    priors[0] = np.array(priors[0], dtype='float')
+    priors[1] = np.array(priors[1], dtype='float')
+
 
     last_lineup = {}
     cur_lineup = {}
@@ -337,11 +339,6 @@ def player_pace():
             cur_season = games.loc[games["game_id"] == gid, ]["season"].to_list()[0]
             team_game = team_bs.loc[team_bs["game_id"] == gid,].reset_index()
 
-            h_id = cur_game['team_id'].unique()[0]
-            a_id = cur_game['team_id'].unique()[1]
-
-            total_sec = cur_game.loc[cur_game['team_id'] == h_id, ]['seconds'].sum()
-
             try:
                 team_pace = team_game.at[0,"pace"]
             except:
@@ -349,11 +346,13 @@ def player_pace():
                     cur_f = {}
                     features.append(cur_f)
                 continue
+
+            h_id = cur_game['team_id'].unique()[0]
+            a_id = cur_game['team_id'].unique()[1]
+
+            total_sec = cur_game.loc[cur_game['team_id'] == h_id, ]['seconds'].sum()
             
             avg_player_pace = (cur_game['seconds'] * cur_game['pace']).sum() / (cur_game['seconds'].sum())
-
-            #for i in range(2):
-                #tracker[cur_game.at[i,'team_id']][date] = [priors[0][team_map[cur_game.at[i,'team_id']]],priors[1][team_map[cur_game.at[i,'team_id']]]]
 
 
             cur_lineup[h_id] = {}
@@ -361,6 +360,8 @@ def player_pace():
             for index, row in cur_game.loc[cur_game['team_id'] == h_id, ].iterrows():
                 cur_lineup[h_id][row['player_id']] = row['seconds']/total_sec
                 expected_pace[h_id] += (row['seconds']/total_sec) * priors[0][player_map[row['player_id']]]
+
+                tracker[row['player_id']][date] = [priors[0][player_map[row['player_id']]], priors[1][player_map[row['player_id']]]]
 
                 p_ids.append(player_map[row['player_id']])
                 p_sec_inv.append((total_sec/5) / row['seconds'])
@@ -372,6 +373,8 @@ def player_pace():
             for index, row in cur_game.loc[cur_game['team_id'] == a_id, ].iterrows():
                 cur_lineup[a_id][row['player_id']] = row['seconds']/total_sec
                 expected_pace[a_id] += (row['seconds']/total_sec) * priors[0][player_map[row['player_id']]]
+
+                tracker[row['player_id']][date] = [priors[0][player_map[row['player_id']]], priors[1][player_map[row['player_id']]]]
 
                 p_ids.append(player_map[row['player_id']])
                 p_sec_inv.append((total_sec/5) / row['seconds'])
@@ -387,7 +390,7 @@ def player_pace():
                     for z in last_lineup[x]:
                         cur_f['last_pred'] += last_lineup[x][z] * priors[0][player_map[z]]
             
-                cur_f["actual"] = pace     
+                cur_f["actual"] = team_pace   
                 features.append(cur_f)
 
             last_lineup[h_id] = {}
@@ -400,17 +403,17 @@ def player_pace():
         opp_pace = []
         for opp_id in opp_team_ids:
             opp_pace.append(expected_pace[opp_id])
+
         for i in range(len(p_ids)):
+            if (p_sec_inv[i] > 10):
+                continue
             priors[0][p_ids[i]] = (priors[0][p_ids[i]]*(p_sec_inv[i]*obs_sigma)**2 + (obs[i] - opp_pace[i])*priors[1][p_ids[i]]**2) / (priors[1][p_ids[i]]**2 + (p_sec_inv[i]*obs_sigma)**2)
-            priors[1][p_ids[i]] = np.sqrt((priors[1][p_ids[i]]**2*(p_sec_inv[i]*obs_sigma)**2) / (priors[1][p_ids[i]]**2 + (p_sec_inv[i]*obs_sigma)**2))
+            priors[1][p_ids[i]] = min(math.sqrt((priors[1][p_ids[i]]**2*(p_sec_inv[i]*obs_sigma)**2) / (priors[1][p_ids[i]]**2 + (p_sec_inv[i]*obs_sigma)**2)) * per_game_fatten, max_sigma)
+        
+        # if (np.isnan(np.sum(priors[0]))):
+        #     return (1)
 
         
-        print (p_ids[0:5], p_ids[-5:])
-        print (p_sec_inv[0:5], p_sec_inv[-5:])
-        print (obs[0:5], obs[-5:])
-        print (priors[0][0:5], priors[0][p_ids[-5:]])
-        print (priors[1][0:5], priors[1][p_ids[-5:]])
-        return (1)
         # for index, row in az.summary(trace_pymc).iterrows():
         #     if ('pace' in index):
         #         i = int(index.split("[")[1].split(']')[0])
@@ -429,10 +432,10 @@ def player_pace():
     print (games)
     fdf = pd.DataFrame(features)
     print  (fdf)
-    with open('./intermediates/BHM_base_tracker_v4.pkl', 'wb') as f:
+    with open('./intermediates/BHM_player_tracker_v6.pkl', 'wb') as f:
         pickle.dump(tracker, f)
     games = pd.concat([games, fdf], axis=1)
-    games.to_csv("./predictions/pace_BHM_base_v4.csv", index=False)
+    games.to_csv("./predictions/pace_BHM_player_v6.csv", index=False)
 
 if __name__ == '__main__':
     player_pace()

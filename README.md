@@ -105,6 +105,34 @@ The Bayesian updating provides much better results. However, it is not much bett
 
 I have no reason to think that a player-based approach is the way to proceed compared to team-based approaches.
 
+#### Advanced Methods and Results
+
+Like with the team-based approach, we will use a bayesian hierarchical model... finish typing this later
+
+
+V1 - no fattening, start sigma 3, max sigma 6, obs sigma 1
+
+<img src="./figures/pace/v1_BHM_player.png" alt="okc_pace" width="1300"/>
+
+V2 - added per_game_fatten of 1.05
+
+<img src="./figures/pace/v2_BHM_player.png" alt="okc_pace" width="1300"/>
+
+V3 - per_game_fatten of 1.15
+
+<img src="./figures/pace/v3_BHM_player.png" alt="okc_pace" width="1300"/>
+
+V4 - per_game_fatten of 1.10
+
+<img src="./figures/pace/v4_BHM_player.png" alt="okc_pace" width="1300"/>
+
+V5 - per_game_fatten of 1.025
+
+<img src="./figures/pace/v5_BHM_player.png" alt="okc_pace" width="1300"/>
+
+V6 - return to per_game_fatten of 1.05; obs sigma to 3... How is there no real difference from v2??
+
+<img src="./figures/pace/v6_BHM_player.png" alt="okc_pace" width="1300"/>
 
 
 

@@ -293,5 +293,45 @@ def BHM_tracker():
     plt.show()
 
 
+def BHM_player_tracker():
+    pred = pd.read_csv('./predictions/pace_BHM_player_v6.csv').dropna()
+    pred["last_pred AE"] = abs(pred["last_pred"] - pred["actual"])
+    pred["last_pred SE"] = (pred["last_pred"] - pred["actual"])**2
+    pred["cur_pred AE"] = abs(pred["cur_pred"] - pred["actual"])
+    pred["cur_pred SE"] = (pred["cur_pred"] - pred["actual"])**2
+    l_abs_err = np.average(pred['last_pred AE']).round(2)
+    l_sq_err = np.average(pred['last_pred SE']).round(2)
+    c_abs_err = np.average(pred['cur_pred AE']).round(2)
+    c_sq_err = np.average(pred['cur_pred SE']).round(2)
 
-BHM_tracker()
+    player_map = {1495:"Tim Duncan",406:"Shaquille O'Neal",255:"Grant Hill",467:"Jason Kidd",952:"Antoine Walker"}
+
+    with open('./intermediates/BHM_player_tracker_v6.pkl', 'rb') as f:
+        tracker = pickle.load(f)
+
+    
+    formatted = {}
+    for key in player_map:
+        formatted[key] = {"date":[],"mean":[],"sd":[]}
+        for dk in tracker[key]:
+            formatted[key]['date'].append(datetime.datetime.strptime(dk, "%Y-%m-%d"))
+            formatted[key]['mean'].append(tracker[key][dk][0])
+            formatted[key]['sd'].append(tracker[key][dk][1])
+    print (formatted)
+    for key in formatted:
+        #if (key == list(formatted.keys())[5]):
+            #break
+        plt.plot(formatted[key]['date'], formatted[key]['mean'], label=player_map[key])
+        plt.fill_between(formatted[key]['date'], np.array(formatted[key]['mean']) - 2*np.array(formatted[key]['sd']), np.array(formatted[key]['mean']) + 2*np.array(formatted[key]['sd']), alpha=0.1)
+    plt.figtext(0.78,0.85,"last_pred Absolute Error: "+str(l_abs_err), fontsize=10)
+    plt.figtext(0.78,0.82,"last_pred Squared Error: "+str(l_sq_err), fontsize=10)
+    plt.figtext(0.78,0.79,"cur_pred Absolute Error: "+str(c_abs_err), fontsize=10)
+    plt.figtext(0.78,0.76,"cur_pred Squared Error: "+str(c_sq_err), fontsize=10)
+    plt.legend(loc = 'upper left',fontsize = 'xx-small')
+    plt.xlabel("Date")
+    plt.ylabel("Pace Rating")
+    plt.title("V6 Player Bayesian Hierarchical Model 1996-97 thru 2002-03")
+    plt.show()
+
+
+BHM_player_tracker()
