@@ -47,7 +47,7 @@ Finally, I want to try some Bayesian updating. As in the previous method, each t
 
 Season_avg performs the worst among the practical alternatives over the inspected time range (seasons 1996-97 thru 2002-2003 - the latent variable training set) which was unexpected. The naive-ARMA method seems to be the best of the naive methods. First, it has the lowest error at the 0.1 weight and the 2nd lowest at the 0.05 weight. Additionally, the other methods seem to not be adaptive enough. We can see from the plots that for games that we estimate to have a lower pace than average, we actually end up overestimating and vice versa for games we predict a higher pace than average. The ARMA updating does not appear to have this issue, which is promising. 
 
-<img src="./figures/pace/game_hist_ols.png" alt="season_avg" width="500"/>
+<img src="./figures/pace/game_hist_OLS.png" alt="season_avg" width="500"/>
 
 Above is a summary of a regression model to predict the error of the pace from the Arma_0.1 method. The idea is to see whether or not factors like rest, back-to-backs, and roadtrips affect the pace a team plays with after our prediction is taken into account. I coded this in a few different ways with this way being the only promising outcome: number of days since the last game (capped at 7). I would argue it isn't just overfitting since the coefficients for both the home and the away side are similar indicating a very similar effect. Something to consider...
 
