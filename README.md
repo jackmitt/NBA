@@ -106,11 +106,26 @@ Simply put, the ARMA method is a mess when we do it for individual players. I su
 
 The Bayesian updating provides much better results. However, it is not much better than the Bayesian updating in the team approach and still falls far short of the naive ARMA updating on the team approach.
 
-I have no reason to think that a player-based approach is the way to proceed compared to team-based approaches.
-
 #### Advanced Methods and Results
 
-Like with the team-based approach, we will use a bayesian hierarchical model... finish typing this later
+Like with the team-based approach, we will use a bayesian hierarchical model; however, we will take the opposing team's expected pace as a constant to start to avoid having to use MCMC. The expected pace will be calculated based on the actual playing time for the players in the game. There are several complexities involved with using a PyMC model properly. First, we don't know which players are on the court at the same time because we haven't gotten play-by-play data yet. Ideally each unique lineup pair should have their pace ratings updated, but since there are, even in a very conservative estimate, at least 10 different pairs per game, this would raise the complexity of the MCMC to such a degree that I expect it wouldn't be worth it. Maybe it would be. I will try it. Second, the amount of time played in the game needs to be accounted for in the update. A player who plays 5 minutes in garbage time is different from a starter who played almost all the game, and their observed standard deviations should be updated accordingly. This is definitely doable with PyMC but I could not find a great way yet. And finally, any PyMC model would take even more time than the 3 hours it takes to run the team-based models. Given how many different choices have to be made to encorporate players into a model, I think it would be better to have a quick closed form solution to start that can be easily tweeked and the effect observed.
+
+There are lots of choices that have to be made to encorporate the individual players. Below are the starting chronological steps for each iteration (game) which will be tweaked in future versions:
+* cur_lineup[*team*], itself a dictionary, is populated with keys being player IDs and values being the proportion of time spent in the game for their team **in the current game** - the values sum to 1.
+* expected_pace for each team is calculated as each players proportion of game time time each players prior pace rating mean.
+* p_sec_inv for each player is recorded. This is the total seconds a player could play in a game (48*60 for no OT) divided by their seconds played. This is what is used to adjust the observed sigma in the update step.
+* observed pace for each player is recorded and adjusted to reflect the true team pace boxscore. See the discussion at the start of player based methods for more info.
+* the pace predictions for the game are made by multiplying the expected game time proportion for each player by their prior pace rating mean. There are two predictions: one based on cur_lineup and one based on last_lineup. This is based on the idea explained at the beginning of player based naive methods.
+* last_lineup[*team*] which is structured exactly like cur_lineup[*team*] is now recorded so that the next prediction for *team* will have the last lineup.
+* priors are updated as follows (from https://stats.stackexchange.com/questions/237037/bayesian-updating-with-new-data):
+  * prior mean = ((prior mean * (obs_sigma * p_sec_inv)^2) + ((obs_mean - opponent expected pace) * prior_sigma^2)) / (prior_sigma^2 + (obs_sigma * p_sec_inv)^2)
+    * we are choosing to scale obs_sigma by p_sec_inv^2, that can be done in any number of ways
+    * obs_mean is given as the true pace whereas pace ratings and opponent expected pace are half of the true pace in games to reflect the pace rating effect of each team (half of the game's pace). obs_mean - opponent expected pace thus accounts for the opposing pace rating and isolates the observed effect on the pace rating of the player
+  * prior variance = (obs_sigma * p_sec_inv)^2 * prior_sigma^2 / ((obs_sigma * p_sec_inv)^2 + prior_sigma^2)
+    * we store prior standard deviation so we also take the square root of the above, also that's why we are squaring the sigma
+    * we add a per_game_fatten affect and control for a max sigma level at this step as well if relevant
+
+Below are the versions as they evolve, and not actually versioned in any meaningful way...
 
 
 V1 - no fattening, start sigma 3, max sigma 6, obs sigma 1
