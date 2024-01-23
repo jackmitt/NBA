@@ -294,7 +294,7 @@ def BHM_tracker():
 
 
 def BHM_player_tracker():
-    pred = pd.read_csv('./predictions/pace_BHM_player_v8.csv').dropna()
+    pred = pd.read_csv('./predictions/pace_BHM_player_v9.csv').dropna()
     pred["last_pred AE"] = abs(pred["last_pred"] - pred["actual"])
     pred["last_pred SE"] = (pred["last_pred"] - pred["actual"])**2
     pred["cur_pred AE"] = abs(pred["cur_pred"] - pred["actual"])
@@ -306,7 +306,7 @@ def BHM_player_tracker():
 
     player_map = {1495:"Tim Duncan",406:"Shaquille O'Neal",255:"Grant Hill",467:"Jason Kidd",952:"Antoine Walker"}
 
-    with open('./intermediates/BHM_player_tracker_v8.pkl', 'rb') as f:
+    with open('./intermediates/BHM_player_tracker_v9.pkl', 'rb') as f:
         tracker = pickle.load(f)
 
     
@@ -317,7 +317,6 @@ def BHM_player_tracker():
             formatted[key]['date'].append(datetime.datetime.strptime(dk, "%Y-%m-%d"))
             formatted[key]['mean'].append(tracker[key][dk][0])
             formatted[key]['sd'].append(tracker[key][dk][1])
-    print (formatted)
     for key in formatted:
         #if (key == list(formatted.keys())[5]):
             #break
@@ -330,7 +329,7 @@ def BHM_player_tracker():
     plt.legend(loc = 'upper left',fontsize = 'xx-small')
     plt.xlabel("Date")
     plt.ylabel("Pace Rating")
-    plt.title("V8 Player Bayesian Hierarchical Model 1996-97 thru 2002-03")
+    plt.title("V9 Player Bayesian Hierarchical Model 1996-97 thru 2002-03")
     plt.show()
 
 

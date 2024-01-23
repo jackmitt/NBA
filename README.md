@@ -114,6 +114,7 @@ There are lots of choices that have to be made to encorporate the individual pla
 * observed pace for each player is recorded and adjusted to reflect the true team pace boxscore. See the discussion at the start of player based methods for more info.
 * the pace predictions for the game are made by multiplying the expected game time proportion for each player by their prior pace rating mean. There are two predictions: one based on cur_lineup and one based on last_lineup. This is based on the idea explained at the beginning of player based naive methods.
 * last_lineup[*team*] which is structured exactly like cur_lineup[*team*] is now recorded so that the next prediction for *team* will have the last lineup.
+* before update, those whose p_sec_inv is greater than 10 are filtered out
 * priors are updated as follows (from https://stats.stackexchange.com/questions/237037/bayesian-updating-with-new-data):
   * prior mean = ((prior mean * (obs_sigma * p_sec_inv)^2) + ((obs_mean - opponent expected pace) * prior_sigma^2)) / (prior_sigma^2 + (obs_sigma * p_sec_inv)^2)
     * we are choosing to scale obs_sigma by p_sec_inv^2, that can be done in any number of ways
@@ -152,6 +153,13 @@ V6 - return to per_game_fatten of 1.05; obs sigma to 3... How is there no real d
 V7 - V6 but with obs sigma of 30!!! I did this to observe what effect the obs sigma really has. It decreases the adjustment made, makes it more static. But the standard deviations of the pace ratings balloon. I assume in V6, the higher standard deviations across all pace ratings and the higher observed standard deviation essentially cancelled each other out.
 
 <img src="./figures/pace/V7_BHM_player.png" alt="okc_pace" width="1300"/>
+
+V8 - V2 but when a player joins a new team, their sigma is set to the max of 1 or their prior sigma
+
+<img src="./figures/pace/V8_BHM_player.png" alt="okc_pace" width="1300"/>
+
+I'll stick with V2 for now. To actually use PyMC I will need the play-by-play data. Will come back to this.
+
 
 
 
