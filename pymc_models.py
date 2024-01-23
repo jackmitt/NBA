@@ -287,7 +287,8 @@ def player_pace():
     start_sigma = 3
     max_sigma = 6
     per_game_fatten = 1.05
-    obs_sigma = 3
+    obs_sigma = 1
+    p_sec_inv_scale = 5
     #per_season_fatten = 2
     seed = 1
 
@@ -364,7 +365,7 @@ def player_pace():
                 tracker[row['player_id']][date] = [priors[0][player_map[row['player_id']]], priors[1][player_map[row['player_id']]]]
 
                 p_ids.append(player_map[row['player_id']])
-                p_sec_inv.append((total_sec/5) / row['seconds'])
+                p_sec_inv.append(((total_sec/5) / row['seconds']) * p_sec_inv_scale)
                 opp_team_ids.append(a_id)
                 obs.append(row['pace'] * team_pace/avg_player_pace)
 
@@ -377,7 +378,7 @@ def player_pace():
                 tracker[row['player_id']][date] = [priors[0][player_map[row['player_id']]], priors[1][player_map[row['player_id']]]]
 
                 p_ids.append(player_map[row['player_id']])
-                p_sec_inv.append((total_sec/5) / row['seconds'])
+                p_sec_inv.append(((total_sec/5) / row['seconds']) * p_sec_inv_scale)
                 opp_team_ids.append(h_id)
                 obs.append(row['pace'] * team_pace/avg_player_pace)
 
@@ -432,10 +433,10 @@ def player_pace():
     print (games)
     fdf = pd.DataFrame(features)
     print  (fdf)
-    with open('./intermediates/BHM_player_tracker_v6.pkl', 'wb') as f:
+    with open('./intermediates/BHM_player_tracker_v8.pkl', 'wb') as f:
         pickle.dump(tracker, f)
     games = pd.concat([games, fdf], axis=1)
-    games.to_csv("./predictions/pace_BHM_player_v6.csv", index=False)
+    games.to_csv("./predictions/pace_BHM_player_v8.csv", index=False)
 
 if __name__ == '__main__':
     player_pace()

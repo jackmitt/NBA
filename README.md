@@ -43,10 +43,7 @@ Finally, I want to try some Bayesian updating. As in the previous method, each t
 
 ![table](./figures/pace/naive_table_cropped2.png) 
 
-<img src="./figures/pace/season_avg_plot.png" alt="season_avg" width="300"/>
-<img src="./figures/pace/ma10_plot.png" alt="ma10" width="300"/>
-<img src="./figures/pace/arma_0.1_plot.png" alt="arma_0.1" width="300"/>
-<img src="./figures/pace/bayes_0.25_plot.png" alt="arma_0.1" width="300"/>
+<img src="./figures/pace/season_avg_plot.png" alt="season_avg" width="300"/> <img src="./figures/pace/ma10_plot.png" alt="ma10" width="300"/> <img src="./figures/pace/arma_0.1_plot.png" alt="arma_0.1" width="300"/> <img src="./figures/pace/bayes_0.25_plot.png" alt="arma_0.1" width="300"/>
 
 Season_avg performs the worst among the practical alternatives over the inspected time range (seasons 1996-97 thru 2002-2003 - the latent variable training set) which was unexpected. The naive-ARMA method seems to be the best of the naive methods. First, it has the lowest error at the 0.1 weight and the 2nd lowest at the 0.05 weight. Additionally, the other methods seem to not be adaptive enough. We can see from the plots that for games that we estimate to have a lower pace than average, we actually end up overestimating and vice versa for games we predict a higher pace than average. The ARMA updating does not appear to have this issue, which is promising. 
 
@@ -151,6 +148,10 @@ V5 - per_game_fatten of 1.025
 V6 - return to per_game_fatten of 1.05; obs sigma to 3... How is there no real difference from v2??
 
 <img src="./figures/pace/V6_BHM_player.png" alt="okc_pace" width="1300"/>
+
+V7 - V6 but with obs sigma of 30!!! I did this to observe what effect the obs sigma really has. It decreases the adjustment made, makes it more static. But the standard deviations of the pace ratings balloon. I assume in V6, the higher standard deviations across all pace ratings and the higher observed standard deviation essentially cancelled each other out.
+
+<img src="./figures/pace/V7_BHM_player.png" alt="okc_pace" width="1300"/>
 
 
 
