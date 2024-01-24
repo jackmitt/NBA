@@ -7,6 +7,7 @@ from nba_api.stats.endpoints import boxscoremiscv3
 from nba_api.stats.endpoints import boxscorescoringv3
 from nba_api.stats.endpoints import boxscoreusagev3
 from nba_api.stats.endpoints import boxscorefourfactorsv3
+from nba_api.stats.endpoints import playbyplayv3
 import pandas as pd
 import numpy as np
 from tqdm import tqdm
@@ -131,6 +132,137 @@ def boxscore_table(type):
     df.to_csv(db_path+type+"_boxscores_players.csv",index=False)
 
 
+def play_by_play():
+    games = pd.read_csv(db_path + "games.csv")
+    #valid years
+    seasons = [str(yr) + "-" + str(yr+1)[2:4] for yr in range(1996, 2023)]
+    string_s = seasons[0]
+    for season in seasons:
+        string_s += "|" + season
+    game_ids = list(games[games["season"].str.contains(string_s[8:])]["game_id"])
+
+    if (exists(db_path+"play_by_play.csv")):
+        df_old = pd.read_csv(db_path+"play_by_play.csv")
+        stored_games = df_old["game_id"].unique()
+        for game in stored_games:
+            game_ids.remove(game)
+
+    table = []
+    for game in tqdm(game_ids):
+        try:
+            a = playbyplayv3.PlayByPlayV3(game_id="00"+str(game)).get_dict()
+        except (requests.exceptions.ReadTimeout, KeyboardInterrupt):
+            if (len(table) == 0):
+                return (-1)
+            df = pd.DataFrame(table)
+            if (exists(db_path+"play_by_play.csv")):
+                df = pd.concat([df_old,df])
+            df.to_csv(db_path+"play_by_play.csv",index=False)
+
+            return (-1)
+        except:
+            #print ("Error: 00" + str(game))
+            continue
+        for action in a['game']['actions']:
+            temp_t = {'game_id':a['game']['gameId']}
+            for key in action:
+                temp_t[key] = action[key]
+            table.append(temp_t)
+
+
+    
+    df = pd.DataFrame(table)
+    if (exists(db_path+"play_by_play.csv")):
+        df = pd.concat([df_old,df])
+    df.to_csv(db_path+"play_by_play.csv",index=False)
+
+#Uses play by play data to get data about every unique lineup during the game
+def lineups_on_court():
+    pbp = pd.read_csv('C:/Users/jackj/OneDrive/Desktop/play_by_play.csv')
+    box_score = pd.read_csv(db_path+'traditional_boxscores_players.csv')
+    game_ids = list(pbp["game_id"].unique())
+
+    table = []
+
+    for gid in game_ids:
+        game_pbp = pbp.loc[pbp['game_id']==gid,]
+        game_bs = box_score.loc[box_score['game_id']==gid,]
+        sub_events = game_pbp.loc[game_pbp['actionType']=="Substitution", ].copy()
+
+        sub_events['sub_id'] = sub_events.groupby(['clock','period']).ngroup()
+
+        h_team = game_bs['team_id'].unique()[0]
+        a_team = game_bs['team_id'].unique()[1]
+
+        h_pbp = game_pbp.loc[game_pbp['teamId']==h_team,]
+        a_pbp = game_pbp.loc[game_pbp['teamId']==a_team,]
+
+        starter_dict = {'game_id':gid,'h_id':h_team,'a_id':a_team,'start':-1,'end':-1}
+
+        #starters
+        for i in range(1,6):
+            h_lineup = list(game_bs.loc[game_bs['team_id']==h_team,]['player_id'])
+            starter_dict['h_player_'+str(i)] = h_lineup[i-1]
+        for i in range(1,6):
+            a_lineup = list(game_bs.loc[game_bs['team_id']==a_team,]['player_id'])
+            starter_dict['a_player_'+str(i)] = a_lineup[i-1]
+
+        #### What happens when a different player starts the 3rd quarter than started the game... Is it coded as a sub? Will assume starters start 3q until I see a different case
+        # they dont show subs between quarters... so i have to code that
+
+
+        dict = starter_dict.copy()
+        dict['start'] = 0
+
+        half_2 = False
+
+        for sub_id in sub_events['sub_id'].unique():
+            cur_subs = sub_events.loc[sub_events['sub_id']==sub_id,]
+
+            if (not half_2 and cur_subs['period'].unique()[0] > 2):
+                half_2 = True
+                dict['end'] = 1440
+                table.append(dict.copy())
+                dict = starter_dict.copy()
+                dict['start'] = 0
+
+            if (cur_subs['period'].unique()[0] <= 4):
+                sec_elapsed_game = 720*(cur_subs['period'].unique()[0]) - float(cur_subs['clock'].unique()[0].split("PT")[1].split("M")[0]) * 60 - float(cur_subs['clock'].unique()[0].split("M")[1].split("S")[0])
+            else:
+                sec_elapsed_game = 2880 + 300*(cur_subs['period'].unique()[0]) - float(cur_subs['clock'].unique()[0].split("PT")[1].split("M")[0]) * 60 - float(cur_subs['clock'].unique()[0].split("M")[1].split("S")[0])
+            
+            dict['end'] = sec_elapsed_game
+            table.append(dict.copy())
+
+            dict['start'] = sec_elapsed_game
+            dict['end'] = -1
+
+            for index, row in cur_subs.iterrows():
+                #finds what position in the dict the player being subbed out is
+                key = list(dict.keys())[list(dict.values()).index(row['personId'])]
+                replace_name = row['description'].split("SUB: ")[1].split(" FOR")[0]
+                replace_team = row['teamId']
+                if (' ' in replace_name):
+                    if (replace_team == h_team):
+                        replace_id = h_pbp.loc[h_pbp['playerNameI']==replace_name, ]['personId'].unique()[0]
+                    else:
+                        replace_id = a_pbp.loc[a_pbp['playerNameI']==replace_name, ]['personId'].unique()[0]
+                else:
+                    if (replace_team == h_team):
+                        replace_id = h_pbp.loc[h_pbp['playerName']==replace_name, ]['personId'].unique()[0]
+                    else:
+                        replace_id = a_pbp.loc[a_pbp['playerName']==replace_name, ]['personId'].unique()[0]
+                dict[key] = replace_id
+            
+        end_period = list(game_pbp['period'])[-1]
+        dict["end"] = 2880 + (end_period-4)*300
+        table.append(dict.copy)
+
+        print (table)
+        return
+
+            
+
 #Must have scraped nowgoal odds and have nowgoal_odds.csv in intermediates
 def odds_table():
     odds = pd.read_csv("./intermediates/nowgoal_odds.csv")
@@ -163,4 +295,4 @@ def extract_db():
         a = pd.read_csv("./compressed_database/"+file, compression="gzip")
         a.to_csv("./database/"+file.split(".gz")[0],index=False)
 
-compress_db()
+lineups_on_court()
