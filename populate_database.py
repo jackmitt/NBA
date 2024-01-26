@@ -175,18 +175,24 @@ def play_by_play():
     if (exists(db_path+"play_by_play.csv")):
         df = pd.concat([df_old,df])
     df.to_csv(db_path+"play_by_play.csv",index=False)
+    return (1)
 
 #Uses play by play data to get data about every unique lineup during the game
+#need to come up with a way to validate
 def lineups_on_court():
     pbp = pd.read_csv('C:/Users/jackj/OneDrive/Desktop/play_by_play.csv')
     box_score = pd.read_csv(db_path+'traditional_boxscores_players.csv')
     game_ids = list(pbp["game_id"].unique())
 
+    #players_df = pd.read_csv(db_path+'players.csv')
+    #player_map = dict.fromkeys(players_df[''])
+
     table = []
 
-    for gid in game_ids:
-        game_pbp = pbp.loc[pbp['game_id']==gid,]
+    for gid in tqdm(game_ids):
+        game_pbp = pbp.loc[pbp['game_id']==gid,].reset_index(drop=True)
         game_bs = box_score.loc[box_score['game_id']==gid,]
+
         sub_events = game_pbp.loc[game_pbp['actionType']=="Substitution", ].copy()
 
         sub_events['sub_id'] = sub_events.groupby(['clock','period']).ngroup()
@@ -194,72 +200,141 @@ def lineups_on_court():
         h_team = game_bs['team_id'].unique()[0]
         a_team = game_bs['team_id'].unique()[1]
 
+        h_team_players = []
+        for index, row in game_bs.loc[game_bs['team_id'] == h_team].iterrows():
+            if (not pd.isnull(row['minutes'])):
+                h_team_players.append(row['player_id']) 
+        a_team_players = []
+        for index, row in game_bs.loc[game_bs['team_id'] == a_team].iterrows():
+            if (not pd.isnull(row['minutes'])):
+                a_team_players.append(row['player_id'])
+
         h_pbp = game_pbp.loc[game_pbp['teamId']==h_team,]
         a_pbp = game_pbp.loc[game_pbp['teamId']==a_team,]
 
-        starter_dict = {'game_id':gid,'h_id':h_team,'a_id':a_team,'start':-1,'end':-1}
+        dict = {'game_id':gid,'h_id':h_team,'a_id':a_team,'start':0,'end':-1}
 
         #starters
         for i in range(1,6):
             h_lineup = list(game_bs.loc[game_bs['team_id']==h_team,]['player_id'])
-            starter_dict['h_player_'+str(i)] = h_lineup[i-1]
+            dict['h_player_'+str(i)] = h_lineup[i-1]
         for i in range(1,6):
             a_lineup = list(game_bs.loc[game_bs['team_id']==a_team,]['player_id'])
-            starter_dict['a_player_'+str(i)] = a_lineup[i-1]
+            dict['a_player_'+str(i)] = a_lineup[i-1]
+    
 
-        #### What happens when a different player starts the 3rd quarter than started the game... Is it coded as a sub? Will assume starters start 3q until I see a different case
-        # they dont show subs between quarters... so i have to code that
+        new_lineup = False
 
+        for index in range(len(game_pbp.index)):
+            if (game_pbp.at[index, 'actionType'] == 'period' and game_pbp.at[index, 'subType'] == 'start' and game_pbp.at[index, 'period'] != 1):
+                dict['end'] = (game_pbp.at[index, 'period']-1) * 720
+                table.append(dict)
+                dict = {'game_id':gid,'h_id':h_team,'a_id':a_team,'start':(game_pbp.at[index, 'period']-1) * 720,'end':-1}
+                h_players_found = []
+                a_players_found = []
+                #new_lineup is true when 2,3,4,OTs periods begin and we do not know who started the quarter on the court; switched to False when we know
+                new_lineup = True
+            #bench players can get technical fouls
+            if (new_lineup and not (game_pbp.at[index, 'actionType'] == 'Foul' and game_pbp.at[index, 'subType'] == 'Technical')):
+                if (game_pbp.at[index,'teamId'] == h_team and game_pbp.at[index,'personId'] not in h_players_found):
+                    h_players_found.append(game_pbp.at[index,'personId'])
+                    dict['h_player_'+str(len(h_players_found))] = game_pbp.at[index,'personId']
+                if (game_pbp.at[index,'teamId'] == a_team and game_pbp.at[index,'personId'] not in a_players_found):
+                    a_players_found.append(game_pbp.at[index,'personId'])
+                    dict['a_player_'+str(len(a_players_found))] = game_pbp.at[index,'personId']
+                if (len(a_players_found) == 5 and len(h_players_found) == 5):
+                    new_lineup = False
 
-        dict = starter_dict.copy()
-        dict['start'] = 0
+            if (game_pbp.at[index, 'actionType'] == 'Substitution'):
+                if (game_pbp.at[index,'period'] <= 4):
+                    sec_elapsed_game = 720*(game_pbp.at[index,'period']) - float(game_pbp.at[index,'clock'].split("PT")[1].split("M")[0]) * 60 - float(game_pbp.at[index,'clock'].split("M")[1].split("S")[0])
+                else:
+                    sec_elapsed_game = 2880 + 300*(game_pbp.at[index,'period']) - float(game_pbp.at[index,'clock'].split("PT")[1].split("M")[0]) * 60 - float(game_pbp.at[index,'clock'].split("M")[1].split("S")[0])
 
-        half_2 = False
+                #This handles when we reach the first substitution of the quarter and we still do not know who started the quarter
+                #We iterate through every remaining play for the rest of the period to find the starters - we can never find them if they play all quarter without any contribution
+                if (new_lineup):
+                    h_subbed_on = []
+                    a_subbed_on = []
+                    end_period_index = list(np.where(game_pbp['subType'] == 'end'))[0][game_pbp.at[index,'period']-1]
+                    for j in range(index, end_period_index):
+                        if (not (game_pbp.at[j, 'actionType'] == 'Foul' and game_pbp.at[j, 'subType'] == 'Technical')):
+                            if (game_pbp.at[j,'teamId'] == h_team and game_pbp.at[j,'personId'] not in h_players_found and game_pbp.at[j,'personId'] not in h_subbed_on):
+                                h_players_found.append(game_pbp.at[j,'personId'])
+                                dict['h_player_'+str(len(h_players_found))] = game_pbp.at[j,'personId']
+                            if (game_pbp.at[j,'teamId'] == a_team and game_pbp.at[j,'personId'] not in a_players_found and game_pbp.at[j,'personId'] not in a_subbed_on):
+                                a_players_found.append(game_pbp.at[j,'personId'])
+                                dict['a_player_'+str(len(a_players_found))] = game_pbp.at[j,'personId']
+                            if (len(a_players_found) == 5 and len(h_players_found) == 5):
+                                new_lineup = False
+                                break
+                        
+                        if (game_pbp.at[j, 'actionType'] == 'Substitution'):
+                            replace_name = game_pbp.at[j,'description'].split("SUB: ")[1].split(" FOR")[0]
+                            replace_team = game_pbp.at[j,'teamId']
+                            if (' ' in replace_name):
+                                if (replace_team == h_team):
+                                    replace_id = h_pbp.loc[h_pbp['playerNameI']==replace_name, ]['personId'].unique()[0]
+                                    if (len(h_pbp.loc[h_pbp['playerNameI']==replace_name, ]['personId'].unique()) > 1):
+                                        print ("ERROR: Duplicate Names")
+                                else:
+                                    replace_id = a_pbp.loc[a_pbp['playerNameI']==replace_name, ]['personId'].unique()[0]
+                                    if (len(a_pbp.loc[a_pbp['playerNameI']==replace_name, ]['personId'].unique()) > 1):
+                                        print ("ERROR: Duplicate Names")
+                            else:
+                                if (replace_team == h_team):
+                                    replace_id = h_pbp.loc[h_pbp['playerName']==replace_name, ]['personId'].unique()[0]
+                                    if (len(h_pbp.loc[h_pbp['playerName']==replace_name, ]['personId'].unique()) > 1):
+                                        print ("ERROR: Duplicate Names")
+                                else:
+                                    replace_id = a_pbp.loc[a_pbp['playerName']==replace_name, ]['personId'].unique()[0]
+                                    if (len(a_pbp.loc[a_pbp['playerName']==replace_name, ]['personId'].unique()) > 1):
+                                        print ("ERROR: Duplicate Names")
+                            if (replace_team == h_team):
+                                h_subbed_on.append(replace_id)
+                            else:
+                                a_subbed_on.append(replace_id)
+                
+                #when multiple subs happen consecutively
+                if (not (game_pbp.at[index-1, 'actionType'] == 'Substitution' and game_pbp.at[index-1, 'clock'] == game_pbp.at[index, 'clock'])):
+                    dict['end'] = sec_elapsed_game
+                    table.append(dict.copy())
 
-        for sub_id in sub_events['sub_id'].unique():
-            cur_subs = sub_events.loc[sub_events['sub_id']==sub_id,]
+                    dict['start'] = sec_elapsed_game
+                    dict['end'] = -1
 
-            if (not half_2 and cur_subs['period'].unique()[0] > 2):
-                half_2 = True
-                dict['end'] = 1440
-                table.append(dict.copy())
-                dict = starter_dict.copy()
-                dict['start'] = 0
-
-            if (cur_subs['period'].unique()[0] <= 4):
-                sec_elapsed_game = 720*(cur_subs['period'].unique()[0]) - float(cur_subs['clock'].unique()[0].split("PT")[1].split("M")[0]) * 60 - float(cur_subs['clock'].unique()[0].split("M")[1].split("S")[0])
-            else:
-                sec_elapsed_game = 2880 + 300*(cur_subs['period'].unique()[0]) - float(cur_subs['clock'].unique()[0].split("PT")[1].split("M")[0]) * 60 - float(cur_subs['clock'].unique()[0].split("M")[1].split("S")[0])
-            
-            dict['end'] = sec_elapsed_game
-            table.append(dict.copy())
-
-            dict['start'] = sec_elapsed_game
-            dict['end'] = -1
-
-            for index, row in cur_subs.iterrows():
                 #finds what position in the dict the player being subbed out is
-                key = list(dict.keys())[list(dict.values()).index(row['personId'])]
-                replace_name = row['description'].split("SUB: ")[1].split(" FOR")[0]
-                replace_team = row['teamId']
-                if (' ' in replace_name):
+                key = list(dict.keys())[list(dict.values()).index(game_pbp.at[index,'personId'])]
+                replace_name = game_pbp.at[index,'description'].split("SUB: ")[1].split(" FOR")[0]
+                replace_team = game_pbp.at[index,'teamId']
+                if ('.' in replace_name):
                     if (replace_team == h_team):
                         replace_id = h_pbp.loc[h_pbp['playerNameI']==replace_name, ]['personId'].unique()[0]
+                        if (len(h_pbp.loc[h_pbp['playerNameI']==replace_name, ]['personId'].unique()) > 1):
+                            print ("ERROR: Duplicate Names")
                     else:
                         replace_id = a_pbp.loc[a_pbp['playerNameI']==replace_name, ]['personId'].unique()[0]
+                        if (len(a_pbp.loc[a_pbp['playerNameI']==replace_name, ]['personId'].unique()) > 1):
+                            print ("ERROR: Duplicate Names")
                 else:
                     if (replace_team == h_team):
+                        print (gid, replace_name)
                         replace_id = h_pbp.loc[h_pbp['playerName']==replace_name, ]['personId'].unique()[0]
+                        if (len(h_pbp.loc[h_pbp['playerName']==replace_name, ]['personId'].unique()) > 1):
+                            print ("ERROR: Duplicate Names")
                     else:
                         replace_id = a_pbp.loc[a_pbp['playerName']==replace_name, ]['personId'].unique()[0]
+                        if (len(a_pbp.loc[a_pbp['playerName']==replace_name, ]['personId'].unique()) > 1):
+                            print ("ERROR: Duplicate Names")
                 dict[key] = replace_id
             
         end_period = list(game_pbp['period'])[-1]
         dict["end"] = 2880 + (end_period-4)*300
-        table.append(dict.copy)
+        table.append(dict.copy())
 
-        print (table)
-        return
+    df = pd.DataFrame(table)
+    df.to_csv(db_path+'unique_lineups.csv',index=False)
+
 
             
 
@@ -295,4 +370,4 @@ def extract_db():
         a = pd.read_csv("./compressed_database/"+file, compression="gzip")
         a.to_csv("./database/"+file.split(".gz")[0],index=False)
 
-lineups_on_court()
+compress_db()
