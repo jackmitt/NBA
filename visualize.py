@@ -332,5 +332,111 @@ def BHM_player_tracker():
     plt.title("V9 Player Bayesian Hierarchical Model 1996-97 thru 2002-03")
     plt.show()
 
+def naive_eff_team():
+    df = pd.read_csv("./predictions/eff.csv").dropna()
 
-BHM_player_tracker()
+    seasons = ""
+    for yr in range(1998, 2003):
+        seasons += str(yr) + "-" + str(yr+1)[2:4]+"|"
+    df = df[df["season"].str.contains(seasons[:-1])]
+
+    methods = ["season_avg","ma_5","ma_10","ma_30","arma_0.5","arma_0.25","arma_0.1","arma_0.05","arma_0.01"
+               ,"bayes_0.5","bayes_0.25","bayes_0.1","bayes_0.05","bayes_0.01"]
+    t_data = []
+
+    for m in methods:
+        df[m+"_AE"] = (abs(df[m+'_h'] - df["actual_h"]) + abs(df[m+'_a'] - df["actual_a"])) / 2
+        df[m+"_SE"] = ((df[m+'_h'] - df["actual_h"])**2 + (df[m+'_a'] - df["actual_a"])**2) / 2
+
+        t_data.append([df[m+"_AE"].mean(),df[m+"_SE"].mean()])
+        
+    
+    t_df = pd.DataFrame(
+        index = ["Mean Absolute Error", "Mean Squared Error"],
+        columns = methods,
+        data = np.array(t_data).T
+    ).round(2)
+
+    fig = go.Figure(go.Table(header={"values":t_df.reset_index().columns, "font":{"size":5}, "align":"left"},
+                  cells={"values":t_df.reset_index().T, "align":"left", "font":{"size":7}}))
+    
+    fig.write_image("./figures/eff/naive_table.png")
+
+    # fig, ax = plt.subplots()
+    # ax.scatter(df["season_avg"],df["actual"], s = 0.1)
+    # ax.axline((90, 90), slope=1, c="k")
+    # ax.title.set_text("Season-Averaged Efficiency Predictions vs Actual")
+    # ax.set_xlabel("Predicted Eff")
+    # ax.set_ylabel("Actual Eff")
+    # fig.savefig("./figures/eff/season_avg_plot.png")
+
+    # df["season_avg_residual"] = df["actual"] - df["season_avg"]
+    # fig, ax = plt.subplots()
+    # ax.scatter(df["season_avg"],df["season_avg_residual"], s = 0.1)
+    # ax.axline((90, 0), slope=0, c="k")
+    # r, p = stats.pearsonr(df["season_avg"], df["season_avg_residual"])
+    # plt.annotate('r = {:.2f}'.format(r), xy=(0.8, 0.95), xycoords='axes fraction')
+    # ax.title.set_text("Season-Averaged Efficiency Residual Plot")
+    # ax.set_xlabel("Predicted Eff")
+    # ax.set_ylabel("Residual Eff")
+    # fig.savefig("./figures/eff/season_avg_resid_plot.png")
+
+    # fig, ax = plt.subplots()
+    # ax.scatter(df["ma_10"],df["actual"], s = 0.1)
+    # ax.axline((90, 90), slope=1, c="k")
+    # ax.title.set_text("10-Game Moving Average Efficiency Predictions vs Actual")
+    # ax.set_xlabel("Predicted Eff")
+    # ax.set_ylabel("Actual Eff")
+    # fig.savefig("./figures/eff/ma10_plot.png")
+
+    # df["ma10_residual"] = df["actual"] - df["ma_10"]
+    # fig, ax = plt.subplots()
+    # ax.scatter(df["ma_10"],df["ma10_residual"], s = 0.1)
+    # ax.axline((90, 0), slope=0, c="k")
+    # r, p = stats.pearsonr(df["ma_10"], df["ma10_residual"])
+    # plt.annotate('r = {:.2f}'.format(r), xy=(0.8, 0.95), xycoords='axes fraction')
+    # ax.title.set_text("10-Game Moving Average Efficiency Residual Plot")
+    # ax.set_xlabel("Predicted Eff")
+    # ax.set_ylabel("Residual Eff")
+    # fig.savefig("./figures/eff/ma10_resid_plot.png")
+
+    # fig, ax = plt.subplots()
+    # ax.scatter(df["arma_0.1"],df["actual"], s = 0.1)
+    # ax.axline((90, 90), slope=1, c="k")
+    # ax.title.set_text("ARMA Weight-0.1 Efficiency Predictions vs Actual")
+    # ax.set_xlabel("Predicted Eff")
+    # ax.set_ylabel("Actual Eff")
+    # fig.savefig("./figures/eff/arma_0.1_plot.png")
+
+    # df["arma_0.1_residual"] = df["actual"] - df["arma_0.1"]
+    # fig, ax = plt.subplots()
+    # ax.scatter(df["arma_0.1"],df["arma_0.1_residual"], s = 0.1)
+    # ax.axline((90, 0), slope=0, c="k")
+    # r, p = stats.pearsonr(df["arma_0.1"], df["arma_0.1_residual"])
+    # plt.annotate('r = {:.2f}'.format(r), xy=(0.8, 0.95), xycoords='axes fraction')
+    # ax.title.set_text("ARMA Weight-0.1 Efficiency Residual Plot")
+    # ax.set_xlabel("Predicted Eff")
+    # ax.set_ylabel("Residual Eff")
+    # fig.savefig("./figures/eff/arma_0.1_resid_plot.png")
+
+    # fig, ax = plt.subplots()
+    # ax.scatter(df["bayes_0.25"],df["actual"], s = 0.1)
+    # ax.axline((90, 90), slope=1, c="k")
+    # ax.title.set_text("Bayes Weight-0.25 Efficiency Predictions vs Actual")
+    # ax.set_xlabel("Predicted Eff")
+    # ax.set_ylabel("Actual Eff")
+    # fig.savefig("./figures/eff/bayes_0.25_plot.png")
+
+    # df["bayes_0.25_residual"] = df["actual"] - df["bayes_0.25"]
+    # fig, ax = plt.subplots()
+    # ax.scatter(df["bayes_0.25"],df["bayes_0.25_residual"], s = 0.1)
+    # ax.axline((90, 0), slope=0, c="k")
+    # r, p = stats.pearsonr(df["bayes_0.25"], df["bayes_0.25_residual"])
+    # plt.annotate('r = {:.2f}'.format(r), xy=(0.8, 0.95), xycoords='axes fraction')
+    # ax.title.set_text("ARMA Weight-0.1 Efficiency Residual Plot")
+    # ax.set_xlabel("Predicted Eff")
+    # ax.set_ylabel("Residual Eff")
+    # fig.savefig("./figures/eff/bayes_0.25_resid_plot.png")
+
+
+naive_eff_team()
