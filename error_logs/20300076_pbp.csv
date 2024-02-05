@@ -1,0 +1,452 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+20300076,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (10:43 PM EST),period,start,0,1
+20300076,1,PT12M00.00S,1,1610612760,SEA,1916,Booth,C. Booth,0,0,0,,0,0.0,0.0,0,h,Jump Ball Booth vs. Wallace: Tip to Radmanovic,Jump Ball,,0,2
+20300076,2,PT11M51.00S,1,1610612760,SEA,1740,Lewis,R. Lewis,-141,15,14,Missed,1,0.0,0.0,0,h,MISS Lewis 14' Jump Shot,Missed Shot,Jump Shot,0,3
+20300076,3,PT11M49.00S,1,1610612760,SEA,2436,Murray,R. Murray,0,0,0,,0,0.0,0.0,0,h,Murray REBOUND (Off:1 Def:0),Rebound,Unknown,0,4
+20300076,4,PT11M47.00S,1,1610612760,SEA,2436,Murray,R. Murray,0,0,0,Made,1,2.0,0.0,2,h,Murray  Layup (2 PTS),Made Shot,Layup Shot,0,5
+20300076,5,PT11M37.00S,1,1610612757,POR,1719,Wells,B. Wells,-34,12,4,Missed,1,0.0,0.0,0,v,MISS Wells 4' Jump Shot,Missed Shot,Jump Shot,0,6
+20300076,6,PT11M35.00S,1,1610612757,POR,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,v,Wells REBOUND (Off:1 Def:0),Rebound,Unknown,0,7
+20300076,7,PT11M35.00S,1,1610612760,SEA,1916,Booth,C. Booth,0,0,0,,0,0.0,0.0,0,h,Booth S.FOUL (P1.T1),Foul,Shooting,0,8
+20300076,8,PT11M35.00S,1,1610612757,POR,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,v,MISS Wells Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,9
+20300076,9,PT11M35.00S,1,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,v,Trail Blazers Rebound,Rebound,Normal Rebound,0,10
+20300076,10,PT11M35.00S,1,1610612757,POR,1719,Wells,B. Wells,0,0,0,,0,2.0,1.0,3,v,Wells Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,11
+20300076,11,PT11M20.00S,1,1610612760,SEA,2436,Murray,R. Murray,0,0,0,Missed,1,0.0,0.0,0,h,MISS Murray  Layup,Missed Shot,Layup Shot,0,12
+20300076,12,PT11M18.00S,1,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace REBOUND (Off:0 Def:1),Rebound,Unknown,0,13
+20300076,13,PT11M02.00S,1,1610612757,POR,905,Davis,D. Davis,-131,48,14,Made,1,2.0,3.0,5,v,Davis 14' Jump Shot (2 PTS) (Wells 1 AST),Made Shot,Jump Shot,0,14
+20300076,14,PT10M46.00S,1,1610612760,SEA,1740,Lewis,R. Lewis,0,0,0,,0,0.0,0.0,0,h,Lewis Traveling Turnover (P1.T1),Turnover,Traveling,0,15
+20300076,15,PT10M24.00S,1,1610612757,POR,2216,Randolph,Z. Randolph,189,0,19,Made,1,2.0,5.0,7,v,Randolph 19' Jump Shot (2 PTS),Made Shot,Jump Shot,0,16
+20300076,16,PT10M16.00S,1,1610612760,SEA,699,Barry,B. Barry,0,0,0,,0,0.0,0.0,0,h,Barry Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,17
+20300076,16,PT10M16.00S,1,1610612757,POR,905,Davis,D. Davis,0,0,0,,0,0.0,0.0,0,v,Davis STEAL (1 STL),,,0,18
+20300076,17,PT09M59.00S,1,1610612757,POR,1719,Wells,B. Wells,181,-1,18,Missed,1,0.0,0.0,0,v,MISS Wells 18' Jump Shot,Missed Shot,Jump Shot,0,19
+20300076,18,PT09M56.00S,1,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace REBOUND (Off:1 Def:1),Rebound,Unknown,0,20
+20300076,19,PT09M51.00S,1,1610612757,POR,739,Wallace,R. Wallace,0,0,0,Made,1,2.0,7.0,9,v,Wallace  Layup (2 PTS),Made Shot,Layup Shot,0,21
+20300076,20,PT09M40.00S,1,1610612757,POR,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,v,Wells P.FOUL (P1.T1),Foul,Personal,0,22
+20300076,21,PT09M34.00S,1,1610612760,SEA,2209,Radmanovic,V. Radmanovic,130,148,20,Missed,1,0.0,0.0,0,h,MISS Radmanovic 20' Jump Shot,Missed Shot,Jump Shot,0,23
+20300076,22,PT09M33.00S,1,1610612757,POR,757,Stoudamire,D. Stoudamire,0,0,0,,0,0.0,0.0,0,v,Stoudamire REBOUND (Off:0 Def:1),Rebound,Unknown,0,24
+20300076,23,PT09M27.00S,1,1610612757,POR,2216,Randolph,Z. Randolph,-69,-1,7,Missed,1,0.0,0.0,0,v,MISS Randolph 7' Jump Shot,Missed Shot,Jump Shot,0,25
+20300076,24,PT09M26.00S,1,1610612760,SEA,1916,Booth,C. Booth,0,0,0,,0,0.0,0.0,0,h,Booth REBOUND (Off:0 Def:1),Rebound,Unknown,0,26
+20300076,25,PT09M16.00S,1,1610612760,SEA,1916,Booth,C. Booth,11,199,20,Missed,1,0.0,0.0,0,h,MISS Booth 20' Jump Shot,Missed Shot,Jump Shot,0,27
+20300076,26,PT09M14.00S,1,1610612757,POR,905,Davis,D. Davis,0,0,0,,0,0.0,0.0,0,v,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,28
+20300076,27,PT08M55.00S,1,1610612757,POR,2216,Randolph,Z. Randolph,123,158,20,Missed,1,0.0,0.0,0,v,MISS Randolph 20' Jump Shot,Missed Shot,Jump Shot,0,29
+20300076,28,PT08M53.00S,1,1610612760,SEA,2209,Radmanovic,V. Radmanovic,0,0,0,,0,0.0,0.0,0,h,Radmanovic REBOUND (Off:0 Def:1),Rebound,Unknown,0,30
+20300076,29,PT08M45.00S,1,1610612760,SEA,699,Barry,B. Barry,174,189,26,Made,1,5.0,7.0,12,h,Barry 26' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,0,31
+20300076,30,PT08M17.00S,1,1610612757,POR,2216,Randolph,Z. Randolph,-8,191,19,Missed,1,0.0,0.0,0,v,MISS Randolph 19' Jump Shot,Missed Shot,Jump Shot,0,32
+20300076,31,PT08M15.00S,1,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,Randolph REBOUND (Off:1 Def:0),Rebound,Unknown,0,33
+20300076,32,PT08M13.00S,1,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,Made,1,5.0,9.0,14,v,Randolph  Turnaround Hook Shot (4 PTS),Made Shot,Turnaround Hook Shot,0,34
+20300076,33,PT07M58.00S,1,1610612760,SEA,1740,Lewis,R. Lewis,15,10,2,Missed,1,0.0,0.0,0,h,MISS Lewis 2' Dunk,Missed Shot,Dunk Shot,0,35
+20300076,34,PT07M57.00S,1,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Rebound,Rebound,Unknown,0,36
+20300076,35,PT07M52.00S,1,1610612760,SEA,1916,Booth,C. Booth,0,0,0,Made,1,7.0,9.0,16,h,Booth  Slam Dunk (2 PTS) (Murray 1 AST),Made Shot,Slam Dunk Shot,0,37
+20300076,36,PT07M30.00S,1,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace 3 Second Violation Turnover (P1.T1),Turnover,3 Second Violation,0,38
+20300076,37,PT07M15.00S,1,1610612760,SEA,1740,Lewis,R. Lewis,0,0,0,,0,0.0,0.0,0,h,Lewis Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,39
+20300076,38,PT06M55.00S,1,1610612757,POR,739,Wallace,R. Wallace,-235,99,26,Missed,1,0.0,0.0,0,v,MISS Wallace 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,40
+20300076,39,PT06M52.00S,1,1610612757,POR,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,v,Wells REBOUND (Off:2 Def:0),Rebound,Unknown,0,41
+20300076,40,PT06M49.00S,1,1610612757,POR,905,Davis,D. Davis,115,56,13,Made,1,7.0,11.0,18,v,Davis 13' Jump Shot (4 PTS) (Stoudamire 1 AST),Made Shot,Jump Shot,0,42
+20300076,41,PT06M32.00S,1,1610612760,SEA,2209,Radmanovic,V. Radmanovic,23,0,2,Made,1,9.0,11.0,20,h,Radmanovic 2' Layup (2 PTS),Made Shot,Layup Shot,0,43
+20300076,42,PT06M32.00S,1,1610612757,POR,905,Davis,D. Davis,0,0,0,,0,0.0,0.0,0,v,Davis S.FOUL (P1.T2),Foul,Shooting,0,44
+20300076,43,PT06M32.00S,1,1610612760,SEA,2209,Radmanovic,V. Radmanovic,0,0,0,,0,0.0,0.0,0,h,MISS Radmanovic Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,45
+20300076,44,PT06M30.00S,1,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace REBOUND (Off:1 Def:2),Rebound,Unknown,0,46
+20300076,45,PT06M20.00S,1,1610612760,SEA,1740,Lewis,R. Lewis,0,0,0,,0,0.0,0.0,0,h,Lewis P.FOUL (P1.T2),Foul,Personal,0,47
+20300076,46,PT06M10.00S,1,1610612757,POR,757,Stoudamire,D. Stoudamire,-117,-3,12,Missed,1,0.0,0.0,0,v,MISS Stoudamire 12' Jump Shot,Missed Shot,Jump Shot,0,48
+20300076,47,PT06M09.00S,1,1610612760,SEA,2209,Radmanovic,V. Radmanovic,0,0,0,,0,0.0,0.0,0,h,Radmanovic REBOUND (Off:0 Def:2),Rebound,Unknown,0,49
+20300076,48,PT06M00.00S,1,1610612760,SEA,2209,Radmanovic,V. Radmanovic,24,260,26,Made,1,12.0,11.0,23,h,Radmanovic 26' 3PT Jump Shot (5 PTS) (Booth 1 AST),Made Shot,Jump Shot,0,50
+20300076,49,PT05M34.00S,1,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,Randolph Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,51
+20300076,49,PT05M34.00S,1,1610612760,SEA,699,Barry,B. Barry,0,0,0,,0,0.0,0.0,0,h,Barry STEAL (1 STL),,,0,52
+20300076,50,PT05M23.00S,1,1610612760,SEA,2209,Radmanovic,V. Radmanovic,-120,-8,12,Missed,1,0.0,0.0,0,h,MISS Radmanovic 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,53
+20300076,51,PT05M20.00S,1,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace REBOUND (Off:1 Def:3),Rebound,Unknown,0,54
+20300076,52,PT05M07.00S,1,1610612757,POR,739,Wallace,R. Wallace,-145,222,27,Made,1,12.0,14.0,26,v,Wallace 27' 3PT Jump Shot (5 PTS) (Davis 1 AST),Made Shot,Jump Shot,0,55
+20300076,53,PT04M51.00S,1,1610612760,SEA,699,Barry,B. Barry,-169,194,26,Missed,1,0.0,0.0,0,h,MISS Barry 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,56
+20300076,54,PT04M50.00S,1,1610612760,SEA,1916,Booth,C. Booth,0,0,0,,0,0.0,0.0,0,h,Booth REBOUND (Off:1 Def:1),Rebound,Unknown,0,57
+20300076,55,PT04M46.00S,1,1610612760,SEA,699,Barry,B. Barry,0,0,0,Made,1,14.0,14.0,28,h,Barry  Layup (5 PTS) (Booth 2 AST),Made Shot,Layup Shot,0,58
+20300076,56,PT04M25.00S,1,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,Made,1,14.0,16.0,30,v,Randolph  Slam Dunk (6 PTS),Made Shot,Slam Dunk Shot,0,59
+20300076,57,PT04M12.00S,1,1610612760,SEA,1740,Lewis,R. Lewis,-177,-11,18,Missed,1,0.0,0.0,0,h,MISS Lewis 18' Jump Shot,Missed Shot,Jump Shot,0,60
+20300076,58,PT04M10.00S,1,1610612757,POR,905,Davis,D. Davis,0,0,0,,0,0.0,0.0,0,v,Davis REBOUND (Off:0 Def:2),Rebound,Unknown,0,61
+20300076,59,PT04M06.00S,1,1610612757,POR,739,Wallace,R. Wallace,0,0,0,Made,1,14.0,18.0,32,v,Wallace  Alley Oop Dunk (7 PTS) (Stoudamire 2 AST),Made Shot,Alley Oop Dunk Shot,0,62
+20300076,60,PT04M00.00S,1,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,63
+20300076,62,PT04M00.00S,1,1610612760,SEA,1916,Booth,C. Booth,0,0,0,,0,0.0,0.0,0,h,SUB: Evans FOR Booth,Substitution,,0,64
+20300076,63,PT04M00.00S,1,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,SUB: Woods FOR Randolph,Substitution,,0,65
+20300076,64,PT03M58.00S,1,1610612760,SEA,1740,Lewis,R. Lewis,-105,28,11,Made,1,16.0,18.0,34,h,Lewis 11' Jump Shot (2 PTS) (Barry 1 AST),Made Shot,Jump Shot,0,66
+20300076,65,PT03M39.00S,1,1610612757,POR,1719,Wells,B. Wells,29,-3,3,Missed,1,0.0,0.0,0,v,MISS Wells 3' Layup,Missed Shot,Layup Shot,0,67
+20300076,66,PT03M35.00S,1,1610612760,SEA,2209,Radmanovic,V. Radmanovic,0,0,0,,0,0.0,0.0,0,h,Radmanovic REBOUND (Off:0 Def:3),Rebound,Unknown,0,68
+20300076,67,PT03M31.00S,1,1610612760,SEA,1740,Lewis,R. Lewis,0,0,0,Made,1,18.0,18.0,36,h,Lewis  Layup (4 PTS),Made Shot,Layup Shot,0,69
+20300076,68,PT03M12.00S,1,1610612760,SEA,2436,Murray,R. Murray,0,0,0,,0,0.0,0.0,0,h,SUB: Ridnour FOR Murray,Substitution,,0,70
+20300076,69,PT03M12.00S,1,1610612757,POR,757,Stoudamire,D. Stoudamire,0,0,0,,0,0.0,0.0,0,v,SUB: McInnis FOR Stoudamire,Substitution,,0,71
+20300076,70,PT03M03.00S,1,1610612757,POR,1719,Wells,B. Wells,-136,18,14,Missed,1,0.0,0.0,0,v,MISS Wells 14' Jump Shot,Missed Shot,Jump Shot,0,72
+20300076,71,PT03M02.00S,1,1610612760,SEA,2557,Ridnour,L. Ridnour,0,0,0,,0,0.0,0.0,0,h,Ridnour REBOUND (Off:0 Def:1),Rebound,Unknown,0,73
+20300076,72,PT02M54.00S,1,1610612760,SEA,2209,Radmanovic,V. Radmanovic,230,30,0,Missed,1,0.0,0.0,0,h,MISS Radmanovic  3PT Jump Shot,Missed Shot,Jump Shot,0,74
+20300076,73,PT02M52.00S,1,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,75
+20300076,74,PT02M52.00S,1,1610612760,SEA,2501,Evans,R. Evans,0,0,0,,0,0.0,0.0,0,h,Evans L.B.FOUL (P1.T3),Foul,Loose Ball,0,76
+20300076,75,PT02M52.00S,1,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,v,Trail Blazers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,77
+20300076,77,PT02M52.00S,1,1610612757,POR,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,v,SUB: Stoudamire FOR Wells,Substitution,,0,78
+20300076,78,PT02M39.00S,1,1610612757,POR,739,Wallace,R. Wallace,34,-3,3,Missed,1,0.0,0.0,0,v,MISS Wallace 3' Jump Shot,Missed Shot,Jump Shot,0,79
+20300076,79,PT02M38.00S,1,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Rebound,Rebound,Unknown,0,80
+20300076,80,PT02M18.00S,1,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace P.FOUL (P1.T3),Foul,Personal,0,81
+20300076,81,PT02M18.00S,1,1610612760,SEA,2501,Evans,R. Evans,0,0,0,,0,19.0,18.0,37,h,Evans Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,82
+20300076,84,PT02M18.00S,1,1610612757,POR,905,Davis,D. Davis,0,0,0,,0,0.0,0.0,0,v,Davis Violation:Lane,Violation,Lane,0,83
+20300076,85,PT02M18.00S,1,1610612760,SEA,2501,Evans,R. Evans,0,0,0,,0,0.0,0.0,0,h,MISS Evans Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,84
+20300076,86,PT02M16.00S,1,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace REBOUND (Off:1 Def:4),Rebound,Unknown,0,85
+20300076,88,PT02M04.00S,1,1610612757,POR,739,Wallace,R. Wallace,0,0,0,Made,1,19.0,20.0,39,v,Wallace  Layup (9 PTS),Made Shot,Layup Shot,0,86
+20300076,90,PT01M53.00S,1,1610612760,SEA,2557,Ridnour,L. Ridnour,0,0,0,,0,0.0,0.0,0,h,Ridnour Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,87
+20300076,90,PT01M53.00S,1,1610612757,POR,2417,Woods,Q. Woods,0,0,0,,0,0.0,0.0,0,v,Woods STEAL (1 STL),,,0,88
+20300076,91,PT01M45.00S,1,1610612757,POR,2417,Woods,Q. Woods,0,0,0,Made,1,19.0,22.0,41,v,Woods  Slam Dunk (2 PTS),Made Shot,Slam Dunk Shot,0,89
+20300076,92,PT01M38.00S,1,1610612760,SEA,1740,Lewis,R. Lewis,-176,10,18,Missed,1,0.0,0.0,0,h,MISS Lewis 18' Jump Shot,Missed Shot,Jump Shot,0,90
+20300076,93,PT01M36.00S,1,1610612760,SEA,2501,Evans,R. Evans,0,0,0,,0,0.0,0.0,0,h,Evans REBOUND (Off:1 Def:0),Rebound,Unknown,0,91
+20300076,94,PT01M18.00S,1,1610612760,SEA,2209,Radmanovic,V. Radmanovic,118,118,17,Missed,1,0.0,0.0,0,h,MISS Radmanovic 17' Jump Shot,Missed Shot,Jump Shot,0,92
+20300076,95,PT01M17.00S,1,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Rebound,Rebound,Unknown,0,93
+20300076,96,PT01M17.00S,1,1610612760,SEA,2501,Evans,R. Evans,0,0,0,,0,0.0,0.0,0,h,Evans Out of Bounds Lost Ball Turnover (P1.T5),Turnover,Out of Bounds Lost Ball Turnover,0,94
+20300076,97,PT00M55.90S,1,1610612757,POR,976,McInnis,J. McInnis,133,155,20,Missed,1,0.0,0.0,0,v,MISS McInnis 20' Jump Shot,Missed Shot,Jump Shot,0,95
+20300076,98,PT00M53.90S,1,1610612760,SEA,2209,Radmanovic,V. Radmanovic,0,0,0,,0,0.0,0.0,0,h,Radmanovic REBOUND (Off:0 Def:4),Rebound,Unknown,0,96
+20300076,99,PT00M45.90S,1,1610612760,SEA,2557,Ridnour,L. Ridnour,-202,15,20,Made,1,21.0,22.0,43,h,Ridnour 20' Jump Shot (2 PTS) (Evans 1 AST),Made Shot,Jump Shot,0,97
+20300076,100,PT00M31.40S,1,1610612757,POR,905,Davis,D. Davis,0,0,0,Made,1,21.0,24.0,45,v,Davis  Slam Dunk (6 PTS) (Wallace 1 AST),Made Shot,Slam Dunk Shot,0,98
+20300076,101,PT00M15.00S,1,1610612760,SEA,699,Barry,B. Barry,0,0,0,Made,1,23.0,24.0,47,h,Barry  Reverse Layup (7 PTS) (Radmanovic 1 AST),Made Shot,Reverse Layup Shot,0,99
+20300076,103,PT00M01.00S,1,1610612757,POR,757,Stoudamire,D. Stoudamire,235,-5,24,Missed,1,0.0,0.0,0,v,MISS Stoudamire 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,100
+20300076,104,PT00M00.00S,1,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,101
+20300076,105,PT00M00.00S,1,0,,0,,,0,0,0,,0,23.0,24.0,47,,End of 1st Period (11:13 PM EST),period,end,0,102
+20300076,107,PT12M00.00S,2,0,,0,,,0,0,0,,0,23.0,24.0,47,,Start of 2nd Period (11:16 PM EST),period,start,0,103
+20300076,108,PT11M48.00S,2,1610612757,POR,739,Wallace,R. Wallace,94,18,10,Missed,1,0.0,0.0,0,v,MISS Wallace 10' Jump Shot,Missed Shot,Jump Shot,0,104
+20300076,109,PT11M47.00S,2,1610612760,SEA,1740,Lewis,R. Lewis,0,0,0,,0,0.0,0.0,0,h,Lewis REBOUND (Off:0 Def:1),Rebound,Unknown,0,105
+20300076,110,PT11M34.00S,2,1610612760,SEA,2436,Murray,R. Murray,140,23,14,Missed,1,0.0,0.0,0,h,MISS Murray 14' Jump Shot,Missed Shot,Jump Shot,0,106
+20300076,111,PT11M32.00S,2,1610612757,POR,2417,Woods,Q. Woods,0,0,0,,0,0.0,0.0,0,v,Woods REBOUND (Off:0 Def:1),Rebound,Unknown,0,107
+20300076,112,PT11M21.00S,2,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,Missed,1,0.0,0.0,0,v,MISS Randolph  Layup,Missed Shot,Layup Shot,0,108
+20300076,113,PT11M17.00S,2,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,Randolph REBOUND (Off:2 Def:0),Rebound,Unknown,0,109
+20300076,114,PT11M16.00S,2,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,Made,1,23.0,26.0,49,v,Randolph  Layup (8 PTS),Made Shot,Layup Shot,0,110
+20300076,115,PT11M03.00S,2,1610612760,SEA,2501,Evans,R. Evans,0,0,0,Made,1,25.0,26.0,51,h,Evans  Layup (3 PTS) (Murray 2 AST),Made Shot,Layup Shot,0,111
+20300076,116,PT10M40.00S,2,1610612757,POR,739,Wallace,R. Wallace,0,0,0,Made,1,25.0,28.0,53,v,Wallace  Slam Dunk (11 PTS),Made Shot,Slam Dunk Shot,0,112
+20300076,117,PT10M40.00S,2,1610612760,SEA,1744,James,J. James,0,0,0,,0,0.0,0.0,0,h,James S.FOUL (P1.T1),Foul,Shooting,0,113
+20300076,119,PT10M40.00S,2,1610612760,SEA,1740,Lewis,R. Lewis,0,0,0,,0,0.0,0.0,0,h,SUB: Sesay FOR Lewis,Substitution,,0,114
+20300076,120,PT10M40.00S,2,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,0.0,0.0,0,v,MISS Wallace Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,115
+20300076,121,PT10M38.00S,2,1610612760,SEA,1744,James,J. James,0,0,0,,0,0.0,0.0,0,h,James REBOUND (Off:0 Def:1),Rebound,Unknown,0,116
+20300076,122,PT10M23.00S,2,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,0.0,0.0,0,v,SUB: Stepania FOR Wallace,Substitution,,0,117
+20300076,123,PT10M19.00S,2,1610612757,POR,1735,Stepania,V. Stepania,0,0,0,,0,0.0,0.0,0,v,Stepania S.FOUL (P1.T1),Foul,Shooting,0,118
+20300076,124,PT10M19.00S,2,1610612760,SEA,2436,Murray,R. Murray,0,0,0,,0,0.0,0.0,0,h,MISS Murray Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,119
+20300076,125,PT10M19.00S,2,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Rebound,Rebound,Normal Rebound,0,120
+20300076,137,PT10M19.00S,2,1610612757,POR,757,Stoudamire,D. Stoudamire,0,0,0,,0,0.0,0.0,0,v,SUB: Wells FOR Stoudamire,Substitution,,0,121
+20300076,126,PT10M19.00S,2,1610612760,SEA,2436,Murray,R. Murray,0,0,0,,0,26.0,28.0,54,h,Murray Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,122
+20300076,127,PT10M01.00S,2,1610612757,POR,976,McInnis,J. McInnis,49,127,14,Missed,1,0.0,0.0,0,v,MISS McInnis 14' Jump Shot,Missed Shot,Jump Shot,0,123
+20300076,128,PT09M59.00S,2,1610612757,POR,1735,Stepania,V. Stepania,0,0,0,,0,0.0,0.0,0,v,Stepania REBOUND (Off:1 Def:0),Rebound,Unknown,0,124
+20300076,129,PT09M57.00S,2,1610612757,POR,1735,Stepania,V. Stepania,0,0,0,Missed,1,0.0,0.0,0,v,MISS Stepania  Hook Shot,Missed Shot,Hook Shot,0,125
+20300076,130,PT09M55.00S,2,1610612760,SEA,1738,Sesay,A. Sesay,0,0,0,,0,0.0,0.0,0,h,Sesay REBOUND (Off:0 Def:1),Rebound,Unknown,0,126
+20300076,131,PT09M51.00S,2,1610612760,SEA,2557,Ridnour,L. Ridnour,108,146,18,Missed,1,0.0,0.0,0,h,MISS Ridnour 18' Jump Shot,Missed Shot,Jump Shot,0,127
+20300076,132,PT09M49.00S,2,1610612757,POR,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,v,Wells REBOUND (Off:2 Def:1),Rebound,Unknown,0,128
+20300076,133,PT09M42.00S,2,1610612757,POR,2417,Woods,Q. Woods,0,0,0,,0,0.0,0.0,0,v,Woods Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,129
+20300076,133,PT09M42.00S,2,1610612760,SEA,2501,Evans,R. Evans,0,0,0,,0,0.0,0.0,0,h,Evans STEAL (1 STL),,,0,130
+20300076,134,PT09M37.00S,2,1610612760,SEA,2436,Murray,R. Murray,0,0,0,,0,0.0,0.0,0,h,Murray Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,131
+20300076,134,PT09M37.00S,2,1610612757,POR,976,McInnis,J. McInnis,0,0,0,,0,0.0,0.0,0,v,McInnis STEAL (1 STL),,,0,132
+20300076,135,PT09M32.00S,2,1610612757,POR,976,McInnis,J. McInnis,0,0,0,Made,1,26.0,30.0,56,v,McInnis  Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,133
+20300076,136,PT09M30.00S,2,1610612760,SEA,1744,James,J. James,0,0,0,,0,0.0,0.0,0,h,James Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,134
+20300076,138,PT09M16.00S,2,1610612757,POR,1719,Wells,B. Wells,-74,7,7,Missed,1,0.0,0.0,0,v,MISS Wells 7' Jump Shot,Missed Shot,Jump Shot,0,135
+20300076,139,PT09M14.00S,2,1610612760,SEA,2501,Evans,R. Evans,0,0,0,,0,0.0,0.0,0,h,Evans REBOUND (Off:1 Def:1),Rebound,Unknown,0,136
+20300076,140,PT09M00.00S,2,1610612760,SEA,1738,Sesay,A. Sesay,-3,35,4,Missed,1,0.0,0.0,0,h,MISS Sesay 4' Jump Shot,Missed Shot,Jump Shot,0,137
+20300076,141,PT08M59.00S,2,1610612757,POR,1735,Stepania,V. Stepania,0,0,0,,0,0.0,0.0,0,v,Stepania REBOUND (Off:1 Def:1),Rebound,Unknown,0,138
+20300076,142,PT08M45.00S,2,1610612757,POR,2417,Woods,Q. Woods,0,0,0,,0,0.0,0.0,0,v,Woods Lost Ball Turnover (P2.T4),Turnover,Lost Ball,0,139
+20300076,142,PT08M45.00S,2,1610612760,SEA,2501,Evans,R. Evans,0,0,0,,0,0.0,0.0,0,h,Evans STEAL (2 STL),,,0,140
+20300076,143,PT08M40.00S,2,1610612760,SEA,1738,Sesay,A. Sesay,0,0,0,Made,1,28.0,30.0,58,h,Sesay  Driving Dunk (2 PTS) (Ridnour 1 AST),Made Shot,Driving Dunk Shot,0,141
+20300076,144,PT08M26.00S,2,1610612757,POR,2216,Randolph,Z. Randolph,11,20,2,Missed,1,0.0,0.0,0,v,MISS Randolph 2' Layup,Missed Shot,Layup Shot,0,142
+20300076,144,PT08M26.00S,2,1610612760,SEA,1744,James,J. James,0,0,0,,0,0.0,0.0,0,h,James BLOCK (1 BLK),,,0,143
+20300076,145,PT08M19.00S,2,1610612760,SEA,2557,Ridnour,L. Ridnour,0,0,0,,0,0.0,0.0,0,h,Ridnour REBOUND (Off:0 Def:2),Rebound,Unknown,0,144
+20300076,146,PT08M17.00S,2,1610612760,SEA,2557,Ridnour,L. Ridnour,1,250,25,Missed,1,0.0,0.0,0,h,MISS Ridnour 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,145
+20300076,147,PT08M15.00S,2,1610612757,POR,2417,Woods,Q. Woods,0,0,0,,0,0.0,0.0,0,v,Woods REBOUND (Off:0 Def:2),Rebound,Unknown,0,146
+20300076,148,PT08M12.00S,2,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,v,Trail Blazers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,147
+20300076,150,PT08M12.00S,2,1610612757,POR,2417,Woods,Q. Woods,0,0,0,,0,0.0,0.0,0,v,SUB: Wallace FOR Woods,Substitution,,0,148
+20300076,151,PT08M12.00S,2,1610612757,POR,976,McInnis,J. McInnis,0,0,0,,0,0.0,0.0,0,v,SUB: Stoudamire FOR McInnis,Substitution,,0,149
+20300076,153,PT07M53.00S,2,1610612757,POR,1735,Stepania,V. Stepania,194,43,20,Missed,1,0.0,0.0,0,v,MISS Stepania 20' Jump Shot,Missed Shot,Jump Shot,0,150
+20300076,154,PT07M51.00S,2,1610612760,SEA,1738,Sesay,A. Sesay,0,0,0,,0,0.0,0.0,0,h,Sesay REBOUND (Off:0 Def:2),Rebound,Unknown,0,151
+20300076,155,PT07M28.00S,2,1610612760,SEA,1744,James,J. James,100,23,10,Missed,1,0.0,0.0,0,h,MISS James 10' Jump Shot,Missed Shot,Jump Shot,0,152
+20300076,156,PT07M28.00S,2,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Rebound,Rebound,Unknown,0,153
+20300076,157,PT07M28.00S,2,1610612757,POR,1735,Stepania,V. Stepania,0,0,0,,0,0.0,0.0,0,v,Stepania L.B.FOUL (P2.T2),Foul,Loose Ball,0,154
+20300076,158,PT07M22.00S,2,1610612760,SEA,2436,Murray,R. Murray,131,156,20,Made,1,30.0,30.0,60,h,Murray 20' Jump Shot (5 PTS),Made Shot,Jump Shot,0,155
+20300076,159,PT06M44.00S,2,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,Randolph 3 Second Violation Turnover (P2.T5),Turnover,3 Second Violation,0,156
+20300076,160,PT06M44.00S,2,1610612757,POR,1735,Stepania,V. Stepania,0,0,0,,0,0.0,0.0,0,v,SUB: Davis FOR Stepania,Substitution,,0,157
+20300076,161,PT06M29.00S,2,1610612760,SEA,2436,Murray,R. Murray,-168,81,19,Made,1,32.0,30.0,62,h,Murray 19' Jump Shot (7 PTS),Made Shot,Jump Shot,0,158
+20300076,162,PT06M13.00S,2,1610612760,SEA,1744,James,J. James,0,0,0,,0,0.0,0.0,0,h,James S.FOUL (P2.T2),Foul,Shooting,0,159
+20300076,163,PT06M13.00S,2,1610612757,POR,1719,Wells,B. Wells,0,0,0,,0,32.0,31.0,63,v,Wells Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,160
+20300076,164,PT06M13.00S,2,1610612757,POR,1719,Wells,B. Wells,0,0,0,,0,32.0,32.0,64,v,Wells Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,161
+20300076,165,PT06M00.00S,2,1610612760,SEA,1738,Sesay,A. Sesay,0,0,0,,0,0.0,0.0,0,h,Sesay Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,162
+20300076,166,PT06M00.00S,2,1610612760,SEA,2501,Evans,R. Evans,0,0,0,,0,0.0,0.0,0,h,SUB: Radmanovic FOR Evans,Substitution,,0,163
+20300076,167,PT05M43.00S,2,1610612757,POR,2216,Randolph,Z. Randolph,1,63,6,Missed,1,0.0,0.0,0,v,MISS Randolph 6' Jump Shot,Missed Shot,Jump Shot,0,164
+20300076,167,PT05M43.00S,2,1610612760,SEA,1744,James,J. James,0,0,0,,0,0.0,0.0,0,h,James BLOCK (2 BLK),,,0,165
+20300076,168,PT05M40.00S,2,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,Randolph REBOUND (Off:3 Def:0),Rebound,Unknown,0,166
+20300076,169,PT05M39.00S,2,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,Made,1,32.0,34.0,66,v,Randolph  Layup (10 PTS),Made Shot,Layup Shot,0,167
+20300076,170,PT05M29.00S,2,1610612760,SEA,2436,Murray,R. Murray,182,99,21,Made,1,34.0,34.0,68,h,Murray 21' Jump Shot (9 PTS),Made Shot,Jump Shot,0,168
+20300076,171,PT05M09.00S,2,1610612757,POR,757,Stoudamire,D. Stoudamire,0,0,0,,0,0.0,0.0,0,v,Stoudamire Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,169
+20300076,171,PT05M09.00S,2,1610612760,SEA,1744,James,J. James,0,0,0,,0,0.0,0.0,0,h,James STEAL (1 STL),,,0,170
+20300076,172,PT05M07.00S,2,1610612760,SEA,1738,Sesay,A. Sesay,0,0,0,,0,0.0,0.0,0,h,Sesay OFF.Foul (P1),Foul,Offensive,0,171
+20300076,173,PT05M07.00S,2,1610612760,SEA,1738,Sesay,A. Sesay,0,0,0,,0,0.0,0.0,0,h,Sesay Foul Turnover (P2.T9),Turnover,Foul,0,172
+20300076,174,PT05M07.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,173
+20300076,176,PT05M07.00S,2,1610612760,SEA,1744,James,J. James,0,0,0,,0,0.0,0.0,0,h,SUB: Lewis FOR James,Substitution,,0,174
+20300076,177,PT05M07.00S,2,1610612760,SEA,1738,Sesay,A. Sesay,0,0,0,,0,0.0,0.0,0,h,SUB: Booth FOR Sesay,Substitution,,0,175
+20300076,178,PT04M47.00S,2,1610612757,POR,1719,Wells,B. Wells,0,0,0,Made,1,34.0,36.0,70,v,Wells  Driving Dunk (5 PTS) (Randolph 1 AST),Made Shot,Driving Dunk Shot,0,176
+20300076,179,PT04M31.00S,2,1610612760,SEA,2436,Murray,R. Murray,-176,41,18,Made,1,36.0,36.0,72,h,Murray 18' Jump Shot (11 PTS),Made Shot,Jump Shot,0,177
+20300076,180,PT04M13.00S,2,1610612757,POR,757,Stoudamire,D. Stoudamire,107,229,25,Made,1,36.0,39.0,75,v,Stoudamire 25' 3PT Jump Shot (3 PTS) (Randolph 2 AST),Made Shot,Jump Shot,0,178
+20300076,181,PT04M05.00S,2,1610612760,SEA,1740,Lewis,R. Lewis,0,0,0,,0,0.0,0.0,0,h,Lewis Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,179
+20300076,181,PT04M05.00S,2,1610612757,POR,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,v,Wells STEAL (1 STL),,,0,180
+20300076,182,PT03M59.00S,2,1610612757,POR,1719,Wells,B. Wells,0,0,0,Missed,1,0.0,0.0,0,v,MISS Wells  Layup,Missed Shot,Layup Shot,0,181
+20300076,183,PT03M55.00S,2,1610612760,SEA,2436,Murray,R. Murray,0,0,0,,0,0.0,0.0,0,h,Murray REBOUND (Off:1 Def:1),Rebound,Unknown,0,182
+20300076,184,PT03M52.00S,2,1610612760,SEA,2557,Ridnour,L. Ridnour,0,0,0,,0,0.0,0.0,0,h,Ridnour Lost Ball Turnover (P2.T11),Turnover,Lost Ball,0,183
+20300076,184,PT03M52.00S,2,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,Randolph STEAL (1 STL),,,0,184
+20300076,185,PT03M30.00S,2,1610612757,POR,1719,Wells,B. Wells,141,59,15,Made,1,36.0,41.0,77,v,Wells 15' Jump Shot (7 PTS),Made Shot,Jump Shot,0,185
+20300076,187,PT03M22.00S,2,1610612760,SEA,2209,Radmanovic,V. Radmanovic,-146,209,25,Made,1,39.0,41.0,80,h,Radmanovic 25' 3PT Jump Shot (8 PTS) (Murray 3 AST),Made Shot,Jump Shot,0,186
+20300076,188,PT03M01.00S,2,1610612757,POR,1719,Wells,B. Wells,-181,17,18,Made,1,39.0,43.0,82,v,Wells 18' Jump Shot (9 PTS),Made Shot,Jump Shot,0,187
+20300076,189,PT02M45.00S,2,1610612760,SEA,1916,Booth,C. Booth,39,12,4,Missed,1,0.0,0.0,0,h,MISS Booth 4' Hook Shot,Missed Shot,Hook Shot,0,188
+20300076,190,PT02M42.00S,2,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,Randolph REBOUND (Off:3 Def:1),Rebound,Unknown,0,189
+20300076,191,PT02M30.00S,2,1610612757,POR,1719,Wells,B. Wells,176,-8,18,Made,1,39.0,45.0,84,v,Wells 18' Jump Shot (11 PTS) (Randolph 3 AST),Made Shot,Jump Shot,0,190
+20300076,192,PT02M20.00S,2,1610612760,SEA,2209,Radmanovic,V. Radmanovic,-164,192,25,Missed,1,0.0,0.0,0,h,MISS Radmanovic 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,191
+20300076,193,PT02M17.00S,2,1610612760,SEA,1916,Booth,C. Booth,0,0,0,,0,0.0,0.0,0,h,Booth REBOUND (Off:2 Def:1),Rebound,Unknown,0,192
+20300076,194,PT02M14.00S,2,1610612760,SEA,1916,Booth,C. Booth,46,41,6,Made,1,41.0,45.0,86,h,Booth 6' Jump Shot (4 PTS),Made Shot,Jump Shot,0,193
+20300076,195,PT01M48.00S,2,1610612757,POR,739,Wallace,R. Wallace,113,-9,11,Made,1,41.0,47.0,88,v,Wallace 11' Turnaround Jump Shot (13 PTS),Made Shot,Turnaround Jump Shot,0,194
+20300076,196,PT01M48.00S,2,1610612760,SEA,2209,Radmanovic,V. Radmanovic,0,0,0,,0,0.0,0.0,0,h,Radmanovic S.FOUL (P1.T3),Foul,Shooting,0,195
+20300076,197,PT01M48.00S,2,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,196
+20300076,199,PT01M48.00S,2,1610612760,SEA,2557,Ridnour,L. Ridnour,0,0,0,,0,0.0,0.0,0,h,SUB: Barry FOR Ridnour,Substitution,,0,197
+20300076,200,PT01M48.00S,2,1610612757,POR,905,Davis,D. Davis,0,0,0,,0,0.0,0.0,0,v,SUB: Woods FOR Davis,Substitution,,0,198
+20300076,201,PT01M48.00S,2,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,41.0,48.0,89,v,Wallace Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,199
+20300076,202,PT01M39.00S,2,1610612760,SEA,1916,Booth,C. Booth,0,0,0,Made,1,43.0,48.0,91,h,Booth  Layup (6 PTS) (Barry 2 AST),Made Shot,Layup Shot,0,200
+20300076,203,PT01M18.00S,2,1610612757,POR,739,Wallace,R. Wallace,-25,253,25,Missed,1,0.0,0.0,0,v,MISS Wallace 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,201
+20300076,204,PT01M16.00S,2,1610612757,POR,2417,Woods,Q. Woods,0,0,0,,0,0.0,0.0,0,v,Woods REBOUND (Off:1 Def:2),Rebound,Unknown,0,202
+20300076,205,PT01M01.00S,2,1610612757,POR,757,Stoudamire,D. Stoudamire,-44,248,25,Missed,1,0.0,0.0,0,v,MISS Stoudamire 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,203
+20300076,206,PT01M00.00S,2,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Rebound,Rebound,Unknown,0,204
+20300076,207,PT00M40.40S,2,1610612760,SEA,1740,Lewis,R. Lewis,-36,7,4,Made,1,45.0,48.0,93,h,Lewis 4' Turnaround Jump Shot (6 PTS),Made Shot,Turnaround Jump Shot,0,205
+20300076,208,PT00M34.90S,2,1610612757,POR,757,Stoudamire,D. Stoudamire,0,0,0,,0,0.0,0.0,0,v,Stoudamire Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,206
+20300076,208,PT00M34.90S,2,1610612760,SEA,699,Barry,B. Barry,0,0,0,,0,0.0,0.0,0,h,Barry STEAL (2 STL),,,0,207
+20300076,209,PT00M30.30S,2,1610612760,SEA,1740,Lewis,R. Lewis,0,0,0,Made,1,47.0,48.0,95,h,Lewis  Layup (8 PTS) (Murray 4 AST),Made Shot,Layup Shot,0,208
+20300076,210,PT00M24.00S,2,1610612757,POR,757,Stoudamire,D. Stoudamire,0,0,0,,0,0.0,0.0,0,v,Stoudamire Traveling Turnover (P3.T8),Turnover,Traveling,0,209
+20300076,211,PT00M24.00S,2,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Timeout: Short (Full 2 Short 1),Timeout,Short,0,210
+20300076,213,PT00M06.00S,2,1610612757,POR,2417,Woods,Q. Woods,0,0,0,,0,0.0,0.0,0,v,Woods P.FOUL (P1.T3),Foul,Personal,0,211
+20300076,215,PT00M02.30S,2,1610612760,SEA,2209,Radmanovic,V. Radmanovic,1,261,26,Made,1,50.0,48.0,98,h,Radmanovic 26' 3PT Jump Shot (11 PTS),Made Shot,Jump Shot,0,212
+20300076,216,PT00M00.30S,2,1610612757,POR,2417,Woods,Q. Woods,168,476,50,Missed,1,0.0,0.0,0,v,MISS Woods 50' 3PT Jump Shot,Missed Shot,Jump Shot,0,213
+20300076,217,PT00M00.00S,2,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,214
+20300076,218,PT00M00.00S,2,0,,0,,,0,0,0,,0,50.0,48.0,98,,End of 2nd Period (11:44 PM EST),period,end,0,215
+20300076,220,PT12M00.00S,3,0,,0,,,0,0,0,,0,50.0,48.0,98,,Start of 3rd Period (12:00 PM EST),period,start,0,216
+20300076,221,PT11M36.00S,3,1610612757,POR,1719,Wells,B. Wells,128,153,20,Missed,1,0.0,0.0,0,v,MISS Wells 20' Jump Shot,Missed Shot,Jump Shot,0,217
+20300076,222,PT11M34.00S,3,1610612760,SEA,2209,Radmanovic,V. Radmanovic,0,0,0,,0,0.0,0.0,0,h,Radmanovic REBOUND (Off:0 Def:5),Rebound,Unknown,0,218
+20300076,223,PT11M24.00S,3,1610612760,SEA,2209,Radmanovic,V. Radmanovic,74,187,20,Made,1,52.0,48.0,100,h,Radmanovic 20' Jump Shot (13 PTS),Made Shot,Jump Shot,0,219
+20300076,224,PT11M07.00S,3,1610612757,POR,1719,Wells,B. Wells,0,0,0,Made,1,52.0,50.0,102,v,Wells  Layup (13 PTS),Made Shot,Layup Shot,0,220
+20300076,225,PT10M57.00S,3,1610612760,SEA,1740,Lewis,R. Lewis,0,0,0,Missed,1,0.0,0.0,0,h,MISS Lewis  Reverse Layup,Missed Shot,Reverse Layup Shot,0,221
+20300076,226,PT10M54.00S,3,1610612757,POR,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,v,Wells REBOUND (Off:2 Def:2),Rebound,Unknown,0,222
+20300076,227,PT10M42.00S,3,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,v,Trail Blazers Timeout: Short (Reg.2 Short 1),Timeout,Short,0,223
+20300076,229,PT10M35.00S,3,1610612757,POR,1719,Wells,B. Wells,-6,35,4,Missed,1,0.0,0.0,0,v,MISS Wells 4' Jump Shot,Missed Shot,Jump Shot,0,224
+20300076,229,PT10M35.00S,3,1610612760,SEA,1916,Booth,C. Booth,0,0,0,,0,0.0,0.0,0,h,Booth BLOCK (1 BLK),,,0,225
+20300076,230,PT10M35.00S,3,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,226
+20300076,231,PT10M32.00S,3,1610612757,POR,739,Wallace,R. Wallace,-176,-13,18,Made,1,52.0,52.0,104,v,Wallace 18' Jump Shot (16 PTS) (Wells 2 AST),Made Shot,Jump Shot,0,227
+20300076,232,PT10M20.00S,3,1610612760,SEA,1740,Lewis,R. Lewis,130,138,19,Missed,1,0.0,0.0,0,h,MISS Lewis 19' Jump Shot,Missed Shot,Jump Shot,0,228
+20300076,233,PT10M15.00S,3,1610612760,SEA,1916,Booth,C. Booth,0,0,0,,0,0.0,0.0,0,h,Booth REBOUND (Off:3 Def:1),Rebound,Unknown,0,229
+20300076,234,PT10M09.00S,3,1610612760,SEA,699,Barry,B. Barry,100,7,10,Made,1,54.0,52.0,106,h,Barry 10' Running Jump Shot (9 PTS),Made Shot,Running Jump Shot,0,230
+20300076,235,PT09M43.00S,3,1610612757,POR,757,Stoudamire,D. Stoudamire,136,97,17,Missed,1,0.0,0.0,0,v,MISS Stoudamire 17' Jump Shot,Missed Shot,Jump Shot,0,231
+20300076,239,PT09M41.00S,3,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace REBOUND (Off:2 Def:4),Rebound,Unknown,0,232
+20300076,238,PT09M41.00S,3,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace Offensive Goaltending Turnover (P2.T9),Turnover,Offensive Goaltending,0,233
+20300076,240,PT09M33.00S,3,1610612760,SEA,2436,Murray,R. Murray,0,0,0,Made,1,56.0,52.0,108,h,Murray  Layup (13 PTS) (Barry 3 AST),Made Shot,Layup Shot,0,234
+20300076,241,PT09M12.00S,3,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,Made,1,56.0,54.0,110,v,Randolph  Layup (12 PTS) (Stoudamire 3 AST),Made Shot,Layup Shot,0,235
+20300076,242,PT09M09.00S,3,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace T.FOUL (P1.T0),Foul,Technical,0,236
+20300076,243,PT09M09.00S,3,1610612760,SEA,699,Barry,B. Barry,0,0,0,,0,57.0,54.0,111,h,Barry Free Throw Technical (10 PTS),Free Throw,Free Throw Technical,0,237
+20300076,245,PT08M52.00S,3,1610612760,SEA,2436,Murray,R. Murray,228,-6,0,Made,1,60.0,54.0,114,h,Murray  3PT Jump Shot (16 PTS) (Lewis 1 AST),Made Shot,Jump Shot,0,238
+20300076,246,PT08M40.00S,3,1610612757,POR,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,v,Wells OFF.Foul (P2),Foul,Offensive,0,239
+20300076,247,PT08M40.00S,3,1610612757,POR,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,v,Wells Foul Turnover (P1.T10),Turnover,Foul,0,240
+20300076,248,PT08M22.00S,3,1610612760,SEA,2209,Radmanovic,V. Radmanovic,0,0,0,Missed,1,0.0,0.0,0,h,MISS Radmanovic  Reverse Layup,Missed Shot,Reverse Layup Shot,0,241
+20300076,248,PT08M22.00S,3,1610612757,POR,905,Davis,D. Davis,0,0,0,,0,0.0,0.0,0,v,Davis BLOCK (1 BLK),,,0,242
+20300076,249,PT08M20.00S,3,1610612760,SEA,2209,Radmanovic,V. Radmanovic,0,0,0,,0,0.0,0.0,0,h,Radmanovic REBOUND (Off:1 Def:5),Rebound,Unknown,0,243
+20300076,250,PT08M18.00S,3,1610612760,SEA,2209,Radmanovic,V. Radmanovic,0,0,0,Missed,1,0.0,0.0,0,h,MISS Radmanovic  Layup,Missed Shot,Layup Shot,0,244
+20300076,251,PT08M16.00S,3,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,Randolph REBOUND (Off:3 Def:2),Rebound,Unknown,0,245
+20300076,252,PT08M16.00S,3,1610612760,SEA,2209,Radmanovic,V. Radmanovic,0,0,0,,0,0.0,0.0,0,h,Radmanovic P.FOUL (P2.T1),Foul,Personal,0,246
+20300076,253,PT08M16.00S,3,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,v,Trail Blazers Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,247
+20300076,255,PT07M51.00S,3,1610612757,POR,739,Wallace,R. Wallace,69,155,17,Missed,1,0.0,0.0,0,v,MISS Wallace 17' Jump Shot,Missed Shot,Jump Shot,0,248
+20300076,256,PT07M49.00S,3,1610612760,SEA,2436,Murray,R. Murray,0,0,0,,0,0.0,0.0,0,h,Murray REBOUND (Off:1 Def:2),Rebound,Unknown,0,249
+20300076,257,PT07M47.00S,3,1610612760,SEA,1740,Lewis,R. Lewis,0,0,0,Made,1,62.0,54.0,116,h,Lewis  Alley Oop Layup (10 PTS) (Radmanovic 2 AST),Made Shot,Alley Oop Layup shot,0,250
+20300076,258,PT07M47.00S,3,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace S.FOUL (P2.T1),Foul,Shooting,0,251
+20300076,259,PT07M47.00S,3,1610612757,POR,757,Stoudamire,D. Stoudamire,0,0,0,,0,0.0,0.0,0,v,SUB: McInnis FOR Stoudamire,Substitution,,0,252
+20300076,260,PT07M47.00S,3,1610612760,SEA,1740,Lewis,R. Lewis,0,0,0,,0,0.0,0.0,0,h,MISS Lewis Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,253
+20300076,261,PT07M45.00S,3,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,Randolph REBOUND (Off:3 Def:3),Rebound,Unknown,0,254
+20300076,263,PT07M27.00S,3,1610612757,POR,739,Wallace,R. Wallace,148,214,26,Made,1,62.0,57.0,119,v,Wallace 26' 3PT Jump Shot (19 PTS) (McInnis 1 AST),Made Shot,Jump Shot,0,255
+20300076,264,PT07M06.00S,3,1610612760,SEA,2209,Radmanovic,V. Radmanovic,-29,17,3,Made,1,64.0,57.0,121,h,Radmanovic 3' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,0,256
+20300076,266,PT06M55.00S,3,1610612757,POR,1719,Wells,B. Wells,177,-8,18,Missed,1,0.0,0.0,0,v,MISS Wells 18' Jump Shot,Missed Shot,Jump Shot,0,257
+20300076,267,PT06M53.00S,3,1610612760,SEA,1916,Booth,C. Booth,0,0,0,,0,0.0,0.0,0,h,Booth REBOUND (Off:3 Def:2),Rebound,Unknown,0,258
+20300076,268,PT06M34.00S,3,1610612760,SEA,2436,Murray,R. Murray,-141,-9,14,Missed,1,0.0,0.0,0,h,MISS Murray 14' Jump Shot,Missed Shot,Jump Shot,0,259
+20300076,269,PT06M32.00S,3,1610612757,POR,905,Davis,D. Davis,0,0,0,,0,0.0,0.0,0,v,Davis REBOUND (Off:0 Def:3),Rebound,Unknown,0,260
+20300076,270,PT06M15.00S,3,1610612760,SEA,699,Barry,B. Barry,0,0,0,,0,0.0,0.0,0,h,Barry L.B.FOUL (P1.T2),Foul,Loose Ball,0,261
+20300076,271,PT06M03.00S,3,1610612757,POR,2216,Randolph,Z. Randolph,10,25,3,Made,1,64.0,59.0,123,v,Randolph 3' Reverse Layup (14 PTS),Made Shot,Reverse Layup Shot,0,262
+20300076,272,PT05M52.00S,3,1610612760,SEA,2209,Radmanovic,V. Radmanovic,92,237,25,Missed,1,0.0,0.0,0,h,MISS Radmanovic 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,263
+20300076,273,PT05M51.00S,3,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace REBOUND (Off:2 Def:5),Rebound,Unknown,0,264
+20300076,274,PT05M44.00S,3,1610612757,POR,976,McInnis,J. McInnis,-33,43,5,Missed,1,0.0,0.0,0,v,MISS McInnis 5' Jump Shot,Missed Shot,Jump Shot,0,265
+20300076,275,PT05M43.00S,3,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Rebound,Rebound,Unknown,0,266
+20300076,276,PT05M36.00S,3,1610612760,SEA,2209,Radmanovic,V. Radmanovic,154,-3,15,Missed,1,0.0,0.0,0,h,MISS Radmanovic 15' Jump Shot,Missed Shot,Jump Shot,0,267
+20300076,277,PT05M35.00S,3,1610612760,SEA,1740,Lewis,R. Lewis,0,0,0,,0,0.0,0.0,0,h,Lewis REBOUND (Off:1 Def:1),Rebound,Unknown,0,268
+20300076,278,PT05M31.00S,3,1610612760,SEA,1740,Lewis,R. Lewis,0,0,0,Missed,1,0.0,0.0,0,h,MISS Lewis  Follow Up Dunk,Missed Shot,Follow Up Dunk Shot,0,269
+20300076,279,PT05M29.00S,3,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,Randolph REBOUND (Off:3 Def:4),Rebound,Unknown,0,270
+20300076,280,PT05M21.00S,3,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,Randolph Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,271
+20300076,280,PT05M21.00S,3,1610612760,SEA,2209,Radmanovic,V. Radmanovic,0,0,0,,0,0.0,0.0,0,h,Radmanovic STEAL (1 STL),,,0,272
+20300076,281,PT05M09.00S,3,1610612760,SEA,1740,Lewis,R. Lewis,16,-1,2,Missed,1,0.0,0.0,0,h,MISS Lewis 2' Layup,Missed Shot,Layup Shot,0,273
+20300076,282,PT05M08.00S,3,1610612757,POR,905,Davis,D. Davis,0,0,0,,0,0.0,0.0,0,v,Davis REBOUND (Off:0 Def:4),Rebound,Unknown,0,274
+20300076,284,PT05M02.00S,3,1610612757,POR,739,Wallace,R. Wallace,-212,150,26,Missed,1,0.0,0.0,0,v,MISS Wallace 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,275
+20300076,285,PT05M00.00S,3,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,276
+20300076,286,PT05M00.00S,3,1610612757,POR,905,Davis,D. Davis,0,0,0,,0,0.0,0.0,0,v,SUB: Woods FOR Davis,Substitution,,0,277
+20300076,287,PT05M00.00S,3,1610612760,SEA,1740,Lewis,R. Lewis,0,0,0,,0,0.0,0.0,0,h,SUB: Sesay FOR Lewis,Substitution,,0,278
+20300076,288,PT04M53.00S,3,1610612757,POR,2417,Woods,Q. Woods,156,13,16,Missed,1,0.0,0.0,0,v,MISS Woods 16' Jump Shot,Missed Shot,Jump Shot,0,279
+20300076,289,PT04M51.00S,3,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,Randolph REBOUND (Off:4 Def:4),Rebound,Unknown,0,280
+20300076,290,PT04M51.00S,3,1610612760,SEA,1916,Booth,C. Booth,0,0,0,,0,0.0,0.0,0,h,Booth S.FOUL (P2.T3),Foul,Shooting,0,281
+20300076,291,PT04M51.00S,3,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,MISS Randolph Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,282
+20300076,292,PT04M51.00S,3,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,v,Trail Blazers Rebound,Rebound,Normal Rebound,0,283
+20300076,293,PT04M51.00S,3,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,64.0,60.0,124,v,Randolph Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,284
+20300076,294,PT04M39.00S,3,1610612760,SEA,2436,Murray,R. Murray,0,0,0,Made,1,66.0,60.0,126,h,Murray  Driving Layup (18 PTS),Made Shot,Driving Layup Shot,0,285
+20300076,295,PT04M20.00S,3,1610612757,POR,2417,Woods,Q. Woods,174,123,21,Missed,1,0.0,0.0,0,v,MISS Woods 21' Jump Shot,Missed Shot,Jump Shot,0,286
+20300076,296,PT04M19.00S,3,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,Randolph REBOUND (Off:5 Def:4),Rebound,Unknown,0,287
+20300076,297,PT04M15.00S,3,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,Randolph Lost Ball Turnover (P4.T12),Turnover,Lost Ball,0,288
+20300076,297,PT04M15.00S,3,1610612760,SEA,1916,Booth,C. Booth,0,0,0,,0,0.0,0.0,0,h,Booth STEAL (1 STL),,,0,289
+20300076,298,PT04M10.00S,3,1610612760,SEA,1738,Sesay,A. Sesay,-51,-3,5,Missed,1,0.0,0.0,0,h,MISS Sesay 5' Jump Shot,Missed Shot,Jump Shot,0,290
+20300076,298,PT04M10.00S,3,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace BLOCK (1 BLK),,,0,291
+20300076,299,PT04M07.00S,3,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace REBOUND (Off:2 Def:6),Rebound,Unknown,0,292
+20300076,300,PT03M52.00S,3,1610612757,POR,739,Wallace,R. Wallace,-140,-9,14,Missed,1,0.0,0.0,0,v,MISS Wallace 14' Jump Shot,Missed Shot,Jump Shot,0,293
+20300076,301,PT03M52.00S,3,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Rebound,Rebound,Unknown,0,294
+20300076,302,PT03M52.00S,3,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,Randolph L.B.FOUL (P1.T2),Foul,Loose Ball,0,295
+20300076,304,PT03M42.00S,3,1610612757,POR,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,v,Wells P.FOUL (P3.T3),Foul,Personal,0,296
+20300076,305,PT03M26.00S,3,1610612760,SEA,2436,Murray,R. Murray,-238,13,24,Made,1,69.0,60.0,129,h,Murray 24' 3PT Jump Shot (21 PTS),Made Shot,Jump Shot,0,297
+20300076,306,PT03M06.00S,3,1610612757,POR,1719,Wells,B. Wells,148,156,22,Missed,1,0.0,0.0,0,v,MISS Wells 22' Jump Shot,Missed Shot,Jump Shot,0,298
+20300076,307,PT03M05.00S,3,1610612760,SEA,2436,Murray,R. Murray,0,0,0,,0,0.0,0.0,0,h,Murray REBOUND (Off:1 Def:3),Rebound,Unknown,0,299
+20300076,308,PT02M59.00S,3,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,Randolph S.FOUL (P2.T4),Foul,Shooting,0,300
+20300076,309,PT02M59.00S,3,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,301
+20300076,311,PT02M59.00S,3,1610612760,SEA,1916,Booth,C. Booth,0,0,0,,0,0.0,0.0,0,h,SUB: James FOR Booth,Substitution,,0,302
+20300076,312,PT02M59.00S,3,1610612757,POR,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,v,SUB: Stoudamire FOR Wells,Substitution,,0,303
+20300076,313,PT02M59.00S,3,1610612760,SEA,2436,Murray,R. Murray,0,0,0,,0,70.0,60.0,130,h,Murray Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,0,304
+20300076,314,PT02M59.00S,3,1610612760,SEA,2436,Murray,R. Murray,0,0,0,,0,71.0,60.0,131,h,Murray Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,305
+20300076,315,PT02M38.00S,3,1610612757,POR,739,Wallace,R. Wallace,-131,-9,13,Made,1,71.0,62.0,133,v,Wallace 13' Turnaround Jump Shot (21 PTS) (McInnis 2 AST),Made Shot,Turnaround Jump Shot,0,306
+20300076,316,PT02M20.00S,3,1610612760,SEA,2209,Radmanovic,V. Radmanovic,-169,145,22,Made,1,73.0,62.0,135,h,Radmanovic 22' Jump Shot (17 PTS) (Barry 4 AST),Made Shot,Jump Shot,0,307
+20300076,317,PT02M01.00S,3,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,Randolph Bad Pass Turnover (P5.T13),Turnover,Bad Pass,0,308
+20300076,317,PT02M01.00S,3,1610612760,SEA,1738,Sesay,A. Sesay,0,0,0,,0,0.0,0.0,0,h,Sesay STEAL (1 STL),,,0,309
+20300076,318,PT01M41.00S,3,1610612760,SEA,1744,James,J. James,-67,3,7,Missed,1,0.0,0.0,0,h,MISS James 7' Jump Shot,Missed Shot,Jump Shot,0,310
+20300076,319,PT01M40.00S,3,1610612760,SEA,1738,Sesay,A. Sesay,0,0,0,,0,0.0,0.0,0,h,Sesay REBOUND (Off:1 Def:2),Rebound,Unknown,0,311
+20300076,320,PT01M37.00S,3,1610612760,SEA,1738,Sesay,A. Sesay,-154,-3,15,Made,1,75.0,62.0,137,h,Sesay 15' Jump Shot (4 PTS),Made Shot,Jump Shot,0,312
+20300076,322,PT01M35.00S,3,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Violation: Delay of game Violation,Violation,Delay Of Game,0,313
+20300076,324,PT01M22.00S,3,1610612757,POR,739,Wallace,R. Wallace,-107,-8,11,Made,1,75.0,64.0,139,v,Wallace 11' Turnaround Jump Shot (23 PTS),Made Shot,Turnaround Jump Shot,0,314
+20300076,325,PT01M06.00S,3,1610612757,POR,976,McInnis,J. McInnis,0,0,0,,0,0.0,0.0,0,v,McInnis P.FOUL (P1.PN),Foul,Personal,0,315
+20300076,327,PT01M06.00S,3,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,SUB: Davis FOR Randolph,Substitution,,0,316
+20300076,328,PT01M06.00S,3,1610612760,SEA,2436,Murray,R. Murray,0,0,0,,0,0.0,0.0,0,h,SUB: Ridnour FOR Murray,Substitution,,0,317
+20300076,329,PT01M06.00S,3,1610612760,SEA,699,Barry,B. Barry,0,0,0,,0,76.0,64.0,140,h,Barry Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,318
+20300076,330,PT01M06.00S,3,1610612760,SEA,699,Barry,B. Barry,0,0,0,,0,77.0,64.0,141,h,Barry Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,319
+20300076,331,PT00M51.20S,3,1610612757,POR,905,Davis,D. Davis,0,0,0,Made,1,77.0,66.0,143,v,Davis  Slam Dunk (8 PTS) (Wallace 2 AST),Made Shot,Slam Dunk Shot,0,320
+20300076,332,PT00M32.40S,3,1610612760,SEA,699,Barry,B. Barry,0,0,0,Made,1,79.0,66.0,145,h,Barry  Layup (14 PTS),Made Shot,Layup Shot,0,321
+20300076,333,PT00M32.40S,3,1610612757,POR,2417,Woods,Q. Woods,0,0,0,,0,0.0,0.0,0,v,Woods S.FOUL (P2.PN),Foul,Shooting,0,322
+20300076,334,PT00M32.40S,3,1610612760,SEA,699,Barry,B. Barry,0,0,0,,0,80.0,66.0,146,h,Barry Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,0,323
+20300076,335,PT00M19.40S,3,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace Bad Pass Turnover (P3.T14),Turnover,Bad Pass,0,324
+20300076,335,PT00M19.40S,3,1610612760,SEA,2209,Radmanovic,V. Radmanovic,0,0,0,,0,0.0,0.0,0,h,Radmanovic STEAL (2 STL),,,0,325
+20300076,336,PT00M15.80S,3,1610612760,SEA,2209,Radmanovic,V. Radmanovic,0,0,0,Made,1,82.0,66.0,148,h,Radmanovic  Slam Dunk (19 PTS),Made Shot,Slam Dunk Shot,0,326
+20300076,337,PT00M01.80S,3,1610612757,POR,976,McInnis,J. McInnis,51,12,5,Missed,1,0.0,0.0,0,v,MISS McInnis 5' Jump Shot,Missed Shot,Jump Shot,0,327
+20300076,338,PT00M00.90S,3,1610612760,SEA,1744,James,J. James,0,0,0,,0,0.0,0.0,0,h,James REBOUND (Off:0 Def:2),Rebound,Unknown,0,328
+20300076,339,PT00M00.00S,3,0,,0,,,0,0,0,,0,82.0,66.0,148,,End of 3rd Period (12:44 PM EST),period,end,0,329
+20300076,341,PT12M00.00S,4,0,,0,,,0,0,0,,0,82.0,66.0,148,,Start of 4th Period (12:46 PM EST),period,start,0,330
+20300076,342,PT11M49.00S,4,1610612760,SEA,699,Barry,B. Barry,-220,128,25,Missed,1,0.0,0.0,0,h,MISS Barry 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,331
+20300076,343,PT11M46.00S,4,1610612760,SEA,2501,Evans,R. Evans,0,0,0,,0,0.0,0.0,0,h,Evans REBOUND (Off:2 Def:1),Rebound,Unknown,0,332
+20300076,344,PT11M25.00S,4,1610612760,SEA,1740,Lewis,R. Lewis,167,189,25,Missed,1,0.0,0.0,0,h,MISS Lewis 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,333
+20300076,345,PT11M24.00S,4,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace REBOUND (Off:2 Def:7),Rebound,Unknown,0,334
+20300076,346,PT11M14.00S,4,1610612757,POR,739,Wallace,R. Wallace,-5,155,16,Made,1,82.0,68.0,150,v,Wallace 16' Jump Shot (25 PTS) (McInnis 3 AST),Made Shot,Jump Shot,0,335
+20300076,347,PT10M47.00S,4,1610612760,SEA,1744,James,J. James,-54,-9,5,Missed,1,0.0,0.0,0,h,MISS James 5' Jump Shot,Missed Shot,Jump Shot,0,336
+20300076,348,PT10M44.00S,4,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,337
+20300076,349,PT10M42.00S,4,1610612760,SEA,2501,Evans,R. Evans,0,0,0,,0,0.0,0.0,0,h,Evans L.B.FOUL (P2.T1),Foul,Loose Ball,0,338
+20300076,350,PT10M42.00S,4,1610612760,SEA,1744,James,J. James,0,0,0,,0,0.0,0.0,0,h,SUB: Booth FOR James,Substitution,,0,339
+20300076,351,PT10M42.00S,4,1610612757,POR,2417,Woods,Q. Woods,0,0,0,,0,0.0,0.0,0,v,Woods Traveling Turnover (P3.T15),Turnover,Traveling,0,340
+20300076,352,PT10M22.00S,4,1610612760,SEA,699,Barry,B. Barry,228,-6,0,Missed,1,0.0,0.0,0,h,MISS Barry  3PT Jump Shot,Missed Shot,Jump Shot,0,341
+20300076,353,PT10M21.00S,4,1610612760,SEA,1916,Booth,C. Booth,0,0,0,,0,0.0,0.0,0,h,Booth REBOUND (Off:4 Def:2),Rebound,Unknown,0,342
+20300076,354,PT10M15.00S,4,1610612760,SEA,699,Barry,B. Barry,0,0,0,,0,0.0,0.0,0,h,Barry Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,343
+20300076,355,PT10M13.00S,4,1610612757,POR,2417,Woods,Q. Woods,0,0,0,,0,0.0,0.0,0,v,SUB: Murray FOR Woods,Substitution,,0,344
+20300076,356,PT09M59.00S,4,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace Lost Ball Turnover (P4.T16),Turnover,Lost Ball,0,345
+20300076,356,PT09M59.00S,4,1610612760,SEA,2557,Ridnour,L. Ridnour,0,0,0,,0,0.0,0.0,0,h,Ridnour STEAL (1 STL),,,0,346
+20300076,357,PT09M51.00S,4,1610612760,SEA,699,Barry,B. Barry,115,232,26,Made,1,85.0,68.0,153,h,Barry 26' 3PT Jump Shot (18 PTS) (Ridnour 2 AST),Made Shot,Jump Shot,0,347
+20300076,358,PT09M36.00S,4,1610612757,POR,976,McInnis,J. McInnis,156,15,16,Made,1,85.0,70.0,155,v,McInnis 16' Jump Shot (4 PTS) (Davis 2 AST),Made Shot,Jump Shot,0,348
+20300076,359,PT09M20.00S,4,1610612760,SEA,2557,Ridnour,L. Ridnour,-200,174,27,Missed,1,0.0,0.0,0,h,MISS Ridnour 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,349
+20300076,360,PT09M19.00S,4,1610612760,SEA,2557,Ridnour,L. Ridnour,0,0,0,,0,0.0,0.0,0,h,Ridnour REBOUND (Off:1 Def:2),Rebound,Unknown,0,350
+20300076,361,PT09M17.00S,4,1610612757,POR,757,Stoudamire,D. Stoudamire,0,0,0,,0,0.0,0.0,0,v,Stoudamire P.FOUL (P1.T1),Foul,Personal,0,351
+20300076,362,PT09M17.00S,4,1610612760,SEA,699,Barry,B. Barry,0,0,0,,0,0.0,0.0,0,h,SUB: Murray FOR Barry,Substitution,,0,352
+20300076,363,PT09M05.00S,4,1610612760,SEA,2557,Ridnour,L. Ridnour,121,107,16,Missed,1,0.0,0.0,0,h,MISS Ridnour 16' Jump Shot,Missed Shot,Jump Shot,0,353
+20300076,364,PT09M04.00S,4,1610612760,SEA,2501,Evans,R. Evans,0,0,0,,0,0.0,0.0,0,h,Evans REBOUND (Off:3 Def:1),Rebound,Unknown,0,354
+20300076,365,PT08M59.00S,4,1610612760,SEA,1740,Lewis,R. Lewis,-36,8,4,Made,1,87.0,70.0,157,h,Lewis 4' Running Jump Shot (12 PTS),Made Shot,Running Jump Shot,0,355
+20300076,366,PT08M40.00S,4,1610612757,POR,145,Murray,T. Murray,190,187,27,Made,1,87.0,73.0,160,v,Murray 27' 3PT Jump Shot (3 PTS) (Wallace 3 AST),Made Shot,Jump Shot,0,356
+20300076,368,PT08M16.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,357
+20300076,370,PT08M14.00S,4,1610612760,SEA,1916,Booth,C. Booth,-232,68,24,Missed,1,0.0,0.0,0,h,MISS Booth 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,358
+20300076,371,PT08M13.00S,4,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Rebound,Rebound,Unknown,0,359
+20300076,372,PT08M10.00S,4,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,0,360
+20300076,373,PT08M10.00S,4,1610612757,POR,739,Wallace,R. Wallace,-41,-3,4,Missed,1,0.0,0.0,0,v,MISS Wallace 4' Jump Shot,Missed Shot,Jump Shot,0,361
+20300076,374,PT08M09.00S,4,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Rebound,Rebound,Unknown,0,362
+20300076,375,PT07M48.00S,4,1610612760,SEA,2557,Ridnour,L. Ridnour,-112,233,26,Missed,1,0.0,0.0,0,h,MISS Ridnour 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,363
+20300076,376,PT07M47.00S,4,1610612760,SEA,2501,Evans,R. Evans,0,0,0,,0,0.0,0.0,0,h,Evans REBOUND (Off:4 Def:1),Rebound,Unknown,0,364
+20300076,377,PT07M44.00S,4,1610612757,POR,976,McInnis,J. McInnis,0,0,0,,0,0.0,0.0,0,v,McInnis P.FOUL (P2.T2),Foul,Personal,0,365
+20300076,378,PT07M33.00S,4,1610612760,SEA,2436,Murray,R. Murray,-176,30,18,Missed,1,0.0,0.0,0,h,MISS Murray 18' Jump Shot,Missed Shot,Jump Shot,0,366
+20300076,379,PT07M32.00S,4,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace REBOUND (Off:2 Def:8),Rebound,Unknown,0,367
+20300076,380,PT07M21.00S,4,1610612757,POR,976,McInnis,J. McInnis,92,123,15,Missed,1,0.0,0.0,0,v,MISS McInnis 15' Jump Shot,Missed Shot,Jump Shot,0,368
+20300076,381,PT07M20.00S,4,1610612757,POR,905,Davis,D. Davis,0,0,0,,0,0.0,0.0,0,v,Davis REBOUND (Off:1 Def:4),Rebound,Unknown,0,369
+20300076,382,PT07M17.00S,4,1610612757,POR,905,Davis,D. Davis,102,0,10,Missed,1,0.0,0.0,0,v,MISS Davis 10' Jump Shot,Missed Shot,Jump Shot,0,370
+20300076,383,PT07M15.00S,4,1610612760,SEA,2557,Ridnour,L. Ridnour,0,0,0,,0,0.0,0.0,0,h,Ridnour REBOUND (Off:1 Def:3),Rebound,Unknown,0,371
+20300076,384,PT07M10.00S,4,1610612760,SEA,2436,Murray,R. Murray,171,-18,17,Missed,1,0.0,0.0,0,h,MISS Murray 17' Jump Shot,Missed Shot,Jump Shot,0,372
+20300076,385,PT07M09.00S,4,1610612760,SEA,2501,Evans,R. Evans,0,0,0,,0,0.0,0.0,0,h,Evans REBOUND (Off:5 Def:1),Rebound,Unknown,0,373
+20300076,386,PT07M05.00S,4,1610612760,SEA,1740,Lewis,R. Lewis,-5,28,3,Missed,1,0.0,0.0,0,h,MISS Lewis 3' Layup,Missed Shot,Layup Shot,0,374
+20300076,387,PT07M04.00S,4,1610612760,SEA,1740,Lewis,R. Lewis,0,0,0,,0,0.0,0.0,0,h,Lewis REBOUND (Off:2 Def:1),Rebound,Unknown,0,375
+20300076,388,PT07M02.00S,4,1610612760,SEA,1740,Lewis,R. Lewis,0,0,0,Made,1,89.0,73.0,162,h,Lewis  Layup (14 PTS),Made Shot,Layup Shot,0,376
+20300076,389,PT07M02.00S,4,1610612757,POR,905,Davis,D. Davis,0,0,0,,0,0.0,0.0,0,v,Davis S.FOUL (P2.T3),Foul,Shooting,0,377
+20300076,390,PT07M02.00S,4,1610612760,SEA,2557,Ridnour,L. Ridnour,0,0,0,,0,0.0,0.0,0,h,SUB: Barry FOR Ridnour,Substitution,,0,378
+20300076,391,PT07M02.00S,4,1610612760,SEA,1916,Booth,C. Booth,0,0,0,,0,0.0,0.0,0,h,SUB: Radmanovic FOR Booth,Substitution,,0,379
+20300076,392,PT07M02.00S,4,1610612757,POR,905,Davis,D. Davis,0,0,0,,0,0.0,0.0,0,v,SUB: Randolph FOR Davis,Substitution,,0,380
+20300076,393,PT07M02.00S,4,1610612760,SEA,1740,Lewis,R. Lewis,0,0,0,,0,0.0,0.0,0,h,MISS Lewis Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,381
+20300076,394,PT07M02.00S,4,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace REBOUND (Off:2 Def:9),Rebound,Unknown,0,382
+20300076,395,PT06M47.00S,4,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,Made,1,89.0,75.0,164,v,Randolph  Layup (17 PTS),Made Shot,Layup Shot,0,383
+20300076,397,PT06M25.00S,4,1610612760,SEA,2209,Radmanovic,V. Radmanovic,-179,-14,18,Missed,1,0.0,0.0,0,h,MISS Radmanovic 18' Jump Shot,Missed Shot,Jump Shot,0,384
+20300076,398,PT06M24.00S,4,1610612757,POR,145,Murray,T. Murray,0,0,0,,0,0.0,0.0,0,v,Murray REBOUND (Off:0 Def:1),Rebound,Unknown,0,385
+20300076,399,PT06M20.00S,4,1610612760,SEA,2436,Murray,R. Murray,0,0,0,,0,0.0,0.0,0,h,Murray P.FOUL (P1.T2),Foul,Personal,0,386
+20300076,400,PT06M07.00S,4,1610612760,SEA,2501,Evans,R. Evans,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS T.Foul (Def. 3 Sec Evans ),Foul,Defense 3 Second,0,387
+20300076,401,PT06M07.00S,4,1610612757,POR,145,Murray,T. Murray,0,0,0,,0,0.0,0.0,0,v,MISS Murray Free Throw Technical,Free Throw,Free Throw Technical,0,388
+20300076,402,PT06M07.00S,4,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,v,Trail Blazers Rebound,Rebound,Normal Rebound,0,389
+20300076,404,PT05M58.00S,4,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,Randolph Lost Ball Turnover (P6.T17),Turnover,Lost Ball,0,390
+20300076,404,PT05M58.00S,4,1610612760,SEA,699,Barry,B. Barry,0,0,0,,0,0.0,0.0,0,h,Barry STEAL (3 STL),,,0,391
+20300076,405,PT05M44.00S,4,1610612760,SEA,1740,Lewis,R. Lewis,0,0,0,,0,0.0,0.0,0,h,Lewis OFF.Foul (P2),Foul,Offensive,0,392
+20300076,406,PT05M44.00S,4,1610612760,SEA,1740,Lewis,R. Lewis,0,0,0,,0,0.0,0.0,0,h,Lewis Foul Turnover (P4.T14),Turnover,Foul,0,393
+20300076,407,PT05M44.00S,4,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,394
+20300076,410,PT05M23.00S,4,1610612757,POR,976,McInnis,J. McInnis,171,197,26,Missed,1,0.0,0.0,0,v,MISS McInnis 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,395
+20300076,411,PT05M22.00S,4,1610612760,SEA,1740,Lewis,R. Lewis,0,0,0,,0,0.0,0.0,0,h,Lewis REBOUND (Off:2 Def:2),Rebound,Unknown,0,396
+20300076,412,PT05M05.00S,4,1610612760,SEA,1740,Lewis,R. Lewis,-195,79,21,Made,1,91.0,75.0,166,h,Lewis 21' Jump Shot (16 PTS) (Murray 5 AST),Made Shot,Jump Shot,0,397
+20300076,413,PT05M00.00S,4,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,v,Trail Blazers Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,398
+20300076,415,PT04M35.00S,4,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,v,Trail Blazers Turnover: Shot Clock (T#18),Turnover,Shot Clock Turnover,0,399
+20300076,416,PT04M23.00S,4,1610612760,SEA,1740,Lewis,R. Lewis,-192,192,27,Made,1,94.0,75.0,169,h,Lewis 27' 3PT Jump Shot (19 PTS) (Murray 6 AST),Made Shot,Jump Shot,0,400
+20300076,417,PT03M54.00S,4,1610612757,POR,757,Stoudamire,D. Stoudamire,-54,100,11,Missed,1,0.0,0.0,0,v,MISS Stoudamire 11' Jump Shot,Missed Shot,Jump Shot,0,401
+20300076,418,PT03M52.00S,4,1610612760,SEA,2501,Evans,R. Evans,0,0,0,,0,0.0,0.0,0,h,Evans REBOUND (Off:5 Def:2),Rebound,Unknown,0,402
+20300076,419,PT03M47.00S,4,1610612760,SEA,699,Barry,B. Barry,0,0,0,Made,1,96.0,75.0,171,h,Barry  Driving Layup (20 PTS),Made Shot,Driving Layup Shot,0,403
+20300076,421,PT03M33.00S,4,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,Made,1,96.0,77.0,173,v,Randolph  Layup (19 PTS) (Wallace 4 AST),Made Shot,Layup Shot,0,404
+20300076,422,PT03M33.00S,4,1610612760,SEA,699,Barry,B. Barry,0,0,0,,0,0.0,0.0,0,h,Barry S.FOUL (P2.T3),Foul,Shooting,0,405
+20300076,423,PT03M33.00S,4,1610612757,POR,757,Stoudamire,D. Stoudamire,0,0,0,,0,0.0,0.0,0,v,SUB: Woods FOR Stoudamire,Substitution,,0,406
+20300076,424,PT03M33.00S,4,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,MISS Randolph Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,407
+20300076,425,PT03M33.00S,4,1610612760,SEA,2501,Evans,R. Evans,0,0,0,,0,0.0,0.0,0,h,Evans REBOUND (Off:5 Def:3),Rebound,Unknown,0,408
+20300076,426,PT03M17.00S,4,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace S.FOUL (P3.T4),Foul,Shooting,0,409
+20300076,427,PT03M17.00S,4,1610612760,SEA,2436,Murray,R. Murray,0,0,0,,0,97.0,77.0,174,h,Murray Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,0,410
+20300076,428,PT03M17.00S,4,1610612760,SEA,2436,Murray,R. Murray,0,0,0,,0,0.0,0.0,0,h,MISS Murray Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,411
+20300076,429,PT03M17.00S,4,1610612757,POR,976,McInnis,J. McInnis,0,0,0,,0,0.0,0.0,0,v,McInnis REBOUND (Off:0 Def:1),Rebound,Unknown,0,412
+20300076,430,PT03M09.00S,4,1610612757,POR,145,Murray,T. Murray,217,125,25,Missed,1,0.0,0.0,0,v,MISS Murray 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,413
+20300076,431,PT03M08.00S,4,1610612760,SEA,2501,Evans,R. Evans,0,0,0,,0,0.0,0.0,0,h,Evans REBOUND (Off:5 Def:4),Rebound,Unknown,0,414
+20300076,432,PT02M46.00S,4,1610612760,SEA,1740,Lewis,R. Lewis,0,0,0,Made,1,99.0,77.0,176,h,Lewis  Dunk (21 PTS),Made Shot,Dunk Shot,0,415
+20300076,433,PT02M21.00S,4,1610612757,POR,2216,Randolph,Z. Randolph,33,-3,3,Missed,1,0.0,0.0,0,v,MISS Randolph 3' Jump Shot,Missed Shot,Jump Shot,0,416
+20300076,434,PT02M20.00S,4,1610612760,SEA,2501,Evans,R. Evans,0,0,0,,0,0.0,0.0,0,h,Evans REBOUND (Off:5 Def:5),Rebound,Unknown,0,417
+20300076,435,PT02M14.00S,4,1610612760,SEA,699,Barry,B. Barry,-36,10,4,Missed,1,0.0,0.0,0,h,MISS Barry 4' Jump Shot,Missed Shot,Jump Shot,0,418
+20300076,435,PT02M14.00S,4,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace BLOCK (2 BLK),,,0,419
+20300076,436,PT02M11.00S,4,1610612757,POR,2417,Woods,Q. Woods,0,0,0,,0,0.0,0.0,0,v,Woods REBOUND (Off:1 Def:3),Rebound,Unknown,0,420
+20300076,437,PT02M08.00S,4,1610612757,POR,2417,Woods,Q. Woods,0,0,0,Made,1,99.0,79.0,178,v,Woods  Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,421
+20300076,439,PT01M51.00S,4,1610612757,POR,976,McInnis,J. McInnis,0,0,0,,0,0.0,0.0,0,v,McInnis P.FOUL (P3.PN),Foul,Personal,0,422
+20300076,440,PT01M51.00S,4,1610612757,POR,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,SUB: Boumtje-Boumtje FOR Randolph,Substitution,,0,423
+20300076,441,PT01M51.00S,4,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,0.0,0.0,0,v,SUB: Carroll FOR Wallace,Substitution,,0,424
+20300076,442,PT01M51.00S,4,1610612757,POR,145,Murray,T. Murray,0,0,0,,0,0.0,0.0,0,v,SUB: Stepania FOR Murray,Substitution,,0,425
+20300076,443,PT01M51.00S,4,1610612760,SEA,2436,Murray,R. Murray,0,0,0,,0,0.0,0.0,0,h,MISS Murray Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,426
+20300076,444,PT01M51.00S,4,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Rebound,Rebound,Normal Rebound,0,427
+20300076,445,PT01M51.00S,4,1610612760,SEA,2436,Murray,R. Murray,0,0,0,,0,0.0,0.0,0,h,MISS Murray Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,428
+20300076,446,PT01M51.00S,4,1610612757,POR,2417,Woods,Q. Woods,0,0,0,,0,0.0,0.0,0,v,Woods REBOUND (Off:1 Def:4),Rebound,Unknown,0,429
+20300076,447,PT01M35.00S,4,1610612757,POR,2417,Woods,Q. Woods,117,-5,12,Missed,1,0.0,0.0,0,v,MISS Woods 12' Jump Shot,Missed Shot,Jump Shot,0,430
+20300076,448,PT01M33.00S,4,1610612760,SEA,2501,Evans,R. Evans,0,0,0,,0,0.0,0.0,0,h,Evans REBOUND (Off:5 Def:6),Rebound,Unknown,0,431
+20300076,449,PT01M15.00S,4,1610612757,POR,1735,Stepania,V. Stepania,0,0,0,,0,0.0,0.0,0,v,Stepania S.FOUL (P3.PN),Foul,Shooting,0,432
+20300076,450,PT01M15.00S,4,1610612760,SEA,2436,Murray,R. Murray,0,0,0,,0,0.0,0.0,0,h,SUB: Frahm FOR Murray,Substitution,,0,433
+20300076,451,PT01M15.00S,4,1610612760,SEA,699,Barry,B. Barry,0,0,0,,0,0.0,0.0,0,h,SUB: Ridnour FOR Barry,Substitution,,0,434
+20300076,452,PT01M15.00S,4,1610612760,SEA,2501,Evans,R. Evans,0,0,0,,0,0.0,0.0,0,h,MISS Evans Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,435
+20300076,453,PT01M15.00S,4,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Rebound,Rebound,Normal Rebound,0,436
+20300076,454,PT01M15.00S,4,1610612760,SEA,2501,Evans,R. Evans,0,0,0,,0,100.0,79.0,179,h,Evans Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,437
+20300076,455,PT00M58.60S,4,1610612757,POR,1735,Stepania,V. Stepania,34,7,3,Missed,1,0.0,0.0,0,v,MISS Stepania 3' Jump Shot,Missed Shot,Jump Shot,0,438
+20300076,456,PT00M58.30S,4,1610612757,POR,1735,Stepania,V. Stepania,0,0,0,,0,0.0,0.0,0,v,Stepania REBOUND (Off:2 Def:1),Rebound,Unknown,0,439
+20300076,457,PT00M58.30S,4,1610612760,SEA,2209,Radmanovic,V. Radmanovic,0,0,0,,0,0.0,0.0,0,h,Radmanovic S.FOUL (P3.T4),Foul,Shooting,0,440
+20300076,458,PT00M58.30S,4,1610612757,POR,1735,Stepania,V. Stepania,0,0,0,,0,100.0,80.0,180,v,Stepania Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,441
+20300076,459,PT00M58.30S,4,1610612757,POR,1735,Stepania,V. Stepania,0,0,0,,0,0.0,0.0,0,v,MISS Stepania Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,442
+20300076,460,PT00M58.30S,4,1610612757,POR,2417,Woods,Q. Woods,0,0,0,,0,0.0,0.0,0,v,Woods REBOUND (Off:2 Def:4),Rebound,Unknown,0,443
+20300076,461,PT00M48.10S,4,1610612757,POR,976,McInnis,J. McInnis,89,3,9,Missed,1,0.0,0.0,0,v,MISS McInnis 9' Jump Shot,Missed Shot,Jump Shot,0,444
+20300076,462,PT00M45.60S,4,1610612757,POR,976,McInnis,J. McInnis,0,0,0,,0,0.0,0.0,0,v,McInnis REBOUND (Off:1 Def:1),Rebound,Unknown,0,445
+20300076,463,PT00M40.00S,4,1610612757,POR,1735,Stepania,V. Stepania,0,0,0,,0,0.0,0.0,0,v,Stepania Lost Ball Turnover (P1.T19),Turnover,Lost Ball,0,446
+20300076,463,PT00M40.00S,4,1610612760,SEA,2499,Frahm,R. Frahm,0,0,0,,0,0.0,0.0,0,h,Frahm STEAL (1 STL),,,0,447
+20300076,465,PT00M19.90S,4,1610612760,SEA,2501,Evans,R. Evans,-110,0,11,Missed,1,0.0,0.0,0,h,MISS Evans 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,448
+20300076,466,PT00M18.20S,4,1610612757,POR,2417,Woods,Q. Woods,0,0,0,,0,0.0,0.0,0,v,Woods REBOUND (Off:2 Def:5),Rebound,Unknown,0,449
+20300076,467,PT00M11.20S,4,1610612757,POR,976,McInnis,J. McInnis,0,0,0,Made,1,100.0,82.0,182,v,McInnis  Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,450
+20300076,468,PT00M00.00S,4,0,,0,,,0,0,0,,0,100.0,82.0,182,,End of 4th Period (13:16 PM EST),period,end,0,451

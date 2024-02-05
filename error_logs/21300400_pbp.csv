@@ -1,0 +1,489 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+21300400,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (9:11 PM EST),period,start,0,1
+21300400,1,PT12M00.00S,1,1610612756,PHX,203101,Plumlee,M. Plumlee,0,0,0,,0,0.0,0.0,0,h,Jump Ball Plumlee vs. Blair: Tip to Bledsoe,Jump Ball,,0,2
+21300400,2,PT11M34.00S,1,1610612756,PHX,203101,Plumlee,M. Plumlee,0,0,0,,0,0.0,0.0,0,h,Plumlee Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,3
+21300400,2,PT11M34.00S,1,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,v,Marion STEAL (1 STL),,,0,4
+21300400,3,PT11M21.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-161,3,16,Missed,1,0.0,0.0,0,v,MISS Nowitzki 16' Jump Shot,Missed Shot,Jump Shot,0,5
+21300400,4,PT11M20.00S,1,1610612756,PHX,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,h,Frye REBOUND (Off:0 Def:1),Rebound,Unknown,0,6
+21300400,5,PT11M14.00S,1,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0.0,0.0,0,h,Bledsoe Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,7
+21300400,6,PT11M04.00S,1,1610612742,DAL,101181,Calderon,J. Calderon,-207,34,21,Made,1,0.0,2.0,2,v,Calderon 21' Jump Shot (2 PTS),Made Shot,Jump Shot,0,8
+21300400,7,PT10M47.00S,1,1610612756,PHX,201609,Dragic,G. Dragic,-229,-5,0,Missed,1,0.0,0.0,0,h,MISS Dragic  3PT Jump Shot,Missed Shot,Jump Shot,0,9
+21300400,8,PT10M46.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,v,Nowitzki REBOUND (Off:0 Def:1),Rebound,Unknown,0,10
+21300400,9,PT10M27.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-60,254,26,Missed,1,0.0,0.0,0,v,MISS Nowitzki 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,11
+21300400,10,PT10M26.00S,1,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0.0,0.0,0,h,Bledsoe REBOUND (Off:0 Def:1),Rebound,Unknown,0,12
+21300400,11,PT10M19.00S,1,1610612756,PHX,202339,Bledsoe,E. Bledsoe,-79,173,19,Made,1,2.0,2.0,4,h,Bledsoe 19' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,0,13
+21300400,12,PT10M02.00S,1,1610612742,DAL,101145,Ellis,M. Ellis,0,0,0,,0,0.0,0.0,0,v,Ellis Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,14
+21300400,12,PT10M02.00S,1,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0.0,0.0,0,h,Bledsoe STEAL (1 STL),,,0,15
+21300400,13,PT09M57.00S,1,1610612756,PHX,202339,Bledsoe,E. Bledsoe,-8,-8,1,Made,1,4.0,2.0,6,h,Bledsoe 1' Layup (4 PTS),Made Shot,Layup Shot,0,16
+21300400,14,PT09M43.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-4,176,18,Missed,1,0.0,0.0,0,v,MISS Nowitzki 18' Jump Shot,Missed Shot,Jump Shot,0,17
+21300400,15,PT09M42.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,v,Nowitzki REBOUND (Off:1 Def:1),Rebound,Unknown,0,18
+21300400,16,PT09M33.00S,1,1610612742,DAL,201971,Blair,D. Blair,47,71,9,Missed,1,0.0,0.0,0,v,MISS Blair 9' Floating Jump Shot,Missed Shot,Floating Jump shot,0,19
+21300400,17,PT09M32.00S,1,1610612756,PHX,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,h,Frye REBOUND (Off:0 Def:2),Rebound,Unknown,0,20
+21300400,18,PT09M24.00S,1,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,h,Dragic Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,21
+21300400,18,PT09M24.00S,1,1610612742,DAL,201971,Blair,D. Blair,0,0,0,,0,0.0,0.0,0,v,Blair STEAL (1 STL),,,0,22
+21300400,19,PT09M18.00S,1,1610612742,DAL,1890,Marion,S. Marion,12,3,1,Made,1,4.0,4.0,8,v,Marion 1' Finger Roll Layup (2 PTS) (Calderon 1 AST),Made Shot,Finger Roll Layup Shot,0,23
+21300400,20,PT09M08.00S,1,1610612756,PHX,200782,Tucker,P. Tucker,231,0,0,Made,1,7.0,4.0,11,h,Tucker  3PT Jump Shot (3 PTS) (Dragic 1 AST),Made Shot,Jump Shot,0,24
+21300400,21,PT08M51.00S,1,1610612742,DAL,201971,Blair,D. Blair,21,11,2,Made,1,7.0,6.0,13,v,Blair 2' Layup (2 PTS) (Calderon 2 AST),Made Shot,Layup Shot,0,25
+21300400,23,PT08M35.00S,1,1610612756,PHX,101112,Frye,C. Frye,-65,239,25,Made,1,10.0,6.0,16,h,Frye 25' 3PT Jump Shot (3 PTS) (Tucker 1 AST),Made Shot,Jump Shot,0,26
+21300400,24,PT08M29.00S,1,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0.0,0.0,0,h,Bledsoe P.FOUL (P1.T1),Foul,Personal,0,27
+21300400,25,PT08M29.00S,1,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,v,Mavericks Timeout: Short (Reg.0 Short 1),Timeout,Short,0,28
+21300400,28,PT08M24.00S,1,1610612742,DAL,1890,Marion,S. Marion,146,33,15,Missed,1,0.0,0.0,0,v,MISS Marion 15' Floating Jump Shot,Missed Shot,Floating Jump shot,0,29
+21300400,29,PT08M23.00S,1,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,h,Dragic REBOUND (Off:0 Def:1),Rebound,Unknown,0,30
+21300400,30,PT08M18.00S,1,1610612756,PHX,201609,Dragic,G. Dragic,15,-5,2,Missed,1,0.0,0.0,0,h,MISS Dragic 2' Layup,Missed Shot,Layup Shot,0,31
+21300400,31,PT08M17.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,v,Nowitzki REBOUND (Off:1 Def:2),Rebound,Unknown,0,32
+21300400,32,PT08M14.00S,1,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,v,Marion Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,33
+21300400,33,PT07M58.00S,1,1610612756,PHX,202339,Bledsoe,E. Bledsoe,2,56,6,Made,1,12.0,6.0,18,h,Bledsoe 6' Jump Shot (6 PTS),Made Shot,Jump Shot,0,34
+21300400,34,PT07M42.00S,1,1610612742,DAL,101145,Ellis,M. Ellis,-8,1,1,Missed,1,0.0,0.0,0,v,MISS Ellis 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,0,35
+21300400,35,PT07M39.00S,1,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,h,Dragic REBOUND (Off:0 Def:2),Rebound,Unknown,0,36
+21300400,36,PT07M35.00S,1,1610612756,PHX,200782,Tucker,P. Tucker,231,0,0,Missed,1,0.0,0.0,0,h,MISS Tucker  3PT Jump Shot,Missed Shot,Jump Shot,0,37
+21300400,37,PT07M34.00S,1,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,h,Dragic REBOUND (Off:1 Def:2),Rebound,Unknown,0,38
+21300400,38,PT07M29.00S,1,1610612756,PHX,101112,Frye,C. Frye,69,242,25,Made,1,15.0,6.0,21,h,Frye 25' 3PT Jump Shot (6 PTS) (Dragic 2 AST),Made Shot,Jump Shot,0,39
+21300400,39,PT07M27.00S,1,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,v,Mavericks Timeout: Regular (Reg.1 Short 1),Timeout,Regular,0,40
+21300400,42,PT07M27.00S,1,1610612742,DAL,201971,Blair,D. Blair,0,0,0,,0,0.0,0.0,0,v,SUB: Wright FOR Blair,Substitution,,0,41
+21300400,43,PT07M14.00S,1,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,h,Tucker S.FOUL (P1.T2),Foul,Shooting,0,42
+21300400,44,PT07M14.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,15.0,7.0,22,v,Nowitzki Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,43
+21300400,46,PT07M14.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,15.0,8.0,23,v,Nowitzki Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,44
+21300400,48,PT06M54.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,v,Nowitzki P.FOUL (P1.T1),Foul,Personal,0,45
+21300400,49,PT06M43.00S,1,1610612756,PHX,101112,Frye,C. Frye,173,34,18,Missed,1,0.0,0.0,0,h,MISS Frye 18' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,46
+21300400,50,PT06M41.00S,1,1610612742,DAL,101181,Calderon,J. Calderon,0,0,0,,0,0.0,0.0,0,v,Calderon REBOUND (Off:0 Def:1),Rebound,Unknown,0,47
+21300400,51,PT06M34.00S,1,1610612742,DAL,101145,Ellis,M. Ellis,0,14,1,Missed,1,0.0,0.0,0,v,MISS Ellis 1' Driving Layup,Missed Shot,Driving Layup Shot,0,48
+21300400,52,PT06M34.00S,1,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,v,Mavericks Rebound,Rebound,Unknown,0,49
+21300400,53,PT06M32.00S,1,1610612756,PHX,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,h,Frye S.FOUL (P1.T3),Foul,Shooting,0,50
+21300400,54,PT06M32.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,15.0,9.0,24,v,Nowitzki Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,51
+21300400,56,PT06M32.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,15.0,10.0,25,v,Nowitzki Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,52
+21300400,58,PT06M14.00S,1,1610612756,PHX,203101,Plumlee,M. Plumlee,78,23,8,Made,1,17.0,10.0,27,h,Plumlee 8' Hook Shot (2 PTS),Made Shot,Hook Shot,0,53
+21300400,59,PT05M52.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,165,44,17,Missed,1,0.0,0.0,0,v,MISS Nowitzki 17' Jump Shot,Missed Shot,Jump Shot,0,54
+21300400,73,PT05M50.00S,1,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,v,Marion REBOUND (Off:1 Def:0),Rebound,Unknown,0,55
+21300400,69,PT05M50.00S,1,1610612742,DAL,1890,Marion,S. Marion,-9,4,1,Missed,1,0.0,0.0,0,v,MISS Marion 1' Tip Shot,Missed Shot,Tip Shot,0,56
+21300400,60,PT05M50.00S,1,1610612756,PHX,203101,Plumlee,M. Plumlee,0,0,0,,0,0.0,0.0,0,h,Plumlee REBOUND (Off:0 Def:1),Rebound,Unknown,0,57
+21300400,61,PT05M41.00S,1,1610612756,PHX,101112,Frye,C. Frye,-224,110,25,Missed,1,0.0,0.0,0,h,MISS Frye 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,58
+21300400,63,PT05M40.00S,1,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,h,Tucker REBOUND (Off:1 Def:0),Rebound,Unknown,0,59
+21300400,62,PT05M40.00S,1,1610612756,PHX,200782,Tucker,P. Tucker,13,0,1,Made,1,19.0,10.0,29,h,Tucker 1' Tip Shot (5 PTS),Made Shot,Tip Shot,0,60
+21300400,64,PT05M34.00S,1,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,v,Mavericks Timeout: Regular (Reg.2 Short 1),Timeout,Regular,0,61
+21300400,66,PT05M34.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,v,SUB: Carter FOR Nowitzki,Substitution,,0,62
+21300400,67,PT05M34.00S,1,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0.0,0.0,0,h,SUB: Green FOR Bledsoe,Substitution,,0,63
+21300400,68,PT05M23.00S,1,1610612742,DAL,1713,Carter,V. Carter,-171,41,18,Made,1,19.0,12.0,31,v,Carter 18' Jump Shot (2 PTS),Made Shot,Jump Shot,0,64
+21300400,70,PT05M01.00S,1,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,0.0,0.0,0,v,Carter S.FOUL (P1.T2),Foul,Shooting,0,65
+21300400,72,PT05M01.00S,1,0,,70,Kerr,S. Kerr,0,0,0,,0,0.0,0.0,0,,Support Ruling,Instant Replay,Support Ruling,0,66
+21300400,74,PT05M01.00S,1,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,20.0,12.0,32,h,Green Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,0,67
+21300400,77,PT05M01.00S,1,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,21.0,12.0,33,h,Green Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,0,68
+21300400,80,PT05M01.00S,1,1610612756,PHX,203101,Plumlee,M. Plumlee,0,0,0,,0,0.0,0.0,0,h,SUB: Mark Morris FOR Plumlee,Substitution,,0,69
+21300400,81,PT05M01.00S,1,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,22.0,12.0,34,h,Green Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,0,70
+21300400,83,PT04M54.00S,1,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,0.0,0.0,0,v,Carter Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,71
+21300400,83,PT04M54.00S,1,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,h,Tucker STEAL (1 STL),,,0,72
+21300400,84,PT04M51.00S,1,1610612756,PHX,200782,Tucker,P. Tucker,15,1,2,Missed,1,0.0,0.0,0,h,MISS Tucker 2' Layup,Missed Shot,Layup Shot,0,73
+21300400,84,PT04M51.00S,1,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,0.0,0.0,0,v,Carter BLOCK (1 BLK),,,0,74
+21300400,85,PT04M51.00S,1,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,h,SUNS Rebound,Rebound,Unknown,0,75
+21300400,87,PT04M48.00S,1,1610612756,PHX,101123,Green,G. Green,-223,-14,0,Made,1,25.0,12.0,37,h,Green  3PT Jump Shot (6 PTS) (Tucker 2 AST),Made Shot,Jump Shot,0,76
+21300400,88,PT04M33.00S,1,1610612756,PHX,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,h,Frye Personal Block Foul (P2.T4),Foul,Personal Block,0,77
+21300400,90,PT04M33.00S,1,1610612756,PHX,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,h,SUB: Marc Morris FOR Frye,Substitution,,0,78
+21300400,91,PT04M27.00S,1,1610612742,DAL,201148,Wright,B. Wright,-4,19,2,Made,1,25.0,14.0,39,v,Wright 2' Finger Roll Layup (2 PTS) (Ellis 1 AST),Made Shot,Finger Roll Layup Shot,0,79
+21300400,92,PT04M08.00S,1,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0.0,0.0,0,h,Marc Morris Traveling Turnover (P1.T4),Turnover,Traveling,0,80
+21300400,93,PT03M52.00S,1,1610612742,DAL,101145,Ellis,M. Ellis,26,25,4,Missed,1,0.0,0.0,0,v,MISS Ellis 4' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,81
+21300400,94,PT03M51.00S,1,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0.0,0.0,0,h,Mark Morris REBOUND (Off:0 Def:1),Rebound,Unknown,0,82
+21300400,95,PT03M34.00S,1,1610612756,PHX,200782,Tucker,P. Tucker,-191,-3,19,Made,1,27.0,14.0,41,h,Tucker 19' Jump Shot (7 PTS) (Marc Morris 1 AST),Made Shot,Jump Shot,0,83
+21300400,97,PT03M17.00S,1,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,h,SUB: Bledsoe FOR Dragic,Substitution,,0,84
+21300400,98,PT03M17.00S,1,1610612742,DAL,101181,Calderon,J. Calderon,0,0,0,,0,0.0,0.0,0,v,SUB: Crowder FOR Calderon,Substitution,,0,85
+21300400,99,PT03M17.00S,1,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,h,SUB: Goodwin FOR Tucker,Substitution,,0,86
+21300400,100,PT03M09.00S,1,1610612742,DAL,1890,Marion,S. Marion,-79,53,10,Missed,1,0.0,0.0,0,v,MISS Marion 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,87
+21300400,101,PT03M06.00S,1,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0.0,0.0,0,h,Bledsoe REBOUND (Off:0 Def:2),Rebound,Unknown,0,88
+21300400,102,PT03M04.00S,1,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0.0,0.0,0,h,Bledsoe OFF.Foul (P2),Foul,Offensive,0,89
+21300400,103,PT03M04.00S,1,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0.0,0.0,0,h,Bledsoe Foul Turnover (P2.T5),Turnover,Foul,0,90
+21300400,105,PT02M52.00S,1,1610612742,DAL,101145,Ellis,M. Ellis,23,23,3,Made,1,27.0,16.0,43,v,Ellis 3' Running Hook Shot (2 PTS),Made Shot,Running Hook Shot,0,91
+21300400,106,PT02M38.00S,1,1610612756,PHX,203462,Goodwin,A. Goodwin,10,3,1,Missed,1,0.0,0.0,0,h,MISS Goodwin 1' Layup,Missed Shot,Layup Shot,0,92
+21300400,107,PT02M37.00S,1,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,0.0,0.0,0,v,Wright REBOUND (Off:0 Def:1),Rebound,Unknown,0,93
+21300400,108,PT02M19.00S,1,1610612742,DAL,101145,Ellis,M. Ellis,-16,-3,2,Missed,1,0.0,0.0,0,v,MISS Ellis 2' Layup,Missed Shot,Layup Shot,0,94
+21300400,110,PT02M17.00S,1,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,v,Marion REBOUND (Off:2 Def:0),Rebound,Unknown,0,95
+21300400,109,PT02M17.00S,1,1610612742,DAL,1890,Marion,S. Marion,4,11,1,Missed,1,0.0,0.0,0,v,MISS Marion 1' Tip Shot,Missed Shot,Tip Shot,0,96
+21300400,111,PT02M15.00S,1,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0.0,0.0,0,h,Marc Morris REBOUND (Off:0 Def:1),Rebound,Unknown,0,97
+21300400,112,PT02M10.00S,1,1610612756,PHX,101123,Green,G. Green,-136,208,25,Made,1,30.0,16.0,46,h,Green 25' 3PT Jump Shot (9 PTS),Made Shot,Jump Shot,0,98
+21300400,113,PT01M57.00S,1,1610612742,DAL,1713,Carter,V. Carter,201,71,21,Missed,1,0.0,0.0,0,v,MISS Carter 21' Jump Shot,Missed Shot,Jump Shot,0,99
+21300400,114,PT01M56.00S,1,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,0.0,0.0,0,v,Crowder REBOUND (Off:1 Def:0),Rebound,Unknown,0,100
+21300400,115,PT01M55.00S,1,1610612742,DAL,203109,Crowder,J. Crowder,9,0,1,Made,1,30.0,18.0,48,v,Crowder 1' Layup (2 PTS),Made Shot,Layup Shot,0,101
+21300400,116,PT01M38.00S,1,1610612756,PHX,101123,Green,G. Green,-237,-16,24,Made,1,33.0,18.0,51,h,Green 24' 3PT Jump Shot (12 PTS) (Bledsoe 1 AST),Made Shot,Jump Shot,0,102
+21300400,117,PT01M27.00S,1,1610612742,DAL,101145,Ellis,M. Ellis,36,15,4,Made,1,33.0,20.0,53,v,Ellis 4' Jump Shot (4 PTS),Made Shot,Jump Shot,0,103
+21300400,118,PT01M27.00S,1,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0.0,0.0,0,h,Marc Morris Shooting Block Foul (P1.PN),Foul,Shooting Block,0,104
+21300400,119,PT01M27.00S,1,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,v,SUB: Nowitzki FOR Marion,Substitution,,0,105
+21300400,120,PT01M27.00S,1,1610612742,DAL,101145,Ellis,M. Ellis,0,0,0,,0,33.0,21.0,54,v,Ellis Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,106
+21300400,122,PT01M08.00S,1,1610612756,PHX,202339,Bledsoe,E. Bledsoe,-10,254,25,Made,1,36.0,21.0,57,h,Bledsoe 25' 3PT Jump Shot (9 PTS),Made Shot,Jump Shot,0,107
+21300400,123,PT00M55.90S,1,1610612742,DAL,101145,Ellis,M. Ellis,-7,1,1,Made,1,36.0,23.0,59,v,Ellis 1' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,0,108
+21300400,124,PT00M36.90S,1,1610612756,PHX,203462,Goodwin,A. Goodwin,-8,3,1,Missed,1,0.0,0.0,0,h,MISS Goodwin 1' Layup,Missed Shot,Layup Shot,0,109
+21300400,124,PT00M36.90S,1,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,0.0,0.0,0,v,Wright BLOCK (1 BLK),,,0,110
+21300400,125,PT00M35.50S,1,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0.0,0.0,0,h,Mark Morris REBOUND (Off:1 Def:1),Rebound,Unknown,0,111
+21300400,126,PT00M31.90S,1,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0.0,0.0,0,h,Mark Morris Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,112
+21300400,126,PT00M31.90S,1,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,0.0,0.0,0,v,Crowder STEAL (1 STL),,,0,113
+21300400,127,PT00M28.90S,1,1610612742,DAL,203109,Crowder,J. Crowder,7,0,1,Missed,1,0.0,0.0,0,v,MISS Crowder 1' Layup,Missed Shot,Layup Shot,0,114
+21300400,127,PT00M28.90S,1,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,0.0,0.0,0,h,Green BLOCK (1 BLK),,,0,115
+21300400,128,PT00M26.90S,1,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,0.0,0.0,0,v,Crowder REBOUND (Off:2 Def:0),Rebound,Unknown,0,116
+21300400,129,PT00M26.90S,1,1610612742,DAL,203109,Crowder,J. Crowder,78,3,8,Made,1,36.0,25.0,61,v,Crowder 8' Jump Shot (4 PTS),Made Shot,Jump Shot,0,117
+21300400,130,PT00M06.90S,1,1610612756,PHX,202339,Bledsoe,E. Bledsoe,20,7,2,Missed,1,0.0,0.0,0,h,MISS Bledsoe 2' Driving Layup,Missed Shot,Driving Layup Shot,0,118
+21300400,132,PT00M05.80S,1,1610612756,PHX,203462,Goodwin,A. Goodwin,0,0,0,,0,0.0,0.0,0,h,Goodwin REBOUND (Off:1 Def:0),Rebound,Unknown,0,119
+21300400,131,PT00M05.80S,1,1610612756,PHX,203462,Goodwin,A. Goodwin,12,1,1,Made,1,38.0,25.0,63,h,Goodwin 1' Layup (2 PTS),Made Shot,Layup Shot,0,120
+21300400,135,PT00M00.20S,1,1610612742,DAL,101145,Ellis,M. Ellis,-93,241,26,Missed,1,0.0,0.0,0,v,MISS Ellis 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,121
+21300400,139,PT00M00.10S,1,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,v,Mavericks Rebound,Rebound,Unknown,0,122
+21300400,165,PT00M00.00S,1,0,,0,,,0,0,0,,0,38.0,25.0,63,,End of 1st Period (9:39 PM EST),period,end,0,123
+21300400,259,PT12M00.00S,2,0,,0,,,0,0,0,,0,38.0,25.0,63,,Start of 2nd Period (9:39 PM EST),period,start,0,124
+21300400,140,PT11M43.00S,2,1610612742,DAL,201148,Wright,B. Wright,32,11,3,Made,1,38.0,27.0,65,v,Wright 3' Hook Shot (4 PTS) (Carter 1 AST),Made Shot,Hook Shot,0,125
+21300400,141,PT11M27.00S,2,1610612756,PHX,203462,Goodwin,A. Goodwin,7,-10,1,Made,1,40.0,27.0,67,h,Goodwin 1' Driving Reverse Layup (4 PTS),Made Shot,Driving Reverse Layup Shot,0,126
+21300400,142,PT11M07.00S,2,1610612742,DAL,1713,Carter,V. Carter,-51,242,25,Missed,1,0.0,0.0,0,v,MISS Carter 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,127
+21300400,143,PT11M07.00S,2,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,v,Mavericks Rebound,Rebound,Unknown,0,128
+21300400,144,PT10M54.00S,2,1610612742,DAL,1713,Carter,V. Carter,-19,33,4,Made,1,40.0,29.0,69,v,Carter 4' Hook Shot (4 PTS),Made Shot,Hook Shot,0,129
+21300400,145,PT10M29.00S,2,1610612756,PHX,101123,Green,G. Green,-226,121,26,Missed,1,0.0,0.0,0,h,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,130
+21300400,146,PT10M28.00S,2,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,0.0,0.0,0,v,Wright REBOUND (Off:0 Def:2),Rebound,Unknown,0,131
+21300400,147,PT10M11.00S,2,1610612742,DAL,1713,Carter,V. Carter,-2,252,25,Missed,1,0.0,0.0,0,v,MISS Carter 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,132
+21300400,148,PT10M10.00S,2,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0.0,0.0,0,h,Bledsoe REBOUND (Off:0 Def:3),Rebound,Unknown,0,133
+21300400,149,PT10M06.00S,2,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0.0,0.0,0,h,Bledsoe Bad Pass Turnover (P3.T7),Turnover,Bad Pass,0,134
+21300400,150,PT10M06.00S,2,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,0.0,0.0,0,v,SUB: Dalembert FOR Wright,Substitution,,0,135
+21300400,151,PT09M51.00S,2,1610612756,PHX,203462,Goodwin,A. Goodwin,0,0,0,,0,0.0,0.0,0,h,Goodwin P.FOUL (P1.T1),Foul,Personal,0,136
+21300400,152,PT09M51.00S,2,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0.0,0.0,0,h,SUB: Plumlee FOR Mark Morris,Substitution,,0,137
+21300400,153,PT09M51.00S,2,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0.0,0.0,0,h,SUB: Frye FOR Marc Morris,Substitution,,0,138
+21300400,154,PT09M38.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-169,44,17,Missed,1,0.0,0.0,0,v,MISS Nowitzki 17' Jump Shot,Missed Shot,Jump Shot,0,139
+21300400,155,PT09M37.00S,2,1610612756,PHX,203101,Plumlee,M. Plumlee,0,0,0,,0,0.0,0.0,0,h,Plumlee REBOUND (Off:0 Def:2),Rebound,Unknown,0,140
+21300400,156,PT09M29.00S,2,1610612756,PHX,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,h,Frye OFF.Foul (P3),Foul,Offensive,0,141
+21300400,157,PT09M29.00S,2,1610612756,PHX,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,h,Frye Foul Turnover (P1.T8),Turnover,Foul,0,142
+21300400,158,PT09M29.00S,2,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,0.0,0.0,0,v,SUB: Ellington FOR Carter,Substitution,,0,143
+21300400,159,PT09M29.00S,2,1610612756,PHX,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,h,SUB: Mark Morris FOR Frye,Substitution,,0,144
+21300400,160,PT09M13.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-84,142,16,Made,1,40.0,31.0,71,v,Nowitzki 16' Jump Shot (6 PTS) (Larkin 1 AST),Made Shot,Jump Shot,0,145
+21300400,161,PT08M58.00S,2,1610612756,PHX,203462,Goodwin,A. Goodwin,0,0,0,,0,0.0,0.0,0,h,Goodwin Traveling Turnover (P1.T9),Turnover,Traveling,0,146
+21300400,162,PT08M58.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,147
+21300400,166,PT08M58.00S,2,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,0.0,0.0,0,h,SUB: Dragic FOR Green,Substitution,,0,148
+21300400,168,PT08M49.00S,2,1610612742,DAL,201961,Ellington,W. Ellington,184,97,21,Missed,1,0.0,0.0,0,v,MISS Ellington 21' Jump Shot,Missed Shot,Jump Shot,0,149
+21300400,169,PT08M48.00S,2,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0.0,0.0,0,h,Mark Morris REBOUND (Off:1 Def:2),Rebound,Unknown,0,150
+21300400,170,PT08M29.00S,2,1610612756,PHX,202693,Morris,M. Morris,-123,-14,12,Made,1,42.0,31.0,73,h,Mark Morris 12' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,0,151
+21300400,171,PT08M16.00S,2,1610612742,DAL,203109,Crowder,J. Crowder,65,11,7,Made,1,42.0,33.0,75,v,Crowder 7' Running Bank Shot (6 PTS),Made Shot,Running Bank shot,0,152
+21300400,172,PT08M16.00S,2,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,h,Dragic Shooting Block Foul (P1.T2),Foul,Shooting Block,0,153
+21300400,173,PT08M16.00S,2,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,42.0,34.0,76,v,Crowder Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,154
+21300400,175,PT07M56.00S,2,1610612756,PHX,201609,Dragic,G. Dragic,102,33,11,Missed,1,0.0,0.0,0,h,MISS Dragic 11' Jump Bank Shot,Missed Shot,Jump Bank Shot,0,155
+21300400,176,PT07M53.00S,2,1610612742,DAL,201961,Ellington,W. Ellington,0,0,0,,0,0.0,0.0,0,v,Ellington REBOUND (Off:0 Def:1),Rebound,Unknown,0,156
+21300400,177,PT07M47.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-62,239,25,Missed,1,0.0,0.0,0,v,MISS Nowitzki 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,157
+21300400,178,PT07M46.00S,2,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,0.0,0.0,0,v,Crowder REBOUND (Off:3 Def:0),Rebound,Unknown,0,158
+21300400,179,PT07M42.00S,2,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,0.0,0.0,0,v,Crowder Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,159
+21300400,179,PT07M42.00S,2,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,h,Dragic STEAL (1 STL),,,0,160
+21300400,180,PT07M39.00S,2,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,h,Dragic Lost Ball Turnover (P2.T10),Turnover,Lost Ball,0,161
+21300400,180,PT07M39.00S,2,1610612742,DAL,201961,Ellington,W. Ellington,0,0,0,,0,0.0,0.0,0,v,Ellington STEAL (1 STL),,,0,162
+21300400,181,PT07M35.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,190,-5,19,Made,1,42.0,36.0,78,v,Nowitzki 19' Jump Shot (8 PTS) (Crowder 1 AST),Made Shot,Jump Shot,0,163
+21300400,182,PT07M26.00S,2,1610612756,PHX,202693,Morris,M. Morris,-224,127,26,Missed,1,0.0,0.0,0,h,MISS Mark Morris 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,164
+21300400,183,PT07M25.00S,2,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,0.0,0.0,0,v,Crowder REBOUND (Off:3 Def:1),Rebound,Unknown,0,165
+21300400,184,PT07M17.00S,2,1610612742,DAL,203109,Crowder,J. Crowder,-16,198,20,Missed,1,0.0,0.0,0,v,MISS Crowder 20' Jump Shot,Missed Shot,Jump Shot,0,166
+21300400,185,PT07M17.00S,2,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0.0,0.0,0,h,Mark Morris REBOUND (Off:1 Def:3),Rebound,Unknown,0,167
+21300400,186,PT07M08.00S,2,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,0.0,0.0,0,v,Crowder S.FOUL (P1.T1),Foul,Shooting,0,168
+21300400,187,PT07M08.00S,2,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0.0,0.0,0,h,MISS Mark Morris Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,169
+21300400,188,PT07M08.00S,2,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,h,SUNS Rebound,Rebound,Normal Rebound,0,170
+21300400,189,PT07M08.00S,2,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,43.0,36.0,79,h,Mark Morris Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,171
+21300400,191,PT06M58.00S,2,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0.0,0.0,0,h,Mark Morris S.FOUL (P1.T3),Foul,Shooting,0,172
+21300400,192,PT06M58.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,43.0,37.0,80,v,Nowitzki Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,173
+21300400,194,PT06M58.00S,2,1610612756,PHX,203462,Goodwin,A. Goodwin,0,0,0,,0,0.0,0.0,0,h,SUB: Green FOR Goodwin,Substitution,,0,174
+21300400,195,PT06M58.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,43.0,38.0,81,v,Nowitzki Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,175
+21300400,197,PT06M37.00S,2,1610612756,PHX,201609,Dragic,G. Dragic,159,-3,16,Made,1,45.0,38.0,83,h,Dragic 16' Jump Shot (2 PTS),Made Shot,Jump Shot,0,176
+21300400,198,PT06M30.00S,2,1610612742,DAL,203499,Larkin,S. Larkin,67,23,7,Missed,1,0.0,0.0,0,v,MISS Larkin 7' Jump Shot,Missed Shot,Jump Shot,0,177
+21300400,200,PT06M28.00S,2,1610612742,DAL,2223,Dalembert,S. Dalembert,0,0,0,,0,0.0,0.0,0,v,Dalembert REBOUND (Off:1 Def:0),Rebound,Unknown,0,178
+21300400,199,PT06M28.00S,2,1610612742,DAL,2223,Dalembert,S. Dalembert,-10,14,2,Missed,1,0.0,0.0,0,v,MISS Dalembert 2' Layup,Missed Shot,Layup Shot,0,179
+21300400,201,PT06M26.00S,2,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0.0,0.0,0,h,Mark Morris REBOUND (Off:1 Def:4),Rebound,Unknown,0,180
+21300400,202,PT06M16.00S,2,1610612756,PHX,202693,Morris,M. Morris,81,168,19,Missed,1,0.0,0.0,0,h,MISS Mark Morris 19' Jump Shot,Missed Shot,Jump Shot,0,181
+21300400,203,PT06M15.00S,2,1610612756,PHX,203101,Plumlee,M. Plumlee,0,0,0,,0,0.0,0.0,0,h,Plumlee REBOUND (Off:1 Def:2),Rebound,Unknown,0,182
+21300400,204,PT06M10.00S,2,1610612756,PHX,101123,Green,G. Green,-229,58,24,Missed,1,0.0,0.0,0,h,MISS Green 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,183
+21300400,205,PT06M08.00S,2,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,v,Mavericks Rebound,Rebound,Unknown,0,184
+21300400,207,PT06M08.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,v,SUB: Ellis FOR Nowitzki,Substitution,,0,185
+21300400,208,PT06M08.00S,2,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,0.0,0.0,0,v,SUB: Marion FOR Crowder,Substitution,,0,186
+21300400,209,PT06M08.00S,2,1610612742,DAL,203499,Larkin,S. Larkin,0,0,0,,0,0.0,0.0,0,v,SUB: Carter FOR Larkin,Substitution,,0,187
+21300400,210,PT06M08.00S,2,1610612742,DAL,201961,Ellington,W. Ellington,0,0,0,,0,0.0,0.0,0,v,SUB: Calderon FOR Ellington,Substitution,,0,188
+21300400,211,PT05M57.00S,2,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,0.0,0.0,0,h,Green P.FOUL (P1.T4),Foul,Personal,0,189
+21300400,217,PT05M57.00S,2,1610612742,DAL,2223,Dalembert,S. Dalembert,0,0,0,,0,0.0,0.0,0,v,SUB: Wright FOR Dalembert,Substitution,,0,190
+21300400,218,PT05M51.00S,2,1610612742,DAL,201148,Wright,B. Wright,37,28,5,Missed,1,0.0,0.0,0,v,MISS Wright 5' Hook Shot,Missed Shot,Hook Shot,0,191
+21300400,219,PT05M50.00S,2,1610612756,PHX,203101,Plumlee,M. Plumlee,0,0,0,,0,0.0,0.0,0,h,Plumlee REBOUND (Off:1 Def:3),Rebound,Unknown,0,192
+21300400,220,PT05M28.00S,2,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,v,Marion S.FOUL (P1.T2),Foul,Shooting,0,193
+21300400,221,PT05M28.00S,2,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,46.0,38.0,84,h,Bledsoe Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,194
+21300400,319,PT05M28.00S,2,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0.0,0.0,0,h,SUB: Marc Morris FOR Mark Morris,Substitution,,0,195
+21300400,225,PT05M28.00S,2,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,47.0,38.0,85,h,Bledsoe Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,196
+21300400,227,PT05M16.00S,2,1610612742,DAL,201148,Wright,B. Wright,-5,-10,1,Made,1,47.0,40.0,87,v,Wright 1' Layup (6 PTS) (Carter 2 AST),Made Shot,Layup Shot,0,197
+21300400,228,PT04M56.00S,2,1610612756,PHX,201609,Dragic,G. Dragic,-147,201,25,Missed,1,0.0,0.0,0,h,MISS Dragic 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,198
+21300400,229,PT04M55.00S,2,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,0.0,0.0,0,v,Carter REBOUND (Off:0 Def:1),Rebound,Unknown,0,199
+21300400,230,PT04M48.00S,2,1610612742,DAL,101181,Calderon,J. Calderon,225,102,25,Made,1,47.0,43.0,90,v,Calderon 25' 3PT Jump Shot (5 PTS) (Ellis 2 AST),Made Shot,Jump Shot,0,200
+21300400,231,PT04M28.00S,2,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,40,78,9,Missed,1,0.0,0.0,0,h,MISS Marc Morris 9' Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,201
+21300400,232,PT04M26.00S,2,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,0.0,0.0,0,v,Wright REBOUND (Off:0 Def:3),Rebound,Unknown,0,202
+21300400,233,PT04M18.00S,2,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,h,Dragic S.FOUL (P2.PN),Foul,Shooting,0,203
+21300400,234,PT04M18.00S,2,1610612742,DAL,101145,Ellis,M. Ellis,0,0,0,,0,0.0,0.0,0,v,MISS Ellis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,204
+21300400,235,PT04M18.00S,2,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,v,Mavericks Rebound,Rebound,Normal Rebound,0,205
+21300400,363,PT04M18.00S,2,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0.0,0.0,0,h,SUB: Tucker FOR Bledsoe,Substitution,,0,206
+21300400,236,PT04M18.00S,2,1610612742,DAL,101145,Ellis,M. Ellis,0,0,0,,0,47.0,44.0,91,v,Ellis Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,207
+21300400,238,PT04M07.00S,2,1610612756,PHX,101123,Green,G. Green,-149,60,16,Made,1,49.0,44.0,93,h,Green 16' Jump Shot (14 PTS),Made Shot,Jump Shot,0,208
+21300400,239,PT03M57.00S,2,1610612742,DAL,1890,Marion,S. Marion,-71,83,11,Made,1,49.0,46.0,95,v,Marion 11' Floating Jump Shot (4 PTS) (Calderon 3 AST),Made Shot,Floating Jump shot,0,209
+21300400,240,PT03M37.00S,2,1610612756,PHX,101123,Green,G. Green,2,77,8,Made,1,51.0,46.0,97,h,Green 8' Fadeaway Jumper (16 PTS),Made Shot,Fadeaway Jump Shot,0,210
+21300400,241,PT03M15.00S,2,1610612742,DAL,1890,Marion,S. Marion,-62,56,8,Missed,1,0.0,0.0,0,v,MISS Marion 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,211
+21300400,242,PT03M13.00S,2,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,h,Dragic REBOUND (Off:1 Def:3),Rebound,Unknown,0,212
+21300400,243,PT03M10.00S,2,1610612742,DAL,101181,Calderon,J. Calderon,0,0,0,,0,0.0,0.0,0,v,Calderon S.FOUL (P1.T3),Foul,Shooting,0,213
+21300400,244,PT03M10.00S,2,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,v,Mavericks Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,214
+21300400,245,PT03M10.00S,2,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,v,SUB: Nowitzki FOR Marion,Substitution,,0,215
+21300400,250,PT03M10.00S,2,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,52.0,46.0,98,h,Dragic Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,216
+21300400,252,PT03M10.00S,2,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,53.0,46.0,99,h,Dragic Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,217
+21300400,255,PT02M57.00S,2,1610612742,DAL,1713,Carter,V. Carter,42,9,4,Made,1,53.0,48.0,101,v,Carter 4' Jump Bank Shot (6 PTS),Made Shot,Jump Bank Shot,0,218
+21300400,256,PT02M36.00S,2,1610612742,DAL,101145,Ellis,M. Ellis,0,0,0,,0,0.0,0.0,0,v,Ellis S.FOUL (P1.T4),Foul,Shooting,0,219
+21300400,257,PT02M36.00S,2,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,54.0,48.0,102,h,Green Free Throw 1 of 3 (17 PTS),Free Throw,Free Throw 1 of 3,0,220
+21300400,260,PT02M36.00S,2,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,55.0,48.0,103,h,Green Free Throw 2 of 3 (18 PTS),Free Throw,Free Throw 2 of 3,0,221
+21300400,262,PT02M36.00S,2,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,56.0,48.0,104,h,Green Free Throw 3 of 3 (19 PTS),Free Throw,Free Throw 3 of 3,0,222
+21300400,264,PT02M22.00S,2,1610612742,DAL,101145,Ellis,M. Ellis,23,1,2,Made,1,56.0,50.0,106,v,Ellis 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,0,223
+21300400,265,PT02M01.00S,2,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,-15,244,24,Missed,1,0.0,0.0,0,h,MISS Marc Morris 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,224
+21300400,266,PT01M59.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,v,Nowitzki REBOUND (Off:1 Def:3),Rebound,Unknown,0,225
+21300400,267,PT01M48.00S,2,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,h,Tucker P.FOUL (P2.PN),Foul,Personal,0,226
+21300400,268,PT01M48.00S,2,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,56.0,51.0,107,v,Wright Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,227
+21300400,270,PT01M48.00S,2,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0.0,0.0,0,h,SUB: Bledsoe FOR Marc Morris,Substitution,,0,228
+21300400,272,PT01M48.00S,2,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,56.0,52.0,108,v,Wright Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,229
+21300400,274,PT01M34.00S,2,1610612756,PHX,202339,Bledsoe,E. Bledsoe,7,30,3,Missed,1,0.0,0.0,0,h,MISS Bledsoe 3' Jump Shot,Missed Shot,Jump Shot,0,230
+21300400,274,PT01M34.00S,2,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,0.0,0.0,0,v,Wright BLOCK (2 BLK),,,0,231
+21300400,275,PT01M33.00S,2,1610612742,DAL,101181,Calderon,J. Calderon,0,0,0,,0,0.0,0.0,0,v,Calderon REBOUND (Off:0 Def:2),Rebound,Unknown,0,232
+21300400,276,PT01M30.00S,2,1610612742,DAL,101145,Ellis,M. Ellis,-5,1,1,Made,1,56.0,54.0,110,v,Ellis 1' Dunk (12 PTS) (Calderon 4 AST),Made Shot,Dunk Shot,0,233
+21300400,277,PT01M22.00S,2,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,0.0,0.0,0,v,Carter S.FOUL (P2.PN),Foul,Shooting,0,234
+21300400,278,PT01M22.00S,2,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,57.0,54.0,111,h,Tucker Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,235
+21300400,280,PT01M22.00S,2,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,0.0,0.0,0,v,SUB: Marion FOR Carter,Substitution,,0,236
+21300400,281,PT01M22.00S,2,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,58.0,54.0,112,h,Tucker Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,237
+21300400,283,PT01M06.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-139,4,14,Missed,1,0.0,0.0,0,v,MISS Nowitzki 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,0,238
+21300400,284,PT01M03.00S,2,1610612756,PHX,203101,Plumlee,M. Plumlee,0,0,0,,0,0.0,0.0,0,h,Plumlee REBOUND (Off:1 Def:4),Rebound,Unknown,0,239
+21300400,285,PT00M51.90S,2,1610612756,PHX,203101,Plumlee,M. Plumlee,-57,31,6,Missed,1,0.0,0.0,0,h,MISS Plumlee 6' Hook Shot,Missed Shot,Hook Shot,0,240
+21300400,286,PT00M48.90S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,v,Nowitzki REBOUND (Off:1 Def:4),Rebound,Unknown,0,241
+21300400,287,PT00M33.90S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-199,105,23,Made,1,58.0,56.0,114,v,Nowitzki 23' Jump Shot (12 PTS) (Ellis 3 AST),Made Shot,Jump Shot,0,242
+21300400,288,PT00M16.90S,2,1610612756,PHX,201609,Dragic,G. Dragic,28,126,13,Missed,1,0.0,0.0,0,h,MISS Dragic 13' Jump Shot,Missed Shot,Jump Shot,0,243
+21300400,289,PT00M15.80S,2,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,h,Tucker REBOUND (Off:2 Def:0),Rebound,Unknown,0,244
+21300400,290,PT00M10.90S,2,1610612756,PHX,202339,Bledsoe,E. Bledsoe,-8,260,26,Made,1,61.0,56.0,117,h,Bledsoe 26' 3PT Jump Shot (14 PTS) (Tucker 3 AST),Made Shot,Jump Shot,0,245
+21300400,291,PT00M03.90S,2,1610612742,DAL,201148,Wright,B. Wright,-5,6,1,Made,1,61.0,58.0,119,v,Wright 1' Dunk (10 PTS) (Ellis 4 AST),Made Shot,Dunk Shot,0,246
+21300400,292,PT00M01.90S,2,1610612756,PHX,201609,Dragic,G. Dragic,-10,3,1,Made,1,63.0,58.0,121,h,Dragic 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,247
+21300400,293,PT00M00.00S,2,0,,0,,,0,0,0,,0,63.0,58.0,121,,End of 2nd Period (10:09 PM EST),period,end,0,248
+21300400,295,PT12M00.00S,3,0,,0,,,0,0,0,,0,63.0,58.0,121,,Start of 3rd Period (10:25 PM EST),period,start,0,249
+21300400,296,PT11M48.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-149,107,18,Made,1,63.0,60.0,123,v,Nowitzki 18' Jump Shot (14 PTS) (Ellis 5 AST),Made Shot,Jump Shot,0,250
+21300400,297,PT11M28.00S,3,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,0.0,0.0,0,v,Mavericks T.Foul (Def. 3 Sec Wright ),Foul,Defense 3 Second,0,251
+21300400,298,PT11M28.00S,3,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,64.0,60.0,124,h,Dragic Free Throw Technical (7 PTS),Free Throw,Free Throw Technical,0,252
+21300400,300,PT11M16.00S,3,1610612756,PHX,101112,Frye,C. Frye,-8,242,24,Missed,1,0.0,0.0,0,h,MISS Frye 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,253
+21300400,301,PT11M15.00S,3,1610612756,PHX,203101,Plumlee,M. Plumlee,0,0,0,,0,0.0,0.0,0,h,Plumlee REBOUND (Off:2 Def:4),Rebound,Unknown,0,254
+21300400,302,PT11M08.00S,3,1610612756,PHX,200782,Tucker,P. Tucker,-4,225,23,Missed,1,0.0,0.0,0,h,MISS Tucker 23' Jump Shot,Missed Shot,Jump Shot,0,255
+21300400,303,PT11M08.00S,3,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,h,SUNS Rebound,Rebound,Unknown,0,256
+21300400,304,PT11M08.00S,3,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,v,Marion L.B.FOUL (P2.T1),Foul,Loose Ball,0,257
+21300400,305,PT11M02.00S,3,1610612756,PHX,200782,Tucker,P. Tucker,-210,-8,21,Missed,1,0.0,0.0,0,h,MISS Tucker 21' Jump Shot,Missed Shot,Jump Shot,0,258
+21300400,306,PT10M59.00S,3,1610612756,PHX,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,h,Frye REBOUND (Off:1 Def:2),Rebound,Unknown,0,259
+21300400,307,PT10M58.00S,3,1610612756,PHX,101112,Frye,C. Frye,24,1,2,Missed,1,0.0,0.0,0,h,MISS Frye 2' Layup,Missed Shot,Layup Shot,0,260
+21300400,309,PT10M57.00S,3,1610612756,PHX,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,h,Frye REBOUND (Off:2 Def:2),Rebound,Unknown,0,261
+21300400,308,PT10M57.00S,3,1610612756,PHX,101112,Frye,C. Frye,-9,-6,1,Missed,1,0.0,0.0,0,h,MISS Frye 1' Tip Shot,Missed Shot,Tip Shot,0,262
+21300400,310,PT10M55.00S,3,1610612756,PHX,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,h,Frye REBOUND (Off:3 Def:2),Rebound,Unknown,0,263
+21300400,311,PT10M54.00S,3,1610612756,PHX,101112,Frye,C. Frye,20,11,2,Missed,1,0.0,0.0,0,h,MISS Frye 2' Layup,Missed Shot,Layup Shot,0,264
+21300400,311,PT10M54.00S,3,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,0.0,0.0,0,v,Wright BLOCK (3 BLK),,,0,265
+21300400,312,PT10M53.00S,3,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,v,Marion REBOUND (Off:2 Def:1),Rebound,Unknown,0,266
+21300400,313,PT10M43.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,106,224,25,Missed,1,0.0,0.0,0,v,MISS Nowitzki 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,267
+21300400,314,PT10M42.00S,3,1610612756,PHX,203101,Plumlee,M. Plumlee,0,0,0,,0,0.0,0.0,0,h,Plumlee REBOUND (Off:2 Def:5),Rebound,Unknown,0,268
+21300400,315,PT10M36.00S,3,1610612756,PHX,202339,Bledsoe,E. Bledsoe,140,146,20,Made,1,66.0,60.0,126,h,Bledsoe 20' Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,0,269
+21300400,317,PT10M16.00S,3,1610612742,DAL,101145,Ellis,M. Ellis,0,0,0,,0,0.0,0.0,0,v,Ellis Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,270
+21300400,317,PT10M16.00S,3,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,h,Dragic STEAL (2 STL),,,0,271
+21300400,318,PT10M12.00S,3,1610612756,PHX,201609,Dragic,G. Dragic,10,0,1,Made,1,68.0,60.0,128,h,Dragic 1' Driving Reverse Layup (9 PTS),Made Shot,Driving Reverse Layup Shot,0,272
+21300400,320,PT10M00.00S,3,1610612742,DAL,101145,Ellis,M. Ellis,-229,-10,0,Missed,1,0.0,0.0,0,v,MISS Ellis  3PT Jump Shot,Missed Shot,Jump Shot,0,273
+21300400,321,PT09M59.00S,3,1610612756,PHX,203101,Plumlee,M. Plumlee,0,0,0,,0,0.0,0.0,0,h,Plumlee REBOUND (Off:2 Def:6),Rebound,Unknown,0,274
+21300400,322,PT09M52.00S,3,1610612756,PHX,200782,Tucker,P. Tucker,9,-3,1,Made,1,70.0,60.0,130,h,Tucker 1' Layup (11 PTS) (Bledsoe 2 AST),Made Shot,Layup Shot,0,275
+21300400,323,PT09M52.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,v,Nowitzki S.FOUL (P2.T2),Foul,Shooting,0,276
+21300400,325,PT09M52.00S,3,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,h,MISS Tucker Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,277
+21300400,327,PT09M51.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,v,Nowitzki REBOUND (Off:1 Def:5),Rebound,Unknown,0,278
+21300400,328,PT09M38.00S,3,1610612742,DAL,101145,Ellis,M. Ellis,-18,-2,2,Missed,1,0.0,0.0,0,v,MISS Ellis 2' Running Layup,Missed Shot,Running Layup Shot,0,279
+21300400,329,PT09M35.00S,3,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,0.0,0.0,0,v,Wright REBOUND (Off:1 Def:3),Rebound,Unknown,0,280
+21300400,330,PT09M34.00S,3,1610612742,DAL,201148,Wright,B. Wright,6,12,1,Made,1,70.0,62.0,132,v,Wright 1' Putback Dunk (12 PTS),Made Shot,Putback Dunk Shot,0,281
+21300400,332,PT09M22.00S,3,1610612756,PHX,200782,Tucker,P. Tucker,-231,-11,0,Made,1,73.0,62.0,135,h,Tucker  3PT Jump Shot (14 PTS) (Dragic 3 AST),Made Shot,Jump Shot,0,282
+21300400,333,PT09M20.00S,3,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,v,Mavericks Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,283
+21300400,336,PT09M06.00S,3,1610612742,DAL,101145,Ellis,M. Ellis,-10,39,4,Missed,1,0.0,0.0,0,v,MISS Ellis 4' Jump Shot,Missed Shot,Jump Shot,0,284
+21300400,337,PT09M05.00S,3,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,0.0,0.0,0,v,Wright REBOUND (Off:2 Def:3),Rebound,Unknown,0,285
+21300400,338,PT09M02.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,9,242,24,Made,1,73.0,65.0,138,v,Nowitzki 24' 3PT Jump Shot (17 PTS) (Wright 1 AST),Made Shot,Jump Shot,0,286
+21300400,339,PT08M38.00S,3,1610612756,PHX,202339,Bledsoe,E. Bledsoe,206,135,25,Missed,1,0.0,0.0,0,h,MISS Bledsoe 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,287
+21300400,340,PT08M38.00S,3,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,h,SUNS Rebound,Rebound,Unknown,0,288
+21300400,341,PT08M38.00S,3,1610612742,DAL,101145,Ellis,M. Ellis,0,0,0,,0,0.0,0.0,0,v,Ellis L.B.FOUL (P2.T3),Foul,Loose Ball,0,289
+21300400,342,PT08M34.00S,3,1610612756,PHX,200782,Tucker,P. Tucker,13,0,1,Missed,1,0.0,0.0,0,h,MISS Tucker 1' Layup,Missed Shot,Layup Shot,0,290
+21300400,342,PT08M34.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,v,Nowitzki BLOCK (1 BLK),,,0,291
+21300400,343,PT08M32.00S,3,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,v,Marion REBOUND (Off:2 Def:2),Rebound,Unknown,0,292
+21300400,344,PT08M13.00S,3,1610612742,DAL,201148,Wright,B. Wright,-45,80,9,Missed,1,0.0,0.0,0,v,MISS Wright 9' Floating Jump Shot,Missed Shot,Floating Jump shot,0,293
+21300400,345,PT08M12.00S,3,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,h,Tucker REBOUND (Off:2 Def:1),Rebound,Unknown,0,294
+21300400,346,PT07M54.00S,3,1610612756,PHX,201609,Dragic,G. Dragic,-57,22,6,Missed,1,0.0,0.0,0,h,MISS Dragic 6' Jump Shot,Missed Shot,Jump Shot,0,295
+21300400,346,PT07M54.00S,3,1610612742,DAL,101181,Calderon,J. Calderon,0,0,0,,0,0.0,0.0,0,v,Calderon BLOCK (1 BLK),,,0,296
+21300400,347,PT07M53.00S,3,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,h,Dragic REBOUND (Off:2 Def:3),Rebound,Unknown,0,297
+21300400,348,PT07M48.00S,3,1610612756,PHX,200782,Tucker,P. Tucker,17,-3,2,Missed,1,0.0,0.0,0,h,MISS Tucker 2' Reverse Layup,Missed Shot,Reverse Layup Shot,0,298
+21300400,349,PT07M47.00S,3,1610612756,PHX,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,h,Frye REBOUND (Off:4 Def:2),Rebound,Unknown,0,299
+21300400,350,PT07M46.00S,3,1610612756,PHX,101112,Frye,C. Frye,13,-5,1,Missed,1,0.0,0.0,0,h,MISS Frye 1' Layup,Missed Shot,Layup Shot,0,300
+21300400,350,PT07M46.00S,3,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,0.0,0.0,0,v,Wright BLOCK (4 BLK),,,0,301
+21300400,351,PT07M44.00S,3,1610612742,DAL,101181,Calderon,J. Calderon,0,0,0,,0,0.0,0.0,0,v,Calderon REBOUND (Off:0 Def:3),Rebound,Unknown,0,302
+21300400,352,PT07M38.00S,3,1610612742,DAL,1890,Marion,S. Marion,12,-2,1,Made,1,73.0,67.0,140,v,Marion 1' Dunk (6 PTS) (Ellis 6 AST),Made Shot,Dunk Shot,0,303
+21300400,353,PT07M16.00S,3,1610612756,PHX,201609,Dragic,G. Dragic,-232,17,0,Missed,1,0.0,0.0,0,h,MISS Dragic  3PT Jump Shot,Missed Shot,Jump Shot,0,304
+21300400,354,PT07M15.00S,3,1610612742,DAL,101145,Ellis,M. Ellis,0,0,0,,0,0.0,0.0,0,v,Ellis REBOUND (Off:0 Def:1),Rebound,Unknown,0,305
+21300400,355,PT07M04.00S,3,1610612742,DAL,101145,Ellis,M. Ellis,-10,11,1,Made,1,73.0,69.0,142,v,Ellis 1' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,0,306
+21300400,356,PT06M49.00S,3,1610612756,PHX,201609,Dragic,G. Dragic,154,-13,15,Made,1,75.0,69.0,144,h,Dragic 15' Step Back Jump Shot (11 PTS),Made Shot,Step Back Jump shot,0,307
+21300400,357,PT06M38.00S,3,1610612742,DAL,101181,Calderon,J. Calderon,6,172,17,Made,1,75.0,71.0,146,v,Calderon 17' Jump Shot (7 PTS),Made Shot,Jump Shot,0,308
+21300400,358,PT06M19.00S,3,1610612756,PHX,201609,Dragic,G. Dragic,42,241,24,Missed,1,0.0,0.0,0,h,MISS Dragic 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,309
+21300400,359,PT06M19.00S,3,1610612742,DAL,101145,Ellis,M. Ellis,0,0,0,,0,0.0,0.0,0,v,Ellis REBOUND (Off:0 Def:2),Rebound,Unknown,0,310
+21300400,360,PT06M13.00S,3,1610612742,DAL,101181,Calderon,J. Calderon,129,225,26,Missed,1,0.0,0.0,0,v,MISS Calderon 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,311
+21300400,361,PT06M12.00S,3,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,h,Tucker REBOUND (Off:2 Def:2),Rebound,Unknown,0,312
+21300400,362,PT05M53.00S,3,1610612756,PHX,200782,Tucker,P. Tucker,-163,34,17,Made,1,77.0,71.0,148,h,Tucker 17' Jump Shot (16 PTS),Made Shot,Jump Shot,0,313
+21300400,364,PT05M39.00S,3,1610612742,DAL,101145,Ellis,M. Ellis,-10,1,1,Missed,1,0.0,0.0,0,v,MISS Ellis 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,0,314
+21300400,365,PT05M34.00S,3,1610612756,PHX,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,h,Frye REBOUND (Off:4 Def:3),Rebound,Unknown,0,315
+21300400,366,PT05M33.00S,3,1610612756,PHX,203101,Plumlee,M. Plumlee,0,-6,1,Made,1,79.0,71.0,150,h,Plumlee 1' Alley Oop Dunk (4 PTS) (Bledsoe 3 AST),Made Shot,Alley Oop Dunk Shot,0,316
+21300400,367,PT05M33.00S,3,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,v,Mavericks Timeout: Short (Reg.4 Short 2),Timeout,Short,0,317
+21300400,369,PT05M33.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,v,SUB: Dalembert FOR Nowitzki,Substitution,,0,318
+21300400,370,PT05M33.00S,3,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,0.0,0.0,0,v,SUB: Carter FOR Wright,Substitution,,0,319
+21300400,373,PT05M15.00S,3,1610612742,DAL,2223,Dalembert,S. Dalembert,-29,4,3,Missed,1,0.0,0.0,0,v,MISS Dalembert 3' Layup,Missed Shot,Layup Shot,0,320
+21300400,375,PT05M14.00S,3,1610612742,DAL,2223,Dalembert,S. Dalembert,0,0,0,,0,0.0,0.0,0,v,Dalembert REBOUND (Off:2 Def:0),Rebound,Unknown,0,321
+21300400,374,PT05M14.00S,3,1610612742,DAL,2223,Dalembert,S. Dalembert,-21,6,2,Missed,1,0.0,0.0,0,v,MISS Dalembert 2' Tip Shot,Missed Shot,Tip Shot,0,322
+21300400,376,PT05M12.00S,3,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,h,Tucker REBOUND (Off:2 Def:3),Rebound,Unknown,0,323
+21300400,377,PT04M56.00S,3,1610612742,DAL,2223,Dalembert,S. Dalembert,0,0,0,,0,0.0,0.0,0,v,Dalembert S.FOUL (P1.T4),Foul,Shooting,0,324
+21300400,379,PT04M56.00S,3,1610612756,PHX,101112,Frye,C. Frye,0,0,0,,0,80.0,71.0,151,h,Frye Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,325
+21300400,381,PT04M56.00S,3,1610612756,PHX,101112,Frye,C. Frye,0,0,0,,0,81.0,71.0,152,h,Frye Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,326
+21300400,384,PT04M43.00S,3,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,h,Dragic P.FOUL (P3.T1),Foul,Personal,0,327
+21300400,385,PT04M43.00S,3,1610612756,PHX,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,h,SUB: Green FOR Frye,Substitution,,0,328
+21300400,386,PT04M43.00S,3,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,h,SUB: Mark Morris FOR Dragic,Substitution,,0,329
+21300400,387,PT04M38.00S,3,1610612742,DAL,1713,Carter,V. Carter,43,1,4,Missed,1,0.0,0.0,0,v,MISS Carter 4' Running Jump Shot,Missed Shot,Running Jump Shot,0,330
+21300400,388,PT04M36.00S,3,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,h,SUNS Rebound,Rebound,Unknown,0,331
+21300400,389,PT04M22.00S,3,1610612756,PHX,202693,Morris,M. Morris,17,0,2,Made,1,83.0,71.0,154,h,Mark Morris 2' Reverse Layup (5 PTS) (Green 1 AST),Made Shot,Reverse Layup Shot,0,332
+21300400,390,PT03M58.00S,3,1610612742,DAL,1890,Marion,S. Marion,-5,97,10,Made,1,83.0,73.0,156,v,Marion 10' Floating Jump Shot (8 PTS) (Carter 3 AST),Made Shot,Floating Jump shot,0,333
+21300400,391,PT03M42.00S,3,1610612756,PHX,101123,Green,G. Green,-168,179,25,Missed,1,0.0,0.0,0,h,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,334
+21300400,392,PT03M41.00S,3,1610612742,DAL,2223,Dalembert,S. Dalembert,0,0,0,,0,0.0,0.0,0,v,Dalembert REBOUND (Off:2 Def:1),Rebound,Unknown,0,335
+21300400,393,PT03M24.00S,3,1610612742,DAL,101145,Ellis,M. Ellis,0,0,0,,0,0.0,0.0,0,v,Ellis Bad Pass Turnover (P3.T6),Turnover,Bad Pass,0,336
+21300400,393,PT03M24.00S,3,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0.0,0.0,0,h,Mark Morris STEAL (1 STL),,,0,337
+21300400,394,PT03M17.00S,3,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,h,Tucker Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,338
+21300400,394,PT03M17.00S,3,1610612742,DAL,101181,Calderon,J. Calderon,0,0,0,,0,0.0,0.0,0,v,Calderon STEAL (1 STL),,,0,339
+21300400,395,PT03M09.00S,3,1610612742,DAL,101181,Calderon,J. Calderon,-182,124,22,Made,1,83.0,75.0,158,v,Calderon 22' Jump Shot (9 PTS) (Ellis 7 AST),Made Shot,Jump Shot,0,340
+21300400,396,PT02M48.00S,3,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0.0,0.0,0,h,Mark Morris Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,341
+21300400,396,PT02M48.00S,3,1610612742,DAL,101145,Ellis,M. Ellis,0,0,0,,0,0.0,0.0,0,v,Ellis STEAL (1 STL),,,0,342
+21300400,397,PT02M44.00S,3,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,0.0,0.0,0,h,Green S.FOUL (P2.T2),Foul,Shooting,0,343
+21300400,398,PT02M44.00S,3,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,h,SUNS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,344
+21300400,400,PT02M44.00S,3,1610612742,DAL,2223,Dalembert,S. Dalembert,0,0,0,,0,0.0,0.0,0,v,SUB: Blair FOR Dalembert,Substitution,,0,345
+21300400,402,PT02M44.00S,3,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,0.0,0.0,0,v,MISS Carter Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,346
+21300400,403,PT02M44.00S,3,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,v,Mavericks Rebound,Rebound,Normal Rebound,0,347
+21300400,404,PT02M44.00S,3,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,83.0,76.0,159,v,Carter Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,348
+21300400,406,PT02M28.00S,3,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,h,Tucker Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,349
+21300400,406,PT02M28.00S,3,1610612742,DAL,101145,Ellis,M. Ellis,0,0,0,,0,0.0,0.0,0,v,Ellis STEAL (2 STL),,,0,350
+21300400,407,PT02M28.00S,3,1610612742,DAL,101145,Ellis,M. Ellis,0,0,0,,0,0.0,0.0,0,v,Ellis Bad Pass Turnover (P4.T7),Turnover,Bad Pass,0,351
+21300400,408,PT02M17.00S,3,1610612756,PHX,202693,Morris,M. Morris,-67,12,7,Missed,1,0.0,0.0,0,h,MISS Mark Morris 7' Jump Shot,Missed Shot,Jump Shot,0,352
+21300400,408,PT02M17.00S,3,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,0.0,0.0,0,v,Carter BLOCK (2 BLK),,,0,353
+21300400,409,PT02M14.00S,3,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,v,Marion REBOUND (Off:2 Def:3),Rebound,Unknown,0,354
+21300400,410,PT02M03.00S,3,1610612742,DAL,201971,Blair,D. Blair,42,33,5,Made,1,83.0,78.0,161,v,Blair 5' Jump Shot (4 PTS) (Ellis 8 AST),Made Shot,Jump Shot,0,355
+21300400,411,PT01M47.00S,3,1610612756,PHX,202339,Bledsoe,E. Bledsoe,-133,216,25,Made,1,86.0,78.0,164,h,Bledsoe 25' 3PT Jump Shot (19 PTS),Made Shot,Jump Shot,0,356
+21300400,412,PT01M30.00S,3,1610612742,DAL,101145,Ellis,M. Ellis,0,30,3,Made,1,86.0,80.0,166,v,Ellis 3' Jump Shot (16 PTS) (Blair 1 AST),Made Shot,Jump Shot,0,357
+21300400,413,PT01M09.00S,3,1610612756,PHX,200782,Tucker,P. Tucker,0,30,3,Missed,1,0.0,0.0,0,h,MISS Tucker 3' Hook Shot,Missed Shot,Hook Shot,0,358
+21300400,414,PT01M07.00S,3,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,h,Tucker REBOUND (Off:3 Def:3),Rebound,Unknown,0,359
+21300400,415,PT01M04.00S,3,1610612756,PHX,203101,Plumlee,M. Plumlee,12,0,1,Made,1,88.0,80.0,168,h,Plumlee 1' Dunk (6 PTS) (Tucker 4 AST),Made Shot,Dunk Shot,0,360
+21300400,416,PT00M54.70S,3,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0.0,0.0,0,h,Mark Morris S.FOUL (P2.T3),Foul,Shooting,0,361
+21300400,417,PT00M54.70S,3,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,88.0,81.0,169,v,Carter Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,362
+21300400,419,PT00M54.70S,3,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,v,SUB: Nowitzki FOR Marion,Substitution,,0,363
+21300400,420,PT00M54.70S,3,1610612742,DAL,101181,Calderon,J. Calderon,0,0,0,,0,0.0,0.0,0,v,SUB: Larkin FOR Calderon,Substitution,,0,364
+21300400,421,PT00M54.70S,3,1610612742,DAL,101145,Ellis,M. Ellis,0,0,0,,0,0.0,0.0,0,v,SUB: Crowder FOR Ellis,Substitution,,0,365
+21300400,422,PT00M54.70S,3,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,88.0,82.0,170,v,Carter Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,366
+21300400,424,PT00M36.90S,3,1610612756,PHX,101123,Green,G. Green,-231,-2,0,Made,1,91.0,82.0,173,h,Green  3PT Jump Shot (22 PTS) (Bledsoe 4 AST),Made Shot,Jump Shot,0,367
+21300400,425,PT00M23.90S,3,1610612742,DAL,1713,Carter,V. Carter,78,242,25,Missed,1,0.0,0.0,0,v,MISS Carter 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,368
+21300400,426,PT00M22.90S,3,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,0.0,0.0,0,h,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,369
+21300400,427,PT00M01.90S,3,1610612756,PHX,202693,Morris,M. Morris,225,105,25,Missed,1,0.0,0.0,0,h,MISS Mark Morris 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,370
+21300400,428,PT00M00.50S,3,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,h,Tucker REBOUND (Off:4 Def:3),Rebound,Unknown,0,371
+21300400,429,PT00M00.20S,3,1610612756,PHX,200782,Tucker,P. Tucker,47,25,5,Missed,1,0.0,0.0,0,h,MISS Tucker 5' Jump Shot,Missed Shot,Jump Shot,0,372
+21300400,431,PT00M00.00S,3,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,h,SUNS Rebound,Rebound,Unknown,0,373
+21300400,430,PT00M00.00S,3,0,,0,,,0,0,0,,0,91.0,82.0,173,,End of 3rd Period (10:49 PM EST),period,end,0,374
+21300400,433,PT12M00.00S,4,0,,0,,,0,0,0,,0,91.0,82.0,173,,Start of 4th Period (10:51 PM EST),period,start,0,375
+21300400,434,PT11M41.00S,4,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,236,0,24,Made,1,94.0,82.0,176,h,Marc Morris 24' 3PT Jump Shot (3 PTS) (Bledsoe 5 AST),Made Shot,Jump Shot,0,376
+21300400,435,PT11M27.00S,4,1610612742,DAL,1713,Carter,V. Carter,-93,227,25,Made,1,94.0,85.0,179,v,Carter 25' 3PT Jump Shot (12 PTS),Made Shot,Jump Shot,0,377
+21300400,436,PT11M11.00S,4,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0.0,0.0,0,h,Mark Morris OFF.Foul (P3),Foul,Offensive,0,378
+21300400,437,PT11M11.00S,4,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0.0,0.0,0,h,Mark Morris Foul Turnover (P3.T14),Turnover,Foul,0,379
+21300400,438,PT11M02.00S,4,1610612742,DAL,1713,Carter,V. Carter,-7,1,1,Made,1,94.0,87.0,181,v,Carter 1' Driving Dunk (14 PTS),Made Shot,Driving Dunk Shot,0,380
+21300400,439,PT11M02.00S,4,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,h,SUNS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,381
+21300400,443,PT10M44.00S,4,1610612756,PHX,202693,Morris,M. Morris,-158,9,16,Made,1,96.0,87.0,183,h,Mark Morris 16' Jump Shot (7 PTS),Made Shot,Jump Shot,0,382
+21300400,444,PT10M27.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,v,Nowitzki Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,383
+21300400,444,PT10M27.00S,4,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0.0,0.0,0,h,Marc Morris STEAL (1 STL),,,0,384
+21300400,445,PT10M22.00S,4,1610612756,PHX,202339,Bledsoe,E. Bledsoe,-7,0,1,Made,1,98.0,87.0,185,h,Bledsoe 1' Driving Reverse Layup (21 PTS),Made Shot,Driving Reverse Layup Shot,0,385
+21300400,446,PT10M03.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,88,55,10,Made,1,98.0,89.0,187,v,Nowitzki 10' Turnaround Fadeaway (19 PTS),Made Shot,Turnaround Fadeaway shot,0,386
+21300400,447,PT09M40.00S,4,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,0.0,0.0,0,v,Carter Shooting Block Foul (P3.T1),Foul,Shooting Block,0,387
+21300400,448,PT09M40.00S,4,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,99.0,89.0,188,h,Bledsoe Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,0,388
+21300400,450,PT09M40.00S,4,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,0.0,0.0,0,v,SUB: Ellis FOR Carter,Substitution,,0,389
+21300400,451,PT09M40.00S,4,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,100.0,89.0,189,h,Bledsoe Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,390
+21300400,453,PT09M25.00S,4,1610612742,DAL,201971,Blair,D. Blair,6,50,5,Made,1,100.0,91.0,191,v,Blair 5' Jump Shot (6 PTS) (Ellis 9 AST),Made Shot,Jump Shot,0,391
+21300400,454,PT09M24.00S,4,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,v,Mavericks Violation: Delay of game Violation,Violation,Delay Of Game,0,392
+21300400,455,PT09M00.00S,4,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,187,28,19,Missed,1,0.0,0.0,0,h,MISS Marc Morris 19' Jump Shot,Missed Shot,Jump Shot,0,393
+21300400,456,PT08M59.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,0.0,0.0,0,v,Crowder REBOUND (Off:3 Def:2),Rebound,Unknown,0,394
+21300400,457,PT08M49.00S,4,1610612742,DAL,203499,Larkin,S. Larkin,-131,-13,13,Missed,1,0.0,0.0,0,v,MISS Larkin 13' Jump Shot,Missed Shot,Jump Shot,0,395
+21300400,458,PT08M49.00S,4,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,v,Mavericks Rebound,Rebound,Unknown,0,396
+21300400,459,PT08M49.00S,4,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0.0,0.0,0,h,Marc Morris L.B.FOUL (P2.T1),Foul,Loose Ball,0,397
+21300400,460,PT08M44.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,170,6,17,Made,1,100.0,93.0,193,v,Nowitzki 17' Jump Shot (21 PTS) (Larkin 2 AST),Made Shot,Jump Shot,0,398
+21300400,461,PT08M32.00S,4,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,0.0,0.0,0,h,Green Lost Ball Turnover (P1.T15),Turnover,Lost Ball,0,399
+21300400,461,PT08M32.00S,4,1610612742,DAL,101145,Ellis,M. Ellis,0,0,0,,0,0.0,0.0,0,v,Ellis STEAL (3 STL),,,0,400
+21300400,462,PT08M31.00S,4,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,0.0,0.0,0,h,Green S.FOUL (P3.T2),Foul,Shooting,0,401
+21300400,463,PT08M31.00S,4,1610612742,DAL,101145,Ellis,M. Ellis,0,0,0,,0,100.0,94.0,194,v,Ellis Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,402
+21300400,465,PT08M31.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,v,SUB: Marion FOR Nowitzki,Substitution,,0,403
+21300400,466,PT08M31.00S,4,1610612742,DAL,201971,Blair,D. Blair,0,0,0,,0,0.0,0.0,0,v,SUB: Wright FOR Blair,Substitution,,0,404
+21300400,467,PT08M31.00S,4,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0.0,0.0,0,h,SUB: Dragic FOR Bledsoe,Substitution,,0,405
+21300400,468,PT08M31.00S,4,1610612742,DAL,101145,Ellis,M. Ellis,0,0,0,,0,0.0,0.0,0,v,MISS Ellis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,406
+21300400,470,PT08M30.00S,4,1610612756,PHX,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,h,Frye REBOUND (Off:4 Def:4),Rebound,Unknown,0,407
+21300400,471,PT08M18.00S,4,1610612756,PHX,101112,Frye,C. Frye,-198,148,25,Made,1,103.0,94.0,197,h,Frye 25' 3PT Step Back Jump Shot (11 PTS) (Green 2 AST),Made Shot,Step Back Jump shot,0,408
+21300400,472,PT08M00.00S,4,1610612742,DAL,1890,Marion,S. Marion,-239,15,24,Missed,1,0.0,0.0,0,v,MISS Marion 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,409
+21300400,473,PT07M59.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,0.0,0.0,0,v,Crowder REBOUND (Off:4 Def:2),Rebound,Unknown,0,410
+21300400,474,PT07M58.00S,4,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,0.0,0.0,0,h,Green S.FOUL (P4.T3),Foul,Shooting,0,411
+21300400,475,PT07M58.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,103.0,95.0,198,v,Crowder Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,412
+21300400,477,PT07M58.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,0.0,0.0,0,v,MISS Crowder Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,413
+21300400,479,PT07M57.00S,4,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0.0,0.0,0,h,Marc Morris REBOUND (Off:0 Def:2),Rebound,Unknown,0,414
+21300400,480,PT07M41.00S,4,1610612756,PHX,101123,Green,G. Green,-155,194,25,Missed,1,0.0,0.0,0,h,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,415
+21300400,481,PT07M41.00S,4,1610612742,DAL,101145,Ellis,M. Ellis,0,0,0,,0,0.0,0.0,0,v,Ellis REBOUND (Off:0 Def:3),Rebound,Unknown,0,416
+21300400,482,PT07M34.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,0.0,0.0,0,v,Crowder Traveling Turnover (P2.T9),Turnover,Traveling,0,417
+21300400,483,PT07M34.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,0,0,0,,0,0.0,0.0,0,v,SUB: Carter FOR Crowder,Substitution,,0,418
+21300400,484,PT07M16.00S,4,1610612756,PHX,202693,Morris,M. Morris,-141,41,15,Made,1,105.0,95.0,200,h,Mark Morris 15' Jump Shot (9 PTS) (Dragic 4 AST),Made Shot,Jump Shot,0,419
+21300400,485,PT06M59.00S,4,1610612742,DAL,1713,Carter,V. Carter,9,239,24,Missed,1,0.0,0.0,0,v,MISS Carter 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,420
+21300400,486,PT06M58.00S,4,1610612742,DAL,101145,Ellis,M. Ellis,0,0,0,,0,0.0,0.0,0,v,Ellis REBOUND (Off:1 Def:3),Rebound,Unknown,0,421
+21300400,487,PT06M49.00S,4,1610612742,DAL,201148,Wright,B. Wright,-8,1,1,Made,1,105.0,97.0,202,v,Wright 1' Dunk (14 PTS) (Carter 4 AST),Made Shot,Dunk Shot,0,422
+21300400,488,PT06M32.00S,4,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,0.0,0.0,0,v,Wright P.FOUL (P1.T2),Foul,Personal,0,423
+21300400,489,PT06M32.00S,4,1610612742,DAL,203499,Larkin,S. Larkin,0,0,0,,0,0.0,0.0,0,v,SUB: Calderon FOR Larkin,Substitution,,0,424
+21300400,490,PT06M19.00S,4,1610612756,PHX,101112,Frye,C. Frye,190,15,19,Made,1,107.0,97.0,204,h,Frye 19' Fadeaway Jumper (13 PTS),Made Shot,Fadeaway Jump Shot,0,425
+21300400,491,PT06M07.00S,4,1610612742,DAL,101145,Ellis,M. Ellis,-11,0,1,Made,1,107.0,99.0,206,v,Ellis 1' Driving Layup (19 PTS),Made Shot,Driving Layup Shot,0,426
+21300400,492,PT05M54.00S,4,1610612742,DAL,101181,Calderon,J. Calderon,0,0,0,,0,0.0,0.0,0,v,Calderon P.FOUL (P2.T3),Foul,Personal,0,427
+21300400,493,PT05M54.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,428
+21300400,497,PT05M40.00S,4,1610612756,PHX,101112,Frye,C. Frye,230,-13,0,Made,1,110.0,99.0,209,h,Frye  3PT Jump Shot (16 PTS) (Dragic 5 AST),Made Shot,Jump Shot,0,429
+21300400,498,PT05M25.00S,4,1610612742,DAL,1890,Marion,S. Marion,-8,1,1,Made,1,110.0,101.0,211,v,Marion 1' Layup (10 PTS) (Calderon 5 AST),Made Shot,Layup Shot,0,430
+21300400,499,PT05M00.00S,4,1610612756,PHX,101112,Frye,C. Frye,-76,7,8,Missed,1,0.0,0.0,0,h,MISS Frye 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,431
+21300400,501,PT04M59.00S,4,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,h,Dragic REBOUND (Off:3 Def:3),Rebound,Unknown,0,432
+21300400,500,PT04M59.00S,4,1610612756,PHX,201609,Dragic,G. Dragic,6,0,1,Made,1,112.0,101.0,213,h,Dragic 1' Putback Layup (13 PTS),Made Shot,Putback Layup Shot,0,433
+21300400,502,PT04M38.00S,4,1610612742,DAL,201148,Wright,B. Wright,-19,17,3,Made,1,112.0,103.0,215,v,Wright 3' Finger Roll Layup (16 PTS) (Calderon 6 AST),Made Shot,Finger Roll Layup Shot,0,434
+21300400,503,PT04M15.00S,4,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,152,0,15,Missed,1,0.0,0.0,0,h,MISS Marc Morris 15' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,435
+21300400,504,PT04M13.00S,4,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,0.0,0.0,0,v,Wright REBOUND (Off:2 Def:4),Rebound,Unknown,0,436
+21300400,505,PT04M08.00S,4,1610612742,DAL,101145,Ellis,M. Ellis,0,0,0,,0,0.0,0.0,0,v,Ellis Bad Pass Turnover (P5.T10),Turnover,Bad Pass,0,437
+21300400,505,PT04M08.00S,4,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,0.0,0.0,0,h,Green STEAL (1 STL),,,0,438
+21300400,506,PT03M50.00S,4,1610612756,PHX,101112,Frye,C. Frye,21,0,2,Made,1,114.0,103.0,217,h,Frye 2' Driving Dunk (18 PTS),Made Shot,Driving Dunk Shot,0,439
+21300400,508,PT03M50.00S,4,1610612756,PHX,101123,Green,G. Green,0,0,0,,0,0.0,0.0,0,h,SUB: Bledsoe FOR Green,Substitution,,0,440
+21300400,509,PT03M50.00S,4,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,0.0,0.0,0,v,SUB: Nowitzki FOR Carter,Substitution,,0,441
+21300400,510,PT03M34.00S,4,1610612742,DAL,201148,Wright,B. Wright,-2,31,3,Made,1,114.0,105.0,219,v,Wright 3' Floating Jump Shot (18 PTS) (Nowitzki 1 AST),Made Shot,Floating Jump shot,0,442
+21300400,511,PT03M11.00S,4,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,-191,160,25,Made,1,117.0,105.0,222,h,Marc Morris 25' 3PT Jump Shot (6 PTS) (Mark Morris 1 AST),Made Shot,Jump Shot,0,443
+21300400,513,PT02M51.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,225,0,0,Missed,1,0.0,0.0,0,v,MISS Nowitzki  3PT Jump Shot,Missed Shot,Jump Shot,0,444
+21300400,514,PT02M50.00S,4,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0.0,0.0,0,h,Bledsoe REBOUND (Off:0 Def:4),Rebound,Unknown,0,445
+21300400,515,PT02M32.00S,4,1610612756,PHX,202339,Bledsoe,E. Bledsoe,9,34,4,Made,1,119.0,105.0,224,h,Bledsoe 4' Jump Shot (25 PTS),Made Shot,Jump Shot,0,446
+21300400,516,PT02M19.00S,4,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0.0,0.0,0,h,Marc Morris S.FOUL (P3.T4),Foul,Shooting,0,447
+21300400,517,PT02M19.00S,4,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,0.0,0.0,0,v,MISS Wright Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,448
+21300400,518,PT02M19.00S,4,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,v,Mavericks Rebound,Rebound,Normal Rebound,0,449
+21300400,519,PT02M19.00S,4,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,v,SUB: Carter FOR Marion,Substitution,,0,450
+21300400,520,PT02M19.00S,4,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,119.0,106.0,225,v,Wright Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,451
+21300400,522,PT02M06.00S,4,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,62,25,7,Made,1,121.0,106.0,227,h,Marc Morris 7' Jump Shot (8 PTS) (Bledsoe 6 AST),Made Shot,Jump Shot,0,452
+21300400,523,PT01M54.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-8,257,26,Missed,1,0.0,0.0,0,v,MISS Nowitzki 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,453
+21300400,524,PT01M53.00S,4,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0.0,0.0,0,h,Marc Morris REBOUND (Off:0 Def:3),Rebound,Unknown,0,454
+21300400,525,PT01M34.00S,4,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0.0,0.0,0,h,Mark Morris Traveling Turnover (P4.T16),Turnover,Traveling,0,455
+21300400,526,PT01M34.00S,4,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,v,Mavericks Timeout: Regular (Reg.5 Short 2),Timeout,Regular,0,456
+21300400,529,PT01M34.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,v,SUB: Crowder FOR Nowitzki,Substitution,,0,457
+21300400,530,PT01M34.00S,4,1610612742,DAL,101145,Ellis,M. Ellis,0,0,0,,0,0.0,0.0,0,v,SUB: James FOR Ellis,Substitution,,0,458
+21300400,531,PT01M34.00S,4,1610612742,DAL,101181,Calderon,J. Calderon,0,0,0,,0,0.0,0.0,0,v,SUB: Ellington FOR Calderon,Substitution,,0,459
+21300400,532,PT01M34.00S,4,1610612742,DAL,201148,Wright,B. Wright,0,0,0,,0,0.0,0.0,0,v,SUB: Mekel FOR Wright,Substitution,,0,460
+21300400,533,PT01M34.00S,4,1610612742,DAL,1713,Carter,V. Carter,0,0,0,,0,0.0,0.0,0,v,SUB: Larkin FOR Carter,Substitution,,0,461
+21300400,534,PT01M13.00S,4,1610612742,DAL,203109,Crowder,J. Crowder,-10,0,1,Missed,1,0.0,0.0,0,v,MISS Crowder 1' Driving Layup,Missed Shot,Driving Layup Shot,0,462
+21300400,535,PT01M11.00S,4,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0.0,0.0,0,h,Marc Morris REBOUND (Off:0 Def:4),Rebound,Unknown,0,463
+21300400,536,PT01M11.00S,4,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,h,SUNS Timeout: Short (Full 2 Short 1),Timeout,Short,0,464
+21300400,539,PT01M11.00S,4,1610612756,PHX,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,h,SUB: Goodwin FOR Frye,Substitution,,0,465
+21300400,540,PT01M11.00S,4,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,h,SUB: Smith FOR Dragic,Substitution,,0,466
+21300400,541,PT01M11.00S,4,1610612756,PHX,202339,Bledsoe,E. Bledsoe,0,0,0,,0,0.0,0.0,0,h,SUB: Christmas FOR Bledsoe,Substitution,,0,467
+21300400,542,PT01M11.00S,4,1610612756,PHX,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0.0,0.0,0,h,SUB: Kravtsov FOR Marc Morris,Substitution,,0,468
+21300400,544,PT01M02.00S,4,1610612756,PHX,203462,Goodwin,A. Goodwin,0,0,0,,0,0.0,0.0,0,h,Goodwin Bad Pass Turnover (P2.T17),Turnover,Bad Pass,0,469
+21300400,544,PT01M02.00S,4,1610612742,DAL,201961,Ellington,W. Ellington,0,0,0,,0,0.0,0.0,0,v,Ellington STEAL (2 STL),,,0,470
+21300400,545,PT00M50.90S,4,1610612742,DAL,203109,Crowder,J. Crowder,103,228,25,Missed,1,0.0,0.0,0,v,MISS Crowder 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,471
+21300400,546,PT00M49.40S,4,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,h,SUNS Rebound,Rebound,Unknown,0,472
+21300400,547,PT00M36.90S,4,1610612756,PHX,203462,Goodwin,A. Goodwin,0,0,0,,0,0.0,0.0,0,h,Goodwin Bad Pass Turnover (P3.T18),Turnover,Bad Pass,0,473
+21300400,547,PT00M36.90S,4,1610612742,DAL,201961,Ellington,W. Ellington,0,0,0,,0,0.0,0.0,0,v,Ellington STEAL (3 STL),,,0,474
+21300400,548,PT00M32.90S,4,1610612742,DAL,201961,Ellington,W. Ellington,111,140,18,Missed,1,0.0,0.0,0,v,MISS Ellington 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,475
+21300400,549,PT00M30.80S,4,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,v,Mavericks Rebound,Rebound,Unknown,0,476
+21300400,550,PT00M28.90S,4,1610612742,DAL,203109,Crowder,J. Crowder,-163,71,18,Missed,1,0.0,0.0,0,v,MISS Crowder 18' Jump Shot,Missed Shot,Jump Shot,0,477
+21300400,551,PT00M27.80S,4,1610612742,DAL,203108,James,B. James,0,0,0,,0,0.0,0.0,0,v,James REBOUND (Off:1 Def:0),Rebound,Unknown,0,478
+21300400,552,PT00M26.30S,4,1610612742,DAL,203108,James,B. James,0,1,0,Made,1,121.0,108.0,229,v,James  Layup (2 PTS),Made Shot,Layup Shot,0,479
+21300400,553,PT00M26.30S,4,1610612756,PHX,203139,Kravtsov,V. Kravtsov,0,0,0,,0,0.0,0.0,0,h,Kravtsov S.FOUL (P1.PN),Foul,Shooting,0,480
+21300400,554,PT00M26.30S,4,1610612742,DAL,203108,James,B. James,0,0,0,,0,0.0,0.0,0,v,MISS James Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,481
+21300400,556,PT00M22.80S,4,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0.0,0.0,0,h,Mark Morris REBOUND (Off:1 Def:5),Rebound,Unknown,0,482
+21300400,557,PT00M08.30S,4,1610612742,DAL,203108,James,B. James,0,0,0,,0,0.0,0.0,0,v,James S.FOUL (P1.T4),Foul,Shooting,0,483
+21300400,558,PT00M08.30S,4,1610612756,PHX,203462,Goodwin,A. Goodwin,0,0,0,,0,122.0,108.0,230,h,Goodwin Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,484
+21300400,560,PT00M08.30S,4,1610612756,PHX,203462,Goodwin,A. Goodwin,0,0,0,,0,123.0,108.0,231,h,Goodwin Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,485
+21300400,564,PT00M00.90S,4,1610612742,DAL,203499,Larkin,S. Larkin,0,0,0,,0,0.0,0.0,0,v,Larkin Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,486
+21300400,564,PT00M00.90S,4,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0.0,0.0,0,h,Mark Morris STEAL (2 STL),,,0,487
+21300400,565,PT00M00.00S,4,0,,0,,,0,0,0,,0,123.0,108.0,231,,End of 4th Period (11:22 PM EST),period,end,0,488

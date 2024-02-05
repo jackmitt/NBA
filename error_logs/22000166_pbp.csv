@@ -1,0 +1,539 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+22000166,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (7:11 PM EST),period,start,0,1
+22000166,4,PT12M00.00S,1,1610612764,WAS,203458,Len,A. Len,0,0,0,,0,,,0,h,Jump Ball Len vs. Gobert: Tip to Ingles,Jump Ball,,1,2
+22000166,7,PT11M47.00S,1,1610612762,UTA,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,3
+22000166,9,PT11M34.00S,1,1610612764,WAS,203078,Beal,B. Beal,148,43,15,Made,1,2.0,0.0,2,h,Beal 15' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,4
+22000166,10,PT11M17.00S,1,1610612762,UTA,204060,Ingles,J. Ingles,-63,21,7,Missed,1,,,0,v,MISS Ingles 7' Driving Layup,Missed Shot,Driving Layup Shot,1,5
+22000166,11,PT11M14.00S,1,1610612764,WAS,203458,Len,A. Len,0,0,0,,0,,,0,h,Len REBOUND (Off:0 Def:1),Rebound,Unknown,1,6
+22000166,12,PT11M07.00S,1,1610612764,WAS,1629060,Hachimura,R. Hachimura,55,161,17,Made,1,4.0,0.0,4,h,Hachimura 17' Step Back Jump Shot (2 PTS) (Beal 1 AST),Made Shot,Step Back Jump shot,1,7
+22000166,14,PT10M49.00S,1,1610612762,UTA,202711,Bogdanovic,B. Bogdanovic,-204,153,26,Missed,1,,,0,v,MISS Bogdanovic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,8
+22000166,15,PT10M46.00S,1,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook REBOUND (Off:0 Def:1),Rebound,Unknown,1,9
+22000166,16,PT10M41.00S,1,1610612762,UTA,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,v,Bogdanovic S.FOUL (P1.T1) (B.Barnaky),Foul,Shooting,1,10
+22000166,18,PT10M41.00S,1,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,5.0,0.0,5,h,Westbrook Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,11
+22000166,19,PT10M41.00S,1,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,6.0,0.0,6,h,Westbrook Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,12
+22000166,20,PT10M24.00S,1,1610612762,UTA,204060,Ingles,J. Ingles,-208,165,27,Made,1,6.0,3.0,9,v,Ingles 27' 3PT Jump Shot (3 PTS) (Mitchell 1 AST),Made Shot,Jump Shot,1,13
+22000166,22,PT10M03.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,h,Beal Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,14
+22000166,22,PT10M03.00S,1,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,,,0,v,Ingles STEAL (1 STL),,,1,15
+22000166,24,PT09M57.00S,1,1610612762,UTA,202711,Bogdanovic,B. Bogdanovic,-240,-24,24,Missed,1,,,0,v,MISS Bogdanovic 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,16
+22000166,25,PT09M52.00S,1,1610612762,UTA,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,v,O'Neale REBOUND (Off:1 Def:0),Rebound,Unknown,1,17
+22000166,26,PT09M51.00S,1,1610612762,UTA,204060,Ingles,J. Ingles,-22,270,27,Made,1,6.0,6.0,12,v,Ingles 27' 3PT Jump Shot (6 PTS) (O'Neale 1 AST),Made Shot,Jump Shot,1,18
+22000166,28,PT09M43.00S,1,1610612764,WAS,201566,Westbrook,R. Westbrook,0,15,2,Made,1,8.0,6.0,14,h,Westbrook 2' Driving Dunk (4 PTS),Made Shot,Driving Dunk Shot,1,19
+22000166,29,PT09M35.00S,1,1610612762,UTA,1628378,Mitchell,D. Mitchell,79,22,8,Made,1,8.0,8.0,16,v,Mitchell 8' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,20
+22000166,30,PT09M22.00S,1,1610612764,WAS,203458,Len,A. Len,0,0,0,,0,,,0,h,Len Offensive Charge Foul (P1.T1) (R.Mott),Foul,Offensive Charge,1,21
+22000166,32,PT09M22.00S,1,1610612764,WAS,203458,Len,A. Len,0,0,0,,0,,,0,h,Len Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,22
+22000166,33,PT09M13.00S,1,1610612762,UTA,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell Offensive Charge Foul (P1.T2) (R.Mott),Foul,Offensive Charge,1,23
+22000166,35,PT09M13.00S,1,1610612762,UTA,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell Offensive Foul Turnover (P2.T2),Turnover,Offensive Foul Turnover,1,24
+22000166,36,PT08M53.00S,1,1610612764,WAS,1629060,Hachimura,R. Hachimura,3,24,2,Made,1,10.0,8.0,18,h,Hachimura 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,25
+22000166,37,PT08M40.00S,1,1610612762,UTA,202711,Bogdanovic,B. Bogdanovic,-39,-1,4,Made,1,10.0,10.0,20,v,Bogdanovic 4' Driving Finger Roll Layup (2 PTS) (Mitchell 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,26
+22000166,39,PT08M20.00S,1,1610612764,WAS,201566,Westbrook,R. Westbrook,82,135,16,Missed,1,,,0,h,MISS Westbrook 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,27
+22000166,40,PT08M16.00S,1,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert REBOUND (Off:0 Def:1),Rebound,Unknown,1,28
+22000166,41,PT08M07.00S,1,1610612762,UTA,202711,Bogdanovic,B. Bogdanovic,26,106,11,Made,1,10.0,12.0,22,v,Bogdanovic 11' Floating Jump Shot (4 PTS),Made Shot,Floating Jump shot,1,29
+22000166,42,PT07M54.00S,1,1610612764,WAS,203078,Beal,B. Beal,-134,141,19,Missed,1,,,0,h,MISS Beal 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,30
+22000166,43,PT07M50.00S,1,1610612762,UTA,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,v,Bogdanovic REBOUND (Off:0 Def:1),Rebound,Unknown,1,31
+22000166,44,PT07M42.00S,1,1610612762,UTA,1628378,Mitchell,D. Mitchell,-219,160,27,Missed,1,,,0,v,MISS Mitchell 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,32
+22000166,45,PT07M38.00S,1,1610612764,WAS,203458,Len,A. Len,0,0,0,,0,,,0,h,Len REBOUND (Off:0 Def:2),Rebound,Unknown,1,33
+22000166,46,PT07M30.00S,1,1610612764,WAS,201566,Westbrook,R. Westbrook,73,83,11,Made,1,12.0,12.0,24,h,Westbrook 11' Fadeaway Jumper (6 PTS),Made Shot,Fadeaway Jump Shot,1,34
+22000166,47,PT07M09.00S,1,1610612762,UTA,204060,Ingles,J. Ingles,207,141,25,Missed,1,,,0,v,MISS Ingles 25' 3PT Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,35
+22000166,48,PT07M07.00S,1,1610612764,WAS,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,h,Hachimura REBOUND (Off:0 Def:1),Rebound,Unknown,1,36
+22000166,49,PT07M03.00S,1,1610612764,WAS,201566,Westbrook,R. Westbrook,85,146,17,Made,1,14.0,12.0,26,h,Westbrook 17' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,37
+22000166,51,PT07M01.00S,1,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,38
+22000166,52,PT07M01.00S,1,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,,,0,v,SUB: Clarkson FOR Ingles,Substitution,,0,39
+22000166,53,PT07M01.00S,1,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,SUB: Favors FOR Gobert,Substitution,,0,40
+22000166,56,PT06M44.00S,1,1610612762,UTA,202711,Bogdanovic,B. Bogdanovic,-68,143,16,Missed,1,,,0,v,MISS Bogdanovic 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,41
+22000166,57,PT06M40.00S,1,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook REBOUND (Off:0 Def:2),Rebound,Unknown,1,42
+22000166,58,PT06M28.00S,1,1610612764,WAS,203078,Beal,B. Beal,-54,15,6,Made,1,16.0,12.0,28,h,Beal 6' Alley Oop Layup (4 PTS) (Westbrook 1 AST),Made Shot,Alley Oop Layup shot,1,43
+22000166,60,PT06M16.00S,1,1610612762,UTA,1628378,Mitchell,D. Mitchell,-136,141,20,Missed,1,,,0,v,MISS Mitchell 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,44
+22000166,61,PT06M13.00S,1,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook REBOUND (Off:0 Def:3),Rebound,Unknown,1,45
+22000166,62,PT06M09.00S,1,1610612764,WAS,201566,Westbrook,R. Westbrook,20,268,27,Made,1,19.0,12.0,31,h,Westbrook 27' 3PT Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,46
+22000166,63,PT05M55.00S,1,1610612762,UTA,203903,Clarkson,J. Clarkson,21,268,27,Missed,1,,,0,v,MISS Clarkson 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,47
+22000166,64,PT05M53.00S,1,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook REBOUND (Off:0 Def:4),Rebound,Unknown,1,48
+22000166,65,PT05M50.00S,1,1610612764,WAS,1629060,Hachimura,R. Hachimura,0,10,1,Made,1,21.0,12.0,33,h,Hachimura 1' Running Layup (6 PTS) (Westbrook 2 AST),Made Shot,Running Layup Shot,1,49
+22000166,67,PT05M26.00S,1,1610612764,WAS,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews P.FOUL (P1.T2) (B.Barnaky),Foul,Personal,1,50
+22000166,69,PT05M26.00S,1,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,SUB: Neto FOR Westbrook,Substitution,,0,51
+22000166,71,PT05M15.00S,1,1610612762,UTA,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,v,Bogdanovic Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,52
+22000166,71,PT05M15.00S,1,1610612764,WAS,203526,Neto,R. Neto,0,0,0,,0,,,0,h,Neto STEAL (1 STL),,,1,53
+22000166,73,PT05M02.00S,1,1610612764,WAS,1629726,Mathews,G. Mathews,78,131,15,Made,1,23.0,12.0,35,h,Mathews 15' Pullup Jump Shot (2 PTS) (Beal 2 AST),Made Shot,Pullup Jump shot,1,54
+22000166,75,PT04M46.00S,1,1610612762,UTA,202711,Bogdanovic,B. Bogdanovic,-6,294,29,Missed,1,,,0,v,MISS Bogdanovic 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,55
+22000166,76,PT04M44.00S,1,1610612764,WAS,203458,Len,A. Len,0,0,0,,0,,,0,h,Len REBOUND (Off:0 Def:3),Rebound,Unknown,1,56
+22000166,78,PT04M25.00S,1,1610612764,WAS,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,h,Hachimura Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,57
+22000166,78,PT04M25.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,Favors STEAL (1 STL),,,1,58
+22000166,87,PT04M24.00S,1,1610612762,UTA,203903,Clarkson,J. Clarkson,-226,18,0,Missed,1,,,0,v,MISS Clarkson 3PT Jump Shot,Missed Shot,Jump Shot,1,59
+22000166,88,PT04M22.00S,1,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,0,60
+22000166,82,PT04M10.00S,1,1610612764,WAS,203078,Beal,B. Beal,-103,66,12,Missed,1,,,0,h,MISS Beal 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,61
+22000166,83,PT04M08.00S,1,1610612762,UTA,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,v,Bogdanovic REBOUND (Off:0 Def:2),Rebound,Unknown,1,62
+22000166,84,PT04M02.00S,1,1610612762,UTA,203903,Clarkson,J. Clarkson,-232,-17,0,Made,1,23.0,15.0,38,v,Clarkson 3PT Jump Shot (3 PTS) (Mitchell 3 AST),Made Shot,Jump Shot,1,63
+22000166,86,PT04M01.00S,1,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,64
+22000166,89,PT04M01.00S,1,1610612764,WAS,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Bertans FOR Mathews,Substitution,,0,65
+22000166,90,PT04M01.00S,1,1610612762,UTA,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,v,SUB: Niang FOR Bogdanovic,Substitution,,0,66
+22000166,93,PT03M48.00S,1,1610612764,WAS,203458,Len,A. Len,0,0,0,,0,,,0,h,Len OFF.Foul (P2) (S.Jelks),Foul,Offensive,1,67
+22000166,95,PT03M48.00S,1,1610612764,WAS,203458,Len,A. Len,0,0,0,,0,,,0,h,Len Offensive Foul Turnover (P2.T4),Turnover,Offensive Foul Turnover,1,68
+22000166,96,PT03M48.00S,1,1610612764,WAS,203458,Len,A. Len,0,0,0,,0,,,0,h,SUB: Lopez FOR Len,Substitution,,0,69
+22000166,98,PT03M38.00S,1,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,v,Clarkson OFF.Foul (P1) (S.Jelks),Foul,Offensive,1,70
+22000166,100,PT03M38.00S,1,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,v,Clarkson Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,71
+22000166,101,PT03M25.00S,1,1610612762,UTA,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,Niang S.FOUL (P1.T3) (B.Barnaky),Foul,Shooting,1,72
+22000166,103,PT03M25.00S,1,1610612764,WAS,1629060,Hachimura,R. Hachimura,0,0,0,,0,24.0,15.0,39,h,Hachimura Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,73
+22000166,104,PT03M25.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,SUB: Ingles FOR Favors,Substitution,,0,74
+22000166,105,PT03M25.00S,1,1610612762,UTA,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,v,SUB: Gobert FOR O'Neale,Substitution,,0,75
+22000166,106,PT03M25.00S,1,1610612762,UTA,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,SUB: Oni FOR Mitchell,Substitution,,0,76
+22000166,110,PT03M25.00S,1,1610612764,WAS,1629060,Hachimura,R. Hachimura,0,0,0,,0,25.0,15.0,40,h,Hachimura Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,77
+22000166,111,PT03M02.00S,1,1610612762,UTA,203903,Clarkson,J. Clarkson,-22,49,5,Missed,1,,,0,v,MISS Clarkson 5' Driving Layup,Missed Shot,Driving Layup Shot,1,78
+22000166,111,PT03M02.00S,1,1610612764,WAS,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans BLOCK (1 BLK),,,1,79
+22000166,113,PT03M02.00S,1,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Unknown,0,80
+22000166,115,PT03M01.00S,1,1610612762,UTA,203497,Gobert,R. Gobert,-231,-11,0,Missed,1,,,0,v,MISS Gobert 3PT Jump Shot,Missed Shot,Jump Shot,1,81
+22000166,116,PT03M01.00S,1,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Unknown,0,82
+22000166,117,PT03M01.00S,1,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,0,83
+22000166,118,PT02M43.00S,1,1610612764,WAS,1629060,Hachimura,R. Hachimura,-33,129,13,Missed,1,,,0,h,MISS Hachimura 13' Jump Shot,Missed Shot,Jump Shot,1,84
+22000166,119,PT02M39.00S,1,1610612762,UTA,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,Niang REBOUND (Off:0 Def:1),Rebound,Unknown,1,85
+22000166,120,PT02M37.00S,1,1610612764,WAS,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans P.FOUL (P1.T3) (S.Jelks),Foul,Personal,1,86
+22000166,122,PT02M37.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,h,SUB: Westbrook FOR Beal,Substitution,,0,87
+22000166,124,PT02M30.00S,1,1610612762,UTA,203903,Clarkson,J. Clarkson,-214,146,26,Missed,1,,,0,v,MISS Clarkson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,88
+22000166,125,PT02M26.00S,1,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook REBOUND (Off:0 Def:5),Rebound,Unknown,1,89
+22000166,126,PT02M23.00S,1,1610612764,WAS,201566,Westbrook,R. Westbrook,-41,42,6,Missed,1,,,0,h,MISS Westbrook 6' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,90
+22000166,127,PT02M22.00S,1,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,,,0,v,Ingles REBOUND (Off:0 Def:1),Rebound,Unknown,1,91
+22000166,128,PT02M21.00S,1,1610612764,WAS,203526,Neto,R. Neto,0,0,0,,0,,,0,h,Neto Personal Take Foul (P1.T4) (S.Jelks),Foul,Personal Take,1,92
+22000166,131,PT02M05.00S,1,1610612762,UTA,203497,Gobert,R. Gobert,6,12,1,Made,1,25.0,17.0,42,v,Gobert 1' Cutting Dunk Shot (2 PTS) (Clarkson 1 AST),Made Shot,Cutting Dunk Shot,1,93
+22000166,133,PT01M53.00S,1,1610612764,WAS,203526,Neto,R. Neto,94,146,17,Made,1,27.0,17.0,44,h,Neto 17' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,94
+22000166,134,PT01M34.00S,1,1610612762,UTA,204060,Ingles,J. Ingles,-171,199,26,Made,1,27.0,20.0,47,v,Ingles 26' 3PT Step Back Jump Shot (9 PTS),Made Shot,Step Back Jump shot,1,95
+22000166,135,PT01M17.00S,1,1610612764,WAS,202722,Bertans,D. Bertans,34,15,4,Made,1,29.0,20.0,49,h,Bertans 4' Cutting Layup Shot (2 PTS) (Westbrook 3 AST),Made Shot,Cutting Layup Shot,1,96
+22000166,137,PT01M05.00S,1,1610612764,WAS,201577,Lopez,R. Lopez,0,0,0,,0,,,0,h,Lopez S.FOUL (P1.PN) (R.Mott),Foul,Shooting,1,97
+22000166,139,PT01M05.00S,1,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,MISS Gobert Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,98
+22000166,140,PT01M05.00S,1,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Normal Rebound,0,99
+22000166,141,PT01M05.00S,1,1610612764,WAS,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,h,SUB: Avdija FOR Hachimura,Substitution,,0,100
+22000166,143,PT01M05.00S,1,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,MISS Gobert Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,101
+22000166,144,PT01M02.00S,1,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook REBOUND (Off:0 Def:6),Rebound,Unknown,1,102
+22000166,146,PT00M51.80S,1,1610612764,WAS,201577,Lopez,R. Lopez,-30,51,6,Missed,1,,,0,h,MISS Lopez 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,103
+22000166,147,PT00M49.10S,1,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert REBOUND (Off:0 Def:2),Rebound,Unknown,1,104
+22000166,148,PT00M34.50S,1,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,v,Clarkson Lost Ball Turnover (P2.T6),Turnover,Lost Ball,1,105
+22000166,148,PT00M34.50S,1,1610612764,WAS,203526,Neto,R. Neto,0,0,0,,0,,,0,h,Neto STEAL (2 STL),,,1,106
+22000166,150,PT00M32.20S,1,1610612764,WAS,201566,Westbrook,R. Westbrook,-24,27,4,Made,1,31.0,20.0,51,h,Westbrook 4' Running Dunk (13 PTS) (Neto 1 AST),Made Shot,Running Dunk Shot,1,107
+22000166,152,PT00M21.60S,1,1610612764,WAS,203526,Neto,R. Neto,0,0,0,,0,,,0,h,Neto S.FOUL (P2.PN) (B.Barnaky),Foul,Shooting,1,108
+22000166,154,PT00M21.60S,1,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,MISS Gobert Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,109
+22000166,155,PT00M21.60S,1,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Normal Rebound,0,110
+22000166,156,PT00M21.60S,1,1610612764,WAS,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: Bonga FOR Bertans,Substitution,,0,111
+22000166,158,PT00M21.60S,1,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,MISS Gobert Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,112
+22000166,159,PT00M18.20S,1,1610612764,WAS,1629067,Bonga,I. Bonga,0,0,0,,0,,,0,h,Bonga REBOUND (Off:0 Def:1),Rebound,Unknown,1,113
+22000166,160,PT00M00.90S,1,1610612764,WAS,201566,Westbrook,R. Westbrook,-138,110,18,Missed,1,,,0,h,MISS Westbrook 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,114
+22000166,161,PT00M00.90S,1,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,0,115
+22000166,162,PT00M00.00S,1,0,,0,,,0,0,0,,0,31.0,20.0,51,,End of 1st Period (7:36 PM EST),period,end,1,116
+22000166,163,PT12M00.00S,2,0,,0,,,0,0,0,,0,31.0,20.0,51,,Start of 2nd Period (7:39 PM EST),period,start,0,117
+22000166,164,PT11M39.00S,2,1610612764,WAS,1629067,Bonga,I. Bonga,225,51,0,Missed,1,,,0,h,MISS Bonga 3PT Jump Shot,Missed Shot,Jump Shot,1,118
+22000166,165,PT11M33.00S,2,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,v,Clarkson REBOUND (Off:0 Def:1),Rebound,Unknown,1,119
+22000166,166,PT11M28.00S,2,1610612762,UTA,1629671,Oni,M. Oni,-231,-9,0,Missed,1,,,0,v,MISS Oni 3PT Jump Shot,Missed Shot,Jump Shot,1,120
+22000166,167,PT11M25.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija REBOUND (Off:0 Def:1),Rebound,Unknown,1,121
+22000166,168,PT11M15.00S,2,1610612764,WAS,201566,Westbrook,R. Westbrook,-165,237,29,Made,1,34.0,20.0,54,h,Westbrook 29' 3PT Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,1,122
+22000166,169,PT10M59.00S,2,1610612764,WAS,203526,Neto,R. Neto,0,0,0,,0,,,0,h,Neto P.FOUL (P3.T1) (R.Mott),Foul,Personal,1,123
+22000166,171,PT10M59.00S,2,1610612764,WAS,203526,Neto,R. Neto,0,0,0,,0,,,0,h,SUB: Mathews FOR Neto,Substitution,,0,124
+22000166,173,PT10M55.00S,2,1610612764,WAS,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews P.FOUL (P2.T2) (S.Jelks),Foul,Personal,1,125
+22000166,175,PT10M48.00S,2,1610612762,UTA,1627777,Niang,G. Niang,-209,167,27,Missed,1,,,0,v,MISS Niang 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,126
+22000166,176,PT10M43.00S,2,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook REBOUND (Off:0 Def:7),Rebound,Unknown,1,127
+22000166,177,PT10M39.00S,2,1610612762,UTA,1629671,Oni,M. Oni,0,0,0,,0,,,0,v,Oni S.FOUL (P1.T1) (S.Jelks),Foul,Shooting,1,128
+22000166,179,PT10M39.00S,2,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,35.0,20.0,55,h,Westbrook Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,129
+22000166,180,PT10M39.00S,2,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,36.0,20.0,56,h,Westbrook Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,130
+22000166,181,PT10M28.00S,2,1610612762,UTA,203903,Clarkson,J. Clarkson,64,43,8,Missed,1,,,0,v,MISS Clarkson 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,131
+22000166,182,PT10M23.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert REBOUND (Off:1 Def:2),Rebound,Unknown,1,132
+22000166,183,PT10M23.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,Made,1,36.0,22.0,58,v,Gobert Putback Dunk (4 PTS),Made Shot,Putback Dunk Shot,1,133
+22000166,184,PT10M12.00S,2,1610612764,WAS,201577,Lopez,R. Lopez,-33,100,11,Missed,1,,,0,h,MISS Lopez 11' Hook Shot,Missed Shot,Hook Shot,1,134
+22000166,184,PT10M12.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert BLOCK (1 BLK),,,1,135
+22000166,186,PT10M07.00S,2,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,v,Clarkson REBOUND (Off:0 Def:2),Rebound,Unknown,1,136
+22000166,188,PT09M53.00S,2,1610612762,UTA,1629671,Oni,M. Oni,237,-19,24,Made,1,36.0,25.0,61,v,Oni 24' 3PT Jump Shot (3 PTS) (Clarkson 2 AST),Made Shot,Jump Shot,1,137
+22000166,190,PT09M36.00S,2,1610612764,WAS,201566,Westbrook,R. Westbrook,155,117,19,Made,1,38.0,25.0,63,h,Westbrook 19' Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,1,138
+22000166,191,PT09M30.00S,2,1610612762,UTA,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,Niang OFF.Foul (P2) (B.Barnaky),Foul,Offensive,1,139
+22000166,193,PT09M30.00S,2,1610612762,UTA,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,Niang Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,1,140
+22000166,194,PT09M13.00S,2,1610612764,WAS,201577,Lopez,R. Lopez,-20,73,8,Missed,1,,,0,h,MISS Lopez 8' Hook Shot,Missed Shot,Hook Shot,1,141
+22000166,195,PT09M08.00S,2,1610612764,WAS,201577,Lopez,R. Lopez,0,0,0,,0,,,0,h,Lopez REBOUND (Off:1 Def:0),Rebound,Unknown,1,142
+22000166,196,PT09M08.00S,2,1610612764,WAS,201577,Lopez,R. Lopez,0,0,0,Missed,1,,,0,h,MISS Lopez Putback Layup,Missed Shot,Putback Layup Shot,1,143
+22000166,197,PT09M07.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert REBOUND (Off:1 Def:3),Rebound,Unknown,1,144
+22000166,198,PT09M02.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,8,15,2,Made,1,38.0,27.0,65,v,Gobert 2' Alley Oop Dunk (6 PTS) (Clarkson 3 AST),Made Shot,Alley Oop Dunk Shot,1,145
+22000166,200,PT08M43.00S,2,1610612764,WAS,201566,Westbrook,R. Westbrook,176,80,19,Missed,1,,,0,h,MISS Westbrook 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,146
+22000166,201,PT08M39.00S,2,1610612762,UTA,1629671,Oni,M. Oni,0,0,0,,0,,,0,v,Oni REBOUND (Off:0 Def:1),Rebound,Unknown,1,147
+22000166,203,PT08M26.00S,2,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,v,Clarkson Lost Ball Turnover (P3.T8),Turnover,Lost Ball,1,148
+22000166,203,PT08M26.00S,2,1610612764,WAS,201577,Lopez,R. Lopez,0,0,0,,0,,,0,h,Lopez STEAL (1 STL),,,1,149
+22000166,205,PT08M26.00S,2,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook Traveling Turnover (P1.T5),Turnover,Traveling,1,150
+22000166,206,PT08M26.00S,2,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,SUB: Beal FOR Westbrook,Substitution,,0,151
+22000166,207,PT08M26.00S,2,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,,,0,v,SUB: Mitchell FOR Ingles,Substitution,,0,152
+22000166,210,PT08M14.00S,2,1610612762,UTA,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell Lost Ball Turnover (P3.T9),Turnover,Lost Ball,1,153
+22000166,210,PT08M14.00S,2,1610612764,WAS,1629067,Bonga,I. Bonga,0,0,0,,0,,,0,h,Bonga STEAL (1 STL),,,1,154
+22000166,213,PT08M13.00S,2,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,v,Clarkson S.FOUL (P2.T2) (B.Barnaky),Foul,Shooting,1,155
+22000166,215,PT08M13.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,39.0,27.0,66,h,Avdija Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,156
+22000166,216,PT08M13.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,SUB: O'Neale FOR Gobert,Substitution,,0,157
+22000166,217,PT08M13.00S,2,1610612762,UTA,1629671,Oni,M. Oni,0,0,0,,0,,,0,v,SUB: Favors FOR Oni,Substitution,,0,158
+22000166,220,PT08M13.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,40.0,27.0,67,h,Avdija Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,159
+22000166,221,PT07M59.00S,2,1610612762,UTA,1627777,Niang,G. Niang,-40,136,14,Missed,1,,,0,v,MISS Niang 14' Floating Jump Shot,Missed Shot,Floating Jump shot,1,160
+22000166,222,PT07M57.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija REBOUND (Off:0 Def:2),Rebound,Unknown,1,161
+22000166,223,PT07M47.00S,2,1610612764,WAS,1629067,Bonga,I. Bonga,226,98,25,Missed,1,,,0,h,MISS Bonga 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,162
+22000166,224,PT07M42.00S,2,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,Favors REBOUND (Off:0 Def:1),Rebound,Unknown,1,163
+22000166,225,PT07M39.00S,2,1610612762,UTA,1627777,Niang,G. Niang,-203,164,26,Missed,1,,,0,v,MISS Niang 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,164
+22000166,226,PT07M35.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,h,Beal REBOUND (Off:0 Def:1),Rebound,Unknown,1,165
+22000166,227,PT07M31.00S,2,1610612764,WAS,1629726,Mathews,G. Mathews,18,335,34,Made,1,43.0,27.0,70,h,Mathews 34' 3PT Jump Shot (5 PTS) (Beal 3 AST),Made Shot,Jump Shot,1,166
+22000166,229,PT07M31.00S,2,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,v,Clarkson S.FOUL (P3.T3) (B.Barnaky),Foul,Shooting,1,167
+22000166,231,PT07M31.00S,2,1610612762,UTA,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Niang,Substitution,,0,168
+22000166,233,PT07M31.00S,2,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,v,SUB: Ingles FOR Clarkson,Substitution,,0,169
+22000166,235,PT07M31.00S,2,0,,229,Edwards,J. Edwards,0,0,0,,0,43.0,27.0,70,,Instant Replay2nd Period (7:48 PM EST),Instant Replay,Support Ruling,0,170
+22000166,236,PT07M31.00S,2,1610612764,WAS,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,MISS Mathews Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,171
+22000166,237,PT07M29.00S,2,1610612762,UTA,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,v,O'Neale REBOUND (Off:1 Def:1),Rebound,Unknown,1,172
+22000166,238,PT07M20.00S,2,1610612764,WAS,1629067,Bonga,I. Bonga,0,0,0,,0,,,0,h,Bonga P.FOUL (P1.T3) (B.Barnaky),Foul,Personal,1,173
+22000166,240,PT07M10.00S,2,1610612762,UTA,204060,Ingles,J. Ingles,216,111,24,Made,1,43.0,30.0,73,v,Ingles 24' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,174
+22000166,241,PT06M51.00S,2,1610612764,WAS,201577,Lopez,R. Lopez,54,31,6,Made,1,45.0,30.0,75,h,Lopez 6' Turnaround Hook Shot (2 PTS) (Bonga 1 AST),Made Shot,Turnaround Hook Shot,1,175
+22000166,243,PT06M36.00S,2,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,Favors Offensive Charge Foul (P1.T4) (R.Mott),Foul,Offensive Charge,1,176
+22000166,245,PT06M36.00S,2,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,Favors Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,1,177
+22000166,246,PT06M36.00S,2,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,178
+22000166,247,PT06M20.00S,2,1610612764,WAS,201577,Lopez,R. Lopez,-14,47,5,Missed,1,,,0,h,MISS Lopez 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,179
+22000166,248,PT06M19.00S,2,1610612764,WAS,201577,Lopez,R. Lopez,0,0,0,,0,,,0,h,Lopez REBOUND (Off:2 Def:0),Rebound,Unknown,1,180
+22000166,249,PT06M17.00S,2,1610612764,WAS,201577,Lopez,R. Lopez,-22,25,3,Made,1,47.0,30.0,77,h,Lopez 3' Hook Shot (4 PTS),Made Shot,Hook Shot,1,181
+22000166,250,PT06M00.00S,2,1610612762,UTA,1628378,Mitchell,D. Mitchell,212,128,25,Missed,1,,,0,v,MISS Mitchell 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,182
+22000166,251,PT05M55.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija REBOUND (Off:0 Def:3),Rebound,Unknown,1,183
+22000166,252,PT05M54.00S,2,1610612764,WAS,1629067,Bonga,I. Bonga,46,16,5,Made,1,49.0,30.0,79,h,Bonga 5' Running Layup (2 PTS) (Avdija 1 AST),Made Shot,Running Layup Shot,1,184
+22000166,254,PT05M54.00S,2,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,185
+22000166,255,PT05M41.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija S.FOUL (P1.T4) (R.Mott),Foul,Shooting,1,186
+22000166,257,PT05M41.00S,2,1610612762,UTA,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,49.0,31.0,80,v,Bogdanovic Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,187
+22000166,258,PT05M41.00S,2,1610612764,WAS,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Westbrook FOR Mathews,Substitution,,0,188
+22000166,260,PT05M41.00S,2,1610612762,UTA,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,49.0,32.0,81,v,Bogdanovic Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,189
+22000166,261,PT05M24.00S,2,1610612764,WAS,201577,Lopez,R. Lopez,-31,74,8,Missed,1,,,0,h,MISS Lopez 8' Hook Shot,Missed Shot,Hook Shot,1,190
+22000166,262,PT05M22.00S,2,1610612764,WAS,1629067,Bonga,I. Bonga,0,0,0,,0,,,0,h,Bonga REBOUND (Off:1 Def:1),Rebound,Unknown,1,191
+22000166,263,PT05M22.00S,2,1610612764,WAS,1629067,Bonga,I. Bonga,-62,48,8,Made,1,51.0,32.0,83,h,Bonga 8' Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,192
+22000166,264,PT05M07.00S,2,1610612762,UTA,1628378,Mitchell,D. Mitchell,-11,155,16,Made,1,51.0,34.0,85,v,Mitchell 16' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,193
+22000166,265,PT04M47.00S,2,1610612764,WAS,203078,Beal,B. Beal,65,256,26,Made,1,54.0,34.0,88,h,Beal 26' 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,194
+22000166,266,PT04M36.00S,2,1610612762,UTA,1628378,Mitchell,D. Mitchell,-67,134,15,Made,1,54.0,36.0,90,v,Mitchell 15' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,195
+22000166,267,PT04M15.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,h,Beal Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,196
+22000166,267,PT04M15.00S,2,1610612762,UTA,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,v,Bogdanovic STEAL (1 STL),,,1,197
+22000166,271,PT04M14.00S,2,1610612762,UTA,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,v,Bogdanovic Offensive Charge Foul (P2.PN) (B.Barnaky),Foul,Offensive Charge,1,198
+22000166,273,PT04M14.00S,2,1610612762,UTA,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,v,Bogdanovic Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,1,199
+22000166,274,PT04M14.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,SUB: Hachimura FOR Avdija,Substitution,,0,200
+22000166,276,PT04M14.00S,2,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,SUB: Gobert FOR Favors,Substitution,,0,201
+22000166,278,PT04M00.00S,2,1610612764,WAS,203078,Beal,B. Beal,169,56,18,Made,1,56.0,36.0,92,h,Beal 18' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,202
+22000166,279,PT03M48.00S,2,1610612762,UTA,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,v,O'Neale Traveling Turnover (P1.T12),Turnover,Traveling,1,203
+22000166,280,PT03M48.00S,2,1610612764,WAS,201577,Lopez,R. Lopez,0,0,0,,0,,,0,h,SUB: Len FOR Lopez,Substitution,,0,204
+22000166,282,PT03M29.00S,2,1610612764,WAS,1629060,Hachimura,R. Hachimura,-71,161,18,Missed,1,,,0,h,MISS Hachimura 18' Jump Shot,Missed Shot,Jump Shot,1,205
+22000166,283,PT03M23.00S,2,1610612762,UTA,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,v,Bogdanovic REBOUND (Off:0 Def:3),Rebound,Unknown,1,206
+22000166,284,PT03M17.00S,2,1610612762,UTA,202711,Bogdanovic,B. Bogdanovic,-65,58,9,Missed,1,,,0,v,MISS Bogdanovic 9' Driving Layup,Missed Shot,Driving Layup Shot,1,207
+22000166,285,PT03M15.00S,2,1610612764,WAS,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,h,Hachimura REBOUND (Off:0 Def:2),Rebound,Unknown,1,208
+22000166,286,PT03M06.00S,2,1610612764,WAS,203078,Beal,B. Beal,-95,20,10,Made,1,58.0,36.0,94,h,Beal 10' Floating Jump Shot (11 PTS) (Westbrook 4 AST),Made Shot,Floating Jump shot,1,209
+22000166,287,PT02M54.00S,2,1610612762,UTA,204060,Ingles,J. Ingles,-62,31,7,Missed,1,,,0,v,MISS Ingles 7' Driving Layup,Missed Shot,Driving Layup Shot,1,210
+22000166,288,PT02M50.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert REBOUND (Off:2 Def:3),Rebound,Unknown,1,211
+22000166,289,PT02M50.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,Made,1,58.0,38.0,96,v,Gobert Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,212
+22000166,290,PT02M39.00S,2,1610612764,WAS,1629067,Bonga,I. Bonga,-101,40,11,Missed,1,,,0,h,MISS Bonga 11' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,213
+22000166,291,PT02M35.00S,2,1610612762,UTA,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,v,Bogdanovic REBOUND (Off:0 Def:4),Rebound,Unknown,1,214
+22000166,292,PT02M32.00S,2,1610612762,UTA,202711,Bogdanovic,B. Bogdanovic,55,63,8,Missed,1,,,0,v,MISS Bogdanovic 8' Driving Layup,Missed Shot,Driving Layup Shot,1,215
+22000166,292,PT02M32.00S,2,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook BLOCK (1 BLK),,,1,216
+22000166,294,PT02M32.00S,2,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Unknown,0,217
+22000166,296,PT02M23.00S,2,1610612764,WAS,201566,Westbrook,R. Westbrook,25,134,14,Made,1,60.0,38.0,98,h,Westbrook 14' Fadeaway Jumper (22 PTS),Made Shot,Fadeaway Jump Shot,1,218
+22000166,297,PT02M09.00S,2,1610612762,UTA,1628378,Mitchell,D. Mitchell,14,18,2,Missed,1,,,0,v,MISS Mitchell 2' Hook Shot,Missed Shot,Hook Shot,1,219
+22000166,298,PT02M07.00S,2,1610612764,WAS,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,h,Hachimura REBOUND (Off:0 Def:3),Rebound,Unknown,1,220
+22000166,299,PT01M50.00S,2,1610612764,WAS,203458,Len,A. Len,-19,113,11,Made,1,62.0,38.0,100,h,Len 11' Floating Jump Shot (2 PTS) (Westbrook 5 AST),Made Shot,Floating Jump shot,1,221
+22000166,302,PT01M32.00S,2,1610612762,UTA,204060,Ingles,J. Ingles,-22,86,9,Made,1,62.0,40.0,102,v,Ingles 9' Floating Jump Shot (14 PTS) (Mitchell 4 AST),Made Shot,Floating Jump shot,1,222
+22000166,303,PT01M16.00S,2,1610612762,UTA,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,v,Bogdanovic S.FOUL (P3.PN) (S.Jelks),Foul,Shooting,1,223
+22000166,305,PT01M16.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,63.0,40.0,103,h,Beal Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,224
+22000166,306,PT01M16.00S,2,1610612762,UTA,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,v,SUB: Niang FOR Bogdanovic,Substitution,,0,225
+22000166,308,PT01M16.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,64.0,40.0,104,h,Beal Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,226
+22000166,309,PT01M03.00S,2,1610612762,UTA,1628378,Mitchell,D. Mitchell,-187,200,27,Made,1,64.0,43.0,107,v,Mitchell 27' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,227
+22000166,310,PT00M55.50S,2,1610612764,WAS,203078,Beal,B. Beal,35,279,28,Missed,1,,,0,h,MISS Beal 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,228
+22000166,311,PT00M53.10S,2,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,,,0,v,Ingles REBOUND (Off:0 Def:2),Rebound,Unknown,1,229
+22000166,312,PT00M47.60S,2,1610612764,WAS,1629067,Bonga,I. Bonga,0,0,0,,0,,,0,h,Bonga S.FOUL (P2.PN) (S.Jelks),Foul,Shooting,1,230
+22000166,314,PT00M47.60S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,MISS Gobert Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,231
+22000166,315,PT00M47.60S,2,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Normal Rebound,0,232
+22000166,316,PT00M47.60S,2,1610612764,WAS,203458,Len,A. Len,0,0,0,,0,,,0,h,SUB: Avdija FOR Len,Substitution,,0,233
+22000166,318,PT00M47.60S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,MISS Gobert Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,234
+22000166,319,PT00M45.50S,2,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook REBOUND (Off:0 Def:8),Rebound,Unknown,1,235
+22000166,320,PT00M33.00S,2,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,236
+22000166,320,PT00M33.00S,2,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,,,0,v,Ingles STEAL (2 STL),,,1,237
+22000166,322,PT00M26.40S,2,1610612762,UTA,1628378,Mitchell,D. Mitchell,-149,237,28,Missed,1,,,0,v,MISS Mitchell 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,238
+22000166,323,PT00M21.80S,2,1610612762,UTA,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,v,O'Neale REBOUND (Off:2 Def:1),Rebound,Unknown,1,239
+22000166,324,PT00M20.70S,2,1610612762,UTA,204060,Ingles,J. Ingles,-164,220,27,Made,1,64.0,46.0,110,v,Ingles 27' 3PT Jump Shot (17 PTS) (O'Neale 2 AST),Made Shot,Jump Shot,1,240
+22000166,326,PT00M01.20S,2,1610612764,WAS,1630166,Avdija,D. Avdija,230,78,24,Missed,1,,,0,h,MISS Avdija 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,241
+22000166,327,PT00M01.20S,2,1610612762,UTA,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,v,O'Neale REBOUND (Off:2 Def:2),Rebound,Unknown,1,242
+22000166,328,PT00M00.00S,2,0,,0,,,0,0,0,,0,64.0,46.0,110,,End of 2nd Period (8:08 PM EST),period,end,1,243
+22000166,336,PT12M00.00S,3,0,,0,,,0,0,0,,0,64.0,46.0,110,,Start of 3rd Period (8:23 PM EST),period,start,0,244
+22000166,337,PT11M40.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,h,Beal Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,245
+22000166,337,PT11M40.00S,3,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert STEAL (1 STL),,,1,246
+22000166,339,PT11M30.00S,3,1610612762,UTA,204060,Ingles,J. Ingles,-57,34,7,Missed,1,,,0,v,MISS Ingles 7' Driving Layup,Missed Shot,Driving Layup Shot,1,247
+22000166,340,PT11M29.00S,3,1610612764,WAS,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,h,Hachimura REBOUND (Off:0 Def:4),Rebound,Unknown,1,248
+22000166,341,PT11M11.00S,3,1610612764,WAS,1629060,Hachimura,R. Hachimura,58,46,7,Missed,1,,,0,h,MISS Hachimura 7' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,249
+22000166,341,PT11M11.00S,3,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert BLOCK (2 BLK),,,1,250
+22000166,343,PT11M08.00S,3,1610612762,UTA,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,v,O'Neale REBOUND (Off:2 Def:3),Rebound,Unknown,1,251
+22000166,344,PT11M01.00S,3,1610612762,UTA,1628378,Mitchell,D. Mitchell,-6,180,18,Missed,1,,,0,v,MISS Mitchell 18' Jump Shot,Missed Shot,Jump Shot,1,252
+22000166,345,PT10M58.00S,3,1610612764,WAS,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,h,Hachimura REBOUND (Off:0 Def:5),Rebound,Unknown,1,253
+22000166,346,PT10M48.00S,3,1610612764,WAS,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,h,Hachimura Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,254
+22000166,346,PT10M48.00S,3,1610612762,UTA,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell STEAL (1 STL),,,1,255
+22000166,348,PT10M46.00S,3,1610612762,UTA,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,v,O'Neale Out of Bounds - Bad Pass Turnover Turnover (P2.T13),Turnover,Out of Bounds - Bad Pass Turnover,1,256
+22000166,350,PT10M33.00S,3,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,,,0,v,Ingles S.FOUL (P1.T1) (R.Mott),Foul,Shooting,1,257
+22000166,352,PT10M33.00S,3,1610612764,WAS,1629726,Mathews,G. Mathews,0,0,0,,0,65.0,46.0,111,h,Mathews Free Throw 1 of 3 (6 PTS),Free Throw,Free Throw 1 of 3,1,258
+22000166,353,PT10M33.00S,3,1610612764,WAS,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,MISS Mathews Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,1,259
+22000166,354,PT10M33.00S,3,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Normal Rebound,0,260
+22000166,355,PT10M33.00S,3,1610612764,WAS,1629726,Mathews,G. Mathews,0,0,0,,0,66.0,46.0,112,h,Mathews Free Throw 3 of 3 (7 PTS),Free Throw,Free Throw 3 of 3,1,261
+22000166,356,PT10M23.00S,3,1610612762,UTA,1628378,Mitchell,D. Mitchell,-217,174,28,Made,1,66.0,49.0,115,v,Mitchell 28' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,262
+22000166,357,PT10M01.00S,3,1610612764,WAS,1629060,Hachimura,R. Hachimura,-79,139,16,Missed,1,,,0,h,MISS Hachimura 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,263
+22000166,358,PT09M58.00S,3,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert REBOUND (Off:2 Def:4),Rebound,Unknown,1,264
+22000166,359,PT09M51.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,h,Beal P.FOUL (P1.T1) (B.Barnaky),Foul,Personal,1,265
+22000166,361,PT09M47.00S,3,1610612762,UTA,1628378,Mitchell,D. Mitchell,143,235,28,Missed,1,,,0,v,MISS Mitchell 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,266
+22000166,362,PT09M43.00S,3,1610612764,WAS,203458,Len,A. Len,0,0,0,,0,,,0,h,Len REBOUND (Off:0 Def:4),Rebound,Unknown,1,267
+22000166,363,PT09M38.00S,3,1610612764,WAS,201566,Westbrook,R. Westbrook,-174,70,19,Made,1,68.0,49.0,117,h,Westbrook 19' Pullup Jump Shot (24 PTS),Made Shot,Pullup Jump shot,1,268
+22000166,364,PT09M21.00S,3,1610612762,UTA,203497,Gobert,R. Gobert,-3,35,4,Missed,1,,,0,v,MISS Gobert 4' Layup,Missed Shot,Layup Shot,1,269
+22000166,365,PT09M21.00S,3,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert REBOUND (Off:3 Def:4),Rebound,Unknown,1,270
+22000166,366,PT09M21.00S,3,1610612764,WAS,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews P.FOUL (P3.T2) (S.Jelks),Foul,Personal,1,271
+22000166,368,PT09M14.00S,3,1610612762,UTA,202711,Bogdanovic,B. Bogdanovic,-174,209,27,Missed,1,,,0,v,MISS Bogdanovic 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,272
+22000166,369,PT09M10.00S,3,1610612762,UTA,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,v,O'Neale REBOUND (Off:3 Def:3),Rebound,Unknown,1,273
+22000166,370,PT09M04.00S,3,1610612762,UTA,204060,Ingles,J. Ingles,-42,22,5,Made,1,68.0,51.0,119,v,Ingles 5' Driving Layup (19 PTS),Made Shot,Driving Layup Shot,1,274
+22000166,371,PT08M51.00S,3,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook Bad Pass Turnover (P3.T10),Turnover,Bad Pass,1,275
+22000166,371,PT08M51.00S,3,1610612762,UTA,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,v,Bogdanovic STEAL (2 STL),,,1,276
+22000166,373,PT08M47.00S,3,1610612762,UTA,202711,Bogdanovic,B. Bogdanovic,34,56,7,Missed,1,,,0,v,MISS Bogdanovic 7' Running Layup,Missed Shot,Running Layup Shot,1,277
+22000166,374,PT08M47.00S,3,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Unknown,0,278
+22000166,376,PT08M41.00S,3,1610612762,UTA,204060,Ingles,J. Ingles,-43,38,6,Made,1,68.0,53.0,121,v,Ingles 6' Driving Layup (21 PTS),Made Shot,Driving Layup Shot,1,279
+22000166,378,PT08M41.00S,3,1610612764,WAS,203458,Len,A. Len,0,0,0,,0,,,0,h,Len S.FOUL (P3.T3) (S.Jelks),Foul,Shooting,1,280
+22000166,380,PT08M41.00S,3,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,68.0,54.0,122,v,Ingles Free Throw 1 of 1 (22 PTS),Free Throw,Free Throw 1 of 1,1,281
+22000166,381,PT08M41.00S,3,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,282
+22000166,382,PT08M28.00S,3,1610612762,UTA,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,v,O'Neale S.FOUL (P1.T2) (B.Barnaky),Foul,Shooting,1,283
+22000166,384,PT08M28.00S,3,1610612764,WAS,203458,Len,A. Len,0,0,0,,0,,,0,h,MISS Len Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,284
+22000166,385,PT08M28.00S,3,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Normal Rebound,0,285
+22000166,386,PT08M28.00S,3,1610612764,WAS,203458,Len,A. Len,0,0,0,,0,69.0,54.0,123,h,Len Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,286
+22000166,387,PT08M18.00S,3,1610612762,UTA,1628378,Mitchell,D. Mitchell,85,132,16,Made,1,69.0,56.0,125,v,Mitchell 16' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,287
+22000166,388,PT08M02.00S,3,1610612764,WAS,203078,Beal,B. Beal,32,178,18,Made,1,71.0,56.0,127,h,Beal 18' Pullup Jump Shot (15 PTS) (Len 1 AST),Made Shot,Pullup Jump shot,1,288
+22000166,390,PT07M52.00S,3,1610612762,UTA,204060,Ingles,J. Ingles,226,153,27,Missed,1,,,0,v,MISS Ingles 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,289
+22000166,391,PT07M50.00S,3,1610612764,WAS,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,h,Hachimura REBOUND (Off:0 Def:6),Rebound,Unknown,1,290
+22000166,392,PT07M39.00S,3,1610612764,WAS,203458,Len,A. Len,3,47,5,Made,1,73.0,56.0,129,h,Len 5' Hook Shot (5 PTS) (Westbrook 6 AST),Made Shot,Hook Shot,1,291
+22000166,394,PT07M31.00S,3,1610612762,UTA,1628378,Mitchell,D. Mitchell,-187,204,28,Made,1,73.0,59.0,132,v,Mitchell 28' 3PT Step Back Jump Shot (17 PTS),Made Shot,Step Back Jump shot,1,292
+22000166,395,PT07M14.00S,3,1610612764,WAS,203458,Len,A. Len,-49,47,7,Made,1,75.0,59.0,134,h,Len 7' Hook Shot (7 PTS) (Westbrook 7 AST),Made Shot,Hook Shot,1,293
+22000166,397,PT07M05.00S,3,1610612762,UTA,1628378,Mitchell,D. Mitchell,-55,283,29,Missed,1,,,0,v,MISS Mitchell 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,294
+22000166,398,PT07M03.00S,3,1610612764,WAS,203458,Len,A. Len,0,0,0,,0,,,0,h,Len REBOUND (Off:0 Def:5),Rebound,Unknown,1,295
+22000166,399,PT06M53.00S,3,1610612764,WAS,203458,Len,A. Len,16,20,3,Missed,1,,,0,h,MISS Len 3' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,296
+22000166,400,PT06M52.00S,3,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,,,0,v,Ingles REBOUND (Off:0 Def:3),Rebound,Unknown,1,297
+22000166,401,PT06M47.00S,3,1610612762,UTA,1626220,O'Neale,R. O'Neale,-231,41,0,Made,1,75.0,62.0,137,v,O'Neale 3PT Jump Shot (3 PTS) (Ingles 1 AST),Made Shot,Jump Shot,1,298
+22000166,403,PT06M28.00S,3,1610612764,WAS,203078,Beal,B. Beal,44,2,4,Missed,1,,,0,h,MISS Beal 4' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,299
+22000166,404,PT06M28.00S,3,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert REBOUND (Off:3 Def:5),Rebound,Unknown,1,300
+22000166,405,PT06M13.00S,3,1610612762,UTA,202711,Bogdanovic,B. Bogdanovic,231,83,25,Missed,1,,,0,v,MISS Bogdanovic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,301
+22000166,406,PT06M08.00S,3,1610612764,WAS,203458,Len,A. Len,0,0,0,,0,,,0,h,Len REBOUND (Off:0 Def:6),Rebound,Unknown,1,302
+22000166,407,PT06M06.00S,3,1610612762,UTA,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell Personal Take Foul (P2.T3) (S.Jelks),Foul,Personal Take,1,303
+22000166,409,PT06M06.00S,3,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,,,0,v,SUB: Clarkson FOR Ingles,Substitution,,0,304
+22000166,410,PT06M06.00S,3,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,SUB: Favors FOR Gobert,Substitution,,0,305
+22000166,426,PT06M06.00S,3,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,SUB: Neto FOR Westbrook,Substitution,,0,306
+22000166,413,PT06M00.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,Favors S.FOUL (P2.T4) (B.Barnaky),Foul,Shooting,1,307
+22000166,415,PT06M00.00S,3,1610612764,WAS,203458,Len,A. Len,0,0,0,,0,76.0,62.0,138,h,Len Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,308
+22000166,416,PT06M00.00S,3,1610612764,WAS,203458,Len,A. Len,0,0,0,,0,77.0,62.0,139,h,Len Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,309
+22000166,417,PT05M49.00S,3,1610612762,UTA,1628378,Mitchell,D. Mitchell,11,200,20,Made,1,77.0,64.0,141,v,Mitchell 20' Floating Jump Shot (19 PTS),Made Shot,Floating Jump shot,1,310
+22000166,459,PT05M33.00S,3,1610612764,WAS,203458,Len,A. Len,-12,38,4,Missed,1,,,0,h,MISS Len 4' Dunk,Missed Shot,Dunk Shot,1,311
+22000166,459,PT05M33.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,Favors BLOCK (1 BLK),,,1,312
+22000166,461,PT05M33.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,Favors REBOUND (Off:0 Def:2),Rebound,Unknown,1,313
+22000166,422,PT05M26.00S,3,1610612762,UTA,203903,Clarkson,J. Clarkson,-244,8,24,Missed,1,,,0,v,MISS Clarkson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,314
+22000166,423,PT05M22.00S,3,1610612762,UTA,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell REBOUND (Off:1 Def:0),Rebound,Unknown,1,315
+22000166,424,PT05M20.00S,3,1610612762,UTA,1628378,Mitchell,D. Mitchell,17,48,5,Made,1,77.0,66.0,143,v,Mitchell 5' Dunk (21 PTS),Made Shot,Dunk Shot,1,316
+22000166,425,PT05M08.00S,3,1610612764,WAS,203078,Beal,B. Beal,14,8,2,Made,1,79.0,66.0,145,h,Beal 2' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,317
+22000166,427,PT05M02.00S,3,1610612764,WAS,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P4.T4) (B.Barnaky),Foul,Shooting,1,318
+22000166,429,PT05M02.00S,3,1610612762,UTA,1628378,Mitchell,D. Mitchell,0,0,0,,0,79.0,67.0,146,v,Mitchell Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,1,319
+22000166,430,PT05M02.00S,3,1610612764,WAS,203458,Len,A. Len,0,0,0,,0,,,0,h,SUB: Lopez FOR Len,Substitution,,0,320
+22000166,431,PT05M02.00S,3,1610612764,WAS,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Avdija FOR Mathews,Substitution,,0,321
+22000166,434,PT05M02.00S,3,1610612762,UTA,1628378,Mitchell,D. Mitchell,0,0,0,,0,79.0,68.0,147,v,Mitchell Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,1,322
+22000166,435,PT04M47.00S,3,1610612764,WAS,203078,Beal,B. Beal,-128,97,16,Missed,1,,,0,h,MISS Beal 16' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,323
+22000166,436,PT04M44.00S,3,1610612762,UTA,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell REBOUND (Off:1 Def:1),Rebound,Unknown,1,324
+22000166,437,PT04M40.00S,3,1610612762,UTA,203903,Clarkson,J. Clarkson,-160,245,29,Missed,1,,,0,v,MISS Clarkson 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,325
+22000166,438,PT04M39.00S,3,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Unknown,0,326
+22000166,439,PT04M39.00S,3,1610612764,WAS,203526,Neto,R. Neto,0,0,0,,0,,,0,h,Neto L.B.FOUL (P4.PN) (R.Mott),Foul,Loose Ball,1,327
+22000166,441,PT04M39.00S,3,1610612762,UTA,1626220,O'Neale,R. O'Neale,0,0,0,,0,79.0,69.0,148,v,O'Neale Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,328
+22000166,442,PT04M39.00S,3,1610612762,UTA,1626220,O'Neale,R. O'Neale,0,0,0,,0,79.0,70.0,149,v,O'Neale Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,329
+22000166,443,PT04M24.00S,3,1610612764,WAS,201577,Lopez,R. Lopez,48,34,6,Made,1,81.0,70.0,151,h,Lopez 6' Hook Shot (6 PTS) (Beal 4 AST),Made Shot,Hook Shot,1,330
+22000166,445,PT04M11.00S,3,1610612762,UTA,1626220,O'Neale,R. O'Neale,-243,1,24,Made,1,81.0,73.0,154,v,O'Neale 24' 3PT Jump Shot (8 PTS) (Favors 1 AST),Made Shot,Jump Shot,1,331
+22000166,447,PT04M01.00S,3,1610612764,WAS,203078,Beal,B. Beal,-27,-5,3,Made,1,83.0,73.0,156,h,Beal 3' Driving Layup (19 PTS),Made Shot,Driving Layup Shot,1,332
+22000166,448,PT03M54.00S,3,1610612762,UTA,1628378,Mitchell,D. Mitchell,54,50,7,Made,1,83.0,75.0,158,v,Mitchell 7' Floating Jump Shot (25 PTS),Made Shot,Floating Jump shot,1,333
+22000166,449,PT03M41.00S,3,1610612764,WAS,203078,Beal,B. Beal,150,48,16,Made,1,85.0,75.0,160,h,Beal 16' Pullup Jump Shot (21 PTS),Made Shot,Pullup Jump shot,1,334
+22000166,450,PT03M26.00S,3,1610612762,UTA,1628378,Mitchell,D. Mitchell,0,176,18,Made,1,85.0,77.0,162,v,Mitchell 18' Pullup Jump Shot (27 PTS),Made Shot,Pullup Jump shot,1,335
+22000166,451,PT03M10.00S,3,1610612764,WAS,203078,Beal,B. Beal,152,214,26,Made,1,88.0,77.0,165,h,Beal 26' 3PT Pullup Jump Shot (24 PTS),Made Shot,Pullup Jump shot,1,336
+22000166,452,PT03M10.00S,3,1610612762,UTA,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,v,O'Neale S.FOUL (P2.PN) (B.Barnaky),Foul,Shooting,1,337
+22000166,454,PT03M10.00S,3,1610612764,WAS,203526,Neto,R. Neto,0,0,0,,0,,,0,h,SUB: Westbrook FOR Neto,Substitution,,0,338
+22000166,455,PT03M10.00S,3,1610612762,UTA,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,v,SUB: Niang FOR Bogdanovic,Substitution,,0,339
+22000166,458,PT03M10.00S,3,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,340
+22000166,462,PT03M10.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,SUB: Gobert FOR Favors,Substitution,,0,341
+22000166,463,PT03M10.00S,3,1610612762,UTA,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,v,SUB: Oni FOR O'Neale,Substitution,,0,342
+22000166,466,PT03M10.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,89.0,77.0,166,h,Beal Free Throw 1 of 1 (25 PTS),Free Throw,Free Throw 1 of 1,1,343
+22000166,467,PT02M57.00S,3,1610612762,UTA,1628378,Mitchell,D. Mitchell,8,46,5,Made,1,89.0,79.0,168,v,Mitchell 5' Driving Layup (29 PTS),Made Shot,Driving Layup Shot,1,344
+22000166,468,PT02M45.00S,3,1610612762,UTA,1629671,Oni,M. Oni,0,0,0,,0,,,0,v,Oni P.FOUL (P2.PN) (B.Barnaky),Foul,Personal,1,345
+22000166,470,PT02M45.00S,3,1610612764,WAS,201577,Lopez,R. Lopez,0,0,0,,0,90.0,79.0,169,h,Lopez Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,346
+22000166,471,PT02M45.00S,3,1610612764,WAS,201577,Lopez,R. Lopez,0,0,0,,0,91.0,79.0,170,h,Lopez Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,347
+22000166,472,PT02M35.00S,3,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,v,Clarkson Step Out of Bounds Turnover (P4.T14),Turnover,Step Out of Bounds Turnover,1,348
+22000166,474,PT02M26.00S,3,1610612764,WAS,201566,Westbrook,R. Westbrook,232,-17,0,Missed,1,,,0,h,MISS Westbrook 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,349
+22000166,475,PT02M23.00S,3,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert REBOUND (Off:3 Def:6),Rebound,Unknown,1,350
+22000166,476,PT02M18.00S,3,1610612762,UTA,203903,Clarkson,J. Clarkson,-225,135,26,Missed,1,,,0,v,MISS Clarkson 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,351
+22000166,477,PT02M16.00S,3,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook REBOUND (Off:0 Def:9),Rebound,Unknown,1,352
+22000166,478,PT02M11.00S,3,1610612764,WAS,201566,Westbrook,R. Westbrook,41,5,4,Made,1,93.0,79.0,172,h,Westbrook 4' Driving Layup (26 PTS),Made Shot,Driving Layup Shot,1,353
+22000166,479,PT01M59.00S,3,1610612762,UTA,1627777,Niang,G. Niang,-14,48,5,Missed,1,,,0,v,MISS Niang 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,354
+22000166,480,PT01M56.00S,3,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook REBOUND (Off:0 Def:10),Rebound,Unknown,1,355
+22000166,481,PT01M54.00S,3,1610612764,WAS,1629060,Hachimura,R. Hachimura,26,11,3,Made,1,95.0,79.0,174,h,Hachimura 3' Alley Oop Layup (10 PTS) (Westbrook 8 AST),Made Shot,Alley Oop Layup shot,1,356
+22000166,484,PT01M48.00S,3,1610612762,UTA,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell Bad Pass Turnover (P4.T15),Turnover,Bad Pass,1,357
+22000166,484,PT01M48.00S,3,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook STEAL (1 STL),,,1,358
+22000166,486,PT01M44.00S,3,1610612764,WAS,1629060,Hachimura,R. Hachimura,37,28,5,Made,1,97.0,79.0,176,h,Hachimura 5' Running Dunk (12 PTS) (Westbrook 9 AST),Made Shot,Running Dunk Shot,1,359
+22000166,488,PT01M22.00S,3,1610612762,UTA,1627777,Niang,G. Niang,182,192,26,Made,1,97.0,82.0,179,v,Niang 26' 3PT Step Back Jump Shot (3 PTS) (Mitchell 5 AST),Made Shot,Step Back Jump shot,1,360
+22000166,489,PT00M58.70S,3,1610612764,WAS,203078,Beal,B. Beal,6,8,1,Missed,1,,,0,h,MISS Beal 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,361
+22000166,490,PT00M57.30S,3,1610612762,UTA,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,Niang REBOUND (Off:0 Def:2),Rebound,Unknown,1,362
+22000166,491,PT00M51.50S,3,1610612762,UTA,1627777,Niang,G. Niang,-33,11,3,Missed,1,,,0,v,MISS Niang 3' Driving Layup,Missed Shot,Driving Layup Shot,1,363
+22000166,492,PT00M47.50S,3,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert REBOUND (Off:4 Def:6),Rebound,Unknown,1,364
+22000166,493,PT00M47.50S,3,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,Missed,1,,,0,v,MISS Gobert Tip Layup Shot,Missed Shot,Tip Layup Shot,1,365
+22000166,494,PT00M47.50S,3,1610612762,UTA,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,Niang REBOUND (Off:1 Def:2),Rebound,Unknown,1,366
+22000166,495,PT00M47.50S,3,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,367
+22000166,496,PT00M41.60S,3,1610612762,UTA,1628378,Mitchell,D. Mitchell,46,108,12,Missed,1,,,0,v,MISS Mitchell 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,368
+22000166,497,PT00M37.80S,3,1610612764,WAS,201577,Lopez,R. Lopez,0,0,0,,0,,,0,h,Lopez REBOUND (Off:2 Def:1),Rebound,Unknown,1,369
+22000166,498,PT00M29.90S,3,1610612764,WAS,203078,Beal,B. Beal,-43,146,15,Made,1,99.0,82.0,181,h,Beal 15' Jump Shot (27 PTS),Made Shot,Jump Shot,0,370
+22000166,499,PT00M29.90S,3,1610612762,UTA,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,Niang S.FOUL (P3.PN) (S.Jelks),Foul,Shooting,0,371
+22000166,501,PT00M29.90S,3,1610612764,WAS,201577,Lopez,R. Lopez,0,0,0,,0,,,0,h,SUB: Bonga FOR Lopez,Substitution,,0,372
+22000166,503,PT00M29.90S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,100.0,82.0,182,h,Beal Free Throw 1 of 1 (28 PTS),Free Throw,Free Throw 1 of 1,1,373
+22000166,504,PT00M09.40S,3,1610612762,UTA,1628378,Mitchell,D. Mitchell,38,37,5,Missed,1,,,0,v,MISS Mitchell 5' Driving Layup,Missed Shot,Driving Layup Shot,1,374
+22000166,505,PT00M06.90S,3,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook REBOUND (Off:0 Def:11),Rebound,Unknown,1,375
+22000166,598,PT00M00.60S,3,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook Bad Pass Turnover (P4.T11),Turnover,Bad Pass,1,376
+22000166,598,PT00M00.60S,3,1610612762,UTA,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell STEAL (2 STL),,,1,377
+22000166,506,PT00M00.00S,3,0,,0,,,0,0,0,,0,100.0,82.0,182,,End of 3rd Period (8:52 PM EST),period,end,1,378
+22000166,511,PT12M00.00S,4,0,,0,,,0,0,0,,0,100.0,82.0,182,,Start of 4th Period (8:55 PM EST),period,start,0,379
+22000166,512,PT11M48.00S,4,1610612762,UTA,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,Niang Bad Pass Turnover (P2.T16),Turnover,Bad Pass,1,380
+22000166,512,PT11M48.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook STEAL (2 STL),,,1,381
+22000166,515,PT11M47.00S,4,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,,,0,v,Ingles Personal Take Foul (P2.T1) (B.Barnaky),Foul,Personal Take,1,382
+22000166,517,PT11M39.00S,4,1610612764,WAS,203078,Beal,B. Beal,82,253,27,Made,1,103.0,82.0,185,h,Beal 27' 3PT Jump Shot (31 PTS),Made Shot,Jump Shot,1,383
+22000166,519,PT11M28.00S,4,1610612762,UTA,203903,Clarkson,J. Clarkson,-119,255,28,Missed,1,,,0,v,MISS Clarkson 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,384
+22000166,520,PT11M26.00S,4,1610612764,WAS,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,h,Hachimura REBOUND (Off:0 Def:7),Rebound,Unknown,1,385
+22000166,521,PT11M15.00S,4,1610612764,WAS,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,h,Hachimura Bad Pass Turnover (P3.T12),Turnover,Bad Pass,1,386
+22000166,521,PT11M15.00S,4,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert STEAL (2 STL),,,1,387
+22000166,523,PT11M13.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija Personal Take Foul (P2.T1) (B.Barnaky),Foul,Personal Take,1,388
+22000166,525,PT11M07.00S,4,1610612762,UTA,204060,Ingles,J. Ingles,133,247,28,Made,1,103.0,85.0,188,v,Ingles 28' 3PT Pullup Jump Shot (25 PTS),Made Shot,Pullup Jump shot,1,389
+22000166,526,PT10M51.00S,4,1610612764,WAS,203078,Beal,B. Beal,4,120,12,Made,1,105.0,85.0,190,h,Beal 12' Jump Shot (33 PTS) (Westbrook 10 AST),Made Shot,Jump Shot,1,390
+22000166,528,PT10M37.00S,4,1610612762,UTA,1627777,Niang,G. Niang,231,127,26,Missed,1,,,0,v,MISS Niang 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,391
+22000166,529,PT10M35.00S,4,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Unknown,0,392
+22000166,531,PT10M35.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,h,SUB: Neto FOR Beal,Substitution,,0,393
+22000166,533,PT10M30.00S,4,1610612764,WAS,203526,Neto,R. Neto,0,0,0,,0,,,0,h,Neto S.FOUL (P5.T2) (B.Barnaky),Foul,Shooting,1,394
+22000166,535,PT10M30.00S,4,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,v,MISS Clarkson Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,1,395
+22000166,536,PT10M30.00S,4,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Normal Rebound,0,396
+22000166,537,PT10M30.00S,4,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,105.0,86.0,191,v,Clarkson Free Throw 2 of 3 (4 PTS),Free Throw,Free Throw 2 of 3,1,397
+22000166,538,PT10M30.00S,4,1610612762,UTA,1629671,Oni,M. Oni,0,0,0,,0,,,0,v,SUB: Mitchell FOR Oni,Substitution,,0,398
+22000166,540,PT10M30.00S,4,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,105.0,87.0,192,v,Clarkson Free Throw 3 of 3 (5 PTS),Free Throw,Free Throw 3 of 3,1,399
+22000166,541,PT10M22.00S,4,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert S.FOUL (P1.T2) (B.Barnaky),Foul,Shooting,1,400
+22000166,543,PT10M22.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,106.0,87.0,193,h,Westbrook Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,1,401
+22000166,544,PT10M22.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,MISS Westbrook Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,402
+22000166,545,PT10M19.00S,4,1610612762,UTA,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,Niang REBOUND (Off:1 Def:3),Rebound,Unknown,1,403
+22000166,546,PT10M06.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija P.FOUL (P3.T3) (B.Barnaky),Foul,Personal,1,404
+22000166,548,PT10M01.00S,4,1610612762,UTA,1628378,Mitchell,D. Mitchell,-46,48,7,Missed,1,,,0,v,MISS Mitchell 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,405
+22000166,549,PT09M57.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,Avdija REBOUND (Off:0 Def:4),Rebound,Unknown,1,406
+22000166,550,PT09M46.00S,4,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert S.FOUL (P2.T3) (R.Mott),Foul,Shooting,1,407
+22000166,552,PT09M46.00S,4,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert T.FOUL (P2.T3) (R.Mott),Foul,Technical,1,408
+22000166,553,PT09M46.00S,4,1610612764,WAS,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,h,MISS Hachimura Free Throw Technical,Free Throw,Free Throw Technical,1,409
+22000166,554,PT09M46.00S,4,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Rebound,Rebound,Normal Rebound,0,410
+22000166,555,PT09M46.00S,4,1610612764,WAS,201577,Lopez,R. Lopez,0,0,0,,0,107.0,87.0,194,h,Lopez Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,411
+22000166,556,PT09M46.00S,4,1610612764,WAS,201577,Lopez,R. Lopez,0,0,0,,0,,,0,h,MISS Lopez Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,412
+22000166,557,PT09M45.00S,4,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert REBOUND (Off:4 Def:7),Rebound,Unknown,1,413
+22000166,558,PT09M31.00S,4,1610612762,UTA,204060,Ingles,J. Ingles,-24,59,6,Made,1,107.0,89.0,196,v,Ingles 6' Floating Jump Shot (27 PTS) (Niang 1 AST),Made Shot,Floating Jump shot,1,414
+22000166,560,PT09M19.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,96,50,11,Missed,1,,,0,h,MISS Westbrook 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,415
+22000166,561,PT09M17.00S,4,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert REBOUND (Off:4 Def:8),Rebound,Unknown,1,416
+22000166,562,PT09M07.00S,4,1610612762,UTA,204060,Ingles,J. Ingles,-182,197,27,Made,1,107.0,92.0,199,v,Ingles 27' 3PT Pullup Jump Shot (30 PTS),Made Shot,Pullup Jump shot,1,417
+22000166,563,PT08M50.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,-210,149,26,Missed,1,,,0,h,MISS Avdija 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,418
+22000166,564,PT08M47.00S,4,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,,,0,v,Ingles REBOUND (Off:0 Def:4),Rebound,Unknown,1,419
+22000166,565,PT08M40.00S,4,1610612762,UTA,203497,Gobert,R. Gobert,49,72,9,Missed,1,,,0,v,MISS Gobert 9' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,420
+22000166,566,PT08M37.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook REBOUND (Off:0 Def:12),Rebound,Unknown,1,421
+22000166,567,PT08M35.00S,4,1610612764,WAS,203526,Neto,R. Neto,49,5,5,Made,1,109.0,92.0,201,h,Neto 5' Running Layup (4 PTS) (Westbrook 11 AST),Made Shot,Running Layup Shot,1,422
+22000166,569,PT08M26.00S,4,1610612764,WAS,201577,Lopez,R. Lopez,0,0,0,,0,,,0,h,Lopez S.FOUL (P2.T4) (R.Mott),Foul,Shooting,1,423
+22000166,571,PT08M26.00S,4,1610612762,UTA,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,MISS Mitchell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,424
+22000166,572,PT08M26.00S,4,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Normal Rebound,0,425
+22000166,573,PT08M26.00S,4,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,,,0,v,SUB: Favors FOR Ingles,Substitution,,0,426
+22000166,574,PT08M26.00S,4,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Gobert,Substitution,,0,427
+22000166,575,PT08M26.00S,4,1610612762,UTA,1627777,Niang,G. Niang,0,0,0,,0,,,0,v,SUB: O'Neale FOR Niang,Substitution,,0,428
+22000166,579,PT08M26.00S,4,1610612762,UTA,1628378,Mitchell,D. Mitchell,0,0,0,,0,109.0,93.0,202,v,Mitchell Free Throw 2 of 2 (30 PTS),Free Throw,Free Throw 2 of 2,1,429
+22000166,580,PT08M17.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,103,160,19,Missed,1,,,0,h,MISS Westbrook 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,430
+22000166,581,PT08M14.00S,4,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,v,Clarkson REBOUND (Off:0 Def:3),Rebound,Unknown,1,431
+22000166,582,PT08M07.00S,4,1610612762,UTA,203903,Clarkson,J. Clarkson,-60,95,11,Made,1,109.0,95.0,204,v,Clarkson 11' Turnaround Jump Shot (7 PTS),Made Shot,Turnaround Jump Shot,1,432
+22000166,583,PT08M07.00S,4,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,433
+22000166,584,PT08M07.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,SUB: Beal FOR Westbrook,Substitution,,0,434
+22000166,586,PT07M52.00S,4,1610612764,WAS,203078,Beal,B. Beal,179,16,18,Made,1,111.0,95.0,206,h,Beal 18' Pullup Jump Shot (35 PTS),Made Shot,Pullup Jump shot,1,435
+22000166,587,PT07M37.00S,4,1610612762,UTA,202324,Favors,D. Favors,-58,8,6,Made,1,111.0,97.0,208,v,Favors 6' Cutting Layup Shot (2 PTS) (Clarkson 4 AST),Made Shot,Cutting Layup Shot,1,436
+22000166,589,PT07M37.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,h,Beal S.FOUL (P2.PN) (S.Jelks),Foul,Shooting,1,437
+22000166,591,PT07M37.00S,4,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,MISS Favors Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,438
+22000166,592,PT07M35.00S,4,1610612764,WAS,201577,Lopez,R. Lopez,0,0,0,,0,,,0,h,Lopez REBOUND (Off:2 Def:2),Rebound,Unknown,1,439
+22000166,593,PT07M24.00S,4,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,Favors S.FOUL (P3.T4) (S.Jelks),Foul,Shooting,1,440
+22000166,595,PT07M24.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,112.0,97.0,209,h,Beal Free Throw 1 of 2 (36 PTS),Free Throw,Free Throw 1 of 2,1,441
+22000166,596,PT07M24.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,h,MISS Beal Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,442
+22000166,597,PT07M21.00S,4,1610612762,UTA,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,v,Bogdanovic REBOUND (Off:0 Def:5),Rebound,Unknown,1,443
+22000166,600,PT07M08.00S,4,1610612762,UTA,202324,Favors,D. Favors,-4,166,17,Made,1,112.0,99.0,211,v,Favors 17' Jump Shot (4 PTS) (Clarkson 5 AST),Made Shot,Jump Shot,1,444
+22000166,602,PT06M51.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,-232,-14,0,Missed,1,,,0,h,MISS Avdija 3PT Jump Shot,Missed Shot,Jump Shot,1,445
+22000166,603,PT06M48.00S,4,1610612762,UTA,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,v,O'Neale REBOUND (Off:3 Def:4),Rebound,Unknown,1,446
+22000166,604,PT06M44.00S,4,1610612762,UTA,1628378,Mitchell,D. Mitchell,-70,271,28,Made,1,112.0,102.0,214,v,Mitchell 28' 3PT Pullup Jump Shot (33 PTS) (O'Neale 3 AST),Made Shot,Pullup Jump shot,1,447
+22000166,606,PT06M25.00S,4,1610612764,WAS,1629060,Hachimura,R. Hachimura,63,169,18,Missed,1,,,0,h,MISS Hachimura 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,448
+22000166,607,PT06M23.00S,4,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,v,Clarkson REBOUND (Off:0 Def:4),Rebound,Unknown,1,449
+22000166,608,PT06M20.00S,4,1610612762,UTA,1626220,O'Neale,R. O'Neale,-241,32,24,Made,1,112.0,105.0,217,v,O'Neale 24' 3PT Running Jump Shot (11 PTS) (Clarkson 6 AST),Made Shot,Running Jump Shot,1,450
+22000166,610,PT06M17.00S,4,0,,1610612764,,,0,0,0,,0,,,0,h,WIZARDS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,451
+22000166,611,PT06M17.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,,,0,h,SUB: Westbrook FOR Avdija,Substitution,,0,452
+22000166,612,PT06M17.00S,4,1610612764,WAS,203526,Neto,R. Neto,0,0,0,,0,,,0,h,SUB: Bonga FOR Neto,Substitution,,0,453
+22000166,615,PT05M58.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,95,249,27,Missed,1,,,0,h,MISS Westbrook 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,454
+22000166,616,PT05M54.00S,4,1610612764,WAS,1629067,Bonga,I. Bonga,0,0,0,,0,,,0,h,Bonga REBOUND (Off:2 Def:1),Rebound,Unknown,1,455
+22000166,617,PT05M53.00S,4,1610612764,WAS,203078,Beal,B. Beal,-214,139,26,Made,1,115.0,105.0,220,h,Beal 26' 3PT Jump Shot (39 PTS) (Bonga 2 AST),Made Shot,Jump Shot,1,456
+22000166,619,PT05M37.00S,4,1610612762,UTA,1628378,Mitchell,D. Mitchell,191,195,27,Missed,1,,,0,v,MISS Mitchell 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,457
+22000166,620,PT05M34.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook REBOUND (Off:0 Def:13),Rebound,Unknown,1,458
+22000166,621,PT05M26.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,-41,13,4,Missed,1,,,0,h,MISS Westbrook 4' Layup,Missed Shot,Layup Shot,1,459
+22000166,622,PT05M24.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook REBOUND (Off:1 Def:13),Rebound,Unknown,1,460
+22000166,623,PT05M23.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,Missed,1,,,0,h,MISS Westbrook Tip Layup Shot,Missed Shot,Tip Layup Shot,1,461
+22000166,624,PT05M22.00S,4,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,Favors REBOUND (Off:0 Def:3),Rebound,Unknown,1,462
+22000166,625,PT05M22.00S,4,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,v,Clarkson Step Out of Bounds Turnover (P5.T17),Turnover,Step Out of Bounds Turnover,1,463
+22000166,626,PT05M05.00S,4,1610612764,WAS,203078,Beal,B. Beal,-150,25,15,Missed,1,,,0,h,MISS Beal 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,464
+22000166,627,PT05M02.00S,4,1610612764,WAS,1629067,Bonga,I. Bonga,0,0,0,,0,,,0,h,Bonga REBOUND (Off:3 Def:1),Rebound,Unknown,1,465
+22000166,628,PT04M58.00S,4,1610612762,UTA,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell S.FOUL (P3.PN) (R.Mott),Foul,Shooting,1,466
+22000166,630,PT04M58.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,116.0,105.0,221,h,Westbrook Free Throw 1 of 2 (28 PTS),Free Throw,Free Throw 1 of 2,1,467
+22000166,631,PT04M58.00S,4,1610612762,UTA,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,v,SUB: Gobert FOR Clarkson,Substitution,,0,468
+22000166,632,PT04M58.00S,4,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,SUB: Ingles FOR Favors,Substitution,,0,469
+22000166,635,PT04M58.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,MISS Westbrook Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,470
+22000166,636,PT04M54.00S,4,1610612764,WAS,201577,Lopez,R. Lopez,0,0,0,,0,,,0,h,Lopez REBOUND (Off:3 Def:2),Rebound,Unknown,1,471
+22000166,637,PT04M48.00S,4,1610612764,WAS,201577,Lopez,R. Lopez,38,49,6,Missed,1,,,0,h,MISS Lopez 6' Hook Shot,Missed Shot,Hook Shot,1,472
+22000166,638,PT04M44.00S,4,1610612762,UTA,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell REBOUND (Off:1 Def:2),Rebound,Unknown,1,473
+22000166,639,PT04M39.00S,4,1610612762,UTA,1628378,Mitchell,D. Mitchell,84,134,16,Made,1,116.0,107.0,223,v,Mitchell 16' Floating Jump Shot (35 PTS),Made Shot,Floating Jump shot,1,474
+22000166,640,PT04M39.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,h,Beal S.FOUL (P3.PN) (S.Jelks),Foul,Shooting,1,475
+22000166,642,PT04M39.00S,4,1610612762,UTA,1628378,Mitchell,D. Mitchell,0,0,0,,0,116.0,108.0,224,v,Mitchell Free Throw 1 of 1 (36 PTS),Free Throw,Free Throw 1 of 1,1,476
+22000166,643,PT04M22.00S,4,1610612764,WAS,201577,Lopez,R. Lopez,2,26,3,Made,1,118.0,108.0,226,h,Lopez 3' Cutting Dunk Shot (11 PTS) (Westbrook 12 AST),Made Shot,Cutting Dunk Shot,1,477
+22000166,645,PT04M08.00S,4,1610612762,UTA,1628378,Mitchell,D. Mitchell,28,277,28,Missed,1,,,0,v,MISS Mitchell 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,478
+22000166,646,PT04M04.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook REBOUND (Off:1 Def:14),Rebound,Unknown,1,479
+22000166,647,PT03M58.00S,4,1610612764,WAS,203078,Beal,B. Beal,2,0,0,Made,1,120.0,108.0,228,h,Beal Finger Roll Layup (41 PTS) (Westbrook 13 AST),Made Shot,Finger Roll Layup Shot,1,480
+22000166,649,PT03M58.00S,4,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,481
+22000166,650,PT03M47.00S,4,1610612762,UTA,204060,Ingles,J. Ingles,-195,204,28,Made,1,120.0,111.0,231,v,Ingles 28' 3PT Pullup Jump Shot (33 PTS) (Mitchell 6 AST),Made Shot,Pullup Jump shot,1,482
+22000166,652,PT03M27.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,4,27,3,Made,1,122.0,111.0,233,h,Westbrook 3' Turnaround Jump Shot (30 PTS),Made Shot,Turnaround Jump Shot,1,483
+22000166,653,PT03M27.00S,4,1610612762,UTA,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell S.FOUL (P4.PN) (R.Mott),Foul,Shooting,1,484
+22000166,655,PT03M27.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,123.0,111.0,234,h,Westbrook Free Throw 1 of 1 (31 PTS),Free Throw,Free Throw 1 of 1,1,485
+22000166,656,PT03M17.00S,4,1610612764,WAS,1629067,Bonga,I. Bonga,0,0,0,,0,,,0,h,Bonga S.FOUL (P3.PN) (R.Mott),Foul,Shooting,1,486
+22000166,658,PT03M17.00S,4,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,MISS Gobert Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,487
+22000166,659,PT03M17.00S,4,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Normal Rebound,0,488
+22000166,660,PT03M17.00S,4,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,123.0,112.0,235,v,Gobert Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,489
+22000166,661,PT03M04.00S,4,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert S.FOUL (P3.PN) (R.Mott),Foul,Shooting,1,490
+22000166,663,PT03M04.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,124.0,112.0,236,h,Beal Free Throw 1 of 2 (42 PTS),Free Throw,Free Throw 1 of 2,1,491
+22000166,664,PT03M04.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,125.0,112.0,237,h,Beal Free Throw 2 of 2 (43 PTS),Free Throw,Free Throw 2 of 2,1,492
+22000166,665,PT02M56.00S,4,1610612764,WAS,1629067,Bonga,I. Bonga,0,0,0,,0,,,0,h,Bonga P.FOUL (P4.PN) (B.Barnaky),Foul,Personal,1,493
+22000166,667,PT02M56.00S,4,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,,,0,v,MISS Ingles Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,494
+22000166,668,PT02M56.00S,4,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Normal Rebound,0,495
+22000166,669,PT02M56.00S,4,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,125.0,113.0,238,v,Ingles Free Throw 2 of 2 (34 PTS),Free Throw,Free Throw 2 of 2,1,496
+22000166,670,PT02M34.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,,,0,h,Westbrook Bad Pass Turnover (P5.T13),Turnover,Bad Pass,1,497
+22000166,670,PT02M34.00S,4,1610612762,UTA,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,v,Bogdanovic STEAL (3 STL),,,1,498
+22000166,673,PT02M28.00S,4,1610612762,UTA,202711,Bogdanovic,B. Bogdanovic,-205,157,26,Missed,1,,,0,v,MISS Bogdanovic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,499
+22000166,674,PT02M24.00S,4,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,,,0,v,Ingles REBOUND (Off:1 Def:4),Rebound,Unknown,1,500
+22000166,675,PT02M23.00S,4,1610612762,UTA,1626220,O'Neale,R. O'Neale,163,242,29,Missed,1,,,0,v,MISS O'Neale 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,501
+22000166,676,PT02M23.00S,4,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Unknown,0,502
+22000166,678,PT02M12.00S,4,1610612762,UTA,1626220,O'Neale,R. O'Neale,-245,-4,25,Missed,1,,,0,v,MISS O'Neale 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,503
+22000166,679,PT02M11.00S,4,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Unknown,0,504
+22000166,680,PT02M11.00S,4,1610612764,WAS,1629060,Hachimura,R. Hachimura,0,0,0,,0,,,0,h,Hachimura P.FOUL (P1.PN) (R.Mott),Foul,Personal,1,505
+22000166,682,PT02M11.00S,4,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,MISS Gobert Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,506
+22000166,683,PT02M11.00S,4,0,,1610612762,,,0,0,0,,0,,,0,v,Jazz Rebound,Rebound,Normal Rebound,0,507
+22000166,684,PT02M11.00S,4,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,125.0,114.0,239,v,Gobert Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,508
+22000166,685,PT01M53.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,57,193,20,Made,1,127.0,114.0,241,h,Westbrook 20' Pullup Jump Shot (33 PTS) (Beal 5 AST),Made Shot,Pullup Jump shot,1,509
+22000166,687,PT01M45.00S,4,1610612762,UTA,1628378,Mitchell,D. Mitchell,83,90,12,Made,1,127.0,116.0,243,v,Mitchell 12' Floating Jump Shot (38 PTS),Made Shot,Floating Jump shot,1,510
+22000166,688,PT01M24.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,-234,-8,0,Missed,1,,,0,h,MISS Westbrook 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,511
+22000166,689,PT01M20.00S,4,1610612762,UTA,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,Mitchell REBOUND (Off:1 Def:3),Rebound,Unknown,1,512
+22000166,690,PT01M16.00S,4,1610612764,WAS,1629067,Bonga,I. Bonga,0,0,0,,0,,,0,h,Bonga S.FOUL (P5.PN) (R.Mott),Foul,Shooting,1,513
+22000166,692,PT01M16.00S,4,1610612762,UTA,1628378,Mitchell,D. Mitchell,0,0,0,,0,127.0,117.0,244,v,Mitchell Free Throw 1 of 2 (39 PTS),Free Throw,Free Throw 1 of 2,1,514
+22000166,693,PT01M16.00S,4,1610612764,WAS,1629067,Bonga,I. Bonga,0,0,0,,0,,,0,h,SUB: Neto FOR Bonga,Substitution,,0,515
+22000166,695,PT01M16.00S,4,1610612762,UTA,1628378,Mitchell,D. Mitchell,0,0,0,,0,127.0,118.0,245,v,Mitchell Free Throw 2 of 2 (40 PTS),Free Throw,Free Throw 2 of 2,1,516
+22000166,696,PT01M14.00S,4,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,,,0,v,Ingles Personal Take Foul (P3.PN) (R.Mott),Foul,Personal Take,1,517
+22000166,698,PT01M14.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,128.0,118.0,246,h,Westbrook Free Throw 1 of 2 (34 PTS),Free Throw,Free Throw 1 of 2,1,518
+22000166,699,PT01M14.00S,4,1610612764,WAS,201566,Westbrook,R. Westbrook,0,0,0,,0,129.0,118.0,247,h,Westbrook Free Throw 2 of 2 (35 PTS),Free Throw,Free Throw 2 of 2,1,519
+22000166,700,PT01M09.00S,4,1610612762,UTA,1628378,Mitchell,D. Mitchell,180,204,27,Missed,1,,,0,v,MISS Mitchell 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,520
+22000166,701,PT01M06.00S,4,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert REBOUND (Off:5 Def:8),Rebound,Unknown,1,521
+22000166,702,PT01M03.00S,4,1610612762,UTA,1628378,Mitchell,D. Mitchell,54,26,6,Made,1,129.0,120.0,249,v,Mitchell 6' Driving Layup (42 PTS) (Ingles 2 AST),Made Shot,Driving Layup Shot,1,522
+22000166,704,PT00M57.80S,4,1610612762,UTA,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,v,Bogdanovic Personal Take Foul (P4.PN) (R.Mott),Foul,Personal Take,1,523
+22000166,706,PT00M57.80S,4,1610612764,WAS,203526,Neto,R. Neto,0,0,0,,0,130.0,120.0,250,h,Neto Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,524
+22000166,707,PT00M57.80S,4,1610612764,WAS,201577,Lopez,R. Lopez,0,0,0,,0,,,0,h,SUB: Bonga FOR Lopez,Substitution,,0,525
+22000166,708,PT00M57.80S,4,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,,,0,v,SUB: Oni FOR Ingles,Substitution,,0,526
+22000166,709,PT00M57.80S,4,1610612762,UTA,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,v,SUB: Morgan FOR O'Neale,Substitution,,0,527
+22000166,710,PT00M57.80S,4,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,SUB: Forrest FOR Gobert,Substitution,,0,528
+22000166,711,PT00M57.80S,4,1610612762,UTA,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,v,SUB: Brantley FOR Bogdanovic,Substitution,,0,529
+22000166,712,PT00M57.80S,4,1610612762,UTA,1628378,Mitchell,D. Mitchell,0,0,0,,0,,,0,v,SUB: Hughes FOR Mitchell,Substitution,,0,530
+22000166,719,PT00M57.80S,4,1610612764,WAS,203526,Neto,R. Neto,0,0,0,,0,131.0,120.0,251,h,Neto Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,531
+22000166,720,PT00M41.40S,4,1610612762,UTA,1629671,Oni,M. Oni,1,36,4,Missed,1,,,0,v,MISS Oni 4' Dunk,Missed Shot,Dunk Shot,1,532
+22000166,721,PT00M39.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,,,0,h,Beal REBOUND (Off:0 Def:2),Rebound,Unknown,1,533
+22000166,722,PT00M19.10S,4,1610612764,WAS,203078,Beal,B. Beal,163,218,27,Missed,1,,,0,h,MISS Beal 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,534
+22000166,723,PT00M15.80S,4,1610612762,UTA,1630235,Forrest,T. Forrest,0,0,0,,0,,,0,v,Forrest REBOUND (Off:0 Def:1),Rebound,Unknown,1,535
+22000166,724,PT00M00.30S,4,1610612762,UTA,1629671,Oni,M. Oni,-30,20,4,Made,1,131.0,122.0,253,v,Oni 4' Driving Dunk (5 PTS),Made Shot,Driving Dunk Shot,1,536
+22000166,725,PT00M00.00S,4,0,,724,Alexander,C. Alexander,0,0,0,,0,131.0,122.0,253,,Instant Replay4th Period (9:31 PM EST),Instant Replay,Support Ruling,0,537
+22000166,726,PT00M00.00S,4,0,,0,,,0,0,0,,0,131.0,122.0,253,,End of 4th Period (9:32 PM EST),period,end,1,538

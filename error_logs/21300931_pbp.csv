@@ -1,0 +1,482 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+21300931,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (9:11 PM EST),period,start,0,1
+21300931,1,PT12M00.00S,1,1610612749,MIL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,Jump Ball Pachulia vs. Gortat: Tip to Wall,Jump Ball,,0,2
+21300931,2,PT11M42.00S,1,1610612764,WAS,203078,Beal,B. Beal,-10,184,18,Missed,1,0.0,0.0,0,v,MISS Beal 18' Jump Shot,Missed Shot,Jump Shot,0,3
+21300931,3,PT11M41.00S,1,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0.0,0.0,0,v,Wall REBOUND (Off:1 Def:0),Rebound,Unknown,0,4
+21300931,4,PT11M37.00S,1,1610612764,WAS,2772,Ariza,T. Ariza,225,-3,0,Made,1,0.0,3.0,3,v,Ariza  3PT Jump Shot (3 PTS) (Wall 1 AST),Made Shot,Jump Shot,0,5
+21300931,5,PT11M17.00S,1,1610612749,MIL,202688,Knight,B. Knight,-175,116,21,Made,1,2.0,3.0,5,h,Knight 21' Jump Shot (2 PTS) (Middleton 1 AST),Made Shot,Jump Shot,0,6
+21300931,6,PT10M59.00S,1,1610612764,WAS,203078,Beal,B. Beal,-7,0,1,Missed,1,0.0,0.0,0,v,MISS Beal 1' Layup,Missed Shot,Layup Shot,0,7
+21300931,7,PT10M57.00S,1,1610612764,WAS,202344,Booker,T. Booker,0,0,0,,0,0.0,0.0,0,v,Booker REBOUND (Off:1 Def:0),Rebound,Unknown,0,8
+21300931,8,PT10M52.00S,1,1610612764,WAS,2772,Ariza,T. Ariza,211,135,25,Made,1,2.0,6.0,8,v,Ariza 25' 3PT Jump Shot (6 PTS) (Booker 1 AST),Made Shot,Jump Shot,0,9
+21300931,9,PT10M36.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,64,131,15,Missed,1,0.0,0.0,0,h,MISS Middleton 15' Jump Shot,Missed Shot,Jump Shot,0,10
+21300931,10,PT10M35.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0.0,0.0,0,v,Gortat REBOUND (Off:0 Def:1),Rebound,Unknown,0,11
+21300931,11,PT10M23.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,4,22,2,Made,1,2.0,8.0,10,v,Gortat 2' Hook Shot (2 PTS) (Ariza 1 AST),Made Shot,Hook Shot,0,12
+21300931,12,PT10M03.00S,1,1610612749,MIL,2585,Pachulia,Z. Pachulia,-7,-5,1,Missed,1,0.0,0.0,0,h,MISS Pachulia 1' Layup,Missed Shot,Layup Shot,0,13
+21300931,13,PT10M02.00S,1,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0.0,0.0,0,v,Wall REBOUND (Off:1 Def:1),Rebound,Unknown,0,14
+21300931,14,PT09M49.00S,1,1610612764,WAS,2772,Ariza,T. Ariza,-127,146,19,Missed,1,0.0,0.0,0,v,MISS Ariza 19' Jump Shot,Missed Shot,Jump Shot,0,15
+21300931,15,PT09M47.00S,1,1610612749,MIL,203489,Wolters,N. Wolters,0,0,0,,0,0.0,0.0,0,h,Wolters REBOUND (Off:0 Def:1),Rebound,Unknown,0,16
+21300931,16,PT09M41.00S,1,1610612749,MIL,2585,Pachulia,Z. Pachulia,91,58,11,Missed,1,0.0,0.0,0,h,MISS Pachulia 11' Jump Shot,Missed Shot,Jump Shot,0,17
+21300931,17,PT09M40.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0.0,0.0,0,v,Gortat REBOUND (Off:0 Def:2),Rebound,Unknown,0,18
+21300931,18,PT09M35.00S,1,1610612764,WAS,203078,Beal,B. Beal,-4,3,1,Missed,1,0.0,0.0,0,v,MISS Beal 1' Layup,Missed Shot,Layup Shot,0,19
+21300931,19,PT09M34.00S,1,1610612749,MIL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,Pachulia REBOUND (Off:0 Def:1),Rebound,Unknown,0,20
+21300931,20,PT09M28.00S,1,1610612749,MIL,101141,Ilyasova,E. Ilyasova,-18,4,2,Missed,1,0.0,0.0,0,h,MISS Ilyasova 2' Layup,Missed Shot,Layup Shot,0,21
+21300931,21,PT09M24.00S,1,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0.0,0.0,0,h,Ilyasova REBOUND (Off:1 Def:0),Rebound,Unknown,0,22
+21300931,22,PT09M17.00S,1,1610612749,MIL,203489,Wolters,N. Wolters,-220,126,25,Made,1,5.0,8.0,13,h,Wolters 25' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,0,23
+21300931,23,PT08M56.00S,1,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0.0,0.0,0,h,Ilyasova S.FOUL (P1.T1),Foul,Shooting,0,24
+21300931,24,PT08M56.00S,1,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,v,MISS Ariza Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,25
+21300931,25,PT08M56.00S,1,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,v,Wizards Rebound,Rebound,Normal Rebound,0,26
+21300931,26,PT08M56.00S,1,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,5.0,9.0,14,v,Ariza Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,27
+21300931,28,PT08M39.00S,1,1610612749,MIL,202688,Knight,B. Knight,0,0,0,,0,0.0,0.0,0,h,Knight Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,28
+21300931,28,PT08M39.00S,1,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0.0,0.0,0,v,Wall STEAL (1 STL),,,0,29
+21300931,29,PT08M35.00S,1,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0.0,0.0,0,v,Wall Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,30
+21300931,29,PT08M35.00S,1,1610612749,MIL,202688,Knight,B. Knight,0,0,0,,0,0.0,0.0,0,h,Knight STEAL (1 STL),,,0,31
+21300931,30,PT08M30.00S,1,1610612749,MIL,203489,Wolters,N. Wolters,0,3,0,Missed,1,0.0,0.0,0,h,MISS Wolters  Layup,Missed Shot,Layup Shot,0,32
+21300931,30,PT08M30.00S,1,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0.0,0.0,0,v,Wall BLOCK (1 BLK),,,0,33
+21300931,32,PT08M28.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,h,Middleton REBOUND (Off:1 Def:0),Rebound,Unknown,0,34
+21300931,31,PT08M28.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,-11,7,1,Made,1,7.0,9.0,16,h,Middleton 1' Tip Shot (2 PTS),Made Shot,Tip Shot,0,35
+21300931,33,PT08M10.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,-10,1,1,Made,1,7.0,11.0,18,v,Gortat 1' Layup (4 PTS) (Ariza 2 AST),Made Shot,Layup Shot,0,36
+21300931,34,PT07M50.00S,1,1610612749,MIL,101141,Ilyasova,E. Ilyasova,102,123,16,Made,1,9.0,11.0,20,h,Ilyasova 16' Jump Shot (2 PTS) (Wolters 1 AST),Made Shot,Jump Shot,0,37
+21300931,35,PT07M43.00S,1,1610612764,WAS,202322,Wall,J. Wall,89,140,17,Made,1,9.0,13.0,22,v,Wall 17' Jump Shot (2 PTS),Made Shot,Jump Shot,0,38
+21300931,36,PT07M29.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0.0,0.0,0,v,Beal S.FOUL (P1.T1),Foul,Shooting,0,39
+21300931,37,PT07M29.00S,1,1610612749,MIL,202688,Knight,B. Knight,0,0,0,,0,10.0,13.0,23,h,Knight Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,40
+21300931,39,PT07M29.00S,1,1610612749,MIL,202688,Knight,B. Knight,0,0,0,,0,11.0,13.0,24,h,Knight Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,41
+21300931,41,PT07M15.00S,1,1610612764,WAS,202322,Wall,J. Wall,209,137,25,Missed,1,0.0,0.0,0,v,MISS Wall 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,42
+21300931,42,PT07M14.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,h,Middleton REBOUND (Off:1 Def:1),Rebound,Unknown,0,43
+21300931,43,PT07M11.00S,1,1610612749,MIL,101141,Ilyasova,E. Ilyasova,-7,-3,1,Made,1,13.0,13.0,26,h,Ilyasova 1' Dunk (4 PTS) (Middleton 2 AST),Made Shot,Dunk Shot,0,44
+21300931,44,PT06M56.00S,1,1610612749,MIL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,Pachulia P.FOUL (P1.T2),Foul,Personal,0,45
+21300931,45,PT06M50.00S,1,1610612764,WAS,203078,Beal,B. Beal,-161,107,19,Missed,1,0.0,0.0,0,v,MISS Beal 19' Jump Shot,Missed Shot,Jump Shot,0,46
+21300931,46,PT06M49.00S,1,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0.0,0.0,0,h,Ilyasova REBOUND (Off:1 Def:1),Rebound,Unknown,0,47
+21300931,47,PT06M36.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,-169,41,17,Made,1,15.0,13.0,28,h,Middleton 17' Jump Shot (4 PTS) (Wolters 2 AST),Made Shot,Jump Shot,0,48
+21300931,48,PT06M18.00S,1,1610612764,WAS,202322,Wall,J. Wall,174,-2,17,Missed,1,0.0,0.0,0,v,MISS Wall 17' Jump Shot,Missed Shot,Jump Shot,0,49
+21300931,49,PT06M17.00S,1,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,v,Ariza REBOUND (Off:1 Def:0),Rebound,Unknown,0,50
+21300931,50,PT06M16.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,h,Middleton S.FOUL (P1.T3),Foul,Shooting,0,51
+21300931,51,PT06M16.00S,1,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,v,Wizards Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,52
+21300931,53,PT06M16.00S,1,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,v,MISS Ariza Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,53
+21300931,54,PT06M16.00S,1,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,v,Wizards Rebound,Rebound,Normal Rebound,0,54
+21300931,55,PT06M16.00S,1,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,15.0,14.0,29,v,Ariza Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,55
+21300931,57,PT05M54.00S,1,1610612749,MIL,202688,Knight,B. Knight,141,203,25,Missed,1,0.0,0.0,0,h,MISS Knight 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,56
+21300931,58,PT05M54.00S,1,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Rebound,Rebound,Unknown,0,57
+21300931,59,PT05M46.00S,1,1610612749,MIL,101141,Ilyasova,E. Ilyasova,-187,78,20,Missed,1,0.0,0.0,0,h,MISS Ilyasova 20' Jump Shot,Missed Shot,Jump Shot,0,58
+21300931,60,PT05M44.00S,1,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,v,Ariza REBOUND (Off:1 Def:1),Rebound,Unknown,0,59
+21300931,61,PT05M33.00S,1,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0.0,0.0,0,h,Ilyasova Shooting Block Foul (P2.T4),Foul,Shooting Block,0,60
+21300931,62,PT05M33.00S,1,1610612764,WAS,202344,Booker,T. Booker,0,0,0,,0,15.0,15.0,30,v,Booker Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,61
+21300931,64,PT05M33.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0.0,0.0,0,v,SUB: Webster FOR Beal,Substitution,,0,62
+21300931,65,PT05M33.00S,1,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0.0,0.0,0,h,SUB: Adrien FOR Ilyasova,Substitution,,0,63
+21300931,66,PT05M33.00S,1,1610612749,MIL,203489,Wolters,N. Wolters,0,0,0,,0,0.0,0.0,0,h,SUB: Antetokounmpo FOR Wolters,Substitution,,0,64
+21300931,67,PT05M33.00S,1,1610612764,WAS,202344,Booker,T. Booker,0,0,0,,0,15.0,16.0,31,v,Booker Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,65
+21300931,69,PT05M15.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-164,116,20,Missed,1,0.0,0.0,0,h,MISS Antetokounmpo 20' Jump Shot,Missed Shot,Jump Shot,0,66
+21300931,70,PT05M14.00S,1,1610612764,WAS,202344,Booker,T. Booker,0,0,0,,0,0.0,0.0,0,v,Booker REBOUND (Off:1 Def:1),Rebound,Unknown,0,67
+21300931,71,PT05M07.00S,1,1610612764,WAS,2772,Ariza,T. Ariza,-2,-6,1,Made,1,15.0,18.0,33,v,Ariza 1' Layup (10 PTS),Made Shot,Layup Shot,0,68
+21300931,72,PT04M48.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0.0,0.0,0,v,Gortat S.FOUL (P1.T2),Foul,Shooting,0,69
+21300931,73,PT04M48.00S,1,1610612749,MIL,2585,Pachulia,Z. Pachulia,0,0,0,,0,16.0,18.0,34,h,Pachulia Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,70
+21300931,75,PT04M48.00S,1,1610612749,MIL,2585,Pachulia,Z. Pachulia,0,0,0,,0,17.0,18.0,35,h,Pachulia Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,71
+21300931,77,PT04M33.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,-144,-13,14,Made,1,17.0,20.0,37,v,Gortat 14' Fadeaway Jumper (6 PTS),Made Shot,Fadeaway Jump Shot,0,72
+21300931,78,PT04M14.00S,1,1610612749,MIL,202688,Knight,B. Knight,-5,183,18,Made,1,19.0,20.0,39,h,Knight 18' Jump Shot (6 PTS) (Pachulia 1 AST),Made Shot,Jump Shot,0,73
+21300931,79,PT03M56.00S,1,1610612764,WAS,101110,Webster,M. Webster,226,-14,0,Made,1,19.0,23.0,42,v,Webster  3PT Jump Shot (3 PTS) (Wall 2 AST),Made Shot,Jump Shot,0,74
+21300931,80,PT03M54.00S,1,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0.0,0.0,0,v,Wall P.FOUL (P1.T3),Foul,Personal,0,75
+21300931,81,PT03M54.00S,1,1610612749,MIL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,SUB: Henson FOR Pachulia,Substitution,,0,76
+21300931,82,PT03M54.00S,1,1610612764,WAS,202344,Booker,T. Booker,0,0,0,,0,0.0,0.0,0,v,SUB: Harrington FOR Booker,Substitution,,0,77
+21300931,83,PT03M41.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,141,63,15,Made,1,21.0,23.0,44,h,Middleton 15' Jump Shot (6 PTS) (Antetokounmpo 1 AST),Made Shot,Jump Shot,0,78
+21300931,84,PT03M23.00S,1,1610612764,WAS,101110,Webster,M. Webster,-179,66,19,Made,1,21.0,25.0,46,v,Webster 19' Jump Shot (5 PTS) (Wall 3 AST),Made Shot,Jump Shot,0,79
+21300931,85,PT03M08.00S,1,1610612749,MIL,202688,Knight,B. Knight,18,41,4,Missed,1,0.0,0.0,0,h,MISS Knight 4' Jump Shot,Missed Shot,Jump Shot,0,80
+21300931,86,PT03M06.00S,1,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,v,Ariza REBOUND (Off:1 Def:2),Rebound,Unknown,0,81
+21300931,87,PT02M59.00S,1,1610612764,WAS,1733,Harrington,A. Harrington,230,-14,0,Missed,1,0.0,0.0,0,v,MISS Harrington  3PT Jump Shot,Missed Shot,Jump Shot,0,82
+21300931,89,PT02M58.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0.0,0.0,0,v,Gortat REBOUND (Off:1 Def:2),Rebound,Unknown,0,83
+21300931,88,PT02M58.00S,1,1610612764,WAS,101162,Gortat,M. Gortat,0,-11,1,Made,1,21.0,27.0,48,v,Gortat 1' Tip Shot (8 PTS),Made Shot,Tip Shot,0,84
+21300931,90,PT02M43.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,-125,162,20,Made,1,23.0,27.0,50,h,Middleton 20' Jump Shot (8 PTS),Made Shot,Jump Shot,0,85
+21300931,91,PT02M26.00S,1,1610612764,WAS,2772,Ariza,T. Ariza,212,131,25,Made,1,23.0,30.0,53,v,Ariza 25' 3PT Jump Shot (13 PTS) (Wall 4 AST),Made Shot,Jump Shot,0,86
+21300931,92,PT02M09.00S,1,1610612764,WAS,1733,Harrington,A. Harrington,0,0,0,,0,0.0,0.0,0,v,Harrington Shooting Block Foul (P1.T4),Foul,Shooting Block,0,87
+21300931,93,PT02M09.00S,1,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,88
+21300931,95,PT02M09.00S,1,1610612749,MIL,202688,Knight,B. Knight,0,0,0,,0,0.0,0.0,0,h,SUB: Sessions FOR Knight,Substitution,,0,89
+21300931,96,PT02M09.00S,1,1610612749,MIL,202399,Adrien,J. Adrien,0,0,0,,0,24.0,30.0,54,h,Adrien Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,90
+21300931,98,PT02M09.00S,1,1610612749,MIL,202399,Adrien,J. Adrien,0,0,0,,0,25.0,30.0,55,h,Adrien Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,91
+21300931,100,PT01M52.00S,1,1610612764,WAS,2772,Ariza,T. Ariza,-7,-3,1,Made,1,25.0,32.0,57,v,Ariza 1' Layup (15 PTS),Made Shot,Layup Shot,0,92
+21300931,101,PT01M35.00S,1,1610612749,MIL,203089,Henson,J. Henson,-8,42,4,Made,1,27.0,32.0,59,h,Henson 4' Hook Shot (2 PTS),Made Shot,Hook Shot,0,93
+21300931,102,PT01M16.00S,1,1610612764,WAS,2772,Ariza,T. Ariza,-242,-11,24,Missed,1,0.0,0.0,0,v,MISS Ariza 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,94
+21300931,103,PT01M15.00S,1,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0.0,0.0,0,h,Henson REBOUND (Off:0 Def:1),Rebound,Unknown,0,95
+21300931,104,PT00M52.70S,1,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0.0,0.0,0,h,Henson Traveling Turnover (P1.T2),Turnover,Traveling,0,96
+21300931,105,PT00M52.70S,1,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0.0,0.0,0,v,SUB: Gooden FOR Gortat,Substitution,,0,97
+21300931,106,PT00M52.70S,1,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0.0,0.0,0,v,SUB: A. Miller FOR Wall,Substitution,,0,98
+21300931,107,PT00M37.90S,1,1610612764,WAS,1733,Harrington,A. Harrington,-240,-6,24,Missed,1,0.0,0.0,0,v,MISS Harrington 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,99
+21300931,108,PT00M35.70S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,h,Antetokounmpo REBOUND (Off:0 Def:1),Rebound,Unknown,0,100
+21300931,109,PT00M33.80S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,h,Antetokounmpo Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,101
+21300931,109,PT00M33.80S,1,1610612764,WAS,1733,Harrington,A. Harrington,0,0,0,,0,0.0,0.0,0,v,Harrington STEAL (1 STL),,,0,102
+21300931,110,PT00M30.90S,1,1610612764,WAS,2772,Ariza,T. Ariza,-8,0,1,Made,1,27.0,34.0,61,v,Ariza 1' Layup (17 PTS) (Harrington 1 AST),Made Shot,Layup Shot,0,103
+21300931,111,PT00M09.90S,1,1610612749,MIL,201196,Sessions,R. Sessions,29,53,6,Missed,1,0.0,0.0,0,h,MISS Sessions 6' Jump Shot,Missed Shot,Jump Shot,0,104
+21300931,112,PT00M08.60S,1,1610612764,WAS,1733,Harrington,A. Harrington,0,0,0,,0,0.0,0.0,0,v,Harrington REBOUND (Off:0 Def:1),Rebound,Unknown,0,105
+21300931,113,PT00M00.10S,1,1610612764,WAS,1889,Miller,A. Miller,-43,31,5,Made,1,27.0,36.0,63,v,A. Miller 5' Jump Shot (2 PTS),Made Shot,Jump Shot,0,106
+21300931,114,PT00M00.00S,1,0,,113,,,0,0,0,,0,0.0,0.0,0,,Support Ruling,Instant Replay,Support Ruling,0,107
+21300931,115,PT00M00.00S,1,0,,0,,,0,0,0,,0,27.0,36.0,63,,End of 1st Period (9:34 PM EST),period,end,0,108
+21300931,117,PT12M00.00S,2,0,,0,,,0,0,0,,0,27.0,36.0,63,,Start of 2nd Period (9:37 PM EST),period,start,0,109
+21300931,118,PT11M42.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,h,Antetokounmpo Traveling Turnover (P2.T4),Turnover,Traveling,0,110
+21300931,119,PT11M21.00S,2,1610612764,WAS,2400,Gooden,D. Gooden,18,195,20,Made,1,27.0,38.0,65,v,Gooden 20' Jump Shot (2 PTS) (A. Miller 1 AST),Made Shot,Jump Shot,0,111
+21300931,120,PT11M05.00S,2,1610612749,MIL,202399,Adrien,J. Adrien,0,0,0,,0,0.0,0.0,0,h,Adrien Offensive Goaltending Turnover (P1.T5),Turnover,Offensive Goaltending,0,112
+21300931,121,PT10M55.00S,2,1610612764,WAS,203078,Beal,B. Beal,62,173,18,Missed,1,0.0,0.0,0,v,MISS Beal 18' Jump Shot,Missed Shot,Jump Shot,0,113
+21300931,122,PT10M52.00S,2,1610612764,WAS,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,v,Gooden REBOUND (Off:1 Def:0),Rebound,Unknown,0,114
+21300931,123,PT10M49.00S,2,1610612749,MIL,202399,Adrien,J. Adrien,0,0,0,,0,0.0,0.0,0,h,Adrien Personal Block Foul (P1.T1),Foul,Personal Block,0,115
+21300931,124,PT10M41.00S,2,1610612764,WAS,1889,Miller,A. Miller,-4,-6,1,Made,1,27.0,40.0,67,v,A. Miller 1' Layup (4 PTS),Made Shot,Layup Shot,0,116
+21300931,125,PT10M19.00S,2,1610612749,MIL,201196,Sessions,R. Sessions,-7,-3,1,Made,1,29.0,40.0,69,h,Sessions 1' Driving Layup (2 PTS) (Mitchell 1 AST),Made Shot,Driving Layup Shot,0,117
+21300931,126,PT10M00.00S,2,1610612764,WAS,203078,Beal,B. Beal,193,157,25,Made,1,29.0,43.0,72,v,Beal 25' 3PT Jump Shot (3 PTS) (A. Miller 2 AST),Made Shot,Jump Shot,0,118
+21300931,127,PT09M44.00S,2,1610612749,MIL,201196,Sessions,R. Sessions,84,238,25,Missed,1,0.0,0.0,0,h,MISS Sessions 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,119
+21300931,128,PT09M43.00S,2,1610612764,WAS,1733,Harrington,A. Harrington,0,0,0,,0,0.0,0.0,0,v,Harrington REBOUND (Off:0 Def:2),Rebound,Unknown,0,120
+21300931,129,PT09M39.00S,2,1610612764,WAS,1733,Harrington,A. Harrington,0,0,0,,0,0.0,0.0,0,v,Harrington Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,121
+21300931,130,PT09M22.00S,2,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,0.0,0.0,0,h,Sessions Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,122
+21300931,130,PT09M22.00S,2,1610612764,WAS,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,A. Miller STEAL (1 STL),,,0,123
+21300931,131,PT09M19.00S,2,1610612764,WAS,101110,Webster,M. Webster,-10,0,1,Made,1,29.0,45.0,74,v,Webster 1' Dunk (7 PTS) (A. Miller 3 AST),Made Shot,Dunk Shot,0,124
+21300931,132,PT09M19.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,h,Antetokounmpo S.FOUL (P1.T2),Foul,Shooting,0,125
+21300931,133,PT09M19.00S,2,1610612764,WAS,101110,Webster,M. Webster,0,0,0,,0,29.0,46.0,75,v,Webster Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,126
+21300931,135,PT09M16.00S,2,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,127
+21300931,137,PT09M05.00S,2,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0.0,0.0,0,h,Henson Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,128
+21300931,137,PT09M05.00S,2,1610612764,WAS,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,A. Miller STEAL (2 STL),,,0,129
+21300931,138,PT09M05.00S,2,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0.0,0.0,0,h,Henson P.FOUL (P1.T3),Foul,Personal,0,130
+21300931,139,PT09M05.00S,2,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0.0,0.0,0,h,SUB: Pachulia FOR Henson,Substitution,,0,131
+21300931,140,PT08M48.00S,2,1610612764,WAS,1733,Harrington,A. Harrington,226,-13,0,Made,1,29.0,49.0,78,v,Harrington  3PT Jump Shot (3 PTS) (A. Miller 4 AST),Made Shot,Jump Shot,0,132
+21300931,141,PT08M23.00S,2,1610612749,MIL,203183,Mitchell,T. Mitchell,37,250,25,Missed,1,0.0,0.0,0,h,MISS Mitchell 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,133
+21300931,142,PT08M22.00S,2,1610612764,WAS,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,A. Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,134
+21300931,143,PT08M12.00S,2,1610612764,WAS,1733,Harrington,A. Harrington,0,0,0,,0,0.0,0.0,0,v,Harrington Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,135
+21300931,143,PT08M12.00S,2,1610612749,MIL,203183,Mitchell,T. Mitchell,0,0,0,,0,0.0,0.0,0,h,Mitchell STEAL (1 STL),,,0,136
+21300931,144,PT08M05.00S,2,1610612749,MIL,202399,Adrien,J. Adrien,-4,1,0,Missed,1,0.0,0.0,0,h,MISS Adrien  Layup,Missed Shot,Layup Shot,0,137
+21300931,144,PT08M05.00S,2,1610612764,WAS,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,v,Gooden BLOCK (1 BLK),,,0,138
+21300931,145,PT08M02.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,h,Antetokounmpo REBOUND (Off:1 Def:1),Rebound,Unknown,0,139
+21300931,146,PT07M59.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-68,45,8,Made,1,31.0,49.0,80,h,Antetokounmpo 8' Jump Shot (2 PTS),Made Shot,Jump Shot,0,140
+21300931,147,PT07M40.00S,2,1610612764,WAS,2400,Gooden,D. Gooden,-243,-21,24,Made,1,31.0,52.0,83,v,Gooden 24' 3PT Jump Shot (5 PTS) (A. Miller 5 AST),Made Shot,Jump Shot,0,141
+21300931,148,PT07M28.00S,2,1610612764,WAS,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,v,Gooden S.FOUL (P1.T1),Foul,Shooting,0,142
+21300931,149,PT07M28.00S,2,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,32.0,52.0,84,h,Sessions Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,143
+21300931,151,PT07M28.00S,2,1610612764,WAS,1733,Harrington,A. Harrington,0,0,0,,0,0.0,0.0,0,v,SUB: Booker FOR Harrington,Substitution,,0,144
+21300931,152,PT07M28.00S,2,1610612749,MIL,202399,Adrien,J. Adrien,0,0,0,,0,0.0,0.0,0,h,SUB: Ilyasova FOR Adrien,Substitution,,0,145
+21300931,153,PT07M28.00S,2,1610612749,MIL,203183,Mitchell,T. Mitchell,0,0,0,,0,0.0,0.0,0,h,SUB: Middleton FOR Mitchell,Substitution,,0,146
+21300931,154,PT07M28.00S,2,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,33.0,52.0,85,h,Sessions Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,147
+21300931,156,PT07M20.00S,2,1610612764,WAS,1889,Miller,A. Miller,-41,159,16,Made,1,33.0,54.0,87,v,A. Miller 16' Jump Shot (6 PTS),Made Shot,Jump Shot,0,148
+21300931,157,PT07M08.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-221,153,27,Missed,1,0.0,0.0,0,h,MISS Antetokounmpo 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,149
+21300931,158,PT07M07.00S,2,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Rebound,Rebound,Unknown,0,150
+21300931,159,PT07M06.00S,2,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,0.0,0.0,0,h,SUB: Knight FOR Sessions,Substitution,,0,151
+21300931,160,PT06M59.00S,2,1610612749,MIL,202688,Knight,B. Knight,-108,244,27,Made,1,36.0,54.0,90,h,Knight 27' 3PT Jump Shot (9 PTS),Made Shot,Jump Shot,0,152
+21300931,161,PT06M39.00S,2,1610612764,WAS,2400,Gooden,D. Gooden,-5,-3,1,Made,1,36.0,56.0,92,v,Gooden 1' Running Layup (7 PTS),Made Shot,Running Layup Shot,0,153
+21300931,162,PT06M18.00S,2,1610612764,WAS,101110,Webster,M. Webster,0,0,0,,0,0.0,0.0,0,v,Webster P.FOUL (P1.T2),Foul,Personal,0,154
+21300931,163,PT06M18.00S,2,1610612764,WAS,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,SUB: Ariza FOR A. Miller,Substitution,,0,155
+21300931,164,PT06M18.00S,2,1610612764,WAS,101110,Webster,M. Webster,0,0,0,,0,0.0,0.0,0,v,SUB: Wall FOR Webster,Substitution,,0,156
+21300931,165,PT06M18.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,h,SUB: Wolters FOR Antetokounmpo,Substitution,,0,157
+21300931,166,PT06M06.00S,2,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,v,Ariza S.FOUL (P1.T3),Foul,Shooting,0,158
+21300931,167,PT06M06.00S,2,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,37.0,56.0,93,h,Ilyasova Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,159
+21300931,169,PT06M06.00S,2,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0.0,0.0,0,h,MISS Ilyasova Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,160
+21300931,171,PT06M02.00S,2,1610612764,WAS,202344,Booker,T. Booker,0,0,0,,0,0.0,0.0,0,v,Booker REBOUND (Off:1 Def:2),Rebound,Unknown,0,161
+21300931,172,PT05M51.00S,2,1610612764,WAS,203078,Beal,B. Beal,-5,-2,1,Made,1,37.0,58.0,95,v,Beal 1' Layup (5 PTS),Made Shot,Layup Shot,0,162
+21300931,173,PT05M31.00S,2,1610612749,MIL,203489,Wolters,N. Wolters,-245,-24,25,Missed,1,0.0,0.0,0,h,MISS Wolters 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,163
+21300931,174,PT05M30.00S,2,1610612749,MIL,203489,Wolters,N. Wolters,0,0,0,,0,0.0,0.0,0,h,Wolters REBOUND (Off:1 Def:1),Rebound,Unknown,0,164
+21300931,175,PT05M28.00S,2,1610612749,MIL,203489,Wolters,N. Wolters,-10,1,1,Made,1,39.0,58.0,97,h,Wolters 1' Layup (5 PTS),Made Shot,Layup Shot,0,165
+21300931,176,PT05M14.00S,2,1610612764,WAS,2400,Gooden,D. Gooden,-7,0,1,Made,1,39.0,60.0,99,v,Gooden 1' Layup (9 PTS),Made Shot,Layup Shot,0,166
+21300931,177,PT04M56.00S,2,1610612749,MIL,202688,Knight,B. Knight,-2,3,0,Missed,1,0.0,0.0,0,h,MISS Knight  Layup,Missed Shot,Layup Shot,0,167
+21300931,178,PT04M55.00S,2,1610612764,WAS,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,v,Gooden REBOUND (Off:1 Def:1),Rebound,Unknown,0,168
+21300931,179,PT04M47.00S,2,1610612764,WAS,203078,Beal,B. Beal,230,-6,0,Made,1,39.0,63.0,102,v,Beal  3PT Jump Shot (8 PTS) (Wall 5 AST),Made Shot,Jump Shot,0,169
+21300931,180,PT04M31.00S,2,1610612749,MIL,101141,Ilyasova,E. Ilyasova,53,165,17,Missed,1,0.0,0.0,0,h,MISS Ilyasova 17' Jump Shot,Missed Shot,Jump Shot,0,170
+21300931,181,PT04M30.00S,2,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0.0,0.0,0,v,Wall REBOUND (Off:1 Def:2),Rebound,Unknown,0,171
+21300931,182,PT04M21.00S,2,1610612764,WAS,2400,Gooden,D. Gooden,170,186,25,Missed,1,0.0,0.0,0,v,MISS Gooden 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,172
+21300931,183,PT04M18.00S,2,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,v,Ariza REBOUND (Off:2 Def:2),Rebound,Unknown,0,173
+21300931,184,PT04M14.00S,2,1610612764,WAS,2772,Ariza,T. Ariza,225,-5,0,Made,1,39.0,66.0,105,v,Ariza  3PT Jump Shot (20 PTS),Made Shot,Jump Shot,0,174
+21300931,185,PT04M09.00S,2,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Timeout: Short (Full 2 Short 1),Timeout,Short,0,175
+21300931,187,PT04M09.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,176
+21300931,188,PT04M02.00S,2,1610612749,MIL,202688,Knight,B. Knight,-180,118,22,Missed,1,0.0,0.0,0,h,MISS Knight 22' Jump Shot,Missed Shot,Jump Shot,0,177
+21300931,189,PT04M01.00S,2,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,v,Wizards Rebound,Rebound,Unknown,0,178
+21300931,190,PT03M44.00S,2,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0.0,0.0,0,v,Wall Traveling Turnover (P2.T4),Turnover,Traveling,0,179
+21300931,191,PT03M31.00S,2,1610612764,WAS,202344,Booker,T. Booker,0,0,0,,0,0.0,0.0,0,v,Booker Violation:Kicked Ball,Violation,Kicked Ball,0,180
+21300931,192,PT03M31.00S,2,1610612764,WAS,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,v,SUB: Gortat FOR Gooden,Substitution,,0,181
+21300931,193,PT03M23.00S,2,1610612749,MIL,203489,Wolters,N. Wolters,-8,0,1,Made,1,41.0,66.0,107,h,Wolters 1' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,0,182
+21300931,194,PT03M14.00S,2,1610612764,WAS,202322,Wall,J. Wall,-4,-5,1,Made,1,41.0,68.0,109,v,Wall 1' Running Layup (4 PTS),Made Shot,Running Layup Shot,0,183
+21300931,195,PT02M58.00S,2,1610612749,MIL,202688,Knight,B. Knight,121,131,18,Made,1,43.0,68.0,111,h,Knight 18' Jump Shot (11 PTS) (Pachulia 2 AST),Made Shot,Jump Shot,0,184
+21300931,196,PT02M39.00S,2,1610612764,WAS,203078,Beal,B. Beal,-243,-2,24,Made,1,43.0,71.0,114,v,Beal 24' 3PT Jump Shot (11 PTS) (Wall 6 AST),Made Shot,Jump Shot,0,185
+21300931,197,PT02M25.00S,2,1610612749,MIL,2585,Pachulia,Z. Pachulia,23,25,3,Missed,1,0.0,0.0,0,h,MISS Pachulia 3' Hook Shot,Missed Shot,Hook Shot,0,186
+21300931,198,PT02M24.00S,2,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,v,Ariza REBOUND (Off:2 Def:3),Rebound,Unknown,0,187
+21300931,199,PT02M24.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,h,Middleton L.B.FOUL (P2.T4),Foul,Loose Ball,0,188
+21300931,200,PT02M24.00S,2,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,v,Wizards Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,189
+21300931,202,PT02M24.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0.0,0.0,0,v,SUB: Webster FOR Beal,Substitution,,0,190
+21300931,203,PT01M58.00S,2,1610612764,WAS,101110,Webster,M. Webster,-237,-28,24,Missed,1,0.0,0.0,0,v,MISS Webster 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,191
+21300931,204,PT01M57.00S,2,1610612749,MIL,203489,Wolters,N. Wolters,0,0,0,,0,0.0,0.0,0,h,Wolters REBOUND (Off:1 Def:2),Rebound,Unknown,0,192
+21300931,205,PT01M48.00S,2,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,v,Ariza P.FOUL (P2.T4),Foul,Personal,0,193
+21300931,206,PT01M36.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,-155,104,19,Made,1,45.0,71.0,116,h,Middleton 19' Jump Shot (10 PTS) (Knight 1 AST),Made Shot,Jump Shot,0,194
+21300931,207,PT01M26.00S,2,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0.0,0.0,0,v,Wall Out of Bounds Lost Ball Turnover (P3.T5),Turnover,Out of Bounds Lost Ball Turnover,0,195
+21300931,208,PT01M06.00S,2,1610612749,MIL,101141,Ilyasova,E. Ilyasova,119,220,25,Missed,1,0.0,0.0,0,h,MISS Ilyasova 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,196
+21300931,209,PT01M05.00S,2,1610612749,MIL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,Pachulia REBOUND (Off:1 Def:1),Rebound,Unknown,0,197
+21300931,210,PT00M55.90S,2,1610612749,MIL,202688,Knight,B. Knight,-2,1,0,Made,1,47.0,71.0,118,h,Knight  Driving Layup (13 PTS),Made Shot,Driving Layup Shot,0,198
+21300931,211,PT00M46.50S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,h,Middleton P.FOUL (P3.PN),Foul,Personal,0,199
+21300931,212,PT00M46.50S,2,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,47.0,72.0,119,v,Gortat Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,200
+21300931,214,PT00M46.50S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,h,SUB: Antetokounmpo FOR Middleton,Substitution,,0,201
+21300931,215,PT00M46.50S,2,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,v,SUB: Beal FOR Ariza,Substitution,,0,202
+21300931,216,PT00M46.50S,2,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0.0,0.0,0,v,MISS Gortat Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,203
+21300931,218,PT00M45.50S,2,1610612764,WAS,101110,Webster,M. Webster,0,0,0,,0,0.0,0.0,0,v,Webster REBOUND (Off:1 Def:0),Rebound,Unknown,0,204
+21300931,219,PT00M45.10S,2,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0.0,0.0,0,h,Ilyasova S.FOUL (P3.PN),Foul,Shooting,0,205
+21300931,220,PT00M45.10S,2,1610612764,WAS,101110,Webster,M. Webster,0,0,0,,0,0.0,0.0,0,v,MISS Webster Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,206
+21300931,221,PT00M45.10S,2,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,v,Wizards Rebound,Rebound,Normal Rebound,0,207
+21300931,222,PT00M45.10S,2,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0.0,0.0,0,h,SUB: Adrien FOR Ilyasova,Substitution,,0,208
+21300931,223,PT00M45.10S,2,1610612764,WAS,101110,Webster,M. Webster,0,0,0,,0,47.0,73.0,120,v,Webster Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,209
+21300931,225,PT00M37.90S,2,1610612749,MIL,202688,Knight,B. Knight,84,238,25,Made,1,50.0,73.0,123,h,Knight 25' 3PT Jump Shot (16 PTS),Made Shot,Jump Shot,0,210
+21300931,226,PT00M20.40S,2,1610612764,WAS,202344,Booker,T. Booker,165,-19,17,Made,1,50.0,75.0,125,v,Booker 17' Jump Shot (4 PTS) (Gortat 1 AST),Made Shot,Jump Shot,0,211
+21300931,227,PT00M03.90S,2,1610612749,MIL,202688,Knight,B. Knight,0,-3,0,Missed,1,0.0,0.0,0,h,MISS Knight  Layup,Missed Shot,Layup Shot,0,212
+21300931,227,PT00M03.90S,2,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0.0,0.0,0,v,Gortat BLOCK (1 BLK),,,0,213
+21300931,228,PT00M02.40S,2,1610612749,MIL,202399,Adrien,J. Adrien,0,0,0,,0,0.0,0.0,0,h,Adrien REBOUND (Off:1 Def:0),Rebound,Unknown,0,214
+21300931,229,PT00M02.40S,2,1610612749,MIL,202399,Adrien,J. Adrien,0,-3,0,Made,1,52.0,75.0,127,h,Adrien  Layup (4 PTS),Made Shot,Layup Shot,0,215
+21300931,230,PT00M02.40S,2,1610612764,WAS,202344,Booker,T. Booker,0,0,0,,0,0.0,0.0,0,v,Booker S.FOUL (P1.PN),Foul,Shooting,0,216
+21300931,231,PT00M02.40S,2,1610612749,MIL,202399,Adrien,J. Adrien,0,0,0,,0,53.0,75.0,128,h,Adrien Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,217
+21300931,233,PT00M00.20S,2,1610612764,WAS,202322,Wall,J. Wall,-109,395,41,Missed,1,0.0,0.0,0,v,MISS Wall 41' 3PT Jump Shot,Missed Shot,Jump Shot,0,218
+21300931,234,PT00M00.00S,2,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,v,Wizards Rebound,Rebound,Unknown,0,219
+21300931,235,PT00M00.00S,2,0,,0,,,0,0,0,,0,53.0,75.0,128,,End of 2nd Period (10:05 PM EST),period,end,0,220
+21300931,237,PT12M00.00S,3,0,,0,,,0,0,0,,0,53.0,75.0,128,,Start of 3rd Period (10:22 PM EST),period,start,0,221
+21300931,238,PT11M37.00S,3,1610612749,MIL,203489,Wolters,N. Wolters,3,-5,1,Missed,1,0.0,0.0,0,h,MISS Wolters 1' Layup,Missed Shot,Layup Shot,0,222
+21300931,239,PT11M35.00S,3,1610612764,WAS,202344,Booker,T. Booker,0,0,0,,0,0.0,0.0,0,v,Booker REBOUND (Off:1 Def:3),Rebound,Unknown,0,223
+21300931,240,PT11M29.00S,3,1610612764,WAS,202344,Booker,T. Booker,-8,0,1,Missed,1,0.0,0.0,0,v,MISS Booker 1' Layup,Missed Shot,Layup Shot,0,224
+21300931,241,PT11M27.00S,3,1610612749,MIL,202688,Knight,B. Knight,0,0,0,,0,0.0,0.0,0,h,Knight REBOUND (Off:0 Def:1),Rebound,Unknown,0,225
+21300931,242,PT11M23.00S,3,1610612749,MIL,202688,Knight,B. Knight,-10,0,1,Made,1,55.0,75.0,130,h,Knight 1' Layup (18 PTS),Made Shot,Layup Shot,0,226
+21300931,243,PT11M09.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0.0,0.0,0,v,Wall Bad Pass Turnover (P4.T6),Turnover,Bad Pass,0,227
+21300931,243,PT11M09.00S,3,1610612749,MIL,202688,Knight,B. Knight,0,0,0,,0,0.0,0.0,0,h,Knight STEAL (2 STL),,,0,228
+21300931,244,PT11M06.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0.0,0.0,0,v,Wall P.FOUL (P2.T1),Foul,Personal,0,229
+21300931,245,PT11M01.00S,3,1610612749,MIL,202688,Knight,B. Knight,-4,6,1,Missed,1,0.0,0.0,0,h,MISS Knight 1' Layup,Missed Shot,Layup Shot,0,230
+21300931,245,PT11M01.00S,3,1610612764,WAS,202344,Booker,T. Booker,0,0,0,,0,0.0,0.0,0,v,Booker BLOCK (1 BLK),,,0,231
+21300931,246,PT10M58.00S,3,1610612764,WAS,202344,Booker,T. Booker,0,0,0,,0,0.0,0.0,0,v,Booker REBOUND (Off:1 Def:4),Rebound,Unknown,0,232
+21300931,247,PT10M44.00S,3,1610612749,MIL,202688,Knight,B. Knight,0,0,0,,0,0.0,0.0,0,h,Knight S.FOUL (P1.T1),Foul,Shooting,0,233
+21300931,248,PT10M44.00S,3,1610612764,WAS,202344,Booker,T. Booker,0,0,0,,0,0.0,0.0,0,v,MISS Booker Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,234
+21300931,249,PT10M44.00S,3,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,v,Wizards Rebound,Rebound,Normal Rebound,0,235
+21300931,250,PT10M44.00S,3,1610612764,WAS,202344,Booker,T. Booker,0,0,0,,0,0.0,0.0,0,v,MISS Booker Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,236
+21300931,252,PT10M43.00S,3,1610612749,MIL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,Pachulia REBOUND (Off:1 Def:2),Rebound,Unknown,0,237
+21300931,253,PT10M19.00S,3,1610612749,MIL,101141,Ilyasova,E. Ilyasova,105,181,21,Missed,1,0.0,0.0,0,h,MISS Ilyasova 21' Jump Shot,Missed Shot,Jump Shot,0,238
+21300931,254,PT10M18.00S,3,1610612749,MIL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,Pachulia REBOUND (Off:2 Def:2),Rebound,Unknown,0,239
+21300931,255,PT10M18.00S,3,1610612764,WAS,202344,Booker,T. Booker,0,0,0,,0,0.0,0.0,0,v,Booker P.FOUL (P2.T2),Foul,Personal,0,240
+21300931,256,PT10M09.00S,3,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0.0,0.0,0,h,Ilyasova Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,241
+21300931,257,PT09M59.00S,3,1610612764,WAS,202322,Wall,J. Wall,84,138,16,Missed,1,0.0,0.0,0,v,MISS Wall 16' Jump Shot,Missed Shot,Jump Shot,0,242
+21300931,258,PT09M58.00S,3,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0.0,0.0,0,h,Ilyasova REBOUND (Off:1 Def:2),Rebound,Unknown,0,243
+21300931,259,PT09M54.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0.0,0.0,0,v,Beal S.FOUL (P2.T3),Foul,Shooting,0,244
+21300931,260,PT09M54.00S,3,1610612749,MIL,203489,Wolters,N. Wolters,0,0,0,,0,0.0,0.0,0,h,MISS Wolters Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,245
+21300931,261,PT09M54.00S,3,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Rebound,Rebound,Normal Rebound,0,246
+21300931,262,PT09M54.00S,3,1610612749,MIL,203489,Wolters,N. Wolters,0,0,0,,0,56.0,75.0,131,h,Wolters Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,247
+21300931,264,PT09M42.00S,3,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,v,Ariza Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,248
+21300931,264,PT09M42.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,h,Middleton STEAL (1 STL),,,0,249
+21300931,265,PT09M37.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,-4,-3,1,Missed,1,0.0,0.0,0,h,MISS Middleton 1' Layup,Missed Shot,Layup Shot,0,250
+21300931,270,PT09M36.00S,3,1610612749,MIL,203489,Wolters,N. Wolters,0,0,0,,0,0.0,0.0,0,h,Wolters REBOUND (Off:2 Def:2),Rebound,Unknown,0,251
+21300931,273,PT09M36.00S,3,1610612749,MIL,203489,Wolters,N. Wolters,4,4,1,Missed,1,0.0,0.0,0,h,MISS Wolters 1' Tip Shot,Missed Shot,Tip Shot,0,252
+21300931,266,PT09M35.00S,3,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Rebound,Rebound,Unknown,0,253
+21300931,267,PT09M23.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,119,110,16,Missed,1,0.0,0.0,0,h,MISS Middleton 16' Jump Shot,Missed Shot,Jump Shot,0,254
+21300931,268,PT09M23.00S,3,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,v,Wizards Rebound,Rebound,Unknown,0,255
+21300931,269,PT09M23.00S,3,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0.0,0.0,0,h,Ilyasova L.B.FOUL (P4.T2),Foul,Loose Ball,0,256
+21300931,271,PT09M07.00S,3,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0.0,0.0,0,v,Gortat Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,257
+21300931,271,PT09M07.00S,3,1610612749,MIL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,Pachulia STEAL (1 STL),,,0,258
+21300931,272,PT09M00.00S,3,1610612749,MIL,202688,Knight,B. Knight,-7,-2,1,Made,1,58.0,75.0,133,h,Knight 1' Layup (20 PTS),Made Shot,Layup Shot,0,259
+21300931,274,PT09M00.00S,3,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,v,Wizards Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,260
+21300931,276,PT08M38.00S,3,1610612764,WAS,203078,Beal,B. Beal,103,181,21,Missed,1,0.0,0.0,0,v,MISS Beal 21' Jump Shot,Missed Shot,Jump Shot,0,261
+21300931,278,PT08M36.00S,3,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0.0,0.0,0,v,Gortat REBOUND (Off:2 Def:2),Rebound,Unknown,0,262
+21300931,277,PT08M36.00S,3,1610612764,WAS,101162,Gortat,M. Gortat,-2,7,1,Missed,1,0.0,0.0,0,v,MISS Gortat 1' Tip Shot,Missed Shot,Tip Shot,0,263
+21300931,279,PT08M34.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,h,Middleton REBOUND (Off:1 Def:2),Rebound,Unknown,0,264
+21300931,280,PT08M20.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,-131,227,26,Made,1,61.0,75.0,136,h,Middleton 26' 3PT Jump Shot (13 PTS) (Wolters 3 AST),Made Shot,Jump Shot,0,265
+21300931,281,PT07M54.00S,3,1610612764,WAS,202322,Wall,J. Wall,-32,0,3,Missed,1,0.0,0.0,0,v,MISS Wall 3' Jump Shot,Missed Shot,Jump Shot,0,266
+21300931,282,PT07M52.00S,3,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0.0,0.0,0,h,Ilyasova REBOUND (Off:1 Def:3),Rebound,Unknown,0,267
+21300931,283,PT07M40.00S,3,1610612749,MIL,203489,Wolters,N. Wolters,0,20,2,Missed,1,0.0,0.0,0,h,MISS Wolters 2' Layup,Missed Shot,Layup Shot,0,268
+21300931,283,PT07M40.00S,3,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0.0,0.0,0,v,Gortat BLOCK (2 BLK),,,0,269
+21300931,284,PT07M37.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0.0,0.0,0,v,Beal REBOUND (Off:0 Def:1),Rebound,Unknown,0,270
+21300931,285,PT07M31.00S,3,1610612764,WAS,203078,Beal,B. Beal,-231,108,26,Missed,1,0.0,0.0,0,v,MISS Beal 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,271
+21300931,286,PT07M30.00S,3,1610612749,MIL,203489,Wolters,N. Wolters,0,0,0,,0,0.0,0.0,0,h,Wolters REBOUND (Off:2 Def:3),Rebound,Unknown,0,272
+21300931,287,PT07M20.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,223,-13,0,Missed,1,0.0,0.0,0,h,MISS Middleton  3PT Jump Shot,Missed Shot,Jump Shot,0,273
+21300931,288,PT07M19.00S,3,1610612764,WAS,202344,Booker,T. Booker,0,0,0,,0,0.0,0.0,0,v,Booker REBOUND (Off:1 Def:5),Rebound,Unknown,0,274
+21300931,289,PT07M01.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0.0,0.0,0,v,Beal Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,275
+21300931,289,PT07M01.00S,3,1610612749,MIL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,Pachulia STEAL (2 STL),,,0,276
+21300931,290,PT06M53.00S,3,1610612749,MIL,101141,Ilyasova,E. Ilyasova,-4,3,1,Made,1,63.0,75.0,138,h,Ilyasova 1' Layup (7 PTS) (Pachulia 3 AST),Made Shot,Layup Shot,0,277
+21300931,291,PT06M38.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0.0,0.0,0,v,Wall Bad Pass Turnover (P5.T10),Turnover,Bad Pass,0,278
+21300931,291,PT06M38.00S,3,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0.0,0.0,0,h,Ilyasova STEAL (1 STL),,,0,279
+21300931,292,PT06M23.00S,3,1610612749,MIL,202688,Knight,B. Knight,0,0,0,,0,0.0,0.0,0,h,Knight Out of Bounds Lost Ball Turnover (P2.T9),Turnover,Out of Bounds Lost Ball Turnover,0,280
+21300931,293,PT06M23.00S,3,1610612764,WAS,202344,Booker,T. Booker,0,0,0,,0,0.0,0.0,0,v,SUB: Harrington FOR Booker,Substitution,,0,281
+21300931,294,PT06M23.00S,3,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,v,Wizards Violation: Delay of game Violation,Violation,Delay Of Game,0,282
+21300931,295,PT06M12.00S,3,1610612764,WAS,202322,Wall,J. Wall,-174,-10,17,Missed,1,0.0,0.0,0,v,MISS Wall 17' Jump Shot,Missed Shot,Jump Shot,0,283
+21300931,296,PT06M11.00S,3,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,v,Wizards Rebound,Rebound,Unknown,0,284
+21300931,297,PT06M01.00S,3,1610612764,WAS,1733,Harrington,A. Harrington,124,222,25,Missed,1,0.0,0.0,0,v,MISS Harrington 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,285
+21300931,298,PT05M58.00S,3,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0.0,0.0,0,h,Ilyasova REBOUND (Off:1 Def:4),Rebound,Unknown,0,286
+21300931,299,PT05M38.00S,3,1610612749,MIL,2585,Pachulia,Z. Pachulia,-8,0,1,Made,1,65.0,75.0,140,h,Pachulia 1' Layup (4 PTS),Made Shot,Layup Shot,0,287
+21300931,300,PT05M22.00S,3,1610612764,WAS,1733,Harrington,A. Harrington,47,1,5,Missed,1,0.0,0.0,0,v,MISS Harrington 5' Hook Shot,Missed Shot,Hook Shot,0,288
+21300931,301,PT05M21.00S,3,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0.0,0.0,0,h,Ilyasova REBOUND (Off:1 Def:5),Rebound,Unknown,0,289
+21300931,302,PT05M10.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,h,Middleton Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,290
+21300931,303,PT04M57.00S,3,1610612764,WAS,2772,Ariza,T. Ariza,1,1,0,Made,1,65.0,77.0,142,v,Ariza  Layup (22 PTS) (Wall 7 AST),Made Shot,Layup Shot,0,291
+21300931,304,PT04M38.00S,3,1610612749,MIL,202688,Knight,B. Knight,-114,140,18,Missed,1,0.0,0.0,0,h,MISS Knight 18' Jump Shot,Missed Shot,Jump Shot,0,292
+21300931,305,PT04M37.00S,3,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,v,Ariza REBOUND (Off:2 Def:4),Rebound,Unknown,0,293
+21300931,306,PT04M30.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0.0,0.0,0,v,Wall Bad Pass Turnover (P6.T11),Turnover,Bad Pass,0,294
+21300931,307,PT04M30.00S,3,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,295
+21300931,309,PT04M30.00S,3,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0.0,0.0,0,v,SUB: Gooden FOR Gortat,Substitution,,0,296
+21300931,310,PT04M30.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0.0,0.0,0,v,SUB: Webster FOR Beal,Substitution,,0,297
+21300931,311,PT04M20.00S,3,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,v,Ariza P.FOUL (P3.T4),Foul,Personal,0,298
+21300931,312,PT04M05.00S,3,1610612749,MIL,2585,Pachulia,Z. Pachulia,133,39,14,Missed,1,0.0,0.0,0,h,MISS Pachulia 14' Jump Shot,Missed Shot,Jump Shot,0,299
+21300931,313,PT04M05.00S,3,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Rebound,Rebound,Unknown,0,300
+21300931,314,PT04M05.00S,3,1610612764,WAS,101110,Webster,M. Webster,0,0,0,,0,0.0,0.0,0,v,Webster L.B.FOUL (P2.PN),Foul,Loose Ball,0,301
+21300931,315,PT04M05.00S,3,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,66.0,77.0,143,h,Ilyasova Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,302
+21300931,317,PT04M05.00S,3,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,67.0,77.0,144,h,Ilyasova Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,303
+21300931,319,PT03M46.00S,3,1610612764,WAS,1733,Harrington,A. Harrington,116,-13,12,Made,1,67.0,79.0,146,v,Harrington 12' Jump Shot (5 PTS) (Gooden 1 AST),Made Shot,Jump Shot,0,304
+21300931,320,PT03M25.00S,3,1610612749,MIL,202688,Knight,B. Knight,-144,-5,14,Missed,1,0.0,0.0,0,h,MISS Knight 14' Jump Shot,Missed Shot,Jump Shot,0,305
+21300931,321,PT03M24.00S,3,1610612764,WAS,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,v,Gooden REBOUND (Off:1 Def:2),Rebound,Unknown,0,306
+21300931,322,PT03M14.00S,3,1610612764,WAS,202322,Wall,J. Wall,-235,-14,24,Missed,1,0.0,0.0,0,v,MISS Wall 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,307
+21300931,323,PT03M12.00S,3,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0.0,0.0,0,h,Ilyasova REBOUND (Off:1 Def:6),Rebound,Unknown,0,308
+21300931,324,PT02M53.00S,3,1610612749,MIL,2585,Pachulia,Z. Pachulia,-8,60,6,Missed,1,0.0,0.0,0,h,MISS Pachulia 6' Jump Shot,Missed Shot,Jump Shot,0,309
+21300931,325,PT02M52.00S,3,1610612764,WAS,1733,Harrington,A. Harrington,0,0,0,,0,0.0,0.0,0,v,Harrington REBOUND (Off:0 Def:3),Rebound,Unknown,0,310
+21300931,326,PT02M47.00S,3,1610612764,WAS,101110,Webster,M. Webster,-26,60,7,Made,1,67.0,81.0,148,v,Webster 7' Jump Shot (11 PTS) (Wall 8 AST),Made Shot,Jump Shot,0,311
+21300931,327,PT02M47.00S,3,1610612749,MIL,203489,Wolters,N. Wolters,0,0,0,,0,0.0,0.0,0,h,Wolters S.FOUL (P1.T3),Foul,Shooting,0,312
+21300931,328,PT02M47.00S,3,1610612749,MIL,203489,Wolters,N. Wolters,0,0,0,,0,0.0,0.0,0,h,SUB: Antetokounmpo FOR Wolters,Substitution,,0,313
+21300931,329,PT02M47.00S,3,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0.0,0.0,0,v,SUB: A. Miller FOR Wall,Substitution,,0,314
+21300931,330,PT02M47.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,h,SUB: Sessions FOR Middleton,Substitution,,0,315
+21300931,331,PT02M47.00S,3,1610612764,WAS,101110,Webster,M. Webster,0,0,0,,0,67.0,82.0,149,v,Webster Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,316
+21300931,333,PT02M47.00S,3,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,v,Wizards Foul,Foul,Delay Technical,0,317
+21300931,334,PT02M47.00S,3,1610612749,MIL,202688,Knight,B. Knight,0,0,0,,0,68.0,82.0,150,h,Knight Free Throw Technical (21 PTS),Free Throw,Free Throw Technical,0,318
+21300931,336,PT02M47.00S,3,1610612749,MIL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,SUB: Henson FOR Pachulia,Substitution,,0,319
+21300931,337,PT02M37.00S,3,1610612749,MIL,201196,Sessions,R. Sessions,84,113,14,Missed,1,0.0,0.0,0,h,MISS Sessions 14' Jump Shot,Missed Shot,Jump Shot,0,320
+21300931,338,PT02M36.00S,3,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,v,Wizards Rebound,Rebound,Unknown,0,321
+21300931,339,PT02M36.00S,3,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0.0,0.0,0,h,SUB: Adrien FOR Ilyasova,Substitution,,0,322
+21300931,340,PT02M24.00S,3,1610612764,WAS,1889,Miller,A. Miller,47,53,7,Missed,1,0.0,0.0,0,v,MISS A. Miller 7' Jump Shot,Missed Shot,Jump Shot,0,323
+21300931,341,PT02M23.00S,3,1610612764,WAS,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,v,Gooden REBOUND (Off:2 Def:2),Rebound,Unknown,0,324
+21300931,342,PT02M22.00S,3,1610612764,WAS,2400,Gooden,D. Gooden,-2,-10,1,Made,1,68.0,84.0,152,v,Gooden 1' Layup (11 PTS),Made Shot,Layup Shot,0,325
+21300931,343,PT02M03.00S,3,1610612749,MIL,202688,Knight,B. Knight,187,-22,19,Missed,1,0.0,0.0,0,h,MISS Knight 19' Jump Shot,Missed Shot,Jump Shot,0,326
+21300931,344,PT02M01.00S,3,1610612749,MIL,202399,Adrien,J. Adrien,0,0,0,,0,0.0,0.0,0,h,Adrien REBOUND (Off:2 Def:0),Rebound,Unknown,0,327
+21300931,345,PT02M00.00S,3,1610612749,MIL,202399,Adrien,J. Adrien,-8,-2,1,Missed,1,0.0,0.0,0,h,MISS Adrien 1' Layup,Missed Shot,Layup Shot,0,328
+21300931,345,PT02M00.00S,3,1610612764,WAS,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,v,Gooden BLOCK (2 BLK),,,0,329
+21300931,346,PT01M59.00S,3,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0.0,0.0,0,h,Henson REBOUND (Off:1 Def:1),Rebound,Unknown,0,330
+21300931,347,PT01M57.00S,3,1610612749,MIL,203089,Henson,J. Henson,-35,48,6,Made,1,70.0,84.0,154,h,Henson 6' Hook Shot (4 PTS),Made Shot,Hook Shot,0,331
+21300931,348,PT01M34.00S,3,1610612749,MIL,202688,Knight,B. Knight,0,0,0,,0,0.0,0.0,0,h,Knight S.FOUL (P2.T4),Foul,Shooting,0,332
+21300931,349,PT01M34.00S,3,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,v,MISS Ariza Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,333
+21300931,350,PT01M34.00S,3,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,v,Wizards Rebound,Rebound,Normal Rebound,0,334
+21300931,351,PT01M34.00S,3,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,70.0,85.0,155,v,Ariza Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,335
+21300931,353,PT01M09.00S,3,1610612749,MIL,203089,Henson,J. Henson,-60,4,6,Made,1,72.0,85.0,157,h,Henson 6' Turnaround Hook Shot (6 PTS),Made Shot,Turnaround Hook Shot,0,336
+21300931,354,PT01M04.00S,3,1610612764,WAS,1733,Harrington,A. Harrington,-8,-8,1,Missed,1,0.0,0.0,0,v,MISS Harrington 1' Layup,Missed Shot,Layup Shot,0,337
+21300931,355,PT01M02.00S,3,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,0.0,0.0,0,h,Sessions REBOUND (Off:0 Def:1),Rebound,Unknown,0,338
+21300931,356,PT00M51.90S,3,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0.0,0.0,0,h,Henson Lost Ball Turnover (P3.T11),Turnover,Lost Ball,0,339
+21300931,356,PT00M51.90S,3,1610612764,WAS,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,v,Gooden STEAL (1 STL),,,0,340
+21300931,357,PT00M47.90S,3,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,v,Ariza Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,341
+21300931,357,PT00M47.90S,3,1610612749,MIL,202688,Knight,B. Knight,0,0,0,,0,0.0,0.0,0,h,Knight STEAL (3 STL),,,0,342
+21300931,358,PT00M42.20S,3,1610612764,WAS,1733,Harrington,A. Harrington,0,0,0,,0,0.0,0.0,0,v,Harrington S.FOUL (P2.PN),Foul,Shooting,0,343
+21300931,359,PT00M42.20S,3,1610612749,MIL,202688,Knight,B. Knight,0,0,0,,0,73.0,85.0,158,h,Knight Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,0,344
+21300931,361,PT00M42.20S,3,1610612749,MIL,202688,Knight,B. Knight,0,0,0,,0,74.0,85.0,159,h,Knight Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,345
+21300931,363,PT00M21.90S,3,1610612764,WAS,2400,Gooden,D. Gooden,-169,104,20,Missed,1,0.0,0.0,0,v,MISS Gooden 20' Jump Shot,Missed Shot,Jump Shot,0,346
+21300931,364,PT00M19.90S,3,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0.0,0.0,0,h,Henson REBOUND (Off:1 Def:2),Rebound,Unknown,0,347
+21300931,365,PT00M00.20S,3,1610612749,MIL,202688,Knight,B. Knight,171,178,25,Missed,1,0.0,0.0,0,h,MISS Knight 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,348
+21300931,366,PT00M00.00S,3,1610612749,MIL,202399,Adrien,J. Adrien,0,0,0,,0,0.0,0.0,0,h,Adrien REBOUND (Off:3 Def:0),Rebound,Unknown,0,349
+21300931,367,PT00M00.00S,3,0,,0,,,0,0,0,,0,74.0,85.0,159,,End of 3rd Period (10:47 PM EST),period,end,0,350
+21300931,369,PT12M00.00S,4,0,,0,,,0,0,0,,0,74.0,85.0,159,,Start of 4th Period (10:50 PM EST),period,start,0,351
+21300931,370,PT11M42.00S,4,1610612764,WAS,203078,Beal,B. Beal,-8,4,1,Missed,1,0.0,0.0,0,v,MISS Beal 1' Layup,Missed Shot,Layup Shot,0,352
+21300931,371,PT11M41.00S,4,1610612749,MIL,202399,Adrien,J. Adrien,0,0,0,,0,0.0,0.0,0,h,Adrien REBOUND (Off:3 Def:1),Rebound,Unknown,0,353
+21300931,372,PT11M37.00S,4,1610612764,WAS,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,A. Miller P.FOUL (P1.T1),Foul,Personal,0,354
+21300931,373,PT11M21.00S,4,1610612749,MIL,203489,Wolters,N. Wolters,-2,-2,0,Made,1,76.0,85.0,161,h,Wolters  Running Layup (10 PTS),Made Shot,Running Layup Shot,0,355
+21300931,374,PT11M02.00S,4,1610612764,WAS,2400,Gooden,D. Gooden,-15,12,2,Missed,1,0.0,0.0,0,v,MISS Gooden 2' Layup,Missed Shot,Layup Shot,0,356
+21300931,374,PT11M02.00S,4,1610612749,MIL,202399,Adrien,J. Adrien,0,0,0,,0,0.0,0.0,0,h,Adrien BLOCK (1 BLK),,,0,357
+21300931,375,PT11M00.00S,4,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0.0,0.0,0,h,Henson REBOUND (Off:1 Def:3),Rebound,Unknown,0,358
+21300931,376,PT10M59.00S,4,1610612764,WAS,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,A. Miller S.FOUL (P2.T2),Foul,Shooting,0,359
+21300931,377,PT10M59.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,77.0,85.0,162,h,Antetokounmpo Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,360
+21300931,379,PT10M59.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,78.0,85.0,163,h,Antetokounmpo Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,361
+21300931,381,PT10M44.00S,4,1610612764,WAS,1889,Miller,A. Miller,83,56,10,Missed,1,0.0,0.0,0,v,MISS A. Miller 10' Jump Shot,Missed Shot,Jump Shot,0,362
+21300931,381,PT10M44.00S,4,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0.0,0.0,0,h,Henson BLOCK (1 BLK),,,0,363
+21300931,382,PT10M41.00S,4,1610612764,WAS,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,v,Gooden REBOUND (Off:3 Def:2),Rebound,Unknown,0,364
+21300931,383,PT10M39.00S,4,1610612764,WAS,2400,Gooden,D. Gooden,-16,0,2,Made,1,78.0,87.0,165,v,Gooden 2' Layup (13 PTS),Made Shot,Layup Shot,0,365
+21300931,384,PT10M26.00S,4,1610612764,WAS,1733,Harrington,A. Harrington,0,0,0,,0,0.0,0.0,0,v,Harrington S.FOUL (P3.T3),Foul,Shooting,0,366
+21300931,385,PT10M26.00S,4,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,79.0,87.0,166,h,Sessions Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,367
+21300931,387,PT10M26.00S,4,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,80.0,87.0,167,h,Sessions Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,368
+21300931,389,PT10M09.00S,4,1610612764,WAS,101110,Webster,M. Webster,-243,-24,24,Made,1,80.0,90.0,170,v,Webster 24' 3PT Jump Shot (15 PTS) (A. Miller 6 AST),Made Shot,Jump Shot,0,369
+21300931,390,PT09M50.00S,4,1610612749,MIL,203089,Henson,J. Henson,-5,-2,1,Made,1,82.0,90.0,172,h,Henson 1' Alley Oop Dunk (8 PTS) (Wolters 4 AST),Made Shot,Alley Oop Dunk Shot,0,370
+21300931,391,PT09M26.00S,4,1610612764,WAS,101110,Webster,M. Webster,-2,3,0,Missed,1,0.0,0.0,0,v,MISS Webster  Dunk,Missed Shot,Dunk Shot,0,371
+21300931,391,PT09M26.00S,4,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0.0,0.0,0,h,Henson BLOCK (2 BLK),,,0,372
+21300931,392,PT09M26.00S,4,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Rebound,Rebound,Unknown,0,373
+21300931,393,PT09M26.00S,4,1610612764,WAS,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,SUB: Wall FOR A. Miller,Substitution,,0,374
+21300931,394,PT09M13.00S,4,1610612749,MIL,203089,Henson,J. Henson,-73,31,8,Missed,1,0.0,0.0,0,h,MISS Henson 8' Hook Shot,Missed Shot,Hook Shot,0,375
+21300931,395,PT09M12.00S,4,1610612764,WAS,1733,Harrington,A. Harrington,0,0,0,,0,0.0,0.0,0,v,Harrington REBOUND (Off:0 Def:4),Rebound,Unknown,0,376
+21300931,396,PT09M05.00S,4,1610612764,WAS,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,v,Gooden Double Dribble Turnover (P1.T13),Turnover,Double Dribble,0,377
+21300931,397,PT09M05.00S,4,1610612764,WAS,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,v,SUB: Gortat FOR Gooden,Substitution,,0,378
+21300931,398,PT08M47.00S,4,1610612749,MIL,203489,Wolters,N. Wolters,80,6,8,Missed,1,0.0,0.0,0,h,MISS Wolters 8' Jump Shot,Missed Shot,Jump Shot,0,379
+21300931,399,PT08M47.00S,4,1610612749,MIL,202399,Adrien,J. Adrien,0,0,0,,0,0.0,0.0,0,h,Adrien REBOUND (Off:4 Def:1),Rebound,Unknown,0,380
+21300931,400,PT08M47.00S,4,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0.0,0.0,0,v,Gortat S.FOUL (P2.T4),Foul,Shooting,0,381
+21300931,401,PT08M47.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,382
+21300931,403,PT08M47.00S,4,1610612764,WAS,1733,Harrington,A. Harrington,0,0,0,,0,0.0,0.0,0,v,SUB: Booker FOR Harrington,Substitution,,0,383
+21300931,404,PT08M47.00S,4,1610612749,MIL,202399,Adrien,J. Adrien,0,0,0,,0,0.0,0.0,0,h,MISS Adrien Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,384
+21300931,405,PT08M47.00S,4,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Rebound,Rebound,Normal Rebound,0,385
+21300931,406,PT08M47.00S,4,1610612749,MIL,202399,Adrien,J. Adrien,0,0,0,,0,83.0,90.0,173,h,Adrien Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,386
+21300931,408,PT08M31.00S,4,1610612764,WAS,203078,Beal,B. Beal,157,194,25,Missed,1,0.0,0.0,0,v,MISS Beal 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,387
+21300931,409,PT08M29.00S,4,1610612749,MIL,202399,Adrien,J. Adrien,0,0,0,,0,0.0,0.0,0,h,Adrien REBOUND (Off:4 Def:2),Rebound,Unknown,0,388
+21300931,411,PT08M24.00S,4,1610612764,WAS,101110,Webster,M. Webster,0,0,0,,0,0.0,0.0,0,v,SUB: Ariza FOR Webster,Substitution,,0,389
+21300931,412,PT08M08.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,2,1,0,Missed,1,0.0,0.0,0,h,MISS Antetokounmpo  Layup,Missed Shot,Layup Shot,0,390
+21300931,414,PT08M07.00S,4,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0.0,0.0,0,h,Henson REBOUND (Off:2 Def:3),Rebound,Unknown,0,391
+21300931,413,PT08M07.00S,4,1610612749,MIL,203089,Henson,J. Henson,2,0,0,Missed,1,0.0,0.0,0,h,MISS Henson  Layup,Missed Shot,Layup Shot,0,392
+21300931,416,PT08M06.00S,4,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0.0,0.0,0,h,Henson REBOUND (Off:3 Def:3),Rebound,Unknown,0,393
+21300931,415,PT08M06.00S,4,1610612749,MIL,203089,Henson,J. Henson,-4,-2,0,Made,1,85.0,90.0,175,h,Henson  Tip Shot (10 PTS),Made Shot,Tip Shot,0,394
+21300931,417,PT07M48.00S,4,1610612764,WAS,203078,Beal,B. Beal,230,-17,0,Made,1,85.0,93.0,178,v,Beal  3PT Jump Shot (14 PTS) (Wall 9 AST),Made Shot,Jump Shot,0,395
+21300931,418,PT07M35.00S,4,1610612749,MIL,201196,Sessions,R. Sessions,-8,1,1,Made,1,87.0,93.0,180,h,Sessions 1' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,0,396
+21300931,419,PT07M22.00S,4,1610612764,WAS,202322,Wall,J. Wall,61,153,16,Made,1,87.0,95.0,182,v,Wall 16' Jump Shot (6 PTS),Made Shot,Jump Shot,0,397
+21300931,420,PT07M04.00S,4,1610612749,MIL,203089,Henson,J. Henson,-26,14,3,Made,1,89.0,95.0,184,h,Henson 3' Hook Shot (12 PTS) (Sessions 1 AST),Made Shot,Hook Shot,0,398
+21300931,421,PT06M47.00S,4,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0.0,0.0,0,v,Wall Bad Pass Turnover (P7.T14),Turnover,Bad Pass,0,399
+21300931,421,PT06M47.00S,4,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,0.0,0.0,0,h,Sessions STEAL (1 STL),,,0,400
+21300931,422,PT06M44.00S,4,1610612749,MIL,201196,Sessions,R. Sessions,-4,-2,0,Made,1,91.0,95.0,186,h,Sessions  Dunk (10 PTS),Made Shot,Dunk Shot,0,401
+21300931,423,PT06M43.00S,4,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,v,Wizards Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,402
+21300931,425,PT06M30.00S,4,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0.0,0.0,0,h,Henson S.FOUL (P2.T1),Foul,Shooting,0,403
+21300931,426,PT06M30.00S,4,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0.0,0.0,0,v,MISS Gortat Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,404
+21300931,427,PT06M30.00S,4,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,v,Wizards Rebound,Rebound,Normal Rebound,0,405
+21300931,428,PT06M30.00S,4,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0.0,0.0,0,v,MISS Gortat Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,406
+21300931,430,PT06M29.00S,4,1610612749,MIL,202399,Adrien,J. Adrien,0,0,0,,0,0.0,0.0,0,h,Adrien REBOUND (Off:4 Def:3),Rebound,Unknown,0,407
+21300931,431,PT06M09.00S,4,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0.0,0.0,0,h,Henson Lost Ball Turnover (P4.T12),Turnover,Lost Ball,0,408
+21300931,431,PT06M09.00S,4,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0.0,0.0,0,v,Wall STEAL (2 STL),,,0,409
+21300931,432,PT06M02.00S,4,1610612764,WAS,2772,Ariza,T. Ariza,176,176,25,Made,1,91.0,98.0,189,v,Ariza 25' 3PT Jump Shot (26 PTS) (Wall 10 AST),Made Shot,Jump Shot,0,410
+21300931,433,PT05M42.00S,4,1610612749,MIL,201196,Sessions,R. Sessions,1,1,0,Missed,1,0.0,0.0,0,h,MISS Sessions  Layup,Missed Shot,Layup Shot,0,411
+21300931,435,PT05M39.00S,4,1610612749,MIL,202399,Adrien,J. Adrien,0,0,0,,0,0.0,0.0,0,h,Adrien REBOUND (Off:5 Def:3),Rebound,Unknown,0,412
+21300931,434,PT05M39.00S,4,1610612749,MIL,202399,Adrien,J. Adrien,-5,-3,1,Made,1,93.0,98.0,191,h,Adrien 1' Dunk (8 PTS),Made Shot,Dunk Shot,0,413
+21300931,436,PT05M24.00S,4,1610612764,WAS,101162,Gortat,M. Gortat,-10,-5,1,Made,1,93.0,100.0,193,v,Gortat 1' Dunk (11 PTS) (Wall 11 AST),Made Shot,Dunk Shot,0,414
+21300931,437,PT05M05.00S,4,1610612749,MIL,201196,Sessions,R. Sessions,53,258,26,Missed,1,0.0,0.0,0,h,MISS Sessions 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,415
+21300931,438,PT05M04.00S,4,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,v,Ariza REBOUND (Off:2 Def:5),Rebound,Unknown,0,416
+21300931,439,PT04M58.00S,4,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0.0,0.0,0,h,Henson S.FOUL (P3.T2),Foul,Shooting,0,417
+21300931,440,PT04M58.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,93.0,101.0,194,v,Beal Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,418
+21300931,442,PT04M58.00S,4,1610612749,MIL,203489,Wolters,N. Wolters,0,0,0,,0,0.0,0.0,0,h,SUB: Knight FOR Wolters,Substitution,,0,419
+21300931,443,PT04M58.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,h,SUB: Ilyasova FOR Antetokounmpo,Substitution,,0,420
+21300931,444,PT04M58.00S,4,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0.0,0.0,0,h,SUB: Middleton FOR Henson,Substitution,,0,421
+21300931,445,PT04M58.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,93.0,102.0,195,v,Beal Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,422
+21300931,447,PT04M38.00S,4,1610612749,MIL,101141,Ilyasova,E. Ilyasova,70,124,14,Made,1,95.0,102.0,197,h,Ilyasova 14' Turnaround Jump Shot (11 PTS) (Knight 2 AST),Made Shot,Turnaround Jump Shot,0,423
+21300931,448,PT04M08.00S,4,1610612764,WAS,203078,Beal,B. Beal,-234,1,0,Missed,1,0.0,0.0,0,v,MISS Beal  3PT Jump Shot,Missed Shot,Jump Shot,0,424
+21300931,449,PT04M06.00S,4,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,0.0,0.0,0,h,Sessions REBOUND (Off:0 Def:2),Rebound,Unknown,0,425
+21300931,450,PT03M49.00S,4,1610612749,MIL,101141,Ilyasova,E. Ilyasova,212,132,25,Missed,1,0.0,0.0,0,h,MISS Ilyasova 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,426
+21300931,451,PT03M47.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,h,Middleton REBOUND (Off:2 Def:2),Rebound,Unknown,0,427
+21300931,452,PT03M44.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,-7,-8,1,Missed,1,0.0,0.0,0,h,MISS Middleton 1' Layup,Missed Shot,Layup Shot,0,428
+21300931,453,PT03M42.00S,4,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0.0,0.0,0,v,Gortat REBOUND (Off:2 Def:3),Rebound,Unknown,0,429
+21300931,454,PT03M39.00S,4,1610612764,WAS,202322,Wall,J. Wall,-10,17,2,Missed,1,0.0,0.0,0,v,MISS Wall 2' Layup,Missed Shot,Layup Shot,0,430
+21300931,454,PT03M39.00S,4,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0.0,0.0,0,h,Ilyasova BLOCK (1 BLK),,,0,431
+21300931,455,PT03M36.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0.0,0.0,0,v,Beal REBOUND (Off:1 Def:1),Rebound,Unknown,0,432
+21300931,456,PT03M35.00S,4,1610612764,WAS,203078,Beal,B. Beal,-10,-6,1,Made,1,95.0,104.0,199,v,Beal 1' Layup (18 PTS),Made Shot,Layup Shot,0,433
+21300931,457,PT03M18.00S,4,1610612749,MIL,201196,Sessions,R. Sessions,-4,0,0,Made,1,97.0,104.0,201,h,Sessions  Driving Layup (12 PTS),Made Shot,Driving Layup Shot,0,434
+21300931,458,PT03M01.00S,4,1610612764,WAS,202322,Wall,J. Wall,-106,165,20,Missed,1,0.0,0.0,0,v,MISS Wall 20' Jump Shot,Missed Shot,Jump Shot,0,435
+21300931,459,PT03M01.00S,4,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,v,Wizards Rebound,Rebound,Unknown,0,436
+21300931,460,PT03M01.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,h,Middleton L.B.FOUL (P4.T3),Foul,Loose Ball,0,437
+21300931,461,PT03M01.00S,4,1610612749,MIL,202399,Adrien,J. Adrien,0,0,0,,0,0.0,0.0,0,h,SUB: Pachulia FOR Adrien,Substitution,,0,438
+21300931,462,PT02M57.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0.0,0.0,0,v,Beal Bad Pass Turnover (P2.T15),Turnover,Bad Pass,0,439
+21300931,463,PT02M57.00S,4,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,440
+21300931,465,PT02M46.00S,4,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0.0,0.0,0,v,Wall Personal Block Foul (P3.PN),Foul,Personal Block,0,441
+21300931,466,PT02M46.00S,4,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,98.0,104.0,202,h,Sessions Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,442
+21300931,468,PT02M46.00S,4,1610612764,WAS,202344,Booker,T. Booker,0,0,0,,0,0.0,0.0,0,v,SUB: Webster FOR Booker,Substitution,,0,443
+21300931,469,PT02M46.00S,4,1610612749,MIL,201196,Sessions,R. Sessions,0,0,0,,0,99.0,104.0,203,h,Sessions Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,444
+21300931,471,PT02M33.00S,4,1610612764,WAS,2772,Ariza,T. Ariza,-205,164,26,Missed,1,0.0,0.0,0,v,MISS Ariza 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,445
+21300931,472,PT02M32.00S,4,1610612749,MIL,202688,Knight,B. Knight,0,0,0,,0,0.0,0.0,0,h,Knight REBOUND (Off:0 Def:2),Rebound,Unknown,0,446
+21300931,475,PT02M15.00S,4,1610612749,MIL,201196,Sessions,R. Sessions,3,12,1,Missed,1,0.0,0.0,0,h,MISS Sessions 1' Layup,Missed Shot,Layup Shot,0,447
+21300931,475,PT02M15.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0.0,0.0,0,v,Beal BLOCK (1 BLK),,,0,448
+21300931,473,PT02M14.00S,4,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Rebound,Rebound,Unknown,0,449
+21300931,474,PT02M13.00S,4,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,v,Ariza S.FOUL (P4.PN),Foul,Shooting,0,450
+21300931,476,PT02M13.00S,4,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,100.0,104.0,204,h,Ilyasova Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,451
+21300931,478,PT02M13.00S,4,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,101.0,104.0,205,h,Ilyasova Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,452
+21300931,481,PT02M01.00S,4,1610612764,WAS,203078,Beal,B. Beal,-8,0,1,Made,1,101.0,106.0,207,v,Beal 1' Layup (20 PTS) (Wall 12 AST),Made Shot,Layup Shot,0,453
+21300931,482,PT01M44.00S,4,1610612749,MIL,201196,Sessions,R. Sessions,231,19,0,Missed,1,0.0,0.0,0,h,MISS Sessions  3PT Jump Shot,Missed Shot,Jump Shot,0,454
+21300931,483,PT01M43.00S,4,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0.0,0.0,0,v,Gortat REBOUND (Off:2 Def:4),Rebound,Unknown,0,455
+21300931,484,PT01M23.00S,4,1610612764,WAS,203078,Beal,B. Beal,230,11,0,Made,1,101.0,109.0,210,v,Beal  3PT Jump Shot (23 PTS) (Wall 13 AST),Made Shot,Jump Shot,0,456
+21300931,485,PT01M23.00S,4,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Timeout: Regular (Full 5 Short 1),Timeout,Regular,0,457
+21300931,487,PT01M18.00S,4,1610612749,MIL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,Pachulia Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,458
+21300931,488,PT00M59.00S,4,1610612764,WAS,202322,Wall,J. Wall,95,238,26,Made,1,101.0,112.0,213,v,Wall 26' 3PT Jump Shot (9 PTS),Made Shot,Jump Shot,0,459
+21300931,489,PT00M46.50S,4,1610612749,MIL,203114,Middleton,K. Middleton,-138,86,16,Made,1,103.0,112.0,215,h,Middleton 16' Jump Shot (15 PTS),Made Shot,Jump Shot,0,460
+21300931,490,PT00M21.90S,4,1610612764,WAS,202322,Wall,J. Wall,-56,178,19,Missed,1,0.0,0.0,0,v,MISS Wall 19' Jump Shot,Missed Shot,Jump Shot,0,461
+21300931,491,PT00M19.90S,4,1610612749,MIL,101141,Ilyasova,E. Ilyasova,0,0,0,,0,0.0,0.0,0,h,Ilyasova REBOUND (Off:1 Def:7),Rebound,Unknown,0,462
+21300931,492,PT00M14.90S,4,1610612749,MIL,202688,Knight,B. Knight,204,138,25,Missed,1,0.0,0.0,0,h,MISS Knight 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,463
+21300931,493,PT00M12.90S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,h,Middleton REBOUND (Off:3 Def:2),Rebound,Unknown,0,464
+21300931,494,PT00M12.30S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,h,Middleton Out of Bounds Lost Ball Turnover (P2.T14),Turnover,Out of Bounds Lost Ball Turnover,0,465
+21300931,495,PT00M11.40S,4,1610612749,MIL,202688,Knight,B. Knight,0,0,0,,0,0.0,0.0,0,h,Knight Personal Take Foul (P3.T4),Foul,Personal Take,0,466
+21300931,496,PT00M10.90S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,h,Middleton Personal Take Foul (P5.PN),Foul,Personal Take,0,467
+21300931,497,PT00M10.90S,4,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,103.0,113.0,216,v,Ariza Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,0,468
+21300931,499,PT00M10.90S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,0.0,0.0,0,v,SUB: Temple FOR Beal,Substitution,,0,469
+21300931,500,PT00M10.90S,4,1610612764,WAS,202322,Wall,J. Wall,0,0,0,,0,0.0,0.0,0,v,SUB: Porter FOR Wall,Substitution,,0,470
+21300931,501,PT00M10.90S,4,1610612764,WAS,101162,Gortat,M. Gortat,0,0,0,,0,0.0,0.0,0,v,SUB: Singleton FOR Gortat,Substitution,,0,471
+21300931,502,PT00M10.90S,4,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,103.0,114.0,217,v,Ariza Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,0,472
+21300931,504,PT00M10.90S,4,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Timeout: Short (Full 5 Short 2),Timeout,Short,0,473
+21300931,506,PT00M07.90S,4,1610612749,MIL,202688,Knight,B. Knight,-5,-5,1,Made,1,105.0,114.0,219,h,Knight 1' Driving Layup (25 PTS),Made Shot,Driving Layup Shot,0,474
+21300931,507,PT00M05.50S,4,1610612749,MIL,202688,Knight,B. Knight,0,0,0,,0,0.0,0.0,0,h,Knight Personal Take Foul (P4.PN),Foul,Personal Take,0,475
+21300931,508,PT00M05.50S,4,1610612764,WAS,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,v,MISS Ariza Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,476
+21300931,509,PT00M05.50S,4,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,v,Wizards Rebound,Rebound,Normal Rebound,0,477
+21300931,513,PT00M05.50S,4,1610612764,WAS,101110,Webster,M. Webster,0,0,0,,0,0.0,0.0,0,v,Webster Lane Violation Turnover (P1.T16),Turnover,Lane Violation,0,478
+21300931,514,PT00M05.50S,4,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Timeout: Short (Full 5 Short 3),Timeout,Short,0,479
+21300931,516,PT00M00.90S,4,1610612749,MIL,2585,Pachulia,Z. Pachulia,-5,-6,1,Made,1,107.0,114.0,221,h,Pachulia 1' Layup (6 PTS),Made Shot,Layup Shot,0,480
+21300931,517,PT00M00.00S,4,0,,0,,,0,0,0,,0,107.0,114.0,221,,End of 4th Period (11:24 PM EST),period,end,0,481

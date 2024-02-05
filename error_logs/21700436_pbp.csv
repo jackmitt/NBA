@@ -1,0 +1,448 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+21700436,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (9:10 PM EST),period,start,0,1
+21700436,4,PT12M00.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Jump Ball Gasol vs. Horford: Tip to Baynes,Jump Ball,,1,2
+21700436,7,PT11M37.00S,1,1610612738,BOS,201143,Horford,A. Horford,-89,47,10,Made,1,0.0,2.0,2,v,Horford 10' Jump Shot (2 PTS),Made Shot,Jump Shot,1,3
+21700436,8,PT11M18.00S,1,1610612763,MEM,201936,Evans,T. Evans,20,17,3,Missed,1,,,0,h,MISS Evans 3' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,4
+21700436,9,PT11M18.00S,1,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford REBOUND (Off:0 Def:1),Rebound,Unknown,1,5
+21700436,10,PT11M01.00S,1,1610612738,BOS,203382,Baynes,A. Baynes,-139,-15,14,Made,1,0.0,4.0,4,v,Baynes 14' Jump Shot (2 PTS) (Irving 1 AST),Made Shot,Jump Shot,1,6
+21700436,13,PT10M45.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,-126,142,19,Made,1,2.0,4.0,6,h,Gasol 19' Jump Shot (2 PTS) (Harrison 1 AST),Made Shot,Jump Shot,1,7
+21700436,15,PT10M29.00S,1,1610612738,BOS,201143,Horford,A. Horford,2,80,8,Missed,1,,,0,v,MISS Horford 8' Hook Shot,Missed Shot,Hook Shot,1,8
+21700436,16,PT10M26.00S,1,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,9
+21700436,17,PT10M17.00S,1,1610612763,MEM,1628415,Brooks,D. Brooks,-134,226,26,Made,1,5.0,4.0,9,h,Brooks 26' 3PT Jump Shot (3 PTS) (Harrison 2 AST),Made Shot,Jump Shot,1,10
+21700436,19,PT09M58.00S,1,1610612738,BOS,202681,Irving,K. Irving,-75,242,25,Missed,1,,,0,v,MISS Irving 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,11
+21700436,20,PT09M54.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:0 Def:1),Rebound,Unknown,1,12
+21700436,21,PT09M47.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown P.FOUL (P1.T1) (J.Goble),Foul,Personal,1,13
+21700436,23,PT09M36.00S,1,1610612763,MEM,201936,Evans,T. Evans,160,194,25,Missed,1,,,0,h,MISS Evans 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,14
+21700436,24,PT09M33.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum REBOUND (Off:0 Def:1),Rebound,Unknown,1,15
+21700436,25,PT09M24.00S,1,1610612738,BOS,203382,Baynes,A. Baynes,109,150,19,Missed,1,,,0,v,MISS Baynes 19' Jump Shot,Missed Shot,Jump Shot,1,16
+21700436,26,PT09M22.00S,1,1610612763,MEM,201936,Evans,T. Evans,0,0,0,,0,,,0,h,Evans REBOUND (Off:0 Def:1),Rebound,Unknown,1,17
+21700436,27,PT09M16.00S,1,1610612763,MEM,201936,Evans,T. Evans,-1,5,1,Missed,1,,,0,h,MISS Evans 1' Running Layup,Missed Shot,Running Layup Shot,1,18
+21700436,27,PT09M16.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown BLOCK (1 BLK),,,1,19
+21700436,29,PT09M13.00S,1,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford REBOUND (Off:0 Def:2),Rebound,Unknown,1,20
+21700436,30,PT09M05.00S,1,1610612738,BOS,203382,Baynes,A. Baynes,147,-16,15,Made,1,5.0,6.0,11,v,Baynes 15' Jump Shot (4 PTS) (Irving 2 AST),Made Shot,Jump Shot,1,21
+21700436,32,PT08M50.00S,1,1610612763,MEM,1626150,Harrison,A. Harrison,0,0,0,,0,,,0,h,Harrison Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,22
+21700436,32,PT08M50.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum STEAL (1 STL),,,1,23
+21700436,34,PT08M49.00S,1,1610612738,BOS,202681,Irving,K. Irving,0,0,0,,0,,,0,v,Irving Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,1,24
+21700436,35,PT08M29.00S,1,1610612763,MEM,1628415,Brooks,D. Brooks,-7,27,3,Missed,1,,,0,h,MISS Brooks 3' Jump Shot,Missed Shot,Jump Shot,1,25
+21700436,35,PT08M29.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum BLOCK (1 BLK),,,1,26
+21700436,37,PT08M29.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,27
+21700436,38,PT08M21.00S,1,1610612738,BOS,202681,Irving,K. Irving,-90,173,20,Missed,1,,,0,v,MISS Irving 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,28
+21700436,39,PT08M21.00S,1,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,Brooks REBOUND (Off:0 Def:1),Rebound,Unknown,1,29
+21700436,40,PT08M13.00S,1,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,,,0,h,Green Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,30
+21700436,41,PT08M03.00S,1,1610612738,BOS,202681,Irving,K. Irving,236,27,24,Made,1,5.0,9.0,14,v,Irving 24' 3PT Jump Shot (3 PTS) (Horford 1 AST),Made Shot,Jump Shot,1,31
+21700436,43,PT07M38.00S,1,1610612763,MEM,1626150,Harrison,A. Harrison,-67,131,15,Missed,1,,,0,h,MISS Harrison 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,32
+21700436,44,PT07M38.00S,1,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford REBOUND (Off:0 Def:3),Rebound,Unknown,1,33
+21700436,45,PT07M19.00S,1,1610612738,BOS,202681,Irving,K. Irving,0,0,0,,0,,,0,v,Irving Bad Pass Turnover (P2.T2),Turnover,Bad Pass,1,34
+21700436,45,PT07M19.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol STEAL (1 STL),,,1,35
+21700436,47,PT07M08.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,15,267,27,Missed,1,,,0,h,MISS Gasol 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,36
+21700436,48,PT07M06.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum REBOUND (Off:0 Def:2),Rebound,Unknown,1,37
+21700436,49,PT06M58.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,20,255,26,Made,1,5.0,12.0,17,v,Tatum 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,38
+21700436,50,PT06M56.00S,1,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,39
+21700436,52,PT06M56.00S,1,1610612763,MEM,201936,Evans,T. Evans,0,0,0,,0,,,0,h,SUB: Chalmers FOR Evans,Substitution,,0,40
+21700436,54,PT06M33.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol 3 Second Violation Turnover (P1.T3),Turnover,3 Second Violation,1,41
+21700436,55,PT06M15.00S,1,1610612738,BOS,203382,Baynes,A. Baynes,7,5,1,Made,1,5.0,14.0,19,v,Baynes 1' Cutting Dunk Shot (6 PTS) (Tatum 1 AST),Made Shot,Cutting Dunk Shot,1,42
+21700436,57,PT05M48.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,32,107,11,Missed,1,,,0,h,MISS Gasol 11' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,43
+21700436,58,PT05M44.00S,1,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:1 Def:1),Rebound,Unknown,1,44
+21700436,59,PT05M43.00S,1,1610612763,MEM,203210,Green,J. Green,-7,11,1,Made,1,7.0,14.0,21,h,Green 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,45
+21700436,60,PT05M29.00S,1,1610612763,MEM,1626150,Harrison,A. Harrison,0,0,0,,0,,,0,h,Harrison P.FOUL (P1.T1) (M.Boland),Foul,Personal,1,46
+21700436,62,PT05M29.00S,1,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,SUB: Ennis III FOR Brooks,Substitution,,0,47
+21700436,63,PT05M29.00S,1,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,SUB: Smart FOR Horford,Substitution,,0,48
+21700436,67,PT05M19.00S,1,1610612763,MEM,1626150,Harrison,A. Harrison,0,0,0,,0,,,0,h,Harrison P.FOUL (P2.T2) (J.Goble),Foul,Personal,1,49
+21700436,69,PT05M19.00S,1,1610612763,MEM,1626150,Harrison,A. Harrison,0,0,0,,0,,,0,h,SUB: McLemore FOR Harrison,Substitution,,0,50
+21700436,71,PT05M12.00S,1,1610612738,BOS,1627759,Brown,J. Brown,67,211,22,Made,1,7.0,16.0,23,v,Brown 22' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,51
+21700436,72,PT05M01.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown P.FOUL (P2.T2) (M.Boland),Foul,Personal,1,52
+21700436,74,PT04M57.00S,1,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,,,0,h,Green Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,53
+21700436,76,PT04M46.00S,1,1610612738,BOS,1627759,Brown,J. Brown,-226,1,0,Made,1,7.0,19.0,26,v,Brown 3PT Jump Shot (5 PTS) (Smart 1 AST),Made Shot,Jump Shot,1,54
+21700436,78,PT04M46.00S,1,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,,,0,h,Green S.FOUL (P1.T3) (J.Goble),Foul,Shooting,1,55
+21700436,80,PT04M46.00S,1,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,,,0,h,SUB: Martin FOR Green,Substitution,,0,56
+21700436,82,PT04M46.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,7.0,20.0,27,v,Brown Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,57
+21700436,83,PT04M34.00S,1,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart S.FOUL (P1.T3) (Z.Zarba),Foul,Shooting,1,58
+21700436,85,PT04M34.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,8.0,20.0,28,h,Gasol Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,59
+21700436,86,PT04M34.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,MISS Gasol Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,60
+21700436,87,PT04M31.00S,1,1610612738,BOS,203382,Baynes,A. Baynes,0,0,0,,0,,,0,v,Baynes REBOUND (Off:0 Def:1),Rebound,Unknown,1,61
+21700436,88,PT04M17.00S,1,1610612738,BOS,202681,Irving,K. Irving,1,35,4,Missed,1,,,0,v,MISS Irving 4' Driving Layup,Missed Shot,Driving Layup Shot,1,62
+21700436,89,PT04M14.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:0 Def:2),Rebound,Unknown,1,63
+21700436,90,PT04M02.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,-71,73,10,Missed,1,,,0,h,MISS Gasol 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,64
+21700436,91,PT03M58.00S,1,1610612738,BOS,202681,Irving,K. Irving,0,0,0,,0,,,0,v,Irving REBOUND (Off:0 Def:1),Rebound,Unknown,1,65
+21700436,92,PT03M56.00S,1,1610612763,MEM,203463,McLemore,B. McLemore,0,0,0,,0,,,0,h,McLemore S.FOUL (P1.T4) (J.Goble),Foul,Shooting,1,66
+21700436,94,PT03M56.00S,1,1610612738,BOS,202681,Irving,K. Irving,0,0,0,,0,8.0,21.0,29,v,Irving Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,67
+21700436,95,PT03M56.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,SUB: Rozier FOR Brown,Substitution,,0,68
+21700436,97,PT03M56.00S,1,1610612738,BOS,202681,Irving,K. Irving,0,0,0,,0,8.0,22.0,30,v,Irving Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,69
+21700436,98,PT03M39.00S,1,1610612763,MEM,201596,Chalmers,M. Chalmers,107,7,11,Missed,1,,,0,h,MISS Chalmers 11' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,70
+21700436,99,PT03M37.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,71
+21700436,100,PT03M25.00S,1,1610612738,BOS,202681,Irving,K. Irving,58,121,13,Made,1,8.0,24.0,32,v,Irving 13' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,1,72
+21700436,101,PT03M00.00S,1,1610612763,MEM,203516,Ennis,J. Ennis III,-88,200,22,Missed,1,,,0,h,MISS Ennis III 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,73
+21700436,102,PT02M55.00S,1,1610612738,BOS,203382,Baynes,A. Baynes,0,0,0,,0,,,0,v,Baynes REBOUND (Off:0 Def:2),Rebound,Unknown,1,74
+21700436,103,PT02M38.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,197,159,25,Made,1,8.0,27.0,35,v,Tatum 25' 3PT Jump Shot (6 PTS) (Irving 3 AST),Made Shot,Jump Shot,1,75
+21700436,105,PT02M30.00S,1,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,76
+21700436,106,PT02M30.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,SUB: Evans FOR Gasol,Substitution,,0,77
+21700436,107,PT02M30.00S,1,1610612738,BOS,202681,Irving,K. Irving,0,0,0,,0,,,0,v,SUB: Theis FOR Irving,Substitution,,0,78
+21700436,108,PT02M30.00S,1,1610612738,BOS,203382,Baynes,A. Baynes,0,0,0,,0,,,0,v,SUB: Horford FOR Baynes,Substitution,,0,79
+21700436,112,PT02M16.00S,1,1610612763,MEM,201936,Evans,T. Evans,0,0,0,,0,,,0,h,Evans Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,80
+21700436,112,PT02M16.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum STEAL (2 STL),,,1,81
+21700436,114,PT02M16.00S,1,1610612763,MEM,203463,McLemore,B. McLemore,0,0,0,,0,,,0,h,McLemore P.FOUL (P2.PN) (M.Boland),Foul,Personal,1,82
+21700436,116,PT02M16.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,8.0,28.0,36,v,Tatum Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,83
+21700436,117,PT02M16.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,8.0,29.0,37,v,Tatum Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,84
+21700436,118,PT02M04.00S,1,1610612763,MEM,203463,McLemore,B. McLemore,174,206,27,Missed,1,,,0,h,MISS McLemore 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,85
+21700436,119,PT02M01.00S,1,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,1,86
+21700436,120,PT02M00.00S,1,1610612763,MEM,203516,Ennis,J. Ennis III,-142,220,26,Missed,1,,,0,h,MISS Ennis III 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,87
+21700436,121,PT02M00.00S,1,1610612738,BOS,1626179,Rozier,T. Rozier,0,0,0,,0,,,0,v,Rozier REBOUND (Off:0 Def:1),Rebound,Unknown,1,88
+21700436,122,PT01M34.00S,1,1610612738,BOS,203935,Smart,M. Smart,76,250,26,Missed,1,,,0,v,MISS Smart 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,89
+21700436,123,PT01M29.00S,1,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,1,90
+21700436,124,PT01M26.00S,1,1610612738,BOS,1628464,Theis,D. Theis,0,0,0,,0,,,0,v,Theis S.FOUL (P1.T4) (J.Goble),Foul,Shooting,1,91
+21700436,126,PT01M26.00S,1,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,9.0,29.0,38,h,Martin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,92
+21700436,127,PT01M26.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,SUB: Larkin FOR Tatum,Substitution,,0,93
+21700436,129,PT01M26.00S,1,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,10.0,29.0,39,h,Martin Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,94
+21700436,130,PT01M09.00S,1,1610612738,BOS,1628464,Theis,D. Theis,-67,22,7,Made,1,10.0,31.0,41,v,Theis 7' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,1,95
+21700436,131,PT00M50.50S,1,1610612763,MEM,203463,McLemore,B. McLemore,-8,4,1,Made,1,12.0,31.0,43,h,McLemore 1' Cutting Dunk Shot (2 PTS) (Evans 1 AST),Made Shot,Cutting Dunk Shot,1,96
+21700436,133,PT00M37.90S,1,1610612738,BOS,1626179,Rozier,T. Rozier,11,152,15,Missed,1,,,0,v,MISS Rozier 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,97
+21700436,134,PT00M35.50S,1,1610612763,MEM,203516,Ennis,J. Ennis III,0,0,0,,0,,,0,h,Ennis III REBOUND (Off:0 Def:1),Rebound,Unknown,1,98
+21700436,135,PT00M28.30S,1,1610612763,MEM,1626185,Martin,J. Martin,232,-16,0,Missed,1,,,0,h,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,1,99
+21700436,136,PT00M25.40S,1,1610612738,BOS,1626179,Rozier,T. Rozier,0,0,0,,0,,,0,v,Rozier REBOUND (Off:0 Def:2),Rebound,Unknown,1,100
+21700436,137,PT00M04.10S,1,1610612738,BOS,201143,Horford,A. Horford,74,6,7,Missed,1,,,0,v,MISS Horford 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,101
+21700436,138,PT00M04.10S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,102
+21700436,139,PT00M04.10S,1,1610612763,MEM,203463,McLemore,B. McLemore,0,0,0,,0,,,0,h,McLemore L.B.FOUL (P3.PN) (J.Goble),Foul,Loose Ball,1,103
+21700436,141,PT00M04.10S,1,1610612738,BOS,1628464,Theis,D. Theis,0,0,0,,0,,,0,v,MISS Theis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,104
+21700436,142,PT00M04.10S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,105
+21700436,143,PT00M04.10S,1,1610612763,MEM,203463,McLemore,B. McLemore,0,0,0,,0,,,0,h,SUB: Brooks FOR McLemore,Substitution,,0,106
+21700436,144,PT00M04.10S,1,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,SUB: Tatum FOR Horford,Substitution,,0,107
+21700436,147,PT00M04.10S,1,1610612738,BOS,1628464,Theis,D. Theis,0,0,0,,0,,,0,v,MISS Theis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,108
+21700436,148,PT00M02.10S,1,1610612763,MEM,203516,Ennis,J. Ennis III,0,0,0,,0,,,0,h,Ennis III REBOUND (Off:0 Def:2),Rebound,Unknown,1,109
+21700436,149,PT00M00.00S,1,1610612763,MEM,201936,Evans,T. Evans,41,447,45,Missed,1,,,0,h,MISS Evans 45' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,110
+21700436,150,PT00M00.00S,1,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Rebound,Rebound,Unknown,0,111
+21700436,151,PT00M00.00S,1,0,,0,,,0,0,0,,0,12.0,31.0,43,,End of 1st Period (9:36 PM EST),period,end,1,112
+21700436,158,PT12M00.00S,2,0,,0,,,0,0,0,,0,12.0,31.0,43,,Start of 2nd Period (9:39 PM EST),period,start,0,113
+21700436,159,PT11M48.00S,2,1610612763,MEM,1627738,Davis,D. Davis,75,157,17,Missed,1,,,0,h,MISS Davis 17' Jump Shot,Missed Shot,Jump Shot,1,114
+21700436,160,PT11M45.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,115
+21700436,161,PT11M31.00S,2,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,116
+21700436,161,PT11M31.00S,2,1610612763,MEM,1627738,Davis,D. Davis,0,0,0,,0,,,0,h,Davis STEAL (1 STL),,,1,117
+21700436,164,PT11M22.00S,2,1610612763,MEM,201936,Evans,T. Evans,196,154,25,Made,1,15.0,31.0,46,h,Evans 25' 3PT Jump Shot (3 PTS) (Davis 1 AST),Made Shot,Jump Shot,1,118
+21700436,166,PT11M07.00S,2,1610612738,BOS,1626179,Rozier,T. Rozier,83,251,26,Made,1,15.0,34.0,49,v,Rozier 26' 3PT Jump Shot (3 PTS) (Theis 1 AST),Made Shot,Jump Shot,1,119
+21700436,168,PT10M49.00S,2,1610612763,MEM,1626185,Martin,J. Martin,120,65,14,Missed,1,,,0,h,MISS Martin 14' Jump Shot,Missed Shot,Jump Shot,1,120
+21700436,169,PT10M47.00S,2,1610612738,BOS,1628464,Theis,D. Theis,0,0,0,,0,,,0,v,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,1,121
+21700436,170,PT10M38.00S,2,1610612763,MEM,1627738,Davis,D. Davis,0,0,0,,0,,,0,h,Davis Violation:Kicked Ball (J.Goble),Violation,Kicked Ball,0,122
+21700436,171,PT10M30.00S,2,1610612738,BOS,1626179,Rozier,T. Rozier,-30,115,12,Missed,1,,,0,v,MISS Rozier 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,123
+21700436,172,PT10M26.00S,2,1610612763,MEM,1628424,Simmons,K. Simmons,0,0,0,,0,,,0,h,Simmons REBOUND (Off:0 Def:1),Rebound,Unknown,1,124
+21700436,173,PT10M23.00S,2,1610612763,MEM,1628415,Brooks,D. Brooks,6,10,1,Missed,1,,,0,h,MISS Brooks 1' Running Layup,Missed Shot,Running Layup Shot,1,125
+21700436,173,PT10M23.00S,2,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford BLOCK (1 BLK),,,1,126
+21700436,175,PT10M20.00S,2,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:2 Def:1),Rebound,Unknown,1,127
+21700436,176,PT10M20.00S,2,1610612738,BOS,1628464,Theis,D. Theis,0,0,0,,0,,,0,v,Theis S.FOUL (P2.T1) (Z.Zarba),Foul,Shooting,1,128
+21700436,178,PT10M20.00S,2,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,16.0,34.0,50,h,Martin Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,129
+21700436,179,PT10M20.00S,2,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,17.0,34.0,51,h,Martin Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,130
+21700436,180,PT09M57.00S,2,1610612738,BOS,1626179,Rozier,T. Rozier,153,225,27,Missed,1,,,0,v,MISS Rozier 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,131
+21700436,181,PT09M54.00S,2,1610612763,MEM,201936,Evans,T. Evans,0,0,0,,0,,,0,h,Evans REBOUND (Off:0 Def:2),Rebound,Unknown,1,132
+21700436,182,PT09M51.00S,2,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford S.FOUL (P1.T2) (M.Boland),Foul,Shooting,1,133
+21700436,184,PT09M51.00S,2,1610612763,MEM,201936,Evans,T. Evans,0,0,0,,0,,,0,h,MISS Evans Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,134
+21700436,185,PT09M51.00S,2,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Rebound,Rebound,Normal Rebound,0,135
+21700436,186,PT09M51.00S,2,1610612763,MEM,201936,Evans,T. Evans,0,0,0,,0,18.0,34.0,52,h,Evans Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,136
+21700436,187,PT09M36.00S,2,1610612738,BOS,1628464,Theis,D. Theis,237,24,24,Missed,1,,,0,v,MISS Theis 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,137
+21700436,188,PT09M34.00S,2,1610612763,MEM,1627738,Davis,D. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,1,138
+21700436,189,PT09M30.00S,2,1610612763,MEM,1628424,Simmons,K. Simmons,-8,15,2,Missed,1,,,0,h,MISS Simmons 2' Layup,Missed Shot,Layup Shot,1,139
+21700436,189,PT09M30.00S,2,1610612738,BOS,1628464,Theis,D. Theis,0,0,0,,0,,,0,v,Theis BLOCK (1 BLK),,,1,140
+21700436,191,PT09M30.00S,2,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Rebound,Rebound,Unknown,0,141
+21700436,192,PT09M18.00S,2,1610612763,MEM,1628415,Brooks,D. Brooks,51,131,14,Missed,1,,,0,h,MISS Brooks 14' Jump Shot,Missed Shot,Jump Shot,1,142
+21700436,193,PT09M15.00S,2,1610612738,BOS,203499,Larkin,S. Larkin,0,0,0,,0,,,0,v,Larkin REBOUND (Off:0 Def:1),Rebound,Unknown,1,143
+21700436,194,PT09M09.00S,2,1610612738,BOS,203499,Larkin,S. Larkin,47,100,11,Missed,1,,,0,v,MISS Larkin 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,144
+21700436,194,PT09M09.00S,2,1610612763,MEM,1628424,Simmons,K. Simmons,0,0,0,,0,,,0,h,Simmons BLOCK (1 BLK),,,1,145
+21700436,196,PT09M06.00S,2,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:2 Def:2),Rebound,Unknown,1,146
+21700436,197,PT09M04.00S,2,1610612763,MEM,1626185,Martin,J. Martin,-5,11,1,Made,1,20.0,34.0,54,h,Martin 1' Running Dunk (6 PTS),Made Shot,Running Dunk Shot,1,147
+21700436,198,PT08M44.00S,2,1610612738,BOS,203935,Smart,M. Smart,-25,131,13,Missed,1,,,0,v,MISS Smart 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,148
+21700436,198,PT08M44.00S,2,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,,,0,h,Martin BLOCK (1 BLK),,,1,149
+21700436,200,PT08M42.00S,2,1610612763,MEM,1627738,Davis,D. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:0 Def:2),Rebound,Unknown,1,150
+21700436,201,PT08M40.00S,2,1610612763,MEM,1628424,Simmons,K. Simmons,-6,12,1,Missed,1,,,0,h,MISS Simmons 1' Layup,Missed Shot,Layup Shot,1,151
+21700436,202,PT08M40.00S,2,1610612763,MEM,1627738,Davis,D. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:1 Def:2),Rebound,Unknown,1,152
+21700436,203,PT08M39.00S,2,1610612763,MEM,1627738,Davis,D. Davis,0,-6,1,Made,1,22.0,34.0,56,h,Davis 1' Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,1,153
+21700436,204,PT08M39.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,154
+21700436,205,PT08M39.00S,2,1610612738,BOS,1628464,Theis,D. Theis,0,0,0,,0,,,0,v,SUB: Ojeleye FOR Theis,Substitution,,0,155
+21700436,206,PT08M39.00S,2,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,v,SUB: Brown FOR Smart,Substitution,,0,156
+21700436,209,PT08M15.00S,2,1610612738,BOS,201143,Horford,A. Horford,3,147,15,Made,1,22.0,36.0,58,v,Horford 15' Jump Shot (4 PTS),Made Shot,Jump Shot,1,157
+21700436,210,PT07M54.00S,2,1610612763,MEM,201936,Evans,T. Evans,-1,8,1,Made,1,24.0,36.0,60,h,Evans 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,158
+21700436,211,PT07M27.00S,2,1610612738,BOS,1626179,Rozier,T. Rozier,0,4,0,Missed,1,,,0,v,MISS Rozier Driving Layup,Missed Shot,Driving Layup Shot,1,159
+21700436,212,PT07M25.00S,2,1610612763,MEM,1627738,Davis,D. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:1 Def:3),Rebound,Unknown,1,160
+21700436,213,PT07M12.00S,2,1610612738,BOS,1626179,Rozier,T. Rozier,0,0,0,,0,,,0,v,Rozier S.FOUL (P1.T3) (Z.Zarba),Foul,Shooting,1,161
+21700436,215,PT07M12.00S,2,1610612763,MEM,201936,Evans,T. Evans,0,0,0,,0,25.0,36.0,61,h,Evans Free Throw 1 of 3 (7 PTS),Free Throw,Free Throw 1 of 3,0,162
+21700436,216,PT07M12.00S,2,1610612763,MEM,201936,Evans,T. Evans,0,0,0,,0,26.0,36.0,62,h,Evans Free Throw 2 of 3 (8 PTS),Free Throw,Free Throw 2 of 3,0,163
+21700436,217,PT07M12.00S,2,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,,,0,h,SUB: Green FOR Martin,Substitution,,0,164
+21700436,218,PT07M12.00S,2,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,SUB: Baynes FOR Horford,Substitution,,0,165
+21700436,221,PT07M12.00S,2,1610612763,MEM,201936,Evans,T. Evans,0,0,0,,0,27.0,36.0,63,h,Evans Free Throw 3 of 3 (9 PTS),Free Throw,Free Throw 3 of 3,0,166
+21700436,222,PT06M57.00S,2,1610612738,BOS,203499,Larkin,S. Larkin,56,256,26,Missed,1,,,0,v,MISS Larkin 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,167
+21700436,223,PT06M54.00S,2,1610612763,MEM,1628424,Simmons,K. Simmons,0,0,0,,0,,,0,h,Simmons REBOUND (Off:0 Def:2),Rebound,Unknown,1,168
+21700436,224,PT06M46.00S,2,1610612763,MEM,201936,Evans,T. Evans,-148,220,27,Made,1,30.0,36.0,66,h,Evans 27' 3PT Step Back Jump Shot (12 PTS),Made Shot,Step Back Jump shot,1,169
+21700436,225,PT06M25.00S,2,1610612738,BOS,203499,Larkin,S. Larkin,-74,241,25,Missed,1,,,0,v,MISS Larkin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,170
+21700436,226,PT06M22.00S,2,1610612738,BOS,203382,Baynes,A. Baynes,0,0,0,,0,,,0,v,Baynes REBOUND (Off:1 Def:2),Rebound,Unknown,1,171
+21700436,227,PT06M13.00S,2,1610612763,MEM,1628424,Simmons,K. Simmons,0,0,0,,0,,,0,h,Simmons P.FOUL (P1.T1) (Z.Zarba),Foul,Personal,1,172
+21700436,229,PT06M13.00S,2,1610612738,BOS,203499,Larkin,S. Larkin,0,0,0,,0,,,0,v,SUB: Irving FOR Larkin,Substitution,,0,173
+21700436,230,PT06M13.00S,2,1610612738,BOS,1626179,Rozier,T. Rozier,0,0,0,,0,,,0,v,SUB: Smart FOR Rozier,Substitution,,0,174
+21700436,233,PT06M06.00S,2,1610612738,BOS,202681,Irving,K. Irving,-25,261,26,Missed,1,,,0,v,MISS Irving 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,175
+21700436,234,PT06M03.00S,2,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:1 Def:2),Rebound,Unknown,1,176
+21700436,235,PT05M53.00S,2,1610612763,MEM,1628424,Simmons,K. Simmons,227,34,0,Missed,1,,,0,h,MISS Simmons 3PT Jump Shot,Missed Shot,Jump Shot,1,177
+21700436,236,PT05M50.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,1,178
+21700436,237,PT05M43.00S,2,1610612738,BOS,202681,Irving,K. Irving,7,8,1,Made,1,30.0,38.0,68,v,Irving 1' Cutting Layup Shot (9 PTS) (Smart 2 AST),Made Shot,Cutting Layup Shot,1,179
+21700436,239,PT05M28.00S,2,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,,,0,h,Green OFF.Foul (P2) (Z.Zarba),Foul,Offensive,1,180
+21700436,241,PT05M28.00S,2,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,,,0,h,Green Offensive Foul Turnover (P3.T6),Turnover,Offensive Foul Turnover,1,181
+21700436,242,PT05M14.00S,2,1610612763,MEM,1628424,Simmons,K. Simmons,0,0,0,,0,,,0,h,Simmons S.FOUL (P2.T2) (Z.Zarba),Foul,Shooting,1,182
+21700436,244,PT05M14.00S,2,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,v,MISS Smart Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,183
+21700436,245,PT05M14.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,184
+21700436,246,PT05M14.00S,2,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,30.0,39.0,69,v,Smart Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,185
+21700436,247,PT04M58.00S,2,1610612763,MEM,201936,Evans,T. Evans,86,209,23,Missed,1,,,0,h,MISS Evans 23' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,186
+21700436,248,PT04M52.00S,2,1610612738,BOS,202681,Irving,K. Irving,0,0,0,,0,,,0,v,Irving REBOUND (Off:0 Def:2),Rebound,Unknown,1,187
+21700436,249,PT04M48.00S,2,1610612738,BOS,1627759,Brown,J. Brown,-48,256,26,Missed,1,,,0,v,MISS Brown 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,188
+21700436,250,PT04M44.00S,2,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:1 Def:0),Rebound,Unknown,1,189
+21700436,251,PT04M37.00S,2,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Offensive Charge Foul (P2.T4) (M.Boland),Foul,Offensive Charge,1,190
+21700436,253,PT04M37.00S,2,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,191
+21700436,254,PT04M37.00S,2,1610612738,BOS,1628400,Ojeleye,S. Ojeleye,0,0,0,,0,,,0,v,SUB: Tatum FOR Ojeleye,Substitution,,0,192
+21700436,256,PT04M27.00S,2,1610612763,MEM,201936,Evans,T. Evans,-2,7,1,Missed,1,,,0,h,MISS Evans 1' Driving Layup,Missed Shot,Driving Layup Shot,1,193
+21700436,257,PT04M24.00S,2,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:2 Def:2),Rebound,Unknown,1,194
+21700436,258,PT04M18.00S,2,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,,,0,h,Green Bad Pass Turnover (P4.T7),Turnover,Bad Pass,1,195
+21700436,258,PT04M18.00S,2,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart STEAL (1 STL),,,1,196
+21700436,261,PT04M00.00S,2,1610612738,BOS,1627759,Brown,J. Brown,229,90,25,Made,1,30.0,42.0,72,v,Brown 25' 3PT Jump Shot (9 PTS) (Smart 3 AST),Made Shot,Jump Shot,1,197
+21700436,263,PT03M34.00S,2,1610612763,MEM,201936,Evans,T. Evans,87,247,26,Made,1,33.0,42.0,75,h,Evans 26' 3PT Jump Shot (15 PTS),Made Shot,Jump Shot,1,198
+21700436,264,PT03M15.00S,2,1610612738,BOS,203935,Smart,M. Smart,-182,177,25,Missed,1,,,0,v,MISS Smart 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,199
+21700436,265,PT03M11.00S,2,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:2 Def:3),Rebound,Unknown,1,200
+21700436,266,PT03M06.00S,2,1610612763,MEM,203210,Green,J. Green,20,254,25,Missed,1,,,0,h,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,201
+21700436,267,PT03M03.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:0 Def:2),Rebound,Unknown,1,202
+21700436,268,PT02M48.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,-5,5,1,Missed,1,,,0,v,MISS Tatum 1' Driving Layup,Missed Shot,Driving Layup Shot,1,203
+21700436,269,PT02M45.00S,2,1610612763,MEM,201936,Evans,T. Evans,0,0,0,,0,,,0,h,Evans REBOUND (Off:0 Def:3),Rebound,Unknown,1,204
+21700436,270,PT02M39.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum P.FOUL (P1.PN) (Z.Zarba),Foul,Personal,1,205
+21700436,272,PT02M39.00S,2,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,206
+21700436,273,PT02M39.00S,2,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,,,0,h,SUB: Martin FOR Green,Substitution,,0,207
+21700436,274,PT02M39.00S,2,1610612763,MEM,201936,Evans,T. Evans,0,0,0,,0,,,0,h,SUB: Gasol FOR Evans,Substitution,,0,208
+21700436,275,PT02M39.00S,2,1610612763,MEM,1627738,Davis,D. Davis,0,0,0,,0,,,0,h,SUB: Chalmers FOR Davis,Substitution,,0,209
+21700436,276,PT02M39.00S,2,1610612738,BOS,203382,Baynes,A. Baynes,0,0,0,,0,,,0,v,SUB: Horford FOR Baynes,Substitution,,0,210
+21700436,281,PT02M24.00S,2,1610612763,MEM,201188,Gasol,M. Gasol,-106,164,20,Made,1,35.0,42.0,77,h,Gasol 20' Jump Shot (5 PTS),Made Shot,Jump Shot,1,211
+21700436,282,PT02M02.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,212
+21700436,283,PT01M51.00S,2,1610612763,MEM,201188,Gasol,M. Gasol,27,168,17,Made,1,37.0,42.0,79,h,Gasol 17' Jump Shot (7 PTS) (Chalmers 1 AST),Made Shot,Jump Shot,1,213
+21700436,285,PT01M38.00S,2,1610612738,BOS,202681,Irving,K. Irving,-160,194,25,Made,1,37.0,45.0,82,v,Irving 25' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,214
+21700436,286,PT01M23.00S,2,1610612763,MEM,1628415,Brooks,D. Brooks,-229,50,0,Made,1,40.0,45.0,85,h,Brooks 3PT Jump Shot (6 PTS) (Gasol 1 AST),Made Shot,Jump Shot,1,215
+21700436,288,PT01M04.00S,2,1610612738,BOS,202681,Irving,K. Irving,111,252,28,Missed,1,,,0,v,MISS Irving 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,216
+21700436,289,PT01M00.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum REBOUND (Off:1 Def:2),Rebound,Unknown,1,217
+21700436,290,PT00M50.40S,2,1610612738,BOS,201143,Horford,A. Horford,-21,260,26,Made,1,40.0,48.0,88,v,Horford 26' 3PT Jump Shot (7 PTS) (Irving 4 AST),Made Shot,Jump Shot,1,218
+21700436,292,PT00M30.70S,2,1610612763,MEM,1628415,Brooks,D. Brooks,-150,221,27,Missed,1,,,0,h,MISS Brooks 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,219
+21700436,293,PT00M27.80S,2,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford REBOUND (Off:0 Def:4),Rebound,Unknown,1,220
+21700436,294,PT00M08.30S,2,1610612738,BOS,202681,Irving,K. Irving,0,0,0,,0,,,0,v,Irving Lost Ball Turnover (P3.T6),Turnover,Lost Ball,1,221
+21700436,294,PT00M08.30S,2,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,,,0,h,Martin STEAL (1 STL),,,1,222
+21700436,297,PT00M00.40S,2,1610612763,MEM,201188,Gasol,M. Gasol,3,133,13,Missed,1,,,0,h,MISS Gasol 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,223
+21700436,298,PT00M00.40S,2,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Rebound,Rebound,Unknown,0,224
+21700436,299,PT00M00.00S,2,0,,0,,,0,0,0,,0,40.0,48.0,88,,End of 2nd Period (10:03 PM EST),period,end,1,225
+21700436,308,PT12M00.00S,3,0,,0,,,0,0,0,,0,40.0,48.0,88,,Start of 3rd Period (10:18 PM EST),period,start,0,226
+21700436,309,PT11M46.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,255,26,Missed,1,,,0,h,MISS Gasol 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,227
+21700436,310,PT11M43.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:0 Def:3),Rebound,Unknown,1,228
+21700436,311,PT11M19.00S,3,1610612738,BOS,201143,Horford,A. Horford,-119,23,12,Missed,1,,,0,v,MISS Horford 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,229
+21700436,312,PT11M17.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:0 Def:3),Rebound,Unknown,1,230
+21700436,313,PT11M03.00S,3,1610612763,MEM,1628415,Brooks,D. Brooks,5,25,3,Missed,1,,,0,h,MISS Brooks 3' Layup,Missed Shot,Layup Shot,1,231
+21700436,313,PT11M03.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum BLOCK (2 BLK),,,1,232
+21700436,315,PT11M00.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:1 Def:3),Rebound,Unknown,1,233
+21700436,316,PT10M58.00S,3,1610612763,MEM,203210,Green,J. Green,-173,180,25,Made,1,43.0,48.0,91,h,Green 25' 3PT Jump Shot (5 PTS) (Harrison 3 AST),Made Shot,Jump Shot,1,234
+21700436,318,PT10M45.00S,3,1610612738,BOS,202681,Irving,K. Irving,19,258,26,Missed,1,,,0,v,MISS Irving 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,235
+21700436,319,PT10M42.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum REBOUND (Off:2 Def:2),Rebound,Unknown,1,236
+21700436,320,PT10M39.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,-103,176,20,Made,1,43.0,50.0,93,v,Tatum 20' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,237
+21700436,321,PT10M20.00S,3,1610612763,MEM,201936,Evans,T. Evans,-173,192,26,Made,1,46.0,50.0,96,h,Evans 26' 3PT Jump Shot (18 PTS) (Brooks 1 AST),Made Shot,Jump Shot,1,238
+21700436,323,PT10M04.00S,3,1610612738,BOS,1627759,Brown,J. Brown,231,4,0,Missed,1,,,0,v,MISS Brown 3PT Jump Shot,Missed Shot,Jump Shot,1,239
+21700436,324,PT10M03.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:1 Def:4),Rebound,Unknown,1,240
+21700436,325,PT09M52.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,55,74,9,Made,1,48.0,50.0,98,h,Gasol 9' Driving Floating Bank Jump Shot (9 PTS) (Evans 2 AST),Made Shot,Driving Floating Bank Jump Shot,1,241
+21700436,327,PT09M52.00S,3,1610612738,BOS,203382,Baynes,A. Baynes,0,0,0,,0,,,0,v,Baynes S.FOUL (P1.T1) (J.Goble),Foul,Shooting,1,242
+21700436,329,PT09M52.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,SUB: Smart FOR Tatum,Substitution,,0,243
+21700436,331,PT09M52.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,49.0,50.0,99,h,Gasol Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,244
+21700436,332,PT09M31.00S,3,1610612738,BOS,203935,Smart,M. Smart,231,36,0,Made,1,49.0,53.0,102,v,Smart 3PT Jump Shot (4 PTS) (Horford 2 AST),Made Shot,Jump Shot,1,245
+21700436,334,PT09M14.00S,3,1610612763,MEM,1626150,Harrison,A. Harrison,43,66,8,Made,1,51.0,53.0,104,h,Harrison 8' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,1,246
+21700436,335,PT08M52.00S,3,1610612738,BOS,202681,Irving,K. Irving,-179,48,19,Missed,1,,,0,v,MISS Irving 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,247
+21700436,336,PT08M50.00S,3,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:2 Def:4),Rebound,Unknown,1,248
+21700436,337,PT08M45.00S,3,1610612738,BOS,202681,Irving,K. Irving,0,0,0,,0,,,0,v,Irving P.FOUL (P1.T2) (J.Goble),Foul,Personal,1,249
+21700436,339,PT08M27.00S,3,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,0,250
+21700436,340,PT08M14.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,251
+21700436,340,PT08M14.00S,3,1610612763,MEM,201936,Evans,T. Evans,0,0,0,,0,,,0,h,Evans STEAL (1 STL),,,1,252
+21700436,342,PT07M58.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,-129,142,19,Made,1,53.0,53.0,106,h,Gasol 19' Jump Shot (12 PTS) (Harrison 4 AST),Made Shot,Jump Shot,1,253
+21700436,344,PT07M39.00S,3,1610612738,BOS,203382,Baynes,A. Baynes,-7,4,1,Made,1,53.0,55.0,108,v,Baynes 1' Alley Oop Layup (8 PTS) (Irving 5 AST),Made Shot,Alley Oop Layup shot,1,254
+21700436,346,PT07M29.00S,3,1610612738,BOS,202681,Irving,K. Irving,0,0,0,,0,,,0,v,Irving P.FOUL (P2.T3) (J.Goble),Foul,Personal,1,255
+21700436,349,PT07M16.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,-87,62,11,Made,1,55.0,55.0,110,h,Gasol 11' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,256
+21700436,350,PT07M05.00S,3,1610612738,BOS,202681,Irving,K. Irving,138,220,26,Made,1,55.0,58.0,113,v,Irving 26' 3PT Jump Shot (15 PTS),Made Shot,Jump Shot,1,257
+21700436,351,PT06M51.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,51,255,26,Made,1,58.0,58.0,116,h,Gasol 26' 3PT Jump Shot (17 PTS) (Harrison 5 AST),Made Shot,Jump Shot,1,258
+21700436,353,PT06M31.00S,3,1610612763,MEM,1626150,Harrison,A. Harrison,0,0,0,,0,,,0,h,Harrison P.FOUL (P3.T1) (J.Goble),Foul,Personal,1,259
+21700436,355,PT06M31.00S,3,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,260
+21700436,356,PT06M21.00S,3,1610612738,BOS,203935,Smart,M. Smart,41,109,12,Made,1,58.0,60.0,118,v,Smart 12' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,261
+21700436,357,PT06M01.00S,3,1610612763,MEM,203210,Green,J. Green,6,6,1,Made,1,60.0,60.0,120,h,Green 1' Driving Reverse Layup (7 PTS),Made Shot,Driving Reverse Layup Shot,1,262
+21700436,358,PT05M45.00S,3,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,,,0,h,Green S.FOUL (P3.T2) (J.Goble),Foul,Shooting,1,263
+21700436,360,PT05M45.00S,3,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,60.0,62.0,122,v,Smart Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,264
+21700436,361,PT05M45.00S,3,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,60.0,61.0,121,v,Smart Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,265
+21700436,362,PT05M45.00S,3,1610612763,MEM,201936,Evans,T. Evans,0,0,0,,0,,,0,h,SUB: Chalmers FOR Evans,Substitution,,0,266
+21700436,363,PT05M45.00S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,SUB: Tatum FOR Horford,Substitution,,0,267
+21700436,366,PT05M28.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,268
+21700436,366,PT05M28.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown STEAL (1 STL),,,1,269
+21700436,369,PT05M26.00S,3,1610612763,MEM,1626150,Harrison,A. Harrison,0,0,0,,0,,,0,h,SUB: Simmons FOR Harrison,Substitution,,0,270
+21700436,371,PT05M19.00S,3,1610612738,BOS,202681,Irving,K. Irving,-12,4,1,Made,1,60.0,64.0,124,v,Irving 1' Cutting Layup Shot (17 PTS) (Smart 4 AST),Made Shot,Cutting Layup Shot,1,271
+21700436,373,PT05M00.00S,3,1610612763,MEM,201596,Chalmers,M. Chalmers,236,27,24,Missed,1,,,0,h,MISS Chalmers 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,272
+21700436,374,PT05M00.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:0 Def:4),Rebound,Unknown,1,273
+21700436,375,PT04M42.00S,3,1610612738,BOS,202681,Irving,K. Irving,49,79,9,Missed,1,,,0,v,MISS Irving 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,274
+21700436,376,PT04M36.00S,3,1610612738,BOS,203382,Baynes,A. Baynes,0,0,0,,0,,,0,v,Baynes REBOUND (Off:2 Def:2),Rebound,Unknown,1,275
+21700436,377,PT04M36.00S,3,1610612738,BOS,203382,Baynes,A. Baynes,0,-6,1,Missed,1,,,0,v,MISS Baynes 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,276
+21700436,378,PT04M35.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum REBOUND (Off:3 Def:2),Rebound,Unknown,1,277
+21700436,379,PT04M31.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,-9,11,1,Made,1,60.0,66.0,126,v,Tatum 1' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,278
+21700436,380,PT04M08.00S,3,1610612763,MEM,1628415,Brooks,D. Brooks,-5,210,21,Missed,1,,,0,h,MISS Brooks 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,279
+21700436,381,PT04M07.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,280
+21700436,382,PT04M07.00S,3,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,,,0,h,SUB: Martin FOR Green,Substitution,,0,281
+21700436,384,PT03M46.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,-6,5,1,Missed,1,,,0,v,MISS Tatum 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,282
+21700436,385,PT03M43.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:1 Def:5),Rebound,Unknown,1,283
+21700436,386,PT03M33.00S,3,1610612763,MEM,1628415,Brooks,D. Brooks,50,72,9,Missed,1,,,0,h,MISS Brooks 9' Driving Dunk,Missed Shot,Driving Dunk Shot,1,284
+21700436,387,PT03M30.00S,3,1610612738,BOS,203382,Baynes,A. Baynes,0,0,0,,0,,,0,v,Baynes REBOUND (Off:2 Def:3),Rebound,Unknown,1,285
+21700436,388,PT03M26.00S,3,1610612738,BOS,203935,Smart,M. Smart,161,197,25,Made,1,60.0,69.0,129,v,Smart 25' 3PT Jump Shot (11 PTS),Made Shot,Jump Shot,1,286
+21700436,389,PT03M19.00S,3,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,287
+21700436,390,PT03M19.00S,3,1610612763,MEM,1628424,Simmons,K. Simmons,0,0,0,,0,,,0,h,SUB: Ennis III FOR Simmons,Substitution,,0,288
+21700436,391,PT03M19.00S,3,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,SUB: Evans FOR Brooks,Substitution,,0,289
+21700436,392,PT03M19.00S,3,1610612738,BOS,202681,Irving,K. Irving,0,0,0,,0,,,0,v,SUB: Rozier FOR Irving,Substitution,,0,290
+21700436,396,PT03M09.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,-100,174,20,Made,1,62.0,69.0,131,h,Gasol 20' Jump Shot (19 PTS) (Martin 1 AST),Made Shot,Jump Shot,1,291
+21700436,398,PT02M54.00S,3,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,292
+21700436,398,PT02M54.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol STEAL (2 STL),,,1,293
+21700436,400,PT02M50.00S,3,1610612763,MEM,1626185,Martin,J. Martin,12,15,2,Missed,1,,,0,h,MISS Martin 2' Running Layup,Missed Shot,Running Layup Shot,1,294
+21700436,401,PT02M50.00S,3,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Rebound,Rebound,Unknown,0,295
+21700436,402,PT02M38.00S,3,1610612763,MEM,201596,Chalmers,M. Chalmers,0,0,0,,0,,,0,h,Chalmers Offensive Charge Foul (P1.T3) (Z.Zarba),Foul,Offensive Charge,1,296
+21700436,404,PT02M38.00S,3,1610612763,MEM,201596,Chalmers,M. Chalmers,0,0,0,,0,,,0,h,Chalmers Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,1,297
+21700436,405,PT02M18.00S,3,1610612738,BOS,1627759,Brown,J. Brown,-29,62,7,Missed,1,,,0,v,MISS Brown 7' Jump Shot,Missed Shot,Jump Shot,1,298
+21700436,405,PT02M18.00S,3,1610612763,MEM,201936,Evans,T. Evans,0,0,0,,0,,,0,h,Evans BLOCK (1 BLK),,,1,299
+21700436,407,PT02M14.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:1 Def:4),Rebound,Unknown,1,300
+21700436,408,PT02M13.00S,3,1610612738,BOS,1627759,Brown,J. Brown,-41,86,10,Missed,1,,,0,v,MISS Brown 10' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,301
+21700436,409,PT02M13.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:1 Def:6),Rebound,Unknown,1,302
+21700436,410,PT01M53.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,-118,229,26,Made,1,65.0,69.0,134,h,Gasol 26' 3PT Jump Shot (22 PTS) (Chalmers 2 AST),Made Shot,Jump Shot,1,303
+21700436,412,PT01M40.00S,3,1610612738,BOS,203382,Baynes,A. Baynes,0,0,0,,0,,,0,v,Baynes OFF.Foul (P2) (Z.Zarba),Foul,Offensive,1,304
+21700436,414,PT01M40.00S,3,1610612738,BOS,203382,Baynes,A. Baynes,0,0,0,,0,,,0,v,Baynes Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,1,305
+21700436,415,PT01M40.00S,3,1610612738,BOS,203382,Baynes,A. Baynes,0,0,0,,0,,,0,v,SUB: Horford FOR Baynes,Substitution,,0,306
+21700436,417,PT01M31.00S,3,1610612763,MEM,201936,Evans,T. Evans,-109,222,25,Missed,1,,,0,h,MISS Evans 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,307
+21700436,418,PT01M26.00S,3,1610612738,BOS,1626179,Rozier,T. Rozier,0,0,0,,0,,,0,v,Rozier REBOUND (Off:0 Def:3),Rebound,Unknown,1,308
+21700436,419,PT01M26.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,SUB: Theis FOR Brown,Substitution,,0,309
+21700436,421,PT01M23.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Jump Ball Gasol vs. Rozier: Tip to Evans,Jump Ball,,1,310
+21700436,424,PT01M23.00S,3,1610612738,BOS,1626179,Rozier,T. Rozier,0,0,0,,0,,,0,v,Rozier Lost Ball Turnover (P1.T10),Turnover,Lost Ball,1,311
+21700436,424,PT01M23.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol STEAL (3 STL),,,1,312
+21700436,426,PT01M18.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,-125,222,25,Made,1,68.0,69.0,137,h,Gasol 25' 3PT Jump Shot (25 PTS) (Evans 3 AST),Made Shot,Jump Shot,1,313
+21700436,428,PT01M03.00S,3,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Offensive Charge Foul (P3.T4) (Z.Zarba),Foul,Offensive Charge,1,314
+21700436,430,PT01M03.00S,3,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Offensive Foul Turnover (P3.T11),Turnover,Offensive Foul Turnover,1,315
+21700436,431,PT00M48.90S,3,1610612763,MEM,201188,Gasol,M. Gasol,-44,58,7,Missed,1,,,0,h,MISS Gasol 7' Jump Shot,Missed Shot,Jump Shot,1,316
+21700436,432,PT00M48.90S,3,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:3 Def:2),Rebound,Unknown,1,317
+21700436,433,PT00M48.90S,3,1610612763,MEM,1626185,Martin,J. Martin,0,-6,1,Made,1,70.0,69.0,139,h,Martin 1' Tip Dunk Shot (8 PTS),Made Shot,Tip Dunk Shot,1,318
+21700436,434,PT00M27.90S,3,1610612738,BOS,201143,Horford,A. Horford,-100,22,10,Made,1,70.0,71.0,141,v,Horford 10' Turnaround Fadeaway (9 PTS),Made Shot,Turnaround Fadeaway shot,1,319
+21700436,435,PT00M08.80S,3,1610612763,MEM,201188,Gasol,M. Gasol,-111,243,27,Made,1,73.0,71.0,144,h,Gasol 27' 3PT Jump Shot (28 PTS) (Evans 4 AST),Made Shot,Jump Shot,1,320
+21700436,437,PT00M01.90S,3,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Out of Bounds Lost Ball Turnover (P4.T12),Turnover,Out of Bounds Lost Ball Turnover,1,321
+21700436,438,PT00M01.10S,3,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart P.FOUL (P4.PN) (J.Goble),Foul,Personal,1,322
+21700436,440,PT00M00.00S,3,1610612763,MEM,201596,Chalmers,M. Chalmers,-168,484,51,Missed,1,,,0,h,MISS Chalmers 51' 3PT Jump Shot,Missed Shot,Jump Shot,1,323
+21700436,441,PT00M00.00S,3,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Rebound,Rebound,Unknown,0,324
+21700436,442,PT00M00.00S,3,0,,0,,,0,0,0,,0,73.0,71.0,144,,End of 3rd Period (10:44 PM EST),period,end,1,325
+21700436,447,PT12M00.00S,4,0,,0,,,0,0,0,,0,73.0,71.0,144,,Start of 4th Period (10:45 PM EST),period,start,0,326
+21700436,448,PT11M52.00S,4,1610612763,MEM,203516,Ennis,J. Ennis III,0,0,0,,0,,,0,h,Ennis III P.FOUL (P1.T1) (Z.Zarba),Foul,Personal,1,327
+21700436,450,PT11M42.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,6,2,1,Missed,1,,,0,v,MISS Tatum 1' Driving Layup,Missed Shot,Driving Layup Shot,1,328
+21700436,451,PT11M38.00S,4,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford REBOUND (Off:1 Def:4),Rebound,Unknown,1,329
+21700436,452,PT11M38.00S,4,1610612738,BOS,201143,Horford,A. Horford,0,-6,1,Missed,1,,,0,v,MISS Horford 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,330
+21700436,453,PT11M38.00S,4,1610612738,BOS,1628464,Theis,D. Theis,0,0,0,,0,,,0,v,Theis REBOUND (Off:1 Def:1),Rebound,Unknown,1,331
+21700436,454,PT11M20.00S,4,1610612738,BOS,201143,Horford,A. Horford,-36,27,5,Made,1,73.0,73.0,146,v,Horford 5' Turnaround Hook Shot (11 PTS),Made Shot,Turnaround Hook Shot,1,332
+21700436,455,PT11M20.00S,4,1610612763,MEM,1627738,Davis,D. Davis,0,0,0,,0,,,0,h,Davis S.FOUL (P1.T2) (M.Boland),Foul,Shooting,1,333
+21700436,457,PT11M20.00S,4,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,MISS Horford Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,334
+21700436,458,PT11M18.00S,4,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:3 Def:3),Rebound,Unknown,1,335
+21700436,459,PT11M08.00S,4,1610612763,MEM,1627738,Davis,D. Davis,0,0,0,,0,,,0,h,Davis OFF.Foul (P2) (J.Goble),Foul,Offensive,1,336
+21700436,461,PT11M08.00S,4,1610612763,MEM,1627738,Davis,D. Davis,0,0,0,,0,,,0,h,Davis Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,1,337
+21700436,462,PT10M55.00S,4,1610612738,BOS,201143,Horford,A. Horford,-24,68,7,Made,1,73.0,75.0,148,v,Horford 7' Turnaround Hook Shot (13 PTS) (Larkin 1 AST),Made Shot,Turnaround Hook Shot,1,338
+21700436,464,PT10M44.00S,4,1610612763,MEM,201596,Chalmers,M. Chalmers,0,0,0,,0,,,0,h,Chalmers Offensive Charge Foul (P2.T3) (Z.Zarba),Foul,Offensive Charge,1,339
+21700436,466,PT10M44.00S,4,1610612763,MEM,201596,Chalmers,M. Chalmers,0,0,0,,0,,,0,h,Chalmers Offensive Foul Turnover (P2.T12),Turnover,Offensive Foul Turnover,1,340
+21700436,467,PT10M35.00S,4,1610612738,BOS,203499,Larkin,S. Larkin,0,0,0,,0,,,0,v,Larkin Out of Bounds - Bad Pass Turnover Turnover (P1.T13),Turnover,Out of Bounds - Bad Pass Turnover,1,341
+21700436,468,PT10M19.00S,4,1610612763,MEM,201936,Evans,T. Evans,6,9,1,Missed,1,,,0,h,MISS Evans 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,342
+21700436,469,PT10M17.00S,4,1610612738,BOS,203499,Larkin,S. Larkin,0,0,0,,0,,,0,v,Larkin REBOUND (Off:0 Def:2),Rebound,Unknown,1,343
+21700436,470,PT10M12.00S,4,1610612738,BOS,1626179,Rozier,T. Rozier,-107,243,27,Made,1,73.0,78.0,151,v,Rozier 27' 3PT Jump Shot (6 PTS) (Horford 3 AST),Made Shot,Jump Shot,1,344
+21700436,472,PT09M49.00S,4,1610612763,MEM,201596,Chalmers,M. Chalmers,-147,209,26,Missed,1,,,0,h,MISS Chalmers 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,345
+21700436,473,PT09M46.00S,4,1610612738,BOS,1628464,Theis,D. Theis,0,0,0,,0,,,0,v,Theis REBOUND (Off:1 Def:2),Rebound,Unknown,1,346
+21700436,474,PT09M35.00S,4,1610612738,BOS,1626179,Rozier,T. Rozier,-18,5,2,Made,1,73.0,80.0,153,v,Rozier 2' Cutting Layup Shot (8 PTS) (Horford 4 AST),Made Shot,Cutting Layup Shot,1,347
+21700436,476,PT09M20.00S,4,1610612763,MEM,1627738,Davis,D. Davis,0,0,0,,0,,,0,h,Davis Lost Ball Turnover (P2.T13),Turnover,Lost Ball,1,348
+21700436,476,PT09M20.00S,4,1610612738,BOS,1626179,Rozier,T. Rozier,0,0,0,,0,,,0,v,Rozier STEAL (1 STL),,,1,349
+21700436,478,PT09M16.00S,4,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford Lost Ball Turnover (P2.T14),Turnover,Lost Ball,1,350
+21700436,478,PT09M16.00S,4,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,,,0,h,Martin STEAL (2 STL),,,1,351
+21700436,480,PT09M11.00S,4,1610612763,MEM,201596,Chalmers,M. Chalmers,0,0,0,,0,,,0,h,Chalmers Lost Ball Turnover (P3.T14),Turnover,Lost Ball,1,352
+21700436,480,PT09M11.00S,4,1610612738,BOS,1626179,Rozier,T. Rozier,0,0,0,,0,,,0,v,Rozier STEAL (2 STL),,,1,353
+21700436,482,PT09M09.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,-11,1,1,Made,1,73.0,82.0,155,v,Tatum 1' Dunk (14 PTS) (Rozier 1 AST),Made Shot,Dunk Shot,1,354
+21700436,484,PT08M59.00S,4,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,355
+21700436,485,PT08M59.00S,4,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,,,0,h,SUB: Green FOR Martin,Substitution,,0,356
+21700436,486,PT08M59.00S,4,1610612763,MEM,201596,Chalmers,M. Chalmers,0,0,0,,0,,,0,h,SUB: Harrison FOR Chalmers,Substitution,,0,357
+21700436,487,PT08M59.00S,4,1610612763,MEM,1627738,Davis,D. Davis,0,0,0,,0,,,0,h,SUB: Gasol FOR Davis,Substitution,,0,358
+21700436,491,PT08M39.00S,4,1610612763,MEM,1626150,Harrison,A. Harrison,234,108,26,Missed,1,,,0,h,MISS Harrison 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,359
+21700436,492,PT08M35.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum REBOUND (Off:3 Def:3),Rebound,Unknown,1,360
+21700436,493,PT08M21.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,-92,193,21,Made,1,73.0,84.0,157,v,Tatum 21' Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,1,361
+21700436,494,PT08M03.00S,4,1610612763,MEM,1626150,Harrison,A. Harrison,98,246,26,Missed,1,,,0,h,MISS Harrison 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,362
+21700436,495,PT08M02.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,363
+21700436,496,PT08M02.00S,4,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,,,0,h,Green L.B.FOUL (P4.T4) (J.Goble),Foul,Loose Ball,1,364
+21700436,498,PT08M02.00S,4,1610612763,MEM,203516,Ennis,J. Ennis III,0,0,0,,0,,,0,h,SUB: Chalmers FOR Ennis III,Substitution,,0,365
+21700436,499,PT08M02.00S,4,1610612763,MEM,1626150,Harrison,A. Harrison,0,0,0,,0,,,0,h,SUB: Brooks FOR Harrison,Substitution,,0,366
+21700436,502,PT07M49.00S,4,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford Out of Bounds Lost Ball Turnover (P3.T15),Turnover,Out of Bounds Lost Ball Turnover,1,367
+21700436,503,PT07M27.00S,4,1610612763,MEM,201596,Chalmers,M. Chalmers,157,198,25,Missed,1,,,0,h,MISS Chalmers 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,368
+21700436,503,PT07M27.00S,4,1610612738,BOS,1628464,Theis,D. Theis,0,0,0,,0,,,0,v,Theis BLOCK (2 BLK),,,1,369
+21700436,505,PT07M23.00S,4,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:3 Def:4),Rebound,Unknown,1,370
+21700436,506,PT07M22.00S,4,1610612763,MEM,203210,Green,J. Green,77,75,11,Missed,1,,,0,h,MISS Green 11' Jump Shot,Missed Shot,Jump Shot,1,371
+21700436,507,PT07M19.00S,4,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford REBOUND (Off:1 Def:5),Rebound,Unknown,1,372
+21700436,508,PT07M12.00S,4,1610612738,BOS,1628464,Theis,D. Theis,-232,12,0,Made,1,73.0,87.0,160,v,Theis 3PT Jump Shot (5 PTS) (Horford 5 AST),Made Shot,Jump Shot,1,373
+21700436,510,PT06M48.00S,4,1610612763,MEM,201188,Gasol,M. Gasol,-51,218,22,Missed,1,,,0,h,MISS Gasol 22' Jump Shot,Missed Shot,Jump Shot,1,374
+21700436,511,PT06M46.00S,4,1610612738,BOS,1626179,Rozier,T. Rozier,0,0,0,,0,,,0,v,Rozier REBOUND (Off:0 Def:4),Rebound,Unknown,1,375
+21700436,512,PT06M33.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,-3,5,1,Missed,1,,,0,v,MISS Tatum 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,376
+21700436,513,PT06M30.00S,4,1610612763,MEM,201596,Chalmers,M. Chalmers,0,0,0,,0,,,0,h,Chalmers REBOUND (Off:0 Def:1),Rebound,Unknown,1,377
+21700436,514,PT06M26.00S,4,1610612763,MEM,1628415,Brooks,D. Brooks,-134,218,26,Made,1,76.0,87.0,163,h,Brooks 26' 3PT Running Jump Shot (9 PTS) (Chalmers 3 AST),Made Shot,Running Jump Shot,1,378
+21700436,516,PT06M25.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,379
+21700436,517,PT06M25.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,SUB: Brown FOR Tatum,Substitution,,0,380
+21700436,518,PT06M25.00S,4,1610612738,BOS,203499,Larkin,S. Larkin,0,0,0,,0,,,0,v,SUB: Irving FOR Larkin,Substitution,,0,381
+21700436,519,PT06M25.00S,4,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,SUB: Baynes FOR Horford,Substitution,,0,382
+21700436,523,PT06M01.00S,4,1610612738,BOS,1626179,Rozier,T. Rozier,101,64,12,Made,1,76.0,89.0,165,v,Rozier 12' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,383
+21700436,524,PT05M40.00S,4,1610612763,MEM,201936,Evans,T. Evans,0,5,1,Made,1,78.0,89.0,167,h,Evans 1' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,1,384
+21700436,525,PT05M25.00S,4,1610612738,BOS,1628464,Theis,D. Theis,24,159,16,Missed,1,,,0,v,MISS Theis 16' Jump Shot,Missed Shot,Jump Shot,1,385
+21700436,526,PT05M22.00S,4,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:3 Def:5),Rebound,Unknown,1,386
+21700436,527,PT05M17.00S,4,1610612763,MEM,201936,Evans,T. Evans,0,4,0,Made,1,80.0,89.0,169,h,Evans Driving Layup (22 PTS),Made Shot,Driving Layup Shot,1,387
+21700436,528,PT05M17.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown S.FOUL (P3.T1) (M.Boland),Foul,Shooting,1,388
+21700436,530,PT05M17.00S,4,1610612738,BOS,1626179,Rozier,T. Rozier,0,0,0,,0,,,0,v,SUB: Smart FOR Rozier,Substitution,,0,389
+21700436,531,PT05M17.00S,4,1610612738,BOS,1628464,Theis,D. Theis,0,0,0,,0,,,0,v,SUB: Tatum FOR Theis,Substitution,,0,390
+21700436,534,PT05M17.00S,4,1610612763,MEM,201936,Evans,T. Evans,0,0,0,,0,81.0,89.0,170,h,Evans Free Throw 1 of 1 (23 PTS),Free Throw,Free Throw 1 of 1,0,391
+21700436,535,PT05M02.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,5,23,2,Missed,1,,,0,v,MISS Tatum 2' Driving Layup,Missed Shot,Driving Layup Shot,1,392
+21700436,536,PT05M00.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum REBOUND (Off:4 Def:3),Rebound,Unknown,1,393
+21700436,537,PT04M59.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,-5,18,2,Missed,1,,,0,v,MISS Tatum 2' Layup,Missed Shot,Layup Shot,1,394
+21700436,538,PT04M59.00S,4,1610612738,BOS,203382,Baynes,A. Baynes,0,0,0,,0,,,0,v,Baynes REBOUND (Off:3 Def:3),Rebound,Unknown,1,395
+21700436,539,PT04M53.00S,4,1610612738,BOS,203382,Baynes,A. Baynes,0,-6,1,Made,1,81.0,91.0,172,v,Baynes 1' Tip Layup Shot (10 PTS),Made Shot,Tip Layup Shot,1,396
+21700436,540,PT04M35.00S,4,1610612763,MEM,1628415,Brooks,D. Brooks,-133,224,26,Made,1,84.0,91.0,175,h,Brooks 26' 3PT Jump Shot (12 PTS) (Evans 5 AST),Made Shot,Jump Shot,1,397
+21700436,542,PT04M20.00S,4,1610612738,BOS,203382,Baynes,A. Baynes,-3,4,1,Made,1,84.0,93.0,177,v,Baynes 1' Alley Oop Layup (12 PTS) (Smart 5 AST),Made Shot,Alley Oop Layup shot,1,398
+21700436,544,PT04M20.00S,4,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol S.FOUL (P1.PN) (J.Goble),Foul,Shooting,1,399
+21700436,546,PT04M20.00S,4,1610612738,BOS,203382,Baynes,A. Baynes,0,0,0,,0,84.0,94.0,178,v,Baynes Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,400
+21700436,547,PT03M55.00S,4,1610612763,MEM,1628415,Brooks,D. Brooks,0,52,5,Made,1,86.0,94.0,180,h,Brooks 5' Driving Hook Shot (14 PTS),Made Shot,Driving Hook Shot,1,401
+21700436,548,PT03M40.00S,4,1610612738,BOS,202681,Irving,K. Irving,37,257,26,Made,1,86.0,97.0,183,v,Irving 26' 3PT Jump Shot (20 PTS),Made Shot,Jump Shot,1,402
+21700436,549,PT03M24.00S,4,1610612738,BOS,203382,Baynes,A. Baynes,0,0,0,,0,,,0,v,Baynes S.FOUL (P3.T2) (Z.Zarba),Foul,Shooting,1,403
+21700436,551,PT03M24.00S,4,1610612763,MEM,201936,Evans,T. Evans,0,0,0,,0,87.0,97.0,184,h,Evans Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,0,404
+21700436,552,PT03M24.00S,4,1610612763,MEM,201936,Evans,T. Evans,0,0,0,,0,88.0,97.0,185,h,Evans Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,0,405
+21700436,553,PT03M10.00S,4,1610612738,BOS,1627759,Brown,J. Brown,-90,254,27,Missed,1,,,0,v,MISS Brown 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,406
+21700436,554,PT03M06.00S,4,1610612763,MEM,201596,Chalmers,M. Chalmers,0,0,0,,0,,,0,h,Chalmers REBOUND (Off:0 Def:2),Rebound,Unknown,1,407
+21700436,556,PT02M58.00S,4,1610612738,BOS,203382,Baynes,A. Baynes,0,0,0,,0,,,0,v,SUB: Horford FOR Baynes,Substitution,,0,408
+21700436,558,PT02M53.00S,4,1610612763,MEM,201936,Evans,T. Evans,-152,208,26,Missed,1,,,0,h,MISS Evans 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,409
+21700436,559,PT02M51.00S,4,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:1 Def:1),Rebound,Unknown,1,410
+21700436,560,PT02M46.00S,4,1610612738,BOS,202681,Irving,K. Irving,105,37,11,Missed,1,,,0,v,MISS Irving 11' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,411
+21700436,561,PT02M41.00S,4,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:1 Def:7),Rebound,Unknown,1,412
+21700436,562,PT02M26.00S,4,1610612763,MEM,203210,Green,J. Green,231,-12,0,Missed,1,,,0,h,MISS Green 3PT Jump Shot,Missed Shot,Jump Shot,1,413
+21700436,563,PT02M23.00S,4,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:2 Def:7),Rebound,Unknown,1,414
+21700436,564,PT02M19.00S,4,1610612763,MEM,201596,Chalmers,M. Chalmers,232,-2,0,Made,1,91.0,97.0,188,h,Chalmers 3PT Jump Shot (3 PTS) (Gasol 2 AST),Made Shot,Jump Shot,1,415
+21700436,566,PT01M55.00S,4,1610612738,BOS,201143,Horford,A. Horford,-72,251,26,Missed,1,,,0,v,MISS Horford 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,416
+21700436,567,PT01M52.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:2 Def:4),Rebound,Unknown,1,417
+21700436,568,PT01M51.00S,4,1610612738,BOS,202681,Irving,K. Irving,231,-10,0,Missed,1,,,0,v,MISS Irving 3PT Jump Shot,Missed Shot,Jump Shot,1,418
+21700436,569,PT01M47.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum REBOUND (Off:5 Def:3),Rebound,Unknown,1,419
+21700436,570,PT01M30.00S,4,1610612738,BOS,201143,Horford,A. Horford,2,116,12,Made,1,91.0,99.0,190,v,Horford 12' Driving Floating Jump Shot (15 PTS) (Irving 6 AST),Made Shot,Driving Floating Jump Shot,1,420
+21700436,571,PT01M22.00S,4,1610612763,MEM,201596,Chalmers,M. Chalmers,74,262,27,Missed,1,,,0,h,MISS Chalmers 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,421
+21700436,573,PT01M18.00S,4,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford REBOUND (Off:1 Def:6),Rebound,Unknown,1,422
+21700436,574,PT01M15.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,-3,-1,0,Made,1,91.0,101.0,192,v,Tatum Driving Layup (18 PTS) (Horford 6 AST),Made Shot,Driving Layup Shot,1,423
+21700436,576,PT01M15.00S,4,1610612763,MEM,201596,Chalmers,M. Chalmers,0,0,0,,0,,,0,h,Chalmers S.FOUL (P3.PN) (J.Goble),Foul,Shooting,1,424
+21700436,578,PT01M15.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,91.0,102.0,193,v,Tatum Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,1,425
+21700436,579,PT01M15.00S,4,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,426
+21700436,580,PT01M09.00S,4,1610612738,BOS,202681,Irving,K. Irving,0,0,0,,0,,,0,v,Irving P.FOUL (P3.T3) (M.Boland),Foul,Personal,1,427
+21700436,582,PT01M04.00S,4,1610612763,MEM,201188,Gasol,M. Gasol,-47,113,12,Missed,1,,,0,h,MISS Gasol 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,428
+21700436,583,PT01M00.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum REBOUND (Off:5 Def:4),Rebound,Unknown,1,429
+21700436,584,PT00M41.10S,4,1610612738,BOS,1627759,Brown,J. Brown,-229,-6,0,Missed,1,,,0,v,MISS Brown 3PT Jump Shot,Missed Shot,Jump Shot,1,430
+21700436,585,PT00M38.30S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,v,Tatum REBOUND (Off:6 Def:4),Rebound,Unknown,1,431
+21700436,586,PT00M34.50S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,Brown Lost Ball Turnover (P3.T16),Turnover,Lost Ball,1,432
+21700436,586,PT00M34.50S,4,1610612763,MEM,201596,Chalmers,M. Chalmers,0,0,0,,0,,,0,h,Chalmers STEAL (1 STL),,,1,433
+21700436,588,PT00M30.10S,4,1610612763,MEM,201596,Chalmers,M. Chalmers,7,121,12,Missed,1,,,0,h,MISS Chalmers 12' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,434
+21700436,589,PT00M28.40S,4,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:3 Def:7),Rebound,Unknown,1,435
+21700436,590,PT00M28.40S,4,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart S.FOUL (P5.PN) (Z.Zarba),Foul,Shooting,1,436
+21700436,592,PT00M28.40S,4,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,92.0,102.0,194,h,Gasol Free Throw 1 of 2 (29 PTS),Free Throw,Free Throw 1 of 2,1,437
+21700436,593,PT00M28.40S,4,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,,,0,h,SUB: Hunter FOR Green,Substitution,,0,438
+21700436,594,PT00M28.40S,4,1610612763,MEM,201596,Chalmers,M. Chalmers,0,0,0,,0,,,0,h,SUB: Simmons FOR Chalmers,Substitution,,0,439
+21700436,595,PT00M28.40S,4,1610612763,MEM,201936,Evans,T. Evans,0,0,0,,0,,,0,h,SUB: Davis FOR Evans,Substitution,,0,440
+21700436,596,PT00M28.40S,4,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,,,0,h,SUB: Martin FOR Brooks,Substitution,,0,441
+21700436,597,PT00M28.40S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,v,SUB: Rozier FOR Brown,Substitution,,0,442
+21700436,598,PT00M28.40S,4,1610612738,BOS,202681,Irving,K. Irving,0,0,0,,0,,,0,v,SUB: Yabusele FOR Irving,Substitution,,0,443
+21700436,599,PT00M28.40S,4,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,v,SUB: Nader FOR Horford,Substitution,,0,444
+21700436,607,PT00M28.40S,4,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,93.0,102.0,195,h,Gasol Free Throw 2 of 2 (30 PTS),Free Throw,Free Throw 2 of 2,1,445
+21700436,608,PT00M04.40S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Turnover: Shot Clock (T#17),Turnover,Shot Clock Turnover,0,446
+21700436,609,PT00M00.00S,4,0,,0,,,0,0,0,,0,93.0,102.0,195,,End of 4th Period (11:12 PM EST),period,end,1,447

@@ -1,0 +1,514 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+21300058,1,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (10:12 PM EST),period,start,0,1
+21300058,2,PT12M00.00S,1,1610612757,POR,201577,Lopez,R. Lopez,0,0,0,,0,0.0,0.0,0,h,Jump Ball Lopez vs. Howard: Tip to Lin,Jump Ball,,0,2
+21300058,3,PT11M35.00S,1,1610612745,HOU,201600,Asik,O. Asik,88,9,9,Missed,1,0.0,0.0,0,v,MISS Asik 9' Hook Shot,Missed Shot,Hook Shot,0,3
+21300058,4,PT11M35.00S,1,1610612757,POR,201577,Lopez,R. Lopez,0,0,0,,0,0.0,0.0,0,h,Lopez REBOUND (Off:0 Def:1),Rebound,Unknown,0,4
+21300058,5,PT11M20.00S,1,1610612757,POR,202083,Matthews,W. Matthews,-187,168,25,Made,1,3.0,0.0,3,h,Matthews 25' 3PT Jump Shot (3 PTS) (Lopez 1 AST),Made Shot,Jump Shot,0,5
+21300058,6,PT11M04.00S,1,1610612745,HOU,202391,Lin,J. Lin,0,22,2,Made,1,3.0,2.0,5,v,Lin 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,6
+21300058,7,PT10M49.00S,1,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0.0,0.0,0,v,Rockets T.Foul (Def. 3 Sec Howard ),Foul,Defense 3 Second,0,7
+21300058,8,PT10M49.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,4.0,2.0,6,h,Lillard Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,8
+21300058,10,PT10M39.00S,1,1610612757,POR,200746,Aldridge,L. Aldridge,-23,135,14,Made,1,6.0,2.0,8,h,Aldridge 14' Jump Shot (2 PTS) (Batum 1 AST),Made Shot,Jump Shot,0,9
+21300058,11,PT10M20.00S,1,1610612745,HOU,201935,Harden,J. Harden,-32,192,19,Made,1,6.0,4.0,10,v,Harden 19' Pullup Bank Shot (2 PTS),Made Shot,Pullup Bank shot,0,10
+21300058,12,PT10M10.00S,1,1610612757,POR,201587,Batum,N. Batum,0,0,0,,0,0.0,0.0,0,h,Batum OFF.Foul (P1),Foul,Offensive,0,11
+21300058,13,PT10M10.00S,1,1610612757,POR,201587,Batum,N. Batum,0,0,0,,0,0.0,0.0,0,h,Batum Foul Turnover (P1.T1),Turnover,Foul,0,12
+21300058,14,PT10M01.00S,1,1610612745,HOU,202718,Parsons,C. Parsons,-35,6,4,Missed,1,0.0,0.0,0,v,MISS Parsons 4' Driving Jump Shot,Missed Shot,Driving Jump shot,0,13
+21300058,14,PT10M01.00S,1,1610612757,POR,201577,Lopez,R. Lopez,0,0,0,,0,0.0,0.0,0,h,Lopez BLOCK (1 BLK),,,0,14
+21300058,15,PT10M00.00S,1,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Unknown,0,15
+21300058,16,PT09M53.00S,1,1610612745,HOU,2730,Howard,D. Howard,42,15,4,Made,1,6.0,6.0,12,v,Howard 4' Driving Hook Shot (2 PTS),Made Shot,Driving Hook Shot,0,16
+21300058,17,PT09M36.00S,1,1610612757,POR,200746,Aldridge,L. Aldridge,-141,52,15,Missed,1,0.0,0.0,0,h,MISS Aldridge 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,0,17
+21300058,19,PT09M34.00S,1,1610612757,POR,201587,Batum,N. Batum,0,0,0,,0,0.0,0.0,0,h,Batum REBOUND (Off:1 Def:0),Rebound,Unknown,0,18
+21300058,18,PT09M34.00S,1,1610612757,POR,201587,Batum,N. Batum,-11,4,1,Missed,1,0.0,0.0,0,h,MISS Batum 1' Tip Shot,Missed Shot,Tip Shot,0,19
+21300058,21,PT09M32.00S,1,1610612757,POR,201577,Lopez,R. Lopez,0,0,0,,0,0.0,0.0,0,h,Lopez REBOUND (Off:1 Def:1),Rebound,Unknown,0,20
+21300058,20,PT09M32.00S,1,1610612757,POR,201577,Lopez,R. Lopez,-7,3,1,Missed,1,0.0,0.0,0,h,MISS Lopez 1' Tip Shot,Missed Shot,Tip Shot,0,21
+21300058,22,PT09M31.00S,1,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0.0,0.0,0,v,Howard REBOUND (Off:0 Def:1),Rebound,Unknown,0,22
+21300058,23,PT09M23.00S,1,1610612745,HOU,202718,Parsons,C. Parsons,-187,157,24,Missed,1,0.0,0.0,0,v,MISS Parsons 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,23
+21300058,24,PT09M22.00S,1,1610612757,POR,200746,Aldridge,L. Aldridge,0,0,0,,0,0.0,0.0,0,h,Aldridge REBOUND (Off:0 Def:1),Rebound,Unknown,0,24
+21300058,25,PT09M12.00S,1,1610612757,POR,203081,Lillard,D. Lillard,174,173,25,Made,1,9.0,6.0,15,h,Lillard 25' 3PT Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,0,25
+21300058,26,PT08M58.00S,1,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0.0,0.0,0,v,Howard Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,26
+21300058,26,PT08M58.00S,1,1610612757,POR,201587,Batum,N. Batum,0,0,0,,0,0.0,0.0,0,h,Batum STEAL (1 STL),,,0,27
+21300058,27,PT08M40.00S,1,1610612757,POR,200746,Aldridge,L. Aldridge,-177,55,19,Missed,1,0.0,0.0,0,h,MISS Aldridge 19' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,28
+21300058,28,PT08M39.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,v,Harden REBOUND (Off:0 Def:1),Rebound,Unknown,0,29
+21300058,29,PT08M24.00S,1,1610612745,HOU,201600,Asik,O. Asik,0,-2,0,Made,1,9.0,8.0,17,v,Asik  Dunk (2 PTS) (Lin 1 AST),Made Shot,Dunk Shot,0,30
+21300058,30,PT08M06.00S,1,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,v,Parsons Personal Block Foul (P1.T1),Foul,Personal Block,0,31
+21300058,31,PT07M59.00S,1,1610612757,POR,203081,Lillard,D. Lillard,37,244,25,Made,1,12.0,8.0,20,h,Lillard 25' 3PT Jump Shot (7 PTS) (Batum 2 AST),Made Shot,Jump Shot,0,32
+21300058,32,PT07M48.00S,1,1610612745,HOU,2730,Howard,D. Howard,-10,-2,1,Missed,1,0.0,0.0,0,v,MISS Howard 1' Layup,Missed Shot,Layup Shot,0,33
+21300058,32,PT07M48.00S,1,1610612757,POR,201577,Lopez,R. Lopez,0,0,0,,0,0.0,0.0,0,h,Lopez BLOCK (2 BLK),,,0,34
+21300058,33,PT07M47.00S,1,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,h,TRAIL BLAZERS Rebound,Rebound,Unknown,0,35
+21300058,34,PT07M35.00S,1,1610612757,POR,202083,Matthews,W. Matthews,1,3,0,Made,1,14.0,8.0,22,h,Matthews  Reverse Dunk (5 PTS),Made Shot,Reverse Dunk Shot,0,36
+21300058,35,PT07M33.00S,1,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,37
+21300058,37,PT07M21.00S,1,1610612745,HOU,201935,Harden,J. Harden,-27,192,19,Made,1,14.0,10.0,24,v,Harden 19' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,0,38
+21300058,38,PT07M00.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0.0,0.0,0,h,Lillard Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,39
+21300058,38,PT07M00.00S,1,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,v,Lin STEAL (1 STL),,,0,40
+21300058,39,PT06M54.00S,1,1610612745,HOU,201935,Harden,J. Harden,190,159,25,Missed,1,0.0,0.0,0,v,MISS Harden 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,41
+21300058,40,PT06M52.00S,1,1610612757,POR,201577,Lopez,R. Lopez,0,0,0,,0,0.0,0.0,0,h,Lopez REBOUND (Off:1 Def:2),Rebound,Unknown,0,42
+21300058,41,PT06M47.00S,1,1610612757,POR,202083,Matthews,W. Matthews,-226,77,24,Missed,1,0.0,0.0,0,h,MISS Matthews 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,43
+21300058,42,PT06M46.00S,1,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,Asik REBOUND (Off:0 Def:1),Rebound,Unknown,0,44
+21300058,43,PT06M38.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,v,Harden Traveling Turnover (P1.T2),Turnover,Traveling,0,45
+21300058,44,PT06M22.00S,1,1610612757,POR,200746,Aldridge,L. Aldridge,0,0,0,,0,0.0,0.0,0,h,Aldridge Traveling Turnover (P1.T3),Turnover,Traveling,0,46
+21300058,45,PT06M14.00S,1,1610612757,POR,202083,Matthews,W. Matthews,0,0,0,,0,0.0,0.0,0,h,Matthews P.FOUL (P1.T1),Foul,Personal,0,47
+21300058,46,PT06M08.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,v,Harden Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,48
+21300058,46,PT06M08.00S,1,1610612757,POR,201587,Batum,N. Batum,0,0,0,,0,0.0,0.0,0,h,Batum STEAL (2 STL),,,0,49
+21300058,47,PT06M07.00S,1,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,v,Parsons C.P.FOUL (P2.T2),Foul,Clear Path,0,50
+21300058,48,PT06M07.00S,1,0,,47,Tisdale,W. Tisdale,0,0,0,,0,0.0,0.0,0,,Support Ruling,Instant Replay,Support Ruling,0,51
+21300058,49,PT06M07.00S,1,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,v,SUB: Garcia FOR Parsons,Substitution,,0,52
+21300058,50,PT06M07.00S,1,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,v,SUB: Beverley FOR Lin,Substitution,,0,53
+21300058,51,PT06M07.00S,1,1610612757,POR,201587,Batum,N. Batum,0,0,0,,0,15.0,10.0,25,h,Batum Free Throw Clear Path 1 of 2 (1 PTS),Free Throw,Free Throw Clear Path 1 of 2,0,54
+21300058,53,PT06M07.00S,1,1610612757,POR,201587,Batum,N. Batum,0,0,0,,0,16.0,10.0,26,h,Batum Free Throw Clear Path 2 of 2 (2 PTS),Free Throw,Free Throw Clear Path 2 of 2,0,55
+21300058,55,PT05M50.00S,1,1610612757,POR,203081,Lillard,D. Lillard,-81,181,20,Missed,1,0.0,0.0,0,h,MISS Lillard 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,56
+21300058,56,PT05M50.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,v,Harden REBOUND (Off:0 Def:2),Rebound,Unknown,0,57
+21300058,57,PT05M34.00S,1,1610612745,HOU,201935,Harden,J. Harden,-10,17,2,Missed,1,0.0,0.0,0,v,MISS Harden 2' Driving Layup,Missed Shot,Driving Layup Shot,0,58
+21300058,57,PT05M34.00S,1,1610612757,POR,201577,Lopez,R. Lopez,0,0,0,,0,0.0,0.0,0,h,Lopez BLOCK (3 BLK),,,0,59
+21300058,58,PT05M32.00S,1,1610612757,POR,202083,Matthews,W. Matthews,0,0,0,,0,0.0,0.0,0,h,Matthews REBOUND (Off:0 Def:1),Rebound,Unknown,0,60
+21300058,59,PT05M25.00S,1,1610612757,POR,201587,Batum,N. Batum,-92,225,24,Made,1,19.0,10.0,29,h,Batum 24' 3PT Jump Shot (5 PTS) (Lillard 1 AST),Made Shot,Jump Shot,0,61
+21300058,60,PT05M12.00S,1,1610612745,HOU,101128,Garcia,F. Garcia,130,222,26,Made,1,19.0,13.0,32,v,Garcia 26' 3PT Jump Shot (3 PTS) (Howard 1 AST),Made Shot,Jump Shot,0,62
+21300058,61,PT04M57.00S,1,1610612757,POR,202083,Matthews,W. Matthews,-18,254,25,Missed,1,0.0,0.0,0,h,MISS Matthews 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,63
+21300058,62,PT04M55.00S,1,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0.0,0.0,0,v,Howard REBOUND (Off:0 Def:2),Rebound,Unknown,0,64
+21300058,63,PT04M50.00S,1,1610612745,HOU,101128,Garcia,F. Garcia,217,116,25,Missed,1,0.0,0.0,0,v,MISS Garcia 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,65
+21300058,64,PT04M48.00S,1,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0.0,0.0,0,v,Beverley REBOUND (Off:1 Def:0),Rebound,Unknown,0,66
+21300058,65,PT04M42.00S,1,1610612745,HOU,2730,Howard,D. Howard,1,-3,0,Made,1,19.0,15.0,34,v,Howard  Driving Slam Dunk (4 PTS),Made Shot,Driving Slam Dunk Shot,0,67
+21300058,66,PT04M17.00S,1,1610612757,POR,201587,Batum,N. Batum,-101,167,20,Missed,1,0.0,0.0,0,h,MISS Batum 20' Jump Shot,Missed Shot,Jump Shot,0,68
+21300058,67,PT04M14.00S,1,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,Asik REBOUND (Off:0 Def:2),Rebound,Unknown,0,69
+21300058,68,PT04M09.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,v,Harden Offensive Charge Foul (P1.T3),Foul,Offensive Charge,0,70
+21300058,69,PT04M09.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,v,Harden Foul Turnover (P3.T4),Turnover,Foul,0,71
+21300058,70,PT04M09.00S,1,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,SUB: Casspi FOR Asik,Substitution,,0,72
+21300058,71,PT04M09.00S,1,1610612757,POR,202083,Matthews,W. Matthews,0,0,0,,0,0.0,0.0,0,h,SUB: Williams FOR Matthews,Substitution,,0,73
+21300058,72,PT03M53.00S,1,1610612757,POR,2590,Williams,M. Williams,-142,124,19,Missed,1,0.0,0.0,0,h,MISS Williams 19' Jump Shot,Missed Shot,Jump Shot,0,74
+21300058,73,PT03M51.00S,1,1610612745,HOU,101128,Garcia,F. Garcia,0,0,0,,0,0.0,0.0,0,v,Garcia REBOUND (Off:0 Def:1),Rebound,Unknown,0,75
+21300058,74,PT03M41.00S,1,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0.0,0.0,0,v,Howard OFF.Foul (P1),Foul,Offensive,0,76
+21300058,75,PT03M41.00S,1,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0.0,0.0,0,v,Howard Foul Turnover (P2.T5),Turnover,Foul,0,77
+21300058,76,PT03M21.00S,1,1610612757,POR,200746,Aldridge,L. Aldridge,0,14,1,Made,1,21.0,15.0,36,h,Aldridge 1' Finger Roll Layup (4 PTS),Made Shot,Finger Roll Layup Shot,0,78
+21300058,77,PT03M07.00S,1,1610612745,HOU,2730,Howard,D. Howard,2,-2,0,Made,1,21.0,17.0,38,v,Howard  Dunk (6 PTS) (Casspi 1 AST),Made Shot,Dunk Shot,0,79
+21300058,78,PT02M55.00S,1,1610612745,HOU,101128,Garcia,F. Garcia,0,0,0,,0,0.0,0.0,0,v,Garcia S.FOUL (P1.T4),Foul,Shooting,0,80
+21300058,79,PT02M55.00S,1,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,h,TRAIL BLAZERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,81
+21300058,81,PT02M55.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0.0,0.0,0,h,SUB: Wright FOR Lillard,Substitution,,0,82
+21300058,82,PT02M55.00S,1,1610612757,POR,201587,Batum,N. Batum,0,0,0,,0,22.0,17.0,39,h,Batum Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,83
+21300058,84,PT02M55.00S,1,1610612757,POR,201587,Batum,N. Batum,0,0,0,,0,23.0,17.0,40,h,Batum Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,84
+21300058,86,PT02M42.00S,1,1610612757,POR,201577,Lopez,R. Lopez,0,0,0,,0,0.0,0.0,0,h,Lopez S.FOUL (P1.T2),Foul,Shooting,0,85
+21300058,87,PT02M42.00S,1,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,23.0,18.0,41,v,Howard Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,86
+21300058,89,PT02M42.00S,1,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,23.0,19.0,42,v,Howard Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,87
+21300058,91,PT02M24.00S,1,1610612757,POR,200746,Aldridge,L. Aldridge,0,0,0,,0,0.0,0.0,0,h,Aldridge Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,88
+21300058,91,PT02M24.00S,1,1610612745,HOU,101128,Garcia,F. Garcia,0,0,0,,0,0.0,0.0,0,v,Garcia STEAL (1 STL),,,0,89
+21300058,92,PT02M20.00S,1,1610612745,HOU,101128,Garcia,F. Garcia,-4,-2,0,Missed,1,0.0,0.0,0,v,MISS Garcia  Layup,Missed Shot,Layup Shot,0,90
+21300058,92,PT02M20.00S,1,1610612757,POR,201587,Batum,N. Batum,0,0,0,,0,0.0,0.0,0,h,Batum BLOCK (1 BLK),,,0,91
+21300058,93,PT02M20.00S,1,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0.0,0.0,0,v,Howard REBOUND (Off:1 Def:2),Rebound,Unknown,0,92
+21300058,94,PT02M20.00S,1,1610612757,POR,2590,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,h,Williams S.FOUL (P1.T3),Foul,Shooting,0,93
+21300058,95,PT02M20.00S,1,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,23.0,20.0,43,v,Howard Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,94
+21300058,97,PT02M20.00S,1,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,23.0,21.0,44,v,Howard Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,95
+21300058,99,PT02M06.00S,1,1610612745,HOU,201956,Casspi,O. Casspi,0,0,0,,0,0.0,0.0,0,v,Casspi P.FOUL (P1.PN),Foul,Personal,0,96
+21300058,101,PT01M57.00S,1,1610612757,POR,2748,Wright,D. Wright,-220,142,26,Missed,1,0.0,0.0,0,h,MISS Wright 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,97
+21300058,102,PT01M57.00S,1,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Unknown,0,98
+21300058,103,PT01M46.00S,1,1610612745,HOU,201935,Harden,J. Harden,218,97,24,Made,1,23.0,24.0,47,v,Harden 24' 3PT Jump Shot (7 PTS) (Beverley 1 AST),Made Shot,Jump Shot,0,99
+21300058,104,PT01M30.00S,1,1610612757,POR,201587,Batum,N. Batum,0,0,0,,0,0.0,0.0,0,h,Batum Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,100
+21300058,104,PT01M30.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,v,Harden STEAL (1 STL),,,0,101
+21300058,105,PT01M27.00S,1,1610612757,POR,2748,Wright,D. Wright,0,0,0,,0,0.0,0.0,0,h,Wright S.FOUL (P1.T4),Foul,Shooting,0,102
+21300058,106,PT01M27.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,23.0,25.0,48,v,Harden Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,103
+21300058,108,PT01M27.00S,1,1610612757,POR,201577,Lopez,R. Lopez,0,0,0,,0,0.0,0.0,0,h,SUB: Robinson FOR Lopez,Substitution,,0,104
+21300058,109,PT01M27.00S,1,1610612757,POR,200746,Aldridge,L. Aldridge,0,0,0,,0,0.0,0.0,0,h,SUB: Leonard FOR Aldridge,Substitution,,0,105
+21300058,110,PT01M27.00S,1,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0.0,0.0,0,v,SUB: Asik FOR Howard,Substitution,,0,106
+21300058,111,PT01M27.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,23.0,26.0,49,v,Harden Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,107
+21300058,113,PT01M15.00S,1,1610612757,POR,2590,Williams,M. Williams,47,34,6,Missed,1,0.0,0.0,0,h,MISS Williams 6' Running Jump Shot,Missed Shot,Running Jump Shot,0,108
+21300058,114,PT01M14.00S,1,1610612745,HOU,201956,Casspi,O. Casspi,0,0,0,,0,0.0,0.0,0,v,Casspi REBOUND (Off:0 Def:1),Rebound,Unknown,0,109
+21300058,115,PT01M04.00S,1,1610612745,HOU,201935,Harden,J. Harden,6,50,5,Made,1,23.0,28.0,51,v,Harden 5' Jump Shot (11 PTS) (Asik 1 AST),Made Shot,Jump Shot,0,110
+21300058,116,PT01M04.00S,1,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,0.0,0.0,0,h,Leonard S.FOUL (P1.PN),Foul,Shooting,0,111
+21300058,119,PT01M04.00S,1,1610612757,POR,201587,Batum,N. Batum,0,0,0,,0,0.0,0.0,0,h,SUB: Lillard FOR Batum,Substitution,,0,112
+21300058,117,PT01M04.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,23.0,29.0,52,v,Harden Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,113
+21300058,120,PT00M51.90S,1,1610612757,POR,2590,Williams,M. Williams,-150,121,19,Made,1,25.0,29.0,54,h,Williams 19' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,0,114
+21300058,121,PT00M40.80S,1,1610612745,HOU,201935,Harden,J. Harden,176,181,25,Missed,1,0.0,0.0,0,v,MISS Harden 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,115
+21300058,122,PT00M39.90S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0.0,0.0,0,h,Lillard REBOUND (Off:0 Def:1),Rebound,Unknown,0,116
+21300058,123,PT00M33.00S,1,1610612757,POR,2748,Wright,D. Wright,176,183,25,Made,1,28.0,29.0,57,h,Wright 25' 3PT Jump Shot (3 PTS) (Lillard 2 AST),Made Shot,Jump Shot,0,117
+21300058,124,PT00M10.90S,1,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,0.0,0.0,0,h,Leonard S.FOUL (P2.PN),Foul,Shooting,0,118
+21300058,125,PT00M10.90S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,v,MISS Harden Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,119
+21300058,126,PT00M10.90S,1,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Normal Rebound,0,120
+21300058,127,PT00M10.90S,1,1610612757,POR,203080,Robinson,T. Robinson,0,0,0,,0,0.0,0.0,0,h,SUB: Matthews FOR Robinson,Substitution,,0,121
+21300058,128,PT00M10.90S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,28.0,30.0,58,v,Harden Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,122
+21300058,130,PT00M01.90S,1,1610612757,POR,2748,Wright,D. Wright,69,236,25,Made,1,31.0,30.0,61,h,Wright 25' 3PT Jump Shot (6 PTS) (Lillard 3 AST),Made Shot,Jump Shot,0,123
+21300058,131,PT00M00.00S,1,0,,0,,,0,0,0,,0,31.0,30.0,61,,End of 1st Period (10:42 PM EST),period,end,0,124
+21300058,134,PT12M00.00S,2,0,,0,,,0,0,0,,0,31.0,30.0,61,,Start of 2nd Period (10:44 PM EST),period,start,0,125
+21300058,135,PT11M45.00S,2,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,Asik S.FOUL (P1.T1),Foul,Shooting,0,126
+21300058,136,PT11M45.00S,2,1610612757,POR,203080,Robinson,T. Robinson,0,0,0,,0,0.0,0.0,0,h,MISS Robinson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,127
+21300058,137,PT11M45.00S,2,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,h,TRAIL BLAZERS Rebound,Rebound,Normal Rebound,0,128
+21300058,138,PT11M45.00S,2,1610612757,POR,203080,Robinson,T. Robinson,0,0,0,,0,0.0,0.0,0,h,MISS Robinson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,129
+21300058,140,PT11M43.00S,2,1610612745,HOU,201956,Casspi,O. Casspi,0,0,0,,0,0.0,0.0,0,v,Casspi REBOUND (Off:0 Def:2),Rebound,Unknown,0,130
+21300058,141,PT11M30.00S,2,1610612745,HOU,201976,Beverley,P. Beverley,200,153,25,Missed,1,0.0,0.0,0,v,MISS Beverley 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,131
+21300058,142,PT11M29.00S,2,1610612757,POR,2748,Wright,D. Wright,0,0,0,,0,0.0,0.0,0,h,Wright REBOUND (Off:0 Def:1),Rebound,Unknown,0,132
+21300058,143,PT11M24.00S,2,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0.0,0.0,0,v,Beverley S.FOUL (P1.T2),Foul,Shooting,0,133
+21300058,144,PT11M24.00S,2,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0.0,0.0,0,v,Beverley T.FOUL (P1.T2),Foul,Technical,0,134
+21300058,145,PT11M24.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0.0,0.0,0,h,MISS Lillard Free Throw Technical,Free Throw,Free Throw Technical,0,135
+21300058,146,PT11M24.00S,2,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,h,TRAIL BLAZERS Rebound,Rebound,Normal Rebound,0,136
+21300058,147,PT11M24.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,32.0,30.0,62,h,Lillard Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,137
+21300058,149,PT11M24.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,33.0,30.0,63,h,Lillard Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,138
+21300058,151,PT11M10.00S,2,1610612745,HOU,202391,Lin,J. Lin,103,149,18,Missed,1,0.0,0.0,0,v,MISS Lin 18' Jump Shot,Missed Shot,Jump Shot,0,139
+21300058,152,PT11M10.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0.0,0.0,0,h,Lillard REBOUND (Off:0 Def:2),Rebound,Unknown,0,140
+21300058,153,PT11M05.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0.0,0.0,0,h,Lillard Palming Turnover (P2.T6),Turnover,Palming Turnover,0,141
+21300058,154,PT10M50.00S,2,1610612745,HOU,201956,Casspi,O. Casspi,2,195,20,Made,1,33.0,32.0,65,v,Casspi 20' Jump Shot (2 PTS),Made Shot,Jump Shot,0,142
+21300058,156,PT10M26.00S,2,1610612757,POR,2748,Wright,D. Wright,-215,142,26,Missed,1,0.0,0.0,0,h,MISS Wright 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,143
+21300058,157,PT10M25.00S,2,1610612745,HOU,201956,Casspi,O. Casspi,0,0,0,,0,0.0,0.0,0,v,Casspi REBOUND (Off:0 Def:3),Rebound,Unknown,0,144
+21300058,158,PT10M24.00S,2,1610612745,HOU,201956,Casspi,O. Casspi,228,78,24,Missed,1,0.0,0.0,0,v,MISS Casspi 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,145
+21300058,159,PT10M22.00S,2,1610612757,POR,2748,Wright,D. Wright,0,0,0,,0,0.0,0.0,0,h,Wright REBOUND (Off:0 Def:2),Rebound,Unknown,0,146
+21300058,160,PT10M10.00S,2,1610612757,POR,203081,Lillard,D. Lillard,-231,17,0,Made,1,36.0,32.0,68,h,Lillard  3PT Jump Shot (12 PTS) (Wright 1 AST),Made Shot,Jump Shot,0,147
+21300058,161,PT09M55.00S,2,1610612745,HOU,201600,Asik,O. Asik,13,44,5,Missed,1,0.0,0.0,0,v,MISS Asik 5' Hook Shot,Missed Shot,Hook Shot,0,148
+21300058,161,PT09M55.00S,2,1610612757,POR,2748,Wright,D. Wright,0,0,0,,0,0.0,0.0,0,h,Wright BLOCK (1 BLK),,,0,149
+21300058,162,PT09M54.00S,2,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,0.0,0.0,0,h,Leonard REBOUND (Off:0 Def:1),Rebound,Unknown,0,150
+21300058,163,PT09M48.00S,2,1610612757,POR,2590,Williams,M. Williams,-229,88,25,Missed,1,0.0,0.0,0,h,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,151
+21300058,164,PT09M48.00S,2,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Unknown,0,152
+21300058,165,PT09M36.00S,2,1610612757,POR,203080,Robinson,T. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson P.FOUL (P1.T1),Foul,Personal,0,153
+21300058,166,PT09M30.00S,2,1610612745,HOU,101128,Garcia,F. Garcia,-174,176,25,Missed,1,0.0,0.0,0,v,MISS Garcia 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,154
+21300058,167,PT09M29.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0.0,0.0,0,h,Lillard REBOUND (Off:0 Def:3),Rebound,Unknown,0,155
+21300058,168,PT09M22.00S,2,1610612757,POR,2748,Wright,D. Wright,73,236,25,Missed,1,0.0,0.0,0,h,MISS Wright 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,156
+21300058,169,PT09M21.00S,2,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,Asik REBOUND (Off:0 Def:3),Rebound,Unknown,0,157
+21300058,170,PT09M12.00S,2,1610612745,HOU,201600,Asik,O. Asik,13,1,1,Made,1,36.0,34.0,70,v,Asik 1' Driving Finger Roll Layup (4 PTS) (Casspi 2 AST),Made Shot,Driving Finger Roll Layup Shot,0,158
+21300058,171,PT08M49.00S,2,1610612757,POR,203080,Robinson,T. Robinson,53,179,19,Missed,1,0.0,0.0,0,h,MISS Robinson 19' Jump Shot,Missed Shot,Jump Shot,0,159
+21300058,172,PT08M48.00S,2,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,h,TRAIL BLAZERS Rebound,Rebound,Unknown,0,160
+21300058,173,PT08M48.00S,2,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,Asik L.B.FOUL (P2.T3),Foul,Loose Ball,0,161
+21300058,174,PT08M48.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,162
+21300058,176,PT08M48.00S,2,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,SUB: Parsons FOR Asik,Substitution,,0,163
+21300058,177,PT08M48.00S,2,1610612745,HOU,101128,Garcia,F. Garcia,0,0,0,,0,0.0,0.0,0,v,SUB: Howard FOR Garcia,Substitution,,0,164
+21300058,178,PT08M43.00S,2,1610612757,POR,2590,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,h,Williams Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,165
+21300058,179,PT08M24.00S,2,1610612745,HOU,201976,Beverley,P. Beverley,-73,242,25,Missed,1,0.0,0.0,0,v,MISS Beverley 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,166
+21300058,180,PT08M23.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0.0,0.0,0,v,Howard REBOUND (Off:2 Def:2),Rebound,Unknown,0,167
+21300058,181,PT08M17.00S,2,1610612745,HOU,202718,Parsons,C. Parsons,13,-3,1,Missed,1,0.0,0.0,0,v,MISS Parsons 1' Driving Layup,Missed Shot,Driving Layup Shot,0,168
+21300058,182,PT08M15.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0.0,0.0,0,v,Howard REBOUND (Off:3 Def:2),Rebound,Unknown,0,169
+21300058,183,PT08M14.00S,2,1610612745,HOU,2730,Howard,D. Howard,7,0,1,Made,1,36.0,36.0,72,v,Howard 1' Dunk (12 PTS),Made Shot,Dunk Shot,0,170
+21300058,184,PT08M00.00S,2,1610612757,POR,2590,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,h,Williams Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,171
+21300058,184,PT08M00.00S,2,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,v,Lin STEAL (2 STL),,,0,172
+21300058,185,PT07M50.00S,2,1610612745,HOU,202718,Parsons,C. Parsons,1,1,0,Made,1,36.0,38.0,74,v,Parsons  Driving Dunk (2 PTS) (Howard 2 AST),Made Shot,Driving Dunk Shot,0,173
+21300058,186,PT07M35.00S,2,1610612757,POR,2590,Williams,M. Williams,-16,-5,2,Missed,1,0.0,0.0,0,h,MISS Williams 2' Driving Layup,Missed Shot,Driving Layup Shot,0,174
+21300058,187,PT07M33.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0.0,0.0,0,v,Howard REBOUND (Off:3 Def:3),Rebound,Unknown,0,175
+21300058,188,PT07M29.00S,2,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,0.0,0.0,0,h,Leonard S.FOUL (P3.T2),Foul,Shooting,0,176
+21300058,189,PT07M29.00S,2,1610612745,HOU,201956,Casspi,O. Casspi,0,0,0,,0,0.0,0.0,0,v,MISS Casspi Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,177
+21300058,190,PT07M29.00S,2,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Normal Rebound,0,178
+21300058,191,PT07M29.00S,2,1610612757,POR,2748,Wright,D. Wright,0,0,0,,0,0.0,0.0,0,h,SUB: Matthews FOR Wright,Substitution,,0,179
+21300058,192,PT07M29.00S,2,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,0.0,0.0,0,h,SUB: Lopez FOR Leonard,Substitution,,0,180
+21300058,193,PT07M29.00S,2,1610612757,POR,203080,Robinson,T. Robinson,0,0,0,,0,0.0,0.0,0,h,SUB: Aldridge FOR Robinson,Substitution,,0,181
+21300058,194,PT07M29.00S,2,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0.0,0.0,0,v,SUB: Harden FOR Beverley,Substitution,,0,182
+21300058,195,PT07M29.00S,2,1610612745,HOU,201956,Casspi,O. Casspi,0,0,0,,0,36.0,39.0,75,v,Casspi Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,183
+21300058,197,PT07M13.00S,2,1610612757,POR,200746,Aldridge,L. Aldridge,-4,211,21,Missed,1,0.0,0.0,0,h,MISS Aldridge 21' Jump Shot,Missed Shot,Jump Shot,0,184
+21300058,198,PT07M11.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0.0,0.0,0,v,Howard REBOUND (Off:3 Def:4),Rebound,Unknown,0,185
+21300058,199,PT07M09.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0.0,0.0,0,v,Howard Bad Pass Turnover (P3.T6),Turnover,Bad Pass,0,186
+21300058,199,PT07M09.00S,2,1610612757,POR,201577,Lopez,R. Lopez,0,0,0,,0,0.0,0.0,0,h,Lopez STEAL (1 STL),,,0,187
+21300058,200,PT06M59.00S,2,1610612757,POR,203081,Lillard,D. Lillard,-168,198,26,Missed,1,0.0,0.0,0,h,MISS Lillard 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,188
+21300058,201,PT06M58.00S,2,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,v,Lin REBOUND (Off:0 Def:1),Rebound,Unknown,0,189
+21300058,202,PT06M55.00S,2,1610612745,HOU,202391,Lin,J. Lin,0,1,0,Made,1,36.0,41.0,77,v,Lin  Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,190
+21300058,203,PT06M50.00S,2,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,h,TRAIL BLAZERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,191
+21300058,204,PT06M45.00S,2,1610612757,POR,2590,Williams,M. Williams,-174,1,17,Missed,1,0.0,0.0,0,h,MISS Williams 17' Jump Shot,Missed Shot,Jump Shot,0,192
+21300058,205,PT06M44.00S,2,1610612757,POR,201577,Lopez,R. Lopez,0,0,0,,0,0.0,0.0,0,h,Lopez REBOUND (Off:2 Def:2),Rebound,Unknown,0,193
+21300058,206,PT06M41.00S,2,1610612757,POR,201577,Lopez,R. Lopez,-26,0,3,Missed,1,0.0,0.0,0,h,MISS Lopez 3' Layup,Missed Shot,Layup Shot,0,194
+21300058,208,PT06M40.00S,2,1610612757,POR,201577,Lopez,R. Lopez,0,0,0,,0,0.0,0.0,0,h,Lopez REBOUND (Off:3 Def:2),Rebound,Unknown,0,195
+21300058,207,PT06M40.00S,2,1610612757,POR,201577,Lopez,R. Lopez,-15,9,2,Missed,1,0.0,0.0,0,h,MISS Lopez 2' Tip Shot,Missed Shot,Tip Shot,0,196
+21300058,209,PT06M39.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0.0,0.0,0,v,Howard REBOUND (Off:3 Def:5),Rebound,Unknown,0,197
+21300058,210,PT06M34.00S,2,1610612745,HOU,202718,Parsons,C. Parsons,-2,1,0,Made,1,36.0,43.0,79,v,Parsons  Alley Oop Dunk (4 PTS) (Casspi 3 AST),Made Shot,Alley Oop Dunk Shot,0,198
+21300058,211,PT06M08.00S,2,1610612757,POR,202083,Matthews,W. Matthews,103,219,24,Missed,1,0.0,0.0,0,h,MISS Matthews 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,199
+21300058,212,PT06M05.00S,2,1610612745,HOU,201956,Casspi,O. Casspi,0,0,0,,0,0.0,0.0,0,v,Casspi REBOUND (Off:0 Def:4),Rebound,Unknown,0,200
+21300058,213,PT06M04.00S,2,1610612757,POR,2590,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,h,Williams P.FOUL (P2.T3),Foul,Personal,0,201
+21300058,214,PT06M04.00S,2,1610612757,POR,2590,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,h,SUB: Batum FOR Williams,Substitution,,0,202
+21300058,215,PT05M52.00S,2,1610612757,POR,201577,Lopez,R. Lopez,0,0,0,,0,0.0,0.0,0,h,Lopez S.FOUL (P2.T4),Foul,Shooting,0,203
+21300058,216,PT05M52.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0.0,0.0,0,v,MISS Howard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,204
+21300058,217,PT05M52.00S,2,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Normal Rebound,0,205
+21300058,218,PT05M52.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0.0,0.0,0,v,MISS Howard Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,206
+21300058,220,PT05M51.00S,2,1610612757,POR,200746,Aldridge,L. Aldridge,0,0,0,,0,0.0,0.0,0,h,Aldridge REBOUND (Off:0 Def:2),Rebound,Unknown,0,207
+21300058,221,PT05M33.00S,2,1610612757,POR,200746,Aldridge,L. Aldridge,-175,94,20,Made,1,38.0,43.0,81,h,Aldridge 20' Jump Shot (6 PTS),Made Shot,Jump Shot,0,208
+21300058,222,PT05M24.00S,2,1610612757,POR,200746,Aldridge,L. Aldridge,0,0,0,,0,0.0,0.0,0,h,Aldridge P.FOUL (P1.PN),Foul,Personal,0,209
+21300058,223,PT05M24.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,38.0,44.0,82,v,Howard Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,210
+21300058,224,PT05M24.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,38.0,45.0,83,v,Howard Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,211
+21300058,227,PT05M13.00S,2,1610612757,POR,202083,Matthews,W. Matthews,-196,41,20,Made,1,40.0,45.0,85,h,Matthews 20' Jump Shot (7 PTS),Made Shot,Jump Shot,0,212
+21300058,228,PT04M47.00S,2,1610612745,HOU,201935,Harden,J. Harden,-232,25,0,Missed,1,0.0,0.0,0,v,MISS Harden  3PT Jump Shot,Missed Shot,Jump Shot,0,213
+21300058,229,PT04M45.00S,2,1610612757,POR,202083,Matthews,W. Matthews,0,0,0,,0,0.0,0.0,0,h,Matthews REBOUND (Off:0 Def:2),Rebound,Unknown,0,214
+21300058,230,PT04M29.00S,2,1610612757,POR,200746,Aldridge,L. Aldridge,47,142,15,Made,1,42.0,45.0,87,h,Aldridge 15' Jump Shot (8 PTS) (Lopez 2 AST),Made Shot,Jump Shot,0,215
+21300058,231,PT04M07.00S,2,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0.0,0.0,0,v,Howard Traveling Turnover (P4.T7),Turnover,Traveling,0,216
+21300058,232,PT03M58.00S,2,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,v,Lin P.FOUL (P1.T4),Foul,Personal,0,217
+21300058,233,PT03M52.00S,2,1610612757,POR,202083,Matthews,W. Matthews,26,247,25,Made,1,45.0,45.0,90,h,Matthews 25' 3PT Jump Shot (10 PTS) (Batum 3 AST),Made Shot,Jump Shot,0,218
+21300058,234,PT03M35.00S,2,1610612745,HOU,2730,Howard,D. Howard,-8,1,1,Made,1,45.0,47.0,92,v,Howard 1' Alley Oop Dunk (16 PTS) (Lin 2 AST),Made Shot,Alley Oop Dunk Shot,0,219
+21300058,235,PT03M15.00S,2,1610612757,POR,200746,Aldridge,L. Aldridge,-182,99,21,Missed,1,0.0,0.0,0,h,MISS Aldridge 21' Jump Shot,Missed Shot,Jump Shot,0,220
+21300058,236,PT03M14.00S,2,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,v,Parsons REBOUND (Off:0 Def:1),Rebound,Unknown,0,221
+21300058,237,PT03M08.00S,2,1610612757,POR,201577,Lopez,R. Lopez,0,0,0,,0,0.0,0.0,0,h,Lopez S.FOUL (P3.PN),Foul,Shooting,0,222
+21300058,238,PT03M08.00S,2,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,45.0,48.0,93,v,Lin Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,223
+21300058,240,PT03M08.00S,2,1610612757,POR,201577,Lopez,R. Lopez,0,0,0,,0,0.0,0.0,0,h,SUB: Robinson FOR Lopez,Substitution,,0,224
+21300058,241,PT03M08.00S,2,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,v,MISS Lin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,225
+21300058,243,PT03M07.00S,2,1610612745,HOU,201956,Casspi,O. Casspi,0,0,0,,0,0.0,0.0,0,v,Casspi REBOUND (Off:1 Def:4),Rebound,Unknown,0,226
+21300058,244,PT03M03.00S,2,1610612745,HOU,202718,Parsons,C. Parsons,-49,250,25,Missed,1,0.0,0.0,0,v,MISS Parsons 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,227
+21300058,245,PT03M02.00S,2,1610612757,POR,203080,Robinson,T. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,228
+21300058,246,PT02M42.00S,2,1610612757,POR,202083,Matthews,W. Matthews,-45,151,16,Made,1,47.0,48.0,95,h,Matthews 16' Fadeaway Jumper (12 PTS),Made Shot,Fadeaway Jump Shot,0,229
+21300058,247,PT02M28.00S,2,1610612745,HOU,2730,Howard,D. Howard,47,7,5,Made,1,47.0,50.0,97,v,Howard 5' Driving Hook Shot (18 PTS),Made Shot,Driving Hook Shot,0,230
+21300058,248,PT02M02.00S,2,1610612757,POR,201587,Batum,N. Batum,-231,3,0,Missed,1,0.0,0.0,0,h,MISS Batum  3PT Jump Shot,Missed Shot,Jump Shot,0,231
+21300058,249,PT02M01.00S,2,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,v,Lin REBOUND (Off:0 Def:2),Rebound,Unknown,0,232
+21300058,250,PT01M58.00S,2,1610612745,HOU,201935,Harden,J. Harden,-7,0,1,Made,1,47.0,52.0,99,v,Harden 1' Layup (15 PTS) (Lin 3 AST),Made Shot,Layup Shot,0,233
+21300058,251,PT01M58.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0.0,0.0,0,h,Lillard S.FOUL (P1.PN),Foul,Shooting,0,234
+21300058,252,PT01M58.00S,2,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,235
+21300058,254,PT01M58.00S,2,1610612745,HOU,201956,Casspi,O. Casspi,0,0,0,,0,0.0,0.0,0,v,SUB: Beverley FOR Casspi,Substitution,,0,236
+21300058,255,PT01M58.00S,2,1610612757,POR,203080,Robinson,T. Robinson,0,0,0,,0,0.0,0.0,0,h,SUB: Wright FOR Robinson,Substitution,,0,237
+21300058,256,PT01M58.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,47.0,53.0,100,v,Harden Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,0,238
+21300058,258,PT01M47.00S,2,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0.0,0.0,0,v,Beverley P.FOUL (P2.PN),Foul,Personal,0,239
+21300058,259,PT01M47.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0.0,0.0,0,h,MISS Lillard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,240
+21300058,260,PT01M47.00S,2,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,h,TRAIL BLAZERS Rebound,Rebound,Normal Rebound,0,241
+21300058,261,PT01M47.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0.0,0.0,0,h,MISS Lillard Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,242
+21300058,263,PT01M45.00S,2,1610612757,POR,200746,Aldridge,L. Aldridge,0,0,0,,0,0.0,0.0,0,h,Aldridge REBOUND (Off:1 Def:2),Rebound,Unknown,0,243
+21300058,264,PT01M45.00S,2,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,v,Lin P.FOUL (P2.PN),Foul,Personal,0,244
+21300058,265,PT01M45.00S,2,1610612757,POR,200746,Aldridge,L. Aldridge,0,0,0,,0,48.0,53.0,101,h,Aldridge Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,245
+21300058,267,PT01M45.00S,2,1610612757,POR,200746,Aldridge,L. Aldridge,0,0,0,,0,0.0,0.0,0,h,MISS Aldridge Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,246
+21300058,269,PT01M44.00S,2,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,v,Parsons REBOUND (Off:0 Def:2),Rebound,Unknown,0,247
+21300058,270,PT01M31.00S,2,1610612745,HOU,202718,Parsons,C. Parsons,-34,1,3,Missed,1,0.0,0.0,0,v,MISS Parsons 3' Layup,Missed Shot,Layup Shot,0,248
+21300058,270,PT01M31.00S,2,1610612757,POR,200746,Aldridge,L. Aldridge,0,0,0,,0,0.0,0.0,0,h,Aldridge BLOCK (1 BLK),,,0,249
+21300058,271,PT01M28.00S,2,1610612757,POR,2748,Wright,D. Wright,0,0,0,,0,0.0,0.0,0,h,Wright REBOUND (Off:0 Def:3),Rebound,Unknown,0,250
+21300058,272,PT01M18.00S,2,1610612757,POR,200746,Aldridge,L. Aldridge,-41,12,4,Made,1,50.0,53.0,103,h,Aldridge 4' Turnaround Hook Shot (11 PTS) (Wright 2 AST),Made Shot,Turnaround Hook Shot,0,251
+21300058,273,PT00M56.90S,2,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,v,Lin Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,252
+21300058,273,PT00M56.90S,2,1610612757,POR,201587,Batum,N. Batum,0,0,0,,0,0.0,0.0,0,h,Batum STEAL (3 STL),,,0,253
+21300058,275,PT00M53.20S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0.0,0.0,0,h,Lillard Offensive Charge Foul (P2.PN),Foul,Offensive Charge,0,254
+21300058,276,PT00M53.20S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0.0,0.0,0,h,Lillard Foul Turnover (P3.T9),Turnover,Foul,0,255
+21300058,277,PT00M38.20S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,v,Harden OFF.Foul (P2),Foul,Offensive,0,256
+21300058,278,PT00M38.20S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,v,Harden Foul Turnover (P4.T9),Turnover,Foul,0,257
+21300058,279,PT00M30.90S,2,1610612757,POR,203081,Lillard,D. Lillard,143,195,24,Missed,1,0.0,0.0,0,h,MISS Lillard 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,258
+21300058,280,PT00M29.90S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,v,Harden REBOUND (Off:0 Def:3),Rebound,Unknown,0,259
+21300058,281,PT00M05.90S,2,1610612745,HOU,201935,Harden,J. Harden,-138,175,22,Made,1,50.0,55.0,105,v,Harden 22' Jump Shot (18 PTS),Made Shot,Jump Shot,0,260
+21300058,282,PT00M00.00S,2,0,,0,,,0,0,0,,0,50.0,55.0,105,,End of 2nd Period (11:15 PM EST),period,end,0,261
+21300058,284,PT12M00.00S,3,0,,0,,,0,0,0,,0,50.0,55.0,105,,Start of 3rd Period (11:30 PM EST),period,start,0,262
+21300058,285,PT11M40.00S,3,1610612757,POR,200746,Aldridge,L. Aldridge,-13,201,20,Missed,1,0.0,0.0,0,h,MISS Aldridge 20' Jump Shot,Missed Shot,Jump Shot,0,263
+21300058,286,PT11M40.00S,3,1610612757,POR,201577,Lopez,R. Lopez,0,0,0,,0,0.0,0.0,0,h,Lopez REBOUND (Off:4 Def:2),Rebound,Unknown,0,264
+21300058,287,PT11M40.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0.0,0.0,0,v,Howard P.FOUL (P2.T1),Foul,Personal,0,265
+21300058,288,PT11M40.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,v,Harden AWAY.FROM.PLAY.FOUL (P3.T2),Foul,Away From Play,0,266
+21300058,289,PT11M40.00S,3,1610612757,POR,202083,Matthews,W. Matthews,0,0,0,,0,0.0,0.0,0,h,MISS Matthews Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,267
+21300058,290,PT11M40.00S,3,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,h,TRAIL BLAZERS Rebound,Rebound,Normal Rebound,0,268
+21300058,291,PT11M40.00S,3,1610612757,POR,202083,Matthews,W. Matthews,0,0,0,,0,0.0,0.0,0,h,MISS Matthews Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,269
+21300058,292,PT11M39.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0.0,0.0,0,v,Howard REBOUND (Off:3 Def:6),Rebound,Unknown,0,270
+21300058,293,PT11M22.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,v,Harden Bad Pass Turnover (P5.T10),Turnover,Bad Pass,0,271
+21300058,294,PT11M12.00S,3,1610612757,POR,201577,Lopez,R. Lopez,0,0,0,,0,0.0,0.0,0,h,Lopez OFF.Foul (P4),Foul,Offensive,0,272
+21300058,295,PT11M12.00S,3,1610612757,POR,201577,Lopez,R. Lopez,0,0,0,,0,0.0,0.0,0,h,Lopez Foul Turnover (P1.T10),Turnover,Foul,0,273
+21300058,296,PT11M12.00S,3,1610612757,POR,201577,Lopez,R. Lopez,0,0,0,,0,0.0,0.0,0,h,SUB: Leonard FOR Lopez,Substitution,,0,274
+21300058,298,PT10M50.00S,3,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,v,Lin Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,275
+21300058,299,PT10M31.00S,3,1610612757,POR,203086,Leonard,M. Leonard,198,4,20,Missed,1,0.0,0.0,0,h,MISS Leonard 20' Jump Shot,Missed Shot,Jump Shot,0,276
+21300058,300,PT10M29.00S,3,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,0.0,0.0,0,h,Leonard REBOUND (Off:1 Def:1),Rebound,Unknown,0,277
+21300058,301,PT10M17.00S,3,1610612757,POR,200746,Aldridge,L. Aldridge,-19,-5,2,Missed,1,0.0,0.0,0,h,MISS Aldridge 2' Layup,Missed Shot,Layup Shot,0,278
+21300058,302,PT10M16.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0.0,0.0,0,v,Howard REBOUND (Off:3 Def:7),Rebound,Unknown,0,279
+21300058,303,PT09M59.00S,3,1610612745,HOU,202391,Lin,J. Lin,48,239,24,Made,1,50.0,58.0,108,v,Lin 24' 3PT Jump Shot (8 PTS) (Harden 1 AST),Made Shot,Jump Shot,0,280
+21300058,304,PT09M43.00S,3,1610612757,POR,201587,Batum,N. Batum,0,0,0,,0,0.0,0.0,0,h,Batum Lost Ball Turnover (P3.T11),Turnover,Lost Ball,0,281
+21300058,304,PT09M43.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,v,Parsons STEAL (1 STL),,,0,282
+21300058,305,PT09M40.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,v,Parsons Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,283
+21300058,306,PT09M18.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-78,235,25,Missed,1,0.0,0.0,0,h,MISS Lillard 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,284
+21300058,307,PT09M18.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,v,Harden REBOUND (Off:0 Def:4),Rebound,Unknown,0,285
+21300058,308,PT08M53.00S,3,1610612745,HOU,202391,Lin,J. Lin,-106,148,18,Missed,1,0.0,0.0,0,v,MISS Lin 18' Running Jump Shot,Missed Shot,Running Jump Shot,0,286
+21300058,309,PT08M52.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,Asik REBOUND (Off:1 Def:3),Rebound,Unknown,0,287
+21300058,310,PT08M51.00S,3,1610612745,HOU,201600,Asik,O. Asik,-16,-2,2,Made,1,50.0,60.0,110,v,Asik 2' Layup (6 PTS),Made Shot,Layup Shot,0,288
+21300058,311,PT08M50.00S,3,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,h,TRAIL BLAZERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,289
+21300058,313,PT08M29.00S,3,1610612757,POR,200746,Aldridge,L. Aldridge,-60,88,11,Missed,1,0.0,0.0,0,h,MISS Aldridge 11' Jump Shot,Missed Shot,Jump Shot,0,290
+21300058,314,PT08M27.00S,3,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Unknown,0,291
+21300058,315,PT08M21.00S,3,1610612757,POR,200746,Aldridge,L. Aldridge,0,0,0,,0,0.0,0.0,0,h,Aldridge S.FOUL (P2.T1),Foul,Shooting,0,292
+21300058,316,PT08M21.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,50.0,61.0,111,v,Asik Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,293
+21300058,318,PT08M21.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,50.0,62.0,112,v,Asik Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,294
+21300058,320,PT08M10.00S,3,1610612757,POR,202083,Matthews,W. Matthews,162,179,24,Missed,1,0.0,0.0,0,h,MISS Matthews 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,295
+21300058,321,PT08M10.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,v,Harden REBOUND (Off:0 Def:5),Rebound,Unknown,0,296
+21300058,468,PT08M07.00S,3,1610612757,POR,201587,Batum,N. Batum,0,0,0,,0,0.0,0.0,0,h,Batum Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,297
+21300058,322,PT08M07.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,40,19,4,Made,1,50.0,64.0,114,v,Parsons 4' Jump Shot (6 PTS) (Harden 2 AST),Made Shot,Jump Shot,0,298
+21300058,323,PT08M07.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0.0,0.0,0,h,Lillard S.FOUL (P3.T2),Foul,Shooting,0,299
+21300058,324,PT08M07.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,50.0,65.0,115,v,Parsons Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,300
+21300058,326,PT07M49.00S,3,1610612757,POR,203086,Leonard,M. Leonard,-136,7,14,Made,1,52.0,65.0,117,h,Leonard 14' Jump Shot (2 PTS) (Aldridge 1 AST),Made Shot,Jump Shot,0,301
+21300058,327,PT07M28.00S,3,1610612745,HOU,2730,Howard,D. Howard,-4,3,1,Made,1,52.0,67.0,119,v,Howard 1' Alley Oop Dunk (20 PTS) (Harden 3 AST),Made Shot,Alley Oop Dunk Shot,0,302
+21300058,328,PT07M10.00S,3,1610612757,POR,203081,Lillard,D. Lillard,15,-5,2,Missed,1,0.0,0.0,0,h,MISS Lillard 2' Driving Layup,Missed Shot,Driving Layup Shot,0,303
+21300058,329,PT06M59.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,v,Parsons REBOUND (Off:0 Def:3),Rebound,Unknown,0,304
+21300058,330,PT06M54.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,12,11,2,Missed,1,0.0,0.0,0,v,MISS Parsons 2' Driving Layup,Missed Shot,Driving Layup Shot,0,305
+21300058,331,PT06M53.00S,3,1610612757,POR,200746,Aldridge,L. Aldridge,0,0,0,,0,0.0,0.0,0,h,Aldridge REBOUND (Off:1 Def:3),Rebound,Unknown,0,306
+21300058,332,PT06M45.00S,3,1610612757,POR,200746,Aldridge,L. Aldridge,-16,219,22,Missed,1,0.0,0.0,0,h,MISS Aldridge 22' Jump Shot,Missed Shot,Jump Shot,0,307
+21300058,333,PT06M44.00S,3,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Unknown,0,308
+21300058,334,PT06M44.00S,3,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,0.0,0.0,0,h,SUB: Wright FOR Leonard,Substitution,,0,309
+21300058,335,PT06M28.00S,3,1610612757,POR,202083,Matthews,W. Matthews,0,0,0,,0,0.0,0.0,0,h,Matthews S.FOUL (P2.T3),Foul,Shooting,0,310
+21300058,336,PT06M28.00S,3,1610612757,POR,202083,Matthews,W. Matthews,0,0,0,,0,0.0,0.0,0,h,Matthews T.FOUL (P2.T3),Foul,Technical,0,311
+21300058,337,PT06M28.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,52.0,68.0,120,v,Harden Free Throw Technical (19 PTS),Free Throw,Free Throw Technical,0,312
+21300058,340,PT06M28.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,52.0,69.0,121,v,Harden Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,313
+21300058,342,PT06M28.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,SUB: Casspi FOR Asik,Substitution,,0,314
+21300058,343,PT06M28.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,52.0,70.0,122,v,Harden Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,315
+21300058,345,PT06M16.00S,3,1610612757,POR,203081,Lillard,D. Lillard,12,3,1,Missed,1,0.0,0.0,0,h,MISS Lillard 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,0,316
+21300058,346,PT06M14.00S,3,1610612745,HOU,201956,Casspi,O. Casspi,0,0,0,,0,0.0,0.0,0,v,Casspi REBOUND (Off:1 Def:5),Rebound,Unknown,0,317
+21300058,347,PT06M11.00S,3,1610612745,HOU,201935,Harden,J. Harden,162,178,24,Missed,1,0.0,0.0,0,v,MISS Harden 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,318
+21300058,348,PT06M11.00S,3,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,h,TRAIL BLAZERS Rebound,Rebound,Unknown,0,319
+21300058,349,PT06M00.00S,3,1610612757,POR,200746,Aldridge,L. Aldridge,7,-8,1,Made,1,54.0,70.0,124,h,Aldridge 1' Driving Finger Roll Layup (13 PTS) (Batum 4 AST),Made Shot,Driving Finger Roll Layup Shot,0,320
+21300058,350,PT05M49.00S,3,1610612757,POR,200746,Aldridge,L. Aldridge,0,0,0,,0,0.0,0.0,0,h,Aldridge S.FOUL (P3.T4),Foul,Shooting,0,321
+21300058,351,PT05M49.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,54.0,71.0,125,v,Howard Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,322
+21300058,353,PT05M49.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,54.0,72.0,126,v,Howard Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,323
+21300058,355,PT05M38.00S,3,1610612757,POR,201587,Batum,N. Batum,97,154,18,Made,1,56.0,72.0,128,h,Batum 18' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,0,324
+21300058,356,PT05M21.00S,3,1610612745,HOU,2730,Howard,D. Howard,50,1,5,Made,1,56.0,74.0,130,v,Howard 5' Hook Shot (24 PTS),Made Shot,Hook Shot,0,325
+21300058,357,PT05M12.00S,3,1610612757,POR,200746,Aldridge,L. Aldridge,7,-3,1,Made,1,58.0,74.0,132,h,Aldridge 1' Layup (15 PTS) (Lillard 4 AST),Made Shot,Layup Shot,0,326
+21300058,358,PT05M12.00S,3,1610612745,HOU,201956,Casspi,O. Casspi,0,0,0,,0,0.0,0.0,0,v,Casspi S.FOUL (P2.T3),Foul,Shooting,0,327
+21300058,359,PT05M12.00S,3,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,v,SUB: Beverley FOR Lin,Substitution,,0,328
+21300058,360,PT05M12.00S,3,1610612757,POR,200746,Aldridge,L. Aldridge,0,0,0,,0,59.0,74.0,133,h,Aldridge Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,0,329
+21300058,362,PT04M49.00S,3,1610612745,HOU,201956,Casspi,O. Casspi,2,247,25,Missed,1,0.0,0.0,0,v,MISS Casspi 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,330
+21300058,363,PT04M46.00S,3,1610612757,POR,201587,Batum,N. Batum,0,0,0,,0,0.0,0.0,0,h,Batum REBOUND (Off:1 Def:1),Rebound,Unknown,0,331
+21300058,364,PT04M42.00S,3,1610612757,POR,200746,Aldridge,L. Aldridge,13,12,2,Missed,1,0.0,0.0,0,h,MISS Aldridge 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,0,332
+21300058,366,PT04M40.00S,3,1610612757,POR,201587,Batum,N. Batum,0,0,0,,0,0.0,0.0,0,h,Batum REBOUND (Off:2 Def:1),Rebound,Unknown,0,333
+21300058,365,PT04M40.00S,3,1610612757,POR,201587,Batum,N. Batum,-13,-2,1,Made,1,61.0,74.0,135,h,Batum 1' Putback Layup (11 PTS),Made Shot,Putback Layup Shot,0,334
+21300058,367,PT04M38.00S,3,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,335
+21300058,369,PT04M25.00S,3,1610612745,HOU,201935,Harden,J. Harden,-7,145,15,Made,1,61.0,76.0,137,v,Harden 15' Pullup Jump Shot (23 PTS),Made Shot,Pullup Jump shot,0,336
+21300058,370,PT04M11.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-7,0,1,Missed,1,0.0,0.0,0,h,MISS Lillard 1' Driving Layup,Missed Shot,Driving Layup Shot,0,337
+21300058,371,PT04M09.00S,3,1610612745,HOU,201956,Casspi,O. Casspi,0,0,0,,0,0.0,0.0,0,v,Casspi REBOUND (Off:1 Def:6),Rebound,Unknown,0,338
+21300058,372,PT03M57.00S,3,1610612745,HOU,201935,Harden,J. Harden,-48,142,15,Made,1,61.0,78.0,139,v,Harden 15' Jump Shot (25 PTS),Made Shot,Jump Shot,0,339
+21300058,373,PT03M45.00S,3,1610612757,POR,201587,Batum,N. Batum,1,1,0,Made,1,63.0,78.0,141,h,Batum  Finger Roll Layup (13 PTS),Made Shot,Finger Roll Layup Shot,0,340
+21300058,374,PT03M33.00S,3,1610612745,HOU,201935,Harden,J. Harden,-221,20,0,Missed,1,0.0,0.0,0,v,MISS Harden  3PT Jump Shot,Missed Shot,Jump Shot,0,341
+21300058,375,PT03M33.00S,3,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,h,TRAIL BLAZERS Rebound,Rebound,Unknown,0,342
+21300058,376,PT03M22.00S,3,1610612757,POR,201587,Batum,N. Batum,-122,211,24,Missed,1,0.0,0.0,0,h,MISS Batum 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,343
+21300058,377,PT03M21.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,v,Harden REBOUND (Off:0 Def:6),Rebound,Unknown,0,344
+21300058,378,PT03M14.00S,3,1610612745,HOU,201935,Harden,J. Harden,-13,-2,1,Made,1,63.0,80.0,143,v,Harden 1' Driving Layup (27 PTS),Made Shot,Driving Layup Shot,0,345
+21300058,379,PT02M52.00S,3,1610612757,POR,200746,Aldridge,L. Aldridge,-177,66,19,Made,1,65.0,80.0,145,h,Aldridge 19' Step Back Jump Shot (18 PTS),Made Shot,Step Back Jump shot,0,346
+21300058,380,PT02M40.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,-231,36,0,Missed,1,0.0,0.0,0,v,MISS Parsons  3PT Jump Shot,Missed Shot,Jump Shot,0,347
+21300058,381,PT02M39.00S,3,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,h,TRAIL BLAZERS Rebound,Rebound,Unknown,0,348
+21300058,382,PT02M39.00S,3,1610612757,POR,200746,Aldridge,L. Aldridge,0,0,0,,0,0.0,0.0,0,h,SUB: Lopez FOR Aldridge,Substitution,,0,349
+21300058,383,PT02M39.00S,3,1610612757,POR,202083,Matthews,W. Matthews,0,0,0,,0,0.0,0.0,0,h,SUB: Williams FOR Matthews,Substitution,,0,350
+21300058,384,PT02M39.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,v,SUB: Garcia FOR Parsons,Substitution,,0,351
+21300058,385,PT02M20.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-37,41,6,Made,1,67.0,80.0,147,h,Lillard 6' Running Jump Shot (14 PTS) (Williams 1 AST),Made Shot,Running Jump Shot,0,352
+21300058,386,PT02M01.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,1,0,Missed,1,0.0,0.0,0,v,MISS Howard  Reverse Layup,Missed Shot,Reverse Layup Shot,0,353
+21300058,388,PT01M59.00S,3,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0.0,0.0,0,v,Beverley REBOUND (Off:2 Def:0),Rebound,Unknown,0,354
+21300058,387,PT01M59.00S,3,1610612745,HOU,201976,Beverley,P. Beverley,-11,1,1,Missed,1,0.0,0.0,0,v,MISS Beverley 1' Tip Shot,Missed Shot,Tip Shot,0,355
+21300058,389,PT01M57.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0.0,0.0,0,h,Lillard REBOUND (Off:0 Def:4),Rebound,Unknown,0,356
+21300058,390,PT01M50.00S,3,1610612757,POR,2590,Williams,M. Williams,-100,225,25,Missed,1,0.0,0.0,0,h,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,357
+21300058,391,PT01M50.00S,3,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,h,TRAIL BLAZERS Rebound,Rebound,Unknown,0,358
+21300058,392,PT01M50.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0.0,0.0,0,v,Howard L.B.FOUL (P3.T4),Foul,Loose Ball,0,359
+21300058,393,PT01M50.00S,3,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0.0,0.0,0,v,SUB: Asik FOR Howard,Substitution,,0,360
+21300058,394,PT01M40.00S,3,1610612757,POR,2748,Wright,D. Wright,-62,28,7,Made,1,69.0,80.0,149,h,Wright 7' Jump Shot (8 PTS) (Williams 2 AST),Made Shot,Jump Shot,0,361
+21300058,395,PT01M29.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,Asik OFF.Foul (P3),Foul,Offensive,0,362
+21300058,396,PT01M29.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,Asik Foul Turnover (P1.T13),Turnover,Foul,0,363
+21300058,397,PT01M15.00S,3,1610612757,POR,2590,Williams,M. Williams,110,11,11,Made,1,71.0,80.0,151,h,Williams 11' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,0,364
+21300058,398,PT00M56.90S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,v,Harden Bad Pass Turnover (P6.T14),Turnover,Bad Pass,0,365
+21300058,398,PT00M56.90S,3,1610612757,POR,2748,Wright,D. Wright,0,0,0,,0,0.0,0.0,0,h,Wright STEAL (1 STL),,,0,366
+21300058,399,PT00M52.90S,3,1610612757,POR,2748,Wright,D. Wright,-10,-11,1,Missed,1,0.0,0.0,0,h,MISS Wright 1' Driving Layup,Missed Shot,Driving Layup Shot,0,367
+21300058,400,PT00M49.90S,3,1610612745,HOU,201956,Casspi,O. Casspi,0,0,0,,0,0.0,0.0,0,v,Casspi REBOUND (Off:1 Def:7),Rebound,Unknown,0,368
+21300058,401,PT00M47.90S,3,1610612745,HOU,101128,Garcia,F. Garcia,9,-5,1,Missed,1,0.0,0.0,0,v,MISS Garcia 1' Layup,Missed Shot,Layup Shot,0,369
+21300058,402,PT00M46.40S,3,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Unknown,0,370
+21300058,403,PT00M46.40S,3,1610612757,POR,201577,Lopez,R. Lopez,0,0,0,,0,0.0,0.0,0,h,Lopez L.B.FOUL (P5.PN),Foul,Loose Ball,0,371
+21300058,404,PT00M46.40S,3,1610612745,HOU,201956,Casspi,O. Casspi,0,0,0,,0,71.0,81.0,152,v,Casspi Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,372
+21300058,406,PT00M46.40S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,v,SUB: Lin FOR Harden,Substitution,,0,373
+21300058,407,PT00M46.40S,3,1610612757,POR,201577,Lopez,R. Lopez,0,0,0,,0,0.0,0.0,0,h,SUB: Leonard FOR Lopez,Substitution,,0,374
+21300058,408,PT00M46.40S,3,1610612745,HOU,201956,Casspi,O. Casspi,0,0,0,,0,71.0,82.0,153,v,Casspi Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,375
+21300058,412,PT00M38.20S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,Asik P.FOUL (P4.PN),Foul,Personal,0,376
+21300058,413,PT00M38.20S,3,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,72.0,82.0,154,h,Leonard Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,377
+21300058,415,PT00M38.20S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0.0,0.0,0,h,SUB: Matthews FOR Lillard,Substitution,,0,378
+21300058,416,PT00M38.20S,3,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,73.0,82.0,155,h,Leonard Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,379
+21300058,418,PT00M21.50S,3,1610612745,HOU,201976,Beverley,P. Beverley,50,12,5,Made,1,73.0,84.0,157,v,Beverley 5' Running Hook Shot (2 PTS),Made Shot,Running Hook Shot,0,380
+21300058,419,PT00M02.90S,3,1610612757,POR,2590,Williams,M. Williams,-95,233,25,Missed,1,0.0,0.0,0,h,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,381
+21300058,420,PT00M02.70S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,Asik REBOUND (Off:1 Def:4),Rebound,Unknown,0,382
+21300058,421,PT00M00.50S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,Asik Bad Pass Turnover (P2.T15),Turnover,Bad Pass,0,383
+21300058,421,PT00M00.50S,3,1610612757,POR,2748,Wright,D. Wright,0,0,0,,0,0.0,0.0,0,h,Wright STEAL (2 STL),,,0,384
+21300058,422,PT00M00.20S,3,1610612757,POR,2748,Wright,D. Wright,-84,94,13,Missed,1,0.0,0.0,0,h,MISS Wright 13' Jump Shot,Missed Shot,Jump Shot,0,385
+21300058,423,PT00M00.00S,3,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,h,TRAIL BLAZERS Rebound,Rebound,Unknown,0,386
+21300058,424,PT00M00.00S,3,0,,0,,,0,0,0,,0,73.0,84.0,157,,End of 3rd Period (11:58 PM EST),period,end,0,387
+21300058,426,PT12M00.00S,4,0,,0,,,0,0,0,,0,73.0,84.0,157,,Start of 4th Period (12:01 AM EST),period,start,0,388
+21300058,427,PT11M46.00S,4,1610612745,HOU,202391,Lin,J. Lin,-27,131,13,Missed,1,0.0,0.0,0,v,MISS Lin 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,389
+21300058,428,PT11M45.00S,4,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,h,TRAIL BLAZERS Rebound,Rebound,Unknown,0,390
+21300058,429,PT11M34.00S,4,1610612757,POR,2590,Williams,M. Williams,-2,-5,1,Made,1,75.0,84.0,159,h,Williams 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,391
+21300058,430,PT11M15.00S,4,1610612745,HOU,201956,Casspi,O. Casspi,-38,25,5,Made,1,75.0,86.0,161,v,Casspi 5' Jump Shot (7 PTS) (Lin 4 AST),Made Shot,Jump Shot,0,392
+21300058,431,PT11M00.00S,4,1610612757,POR,2590,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,h,Williams Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,393
+21300058,433,PT10M45.00S,4,1610612745,HOU,202391,Lin,J. Lin,-168,142,22,Made,1,75.0,88.0,163,v,Lin 22' Jump Shot (10 PTS) (Casspi 4 AST),Made Shot,Jump Shot,0,394
+21300058,434,PT10M31.00S,4,1610612757,POR,203086,Leonard,M. Leonard,-24,200,20,Made,1,77.0,88.0,165,h,Leonard 20' Jump Shot (6 PTS) (Williams 3 AST),Made Shot,Jump Shot,0,395
+21300058,435,PT10M21.00S,4,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,v,Lin Lost Ball Turnover (P3.T16),Turnover,Lost Ball,0,396
+21300058,435,PT10M21.00S,4,1610612757,POR,202083,Matthews,W. Matthews,0,0,0,,0,0.0,0.0,0,h,Matthews STEAL (1 STL),,,0,397
+21300058,436,PT10M12.00S,4,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,v,Lin S.FOUL (P3.T1),Foul,Shooting,0,398
+21300058,437,PT10M12.00S,4,1610612757,POR,202083,Matthews,W. Matthews,0,0,0,,0,0.0,0.0,0,h,MISS Matthews Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,399
+21300058,438,PT10M12.00S,4,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,h,TRAIL BLAZERS Rebound,Rebound,Normal Rebound,0,400
+21300058,439,PT10M12.00S,4,1610612757,POR,202083,Matthews,W. Matthews,0,0,0,,0,78.0,88.0,166,h,Matthews Free Throw 2 of 3 (13 PTS),Free Throw,Free Throw 2 of 3,0,401
+21300058,441,PT10M12.00S,4,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,0.0,0.0,0,h,SUB: Aldridge FOR Leonard,Substitution,,0,402
+21300058,442,PT10M12.00S,4,1610612757,POR,202083,Matthews,W. Matthews,0,0,0,,0,79.0,88.0,167,h,Matthews Free Throw 3 of 3 (14 PTS),Free Throw,Free Throw 3 of 3,0,403
+21300058,444,PT10M01.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,13,3,1,Made,1,79.0,90.0,169,v,Beverley 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,404
+21300058,445,PT10M01.00S,4,1610612757,POR,200746,Aldridge,L. Aldridge,0,0,0,,0,0.0,0.0,0,h,Aldridge S.FOUL (P4.T1),Foul,Shooting,0,405
+21300058,446,PT10M01.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,79.0,91.0,170,v,Beverley Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,406
+21300058,448,PT09M52.00S,4,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,v,Lin S.FOUL (P4.T2),Foul,Shooting,0,407
+21300058,449,PT09M52.00S,4,1610612757,POR,202083,Matthews,W. Matthews,0,0,0,,0,80.0,91.0,171,h,Matthews Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,408
+21300058,451,PT09M52.00S,4,1610612757,POR,201587,Batum,N. Batum,0,0,0,,0,0.0,0.0,0,h,SUB: Lillard FOR Batum,Substitution,,0,409
+21300058,452,PT09M52.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,SUB: Parsons FOR Asik,Substitution,,0,410
+21300058,453,PT09M52.00S,4,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,v,SUB: Howard FOR Lin,Substitution,,0,411
+21300058,454,PT09M52.00S,4,1610612745,HOU,201956,Casspi,O. Casspi,0,0,0,,0,0.0,0.0,0,v,SUB: Harden FOR Casspi,Substitution,,0,412
+21300058,455,PT09M52.00S,4,1610612757,POR,202083,Matthews,W. Matthews,0,0,0,,0,81.0,91.0,172,h,Matthews Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,413
+21300058,457,PT09M40.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,159,78,18,Missed,1,0.0,0.0,0,v,MISS Beverley 18' Jump Shot,Missed Shot,Jump Shot,0,414
+21300058,458,PT09M39.00S,4,1610612757,POR,2590,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,h,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,415
+21300058,459,PT09M29.00S,4,1610612757,POR,200746,Aldridge,L. Aldridge,-13,0,1,Made,1,83.0,91.0,174,h,Aldridge 1' Driving Reverse Layup (20 PTS) (Williams 4 AST),Made Shot,Driving Reverse Layup Shot,0,416
+21300058,460,PT09M11.00S,4,1610612745,HOU,2730,Howard,D. Howard,-65,22,7,Missed,1,0.0,0.0,0,v,MISS Howard 7' Jump Shot,Missed Shot,Jump Shot,0,417
+21300058,462,PT09M08.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0.0,0.0,0,v,Beverley REBOUND (Off:3 Def:0),Rebound,Unknown,0,418
+21300058,461,PT09M08.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,-24,6,2,Made,1,83.0,93.0,176,v,Beverley 2' Layup (7 PTS),Made Shot,Layup Shot,0,419
+21300058,463,PT09M01.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,v,Harden P.FOUL (P4.T3),Foul,Personal,0,420
+21300058,464,PT08M45.00S,4,1610612757,POR,202083,Matthews,W. Matthews,149,190,24,Made,1,86.0,93.0,179,h,Matthews 24' 3PT Jump Shot (19 PTS) (Lillard 5 AST),Made Shot,Jump Shot,0,421
+21300058,465,PT08M29.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,v,Harden Traveling Turnover (P7.T17),Turnover,Traveling,0,422
+21300058,466,PT08M29.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,423
+21300058,469,PT08M11.00S,4,1610612757,POR,2590,Williams,M. Williams,162,112,20,Made,1,88.0,93.0,181,h,Williams 20' Jump Shot (8 PTS),Made Shot,Jump Shot,0,424
+21300058,470,PT07M52.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,-161,181,24,Made,1,88.0,96.0,184,v,Beverley 24' 3PT Jump Shot (10 PTS) (Parsons 1 AST),Made Shot,Jump Shot,0,425
+21300058,471,PT07M41.00S,4,1610612757,POR,2590,Williams,M. Williams,-106,176,21,Missed,1,0.0,0.0,0,h,MISS Williams 21' Jump Shot,Missed Shot,Jump Shot,0,426
+21300058,472,PT07M41.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,v,Harden REBOUND (Off:0 Def:7),Rebound,Unknown,0,427
+21300058,476,PT07M24.00S,4,1610612745,HOU,201935,Harden,J. Harden,-8,1,1,Made,1,88.0,98.0,186,v,Harden 1' Layup (29 PTS),Made Shot,Layup Shot,0,428
+21300058,477,PT07M24.00S,4,1610612757,POR,202083,Matthews,W. Matthews,0,0,0,,0,0.0,0.0,0,h,Matthews S.FOUL (P3.T2),Foul,Shooting,0,429
+21300058,478,PT07M24.00S,4,1610612757,POR,2748,Wright,D. Wright,0,0,0,,0,0.0,0.0,0,h,SUB: Batum FOR Wright,Substitution,,0,430
+21300058,479,PT07M24.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,88.0,99.0,187,v,Harden Free Throw 1 of 1 (30 PTS),Free Throw,Free Throw 1 of 1,0,431
+21300058,481,PT07M15.00S,4,1610612757,POR,203081,Lillard,D. Lillard,31,11,3,Made,1,90.0,99.0,189,h,Lillard 3' Layup (16 PTS) (Williams 5 AST),Made Shot,Layup Shot,0,432
+21300058,482,PT07M01.00S,4,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0.0,0.0,0,v,Howard Lost Ball Turnover (P5.T18),Turnover,Lost Ball,0,433
+21300058,482,PT07M01.00S,4,1610612757,POR,200746,Aldridge,L. Aldridge,0,0,0,,0,0.0,0.0,0,h,Aldridge STEAL (1 STL),,,0,434
+21300058,483,PT06M54.00S,4,1610612757,POR,203081,Lillard,D. Lillard,-183,156,24,Missed,1,0.0,0.0,0,h,MISS Lillard 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,435
+21300058,484,PT06M54.00S,4,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0.0,0.0,0,v,Howard REBOUND (Off:3 Def:8),Rebound,Unknown,0,436
+21300058,485,PT06M36.00S,4,1610612745,HOU,2730,Howard,D. Howard,-23,14,3,Made,1,90.0,101.0,191,v,Howard 3' Layup (26 PTS),Made Shot,Layup Shot,0,437
+21300058,486,PT06M29.00S,4,1610612745,HOU,101128,Garcia,F. Garcia,0,0,0,,0,0.0,0.0,0,v,Garcia P.FOUL (P2.T4),Foul,Personal,0,438
+21300058,487,PT06M17.00S,4,1610612757,POR,202083,Matthews,W. Matthews,-202,80,22,Missed,1,0.0,0.0,0,h,MISS Matthews 22' Jump Shot,Missed Shot,Jump Shot,0,439
+21300058,487,PT06M17.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,v,Harden BLOCK (1 BLK),,,0,440
+21300058,490,PT06M16.00S,4,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,h,TRAIL BLAZERS Rebound,Rebound,Unknown,0,441
+21300058,489,PT06M16.00S,4,1610612757,POR,200746,Aldridge,L. Aldridge,0,0,0,,0,0.0,0.0,0,h,Jump Ball Aldridge vs. Howard: Tip to Williams,Jump Ball,,0,442
+21300058,491,PT06M07.00S,4,1610612757,POR,2590,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,h,Williams OFF.Foul (P3),Foul,Offensive,0,443
+21300058,492,PT06M07.00S,4,1610612757,POR,2590,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,h,Williams Foul Turnover (P4.T13),Turnover,Foul,0,444
+21300058,495,PT05M50.00S,4,1610612757,POR,202083,Matthews,W. Matthews,0,0,0,,0,0.0,0.0,0,h,Matthews P.FOUL (P4.T3),Foul,Personal,0,445
+21300058,496,PT05M50.00S,4,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,h,TRAIL BLAZERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,446
+21300058,502,PT05M40.00S,4,1610612757,POR,202083,Matthews,W. Matthews,0,0,0,,0,0.0,0.0,0,h,Matthews P.FOUL (P5.T4),Foul,Personal,0,447
+21300058,503,PT05M40.00S,4,0,,502,,,0,0,0,,0,0.0,0.0,0,,Support Ruling,Instant Replay,Support Ruling,0,448
+21300058,504,PT05M33.00S,4,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0.0,0.0,0,v,Howard OFF.Foul (P4),Foul,Offensive,0,449
+21300058,505,PT05M33.00S,4,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0.0,0.0,0,v,Howard Foul Turnover (P6.T19),Turnover,Foul,0,450
+21300058,506,PT05M24.00S,4,1610612757,POR,203081,Lillard,D. Lillard,13,-5,1,Made,1,92.0,101.0,193,h,Lillard 1' Driving Layup (18 PTS) (Williams 6 AST),Made Shot,Driving Layup Shot,0,451
+21300058,507,PT05M24.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,v,Harden S.FOUL (P5.PN),Foul,Shooting,0,452
+21300058,508,PT05M24.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,93.0,101.0,194,h,Lillard Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,0,453
+21300058,510,PT05M08.00S,4,1610612745,HOU,201935,Harden,J. Harden,-27,4,3,Missed,1,0.0,0.0,0,v,MISS Harden 3' Layup,Missed Shot,Layup Shot,0,454
+21300058,512,PT05M06.00S,4,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0.0,0.0,0,v,Howard REBOUND (Off:4 Def:8),Rebound,Unknown,0,455
+21300058,511,PT05M06.00S,4,1610612745,HOU,2730,Howard,D. Howard,4,3,1,Made,1,93.0,103.0,196,v,Howard 1' Putback Dunk (28 PTS),Made Shot,Putback Dunk Shot,0,456
+21300058,513,PT04M51.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,v,Parsons P.FOUL (P3.PN),Foul,Personal,0,457
+21300058,514,PT04M51.00S,4,1610612757,POR,200746,Aldridge,L. Aldridge,0,0,0,,0,94.0,103.0,197,h,Aldridge Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,458
+21300058,516,PT04M51.00S,4,1610612757,POR,200746,Aldridge,L. Aldridge,0,0,0,,0,0.0,0.0,0,h,MISS Aldridge Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,459
+21300058,518,PT04M50.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,v,Parsons REBOUND (Off:0 Def:4),Rebound,Unknown,0,460
+21300058,519,PT04M30.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,-90,108,14,Made,1,94.0,105.0,199,v,Parsons 14' Turnaround Bank Shot (9 PTS),Made Shot,Turnaround Bank shot,0,461
+21300058,520,PT04M04.00S,4,1610612757,POR,202083,Matthews,W. Matthews,189,156,25,Missed,1,0.0,0.0,0,h,MISS Matthews 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,462
+21300058,521,PT04M03.00S,4,1610612757,POR,200746,Aldridge,L. Aldridge,0,0,0,,0,0.0,0.0,0,h,Aldridge REBOUND (Off:2 Def:3),Rebound,Unknown,0,463
+21300058,522,PT03M58.00S,4,1610612757,POR,203081,Lillard,D. Lillard,-34,260,26,Missed,1,0.0,0.0,0,h,MISS Lillard 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,464
+21300058,523,PT03M58.00S,4,1610612757,POR,202083,Matthews,W. Matthews,0,0,0,,0,0.0,0.0,0,h,Matthews REBOUND (Off:1 Def:2),Rebound,Unknown,0,465
+21300058,524,PT03M53.00S,4,1610612757,POR,201587,Batum,N. Batum,-226,93,24,Missed,1,0.0,0.0,0,h,MISS Batum 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,466
+21300058,524,PT03M53.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,v,Harden BLOCK (2 BLK),,,0,467
+21300058,525,PT03M52.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,v,Parsons REBOUND (Off:0 Def:5),Rebound,Unknown,0,468
+21300058,526,PT03M33.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,v,Harden Lost Ball Turnover (P8.T20),Turnover,Lost Ball,0,469
+21300058,526,PT03M33.00S,4,1610612757,POR,200746,Aldridge,L. Aldridge,0,0,0,,0,0.0,0.0,0,h,Aldridge STEAL (2 STL),,,0,470
+21300058,527,PT03M22.00S,4,1610612757,POR,203081,Lillard,D. Lillard,226,25,0,Made,1,97.0,105.0,202,h,Lillard  3PT Jump Shot (22 PTS) (Williams 7 AST),Made Shot,Jump Shot,0,471
+21300058,528,PT02M56.00S,4,1610612745,HOU,201935,Harden,J. Harden,91,230,25,Made,1,97.0,108.0,205,v,Harden 25' 3PT Step Back Jump Shot (33 PTS),Made Shot,Step Back Jump shot,0,472
+21300058,529,PT02M37.00S,4,1610612757,POR,200746,Aldridge,L. Aldridge,0,0,0,,0,0.0,0.0,0,h,Aldridge Bad Pass Turnover (P3.T14),Turnover,Bad Pass,0,473
+21300058,529,PT02M37.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,v,Parsons STEAL (2 STL),,,0,474
+21300058,530,PT02M34.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,10,-3,1,Made,1,97.0,110.0,207,v,Beverley 1' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,0,475
+21300058,531,PT02M34.00S,4,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,h,TRAIL BLAZERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,476
+21300058,533,PT02M34.00S,4,1610612745,HOU,101128,Garcia,F. Garcia,0,0,0,,0,0.0,0.0,0,v,SUB: Lin FOR Garcia,Substitution,,0,477
+21300058,534,PT02M18.00S,4,1610612757,POR,200746,Aldridge,L. Aldridge,43,132,14,Missed,1,0.0,0.0,0,h,MISS Aldridge 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,478
+21300058,535,PT02M16.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,v,Parsons REBOUND (Off:0 Def:6),Rebound,Unknown,0,479
+21300058,536,PT02M12.00S,4,1610612757,POR,201587,Batum,N. Batum,0,0,0,,0,0.0,0.0,0,h,Batum Personal Take Foul (P2.PN),Foul,Personal Take,0,480
+21300058,537,PT02M12.00S,4,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0.0,0.0,0,v,MISS Howard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,481
+21300058,538,PT02M12.00S,4,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Normal Rebound,0,482
+21300058,539,PT02M12.00S,4,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,97.0,111.0,208,v,Howard Free Throw 2 of 2 (29 PTS),Free Throw,Free Throw 2 of 2,0,483
+21300058,540,PT02M02.00S,4,1610612757,POR,203081,Lillard,D. Lillard,9,6,1,Missed,1,0.0,0.0,0,h,MISS Lillard 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,0,484
+21300058,540,PT02M02.00S,4,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0.0,0.0,0,v,Howard BLOCK (1 BLK),,,0,485
+21300058,541,PT01M59.00S,4,1610612757,POR,2590,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,h,Williams REBOUND (Off:1 Def:1),Rebound,Unknown,0,486
+21300058,542,PT01M52.00S,4,1610612757,POR,201587,Batum,N. Batum,230,-2,0,Missed,1,0.0,0.0,0,h,MISS Batum  3PT Jump Shot,Missed Shot,Jump Shot,0,487
+21300058,543,PT01M51.00S,4,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0.0,0.0,0,v,Howard REBOUND (Off:4 Def:9),Rebound,Unknown,0,488
+21300058,544,PT01M31.00S,4,1610612745,HOU,202391,Lin,J. Lin,84,233,25,Missed,1,0.0,0.0,0,v,MISS Lin 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,489
+21300058,545,PT01M29.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0.0,0.0,0,v,Beverley REBOUND (Off:4 Def:0),Rebound,Unknown,0,490
+21300058,546,PT01M11.00S,4,1610612757,POR,2590,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,h,Williams S.FOUL (P4.PN),Foul,Shooting,0,491
+21300058,547,PT01M11.00S,4,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,97.0,112.0,209,v,Lin Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,492
+21300058,549,PT01M11.00S,4,1610612757,POR,201587,Batum,N. Batum,0,0,0,,0,0.0,0.0,0,h,SUB: Leonard FOR Batum,Substitution,,0,493
+21300058,550,PT01M11.00S,4,1610612757,POR,200746,Aldridge,L. Aldridge,0,0,0,,0,0.0,0.0,0,h,SUB: Claver FOR Aldridge,Substitution,,0,494
+21300058,551,PT01M11.00S,4,1610612757,POR,202083,Matthews,W. Matthews,0,0,0,,0,0.0,0.0,0,h,SUB: Barton FOR Matthews,Substitution,,0,495
+21300058,552,PT01M11.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,0.0,0.0,0,h,SUB: Robinson FOR Lillard,Substitution,,0,496
+21300058,553,PT01M11.00S,4,1610612757,POR,2590,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,h,SUB: Crabbe FOR Williams,Substitution,,0,497
+21300058,554,PT01M11.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0.0,0.0,0,v,SUB: Garcia FOR Beverley,Substitution,,0,498
+21300058,555,PT01M11.00S,4,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,97.0,113.0,210,v,Lin Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,499
+21300058,557,PT01M01.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,v,Parsons P.FOUL (P4.PN),Foul,Personal,0,500
+21300058,558,PT01M01.00S,4,1610612757,POR,203080,Robinson,T. Robinson,0,0,0,,0,98.0,113.0,211,h,Robinson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,501
+21300058,560,PT01M01.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,v,SUB: Brooks FOR Parsons,Substitution,,0,502
+21300058,561,PT01M01.00S,4,1610612745,HOU,2730,Howard,D. Howard,0,0,0,,0,0.0,0.0,0,v,SUB: Jones FOR Howard,Substitution,,0,503
+21300058,562,PT01M01.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,v,SUB: Casspi FOR Harden,Substitution,,0,504
+21300058,563,PT01M01.00S,4,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,v,SUB: Smith FOR Lin,Substitution,,0,505
+21300058,564,PT01M01.00S,4,1610612757,POR,203080,Robinson,T. Robinson,0,0,0,,0,99.0,113.0,212,h,Robinson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,506
+21300058,566,PT00M46.90S,4,1610612745,HOU,101128,Garcia,F. Garcia,84,227,24,Made,1,99.0,116.0,215,v,Garcia 24' 3PT Jump Shot (6 PTS) (Casspi 5 AST),Made Shot,Jump Shot,0,507
+21300058,567,PT00M35.80S,4,1610612757,POR,203080,Robinson,T. Robinson,-5,206,21,Made,1,101.0,116.0,217,h,Robinson 21' Jump Shot (4 PTS) (Barton 1 AST),Made Shot,Jump Shot,0,508
+21300058,568,PT00M19.90S,4,1610612745,HOU,201166,Brooks,A. Brooks,-112,231,26,Missed,1,0.0,0.0,0,v,MISS Brooks 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,509
+21300058,569,PT00M17.90S,4,1610612757,POR,203080,Robinson,T. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,510
+21300058,570,PT00M06.90S,4,1610612757,POR,203115,Barton,W. Barton,141,203,25,Missed,1,0.0,0.0,0,h,MISS Barton 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,511
+21300058,571,PT00M06.30S,4,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0.0,0.0,0,v,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,0,512
+21300058,573,PT00M00.00S,4,0,,0,,,0,0,0,,0,101.0,116.0,217,,End of 4th Period (12:33 AM EST),period,end,0,513

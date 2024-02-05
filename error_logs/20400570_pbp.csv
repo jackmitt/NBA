@@ -1,0 +1,449 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+20400570,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (8:50 PM EST),period,start,0,1
+20400570,1,PT12M00.00S,1,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Jump Ball Dampier vs. Kaman: Tip to Brand,Jump Ball,,0,2
+20400570,2,PT11M36.00S,1,1610612746,LAC,1594,Brunson,R. Brunson,-136,174,22,Missed,1,0.0,0.0,0,v,MISS Brunson 22' Jump Shot,Missed Shot,Jump Shot,0,3
+20400570,3,PT11M34.00S,1,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,0.0,0.0,0,h,Finley REBOUND (Off:0 Def:1),Rebound,Unknown,0,4
+20400570,4,PT11M21.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,159,61,17,Missed,1,0.0,0.0,0,h,MISS Nowitzki 17' Jump Shot,Missed Shot,Jump Shot,0,5
+20400570,5,PT11M20.00S,1,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,v,Clippers Rebound,Rebound,Unknown,0,6
+20400570,6,PT11M02.00S,1,1610612746,LAC,1882,Brand,E. Brand,-39,148,15,Missed,1,0.0,0.0,0,v,MISS Brand 15' Jump Shot,Missed Shot,Jump Shot,0,7
+20400570,7,PT11M00.00S,1,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0.0,0.0,0,v,Simmons REBOUND (Off:1 Def:0),Rebound,Unknown,0,8
+20400570,8,PT10M57.00S,1,1610612746,LAC,1894,Maggette,C. Maggette,-151,153,21,Missed,1,0.0,0.0,0,v,MISS Maggette 21' Jump Shot,Missed Shot,Jump Shot,0,9
+20400570,9,PT10M55.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki REBOUND (Off:0 Def:1),Rebound,Unknown,0,10
+20400570,10,PT10M39.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,v,Clippers T.Foul (Def. 3 Sec Brand ),Foul,Defense 3 Second,0,11
+20400570,11,PT10M39.00S,1,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,1.0,0.0,1,h,Finley Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,12
+20400570,12,PT10M29.00S,1,1610612742,DAL,2572,Howard,J. Howard,-13,53,5,Made,1,3.0,0.0,3,h,Howard 5' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,0,13
+20400570,13,PT10M13.00S,1,1610612746,LAC,1882,Brand,E. Brand,-64,13,7,Missed,1,0.0,0.0,0,v,MISS Brand 7' Hook Shot,Missed Shot,Hook Shot,0,14
+20400570,14,PT10M10.00S,1,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,v,Clippers Rebound,Rebound,Unknown,0,15
+20400570,15,PT10M01.00S,1,1610612746,LAC,1894,Maggette,C. Maggette,144,169,22,Missed,1,0.0,0.0,0,v,MISS Maggette 22' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,16
+20400570,16,PT09M59.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki REBOUND (Off:0 Def:2),Rebound,Unknown,0,17
+20400570,17,PT09M42.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,156,118,20,Made,1,5.0,0.0,5,h,Nowitzki 20' Jump Shot (2 PTS),Made Shot,Jump Shot,0,18
+20400570,18,PT09M25.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,-71,12,7,Missed,1,0.0,0.0,0,v,MISS Kaman 7' Hook Shot,Missed Shot,Hook Shot,0,19
+20400570,19,PT09M23.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,v,Brand REBOUND (Off:1 Def:0),Rebound,Unknown,0,20
+20400570,20,PT09M17.00S,1,1610612746,LAC,2250,Simmons,B. Simmons,-174,123,21,Made,1,5.0,2.0,7,v,Simmons 21' Jump Shot (2 PTS) (Brunson 1 AST),Made Shot,Jump Shot,0,21
+20400570,21,PT09M07.00S,1,1610612742,DAL,1891,Terry,J. Terry,182,-5,18,Made,1,7.0,2.0,9,h,Terry 18' Jump Shot (2 PTS),Made Shot,Jump Shot,0,22
+20400570,22,PT08M49.00S,1,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,Missed,1,0.0,0.0,0,v,MISS Maggette  Layup,Missed Shot,Layup Shot,0,23
+20400570,23,PT08M48.00S,1,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0.0,0.0,0,v,Maggette REBOUND (Off:1 Def:0),Rebound,Unknown,0,24
+20400570,24,PT08M47.00S,1,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier S.FOUL (P1.T1),Foul,Shooting,0,25
+20400570,25,PT08M47.00S,1,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,7.0,3.0,10,v,Maggette Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,26
+20400570,26,PT08M47.00S,1,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,7.0,4.0,11,v,Maggette Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,27
+20400570,27,PT08M28.00S,1,1610612742,DAL,714,Finley,M. Finley,-218,95,24,Missed,1,0.0,0.0,0,h,MISS Finley 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,28
+20400570,28,PT08M25.00S,1,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier REBOUND (Off:1 Def:0),Rebound,Unknown,0,29
+20400570,29,PT08M18.00S,1,1610612742,DAL,2572,Howard,J. Howard,0,0,0,Made,1,9.0,4.0,13,h,Howard  Slam Dunk (4 PTS) (Dampier 1 AST),Made Shot,Slam Dunk Shot,0,30
+20400570,30,PT07M57.00S,1,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard S.FOUL (P1.T2),Foul,Shooting,0,31
+20400570,31,PT07M57.00S,1,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,9.0,5.0,14,v,Maggette Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,32
+20400570,32,PT07M57.00S,1,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,9.0,6.0,15,v,Maggette Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,33
+20400570,33,PT07M45.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,161,132,21,Made,1,11.0,6.0,17,h,Nowitzki 21' Jump Shot (4 PTS) (Terry 1 AST),Made Shot,Jump Shot,0,34
+20400570,34,PT07M32.00S,1,1610612746,LAC,2250,Simmons,B. Simmons,182,95,21,Missed,1,0.0,0.0,0,v,MISS Simmons 21' Jump Shot,Missed Shot,Jump Shot,0,35
+20400570,35,PT07M30.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki REBOUND (Off:0 Def:3),Rebound,Unknown,0,36
+20400570,36,PT07M23.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-177,128,22,Missed,1,0.0,0.0,0,h,MISS Nowitzki 22' Jump Shot,Missed Shot,Jump Shot,0,37
+20400570,37,PT07M20.00S,1,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard REBOUND (Off:1 Def:0),Rebound,Unknown,0,38
+20400570,38,PT07M20.00S,1,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,39
+20400570,42,PT07M02.00S,1,1610612742,DAL,714,Finley,M. Finley,-232,-5,0,Missed,1,0.0,0.0,0,h,MISS Finley  3PT Jump Shot,Missed Shot,Jump Shot,0,40
+20400570,43,PT07M00.00S,1,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0.0,0.0,0,v,Simmons REBOUND (Off:1 Def:1),Rebound,Unknown,0,41
+20400570,45,PT06M55.00S,1,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,42
+20400570,44,PT06M55.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Made,1,11.0,8.0,19,v,Kaman  Layup (2 PTS) (Maggette 1 AST),Made Shot,Layup Shot,0,43
+20400570,46,PT06M42.00S,1,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,Missed,1,0.0,0.0,0,h,MISS Dampier  Layup,Missed Shot,Layup Shot,0,44
+20400570,46,PT06M42.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,v,Brand BLOCK (1 BLK),,,0,45
+20400570,47,PT06M42.00S,1,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Jump Ball Dampier vs. Brand: Tip to Maggette,Jump Ball,,0,46
+20400570,48,PT06M42.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,v,Brand REBOUND (Off:1 Def:1),Rebound,Unknown,0,47
+20400570,50,PT06M24.00S,1,1610612746,LAC,1882,Brand,E. Brand,-159,23,16,Missed,1,0.0,0.0,0,v,MISS Brand 16' Jump Shot,Missed Shot,Jump Shot,0,48
+20400570,51,PT06M24.00S,1,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,v,Clippers Rebound,Rebound,Unknown,0,49
+20400570,52,PT06M24.00S,1,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry L.B.FOUL (P1.T3),Foul,Loose Ball,0,50
+20400570,53,PT06M13.00S,1,1610612746,LAC,1894,Maggette,C. Maggette,-204,71,22,Made,1,11.0,10.0,21,v,Maggette 22' Jump Shot (6 PTS) (Kaman 1 AST),Made Shot,Jump Shot,0,51
+20400570,54,PT06M01.00S,1,1610612742,DAL,2572,Howard,J. Howard,-228,66,24,Made,1,14.0,10.0,24,h,Howard 24' 3PT Jump Shot (7 PTS) (Terry 2 AST),Made Shot,Jump Shot,0,52
+20400570,55,PT05M44.00S,1,1610612746,LAC,1594,Brunson,R. Brunson,0,0,0,,0,0.0,0.0,0,v,Brunson Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,53
+20400570,55,PT05M44.00S,1,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry STEAL (1 STL),,,0,54
+20400570,56,PT05M35.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,177,5,18,Missed,1,0.0,0.0,0,h,MISS Nowitzki 18' Jump Shot,Missed Shot,Jump Shot,0,55
+20400570,57,PT05M35.00S,1,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier REBOUND (Off:2 Def:0),Rebound,Unknown,0,56
+20400570,58,PT05M35.00S,1,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0.0,0.0,0,v,Maggette L.B.FOUL (P1.T1),Foul,Loose Ball,0,57
+20400570,59,PT05M35.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki T.FOUL (P0.T3),Foul,Technical,0,58
+20400570,60,PT05M35.00S,1,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,14.0,11.0,25,v,Simmons Free Throw Technical (3 PTS),Free Throw,Free Throw Technical,0,59
+20400570,61,PT05M27.00S,1,1610612742,DAL,1891,Terry,J. Terry,94,17,10,Missed,1,0.0,0.0,0,h,MISS Terry 10' Jump Shot,Missed Shot,Jump Shot,0,60
+20400570,61,PT05M27.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,v,Brand BLOCK (2 BLK),,,0,61
+20400570,62,PT05M26.00S,1,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Rebound,Rebound,Unknown,0,62
+20400570,63,PT05M21.00S,1,1610612742,DAL,714,Finley,M. Finley,199,31,20,Missed,1,0.0,0.0,0,h,MISS Finley 20' Jump Shot,Missed Shot,Jump Shot,0,63
+20400570,64,PT05M19.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,v,Brand REBOUND (Off:1 Def:2),Rebound,Unknown,0,64
+20400570,65,PT05M06.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,Made,1,14.0,13.0,27,v,Brand  Reverse Layup (2 PTS),Made Shot,Reverse Layup Shot,0,65
+20400570,66,PT04M55.00S,1,1610612742,DAL,956,Dampier,E. Dampier,-31,36,5,Missed,1,0.0,0.0,0,h,MISS Dampier 5' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,66
+20400570,66,PT04M55.00S,1,1610612746,LAC,1594,Brunson,R. Brunson,0,0,0,,0,0.0,0.0,0,v,Brunson BLOCK (1 BLK),,,0,67
+20400570,67,PT04M53.00S,1,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier REBOUND (Off:3 Def:0),Rebound,Unknown,0,68
+20400570,68,PT04M51.00S,1,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,Missed,1,0.0,0.0,0,h,MISS Dampier  Layup,Missed Shot,Layup Shot,0,69
+20400570,69,PT04M49.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,v,Brand REBOUND (Off:1 Def:3),Rebound,Unknown,0,70
+20400570,70,PT04M45.00S,1,1610612746,LAC,1594,Brunson,R. Brunson,-95,155,18,Made,1,14.0,15.0,29,v,Brunson 18' Jump Shot (2 PTS),Made Shot,Jump Shot,0,71
+20400570,71,PT04M27.00S,1,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,Made,1,16.0,15.0,31,h,Dampier  Slam Dunk (2 PTS) (Nowitzki 1 AST),Made Shot,Slam Dunk Shot,0,72
+20400570,72,PT04M06.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,Missed,1,0.0,0.0,0,v,MISS Brand  Reverse Layup,Missed Shot,Reverse Layup Shot,0,73
+20400570,73,PT04M03.00S,1,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0.0,0.0,0,v,Maggette REBOUND (Off:2 Def:0),Rebound,Unknown,0,74
+20400570,74,PT04M02.00S,1,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0.0,0.0,0,v,Maggette OFF.Foul (P2),Foul,Offensive,0,75
+20400570,75,PT04M02.00S,1,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0.0,0.0,0,v,Maggette Foul Turnover (P1.T2),Turnover,Foul,0,76
+20400570,76,PT04M02.00S,1,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,SUB: Stackhouse FOR Howard,Substitution,,0,77
+20400570,77,PT04M02.00S,1,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0.0,0.0,0,v,SUB: Ross FOR Maggette,Substitution,,0,78
+20400570,78,PT03M48.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,79
+20400570,78,PT03M48.00S,1,1610612746,LAC,1594,Brunson,R. Brunson,0,0,0,,0,0.0,0.0,0,v,Brunson STEAL (1 STL),,,0,80
+20400570,79,PT03M41.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,Made,1,16.0,17.0,33,v,Brand  Layup (4 PTS) (Brunson 2 AST),Made Shot,Layup Shot,0,81
+20400570,80,PT03M29.00S,1,1610612742,DAL,956,Dampier,E. Dampier,-59,143,15,Missed,1,0.0,0.0,0,h,MISS Dampier 15' Jump Shot,Missed Shot,Jump Shot,0,82
+20400570,81,PT03M26.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,v,Brand REBOUND (Off:1 Def:4),Rebound,Unknown,0,83
+20400570,82,PT03M14.00S,1,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier S.FOUL (P2.T4),Foul,Shooting,0,84
+20400570,83,PT03M14.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,16.0,18.0,34,v,Brand Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,85
+20400570,84,PT03M14.00S,1,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,SUB: Henderson FOR Dampier,Substitution,,0,86
+20400570,85,PT03M14.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,16.0,19.0,35,v,Brand Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,87
+20400570,86,PT03M03.00S,1,1610612746,LAC,1594,Brunson,R. Brunson,0,0,0,,0,0.0,0.0,0,v,Brunson P.FOUL (P1.T2),Foul,Personal,0,88
+20400570,87,PT03M03.00S,1,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0.0,0.0,0,v,SUB: Moore FOR Kaman,Substitution,,0,89
+20400570,88,PT02M58.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-71,12,7,Missed,1,0.0,0.0,0,h,MISS Nowitzki 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,90
+20400570,89,PT02M55.00S,1,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0.0,0.0,0,v,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,91
+20400570,90,PT02M49.00S,1,1610612746,LAC,2250,Simmons,B. Simmons,164,33,17,Made,1,16.0,21.0,37,v,Simmons 17' Jump Shot (5 PTS) (Brunson 3 AST),Made Shot,Jump Shot,0,92
+20400570,91,PT02M31.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki OFF.Foul (P1),Foul,Offensive,0,93
+20400570,92,PT02M31.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki Foul Turnover (P2.T2),Turnover,Foul,0,94
+20400570,93,PT02M31.00S,1,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,v,Clippers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,95
+20400570,97,PT02M18.00S,1,1610612746,LAC,2250,Simmons,B. Simmons,-161,137,21,Made,1,16.0,23.0,39,v,Simmons 21' Jump Shot (7 PTS) (Ross 1 AST),Made Shot,Jump Shot,0,96
+20400570,98,PT02M02.00S,1,1610612742,DAL,1891,Terry,J. Terry,-23,240,24,Missed,1,0.0,0.0,0,h,MISS Terry 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,97
+20400570,99,PT02M00.00S,1,1610612746,LAC,1630,Moore,M. Moore,0,0,0,,0,0.0,0.0,0,v,Moore REBOUND (Off:0 Def:1),Rebound,Unknown,0,98
+20400570,100,PT01M49.00S,1,1610612746,LAC,1594,Brunson,R. Brunson,72,197,21,Missed,1,0.0,0.0,0,v,MISS Brunson 21' Jump Shot,Missed Shot,Jump Shot,0,99
+20400570,101,PT01M47.00S,1,1610612742,DAL,673,Henderson,A. Henderson,0,0,0,,0,0.0,0.0,0,h,Henderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,100
+20400570,102,PT01M35.00S,1,1610612742,DAL,711,Stackhouse,J. Stackhouse,-140,174,22,Missed,1,0.0,0.0,0,h,MISS Stackhouse 22' Jump Shot,Missed Shot,Jump Shot,0,101
+20400570,103,PT01M33.00S,1,1610612746,LAC,1594,Brunson,R. Brunson,0,0,0,,0,0.0,0.0,0,v,Brunson REBOUND (Off:0 Def:1),Rebound,Unknown,0,102
+20400570,104,PT01M29.00S,1,1610612746,LAC,2624,Ross,Q. Ross,-154,18,16,Missed,1,0.0,0.0,0,v,MISS Ross 16' Jump Shot,Missed Shot,Jump Shot,0,103
+20400570,105,PT01M27.00S,1,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,v,Brand REBOUND (Off:2 Def:4),Rebound,Unknown,0,104
+20400570,106,PT01M25.00S,1,1610612746,LAC,1882,Brand,E. Brand,-25,49,6,Made,1,16.0,25.0,41,v,Brand 6' Jump Hook Shot (8 PTS),Made Shot,Jump Hook Shot,0,105
+20400570,107,PT01M11.00S,1,1610612742,DAL,1891,Terry,J. Terry,-23,56,6,Made,1,18.0,25.0,43,h,Terry 6' Running Jump Shot (4 PTS),Made Shot,Running Jump Shot,0,106
+20400570,108,PT00M52.00S,1,1610612746,LAC,1882,Brand,E. Brand,121,15,12,Made,1,18.0,27.0,45,v,Brand 12' Jump Shot (10 PTS) (Brunson 4 AST),Made Shot,Jump Shot,0,107
+20400570,109,PT00M48.20S,1,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0.0,0.0,0,v,Ross P.FOUL (P1.T3),Foul,Personal,0,108
+20400570,110,PT00M40.40S,1,1610612746,LAC,1630,Moore,M. Moore,0,0,0,,0,0.0,0.0,0,v,Moore P.FOUL (P1.PN),Foul,Personal,0,109
+20400570,111,PT00M40.40S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,19.0,27.0,46,h,Nowitzki Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,110
+20400570,112,PT00M40.40S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,20.0,27.0,47,h,Nowitzki Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,111
+20400570,113,PT00M30.90S,1,1610612746,LAC,2250,Simmons,B. Simmons,166,140,22,Missed,1,0.0,0.0,0,v,MISS Simmons 22' Jump Shot,Missed Shot,Jump Shot,0,112
+20400570,114,PT00M28.50S,1,1610612746,LAC,1630,Moore,M. Moore,0,0,0,,0,0.0,0.0,0,v,Moore REBOUND (Off:1 Def:1),Rebound,Unknown,0,113
+20400570,115,PT00M24.90S,1,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0.0,0.0,0,v,Simmons Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,114
+20400570,115,PT00M24.90S,1,1610612742,DAL,673,Henderson,A. Henderson,0,0,0,,0,0.0,0.0,0,h,Henderson STEAL (1 STL),,,0,115
+20400570,117,PT00M09.90S,1,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,0.0,0.0,0,h,Stackhouse Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,116
+20400570,117,PT00M09.90S,1,1610612746,LAC,1594,Brunson,R. Brunson,0,0,0,,0,0.0,0.0,0,v,Brunson STEAL (2 STL),,,0,117
+20400570,118,PT00M05.30S,1,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,Made,1,20.0,29.0,49,v,Ross  Layup (2 PTS) (Brunson 5 AST),Made Shot,Layup Shot,0,118
+20400570,119,PT00M00.50S,1,1610612742,DAL,714,Finley,M. Finley,154,202,25,Missed,1,0.0,0.0,0,h,MISS Finley 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,119
+20400570,120,PT00M00.20S,1,1610612742,DAL,673,Henderson,A. Henderson,0,0,0,,0,0.0,0.0,0,h,Henderson REBOUND (Off:1 Def:1),Rebound,Unknown,0,120
+20400570,121,PT00M00.00S,1,0,,0,,,0,0,0,,0,20.0,29.0,49,,End of 1st Period (9:17 PM EST),period,end,0,121
+20400570,123,PT12M00.00S,2,0,,0,,,0,0,0,,0,20.0,29.0,49,,Start of 2nd Period (9:19 PM EST),period,start,0,122
+20400570,124,PT11M45.00S,2,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,0,123
+20400570,125,PT11M45.00S,2,1610612742,DAL,673,Henderson,A. Henderson,0,0,0,,0,0.0,0.0,0,h,SUB: Bradley FOR Henderson,Substitution,,0,124
+20400570,126,PT11M21.00S,2,1610612746,LAC,239,Martin,D. Martin,0,0,0,,0,0.0,0.0,0,v,Martin Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,125
+20400570,126,PT11M21.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki STEAL (1 STL),,,0,126
+20400570,127,PT11M20.00S,2,1610612746,LAC,239,Martin,D. Martin,0,0,0,,0,0.0,0.0,0,v,Martin C.P.FOUL (P1.T1),Foul,Clear Path,0,127
+20400570,128,PT11M20.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,21.0,29.0,50,h,Nowitzki Free Throw Clear Path (7 PTS),Free Throw,Free Throw Clear Path,0,128
+20400570,129,PT11M13.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,Made,1,23.0,29.0,52,h,Harris  Running Layup (2 PTS),Made Shot,Running Layup Shot,0,129
+20400570,130,PT10M56.00S,2,1610612746,LAC,239,Martin,D. Martin,0,0,0,,0,0.0,0.0,0,v,Martin Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,130
+20400570,130,PT10M56.00S,2,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard STEAL (1 STL),,,0,131
+20400570,131,PT10M56.00S,2,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0.0,0.0,0,v,Simmons P.FOUL (P1.T2),Foul,Personal,0,132
+20400570,132,PT10M40.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,149,194,24,Made,1,26.0,29.0,55,h,Nowitzki 24' 3PT Jump Shot (10 PTS) (Stackhouse 1 AST),Made Shot,Jump Shot,0,133
+20400570,133,PT10M22.00S,2,1610612746,LAC,1630,Moore,M. Moore,167,40,17,Missed,1,0.0,0.0,0,v,MISS Moore 17' Jump Shot,Missed Shot,Jump Shot,0,134
+20400570,134,PT10M20.00S,2,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0.0,0.0,0,v,Ross REBOUND (Off:1 Def:1),Rebound,Unknown,0,135
+20400570,135,PT10M19.00S,2,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,Missed,1,0.0,0.0,0,v,MISS Ross  Layup,Missed Shot,Layup Shot,0,136
+20400570,136,PT10M18.00S,2,1610612746,LAC,1442,Rebraca,Z. Rebraca,0,0,0,,0,0.0,0.0,0,v,Rebraca REBOUND (Off:1 Def:0),Rebound,Unknown,0,137
+20400570,137,PT10M15.00S,2,1610612746,LAC,1442,Rebraca,Z. Rebraca,0,0,0,,0,0.0,0.0,0,v,Rebraca Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,138
+20400570,137,PT10M15.00S,2,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,0.0,0.0,0,h,Stackhouse STEAL (1 STL),,,0,139
+20400570,138,PT10M10.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,Made,1,28.0,29.0,57,h,Nowitzki  Slam Dunk (12 PTS) (Stackhouse 2 AST),Made Shot,Slam Dunk Shot,0,140
+20400570,139,PT10M01.00S,2,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,v,Clippers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,141
+20400570,142,PT10M01.00S,2,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0.0,0.0,0,v,SUB: Maggette FOR Simmons,Substitution,,0,142
+20400570,143,PT09M41.00S,2,1610612746,LAC,1442,Rebraca,Z. Rebraca,-64,68,9,Made,1,28.0,31.0,59,v,Rebraca 9' Jump Shot (2 PTS),Made Shot,Jump Shot,0,143
+20400570,144,PT09M26.00S,2,1610612742,DAL,2734,Harris,D. Harris,56,49,7,Missed,1,0.0,0.0,0,h,MISS Harris 7' Jump Shot,Missed Shot,Jump Shot,0,144
+20400570,145,PT09M24.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0.0,0.0,0,h,Harris REBOUND (Off:1 Def:0),Rebound,Unknown,0,145
+20400570,146,PT09M21.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-118,215,25,Missed,1,0.0,0.0,0,h,MISS Nowitzki 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,146
+20400570,147,PT09M18.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0.0,0.0,0,v,Maggette REBOUND (Off:2 Def:1),Rebound,Unknown,0,147
+20400570,148,PT09M09.00S,2,1610612746,LAC,1442,Rebraca,Z. Rebraca,8,146,15,Missed,1,0.0,0.0,0,v,MISS Rebraca 15' Jump Shot,Missed Shot,Jump Shot,0,148
+20400570,149,PT09M07.00S,2,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard REBOUND (Off:1 Def:1),Rebound,Unknown,0,149
+20400570,150,PT08M58.00S,2,1610612742,DAL,2572,Howard,J. Howard,0,0,0,Made,1,30.0,31.0,61,h,Howard  Running Layup (9 PTS),Made Shot,Running Layup Shot,0,150
+20400570,151,PT08M36.00S,2,1610612746,LAC,1442,Rebraca,Z. Rebraca,0,0,0,,0,0.0,0.0,0,v,Rebraca Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,151
+20400570,151,PT08M36.00S,2,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard STEAL (2 STL),,,0,152
+20400570,152,PT08M36.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0.0,0.0,0,v,Maggette P.FOUL (P3.T3),Foul,Personal,0,153
+20400570,154,PT08M36.00S,2,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0.0,0.0,0,v,SUB: Simmons FOR Maggette,Substitution,,0,154
+20400570,155,PT08M36.00S,2,1610612746,LAC,1630,Moore,M. Moore,0,0,0,,0,0.0,0.0,0,v,SUB: Kaman FOR Moore,Substitution,,0,155
+20400570,156,PT08M36.00S,2,1610612746,LAC,1442,Rebraca,Z. Rebraca,0,0,0,,0,0.0,0.0,0,v,SUB: Brand FOR Rebraca,Substitution,,0,156
+20400570,157,PT08M22.00S,2,1610612742,DAL,711,Stackhouse,J. Stackhouse,149,10,15,Missed,1,0.0,0.0,0,h,MISS Stackhouse 15' Jump Shot,Missed Shot,Jump Shot,0,157
+20400570,159,PT08M21.00S,2,1610612742,DAL,762,Bradley,S. Bradley,0,0,0,,0,0.0,0.0,0,h,Bradley REBOUND (Off:1 Def:0),Rebound,Unknown,0,158
+20400570,158,PT08M21.00S,2,1610612742,DAL,762,Bradley,S. Bradley,0,0,0,Made,1,32.0,31.0,63,h,Bradley  Slam Dunk (2 PTS),Made Shot,Slam Dunk Shot,0,159
+20400570,160,PT08M05.00S,2,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard P.FOUL (P2.T1),Foul,Personal,0,160
+20400570,161,PT07M49.00S,2,1610612746,LAC,1882,Brand,E. Brand,80,132,15,Missed,1,0.0,0.0,0,v,MISS Brand 15' Jump Shot,Missed Shot,Jump Shot,0,161
+20400570,162,PT07M47.00S,2,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,0.0,0.0,0,h,Stackhouse REBOUND (Off:0 Def:1),Rebound,Unknown,0,162
+20400570,164,PT07M36.00S,2,1610612742,DAL,2572,Howard,J. Howard,-28,38,5,Made,1,34.0,31.0,65,h,Howard 5' Running Jump Shot (11 PTS),Made Shot,Running Jump Shot,0,163
+20400570,165,PT07M13.00S,2,1610612746,LAC,2624,Ross,Q. Ross,-62,95,11,Made,1,34.0,33.0,67,v,Ross 11' Jump Shot (4 PTS) (Martin 1 AST),Made Shot,Jump Shot,0,164
+20400570,166,PT07M01.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0.0,0.0,0,h,Harris Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,165
+20400570,166,PT07M01.00S,2,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0.0,0.0,0,v,Simmons STEAL (1 STL),,,0,166
+20400570,167,PT06M52.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,74,22,8,Made,1,34.0,35.0,69,v,Kaman 8' Hook Shot (4 PTS),Made Shot,Hook Shot,0,167
+20400570,168,PT06M27.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-148,151,21,Made,1,36.0,35.0,71,h,Nowitzki 21' Jump Shot (14 PTS) (Harris 1 AST),Made Shot,Jump Shot,0,168
+20400570,169,PT06M04.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Missed,1,0.0,0.0,0,v,MISS Kaman  Layup,Missed Shot,Layup Shot,0,169
+20400570,170,PT06M03.00S,2,1610612742,DAL,762,Bradley,S. Bradley,0,0,0,,0,0.0,0.0,0,h,Bradley REBOUND (Off:1 Def:1),Rebound,Unknown,0,170
+20400570,171,PT05M55.00S,2,1610612742,DAL,711,Stackhouse,J. Stackhouse,158,151,22,Made,1,38.0,35.0,73,h,Stackhouse 22' Jump Shot (2 PTS) (Howard 1 AST),Made Shot,Jump Shot,0,171
+20400570,172,PT05M27.00S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,Made,1,38.0,37.0,75,v,Brand  Layup (12 PTS) (Kaman 2 AST),Made Shot,Layup Shot,0,172
+20400570,173,PT05M12.00S,2,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard Out of Bounds Lost Ball Turnover (P2.T6),Turnover,Out of Bounds Lost Ball Turnover,0,173
+20400570,175,PT05M12.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,174
+20400570,176,PT05M12.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,SUB: Dampier FOR Nowitzki,Substitution,,0,175
+20400570,177,PT05M12.00S,2,1610612742,DAL,762,Bradley,S. Bradley,0,0,0,,0,0.0,0.0,0,h,SUB: Henderson FOR Bradley,Substitution,,0,176
+20400570,180,PT05M12.00S,2,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,SUB: Finley FOR Howard,Substitution,,0,177
+20400570,181,PT04M52.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0.0,0.0,0,h,Harris S.FOUL (P1.T2),Foul,Shooting,0,178
+20400570,182,PT04M52.00S,2,1610612746,LAC,239,Martin,D. Martin,0,0,0,,0,0.0,0.0,0,v,SUB: Brunson FOR Martin,Substitution,,0,179
+20400570,183,PT04M52.00S,2,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,38.0,38.0,76,v,Simmons Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,180
+20400570,184,PT04M52.00S,2,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,38.0,39.0,77,v,Simmons Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,181
+20400570,185,PT04M28.00S,2,1610612742,DAL,711,Stackhouse,J. Stackhouse,-77,265,28,Missed,1,0.0,0.0,0,h,MISS Stackhouse 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,182
+20400570,186,PT04M25.00S,2,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier REBOUND (Off:4 Def:0),Rebound,Unknown,0,183
+20400570,187,PT04M23.00S,2,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,Made,1,40.0,39.0,79,h,Dampier  Reverse Layup (4 PTS),Made Shot,Reverse Layup Shot,0,184
+20400570,188,PT04M03.00S,2,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,Made,1,40.0,41.0,81,v,Ross  Layup (6 PTS) (Brand 1 AST),Made Shot,Layup Shot,0,185
+20400570,189,PT03M53.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0.0,0.0,0,h,Harris Out of Bounds Lost Ball Turnover (P2.T7),Turnover,Out of Bounds Lost Ball Turnover,0,186
+20400570,190,PT03M53.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0.0,0.0,0,h,SUB: Terry FOR Harris,Substitution,,0,187
+20400570,191,PT03M36.00S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,v,Brand Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,188
+20400570,191,PT03M36.00S,2,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry STEAL (2 STL),,,0,189
+20400570,193,PT03M13.00S,2,1610612742,DAL,673,Henderson,A. Henderson,-128,22,13,Missed,1,0.0,0.0,0,h,MISS Henderson 13' Jump Shot,Missed Shot,Jump Shot,0,190
+20400570,195,PT03M11.00S,2,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier REBOUND (Off:5 Def:0),Rebound,Unknown,0,191
+20400570,194,PT03M11.00S,2,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,Missed,1,0.0,0.0,0,h,MISS Dampier  Layup,Missed Shot,Layup Shot,0,192
+20400570,196,PT03M10.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0.0,0.0,0,v,Kaman REBOUND (Off:0 Def:1),Rebound,Unknown,0,193
+20400570,197,PT03M03.00S,2,1610612746,LAC,1594,Brunson,R. Brunson,6,238,24,Missed,1,0.0,0.0,0,v,MISS Brunson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,194
+20400570,198,PT03M00.00S,2,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0.0,0.0,0,v,Simmons REBOUND (Off:2 Def:1),Rebound,Unknown,0,195
+20400570,199,PT02M59.00S,2,1610612746,LAC,2250,Simmons,B. Simmons,164,0,16,Made,1,40.0,43.0,83,v,Simmons 16' Jump Shot (11 PTS),Made Shot,Jump Shot,0,196
+20400570,200,PT02M46.00S,2,1610612742,DAL,673,Henderson,A. Henderson,0,0,0,Made,1,42.0,43.0,85,h,Henderson  Layup (2 PTS) (Terry 3 AST),Made Shot,Layup Shot,0,197
+20400570,201,PT02M27.00S,2,1610612746,LAC,1882,Brand,E. Brand,-16,79,8,Missed,1,0.0,0.0,0,v,MISS Brand 8' Jump Shot,Missed Shot,Jump Shot,0,198
+20400570,203,PT02M25.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0.0,0.0,0,v,Kaman REBOUND (Off:1 Def:1),Rebound,Unknown,0,199
+20400570,202,PT02M25.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Made,1,42.0,45.0,87,v,Kaman  Slam Dunk (6 PTS),Made Shot,Slam Dunk Shot,0,200
+20400570,204,PT02M13.00S,2,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,201
+20400570,206,PT02M13.00S,2,1610612742,DAL,673,Henderson,A. Henderson,0,0,0,,0,0.0,0.0,0,h,SUB: Nowitzki FOR Henderson,Substitution,,0,202
+20400570,208,PT01M53.00S,2,1610612742,DAL,714,Finley,M. Finley,-6,240,24,Missed,1,0.0,0.0,0,h,MISS Finley 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,203
+20400570,209,PT01M51.00S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,v,Brand REBOUND (Off:2 Def:5),Rebound,Unknown,0,204
+20400570,210,PT01M38.00S,2,1610612746,LAC,1882,Brand,E. Brand,-25,143,15,Missed,1,0.0,0.0,0,v,MISS Brand 15' Jump Shot,Missed Shot,Jump Shot,0,205
+20400570,211,PT01M35.00S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,v,Brand REBOUND (Off:3 Def:5),Rebound,Unknown,0,206
+20400570,212,PT01M33.00S,2,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,0.0,0.0,0,h,Stackhouse S.FOUL (P1.T3),Foul,Shooting,0,207
+20400570,213,PT01M33.00S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,42.0,46.0,88,v,Brand Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,208
+20400570,214,PT01M33.00S,2,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,0.0,0.0,0,h,SUB: Howard FOR Stackhouse,Substitution,,0,209
+20400570,215,PT01M33.00S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,v,MISS Brand Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,210
+20400570,216,PT01M33.00S,2,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0.0,0.0,0,v,Simmons REBOUND (Off:3 Def:1),Rebound,Unknown,0,211
+20400570,217,PT01M28.00S,2,1610612746,LAC,2250,Simmons,B. Simmons,-135,95,17,Missed,1,0.0,0.0,0,v,MISS Simmons 17' Jump Shot,Missed Shot,Jump Shot,0,212
+20400570,218,PT01M26.00S,2,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry REBOUND (Off:0 Def:1),Rebound,Unknown,0,213
+20400570,219,PT01M20.00S,2,1610612742,DAL,714,Finley,M. Finley,54,31,6,Missed,1,0.0,0.0,0,h,MISS Finley 6' Jump Bank Shot,Missed Shot,Jump Bank Shot,0,214
+20400570,220,PT01M18.00S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0.0,0.0,0,v,Kaman REBOUND (Off:1 Def:2),Rebound,Unknown,0,215
+20400570,221,PT01M02.00S,2,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,Missed,1,0.0,0.0,0,v,MISS Simmons  Layup,Missed Shot,Layup Shot,0,216
+20400570,221,PT01M02.00S,2,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier BLOCK (1 BLK),,,0,217
+20400570,222,PT01M00.00S,2,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier REBOUND (Off:5 Def:1),Rebound,Unknown,0,218
+20400570,223,PT00M45.90S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-126,156,20,Missed,1,0.0,0.0,0,h,MISS Nowitzki 20' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,219
+20400570,224,PT00M42.80S,2,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0.0,0.0,0,v,Simmons REBOUND (Off:3 Def:2),Rebound,Unknown,0,220
+20400570,225,PT00M34.00S,2,1610612746,LAC,1882,Brand,E. Brand,0,0,0,Made,1,42.0,48.0,90,v,Brand  Slam Dunk (15 PTS) (Brunson 6 AST),Made Shot,Slam Dunk Shot,0,221
+20400570,226,PT00M14.90S,2,1610612742,DAL,1891,Terry,J. Terry,-44,61,8,Missed,1,0.0,0.0,0,h,MISS Terry 8' Running Jump Shot,Missed Shot,Running Jump Shot,0,222
+20400570,227,PT00M11.40S,2,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier REBOUND (Off:6 Def:1),Rebound,Unknown,0,223
+20400570,228,PT00M09.90S,2,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,Missed,1,0.0,0.0,0,h,MISS Dampier  Layup,Missed Shot,Layup Shot,0,224
+20400570,228,PT00M09.90S,2,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0.0,0.0,0,v,Kaman BLOCK (1 BLK),,,0,225
+20400570,229,PT00M08.80S,2,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0.0,0.0,0,v,Simmons REBOUND (Off:3 Def:3),Rebound,Unknown,0,226
+20400570,230,PT00M00.60S,2,1610612746,LAC,1594,Brunson,R. Brunson,0,0,0,,0,0.0,0.0,0,v,Brunson Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,227
+20400570,230,PT00M00.60S,2,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry STEAL (3 STL),,,0,228
+20400570,231,PT00M00.00S,2,0,,0,,,0,0,0,,0,42.0,48.0,90,,End of 2nd Period (9:44 PM EST),period,end,0,229
+20400570,233,PT12M00.00S,3,0,,0,,,0,0,0,,0,42.0,48.0,90,,Start of 3rd Period (10:02 PM EST),period,start,0,230
+20400570,234,PT11M49.00S,3,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0.0,0.0,0,v,Simmons S.FOUL (P2.T1),Foul,Shooting,0,231
+20400570,235,PT11M49.00S,3,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,MISS Dampier Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,232
+20400570,236,PT11M49.00S,3,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Rebound,Rebound,Normal Rebound,0,233
+20400570,237,PT11M49.00S,3,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,MISS Dampier Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,234
+20400570,238,PT11M48.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,v,Brand REBOUND (Off:3 Def:6),Rebound,Unknown,0,235
+20400570,239,PT11M25.00S,3,1610612746,LAC,1882,Brand,E. Brand,-143,76,16,Missed,1,0.0,0.0,0,v,MISS Brand 16' Jump Shot,Missed Shot,Jump Shot,0,236
+20400570,240,PT11M24.00S,3,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Rebound,Rebound,Unknown,0,237
+20400570,241,PT11M14.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki OFF.Foul (P2),Foul,Offensive,0,238
+20400570,242,PT11M14.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki Foul Turnover (P3.T8),Turnover,Foul,0,239
+20400570,243,PT10M57.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,189,36,19,Missed,1,0.0,0.0,0,v,MISS Kaman 19' Jump Shot,Missed Shot,Jump Shot,0,240
+20400570,243,PT10M57.00S,3,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier BLOCK (2 BLK),,,0,241
+20400570,244,PT10M55.00S,3,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard REBOUND (Off:1 Def:2),Rebound,Unknown,0,242
+20400570,245,PT10M49.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,172,33,18,Missed,1,0.0,0.0,0,h,MISS Nowitzki 18' Jump Shot,Missed Shot,Jump Shot,0,243
+20400570,246,PT10M47.00S,3,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0.0,0.0,0,v,Simmons REBOUND (Off:3 Def:4),Rebound,Unknown,0,244
+20400570,247,PT10M40.00S,3,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard S.FOUL (P3.T1),Foul,Shooting,0,245
+20400570,248,PT10M40.00S,3,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,42.0,49.0,91,v,Maggette Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,246
+20400570,249,PT10M40.00S,3,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,42.0,50.0,92,v,Maggette Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,247
+20400570,250,PT10M26.00S,3,1610612742,DAL,714,Finley,M. Finley,-41,143,15,Made,1,44.0,50.0,94,h,Finley 15' Jump Shot (3 PTS) (Nowitzki 2 AST),Made Shot,Jump Shot,0,248
+20400570,251,PT10M24.00S,3,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Violation: Delay of game Violation,Violation,Delay Of Game,0,249
+20400570,252,PT10M08.00S,3,1610612746,LAC,1894,Maggette,C. Maggette,34,243,25,Missed,1,0.0,0.0,0,v,MISS Maggette 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,250
+20400570,253,PT10M06.00S,3,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier REBOUND (Off:6 Def:2),Rebound,Unknown,0,251
+20400570,254,PT10M06.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,v,Brand L.B.FOUL (P1.T2),Foul,Loose Ball,0,252
+20400570,255,PT09M56.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,144,138,20,Made,1,46.0,50.0,96,h,Nowitzki 20' Jump Shot (16 PTS) (Terry 4 AST),Made Shot,Jump Shot,0,253
+20400570,256,PT09M38.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,Made,1,46.0,52.0,98,v,Brand  Layup (17 PTS) (Maggette 2 AST),Made Shot,Layup Shot,0,254
+20400570,257,PT09M38.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki S.FOUL (P3.T2),Foul,Shooting,0,255
+20400570,258,PT09M38.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,46.0,53.0,99,v,Brand Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,0,256
+20400570,259,PT09M27.00S,3,1610612742,DAL,714,Finley,M. Finley,117,158,20,Made,1,48.0,53.0,101,h,Finley 20' Jump Shot (5 PTS) (Terry 5 AST),Made Shot,Jump Shot,0,257
+20400570,260,PT09M09.00S,3,1610612746,LAC,1594,Brunson,R. Brunson,125,174,21,Missed,1,0.0,0.0,0,v,MISS Brunson 21' Jump Shot,Missed Shot,Jump Shot,0,258
+20400570,261,PT09M08.00S,3,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard REBOUND (Off:1 Def:3),Rebound,Unknown,0,259
+20400570,262,PT09M00.00S,3,1610612742,DAL,1891,Terry,J. Terry,181,30,18,Made,1,50.0,53.0,103,h,Terry 18' Jump Shot (6 PTS) (Howard 2 AST),Made Shot,Jump Shot,0,260
+20400570,263,PT08M44.00S,3,1610612746,LAC,1894,Maggette,C. Maggette,126,178,22,Made,1,50.0,55.0,105,v,Maggette 22' Jump Shot (10 PTS),Made Shot,Jump Shot,0,261
+20400570,264,PT08M34.00S,3,1610612742,DAL,1891,Terry,J. Terry,128,155,20,Made,1,52.0,55.0,107,h,Terry 20' Jump Shot (8 PTS),Made Shot,Jump Shot,0,262
+20400570,265,PT08M26.00S,3,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,Missed,1,0.0,0.0,0,v,MISS Maggette  Layup,Missed Shot,Layup Shot,0,263
+20400570,266,PT08M24.00S,3,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier REBOUND (Off:6 Def:3),Rebound,Unknown,0,264
+20400570,267,PT08M17.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-69,160,17,Missed,1,0.0,0.0,0,h,MISS Nowitzki 17' Jump Shot,Missed Shot,Jump Shot,0,265
+20400570,268,PT08M13.00S,3,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0.0,0.0,0,v,Simmons REBOUND (Off:3 Def:5),Rebound,Unknown,0,266
+20400570,269,PT08M08.00S,3,1610612746,LAC,1882,Brand,E. Brand,-143,7,14,Made,1,52.0,57.0,109,v,Brand 14' Jump Shot (20 PTS) (Simmons 1 AST),Made Shot,Jump Shot,0,267
+20400570,271,PT08M06.00S,3,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,268
+20400570,274,PT07M53.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,187,51,19,Made,1,54.0,57.0,111,h,Nowitzki 19' Jump Shot (18 PTS) (Finley 1 AST),Made Shot,Jump Shot,0,269
+20400570,275,PT07M33.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,Made,1,54.0,59.0,113,v,Brand  Layup (22 PTS) (Maggette 3 AST),Made Shot,Layup Shot,0,270
+20400570,276,PT07M20.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0.0,0.0,0,v,Kaman S.FOUL (P1.T3),Foul,Shooting,0,271
+20400570,277,PT07M20.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,55.0,59.0,114,h,Nowitzki Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,272
+20400570,278,PT07M20.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,56.0,59.0,115,h,Nowitzki Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,273
+20400570,279,PT07M00.00S,3,1610612746,LAC,1882,Brand,E. Brand,-74,69,10,Missed,1,0.0,0.0,0,v,MISS Brand 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,274
+20400570,280,PT06M58.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki REBOUND (Off:0 Def:4),Rebound,Unknown,0,275
+20400570,281,PT06M51.00S,3,1610612742,DAL,714,Finley,M. Finley,59,238,25,Missed,1,0.0,0.0,0,h,MISS Finley 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,276
+20400570,282,PT06M50.00S,3,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,v,Clippers Rebound,Rebound,Unknown,0,277
+20400570,283,PT06M35.00S,3,1610612746,LAC,2250,Simmons,B. Simmons,200,13,20,Missed,1,0.0,0.0,0,v,MISS Simmons 20' Jump Shot,Missed Shot,Jump Shot,0,278
+20400570,284,PT06M33.00S,3,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier REBOUND (Off:6 Def:4),Rebound,Unknown,0,279
+20400570,285,PT06M20.00S,3,1610612742,DAL,1891,Terry,J. Terry,-77,143,16,Missed,1,0.0,0.0,0,h,MISS Terry 16' Jump Shot,Missed Shot,Jump Shot,0,280
+20400570,286,PT06M18.00S,3,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0.0,0.0,0,v,Maggette REBOUND (Off:2 Def:2),Rebound,Unknown,0,281
+20400570,287,PT06M14.00S,3,1610612746,LAC,1594,Brunson,R. Brunson,0,0,0,,0,0.0,0.0,0,v,Brunson Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,282
+20400570,287,PT06M14.00S,3,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard STEAL (3 STL),,,0,283
+20400570,288,PT06M11.00S,3,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard OFF.Foul (P4),Foul,Offensive,0,284
+20400570,289,PT06M11.00S,3,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard Foul Turnover (P3.T9),Turnover,Foul,0,285
+20400570,290,PT06M11.00S,3,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,SUB: Stackhouse FOR Howard,Substitution,,0,286
+20400570,291,PT05M57.00S,3,1610612746,LAC,2250,Simmons,B. Simmons,-191,18,19,Missed,1,0.0,0.0,0,v,MISS Simmons 19' Jump Shot,Missed Shot,Jump Shot,0,287
+20400570,292,PT05M55.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,v,Brand REBOUND (Off:4 Def:6),Rebound,Unknown,0,288
+20400570,293,PT05M42.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,-92,71,12,Missed,1,0.0,0.0,0,v,MISS Kaman 12' Jump Shot,Missed Shot,Jump Shot,0,289
+20400570,294,PT05M39.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki REBOUND (Off:0 Def:5),Rebound,Unknown,0,290
+20400570,295,PT05M36.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0.0,0.0,0,v,Kaman S.FOUL (P2.T4),Foul,Shooting,0,291
+20400570,296,PT05M36.00S,3,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,57.0,59.0,116,h,Stackhouse Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,292
+20400570,297,PT05M36.00S,3,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,v,Clippers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,293
+20400570,301,PT05M36.00S,3,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,58.0,59.0,117,h,Stackhouse Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,294
+20400570,302,PT05M17.00S,3,1610612746,LAC,1594,Brunson,R. Brunson,233,10,0,Missed,1,0.0,0.0,0,v,MISS Brunson  3PT Jump Shot,Missed Shot,Jump Shot,0,295
+20400570,303,PT05M16.00S,3,1610612746,LAC,1594,Brunson,R. Brunson,0,0,0,,0,0.0,0.0,0,v,Brunson REBOUND (Off:1 Def:1),Rebound,Unknown,0,296
+20400570,304,PT05M13.00S,3,1610612746,LAC,1594,Brunson,R. Brunson,-15,46,5,Missed,1,0.0,0.0,0,v,MISS Brunson 5' Jump Shot,Missed Shot,Jump Shot,0,297
+20400570,304,PT05M13.00S,3,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier BLOCK (3 BLK),,,0,298
+20400570,305,PT05M12.00S,3,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier REBOUND (Off:6 Def:5),Rebound,Unknown,0,299
+20400570,306,PT05M12.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,v,Brand L.B.FOUL (P2.PN),Foul,Loose Ball,0,300
+20400570,307,PT05M12.00S,3,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,MISS Dampier Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,301
+20400570,308,PT05M12.00S,3,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Rebound,Rebound,Normal Rebound,0,302
+20400570,309,PT05M12.00S,3,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,59.0,59.0,118,h,Dampier Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,303
+20400570,310,PT05M01.00S,3,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier P.FOUL (P3.T3),Foul,Personal,0,304
+20400570,311,PT04M52.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Made,1,59.0,61.0,120,v,Kaman  Layup (8 PTS) (Brand 2 AST),Made Shot,Layup Shot,0,305
+20400570,312,PT04M42.00S,3,1610612742,DAL,711,Stackhouse,J. Stackhouse,207,-3,21,Missed,1,0.0,0.0,0,h,MISS Stackhouse 21' Jump Shot,Missed Shot,Jump Shot,0,306
+20400570,313,PT04M40.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0.0,0.0,0,v,Kaman REBOUND (Off:1 Def:3),Rebound,Unknown,0,307
+20400570,314,PT04M24.00S,3,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,0.0,0.0,0,h,Stackhouse S.FOUL (P2.T4),Foul,Shooting,0,308
+20400570,315,PT04M24.00S,3,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0.0,0.0,0,v,MISS Simmons Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,309
+20400570,316,PT04M24.00S,3,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,v,Clippers Rebound,Rebound,Normal Rebound,0,310
+20400570,317,PT04M24.00S,3,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,59.0,62.0,121,v,Simmons Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,311
+20400570,318,PT04M10.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,120,160,20,Missed,1,0.0,0.0,0,h,MISS Nowitzki 20' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,312
+20400570,319,PT04M08.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,v,Brand REBOUND (Off:4 Def:7),Rebound,Unknown,0,313
+20400570,320,PT03M59.00S,3,1610612746,LAC,1894,Maggette,C. Maggette,-192,100,22,Missed,1,0.0,0.0,0,v,MISS Maggette 22' Jump Shot,Missed Shot,Jump Shot,0,314
+20400570,321,PT03M59.00S,3,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Rebound,Rebound,Unknown,0,315
+20400570,322,PT03M48.00S,3,1610612742,DAL,1891,Terry,J. Terry,0,0,0,Made,1,61.0,62.0,123,h,Terry  Running Layup (10 PTS),Made Shot,Running Layup Shot,0,316
+20400570,323,PT03M25.00S,3,1610612746,LAC,1882,Brand,E. Brand,-161,35,16,Missed,1,0.0,0.0,0,v,MISS Brand 16' Jump Shot,Missed Shot,Jump Shot,0,317
+20400570,324,PT03M23.00S,3,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,0.0,0.0,0,h,Stackhouse REBOUND (Off:0 Def:2),Rebound,Unknown,0,318
+20400570,325,PT03M17.00S,3,1610612742,DAL,714,Finley,M. Finley,210,77,22,Made,1,63.0,62.0,125,h,Finley 22' Jump Shot (7 PTS) (Stackhouse 3 AST),Made Shot,Jump Shot,0,319
+20400570,326,PT03M00.00S,3,1610612746,LAC,1894,Maggette,C. Maggette,18,210,21,Made,1,63.0,64.0,127,v,Maggette 21' Jump Shot (12 PTS),Made Shot,Jump Shot,0,320
+20400570,327,PT02M33.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-100,219,24,Missed,1,0.0,0.0,0,h,MISS Nowitzki 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,321
+20400570,328,PT02M30.00S,3,1610612746,LAC,1594,Brunson,R. Brunson,0,0,0,,0,0.0,0.0,0,v,Brunson REBOUND (Off:1 Def:2),Rebound,Unknown,0,322
+20400570,329,PT02M14.00S,3,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,Missed,1,0.0,0.0,0,v,MISS Simmons  Layup,Missed Shot,Layup Shot,0,323
+20400570,330,PT02M13.00S,3,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,0.0,0.0,0,h,Finley REBOUND (Off:0 Def:2),Rebound,Unknown,0,324
+20400570,331,PT02M07.00S,3,1610612742,DAL,1891,Terry,J. Terry,-102,219,24,Made,1,66.0,64.0,130,h,Terry 24' 3PT Jump Shot (13 PTS) (Finley 2 AST),Made Shot,Jump Shot,0,325
+20400570,332,PT01M46.00S,3,1610612746,LAC,1594,Brunson,R. Brunson,230,-1,0,Missed,1,0.0,0.0,0,v,MISS Brunson  3PT Jump Shot,Missed Shot,Jump Shot,0,326
+20400570,333,PT01M44.00S,3,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0.0,0.0,0,v,Maggette REBOUND (Off:3 Def:2),Rebound,Unknown,0,327
+20400570,334,PT01M39.00S,3,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier S.FOUL (P4.PN),Foul,Shooting,0,328
+20400570,335,PT01M39.00S,3,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,SUB: Bradley FOR Dampier,Substitution,,0,329
+20400570,336,PT01M39.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,66.0,65.0,131,v,Brand Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,330
+20400570,337,PT01M39.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,66.0,66.0,132,v,Brand Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,331
+20400570,338,PT01M24.00S,3,1610612742,DAL,1891,Terry,J. Terry,-23,38,4,Made,1,68.0,66.0,134,h,Terry 4' Running Jump Shot (15 PTS),Made Shot,Running Jump Shot,0,332
+20400570,339,PT01M09.00S,3,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0.0,0.0,0,v,SUB: Moore FOR Kaman,Substitution,,0,333
+20400570,340,PT01M00.00S,3,1610612746,LAC,1882,Brand,E. Brand,0,0,0,Missed,1,0.0,0.0,0,v,MISS Brand  Reverse Layup,Missed Shot,Reverse Layup Shot,0,334
+20400570,341,PT00M56.90S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki REBOUND (Off:0 Def:6),Rebound,Unknown,0,335
+20400570,342,PT00M53.50S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,136,204,25,Made,1,71.0,66.0,137,h,Nowitzki 25' 3PT Jump Shot (23 PTS) (Stackhouse 4 AST),Made Shot,Jump Shot,0,336
+20400570,343,PT00M41.90S,3,1610612746,LAC,1594,Brunson,R. Brunson,0,0,0,,0,0.0,0.0,0,v,Brunson Bad Pass Turnover (P4.T11),Turnover,Bad Pass,0,337
+20400570,343,PT00M41.90S,3,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,0.0,0.0,0,h,Stackhouse STEAL (2 STL),,,0,338
+20400570,344,PT00M39.20S,3,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,Made,1,73.0,66.0,139,h,Stackhouse  Slam Dunk (6 PTS),Made Shot,Slam Dunk Shot,0,339
+20400570,345,PT00M23.80S,3,1610612746,LAC,1894,Maggette,C. Maggette,-210,53,22,Made,1,73.0,68.0,141,v,Maggette 22' Jump Shot (14 PTS) (Brand 3 AST),Made Shot,Jump Shot,0,340
+20400570,346,PT00M02.90S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,141,130,19,Missed,1,0.0,0.0,0,h,MISS Nowitzki 19' Jump Shot,Missed Shot,Jump Shot,0,341
+20400570,347,PT00M00.70S,3,1610612746,LAC,1594,Brunson,R. Brunson,0,0,0,,0,0.0,0.0,0,v,Brunson REBOUND (Off:1 Def:3),Rebound,Unknown,0,342
+20400570,348,PT00M00.40S,3,1610612746,LAC,1594,Brunson,R. Brunson,23,694,69,Missed,1,0.0,0.0,0,v,MISS Brunson 69' 3PT Jump Shot,Missed Shot,Jump Shot,0,343
+20400570,349,PT00M00.00S,3,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,v,Clippers Rebound,Rebound,Unknown,0,344
+20400570,351,PT00M00.00S,3,0,,0,,,0,0,0,,0,73.0,68.0,141,,End of 3rd Period (10:29 PM EST),period,end,0,345
+20400570,353,PT12M00.00S,4,0,,0,,,0,0,0,,0,73.0,68.0,141,,Start of 4th Period (10:31 PM EST),period,start,0,346
+20400570,354,PT11M35.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0.0,0.0,0,v,Maggette Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,347
+20400570,354,PT11M35.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0.0,0.0,0,h,Harris STEAL (1 STL),,,0,348
+20400570,355,PT11M31.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,Made,1,75.0,68.0,143,h,Harris  Slam Dunk (4 PTS),Made Shot,Slam Dunk Shot,0,349
+20400570,356,PT11M10.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,v,Brand Step Out of Bounds Turnover (P2.T13),Turnover,Step Out of Bounds Turnover,0,350
+20400570,357,PT10M53.00S,4,1610612742,DAL,711,Stackhouse,J. Stackhouse,-8,49,5,Missed,1,0.0,0.0,0,h,MISS Stackhouse 5' Jump Shot,Missed Shot,Jump Shot,0,351
+20400570,358,PT10M51.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,v,Brand REBOUND (Off:4 Def:8),Rebound,Unknown,0,352
+20400570,359,PT10M34.00S,4,1610612746,LAC,1594,Brunson,R. Brunson,28,179,18,Made,1,75.0,70.0,145,v,Brunson 18' Jump Shot (4 PTS) (Brand 4 AST),Made Shot,Jump Shot,0,353
+20400570,360,PT10M14.00S,4,1610612742,DAL,711,Stackhouse,J. Stackhouse,235,2,24,Made,1,78.0,70.0,148,h,Stackhouse 24' 3PT Jump Shot (9 PTS) (Harris 2 AST),Made Shot,Jump Shot,0,354
+20400570,361,PT09M48.00S,4,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,v,Clippers Turnover: Shot Clock (T#14),Turnover,Shot Clock Turnover,0,355
+20400570,362,PT09M48.00S,4,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,v,Clippers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,356
+20400570,366,PT09M34.00S,4,1610612742,DAL,711,Stackhouse,J. Stackhouse,84,187,21,Missed,1,0.0,0.0,0,h,MISS Stackhouse 21' Jump Shot,Missed Shot,Jump Shot,0,357
+20400570,367,PT09M32.00S,4,1610612746,LAC,1630,Moore,M. Moore,0,0,0,,0,0.0,0.0,0,v,Moore REBOUND (Off:1 Def:2),Rebound,Unknown,0,358
+20400570,369,PT09M07.00S,4,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,v,Clippers Turnover: Shot Clock (T#15),Turnover,Shot Clock Turnover,0,359
+20400570,370,PT09M07.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,v,SUB: Martin FOR Brand,Substitution,,0,360
+20400570,371,PT09M07.00S,4,1610612746,LAC,1594,Brunson,R. Brunson,0,0,0,,0,0.0,0.0,0,v,SUB: Kaman FOR Brunson,Substitution,,0,361
+20400570,372,PT08M59.00S,4,1610612742,DAL,762,Bradley,S. Bradley,87,178,20,Missed,1,0.0,0.0,0,h,MISS Bradley 20' Jump Shot,Missed Shot,Jump Shot,0,362
+20400570,373,PT08M57.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0.0,0.0,0,h,Harris REBOUND (Off:2 Def:0),Rebound,Unknown,0,363
+20400570,374,PT08M45.00S,4,1610612746,LAC,1630,Moore,M. Moore,0,0,0,,0,0.0,0.0,0,v,Moore P.FOUL (P2.T1),Foul,Personal,0,364
+20400570,375,PT08M45.00S,4,1610612746,LAC,1630,Moore,M. Moore,0,0,0,,0,0.0,0.0,0,v,SUB: Simmons FOR Moore,Substitution,,0,365
+20400570,376,PT08M29.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-154,-6,15,Missed,1,0.0,0.0,0,h,MISS Nowitzki 15' Jump Shot,Missed Shot,Jump Shot,0,366
+20400570,378,PT08M28.00S,4,1610612742,DAL,762,Bradley,S. Bradley,0,0,0,,0,0.0,0.0,0,h,Bradley REBOUND (Off:2 Def:1),Rebound,Unknown,0,367
+20400570,377,PT08M28.00S,4,1610612742,DAL,762,Bradley,S. Bradley,0,0,0,Missed,1,0.0,0.0,0,h,MISS Bradley  Layup,Missed Shot,Layup Shot,0,368
+20400570,380,PT08M26.00S,4,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard REBOUND (Off:2 Def:3),Rebound,Unknown,0,369
+20400570,379,PT08M26.00S,4,1610612742,DAL,2572,Howard,J. Howard,0,0,0,Made,1,80.0,70.0,150,h,Howard  Tip Shot (13 PTS),Made Shot,Tip Shot,0,370
+20400570,381,PT08M01.00S,4,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard S.FOUL (P5.T1),Foul,Shooting,0,371
+20400570,382,PT08M01.00S,4,1610612746,LAC,239,Martin,D. Martin,0,0,0,,0,80.0,71.0,151,v,Martin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,372
+20400570,383,PT08M01.00S,4,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,SUB: Finley FOR Howard,Substitution,,0,373
+20400570,384,PT08M01.00S,4,1610612746,LAC,239,Martin,D. Martin,0,0,0,,0,0.0,0.0,0,v,MISS Martin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,374
+20400570,385,PT08M00.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki REBOUND (Off:0 Def:7),Rebound,Unknown,0,375
+20400570,386,PT07M46.00S,4,1610612746,LAC,239,Martin,D. Martin,0,0,0,,0,0.0,0.0,0,v,Martin P.FOUL (P2.T2),Foul,Personal,0,376
+20400570,387,PT07M37.00S,4,1610612742,DAL,714,Finley,M. Finley,163,150,22,Missed,1,0.0,0.0,0,h,MISS Finley 22' Jump Shot,Missed Shot,Jump Shot,0,377
+20400570,388,PT07M35.00S,4,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0.0,0.0,0,v,Simmons REBOUND (Off:3 Def:6),Rebound,Unknown,0,378
+20400570,389,PT07M31.00S,4,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,Missed,1,0.0,0.0,0,v,MISS Ross  Layup,Missed Shot,Layup Shot,0,379
+20400570,390,PT07M30.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0.0,0.0,0,h,Harris REBOUND (Off:2 Def:1),Rebound,Unknown,0,380
+20400570,391,PT07M18.00S,4,1610612742,DAL,762,Bradley,S. Bradley,0,0,0,Made,1,82.0,71.0,153,h,Bradley  Slam Dunk (4 PTS) (Nowitzki 3 AST),Made Shot,Slam Dunk Shot,0,381
+20400570,392,PT06M56.00S,4,1610612746,LAC,239,Martin,D. Martin,-80,35,9,Missed,1,0.0,0.0,0,v,MISS Martin 9' Jump Bank Shot,Missed Shot,Jump Bank Shot,0,382
+20400570,393,PT06M54.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki REBOUND (Off:0 Def:8),Rebound,Unknown,0,383
+20400570,394,PT06M36.00S,4,1610612742,DAL,2734,Harris,D. Harris,228,0,0,Made,1,85.0,71.0,156,h,Harris  3PT Jump Shot (7 PTS) (Nowitzki 4 AST),Made Shot,Jump Shot,0,384
+20400570,395,PT06M34.00S,4,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,v,Clippers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,385
+20400570,400,PT06M34.00S,4,1610612746,LAC,2624,Ross,Q. Ross,0,0,0,,0,0.0,0.0,0,v,SUB: Brand FOR Ross,Substitution,,0,386
+20400570,401,PT06M18.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,Missed,1,0.0,0.0,0,v,MISS Kaman  Layup,Missed Shot,Layup Shot,0,387
+20400570,401,PT06M18.00S,4,1610612742,DAL,762,Bradley,S. Bradley,0,0,0,,0,0.0,0.0,0,h,Bradley BLOCK (1 BLK),,,0,388
+20400570,402,PT06M16.00S,4,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0.0,0.0,0,v,Simmons REBOUND (Off:4 Def:6),Rebound,Unknown,0,389
+20400570,403,PT06M12.00S,4,1610612746,LAC,239,Martin,D. Martin,-43,245,25,Missed,1,0.0,0.0,0,v,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,390
+20400570,404,PT06M10.00S,4,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,0.0,0.0,0,h,Finley REBOUND (Off:0 Def:3),Rebound,Unknown,0,391
+20400570,405,PT06M02.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0.0,0.0,0,v,Kaman P.FOUL (P3.T3),Foul,Personal,0,392
+20400570,406,PT05M50.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-145,-8,15,Made,1,87.0,71.0,158,h,Nowitzki 15' Jump Shot (25 PTS) (Harris 3 AST),Made Shot,Jump Shot,0,393
+20400570,407,PT05M35.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,v,Brand OFF.Foul (P3),Foul,Offensive,0,394
+20400570,408,PT05M35.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,v,Brand Foul Turnover (P3.T16),Turnover,Foul,0,395
+20400570,409,PT05M21.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,176,168,24,Made,1,90.0,71.0,161,h,Nowitzki 24' 3PT Jump Shot (28 PTS) (Stackhouse 5 AST),Made Shot,Jump Shot,0,396
+20400570,410,PT04M57.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,171,0,17,Missed,1,0.0,0.0,0,v,MISS Maggette 17' Jump Shot,Missed Shot,Jump Shot,0,397
+20400570,411,PT04M55.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,v,Brand REBOUND (Off:5 Def:8),Rebound,Unknown,0,398
+20400570,412,PT04M52.00S,4,1610612746,LAC,2250,Simmons,B. Simmons,-154,130,20,Missed,1,0.0,0.0,0,v,MISS Simmons 20' Jump Shot,Missed Shot,Jump Shot,0,399
+20400570,413,PT04M50.00S,4,1610612742,DAL,762,Bradley,S. Bradley,0,0,0,,0,0.0,0.0,0,h,Bradley REBOUND (Off:2 Def:2),Rebound,Unknown,0,400
+20400570,414,PT04M29.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-156,-3,16,Missed,1,0.0,0.0,0,h,MISS Nowitzki 16' Jump Shot,Missed Shot,Jump Shot,0,401
+20400570,415,PT04M27.00S,4,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0.0,0.0,0,v,Simmons REBOUND (Off:4 Def:7),Rebound,Unknown,0,402
+20400570,416,PT04M26.00S,4,1610612742,DAL,762,Bradley,S. Bradley,0,0,0,,0,0.0,0.0,0,h,Bradley P.FOUL (P1.T2),Foul,Personal,0,403
+20400570,417,PT04M06.00S,4,1610612746,LAC,239,Martin,D. Martin,0,0,0,Missed,1,0.0,0.0,0,v,MISS Martin  Reverse Layup,Missed Shot,Reverse Layup Shot,0,404
+20400570,417,PT04M06.00S,4,1610612742,DAL,762,Bradley,S. Bradley,0,0,0,,0,0.0,0.0,0,h,Bradley BLOCK (2 BLK),,,0,405
+20400570,418,PT04M04.00S,4,1610612746,LAC,239,Martin,D. Martin,0,0,0,,0,0.0,0.0,0,v,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,0,406
+20400570,419,PT04M04.00S,4,1610612746,LAC,239,Martin,D. Martin,0,0,0,,0,0.0,0.0,0,v,Martin Step Out of Bounds Turnover (P3.T17),Turnover,Step Out of Bounds Turnover,0,407
+20400570,420,PT03M47.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0.0,0.0,0,v,Kaman P.FOUL (P4.T4),Foul,Personal,0,408
+20400570,421,PT03M47.00S,4,1610612746,LAC,239,Martin,D. Martin,0,0,0,,0,0.0,0.0,0,v,SUB: Chalmers FOR Martin,Substitution,,0,409
+20400570,422,PT03M47.00S,4,1610612746,LAC,1894,Maggette,C. Maggette,0,0,0,,0,0.0,0.0,0,v,SUB: Ross FOR Maggette,Substitution,,0,410
+20400570,423,PT03M34.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,171,199,26,Missed,1,0.0,0.0,0,h,MISS Nowitzki 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,411
+20400570,424,PT03M34.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,v,Brand REBOUND (Off:5 Def:9),Rebound,Unknown,0,412
+20400570,425,PT03M34.00S,4,1610612742,DAL,762,Bradley,S. Bradley,0,0,0,,0,0.0,0.0,0,h,Bradley L.B.FOUL (P2.T3),Foul,Loose Ball,0,413
+20400570,426,PT03M34.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,SUB: Henderson FOR Nowitzki,Substitution,,0,414
+20400570,427,PT03M34.00S,4,1610612746,LAC,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,v,SUB: Rebraca FOR Brand,Substitution,,0,415
+20400570,428,PT03M20.00S,4,1610612742,DAL,762,Bradley,S. Bradley,0,0,0,,0,0.0,0.0,0,h,Bradley S.FOUL (P3.T4),Foul,Shooting,0,416
+20400570,429,PT03M20.00S,4,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,90.0,72.0,162,v,Simmons Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,417
+20400570,430,PT03M20.00S,4,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,90.0,73.0,163,v,Simmons Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,418
+20400570,431,PT03M05.00S,4,1610612742,DAL,714,Finley,M. Finley,159,214,27,Made,1,93.0,73.0,166,h,Finley 27' 3PT Jump Shot (10 PTS) (Harris 4 AST),Made Shot,Jump Shot,0,419
+20400570,432,PT02M41.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,51,31,6,Missed,1,0.0,0.0,0,v,MISS Kaman 6' Jump Shot,Missed Shot,Jump Shot,0,420
+20400570,433,PT02M39.00S,4,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,,0,0.0,0.0,0,v,Simmons REBOUND (Off:5 Def:7),Rebound,Unknown,0,421
+20400570,434,PT02M34.00S,4,1610612746,LAC,2250,Simmons,B. Simmons,0,0,0,Made,1,93.0,75.0,168,v,Simmons  Layup (16 PTS),Made Shot,Layup Shot,0,422
+20400570,435,PT02M07.00S,4,1610612742,DAL,714,Finley,M. Finley,-92,145,17,Made,1,95.0,75.0,170,h,Finley 17' Jump Shot (12 PTS),Made Shot,Jump Shot,0,423
+20400570,436,PT01M45.00S,4,1610612746,LAC,1442,Rebraca,Z. Rebraca,-123,17,12,Missed,1,0.0,0.0,0,v,MISS Rebraca 12' Jump Shot,Missed Shot,Jump Shot,0,424
+20400570,437,PT01M43.00S,4,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,0.0,0.0,0,h,Finley REBOUND (Off:0 Def:4),Rebound,Unknown,0,425
+20400570,439,PT01M40.00S,4,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Timeout: Short (Full 3 Short 1),Timeout,Short,0,426
+20400570,440,PT01M40.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,427
+20400570,441,PT01M40.00S,4,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,0.0,0.0,0,h,SUB: Armstrong FOR Finley,Substitution,,0,428
+20400570,442,PT01M40.00S,4,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,0.0,0.0,0,h,SUB: Mbenga FOR Stackhouse,Substitution,,0,429
+20400570,443,PT01M40.00S,4,1610612742,DAL,762,Bradley,S. Bradley,0,0,0,,0,0.0,0.0,0,h,SUB: Booth FOR Bradley,Substitution,,0,430
+20400570,444,PT01M40.00S,4,1610612746,LAC,2549,Kaman,C. Kaman,0,0,0,,0,0.0,0.0,0,v,SUB: N'diaye FOR Kaman,Substitution,,0,431
+20400570,445,PT01M27.00S,4,1610612742,DAL,2788,Mbenga,D. Mbenga,-71,58,9,Made,1,97.0,75.0,172,h,Mbenga 9' Jump Shot (2 PTS),Made Shot,Jump Shot,0,432
+20400570,446,PT01M11.00S,4,1610612746,LAC,2055,N'diaye,M. N'diaye,0,0,0,Missed,1,0.0,0.0,0,v,MISS N'diaye  Layup,Missed Shot,Layup Shot,0,433
+20400570,446,PT01M11.00S,4,1610612742,DAL,2788,Mbenga,D. Mbenga,0,0,0,,0,0.0,0.0,0,h,Mbenga BLOCK (1 BLK),,,0,434
+20400570,447,PT01M10.00S,4,1610612746,LAC,2055,N'diaye,M. N'diaye,0,0,0,,0,0.0,0.0,0,v,N'diaye REBOUND (Off:1 Def:0),Rebound,Unknown,0,435
+20400570,448,PT01M10.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0.0,0.0,0,h,Harris S.FOUL (P2.PN),Foul,Shooting,0,436
+20400570,449,PT01M10.00S,4,1610612746,LAC,2055,N'diaye,M. N'diaye,0,0,0,,0,97.0,76.0,173,v,N'diaye Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,437
+20400570,450,PT01M10.00S,4,1610612746,LAC,2055,N'diaye,M. N'diaye,0,0,0,,0,97.0,77.0,174,v,N'diaye Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,438
+20400570,452,PT00M57.70S,4,1610612746,LAC,2055,N'diaye,M. N'diaye,0,0,0,,0,0.0,0.0,0,v,N'diaye S.FOUL (P1.PN),Foul,Shooting,0,439
+20400570,453,PT00M57.70S,4,1610612742,DAL,2788,Mbenga,D. Mbenga,0,0,0,,0,98.0,77.0,175,h,Mbenga Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,440
+20400570,454,PT00M57.70S,4,1610612742,DAL,2788,Mbenga,D. Mbenga,0,0,0,,0,99.0,77.0,176,h,Mbenga Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,441
+20400570,455,PT00M38.90S,4,1610612746,LAC,2763,Chalmers,L. Chalmers,-69,35,8,Missed,1,0.0,0.0,0,v,MISS Chalmers 8' Jump Shot,Missed Shot,Jump Shot,0,442
+20400570,456,PT00M36.90S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0.0,0.0,0,h,Harris REBOUND (Off:2 Def:2),Rebound,Unknown,0,443
+20400570,457,PT00M24.80S,4,1610612742,DAL,2788,Mbenga,D. Mbenga,0,0,0,,0,0.0,0.0,0,h,Mbenga OFF.Foul (P1),Foul,Offensive,0,444
+20400570,458,PT00M24.80S,4,1610612742,DAL,2788,Mbenga,D. Mbenga,0,0,0,,0,0.0,0.0,0,h,Mbenga Foul Turnover (P1.T10),Turnover,Foul,0,445
+20400570,459,PT00M08.90S,4,1610612746,LAC,2624,Ross,Q. Ross,130,-1,13,Missed,1,0.0,0.0,0,v,MISS Ross 13' Jump Shot,Missed Shot,Jump Shot,0,446
+20400570,460,PT00M07.80S,4,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Rebound,Rebound,Unknown,0,447
+20400570,461,PT00M00.00S,4,0,,0,,,0,0,0,,0,99.0,77.0,176,,End of 4th Period (11:00 PM EST),period,end,0,448

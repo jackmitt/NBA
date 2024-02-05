@@ -1,0 +1,447 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+21000474,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (9:49 PM EST),period,start,0,1
+21000474,1,PT12M00.00S,1,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0.0,0.0,0,h,Jump Ball Chandler vs. Duncan: Tip to Cardinal,Jump Ball,,0,2
+21000474,2,PT11M41.00S,1,1610612742,DAL,2406,Butler,C. Butler,2,181,18,Made,1,2.0,0.0,2,h,Butler 18' Jump Shot (2 PTS) (Kidd 1 AST),Made Shot,Jump Shot,0,3
+21000474,3,PT11M20.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,-125,33,13,Made,1,2.0,2.0,4,v,Duncan 13' Turnaround Bank Shot (2 PTS),Made Shot,Turnaround Bank shot,0,4
+21000474,4,PT11M05.00S,1,1610612742,DAL,2199,Chandler,T. Chandler,114,146,19,Made,1,4.0,2.0,6,h,Chandler 19' Jump Shot (2 PTS) (Cardinal 1 AST),Made Shot,Jump Shot,0,5
+21000474,5,PT10M44.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,6
+21000474,5,PT10M44.00S,1,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd STEAL (1 STL),,,0,7
+21000474,6,PT10M30.00S,1,1610612742,DAL,467,Kidd,J. Kidd,-123,194,23,Missed,1,0.0,0.0,0,h,MISS Kidd 23' Jump Shot,Missed Shot,Jump Shot,0,8
+21000474,7,PT10M29.00S,1,1610612759,SAS,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,Jefferson REBOUND (Off:0 Def:1),Rebound,Unknown,0,9
+21000474,8,PT10M24.00S,1,1610612759,SAS,2225,Parker,T. Parker,15,12,2,Missed,1,0.0,0.0,0,v,MISS Parker 2' Layup,Missed Shot,Layup Shot,0,10
+21000474,10,PT10M23.00S,1,1610612759,SAS,201971,Blair,D. Blair,0,0,0,,0,0.0,0.0,0,v,Blair REBOUND (Off:1 Def:0),Rebound,Unknown,0,11
+21000474,9,PT10M23.00S,1,1610612759,SAS,201971,Blair,D. Blair,9,0,1,Made,1,4.0,4.0,8,v,Blair 1' Tip Shot (2 PTS),Made Shot,Tip Shot,0,12
+21000474,11,PT10M01.00S,1,1610612742,DAL,2406,Butler,C. Butler,-194,80,21,Missed,1,0.0,0.0,0,h,MISS Butler 21' Jump Shot,Missed Shot,Jump Shot,0,13
+21000474,12,PT10M00.00S,1,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,0.0,0.0,0,v,Ginobili REBOUND (Off:0 Def:1),Rebound,Unknown,0,14
+21000474,13,PT09M49.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,58,45,7,Missed,1,0.0,0.0,0,v,MISS Duncan 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,15
+21000474,14,PT09M48.00S,1,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0.0,0.0,0,h,Chandler REBOUND (Off:0 Def:1),Rebound,Unknown,0,16
+21000474,15,PT09M43.00S,1,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0.0,0.0,0,h,Chandler OFF.Foul (P1),Foul,Offensive,0,17
+21000474,16,PT09M43.00S,1,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0.0,0.0,0,h,Chandler Foul Turnover (P1.T1),Turnover,Foul,0,18
+21000474,18,PT09M30.00S,1,1610612759,SAS,1938,Ginobili,M. Ginobili,100,97,14,Missed,1,0.0,0.0,0,v,MISS Ginobili 14' Jump Shot,Missed Shot,Jump Shot,0,19
+21000474,19,PT09M29.00S,1,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd REBOUND (Off:0 Def:1),Rebound,Unknown,0,20
+21000474,20,PT09M24.00S,1,1610612742,DAL,2406,Butler,C. Butler,-153,17,15,Made,1,6.0,4.0,10,h,Butler 15' Jump Shot (4 PTS) (Kidd 2 AST),Made Shot,Jump Shot,0,21
+21000474,21,PT09M03.00S,1,1610612759,SAS,2225,Parker,T. Parker,-26,55,6,Made,1,6.0,6.0,12,v,Parker 6' Driving Jump Shot (2 PTS),Made Shot,Driving Jump shot,0,22
+21000474,22,PT08M51.00S,1,1610612742,DAL,2199,Chandler,T. Chandler,1,6,1,Made,1,8.0,6.0,14,h,Chandler 1' Running Dunk (4 PTS) (Butler 1 AST),Made Shot,Running Dunk Shot,0,23
+21000474,23,PT08M35.00S,1,1610612759,SAS,2225,Parker,T. Parker,17,55,6,Made,1,8.0,8.0,16,v,Parker 6' Driving Jump Shot (4 PTS),Made Shot,Driving Jump shot,0,24
+21000474,24,PT08M26.00S,1,1610612742,DAL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,Stevenson Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,25
+21000474,24,PT08M26.00S,1,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,0.0,0.0,0,v,Parker STEAL (1 STL),,,0,26
+21000474,25,PT08M22.00S,1,1610612759,SAS,2225,Parker,T. Parker,-5,9,1,Missed,1,0.0,0.0,0,v,MISS Parker 1' Layup,Missed Shot,Layup Shot,0,27
+21000474,25,PT08M22.00S,1,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd BLOCK (1 BLK),,,0,28
+21000474,26,PT08M20.00S,1,1610612742,DAL,2073,Cardinal,B. Cardinal,0,0,0,,0,0.0,0.0,0,h,Cardinal REBOUND (Off:0 Def:1),Rebound,Unknown,0,29
+21000474,27,PT08M12.00S,1,1610612742,DAL,2073,Cardinal,B. Cardinal,51,236,24,Made,1,11.0,8.0,19,h,Cardinal 24' 3PT Jump Shot (3 PTS) (Kidd 3 AST),Made Shot,Jump Shot,0,30
+21000474,28,PT08M08.00S,1,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,31
+21000474,32,PT07M58.00S,1,1610612759,SAS,2225,Parker,T. Parker,-41,6,4,Missed,1,0.0,0.0,0,v,MISS Parker 4' Jump Shot,Missed Shot,Jump Shot,0,32
+21000474,32,PT07M58.00S,1,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd BLOCK (2 BLK),,,0,33
+21000474,33,PT07M56.00S,1,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,0.0,0.0,0,v,Parker REBOUND (Off:1 Def:0),Rebound,Unknown,0,34
+21000474,34,PT07M47.00S,1,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,0.0,0.0,0,v,Ginobili OFF.Foul (P1),Foul,Offensive,0,35
+21000474,35,PT07M47.00S,1,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,0.0,0.0,0,v,Ginobili Foul Turnover (P1.T2),Turnover,Foul,0,36
+21000474,36,PT07M36.00S,1,1610612742,DAL,467,Kidd,J. Kidd,-15,6,2,Made,1,13.0,8.0,21,h,Kidd 2' Layup (2 PTS) (Cardinal 2 AST),Made Shot,Layup Shot,0,37
+21000474,37,PT07M12.00S,1,1610612759,SAS,201971,Blair,D. Blair,12,7,1,Made,1,13.0,10.0,23,v,Blair 1' Reverse Layup (4 PTS) (Duncan 1 AST),Made Shot,Reverse Layup Shot,0,38
+21000474,38,PT06M49.00S,1,1610612742,DAL,2073,Cardinal,B. Cardinal,138,0,14,Missed,1,0.0,0.0,0,h,MISS Cardinal 14' Jump Shot,Missed Shot,Jump Shot,0,39
+21000474,39,PT06M48.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan REBOUND (Off:0 Def:1),Rebound,Unknown,0,40
+21000474,40,PT06M39.00S,1,1610612759,SAS,201971,Blair,D. Blair,-57,48,7,Missed,1,0.0,0.0,0,v,MISS Blair 7' Jump Shot,Missed Shot,Jump Shot,0,41
+21000474,41,PT06M39.00S,1,1610612742,DAL,2073,Cardinal,B. Cardinal,0,0,0,,0,0.0,0.0,0,h,Cardinal REBOUND (Off:0 Def:2),Rebound,Unknown,0,42
+21000474,42,PT06M39.00S,1,1610612759,SAS,201971,Blair,D. Blair,0,0,0,,0,0.0,0.0,0,v,Blair L.B.FOUL (P1.T1),Foul,Loose Ball,0,43
+21000474,43,PT06M39.00S,1,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,0.0,0.0,0,v,SUB: Hill FOR Ginobili,Substitution,,0,44
+21000474,44,PT06M25.00S,1,1610612742,DAL,2052,Stevenson,D. Stevenson,-153,4,15,Missed,1,0.0,0.0,0,h,MISS Stevenson 15' Jump Shot,Missed Shot,Jump Shot,0,45
+21000474,45,PT06M24.00S,1,1610612759,SAS,201588,Hill,G. Hill,0,0,0,,0,0.0,0.0,0,v,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,46
+21000474,46,PT06M14.00S,1,1610612759,SAS,2210,Jefferson,R. Jefferson,17,201,20,Missed,1,0.0,0.0,0,v,MISS Jefferson 20' Jump Shot,Missed Shot,Jump Shot,0,47
+21000474,47,PT06M13.00S,1,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd REBOUND (Off:0 Def:2),Rebound,Unknown,0,48
+21000474,48,PT06M01.00S,1,1610612742,DAL,467,Kidd,J. Kidd,20,78,8,Made,1,15.0,10.0,25,h,Kidd 8' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,0,49
+21000474,49,PT05M34.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,-40,181,19,Made,1,15.0,12.0,27,v,Duncan 19' Jump Shot (4 PTS) (Parker 1 AST),Made Shot,Jump Shot,0,50
+21000474,50,PT05M21.00S,1,1610612742,DAL,467,Kidd,J. Kidd,170,175,24,Made,1,18.0,12.0,30,h,Kidd 24' 3PT Jump Shot (7 PTS) (Chandler 1 AST),Made Shot,Jump Shot,0,51
+21000474,51,PT05M03.00S,1,1610612759,SAS,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,Jefferson Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,52
+21000474,51,PT05M03.00S,1,1610612742,DAL,2073,Cardinal,B. Cardinal,0,0,0,,0,0.0,0.0,0,h,Cardinal STEAL (1 STL),,,0,53
+21000474,52,PT04M54.00S,1,1610612742,DAL,2406,Butler,C. Butler,-138,33,14,Missed,1,0.0,0.0,0,h,MISS Butler 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,0,54
+21000474,53,PT04M53.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan REBOUND (Off:0 Def:2),Rebound,Unknown,0,55
+21000474,54,PT04M44.00S,1,1610612759,SAS,201588,Hill,G. Hill,228,-10,0,Made,1,18.0,15.0,33,v,Hill  3PT Jump Shot (3 PTS) (Parker 2 AST),Made Shot,Jump Shot,0,56
+21000474,55,PT04M28.00S,1,1610612742,DAL,467,Kidd,J. Kidd,-160,198,25,Missed,1,0.0,0.0,0,h,MISS Kidd 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,57
+21000474,56,PT04M27.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan REBOUND (Off:0 Def:3),Rebound,Unknown,0,58
+21000474,57,PT04M12.00S,1,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd S.FOUL (P1.T1),Foul,Shooting,0,59
+21000474,58,PT04M12.00S,1,1610612742,DAL,2073,Cardinal,B. Cardinal,0,0,0,,0,0.0,0.0,0,h,SUB: Marion FOR Cardinal,Substitution,,0,60
+21000474,59,PT04M12.00S,1,1610612742,DAL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,SUB: Terry FOR Stevenson,Substitution,,0,61
+21000474,60,PT04M12.00S,1,1610612759,SAS,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,SUB: Neal FOR Jefferson,Substitution,,0,62
+21000474,61,PT04M12.00S,1,1610612759,SAS,201971,Blair,D. Blair,0,0,0,,0,0.0,0.0,0,v,SUB: Bonner FOR Blair,Substitution,,0,63
+21000474,62,PT04M12.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,18.0,16.0,34,v,Duncan Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,64
+21000474,64,PT04M12.00S,1,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0.0,0.0,0,h,SUB: Ajinca FOR Chandler,Substitution,,0,65
+21000474,65,PT04M12.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,18.0,17.0,35,v,Duncan Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,66
+21000474,67,PT04M03.00S,1,1610612759,SAS,202390,Neal,G. Neal,0,0,0,,0,0.0,0.0,0,v,Neal P.FOUL (P1.T2),Foul,Personal,0,67
+21000474,69,PT04M03.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,SUB: McDyess FOR Duncan,Substitution,,0,68
+21000474,70,PT03M53.00S,1,1610612742,DAL,2406,Butler,C. Butler,113,160,20,Missed,1,0.0,0.0,0,h,MISS Butler 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,69
+21000474,71,PT03M52.00S,1,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,0.0,0.0,0,v,Parker REBOUND (Off:1 Def:1),Rebound,Unknown,0,70
+21000474,72,PT03M38.00S,1,1610612759,SAS,202390,Neal,G. Neal,69,112,13,Missed,1,0.0,0.0,0,v,MISS Neal 13' Jump Shot,Missed Shot,Jump Shot,0,71
+21000474,73,PT03M37.00S,1,1610612742,DAL,201582,Ajinca,A. Ajinca,0,0,0,,0,0.0,0.0,0,h,Ajinca REBOUND (Off:0 Def:1),Rebound,Unknown,0,72
+21000474,74,PT03M33.00S,1,1610612742,DAL,2406,Butler,C. Butler,-8,7,1,Made,1,20.0,17.0,37,h,Butler 1' Driving Finger Roll Layup (6 PTS) (Kidd 4 AST),Made Shot,Driving Finger Roll Layup Shot,0,73
+21000474,75,PT03M24.00S,1,1610612759,SAS,2225,Parker,T. Parker,17,53,6,Missed,1,0.0,0.0,0,v,MISS Parker 6' Jump Shot,Missed Shot,Jump Shot,0,74
+21000474,76,PT03M23.00S,1,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry REBOUND (Off:0 Def:1),Rebound,Unknown,0,75
+21000474,77,PT03M15.00S,1,1610612742,DAL,201582,Ajinca,A. Ajinca,0,15,2,Made,1,22.0,17.0,39,h,Ajinca 2' Finger Roll Layup (2 PTS),Made Shot,Finger Roll Layup Shot,0,76
+21000474,78,PT02M57.00S,1,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry P.FOUL (P1.T2),Foul,Personal,0,77
+21000474,79,PT02M57.00S,1,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,78
+21000474,80,PT02M57.00S,1,0,,50,,,0,0,0,,0,0.0,0.0,0,,Support Ruling,Instant Replay,Support Ruling,0,79
+21000474,83,PT02M48.00S,1,1610612759,SAS,2588,Bonner,M. Bonner,2,254,25,Missed,1,0.0,0.0,0,v,MISS Bonner 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,80
+21000474,84,PT02M47.00S,1,1610612759,SAS,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,v,McDyess REBOUND (Off:1 Def:0),Rebound,Unknown,0,81
+21000474,85,PT02M42.00S,1,1610612759,SAS,2225,Parker,T. Parker,29,7,3,Missed,1,0.0,0.0,0,v,MISS Parker 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,0,82
+21000474,87,PT02M41.00S,1,1610612759,SAS,2588,Bonner,M. Bonner,0,0,0,,0,0.0,0.0,0,v,Bonner REBOUND (Off:1 Def:0),Rebound,Unknown,0,83
+21000474,86,PT02M41.00S,1,1610612759,SAS,2588,Bonner,M. Bonner,6,1,1,Made,1,22.0,19.0,41,v,Bonner 1' Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,0,84
+21000474,88,PT02M19.00S,1,1610612742,DAL,1890,Marion,S. Marion,-15,3,2,Made,1,24.0,19.0,43,h,Marion 2' Layup (2 PTS),Made Shot,Layup Shot,0,85
+21000474,89,PT02M04.00S,1,1610612759,SAS,201588,Hill,G. Hill,124,148,19,Missed,1,0.0,0.0,0,v,MISS Hill 19' Jump Shot,Missed Shot,Jump Shot,0,86
+21000474,90,PT02M02.00S,1,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion REBOUND (Off:0 Def:1),Rebound,Unknown,0,87
+21000474,91,PT01M55.00S,1,1610612742,DAL,201582,Ajinca,A. Ajinca,136,198,24,Missed,1,0.0,0.0,0,h,MISS Ajinca 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,88
+21000474,92,PT01M54.00S,1,1610612759,SAS,201588,Hill,G. Hill,0,0,0,,0,0.0,0.0,0,v,Hill REBOUND (Off:0 Def:2),Rebound,Unknown,0,89
+21000474,93,PT01M31.00S,1,1610612759,SAS,202390,Neal,G. Neal,-223,-5,0,Made,1,24.0,22.0,46,v,Neal  3PT Jump Shot (3 PTS) (Parker 3 AST),Made Shot,Jump Shot,0,90
+21000474,94,PT01M15.00S,1,1610612742,DAL,1891,Terry,J. Terry,84,48,10,Missed,1,0.0,0.0,0,h,MISS Terry 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,91
+21000474,95,PT01M14.00S,1,1610612759,SAS,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,v,McDyess REBOUND (Off:1 Def:1),Rebound,Unknown,0,92
+21000474,96,PT01M06.00S,1,1610612759,SAS,2225,Parker,T. Parker,32,1,3,Made,1,24.0,24.0,48,v,Parker 3' Driving Jump Shot (6 PTS),Made Shot,Driving Jump shot,0,93
+21000474,97,PT00M53.50S,1,1610612742,DAL,2406,Butler,C. Butler,28,7,3,Made,1,26.0,24.0,50,h,Butler 3' Layup (8 PTS) (Marion 1 AST),Made Shot,Layup Shot,0,94
+21000474,98,PT00M53.50S,1,1610612759,SAS,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,v,McDyess S.FOUL (P1.T3),Foul,Shooting,0,95
+21000474,99,PT00M53.50S,1,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,0.0,0.0,0,v,SUB: Ginobili FOR Parker,Substitution,,0,96
+21000474,100,PT00M53.50S,1,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,27.0,24.0,51,h,Butler Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,97
+21000474,102,PT00M35.40S,1,1610612759,SAS,201588,Hill,G. Hill,28,6,3,Made,1,27.0,26.0,53,v,Hill 3' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,0,98
+21000474,103,PT00M35.40S,1,1610612742,DAL,201582,Ajinca,A. Ajinca,0,0,0,,0,0.0,0.0,0,h,Ajinca S.FOUL (P1.T3),Foul,Shooting,0,99
+21000474,104,PT00M35.40S,1,1610612759,SAS,201588,Hill,G. Hill,0,0,0,,0,27.0,27.0,54,v,Hill Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,100
+21000474,108,PT00M12.80S,1,1610612742,DAL,201582,Ajinca,A. Ajinca,31,187,19,Missed,1,0.0,0.0,0,h,MISS Ajinca 19' Jump Shot,Missed Shot,Jump Shot,0,101
+21000474,109,PT00M12.20S,1,1610612759,SAS,201588,Hill,G. Hill,0,0,0,,0,0.0,0.0,0,v,Hill REBOUND (Off:0 Def:3),Rebound,Unknown,0,102
+21000474,110,PT00M02.90S,1,1610612759,SAS,202390,Neal,G. Neal,152,91,18,Made,1,27.0,29.0,56,v,Neal 18' Pullup Jump Shot (5 PTS) (Hill 1 AST),Made Shot,Pullup Jump shot,0,103
+21000474,111,PT00M00.30S,1,1610612742,DAL,2406,Butler,C. Butler,67,444,45,Missed,1,0.0,0.0,0,h,MISS Butler 45' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,0,104
+21000474,112,PT00M00.00S,1,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Rebound,Rebound,Unknown,0,105
+21000474,113,PT00M00.00S,1,0,,0,,,0,0,0,,0,27.0,29.0,56,,End of 1st Period (10:14 PM EST),period,end,0,106
+21000474,115,PT12M00.00S,2,0,,0,,,0,0,0,,0,27.0,29.0,56,,Start of 2nd Period (10:18 PM EST),period,start,0,107
+21000474,116,PT11M47.00S,2,1610612759,SAS,201588,Hill,G. Hill,67,11,7,Made,1,27.0,31.0,58,v,Hill 7' Running Bank Shot (8 PTS),Made Shot,Running Bank shot,0,108
+21000474,117,PT11M24.00S,2,1610612742,DAL,1891,Terry,J. Terry,73,74,10,Made,1,29.0,31.0,60,h,Terry 10' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,0,109
+21000474,118,PT11M03.00S,2,1610612759,SAS,202390,Neal,G. Neal,135,216,25,Made,1,29.0,34.0,63,v,Neal 25' 3PT Jump Shot (8 PTS) (Hill 2 AST),Made Shot,Jump Shot,0,110
+21000474,119,PT10M40.00S,2,1610612742,DAL,1891,Terry,J. Terry,-46,31,6,Missed,1,0.0,0.0,0,h,MISS Terry 6' Driving Jump Shot,Missed Shot,Driving Jump shot,0,111
+21000474,120,PT10M39.00S,2,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,0.0,0.0,0,v,Ginobili REBOUND (Off:0 Def:2),Rebound,Unknown,0,112
+21000474,121,PT10M31.00S,2,1610612759,SAS,686,McDyess,A. McDyess,-144,11,14,Made,1,29.0,36.0,65,v,McDyess 14' Jump Shot (2 PTS) (Ginobili 1 AST),Made Shot,Jump Shot,0,113
+21000474,122,PT10M08.00S,2,1610612742,DAL,200826,Barea,J. Barea,-34,33,5,Missed,1,0.0,0.0,0,h,MISS Barea 5' Driving Jump Shot,Missed Shot,Driving Jump shot,0,114
+21000474,122,PT10M08.00S,2,1610612759,SAS,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,v,McDyess BLOCK (1 BLK),,,0,115
+21000474,123,PT10M07.00S,2,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,0.0,0.0,0,v,Ginobili REBOUND (Off:0 Def:3),Rebound,Unknown,0,116
+21000474,124,PT10M01.00S,2,1610612759,SAS,1938,Ginobili,M. Ginobili,162,186,25,Made,1,29.0,39.0,68,v,Ginobili 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,0,117
+21000474,125,PT10M01.00S,2,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,118
+21000474,127,PT10M01.00S,2,1610612742,DAL,201582,Ajinca,A. Ajinca,0,0,0,,0,0.0,0.0,0,h,SUB: Chandler FOR Ajinca,Substitution,,0,119
+21000474,129,PT09M45.00S,2,1610612742,DAL,1891,Terry,J. Terry,-38,20,4,Missed,1,0.0,0.0,0,h,MISS Terry 4' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,120
+21000474,129,PT09M45.00S,2,1610612759,SAS,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,v,McDyess BLOCK (2 BLK),,,0,121
+21000474,130,PT09M44.00S,2,1610612759,SAS,201588,Hill,G. Hill,0,0,0,,0,0.0,0.0,0,v,Hill REBOUND (Off:0 Def:4),Rebound,Unknown,0,122
+21000474,131,PT09M42.00S,2,0,,1320,,,0,0,0,,0,0.0,0.0,0,,Rick Carlisle Foul:T.FOUL,Foul,Technical,0,123
+21000474,132,PT09M42.00S,2,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,0.0,0.0,0,v,MISS Ginobili Free Throw Technical,Free Throw,Free Throw Technical,0,124
+21000474,133,PT09M42.00S,2,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Rebound,Rebound,Normal Rebound,0,125
+21000474,134,PT09M28.00S,2,1610612759,SAS,202390,Neal,G. Neal,-226,11,0,Made,1,29.0,42.0,71,v,Neal  3PT Jump Shot (11 PTS) (McDyess 1 AST),Made Shot,Jump Shot,0,126
+21000474,135,PT09M13.00S,2,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,0.0,0.0,0,h,Barea OFF.Foul (P1),Foul,Offensive,0,127
+21000474,136,PT09M13.00S,2,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,0.0,0.0,0,h,Barea Foul Turnover (P1.T3),Turnover,Foul,0,128
+21000474,137,PT08M50.00S,2,1610612759,SAS,1938,Ginobili,M. Ginobili,12,247,25,Made,1,29.0,45.0,74,v,Ginobili 25' 3PT Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,0,129
+21000474,138,PT08M28.00S,2,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0.0,0.0,0,h,Chandler 3 Second Violation Turnover (P2.T4),Turnover,3 Second Violation,0,130
+21000474,139,PT08M28.00S,2,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Timeout: Short (Full 2 Short 1),Timeout,Short,0,131
+21000474,142,PT08M12.00S,2,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,0.0,0.0,0,v,Ginobili Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,132
+21000474,142,PT08M12.00S,2,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion STEAL (1 STL),,,0,133
+21000474,143,PT08M03.00S,2,1610612742,DAL,1890,Marion,S. Marion,-52,20,6,Made,1,31.0,45.0,76,h,Marion 6' Jump Bank Shot (4 PTS),Made Shot,Jump Bank Shot,0,134
+21000474,144,PT07M45.00S,2,1610612759,SAS,2588,Bonner,M. Bonner,-78,235,25,Missed,1,0.0,0.0,0,v,MISS Bonner 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,135
+21000474,145,PT07M44.00S,2,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0.0,0.0,0,h,Chandler REBOUND (Off:0 Def:2),Rebound,Unknown,0,136
+21000474,146,PT07M32.00S,2,1610612759,SAS,2588,Bonner,M. Bonner,0,0,0,,0,0.0,0.0,0,v,Bonner P.FOUL (P1.T1),Foul,Personal,0,137
+21000474,147,PT07M32.00S,2,1610612759,SAS,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,v,SUB: Duncan FOR McDyess,Substitution,,0,138
+21000474,148,PT07M32.00S,2,1610612759,SAS,202390,Neal,G. Neal,0,0,0,,0,0.0,0.0,0,v,SUB: Jefferson FOR Neal,Substitution,,0,139
+21000474,149,PT07M32.00S,2,1610612742,DAL,2073,Cardinal,B. Cardinal,0,0,0,,0,0.0,0.0,0,h,SUB: Kidd FOR Cardinal,Substitution,,0,140
+21000474,150,PT07M32.00S,2,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,0.0,0.0,0,v,SUB: Parker FOR Ginobili,Substitution,,0,141
+21000474,151,PT07M32.00S,2,1610612759,SAS,201588,Hill,G. Hill,0,0,0,,0,0.0,0.0,0,v,SUB: Neal FOR Hill,Substitution,,0,142
+21000474,152,PT07M21.00S,2,1610612742,DAL,200826,Barea,J. Barea,0,26,3,Missed,1,0.0,0.0,0,h,MISS Barea 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,0,143
+21000474,153,PT07M20.00S,2,1610612759,SAS,2588,Bonner,M. Bonner,0,0,0,,0,0.0,0.0,0,v,Bonner REBOUND (Off:1 Def:1),Rebound,Unknown,0,144
+21000474,154,PT07M14.00S,2,1610612759,SAS,202390,Neal,G. Neal,214,126,25,Missed,1,0.0,0.0,0,v,MISS Neal 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,145
+21000474,155,PT07M13.00S,2,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Rebound,Rebound,Unknown,0,146
+21000474,156,PT06M58.00S,2,1610612742,DAL,1891,Terry,J. Terry,-109,214,24,Missed,1,0.0,0.0,0,h,MISS Terry 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,147
+21000474,157,PT06M57.00S,2,1610612759,SAS,2588,Bonner,M. Bonner,0,0,0,,0,0.0,0.0,0,v,Bonner REBOUND (Off:1 Def:2),Rebound,Unknown,0,148
+21000474,158,PT06M45.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan Lost Ball Turnover (P2.T5),Turnover,Lost Ball,0,149
+21000474,158,PT06M45.00S,2,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry STEAL (1 STL),,,0,150
+21000474,159,PT06M39.00S,2,1610612742,DAL,1891,Terry,J. Terry,-21,1,2,Missed,1,0.0,0.0,0,h,MISS Terry 2' Driving Layup,Missed Shot,Driving Layup Shot,0,151
+21000474,160,PT06M39.00S,2,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,0.0,0.0,0,h,Barea REBOUND (Off:1 Def:0),Rebound,Unknown,0,152
+21000474,161,PT06M39.00S,2,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,0.0,0.0,0,v,Parker L.B.FOUL (P1.T2),Foul,Loose Ball,0,153
+21000474,162,PT06M31.00S,2,1610612742,DAL,200826,Barea,J. Barea,-106,216,24,Made,1,34.0,45.0,79,h,Barea 24' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,0,154
+21000474,163,PT06M31.00S,2,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,155
+21000474,167,PT06M07.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,20,4,2,Made,1,34.0,47.0,81,v,Duncan 2' Layup (8 PTS) (Parker 4 AST),Made Shot,Layup Shot,0,156
+21000474,168,PT06M07.00S,2,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0.0,0.0,0,h,Chandler S.FOUL (P2.T1),Foul,Shooting,0,157
+21000474,169,PT06M07.00S,2,1610612759,SAS,202390,Neal,G. Neal,0,0,0,,0,0.0,0.0,0,v,SUB: Hill FOR Neal,Substitution,,0,158
+21000474,170,PT06M07.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,34.0,48.0,82,v,Duncan Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,159
+21000474,172,PT05M54.00S,2,1610612742,DAL,1891,Terry,J. Terry,140,135,19,Missed,1,0.0,0.0,0,h,MISS Terry 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,160
+21000474,173,PT05M53.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan REBOUND (Off:0 Def:4),Rebound,Unknown,0,161
+21000474,174,PT05M43.00S,2,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry S.FOUL (P2.T2),Foul,Shooting,0,162
+21000474,175,PT05M43.00S,2,1610612759,SAS,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,MISS Jefferson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,163
+21000474,176,PT05M43.00S,2,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Rebound,Rebound,Normal Rebound,0,164
+21000474,177,PT05M43.00S,2,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,0.0,0.0,0,h,SUB: Butler FOR Barea,Substitution,,0,165
+21000474,178,PT05M43.00S,2,1610612759,SAS,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,MISS Jefferson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,166
+21000474,180,PT05M42.00S,2,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion REBOUND (Off:0 Def:2),Rebound,Unknown,0,167
+21000474,181,PT05M26.00S,2,1610612742,DAL,2406,Butler,C. Butler,-157,41,16,Made,1,36.0,48.0,84,h,Butler 16' Fadeaway Jumper (11 PTS) (Kidd 5 AST),Made Shot,Fadeaway Jump Shot,0,168
+21000474,182,PT05M10.00S,2,1610612759,SAS,2225,Parker,T. Parker,56,172,18,Made,1,36.0,50.0,86,v,Parker 18' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,0,169
+21000474,183,PT04M53.00S,2,1610612759,SAS,2588,Bonner,M. Bonner,0,0,0,,0,0.0,0.0,0,v,Bonner S.FOUL (P2.T3),Foul,Shooting,0,170
+21000474,184,PT04M53.00S,2,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,37.0,50.0,87,h,Marion Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,171
+21000474,186,PT04M53.00S,2,1610612759,SAS,2588,Bonner,M. Bonner,0,0,0,,0,0.0,0.0,0,v,SUB: Blair FOR Bonner,Substitution,,0,172
+21000474,187,PT04M53.00S,2,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,38.0,50.0,88,h,Marion Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,173
+21000474,189,PT04M33.00S,2,1610612759,SAS,2210,Jefferson,R. Jefferson,226,4,0,Missed,1,0.0,0.0,0,v,MISS Jefferson  3PT Jump Shot,Missed Shot,Jump Shot,0,174
+21000474,190,PT04M32.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan REBOUND (Off:1 Def:4),Rebound,Unknown,0,175
+21000474,191,PT04M18.00S,2,1610612759,SAS,201588,Hill,G. Hill,0,0,0,,0,0.0,0.0,0,v,Hill Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,176
+21000474,191,PT04M18.00S,2,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd STEAL (2 STL),,,0,177
+21000474,192,PT04M15.00S,2,1610612742,DAL,1890,Marion,S. Marion,9,4,1,Made,1,40.0,50.0,90,h,Marion 1' Running Finger Roll Layup (8 PTS) (Kidd 6 AST),Made Shot,Running Finger Roll Layup Shot,0,178
+21000474,193,PT03M53.00S,2,1610612759,SAS,2210,Jefferson,R. Jefferson,51,12,5,Missed,1,0.0,0.0,0,v,MISS Jefferson 5' Driving Jump Shot,Missed Shot,Driving Jump shot,0,179
+21000474,193,PT03M53.00S,2,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0.0,0.0,0,h,Chandler BLOCK (1 BLK),,,0,180
+21000474,194,PT03M50.00S,2,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd REBOUND (Off:0 Def:3),Rebound,Unknown,0,181
+21000474,195,PT03M38.00S,2,1610612742,DAL,1891,Terry,J. Terry,181,162,24,Missed,1,0.0,0.0,0,h,MISS Terry 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,182
+21000474,196,PT03M37.00S,2,1610612759,SAS,201588,Hill,G. Hill,0,0,0,,0,0.0,0.0,0,v,Hill REBOUND (Off:0 Def:5),Rebound,Unknown,0,183
+21000474,197,PT03M19.00S,2,1610612759,SAS,2210,Jefferson,R. Jefferson,215,71,23,Missed,1,0.0,0.0,0,v,MISS Jefferson 23' Jump Shot,Missed Shot,Jump Shot,0,184
+21000474,198,PT03M18.00S,2,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Rebound,Rebound,Unknown,0,185
+21000474,199,PT03M18.00S,2,1610612759,SAS,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,SUB: Ginobili FOR Jefferson,Substitution,,0,186
+21000474,200,PT02M55.00S,2,1610612742,DAL,467,Kidd,J. Kidd,225,3,0,Made,1,43.0,50.0,93,h,Kidd  3PT Jump Shot (10 PTS) (Terry 1 AST),Made Shot,Jump Shot,0,187
+21000474,201,PT02M48.00S,2,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Timeout: Short (Reg.2 Short 1),Timeout,Short,0,188
+21000474,202,PT02M48.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,189
+21000474,204,PT02M48.00S,2,1610612759,SAS,201971,Blair,D. Blair,0,0,0,,0,0.0,0.0,0,v,SUB: Bonner FOR Blair,Substitution,,0,190
+21000474,205,PT02M34.00S,2,1610612759,SAS,1938,Ginobili,M. Ginobili,217,124,25,Missed,1,0.0,0.0,0,v,MISS Ginobili 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,191
+21000474,206,PT02M33.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan REBOUND (Off:2 Def:4),Rebound,Unknown,0,192
+21000474,207,PT02M28.00S,2,1610612759,SAS,2225,Parker,T. Parker,40,242,25,Missed,1,0.0,0.0,0,v,MISS Parker 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,193
+21000474,208,PT02M27.00S,2,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0.0,0.0,0,h,Chandler REBOUND (Off:0 Def:3),Rebound,Unknown,0,194
+21000474,209,PT02M15.00S,2,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,195
+21000474,210,PT02M06.00S,2,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry P.FOUL (P3.T3),Foul,Personal,0,196
+21000474,211,PT02M06.00S,2,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,SUB: Barea FOR Terry,Substitution,,0,197
+21000474,212,PT02M00.00S,2,1610612759,SAS,201588,Hill,G. Hill,155,1,16,Missed,1,0.0,0.0,0,v,MISS Hill 16' Jump Shot,Missed Shot,Jump Shot,0,198
+21000474,213,PT01M59.00S,2,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0.0,0.0,0,h,Chandler REBOUND (Off:0 Def:4),Rebound,Unknown,0,199
+21000474,214,PT01M44.00S,2,1610612742,DAL,2406,Butler,C. Butler,-223,22,0,Made,1,46.0,50.0,96,h,Butler  3PT Jump Shot (14 PTS) (Barea 1 AST),Made Shot,Jump Shot,0,200
+21000474,215,PT01M22.00S,2,1610612759,SAS,1938,Ginobili,M. Ginobili,-56,17,6,Missed,1,0.0,0.0,0,v,MISS Ginobili 6' Driving Jump Shot,Missed Shot,Driving Jump shot,0,201
+21000474,216,PT01M21.00S,2,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,0.0,0.0,0,h,Butler REBOUND (Off:0 Def:1),Rebound,Unknown,0,202
+21000474,217,PT01M15.00S,2,1610612742,DAL,467,Kidd,J. Kidd,31,15,3,Missed,1,0.0,0.0,0,h,MISS Kidd 3' Driving Jump Shot,Missed Shot,Driving Jump shot,0,203
+21000474,218,PT01M13.00S,2,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,0.0,0.0,0,v,Ginobili REBOUND (Off:0 Def:4),Rebound,Unknown,0,204
+21000474,219,PT01M04.00S,2,1610612759,SAS,2588,Bonner,M. Bonner,-147,190,24,Missed,1,0.0,0.0,0,v,MISS Bonner 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,205
+21000474,220,PT01M03.00S,2,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Rebound,Rebound,Unknown,0,206
+21000474,221,PT00M43.10S,2,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,0.0,0.0,0,h,Butler OFF.Foul (P1),Foul,Offensive,0,207
+21000474,222,PT00M43.10S,2,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,0.0,0.0,0,h,Butler Foul Turnover (P1.T6),Turnover,Foul,0,208
+21000474,223,PT00M25.90S,2,1610612759,SAS,1938,Ginobili,M. Ginobili,162,186,25,Made,1,46.0,53.0,99,v,Ginobili 25' 3PT Jump Shot (9 PTS) (Parker 5 AST),Made Shot,Jump Shot,0,209
+21000474,224,PT00M05.90S,2,1610612742,DAL,1890,Marion,S. Marion,179,164,24,Missed,1,0.0,0.0,0,h,MISS Marion 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,210
+21000474,225,PT00M04.80S,2,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan REBOUND (Off:2 Def:5),Rebound,Unknown,0,211
+21000474,226,PT00M00.30S,2,1610612759,SAS,1938,Ginobili,M. Ginobili,220,170,28,Missed,1,0.0,0.0,0,v,MISS Ginobili 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,212
+21000474,227,PT00M00.00S,2,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Rebound,Rebound,Unknown,0,213
+21000474,228,PT00M00.00S,2,0,,0,,,0,0,0,,0,46.0,53.0,99,,End of 2nd Period (10:46 PM EST),period,end,0,214
+21000474,230,PT12M00.00S,3,0,,0,,,0,0,0,,0,46.0,53.0,99,,Start of 3rd Period (11:06 PM EST),period,start,0,215
+21000474,231,PT11M39.00S,3,1610612759,SAS,2210,Jefferson,R. Jefferson,-26,30,4,Missed,1,0.0,0.0,0,v,MISS Jefferson 4' Driving Jump Shot,Missed Shot,Driving Jump shot,0,216
+21000474,232,PT11M39.00S,3,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0.0,0.0,0,h,Chandler REBOUND (Off:0 Def:5),Rebound,Unknown,0,217
+21000474,233,PT11M27.00S,3,1610612742,DAL,2052,Stevenson,D. Stevenson,-191,148,24,Missed,1,0.0,0.0,0,h,MISS Stevenson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,218
+21000474,234,PT11M26.00S,3,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,0.0,0.0,0,v,Parker REBOUND (Off:1 Def:2),Rebound,Unknown,0,219
+21000474,235,PT11M17.00S,3,1610612759,SAS,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,Jefferson OFF.Foul (P1),Foul,Offensive,0,220
+21000474,236,PT11M17.00S,3,1610612759,SAS,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,Jefferson Foul Turnover (P2.T7),Turnover,Foul,0,221
+21000474,237,PT11M02.00S,3,1610612742,DAL,2406,Butler,C. Butler,154,140,21,Made,1,48.0,53.0,101,h,Butler 21' Jump Shot (16 PTS) (Kidd 7 AST),Made Shot,Jump Shot,0,222
+21000474,238,PT10M38.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,51,186,19,Missed,1,0.0,0.0,0,v,MISS Duncan 19' Jump Shot,Missed Shot,Jump Shot,0,223
+21000474,239,PT10M38.00S,3,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd REBOUND (Off:0 Def:4),Rebound,Unknown,0,224
+21000474,240,PT10M25.00S,3,1610612742,DAL,2073,Cardinal,B. Cardinal,181,160,24,Made,1,51.0,53.0,104,h,Cardinal 24' 3PT Jump Shot (6 PTS) (Kidd 8 AST),Made Shot,Jump Shot,0,225
+21000474,241,PT10M09.00S,3,1610612759,SAS,2225,Parker,T. Parker,13,67,7,Made,1,51.0,55.0,106,v,Parker 7' Driving Jump Shot (10 PTS),Made Shot,Driving Jump shot,0,226
+21000474,242,PT09M48.00S,3,1610612742,DAL,2073,Cardinal,B. Cardinal,-163,22,16,Missed,1,0.0,0.0,0,h,MISS Cardinal 16' Jump Shot,Missed Shot,Jump Shot,0,227
+21000474,243,PT09M47.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan REBOUND (Off:2 Def:6),Rebound,Unknown,0,228
+21000474,244,PT09M35.00S,3,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd S.FOUL (P2.T1),Foul,Shooting,0,229
+21000474,245,PT09M35.00S,3,1610612759,SAS,201971,Blair,D. Blair,0,0,0,,0,0.0,0.0,0,v,SUB: Bonner FOR Blair,Substitution,,0,230
+21000474,246,PT09M35.00S,3,1610612759,SAS,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,SUB: Neal FOR Jefferson,Substitution,,0,231
+21000474,247,PT09M35.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,51.0,56.0,107,v,Duncan Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,232
+21000474,249,PT09M35.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,51.0,57.0,108,v,Duncan Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,233
+21000474,251,PT09M18.00S,3,1610612742,DAL,2052,Stevenson,D. Stevenson,-172,47,18,Made,1,53.0,57.0,110,h,Stevenson 18' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,0,234
+21000474,252,PT09M04.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,-67,19,7,Missed,1,0.0,0.0,0,v,MISS Duncan 7' Jump Bank Shot,Missed Shot,Jump Bank Shot,0,235
+21000474,253,PT09M03.00S,3,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd REBOUND (Off:0 Def:5),Rebound,Unknown,0,236
+21000474,254,PT08M57.00S,3,1610612759,SAS,202390,Neal,G. Neal,0,0,0,,0,0.0,0.0,0,v,Neal S.FOUL (P2.T1),Foul,Shooting,0,237
+21000474,255,PT08M57.00S,3,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,54.0,57.0,111,h,Butler Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,238
+21000474,257,PT08M57.00S,3,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,55.0,57.0,112,h,Butler Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,239
+21000474,259,PT08M40.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,-48,11,5,Missed,1,0.0,0.0,0,v,MISS Duncan 5' Driving Jump Shot,Missed Shot,Driving Jump shot,0,240
+21000474,260,PT08M39.00S,3,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0.0,0.0,0,h,Chandler REBOUND (Off:0 Def:6),Rebound,Unknown,0,241
+21000474,261,PT08M33.00S,3,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,0.0,0.0,0,h,Butler Traveling Turnover (P2.T7),Turnover,Traveling,0,242
+21000474,262,PT08M14.00S,3,1610612759,SAS,2225,Parker,T. Parker,48,197,20,Missed,1,0.0,0.0,0,v,MISS Parker 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,243
+21000474,263,PT08M13.00S,3,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0.0,0.0,0,h,Chandler REBOUND (Off:0 Def:7),Rebound,Unknown,0,244
+21000474,264,PT07M59.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan S.FOUL (P1.T2),Foul,Shooting,0,245
+21000474,265,PT07M59.00S,3,1610612742,DAL,2052,Stevenson,D. Stevenson,0,0,0,,0,56.0,57.0,113,h,Stevenson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,246
+21000474,267,PT07M59.00S,3,1610612742,DAL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,MISS Stevenson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,247
+21000474,269,PT07M58.00S,3,1610612759,SAS,202390,Neal,G. Neal,0,0,0,,0,0.0,0.0,0,v,Neal REBOUND (Off:0 Def:1),Rebound,Unknown,0,248
+21000474,270,PT07M40.00S,3,1610612759,SAS,1938,Ginobili,M. Ginobili,-220,110,25,Missed,1,0.0,0.0,0,v,MISS Ginobili 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,249
+21000474,271,PT07M39.00S,3,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,0.0,0.0,0,h,Butler REBOUND (Off:0 Def:2),Rebound,Unknown,0,250
+21000474,272,PT07M30.00S,3,1610612742,DAL,467,Kidd,J. Kidd,70,33,8,Missed,1,0.0,0.0,0,h,MISS Kidd 8' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,0,251
+21000474,273,PT07M29.00S,3,1610612759,SAS,202390,Neal,G. Neal,0,0,0,,0,0.0,0.0,0,v,Neal REBOUND (Off:0 Def:2),Rebound,Unknown,0,252
+21000474,274,PT07M15.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,-15,9,2,Made,1,56.0,59.0,115,v,Duncan 2' Layup (13 PTS),Made Shot,Layup Shot,0,253
+21000474,275,PT06M56.00S,3,1610612759,SAS,202390,Neal,G. Neal,0,0,0,,0,0.0,0.0,0,v,Neal P.FOUL (P3.T3),Foul,Personal,0,254
+21000474,276,PT06M49.00S,3,1610612742,DAL,467,Kidd,J. Kidd,64,142,16,Made,1,58.0,59.0,117,h,Kidd 16' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,0,255
+21000474,277,PT06M37.00S,3,1610612742,DAL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,Stevenson P.FOUL (P1.T2),Foul,Personal,0,256
+21000474,278,PT06M37.00S,3,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,0.0,0.0,0,v,SUB: Hill FOR Ginobili,Substitution,,0,257
+21000474,279,PT06M26.00S,3,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0.0,0.0,0,h,Chandler S.FOUL (P3.T3),Foul,Shooting,0,258
+21000474,280,PT06M26.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,58.0,60.0,118,v,Duncan Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,259
+21000474,282,PT06M26.00S,3,1610612759,SAS,202390,Neal,G. Neal,0,0,0,,0,0.0,0.0,0,v,SUB: Jefferson FOR Neal,Substitution,,0,260
+21000474,283,PT06M26.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,58.0,61.0,119,v,Duncan Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,261
+21000474,285,PT06M12.00S,3,1610612742,DAL,467,Kidd,J. Kidd,168,93,19,Missed,1,0.0,0.0,0,h,MISS Kidd 19' Jump Shot,Missed Shot,Jump Shot,0,262
+21000474,286,PT06M12.00S,3,1610612759,SAS,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,Jefferson REBOUND (Off:0 Def:2),Rebound,Unknown,0,263
+21000474,288,PT05M53.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,83,28,9,Made,1,58.0,63.0,121,v,Duncan 9' Jump Hook Shot (17 PTS),Made Shot,Jump Hook Shot,0,264
+21000474,289,PT05M30.00S,3,1610612742,DAL,2406,Butler,C. Butler,184,12,18,Missed,1,0.0,0.0,0,h,MISS Butler 18' Jump Shot,Missed Shot,Jump Shot,0,265
+21000474,290,PT05M29.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan REBOUND (Off:2 Def:7),Rebound,Unknown,0,266
+21000474,291,PT05M16.00S,3,1610612759,SAS,201588,Hill,G. Hill,-224,9,0,Missed,1,0.0,0.0,0,v,MISS Hill  3PT Jump Shot,Missed Shot,Jump Shot,0,267
+21000474,292,PT05M15.00S,3,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0.0,0.0,0,h,Chandler REBOUND (Off:0 Def:8),Rebound,Unknown,0,268
+21000474,293,PT05M03.00S,3,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,269
+21000474,293,PT05M03.00S,3,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,0.0,0.0,0,v,Parker STEAL (2 STL),,,0,270
+21000474,294,PT04M59.00S,3,1610612759,SAS,2225,Parker,T. Parker,20,14,2,Missed,1,0.0,0.0,0,v,MISS Parker 2' Driving Layup,Missed Shot,Driving Layup Shot,0,271
+21000474,294,PT04M59.00S,3,1610612742,DAL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,Stevenson BLOCK (1 BLK),,,0,272
+21000474,295,PT04M55.00S,3,1610612742,DAL,2073,Cardinal,B. Cardinal,0,0,0,,0,0.0,0.0,0,h,Cardinal REBOUND (Off:0 Def:3),Rebound,Unknown,0,273
+21000474,296,PT04M46.00S,3,1610612742,DAL,2406,Butler,C. Butler,36,12,4,Made,1,60.0,63.0,123,h,Butler 4' Turnaround Bank Hook Shot (20 PTS),Made Shot,Turnaround Bank Hook Shot,0,274
+21000474,297,PT04M26.00S,3,1610612759,SAS,2588,Bonner,M. Bonner,0,0,0,,0,0.0,0.0,0,v,Bonner Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,275
+21000474,297,PT04M26.00S,3,1610612742,DAL,2073,Cardinal,B. Cardinal,0,0,0,,0,0.0,0.0,0,h,Cardinal STEAL (2 STL),,,0,276
+21000474,298,PT04M21.00S,3,1610612742,DAL,467,Kidd,J. Kidd,-8,6,1,Missed,1,0.0,0.0,0,h,MISS Kidd 1' Driving Layup,Missed Shot,Driving Layup Shot,0,277
+21000474,299,PT04M20.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan REBOUND (Off:2 Def:8),Rebound,Unknown,0,278
+21000474,300,PT04M14.00S,3,1610612742,DAL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,Stevenson P.FOUL (P2.T4),Foul,Personal,0,279
+21000474,302,PT04M14.00S,3,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,280
+21000474,303,PT04M14.00S,3,1610612742,DAL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,SUB: Terry FOR Stevenson,Substitution,,0,281
+21000474,305,PT03M55.00S,3,1610612759,SAS,2225,Parker,T. Parker,-224,6,0,Missed,1,0.0,0.0,0,v,MISS Parker  3PT Jump Shot,Missed Shot,Jump Shot,0,282
+21000474,306,PT03M54.00S,3,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd REBOUND (Off:0 Def:6),Rebound,Unknown,0,283
+21000474,307,PT03M33.00S,3,1610612742,DAL,1891,Terry,J. Terry,15,148,15,Missed,1,0.0,0.0,0,h,MISS Terry 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,284
+21000474,308,PT03M32.00S,3,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry REBOUND (Off:1 Def:1),Rebound,Unknown,0,285
+21000474,309,PT03M24.00S,3,1610612742,DAL,2199,Chandler,T. Chandler,18,0,2,Made,1,62.0,63.0,125,h,Chandler 2' Alley Oop Layup (6 PTS) (Terry 2 AST),Made Shot,Alley Oop Layup shot,0,286
+21000474,310,PT03M24.00S,3,1610612759,SAS,201588,Hill,G. Hill,0,0,0,,0,0.0,0.0,0,v,Hill S.FOUL (P1.T4),Foul,Shooting,0,287
+21000474,311,PT03M24.00S,3,1610612742,DAL,2073,Cardinal,B. Cardinal,0,0,0,,0,0.0,0.0,0,h,SUB: Marion FOR Cardinal,Substitution,,0,288
+21000474,312,PT03M24.00S,3,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0.0,0.0,0,h,MISS Chandler Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,289
+21000474,314,PT03M23.00S,3,1610612759,SAS,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,Jefferson REBOUND (Off:0 Def:3),Rebound,Unknown,0,290
+21000474,315,PT03M05.00S,3,1610612759,SAS,201588,Hill,G. Hill,2,58,6,Made,1,62.0,65.0,127,v,Hill 6' Driving Jump Shot (10 PTS),Made Shot,Driving Jump shot,0,291
+21000474,316,PT02M49.00S,3,1610612742,DAL,1891,Terry,J. Terry,2,47,5,Missed,1,0.0,0.0,0,h,MISS Terry 5' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,292
+21000474,317,PT02M48.00S,3,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,0.0,0.0,0,v,Parker REBOUND (Off:1 Def:3),Rebound,Unknown,0,293
+21000474,318,PT02M42.00S,3,1610612759,SAS,2225,Parker,T. Parker,7,6,1,Made,1,62.0,67.0,129,v,Parker 1' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,0,294
+21000474,319,PT02M39.00S,3,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Timeout: Short (Full 3 Short 2),Timeout,Short,0,295
+21000474,321,PT02M39.00S,3,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,296
+21000474,324,PT02M18.00S,3,1610612742,DAL,2406,Butler,C. Butler,-141,58,15,Made,1,64.0,67.0,131,h,Butler 15' Pullup Jump Shot (22 PTS) (Kidd 9 AST),Made Shot,Pullup Jump shot,0,297
+21000474,325,PT01M57.00S,3,1610612759,SAS,2588,Bonner,M. Bonner,89,228,24,Missed,1,0.0,0.0,0,v,MISS Bonner 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,298
+21000474,326,PT01M56.00S,3,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd REBOUND (Off:0 Def:7),Rebound,Unknown,0,299
+21000474,327,PT01M49.00S,3,1610612742,DAL,1890,Marion,S. Marion,-224,0,0,Missed,1,0.0,0.0,0,h,MISS Marion  3PT Jump Shot,Missed Shot,Jump Shot,0,300
+21000474,328,PT01M48.00S,3,1610612759,SAS,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,Jefferson REBOUND (Off:0 Def:4),Rebound,Unknown,0,301
+21000474,329,PT01M34.00S,3,1610612759,SAS,2210,Jefferson,R. Jefferson,-30,242,24,Missed,1,0.0,0.0,0,v,MISS Jefferson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,302
+21000474,330,PT01M34.00S,3,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0.0,0.0,0,h,Chandler REBOUND (Off:0 Def:9),Rebound,Unknown,0,303
+21000474,331,PT01M23.00S,3,1610612742,DAL,467,Kidd,J. Kidd,23,83,9,Missed,1,0.0,0.0,0,h,MISS Kidd 9' Jump Shot,Missed Shot,Jump Shot,0,304
+21000474,332,PT01M22.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan REBOUND (Off:2 Def:9),Rebound,Unknown,0,305
+21000474,333,PT01M16.00S,3,1610612759,SAS,2210,Jefferson,R. Jefferson,6,3,1,Made,1,64.0,69.0,133,v,Jefferson 1' Driving Dunk (2 PTS),Made Shot,Driving Dunk Shot,0,306
+21000474,334,PT00M46.90S,3,1610612742,DAL,1890,Marion,S. Marion,-65,36,7,Missed,1,0.0,0.0,0,h,MISS Marion 7' Jump Shot,Missed Shot,Jump Shot,0,307
+21000474,335,PT00M45.60S,3,1610612759,SAS,2588,Bonner,M. Bonner,0,0,0,,0,0.0,0.0,0,v,Bonner REBOUND (Off:1 Def:3),Rebound,Unknown,0,308
+21000474,336,PT00M40.10S,3,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,0.0,0.0,0,v,Parker OFF.Foul (P2),Foul,Offensive,0,309
+21000474,337,PT00M40.10S,3,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,0.0,0.0,0,v,Parker Foul Turnover (P1.T9),Turnover,Foul,0,310
+21000474,338,PT00M40.10S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,SUB: Ginobili FOR Duncan,Substitution,,0,311
+21000474,339,PT00M40.10S,3,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,0.0,0.0,0,v,SUB: McDyess FOR Parker,Substitution,,0,312
+21000474,340,PT00M25.90S,3,1610612742,DAL,2406,Butler,C. Butler,-152,28,15,Missed,1,0.0,0.0,0,h,MISS Butler 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,313
+21000474,341,PT00M24.80S,3,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,0.0,0.0,0,v,Ginobili REBOUND (Off:0 Def:5),Rebound,Unknown,0,314
+21000474,343,PT00M02.20S,3,1610612759,SAS,686,McDyess,A. McDyess,50,20,5,Made,1,64.0,71.0,135,v,McDyess 5' Running Bank Shot (4 PTS) (Ginobili 2 AST),Made Shot,Running Bank shot,0,315
+21000474,344,PT00M00.30S,3,1610612742,DAL,467,Kidd,J. Kidd,181,304,35,Missed,1,0.0,0.0,0,h,MISS Kidd 35' 3PT Jump Shot,Missed Shot,Jump Shot,0,316
+21000474,345,PT00M00.00S,3,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Rebound,Rebound,Unknown,0,317
+21000474,346,PT00M00.00S,3,0,,0,,,0,0,0,,0,64.0,71.0,135,,End of 3rd Period (11:31 PM EST),period,end,0,318
+21000474,348,PT12M00.00S,4,0,,0,,,0,0,0,,0,64.0,71.0,135,,Start of 4th Period (11:34 PM EST),period,start,0,319
+21000474,349,PT11M46.00S,4,1610612742,DAL,1891,Terry,J. Terry,34,11,4,Missed,1,0.0,0.0,0,h,MISS Terry 4' Driving Bank Shot,Missed Shot,Driving Bank shot,0,320
+21000474,350,PT11M45.00S,4,1610612759,SAS,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,v,McDyess REBOUND (Off:1 Def:2),Rebound,Unknown,0,321
+21000474,351,PT11M28.00S,4,1610612759,SAS,2588,Bonner,M. Bonner,21,14,3,Missed,1,0.0,0.0,0,v,MISS Bonner 3' Layup,Missed Shot,Layup Shot,0,322
+21000474,351,PT11M28.00S,4,1610612742,DAL,201582,Ajinca,A. Ajinca,0,0,0,,0,0.0,0.0,0,h,Ajinca BLOCK (1 BLK),,,0,323
+21000474,352,PT11M26.00S,4,1610612742,DAL,201582,Ajinca,A. Ajinca,0,0,0,,0,0.0,0.0,0,h,Ajinca REBOUND (Off:0 Def:2),Rebound,Unknown,0,324
+21000474,353,PT11M18.00S,4,1610612742,DAL,201582,Ajinca,A. Ajinca,6,60,6,Made,1,66.0,71.0,137,h,Ajinca 6' Running Hook Shot (4 PTS),Made Shot,Running Hook Shot,0,325
+21000474,354,PT11M02.00S,4,1610612759,SAS,2210,Jefferson,R. Jefferson,-138,102,17,Made,1,66.0,73.0,139,v,Jefferson 17' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,0,326
+21000474,355,PT10M44.00S,4,1610612742,DAL,201582,Ajinca,A. Ajinca,138,205,25,Missed,1,0.0,0.0,0,h,MISS Ajinca 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,327
+21000474,356,PT10M43.00S,4,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,0.0,0.0,0,v,Ginobili REBOUND (Off:0 Def:6),Rebound,Unknown,0,328
+21000474,357,PT10M25.00S,4,1610612759,SAS,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,Jefferson Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,329
+21000474,357,PT10M25.00S,4,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion STEAL (2 STL),,,0,330
+21000474,358,PT10M20.00S,4,1610612742,DAL,2406,Butler,C. Butler,37,14,4,Missed,1,0.0,0.0,0,h,MISS Butler 4' Jump Shot,Missed Shot,Jump Shot,0,331
+21000474,358,PT10M20.00S,4,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,0.0,0.0,0,v,Ginobili BLOCK (1 BLK),,,0,332
+21000474,359,PT10M18.00S,4,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,0.0,0.0,0,v,Ginobili REBOUND (Off:0 Def:7),Rebound,Unknown,0,333
+21000474,360,PT10M07.00S,4,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion P.FOUL (P1.T1),Foul,Personal,0,334
+21000474,361,PT10M07.00S,4,1610612759,SAS,2588,Bonner,M. Bonner,0,0,0,,0,0.0,0.0,0,v,SUB: Neal FOR Bonner,Substitution,,0,335
+21000474,362,PT09M55.00S,4,1610612759,SAS,686,McDyess,A. McDyess,-5,19,2,Made,1,66.0,75.0,141,v,McDyess 2' Running Finger Roll Layup (6 PTS) (Ginobili 3 AST),Made Shot,Running Finger Roll Layup Shot,0,336
+21000474,363,PT09M37.00S,4,1610612759,SAS,202390,Neal,G. Neal,0,0,0,,0,0.0,0.0,0,v,Neal P.FOUL (P4.T1),Foul,Personal,0,337
+21000474,364,PT09M30.00S,4,1610612742,DAL,1890,Marion,S. Marion,10,55,6,Made,1,68.0,75.0,143,h,Marion 6' Floating Jump Shot (10 PTS) (Terry 3 AST),Made Shot,Floating Jump shot,0,338
+21000474,365,PT09M10.00S,4,1610612759,SAS,1938,Ginobili,M. Ginobili,193,156,25,Missed,1,0.0,0.0,0,v,MISS Ginobili 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,339
+21000474,366,PT09M10.00S,4,1610612759,SAS,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,v,McDyess REBOUND (Off:2 Def:2),Rebound,Unknown,0,340
+21000474,367,PT09M10.00S,4,1610612742,DAL,201582,Ajinca,A. Ajinca,0,0,0,,0,0.0,0.0,0,h,Ajinca P.FOUL (P2.T2),Foul,Personal,0,341
+21000474,368,PT09M10.00S,4,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,0.0,0.0,0,h,SUB: Cardinal FOR Butler,Substitution,,0,342
+21000474,369,PT08M54.00S,4,1610612759,SAS,1938,Ginobili,M. Ginobili,228,0,0,Made,1,68.0,78.0,146,v,Ginobili  3PT Jump Shot (12 PTS) (Jefferson 1 AST),Made Shot,Jump Shot,0,343
+21000474,370,PT08M30.00S,4,1610612742,DAL,1891,Terry,J. Terry,77,53,9,Missed,1,0.0,0.0,0,h,MISS Terry 9' Driving Jump Shot,Missed Shot,Driving Jump shot,0,344
+21000474,371,PT08M29.00S,4,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,0.0,0.0,0,v,Ginobili REBOUND (Off:0 Def:8),Rebound,Unknown,0,345
+21000474,372,PT08M14.00S,4,1610612759,SAS,202390,Neal,G. Neal,-221,0,0,Missed,1,0.0,0.0,0,v,MISS Neal  3PT Jump Shot,Missed Shot,Jump Shot,0,346
+21000474,373,PT08M13.00S,4,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,0.0,0.0,0,h,Barea REBOUND (Off:1 Def:1),Rebound,Unknown,0,347
+21000474,374,PT08M01.00S,4,1610612742,DAL,201582,Ajinca,A. Ajinca,20,6,2,Made,1,70.0,78.0,148,h,Ajinca 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,348
+21000474,375,PT08M01.00S,4,1610612759,SAS,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,v,McDyess S.FOUL (P2.T2),Foul,Shooting,0,349
+21000474,376,PT08M01.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,350
+21000474,380,PT08M01.00S,4,1610612742,DAL,201582,Ajinca,A. Ajinca,0,0,0,,0,71.0,78.0,149,h,Ajinca Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,351
+21000474,382,PT07M44.00S,4,1610612759,SAS,202390,Neal,G. Neal,192,149,24,Made,1,71.0,81.0,152,v,Neal 24' 3PT Jump Shot (14 PTS),Made Shot,Jump Shot,0,352
+21000474,383,PT07M26.00S,4,1610612742,DAL,2073,Cardinal,B. Cardinal,198,143,24,Made,1,74.0,81.0,155,h,Cardinal 24' 3PT Jump Shot (9 PTS) (Terry 4 AST),Made Shot,Jump Shot,0,353
+21000474,384,PT07M11.00S,4,1610612759,SAS,2210,Jefferson,R. Jefferson,-224,7,0,Made,1,74.0,84.0,158,v,Jefferson  3PT Jump Shot (7 PTS) (McDyess 2 AST),Made Shot,Jump Shot,0,354
+21000474,385,PT06M54.00S,4,1610612742,DAL,201582,Ajinca,A. Ajinca,-161,28,16,Missed,1,0.0,0.0,0,h,MISS Ajinca 16' Jump Shot,Missed Shot,Jump Shot,0,355
+21000474,386,PT06M53.00S,4,1610612759,SAS,202390,Neal,G. Neal,0,0,0,,0,0.0,0.0,0,v,Neal REBOUND (Off:0 Def:3),Rebound,Unknown,0,356
+21000474,387,PT06M43.00S,4,1610612742,DAL,2073,Cardinal,B. Cardinal,0,0,0,,0,0.0,0.0,0,h,Cardinal S.FOUL (P1.T3),Foul,Shooting,0,357
+21000474,388,PT06M43.00S,4,1610612759,SAS,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,v,MISS McDyess Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,358
+21000474,389,PT06M43.00S,4,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Rebound,Rebound,Normal Rebound,0,359
+21000474,390,PT06M43.00S,4,1610612759,SAS,201588,Hill,G. Hill,0,0,0,,0,0.0,0.0,0,v,SUB: Parker FOR Hill,Substitution,,0,360
+21000474,391,PT06M43.00S,4,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,0.0,0.0,0,h,SUB: Kidd FOR Barea,Substitution,,0,361
+21000474,392,PT06M43.00S,4,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,SUB: Butler FOR Marion,Substitution,,0,362
+21000474,393,PT06M43.00S,4,1610612742,DAL,201582,Ajinca,A. Ajinca,0,0,0,,0,0.0,0.0,0,h,SUB: Chandler FOR Ajinca,Substitution,,0,363
+21000474,394,PT06M43.00S,4,1610612759,SAS,686,McDyess,A. McDyess,0,0,0,,0,74.0,85.0,159,v,McDyess Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,364
+21000474,396,PT06M29.00S,4,1610612742,DAL,467,Kidd,J. Kidd,-79,230,24,Missed,1,0.0,0.0,0,h,MISS Kidd 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,365
+21000474,397,PT06M28.00S,4,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,0.0,0.0,0,v,Parker REBOUND (Off:1 Def:4),Rebound,Unknown,0,366
+21000474,398,PT06M11.00S,4,1610612759,SAS,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,v,McDyess Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,367
+21000474,398,PT06M11.00S,4,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry STEAL (2 STL),,,0,368
+21000474,399,PT05M57.00S,4,1610612742,DAL,2406,Butler,C. Butler,-163,14,16,Missed,1,0.0,0.0,0,h,MISS Butler 16' Jump Shot,Missed Shot,Jump Shot,0,369
+21000474,400,PT05M55.00S,4,1610612759,SAS,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,v,McDyess REBOUND (Off:2 Def:3),Rebound,Unknown,0,370
+21000474,401,PT05M43.00S,4,1610612759,SAS,2210,Jefferson,R. Jefferson,230,4,0,Missed,1,0.0,0.0,0,v,MISS Jefferson  3PT Jump Shot,Missed Shot,Jump Shot,0,371
+21000474,402,PT05M42.00S,4,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd REBOUND (Off:0 Def:8),Rebound,Unknown,0,372
+21000474,403,PT05M26.00S,4,1610612742,DAL,2406,Butler,C. Butler,138,20,14,Missed,1,0.0,0.0,0,h,MISS Butler 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,373
+21000474,404,PT05M26.00S,4,1610612759,SAS,202390,Neal,G. Neal,0,0,0,,0,0.0,0.0,0,v,Neal REBOUND (Off:0 Def:4),Rebound,Unknown,0,374
+21000474,405,PT05M06.00S,4,1610612759,SAS,1938,Ginobili,M. Ginobili,91,157,18,Missed,1,0.0,0.0,0,v,MISS Ginobili 18' Jump Shot,Missed Shot,Jump Shot,0,375
+21000474,406,PT05M06.00S,4,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0.0,0.0,0,h,Chandler REBOUND (Off:0 Def:10),Rebound,Unknown,0,376
+21000474,407,PT05M06.00S,4,1610612759,SAS,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,v,McDyess L.B.FOUL (P3.T3),Foul,Loose Ball,0,377
+21000474,408,PT05M06.00S,4,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Timeout: Regular (Full 4 Short 2),Timeout,Regular,0,378
+21000474,411,PT05M06.00S,4,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,0.0,0.0,0,v,SUB: Duncan FOR Ginobili,Substitution,,0,379
+21000474,412,PT05M06.00S,4,1610612759,SAS,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,v,SUB: Hill FOR McDyess,Substitution,,0,380
+21000474,414,PT04M53.00S,4,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry Step Out of Bounds Turnover (P1.T9),Turnover,Step Out of Bounds Turnover,0,381
+21000474,415,PT04M38.00S,4,1610612759,SAS,202390,Neal,G. Neal,-105,227,25,Missed,1,0.0,0.0,0,v,MISS Neal 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,382
+21000474,416,PT04M37.00S,4,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,0.0,0.0,0,h,Butler REBOUND (Off:0 Def:3),Rebound,Unknown,0,383
+21000474,417,PT04M32.00S,4,1610612742,DAL,2199,Chandler,T. Chandler,15,3,2,Made,1,76.0,85.0,161,h,Chandler 2' Alley Oop Layup (8 PTS) (Kidd 10 AST),Made Shot,Alley Oop Layup shot,0,384
+21000474,418,PT04M12.00S,4,1610612759,SAS,2225,Parker,T. Parker,140,108,18,Missed,1,0.0,0.0,0,v,MISS Parker 18' Floating Jump Shot,Missed Shot,Floating Jump shot,0,385
+21000474,419,PT04M10.00S,4,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0.0,0.0,0,h,Chandler REBOUND (Off:0 Def:11),Rebound,Unknown,0,386
+21000474,420,PT03M57.00S,4,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,387
+21000474,421,PT03M34.00S,4,1610612759,SAS,202390,Neal,G. Neal,-149,190,24,Made,1,76.0,88.0,164,v,Neal 24' 3PT Jump Shot (17 PTS) (Duncan 2 AST),Made Shot,Jump Shot,0,388
+21000474,422,PT03M33.00S,4,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Timeout: Regular (Full 5 Short 2),Timeout,Regular,0,389
+21000474,425,PT03M33.00S,4,1610612759,SAS,202390,Neal,G. Neal,0,0,0,,0,0.0,0.0,0,v,SUB: Ginobili FOR Neal,Substitution,,0,390
+21000474,426,PT03M16.00S,4,1610612759,SAS,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,Jefferson S.FOUL (P2.T4),Foul,Shooting,0,391
+21000474,427,PT03M16.00S,4,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,77.0,88.0,165,h,Butler Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,392
+21000474,429,PT03M16.00S,4,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,78.0,88.0,166,h,Butler Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,393
+21000474,432,PT02M56.00S,4,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,0.0,0.0,0,v,Ginobili Traveling Turnover (P3.T12),Turnover,Traveling,0,394
+21000474,433,PT02M48.00S,4,1610612742,DAL,2406,Butler,C. Butler,-5,3,1,Made,1,80.0,88.0,168,h,Butler 1' Driving Dunk (26 PTS) (Kidd 11 AST),Made Shot,Driving Dunk Shot,0,395
+21000474,434,PT02M34.00S,4,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,0.0,0.0,0,v,Parker Step Out of Bounds Turnover (P2.T13),Turnover,Step Out of Bounds Turnover,0,396
+21000474,435,PT02M24.00S,4,1610612759,SAS,201588,Hill,G. Hill,0,0,0,,0,0.0,0.0,0,v,Hill S.FOUL (P2.PN),Foul,Shooting,0,397
+21000474,436,PT02M24.00S,4,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,81.0,88.0,169,h,Butler Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,0,398
+21000474,438,PT02M24.00S,4,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,82.0,88.0,170,h,Butler Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,0,399
+21000474,440,PT02M07.00S,4,1610612742,DAL,2073,Cardinal,B. Cardinal,0,0,0,,0,0.0,0.0,0,h,Cardinal P.FOUL (P2.T4),Foul,Personal,0,400
+21000474,441,PT02M07.00S,4,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,401
+21000474,443,PT02M07.00S,4,1610612759,SAS,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,SUB: Neal FOR Jefferson,Substitution,,0,402
+21000474,444,PT01M57.00S,4,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0.0,0.0,0,h,Chandler S.FOUL (P4.PN),Foul,Shooting,0,403
+21000474,445,PT01M57.00S,4,1610612759,SAS,202390,Neal,G. Neal,0,0,0,,0,82.0,89.0,171,v,Neal Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,404
+21000474,447,PT01M57.00S,4,1610612759,SAS,202390,Neal,G. Neal,0,0,0,,0,82.0,90.0,172,v,Neal Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,405
+21000474,449,PT01M43.00S,4,1610612742,DAL,1891,Terry,J. Terry,174,-2,17,Missed,1,0.0,0.0,0,h,MISS Terry 17' Floating Jump Shot,Missed Shot,Floating Jump shot,0,406
+21000474,450,PT01M42.00S,4,1610612759,SAS,201588,Hill,G. Hill,0,0,0,,0,0.0,0.0,0,v,Hill REBOUND (Off:0 Def:6),Rebound,Unknown,0,407
+21000474,451,PT01M22.00S,4,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,0.0,0.0,0,v,Parker Bad Pass Turnover (P3.T14),Turnover,Bad Pass,0,408
+21000474,451,PT01M22.00S,4,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,0.0,0.0,0,h,Butler STEAL (1 STL),,,0,409
+21000474,452,PT01M21.00S,4,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,0.0,0.0,0,v,Ginobili P.FOUL (P2.PN),Foul,Personal,0,410
+21000474,453,PT01M21.00S,4,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,83.0,90.0,173,h,Butler Free Throw 1 of 2 (29 PTS),Free Throw,Free Throw 1 of 2,0,411
+21000474,455,PT01M21.00S,4,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,84.0,90.0,174,h,Butler Free Throw 2 of 2 (30 PTS),Free Throw,Free Throw 2 of 2,0,412
+21000474,457,PT00M59.90S,4,1610612759,SAS,201588,Hill,G. Hill,58,12,6,Made,1,84.0,92.0,176,v,Hill 6' Driving Bank Shot (12 PTS),Made Shot,Driving Bank shot,0,413
+21000474,458,PT00M51.90S,4,1610612742,DAL,2406,Butler,C. Butler,-109,132,17,Missed,1,0.0,0.0,0,h,MISS Butler 17' Jump Shot,Missed Shot,Jump Shot,0,414
+21000474,459,PT00M50.70S,4,1610612759,SAS,202390,Neal,G. Neal,0,0,0,,0,0.0,0.0,0,v,Neal REBOUND (Off:0 Def:5),Rebound,Unknown,0,415
+21000474,460,PT00M50.60S,4,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0.0,0.0,0,h,Chandler Personal Take Foul (P5.PN),Foul,Personal Take,0,416
+21000474,461,PT00M50.60S,4,1610612759,SAS,202390,Neal,G. Neal,0,0,0,,0,84.0,93.0,177,v,Neal Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,417
+21000474,463,PT00M50.60S,4,1610612742,DAL,2073,Cardinal,B. Cardinal,0,0,0,,0,0.0,0.0,0,h,SUB: Novak FOR Cardinal,Substitution,,0,418
+21000474,464,PT00M50.60S,4,1610612759,SAS,201588,Hill,G. Hill,0,0,0,,0,0.0,0.0,0,v,SUB: Jefferson FOR Hill,Substitution,,0,419
+21000474,465,PT00M50.60S,4,1610612759,SAS,202390,Neal,G. Neal,0,0,0,,0,84.0,94.0,178,v,Neal Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,420
+21000474,467,PT00M40.90S,4,1610612742,DAL,1891,Terry,J. Terry,-82,228,24,Made,1,87.0,94.0,181,h,Terry 24' 3PT Jump Shot (5 PTS) (Kidd 12 AST),Made Shot,Jump Shot,0,421
+21000474,468,PT00M40.10S,4,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd Personal Take Foul (P3.PN),Foul,Personal Take,0,422
+21000474,469,PT00M40.10S,4,1610612759,SAS,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,SUB: Hill FOR Jefferson,Substitution,,0,423
+21000474,470,PT00M40.10S,4,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,0.0,0.0,0,v,MISS Ginobili Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,424
+21000474,471,PT00M40.10S,4,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Rebound,Rebound,Normal Rebound,0,425
+21000474,473,PT00M40.10S,4,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,87.0,95.0,182,v,Ginobili Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,426
+21000474,475,PT00M26.90S,4,1610612742,DAL,467,Kidd,J. Kidd,218,66,23,Missed,1,0.0,0.0,0,h,MISS Kidd 23' Jump Shot,Missed Shot,Jump Shot,0,427
+21000474,476,PT00M25.60S,4,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd REBOUND (Off:1 Def:8),Rebound,Unknown,0,428
+21000474,477,PT00M22.30S,4,1610612742,DAL,1891,Terry,J. Terry,154,189,24,Made,1,90.0,95.0,185,h,Terry 24' 3PT Jump Shot (8 PTS) (Kidd 13 AST),Made Shot,Jump Shot,0,429
+21000474,478,PT00M22.30S,4,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Timeout: Short (Reg.4 Short 2),Timeout,Short,0,430
+21000474,482,PT00M21.20S,4,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,0.0,0.0,0,h,Butler Personal Take Foul (P2.PN),Foul,Personal Take,0,431
+21000474,483,PT00M21.20S,4,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,90.0,96.0,186,v,Ginobili Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,432
+21000474,485,PT00M21.20S,4,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,90.0,97.0,187,v,Ginobili Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,433
+21000474,487,PT00M15.90S,4,1610612742,DAL,2406,Butler,C. Butler,225,56,0,Missed,1,0.0,0.0,0,h,MISS Butler  3PT Jump Shot,Missed Shot,Jump Shot,0,434
+21000474,488,PT00M14.70S,4,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd REBOUND (Off:2 Def:8),Rebound,Unknown,0,435
+21000474,489,PT00M10.80S,4,1610612742,DAL,1891,Terry,J. Terry,69,230,24,Missed,1,0.0,0.0,0,h,MISS Terry 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,436
+21000474,490,PT00M10.30S,4,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,0.0,0.0,0,v,Parker REBOUND (Off:1 Def:5),Rebound,Unknown,0,437
+21000474,491,PT00M10.30S,4,1610612742,DAL,200779,Novak,S. Novak,0,0,0,,0,0.0,0.0,0,h,Novak Personal Take Foul (P1.PN),Foul,Personal Take,0,438
+21000474,493,PT00M10.30S,4,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,90.0,98.0,188,v,Parker Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,439
+21000474,495,PT00M10.30S,4,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,SUB: Barea FOR Kidd,Substitution,,0,440
+21000474,496,PT00M10.30S,4,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,SUB: Udoka FOR Duncan,Substitution,,0,441
+21000474,497,PT00M10.30S,4,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,0.0,0.0,0,v,SUB: Bonner FOR Ginobili,Substitution,,0,442
+21000474,498,PT00M10.30S,4,1610612759,SAS,201588,Hill,G. Hill,0,0,0,,0,0.0,0.0,0,v,SUB: Quinn FOR Hill,Substitution,,0,443
+21000474,499,PT00M10.30S,4,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,90.0,99.0,189,v,Parker Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,444
+21000474,501,PT00M02.90S,4,1610612742,DAL,200779,Novak,S. Novak,176,238,30,Made,1,93.0,99.0,192,h,Novak 30' 3PT Jump Shot (3 PTS) (Barea 2 AST),Made Shot,Jump Shot,0,445
+21000474,502,PT00M00.00S,4,0,,0,,,0,0,0,,0,93.0,99.0,192,,End of 4th Period (12:14 PM EST),period,end,0,446

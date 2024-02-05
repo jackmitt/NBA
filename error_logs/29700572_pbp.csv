@@ -1,0 +1,461 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+29700572,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (1:12 PM EST),period,start,0,1
+29700572,1,PT12M00.00S,1,1610612743,DEN,1499,Battie,T. Battie,0,0,0,,0,,,0,h,Jump Ball Battie vs. Dele: Tip to Dumars,Jump Ball,,0,2
+29700572,2,PT11M44.00S,1,1610612765,DET,711,Stackhouse,J. Stackhouse,-10,203,20,Made,1,0.0,2.0,2,v,Stackhouse 20' Jump Shot (2 PTS) (Dumars 1 AST),Made Shot,Jump Shot,0,3
+29700572,3,PT11M19.00S,1,1610612743,DEN,1517,Jackson,B. Jackson,-216,134,25,Made,1,3.0,2.0,5,h,Jackson 25' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,0,4
+29700572,4,PT10M59.00S,1,1610612765,DET,183,Dele,B. Dele,-12,59,6,Missed,1,,,0,v,MISS Dele 6' Jump Shot,Missed Shot,Jump Shot,0,5
+29700572,4,PT10M59.00S,1,1610612743,DEN,1051,Garrett,D. Garrett,0,0,0,,0,,,0,h,Garrett BLOCK (1 BLK),,,0,6
+29700572,5,PT10M56.00S,1,1610612743,DEN,1517,Jackson,B. Jackson,0,0,0,,0,,,0,h,Jackson REBOUND (Off:0 Def:1),Rebound,Unknown,0,7
+29700572,6,PT10M48.00S,1,1610612743,DEN,1517,Jackson,B. Jackson,0,0,0,,0,,,0,h,Jackson Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,8
+29700572,7,PT10M33.00S,1,1610612765,DET,247,Dumars,J. Dumars,-51,263,27,Made,1,3.0,5.0,8,v,Dumars 27' 3PT Jump Shot (3 PTS) (Hill 1 AST),Made Shot,Jump Shot,0,9
+29700572,8,PT10M10.00S,1,1610612743,DEN,1051,Garrett,D. Garrett,-6,173,17,Missed,1,,,0,h,MISS Garrett 17' Jump Shot,Missed Shot,Jump Shot,0,10
+29700572,9,PT10M08.00S,1,1610612765,DET,3,Long,G. Long,0,0,0,,0,,,0,v,Long REBOUND (Off:0 Def:1),Rebound,Unknown,0,11
+29700572,10,PT09M57.00S,1,1610612765,DET,711,Stackhouse,J. Stackhouse,-237,36,24,Missed,1,,,0,v,MISS Stackhouse 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,12
+29700572,11,PT09M54.00S,1,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Unknown,0,13
+29700572,12,PT09M54.00S,1,1610612765,DET,183,Dele,B. Dele,0,0,0,,0,,,0,v,SUB: Montross FOR Dele,Substitution,,0,14
+29700572,13,PT09M33.00S,1,1610612743,DEN,1051,Garrett,D. Garrett,-21,70,7,Made,1,5.0,5.0,10,h,Garrett 7' Jump Shot (2 PTS),Made Shot,Jump Shot,0,15
+29700572,14,PT09M23.00S,1,1610612765,DET,255,Hill,G. Hill,-94,36,10,Missed,1,,,0,v,MISS Hill 10' Jump Shot,Missed Shot,Jump Shot,0,16
+29700572,14,PT09M23.00S,1,1610612743,DEN,1499,Battie,T. Battie,0,0,0,,0,,,0,h,Battie BLOCK (1 BLK),,,0,17
+29700572,15,PT09M20.00S,1,1610612743,DEN,1677,Ellis,H. Ellis,0,0,0,,0,,,0,h,H. Ellis REBOUND (Off:0 Def:1),Rebound,Unknown,0,18
+29700572,16,PT09M15.00S,1,1610612743,DEN,1499,Battie,T. Battie,78,184,20,Missed,1,,,0,h,MISS Battie 20' Jump Shot,Missed Shot,Jump Shot,0,19
+29700572,17,PT09M13.00S,1,1610612743,DEN,1677,Ellis,H. Ellis,0,0,0,,0,,,0,h,H. Ellis REBOUND (Off:1 Def:1),Rebound,Unknown,0,20
+29700572,18,PT08M58.00S,1,1610612743,DEN,1540,Washington,E. Washington,-175,117,21,Made,1,7.0,5.0,12,h,Washington 21' Jump Shot (2 PTS) (Jackson 1 AST),Made Shot,Jump Shot,0,21
+29700572,19,PT08M40.00S,1,1610612765,DET,711,Stackhouse,J. Stackhouse,51,53,7,Missed,1,,,0,v,MISS Stackhouse 7' Running Jump Shot,Missed Shot,Running Jump Shot,0,22
+29700572,20,PT08M36.00S,1,1610612743,DEN,1051,Garrett,D. Garrett,0,0,0,,0,,,0,h,Garrett REBOUND (Off:0 Def:1),Rebound,Unknown,0,23
+29700572,21,PT08M27.00S,1,1610612743,DEN,1499,Battie,T. Battie,0,0,0,,0,,,0,h,Battie Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,24
+29700572,21,PT08M27.00S,1,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,,,0,v,Hill STEAL (1 STL),,,0,25
+29700572,22,PT08M21.00S,1,1610612765,DET,247,Dumars,J. Dumars,173,115,21,Missed,1,,,0,v,MISS Dumars 21' Jump Shot,Missed Shot,Jump Shot,0,26
+29700572,23,PT08M18.00S,1,1610612743,DEN,1540,Washington,E. Washington,0,0,0,,0,,,0,h,Washington REBOUND (Off:0 Def:1),Rebound,Unknown,0,27
+29700572,24,PT08M03.00S,1,1610612743,DEN,1051,Garrett,D. Garrett,0,0,0,Missed,1,,,0,h,MISS Garrett Layup,Missed Shot,Layup Shot,0,28
+29700572,26,PT07M59.00S,1,1610612743,DEN,1051,Garrett,D. Garrett,0,0,0,,0,,,0,h,Garrett REBOUND (Off:1 Def:1),Rebound,Unknown,0,29
+29700572,25,PT07M59.00S,1,1610612743,DEN,1051,Garrett,D. Garrett,0,0,0,Missed,1,,,0,h,MISS Garrett Tip Shot,Missed Shot,Tip Shot,0,30
+29700572,27,PT07M58.00S,1,1610612765,DET,3,Long,G. Long,0,0,0,,0,,,0,v,Long REBOUND (Off:0 Def:2),Rebound,Unknown,0,31
+29700572,28,PT07M48.00S,1,1610612743,DEN,1677,Ellis,H. Ellis,0,0,0,,0,,,0,h,H. Ellis P.FOUL (P1.T1),Foul,Personal,0,32
+29700572,29,PT07M41.00S,1,1610612765,DET,255,Hill,G. Hill,-12,59,6,Missed,1,,,0,v,MISS Hill 6' Running Jump Shot,Missed Shot,Running Jump Shot,0,33
+29700572,30,PT07M37.00S,1,1610612743,DEN,1051,Garrett,D. Garrett,0,0,0,,0,,,0,h,Garrett REBOUND (Off:1 Def:2),Rebound,Unknown,0,34
+29700572,31,PT07M33.00S,1,1610612743,DEN,1540,Washington,E. Washington,205,147,25,Made,1,10.0,5.0,15,h,Washington 25' 3PT Jump Shot (5 PTS) (Jackson 2 AST),Made Shot,Jump Shot,0,35
+29700572,32,PT07M05.00S,1,1610612765,DET,255,Hill,G. Hill,44,160,17,Missed,1,,,0,v,MISS Hill 17' Jump Shot,Missed Shot,Jump Shot,0,36
+29700572,32,PT07M05.00S,1,1610612743,DEN,1540,Washington,E. Washington,0,0,0,,0,,,0,h,Washington BLOCK (1 BLK),,,0,37
+29700572,33,PT07M02.00S,1,1610612743,DEN,1499,Battie,T. Battie,0,0,0,,0,,,0,h,Battie REBOUND (Off:0 Def:1),Rebound,Unknown,0,38
+29700572,34,PT06M59.00S,1,1610612743,DEN,1677,Ellis,H. Ellis,0,0,0,Made,1,12.0,5.0,17,h,H. Ellis Slam Dunk (2 PTS) (Battie 1 AST),Made Shot,Slam Dunk Shot,0,39
+29700572,35,PT06M34.00S,1,1610612765,DET,711,Stackhouse,J. Stackhouse,184,18,18,Made,1,12.0,7.0,19,v,Stackhouse 18' Jump Shot (4 PTS),Made Shot,Jump Shot,0,40
+29700572,36,PT06M19.00S,1,1610612743,DEN,1677,Ellis,H. Ellis,0,0,0,,0,,,0,h,H. Ellis Traveling Turnover (P1.T3),Turnover,Traveling,0,41
+29700572,37,PT06M19.00S,1,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,42
+29700572,39,PT06M19.00S,1,1610612765,DET,376,Montross,E. Montross,0,0,0,,0,,,0,v,SUB: Dele FOR Montross,Substitution,,0,43
+29700572,40,PT06M08.00S,1,1610612765,DET,255,Hill,G. Hill,91,132,16,Missed,1,,,0,v,MISS Hill 16' Jump Shot,Missed Shot,Jump Shot,0,44
+29700572,40,PT06M08.00S,1,1610612743,DEN,1540,Washington,E. Washington,0,0,0,,0,,,0,h,Washington BLOCK (2 BLK),,,0,45
+29700572,41,PT06M06.00S,1,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,,,0,v,Hill REBOUND (Off:1 Def:0),Rebound,Unknown,0,46
+29700572,42,PT06M03.00S,1,1610612765,DET,3,Long,G. Long,158,10,16,Missed,1,,,0,v,MISS Long 16' Jump Shot,Missed Shot,Jump Shot,0,47
+29700572,43,PT06M00.00S,1,1610612743,DEN,1051,Garrett,D. Garrett,0,0,0,,0,,,0,h,Garrett REBOUND (Off:1 Def:3),Rebound,Unknown,0,48
+29700572,44,PT05M56.00S,1,1610612743,DEN,1540,Washington,E. Washington,190,164,25,Made,1,15.0,7.0,22,h,Washington 25' 3PT Jump Shot (8 PTS) (Jackson 3 AST),Made Shot,Jump Shot,0,49
+29700572,45,PT05M40.00S,1,1610612765,DET,247,Dumars,J. Dumars,0,0,0,,0,,,0,v,Dumars Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,50
+29700572,45,PT05M40.00S,1,1610612743,DEN,1517,Jackson,B. Jackson,0,0,0,,0,,,0,h,Jackson STEAL (1 STL),,,0,51
+29700572,46,PT05M36.00S,1,1610612743,DEN,1677,Ellis,H. Ellis,0,0,0,Made,1,17.0,7.0,24,h,H. Ellis Slam Dunk (4 PTS) (Jackson 4 AST),Made Shot,Slam Dunk Shot,0,52
+29700572,47,PT05M23.00S,1,1610612765,DET,255,Hill,G. Hill,0,0,0,Missed,1,,,0,v,MISS Hill Driving Layup,Missed Shot,Driving Layup Shot,0,53
+29700572,49,PT05M20.00S,1,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,,,0,v,Hill REBOUND (Off:2 Def:0),Rebound,Unknown,0,54
+29700572,48,PT05M20.00S,1,1610612765,DET,255,Hill,G. Hill,0,0,0,Missed,1,,,0,v,MISS Hill Tip Shot,Missed Shot,Tip Shot,0,55
+29700572,51,PT05M19.00S,1,1610612765,DET,183,Dele,B. Dele,0,0,0,,0,,,0,v,Dele REBOUND (Off:1 Def:0),Rebound,Unknown,0,56
+29700572,50,PT05M19.00S,1,1610612765,DET,183,Dele,B. Dele,0,0,0,Missed,1,,,0,v,MISS Dele Tip Shot,Missed Shot,Tip Shot,0,57
+29700572,53,PT05M19.00S,1,1610612765,DET,183,Dele,B. Dele,0,0,0,,0,,,0,v,Dele REBOUND (Off:2 Def:0),Rebound,Unknown,0,58
+29700572,52,PT05M19.00S,1,1610612765,DET,183,Dele,B. Dele,0,0,0,Made,1,17.0,9.0,26,v,Dele Layup (2 PTS),Made Shot,Layup Shot,0,59
+29700572,54,PT05M19.00S,1,1610612743,DEN,1051,Garrett,D. Garrett,0,0,0,,0,,,0,h,Garrett S.FOUL (P1.T2),Foul,Shooting,0,60
+29700572,55,PT05M19.00S,1,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,,,0,v,SUB: Sealy FOR Hill,Substitution,,0,61
+29700572,56,PT05M19.00S,1,1610612765,DET,183,Dele,B. Dele,0,0,0,,0,17.0,10.0,27,v,Dele Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,62
+29700572,58,PT05M03.00S,1,1610612765,DET,183,Dele,B. Dele,0,0,0,,0,,,0,v,Dele S.FOUL (P1.T1),Foul,Shooting,0,63
+29700572,59,PT05M03.00S,1,1610612743,DEN,1540,Washington,E. Washington,0,0,0,,0,18.0,10.0,28,h,Washington Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,64
+29700572,60,PT05M03.00S,1,1610612743,DEN,1540,Washington,E. Washington,0,0,0,,0,19.0,10.0,29,h,Washington Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,65
+29700572,61,PT04M48.00S,1,1610612743,DEN,1540,Washington,E. Washington,0,0,0,,0,,,0,h,Washington Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,66
+29700572,62,PT04M41.00S,1,1610612765,DET,247,Dumars,J. Dumars,-188,83,21,Made,1,19.0,12.0,31,v,Dumars 21' Jump Shot (5 PTS) (Long 1 AST),Made Shot,Jump Shot,0,67
+29700572,63,PT04M22.00S,1,1610612743,DEN,1540,Washington,E. Washington,-117,156,20,Missed,1,,,0,h,MISS Washington 20' Jump Shot,Missed Shot,Jump Shot,0,68
+29700572,64,PT04M21.00S,1,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Rebound,Rebound,Unknown,0,69
+29700572,65,PT04M04.00S,1,1610612765,DET,247,Dumars,J. Dumars,-111,106,15,Made,1,19.0,14.0,33,v,Dumars 15' Running Jump Shot (7 PTS) (Sealy 1 AST),Made Shot,Running Jump Shot,0,70
+29700572,66,PT03M42.00S,1,1610612743,DEN,1517,Jackson,B. Jackson,42,186,19,Missed,1,,,0,h,MISS Jackson 19' Jump Shot,Missed Shot,Jump Shot,0,71
+29700572,67,PT03M40.00S,1,1610612765,DET,907,Sealy,M. Sealy,0,0,0,,0,,,0,v,Sealy REBOUND (Off:0 Def:1),Rebound,Unknown,0,72
+29700572,68,PT03M39.00S,1,1610612743,DEN,1517,Jackson,B. Jackson,0,0,0,,0,,,0,h,Jackson P.FOUL (P1.T3),Foul,Personal,0,73
+29700572,69,PT03M39.00S,1,1610612743,DEN,1517,Jackson,B. Jackson,0,0,0,,0,,,0,h,SUB: Goldwire FOR Jackson,Substitution,,0,74
+29700572,70,PT03M38.00S,1,1610612743,DEN,1677,Ellis,H. Ellis,0,0,0,,0,,,0,h,SUB: Garris FOR H. Ellis,Substitution,,0,75
+29700572,71,PT03M34.00S,1,1610612765,DET,907,Sealy,M. Sealy,-81,115,14,Missed,1,,,0,v,MISS Sealy 14' Jump Shot,Missed Shot,Jump Shot,0,76
+29700572,72,PT03M31.00S,1,1610612743,DEN,1619,Garris,K. Garris,0,0,0,,0,,,0,h,Garris REBOUND (Off:0 Def:1),Rebound,Unknown,0,77
+29700572,73,PT03M10.00S,1,1610612765,DET,183,Dele,B. Dele,0,0,0,,0,,,0,v,Dele S.FOUL (P2.T2),Foul,Shooting,0,78
+29700572,74,PT03M10.00S,1,1610612743,DEN,924,Goldwire,A. Goldwire,0,0,0,,0,20.0,14.0,34,h,Goldwire Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,79
+29700572,75,PT03M10.00S,1,1610612765,DET,183,Dele,B. Dele,0,0,0,,0,,,0,v,SUB: Mahorn FOR Dele,Substitution,,0,80
+29700572,76,PT03M10.00S,1,1610612765,DET,3,Long,G. Long,0,0,0,,0,,,0,v,SUB: Williams FOR Long,Substitution,,0,81
+29700572,77,PT03M10.00S,1,1610612743,DEN,924,Goldwire,A. Goldwire,0,0,0,,0,21.0,14.0,35,h,Goldwire Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,82
+29700572,78,PT02M48.00S,1,1610612765,DET,328,Mahorn,R. Mahorn,-57,23,6,Missed,1,,,0,v,MISS Mahorn 6' Hook Shot,Missed Shot,Hook Shot,0,83
+29700572,79,PT02M46.00S,1,1610612743,DEN,1051,Garrett,D. Garrett,0,0,0,,0,,,0,h,Garrett REBOUND (Off:1 Def:4),Rebound,Unknown,0,84
+29700572,80,PT02M31.00S,1,1610612743,DEN,1619,Garris,K. Garris,-23,184,19,Made,1,23.0,14.0,37,h,Garris 19' Jump Shot (2 PTS),Made Shot,Jump Shot,0,85
+29700572,81,PT02M11.00S,1,1610612765,DET,247,Dumars,J. Dumars,-149,212,26,Made,1,23.0,17.0,40,v,Dumars 26' 3PT Jump Shot (10 PTS) (Stackhouse 1 AST),Made Shot,Jump Shot,0,86
+29700572,82,PT01M45.00S,1,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Turnover: Shot Clock (T#4),Turnover,Shot Clock Turnover,0,87
+29700572,83,PT01M45.00S,1,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,88
+29700572,85,PT01M45.00S,1,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,SUB: Hill FOR Stackhouse,Substitution,,0,89
+29700572,86,PT01M34.00S,1,1610612765,DET,247,Dumars,J. Dumars,53,254,26,Made,1,23.0,20.0,43,v,Dumars 26' 3PT Jump Shot (13 PTS) (Hill 2 AST),Made Shot,Jump Shot,0,90
+29700572,87,PT01M18.00S,1,1610612743,DEN,1499,Battie,T. Battie,0,0,0,Made,1,25.0,20.0,45,h,Battie Slam Dunk (2 PTS) (Garrett 1 AST),Made Shot,Slam Dunk Shot,0,91
+29700572,88,PT00M56.90S,1,1610612765,DET,907,Sealy,M. Sealy,162,1,16,Missed,1,,,0,v,MISS Sealy 16' Jump Shot,Missed Shot,Jump Shot,0,92
+29700572,89,PT00M56.30S,1,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Unknown,0,93
+29700572,90,PT00M35.90S,1,1610612743,DEN,1619,Garris,K. Garris,226,70,24,Missed,1,,,0,h,MISS Garris 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,94
+29700572,91,PT00M32.90S,1,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,95
+29700572,92,PT00M27.70S,1,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,,,0,v,Williams Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,96
+29700572,93,PT00M07.90S,1,1610612743,DEN,1619,Garris,K. Garris,-106,134,17,Missed,1,,,0,h,MISS Garris 17' Jump Shot,Missed Shot,Jump Shot,0,97
+29700572,94,PT00M03.90S,1,1610612743,DEN,924,Goldwire,A. Goldwire,0,0,0,,0,,,0,h,Goldwire REBOUND (Off:1 Def:0),Rebound,Unknown,0,98
+29700572,95,PT00M02.90S,1,1610612743,DEN,924,Goldwire,A. Goldwire,-98,143,17,Missed,1,,,0,h,MISS Goldwire 17' Jump Shot,Missed Shot,Jump Shot,0,99
+29700572,96,PT00M00.00S,1,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,,,0,v,Hill REBOUND (Off:2 Def:1),Rebound,Unknown,0,100
+29700572,97,PT00M00.00S,1,1610612765,DET,255,Hill,G. Hill,-98,701,71,Missed,1,,,0,v,MISS Hill 71' 3PT Jump Shot,Missed Shot,Jump Shot,0,101
+29700572,98,PT00M00.00S,1,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Rebound,Rebound,Unknown,0,102
+29700572,99,PT00M00.00S,1,0,,0,,,0,0,0,,0,25.0,20.0,45,,End of 1st Period (1:34 PM EST),period,end,0,103
+29700572,101,PT12M00.00S,2,0,,0,,,0,0,0,,0,25.0,20.0,45,,Start of 2nd Period (1:37 PM EST),period,start,0,104
+29700572,102,PT11M36.00S,2,1610612743,DEN,1504,Fortson,D. Fortson,149,10,15,Missed,1,,,0,h,MISS Fortson 15' Hook Shot,Missed Shot,Hook Shot,0,105
+29700572,103,PT11M32.00S,2,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,,,0,v,Hill REBOUND (Off:2 Def:2),Rebound,Unknown,0,106
+29700572,104,PT11M27.00S,2,1610612765,DET,255,Hill,G. Hill,-147,5,15,Made,1,25.0,22.0,47,v,Hill 15' Jump Shot (2 PTS) (Williams 1 AST),Made Shot,Jump Shot,0,107
+29700572,105,PT10M57.00S,2,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,0,108
+29700572,106,PT10M50.00S,2,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,,,0,v,Hill Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,109
+29700572,106,PT10M50.00S,2,1610612743,DEN,1619,Garris,K. Garris,0,0,0,,0,,,0,h,Garris STEAL (1 STL),,,0,110
+29700572,107,PT10M45.00S,2,1610612743,DEN,1677,Ellis,H. Ellis,-85,33,9,Missed,1,,,0,h,MISS H. Ellis 9' Running Jump Shot,Missed Shot,Running Jump Shot,0,111
+29700572,108,PT10M41.00S,2,1610612765,DET,907,Sealy,M. Sealy,0,0,0,,0,,,0,v,Sealy REBOUND (Off:0 Def:2),Rebound,Unknown,0,112
+29700572,109,PT10M40.00S,2,1610612743,DEN,1677,Ellis,H. Ellis,0,0,0,,0,,,0,h,H. Ellis P.FOUL (P2.T1),Foul,Personal,0,113
+29700572,110,PT10M28.00S,2,1610612765,DET,255,Hill,G. Hill,78,-1,8,Missed,1,,,0,v,MISS Hill 8' Driving Layup,Missed Shot,Driving Layup Shot,0,114
+29700572,111,PT10M24.00S,2,1610612743,DEN,1504,Fortson,D. Fortson,0,0,0,,0,,,0,h,Fortson REBOUND (Off:0 Def:1),Rebound,Unknown,0,115
+29700572,112,PT10M11.00S,2,1610612743,DEN,924,Goldwire,A. Goldwire,-119,139,18,Missed,1,,,0,h,MISS Goldwire 18' Jump Shot,Missed Shot,Jump Shot,0,116
+29700572,112,PT10M11.00S,2,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,,,0,v,Williams BLOCK (1 BLK),,,0,117
+29700572,113,PT10M06.00S,2,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,,,0,v,Hill REBOUND (Off:2 Def:3),Rebound,Unknown,0,118
+29700572,114,PT10M00.00S,2,1610612765,DET,711,Stackhouse,J. Stackhouse,156,55,17,Missed,1,,,0,v,MISS Stackhouse 17' Jump Shot,Missed Shot,Jump Shot,0,119
+29700572,115,PT09M58.00S,2,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:1 Def:1),Rebound,Unknown,0,120
+29700572,116,PT09M37.00S,2,1610612765,DET,907,Sealy,M. Sealy,181,121,22,Missed,1,,,0,v,MISS Sealy 22' Jump Shot,Missed Shot,Jump Shot,0,121
+29700572,117,PT09M35.00S,2,1610612743,DEN,1677,Ellis,H. Ellis,0,0,0,,0,,,0,h,H. Ellis REBOUND (Off:1 Def:2),Rebound,Unknown,0,122
+29700572,118,PT09M11.00S,2,1610612743,DEN,1504,Fortson,D. Fortson,162,40,17,Missed,1,,,0,h,MISS Fortson 17' Jump Shot,Missed Shot,Jump Shot,0,123
+29700572,119,PT09M09.00S,2,1610612765,DET,907,Sealy,M. Sealy,0,0,0,,0,,,0,v,Sealy REBOUND (Off:0 Def:3),Rebound,Unknown,0,124
+29700572,120,PT09M03.00S,2,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Timeout: Short (Reg.1 Short 1),Timeout,Short,0,125
+29700572,122,PT08M54.00S,2,1610612765,DET,328,Mahorn,R. Mahorn,0,0,0,,0,,,0,v,Mahorn OFF.Foul (P1),Foul,Offensive,0,126
+29700572,123,PT08M54.00S,2,1610612765,DET,328,Mahorn,R. Mahorn,0,0,0,,0,,,0,v,Mahorn Foul Turnover (P1.T4),Turnover,Foul,0,127
+29700572,124,PT08M54.00S,2,1610612743,DEN,924,Goldwire,A. Goldwire,0,0,0,,0,,,0,h,SUB: Jackson FOR Goldwire,Substitution,,0,128
+29700572,125,PT08M35.00S,2,1610612743,DEN,1517,Jackson,B. Jackson,-51,162,17,Made,1,27.0,22.0,49,h,Jackson 17' Jump Shot (5 PTS) (Garris 1 AST),Made Shot,Jump Shot,0,129
+29700572,126,PT08M25.00S,2,1610612765,DET,255,Hill,G. Hill,-139,72,16,Made,1,27.0,24.0,51,v,Hill 16' Jump Shot (4 PTS),Made Shot,Jump Shot,0,130
+29700572,127,PT07M58.00S,2,1610612743,DEN,1677,Ellis,H. Ellis,-10,181,18,Missed,1,,,0,h,MISS H. Ellis 18' Jump Shot,Missed Shot,Jump Shot,0,131
+29700572,127,PT07M58.00S,2,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,,,0,v,Hill BLOCK (1 BLK),,,0,132
+29700572,128,PT07M58.00S,2,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Unknown,0,133
+29700572,129,PT07M58.00S,2,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Turnover: Shot Clock (T#6),Turnover,Shot Clock Turnover,0,134
+29700572,130,PT07M43.00S,2,1610612765,DET,907,Sealy,M. Sealy,-184,1,18,Made,1,27.0,26.0,53,v,Sealy 18' Jump Shot (2 PTS) (Hill 3 AST),Made Shot,Jump Shot,0,135
+29700572,131,PT07M25.00S,2,1610612743,DEN,1504,Fortson,D. Fortson,0,0,0,Missed,1,,,0,h,MISS Fortson Layup,Missed Shot,Layup Shot,0,136
+29700572,131,PT07M25.00S,2,1610612765,DET,328,Mahorn,R. Mahorn,0,0,0,,0,,,0,v,Mahorn BLOCK (1 BLK),,,0,137
+29700572,133,PT07M22.00S,2,1610612743,DEN,1504,Fortson,D. Fortson,0,0,0,,0,,,0,h,Fortson REBOUND (Off:1 Def:1),Rebound,Unknown,0,138
+29700572,132,PT07M22.00S,2,1610612743,DEN,1504,Fortson,D. Fortson,0,0,0,Made,1,29.0,26.0,55,h,Fortson Layup (2 PTS),Made Shot,Layup Shot,0,139
+29700572,134,PT07M12.00S,2,1610612743,DEN,1504,Fortson,D. Fortson,0,0,0,,0,,,0,h,Fortson P.FOUL (P1.T2),Foul,Personal,0,140
+29700572,135,PT07M12.00S,2,1610612743,DEN,1504,Fortson,D. Fortson,0,0,0,,0,,,0,,"Double Technical - Fortson, Mahorn",Foul,Double Technical,0,141
+29700572,136,PT07M07.00S,2,1610612743,DEN,1504,Fortson,D. Fortson,0,0,0,,0,,,0,h,Fortson S.FOUL (P2.T3),Foul,Shooting,0,142
+29700572,137,PT07M07.00S,2,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,29.0,27.0,56,v,Williams Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,143
+29700572,138,PT07M07.00S,2,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,,,0,v,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,144
+29700572,139,PT07M06.00S,2,1610612743,DEN,1504,Fortson,D. Fortson,0,0,0,,0,,,0,h,Fortson REBOUND (Off:1 Def:2),Rebound,Unknown,0,145
+29700572,140,PT06M53.00S,2,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse P.FOUL (P1.T1),Foul,Personal,0,146
+29700572,141,PT06M53.00S,2,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,147
+29700572,143,PT06M53.00S,2,1610612765,DET,328,Mahorn,R. Mahorn,0,0,0,,0,,,0,v,SUB: Dele FOR Mahorn,Substitution,,0,148
+29700572,144,PT06M53.00S,2,1610612743,DEN,1619,Garris,K. Garris,0,0,0,,0,,,0,h,SUB: Washington FOR Garris,Substitution,,0,149
+29700572,145,PT06M35.00S,2,1610612743,DEN,1517,Jackson,B. Jackson,-55,186,19,Missed,1,,,0,h,MISS Jackson 19' Jump Shot,Missed Shot,Jump Shot,0,150
+29700572,146,PT06M33.00S,2,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,,,0,v,Hill REBOUND (Off:2 Def:4),Rebound,Unknown,0,151
+29700572,147,PT06M20.00S,2,1610612765,DET,907,Sealy,M. Sealy,-136,57,15,Missed,1,,,0,v,MISS Sealy 15' Jump Shot,Missed Shot,Jump Shot,0,152
+29700572,148,PT06M18.00S,2,1610612743,DEN,1517,Jackson,B. Jackson,0,0,0,,0,,,0,h,Jackson REBOUND (Off:0 Def:2),Rebound,Unknown,0,153
+29700572,149,PT06M09.00S,2,1610612765,DET,183,Dele,B. Dele,0,0,0,,0,,,0,v,Dele S.FOUL (P3.T2),Foul,Shooting,0,154
+29700572,150,PT06M09.00S,2,1610612743,DEN,341,Wolf,J. Wolf,0,0,0,,0,,,0,h,SUB: Garrett FOR Wolf,Substitution,,0,155
+29700572,151,PT06M09.00S,2,1610612743,DEN,1504,Fortson,D. Fortson,0,0,0,,0,30.0,27.0,57,h,Fortson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,156
+29700572,152,PT06M09.00S,2,1610612765,DET,183,Dele,B. Dele,0,0,0,,0,,,0,v,SUB: Montross FOR Dele,Substitution,,0,157
+29700572,153,PT06M09.00S,2,1610612743,DEN,1504,Fortson,D. Fortson,0,0,0,,0,31.0,27.0,58,h,Fortson Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,158
+29700572,154,PT05M54.00S,2,1610612765,DET,376,Montross,E. Montross,0,0,0,,0,,,0,v,Montross Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,159
+29700572,154,PT05M54.00S,2,1610612743,DEN,1540,Washington,E. Washington,0,0,0,,0,,,0,h,Washington STEAL (1 STL),,,0,160
+29700572,155,PT05M49.00S,2,1610612743,DEN,1677,Ellis,H. Ellis,0,0,0,Missed,1,,,0,h,MISS H. Ellis Layup,Missed Shot,Layup Shot,0,161
+29700572,155,PT05M49.00S,2,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,,,0,v,Hill BLOCK (2 BLK),,,0,162
+29700572,156,PT05M48.00S,2,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Unknown,0,163
+29700572,157,PT05M33.00S,2,1610612765,DET,376,Montross,E. Montross,0,0,0,,0,,,0,v,Montross S.FOUL (P1.T3),Foul,Shooting,0,164
+29700572,158,PT05M33.00S,2,1610612743,DEN,1504,Fortson,D. Fortson,0,0,0,,0,32.0,27.0,59,h,Fortson Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,165
+29700572,159,PT05M33.00S,2,1610612743,DEN,1504,Fortson,D. Fortson,0,0,0,,0,33.0,27.0,60,h,Fortson Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,166
+29700572,160,PT05M26.00S,2,1610612743,DEN,1540,Washington,E. Washington,0,0,0,,0,,,0,h,Washington P.FOUL (P1.T4),Foul,Personal,0,167
+29700572,161,PT05M26.00S,2,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,,,0,v,SUB: Dumars FOR Williams,Substitution,,0,168
+29700572,162,PT05M19.00S,2,1610612765,DET,255,Hill,G. Hill,-74,158,17,Missed,1,,,0,v,MISS Hill 17' Jump Shot,Missed Shot,Jump Shot,0,169
+29700572,163,PT05M17.00S,2,1610612743,DEN,1517,Jackson,B. Jackson,0,0,0,,0,,,0,h,Jackson REBOUND (Off:0 Def:3),Rebound,Unknown,0,170
+29700572,164,PT04M58.00S,2,1610612743,DEN,1504,Fortson,D. Fortson,-94,42,10,Missed,1,,,0,h,MISS Fortson 10' Jump Shot,Missed Shot,Jump Shot,0,171
+29700572,166,PT04M55.00S,2,1610612743,DEN,1677,Ellis,H. Ellis,0,0,0,,0,,,0,h,H. Ellis REBOUND (Off:2 Def:2),Rebound,Unknown,0,172
+29700572,165,PT04M55.00S,2,1610612743,DEN,1677,Ellis,H. Ellis,0,0,0,Missed,1,,,0,h,MISS H. Ellis Tip Shot,Missed Shot,Tip Shot,0,173
+29700572,167,PT04M54.00S,2,1610612765,DET,907,Sealy,M. Sealy,0,0,0,,0,,,0,v,Sealy REBOUND (Off:0 Def:4),Rebound,Unknown,0,174
+29700572,168,PT04M48.00S,2,1610612765,DET,247,Dumars,J. Dumars,18,272,27,Missed,1,,,0,v,MISS Dumars 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,175
+29700572,169,PT04M46.00S,2,1610612765,DET,376,Montross,E. Montross,0,0,0,,0,,,0,v,Montross REBOUND (Off:1 Def:0),Rebound,Unknown,0,176
+29700572,170,PT04M41.00S,2,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,,,0,v,Hill OFF.Foul (P1),Foul,Offensive,0,177
+29700572,171,PT04M41.00S,2,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,,,0,v,Hill Foul Turnover (P2.T6),Turnover,Foul,0,178
+29700572,172,PT04M19.00S,2,1610612743,DEN,1517,Jackson,B. Jackson,-21,272,27,Missed,1,,,0,h,MISS Jackson 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,179
+29700572,173,PT04M18.00S,2,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Rebound,Rebound,Unknown,0,180
+29700572,174,PT04M18.00S,2,1610612743,DEN,1677,Ellis,H. Ellis,0,0,0,,0,,,0,h,SUB: Goldwire FOR H. Ellis,Substitution,,0,181
+29700572,175,PT04M03.00S,2,1610612765,DET,376,Montross,E. Montross,143,5,14,Missed,1,,,0,v,MISS Montross 14' Jump Shot,Missed Shot,Jump Shot,0,182
+29700572,176,PT04M00.00S,2,1610612743,DEN,1540,Washington,E. Washington,0,0,0,,0,,,0,h,Washington REBOUND (Off:0 Def:2),Rebound,Unknown,0,183
+29700572,177,PT03M49.00S,2,1610612743,DEN,1504,Fortson,D. Fortson,143,10,14,Missed,1,,,0,h,MISS Fortson 14' Jump Shot,Missed Shot,Jump Shot,0,184
+29700572,178,PT03M48.00S,2,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Rebound,Rebound,Unknown,0,185
+29700572,179,PT03M48.00S,2,1610612743,DEN,1051,Garrett,D. Garrett,0,0,0,,0,,,0,h,Garrett L.B.FOUL (P2.PN),Foul,Loose Ball,0,186
+29700572,180,PT03M48.00S,2,1610612765,DET,376,Montross,E. Montross,0,0,0,,0,33.0,28.0,61,v,Montross Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,187
+29700572,181,PT03M48.00S,2,1610612765,DET,376,Montross,E. Montross,0,0,0,,0,33.0,29.0,62,v,Montross Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,188
+29700572,182,PT03M30.00S,2,1610612743,DEN,1517,Jackson,B. Jackson,0,0,0,,0,,,0,h,Jackson Traveling Turnover (P2.T7),Turnover,Traveling,0,189
+29700572,183,PT03M15.00S,2,1610612765,DET,907,Sealy,M. Sealy,154,93,18,Made,1,33.0,31.0,64,v,Sealy 18' Jump Shot (4 PTS) (Stackhouse 2 AST),Made Shot,Jump Shot,0,190
+29700572,184,PT02M57.00S,2,1610612743,DEN,1540,Washington,E. Washington,231,25,0,Missed,1,,,0,h,MISS Washington 3PT Jump Shot,Missed Shot,Jump Shot,0,191
+29700572,185,PT02M54.00S,2,1610612743,DEN,1051,Garrett,D. Garrett,0,0,0,,0,,,0,h,Garrett REBOUND (Off:2 Def:4),Rebound,Unknown,0,192
+29700572,186,PT02M52.00S,2,1610612765,DET,907,Sealy,M. Sealy,0,0,0,,0,,,0,v,Sealy S.FOUL (P1.T4),Foul,Shooting,0,193
+29700572,187,PT02M52.00S,2,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Timeout: Regular (Reg.2 Short 1),Timeout,Regular,0,194
+29700572,189,PT02M52.00S,2,1610612743,DEN,1504,Fortson,D. Fortson,0,0,0,,0,34.0,31.0,65,h,Fortson Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,195
+29700572,190,PT02M52.00S,2,1610612743,DEN,1504,Fortson,D. Fortson,0,0,0,,0,,,0,h,MISS Fortson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,196
+29700572,191,PT02M50.00S,2,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,,,0,v,Hill REBOUND (Off:2 Def:5),Rebound,Unknown,0,197
+29700572,192,PT02M40.00S,2,1610612743,DEN,1504,Fortson,D. Fortson,0,0,0,,0,,,0,h,Fortson S.FOUL (P3.PN),Foul,Shooting,0,198
+29700572,193,PT02M40.00S,2,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,34.0,32.0,66,v,Stackhouse Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,199
+29700572,194,PT02M40.00S,2,1610612743,DEN,1504,Fortson,D. Fortson,0,0,0,,0,,,0,h,SUB: Battie FOR Fortson,Substitution,,0,200
+29700572,195,PT02M40.00S,2,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,34.0,33.0,67,v,Stackhouse Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,201
+29700572,196,PT02M13.00S,2,1610612743,DEN,1499,Battie,T. Battie,-57,261,27,Missed,1,,,0,h,MISS Battie 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,202
+29700572,197,PT02M10.00S,2,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse REBOUND (Off:0 Def:1),Rebound,Unknown,0,203
+29700572,198,PT01M52.00S,2,1610612743,DEN,1499,Battie,T. Battie,0,0,0,,0,,,0,h,Battie S.FOUL (P1.PN),Foul,Shooting,0,204
+29700572,199,PT01M52.00S,2,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,MISS Stackhouse Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,205
+29700572,200,PT01M52.00S,2,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Rebound,Rebound,Unknown,0,206
+29700572,201,PT01M52.00S,2,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,34.0,34.0,68,v,Stackhouse Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,207
+29700572,202,PT01M31.00S,2,1610612743,DEN,1051,Garrett,D. Garrett,-85,16,9,Missed,1,,,0,h,MISS Garrett 9' Jump Shot,Missed Shot,Jump Shot,0,208
+29700572,202,PT01M31.00S,2,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,,,0,v,Hill BLOCK (3 BLK),,,0,209
+29700572,203,PT01M28.00S,2,1610612765,DET,376,Montross,E. Montross,0,0,0,,0,,,0,v,Montross REBOUND (Off:1 Def:1),Rebound,Unknown,0,210
+29700572,204,PT01M24.00S,2,1610612765,DET,247,Dumars,J. Dumars,158,76,18,Missed,1,,,0,v,MISS Dumars 18' Jump Shot,Missed Shot,Jump Shot,0,211
+29700572,205,PT01M21.00S,2,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse REBOUND (Off:1 Def:1),Rebound,Unknown,0,212
+29700572,206,PT01M19.00S,2,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,Missed,1,,,0,v,MISS Stackhouse Layup,Missed Shot,Layup Shot,0,213
+29700572,206,PT01M19.00S,2,1610612743,DEN,1499,Battie,T. Battie,0,0,0,,0,,,0,h,Battie BLOCK (2 BLK),,,0,214
+29700572,208,PT01M16.00S,2,1610612765,DET,376,Montross,E. Montross,0,0,0,,0,,,0,v,Montross REBOUND (Off:2 Def:1),Rebound,Unknown,0,215
+29700572,207,PT01M16.00S,2,1610612765,DET,376,Montross,E. Montross,0,0,0,Made,1,34.0,36.0,70,v,Montross Tip Shot (4 PTS),Made Shot,Tip Shot,0,216
+29700572,209,PT01M01.00S,2,1610612743,DEN,1540,Washington,E. Washington,158,74,17,Missed,1,,,0,h,MISS Washington 17' Jump Shot,Missed Shot,Jump Shot,0,217
+29700572,210,PT00M59.80S,2,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Rebound,Rebound,Unknown,0,218
+29700572,211,PT00M59.80S,2,1610612743,DEN,1051,Garrett,D. Garrett,0,0,0,,0,,,0,h,Garrett L.B.FOUL (P3.PN),Foul,Loose Ball,0,219
+29700572,212,PT00M59.80S,2,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,,,0,v,MISS Hill Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,220
+29700572,213,PT00M59.80S,2,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Rebound,Rebound,Unknown,0,221
+29700572,214,PT00M59.80S,2,1610612743,DEN,1051,Garrett,D. Garrett,0,0,0,,0,,,0,h,SUB: Wolf FOR Garrett,Substitution,,0,222
+29700572,215,PT00M59.80S,2,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,,,0,v,MISS Hill Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,223
+29700572,216,PT00M58.90S,2,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Rebound,Rebound,Unknown,0,224
+29700572,217,PT00M58.90S,2,1610612743,DEN,341,Wolf,J. Wolf,0,0,0,,0,,,0,h,Wolf L.B.FOUL (P1.PN),Foul,Loose Ball,0,225
+29700572,218,PT00M58.90S,2,1610612765,DET,376,Montross,E. Montross,0,0,0,,0,,,0,v,MISS Montross Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,226
+29700572,219,PT00M58.90S,2,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Rebound,Rebound,Unknown,0,227
+29700572,220,PT00M58.90S,2,1610612765,DET,376,Montross,E. Montross,0,0,0,,0,34.0,37.0,71,v,Montross Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,228
+29700572,221,PT00M38.90S,2,1610612743,DEN,1499,Battie,T. Battie,-126,0,13,Missed,1,,,0,h,MISS Battie 13' Jump Shot,Missed Shot,Jump Shot,0,229
+29700572,221,PT00M38.90S,2,1610612765,DET,376,Montross,E. Montross,0,0,0,,0,,,0,v,Montross BLOCK (1 BLK),,,0,230
+29700572,222,PT00M36.70S,2,1610612765,DET,907,Sealy,M. Sealy,0,0,0,,0,,,0,v,Sealy REBOUND (Off:0 Def:5),Rebound,Unknown,0,231
+29700572,223,PT00M16.90S,2,1610612765,DET,711,Stackhouse,J. Stackhouse,-126,141,19,Missed,1,,,0,v,MISS Stackhouse 19' Jump Shot,Missed Shot,Jump Shot,0,232
+29700572,224,PT00M13.50S,2,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Rebound,Rebound,Unknown,0,233
+29700572,225,PT00M13.50S,2,0,,1207,,,0,0,0,,0,,,0,,Bill Hanzlik Foul:T.FOUL,Foul,Technical,0,234
+29700572,226,PT00M13.50S,2,1610612765,DET,247,Dumars,J. Dumars,0,0,0,,0,34.0,38.0,72,v,Dumars Free Throw Technical (14 PTS),Free Throw,Free Throw Technical,0,235
+29700572,227,PT00M13.50S,2,1610612765,DET,376,Montross,E. Montross,0,0,0,,0,,,0,v,SUB: Henson FOR Montross,Substitution,,0,236
+29700572,228,PT00M13.50S,2,1610612743,DEN,341,Wolf,J. Wolf,0,0,0,,0,,,0,h,SUB: Garris FOR Wolf,Substitution,,0,237
+29700572,229,PT00M00.00S,2,1610612765,DET,247,Dumars,J. Dumars,-237,8,24,Made,1,34.0,41.0,75,v,Dumars 24' 3PT Jump Shot (17 PTS) (Sealy 2 AST),Made Shot,Jump Shot,0,238
+29700572,230,PT00M00.00S,2,0,,0,,,0,0,0,,0,34.0,41.0,75,,End of 2nd Period (2:07 PM EST),period,end,0,239
+29700572,232,PT12M00.00S,3,0,,0,,,0,0,0,,0,34.0,41.0,75,,Start of 3rd Period (2:23 PM EST),period,start,0,240
+29700572,233,PT11M38.00S,3,1610612743,DEN,1051,Garrett,D. Garrett,40,171,18,Missed,1,,,0,h,MISS Garrett 18' Jump Shot,Missed Shot,Jump Shot,0,241
+29700572,234,PT11M35.00S,3,1610612765,DET,376,Montross,E. Montross,0,0,0,,0,,,0,v,Montross REBOUND (Off:2 Def:2),Rebound,Unknown,0,242
+29700572,235,PT11M19.00S,3,1610612765,DET,3,Long,G. Long,0,0,0,Made,1,34.0,43.0,77,v,Long Layup (2 PTS) (Hill 4 AST),Made Shot,Layup Shot,0,243
+29700572,236,PT11M19.00S,3,1610612743,DEN,1051,Garrett,D. Garrett,0,0,0,,0,,,0,h,Garrett S.FOUL (P4.T1),Foul,Shooting,0,244
+29700572,237,PT11M19.00S,3,1610612765,DET,3,Long,G. Long,0,0,0,,0,34.0,44.0,78,v,Long Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,245
+29700572,238,PT11M01.00S,3,1610612743,DEN,1499,Battie,T. Battie,136,119,18,Made,1,36.0,44.0,80,h,Battie 18' Jump Shot (4 PTS),Made Shot,Jump Shot,0,246
+29700572,239,PT10M34.00S,3,1610612765,DET,255,Hill,G. Hill,-102,0,10,Missed,1,,,0,v,MISS Hill 10' Jump Shot,Missed Shot,Jump Shot,0,247
+29700572,239,PT10M34.00S,3,1610612743,DEN,1499,Battie,T. Battie,0,0,0,,0,,,0,h,Battie BLOCK (3 BLK),,,0,248
+29700572,240,PT10M32.00S,3,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,,,0,v,Hill REBOUND (Off:3 Def:5),Rebound,Unknown,0,249
+29700572,241,PT10M31.00S,3,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Turnover: Shot Clock (T#7),Turnover,Shot Clock Turnover,0,250
+29700572,242,PT10M06.00S,3,1610612743,DEN,1540,Washington,E. Washington,179,184,26,Missed,1,,,0,h,MISS Washington 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,251
+29700572,243,PT10M03.00S,3,1610612743,DEN,1677,Ellis,H. Ellis,0,0,0,,0,,,0,h,H. Ellis REBOUND (Off:3 Def:2),Rebound,Unknown,0,252
+29700572,244,PT09M57.00S,3,1610612743,DEN,1540,Washington,E. Washington,-214,162,27,Missed,1,,,0,h,MISS Washington 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,253
+29700572,245,PT09M54.00S,3,1610612765,DET,376,Montross,E. Montross,0,0,0,,0,,,0,v,Montross REBOUND (Off:2 Def:3),Rebound,Unknown,0,254
+29700572,246,PT09M44.00S,3,1610612765,DET,247,Dumars,J. Dumars,-8,263,26,Missed,1,,,0,v,MISS Dumars 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,255
+29700572,247,PT09M42.00S,3,1610612765,DET,3,Long,G. Long,0,0,0,,0,,,0,v,Long REBOUND (Off:1 Def:2),Rebound,Unknown,0,256
+29700572,248,PT09M42.00S,3,1610612743,DEN,1677,Ellis,H. Ellis,0,0,0,,0,,,0,h,H. Ellis L.B.FOUL (P3.T2),Foul,Loose Ball,0,257
+29700572,249,PT09M37.00S,3,1610612765,DET,255,Hill,G. Hill,-44,192,20,Missed,1,,,0,v,MISS Hill 20' Jump Shot,Missed Shot,Jump Shot,0,258
+29700572,250,PT09M33.00S,3,1610612765,DET,376,Montross,E. Montross,0,0,0,,0,,,0,v,Montross REBOUND (Off:3 Def:3),Rebound,Unknown,0,259
+29700572,251,PT09M25.00S,3,1610612765,DET,711,Stackhouse,J. Stackhouse,-194,-8,19,Missed,1,,,0,v,MISS Stackhouse 19' Jump Shot,Missed Shot,Jump Shot,0,260
+29700572,252,PT09M22.00S,3,1610612743,DEN,1499,Battie,T. Battie,0,0,0,,0,,,0,h,Battie REBOUND (Off:0 Def:2),Rebound,Unknown,0,261
+29700572,253,PT09M17.00S,3,1610612743,DEN,1517,Jackson,B. Jackson,-141,53,15,Made,1,38.0,44.0,82,h,Jackson 15' Jump Shot (7 PTS),Made Shot,Jump Shot,0,262
+29700572,255,PT08M53.00S,3,1610612765,DET,255,Hill,G. Hill,-25,100,10,Made,1,38.0,46.0,84,v,Hill 10' Running Jump Shot (6 PTS),Made Shot,Running Jump Shot,0,263
+29700572,256,PT08M31.00S,3,1610612743,DEN,1499,Battie,T. Battie,0,0,0,Made,1,40.0,46.0,86,h,Battie Slam Dunk (6 PTS) (H. Ellis 1 AST),Made Shot,Slam Dunk Shot,0,264
+29700572,257,PT08M31.00S,3,1610612765,DET,376,Montross,E. Montross,0,0,0,,0,,,0,v,Montross S.FOUL (P2.T1),Foul,Shooting,0,265
+29700572,258,PT08M31.00S,3,1610612743,DEN,1499,Battie,T. Battie,0,0,0,,0,41.0,46.0,87,h,Battie Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,266
+29700572,259,PT08M18.00S,3,1610612743,DEN,1540,Washington,E. Washington,0,0,0,,0,,,0,h,Washington P.FOUL (P2.T3),Foul,Personal,0,267
+29700572,260,PT08M13.00S,3,1610612765,DET,376,Montross,E. Montross,0,0,0,,0,,,0,v,Montross OFF.Foul (P3),Foul,Offensive,0,268
+29700572,261,PT08M13.00S,3,1610612765,DET,376,Montross,E. Montross,0,0,0,,0,,,0,v,Montross Foul Turnover (P2.T8),Turnover,Foul,0,269
+29700572,262,PT07M53.00S,3,1610612765,DET,376,Montross,E. Montross,0,0,0,,0,,,0,v,Montross P.FOUL (P4.T2),Foul,Personal,0,270
+29700572,263,PT07M53.00S,3,1610612765,DET,376,Montross,E. Montross,0,0,0,,0,,,0,v,SUB: Mahorn FOR Montross,Substitution,,0,271
+29700572,264,PT07M40.00S,3,1610612743,DEN,1499,Battie,T. Battie,-151,-5,15,Missed,1,,,0,h,MISS Battie 15' Jump Shot,Missed Shot,Jump Shot,0,272
+29700572,265,PT07M37.00S,3,1610612765,DET,328,Mahorn,R. Mahorn,0,0,0,,0,,,0,v,Mahorn REBOUND (Off:0 Def:1),Rebound,Unknown,0,273
+29700572,266,PT07M25.00S,3,1610612765,DET,711,Stackhouse,J. Stackhouse,207,139,25,Made,1,41.0,49.0,90,v,Stackhouse 25' 3PT Jump Shot (10 PTS) (Dumars 2 AST),Made Shot,Jump Shot,0,274
+29700572,267,PT07M04.00S,3,1610612743,DEN,1677,Ellis,H. Ellis,216,106,24,Missed,1,,,0,h,MISS H. Ellis 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,275
+29700572,268,PT07M00.00S,3,1610612743,DEN,1051,Garrett,D. Garrett,0,0,0,,0,,,0,h,Garrett REBOUND (Off:3 Def:4),Rebound,Unknown,0,276
+29700572,269,PT06M51.00S,3,1610612743,DEN,1517,Jackson,B. Jackson,-162,72,18,Missed,1,,,0,h,MISS Jackson 18' Jump Shot,Missed Shot,Jump Shot,0,277
+29700572,271,PT06M48.00S,3,1610612743,DEN,1677,Ellis,H. Ellis,0,0,0,,0,,,0,h,H. Ellis REBOUND (Off:4 Def:2),Rebound,Unknown,0,278
+29700572,270,PT06M48.00S,3,1610612743,DEN,1677,Ellis,H. Ellis,0,0,0,Made,1,43.0,49.0,92,h,H. Ellis Tip Shot (6 PTS),Made Shot,Tip Shot,0,279
+29700572,272,PT06M33.00S,3,1610612765,DET,247,Dumars,J. Dumars,98,242,26,Missed,1,,,0,v,MISS Dumars 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,280
+29700572,273,PT06M29.00S,3,1610612765,DET,3,Long,G. Long,0,0,0,,0,,,0,v,Long REBOUND (Off:2 Def:2),Rebound,Unknown,0,281
+29700572,274,PT06M20.00S,3,1610612765,DET,247,Dumars,J. Dumars,0,0,0,Missed,1,,,0,v,MISS Dumars Driving Layup,Missed Shot,Driving Layup Shot,0,282
+29700572,275,PT06M18.00S,3,1610612743,DEN,1499,Battie,T. Battie,0,0,0,,0,,,0,h,Battie REBOUND (Off:0 Def:3),Rebound,Unknown,0,283
+29700572,276,PT06M00.00S,3,1610612743,DEN,1499,Battie,T. Battie,57,175,18,Missed,1,,,0,h,MISS Battie 18' Jump Shot,Missed Shot,Jump Shot,0,284
+29700572,277,PT05M57.00S,3,1610612765,DET,3,Long,G. Long,0,0,0,,0,,,0,v,Long REBOUND (Off:2 Def:3),Rebound,Unknown,0,285
+29700572,278,PT05M43.00S,3,1610612743,DEN,1517,Jackson,B. Jackson,0,0,0,,0,,,0,h,Jackson S.FOUL (P2.T4),Foul,Shooting,0,286
+29700572,279,PT05M43.00S,3,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,287
+29700572,281,PT05M43.00S,3,1610612743,DEN,1677,Ellis,H. Ellis,0,0,0,,0,,,0,h,SUB: Garris FOR H. Ellis,Substitution,,0,288
+29700572,282,PT05M43.00S,3,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,MISS Stackhouse Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,289
+29700572,283,PT05M43.00S,3,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Rebound,Rebound,Unknown,0,290
+29700572,284,PT05M43.00S,3,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,43.0,50.0,93,v,Stackhouse Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,291
+29700572,285,PT05M24.00S,3,1610612743,DEN,1619,Garris,K. Garris,-143,162,22,Missed,1,,,0,h,MISS Garris 22' Jump Shot,Missed Shot,Jump Shot,0,292
+29700572,286,PT05M19.00S,3,1610612765,DET,3,Long,G. Long,0,0,0,,0,,,0,v,Long REBOUND (Off:2 Def:4),Rebound,Unknown,0,293
+29700572,287,PT05M14.00S,3,1610612743,DEN,1619,Garris,K. Garris,0,0,0,,0,,,0,h,Garris S.FOUL (P1.PN),Foul,Shooting,0,294
+29700572,288,PT05M14.00S,3,1610612743,DEN,1051,Garrett,D. Garrett,0,0,0,,0,,,0,h,SUB: Wolf FOR Garrett,Substitution,,0,295
+29700572,289,PT05M14.00S,3,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,43.0,51.0,94,v,Stackhouse Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,296
+29700572,290,PT05M14.00S,3,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,MISS Stackhouse Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,297
+29700572,291,PT05M14.00S,3,1610612743,DEN,1499,Battie,T. Battie,0,0,0,,0,,,0,h,Battie REBOUND (Off:0 Def:4),Rebound,Unknown,0,298
+29700572,292,PT04M46.00S,3,1610612743,DEN,1499,Battie,T. Battie,192,98,22,Missed,1,,,0,h,MISS Battie 22' Jump Shot,Missed Shot,Jump Shot,0,299
+29700572,293,PT04M43.00S,3,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse REBOUND (Off:1 Def:2),Rebound,Unknown,0,300
+29700572,294,PT04M40.00S,3,1610612765,DET,328,Mahorn,R. Mahorn,0,0,0,,0,,,0,v,Mahorn Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,301
+29700572,294,PT04M40.00S,3,1610612743,DEN,1517,Jackson,B. Jackson,0,0,0,,0,,,0,h,Jackson STEAL (2 STL),,,0,302
+29700572,295,PT04M35.00S,3,1610612743,DEN,1517,Jackson,B. Jackson,0,0,0,Made,1,45.0,51.0,96,h,Jackson Driving Layup (9 PTS),Made Shot,Driving Layup Shot,0,303
+29700572,296,PT04M35.00S,3,1610612765,DET,328,Mahorn,R. Mahorn,0,0,0,,0,,,0,v,Mahorn S.FOUL (P2.T3),Foul,Shooting,0,304
+29700572,297,PT04M35.00S,3,1610612743,DEN,1517,Jackson,B. Jackson,0,0,0,,0,,,0,h,MISS Jackson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,305
+29700572,298,PT04M34.00S,3,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,,,0,v,Hill REBOUND (Off:3 Def:6),Rebound,Unknown,0,306
+29700572,299,PT04M11.00S,3,1610612765,DET,3,Long,G. Long,-151,16,15,Missed,1,,,0,v,MISS Long 15' Jump Shot,Missed Shot,Jump Shot,0,307
+29700572,300,PT04M09.00S,3,1610612743,DEN,1517,Jackson,B. Jackson,0,0,0,,0,,,0,h,Jackson REBOUND (Off:0 Def:4),Rebound,Unknown,0,308
+29700572,301,PT04M06.00S,3,1610612743,DEN,1619,Garris,K. Garris,0,0,0,Missed,1,,,0,h,MISS Garris Layup,Missed Shot,Layup Shot,0,309
+29700572,301,PT04M06.00S,3,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,,,0,v,Hill BLOCK (4 BLK),,,0,310
+29700572,302,PT04M03.00S,3,1610612765,DET,3,Long,G. Long,0,0,0,,0,,,0,v,Long REBOUND (Off:2 Def:5),Rebound,Unknown,0,311
+29700572,303,PT03M56.00S,3,1610612765,DET,711,Stackhouse,J. Stackhouse,-209,147,26,Missed,1,,,0,v,MISS Stackhouse 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,312
+29700572,304,PT03M52.00S,3,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse REBOUND (Off:2 Def:2),Rebound,Unknown,0,313
+29700572,305,PT03M50.00S,3,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,Missed,1,,,0,v,MISS Stackhouse Layup,Missed Shot,Layup Shot,0,314
+29700572,305,PT03M50.00S,3,1610612743,DEN,341,Wolf,J. Wolf,0,0,0,,0,,,0,h,Wolf BLOCK (1 BLK),,,0,315
+29700572,306,PT03M48.00S,3,1610612743,DEN,1499,Battie,T. Battie,0,0,0,,0,,,0,h,Battie REBOUND (Off:0 Def:5),Rebound,Unknown,0,316
+29700572,307,PT03M47.00S,3,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Timeout: Short (Full 3 Short 1),Timeout,Short,0,317
+29700572,309,PT03M33.00S,3,1610612743,DEN,1540,Washington,E. Washington,0,0,0,,0,,,0,h,Washington Traveling Turnover (P1.T8),Turnover,Traveling,0,318
+29700572,311,PT03M14.00S,3,1610612765,DET,3,Long,G. Long,0,0,0,,0,,,0,v,Long Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,319
+29700572,311,PT03M14.00S,3,1610612743,DEN,1619,Garris,K. Garris,0,0,0,,0,,,0,h,Garris STEAL (2 STL),,,0,320
+29700572,312,PT03M10.00S,3,1610612743,DEN,1517,Jackson,B. Jackson,-121,0,12,Made,1,47.0,51.0,98,h,Jackson 12' Jump Shot (11 PTS) (Garris 2 AST),Made Shot,Jump Shot,0,321
+29700572,313,PT02M52.00S,3,1610612765,DET,255,Hill,G. Hill,-89,87,12,Missed,1,,,0,v,MISS Hill 12' Jump Shot,Missed Shot,Jump Shot,0,322
+29700572,314,PT02M49.00S,3,1610612765,DET,3,Long,G. Long,0,0,0,,0,,,0,v,Long REBOUND (Off:3 Def:5),Rebound,Unknown,0,323
+29700572,315,PT02M33.00S,3,1610612765,DET,711,Stackhouse,J. Stackhouse,201,158,26,Made,1,47.0,54.0,101,v,Stackhouse 26' 3PT Jump Shot (15 PTS) (Long 2 AST),Made Shot,Jump Shot,0,324
+29700572,316,PT02M11.00S,3,1610612743,DEN,1540,Washington,E. Washington,226,66,24,Missed,1,,,0,h,MISS Washington 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,325
+29700572,317,PT02M08.00S,3,1610612765,DET,3,Long,G. Long,0,0,0,,0,,,0,v,Long REBOUND (Off:3 Def:6),Rebound,Unknown,0,326
+29700572,318,PT01M54.00S,3,1610612765,DET,247,Dumars,J. Dumars,-182,89,20,Missed,1,,,0,v,MISS Dumars 20' Jump Shot,Missed Shot,Jump Shot,0,327
+29700572,319,PT01M51.00S,3,1610612743,DEN,1517,Jackson,B. Jackson,0,0,0,,0,,,0,h,Jackson REBOUND (Off:0 Def:5),Rebound,Unknown,0,328
+29700572,320,PT01M43.00S,3,1610612743,DEN,1517,Jackson,B. Jackson,111,143,18,Missed,1,,,0,h,MISS Jackson 18' Jump Shot,Missed Shot,Jump Shot,0,329
+29700572,321,PT01M40.00S,3,1610612765,DET,328,Mahorn,R. Mahorn,0,0,0,,0,,,0,v,Mahorn REBOUND (Off:0 Def:2),Rebound,Unknown,0,330
+29700572,322,PT01M30.00S,3,1610612765,DET,328,Mahorn,R. Mahorn,0,0,0,Made,1,47.0,56.0,103,v,Mahorn Layup (2 PTS) (Long 3 AST),Made Shot,Layup Shot,0,331
+29700572,323,PT01M30.00S,3,1610612743,DEN,341,Wolf,J. Wolf,0,0,0,,0,,,0,h,Wolf S.FOUL (P2.PN),Foul,Shooting,0,332
+29700572,324,PT01M30.00S,3,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,333
+29700572,326,PT01M30.00S,3,1610612743,DEN,1517,Jackson,B. Jackson,0,0,0,,0,,,0,h,SUB: Fortson FOR Jackson,Substitution,,0,334
+29700572,327,PT01M30.00S,3,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,,,0,v,SUB: Sealy FOR Hill,Substitution,,0,335
+29700572,328,PT01M30.00S,3,1610612743,DEN,1499,Battie,T. Battie,0,0,0,,0,,,0,h,SUB: Goldwire FOR Battie,Substitution,,0,336
+29700572,330,PT01M30.00S,3,1610612765,DET,3,Long,G. Long,0,0,0,,0,,,0,v,SUB: Williams FOR Long,Substitution,,0,337
+29700572,329,PT01M30.00S,3,1610612765,DET,328,Mahorn,R. Mahorn,0,0,0,,0,47.0,57.0,104,v,Mahorn Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,338
+29700572,331,PT01M08.00S,3,1610612743,DEN,341,Wolf,J. Wolf,141,10,14,Missed,1,,,0,h,MISS Wolf 14' Jump Shot,Missed Shot,Jump Shot,0,339
+29700572,332,PT01M05.00S,3,1610612743,DEN,1540,Washington,E. Washington,0,0,0,,0,,,0,h,Washington REBOUND (Off:1 Def:2),Rebound,Unknown,0,340
+29700572,333,PT01M03.00S,3,1610612743,DEN,1540,Washington,E. Washington,-134,21,14,Missed,1,,,0,h,MISS Washington 14' Jump Shot,Missed Shot,Jump Shot,0,341
+29700572,334,PT01M01.00S,3,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:1 Def:2),Rebound,Unknown,0,342
+29700572,335,PT00M45.00S,3,1610612765,DET,711,Stackhouse,J. Stackhouse,-156,16,16,Made,1,47.0,59.0,106,v,Stackhouse 16' Jump Shot (17 PTS),Made Shot,Jump Shot,0,343
+29700572,337,PT00M19.90S,3,1610612743,DEN,1619,Garris,K. Garris,1,295,30,Made,1,50.0,59.0,109,h,Garris 30' 3PT Jump Shot (5 PTS) (Washington 1 AST),Made Shot,Jump Shot,0,344
+29700572,338,PT00M03.90S,3,1610612765,DET,247,Dumars,J. Dumars,-197,160,25,Missed,1,,,0,v,MISS Dumars 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,345
+29700572,339,PT00M01.70S,3,1610612743,DEN,1504,Fortson,D. Fortson,0,0,0,,0,,,0,h,Fortson REBOUND (Off:1 Def:3),Rebound,Unknown,0,346
+29700572,340,PT00M00.00S,3,0,,0,,,0,0,0,,0,50.0,59.0,109,,End of 3rd Period (2:47 PM EST),period,end,0,347
+29700572,342,PT12M00.00S,4,0,,0,,,0,0,0,,0,50.0,59.0,109,,Start of 4th Period (2:49 PM EST),period,start,0,348
+29700572,343,PT11M46.00S,4,1610612765,DET,711,Stackhouse,J. Stackhouse,-1,51,5,Missed,1,,,0,v,MISS Stackhouse 5' Jump Shot,Missed Shot,Jump Shot,0,349
+29700572,344,PT11M44.00S,4,1610612765,DET,328,Mahorn,R. Mahorn,0,0,0,,0,,,0,v,Mahorn REBOUND (Off:1 Def:2),Rebound,Unknown,0,350
+29700572,345,PT11M37.00S,4,1610612765,DET,255,Hill,G. Hill,160,27,16,Made,1,50.0,61.0,111,v,Hill 16' Jump Shot (8 PTS),Made Shot,Jump Shot,0,351
+29700572,346,PT11M18.00S,4,1610612765,DET,328,Mahorn,R. Mahorn,0,0,0,,0,,,0,v,Mahorn S.FOUL (P3.T1),Foul,Shooting,0,352
+29700572,347,PT11M18.00S,4,1610612743,DEN,1504,Fortson,D. Fortson,0,0,0,,0,51.0,61.0,112,h,Fortson Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,353
+29700572,348,PT11M18.00S,4,1610612743,DEN,1504,Fortson,D. Fortson,0,0,0,,0,52.0,61.0,113,h,Fortson Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,354
+29700572,349,PT11M01.00S,4,1610612765,DET,328,Mahorn,R. Mahorn,0,0,0,Made,1,52.0,63.0,115,v,Mahorn Layup (5 PTS) (Sealy 3 AST),Made Shot,Layup Shot,0,355
+29700572,350,PT10M46.00S,4,1610612743,DEN,924,Goldwire,A. Goldwire,154,93,18,Made,1,54.0,63.0,117,h,Goldwire 18' Jump Shot (4 PTS),Made Shot,Jump Shot,0,356
+29700572,351,PT10M31.00S,4,1610612765,DET,711,Stackhouse,J. Stackhouse,-156,-3,16,Missed,1,,,0,v,MISS Stackhouse 16' Jump Shot,Missed Shot,Jump Shot,0,357
+29700572,352,PT10M28.00S,4,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:2 Def:2),Rebound,Unknown,0,358
+29700572,353,PT10M28.00S,4,1610612765,DET,966,Williams,J. Williams,0,0,0,Missed,1,,,0,v,MISS Williams Layup,Missed Shot,Layup Shot,0,359
+29700572,354,PT10M28.00S,4,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Unknown,0,360
+29700572,355,PT10M28.00S,4,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,,,0,v,Williams L.B.FOUL (P1.T2),Foul,Loose Ball,0,361
+29700572,356,PT10M28.00S,4,1610612765,DET,328,Mahorn,R. Mahorn,0,0,0,,0,,,0,v,SUB: Reid FOR Mahorn,Substitution,,0,362
+29700572,357,PT10M15.00S,4,1610612765,DET,690,Reid,D. Reid,0,0,0,,0,,,0,v,Reid P.FOUL (P1.T3),Foul,Personal,0,363
+29700572,358,PT09M55.00S,4,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,,,0,v,Hill S.FOUL (P2.T4),Foul,Shooting,0,364
+29700572,359,PT09M55.00S,4,1610612743,DEN,924,Goldwire,A. Goldwire,0,0,0,,0,55.0,63.0,118,h,Goldwire Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,365
+29700572,360,PT09M55.00S,4,1610612743,DEN,924,Goldwire,A. Goldwire,0,0,0,,0,56.0,63.0,119,h,Goldwire Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,366
+29700572,361,PT09M41.00S,4,1610612765,DET,255,Hill,G. Hill,147,21,15,Missed,1,,,0,v,MISS Hill 15' Jump Shot,Missed Shot,Jump Shot,0,367
+29700572,363,PT09M38.00S,4,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:3 Def:2),Rebound,Unknown,0,368
+29700572,362,PT09M38.00S,4,1610612765,DET,966,Williams,J. Williams,0,0,0,Made,1,56.0,65.0,121,v,Williams Tip Shot (3 PTS),Made Shot,Tip Shot,0,369
+29700572,364,PT09M26.00S,4,1610612743,DEN,1619,Garris,K. Garris,0,0,0,,0,,,0,h,Garris Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,370
+29700572,364,PT09M26.00S,4,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,,,0,v,Hill STEAL (2 STL),,,0,371
+29700572,365,PT09M21.00S,4,1610612743,DEN,341,Wolf,J. Wolf,0,0,0,,0,,,0,h,Wolf S.FOUL (P3.T1),Foul,Shooting,0,372
+29700572,366,PT09M21.00S,4,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,373
+29700572,369,PT09M21.00S,4,1610612765,DET,907,Sealy,M. Sealy,0,0,0,,0,56.0,66.0,122,v,Sealy Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,374
+29700572,370,PT09M21.00S,4,1610612765,DET,907,Sealy,M. Sealy,0,0,0,,0,56.0,67.0,123,v,Sealy Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,375
+29700572,371,PT08M58.00S,4,1610612743,DEN,1619,Garris,K. Garris,-143,25,15,Missed,1,,,0,h,MISS Garris 15' Jump Shot,Missed Shot,Jump Shot,0,376
+29700572,371,PT08M58.00S,4,1610612765,DET,907,Sealy,M. Sealy,0,0,0,,0,,,0,v,Sealy BLOCK (1 BLK),,,0,377
+29700572,372,PT08M55.00S,4,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse REBOUND (Off:2 Def:3),Rebound,Unknown,0,378
+29700572,373,PT08M41.00S,4,1610612765,DET,907,Sealy,M. Sealy,33,190,19,Missed,1,,,0,v,MISS Sealy 19' Jump Shot,Missed Shot,Jump Shot,0,379
+29700572,374,PT08M38.00S,4,1610612743,DEN,924,Goldwire,A. Goldwire,0,0,0,,0,,,0,h,Goldwire REBOUND (Off:1 Def:1),Rebound,Unknown,0,380
+29700572,375,PT08M34.00S,4,1610612743,DEN,924,Goldwire,A. Goldwire,0,0,0,Missed,1,,,0,h,MISS Goldwire Layup,Missed Shot,Layup Shot,0,381
+29700572,375,PT08M34.00S,4,1610612765,DET,690,Reid,D. Reid,0,0,0,,0,,,0,v,Reid BLOCK (1 BLK),,,0,382
+29700572,376,PT08M34.00S,4,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Unknown,0,383
+29700572,377,PT08M34.00S,4,1610612743,DEN,1619,Garris,K. Garris,0,0,0,,0,,,0,h,SUB: Jackson FOR Garris,Substitution,,0,384
+29700572,378,PT08M34.00S,4,1610612743,DEN,924,Goldwire,A. Goldwire,0,0,0,,0,,,0,h,SUB: Washington FOR Goldwire,Substitution,,0,385
+29700572,379,PT08M34.00S,4,1610612743,DEN,341,Wolf,J. Wolf,0,0,0,,0,,,0,h,SUB: Garrett FOR Wolf,Substitution,,0,386
+29700572,380,PT08M23.00S,4,1610612743,DEN,1504,Fortson,D. Fortson,-156,25,16,Made,1,58.0,67.0,125,h,Fortson 16' Jump Shot (11 PTS) (Washington 2 AST),Made Shot,Jump Shot,0,387
+29700572,381,PT08M04.00S,4,1610612765,DET,690,Reid,D. Reid,0,0,0,Made,1,58.0,69.0,127,v,Reid Layup (2 PTS) (Sealy 4 AST),Made Shot,Layup Shot,0,388
+29700572,382,PT07M47.00S,4,1610612743,DEN,1540,Washington,E. Washington,192,119,23,Missed,1,,,0,h,MISS Washington 23' Jump Shot,Missed Shot,Jump Shot,0,389
+29700572,383,PT07M44.00S,4,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:3 Def:3),Rebound,Unknown,0,390
+29700572,384,PT07M33.00S,4,1610612765,DET,690,Reid,D. Reid,0,0,0,,0,,,0,v,Reid OFF.Foul (P2),Foul,Offensive,0,391
+29700572,385,PT07M33.00S,4,1610612765,DET,690,Reid,D. Reid,0,0,0,,0,,,0,v,Reid Foul Turnover (P1.T11),Turnover,Foul,0,392
+29700572,386,PT07M15.00S,4,1610612743,DEN,1517,Jackson,B. Jackson,-10,199,20,Missed,1,,,0,h,MISS Jackson 20' Jump Shot,Missed Shot,Jump Shot,0,393
+29700572,387,PT07M12.00S,4,1610612765,DET,690,Reid,D. Reid,0,0,0,,0,,,0,v,Reid REBOUND (Off:0 Def:1),Rebound,Unknown,0,394
+29700572,388,PT07M10.00S,4,1610612743,DEN,1540,Washington,E. Washington,0,0,0,,0,,,0,h,Washington S.FOUL (P3.T2),Foul,Shooting,0,395
+29700572,389,PT07M10.00S,4,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,58.0,70.0,128,v,Stackhouse Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,396
+29700572,390,PT07M10.00S,4,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,,,0,v,SUB: Dumars FOR Hill,Substitution,,0,397
+29700572,391,PT07M10.00S,4,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,58.0,71.0,129,v,Stackhouse Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,398
+29700572,392,PT06M55.00S,4,1610612743,DEN,1677,Ellis,H. Ellis,0,0,0,Made,1,60.0,71.0,131,h,H. Ellis Layup (8 PTS) (Fortson 1 AST),Made Shot,Layup Shot,0,399
+29700572,393,PT06M40.00S,4,1610612743,DEN,1504,Fortson,D. Fortson,0,0,0,,0,,,0,h,Fortson P.FOUL (P4.T3),Foul,Personal,0,400
+29700572,394,PT06M40.00S,4,1610612743,DEN,1677,Ellis,H. Ellis,0,0,0,,0,,,0,h,SUB: Battie FOR H. Ellis,Substitution,,0,401
+29700572,395,PT06M20.00S,4,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,Missed,1,,,0,v,MISS Stackhouse Layup,Missed Shot,Layup Shot,0,402
+29700572,395,PT06M20.00S,4,1610612743,DEN,1499,Battie,T. Battie,0,0,0,,0,,,0,h,Battie BLOCK (4 BLK),,,0,403
+29700572,396,PT06M17.00S,4,1610612765,DET,690,Reid,D. Reid,0,0,0,,0,,,0,v,Reid REBOUND (Off:1 Def:1),Rebound,Unknown,0,404
+29700572,397,PT06M15.00S,4,1610612765,DET,690,Reid,D. Reid,0,0,0,Missed,1,,,0,v,MISS Reid Layup,Missed Shot,Layup Shot,0,405
+29700572,397,PT06M15.00S,4,1610612743,DEN,1051,Garrett,D. Garrett,0,0,0,,0,,,0,h,Garrett BLOCK (2 BLK),,,0,406
+29700572,398,PT06M13.00S,4,1610612743,DEN,1499,Battie,T. Battie,0,0,0,,0,,,0,h,Battie REBOUND (Off:0 Def:6),Rebound,Unknown,0,407
+29700572,399,PT06M13.00S,4,1610612765,DET,247,Dumars,J. Dumars,0,0,0,,0,,,0,v,Dumars S.FOUL (P1.PN),Foul,Shooting,0,408
+29700572,400,PT06M13.00S,4,1610612743,DEN,1540,Washington,E. Washington,0,0,0,,0,61.0,71.0,132,h,Washington Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,409
+29700572,401,PT06M13.00S,4,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,,,0,v,SUB: Hill FOR Williams,Substitution,,0,410
+29700572,403,PT06M13.00S,4,1610612743,DEN,1540,Washington,E. Washington,0,0,0,,0,62.0,71.0,133,h,Washington Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,411
+29700572,404,PT06M05.00S,4,1610612765,DET,255,Hill,G. Hill,0,0,0,Made,1,62.0,73.0,135,v,Hill Driving Layup (10 PTS),Made Shot,Driving Layup Shot,0,412
+29700572,405,PT05M54.00S,4,1610612743,DEN,1517,Jackson,B. Jackson,57,89,11,Missed,1,,,0,h,MISS Jackson 11' Running Jump Shot,Missed Shot,Running Jump Shot,0,413
+29700572,406,PT05M51.00S,4,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,,,0,v,Hill REBOUND (Off:3 Def:7),Rebound,Unknown,0,414
+29700572,407,PT05M33.00S,4,1610612765,DET,711,Stackhouse,J. Stackhouse,224,51,0,Missed,1,,,0,v,MISS Stackhouse 3PT Jump Shot,Missed Shot,Jump Shot,0,415
+29700572,408,PT05M30.00S,4,1610612743,DEN,1504,Fortson,D. Fortson,0,0,0,,0,,,0,h,Fortson REBOUND (Off:1 Def:4),Rebound,Unknown,0,416
+29700572,409,PT05M29.00S,4,1610612765,DET,247,Dumars,J. Dumars,0,0,0,,0,,,0,v,Dumars C.P.FOUL (P2.PN),Foul,Clear Path,0,417
+29700572,410,PT05M29.00S,4,1610612743,DEN,1517,Jackson,B. Jackson,0,0,0,,0,63.0,73.0,136,h,Jackson Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,418
+29700572,411,PT05M29.00S,4,1610612743,DEN,1517,Jackson,B. Jackson,0,0,0,,0,64.0,73.0,137,h,Jackson Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,419
+29700572,412,PT05M15.00S,4,1610612765,DET,907,Sealy,M. Sealy,0,190,19,Made,1,64.0,75.0,139,v,Sealy 19' Jump Shot (8 PTS) (Stackhouse 3 AST),Made Shot,Jump Shot,0,420
+29700572,413,PT04M56.00S,4,1610612743,DEN,1499,Battie,T. Battie,151,8,15,Missed,1,,,0,h,MISS Battie 15' Jump Shot,Missed Shot,Jump Shot,0,421
+29700572,414,PT04M52.00S,4,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse REBOUND (Off:2 Def:4),Rebound,Unknown,0,422
+29700572,415,PT04M37.00S,4,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,Made,1,64.0,77.0,141,v,Stackhouse Driving Layup (21 PTS),Made Shot,Driving Layup Shot,0,423
+29700572,416,PT04M32.00S,4,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Timeout: Regular (Full 5 Short 1),Timeout,Regular,0,424
+29700572,418,PT04M13.00S,4,1610612743,DEN,1504,Fortson,D. Fortson,0,0,0,,0,,,0,h,Fortson Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,425
+29700572,418,PT04M13.00S,4,1610612765,DET,690,Reid,D. Reid,0,0,0,,0,,,0,v,Reid STEAL (1 STL),,,0,426
+29700572,419,PT03M59.00S,4,1610612765,DET,907,Sealy,M. Sealy,-91,151,18,Missed,1,,,0,v,MISS Sealy 18' Jump Shot,Missed Shot,Jump Shot,0,427
+29700572,420,PT03M58.00S,4,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Rebound,Rebound,Unknown,0,428
+29700572,421,PT03M58.00S,4,1610612743,DEN,1051,Garrett,D. Garrett,0,0,0,,0,,,0,h,Garrett L.B.FOUL (P5.T4),Foul,Loose Ball,0,429
+29700572,422,PT03M58.00S,4,1610612743,DEN,1504,Fortson,D. Fortson,0,0,0,,0,,,0,h,SUB: H. Ellis FOR Fortson,Substitution,,0,430
+29700572,423,PT03M58.00S,4,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,431
+29700572,425,PT03M44.00S,4,1610612765,DET,247,Dumars,J. Dumars,181,186,26,Missed,1,,,0,v,MISS Dumars 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,432
+29700572,426,PT03M41.00S,4,1610612743,DEN,1499,Battie,T. Battie,0,0,0,,0,,,0,h,Battie REBOUND (Off:0 Def:7),Rebound,Unknown,0,433
+29700572,427,PT03M25.00S,4,1610612743,DEN,1517,Jackson,B. Jackson,0,0,0,,0,,,0,h,Jackson Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,434
+29700572,428,PT03M04.00S,4,1610612765,DET,907,Sealy,M. Sealy,5,173,17,Made,1,64.0,79.0,143,v,Sealy 17' Jump Shot (10 PTS) (Hill 5 AST),Made Shot,Jump Shot,0,435
+29700572,429,PT02M39.00S,4,1610612743,DEN,1517,Jackson,B. Jackson,-98,274,29,Made,1,67.0,79.0,146,h,Jackson 29' 3PT Jump Shot (16 PTS) (H. Ellis 2 AST),Made Shot,Jump Shot,0,436
+29700572,430,PT02M16.00S,4,1610612765,DET,247,Dumars,J. Dumars,-231,93,25,Made,1,67.0,82.0,149,v,Dumars 25' 3PT Jump Shot (20 PTS) (Sealy 5 AST),Made Shot,Jump Shot,0,437
+29700572,432,PT02M02.00S,4,1610612743,DEN,1517,Jackson,B. Jackson,0,0,0,,0,,,0,h,Jackson Bad Pass Turnover (P4.T12),Turnover,Bad Pass,0,438
+29700572,432,PT02M02.00S,4,1610612765,DET,247,Dumars,J. Dumars,0,0,0,,0,,,0,v,Dumars STEAL (1 STL),,,0,439
+29700572,433,PT01M44.00S,4,1610612765,DET,690,Reid,D. Reid,0,0,0,Made,1,67.0,84.0,151,v,Reid Layup (4 PTS) (Sealy 6 AST),Made Shot,Layup Shot,0,440
+29700572,434,PT01M44.00S,4,1610612743,DEN,1517,Jackson,B. Jackson,0,0,0,,0,,,0,h,Jackson S.FOUL (P3.PN),Foul,Shooting,0,441
+29700572,435,PT01M44.00S,4,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,,,0,v,SUB: Henson FOR Hill,Substitution,,0,442
+29700572,436,PT01M44.00S,4,1610612765,DET,247,Dumars,J. Dumars,0,0,0,,0,,,0,v,SUB: O'Bannon FOR Dumars,Substitution,,0,443
+29700572,437,PT01M44.00S,4,1610612765,DET,690,Reid,D. Reid,0,0,0,,0,67.0,85.0,152,v,Reid Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,444
+29700572,438,PT01M29.00S,4,1610612743,DEN,1540,Washington,E. Washington,57,31,6,Missed,1,,,0,h,MISS Washington 6' Hook Shot,Missed Shot,Hook Shot,0,445
+29700572,438,PT01M29.00S,4,1610612765,DET,690,Reid,D. Reid,0,0,0,,0,,,0,v,Reid BLOCK (2 BLK),,,0,446
+29700572,439,PT01M27.00S,4,1610612765,DET,690,Reid,D. Reid,0,0,0,,0,,,0,v,Reid REBOUND (Off:1 Def:2),Rebound,Unknown,0,447
+29700572,440,PT01M08.00S,4,1610612765,DET,1667,Henson,S. Henson,-171,111,20,Missed,1,,,0,v,MISS Henson 20' Jump Shot,Missed Shot,Jump Shot,0,448
+29700572,441,PT01M04.00S,4,1610612743,DEN,1499,Battie,T. Battie,0,0,0,,0,,,0,h,Battie REBOUND (Off:0 Def:8),Rebound,Unknown,0,449
+29700572,442,PT00M56.90S,4,1610612743,DEN,1677,Ellis,H. Ellis,0,0,0,,0,,,0,h,H. Ellis Lost Ball Turnover (P2.T13),Turnover,Lost Ball,0,450
+29700572,442,PT00M56.90S,4,1610612765,DET,907,Sealy,M. Sealy,0,0,0,,0,,,0,v,Sealy STEAL (1 STL),,,0,451
+29700572,443,PT00M45.90S,4,1610612765,DET,907,Sealy,M. Sealy,-160,-3,16,Missed,1,,,0,v,MISS Sealy 16' Jump Shot,Missed Shot,Jump Shot,0,452
+29700572,444,PT00M43.80S,4,1610612743,DEN,1499,Battie,T. Battie,0,0,0,,0,,,0,h,Battie REBOUND (Off:0 Def:9),Rebound,Unknown,0,453
+29700572,445,PT00M33.90S,4,1610612743,DEN,1517,Jackson,B. Jackson,-96,246,26,Missed,1,,,0,h,MISS Jackson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,454
+29700572,446,PT00M33.40S,4,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Rebound,Rebound,Unknown,0,455
+29700572,447,PT00M33.40S,4,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,SUB: Williams FOR Stackhouse,Substitution,,0,456
+29700572,448,PT00M33.40S,4,1610612743,DEN,1677,Ellis,H. Ellis,0,0,0,,0,,,0,h,SUB: Garris FOR H. Ellis,Substitution,,0,457
+29700572,449,PT00M20.90S,4,1610612765,DET,966,Williams,J. Williams,0,0,0,Made,1,67.0,87.0,154,v,Williams Layup (5 PTS) (Sealy 7 AST),Made Shot,Layup Shot,0,458
+29700572,450,PT00M09.90S,4,1610612743,DEN,1517,Jackson,B. Jackson,59,184,19,Missed,1,,,0,h,MISS Jackson 19' Jump Shot,Missed Shot,Jump Shot,0,459
+29700572,451,PT00M06.90S,4,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:3 Def:4),Rebound,Unknown,0,460

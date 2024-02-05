@@ -1,0 +1,464 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+20700352,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (8:12 PM EST),period,start,0,1
+20700352,1,PT12M00.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,h,Jump Ball Camby vs. Przybilla: Tip to Iverson,Jump Ball,,0,2
+20700352,2,PT11M45.00S,1,1610612743,DEN,948,Camby,M. Camby,123,146,19,Missed,1,0.0,0.0,0,h,MISS Camby 19' Jump Shot,Missed Shot,Jump Shot,0,3
+20700352,3,PT11M43.00S,1,1610612757,POR,101110,Webster,M. Webster,0,0,0,,0,0.0,0.0,0,v,Webster REBOUND (Off:0 Def:1),Rebound,Unknown,0,4
+20700352,4,PT11M26.00S,1,1610612757,POR,101112,Frye,C. Frye,3,201,20,Made,1,0.0,2.0,2,v,Frye 20' Jump Shot (2 PTS) (Roy 1 AST),Made Shot,Jump Shot,0,5
+20700352,5,PT11M08.00S,1,1610612743,DEN,2030,Martin,K. Martin,-99,163,19,Made,1,2.0,2.0,4,h,Martin 19' Jump Shot (2 PTS) (Iverson 1 AST),Made Shot,Jump Shot,0,6
+20700352,6,PT10M56.00S,1,1610612757,POR,200750,Roy,B. Roy,-117,46,13,Missed,1,0.0,0.0,0,v,MISS Roy 13' Jump Shot,Missed Shot,Jump Shot,0,7
+20700352,8,PT10M55.00S,1,1610612757,POR,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,v,Frye REBOUND (Off:1 Def:0),Rebound,Unknown,0,8
+20700352,7,PT10M54.00S,1,1610612757,POR,101112,Frye,C. Frye,0,0,0,Made,1,2.0,4.0,6,v,Frye  Dunk (4 PTS),Made Shot,Dunk Shot,0,9
+20700352,9,PT10M38.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,4.0,4.0,8,h,Anthony  Alley Oop Layup (2 PTS) (Camby 1 AST),Made Shot,Alley Oop Layup shot,0,10
+20700352,10,PT10M23.00S,1,1610612757,POR,2581,Blake,S. Blake,0,0,0,,0,0.0,0.0,0,v,Blake Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,11
+20700352,11,PT10M11.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,163,58,17,Missed,1,0.0,0.0,0,h,MISS Anthony 17' Jump Shot,Missed Shot,Jump Shot,0,12
+20700352,12,PT10M09.00S,1,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0.0,0.0,0,v,Przybilla REBOUND (Off:0 Def:1),Rebound,Unknown,0,13
+20700352,13,PT09M55.00S,1,1610612757,POR,2581,Blake,S. Blake,189,87,21,Missed,1,0.0,0.0,0,v,MISS Blake 21' Jump Shot,Missed Shot,Jump Shot,0,14
+20700352,14,PT09M54.00S,1,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,15
+20700352,15,PT09M47.00S,1,1610612743,DEN,948,Camby,M. Camby,5,87,9,Missed,1,0.0,0.0,0,h,MISS Camby 9' Running Jump Shot,Missed Shot,Running Jump Shot,0,16
+20700352,16,PT09M45.00S,1,1610612757,POR,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,v,Frye REBOUND (Off:1 Def:1),Rebound,Unknown,0,17
+20700352,17,PT09M32.00S,1,1610612757,POR,101110,Webster,M. Webster,-51,217,22,Missed,1,0.0,0.0,0,v,MISS Webster 22' Jump Shot,Missed Shot,Jump Shot,0,18
+20700352,18,PT09M32.00S,1,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,h,NUGGETS Rebound,Rebound,Unknown,0,19
+20700352,19,PT09M32.00S,1,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0.0,0.0,0,v,Przybilla L.B.FOUL (P1.T1),Foul,Loose Ball,0,20
+20700352,20,PT09M16.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Missed,1,0.0,0.0,0,h,MISS Anthony  Driving Layup,Missed Shot,Driving Layup Shot,0,21
+20700352,20,PT09M16.00S,1,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0.0,0.0,0,v,Przybilla BLOCK (1 BLK),,,0,22
+20700352,21,PT09M14.00S,1,1610612757,POR,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,v,Frye REBOUND (Off:1 Def:2),Rebound,Unknown,0,23
+20700352,22,PT09M05.00S,1,1610612757,POR,101112,Frye,C. Frye,-187,0,19,Made,1,4.0,6.0,10,v,Frye 19' Jump Shot (6 PTS) (Roy 2 AST),Made Shot,Jump Shot,0,24
+20700352,23,PT08M54.00S,1,1610612743,DEN,947,Iverson,A. Iverson,-164,10,16,Missed,1,0.0,0.0,0,h,MISS Iverson 16' Jump Shot,Missed Shot,Jump Shot,0,25
+20700352,24,PT08M53.00S,1,1610612757,POR,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,v,Frye REBOUND (Off:1 Def:3),Rebound,Unknown,0,26
+20700352,25,PT08M34.00S,1,1610612757,POR,2581,Blake,S. Blake,10,164,16,Made,1,4.0,8.0,12,v,Blake 16' Jump Shot (2 PTS) (Roy 3 AST),Made Shot,Jump Shot,0,27
+20700352,26,PT08M21.00S,1,1610612757,POR,101110,Webster,M. Webster,0,0,0,,0,0.0,0.0,0,v,Webster P.FOUL (P1.T2),Foul,Personal,0,28
+20700352,27,PT08M12.00S,1,1610612743,DEN,947,Iverson,A. Iverson,-125,219,25,Made,1,7.0,8.0,15,h,Iverson 25' 3PT Jump Shot (3 PTS) (Anthony 1 AST),Made Shot,Jump Shot,0,29
+20700352,28,PT07M51.00S,1,1610612757,POR,101112,Frye,C. Frye,31,209,21,Missed,1,0.0,0.0,0,v,MISS Frye 21' Jump Shot,Missed Shot,Jump Shot,0,30
+20700352,29,PT07M50.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,h,Camby REBOUND (Off:0 Def:1),Rebound,Unknown,0,31
+20700352,30,PT07M44.00S,1,1610612743,DEN,947,Iverson,A. Iverson,-87,58,10,Made,1,9.0,8.0,17,h,Iverson 10' Fadeaway Jumper (5 PTS),Made Shot,Fadeaway Jump Shot,0,32
+20700352,31,PT07M27.00S,1,1610612757,POR,101112,Frye,C. Frye,0,0,0,Made,1,9.0,10.0,19,v,Frye  Reverse Dunk (8 PTS) (Roy 4 AST),Made Shot,Reverse Dunk Shot,0,33
+20700352,32,PT07M13.00S,1,1610612757,POR,200750,Roy,B. Roy,0,0,0,,0,0.0,0.0,0,v,Roy S.FOUL (P1.T3),Foul,Shooting,0,34
+20700352,33,PT07M13.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,10.0,10.0,20,h,Anthony Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,35
+20700352,34,PT07M13.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,11.0,10.0,21,h,Anthony Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,36
+20700352,35,PT06M59.00S,1,1610612757,POR,200750,Roy,B. Roy,0,0,0,,0,0.0,0.0,0,v,Roy Traveling Turnover (P1.T2),Turnover,Traveling,0,37
+20700352,36,PT06M51.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,h,Anthony Offensive Goaltending Turnover (P1.T1),Turnover,Offensive Goaltending,0,38
+20700352,37,PT06M36.00S,1,1610612757,POR,101112,Frye,C. Frye,-62,204,21,Made,1,11.0,12.0,23,v,Frye 21' Jump Shot (10 PTS),Made Shot,Jump Shot,0,39
+20700352,38,PT06M17.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Missed,1,0.0,0.0,0,h,MISS Anthony  Layup,Missed Shot,Layup Shot,0,40
+20700352,38,PT06M17.00S,1,1610612757,POR,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,v,Frye BLOCK (1 BLK),,,0,41
+20700352,39,PT06M17.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,h,Jump Ball Anthony vs. Frye: Tip to,Jump Ball,,0,42
+20700352,40,PT06M17.00S,1,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,43
+20700352,41,PT06M14.00S,1,1610612743,DEN,1853,Carter,A. Carter,0,0,0,,0,0.0,0.0,0,h,Carter L.B.FOUL (P1.T1),Foul,Loose Ball,0,44
+20700352,42,PT06M03.00S,1,1610612757,POR,200750,Roy,B. Roy,-2,64,6,Missed,1,0.0,0.0,0,v,MISS Roy 6' Jump Shot,Missed Shot,Jump Shot,0,45
+20700352,44,PT06M02.00S,1,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0.0,0.0,0,v,Przybilla REBOUND (Off:1 Def:1),Rebound,Unknown,0,46
+20700352,43,PT06M02.00S,1,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,Made,1,11.0,14.0,25,v,Przybilla  Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,0,47
+20700352,45,PT05M53.00S,1,1610612743,DEN,1853,Carter,A. Carter,-112,171,20,Made,1,13.0,14.0,27,h,Carter 20' Jump Shot (2 PTS),Made Shot,Jump Shot,0,48
+20700352,46,PT05M36.00S,1,1610612757,POR,2581,Blake,S. Blake,232,-3,0,Missed,1,0.0,0.0,0,v,MISS Blake  3PT Jump Shot,Missed Shot,Jump Shot,0,49
+20700352,47,PT05M34.00S,1,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0.0,0.0,0,v,Przybilla REBOUND (Off:2 Def:1),Rebound,Unknown,0,50
+20700352,48,PT05M29.00S,1,1610612757,POR,200750,Roy,B. Roy,92,243,26,Missed,1,0.0,0.0,0,v,MISS Roy 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,51
+20700352,49,PT05M28.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,h,Anthony REBOUND (Off:0 Def:1),Rebound,Unknown,0,52
+20700352,50,PT05M21.00S,1,1610612757,POR,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,v,Frye P.FOUL (P1.T4),Foul,Personal,0,53
+20700352,51,PT05M21.00S,1,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,h,NUGGETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,54
+20700352,55,PT05M10.00S,1,1610612743,DEN,2030,Martin,K. Martin,192,-8,19,Missed,1,0.0,0.0,0,h,MISS Martin 19' Jump Shot,Missed Shot,Jump Shot,0,55
+20700352,56,PT05M09.00S,1,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0.0,0.0,0,v,Przybilla REBOUND (Off:2 Def:2),Rebound,Unknown,0,56
+20700352,57,PT04M45.00S,1,1610612757,POR,200750,Roy,B. Roy,15,77,8,Missed,1,0.0,0.0,0,v,MISS Roy 8' Jump Shot,Missed Shot,Jump Shot,0,57
+20700352,58,PT04M44.00S,1,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0.0,0.0,0,v,Przybilla REBOUND (Off:3 Def:2),Rebound,Unknown,0,58
+20700352,59,PT04M37.00S,1,1610612757,POR,200750,Roy,B. Roy,0,0,0,Missed,1,0.0,0.0,0,v,MISS Roy  Layup,Missed Shot,Layup Shot,0,59
+20700352,59,PT04M37.00S,1,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin BLOCK (1 BLK),,,0,60
+20700352,60,PT04M35.00S,1,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0.0,0.0,0,v,Przybilla REBOUND (Off:4 Def:2),Rebound,Unknown,0,61
+20700352,61,PT04M33.00S,1,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,Made,1,13.0,16.0,29,v,Przybilla  Layup (4 PTS) (Webster 1 AST),Made Shot,Layup Shot,0,62
+20700352,62,PT04M33.00S,1,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin S.FOUL (P1.T2),Foul,Shooting,0,63
+20700352,63,PT04M33.00S,1,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0.0,0.0,0,v,MISS Przybilla Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,64
+20700352,64,PT04M31.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,h,Camby REBOUND (Off:0 Def:2),Rebound,Unknown,0,65
+20700352,65,PT04M16.00S,1,1610612743,DEN,2030,Martin,K. Martin,5,68,7,Made,1,15.0,16.0,31,h,Martin 7' Jump Hook Shot (4 PTS) (Camby 2 AST),Made Shot,Jump Hook Shot,0,66
+20700352,66,PT03M57.00S,1,1610612757,POR,200750,Roy,B. Roy,-187,123,22,Made,1,15.0,18.0,33,v,Roy 22' Jump Shot (2 PTS),Made Shot,Jump Shot,0,67
+20700352,67,PT03M38.00S,1,1610612743,DEN,948,Camby,M. Camby,97,192,22,Made,1,17.0,18.0,35,h,Camby 22' Jump Shot (2 PTS) (Iverson 2 AST),Made Shot,Jump Shot,0,68
+20700352,68,PT03M17.00S,1,1610612743,DEN,1853,Carter,A. Carter,0,0,0,,0,0.0,0.0,0,h,Carter S.FOUL (P2.T3),Foul,Shooting,0,69
+20700352,69,PT03M17.00S,1,1610612757,POR,2581,Blake,S. Blake,0,0,0,,0,0.0,0.0,0,v,SUB: Jack FOR Blake,Substitution,,0,70
+20700352,70,PT03M17.00S,1,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0.0,0.0,0,v,SUB: LaFrentz FOR Przybilla,Substitution,,0,71
+20700352,72,PT03M17.00S,1,1610612743,DEN,1853,Carter,A. Carter,0,0,0,,0,0.0,0.0,0,h,SUB: Najera FOR Carter,Substitution,,0,72
+20700352,71,PT03M17.00S,1,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,SUB: Kleiza FOR Martin,Substitution,,0,73
+20700352,73,PT03M17.00S,1,1610612757,POR,200750,Roy,B. Roy,0,0,0,,0,17.0,19.0,36,v,Roy Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,74
+20700352,74,PT03M17.00S,1,1610612757,POR,200750,Roy,B. Roy,0,0,0,,0,0.0,0.0,0,v,MISS Roy Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,75
+20700352,75,PT03M16.00S,1,1610612757,POR,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,v,Frye REBOUND (Off:2 Def:3),Rebound,Unknown,0,76
+20700352,76,PT03M09.00S,1,1610612757,POR,200750,Roy,B. Roy,-148,107,18,Made,1,17.0,21.0,38,v,Roy 18' Jump Shot (5 PTS),Made Shot,Jump Shot,0,77
+20700352,77,PT02M46.00S,1,1610612743,DEN,2059,Najera,E. Najera,179,17,18,Made,1,19.0,21.0,40,h,Najera 18' Jump Shot (2 PTS) (Kleiza 1 AST),Made Shot,Jump Shot,0,78
+20700352,78,PT02M29.00S,1,1610612757,POR,101112,Frye,C. Frye,199,0,20,Made,1,19.0,23.0,42,v,Frye 20' Jump Shot (12 PTS) (Jack 1 AST),Made Shot,Jump Shot,0,79
+20700352,79,PT02M19.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,21.0,23.0,44,h,Anthony  Dunk (6 PTS) (Iverson 3 AST),Made Shot,Dunk Shot,0,80
+20700352,80,PT02M04.00S,1,1610612757,POR,101112,Frye,C. Frye,-169,120,21,Made,1,21.0,25.0,46,v,Frye 21' Jump Shot (14 PTS) (Jack 2 AST),Made Shot,Jump Shot,0,81
+20700352,81,PT01M48.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,h,Anthony OFF.Foul (P1),Foul,Offensive,0,82
+20700352,82,PT01M48.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,h,Anthony Foul Turnover (P2.T2),Turnover,Foul,0,83
+20700352,84,PT01M48.00S,1,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,v,Trail Blazers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,84
+20700352,86,PT01M48.00S,1,1610612757,POR,200750,Roy,B. Roy,0,0,0,,0,0.0,0.0,0,v,SUB: Rodriguez FOR Roy,Substitution,,0,85
+20700352,85,PT01M48.00S,1,1610612757,POR,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,v,SUB: Outlaw FOR Frye,Substitution,,0,86
+20700352,88,PT01M29.00S,1,1610612757,POR,101110,Webster,M. Webster,0,0,0,,0,0.0,0.0,0,v,Webster Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,87
+20700352,88,PT01M29.00S,1,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,h,Iverson STEAL (1 STL),,,0,88
+20700352,89,PT01M26.00S,1,1610612757,POR,200771,Rodriguez,S. Rodriguez,0,0,0,,0,0.0,0.0,0,v,Rodriguez S.FOUL (P1.PN),Foul,Shooting,0,89
+20700352,90,PT01M26.00S,1,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,22.0,25.0,47,h,Kleiza Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,90
+20700352,91,PT01M26.00S,1,1610612757,POR,101110,Webster,M. Webster,0,0,0,,0,0.0,0.0,0,v,SUB: Jones FOR Webster,Substitution,,0,91
+20700352,92,PT01M26.00S,1,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0.0,0.0,0,h,MISS Kleiza Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,92
+20700352,93,PT01M25.00S,1,1610612757,POR,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,v,LaFrentz REBOUND (Off:0 Def:1),Rebound,Unknown,0,93
+20700352,94,PT01M05.00S,1,1610612757,POR,101127,Jack,J. Jack,0,0,0,,0,0.0,0.0,0,v,Jack Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,94
+20700352,94,PT01M05.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,h,Anthony STEAL (1 STL),,,0,95
+20700352,95,PT00M48.90S,1,1610612743,DEN,101132,Kleiza,L. Kleiza,-237,2,24,Missed,1,0.0,0.0,0,h,MISS Kleiza 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,96
+20700352,96,PT00M47.50S,1,1610612757,POR,200771,Rodriguez,S. Rodriguez,0,0,0,,0,0.0,0.0,0,v,Rodriguez REBOUND (Off:0 Def:1),Rebound,Unknown,0,97
+20700352,97,PT00M41.50S,1,1610612757,POR,2592,Jones,J. Jones,236,69,25,Made,1,22.0,28.0,50,v,Jones 25' 3PT Jump Shot (3 PTS) (Rodriguez 1 AST),Made Shot,Jump Shot,0,98
+20700352,98,PT00M30.30S,1,1610612743,DEN,2059,Najera,E. Najera,233,15,0,Made,1,25.0,28.0,53,h,Najera  3PT Jump Shot (5 PTS) (Camby 3 AST),Made Shot,Jump Shot,0,99
+20700352,99,PT00M07.90S,1,1610612757,POR,200771,Rodriguez,S. Rodriguez,5,91,9,Made,1,25.0,30.0,55,v,Rodriguez 9' Running Jump Shot (2 PTS) (Outlaw 1 AST),Made Shot,Running Jump Shot,0,100
+20700352,100,PT00M00.40S,1,1610612743,DEN,947,Iverson,A. Iverson,49,51,7,Missed,1,0.0,0.0,0,h,MISS Iverson 7' Running Jump Shot,Missed Shot,Running Jump Shot,0,101
+20700352,100,PT00M00.40S,1,1610612757,POR,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,v,LaFrentz BLOCK (1 BLK),,,0,102
+20700352,101,PT00M00.30S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,h,Camby REBOUND (Off:1 Def:2),Rebound,Unknown,0,103
+20700352,102,PT00M00.20S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,Missed,1,0.0,0.0,0,h,MISS Camby  Layup,Missed Shot,Layup Shot,0,104
+20700352,103,PT00M00.00S,1,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,h,NUGGETS Rebound,Rebound,Unknown,0,105
+20700352,104,PT00M00.00S,1,0,,0,,,0,0,0,,0,25.0,30.0,55,,End of 1st Period (8:35 PM EST),period,end,0,106
+20700352,106,PT12M00.00S,2,0,,0,,,0,0,0,,0,25.0,30.0,55,,Start of 2nd Period (8:38 PM EST),period,start,0,107
+20700352,107,PT11M43.00S,2,1610612757,POR,2566,Outlaw,T. Outlaw,0,0,0,Missed,1,0.0,0.0,0,v,MISS Outlaw  Layup,Missed Shot,Layup Shot,0,108
+20700352,108,PT11M41.00S,2,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0.0,0.0,0,h,Kleiza REBOUND (Off:0 Def:1),Rebound,Unknown,0,109
+20700352,109,PT11M19.00S,2,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0.0,0.0,0,h,Kleiza Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,110
+20700352,109,PT11M19.00S,2,1610612757,POR,200771,Rodriguez,S. Rodriguez,0,0,0,,0,0.0,0.0,0,v,Rodriguez STEAL (1 STL),,,0,111
+20700352,110,PT11M16.00S,2,1610612757,POR,200771,Rodriguez,S. Rodriguez,0,0,0,Made,1,25.0,32.0,57,v,Rodriguez  Layup (4 PTS),Made Shot,Layup Shot,0,112
+20700352,111,PT10M56.00S,2,1610612743,DEN,947,Iverson,A. Iverson,-120,125,17,Made,1,27.0,32.0,59,h,Iverson 17' Jump Shot (7 PTS),Made Shot,Jump Shot,0,113
+20700352,112,PT10M35.00S,2,1610612757,POR,101127,Jack,J. Jack,0,0,0,,0,0.0,0.0,0,v,Jack Step Out of Bounds Turnover (P2.T5),Turnover,Step Out of Bounds Turnover,0,114
+20700352,113,PT10M35.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,h,SUB: Carter FOR Anthony,Substitution,,0,115
+20700352,114,PT10M24.00S,2,1610612743,DEN,947,Iverson,A. Iverson,-235,31,24,Missed,1,0.0,0.0,0,h,MISS Iverson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,116
+20700352,115,PT10M23.00S,2,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0.0,0.0,0,h,Najera REBOUND (Off:1 Def:0),Rebound,Unknown,0,117
+20700352,116,PT10M20.00S,2,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0.0,0.0,0,h,Najera Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,118
+20700352,116,PT10M20.00S,2,1610612757,POR,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,v,LaFrentz STEAL (1 STL),,,0,119
+20700352,117,PT10M11.00S,2,1610612757,POR,200771,Rodriguez,S. Rodriguez,-243,74,25,Missed,1,0.0,0.0,0,v,MISS Rodriguez 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,120
+20700352,118,PT10M09.00S,2,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,h,Iverson REBOUND (Off:0 Def:1),Rebound,Unknown,0,121
+20700352,120,PT09M59.00S,2,1610612757,POR,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,v,LaFrentz Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,122
+20700352,119,PT09M59.00S,2,1610612743,DEN,2059,Najera,E. Najera,0,0,0,Made,1,29.0,32.0,61,h,Najera  Reverse Layup (7 PTS) (Camby 4 AST),Made Shot,Reverse Layup Shot,0,123
+20700352,121,PT09M52.00S,2,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0.0,0.0,0,h,Najera P.FOUL (P1.T1),Foul,Personal,0,124
+20700352,122,PT09M52.00S,2,1610612757,POR,200771,Rodriguez,S. Rodriguez,0,0,0,,0,0.0,0.0,0,v,SUB: Roy FOR Rodriguez,Substitution,,0,125
+20700352,123,PT09M52.00S,2,1610612757,POR,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,v,SUB: Przybilla FOR LaFrentz,Substitution,,0,126
+20700352,124,PT09M52.00S,2,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,h,SUB: Martin FOR Camby,Substitution,,0,127
+20700352,125,PT09M37.00S,2,1610612757,POR,101127,Jack,J. Jack,-195,174,26,Made,1,29.0,35.0,64,v,Jack 26' 3PT Jump Shot (3 PTS) (Jones 1 AST),Made Shot,Jump Shot,0,128
+20700352,126,PT09M31.00S,2,1610612743,DEN,2059,Najera,E. Najera,0,0,0,Made,1,31.0,35.0,66,h,Najera  Driving Dunk (9 PTS) (Carter 1 AST),Made Shot,Driving Dunk Shot,0,129
+20700352,127,PT09M12.00S,2,1610612757,POR,2566,Outlaw,T. Outlaw,-153,36,16,Missed,1,0.0,0.0,0,v,MISS Outlaw 16' Jump Shot,Missed Shot,Jump Shot,0,130
+20700352,128,PT09M10.00S,2,1610612757,POR,200750,Roy,B. Roy,0,0,0,,0,0.0,0.0,0,v,Roy REBOUND (Off:1 Def:0),Rebound,Unknown,0,131
+20700352,129,PT08M59.00S,2,1610612757,POR,2592,Jones,J. Jones,0,0,0,,0,0.0,0.0,0,v,Jones Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,132
+20700352,129,PT08M59.00S,2,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,h,Iverson STEAL (2 STL),,,0,133
+20700352,130,PT08M57.00S,2,1610612757,POR,2592,Jones,J. Jones,0,0,0,,0,0.0,0.0,0,v,Jones S.FOUL (P1.T1),Foul,Shooting,0,134
+20700352,132,PT08M57.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,135
+20700352,135,PT08M57.00S,2,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,32.0,35.0,67,h,Iverson Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,136
+20700352,136,PT08M57.00S,2,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,33.0,35.0,68,h,Iverson Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,137
+20700352,137,PT08M41.00S,2,1610612757,POR,200750,Roy,B. Roy,-46,86,10,Missed,1,0.0,0.0,0,v,MISS Roy 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,138
+20700352,138,PT08M38.00S,2,1610612757,POR,2566,Outlaw,T. Outlaw,0,0,0,,0,0.0,0.0,0,v,Outlaw REBOUND (Off:1 Def:0),Rebound,Unknown,0,139
+20700352,139,PT08M36.00S,2,1610612757,POR,101127,Jack,J. Jack,0,0,0,,0,0.0,0.0,0,v,Jack Bad Pass Turnover (P3.T7),Turnover,Bad Pass,0,140
+20700352,139,PT08M36.00S,2,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,h,Iverson STEAL (3 STL),,,0,141
+20700352,140,PT08M33.00S,2,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,Made,1,35.0,35.0,70,h,Iverson  Layup (11 PTS),Made Shot,Layup Shot,0,142
+20700352,141,PT08M19.00S,2,1610612757,POR,101127,Jack,J. Jack,69,30,8,Made,1,35.0,37.0,72,v,Jack 8' Running Bank Shot (5 PTS),Made Shot,Running Bank shot,0,143
+20700352,142,PT08M10.00S,2,1610612743,DEN,947,Iverson,A. Iverson,59,63,9,Missed,1,0.0,0.0,0,h,MISS Iverson 9' Jump Shot,Missed Shot,Jump Shot,0,144
+20700352,143,PT08M09.00S,2,1610612757,POR,2592,Jones,J. Jones,0,0,0,,0,0.0,0.0,0,v,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,145
+20700352,144,PT07M58.00S,2,1610612757,POR,101127,Jack,J. Jack,0,0,0,Made,1,35.0,39.0,74,v,Jack  Driving Layup (7 PTS),Made Shot,Driving Layup Shot,0,146
+20700352,145,PT07M43.00S,2,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0.0,0.0,0,h,Kleiza Traveling Turnover (P2.T5),Turnover,Traveling,0,147
+20700352,146,PT07M28.00S,2,1610612757,POR,2566,Outlaw,T. Outlaw,0,0,0,Made,1,35.0,41.0,76,v,Outlaw  Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,0,148
+20700352,147,PT07M16.00S,2,1610612743,DEN,101132,Kleiza,L. Kleiza,-158,212,26,Missed,1,0.0,0.0,0,h,MISS Kleiza 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,149
+20700352,148,PT07M15.00S,2,1610612757,POR,2566,Outlaw,T. Outlaw,0,0,0,,0,0.0,0.0,0,v,Outlaw REBOUND (Off:1 Def:1),Rebound,Unknown,0,150
+20700352,149,PT07M08.00S,2,1610612757,POR,2592,Jones,J. Jones,241,5,24,Missed,1,0.0,0.0,0,v,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,151
+20700352,150,PT07M07.00S,2,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0.0,0.0,0,h,Kleiza REBOUND (Off:0 Def:2),Rebound,Unknown,0,152
+20700352,151,PT06M51.00S,2,1610612743,DEN,101132,Kleiza,L. Kleiza,-232,-3,0,Missed,1,0.0,0.0,0,h,MISS Kleiza  3PT Jump Shot,Missed Shot,Jump Shot,0,153
+20700352,152,PT06M50.00S,2,1610612757,POR,2566,Outlaw,T. Outlaw,0,0,0,,0,0.0,0.0,0,v,Outlaw REBOUND (Off:1 Def:2),Rebound,Unknown,0,154
+20700352,153,PT06M31.00S,2,1610612757,POR,200750,Roy,B. Roy,232,-3,0,Missed,1,0.0,0.0,0,v,MISS Roy  3PT Jump Shot,Missed Shot,Jump Shot,0,155
+20700352,154,PT06M30.00S,2,1610612757,POR,2592,Jones,J. Jones,0,0,0,,0,0.0,0.0,0,v,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,156
+20700352,155,PT06M30.00S,2,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0.0,0.0,0,h,Najera S.FOUL (P2.T2),Foul,Shooting,0,157
+20700352,156,PT06M30.00S,2,1610612757,POR,2592,Jones,J. Jones,0,0,0,,0,35.0,42.0,77,v,Jones Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,158
+20700352,157,PT06M30.00S,2,1610612757,POR,2592,Jones,J. Jones,0,0,0,,0,35.0,43.0,78,v,Jones Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,159
+20700352,158,PT06M15.00S,2,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,Missed,1,0.0,0.0,0,h,MISS Iverson  Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,0,160
+20700352,160,PT06M13.00S,2,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,161
+20700352,159,PT06M13.00S,2,1610612743,DEN,2030,Martin,K. Martin,0,0,0,Made,1,37.0,43.0,80,h,Martin  Putback Dunk (6 PTS),Made Shot,Putback Dunk Shot,0,162
+20700352,161,PT05M59.00S,2,1610612757,POR,101127,Jack,J. Jack,0,0,0,,0,0.0,0.0,0,v,Jack OFF.Foul (P1),Foul,Offensive,0,163
+20700352,162,PT05M59.00S,2,1610612757,POR,101127,Jack,J. Jack,0,0,0,,0,0.0,0.0,0,v,Jack Foul Turnover (P4.T8),Turnover,Foul,0,164
+20700352,163,PT05M59.00S,2,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,h,NUGGETS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,165
+20700352,165,PT05M59.00S,2,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,h,SUB: Anthony FOR Iverson,Substitution,,0,166
+20700352,166,PT05M59.00S,2,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0.0,0.0,0,v,SUB: Frye FOR Przybilla,Substitution,,0,167
+20700352,167,PT05M59.00S,2,1610612757,POR,101127,Jack,J. Jack,0,0,0,,0,0.0,0.0,0,v,SUB: Blake FOR Jack,Substitution,,0,168
+20700352,168,PT05M43.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,h,Anthony Bad Pass Turnover (P3.T6),Turnover,Bad Pass,0,169
+20700352,168,PT05M43.00S,2,1610612757,POR,2566,Outlaw,T. Outlaw,0,0,0,,0,0.0,0.0,0,v,Outlaw STEAL (1 STL),,,0,170
+20700352,169,PT05M34.00S,2,1610612757,POR,200750,Roy,B. Roy,169,20,17,Missed,1,0.0,0.0,0,v,MISS Roy 17' Jump Shot,Missed Shot,Jump Shot,0,171
+20700352,170,PT05M32.00S,2,1610612743,DEN,1853,Carter,A. Carter,0,0,0,,0,0.0,0.0,0,h,Carter REBOUND (Off:0 Def:1),Rebound,Unknown,0,172
+20700352,171,PT05M28.00S,2,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0.0,0.0,0,h,Kleiza OFF.Foul (P1),Foul,Offensive,0,173
+20700352,172,PT05M28.00S,2,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0.0,0.0,0,h,Kleiza Foul Turnover (P3.T7),Turnover,Foul,0,174
+20700352,173,PT05M09.00S,2,1610612757,POR,2566,Outlaw,T. Outlaw,-146,72,16,Made,1,37.0,45.0,82,v,Outlaw 16' Jump Shot (4 PTS),Made Shot,Jump Shot,0,175
+20700352,174,PT04M57.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,154,202,25,Missed,1,0.0,0.0,0,h,MISS Anthony 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,176
+20700352,175,PT04M56.00S,2,1610612757,POR,2592,Jones,J. Jones,0,0,0,,0,0.0,0.0,0,v,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,177
+20700352,176,PT04M49.00S,2,1610612757,POR,2581,Blake,S. Blake,0,0,0,,0,0.0,0.0,0,v,Blake OFF.Foul (P1),Foul,Offensive,0,178
+20700352,177,PT04M49.00S,2,1610612757,POR,2581,Blake,S. Blake,0,0,0,,0,0.0,0.0,0,v,Blake Foul Turnover (P2.T9),Turnover,Foul,0,179
+20700352,178,PT04M49.00S,2,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0.0,0.0,0,h,SUB: Iverson FOR Kleiza,Substitution,,0,180
+20700352,179,PT04M40.00S,2,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,h,Iverson Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,181
+20700352,179,PT04M40.00S,2,1610612757,POR,2581,Blake,S. Blake,0,0,0,,0,0.0,0.0,0,v,Blake STEAL (1 STL),,,0,182
+20700352,180,PT04M33.00S,2,1610612757,POR,200750,Roy,B. Roy,-174,-1,17,Missed,1,0.0,0.0,0,v,MISS Roy 17' Jump Shot,Missed Shot,Jump Shot,0,183
+20700352,181,PT04M31.00S,2,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,184
+20700352,182,PT04M22.00S,2,1610612743,DEN,947,Iverson,A. Iverson,10,110,11,Missed,1,0.0,0.0,0,h,MISS Iverson 11' Jump Shot,Missed Shot,Jump Shot,0,185
+20700352,183,PT04M21.00S,2,1610612757,POR,200750,Roy,B. Roy,0,0,0,,0,0.0,0.0,0,v,Roy REBOUND (Off:1 Def:1),Rebound,Unknown,0,186
+20700352,184,PT03M58.00S,2,1610612757,POR,2592,Jones,J. Jones,205,164,26,Missed,1,0.0,0.0,0,v,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,187
+20700352,185,PT03M57.00S,2,1610612757,POR,200750,Roy,B. Roy,0,0,0,,0,0.0,0.0,0,v,Roy REBOUND (Off:2 Def:1),Rebound,Unknown,0,188
+20700352,186,PT03M57.00S,2,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,v,Trail Blazers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,189
+20700352,188,PT03M57.00S,2,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0.0,0.0,0,h,SUB: Camby FOR Najera,Substitution,,0,190
+20700352,190,PT03M48.00S,2,1610612757,POR,101112,Frye,C. Frye,-38,194,20,Made,1,37.0,47.0,84,v,Frye 20' Jump Shot (16 PTS) (Roy 5 AST),Made Shot,Jump Shot,0,191
+20700352,191,PT03M28.00S,2,1610612743,DEN,1853,Carter,A. Carter,-159,99,19,Made,1,39.0,47.0,86,h,Carter 19' Jump Shot (4 PTS) (Iverson 4 AST),Made Shot,Jump Shot,0,192
+20700352,192,PT03M09.00S,2,1610612757,POR,101112,Frye,C. Frye,-102,171,20,Made,1,39.0,49.0,88,v,Frye 20' Jump Shot (18 PTS) (Roy 6 AST),Made Shot,Jump Shot,0,193
+20700352,193,PT02M52.00S,2,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin Traveling Turnover (P1.T9),Turnover,Traveling,0,194
+20700352,194,PT02M41.00S,2,1610612757,POR,200750,Roy,B. Roy,-161,125,20,Made,1,39.0,51.0,90,v,Roy 20' Jump Shot (7 PTS),Made Shot,Jump Shot,0,195
+20700352,195,PT02M27.00S,2,1610612743,DEN,1853,Carter,A. Carter,-172,120,21,Made,1,41.0,51.0,92,h,Carter 21' Jump Shot (6 PTS) (Camby 5 AST),Made Shot,Jump Shot,0,196
+20700352,196,PT02M11.00S,2,1610612757,POR,200750,Roy,B. Roy,131,171,22,Made,1,41.0,53.0,94,v,Roy 22' Jump Shot (9 PTS),Made Shot,Jump Shot,0,197
+20700352,197,PT01M52.00S,2,1610612743,DEN,2030,Martin,K. Martin,0,0,0,Made,1,43.0,53.0,96,h,Martin  Alley Oop Dunk (8 PTS) (Camby 6 AST),Made Shot,Alley Oop Dunk Shot,0,198
+20700352,198,PT01M35.00S,2,1610612757,POR,2566,Outlaw,T. Outlaw,0,0,0,,0,0.0,0.0,0,v,Outlaw Out of Bounds Lost Ball Turnover (P1.T10),Turnover,Out of Bounds Lost Ball Turnover,0,199
+20700352,199,PT01M29.00S,2,1610612743,DEN,2030,Martin,K. Martin,0,0,0,Made,1,45.0,53.0,98,h,Martin  Alley Oop Dunk (10 PTS) (Camby 7 AST),Made Shot,Alley Oop Dunk Shot,0,200
+20700352,200,PT01M04.00S,2,1610612757,POR,2581,Blake,S. Blake,-204,122,24,Made,1,45.0,56.0,101,v,Blake 24' 3PT Jump Shot (5 PTS) (Outlaw 2 AST),Made Shot,Jump Shot,0,201
+20700352,201,PT01M00.00S,2,1610612743,DEN,2030,Martin,K. Martin,0,0,0,Made,1,47.0,56.0,103,h,Martin  Alley Oop Dunk (12 PTS) (Carter 2 AST),Made Shot,Alley Oop Dunk Shot,0,202
+20700352,202,PT00M49.80S,2,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin S.FOUL (P2.T3),Foul,Shooting,0,203
+20700352,204,PT00M49.80S,2,1610612757,POR,2566,Outlaw,T. Outlaw,0,0,0,,0,47.0,57.0,104,v,Outlaw Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,204
+20700352,205,PT00M49.80S,2,1610612757,POR,2566,Outlaw,T. Outlaw,0,0,0,,0,47.0,58.0,105,v,Outlaw Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,205
+20700352,206,PT00M40.90S,2,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,h,Camby Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,206
+20700352,206,PT00M40.90S,2,1610612757,POR,2566,Outlaw,T. Outlaw,0,0,0,,0,0.0,0.0,0,v,Outlaw STEAL (2 STL),,,0,207
+20700352,207,PT00M35.60S,2,1610612757,POR,2592,Jones,J. Jones,-235,107,26,Made,1,47.0,61.0,108,v,Jones 26' 3PT Jump Shot (8 PTS) (Blake 1 AST),Made Shot,Jump Shot,0,208
+20700352,208,PT00M25.90S,2,1610612743,DEN,947,Iverson,A. Iverson,39,69,8,Made,1,49.0,61.0,110,h,Iverson 8' Running Jump Shot (13 PTS),Made Shot,Running Jump Shot,0,209
+20700352,209,PT00M25.90S,2,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,h,NUGGETS Violation: Delay of game Violation,Violation,Delay Of Game,0,210
+20700352,210,PT00M01.80S,2,1610612757,POR,200750,Roy,B. Roy,-199,146,25,Missed,1,0.0,0.0,0,v,MISS Roy 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,211
+20700352,212,PT00M00.90S,2,1610612743,DEN,1853,Carter,A. Carter,0,0,0,,0,0.0,0.0,0,h,Carter REBOUND (Off:0 Def:2),Rebound,Unknown,0,212
+20700352,218,PT00M00.20S,2,1610612743,DEN,1853,Carter,A. Carter,104,527,54,Missed,1,0.0,0.0,0,h,MISS Carter 54' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,0,213
+20700352,215,PT00M00.00S,2,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,h,NUGGETS Rebound,Rebound,Unknown,0,214
+20700352,216,PT00M00.00S,2,0,,0,,,0,0,0,,0,49.0,61.0,110,,End of 2nd Period (9:05 PM EST),period,end,0,215
+20700352,219,PT12M00.00S,3,0,,0,,,0,0,0,,0,49.0,61.0,110,,Start of 3rd Period (9:20 PM EST),period,start,0,216
+20700352,220,PT11M42.00S,3,1610612757,POR,200750,Roy,B. Roy,0,0,0,,0,0.0,0.0,0,v,Roy Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,217
+20700352,220,PT11M42.00S,3,1610612743,DEN,1853,Carter,A. Carter,0,0,0,,0,0.0,0.0,0,h,Carter STEAL (1 STL),,,0,218
+20700352,221,PT11M42.00S,3,1610612757,POR,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,v,Frye P.FOUL (P2.T1),Foul,Personal,0,219
+20700352,222,PT11M35.00S,3,1610612757,POR,200750,Roy,B. Roy,0,0,0,,0,0.0,0.0,0,v,Roy S.FOUL (P2.T2),Foul,Shooting,0,220
+20700352,223,PT11M35.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,h,MISS Anthony Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,221
+20700352,224,PT11M35.00S,3,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,h,NUGGETS Rebound,Rebound,Normal Rebound,0,222
+20700352,225,PT11M35.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,50.0,61.0,111,h,Anthony Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,223
+20700352,226,PT11M20.00S,3,1610612757,POR,101112,Frye,C. Frye,153,140,21,Missed,1,0.0,0.0,0,v,MISS Frye 21' Jump Shot,Missed Shot,Jump Shot,0,224
+20700352,227,PT11M18.00S,3,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,225
+20700352,228,PT11M12.00S,3,1610612743,DEN,2030,Martin,K. Martin,5,151,15,Made,1,52.0,61.0,113,h,Martin 15' Jump Shot (14 PTS) (Camby 8 AST),Made Shot,Jump Shot,0,226
+20700352,229,PT10M53.00S,3,1610612757,POR,200750,Roy,B. Roy,-3,99,10,Made,1,52.0,63.0,115,v,Roy 10' Turnaround Jump Shot (11 PTS),Made Shot,Turnaround Jump Shot,0,227
+20700352,230,PT10M42.00S,3,1610612743,DEN,948,Camby,M. Camby,-57,100,12,Missed,1,0.0,0.0,0,h,MISS Camby 12' Running Jump Shot,Missed Shot,Running Jump Shot,0,228
+20700352,231,PT10M39.00S,3,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0.0,0.0,0,v,Przybilla REBOUND (Off:4 Def:3),Rebound,Unknown,0,229
+20700352,232,PT10M15.00S,3,1610612757,POR,2581,Blake,S. Blake,102,40,11,Made,1,52.0,65.0,117,v,Blake 11' Running Bank Shot (7 PTS),Made Shot,Running Bank shot,0,230
+20700352,233,PT10M09.00S,3,1610612757,POR,101110,Webster,M. Webster,0,0,0,,0,0.0,0.0,0,v,Webster P.FOUL (P2.T3),Foul,Personal,0,231
+20700352,234,PT10M02.00S,3,1610612743,DEN,2030,Martin,K. Martin,16,158,16,Missed,1,0.0,0.0,0,h,MISS Martin 16' Jump Shot,Missed Shot,Jump Shot,0,232
+20700352,235,PT10M00.00S,3,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0.0,0.0,0,v,Przybilla REBOUND (Off:4 Def:4),Rebound,Unknown,0,233
+20700352,236,PT09M45.00S,3,1610612757,POR,101110,Webster,M. Webster,0,0,0,Missed,1,0.0,0.0,0,v,MISS Webster  Driving Layup,Missed Shot,Driving Layup Shot,0,234
+20700352,237,PT09M44.00S,3,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,235
+20700352,238,PT09M44.00S,3,1610612743,DEN,1853,Carter,A. Carter,0,0,0,,0,0.0,0.0,0,h,Carter L.B.FOUL (P3.T1),Foul,Loose Ball,0,236
+20700352,239,PT09M33.00S,3,1610612757,POR,200750,Roy,B. Roy,13,72,7,Missed,1,0.0,0.0,0,v,MISS Roy 7' Running Jump Shot,Missed Shot,Running Jump Shot,0,237
+20700352,239,PT09M33.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,h,Camby BLOCK (1 BLK),,,0,238
+20700352,240,PT09M32.00S,3,1610612757,POR,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,v,Frye REBOUND (Off:3 Def:3),Rebound,Unknown,0,239
+20700352,241,PT09M28.00S,3,1610612757,POR,101112,Frye,C. Frye,-2,58,6,Missed,1,0.0,0.0,0,v,MISS Frye 6' Jump Hook Shot,Missed Shot,Jump Hook Shot,0,240
+20700352,243,PT09M27.00S,3,1610612757,POR,200750,Roy,B. Roy,0,0,0,,0,0.0,0.0,0,v,Roy REBOUND (Off:3 Def:1),Rebound,Unknown,0,241
+20700352,242,PT09M27.00S,3,1610612757,POR,200750,Roy,B. Roy,0,0,0,Made,1,52.0,67.0,119,v,Roy  Tip Shot (13 PTS),Made Shot,Tip Shot,0,242
+20700352,244,PT09M11.00S,3,1610612743,DEN,948,Camby,M. Camby,26,148,15,Missed,1,0.0,0.0,0,h,MISS Camby 15' Jump Shot,Missed Shot,Jump Shot,0,243
+20700352,245,PT09M10.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,h,Anthony REBOUND (Off:1 Def:1),Rebound,Unknown,0,244
+20700352,246,PT09M08.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,h,Anthony OFF.Foul (P2),Foul,Offensive,0,245
+20700352,247,PT09M08.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,h,Anthony Foul Turnover (P4.T11),Turnover,Foul,0,246
+20700352,248,PT08M53.00S,3,1610612757,POR,101110,Webster,M. Webster,-145,112,18,Made,1,52.0,69.0,121,v,Webster 18' Jump Shot (2 PTS) (Frye 1 AST),Made Shot,Jump Shot,0,247
+20700352,249,PT08M49.00S,3,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,h,NUGGETS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,248
+20700352,253,PT08M40.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Missed,1,0.0,0.0,0,h,MISS Anthony  Driving Layup,Missed Shot,Driving Layup Shot,0,249
+20700352,253,PT08M40.00S,3,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0.0,0.0,0,v,Przybilla BLOCK (2 BLK),,,0,250
+20700352,254,PT08M38.00S,3,1610612757,POR,200750,Roy,B. Roy,0,0,0,,0,0.0,0.0,0,v,Roy REBOUND (Off:3 Def:2),Rebound,Unknown,0,251
+20700352,255,PT08M32.00S,3,1610612757,POR,2581,Blake,S. Blake,-209,123,24,Made,1,52.0,72.0,124,v,Blake 24' 3PT Jump Shot (10 PTS) (Roy 7 AST),Made Shot,Jump Shot,0,252
+20700352,256,PT08M14.00S,3,1610612743,DEN,1853,Carter,A. Carter,-41,169,17,Made,1,54.0,72.0,126,h,Carter 17' Jump Shot (8 PTS),Made Shot,Jump Shot,0,253
+20700352,257,PT08M14.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,h,Anthony L.B.FOUL (P3.T2),Foul,Loose Ball,0,254
+20700352,258,PT08M02.00S,3,1610612757,POR,200750,Roy,B. Roy,0,0,0,Missed,1,0.0,0.0,0,v,MISS Roy  Layup,Missed Shot,Layup Shot,0,255
+20700352,259,PT08M00.00S,3,1610612757,POR,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,v,Frye REBOUND (Off:4 Def:3),Rebound,Unknown,0,256
+20700352,261,PT07M53.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,h,Camby S.FOUL (P1.T3),Foul,Shooting,0,257
+20700352,263,PT07M53.00S,3,1610612757,POR,200750,Roy,B. Roy,0,0,0,,0,54.0,73.0,127,v,Roy Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,258
+20700352,264,PT07M53.00S,3,1610612757,POR,200750,Roy,B. Roy,0,0,0,,0,54.0,74.0,128,v,Roy Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,259
+20700352,265,PT07M41.00S,3,1610612743,DEN,1853,Carter,A. Carter,159,105,19,Missed,1,0.0,0.0,0,h,MISS Carter 19' Jump Shot,Missed Shot,Jump Shot,0,260
+20700352,266,PT07M39.00S,3,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0.0,0.0,0,v,Przybilla REBOUND (Off:4 Def:5),Rebound,Unknown,0,261
+20700352,267,PT07M19.00S,3,1610612757,POR,200750,Roy,B. Roy,167,132,21,Made,1,54.0,76.0,130,v,Roy 21' Jump Shot (17 PTS),Made Shot,Jump Shot,0,262
+20700352,268,PT07M01.00S,3,1610612743,DEN,2030,Martin,K. Martin,-48,94,11,Missed,1,0.0,0.0,0,h,MISS Martin 11' Running Jump Shot,Missed Shot,Running Jump Shot,0,263
+20700352,269,PT07M00.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,h,Camby REBOUND (Off:2 Def:2),Rebound,Unknown,0,264
+20700352,270,PT06M58.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,Made,1,56.0,76.0,132,h,Camby  Layup (4 PTS),Made Shot,Layup Shot,0,265
+20700352,271,PT06M54.00S,3,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,h,NUGGETS Foul,Foul,Delay Technical,0,266
+20700352,272,PT06M54.00S,3,1610612757,POR,101110,Webster,M. Webster,0,0,0,,0,56.0,77.0,133,v,Webster Free Throw Technical (3 PTS),Free Throw,Free Throw Technical,0,267
+20700352,273,PT06M54.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,h,SUB: Najera FOR Camby,Substitution,,0,268
+20700352,274,PT06M34.00S,3,1610612757,POR,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,v,Frye Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,269
+20700352,274,PT06M34.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,h,Anthony STEAL (2 STL),,,0,270
+20700352,275,PT06M31.00S,3,1610612757,POR,2581,Blake,S. Blake,0,0,0,,0,0.0,0.0,0,v,Blake S.FOUL (P2.T4),Foul,Shooting,0,271
+20700352,276,PT06M31.00S,3,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,57.0,77.0,134,h,Iverson Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,272
+20700352,277,PT06M31.00S,3,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,58.0,77.0,135,h,Iverson Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,273
+20700352,278,PT06M17.00S,3,1610612743,DEN,1853,Carter,A. Carter,0,0,0,,0,0.0,0.0,0,h,Carter P.FOUL (P4.T4),Foul,Personal,0,274
+20700352,279,PT06M17.00S,3,1610612743,DEN,1853,Carter,A. Carter,0,0,0,,0,0.0,0.0,0,h,SUB: Kleiza FOR Carter,Substitution,,0,275
+20700352,280,PT06M08.00S,3,1610612757,POR,200750,Roy,B. Roy,-194,31,20,Made,1,58.0,79.0,137,v,Roy 20' Fadeaway Jumper (19 PTS),Made Shot,Fadeaway Jump Shot,0,276
+20700352,281,PT05M53.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,56,38,7,Made,1,60.0,79.0,139,h,Anthony 7' Turnaround Jump Shot (9 PTS) (Martin 1 AST),Made Shot,Turnaround Jump Shot,0,277
+20700352,282,PT05M32.00S,3,1610612757,POR,200750,Roy,B. Roy,89,53,10,Missed,1,0.0,0.0,0,v,MISS Roy 10' Jump Shot,Missed Shot,Jump Shot,0,278
+20700352,283,PT05M32.00S,3,1610612757,POR,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,v,Frye REBOUND (Off:5 Def:3),Rebound,Unknown,0,279
+20700352,284,PT05M32.00S,3,1610612757,POR,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,v,Frye Step Out of Bounds Turnover (P2.T13),Turnover,Step Out of Bounds Turnover,0,280
+20700352,285,PT05M16.00S,3,1610612757,POR,2581,Blake,S. Blake,0,0,0,,0,0.0,0.0,0,v,Blake P.FOUL (P3.PN),Foul,Personal,0,281
+20700352,286,PT05M16.00S,3,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,61.0,79.0,140,h,Iverson Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,282
+20700352,287,PT05M16.00S,3,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,62.0,79.0,141,h,Iverson Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,283
+20700352,288,PT05M10.00S,3,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,v,Trail Blazers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,284
+20700352,292,PT04M58.00S,3,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0.0,0.0,0,h,Najera S.FOUL (P3.PN),Foul,Shooting,0,285
+20700352,293,PT04M58.00S,3,1610612757,POR,200750,Roy,B. Roy,0,0,0,,0,0.0,0.0,0,v,MISS Roy Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,286
+20700352,294,PT04M58.00S,3,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,v,Trail Blazers Rebound,Rebound,Normal Rebound,0,287
+20700352,295,PT04M58.00S,3,1610612757,POR,200750,Roy,B. Roy,0,0,0,,0,62.0,80.0,142,v,Roy Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,288
+20700352,296,PT04M40.00S,3,1610612743,DEN,947,Iverson,A. Iverson,-184,171,25,Made,1,65.0,80.0,145,h,Iverson 25' 3PT Jump Shot (20 PTS) (Najera 1 AST),Made Shot,Jump Shot,0,289
+20700352,297,PT04M19.00S,3,1610612757,POR,101112,Frye,C. Frye,135,26,14,Made,1,65.0,82.0,147,v,Frye 14' Turnaround Jump Shot (20 PTS) (Blake 2 AST),Made Shot,Turnaround Jump Shot,0,290
+20700352,298,PT04M11.00S,3,1610612757,POR,2581,Blake,S. Blake,0,0,0,,0,0.0,0.0,0,v,Blake S.FOUL (P4.PN),Foul,Shooting,0,291
+20700352,299,PT04M11.00S,3,1610612757,POR,101110,Webster,M. Webster,0,0,0,,0,0.0,0.0,0,v,SUB: Jones FOR Webster,Substitution,,0,292
+20700352,300,PT04M11.00S,3,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,66.0,82.0,148,h,Iverson Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,293
+20700352,302,PT04M11.00S,3,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0.0,0.0,0,v,SUB: LaFrentz FOR Przybilla,Substitution,,0,294
+20700352,303,PT04M11.00S,3,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,h,MISS Iverson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,295
+20700352,304,PT04M09.00S,3,1610612757,POR,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,v,Frye REBOUND (Off:5 Def:4),Rebound,Unknown,0,296
+20700352,305,PT03M57.00S,3,1610612757,POR,1711,LaFrentz,R. LaFrentz,-115,120,17,Missed,1,0.0,0.0,0,v,MISS LaFrentz 17' Jump Shot,Missed Shot,Jump Shot,0,297
+20700352,306,PT03M56.00S,3,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin REBOUND (Off:1 Def:4),Rebound,Unknown,0,298
+20700352,307,PT03M50.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,217,127,25,Made,1,69.0,82.0,151,h,Anthony 25' 3PT Jump Shot (12 PTS) (Iverson 5 AST),Made Shot,Jump Shot,0,299
+20700352,308,PT03M23.00S,3,1610612757,POR,2581,Blake,S. Blake,-163,189,25,Missed,1,0.0,0.0,0,v,MISS Blake 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,300
+20700352,309,PT03M21.00S,3,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0.0,0.0,0,h,Kleiza REBOUND (Off:0 Def:3),Rebound,Unknown,0,301
+20700352,310,PT03M11.00S,3,1610612757,POR,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,v,Frye P.FOUL (P3.PN),Foul,Personal,0,302
+20700352,311,PT03M11.00S,3,1610612757,POR,2581,Blake,S. Blake,0,0,0,,0,0.0,0.0,0,v,SUB: Jack FOR Blake,Substitution,,0,303
+20700352,312,PT03M11.00S,3,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,h,MISS Iverson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,304
+20700352,313,PT03M11.00S,3,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,h,NUGGETS Rebound,Rebound,Normal Rebound,0,305
+20700352,314,PT03M11.00S,3,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,70.0,82.0,152,h,Iverson Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,306
+20700352,316,PT02M54.00S,3,1610612757,POR,200750,Roy,B. Roy,-3,100,10,Made,1,70.0,84.0,154,v,Roy 10' Jump Shot (22 PTS),Made Shot,Jump Shot,0,307
+20700352,317,PT02M38.00S,3,1610612743,DEN,947,Iverson,A. Iverson,-205,191,28,Missed,1,0.0,0.0,0,h,MISS Iverson 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,308
+20700352,318,PT02M38.00S,3,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,h,NUGGETS Rebound,Rebound,Unknown,0,309
+20700352,319,PT02M38.00S,3,1610612757,POR,2592,Jones,J. Jones,0,0,0,,0,0.0,0.0,0,v,Jones L.B.FOUL (P2.PN),Foul,Loose Ball,0,310
+20700352,320,PT02M38.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,h,MISS Anthony Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,311
+20700352,321,PT02M38.00S,3,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,h,NUGGETS Rebound,Rebound,Normal Rebound,0,312
+20700352,322,PT02M38.00S,3,1610612757,POR,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,v,SUB: Outlaw FOR Frye,Substitution,,0,313
+20700352,323,PT02M38.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,71.0,84.0,155,h,Anthony Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,314
+20700352,324,PT02M20.00S,3,1610612757,POR,2566,Outlaw,T. Outlaw,112,135,18,Made,1,71.0,86.0,157,v,Outlaw 18' Turnaround Jump Shot (8 PTS),Made Shot,Turnaround Jump Shot,0,315
+20700352,325,PT02M12.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,184,158,24,Missed,1,0.0,0.0,0,h,MISS Anthony 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,316
+20700352,326,PT02M11.00S,3,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Jump Ball Martin vs. Outlaw: Tip to Kleiza,Jump Ball,,0,317
+20700352,327,PT02M11.00S,3,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,h,NUGGETS Rebound,Rebound,Unknown,0,318
+20700352,328,PT01M58.00S,3,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,h,Iverson Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,319
+20700352,328,PT01M58.00S,3,1610612757,POR,200750,Roy,B. Roy,0,0,0,,0,0.0,0.0,0,v,Roy STEAL (1 STL),,,0,320
+20700352,329,PT01M44.00S,3,1610612757,POR,2566,Outlaw,T. Outlaw,8,160,16,Made,1,71.0,88.0,159,v,Outlaw 16' Jump Shot (10 PTS),Made Shot,Jump Shot,0,321
+20700352,330,PT01M33.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,-75,247,26,Missed,1,0.0,0.0,0,h,MISS Anthony 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,322
+20700352,331,PT01M31.00S,3,1610612757,POR,2592,Jones,J. Jones,0,0,0,,0,0.0,0.0,0,v,Jones REBOUND (Off:1 Def:3),Rebound,Unknown,0,323
+20700352,332,PT01M12.00S,3,1610612757,POR,200750,Roy,B. Roy,44,164,17,Missed,1,0.0,0.0,0,v,MISS Roy 17' Jump Shot,Missed Shot,Jump Shot,0,324
+20700352,333,PT01M11.00S,3,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,h,Iverson REBOUND (Off:0 Def:2),Rebound,Unknown,0,325
+20700352,334,PT01M08.00S,3,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,h,Iverson Lost Ball Turnover (P3.T13),Turnover,Lost Ball,0,326
+20700352,334,PT01M08.00S,3,1610612757,POR,101127,Jack,J. Jack,0,0,0,,0,0.0,0.0,0,v,Jack STEAL (1 STL),,,0,327
+20700352,335,PT01M03.00S,3,1610612757,POR,1711,LaFrentz,R. LaFrentz,0,0,0,Made,1,71.0,90.0,161,v,LaFrentz  Layup (2 PTS) (Jack 3 AST),Made Shot,Layup Shot,0,328
+20700352,336,PT00M56.30S,3,1610612743,DEN,2030,Martin,K. Martin,-67,22,7,Missed,1,0.0,0.0,0,h,MISS Martin 7' Jump Hook Shot,Missed Shot,Jump Hook Shot,0,329
+20700352,338,PT00M56.30S,3,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0.0,0.0,0,h,Kleiza REBOUND (Off:1 Def:3),Rebound,Unknown,0,330
+20700352,337,PT00M56.30S,3,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,Made,1,73.0,90.0,163,h,Kleiza  Putback Dunk (3 PTS),Made Shot,Putback Dunk Shot,0,331
+20700352,339,PT00M36.90S,3,1610612757,POR,2566,Outlaw,T. Outlaw,13,174,17,Missed,1,0.0,0.0,0,v,MISS Outlaw 17' Jump Shot,Missed Shot,Jump Shot,0,332
+20700352,339,PT00M36.90S,3,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin BLOCK (2 BLK),,,0,333
+20700352,340,PT00M34.70S,3,1610612757,POR,2566,Outlaw,T. Outlaw,0,0,0,,0,0.0,0.0,0,v,Outlaw REBOUND (Off:2 Def:2),Rebound,Unknown,0,334
+20700352,341,PT00M32.40S,3,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0.0,0.0,0,h,Najera S.FOUL (P4.PN),Foul,Shooting,0,335
+20700352,342,PT00M32.40S,3,1610612757,POR,101127,Jack,J. Jack,0,0,0,,0,73.0,91.0,164,v,Jack Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,336
+20700352,343,PT00M32.40S,3,1610612757,POR,101127,Jack,J. Jack,0,0,0,,0,73.0,92.0,165,v,Jack Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,337
+20700352,345,PT00M22.90S,3,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,Missed,1,0.0,0.0,0,h,MISS Kleiza  Driving Layup,Missed Shot,Driving Layup Shot,0,338
+20700352,346,PT00M20.90S,3,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0.0,0.0,0,h,Najera REBOUND (Off:2 Def:0),Rebound,Unknown,0,339
+20700352,347,PT00M04.80S,3,1610612743,DEN,947,Iverson,A. Iverson,-48,79,9,Missed,1,0.0,0.0,0,h,MISS Iverson 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,340
+20700352,348,PT00M02.70S,3,1610612757,POR,2592,Jones,J. Jones,0,0,0,,0,0.0,0.0,0,v,Jones REBOUND (Off:1 Def:4),Rebound,Unknown,0,341
+20700352,349,PT00M00.40S,3,1610612757,POR,200750,Roy,B. Roy,161,322,36,Missed,1,0.0,0.0,0,v,MISS Roy 36' 3PT Jump Shot,Missed Shot,Jump Shot,0,342
+20700352,349,PT00M00.40S,3,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin BLOCK (3 BLK),,,0,343
+20700352,350,PT00M00.00S,3,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,344
+20700352,351,PT00M00.00S,3,0,,0,,,0,0,0,,0,73.0,92.0,165,,End of 3rd Period (9:48 PM EST),period,end,0,345
+20700352,353,PT12M00.00S,4,0,,0,,,0,0,0,,0,73.0,92.0,165,,Start of 4th Period (9:51 PM EST),period,start,0,346
+20700352,354,PT11M44.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,141,146,20,Missed,1,0.0,0.0,0,h,MISS Anthony 20' Jump Shot,Missed Shot,Jump Shot,0,347
+20700352,355,PT11M43.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,h,Camby REBOUND (Off:3 Def:2),Rebound,Unknown,0,348
+20700352,356,PT11M39.00S,4,1610612743,DEN,947,Iverson,A. Iverson,-189,79,20,Made,1,75.0,92.0,167,h,Iverson 20' Jump Shot (24 PTS) (Camby 9 AST),Made Shot,Jump Shot,0,349
+20700352,357,PT11M18.00S,4,1610612757,POR,101127,Jack,J. Jack,0,0,0,Missed,1,0.0,0.0,0,v,MISS Jack  Reverse Layup,Missed Shot,Reverse Layup Shot,0,350
+20700352,357,PT11M18.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,h,Camby BLOCK (2 BLK),,,0,351
+20700352,358,PT11M16.00S,4,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0.0,0.0,0,h,Najera REBOUND (Off:2 Def:1),Rebound,Unknown,0,352
+20700352,359,PT11M07.00S,4,1610612743,DEN,2059,Najera,E. Najera,-184,186,26,Missed,1,0.0,0.0,0,h,MISS Najera 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,353
+20700352,360,PT11M07.00S,4,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,h,NUGGETS Rebound,Rebound,Unknown,0,354
+20700352,361,PT11M07.00S,4,1610612757,POR,2592,Jones,J. Jones,0,0,0,,0,0.0,0.0,0,v,Jones L.B.FOUL (P3.T1),Foul,Loose Ball,0,355
+20700352,362,PT11M07.00S,4,1610612757,POR,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,v,SUB: Przybilla FOR LaFrentz,Substitution,,0,356
+20700352,363,PT10M58.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Missed,1,0.0,0.0,0,h,MISS Anthony  Layup,Missed Shot,Layup Shot,0,357
+20700352,363,PT10M58.00S,4,1610612757,POR,2566,Outlaw,T. Outlaw,0,0,0,,0,0.0,0.0,0,v,Outlaw BLOCK (1 BLK),,,0,358
+20700352,365,PT10M57.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,h,Anthony REBOUND (Off:2 Def:1),Rebound,Unknown,0,359
+20700352,364,PT10M57.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Missed,1,0.0,0.0,0,h,MISS Anthony  Tip Shot,Missed Shot,Tip Shot,0,360
+20700352,366,PT10M54.00S,4,1610612757,POR,2566,Outlaw,T. Outlaw,0,0,0,,0,0.0,0.0,0,v,Outlaw REBOUND (Off:2 Def:3),Rebound,Unknown,0,361
+20700352,367,PT10M37.00S,4,1610612757,POR,2566,Outlaw,T. Outlaw,0,0,0,Made,1,75.0,94.0,169,v,Outlaw  Reverse Layup (12 PTS) (Jack 4 AST),Made Shot,Reverse Layup Shot,0,362
+20700352,368,PT10M24.00S,4,1610612743,DEN,947,Iverson,A. Iverson,6,64,6,Made,1,77.0,94.0,171,h,Iverson 6' Running Jump Shot (26 PTS),Made Shot,Running Jump Shot,0,363
+20700352,369,PT10M24.00S,4,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0.0,0.0,0,v,Przybilla S.FOUL (P2.T2),Foul,Shooting,0,364
+20700352,370,PT10M24.00S,4,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,78.0,94.0,172,h,Iverson Free Throw 1 of 1 (27 PTS),Free Throw,Free Throw 1 of 1,0,365
+20700352,371,PT10M01.00S,4,1610612757,POR,200771,Rodriguez,S. Rodriguez,-168,69,18,Made,1,78.0,96.0,174,v,Rodriguez 18' Jump Shot (6 PTS) (Jack 5 AST),Made Shot,Jump Shot,0,366
+20700352,372,PT09M46.00S,4,1610612743,DEN,947,Iverson,A. Iverson,177,168,24,Missed,1,0.0,0.0,0,h,MISS Iverson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,367
+20700352,373,PT09M45.00S,4,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,368
+20700352,374,PT09M45.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,h,Camby L.B.FOUL (P2.T1),Foul,Loose Ball,0,369
+20700352,375,PT09M27.00S,4,1610612757,POR,2566,Outlaw,T. Outlaw,0,0,0,,0,0.0,0.0,0,v,Outlaw Lost Ball Turnover (P2.T14),Turnover,Lost Ball,0,370
+20700352,375,PT09M27.00S,4,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0.0,0.0,0,h,Najera STEAL (1 STL),,,0,371
+20700352,376,PT09M27.00S,4,1610612757,POR,200771,Rodriguez,S. Rodriguez,0,0,0,,0,0.0,0.0,0,v,Rodriguez P.FOUL (P2.T3),Foul,Personal,0,372
+20700352,377,PT09M20.00S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,Missed,1,0.0,0.0,0,h,MISS Kleiza  Driving Layup,Missed Shot,Driving Layup Shot,0,373
+20700352,377,PT09M20.00S,4,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0.0,0.0,0,v,Przybilla BLOCK (3 BLK),,,0,374
+20700352,378,PT09M20.00S,4,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,h,NUGGETS Rebound,Rebound,Unknown,0,375
+20700352,379,PT09M20.00S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0.0,0.0,0,h,Kleiza T.FOUL (P1.T1),Foul,Technical,0,376
+20700352,380,PT09M20.00S,4,1610612757,POR,2592,Jones,J. Jones,0,0,0,,0,78.0,97.0,175,v,Jones Free Throw Technical (9 PTS),Free Throw,Free Throw Technical,0,377
+20700352,381,PT09M12.00S,4,1610612757,POR,200771,Rodriguez,S. Rodriguez,0,0,0,,0,0.0,0.0,0,v,Rodriguez P.FOUL (P3.T4),Foul,Personal,0,378
+20700352,382,PT09M08.00S,4,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,Made,1,80.0,97.0,177,h,Iverson  Driving Finger Roll Layup (29 PTS) (Anthony 2 AST),Made Shot,Driving Finger Roll Layup Shot,0,379
+20700352,383,PT08M54.00S,4,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0.0,0.0,0,h,Najera S.FOUL (P5.T2),Foul,Shooting,0,380
+20700352,385,PT08M54.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,381
+20700352,388,PT08M54.00S,4,1610612757,POR,101127,Jack,J. Jack,0,0,0,,0,0.0,0.0,0,v,MISS Jack Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,382
+20700352,389,PT08M54.00S,4,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,v,Trail Blazers Rebound,Rebound,Normal Rebound,0,383
+20700352,390,PT08M54.00S,4,1610612757,POR,101127,Jack,J. Jack,0,0,0,,0,80.0,98.0,178,v,Jack Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,384
+20700352,391,PT08M39.00S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,232,10,0,Made,1,83.0,98.0,181,h,Kleiza  3PT Jump Shot (6 PTS) (Anthony 3 AST),Made Shot,Jump Shot,0,385
+20700352,392,PT08M12.00S,4,1610612757,POR,101127,Jack,J. Jack,-141,161,21,Missed,1,0.0,0.0,0,v,MISS Jack 21' Jump Shot,Missed Shot,Jump Shot,0,386
+20700352,393,PT08M10.00S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0.0,0.0,0,h,Kleiza REBOUND (Off:1 Def:4),Rebound,Unknown,0,387
+20700352,394,PT08M09.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,h,Anthony Out of Bounds Lost Ball Turnover (P5.T14),Turnover,Out of Bounds Lost Ball Turnover,0,388
+20700352,395,PT08M09.00S,4,1610612757,POR,101127,Jack,J. Jack,0,0,0,,0,0.0,0.0,0,v,SUB: Roy FOR Jack,Substitution,,0,389
+20700352,396,PT08M09.00S,4,1610612757,POR,200771,Rodriguez,S. Rodriguez,0,0,0,,0,0.0,0.0,0,v,SUB: Blake FOR Rodriguez,Substitution,,0,390
+20700352,397,PT07M51.00S,4,1610612757,POR,2592,Jones,J. Jones,-232,28,0,Made,1,83.0,101.0,184,v,Jones  3PT Jump Shot (12 PTS) (Roy 8 AST),Made Shot,Jump Shot,0,391
+20700352,398,PT07M32.00S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,-197,150,25,Made,1,86.0,101.0,187,h,Kleiza 25' 3PT Jump Shot (9 PTS) (Najera 2 AST),Made Shot,Jump Shot,0,392
+20700352,399,PT07M10.00S,4,1610612757,POR,200750,Roy,B. Roy,126,183,22,Missed,1,0.0,0.0,0,v,MISS Roy 22' Jump Shot,Missed Shot,Jump Shot,0,393
+20700352,400,PT07M09.00S,4,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0.0,0.0,0,h,Najera REBOUND (Off:2 Def:2),Rebound,Unknown,0,394
+20700352,401,PT07M05.00S,4,1610612757,POR,200750,Roy,B. Roy,0,0,0,,0,0.0,0.0,0,v,Roy S.FOUL (P3.PN),Foul,Shooting,0,395
+20700352,402,PT07M05.00S,4,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0.0,0.0,0,h,SUB: Martin FOR Najera,Substitution,,0,396
+20700352,403,PT07M05.00S,4,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,87.0,101.0,188,h,Iverson Free Throw 1 of 2 (30 PTS),Free Throw,Free Throw 1 of 2,0,397
+20700352,404,PT07M05.00S,4,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,88.0,101.0,189,h,Iverson Free Throw 2 of 2 (31 PTS),Free Throw,Free Throw 2 of 2,0,398
+20700352,405,PT06M53.00S,4,1610612757,POR,2581,Blake,S. Blake,0,0,0,Made,1,88.0,103.0,191,v,Blake  Layup (12 PTS) (Roy 9 AST),Made Shot,Layup Shot,0,399
+20700352,406,PT06M39.00S,4,1610612743,DEN,947,Iverson,A. Iverson,66,237,25,Made,1,91.0,103.0,194,h,Iverson 25' 3PT Jump Shot (34 PTS) (Martin 2 AST),Made Shot,Jump Shot,0,400
+20700352,407,PT06M21.00S,4,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin P.FOUL (P3.T3),Foul,Personal,0,401
+20700352,408,PT06M13.00S,4,1610612757,POR,2566,Outlaw,T. Outlaw,-99,146,18,Missed,1,0.0,0.0,0,v,MISS Outlaw 18' Jump Shot,Missed Shot,Jump Shot,0,402
+20700352,410,PT06M10.00S,4,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0.0,0.0,0,v,Przybilla REBOUND (Off:5 Def:5),Rebound,Unknown,0,403
+20700352,409,PT06M10.00S,4,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,Made,1,91.0,105.0,196,v,Przybilla  Tip Shot (6 PTS),Made Shot,Tip Shot,0,404
+20700352,411,PT06M03.00S,4,1610612757,POR,2581,Blake,S. Blake,0,0,0,,0,0.0,0.0,0,v,Blake S.FOUL (P5.PN),Foul,Shooting,0,405
+20700352,412,PT06M03.00S,4,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,92.0,105.0,197,h,Iverson Free Throw 1 of 2 (35 PTS),Free Throw,Free Throw 1 of 2,0,406
+20700352,413,PT06M03.00S,4,1610612757,POR,2581,Blake,S. Blake,0,0,0,,0,0.0,0.0,0,v,SUB: Jack FOR Blake,Substitution,,0,407
+20700352,414,PT06M03.00S,4,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,93.0,105.0,198,h,Iverson Free Throw 2 of 2 (36 PTS),Free Throw,Free Throw 2 of 2,0,408
+20700352,415,PT05M51.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,h,Camby P.FOUL (P3.T4),Foul,Personal,0,409
+20700352,416,PT05M51.00S,4,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,h,NUGGETS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,410
+20700352,420,PT05M36.00S,4,1610612757,POR,2566,Outlaw,T. Outlaw,186,7,19,Made,1,93.0,107.0,200,v,Outlaw 19' Jump Shot (14 PTS) (Roy 10 AST),Made Shot,Jump Shot,0,411
+20700352,421,PT05M20.00S,4,1610612743,DEN,947,Iverson,A. Iverson,-10,76,8,Missed,1,0.0,0.0,0,h,MISS Iverson 8' Jump Shot,Missed Shot,Jump Shot,0,412
+20700352,422,PT05M19.00S,4,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,413
+20700352,424,PT04M56.00S,4,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,Missed,1,0.0,0.0,0,v,MISS Przybilla  Layup,Missed Shot,Layup Shot,0,414
+20700352,424,PT04M56.00S,4,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin BLOCK (4 BLK),,,0,415
+20700352,425,PT04M56.00S,4,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,416
+20700352,426,PT04M54.00S,4,1610612757,POR,2566,Outlaw,T. Outlaw,-166,22,17,Missed,1,0.0,0.0,0,v,MISS Outlaw 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,417
+20700352,426,PT04M54.00S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0.0,0.0,0,h,Kleiza BLOCK (1 BLK),,,0,418
+20700352,427,PT04M54.00S,4,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,419
+20700352,428,PT04M54.00S,4,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,v,Trail Blazers Turnover: Shot Clock (T#15),Turnover,Shot Clock Turnover,0,420
+20700352,429,PT04M45.00S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,0,69,7,Missed,1,0.0,0.0,0,h,MISS Kleiza 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,421
+20700352,430,PT04M43.00S,4,1610612757,POR,2592,Jones,J. Jones,0,0,0,,0,0.0,0.0,0,v,Jones REBOUND (Off:1 Def:5),Rebound,Unknown,0,422
+20700352,432,PT04M27.00S,4,1610612757,POR,200750,Roy,B. Roy,0,0,0,Made,1,93.0,109.0,202,v,Roy  Driving Layup (24 PTS),Made Shot,Driving Layup Shot,0,423
+20700352,433,PT04M11.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,144,206,25,Made,1,96.0,109.0,205,h,Anthony 25' 3PT Jump Shot (16 PTS) (Martin 3 AST),Made Shot,Jump Shot,0,424
+20700352,434,PT03M47.00S,4,1610612757,POR,200750,Roy,B. Roy,0,0,0,Made,1,96.0,111.0,207,v,Roy  Driving Layup (26 PTS),Made Shot,Driving Layup Shot,0,425
+20700352,435,PT03M33.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,136,207,25,Missed,1,0.0,0.0,0,h,MISS Anthony 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,426
+20700352,436,PT03M32.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,h,Camby REBOUND (Off:4 Def:2),Rebound,Unknown,0,427
+20700352,437,PT03M29.00S,4,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0.0,0.0,0,v,Przybilla S.FOUL (P3.PN),Foul,Shooting,0,428
+20700352,438,PT03M29.00S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0.0,0.0,0,h,SUB: Carter FOR Kleiza,Substitution,,0,429
+20700352,439,PT03M29.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,97.0,111.0,208,h,Anthony Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,430
+20700352,440,PT03M29.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,h,MISS Anthony Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,431
+20700352,441,PT03M26.00S,4,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0.0,0.0,0,v,Przybilla REBOUND (Off:5 Def:6),Rebound,Unknown,0,432
+20700352,442,PT03M05.00S,4,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,Missed,1,0.0,0.0,0,v,MISS Przybilla  Layup,Missed Shot,Layup Shot,0,433
+20700352,444,PT03M03.00S,4,1610612757,POR,2592,Jones,J. Jones,0,0,0,,0,0.0,0.0,0,v,Jones REBOUND (Off:2 Def:5),Rebound,Unknown,0,434
+20700352,443,PT03M03.00S,4,1610612757,POR,2592,Jones,J. Jones,0,0,0,Made,1,97.0,113.0,210,v,Jones  Tip Shot (14 PTS),Made Shot,Tip Shot,0,435
+20700352,445,PT02M52.00S,4,1610612743,DEN,947,Iverson,A. Iverson,15,59,6,Missed,1,0.0,0.0,0,h,MISS Iverson 6' Jump Shot,Missed Shot,Jump Shot,0,436
+20700352,446,PT02M51.00S,4,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,v,Trail Blazers Rebound,Rebound,Unknown,0,437
+20700352,447,PT02M51.00S,4,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,v,Trail Blazers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,438
+20700352,451,PT02M26.00S,4,1610612757,POR,2566,Outlaw,T. Outlaw,156,15,16,Made,1,97.0,115.0,212,v,Outlaw 16' Jump Shot (16 PTS) (Roy 11 AST),Made Shot,Jump Shot,0,439
+20700352,452,PT02M10.00S,4,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,Made,1,99.0,115.0,214,h,Iverson  Driving Layup (38 PTS),Made Shot,Driving Layup Shot,0,440
+20700352,453,PT01M51.00S,4,1610612757,POR,2566,Outlaw,T. Outlaw,-29,158,16,Missed,1,0.0,0.0,0,v,MISS Outlaw 16' Jump Shot,Missed Shot,Jump Shot,0,441
+20700352,454,PT01M50.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,h,Anthony REBOUND (Off:2 Def:2),Rebound,Unknown,0,442
+20700352,455,PT01M43.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,101.0,115.0,216,h,Anthony  Dunk (19 PTS) (Iverson 6 AST),Made Shot,Dunk Shot,0,443
+20700352,456,PT01M21.00S,4,1610612757,POR,2566,Outlaw,T. Outlaw,46,63,8,Missed,1,0.0,0.0,0,v,MISS Outlaw 8' Jump Shot,Missed Shot,Jump Shot,0,444
+20700352,456,PT01M21.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,h,Anthony BLOCK (1 BLK),,,0,445
+20700352,457,PT01M19.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,h,Camby REBOUND (Off:4 Def:3),Rebound,Unknown,0,446
+20700352,461,PT01M19.00S,4,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,h,SUB: Jones FOR Iverson,Substitution,,0,447
+20700352,458,PT01M19.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,h,SUB: McCoy FOR Anthony,Substitution,,0,448
+20700352,460,PT01M19.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,h,SUB: Diawara FOR Camby,Substitution,,0,449
+20700352,459,PT01M19.00S,4,1610612743,DEN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,SUB: Kleiza FOR Martin,Substitution,,0,450
+20700352,462,PT01M08.00S,4,1610612743,DEN,200784,Jones,B. Jones,0,0,0,Made,1,103.0,115.0,218,h,Jones  Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,0,451
+20700352,463,PT00M53.90S,4,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,v,Trail Blazers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,452
+20700352,465,PT00M53.90S,4,1610612757,POR,2038,Przybilla,J. Przybilla,0,0,0,,0,0.0,0.0,0,v,SUB: Blake FOR Przybilla,Substitution,,0,453
+20700352,466,PT00M48.60S,4,1610612743,DEN,200784,Jones,B. Jones,0,0,0,,0,0.0,0.0,0,h,Jones S.FOUL (P1.PN),Foul,Shooting,0,454
+20700352,467,PT00M48.60S,4,1610612757,POR,2566,Outlaw,T. Outlaw,0,0,0,,0,103.0,116.0,219,v,Outlaw Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,455
+20700352,468,PT00M48.60S,4,1610612757,POR,2566,Outlaw,T. Outlaw,0,0,0,,0,0.0,0.0,0,v,MISS Outlaw Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,456
+20700352,469,PT00M46.80S,4,1610612743,DEN,200784,Jones,B. Jones,0,0,0,,0,0.0,0.0,0,h,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,457
+20700352,470,PT00M34.90S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,79,41,9,Missed,1,0.0,0.0,0,h,MISS Kleiza 9' Running Jump Shot,Missed Shot,Running Jump Shot,0,458
+20700352,472,PT00M32.80S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0.0,0.0,0,h,Kleiza REBOUND (Off:2 Def:4),Rebound,Unknown,0,459
+20700352,471,PT00M32.80S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,Made,1,105.0,116.0,221,h,Kleiza  Layup (11 PTS),Made Shot,Layup Shot,0,460
+20700352,473,PT00M06.90S,4,1610612757,POR,2566,Outlaw,T. Outlaw,98,238,26,Missed,1,0.0,0.0,0,v,MISS Outlaw 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,461
+20700352,474,PT00M04.90S,4,1610612757,POR,200750,Roy,B. Roy,0,0,0,,0,0.0,0.0,0,v,Roy REBOUND (Off:4 Def:2),Rebound,Unknown,0,462
+20700352,475,PT00M00.00S,4,0,,0,,,0,0,0,,0,105.0,116.0,221,,End of 4th Period (10:22 PM EST),period,end,0,463

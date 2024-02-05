@@ -1,0 +1,487 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+21300061,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (7:09 PM EST),period,start,0,1
+21300061,1,PT12M00.00S,1,1610612754,IND,201579,Hibbert,R. Hibbert,0,0,0,,0,,,0,h,Jump Ball Hibbert vs. Noah: Tip to George,Jump Ball,,0,2
+21300061,2,PT11M41.00S,1,1610612754,IND,201579,Hibbert,R. Hibbert,23,-5,2,Missed,1,,,0,h,MISS Hibbert 2' Layup,Missed Shot,Layup Shot,0,3
+21300061,3,PT11M40.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,,,0,v,Boozer REBOUND (Off:0 Def:1),Rebound,Unknown,0,4
+21300061,4,PT11M22.00S,1,1610612741,CHI,202710,Butler,J. Butler,165,-5,17,Missed,1,,,0,v,MISS Butler 17' Jump Shot,Missed Shot,Jump Shot,0,5
+21300061,5,PT11M21.00S,1,1610612754,IND,201228,Watson,C. Watson,0,0,0,,0,,,0,h,Watson REBOUND (Off:0 Def:1),Rebound,Unknown,0,6
+21300061,6,PT10M58.00S,1,1610612754,IND,201228,Watson,C. Watson,244,30,25,Missed,1,,,0,h,MISS Watson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,7
+21300061,7,PT10M57.00S,1,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,v,Noah REBOUND (Off:0 Def:1),Rebound,Unknown,0,8
+21300061,8,PT10M33.00S,1,1610612741,CHI,2736,Deng,L. Deng,174,64,19,Made,1,0.0,2.0,2,v,Deng 19' Jump Shot (2 PTS) (Noah 1 AST),Made Shot,Jump Shot,0,9
+21300061,9,PT10M10.00S,1,1610612754,IND,201579,Hibbert,R. Hibbert,-155,4,16,Made,1,2.0,2.0,4,h,Hibbert 16' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,0,10
+21300061,10,PT09M51.00S,1,1610612741,CHI,201565,Rose,D. Rose,69,143,16,Made,1,2.0,4.0,6,v,Rose 16' Jump Shot (2 PTS) (Noah 2 AST),Made Shot,Jump Shot,0,11
+21300061,11,PT09M36.00S,1,1610612754,IND,2561,West,D. West,-172,78,19,Missed,1,,,0,h,MISS West 19' Jump Shot,Missed Shot,Jump Shot,0,12
+21300061,12,PT09M35.00S,1,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,v,Noah REBOUND (Off:0 Def:2),Rebound,Unknown,0,13
+21300061,13,PT09M23.00S,1,1610612741,CHI,201565,Rose,D. Rose,159,225,28,Made,1,2.0,7.0,9,v,Rose 28' 3PT Jump Shot (5 PTS) (Butler 1 AST),Made Shot,Jump Shot,0,14
+21300061,14,PT09M08.00S,1,1610612754,IND,202331,George,P. George,7,167,17,Made,1,4.0,7.0,11,h,George 17' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,0,15
+21300061,15,PT08M46.00S,1,1610612741,CHI,201565,Rose,D. Rose,26,77,8,Made,1,4.0,9.0,13,v,Rose 8' Running Jump Shot (7 PTS) (Noah 3 AST),Made Shot,Running Jump Shot,0,16
+21300061,16,PT08M24.00S,1,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,,,0,h,Stephenson Palming Turnover (P1.T1),Turnover,Palming Turnover,0,17
+21300061,17,PT08M08.00S,1,1610612741,CHI,201565,Rose,D. Rose,-161,-6,16,Missed,1,,,0,v,MISS Rose 16' Jump Shot,Missed Shot,Jump Shot,0,18
+21300061,18,PT08M06.00S,1,1610612754,IND,2561,West,D. West,0,0,0,,0,,,0,h,West REBOUND (Off:0 Def:1),Rebound,Unknown,0,19
+21300061,19,PT07M54.00S,1,1610612754,IND,201579,Hibbert,R. Hibbert,-70,0,7,Missed,1,,,0,h,MISS Hibbert 7' Jump Shot,Missed Shot,Jump Shot,0,20
+21300061,20,PT07M53.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,,,0,v,Boozer REBOUND (Off:0 Def:2),Rebound,Unknown,0,21
+21300061,21,PT07M38.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,-13,3,1,Missed,1,,,0,v,MISS Boozer 1' Layup,Missed Shot,Layup Shot,0,22
+21300061,21,PT07M38.00S,1,1610612754,IND,201579,Hibbert,R. Hibbert,0,0,0,,0,,,0,h,Hibbert BLOCK (1 BLK),,,0,23
+21300061,22,PT07M38.00S,1,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Unknown,0,24
+21300061,23,PT07M35.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,91,156,18,Missed,1,,,0,v,MISS Boozer 18' Jump Shot,Missed Shot,Jump Shot,0,25
+21300061,24,PT07M34.00S,1,1610612754,IND,202331,George,P. George,0,0,0,,0,,,0,h,George REBOUND (Off:0 Def:1),Rebound,Unknown,0,26
+21300061,25,PT07M21.00S,1,1610612754,IND,201228,Watson,C. Watson,-27,208,21,Made,1,6.0,9.0,15,h,Watson 21' Jump Shot (2 PTS) (Stephenson 1 AST),Made Shot,Jump Shot,0,27
+21300061,26,PT06M55.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,1,9,1,Missed,1,,,0,v,MISS Boozer 1' Layup,Missed Shot,Layup Shot,0,28
+21300061,26,PT06M55.00S,1,1610612754,IND,2561,West,D. West,0,0,0,,0,,,0,h,West BLOCK (1 BLK),,,0,29
+21300061,27,PT06M54.00S,1,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,,,0,v,Butler REBOUND (Off:1 Def:0),Rebound,Unknown,0,30
+21300061,28,PT06M54.00S,1,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,0,31
+21300061,29,PT06M36.00S,1,1610612754,IND,2561,West,D. West,-40,56,7,Made,1,8.0,9.0,17,h,West 7' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,0,32
+21300061,30,PT06M21.00S,1,1610612741,CHI,202710,Butler,J. Butler,174,187,26,Missed,1,,,0,v,MISS Butler 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,33
+21300061,31,PT06M20.00S,1,1610612754,IND,201579,Hibbert,R. Hibbert,0,0,0,,0,,,0,h,Hibbert REBOUND (Off:0 Def:1),Rebound,Unknown,0,34
+21300061,32,PT06M12.00S,1,1610612754,IND,201579,Hibbert,R. Hibbert,0,0,0,,0,,,0,h,Hibbert OFF.Foul (P1),Foul,Offensive,0,35
+21300061,33,PT06M12.00S,1,1610612754,IND,201579,Hibbert,R. Hibbert,0,0,0,,0,,,0,h,Hibbert Foul Turnover (P1.T2),Turnover,Foul,0,36
+21300061,34,PT06M03.00S,1,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,,,0,v,Butler OFF.Foul (P1),Foul,Offensive,0,37
+21300061,35,PT06M03.00S,1,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,,,0,v,Butler Foul Turnover (P1.T2),Turnover,Foul,0,38
+21300061,36,PT05M44.00S,1,1610612754,IND,2561,West,D. West,97,135,17,Missed,1,,,0,h,MISS West 17' Jump Shot,Missed Shot,Jump Shot,0,39
+21300061,38,PT05M43.00S,1,1610612754,IND,201579,Hibbert,R. Hibbert,0,0,0,,0,,,0,h,Hibbert REBOUND (Off:1 Def:1),Rebound,Unknown,0,40
+21300061,37,PT05M43.00S,1,1610612754,IND,201579,Hibbert,R. Hibbert,7,1,1,Made,1,10.0,9.0,19,h,Hibbert 1' Tip Shot (4 PTS),Made Shot,Tip Shot,0,41
+21300061,39,PT05M18.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,32,167,17,Made,1,10.0,11.0,21,v,Boozer 17' Jump Shot (2 PTS) (Noah 4 AST),Made Shot,Jump Shot,0,42
+21300061,40,PT04M58.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,,,0,v,Boozer P.FOUL (P1.T1),Foul,Personal,0,43
+21300061,41,PT04M58.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,44
+21300061,43,PT04M58.00S,1,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,,,0,v,SUB: Dunleavy FOR Butler,Substitution,,0,45
+21300061,45,PT04M58.00S,1,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,,,0,h,SUB: S. Hill FOR Stephenson,Substitution,,0,46
+21300061,46,PT04M52.00S,1,1610612754,IND,2561,West,D. West,0,0,0,,0,,,0,h,West Traveling Turnover (P1.T3),Turnover,Traveling,0,47
+21300061,47,PT04M41.00S,1,1610612741,CHI,201565,Rose,D. Rose,-133,231,27,Missed,1,,,0,v,MISS Rose 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,48
+21300061,48,PT04M40.00S,1,1610612754,IND,2561,West,D. West,0,0,0,,0,,,0,h,West REBOUND (Off:0 Def:2),Rebound,Unknown,0,49
+21300061,49,PT04M38.00S,1,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,,,0,v,Rose C.P.FOUL (P1.T2),Foul,Clear Path,0,50
+21300061,50,PT04M38.00S,1,0,,49,Muresan,G. Muresan,0,0,0,,0,,,0,,Support Ruling,Instant Replay,Support Ruling,0,51
+21300061,51,PT04M38.00S,1,1610612754,IND,201228,Watson,C. Watson,0,0,0,,0,11.0,11.0,22,h,Watson Free Throw Clear Path 1 of 2 (3 PTS),Free Throw,Free Throw Clear Path 1 of 2,0,52
+21300061,53,PT04M38.00S,1,1610612754,IND,201228,Watson,C. Watson,0,0,0,,0,12.0,11.0,23,h,Watson Free Throw Clear Path 2 of 2 (4 PTS),Free Throw,Free Throw Clear Path 2 of 2,0,53
+21300061,55,PT04M25.00S,1,1610612754,IND,2561,West,D. West,-56,30,6,Made,1,14.0,11.0,25,h,West 6' Floating Jump Shot (4 PTS) (Watson 1 AST),Made Shot,Floating Jump shot,0,54
+21300061,56,PT04M02.00S,1,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,v,Noah Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,0,55
+21300061,57,PT03M53.00S,1,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,,,0,v,Rose P.FOUL (P2.T3),Foul,Personal,0,56
+21300061,58,PT03M53.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,,,0,v,SUB: Gibson FOR Boozer,Substitution,,0,57
+21300061,59,PT03M53.00S,1,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,,,0,v,SUB: Hinrich FOR Rose,Substitution,,0,58
+21300061,60,PT03M53.00S,1,1610612754,IND,201228,Watson,C. Watson,0,0,0,,0,,,0,h,SUB: Sloan FOR Watson,Substitution,,0,59
+21300061,61,PT03M49.00S,1,1610612754,IND,202331,George,P. George,-174,201,27,Made,1,17.0,11.0,28,h,George 27' 3PT Jump Shot (5 PTS) (Hibbert 1 AST),Made Shot,Jump Shot,0,60
+21300061,62,PT03M34.00S,1,1610612741,CHI,2399,Dunleavy,M. Dunleavy,-8,190,19,Made,1,17.0,13.0,30,v,Dunleavy 19' Pullup Jump Shot (2 PTS) (Hinrich 1 AST),Made Shot,Pullup Jump shot,0,61
+21300061,63,PT03M14.00S,1,1610612754,IND,202331,George,P. George,37,168,17,Missed,1,,,0,h,MISS George 17' Jump Shot,Missed Shot,Jump Shot,0,62
+21300061,64,PT03M13.00S,1,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,,,0,v,Dunleavy REBOUND (Off:0 Def:1),Rebound,Unknown,0,63
+21300061,65,PT03M07.00S,1,1610612754,IND,203524,Hill,S. Hill,0,0,0,,0,,,0,h,S. Hill P.FOUL (P1.T1),Foul,Personal,0,64
+21300061,66,PT03M07.00S,1,1610612754,IND,2561,West,D. West,0,0,0,,0,,,0,h,SUB: Scola FOR West,Substitution,,0,65
+21300061,67,PT03M05.00S,1,1610612754,IND,2449,Scola,L. Scola,0,0,0,,0,,,0,h,Scola P.FOUL (P1.T2),Foul,Personal,0,66
+21300061,68,PT02M53.00S,1,1610612741,CHI,2736,Deng,L. Deng,100,4,10,Made,1,17.0,15.0,32,v,Deng 10' Running Jump Shot (4 PTS),Made Shot,Running Jump Shot,0,67
+21300061,69,PT02M36.00S,1,1610612754,IND,202388,Sloan,D. Sloan,-82,172,19,Made,1,19.0,15.0,34,h,Sloan 19' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,0,68
+21300061,70,PT02M12.00S,1,1610612741,CHI,201149,Noah,J. Noah,-37,172,18,Missed,1,,,0,v,MISS Noah 18' Jump Shot,Missed Shot,Jump Shot,0,69
+21300061,71,PT02M11.00S,1,1610612754,IND,202388,Sloan,D. Sloan,0,0,0,,0,,,0,h,Sloan REBOUND (Off:0 Def:1),Rebound,Unknown,0,70
+21300061,72,PT02M03.00S,1,1610612754,IND,201579,Hibbert,R. Hibbert,-29,60,7,Made,1,21.0,15.0,36,h,Hibbert 7' Jump Hook Shot (6 PTS) (S. Hill 1 AST),Made Shot,Jump Hook Shot,0,71
+21300061,73,PT01M43.00S,1,1610612741,CHI,2399,Dunleavy,M. Dunleavy,-76,176,19,Missed,1,,,0,v,MISS Dunleavy 19' Jump Shot,Missed Shot,Jump Shot,0,72
+21300061,74,PT01M42.00S,1,1610612754,IND,202331,George,P. George,0,0,0,,0,,,0,h,George REBOUND (Off:0 Def:2),Rebound,Unknown,0,73
+21300061,75,PT01M36.00S,1,1610612754,IND,2449,Scola,L. Scola,13,-2,1,Made,1,23.0,15.0,38,h,Scola 1' Layup (2 PTS) (George 1 AST),Made Shot,Layup Shot,0,74
+21300061,76,PT01M29.00S,1,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,75
+21300061,78,PT01M21.00S,1,1610612741,CHI,2736,Deng,L. Deng,118,176,21,Missed,1,,,0,v,MISS Deng 21' Jump Shot,Missed Shot,Jump Shot,0,76
+21300061,79,PT01M20.00S,1,1610612754,IND,202388,Sloan,D. Sloan,0,0,0,,0,,,0,h,Sloan REBOUND (Off:0 Def:2),Rebound,Unknown,0,77
+21300061,80,PT01M02.00S,1,1610612754,IND,202331,George,P. George,-166,-6,17,Missed,1,,,0,h,MISS George 17' Jump Shot,Missed Shot,Jump Shot,0,78
+21300061,81,PT01M01.00S,1,1610612754,IND,203524,Hill,S. Hill,0,0,0,,0,,,0,h,S. Hill REBOUND (Off:1 Def:0),Rebound,Unknown,0,79
+21300061,82,PT00M58.90S,1,1610612754,IND,202331,George,P. George,-243,3,24,Missed,1,,,0,h,MISS George 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,80
+21300061,83,PT00M57.60S,1,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,,,0,v,Dunleavy REBOUND (Off:0 Def:2),Rebound,Unknown,0,81
+21300061,84,PT00M53.30S,1,1610612754,IND,202388,Sloan,D. Sloan,0,0,0,,0,,,0,h,Sloan Violation:Kicked Ball,Violation,Kicked Ball,0,82
+21300061,85,PT00M45.10S,1,1610612741,CHI,201959,Gibson,T. Gibson,4,44,4,Made,1,23.0,17.0,40,v,Gibson 4' Jump Hook Shot (2 PTS),Made Shot,Jump Hook Shot,0,83
+21300061,86,PT00M21.90S,1,1610612754,IND,202331,George,P. George,-4,4,1,Missed,1,,,0,h,MISS George 1' Layup,Missed Shot,Layup Shot,0,84
+21300061,87,PT00M20.90S,1,1610612754,IND,201579,Hibbert,R. Hibbert,0,0,0,,0,,,0,h,Hibbert REBOUND (Off:2 Def:1),Rebound,Unknown,0,85
+21300061,88,PT00M15.90S,1,1610612754,IND,203524,Hill,S. Hill,-231,-2,0,Missed,1,,,0,h,MISS S. Hill 3PT Jump Shot,Missed Shot,Jump Shot,0,86
+21300061,89,PT00M13.90S,1,1610612754,IND,201579,Hibbert,R. Hibbert,0,0,0,,0,,,0,h,Hibbert REBOUND (Off:3 Def:1),Rebound,Unknown,0,87
+21300061,90,PT00M10.30S,1,1610612754,IND,202388,Sloan,D. Sloan,-57,41,7,Made,1,25.0,17.0,42,h,Sloan 7' Driving Jump Shot (4 PTS),Made Shot,Driving Jump shot,0,88
+21300061,91,PT00M00.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,132,146,20,Made,1,25.0,19.0,44,v,Hinrich 20' Jump Shot (2 PTS),Made Shot,Jump Shot,0,89
+21300061,92,PT00M00.00S,1,0,,91,,,0,0,0,,0,,,0,,Support Ruling,Instant Replay,Support Ruling,0,90
+21300061,93,PT00M00.00S,1,0,,0,,,0,0,0,,0,25.0,19.0,44,,End of 1st Period (7:34 PM EST),period,end,0,91
+21300061,95,PT12M00.00S,2,0,,0,,,0,0,0,,0,25.0,19.0,44,,Start of 2nd Period (7:38 PM EST),period,start,0,92
+21300061,96,PT11M44.00S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,,,0,v,Hinrich Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,93
+21300061,96,PT11M44.00S,2,1610612754,IND,2449,Scola,L. Scola,0,0,0,,0,,,0,h,Scola STEAL (1 STL),,,0,94
+21300061,97,PT11M36.00S,2,1610612754,IND,203524,Hill,S. Hill,-209,164,27,Missed,1,,,0,h,MISS S. Hill 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,95
+21300061,98,PT11M35.00S,2,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,,,0,v,Dunleavy REBOUND (Off:0 Def:3),Rebound,Unknown,0,96
+21300061,99,PT11M21.00S,2,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi S.FOUL (P1.T1),Foul,Shooting,0,97
+21300061,100,PT11M21.00S,2,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,25.0,20.0,45,v,Deng Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,98
+21300061,102,PT11M21.00S,2,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,25.0,21.0,46,v,Deng Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,99
+21300061,104,PT11M01.00S,2,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi 3 Second Violation Turnover (P1.T4),Turnover,3 Second Violation,0,100
+21300061,105,PT11M01.00S,2,1610612754,IND,203524,Hill,S. Hill,0,0,0,,0,,,0,h,SUB: Johnson FOR S. Hill,Substitution,,0,101
+21300061,106,PT10M48.00S,2,1610612741,CHI,2736,Deng,L. Deng,179,3,18,Made,1,25.0,23.0,48,v,Deng 18' Jump Shot (8 PTS) (Hinrich 2 AST),Made Shot,Jump Shot,0,102
+21300061,107,PT10M22.00S,2,1610612754,IND,101133,Mahinmi,I. Mahinmi,-15,42,4,Missed,1,,,0,h,MISS Mahinmi 4' Jump Shot,Missed Shot,Jump Shot,0,103
+21300061,108,PT10M22.00S,2,1610612754,IND,203111,Johnson,O. Johnson,0,0,0,,0,,,0,h,Johnson REBOUND (Off:1 Def:0),Rebound,Unknown,0,104
+21300061,109,PT10M17.00S,2,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,105
+21300061,109,PT10M17.00S,2,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,,,0,v,Deng STEAL (1 STL),,,0,106
+21300061,110,PT10M11.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,17,1,2,Made,1,25.0,25.0,50,v,Gibson 2' Layup (4 PTS) (Deng 1 AST),Made Shot,Layup Shot,0,107
+21300061,111,PT09M56.00S,2,1610612754,IND,2449,Scola,L. Scola,89,184,20,Made,1,27.0,25.0,52,h,Scola 20' Jump Shot (4 PTS) (Sloan 1 AST),Made Shot,Jump Shot,0,108
+21300061,112,PT09M40.00S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,77,186,20,Missed,1,,,0,v,MISS Hinrich 20' Jump Shot,Missed Shot,Jump Shot,0,109
+21300061,113,PT09M39.00S,2,1610612754,IND,2449,Scola,L. Scola,0,0,0,,0,,,0,h,Scola REBOUND (Off:0 Def:1),Rebound,Unknown,0,110
+21300061,114,PT09M30.00S,2,1610612754,IND,202362,Stephenson,L. Stephenson,135,250,28,Missed,1,,,0,h,MISS Stephenson 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,111
+21300061,115,PT09M29.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,,,0,v,Gibson REBOUND (Off:0 Def:1),Rebound,Unknown,0,112
+21300061,116,PT09M16.00S,2,1610612754,IND,202388,Sloan,D. Sloan,0,0,0,,0,,,0,h,Sloan S.FOUL (P1.T2),Foul,Shooting,0,113
+21300061,117,PT09M16.00S,2,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,27.0,26.0,53,v,Deng Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,114
+21300061,119,PT09M16.00S,2,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,27.0,27.0,54,v,Deng Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,115
+21300061,121,PT09M01.00S,2,1610612754,IND,202362,Stephenson,L. Stephenson,105,64,12,Missed,1,,,0,h,MISS Stephenson 12' Jump Shot,Missed Shot,Jump Shot,0,116
+21300061,122,PT09M00.00S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,,,0,v,Hinrich REBOUND (Off:0 Def:1),Rebound,Unknown,0,117
+21300061,123,PT08M48.00S,2,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,,,0,h,Stephenson P.FOUL (P1.T3),Foul,Personal,0,118
+21300061,124,PT08M48.00S,2,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,119
+21300061,126,PT08M34.00S,2,1610612741,CHI,2736,Deng,L. Deng,-152,45,16,Missed,1,,,0,v,MISS Deng 16' Jump Shot,Missed Shot,Jump Shot,0,120
+21300061,127,PT08M33.00S,2,1610612754,IND,202388,Sloan,D. Sloan,0,0,0,,0,,,0,h,Sloan REBOUND (Off:0 Def:3),Rebound,Unknown,0,121
+21300061,128,PT08M27.00S,2,1610612754,IND,203111,Johnson,O. Johnson,-235,12,24,Missed,1,,,0,h,MISS Johnson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,122
+21300061,129,PT08M26.00S,2,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,,,0,v,Deng REBOUND (Off:0 Def:1),Rebound,Unknown,0,123
+21300061,130,PT08M10.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,151,0,15,Missed,1,,,0,v,MISS Gibson 15' Jump Shot,Missed Shot,Jump Shot,0,124
+21300061,131,PT08M08.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,,,0,v,Gibson REBOUND (Off:1 Def:1),Rebound,Unknown,0,125
+21300061,132,PT08M06.00S,2,1610612754,IND,203111,Johnson,O. Johnson,0,0,0,,0,,,0,h,Johnson S.FOUL (P1.T4),Foul,Shooting,0,126
+21300061,133,PT08M06.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,27.0,28.0,55,v,Gibson Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,127
+21300061,135,PT08M06.00S,2,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,,,0,v,SUB: Butler FOR Deng,Substitution,,0,128
+21300061,136,PT08M06.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,27.0,29.0,56,v,Gibson Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,129
+21300061,138,PT07M48.00S,2,1610612754,IND,202362,Stephenson,L. Stephenson,0,1,0,Missed,1,,,0,h,MISS Stephenson Layup,Missed Shot,Layup Shot,0,130
+21300061,139,PT07M48.00S,2,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi REBOUND (Off:1 Def:0),Rebound,Unknown,0,131
+21300061,140,PT07M48.00S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,,,0,v,Hinrich L.B.FOUL (P1.T1),Foul,Loose Ball,0,132
+21300061,141,PT07M40.00S,2,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,,,0,h,Stephenson OFF.Foul (P2),Foul,Offensive,0,133
+21300061,142,PT07M40.00S,2,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,,,0,h,Stephenson Foul Turnover (P2.T6),Turnover,Foul,0,134
+21300061,143,PT07M17.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,-73,172,19,Made,1,27.0,31.0,58,v,Gibson 19' Jump Shot (8 PTS),Made Shot,Jump Shot,0,135
+21300061,144,PT07M05.00S,2,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi OFF.Foul (P2),Foul,Offensive,0,136
+21300061,145,PT07M05.00S,2,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi Foul Turnover (P3.T7),Turnover,Foul,0,137
+21300061,146,PT07M05.00S,2,1610612754,IND,2449,Scola,L. Scola,0,0,0,,0,,,0,h,SUB: West FOR Scola,Substitution,,0,138
+21300061,147,PT07M05.00S,2,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,,,0,v,SUB: Rose FOR Dunleavy,Substitution,,0,139
+21300061,148,PT07M05.00S,2,1610612754,IND,202388,Sloan,D. Sloan,0,0,0,,0,,,0,h,SUB: Watson FOR Sloan,Substitution,,0,140
+21300061,149,PT06M54.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,,,0,v,Gibson OFF.Foul (P1),Foul,Offensive,0,141
+21300061,150,PT06M54.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,,,0,v,Gibson Foul Turnover (P1.T5),Turnover,Foul,0,142
+21300061,151,PT06M39.00S,2,1610612754,IND,203111,Johnson,O. Johnson,0,0,0,,0,,,0,h,Johnson Traveling Turnover (P1.T8),Turnover,Traveling,0,143
+21300061,152,PT06M30.00S,2,1610612741,CHI,1737,Mohammed,N. Mohammed,15,9,2,Missed,1,,,0,v,MISS Mohammed 2' Layup,Missed Shot,Layup Shot,0,144
+21300061,153,PT06M29.00S,2,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,,,0,h,Stephenson REBOUND (Off:0 Def:1),Rebound,Unknown,0,145
+21300061,154,PT06M23.00S,2,1610612754,IND,202362,Stephenson,L. Stephenson,12,4,1,Missed,1,,,0,h,MISS Stephenson 1' Layup,Missed Shot,Layup Shot,0,146
+21300061,155,PT06M21.00S,2,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,,,0,h,Stephenson REBOUND (Off:1 Def:1),Rebound,Unknown,0,147
+21300061,156,PT06M19.00S,2,1610612754,IND,202362,Stephenson,L. Stephenson,-11,7,1,Missed,1,,,0,h,MISS Stephenson 1' Layup,Missed Shot,Layup Shot,0,148
+21300061,156,PT06M19.00S,2,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,,,0,v,Butler BLOCK (1 BLK),,,0,149
+21300061,157,PT06M19.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,150
+21300061,158,PT06M19.00S,2,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,,,0,v,SUB: Boozer FOR Mohammed,Substitution,,0,151
+21300061,159,PT06M14.00S,2,1610612754,IND,2561,West,D. West,-43,55,7,Missed,1,,,0,h,MISS West 7' Jump Shot,Missed Shot,Jump Shot,0,152
+21300061,159,PT06M14.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,,,0,v,Gibson BLOCK (1 BLK),,,0,153
+21300061,160,PT06M12.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,,,0,v,Boozer REBOUND (Off:0 Def:3),Rebound,Unknown,0,154
+21300061,161,PT06M07.00S,2,1610612741,CHI,201565,Rose,D. Rose,165,129,21,Made,1,27.0,33.0,60,v,Rose 21' Pullup Jump Shot (9 PTS) (Boozer 1 AST),Made Shot,Pullup Jump shot,0,155
+21300061,162,PT06M04.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,156
+21300061,164,PT05M55.00S,2,1610612754,IND,202362,Stephenson,L. Stephenson,23,14,3,Missed,1,,,0,h,MISS Stephenson 3' Layup,Missed Shot,Layup Shot,0,157
+21300061,165,PT05M54.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,,,0,v,Boozer REBOUND (Off:0 Def:4),Rebound,Unknown,0,158
+21300061,166,PT05M43.00S,2,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,,,0,v,Butler Lost Ball Turnover (P2.T6),Turnover,Lost Ball,0,159
+21300061,166,PT05M43.00S,2,1610612754,IND,201228,Watson,C. Watson,0,0,0,,0,,,0,h,Watson STEAL (1 STL),,,0,160
+21300061,167,PT05M29.00S,2,1610612754,IND,202362,Stephenson,L. Stephenson,-103,146,18,Missed,1,,,0,h,MISS Stephenson 18' Jump Shot,Missed Shot,Jump Shot,0,161
+21300061,168,PT05M27.00S,2,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi REBOUND (Off:2 Def:0),Rebound,Unknown,0,162
+21300061,169,PT05M23.00S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,,,0,v,Hinrich S.FOUL (P2.T2),Foul,Shooting,0,163
+21300061,170,PT05M23.00S,2,1610612754,IND,203111,Johnson,O. Johnson,0,0,0,,0,28.0,33.0,61,h,Johnson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,164
+21300061,172,PT05M23.00S,2,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,SUB: Hibbert FOR Mahinmi,Substitution,,0,165
+21300061,173,PT05M23.00S,2,1610612754,IND,203111,Johnson,O. Johnson,0,0,0,,0,29.0,33.0,62,h,Johnson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,166
+21300061,175,PT05M10.00S,2,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,,,0,v,Rose Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,167
+21300061,175,PT05M10.00S,2,1610612754,IND,2561,West,D. West,0,0,0,,0,,,0,h,West STEAL (1 STL),,,0,168
+21300061,176,PT05M05.00S,2,1610612754,IND,203111,Johnson,O. Johnson,12,3,1,Made,1,31.0,33.0,64,h,Johnson 1' Layup (4 PTS) (West 1 AST),Made Shot,Layup Shot,0,169
+21300061,177,PT04M46.00S,2,1610612741,CHI,201565,Rose,D. Rose,-18,6,2,Missed,1,,,0,v,MISS Rose 2' Layup,Missed Shot,Layup Shot,0,170
+21300061,177,PT04M46.00S,2,1610612754,IND,201579,Hibbert,R. Hibbert,0,0,0,,0,,,0,h,Hibbert BLOCK (2 BLK),,,0,171
+21300061,178,PT04M44.00S,2,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,,,0,h,Stephenson REBOUND (Off:1 Def:2),Rebound,Unknown,0,172
+21300061,179,PT04M39.00S,2,1610612754,IND,2561,West,D. West,-8,3,1,Missed,1,,,0,h,MISS West 1' Layup,Missed Shot,Layup Shot,0,173
+21300061,180,PT04M37.00S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,,,0,v,Hinrich REBOUND (Off:0 Def:2),Rebound,Unknown,0,174
+21300061,181,PT04M34.00S,2,1610612754,IND,201228,Watson,C. Watson,0,0,0,,0,,,0,h,Watson S.FOUL (P1.PN),Foul,Shooting,0,175
+21300061,182,PT04M34.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,,,0,v,MISS Gibson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,176
+21300061,183,PT04M34.00S,2,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Normal Rebound,0,177
+21300061,184,PT04M34.00S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,,,0,v,SUB: Deng FOR Hinrich,Substitution,,0,178
+21300061,185,PT04M34.00S,2,1610612754,IND,203111,Johnson,O. Johnson,0,0,0,,0,,,0,h,SUB: George FOR Johnson,Substitution,,0,179
+21300061,186,PT04M34.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,31.0,34.0,65,v,Gibson Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,180
+21300061,188,PT04M12.00S,2,1610612754,IND,2561,West,D. West,-111,7,11,Missed,1,,,0,h,MISS West 11' Jump Shot,Missed Shot,Jump Shot,0,181
+21300061,189,PT04M11.00S,2,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,,,0,v,Deng REBOUND (Off:0 Def:2),Rebound,Unknown,0,182
+21300061,190,PT04M01.00S,2,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,,,0,h,Stephenson S.FOUL (P3.PN),Foul,Shooting,0,183
+21300061,191,PT04M01.00S,2,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,31.0,35.0,66,v,Butler Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,184
+21300061,193,PT04M01.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,,,0,v,SUB: Noah FOR Gibson,Substitution,,0,185
+21300061,194,PT04M01.00S,2,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,,,0,h,SUB: Johnson FOR Stephenson,Substitution,,0,186
+21300061,195,PT04M01.00S,2,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,31.0,36.0,67,v,Butler Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,187
+21300061,197,PT03M46.00S,2,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,v,Noah P.FOUL (P1.T3),Foul,Personal,0,188
+21300061,198,PT03M37.00S,2,1610612754,IND,202331,George,P. George,0,148,15,Made,1,33.0,36.0,69,h,George 15' Jump Shot (7 PTS),Made Shot,Jump Shot,0,189
+21300061,199,PT03M18.00S,2,1610612741,CHI,2736,Deng,L. Deng,4,-3,1,Missed,1,,,0,v,MISS Deng 1' Layup,Missed Shot,Layup Shot,0,190
+21300061,200,PT03M16.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,,,0,v,Boozer REBOUND (Off:1 Def:4),Rebound,Unknown,0,191
+21300061,201,PT03M13.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,83,142,16,Made,1,33.0,38.0,71,v,Boozer 16' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,0,192
+21300061,202,PT02M50.00S,2,1610612754,IND,202331,George,P. George,-152,89,18,Made,1,35.0,38.0,73,h,George 18' Step Back Jump Shot (9 PTS),Made Shot,Step Back Jump shot,0,193
+21300061,203,PT02M24.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,154,33,16,Missed,1,,,0,v,MISS Boozer 16' Jump Shot,Missed Shot,Jump Shot,0,194
+21300061,204,PT02M22.00S,2,1610612754,IND,202331,George,P. George,0,0,0,,0,,,0,h,George REBOUND (Off:0 Def:3),Rebound,Unknown,0,195
+21300061,205,PT02M13.00S,2,1610612754,IND,202331,George,P. George,121,170,21,Missed,1,,,0,h,MISS George 21' Jump Shot,Missed Shot,Jump Shot,0,196
+21300061,206,PT02M12.00S,2,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,v,Noah REBOUND (Off:0 Def:3),Rebound,Unknown,0,197
+21300061,207,PT01M57.00S,2,1610612741,CHI,2736,Deng,L. Deng,-235,0,24,Missed,1,,,0,v,MISS Deng 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,198
+21300061,208,PT01M56.00S,2,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,v,Noah REBOUND (Off:1 Def:3),Rebound,Unknown,0,199
+21300061,209,PT01M56.00S,2,1610612754,IND,201228,Watson,C. Watson,0,0,0,,0,,,0,h,Watson P.FOUL (P2.PN),Foul,Personal,0,200
+21300061,210,PT01M56.00S,2,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,201
+21300061,212,PT01M56.00S,2,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,35.0,39.0,74,v,Noah Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,202
+21300061,214,PT01M56.00S,2,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,35.0,40.0,75,v,Noah Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,203
+21300061,216,PT01M34.00S,2,1610612754,IND,2561,West,D. West,-93,167,19,Missed,1,,,0,h,MISS West 19' Jump Shot,Missed Shot,Jump Shot,0,204
+21300061,217,PT01M33.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,,,0,v,Boozer REBOUND (Off:1 Def:5),Rebound,Unknown,0,205
+21300061,218,PT01M19.00S,2,1610612741,CHI,2736,Deng,L. Deng,89,25,9,Missed,1,,,0,v,MISS Deng 9' Jump Shot,Missed Shot,Jump Shot,0,206
+21300061,220,PT01M17.00S,2,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,v,Noah REBOUND (Off:2 Def:3),Rebound,Unknown,0,207
+21300061,219,PT01M17.00S,2,1610612741,CHI,201149,Noah,J. Noah,1,7,1,Missed,1,,,0,v,MISS Noah 1' Tip Shot,Missed Shot,Tip Shot,0,208
+21300061,221,PT01M16.00S,2,1610612754,IND,202331,George,P. George,0,0,0,,0,,,0,h,George REBOUND (Off:0 Def:4),Rebound,Unknown,0,209
+21300061,222,PT01M11.00S,2,1610612754,IND,202331,George,P. George,0,0,0,,0,,,0,h,George Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,210
+21300061,222,PT01M11.00S,2,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,,,0,v,Butler STEAL (1 STL),,,0,211
+21300061,223,PT01M01.00S,2,1610612741,CHI,201565,Rose,D. Rose,0,6,1,Made,1,35.0,42.0,77,v,Rose 1' Driving Finger Roll Layup (11 PTS),Made Shot,Driving Finger Roll Layup Shot,0,212
+21300061,224,PT00M44.90S,2,1610612754,IND,2561,West,D. West,0,56,6,Missed,1,,,0,h,MISS West 6' Jump Shot,Missed Shot,Jump Shot,0,213
+21300061,225,PT00M43.90S,2,1610612754,IND,2561,West,D. West,0,0,0,,0,,,0,h,West REBOUND (Off:1 Def:2),Rebound,Unknown,0,214
+21300061,226,PT00M43.10S,2,1610612754,IND,2561,West,D. West,9,-2,1,Made,1,37.0,42.0,79,h,West 1' Layup (6 PTS),Made Shot,Layup Shot,0,215
+21300061,227,PT00M29.80S,2,1610612754,IND,201228,Watson,C. Watson,0,0,0,,0,,,0,h,Watson P.FOUL (P3.PN),Foul,Personal,0,216
+21300061,228,PT00M29.80S,2,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,37.0,43.0,80,v,Rose Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,217
+21300061,230,PT00M29.80S,2,1610612754,IND,201228,Watson,C. Watson,0,0,0,,0,,,0,h,SUB: Sloan FOR Watson,Substitution,,0,218
+21300061,231,PT00M29.80S,2,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,,,0,v,MISS Rose Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,219
+21300061,233,PT00M29.80S,2,1610612754,IND,203111,Johnson,O. Johnson,0,0,0,,0,,,0,h,Johnson REBOUND (Off:1 Def:1),Rebound,Unknown,0,220
+21300061,234,PT00M05.90S,2,1610612754,IND,202331,George,P. George,-43,61,7,Missed,1,,,0,h,MISS George 7' Jump Shot,Missed Shot,Jump Shot,0,221
+21300061,235,PT00M04.70S,2,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,v,Noah REBOUND (Off:2 Def:4),Rebound,Unknown,0,222
+21300061,236,PT00M00.00S,2,1610612741,CHI,201565,Rose,D. Rose,-81,242,26,Missed,1,,,0,v,MISS Rose 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,223
+21300061,238,PT00M00.00S,2,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Unknown,0,224
+21300061,237,PT00M00.00S,2,0,,0,,,0,0,0,,0,37.0,43.0,80,,End of 2nd Period (8:08 PM EST),period,end,0,225
+21300061,240,PT12M00.00S,3,0,,0,,,0,0,0,,0,37.0,43.0,80,,Start of 3rd Period (8:27 PM EST),period,start,0,226
+21300061,241,PT11M40.00S,3,1610612741,CHI,201565,Rose,D. Rose,-141,153,21,Missed,1,,,0,v,MISS Rose 21' Jump Shot,Missed Shot,Jump Shot,0,227
+21300061,242,PT11M39.00S,3,1610612754,IND,2561,West,D. West,0,0,0,,0,,,0,h,West REBOUND (Off:1 Def:3),Rebound,Unknown,0,228
+21300061,243,PT11M28.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,v,Noah P.FOUL (P2.T1),Foul,Personal,0,229
+21300061,244,PT11M16.00S,3,1610612754,IND,2561,West,D. West,-161,33,16,Made,1,39.0,43.0,82,h,West 16' Jump Shot (8 PTS),Made Shot,Jump Shot,0,230
+21300061,245,PT11M00.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,-161,-6,16,Missed,1,,,0,v,MISS Boozer 16' Jump Shot,Missed Shot,Jump Shot,0,231
+21300061,246,PT11M00.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,v,Noah REBOUND (Off:3 Def:4),Rebound,Unknown,0,232
+21300061,247,PT10M55.00S,3,1610612741,CHI,202710,Butler,J. Butler,70,252,26,Missed,1,,,0,v,MISS Butler 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,233
+21300061,248,PT10M54.00S,3,1610612754,IND,201579,Hibbert,R. Hibbert,0,0,0,,0,,,0,h,Hibbert REBOUND (Off:3 Def:2),Rebound,Unknown,0,234
+21300061,249,PT10M40.00S,3,1610612754,IND,2561,West,D. West,-161,56,17,Missed,1,,,0,h,MISS West 17' Jump Shot,Missed Shot,Jump Shot,0,235
+21300061,250,PT10M36.00S,3,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Unknown,0,236
+21300061,251,PT10M23.00S,3,1610612741,CHI,2736,Deng,L. Deng,-164,-11,16,Missed,1,,,0,v,MISS Deng 16' Jump Shot,Missed Shot,Jump Shot,0,237
+21300061,252,PT10M22.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,v,Noah REBOUND (Off:4 Def:4),Rebound,Unknown,0,238
+21300061,253,PT10M22.00S,3,1610612754,IND,2561,West,D. West,0,0,0,,0,,,0,h,West S.FOUL (P1.T1),Foul,Shooting,0,239
+21300061,254,PT10M22.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,39.0,44.0,83,v,Noah Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,240
+21300061,256,PT10M22.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,39.0,45.0,84,v,Noah Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,241
+21300061,258,PT10M12.00S,3,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,,,0,h,Stephenson Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,242
+21300061,258,PT10M12.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,v,Noah STEAL (1 STL),,,0,243
+21300061,259,PT10M03.00S,3,1610612741,CHI,2736,Deng,L. Deng,81,30,9,Missed,1,,,0,v,MISS Deng 9' Jump Shot,Missed Shot,Jump Shot,0,244
+21300061,259,PT10M03.00S,3,1610612754,IND,201579,Hibbert,R. Hibbert,0,0,0,,0,,,0,h,Hibbert BLOCK (3 BLK),,,0,245
+21300061,260,PT10M01.00S,3,1610612754,IND,2561,West,D. West,0,0,0,,0,,,0,h,West REBOUND (Off:1 Def:4),Rebound,Unknown,0,246
+21300061,261,PT09M57.00S,3,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,,,0,v,Rose S.FOUL (P3.T2),Foul,Shooting,0,247
+21300061,262,PT09M57.00S,3,1610612754,IND,201228,Watson,C. Watson,0,0,0,,0,40.0,45.0,85,h,Watson Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,248
+21300061,264,PT09M57.00S,3,1610612754,IND,201228,Watson,C. Watson,0,0,0,,0,41.0,45.0,86,h,Watson Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,249
+21300061,266,PT09M42.00S,3,1610612741,CHI,202710,Butler,J. Butler,-13,9,2,Missed,1,,,0,v,MISS Butler 2' Layup,Missed Shot,Layup Shot,0,250
+21300061,267,PT09M41.00S,3,1610612754,IND,202331,George,P. George,0,0,0,,0,,,0,h,George REBOUND (Off:0 Def:5),Rebound,Unknown,0,251
+21300061,268,PT09M36.00S,3,1610612754,IND,202331,George,P. George,0,0,0,,0,,,0,h,George Offensive Charge Foul (P1),Foul,Offensive Charge,0,252
+21300061,269,PT09M36.00S,3,1610612754,IND,202331,George,P. George,0,0,0,,0,,,0,h,George Foul Turnover (P2.T11),Turnover,Foul,0,253
+21300061,270,PT09M14.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,,,0,v,Boozer 3 Second Violation Turnover (P1.T8),Turnover,3 Second Violation,0,254
+21300061,271,PT09M03.00S,3,1610612754,IND,202362,Stephenson,L. Stephenson,-231,52,24,Made,1,44.0,45.0,89,h,Stephenson 24' 3PT Jump Shot (3 PTS) (Watson 2 AST),Made Shot,Jump Shot,0,255
+21300061,272,PT08M47.00S,3,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,,,0,v,Rose Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,256
+21300061,273,PT08M42.00S,3,1610612754,IND,202331,George,P. George,2,4,0,Made,1,46.0,45.0,91,h,George Layup (11 PTS) (Stephenson 2 AST),Made Shot,Layup Shot,0,257
+21300061,274,PT08M42.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,,,0,v,Boozer S.FOUL (P2.T3),Foul,Shooting,0,258
+21300061,275,PT08M42.00S,3,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,,,0,v,SUB: Hinrich FOR Deng,Substitution,,0,259
+21300061,276,PT08M42.00S,3,1610612754,IND,202331,George,P. George,0,0,0,,0,47.0,45.0,92,h,George Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,260
+21300061,278,PT08M28.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,v,Noah OFF.Foul (P3),Foul,Offensive,0,261
+21300061,279,PT08M28.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,v,Noah Foul Turnover (P2.T10),Turnover,Foul,0,262
+21300061,280,PT08M14.00S,3,1610612754,IND,201579,Hibbert,R. Hibbert,48,20,5,Missed,1,,,0,h,MISS Hibbert 5' Jump Shot,Missed Shot,Jump Shot,0,263
+21300061,280,PT08M14.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,v,Noah BLOCK (1 BLK),,,0,264
+21300061,281,PT08M12.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,,,0,v,Boozer REBOUND (Off:1 Def:6),Rebound,Unknown,0,265
+21300061,282,PT08M01.00S,3,1610612754,IND,201579,Hibbert,R. Hibbert,0,0,0,,0,,,0,h,Hibbert S.FOUL (P2.T2),Foul,Shooting,0,266
+21300061,283,PT08M01.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,,,0,v,MISS Hinrich Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,267
+21300061,284,PT08M01.00S,3,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Normal Rebound,0,268
+21300061,285,PT08M01.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,47.0,46.0,93,v,Hinrich Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,269
+21300061,287,PT07M44.00S,3,1610612754,IND,202362,Stephenson,L. Stephenson,-182,-22,18,Missed,1,,,0,h,MISS Stephenson 18' Jump Shot,Missed Shot,Jump Shot,0,270
+21300061,288,PT07M43.00S,3,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,,,0,v,Butler REBOUND (Off:1 Def:1),Rebound,Unknown,0,271
+21300061,289,PT07M31.00S,3,1610612741,CHI,201565,Rose,D. Rose,18,9,2,Missed,1,,,0,v,MISS Rose 2' Layup,Missed Shot,Layup Shot,0,272
+21300061,290,PT07M31.00S,3,1610612754,IND,2561,West,D. West,0,0,0,,0,,,0,h,West REBOUND (Off:1 Def:5),Rebound,Unknown,0,273
+21300061,291,PT07M13.00S,3,1610612754,IND,202362,Stephenson,L. Stephenson,103,236,26,Missed,1,,,0,h,MISS Stephenson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,274
+21300061,292,PT07M11.00S,3,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,,,0,v,Rose REBOUND (Off:0 Def:1),Rebound,Unknown,0,275
+21300061,293,PT07M03.00S,3,1610612741,CHI,201565,Rose,D. Rose,-11,-3,1,Made,1,47.0,48.0,95,v,Rose 1' Layup (14 PTS),Made Shot,Layup Shot,0,276
+21300061,294,PT07M03.00S,3,1610612754,IND,201579,Hibbert,R. Hibbert,0,0,0,,0,,,0,h,Hibbert S.FOUL (P3.T3),Foul,Shooting,0,277
+21300061,295,PT07M03.00S,3,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,47.0,49.0,96,v,Rose Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,0,278
+21300061,297,PT06M46.00S,3,1610612754,IND,201228,Watson,C. Watson,20,1,2,Made,1,49.0,49.0,98,h,Watson 2' Layup (8 PTS) (Hibbert 2 AST),Made Shot,Layup Shot,0,279
+21300061,298,PT06M25.00S,3,1610612741,CHI,202710,Butler,J. Butler,-106,176,21,Made,1,49.0,51.0,100,v,Butler 21' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,0,280
+21300061,299,PT06M08.00S,3,1610612754,IND,2561,West,D. West,-125,44,13,Made,1,51.0,51.0,102,h,West 13' Jump Bank Shot (10 PTS),Made Shot,Jump Bank Shot,0,281
+21300061,300,PT05M48.00S,3,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,,,0,v,Rose Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,282
+21300061,300,PT05M48.00S,3,1610612754,IND,201228,Watson,C. Watson,0,0,0,,0,,,0,h,Watson STEAL (2 STL),,,0,283
+21300061,301,PT05M43.00S,3,1610612754,IND,201228,Watson,C. Watson,7,7,1,Missed,1,,,0,h,MISS Watson 1' Layup,Missed Shot,Layup Shot,0,284
+21300061,302,PT05M42.00S,3,1610612754,IND,2561,West,D. West,0,0,0,,0,,,0,h,West REBOUND (Off:2 Def:5),Rebound,Unknown,0,285
+21300061,303,PT05M41.00S,3,1610612754,IND,2561,West,D. West,1,1,0,Made,1,53.0,51.0,104,h,West Layup (12 PTS),Made Shot,Layup Shot,0,286
+21300061,304,PT05M17.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,-10,184,18,Missed,1,,,0,v,MISS Hinrich 18' Jump Shot,Missed Shot,Jump Shot,0,287
+21300061,305,PT05M16.00S,3,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,,,0,v,Butler REBOUND (Off:2 Def:1),Rebound,Unknown,0,288
+21300061,306,PT05M06.00S,3,1610612741,CHI,201565,Rose,D. Rose,-174,201,27,Missed,1,,,0,v,MISS Rose 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,289
+21300061,307,PT05M05.00S,3,1610612754,IND,201579,Hibbert,R. Hibbert,0,0,0,,0,,,0,h,Hibbert REBOUND (Off:3 Def:3),Rebound,Unknown,0,290
+21300061,308,PT04M56.00S,3,1610612754,IND,202331,George,P. George,237,11,24,Made,1,56.0,51.0,107,h,George 24' 3PT Jump Shot (15 PTS) (Stephenson 3 AST),Made Shot,Jump Shot,0,291
+21300061,309,PT04M55.00S,3,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,292
+21300061,311,PT04M55.00S,3,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,,,0,v,SUB: Dunleavy FOR Rose,Substitution,,0,293
+21300061,312,PT04M55.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,v,SUB: Deng FOR Noah,Substitution,,0,294
+21300061,313,PT04M55.00S,3,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,,,0,v,SUB: Gibson FOR Butler,Substitution,,0,295
+21300061,314,PT04M41.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,-19,6,2,Missed,1,,,0,v,MISS Boozer 2' Layup,Missed Shot,Layup Shot,0,296
+21300061,314,PT04M41.00S,3,1610612754,IND,201228,Watson,C. Watson,0,0,0,,0,,,0,h,Watson BLOCK (1 BLK),,,0,297
+21300061,315,PT04M39.00S,3,1610612754,IND,2561,West,D. West,0,0,0,,0,,,0,h,West REBOUND (Off:2 Def:6),Rebound,Unknown,0,298
+21300061,316,PT04M25.00S,3,1610612754,IND,202331,George,P. George,189,-6,19,Missed,1,,,0,h,MISS George 19' Jump Shot,Missed Shot,Jump Shot,0,299
+21300061,317,PT04M24.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,300
+21300061,318,PT04M24.00S,3,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,,,0,v,Gibson L.B.FOUL (P2.T4),Foul,Loose Ball,0,301
+21300061,319,PT04M14.00S,3,1610612754,IND,201579,Hibbert,R. Hibbert,-5,4,1,Missed,1,,,0,h,MISS Hibbert 1' Layup,Missed Shot,Layup Shot,0,302
+21300061,320,PT04M13.00S,3,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,,,0,v,Gibson REBOUND (Off:1 Def:2),Rebound,Unknown,0,303
+21300061,322,PT03M55.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,23,3,2,Made,1,56.0,53.0,109,v,Boozer 2' Layup (6 PTS),Made Shot,Layup Shot,0,304
+21300061,323,PT03M38.00S,3,1610612754,IND,2561,West,D. West,-67,156,17,Made,1,58.0,53.0,111,h,West 17' Jump Shot (14 PTS),Made Shot,Jump Shot,0,305
+21300061,324,PT03M14.00S,3,1610612754,IND,201228,Watson,C. Watson,0,0,0,,0,,,0,h,Watson S.FOUL (P4.T4),Foul,Shooting,0,306
+21300061,325,PT03M14.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,58.0,54.0,112,v,Hinrich Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,307
+21300061,327,PT03M14.00S,3,1610612754,IND,201579,Hibbert,R. Hibbert,0,0,0,,0,,,0,h,SUB: Mahinmi FOR Hibbert,Substitution,,0,308
+21300061,328,PT03M14.00S,3,1610612754,IND,201228,Watson,C. Watson,0,0,0,,0,,,0,h,SUB: Sloan FOR Watson,Substitution,,0,309
+21300061,329,PT03M14.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,58.0,55.0,113,v,Hinrich Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,310
+21300061,331,PT03M04.00S,3,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi OFF.Foul (P3),Foul,Offensive,0,311
+21300061,332,PT03M04.00S,3,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi Foul Turnover (P4.T12),Turnover,Foul,0,312
+21300061,333,PT02M52.00S,3,1610612741,CHI,2399,Dunleavy,M. Dunleavy,-101,244,26,Missed,1,,,0,v,MISS Dunleavy 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,313
+21300061,334,PT02M51.00S,3,1610612754,IND,202388,Sloan,D. Sloan,0,0,0,,0,,,0,h,Sloan REBOUND (Off:0 Def:4),Rebound,Unknown,0,314
+21300061,335,PT02M44.00S,3,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,,,0,v,Gibson S.FOUL (P3.PN),Foul,Shooting,0,315
+21300061,336,PT02M44.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,316
+21300061,338,PT02M44.00S,3,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,,,0,h,SUB: Johnson FOR Stephenson,Substitution,,0,317
+21300061,339,PT02M44.00S,3,1610612754,IND,202331,George,P. George,0,0,0,,0,59.0,55.0,114,h,George Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,318
+21300061,341,PT02M44.00S,3,1610612754,IND,202331,George,P. George,0,0,0,,0,60.0,55.0,115,h,George Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,319
+21300061,344,PT02M28.00S,3,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,,,0,v,Gibson Traveling Turnover (P2.T12),Turnover,Traveling,0,320
+21300061,345,PT02M12.00S,3,1610612754,IND,202331,George,P. George,70,33,8,Missed,1,,,0,h,MISS George 8' Jump Shot,Missed Shot,Jump Shot,0,321
+21300061,346,PT02M11.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,,,0,v,Hinrich REBOUND (Off:0 Def:3),Rebound,Unknown,0,322
+21300061,347,PT01M58.00S,3,1610612741,CHI,2736,Deng,L. Deng,-136,12,14,Missed,1,,,0,v,MISS Deng 14' Jump Shot,Missed Shot,Jump Shot,0,323
+21300061,348,PT01M56.00S,3,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,,,0,v,Gibson REBOUND (Off:2 Def:2),Rebound,Unknown,0,324
+21300061,349,PT01M54.00S,3,1610612741,CHI,201959,Gibson,T. Gibson,10,-3,1,Missed,1,,,0,v,MISS Gibson 1' Layup,Missed Shot,Layup Shot,0,325
+21300061,350,PT01M53.00S,3,1610612754,IND,2561,West,D. West,0,0,0,,0,,,0,h,West REBOUND (Off:2 Def:7),Rebound,Unknown,0,326
+21300061,351,PT01M44.00S,3,1610612754,IND,202388,Sloan,D. Sloan,-65,197,21,Missed,1,,,0,h,MISS Sloan 21' Jump Shot,Missed Shot,Jump Shot,0,327
+21300061,352,PT01M43.00S,3,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,,,0,v,Deng REBOUND (Off:0 Def:3),Rebound,Unknown,0,328
+21300061,353,PT01M27.00S,3,1610612741,CHI,201959,Gibson,T. Gibson,170,-5,17,Missed,1,,,0,v,MISS Gibson 17' Jump Shot,Missed Shot,Jump Shot,0,329
+21300061,354,PT01M26.00S,3,1610612754,IND,2561,West,D. West,0,0,0,,0,,,0,h,West REBOUND (Off:2 Def:8),Rebound,Unknown,0,330
+21300061,355,PT01M12.00S,3,1610612754,IND,202388,Sloan,D. Sloan,-226,20,0,Made,1,63.0,55.0,118,h,Sloan 3PT Jump Shot (7 PTS) (Johnson 1 AST),Made Shot,Jump Shot,0,331
+21300061,356,PT00M46.80S,3,1610612741,CHI,2399,Dunleavy,M. Dunleavy,170,104,20,Missed,1,,,0,v,MISS Dunleavy 20' Jump Shot,Missed Shot,Jump Shot,0,332
+21300061,357,PT00M44.90S,3,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,,,0,v,Gibson REBOUND (Off:3 Def:2),Rebound,Unknown,0,333
+21300061,358,PT00M42.10S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,-220,145,26,Made,1,63.0,58.0,121,v,Hinrich 26' 3PT Jump Shot (8 PTS) (Gibson 1 AST),Made Shot,Jump Shot,0,334
+21300061,359,PT00M24.90S,3,1610612754,IND,202331,George,P. George,-117,242,27,Missed,1,,,0,h,MISS George 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,335
+21300061,360,PT00M24.50S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,,,0,v,Boozer REBOUND (Off:1 Def:7),Rebound,Unknown,0,336
+21300061,361,PT00M05.90S,3,1610612741,CHI,2736,Deng,L. Deng,77,74,11,Made,1,63.0,60.0,123,v,Deng 11' Jump Shot (12 PTS),Made Shot,Jump Shot,0,337
+21300061,362,PT00M05.90S,3,1610612754,IND,202331,George,P. George,0,0,0,,0,,,0,h,George Shooting Block Foul (P2.PN),Foul,Shooting Block,0,338
+21300061,364,PT00M05.90S,3,0,,2345,,,0,0,0,,0,,,0,,Frank Vogel Foul:T.FOUL,Foul,Technical,0,339
+21300061,365,PT00M05.90S,3,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,63.0,61.0,124,v,Dunleavy Free Throw Technical (3 PTS),Free Throw,Free Throw Technical,0,340
+21300061,367,PT00M05.90S,3,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,SUB: Scola FOR Mahinmi,Substitution,,0,341
+21300061,368,PT00M05.90S,3,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,63.0,62.0,125,v,Deng Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,342
+21300061,370,PT00M00.00S,3,1610612754,IND,202331,George,P. George,-84,279,29,Missed,1,,,0,h,MISS George 29' 3PT Jump Shot,Missed Shot,Jump Shot,0,343
+21300061,372,PT00M00.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,344
+21300061,371,PT00M00.00S,3,0,,0,,,0,0,0,,0,63.0,62.0,125,,End of 3rd Period (8:55 PM EST),period,end,0,345
+21300061,374,PT12M00.00S,4,0,,0,,,0,0,0,,0,63.0,62.0,125,,Start of 4th Period (8:58 PM EST),period,start,0,346
+21300061,375,PT11M45.00S,4,1610612754,IND,202388,Sloan,D. Sloan,18,6,2,Missed,1,,,0,h,MISS Sloan 2' Layup,Missed Shot,Layup Shot,0,347
+21300061,376,PT11M43.00S,4,1610612754,IND,202388,Sloan,D. Sloan,0,0,0,,0,,,0,h,Sloan REBOUND (Off:1 Def:4),Rebound,Unknown,0,348
+21300061,377,PT11M34.00S,4,1610612754,IND,2449,Scola,L. Scola,0,0,0,,0,,,0,h,Scola Backcourt Turnover (P1.T13),Turnover,Backcourt Turnover,0,349
+21300061,379,PT11M18.00S,4,1610612741,CHI,2736,Deng,L. Deng,242,28,24,Missed,1,,,0,v,MISS Deng 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,350
+21300061,380,PT11M17.00S,4,1610612754,IND,203111,Johnson,O. Johnson,0,0,0,,0,,,0,h,Johnson REBOUND (Off:1 Def:2),Rebound,Unknown,0,351
+21300061,381,PT11M06.00S,4,1610612754,IND,2449,Scola,L. Scola,-112,153,19,Made,1,65.0,62.0,127,h,Scola 19' Jump Shot (6 PTS) (Sloan 2 AST),Made Shot,Jump Shot,0,352
+21300061,382,PT10M46.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,-87,15,9,Missed,1,,,0,v,MISS Gibson 9' Jump Shot,Missed Shot,Jump Shot,0,353
+21300061,382,PT10M46.00S,4,1610612754,IND,201579,Hibbert,R. Hibbert,0,0,0,,0,,,0,h,Hibbert BLOCK (4 BLK),,,0,354
+21300061,383,PT10M46.00S,4,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Unknown,0,355
+21300061,384,PT10M40.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,,,0,v,Hinrich Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,356
+21300061,384,PT10M40.00S,4,1610612754,IND,201579,Hibbert,R. Hibbert,0,0,0,,0,,,0,h,Hibbert STEAL (1 STL),,,0,357
+21300061,385,PT10M35.00S,4,1610612754,IND,203111,Johnson,O. Johnson,0,22,2,Missed,1,,,0,h,MISS Johnson 2' Layup,Missed Shot,Layup Shot,0,358
+21300061,386,PT10M35.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,,,0,v,Gibson REBOUND (Off:3 Def:3),Rebound,Unknown,0,359
+21300061,388,PT10M18.00S,4,1610612741,CHI,2399,Dunleavy,M. Dunleavy,2,102,10,Missed,1,,,0,v,MISS Dunleavy 10' Jump Shot,Missed Shot,Jump Shot,0,360
+21300061,389,PT10M17.00S,4,1610612754,IND,2449,Scola,L. Scola,0,0,0,,0,,,0,h,Scola REBOUND (Off:0 Def:2),Rebound,Unknown,0,361
+21300061,390,PT10M01.00S,4,1610612754,IND,202331,George,P. George,47,9,5,Missed,1,,,0,h,MISS George 5' Jump Shot,Missed Shot,Jump Shot,0,362
+21300061,391,PT10M00.00S,4,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Unknown,0,363
+21300061,392,PT09M45.00S,4,1610612741,CHI,2399,Dunleavy,M. Dunleavy,136,227,26,Made,1,65.0,65.0,130,v,Dunleavy 26' 3PT Jump Shot (6 PTS) (Hinrich 3 AST),Made Shot,Jump Shot,0,364
+21300061,393,PT09M24.00S,4,1610612754,IND,201579,Hibbert,R. Hibbert,0,0,0,,0,,,0,h,Hibbert Lost Ball Turnover (P2.T14),Turnover,Lost Ball,0,365
+21300061,393,PT09M24.00S,4,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,,,0,v,Mohammed STEAL (1 STL),,,0,366
+21300061,394,PT09M09.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,89,167,19,Missed,1,,,0,v,MISS Gibson 19' Jump Shot,Missed Shot,Jump Shot,0,367
+21300061,395,PT09M08.00S,4,1610612754,IND,203111,Johnson,O. Johnson,0,0,0,,0,,,0,h,Johnson REBOUND (Off:1 Def:3),Rebound,Unknown,0,368
+21300061,396,PT08M48.00S,4,1610612754,IND,202331,George,P. George,10,4,1,Missed,1,,,0,h,MISS George 1' Layup,Missed Shot,Layup Shot,0,369
+21300061,396,PT08M48.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,,,0,v,Gibson BLOCK (2 BLK),,,0,370
+21300061,397,PT08M46.00S,4,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,,,0,v,Mohammed REBOUND (Off:0 Def:1),Rebound,Unknown,0,371
+21300061,398,PT08M38.00S,4,1610612741,CHI,2736,Deng,L. Deng,-157,88,18,Made,1,65.0,67.0,132,v,Deng 18' Jump Shot (15 PTS) (Hinrich 4 AST),Made Shot,Jump Shot,0,372
+21300061,399,PT08M37.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,373
+21300061,401,PT08M37.00S,4,1610612754,IND,203111,Johnson,O. Johnson,0,0,0,,0,,,0,h,SUB: Stephenson FOR Johnson,Substitution,,0,374
+21300061,402,PT08M18.00S,4,1610612754,IND,202362,Stephenson,L. Stephenson,130,241,27,Missed,1,,,0,h,MISS Stephenson 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,375
+21300061,403,PT08M17.00S,4,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,,,0,v,Mohammed REBOUND (Off:0 Def:2),Rebound,Unknown,0,376
+21300061,404,PT07M57.00S,4,1610612741,CHI,2736,Deng,L. Deng,-11,-6,1,Missed,1,,,0,v,MISS Deng 1' Layup,Missed Shot,Layup Shot,0,377
+21300061,405,PT07M57.00S,4,1610612754,IND,201579,Hibbert,R. Hibbert,0,0,0,,0,,,0,h,Hibbert REBOUND (Off:3 Def:4),Rebound,Unknown,0,378
+21300061,406,PT07M57.00S,4,1610612754,IND,201579,Hibbert,R. Hibbert,0,0,0,,0,,,0,h,Jump Ball Hibbert vs. Gibson: Tip to George,Jump Ball,,0,379
+21300061,408,PT07M34.00S,4,1610612754,IND,202388,Sloan,D. Sloan,-142,93,17,Made,1,67.0,67.0,134,h,Sloan 17' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,0,380
+21300061,409,PT07M15.00S,4,1610612741,CHI,2736,Deng,L. Deng,-147,14,15,Made,1,67.0,69.0,136,v,Deng 15' Jump Shot (17 PTS) (Hinrich 5 AST),Made Shot,Jump Shot,0,381
+21300061,410,PT06M58.00S,4,1610612754,IND,202362,Stephenson,L. Stephenson,174,186,25,Made,1,70.0,69.0,139,h,Stephenson 25' 3PT Jump Shot (6 PTS) (Sloan 3 AST),Made Shot,Jump Shot,0,382
+21300061,411,PT06M40.00S,4,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,,,0,v,Mohammed Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,383
+21300061,412,PT06M17.00S,4,1610612754,IND,2449,Scola,L. Scola,165,11,17,Made,1,72.0,69.0,141,h,Scola 17' Jump Shot (8 PTS) (Stephenson 4 AST),Made Shot,Jump Shot,0,384
+21300061,413,PT06M16.00S,4,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,385
+21300061,415,PT06M16.00S,4,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,,,0,v,SUB: Rose FOR Dunleavy,Substitution,,0,386
+21300061,416,PT06M16.00S,4,1610612754,IND,202388,Sloan,D. Sloan,0,0,0,,0,,,0,h,SUB: Watson FOR Sloan,Substitution,,0,387
+21300061,417,PT05M58.00S,4,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,,,0,v,Deng Lost Ball Turnover (P1.T15),Turnover,Lost Ball,0,388
+21300061,417,PT05M58.00S,4,1610612754,IND,2449,Scola,L. Scola,0,0,0,,0,,,0,h,Scola STEAL (2 STL),,,0,389
+21300061,418,PT05M55.00S,4,1610612754,IND,2449,Scola,L. Scola,6,0,1,Made,1,74.0,69.0,143,h,Scola 1' Driving Finger Roll Layup (10 PTS),Made Shot,Driving Finger Roll Layup Shot,0,390
+21300061,419,PT05M39.00S,4,1610612741,CHI,2736,Deng,L. Deng,48,6,5,Missed,1,,,0,v,MISS Deng 5' Jump Shot,Missed Shot,Jump Shot,0,391
+21300061,420,PT05M38.00S,4,1610612754,IND,2449,Scola,L. Scola,0,0,0,,0,,,0,h,Scola REBOUND (Off:0 Def:3),Rebound,Unknown,0,392
+21300061,421,PT05M24.00S,4,1610612754,IND,2449,Scola,L. Scola,53,17,6,Missed,1,,,0,h,MISS Scola 6' Jump Shot,Missed Shot,Jump Shot,0,393
+21300061,421,PT05M24.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,,,0,v,Hinrich BLOCK (1 BLK),,,0,394
+21300061,422,PT05M24.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,395
+21300061,423,PT05M24.00S,4,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,,,0,v,SUB: Butler FOR Deng,Substitution,,0,396
+21300061,424,PT05M24.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,,,0,v,SUB: Boozer FOR Gibson,Substitution,,0,397
+21300061,425,PT05M24.00S,4,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,,,0,v,SUB: Noah FOR Mohammed,Substitution,,0,398
+21300061,426,PT05M21.00S,4,1610612754,IND,2449,Scola,L. Scola,59,195,20,Missed,1,,,0,h,MISS Scola 20' Jump Shot,Missed Shot,Jump Shot,0,399
+21300061,427,PT05M19.00S,4,1610612754,IND,202331,George,P. George,0,0,0,,0,,,0,h,George REBOUND (Off:1 Def:5),Rebound,Unknown,0,400
+21300061,428,PT05M16.00S,4,1610612754,IND,202362,Stephenson,L. Stephenson,146,241,28,Made,1,77.0,69.0,146,h,Stephenson 28' 3PT Jump Shot (9 PTS) (Hibbert 3 AST),Made Shot,Jump Shot,0,401
+21300061,429,PT05M15.00S,4,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,402
+21300061,431,PT05M00.00S,4,1610612741,CHI,202710,Butler,J. Butler,231,14,0,Made,1,77.0,72.0,149,v,Butler 3PT Jump Shot (7 PTS) (Rose 1 AST),Made Shot,Jump Shot,0,403
+21300061,432,PT04M39.00S,4,1610612754,IND,2449,Scola,L. Scola,2,205,21,Made,1,79.0,72.0,151,h,Scola 21' Jump Shot (12 PTS) (Watson 3 AST),Made Shot,Jump Shot,0,404
+21300061,433,PT04M30.00S,4,1610612741,CHI,201565,Rose,D. Rose,86,131,16,Missed,1,,,0,v,MISS Rose 16' Jump Shot,Missed Shot,Jump Shot,0,405
+21300061,434,PT04M29.00S,4,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,,,0,h,Stephenson REBOUND (Off:1 Def:3),Rebound,Unknown,0,406
+21300061,435,PT04M25.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,,,0,v,Hinrich S.FOUL (P3.T1),Foul,Shooting,0,407
+21300061,436,PT04M25.00S,4,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,80.0,72.0,152,h,Stephenson Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,408
+21300061,438,PT04M25.00S,4,1610612754,IND,2449,Scola,L. Scola,0,0,0,,0,,,0,h,SUB: West FOR Scola,Substitution,,0,409
+21300061,439,PT04M25.00S,4,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,,,0,h,MISS Stephenson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,410
+21300061,441,PT04M23.00S,4,1610612754,IND,2561,West,D. West,0,0,0,,0,,,0,h,West REBOUND (Off:3 Def:8),Rebound,Unknown,0,411
+21300061,442,PT04M18.00S,4,1610612754,IND,201228,Watson,C. Watson,-164,203,26,Made,1,83.0,72.0,155,h,Watson 26' 3PT Jump Shot (11 PTS) (George 2 AST),Made Shot,Jump Shot,0,412
+21300061,443,PT04M10.00S,4,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,,,0,h,Stephenson P.FOUL (P4.T1),Foul,Personal,0,413
+21300061,444,PT04M00.00S,4,1610612754,IND,201228,Watson,C. Watson,0,0,0,,0,,,0,h,Watson P.FOUL (P5.T2),Foul,Personal,0,414
+21300061,445,PT04M00.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,83.0,73.0,156,v,Hinrich Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,415
+21300061,447,PT04M00.00S,4,1610612754,IND,201228,Watson,C. Watson,0,0,0,,0,,,0,h,SUB: Sloan FOR Watson,Substitution,,0,416
+21300061,448,PT04M00.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,,,0,v,MISS Hinrich Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,417
+21300061,450,PT04M00.00S,4,1610612754,IND,2561,West,D. West,0,0,0,,0,,,0,h,West REBOUND (Off:3 Def:9),Rebound,Unknown,0,418
+21300061,451,PT03M52.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: 8 Second Violation (T#15),Turnover,8 Second Violation,0,419
+21300061,452,PT03M45.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,-37,36,5,Missed,1,,,0,v,MISS Boozer 5' Jump Shot,Missed Shot,Jump Shot,0,420
+21300061,452,PT03M45.00S,4,1610612754,IND,201579,Hibbert,R. Hibbert,0,0,0,,0,,,0,h,Hibbert BLOCK (5 BLK),,,0,421
+21300061,453,PT03M43.00S,4,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,,,0,v,Butler REBOUND (Off:3 Def:1),Rebound,Unknown,0,422
+21300061,454,PT03M40.00S,4,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,,,0,v,Butler Lost Ball Turnover (P3.T16),Turnover,Lost Ball,0,423
+21300061,454,PT03M40.00S,4,1610612754,IND,202388,Sloan,D. Sloan,0,0,0,,0,,,0,h,Sloan STEAL (1 STL),,,0,424
+21300061,455,PT03M37.00S,4,1610612754,IND,202362,Stephenson,L. Stephenson,13,-2,1,Made,1,85.0,73.0,158,h,Stephenson 1' Finger Roll Layup (12 PTS) (Sloan 4 AST),Made Shot,Finger Roll Layup Shot,0,425
+21300061,456,PT03M30.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,-235,-11,24,Made,1,85.0,76.0,161,v,Hinrich 24' 3PT Jump Shot (12 PTS) (Rose 2 AST),Made Shot,Jump Shot,0,426
+21300061,457,PT03M25.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,,,0,v,Hinrich FLAGRANT.FOUL.TYPE1 (P4.T2),Foul,Flagrant Type 1,0,427
+21300061,458,PT03M25.00S,4,0,,457,Lang,A. Lang,0,0,0,,0,,,0,,Support Ruling,Instant Replay,Support Ruling,0,428
+21300061,459,PT03M25.00S,4,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,,,0,h,MISS Stephenson Free Throw Flagrant 1 of 2,Free Throw,Free Throw Flagrant 1 of 2,0,429
+21300061,460,PT03M25.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,430
+21300061,461,PT03M25.00S,4,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,86.0,76.0,162,h,Stephenson Free Throw Flagrant 2 of 2 (13 PTS),Free Throw,Free Throw Flagrant 2 of 2,0,431
+21300061,463,PT03M17.00S,4,1610612754,IND,202362,Stephenson,L. Stephenson,18,0,2,Missed,1,,,0,h,MISS Stephenson 2' Layup,Missed Shot,Layup Shot,0,432
+21300061,465,PT03M16.00S,4,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,,,0,h,Stephenson REBOUND (Off:2 Def:3),Rebound,Unknown,0,433
+21300061,464,PT03M16.00S,4,1610612754,IND,202362,Stephenson,L. Stephenson,6,3,1,Missed,1,,,0,h,MISS Stephenson 1' Tip Shot,Missed Shot,Tip Shot,0,434
+21300061,466,PT03M15.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,,,0,v,Boozer REBOUND (Off:1 Def:8),Rebound,Unknown,0,435
+21300061,467,PT03M07.00S,4,1610612754,IND,201579,Hibbert,R. Hibbert,0,0,0,,0,,,0,h,Hibbert Shooting Block Foul (P4.T3),Foul,Shooting Block,0,436
+21300061,468,PT03M07.00S,4,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,86.0,77.0,163,v,Rose Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,437
+21300061,470,PT03M07.00S,4,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,86.0,78.0,164,v,Rose Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,438
+21300061,472,PT02M47.00S,4,1610612754,IND,2561,West,D. West,-49,189,20,Made,1,88.0,78.0,166,h,West 20' Jump Shot (16 PTS) (George 3 AST),Made Shot,Jump Shot,0,439
+21300061,473,PT02M37.00S,4,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,,,0,v,Rose Lost Ball Turnover (P4.T17),Turnover,Lost Ball,0,440
+21300061,473,PT02M37.00S,4,1610612754,IND,2561,West,D. West,0,0,0,,0,,,0,h,West STEAL (2 STL),,,0,441
+21300061,474,PT02M33.00S,4,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,v,Noah S.FOUL (P4.T3),Foul,Shooting,0,442
+21300061,475,PT02M33.00S,4,1610612754,IND,202331,George,P. George,0,0,0,,0,89.0,78.0,167,h,George Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,443
+21300061,477,PT02M33.00S,4,1610612754,IND,202331,George,P. George,0,0,0,,0,90.0,78.0,168,h,George Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,444
+21300061,479,PT02M24.00S,4,1610612741,CHI,201565,Rose,D. Rose,140,228,27,Missed,1,,,0,v,MISS Rose 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,445
+21300061,480,PT02M23.00S,4,1610612754,IND,202388,Sloan,D. Sloan,0,0,0,,0,,,0,h,Sloan REBOUND (Off:1 Def:5),Rebound,Unknown,0,446
+21300061,481,PT02M04.00S,4,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,v,Noah S.FOUL (P5.T4),Foul,Shooting,0,447
+21300061,482,PT02M04.00S,4,1610612754,IND,202331,George,P. George,0,0,0,,0,91.0,78.0,169,h,George Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,448
+21300061,485,PT02M04.00S,4,1610612754,IND,202388,Sloan,D. Sloan,0,0,0,,0,,,0,h,SUB: Watson FOR Sloan,Substitution,,0,449
+21300061,486,PT02M04.00S,4,1610612754,IND,202331,George,P. George,0,0,0,,0,92.0,78.0,170,h,George Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,450
+21300061,489,PT01M54.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,,,0,v,Hinrich Lost Ball Turnover (P3.T18),Turnover,Lost Ball,0,451
+21300061,489,PT01M54.00S,4,1610612754,IND,2561,West,D. West,0,0,0,,0,,,0,h,West STEAL (3 STL),,,0,452
+21300061,490,PT01M51.00S,4,1610612754,IND,202362,Stephenson,L. Stephenson,12,1,1,Made,1,94.0,78.0,172,h,Stephenson 1' Slam Dunk (15 PTS) (Watson 4 AST),Made Shot,Slam Dunk Shot,0,453
+21300061,491,PT01M51.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Violation: Delay of game Violation,Violation,Delay Of Game,0,454
+21300061,492,PT01M51.00S,4,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,455
+21300061,494,PT01M51.00S,4,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,,,0,v,SUB: Deng FOR Butler,Substitution,,0,456
+21300061,496,PT01M43.00S,4,1610612741,CHI,2736,Deng,L. Deng,-239,-10,24,Missed,1,,,0,v,MISS Deng 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,457
+21300061,497,PT01M43.00S,4,1610612754,IND,201579,Hibbert,R. Hibbert,0,0,0,,0,,,0,h,Hibbert REBOUND (Off:3 Def:5),Rebound,Unknown,0,458
+21300061,498,PT01M27.00S,4,1610612754,IND,202331,George,P. George,127,138,19,Missed,1,,,0,h,MISS George 19' Jump Shot,Missed Shot,Jump Shot,0,459
+21300061,499,PT01M25.00S,4,1610612754,IND,201579,Hibbert,R. Hibbert,0,0,0,,0,,,0,h,Hibbert REBOUND (Off:4 Def:5),Rebound,Unknown,0,460
+21300061,500,PT01M07.00S,4,1610612754,IND,201579,Hibbert,R. Hibbert,7,201,20,Missed,1,,,0,h,MISS Hibbert 20' Jump Shot,Missed Shot,Jump Shot,0,461
+21300061,501,PT01M05.00S,4,1610612754,IND,2561,West,D. West,0,0,0,,0,,,0,h,West REBOUND (Off:4 Def:9),Rebound,Unknown,0,462
+21300061,502,PT01M05.00S,4,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,,,0,v,Deng P.FOUL (P1.PN),Foul,Personal,0,463
+21300061,503,PT01M05.00S,4,1610612754,IND,2561,West,D. West,0,0,0,,0,95.0,78.0,173,h,West Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,464
+21300061,505,PT01M05.00S,4,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,,,0,v,SUB: Murphy FOR Deng,Substitution,,0,465
+21300061,506,PT01M05.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,,,0,v,SUB: Snell FOR Boozer,Substitution,,0,466
+21300061,507,PT01M05.00S,4,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,v,SUB: Teague FOR Noah,Substitution,,0,467
+21300061,508,PT01M05.00S,4,1610612741,CHI,201565,Rose,D. Rose,0,0,0,,0,,,0,v,SUB: Mohammed FOR Rose,Substitution,,0,468
+21300061,509,PT01M05.00S,4,1610612754,IND,202331,George,P. George,0,0,0,,0,,,0,h,SUB: Sloan FOR George,Substitution,,0,469
+21300061,510,PT01M05.00S,4,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,,,0,h,SUB: Johnson FOR Stephenson,Substitution,,0,470
+21300061,511,PT01M05.00S,4,1610612754,IND,2561,West,D. West,0,0,0,,0,,,0,h,MISS West Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,471
+21300061,513,PT01M05.00S,4,1610612754,IND,201579,Hibbert,R. Hibbert,0,0,0,,0,,,0,h,Hibbert REBOUND (Off:5 Def:5),Rebound,Unknown,0,472
+21300061,514,PT01M05.00S,4,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,,,0,v,Mohammed P.FOUL (P1.PN),Foul,Personal,0,473
+21300061,515,PT01M05.00S,4,1610612754,IND,201579,Hibbert,R. Hibbert,0,0,0,,0,96.0,78.0,174,h,Hibbert Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,474
+21300061,517,PT01M05.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,,,0,v,SUB: James FOR Hinrich,Substitution,,0,475
+21300061,518,PT01M05.00S,4,1610612754,IND,2561,West,D. West,0,0,0,,0,,,0,h,SUB: Butler FOR West,Substitution,,0,476
+21300061,519,PT01M05.00S,4,1610612754,IND,201228,Watson,C. Watson,0,0,0,,0,,,0,h,SUB: S. Hill FOR Watson,Substitution,,0,477
+21300061,520,PT01M05.00S,4,1610612754,IND,201579,Hibbert,R. Hibbert,0,0,0,,0,97.0,78.0,175,h,Hibbert Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,478
+21300061,522,PT01M01.00S,4,1610612754,IND,202388,Sloan,D. Sloan,0,0,0,,0,,,0,h,Sloan Personal Take Foul (P2.T4),Foul,Personal Take,0,479
+21300061,523,PT01M01.00S,4,1610612754,IND,201579,Hibbert,R. Hibbert,0,0,0,,0,,,0,h,SUB: Copeland FOR Hibbert,Substitution,,0,480
+21300061,524,PT00M45.90S,4,1610612741,CHI,203104,Teague,M. Teague,1,47,5,Missed,1,,,0,v,MISS Teague 5' Jump Shot,Missed Shot,Jump Shot,0,481
+21300061,525,PT00M44.90S,4,1610612754,IND,203524,Hill,S. Hill,0,0,0,,0,,,0,h,S. Hill REBOUND (Off:1 Def:1),Rebound,Unknown,0,482
+21300061,526,PT00M21.90S,4,1610612754,IND,203142,Copeland,C. Copeland,84,258,27,Missed,1,,,0,h,MISS Copeland 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,483
+21300061,527,PT00M17.90S,4,1610612741,CHI,203503,Snell,T. Snell,0,0,0,,0,,,0,v,Snell REBOUND (Off:0 Def:1),Rebound,Unknown,0,484
+21300061,528,PT00M04.40S,4,1610612741,CHI,1737,Mohammed,N. Mohammed,-13,173,17,Made,1,97.0,80.0,177,v,Mohammed 17' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,0,485
+21300061,529,PT00M00.00S,4,0,,0,,,0,0,0,,0,97.0,80.0,177,,End of 4th Period (9:36 PM EST),period,end,0,486

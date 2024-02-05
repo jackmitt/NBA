@@ -1,0 +1,490 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+20000318,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (1:05 PM EST),period,start,0,1
+20000318,1,PT12M00.00S,1,1610612756,PHX,201,Dudley,C. Dudley,0,0,0,,0,0.0,0.0,0,h,Jump Ball Dudley vs. Robinson: Tip to Robinson,Jump Ball,,0,2
+20000318,2,PT11M46.00S,1,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson S.FOUL (P1.T1),Foul,Shooting,0,3
+20000318,3,PT11M46.00S,1,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,1.0,0.0,1,h,Robinson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,4
+20000318,4,PT11M46.00S,1,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,2.0,0.0,2,h,Robinson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,5
+20000318,5,PT11M30.00S,1,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion P.FOUL (P1.T1),Foul,Personal,0,6
+20000318,6,PT11M18.00S,1,1610612759,SAS,251,Elliott,S. Elliott,0,0,0,,0,0.0,0.0,0,v,Elliott Backcourt Turnover (P1.T1),Turnover,Backcourt Turnover,0,7
+20000318,7,PT11M04.00S,1,1610612756,PHX,201,Dudley,C. Dudley,16,78,8,Made,1,4.0,0.0,4,h,Dudley 8' Jump Shot (2 PTS) (Robinson 1 AST),Made Shot,Jump Shot,0,8
+20000318,8,PT10M44.00S,1,1610612759,SAS,1507,Anderson,D. Anderson,-77,158,18,Missed,1,0.0,0.0,0,v,MISS Anderson 18' Jump Shot,Missed Shot,Jump Shot,0,9
+20000318,9,PT10M42.00S,1,1610612756,PHX,201,Dudley,C. Dudley,0,0,0,,0,0.0,0.0,0,h,Dudley REBOUND (Off:0 Def:1),Rebound,Unknown,0,10
+20000318,10,PT10M36.00S,1,1610612756,PHX,361,Robinson,C. Robinson,-63,238,25,Missed,1,0.0,0.0,0,h,MISS Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,11
+20000318,11,PT10M35.00S,1,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,h,SUNS Rebound,Rebound,Unknown,0,12
+20000318,12,PT10M35.00S,1,1610612759,SAS,1507,Anderson,D. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson L.B.FOUL (P1.T2),Foul,Loose Ball,0,13
+20000318,13,PT10M25.00S,1,1610612756,PHX,201,Dudley,C. Dudley,-77,4,8,Made,1,6.0,0.0,6,h,Dudley 8' Jump Shot (4 PTS) (Elie 1 AST),Made Shot,Jump Shot,0,14
+20000318,14,PT10M04.00S,1,1610612759,SAS,251,Elliott,S. Elliott,237,-15,24,Made,1,6.0,3.0,9,v,Elliott 24' 3PT Jump Shot (3 PTS) (Anderson 1 AST),Made Shot,Jump Shot,0,15
+20000318,15,PT09M47.00S,1,1610612756,PHX,1890,Marion,S. Marion,73,165,18,Missed,1,0.0,0.0,0,h,MISS Marion 18' Jump Shot,Missed Shot,Jump Shot,0,16
+20000318,16,PT09M44.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan REBOUND (Off:0 Def:1),Rebound,Unknown,0,17
+20000318,17,PT09M35.00S,1,1610612759,SAS,764,Robinson,D. Robinson,-149,28,15,Made,1,6.0,5.0,11,v,Robinson 15' Jump Shot (2 PTS),Made Shot,Jump Shot,0,18
+20000318,18,PT09M14.00S,1,1610612756,PHX,361,Robinson,C. Robinson,-63,165,18,Made,1,8.0,5.0,13,h,Robinson 18' Jump Shot (4 PTS) (Marion 1 AST),Made Shot,Jump Shot,0,19
+20000318,19,PT09M05.00S,1,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson P.FOUL (P1.T2),Foul,Personal,0,20
+20000318,20,PT09M00.00S,1,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson P.FOUL (P2.T3),Foul,Personal,0,21
+20000318,21,PT09M00.00S,1,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,h,SUB: Rogers FOR Robinson,Substitution,,0,22
+20000318,22,PT08M56.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,7,101,10,Missed,1,0.0,0.0,0,v,MISS Duncan 10' Jump Shot,Missed Shot,Jump Shot,0,23
+20000318,23,PT08M55.00S,1,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion REBOUND (Off:0 Def:1),Rebound,Unknown,0,24
+20000318,24,PT08M46.00S,1,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,Missed,1,0.0,0.0,0,h,MISS Rogers  Layup,Missed Shot,Layup Shot,0,25
+20000318,25,PT08M44.00S,1,1610612759,SAS,251,Elliott,S. Elliott,0,0,0,,0,0.0,0.0,0,v,Elliott REBOUND (Off:0 Def:1),Rebound,Unknown,0,26
+20000318,26,PT08M29.00S,1,1610612759,SAS,1498,Daniels,A. Daniels,0,0,0,,0,0.0,0.0,0,v,Daniels Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,27
+20000318,26,PT08M29.00S,1,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion STEAL (1 STL),,,0,28
+20000318,27,PT08M22.00S,1,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,29
+20000318,27,PT08M22.00S,1,1610612759,SAS,1498,Daniels,A. Daniels,0,0,0,,0,0.0,0.0,0,v,Daniels STEAL (1 STL),,,0,30
+20000318,28,PT08M17.00S,1,1610612759,SAS,251,Elliott,S. Elliott,-128,222,26,Missed,1,0.0,0.0,0,v,MISS Elliott 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,31
+20000318,29,PT08M15.00S,1,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,h,SUNS Rebound,Rebound,Unknown,0,32
+20000318,30,PT07M55.00S,1,1610612756,PHX,467,Kidd,J. Kidd,100,205,23,Made,1,10.0,5.0,15,h,Kidd 23' Jump Shot (2 PTS) (Elie 2 AST),Made Shot,Jump Shot,0,33
+20000318,31,PT07M48.00S,1,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Timeout: Short (Reg.0 Short 1),Timeout,Short,0,34
+20000318,33,PT07M32.00S,1,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,35
+20000318,33,PT07M32.00S,1,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion STEAL (2 STL),,,0,36
+20000318,34,PT07M14.00S,1,1610612756,PHX,53,Elie,M. Elie,-162,181,24,Made,1,13.0,5.0,18,h,Elie 24' 3PT Jump Shot (3 PTS) (Kidd 1 AST),Made Shot,Jump Shot,0,37
+20000318,35,PT06M58.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,-113,78,14,Missed,1,0.0,0.0,0,v,MISS Duncan 14' Jump Shot,Missed Shot,Jump Shot,0,38
+20000318,36,PT06M56.00S,1,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion REBOUND (Off:0 Def:2),Rebound,Unknown,0,39
+20000318,37,PT06M52.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan S.FOUL (P1.T3),Foul,Shooting,0,40
+20000318,38,PT06M52.00S,1,1610612759,SAS,1498,Daniels,A. Daniels,0,0,0,,0,0.0,0.0,0,v,SUB: Rose FOR Daniels,Substitution,,0,41
+20000318,39,PT06M52.00S,1,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,v,SUB: Porter FOR Robinson,Substitution,,0,42
+20000318,40,PT06M52.00S,1,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,h,MISS Rogers Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,43
+20000318,41,PT06M52.00S,1,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,h,SUNS Rebound,Rebound,Normal Rebound,0,44
+20000318,42,PT06M52.00S,1,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,,0,14.0,5.0,19,h,Rogers Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,45
+20000318,43,PT06M42.00S,1,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,h,Rogers S.FOUL (P1.T4),Foul,Shooting,0,46
+20000318,44,PT06M42.00S,1,1610612759,SAS,345,Porter,T. Porter,0,0,0,,0,14.0,6.0,20,v,Porter Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,47
+20000318,45,PT06M42.00S,1,1610612759,SAS,345,Porter,T. Porter,0,0,0,,0,14.0,7.0,21,v,Porter Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,48
+20000318,46,PT06M21.00S,1,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,49
+20000318,46,PT06M21.00S,1,1610612759,SAS,251,Elliott,S. Elliott,0,0,0,,0,0.0,0.0,0,v,Elliott STEAL (1 STL),,,0,50
+20000318,47,PT06M14.00S,1,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion P.FOUL (P2.PN),Foul,Personal,0,51
+20000318,48,PT06M14.00S,1,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,h,SUNS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,52
+20000318,50,PT06M14.00S,1,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,SUB: Gugliotta FOR Marion,Substitution,,0,53
+20000318,51,PT06M14.00S,1,1610612759,SAS,1507,Anderson,D. Anderson,0,0,0,,0,14.0,8.0,22,v,Anderson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,54
+20000318,52,PT06M14.00S,1,1610612759,SAS,1507,Anderson,D. Anderson,0,0,0,,0,0.0,0.0,0,v,MISS Anderson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,55
+20000318,53,PT06M13.00S,1,1610612756,PHX,201,Dudley,C. Dudley,0,0,0,,0,0.0,0.0,0,h,Dudley REBOUND (Off:0 Def:2),Rebound,Unknown,0,56
+20000318,54,PT06M00.00S,1,1610612756,PHX,915,Rogers,R. Rogers,-119,0,12,Made,1,16.0,8.0,24,h,Rogers 12' Jump Shot (3 PTS) (Kidd 2 AST),Made Shot,Jump Shot,0,57
+20000318,55,PT05M40.00S,1,1610612759,SAS,1507,Anderson,D. Anderson,144,198,24,Missed,1,0.0,0.0,0,v,MISS Anderson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,58
+20000318,56,PT05M39.00S,1,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd REBOUND (Off:0 Def:1),Rebound,Unknown,0,59
+20000318,57,PT05M31.00S,1,1610612756,PHX,467,Kidd,J. Kidd,-84,15,9,Made,1,18.0,8.0,26,h,Kidd 9' Jump Shot (4 PTS),Made Shot,Jump Shot,0,60
+20000318,58,PT05M07.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,Missed,1,0.0,0.0,0,v,MISS Duncan  Layup,Missed Shot,Layup Shot,0,61
+20000318,59,PT05M06.00S,1,1610612759,SAS,345,Porter,T. Porter,0,0,0,,0,0.0,0.0,0,v,Porter REBOUND (Off:1 Def:0),Rebound,Unknown,0,62
+20000318,60,PT05M01.00S,1,1610612759,SAS,345,Porter,T. Porter,0,0,0,,0,0.0,0.0,0,v,Porter Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,63
+20000318,60,PT05M01.00S,1,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd STEAL (1 STL),,,0,64
+20000318,61,PT05M01.00S,1,1610612759,SAS,990,Rose,M. Rose,0,0,0,,0,0.0,0.0,0,v,Rose P.FOUL (P1.T4),Foul,Personal,0,65
+20000318,62,PT05M01.00S,1,1610612756,PHX,201,Dudley,C. Dudley,0,0,0,,0,0.0,0.0,0,h,SUB: Santiago FOR Dudley,Substitution,,0,66
+20000318,63,PT04M52.00S,1,1610612756,PHX,2091,Santiago,D. Santiago,0,0,0,,0,0.0,0.0,0,h,Santiago Traveling Turnover (P1.T3),Turnover,Traveling,0,67
+20000318,64,PT04M52.00S,1,1610612759,SAS,251,Elliott,S. Elliott,0,0,0,,0,0.0,0.0,0,v,SUB: Ferry FOR Elliott,Substitution,,0,68
+20000318,65,PT04M32.00S,1,1610612759,SAS,990,Rose,M. Rose,0,0,0,Made,1,18.0,10.0,28,v,Rose  Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,69
+20000318,66,PT04M15.00S,1,1610612756,PHX,467,Kidd,J. Kidd,144,175,23,Made,1,20.0,10.0,30,h,Kidd 23' Jump Shot (6 PTS),Made Shot,Jump Shot,0,70
+20000318,67,PT03M58.00S,1,1610612756,PHX,2091,Santiago,D. Santiago,0,0,0,,0,0.0,0.0,0,h,Santiago P.FOUL (P1.PN),Foul,Personal,0,71
+20000318,68,PT03M58.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,20.0,11.0,31,v,Duncan Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,72
+20000318,69,PT03M58.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,20.0,12.0,32,v,Duncan Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,73
+20000318,70,PT03M39.00S,1,1610612756,PHX,915,Rogers,R. Rogers,-134,205,24,Missed,1,0.0,0.0,0,h,MISS Rogers 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,74
+20000318,71,PT03M38.00S,1,1610612759,SAS,345,Porter,T. Porter,0,0,0,,0,0.0,0.0,0,v,Porter REBOUND (Off:1 Def:1),Rebound,Unknown,0,75
+20000318,72,PT03M25.00S,1,1610612759,SAS,198,Ferry,D. Ferry,153,192,25,Missed,1,0.0,0.0,0,v,MISS Ferry 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,76
+20000318,73,PT03M23.00S,1,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,h,Rogers REBOUND (Off:0 Def:1),Rebound,Unknown,0,77
+20000318,74,PT03M14.00S,1,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,Missed,1,0.0,0.0,0,h,MISS Rogers  Layup,Missed Shot,Layup Shot,0,78
+20000318,75,PT03M13.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan REBOUND (Off:0 Def:2),Rebound,Unknown,0,79
+20000318,76,PT03M07.00S,1,1610612759,SAS,1507,Anderson,D. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,80
+20000318,76,PT03M07.00S,1,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd STEAL (2 STL),,,0,81
+20000318,77,PT03M01.00S,1,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,Made,1,22.0,12.0,34,h,Kidd  Layup (8 PTS) (Elie 3 AST),Made Shot,Layup Shot,0,82
+20000318,78,PT02M54.00S,1,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Timeout: Regular (Reg.1 Short 1),Timeout,Regular,0,83
+20000318,80,PT02M54.00S,1,1610612756,PHX,53,Elie,M. Elie,0,0,0,,0,0.0,0.0,0,h,SUB: Delk FOR Elie,Substitution,,0,84
+20000318,81,PT02M54.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,SUB: Robinson FOR Duncan,Substitution,,0,85
+20000318,82,PT02M54.00S,1,1610612759,SAS,1507,Anderson,D. Anderson,0,0,0,,0,0.0,0.0,0,v,SUB: Daniels FOR Anderson,Substitution,,0,86
+20000318,83,PT02M44.00S,1,1610612759,SAS,198,Ferry,D. Ferry,73,232,24,Missed,1,0.0,0.0,0,v,MISS Ferry 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,87
+20000318,84,PT02M42.00S,1,1610612759,SAS,198,Ferry,D. Ferry,0,0,0,,0,0.0,0.0,0,v,Ferry REBOUND (Off:1 Def:0),Rebound,Unknown,0,88
+20000318,85,PT02M38.00S,1,1610612756,PHX,339,Gugliotta,T. Gugliotta,0,0,0,,0,0.0,0.0,0,h,Gugliotta S.FOUL (P1.PN),Foul,Shooting,0,89
+20000318,86,PT02M38.00S,1,1610612759,SAS,990,Rose,M. Rose,0,0,0,,0,22.0,13.0,35,v,Rose Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,90
+20000318,87,PT02M38.00S,1,1610612759,SAS,990,Rose,M. Rose,0,0,0,,0,22.0,14.0,36,v,Rose Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,91
+20000318,88,PT02M26.00S,1,1610612756,PHX,2091,Santiago,D. Santiago,0,0,0,Made,1,24.0,14.0,38,h,Santiago  Layup (2 PTS) (Rogers 1 AST),Made Shot,Layup Shot,0,92
+20000318,89,PT02M26.00S,1,1610612759,SAS,345,Porter,T. Porter,0,0,0,,0,0.0,0.0,0,v,Porter S.FOUL (P1.PN),Foul,Shooting,0,93
+20000318,90,PT02M26.00S,1,1610612756,PHX,2091,Santiago,D. Santiago,0,0,0,,0,25.0,14.0,39,h,Santiago Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,94
+20000318,91,PT02M17.00S,1,1610612759,SAS,1498,Daniels,A. Daniels,-48,51,7,Made,1,25.0,16.0,41,v,Daniels 7' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,0,95
+20000318,92,PT01M52.00S,1,1610612759,SAS,345,Porter,T. Porter,0,0,0,,0,0.0,0.0,0,v,Porter S.FOUL (P2.PN),Foul,Shooting,0,96
+20000318,93,PT01M52.00S,1,1610612756,PHX,960,Delk,T. Delk,0,0,0,,0,0.0,0.0,0,h,MISS Delk Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,97
+20000318,94,PT01M52.00S,1,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,h,SUNS Rebound,Rebound,Normal Rebound,0,98
+20000318,95,PT01M52.00S,1,1610612759,SAS,345,Porter,T. Porter,0,0,0,,0,0.0,0.0,0,v,SUB: Anderson FOR Porter,Substitution,,0,99
+20000318,96,PT01M52.00S,1,1610612756,PHX,960,Delk,T. Delk,0,0,0,,0,26.0,16.0,42,h,Delk Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,100
+20000318,97,PT01M35.00S,1,1610612759,SAS,198,Ferry,D. Ferry,-200,34,20,Missed,1,0.0,0.0,0,v,MISS Ferry 20' Jump Shot,Missed Shot,Jump Shot,0,101
+20000318,98,PT01M34.00S,1,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,h,Rogers REBOUND (Off:0 Def:2),Rebound,Unknown,0,102
+20000318,99,PT01M29.00S,1,1610612756,PHX,960,Delk,T. Delk,-128,40,13,Missed,1,0.0,0.0,0,h,MISS Delk 13' Jump Shot,Missed Shot,Jump Shot,0,103
+20000318,100,PT01M28.00S,1,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Rebound,Rebound,Unknown,0,104
+20000318,101,PT01M16.00S,1,1610612756,PHX,339,Gugliotta,T. Gugliotta,0,0,0,,0,0.0,0.0,0,h,Gugliotta P.FOUL (P2.PN),Foul,Personal,0,105
+20000318,102,PT01M16.00S,1,1610612759,SAS,1507,Anderson,D. Anderson,0,0,0,,0,26.0,17.0,43,v,Anderson Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,106
+20000318,103,PT01M16.00S,1,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,SUB: Perry FOR Kidd,Substitution,,0,107
+20000318,104,PT01M16.00S,1,1610612756,PHX,339,Gugliotta,T. Gugliotta,0,0,0,,0,0.0,0.0,0,h,SUB: Elie FOR Gugliotta,Substitution,,0,108
+20000318,105,PT01M16.00S,1,1610612759,SAS,1507,Anderson,D. Anderson,0,0,0,,0,26.0,18.0,44,v,Anderson Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,109
+20000318,106,PT01M06.00S,1,1610612756,PHX,2091,Santiago,D. Santiago,0,0,0,Made,1,28.0,18.0,46,h,Santiago  Dunk (5 PTS) (Rogers 2 AST),Made Shot,Dunk Shot,0,110
+20000318,107,PT00M49.70S,1,1610612759,SAS,1498,Daniels,A. Daniels,0,0,0,,0,0.0,0.0,0,v,Daniels Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,111
+20000318,108,PT00M32.90S,1,1610612756,PHX,960,Delk,T. Delk,-113,45,12,Missed,1,0.0,0.0,0,h,MISS Delk 12' Jump Shot,Missed Shot,Jump Shot,0,112
+20000318,109,PT00M30.80S,1,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Rebound,Rebound,Unknown,0,113
+20000318,110,PT00M17.90S,1,1610612759,SAS,764,Robinson,D. Robinson,16,148,15,Missed,1,0.0,0.0,0,v,MISS Robinson 15' Jump Shot,Missed Shot,Jump Shot,0,114
+20000318,111,PT00M14.30S,1,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,h,SUNS Rebound,Rebound,Unknown,0,115
+20000318,112,PT00M00.00S,1,0,,0,,,0,0,0,,0,28.0,18.0,46,,End of 1st Period (1:34 PM EST),period,end,0,116
+20000318,114,PT12M00.00S,2,0,,0,,,0,0,0,,0,28.0,18.0,46,,Start of 2nd Period (1:37 PM EST),period,start,0,117
+20000318,115,PT11M56.00S,2,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,Made,1,28.0,20.0,48,v,Robinson  Dunk (4 PTS) (Anderson 2 AST),Made Shot,Dunk Shot,0,118
+20000318,116,PT11M56.00S,2,1610612756,PHX,2091,Santiago,D. Santiago,0,0,0,,0,0.0,0.0,0,h,Santiago S.FOUL (P2.T1),Foul,Shooting,0,119
+20000318,117,PT11M56.00S,2,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,28.0,21.0,49,v,Robinson Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,120
+20000318,118,PT11M40.00S,2,1610612756,PHX,915,Rogers,R. Rogers,-141,0,14,Made,1,30.0,21.0,51,h,Rogers 14' Jump Shot (5 PTS),Made Shot,Jump Shot,0,121
+20000318,119,PT11M27.00S,2,1610612759,SAS,1507,Anderson,D. Anderson,-18,158,16,Missed,1,0.0,0.0,0,v,MISS Anderson 16' Jump Shot,Missed Shot,Jump Shot,0,122
+20000318,120,PT11M26.00S,2,1610612759,SAS,990,Rose,M. Rose,0,0,0,,0,0.0,0.0,0,v,Rose REBOUND (Off:1 Def:0),Rebound,Unknown,0,123
+20000318,121,PT11M23.00S,2,1610612759,SAS,990,Rose,M. Rose,0,0,0,,0,0.0,0.0,0,v,Rose Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,124
+20000318,121,PT11M23.00S,2,1610612756,PHX,386,Perry,E. Perry,0,0,0,,0,0.0,0.0,0,h,Perry STEAL (1 STL),,,0,125
+20000318,122,PT11M20.00S,2,1610612756,PHX,386,Perry,E. Perry,0,0,0,Made,1,32.0,21.0,53,h,Perry  Layup (2 PTS),Made Shot,Layup Shot,0,126
+20000318,123,PT11M01.00S,2,1610612756,PHX,2091,Santiago,D. Santiago,0,0,0,,0,0.0,0.0,0,h,Santiago S.FOUL (P3.T2),Foul,Shooting,0,127
+20000318,124,PT11M01.00S,2,1610612759,SAS,990,Rose,M. Rose,0,0,0,,0,0.0,0.0,0,v,SUB: Duncan FOR Rose,Substitution,,0,128
+20000318,125,PT11M01.00S,2,1610612759,SAS,198,Ferry,D. Ferry,0,0,0,,0,0.0,0.0,0,v,SUB: Elliott FOR Ferry,Substitution,,0,129
+20000318,126,PT11M01.00S,2,1610612759,SAS,1507,Anderson,D. Anderson,0,0,0,,0,32.0,22.0,54,v,Anderson Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,130
+20000318,127,PT11M01.00S,2,1610612756,PHX,2091,Santiago,D. Santiago,0,0,0,,0,0.0,0.0,0,h,SUB: Marion FOR Santiago,Substitution,,0,131
+20000318,128,PT11M01.00S,2,1610612759,SAS,1507,Anderson,D. Anderson,0,0,0,,0,32.0,23.0,55,v,Anderson Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,132
+20000318,129,PT10M46.00S,2,1610612756,PHX,915,Rogers,R. Rogers,43,45,6,Missed,1,0.0,0.0,0,h,MISS Rogers 6' Jump Shot,Missed Shot,Jump Shot,0,133
+20000318,129,PT10M46.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan BLOCK (1 BLK),,,0,134
+20000318,131,PT10M44.00S,2,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,h,Rogers REBOUND (Off:1 Def:2),Rebound,Unknown,0,135
+20000318,130,PT10M44.00S,2,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,Made,1,34.0,23.0,57,h,Rogers  Layup (7 PTS),Made Shot,Layup Shot,0,136
+20000318,132,PT10M25.00S,2,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson Offensive Goaltending Turnover (P2.T8),Turnover,Offensive Goaltending,0,137
+20000318,133,PT10M13.00S,2,1610612756,PHX,915,Rogers,R. Rogers,85,15,9,Missed,1,0.0,0.0,0,h,MISS Rogers 9' Jump Shot,Missed Shot,Jump Shot,0,138
+20000318,134,PT10M11.00S,2,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,139
+20000318,135,PT10M07.00S,2,1610612759,SAS,1498,Daniels,A. Daniels,0,0,0,Made,1,34.0,25.0,59,v,Daniels  Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,140
+20000318,136,PT09M45.00S,2,1610612756,PHX,915,Rogers,R. Rogers,85,34,9,Made,1,36.0,25.0,61,h,Rogers 9' Jump Shot (9 PTS),Made Shot,Jump Shot,0,141
+20000318,137,PT09M35.00S,2,1610612759,SAS,1498,Daniels,A. Daniels,0,0,0,,0,0.0,0.0,0,v,Daniels Lost Ball Turnover (P3.T9),Turnover,Lost Ball,0,142
+20000318,137,PT09M35.00S,2,1610612756,PHX,386,Perry,E. Perry,0,0,0,,0,0.0,0.0,0,h,Perry STEAL (2 STL),,,0,143
+20000318,138,PT09M32.00S,2,1610612756,PHX,386,Perry,E. Perry,0,0,0,Made,1,38.0,25.0,63,h,Perry  Layup (4 PTS),Made Shot,Layup Shot,0,144
+20000318,139,PT09M13.00S,2,1610612759,SAS,1507,Anderson,D. Anderson,-170,28,17,Missed,1,0.0,0.0,0,v,MISS Anderson 17' Jump Shot,Missed Shot,Jump Shot,0,145
+20000318,140,PT09M11.00S,2,1610612756,PHX,386,Perry,E. Perry,0,0,0,,0,0.0,0.0,0,h,Perry REBOUND (Off:0 Def:1),Rebound,Unknown,0,146
+20000318,141,PT09M01.00S,2,1610612756,PHX,1890,Marion,S. Marion,-98,15,10,Made,1,40.0,25.0,65,h,Marion 10' Jump Shot (2 PTS),Made Shot,Jump Shot,0,147
+20000318,142,PT08M58.00S,2,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Timeout: Regular (Reg.2 Short 1),Timeout,Regular,0,148
+20000318,144,PT08M42.00S,2,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,Made,1,40.0,27.0,67,v,Robinson  Dunk (7 PTS) (Elliott 1 AST),Made Shot,Dunk Shot,0,149
+20000318,145,PT08M22.00S,2,1610612756,PHX,915,Rogers,R. Rogers,94,222,24,Made,1,43.0,27.0,70,h,Rogers 24' 3PT Jump Shot (12 PTS) (Delk 1 AST),Made Shot,Jump Shot,0,150
+20000318,146,PT08M06.00S,2,1610612759,SAS,251,Elliott,S. Elliott,-56,34,7,Made,1,43.0,29.0,72,v,Elliott 7' Turnaround Jump Shot (5 PTS),Made Shot,Turnaround Jump Shot,0,151
+20000318,147,PT07M40.00S,2,1610612756,PHX,361,Robinson,C. Robinson,73,101,12,Made,1,45.0,29.0,74,h,Robinson 12' Running Jump Shot (6 PTS) (Rogers 3 AST),Made Shot,Running Jump Shot,0,152
+20000318,148,PT07M17.00S,2,1610612759,SAS,251,Elliott,S. Elliott,-92,101,14,Missed,1,0.0,0.0,0,v,MISS Elliott 14' Jump Shot,Missed Shot,Jump Shot,0,153
+20000318,149,PT07M15.00S,2,1610612759,SAS,1498,Daniels,A. Daniels,0,0,0,,0,0.0,0.0,0,v,Daniels REBOUND (Off:1 Def:0),Rebound,Unknown,0,154
+20000318,150,PT07M11.00S,2,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson S.FOUL (P3.T3),Foul,Shooting,0,155
+20000318,152,PT07M11.00S,2,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,h,SUB: Gugliotta FOR Robinson,Substitution,,0,156
+20000318,153,PT07M11.00S,2,1610612759,SAS,1507,Anderson,D. Anderson,0,0,0,,0,45.0,30.0,75,v,Anderson Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,157
+20000318,154,PT07M11.00S,2,1610612759,SAS,1507,Anderson,D. Anderson,0,0,0,,0,45.0,31.0,76,v,Anderson Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,158
+20000318,155,PT07M03.00S,2,1610612759,SAS,1507,Anderson,D. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson P.FOUL (P2.T1),Foul,Personal,0,159
+20000318,156,PT06M50.00S,2,1610612756,PHX,1890,Marion,S. Marion,138,21,14,Missed,1,0.0,0.0,0,h,MISS Marion 14' Jump Shot,Missed Shot,Jump Shot,0,160
+20000318,157,PT06M49.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan REBOUND (Off:0 Def:3),Rebound,Unknown,0,161
+20000318,158,PT06M43.00S,2,1610612756,PHX,960,Delk,T. Delk,0,0,0,,0,0.0,0.0,0,h,Delk P.FOUL (P1.T4),Foul,Personal,0,162
+20000318,159,PT06M43.00S,2,1610612756,PHX,386,Perry,E. Perry,0,0,0,,0,0.0,0.0,0,h,SUB: Kidd FOR Perry,Substitution,,0,163
+20000318,160,PT06M43.00S,2,1610612756,PHX,960,Delk,T. Delk,0,0,0,,0,0.0,0.0,0,h,SUB: Elie FOR Delk,Substitution,,0,164
+20000318,161,PT06M37.00S,2,1610612759,SAS,1498,Daniels,A. Daniels,167,51,17,Made,1,45.0,33.0,78,v,Daniels 17' Jump Shot (6 PTS),Made Shot,Jump Shot,0,165
+20000318,162,PT06M24.00S,2,1610612756,PHX,467,Kidd,J. Kidd,7,152,15,Made,1,47.0,33.0,80,h,Kidd 15' Jump Shot (10 PTS),Made Shot,Jump Shot,0,166
+20000318,163,PT06M09.00S,2,1610612759,SAS,1507,Anderson,D. Anderson,0,0,0,Made,1,47.0,35.0,82,v,Anderson  Layup (9 PTS) (Duncan 1 AST),Made Shot,Layup Shot,0,167
+20000318,164,PT05M52.00S,2,1610612756,PHX,915,Rogers,R. Rogers,138,209,25,Missed,1,0.0,0.0,0,h,MISS Rogers 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,168
+20000318,166,PT05M51.00S,2,1610612756,PHX,339,Gugliotta,T. Gugliotta,0,0,0,,0,0.0,0.0,0,h,Gugliotta REBOUND (Off:1 Def:0),Rebound,Unknown,0,169
+20000318,165,PT05M51.00S,2,1610612756,PHX,339,Gugliotta,T. Gugliotta,0,0,0,Made,1,49.0,35.0,84,h,Gugliotta  Tip Shot (2 PTS),Made Shot,Tip Shot,0,170
+20000318,167,PT05M37.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,-27,51,6,Missed,1,0.0,0.0,0,v,MISS Duncan 6' Jump Shot,Missed Shot,Jump Shot,0,171
+20000318,168,PT05M35.00S,2,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion REBOUND (Off:0 Def:3),Rebound,Unknown,0,172
+20000318,169,PT05M30.00S,2,1610612759,SAS,251,Elliott,S. Elliott,0,0,0,,0,0.0,0.0,0,v,Elliott P.FOUL (P1.T2),Foul,Personal,0,173
+20000318,170,PT05M30.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,174
+20000318,172,PT05M14.00S,2,1610612756,PHX,53,Elie,M. Elie,129,186,23,Made,1,51.0,35.0,86,h,Elie 23' Jump Shot (5 PTS) (Rogers 4 AST),Made Shot,Jump Shot,0,175
+20000318,173,PT04M57.00S,2,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,h,Rogers S.FOUL (P2.PN),Foul,Shooting,0,176
+20000318,174,PT04M57.00S,2,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,51.0,36.0,87,v,Robinson Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,177
+20000318,175,PT04M57.00S,2,1610612756,PHX,339,Gugliotta,T. Gugliotta,0,0,0,,0,0.0,0.0,0,h,SUB: Blount FOR Gugliotta,Substitution,,0,178
+20000318,176,PT04M57.00S,2,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,51.0,37.0,88,v,Robinson Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,179
+20000318,177,PT04M42.00S,2,1610612756,PHX,1890,Marion,S. Marion,167,15,17,Missed,1,0.0,0.0,0,h,MISS Marion 17' Jump Shot,Missed Shot,Jump Shot,0,180
+20000318,178,PT04M39.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan REBOUND (Off:0 Def:4),Rebound,Unknown,0,181
+20000318,179,PT04M38.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,182
+20000318,179,PT04M38.00S,2,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion STEAL (3 STL),,,0,183
+20000318,180,PT04M37.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan S.FOUL (P2.T3),Foul,Shooting,0,184
+20000318,181,PT04M37.00S,2,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,52.0,37.0,89,h,Marion Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,185
+20000318,182,PT04M37.00S,2,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,53.0,37.0,90,h,Marion Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,186
+20000318,183,PT04M21.00S,2,1610612759,SAS,1507,Anderson,D. Anderson,43,205,21,Missed,1,0.0,0.0,0,v,MISS Anderson 21' Jump Shot,Missed Shot,Jump Shot,0,187
+20000318,184,PT04M20.00S,2,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion REBOUND (Off:0 Def:4),Rebound,Unknown,0,188
+20000318,185,PT04M05.00S,2,1610612756,PHX,1890,Marion,S. Marion,-119,-4,12,Missed,1,0.0,0.0,0,h,MISS Marion 12' Jump Shot,Missed Shot,Jump Shot,0,189
+20000318,186,PT04M03.00S,2,1610612759,SAS,251,Elliott,S. Elliott,0,0,0,,0,0.0,0.0,0,v,Elliott REBOUND (Off:0 Def:2),Rebound,Unknown,0,190
+20000318,187,PT03M58.00S,2,1610612759,SAS,1507,Anderson,D. Anderson,129,129,18,Made,1,53.0,39.0,92,v,Anderson 18' Jump Shot (11 PTS) (Duncan 2 AST),Made Shot,Jump Shot,0,191
+20000318,188,PT03M39.00S,2,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion Traveling Turnover (P2.T4),Turnover,Traveling,0,192
+20000318,189,PT03M39.00S,2,1610612759,SAS,1498,Daniels,A. Daniels,0,0,0,,0,0.0,0.0,0,v,SUB: Porter FOR Daniels,Substitution,,0,193
+20000318,190,PT03M25.00S,2,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,h,Rogers S.FOUL (P3.PN),Foul,Shooting,0,194
+20000318,191,PT03M25.00S,2,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,53.0,40.0,93,v,Robinson Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,195
+20000318,192,PT03M25.00S,2,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,h,SUB: Dudley FOR Rogers,Substitution,,0,196
+20000318,193,PT03M25.00S,2,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,53.0,41.0,94,v,Robinson Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,197
+20000318,194,PT03M12.00S,2,1610612756,PHX,467,Kidd,J. Kidd,-149,40,15,Missed,1,0.0,0.0,0,h,MISS Kidd 15' Jump Shot,Missed Shot,Jump Shot,0,198
+20000318,195,PT03M11.00S,2,1610612756,PHX,201,Dudley,C. Dudley,0,0,0,,0,0.0,0.0,0,h,Dudley REBOUND (Off:1 Def:2),Rebound,Unknown,0,199
+20000318,196,PT03M07.00S,2,1610612756,PHX,467,Kidd,J. Kidd,-242,-11,24,Missed,1,0.0,0.0,0,h,MISS Kidd 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,200
+20000318,197,PT03M05.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan REBOUND (Off:0 Def:5),Rebound,Unknown,0,201
+20000318,198,PT02M55.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,Made,1,53.0,43.0,96,v,Duncan  Layup (4 PTS) (Porter 1 AST),Made Shot,Layup Shot,0,202
+20000318,199,PT02M44.00S,2,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,h,SUNS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,203
+20000318,201,PT02M30.00S,2,1610612756,PHX,916,Blount,C. Blount,0,0,0,,0,0.0,0.0,0,h,Blount Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,204
+20000318,201,PT02M30.00S,2,1610612759,SAS,1507,Anderson,D. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson STEAL (1 STL),,,0,205
+20000318,202,PT02M18.00S,2,1610612756,PHX,916,Blount,C. Blount,0,0,0,,0,0.0,0.0,0,h,Blount S.FOUL (P1.PN),Foul,Shooting,0,206
+20000318,203,PT02M18.00S,2,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,v,MISS Robinson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,207
+20000318,204,PT02M18.00S,2,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Rebound,Rebound,Normal Rebound,0,208
+20000318,205,PT02M18.00S,2,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,v,MISS Robinson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,209
+20000318,206,PT02M18.00S,2,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion REBOUND (Off:0 Def:5),Rebound,Unknown,0,210
+20000318,207,PT01M59.00S,2,1610612759,SAS,345,Porter,T. Porter,0,0,0,,0,0.0,0.0,0,v,Porter S.FOUL (P3.T4),Foul,Shooting,0,211
+20000318,208,PT01M59.00S,2,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,54.0,43.0,97,h,Kidd Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,212
+20000318,209,PT01M59.00S,2,1610612759,SAS,345,Porter,T. Porter,0,0,0,,0,0.0,0.0,0,v,SUB: Daniels FOR Porter,Substitution,,0,213
+20000318,211,PT01M59.00S,2,1610612759,SAS,345,Porter,T. Porter,0,0,0,,0,0.0,0.0,0,v,Porter T.FOUL (P3.T4),Foul,Technical,0,214
+20000318,212,PT01M59.00S,2,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,55.0,43.0,98,h,Kidd Free Throw Technical (12 PTS),Free Throw,Free Throw Technical,0,215
+20000318,213,PT01M59.00S,2,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,56.0,43.0,99,h,Kidd Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,216
+20000318,214,PT01M47.00S,2,1610612759,SAS,764,Robinson,D. Robinson,167,45,17,Missed,1,0.0,0.0,0,v,MISS Robinson 17' Jump Shot,Missed Shot,Jump Shot,0,217
+20000318,215,PT01M45.00S,2,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd REBOUND (Off:0 Def:2),Rebound,Unknown,0,218
+20000318,216,PT01M40.00S,2,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,Missed,1,0.0,0.0,0,h,MISS Kidd  Layup,Missed Shot,Layup Shot,0,219
+20000318,217,PT01M40.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan REBOUND (Off:0 Def:6),Rebound,Unknown,0,220
+20000318,218,PT01M40.00S,2,1610612756,PHX,916,Blount,C. Blount,0,0,0,,0,0.0,0.0,0,h,Blount P.FOUL (P2.PN),Foul,Personal,0,221
+20000318,219,PT01M40.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,MISS Duncan Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,222
+20000318,220,PT01M40.00S,2,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Rebound,Rebound,Normal Rebound,0,223
+20000318,221,PT01M40.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,56.0,44.0,100,v,Duncan Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,224
+20000318,222,PT01M23.00S,2,1610612756,PHX,467,Kidd,J. Kidd,58,175,18,Missed,1,0.0,0.0,0,h,MISS Kidd 18' Jump Shot,Missed Shot,Jump Shot,0,225
+20000318,223,PT01M21.00S,2,1610612756,PHX,916,Blount,C. Blount,0,0,0,,0,0.0,0.0,0,h,Blount REBOUND (Off:1 Def:0),Rebound,Unknown,0,226
+20000318,224,PT01M10.00S,2,1610612756,PHX,916,Blount,C. Blount,16,78,8,Made,1,58.0,44.0,102,h,Blount 8' Turnaround Jump Shot (2 PTS) (Kidd 3 AST),Made Shot,Turnaround Jump Shot,0,227
+20000318,225,PT00M58.90S,2,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,228
+20000318,225,PT00M58.90S,2,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd STEAL (3 STL),,,0,229
+20000318,226,PT00M54.20S,2,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,h,SUNS Timeout: Short (Full 2 Short 1),Timeout,Short,0,230
+20000318,227,PT00M54.20S,2,1610612756,PHX,53,Elie,M. Elie,0,0,0,,0,0.0,0.0,0,h,SUB: Delk FOR Elie,Substitution,,0,231
+20000318,228,PT00M40.90S,2,1610612756,PHX,467,Kidd,J. Kidd,85,215,23,Made,1,60.0,44.0,104,h,Kidd 23' Jump Shot (15 PTS) (Blount 1 AST),Made Shot,Jump Shot,0,232
+20000318,229,PT00M25.90S,2,1610612759,SAS,1495,Duncan,T. Duncan,-128,85,15,Missed,1,0.0,0.0,0,v,MISS Duncan 15' Jump Shot,Missed Shot,Jump Shot,0,233
+20000318,230,PT00M23.90S,2,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd REBOUND (Off:0 Def:3),Rebound,Unknown,0,234
+20000318,231,PT00M01.90S,2,1610612756,PHX,1890,Marion,S. Marion,237,-4,24,Missed,1,0.0,0.0,0,h,MISS Marion 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,235
+20000318,232,PT00M01.00S,2,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,236
+20000318,233,PT00M00.00S,2,0,,0,,,0,0,0,,0,60.0,44.0,104,,End of 2nd Period (2:07 PM EST),period,end,0,237
+20000318,235,PT12M00.00S,3,0,,0,,,0,0,0,,0,60.0,44.0,104,,Start of 3rd Period (2:26 PM EST),period,start,0,238
+20000318,236,PT11M40.00S,3,1610612759,SAS,1507,Anderson,D. Anderson,37,205,21,Missed,1,0.0,0.0,0,v,MISS Anderson 21' Jump Shot,Missed Shot,Jump Shot,0,239
+20000318,237,PT11M37.00S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion REBOUND (Off:0 Def:6),Rebound,Unknown,0,240
+20000318,238,PT11M29.00S,3,1610612756,PHX,467,Kidd,J. Kidd,-113,222,25,Missed,1,0.0,0.0,0,h,MISS Kidd 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,241
+20000318,239,PT11M27.00S,3,1610612759,SAS,1498,Daniels,A. Daniels,0,0,0,,0,0.0,0.0,0,v,Daniels REBOUND (Off:1 Def:1),Rebound,Unknown,0,242
+20000318,240,PT11M19.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,Missed,1,0.0,0.0,0,v,MISS Duncan  Layup,Missed Shot,Layup Shot,0,243
+20000318,241,PT11M18.00S,3,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Rebound,Rebound,Unknown,0,244
+20000318,242,PT11M03.00S,3,1610612759,SAS,1498,Daniels,A. Daniels,115,209,24,Missed,1,0.0,0.0,0,v,MISS Daniels 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,245
+20000318,243,PT11M01.00S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion REBOUND (Off:0 Def:7),Rebound,Unknown,0,246
+20000318,244,PT10M41.00S,3,1610612756,PHX,361,Robinson,C. Robinson,144,108,18,Missed,1,0.0,0.0,0,h,MISS Robinson 18' Jump Shot,Missed Shot,Jump Shot,0,247
+20000318,245,PT10M38.00S,3,1610612759,SAS,1507,Anderson,D. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,248
+20000318,246,PT10M30.00S,3,1610612759,SAS,251,Elliott,S. Elliott,-229,-15,0,Missed,1,0.0,0.0,0,v,MISS Elliott  3PT Jump Shot,Missed Shot,Jump Shot,0,249
+20000318,247,PT10M28.00S,3,1610612759,SAS,251,Elliott,S. Elliott,0,0,0,,0,0.0,0.0,0,v,Elliott REBOUND (Off:1 Def:2),Rebound,Unknown,0,250
+20000318,248,PT10M21.00S,3,1610612759,SAS,251,Elliott,S. Elliott,222,11,0,Missed,1,0.0,0.0,0,v,MISS Elliott  3PT Jump Shot,Missed Shot,Jump Shot,0,251
+20000318,249,PT10M20.00S,3,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson REBOUND (Off:1 Def:2),Rebound,Unknown,0,252
+20000318,250,PT10M10.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,Made,1,60.0,46.0,106,v,Duncan  Layup (7 PTS) (Elliott 2 AST),Made Shot,Layup Shot,0,253
+20000318,251,PT10M10.00S,3,1610612756,PHX,201,Dudley,C. Dudley,0,0,0,,0,0.0,0.0,0,h,Dudley S.FOUL (P1.T1),Foul,Shooting,0,254
+20000318,252,PT10M10.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,60.0,47.0,107,v,Duncan Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,255
+20000318,253,PT10M01.00S,3,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,Made,1,62.0,47.0,109,h,Kidd  Layup (17 PTS) (Robinson 2 AST),Made Shot,Layup Shot,0,256
+20000318,254,PT09M48.00S,3,1610612759,SAS,764,Robinson,D. Robinson,-105,152,18,Missed,1,0.0,0.0,0,v,MISS Robinson 18' Jump Shot,Missed Shot,Jump Shot,0,257
+20000318,255,PT09M45.00S,3,1610612759,SAS,1507,Anderson,D. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson REBOUND (Off:1 Def:1),Rebound,Unknown,0,258
+20000318,256,PT09M35.00S,3,1610612759,SAS,1507,Anderson,D. Anderson,-155,192,25,Made,1,62.0,50.0,112,v,Anderson 25' 3PT Jump Shot (14 PTS) (Daniels 1 AST),Made Shot,Jump Shot,0,259
+20000318,257,PT09M11.00S,3,1610612756,PHX,1890,Marion,S. Marion,-221,-4,0,Missed,1,0.0,0.0,0,h,MISS Marion  3PT Jump Shot,Missed Shot,Jump Shot,0,260
+20000318,258,PT09M09.00S,3,1610612756,PHX,960,Delk,T. Delk,0,0,0,,0,0.0,0.0,0,h,Delk REBOUND (Off:1 Def:0),Rebound,Unknown,0,261
+20000318,259,PT09M05.00S,3,1610612756,PHX,960,Delk,T. Delk,123,148,19,Made,1,64.0,50.0,114,h,Delk 19' Jump Shot (3 PTS),Made Shot,Jump Shot,0,262
+20000318,260,PT08M53.00S,3,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd P.FOUL (P1.T2),Foul,Personal,0,263
+20000318,261,PT08M53.00S,3,1610612756,PHX,201,Dudley,C. Dudley,0,0,0,,0,0.0,0.0,0,h,SUB: Santiago FOR Dudley,Substitution,,0,264
+20000318,262,PT08M48.00S,3,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,Made,1,64.0,52.0,116,v,Robinson  Dunk (13 PTS) (Anderson 3 AST),Made Shot,Dunk Shot,0,265
+20000318,263,PT08M28.00S,3,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson S.FOUL (P2.T1),Foul,Shooting,0,266
+20000318,264,PT08M28.00S,3,1610612756,PHX,2091,Santiago,D. Santiago,0,0,0,,0,65.0,52.0,117,h,Santiago Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,267
+20000318,265,PT08M28.00S,3,1610612756,PHX,2091,Santiago,D. Santiago,0,0,0,,0,66.0,52.0,118,h,Santiago Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,268
+20000318,266,PT08M11.00S,3,1610612756,PHX,2091,Santiago,D. Santiago,0,0,0,,0,0.0,0.0,0,h,Santiago P.FOUL (P4.T3),Foul,Personal,0,269
+20000318,267,PT08M11.00S,3,1610612756,PHX,2091,Santiago,D. Santiago,0,0,0,,0,0.0,0.0,0,h,SUB: Blount FOR Santiago,Substitution,,0,270
+20000318,268,PT08M04.00S,3,1610612759,SAS,1507,Anderson,D. Anderson,-162,91,19,Missed,1,0.0,0.0,0,v,MISS Anderson 19' Jump Shot,Missed Shot,Jump Shot,0,271
+20000318,269,PT08M02.00S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion REBOUND (Off:0 Def:8),Rebound,Unknown,0,272
+20000318,270,PT07M53.00S,3,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,Missed,1,0.0,0.0,0,h,MISS Kidd  Layup,Missed Shot,Layup Shot,0,273
+20000318,272,PT07M51.00S,3,1610612756,PHX,916,Blount,C. Blount,0,0,0,,0,0.0,0.0,0,h,Blount REBOUND (Off:2 Def:0),Rebound,Unknown,0,274
+20000318,271,PT07M51.00S,3,1610612756,PHX,916,Blount,C. Blount,0,0,0,Missed,1,0.0,0.0,0,h,MISS Blount  Tip Shot,Missed Shot,Tip Shot,0,275
+20000318,273,PT07M50.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan REBOUND (Off:0 Def:7),Rebound,Unknown,0,276
+20000318,274,PT07M45.00S,3,1610612759,SAS,1498,Daniels,A. Daniels,0,0,0,Missed,1,0.0,0.0,0,v,MISS Daniels  Layup,Missed Shot,Layup Shot,0,277
+20000318,275,PT07M43.00S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion REBOUND (Off:0 Def:9),Rebound,Unknown,0,278
+20000318,276,PT07M37.00S,3,1610612756,PHX,960,Delk,T. Delk,167,15,17,Made,1,68.0,52.0,120,h,Delk 17' Jump Shot (5 PTS) (Kidd 4 AST),Made Shot,Jump Shot,0,279
+20000318,277,PT07M19.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,Missed,1,0.0,0.0,0,v,MISS Duncan  Layup,Missed Shot,Layup Shot,0,280
+20000318,278,PT07M18.00S,3,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd REBOUND (Off:0 Def:4),Rebound,Unknown,0,281
+20000318,279,PT07M14.00S,3,1610612756,PHX,467,Kidd,J. Kidd,144,112,18,Missed,1,0.0,0.0,0,h,MISS Kidd 18' Jump Shot,Missed Shot,Jump Shot,0,282
+20000318,280,PT07M11.00S,3,1610612759,SAS,251,Elliott,S. Elliott,0,0,0,,0,0.0,0.0,0,v,Elliott REBOUND (Off:1 Def:3),Rebound,Unknown,0,283
+20000318,281,PT07M00.00S,3,1610612759,SAS,1498,Daniels,A. Daniels,-84,11,8,Made,1,68.0,54.0,122,v,Daniels 8' Running Jump Shot (8 PTS),Made Shot,Running Jump Shot,0,284
+20000318,282,PT07M00.00S,3,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd S.FOUL (P2.T4),Foul,Shooting,0,285
+20000318,283,PT07M00.00S,3,1610612759,SAS,1498,Daniels,A. Daniels,0,0,0,,0,68.0,55.0,123,v,Daniels Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,286
+20000318,284,PT06M46.00S,3,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson P.FOUL (P3.T2),Foul,Personal,0,287
+20000318,285,PT06M35.00S,3,1610612756,PHX,960,Delk,T. Delk,237,-4,24,Missed,1,0.0,0.0,0,h,MISS Delk 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,288
+20000318,286,PT06M34.00S,3,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd REBOUND (Off:1 Def:4),Rebound,Unknown,0,289
+20000318,287,PT06M32.00S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,Missed,1,0.0,0.0,0,h,MISS Marion  Layup,Missed Shot,Layup Shot,0,290
+20000318,289,PT06M29.00S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion REBOUND (Off:1 Def:9),Rebound,Unknown,0,291
+20000318,288,PT06M29.00S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,Made,1,70.0,55.0,125,h,Marion  Tip Shot (6 PTS),Made Shot,Tip Shot,0,292
+20000318,290,PT06M09.00S,3,1610612759,SAS,1498,Daniels,A. Daniels,0,0,0,,0,0.0,0.0,0,v,Daniels Bad Pass Turnover (P4.T12),Turnover,Bad Pass,0,293
+20000318,290,PT06M09.00S,3,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd STEAL (4 STL),,,0,294
+20000318,291,PT06M05.00S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,Missed,1,0.0,0.0,0,h,MISS Marion  Layup,Missed Shot,Layup Shot,0,295
+20000318,293,PT06M04.00S,3,1610612756,PHX,960,Delk,T. Delk,0,0,0,,0,0.0,0.0,0,h,Delk REBOUND (Off:2 Def:0),Rebound,Unknown,0,296
+20000318,292,PT06M04.00S,3,1610612756,PHX,960,Delk,T. Delk,0,0,0,Missed,1,0.0,0.0,0,h,MISS Delk  Layup,Missed Shot,Layup Shot,0,297
+20000318,294,PT06M02.00S,3,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson REBOUND (Off:1 Def:3),Rebound,Unknown,0,298
+20000318,295,PT05M42.00S,3,1610612759,SAS,1507,Anderson,D. Anderson,-170,175,24,Missed,1,0.0,0.0,0,v,MISS Anderson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,299
+20000318,296,PT05M40.00S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion REBOUND (Off:1 Def:10),Rebound,Unknown,0,300
+20000318,297,PT05M32.00S,3,1610612756,PHX,361,Robinson,C. Robinson,138,198,24,Made,1,73.0,55.0,128,h,Robinson 24' 3PT Jump Shot (9 PTS) (Kidd 5 AST),Made Shot,Jump Shot,0,301
+20000318,298,PT05M30.00S,3,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,302
+20000318,300,PT05M17.00S,3,1610612756,PHX,960,Delk,T. Delk,0,0,0,,0,0.0,0.0,0,h,Delk P.FOUL (P2.PN),Foul,Personal,0,303
+20000318,301,PT05M17.00S,3,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,v,SUB: Rose FOR Robinson,Substitution,,0,304
+20000318,302,PT05M17.00S,3,1610612759,SAS,251,Elliott,S. Elliott,0,0,0,,0,0.0,0.0,0,v,SUB: Ferry FOR Elliott,Substitution,,0,305
+20000318,303,PT05M17.00S,3,1610612759,SAS,1507,Anderson,D. Anderson,0,0,0,,0,73.0,56.0,129,v,Anderson Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,306
+20000318,305,PT05M17.00S,3,1610612756,PHX,916,Blount,C. Blount,0,0,0,,0,0.0,0.0,0,h,SUB: Rogers FOR Blount,Substitution,,0,307
+20000318,306,PT05M17.00S,3,1610612759,SAS,1507,Anderson,D. Anderson,0,0,0,,0,73.0,57.0,130,v,Anderson Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,308
+20000318,307,PT05M03.00S,3,1610612756,PHX,960,Delk,T. Delk,58,21,6,Missed,1,0.0,0.0,0,h,MISS Delk 6' Jump Shot,Missed Shot,Jump Shot,0,309
+20000318,307,PT05M03.00S,3,1610612759,SAS,990,Rose,M. Rose,0,0,0,,0,0.0,0.0,0,v,Rose BLOCK (1 BLK),,,0,310
+20000318,308,PT05M01.00S,3,1610612759,SAS,1507,Anderson,D. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson REBOUND (Off:1 Def:2),Rebound,Unknown,0,311
+20000318,309,PT04M58.00S,3,1610612759,SAS,1498,Daniels,A. Daniels,0,0,0,Missed,1,0.0,0.0,0,v,MISS Daniels  Layup,Missed Shot,Layup Shot,0,312
+20000318,310,PT04M55.00S,3,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,313
+20000318,311,PT04M37.00S,3,1610612756,PHX,915,Rogers,R. Rogers,-235,-11,24,Missed,1,0.0,0.0,0,h,MISS Rogers 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,314
+20000318,312,PT04M35.00S,3,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Rebound,Rebound,Unknown,0,315
+20000318,313,PT04M23.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,-18,72,7,Made,1,73.0,59.0,132,v,Duncan 7' Jump Shot (10 PTS) (Daniels 2 AST),Made Shot,Jump Shot,0,316
+20000318,314,PT04M22.00S,3,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,h,SUNS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,317
+20000318,316,PT04M09.00S,3,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,h,Rogers Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,318
+20000318,316,PT04M09.00S,3,1610612759,SAS,1507,Anderson,D. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson STEAL (2 STL),,,0,319
+20000318,317,PT04M06.00S,3,1610612756,PHX,960,Delk,T. Delk,0,0,0,,0,0.0,0.0,0,h,Delk S.FOUL (P3.PN),Foul,Shooting,0,320
+20000318,318,PT04M06.00S,3,1610612759,SAS,1507,Anderson,D. Anderson,0,0,0,,0,73.0,60.0,133,v,Anderson Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,321
+20000318,319,PT04M06.00S,3,1610612759,SAS,1507,Anderson,D. Anderson,0,0,0,,0,73.0,61.0,134,v,Anderson Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,322
+20000318,320,PT03M48.00S,3,1610612756,PHX,361,Robinson,C. Robinson,167,15,17,Missed,1,0.0,0.0,0,h,MISS Robinson 17' Jump Shot,Missed Shot,Jump Shot,0,323
+20000318,321,PT03M47.00S,3,1610612759,SAS,1498,Daniels,A. Daniels,0,0,0,,0,0.0,0.0,0,v,Daniels REBOUND (Off:1 Def:2),Rebound,Unknown,0,324
+20000318,322,PT03M34.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan Lost Ball Turnover (P3.T13),Turnover,Lost Ball,0,325
+20000318,323,PT03M23.00S,3,1610612756,PHX,1890,Marion,S. Marion,-149,4,15,Made,1,75.0,61.0,136,h,Marion 15' Jump Shot (8 PTS) (Kidd 6 AST),Made Shot,Jump Shot,0,326
+20000318,324,PT03M09.00S,3,1610612759,SAS,1498,Daniels,A. Daniels,85,169,19,Missed,1,0.0,0.0,0,v,MISS Daniels 19' Jump Shot,Missed Shot,Jump Shot,0,327
+20000318,325,PT03M07.00S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion REBOUND (Off:1 Def:11),Rebound,Unknown,0,328
+20000318,326,PT02M47.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan S.FOUL (P3.T3),Foul,Shooting,0,329
+20000318,327,PT02M47.00S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,76.0,61.0,137,h,Marion Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,330
+20000318,328,PT02M47.00S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,MISS Marion Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,331
+20000318,329,PT02M47.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan REBOUND (Off:0 Def:8),Rebound,Unknown,0,332
+20000318,330,PT02M37.00S,3,1610612759,SAS,1507,Anderson,D. Anderson,0,0,0,Made,1,76.0,63.0,139,v,Anderson  Reverse Layup (20 PTS) (Duncan 3 AST),Made Shot,Reverse Layup Shot,0,333
+20000318,331,PT02M22.00S,3,1610612756,PHX,361,Robinson,C. Robinson,16,165,17,Made,1,78.0,63.0,141,h,Robinson 17' Jump Shot (11 PTS) (Kidd 7 AST),Made Shot,Jump Shot,0,334
+20000318,332,PT02M00.00S,3,1610612759,SAS,990,Rose,M. Rose,7,51,5,Missed,1,0.0,0.0,0,v,MISS Rose 5' Jump Shot,Missed Shot,Jump Shot,0,335
+20000318,333,PT01M58.00S,3,1610612759,SAS,198,Ferry,D. Ferry,0,0,0,,0,0.0,0.0,0,v,Ferry REBOUND (Off:2 Def:0),Rebound,Unknown,0,336
+20000318,334,PT01M57.00S,3,1610612759,SAS,198,Ferry,D. Ferry,-119,40,13,Made,1,78.0,65.0,143,v,Ferry 13' Jump Shot (2 PTS),Made Shot,Jump Shot,0,337
+20000318,335,PT01M43.00S,3,1610612756,PHX,467,Kidd,J. Kidd,-119,141,18,Missed,1,0.0,0.0,0,h,MISS Kidd 18' Jump Shot,Missed Shot,Jump Shot,0,338
+20000318,336,PT01M41.00S,3,1610612759,SAS,198,Ferry,D. Ferry,0,0,0,,0,0.0,0.0,0,v,Ferry REBOUND (Off:2 Def:1),Rebound,Unknown,0,339
+20000318,337,PT01M34.00S,3,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,h,Rogers P.FOUL (P4.PN),Foul,Personal,0,340
+20000318,338,PT01M34.00S,3,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,SUB: Perry FOR Kidd,Substitution,,0,341
+20000318,339,PT01M34.00S,3,1610612759,SAS,1507,Anderson,D. Anderson,0,0,0,,0,0.0,0.0,0,v,MISS Anderson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,342
+20000318,340,PT01M34.00S,3,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Rebound,Rebound,Normal Rebound,0,343
+20000318,341,PT01M34.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,SUB: Robinson FOR Duncan,Substitution,,0,344
+20000318,342,PT01M34.00S,3,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,h,SUB: Blount FOR Rogers,Substitution,,0,345
+20000318,343,PT01M34.00S,3,1610612759,SAS,1507,Anderson,D. Anderson,0,0,0,,0,78.0,66.0,144,v,Anderson Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,346
+20000318,344,PT01M21.00S,3,1610612756,PHX,960,Delk,T. Delk,-113,148,19,Missed,1,0.0,0.0,0,h,MISS Delk 19' Jump Shot,Missed Shot,Jump Shot,0,347
+20000318,345,PT01M18.00S,3,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson REBOUND (Off:1 Def:4),Rebound,Unknown,0,348
+20000318,346,PT01M05.00S,3,1610612759,SAS,990,Rose,M. Rose,0,0,0,Missed,1,0.0,0.0,0,v,MISS Rose  Layup,Missed Shot,Layup Shot,0,349
+20000318,347,PT01M04.00S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion REBOUND (Off:1 Def:12),Rebound,Unknown,0,350
+20000318,348,PT00M56.00S,3,1610612756,PHX,386,Perry,E. Perry,174,175,25,Made,1,81.0,66.0,147,h,Perry 25' 3PT Jump Shot (7 PTS),Made Shot,Jump Shot,0,351
+20000318,349,PT00M42.90S,3,1610612759,SAS,990,Rose,M. Rose,-113,148,19,Missed,1,0.0,0.0,0,v,MISS Rose 19' Jump Shot,Missed Shot,Jump Shot,0,352
+20000318,350,PT00M40.90S,3,1610612756,PHX,916,Blount,C. Blount,0,0,0,,0,0.0,0.0,0,h,Blount REBOUND (Off:2 Def:1),Rebound,Unknown,0,353
+20000318,351,PT00M22.70S,3,1610612759,SAS,198,Ferry,D. Ferry,0,0,0,,0,0.0,0.0,0,v,Ferry S.FOUL (P1.T4),Foul,Shooting,0,354
+20000318,352,PT00M22.70S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,82.0,66.0,148,h,Marion Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,355
+20000318,353,PT00M22.70S,3,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,83.0,66.0,149,h,Marion Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,356
+20000318,354,PT00M05.50S,3,1610612759,SAS,990,Rose,M. Rose,0,0,0,Made,1,83.0,68.0,151,v,Rose  Dunk (6 PTS) (Ferry 1 AST),Made Shot,Dunk Shot,0,357
+20000318,355,PT00M02.40S,3,1610612756,PHX,916,Blount,C. Blount,0,0,0,,0,0.0,0.0,0,h,Blount OFF.Foul (P3),Foul,Offensive,0,358
+20000318,356,PT00M02.40S,3,1610612756,PHX,916,Blount,C. Blount,0,0,0,,0,0.0,0.0,0,h,Blount Foul Turnover (P2.T7),Turnover,Foul,0,359
+20000318,357,PT00M00.00S,3,1610612759,SAS,990,Rose,M. Rose,-162,198,26,Made,1,83.0,71.0,154,v,Rose 26' 3PT Jump Shot (9 PTS) (Ferry 2 AST),Made Shot,Jump Shot,0,360
+20000318,358,PT00M00.00S,3,0,,0,,,0,0,0,,0,83.0,71.0,154,,End of 3rd Period (2:53 PM EST),period,end,0,361
+20000318,360,PT12M00.00S,4,0,,0,,,0,0,0,,0,83.0,71.0,154,,Start of 4th Period (2:56 PM EST),period,start,0,362
+20000318,361,PT11M41.00S,4,1610612756,PHX,916,Blount,C. Blount,37,45,6,Made,1,85.0,71.0,156,h,Blount 6' Hook Shot (4 PTS),Made Shot,Hook Shot,0,363
+20000318,362,PT11M26.00S,4,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion S.FOUL (P3.T1),Foul,Shooting,0,364
+20000318,363,PT11M26.00S,4,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,v,MISS Robinson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,365
+20000318,364,PT11M26.00S,4,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Rebound,Rebound,Normal Rebound,0,366
+20000318,365,PT11M26.00S,4,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,85.0,72.0,157,v,Robinson Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,367
+20000318,366,PT11M02.00S,4,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,h,SUNS Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,0,368
+20000318,367,PT11M02.00S,4,1610612759,SAS,198,Ferry,D. Ferry,0,0,0,,0,0.0,0.0,0,v,SUB: Anderson FOR Ferry,Substitution,,0,369
+20000318,368,PT10M48.00S,4,1610612759,SAS,764,Robinson,D. Robinson,16,34,4,Made,1,85.0,74.0,159,v,Robinson 4' Jump Shot (16 PTS),Made Shot,Jump Shot,0,370
+20000318,369,PT10M31.00S,4,1610612756,PHX,386,Perry,E. Perry,0,0,0,,0,0.0,0.0,0,h,Perry Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,371
+20000318,369,PT10M31.00S,4,1610612759,SAS,1507,Anderson,D. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson STEAL (3 STL),,,0,372
+20000318,370,PT10M19.00S,4,1610612756,PHX,916,Blount,C. Blount,0,0,0,,0,0.0,0.0,0,h,Blount S.FOUL (P4.T2),Foul,Shooting,0,373
+20000318,371,PT10M19.00S,4,1610612759,SAS,990,Rose,M. Rose,0,0,0,,0,0.0,0.0,0,v,MISS Rose Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,374
+20000318,372,PT10M19.00S,4,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Rebound,Rebound,Normal Rebound,0,375
+20000318,373,PT10M19.00S,4,1610612759,SAS,990,Rose,M. Rose,0,0,0,,0,85.0,75.0,160,v,Rose Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,376
+20000318,374,PT10M01.00S,4,1610612756,PHX,1890,Marion,S. Marion,-33,101,11,Missed,1,0.0,0.0,0,h,MISS Marion 11' Jump Shot,Missed Shot,Jump Shot,0,377
+20000318,375,PT10M00.00S,4,1610612759,SAS,990,Rose,M. Rose,0,0,0,,0,0.0,0.0,0,v,Rose REBOUND (Off:1 Def:1),Rebound,Unknown,0,378
+20000318,376,PT09M53.00S,4,1610612759,SAS,1507,Anderson,D. Anderson,-242,-11,24,Made,1,85.0,78.0,163,v,Anderson 24' 3PT Jump Shot (24 PTS) (Porter 2 AST),Made Shot,Jump Shot,0,379
+20000318,377,PT09M48.00S,4,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,h,SUNS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,380
+20000318,379,PT09M48.00S,4,1610612756,PHX,916,Blount,C. Blount,0,0,0,,0,0.0,0.0,0,h,SUB: Rogers FOR Blount,Substitution,,0,381
+20000318,380,PT09M48.00S,4,1610612756,PHX,960,Delk,T. Delk,0,0,0,,0,0.0,0.0,0,h,SUB: Kidd FOR Delk,Substitution,,0,382
+20000318,381,PT09M27.00S,4,1610612756,PHX,467,Kidd,J. Kidd,-119,222,25,Missed,1,0.0,0.0,0,h,MISS Kidd 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,383
+20000318,382,PT09M25.00S,4,1610612759,SAS,990,Rose,M. Rose,0,0,0,,0,0.0,0.0,0,v,Rose REBOUND (Off:1 Def:2),Rebound,Unknown,0,384
+20000318,383,PT09M12.00S,4,1610612759,SAS,990,Rose,M. Rose,0,0,0,Missed,1,0.0,0.0,0,v,MISS Rose  Layup,Missed Shot,Layup Shot,0,385
+20000318,385,PT09M10.00S,4,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson REBOUND (Off:2 Def:4),Rebound,Unknown,0,386
+20000318,384,PT09M10.00S,4,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,Made,1,85.0,80.0,165,v,Robinson  Dunk (18 PTS),Made Shot,Dunk Shot,0,387
+20000318,386,PT08M53.00S,4,1610612756,PHX,361,Robinson,C. Robinson,153,118,19,Made,1,87.0,80.0,167,h,Robinson 19' Jump Shot (13 PTS) (Marion 2 AST),Made Shot,Jump Shot,0,388
+20000318,387,PT08M35.00S,4,1610612759,SAS,990,Rose,M. Rose,-105,158,19,Missed,1,0.0,0.0,0,v,MISS Rose 19' Jump Shot,Missed Shot,Jump Shot,0,389
+20000318,388,PT08M33.00S,4,1610612759,SAS,990,Rose,M. Rose,0,0,0,,0,0.0,0.0,0,v,Rose REBOUND (Off:2 Def:2),Rebound,Unknown,0,390
+20000318,389,PT08M15.00S,4,1610612759,SAS,990,Rose,M. Rose,-77,34,8,Missed,1,0.0,0.0,0,v,MISS Rose 8' Jump Shot,Missed Shot,Jump Shot,0,391
+20000318,390,PT08M14.00S,4,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd REBOUND (Off:1 Def:5),Rebound,Unknown,0,392
+20000318,391,PT08M08.00S,4,1610612756,PHX,1890,Marion,S. Marion,0,0,0,Made,1,89.0,80.0,169,h,Marion  Dunk (13 PTS) (Kidd 8 AST),Made Shot,Dunk Shot,0,393
+20000318,392,PT07M52.00S,4,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson P.FOUL (P4.T3),Foul,Personal,0,394
+20000318,393,PT07M52.00S,4,1610612756,PHX,386,Perry,E. Perry,0,0,0,,0,0.0,0.0,0,h,SUB: Dudley FOR Perry,Substitution,,0,395
+20000318,394,PT07M44.00S,4,1610612759,SAS,1507,Anderson,D. Anderson,64,175,19,Missed,1,0.0,0.0,0,v,MISS Anderson 19' Jump Shot,Missed Shot,Jump Shot,0,396
+20000318,395,PT07M43.00S,4,1610612759,SAS,990,Rose,M. Rose,0,0,0,,0,0.0,0.0,0,v,Rose REBOUND (Off:3 Def:2),Rebound,Unknown,0,397
+20000318,396,PT07M41.00S,4,1610612759,SAS,990,Rose,M. Rose,0,0,0,Missed,1,0.0,0.0,0,v,MISS Rose  Layup,Missed Shot,Layup Shot,0,398
+20000318,396,PT07M41.00S,4,1610612756,PHX,201,Dudley,C. Dudley,0,0,0,,0,0.0,0.0,0,h,Dudley BLOCK (1 BLK),,,0,399
+20000318,397,PT07M37.00S,4,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion REBOUND (Off:1 Def:13),Rebound,Unknown,0,400
+20000318,398,PT07M34.00S,4,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,401
+20000318,399,PT07M16.00S,4,1610612759,SAS,990,Rose,M. Rose,22,169,17,Missed,1,0.0,0.0,0,v,MISS Rose 17' Jump Shot,Missed Shot,Jump Shot,0,402
+20000318,400,PT07M14.00S,4,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,h,Rogers REBOUND (Off:1 Def:3),Rebound,Unknown,0,403
+20000318,401,PT06M53.00S,4,1610612756,PHX,361,Robinson,C. Robinson,-105,11,11,Made,1,91.0,80.0,171,h,Robinson 11' Jump Shot (15 PTS),Made Shot,Jump Shot,0,404
+20000318,402,PT06M35.00S,4,1610612756,PHX,201,Dudley,C. Dudley,0,0,0,,0,0.0,0.0,0,h,Dudley P.FOUL (P2.T4),Foul,Personal,0,405
+20000318,403,PT06M35.00S,4,1610612759,SAS,990,Rose,M. Rose,0,0,0,,0,0.0,0.0,0,v,SUB: Duncan FOR Rose,Substitution,,0,406
+20000318,404,PT06M35.00S,4,1610612759,SAS,1498,Daniels,A. Daniels,0,0,0,,0,0.0,0.0,0,v,SUB: Elliott FOR Daniels,Substitution,,0,407
+20000318,405,PT06M25.00S,4,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,h,Rogers S.FOUL (P5.PN),Foul,Shooting,0,408
+20000318,406,PT06M25.00S,4,1610612759,SAS,1507,Anderson,D. Anderson,0,0,0,,0,91.0,81.0,172,v,Anderson Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,0,409
+20000318,407,PT06M25.00S,4,1610612759,SAS,1507,Anderson,D. Anderson,0,0,0,,0,91.0,82.0,173,v,Anderson Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,0,410
+20000318,408,PT06M05.00S,4,1610612756,PHX,915,Rogers,R. Rogers,159,11,16,Made,1,93.0,82.0,175,h,Rogers 16' Jump Shot (14 PTS) (Robinson 3 AST),Made Shot,Jump Shot,0,411
+20000318,409,PT05M52.00S,4,1610612759,SAS,345,Porter,T. Porter,138,209,25,Missed,1,0.0,0.0,0,v,MISS Porter 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,412
+20000318,410,PT05M51.00S,4,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan REBOUND (Off:1 Def:8),Rebound,Unknown,0,413
+20000318,412,PT05M43.00S,4,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion Violation:Lane,Violation,Lane,0,414
+20000318,411,PT05M43.00S,4,1610612759,SAS,1495,Duncan,T. Duncan,-4,57,6,Made,1,93.0,84.0,177,v,Duncan 6' Jump Shot (12 PTS),Made Shot,Jump Shot,0,415
+20000318,413,PT05M25.00S,4,1610612756,PHX,361,Robinson,C. Robinson,16,78,8,Missed,1,0.0,0.0,0,h,MISS Robinson 8' Jump Shot,Missed Shot,Jump Shot,0,416
+20000318,413,PT05M25.00S,4,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan BLOCK (2 BLK),,,0,417
+20000318,414,PT05M25.00S,4,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,h,SUNS Rebound,Rebound,Unknown,0,418
+20000318,415,PT05M25.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,419
+20000318,417,PT05M20.00S,4,1610612756,PHX,1890,Marion,S. Marion,108,135,17,Made,1,95.0,84.0,179,h,Marion 17' Jump Shot (15 PTS) (Dudley 1 AST),Made Shot,Jump Shot,0,420
+20000318,418,PT04M58.00S,4,1610612759,SAS,251,Elliott,S. Elliott,0,0,0,Made,1,95.0,86.0,181,v,Elliott  Driving Dunk (7 PTS),Made Shot,Driving Dunk Shot,0,421
+20000318,419,PT04M42.00S,4,1610612756,PHX,467,Kidd,J. Kidd,-71,51,9,Missed,1,0.0,0.0,0,h,MISS Kidd 9' Running Jump Shot,Missed Shot,Running Jump Shot,0,422
+20000318,421,PT04M40.00S,4,1610612756,PHX,201,Dudley,C. Dudley,0,0,0,,0,0.0,0.0,0,h,Dudley REBOUND (Off:2 Def:2),Rebound,Unknown,0,423
+20000318,420,PT04M40.00S,4,1610612756,PHX,201,Dudley,C. Dudley,0,0,0,Made,1,97.0,86.0,183,h,Dudley  Tip Shot (6 PTS),Made Shot,Tip Shot,0,424
+20000318,422,PT04M23.00S,4,1610612759,SAS,1495,Duncan,T. Duncan,43,15,5,Missed,1,0.0,0.0,0,v,MISS Duncan 5' Jump Shot,Missed Shot,Jump Shot,0,425
+20000318,423,PT04M21.00S,4,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion REBOUND (Off:1 Def:14),Rebound,Unknown,0,426
+20000318,424,PT04M09.00S,4,1610612756,PHX,361,Robinson,C. Robinson,-92,152,18,Missed,1,0.0,0.0,0,h,MISS Robinson 18' Jump Shot,Missed Shot,Jump Shot,0,427
+20000318,425,PT04M06.00S,4,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan REBOUND (Off:1 Def:9),Rebound,Unknown,0,428
+20000318,426,PT03M46.00S,4,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,h,Rogers S.FOUL (P6.PN),Foul,Shooting,0,429
+20000318,427,PT03M46.00S,4,1610612756,PHX,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,h,SUB: Delk FOR Rogers,Substitution,,0,430
+20000318,428,PT03M46.00S,4,1610612759,SAS,345,Porter,T. Porter,0,0,0,,0,0.0,0.0,0,v,SUB: Daniels FOR Porter,Substitution,,0,431
+20000318,429,PT03M46.00S,4,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,97.0,87.0,184,v,Duncan Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,432
+20000318,430,PT03M46.00S,4,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,97.0,88.0,185,v,Duncan Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,433
+20000318,431,PT03M37.00S,4,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,Missed,1,0.0,0.0,0,h,MISS Kidd  Layup,Missed Shot,Layup Shot,0,434
+20000318,431,PT03M37.00S,4,1610612759,SAS,1498,Daniels,A. Daniels,0,0,0,,0,0.0,0.0,0,v,Daniels BLOCK (1 BLK),,,0,435
+20000318,433,PT03M35.00S,4,1610612756,PHX,201,Dudley,C. Dudley,0,0,0,,0,0.0,0.0,0,h,Dudley REBOUND (Off:3 Def:2),Rebound,Unknown,0,436
+20000318,432,PT03M35.00S,4,1610612756,PHX,201,Dudley,C. Dudley,0,0,0,Made,1,99.0,88.0,187,h,Dudley  Layup (8 PTS),Made Shot,Layup Shot,0,437
+20000318,434,PT03M24.00S,4,1610612759,SAS,251,Elliott,S. Elliott,0,0,0,Missed,1,0.0,0.0,0,v,MISS Elliott  Layup,Missed Shot,Layup Shot,0,438
+20000318,434,PT03M24.00S,4,1610612756,PHX,201,Dudley,C. Dudley,0,0,0,,0,0.0,0.0,0,h,Dudley BLOCK (2 BLK),,,0,439
+20000318,435,PT03M23.00S,4,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan REBOUND (Off:2 Def:9),Rebound,Unknown,0,440
+20000318,436,PT03M22.00S,4,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion S.FOUL (P4.PN),Foul,Shooting,0,441
+20000318,437,PT03M22.00S,4,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,MISS Duncan Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,442
+20000318,438,PT03M22.00S,4,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Rebound,Rebound,Normal Rebound,0,443
+20000318,439,PT03M22.00S,4,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,99.0,89.0,188,v,Duncan Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,444
+20000318,440,PT03M12.00S,4,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,445
+20000318,440,PT03M12.00S,4,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan STEAL (1 STL),,,0,446
+20000318,441,PT02M54.00S,4,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan OFF.Foul (P4),Foul,Offensive,0,447
+20000318,442,PT02M54.00S,4,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,Duncan Foul Turnover (P4.T14),Turnover,Foul,0,448
+20000318,443,PT02M54.00S,4,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,449
+20000318,445,PT02M54.00S,4,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,v,SUB: Rose FOR Duncan,Substitution,,0,450
+20000318,446,PT02M38.00S,4,1610612756,PHX,1890,Marion,S. Marion,64,97,12,Made,1,101.0,89.0,190,h,Marion 12' Jump Shot (17 PTS) (Delk 2 AST),Made Shot,Jump Shot,0,451
+20000318,447,PT02M23.00S,4,1610612759,SAS,764,Robinson,D. Robinson,-18,169,17,Missed,1,0.0,0.0,0,v,MISS Robinson 17' Jump Shot,Missed Shot,Jump Shot,0,452
+20000318,448,PT02M21.00S,4,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,453
+20000318,449,PT02M09.00S,4,1610612756,PHX,361,Robinson,C. Robinson,1,72,7,Missed,1,0.0,0.0,0,h,MISS Robinson 7' Jump Shot,Missed Shot,Jump Shot,0,454
+20000318,450,PT02M07.00S,4,1610612759,SAS,251,Elliott,S. Elliott,0,0,0,,0,0.0,0.0,0,v,Elliott REBOUND (Off:1 Def:4),Rebound,Unknown,0,455
+20000318,451,PT01M59.00S,4,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd P.FOUL (P3.PN),Foul,Personal,0,456
+20000318,452,PT01M59.00S,4,1610612759,SAS,990,Rose,M. Rose,0,0,0,,0,0.0,0.0,0,v,MISS Rose Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,457
+20000318,453,PT01M59.00S,4,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Rebound,Rebound,Normal Rebound,0,458
+20000318,454,PT01M59.00S,4,1610612759,SAS,990,Rose,M. Rose,0,0,0,,0,0.0,0.0,0,v,MISS Rose Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,459
+20000318,455,PT01M59.00S,4,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,h,SUNS Rebound,Rebound,Unknown,0,460
+20000318,456,PT01M47.00S,4,1610612756,PHX,960,Delk,T. Delk,129,4,13,Made,1,103.0,89.0,192,h,Delk 13' Jump Shot (7 PTS) (Kidd 9 AST),Made Shot,Jump Shot,0,461
+20000318,457,PT01M36.00S,4,1610612759,SAS,1498,Daniels,A. Daniels,0,0,0,Missed,1,0.0,0.0,0,v,MISS Daniels  Layup,Missed Shot,Layup Shot,0,462
+20000318,457,PT01M36.00S,4,1610612756,PHX,201,Dudley,C. Dudley,0,0,0,,0,0.0,0.0,0,h,Dudley BLOCK (3 BLK),,,0,463
+20000318,458,PT01M34.00S,4,1610612756,PHX,201,Dudley,C. Dudley,0,0,0,,0,0.0,0.0,0,h,Dudley REBOUND (Off:3 Def:3),Rebound,Unknown,0,464
+20000318,459,PT01M25.00S,4,1610612756,PHX,960,Delk,T. Delk,188,-15,19,Missed,1,0.0,0.0,0,h,MISS Delk 19' Jump Shot,Missed Shot,Jump Shot,0,465
+20000318,460,PT01M23.00S,4,1610612759,SAS,251,Elliott,S. Elliott,0,0,0,,0,0.0,0.0,0,v,Elliott REBOUND (Off:1 Def:5),Rebound,Unknown,0,466
+20000318,461,PT01M23.00S,4,1610612756,PHX,201,Dudley,C. Dudley,0,0,0,,0,0.0,0.0,0,h,Dudley P.FOUL (P3.PN),Foul,Personal,0,467
+20000318,462,PT01M23.00S,4,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,v,SUB: Walker FOR Robinson,Substitution,,0,468
+20000318,463,PT01M23.00S,4,1610612759,SAS,1507,Anderson,D. Anderson,0,0,0,,0,0.0,0.0,0,v,SUB: Newble FOR Anderson,Substitution,,0,469
+20000318,464,PT01M23.00S,4,1610612759,SAS,251,Elliott,S. Elliott,0,0,0,,0,103.0,90.0,193,v,Elliott Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,470
+20000318,465,PT01M23.00S,4,1610612759,SAS,251,Elliott,S. Elliott,0,0,0,,0,103.0,91.0,194,v,Elliott Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,471
+20000318,466,PT01M17.00S,4,1610612759,SAS,1498,Daniels,A. Daniels,0,0,0,,0,0.0,0.0,0,v,Daniels P.FOUL (P1.T1),Foul,Personal,0,472
+20000318,467,PT01M17.00S,4,1610612759,SAS,251,Elliott,S. Elliott,0,0,0,,0,0.0,0.0,0,v,SUB: Ferry FOR Elliott,Substitution,,0,473
+20000318,468,PT01M06.00S,4,1610612756,PHX,960,Delk,T. Delk,0,0,0,,0,0.0,0.0,0,h,Delk Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,474
+20000318,468,PT01M06.00S,4,1610612759,SAS,990,Rose,M. Rose,0,0,0,,0,0.0,0.0,0,v,Rose STEAL (1 STL),,,0,475
+20000318,469,PT01M04.00S,4,1610612759,SAS,990,Rose,M. Rose,0,0,0,Made,1,103.0,93.0,196,v,Rose  Dunk (12 PTS),Made Shot,Dunk Shot,0,476
+20000318,470,PT01M04.00S,4,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,h,SUNS Timeout: Regular (Full 5 Short 1),Timeout,Regular,0,477
+20000318,472,PT00M44.90S,4,1610612756,PHX,361,Robinson,C. Robinson,37,57,7,Missed,1,0.0,0.0,0,h,MISS Robinson 7' Jump Shot,Missed Shot,Jump Shot,0,478
+20000318,473,PT00M43.90S,4,1610612759,SAS,1498,Daniels,A. Daniels,0,0,0,,0,0.0,0.0,0,v,Daniels REBOUND (Off:1 Def:3),Rebound,Unknown,0,479
+20000318,474,PT00M32.90S,4,1610612759,SAS,990,Rose,M. Rose,-105,226,25,Missed,1,0.0,0.0,0,v,MISS Rose 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,480
+20000318,475,PT00M30.90S,4,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion REBOUND (Off:1 Def:15),Rebound,Unknown,0,481
+20000318,476,PT00M11.90S,4,1610612756,PHX,1890,Marion,S. Marion,-63,11,6,Missed,1,0.0,0.0,0,h,MISS Marion 6' Jump Shot,Missed Shot,Jump Shot,0,482
+20000318,477,PT00M09.20S,4,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Rebound,Rebound,Unknown,0,483
+20000318,478,PT00M09.20S,4,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,SUB: Perry FOR Kidd,Substitution,,0,484
+20000318,479,PT00M00.00S,4,1610612759,SAS,1498,Daniels,A. Daniels,-63,249,26,Missed,1,0.0,0.0,0,v,MISS Daniels 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,485
+20000318,481,PT00M00.00S,4,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Rebound,Rebound,Unknown,0,486
+20000318,480,PT00M00.00S,4,0,,0,,,0,0,0,,0,103.0,93.0,196,,End of 4th Period (3:27 PM EST),period,end,0,487
+20000318,484,PT00M00.00S,4,1610612756,PHX,386,Perry,E. Perry,0,0,0,,0,0.0,0.0,0,h,SUB: Blount FOR Perry,Substitution,,0,488
+20000318,485,PT00M00.00S,4,1610612756,PHX,201,Dudley,C. Dudley,0,0,0,,0,0.0,0.0,0,h,SUB: Kidd FOR Dudley,Substitution,,0,489

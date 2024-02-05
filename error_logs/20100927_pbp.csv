@@ -1,0 +1,470 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+20100927,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (7:44 PM EST),period,start,0,1
+20100927,1,PT12M00.00S,1,1610612751,NJN,1496,Van Horn,K. Van Horn,0,0,0,,0,0.0,0.0,0,h,Jump Ball Van Horn vs. Mourning: Tip to Strickland,Jump Ball,,0,2
+20100927,2,PT11M39.00S,1,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,Made,1,0.0,2.0,2,v,Mourning  Driving Dunk (2 PTS),Made Shot,Driving Dunk Shot,0,3
+20100927,3,PT11M20.00S,1,1610612751,NJN,1425,Williams,A. Williams,3,144,14,Made,1,2.0,2.0,4,h,Williams 14' Jump Shot (2 PTS) (Kittles 1 AST),Made Shot,Jump Shot,0,4
+20100927,4,PT11M09.00S,1,1610612751,NJN,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Jump Ball Williams vs. Mourning: Tip to Martin,Jump Ball,,0,5
+20100927,5,PT11M09.00S,1,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0.0,0.0,0,v,Mourning Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,6
+20100927,5,PT11M09.00S,1,1610612751,NJN,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Williams STEAL (1 STL),,,0,7
+20100927,6,PT10M50.00S,1,1610612751,NJN,1496,Van Horn,K. Van Horn,-229,-6,0,Missed,1,0.0,0.0,0,h,MISS Van Horn  3PT Jump Shot,Missed Shot,Jump Shot,0,8
+20100927,7,PT10M49.00S,1,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,h,NETS Rebound,Rebound,Unknown,0,9
+20100927,8,PT10M36.00S,1,1610612751,NJN,1425,Williams,A. Williams,-50,55,7,Missed,1,0.0,0.0,0,h,MISS Williams 7' Jump Shot,Missed Shot,Jump Shot,0,10
+20100927,8,PT10M36.00S,1,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0.0,0.0,0,v,Mourning BLOCK (1 BLK),,,0,11
+20100927,9,PT10M34.00S,1,1610612748,MIA,258,Grant,B. Grant,0,0,0,,0,0.0,0.0,0,v,Grant REBOUND (Off:0 Def:1),Rebound,Unknown,0,12
+20100927,10,PT10M28.00S,1,1610612748,MIA,393,Strickland,R. Strickland,0,0,0,Missed,1,0.0,0.0,0,v,MISS Strickland  Driving Layup,Missed Shot,Driving Layup Shot,0,13
+20100927,11,PT10M27.00S,1,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd REBOUND (Off:0 Def:1),Rebound,Unknown,0,14
+20100927,12,PT10M24.00S,1,1610612751,NJN,954,Kittles,K. Kittles,0,0,0,Made,1,4.0,2.0,6,h,Kittles  Driving Dunk (2 PTS) (Kidd 1 AST),Made Shot,Driving Dunk Shot,0,15
+20100927,13,PT10M03.00S,1,1610612751,NJN,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Williams P.FOUL (P1.T1),Foul,Personal,0,16
+20100927,14,PT09M57.00S,1,1610612748,MIA,393,Strickland,R. Strickland,119,186,22,Missed,1,0.0,0.0,0,v,MISS Strickland 22' Jump Shot,Missed Shot,Jump Shot,0,17
+20100927,15,PT09M56.00S,1,1610612751,NJN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,18
+20100927,16,PT09M49.00S,1,1610612748,MIA,258,Grant,B. Grant,0,0,0,,0,0.0,0.0,0,v,Grant S.FOUL (P1.T1),Foul,Shooting,0,19
+20100927,17,PT09M49.00S,1,1610612751,NJN,1496,Van Horn,K. Van Horn,0,0,0,,0,5.0,2.0,7,h,Van Horn Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,20
+20100927,18,PT09M49.00S,1,1610612751,NJN,1496,Van Horn,K. Van Horn,0,0,0,,0,6.0,2.0,8,h,Van Horn Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,21
+20100927,19,PT09M35.00S,1,1610612748,MIA,258,Grant,B. Grant,159,0,16,Missed,1,0.0,0.0,0,v,MISS Grant 16' Jump Shot,Missed Shot,Jump Shot,0,22
+20100927,20,PT09M33.00S,1,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0.0,0.0,0,v,Mourning REBOUND (Off:1 Def:0),Rebound,Unknown,0,23
+20100927,21,PT09M32.00S,1,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0.0,0.0,0,v,Mourning Out Of Bounds Turnover (P2.T2),Turnover,Out Of Bounds,0,24
+20100927,22,PT09M21.00S,1,1610612751,NJN,1496,Van Horn,K. Van Horn,0,0,0,,0,0.0,0.0,0,h,Van Horn Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,25
+20100927,22,PT09M21.00S,1,1610612748,MIA,258,Grant,B. Grant,0,0,0,,0,0.0,0.0,0,v,Grant STEAL (1 STL),,,0,26
+20100927,23,PT09M02.00S,1,1610612748,MIA,258,Grant,B. Grant,0,0,0,Missed,1,0.0,0.0,0,v,MISS Grant  Driving Layup,Missed Shot,Driving Layup Shot,0,27
+20100927,24,PT09M00.00S,1,1610612751,NJN,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,28
+20100927,25,PT08M55.00S,1,1610612751,NJN,954,Kittles,K. Kittles,-223,61,0,Made,1,9.0,2.0,11,h,Kittles  3PT Jump Shot (5 PTS) (Kidd 2 AST),Made Shot,Jump Shot,0,29
+20100927,26,PT08M39.00S,1,1610612748,MIA,393,Strickland,R. Strickland,-132,116,18,Missed,1,0.0,0.0,0,v,MISS Strickland 18' Jump Shot,Missed Shot,Jump Shot,0,30
+20100927,27,PT08M37.00S,1,1610612751,NJN,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,31
+20100927,28,PT08M31.00S,1,1610612751,NJN,2030,Martin,K. Martin,0,0,0,Made,1,11.0,2.0,13,h,Martin  Slam Dunk (2 PTS) (Kidd 3 AST),Made Shot,Slam Dunk Shot,0,32
+20100927,29,PT08M22.00S,1,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,33
+20100927,31,PT08M09.00S,1,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,Made,1,11.0,4.0,15,v,Mourning  Dunk (4 PTS) (Grant 1 AST),Made Shot,Dunk Shot,0,34
+20100927,32,PT07M54.00S,1,1610612751,NJN,467,Kidd,J. Kidd,-27,76,8,Made,1,13.0,4.0,17,h,Kidd 8' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,0,35
+20100927,33,PT07M29.00S,1,1610612748,MIA,224,Jones,E. Jones,-35,247,25,Missed,1,0.0,0.0,0,v,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,36
+20100927,34,PT07M27.00S,1,1610612751,NJN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,37
+20100927,35,PT07M22.00S,1,1610612751,NJN,1425,Williams,A. Williams,0,0,0,Missed,1,0.0,0.0,0,h,MISS Williams  Driving Layup,Missed Shot,Driving Layup Shot,0,38
+20100927,35,PT07M22.00S,1,1610612748,MIA,383,Gill,K. Gill,0,0,0,,0,0.0,0.0,0,v,Gill BLOCK (1 BLK),,,0,39
+20100927,36,PT07M21.00S,1,1610612751,NJN,1496,Van Horn,K. Van Horn,0,0,0,,0,0.0,0.0,0,h,Van Horn REBOUND (Off:1 Def:0),Rebound,Unknown,0,40
+20100927,37,PT07M21.00S,1,1610612748,MIA,224,Jones,E. Jones,0,0,0,,0,0.0,0.0,0,v,Jones S.FOUL (P1.T2),Foul,Shooting,0,41
+20100927,38,PT07M21.00S,1,1610612751,NJN,1496,Van Horn,K. Van Horn,0,0,0,,0,14.0,4.0,18,h,Van Horn Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,42
+20100927,39,PT07M21.00S,1,1610612751,NJN,1496,Van Horn,K. Van Horn,0,0,0,,0,15.0,4.0,19,h,Van Horn Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,43
+20100927,40,PT07M08.00S,1,1610612751,NJN,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Williams S.FOUL (P2.T2),Foul,Shooting,0,44
+20100927,41,PT07M08.00S,1,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,15.0,5.0,20,v,Mourning Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,45
+20100927,42,PT07M08.00S,1,1610612751,NJN,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,SUB: Collins FOR Williams,Substitution,,0,46
+20100927,43,PT07M08.00S,1,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,15.0,6.0,21,v,Mourning Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,47
+20100927,44,PT06M57.00S,1,1610612751,NJN,954,Kittles,K. Kittles,-132,144,20,Made,1,17.0,6.0,23,h,Kittles 20' Jump Shot (7 PTS) (Martin 1 AST),Made Shot,Jump Shot,0,48
+20100927,45,PT06M37.00S,1,1610612748,MIA,393,Strickland,R. Strickland,-101,150,18,Made,1,17.0,8.0,25,v,Strickland 18' Jump Shot (2 PTS) (Mourning 1 AST),Made Shot,Jump Shot,0,49
+20100927,46,PT06M27.00S,1,1610612751,NJN,2030,Martin,K. Martin,37,116,12,Missed,1,0.0,0.0,0,h,MISS Martin 12' Jump Shot,Missed Shot,Jump Shot,0,50
+20100927,47,PT06M25.00S,1,1610612748,MIA,258,Grant,B. Grant,0,0,0,,0,0.0,0.0,0,v,Grant REBOUND (Off:0 Def:2),Rebound,Unknown,0,51
+20100927,48,PT06M15.00S,1,1610612748,MIA,383,Gill,K. Gill,0,0,0,,0,0.0,0.0,0,v,Gill Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,52
+20100927,48,PT06M15.00S,1,1610612751,NJN,954,Kittles,K. Kittles,0,0,0,,0,0.0,0.0,0,h,Kittles STEAL (1 STL),,,0,53
+20100927,49,PT06M11.00S,1,1610612748,MIA,224,Jones,E. Jones,0,0,0,,0,0.0,0.0,0,v,Jones S.FOUL (P2.T3),Foul,Shooting,0,54
+20100927,50,PT06M11.00S,1,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,18.0,8.0,26,h,Kidd Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,55
+20100927,51,PT06M11.00S,1,1610612748,MIA,224,Jones,E. Jones,0,0,0,,0,0.0,0.0,0,v,SUB: Jackson FOR Jones,Substitution,,0,56
+20100927,52,PT06M11.00S,1,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,19.0,8.0,27,h,Kidd Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,57
+20100927,53,PT05M57.00S,1,1610612748,MIA,754,Jackson,J. Jackson,182,110,21,Made,1,19.0,10.0,29,v,Jackson 21' Jump Shot (2 PTS) (Strickland 1 AST),Made Shot,Jump Shot,0,58
+20100927,54,PT05M34.00S,1,1610612751,NJN,1496,Van Horn,K. Van Horn,-58,55,8,Made,1,21.0,10.0,31,h,Van Horn 8' Running Hook Shot (6 PTS),Made Shot,Running Hook Shot,0,59
+20100927,55,PT05M10.00S,1,1610612748,MIA,393,Strickland,R. Strickland,-124,144,19,Missed,1,0.0,0.0,0,v,MISS Strickland 19' Jump Shot,Missed Shot,Jump Shot,0,60
+20100927,56,PT05M09.00S,1,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,h,NETS Rebound,Rebound,Unknown,0,61
+20100927,57,PT05M09.00S,1,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0.0,0.0,0,v,Mourning L.B.FOUL (P1.T4),Foul,Loose Ball,0,62
+20100927,58,PT05M06.00S,1,1610612751,NJN,1496,Van Horn,K. Van Horn,-214,68,22,Made,1,23.0,10.0,33,h,Van Horn 22' Jump Shot (8 PTS) (Kidd 4 AST),Made Shot,Jump Shot,0,63
+20100927,59,PT04M53.00S,1,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Timeout: Short (Reg.1 Short 1),Timeout,Short,0,64
+20100927,61,PT04M39.00S,1,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,Made,1,23.0,12.0,35,v,Mourning  Layup (8 PTS),Made Shot,Layup Shot,0,65
+20100927,62,PT04M25.00S,1,1610612751,NJN,1496,Van Horn,K. Van Horn,3,95,10,Made,1,25.0,12.0,37,h,Van Horn 10' Running Jump Shot (10 PTS),Made Shot,Running Jump Shot,0,66
+20100927,63,PT04M17.00S,1,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0.0,0.0,0,v,Mourning OFF.Foul (P2),Foul,Offensive,0,67
+20100927,64,PT04M17.00S,1,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0.0,0.0,0,v,Mourning Foul Turnover (P3.T4),Turnover,Foul,0,68
+20100927,65,PT04M17.00S,1,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0.0,0.0,0,v,SUB: Gatling FOR Mourning,Substitution,,0,69
+20100927,66,PT04M06.00S,1,1610612751,NJN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin OFF.Foul (P1),Foul,Offensive,0,70
+20100927,67,PT04M06.00S,1,1610612751,NJN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin Foul Turnover (P1.T2),Turnover,Foul,0,71
+20100927,68,PT03M49.00S,1,1610612748,MIA,383,Gill,K. Gill,28,219,22,Made,1,25.0,14.0,39,v,Gill 22' Jump Shot (2 PTS) (Jackson 1 AST),Made Shot,Jump Shot,0,72
+20100927,69,PT03M35.00S,1,1610612751,NJN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,73
+20100927,70,PT03M35.00S,1,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,SUB: Harris FOR Kidd,Substitution,,0,74
+20100927,71,PT03M35.00S,1,1610612751,NJN,1496,Van Horn,K. Van Horn,0,0,0,,0,0.0,0.0,0,h,SUB: Jefferson FOR Van Horn,Substitution,,0,75
+20100927,72,PT03M16.00S,1,1610612748,MIA,423,Gatling,C. Gatling,0,0,0,Made,1,25.0,16.0,41,v,Gatling  Layup (2 PTS) (Jackson 2 AST),Made Shot,Layup Shot,0,76
+20100927,73,PT03M03.00S,1,1610612748,MIA,754,Jackson,J. Jackson,0,0,0,,0,0.0,0.0,0,v,Jackson S.FOUL (P1.PN),Foul,Shooting,0,77
+20100927,74,PT03M03.00S,1,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,h,MISS Jefferson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,78
+20100927,75,PT03M03.00S,1,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,h,NETS Rebound,Rebound,Normal Rebound,0,79
+20100927,76,PT03M03.00S,1,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,h,MISS Jefferson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,80
+20100927,77,PT03M02.00S,1,1610612748,MIA,754,Jackson,J. Jackson,0,0,0,,0,0.0,0.0,0,v,Jackson REBOUND (Off:0 Def:1),Rebound,Unknown,0,81
+20100927,78,PT02M40.00S,1,1610612748,MIA,754,Jackson,J. Jackson,-183,-19,18,Missed,1,0.0,0.0,0,v,MISS Jackson 18' Jump Shot,Missed Shot,Jump Shot,0,82
+20100927,79,PT02M38.00S,1,1610612748,MIA,258,Grant,B. Grant,0,0,0,,0,0.0,0.0,0,v,Grant REBOUND (Off:1 Def:2),Rebound,Unknown,0,83
+20100927,80,PT02M37.00S,1,1610612748,MIA,258,Grant,B. Grant,0,0,0,Missed,1,0.0,0.0,0,v,MISS Grant  Layup,Missed Shot,Layup Shot,0,84
+20100927,81,PT02M36.00S,1,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Rebound,Rebound,Unknown,0,85
+20100927,82,PT02M36.00S,1,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,h,NETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,86
+20100927,85,PT02M25.00S,1,1610612748,MIA,423,Gatling,C. Gatling,-174,-13,17,Missed,1,0.0,0.0,0,v,MISS Gatling 17' Jump Shot,Missed Shot,Jump Shot,0,87
+20100927,86,PT02M23.00S,1,1610612751,NJN,954,Kittles,K. Kittles,0,0,0,,0,0.0,0.0,0,h,Kittles REBOUND (Off:0 Def:1),Rebound,Unknown,0,88
+20100927,87,PT02M06.00S,1,1610612748,MIA,258,Grant,B. Grant,0,0,0,,0,0.0,0.0,0,v,Grant S.FOUL (P2.PN),Foul,Shooting,0,89
+20100927,88,PT02M06.00S,1,1610612748,MIA,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,v,SUB: Carter FOR Strickland,Substitution,,0,90
+20100927,89,PT02M06.00S,1,1610612748,MIA,258,Grant,B. Grant,0,0,0,,0,0.0,0.0,0,v,SUB: Stepania FOR Grant,Substitution,,0,91
+20100927,90,PT02M06.00S,1,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,26.0,16.0,42,h,Jefferson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,92
+20100927,91,PT02M06.00S,1,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,27.0,16.0,43,h,Jefferson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,93
+20100927,92,PT01M45.00S,1,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,0.0,0.0,0,h,NETS T.Foul (Def. 3 Sec Collins ),Foul,Defense 3 Second,0,94
+20100927,93,PT01M45.00S,1,1610612748,MIA,754,Jackson,J. Jackson,0,0,0,,0,27.0,17.0,44,v,Jackson Free Throw Technical (3 PTS),Free Throw,Free Throw Technical,0,95
+20100927,94,PT01M40.00S,1,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,h,Jefferson P.FOUL (P1.T3),Foul,Personal,0,96
+20100927,95,PT01M32.00S,1,1610612748,MIA,423,Gatling,C. Gatling,85,19,9,Missed,1,0.0,0.0,0,v,MISS Gatling 9' Running Jump Shot,Missed Shot,Running Jump Shot,0,97
+20100927,95,PT01M32.00S,1,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,0.0,0.0,0,h,Collins BLOCK (1 BLK),,,0,98
+20100927,96,PT01M30.00S,1,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,h,Jefferson REBOUND (Off:0 Def:1),Rebound,Unknown,0,99
+20100927,97,PT01M18.00S,1,1610612751,NJN,446,Harris,L. Harris,182,-6,18,Missed,1,0.0,0.0,0,h,MISS Harris 18' Jump Shot,Missed Shot,Jump Shot,0,100
+20100927,98,PT01M16.00S,1,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,h,NETS Rebound,Rebound,Unknown,0,101
+20100927,99,PT01M02.00S,1,1610612751,NJN,446,Harris,L. Harris,0,0,0,Missed,1,0.0,0.0,0,h,MISS Harris  Layup,Missed Shot,Layup Shot,0,102
+20100927,100,PT01M01.00S,1,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,0.0,0.0,0,h,Collins REBOUND (Off:1 Def:0),Rebound,Unknown,0,103
+20100927,101,PT01M00.00S,1,1610612751,NJN,2215,Collins,J. Collins,0,0,0,Made,1,29.0,17.0,46,h,Collins  Layup (2 PTS),Made Shot,Layup Shot,0,104
+20100927,102,PT00M44.90S,1,1610612748,MIA,423,Gatling,C. Gatling,0,0,0,Missed,1,0.0,0.0,0,v,MISS Gatling  Finger Roll,Missed Shot,Finger Roll Shot,0,105
+20100927,103,PT00M43.80S,1,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,h,Jefferson REBOUND (Off:0 Def:2),Rebound,Unknown,0,106
+20100927,104,PT00M35.50S,1,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,h,Jefferson Out Of Bounds Turnover (P1.T4),Turnover,Out Of Bounds,0,107
+20100927,105,PT00M21.10S,1,1610612748,MIA,383,Gill,K. Gill,0,0,0,Missed,1,0.0,0.0,0,v,MISS Gill  Driving Layup,Missed Shot,Driving Layup Shot,0,108
+20100927,106,PT00M19.90S,1,1610612751,NJN,954,Kittles,K. Kittles,0,0,0,,0,0.0,0.0,0,h,Kittles REBOUND (Off:0 Def:2),Rebound,Unknown,0,109
+20100927,107,PT00M17.50S,1,1610612751,NJN,446,Harris,L. Harris,0,0,0,,0,0.0,0.0,0,h,Harris OFF.Foul (P1),Foul,Offensive,0,110
+20100927,108,PT00M17.50S,1,1610612751,NJN,446,Harris,L. Harris,0,0,0,,0,0.0,0.0,0,h,Harris Foul Turnover (P1.T5),Turnover,Foul,0,111
+20100927,109,PT00M17.50S,1,1610612748,MIA,1853,Carter,A. Carter,0,0,0,,0,29.0,18.0,47,v,Carter Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,112
+20100927,110,PT00M17.50S,1,1610612748,MIA,1853,Carter,A. Carter,0,0,0,,0,29.0,19.0,48,v,Carter Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,113
+20100927,112,PT00M02.30S,1,1610612751,NJN,446,Harris,L. Harris,110,255,28,Missed,1,0.0,0.0,0,h,MISS Harris 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,114
+20100927,113,PT00M00.80S,1,1610612748,MIA,423,Gatling,C. Gatling,0,0,0,,0,0.0,0.0,0,v,Gatling REBOUND (Off:0 Def:1),Rebound,Unknown,0,115
+20100927,115,PT00M00.00S,1,0,,0,,,0,0,0,,0,29.0,19.0,48,,End of 1st Period (8:11 PM EST),period,end,0,116
+20100927,116,PT12M00.00S,2,0,,0,,,0,0,0,,0,29.0,19.0,48,,Start of 2nd Period (8:14 PM EST),period,start,0,117
+20100927,117,PT11M48.00S,2,1610612751,NJN,954,Kittles,K. Kittles,0,0,0,Missed,1,0.0,0.0,0,h,MISS Kittles  Driving Layup,Missed Shot,Driving Layup Shot,0,118
+20100927,118,PT11M47.00S,2,1610612748,MIA,423,Gatling,C. Gatling,0,0,0,,0,0.0,0.0,0,v,Gatling REBOUND (Off:0 Def:2),Rebound,Unknown,0,119
+20100927,119,PT11M23.00S,2,1610612748,MIA,224,Jones,E. Jones,-200,95,22,Missed,1,0.0,0.0,0,v,MISS Jones 22' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,120
+20100927,120,PT11M21.00S,2,1610612748,MIA,423,Gatling,C. Gatling,0,0,0,,0,0.0,0.0,0,v,Gatling REBOUND (Off:1 Def:2),Rebound,Unknown,0,121
+20100927,121,PT11M19.00S,2,1610612748,MIA,224,Jones,E. Jones,0,0,0,Missed,1,0.0,0.0,0,v,MISS Jones  Reverse Layup,Missed Shot,Reverse Layup Shot,0,122
+20100927,121,PT11M19.00S,2,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,h,Jefferson BLOCK (1 BLK),,,0,123
+20100927,122,PT11M17.00S,2,1610612751,NJN,954,Kittles,K. Kittles,0,0,0,,0,0.0,0.0,0,h,Kittles REBOUND (Off:0 Def:3),Rebound,Unknown,0,124
+20100927,123,PT11M13.00S,2,1610612751,NJN,1496,Van Horn,K. Van Horn,0,0,0,,0,0.0,0.0,0,h,Van Horn Lost Ball Turnover (P2.T6),Turnover,Lost Ball,0,125
+20100927,124,PT10M54.00S,2,1610612748,MIA,1853,Carter,A. Carter,0,0,0,,0,0.0,0.0,0,v,Carter Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,126
+20100927,125,PT10M41.00S,2,1610612748,MIA,224,Jones,E. Jones,0,0,0,,0,0.0,0.0,0,v,Jones P.FOUL (P3.T1),Foul,Personal,0,127
+20100927,126,PT10M28.00S,2,1610612751,NJN,954,Kittles,K. Kittles,-101,129,16,Missed,1,0.0,0.0,0,h,MISS Kittles 16' Jump Shot,Missed Shot,Jump Shot,0,128
+20100927,127,PT10M26.00S,2,1610612751,NJN,446,Harris,L. Harris,0,0,0,,0,0.0,0.0,0,h,Harris REBOUND (Off:1 Def:0),Rebound,Unknown,0,129
+20100927,128,PT10M24.00S,2,1610612751,NJN,446,Harris,L. Harris,0,0,0,Made,1,31.0,19.0,50,h,Harris  Tip Shot (2 PTS),Made Shot,Tip Shot,0,130
+20100927,129,PT10M13.00S,2,1610612748,MIA,224,Jones,E. Jones,-166,0,17,Missed,1,0.0,0.0,0,v,MISS Jones 17' Jump Shot,Missed Shot,Jump Shot,0,131
+20100927,130,PT10M11.00S,2,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,0.0,0.0,0,h,Collins REBOUND (Off:1 Def:1),Rebound,Unknown,0,132
+20100927,131,PT09M54.00S,2,1610612751,NJN,446,Harris,L. Harris,110,129,17,Missed,1,0.0,0.0,0,h,MISS Harris 17' Jump Shot,Missed Shot,Jump Shot,0,133
+20100927,132,PT09M52.00S,2,1610612748,MIA,1853,Carter,A. Carter,0,0,0,,0,0.0,0.0,0,v,Carter REBOUND (Off:0 Def:1),Rebound,Unknown,0,134
+20100927,133,PT09M46.00S,2,1610612748,MIA,1853,Carter,A. Carter,0,0,0,,0,0.0,0.0,0,v,Carter Lost Ball Turnover (P2.T6),Turnover,Lost Ball,0,135
+20100927,133,PT09M46.00S,2,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,0.0,0.0,0,h,Collins STEAL (1 STL),,,0,136
+20100927,134,PT09M43.00S,2,1610612748,MIA,754,Jackson,J. Jackson,0,0,0,,0,0.0,0.0,0,v,Jackson P.FOUL (P2.T2),Foul,Personal,0,137
+20100927,135,PT09M43.00S,2,1610612748,MIA,224,Jones,E. Jones,0,0,0,,0,0.0,0.0,0,v,SUB: Gill FOR Jones,Substitution,,0,138
+20100927,136,PT09M43.00S,2,1610612748,MIA,1735,Stepania,V. Stepania,0,0,0,,0,0.0,0.0,0,v,SUB: Mourning FOR Stepania,Substitution,,0,139
+20100927,137,PT09M43.00S,2,1610612751,NJN,954,Kittles,K. Kittles,0,0,0,,0,0.0,0.0,0,h,SUB: Kidd FOR Kittles,Substitution,,0,140
+20100927,138,PT09M36.00S,2,1610612751,NJN,2210,Jefferson,R. Jefferson,-200,0,20,Missed,1,0.0,0.0,0,h,MISS Jefferson 20' Jump Shot,Missed Shot,Jump Shot,0,141
+20100927,139,PT09M34.00S,2,1610612748,MIA,383,Gill,K. Gill,0,0,0,,0,0.0,0.0,0,v,Gill REBOUND (Off:0 Def:1),Rebound,Unknown,0,142
+20100927,140,PT09M24.00S,2,1610612748,MIA,754,Jackson,J. Jackson,144,47,15,Made,1,31.0,21.0,52,v,Jackson 15' Turnaround Jump Shot (5 PTS),Made Shot,Turnaround Jump Shot,0,143
+20100927,141,PT09M01.00S,2,1610612751,NJN,1496,Van Horn,K. Van Horn,-229,0,0,Made,1,34.0,21.0,55,h,Van Horn  3PT Jump Shot (13 PTS) (Kidd 5 AST),Made Shot,Jump Shot,0,144
+20100927,142,PT08M45.00S,2,1610612748,MIA,383,Gill,K. Gill,-157,144,21,Missed,1,0.0,0.0,0,v,MISS Gill 21' Jump Shot,Missed Shot,Jump Shot,0,145
+20100927,143,PT08M43.00S,2,1610612748,MIA,383,Gill,K. Gill,0,0,0,,0,0.0,0.0,0,v,Gill REBOUND (Off:1 Def:1),Rebound,Unknown,0,146
+20100927,144,PT08M37.00S,2,1610612748,MIA,754,Jackson,J. Jackson,191,150,24,Made,1,34.0,24.0,58,v,Jackson 24' 3PT Jump Shot (8 PTS) (Gill 1 AST),Made Shot,Jump Shot,0,147
+20100927,145,PT08M29.00S,2,1610612751,NJN,1496,Van Horn,K. Van Horn,-200,137,24,Missed,1,0.0,0.0,0,h,MISS Van Horn 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,148
+20100927,146,PT08M27.00S,2,1610612748,MIA,383,Gill,K. Gill,0,0,0,,0,0.0,0.0,0,v,Gill REBOUND (Off:1 Def:2),Rebound,Unknown,0,149
+20100927,147,PT08M21.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,150
+20100927,149,PT08M21.00S,2,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,0.0,0.0,0,h,SUB: Williams FOR Collins,Substitution,,0,151
+20100927,150,PT08M16.00S,2,1610612748,MIA,754,Jackson,J. Jackson,-50,47,7,Missed,1,0.0,0.0,0,v,MISS Jackson 7' Hook Shot,Missed Shot,Hook Shot,0,152
+20100927,151,PT08M14.00S,2,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Rebound,Rebound,Unknown,0,153
+20100927,152,PT08M14.00S,2,1610612751,NJN,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Williams L.B.FOUL (P3.T1),Foul,Loose Ball,0,154
+20100927,153,PT08M14.00S,2,1610612751,NJN,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,SUB: Collins FOR Williams,Substitution,,0,155
+20100927,154,PT08M07.00S,2,1610612748,MIA,1853,Carter,A. Carter,127,110,17,Made,1,34.0,26.0,60,v,Carter 17' Jump Shot (4 PTS),Made Shot,Jump Shot,0,156
+20100927,155,PT07M44.00S,2,1610612751,NJN,446,Harris,L. Harris,54,192,20,Missed,1,0.0,0.0,0,h,MISS Harris 20' Jump Shot,Missed Shot,Jump Shot,0,157
+20100927,156,PT07M42.00S,2,1610612751,NJN,1496,Van Horn,K. Van Horn,0,0,0,,0,0.0,0.0,0,h,Van Horn REBOUND (Off:2 Def:0),Rebound,Unknown,0,158
+20100927,157,PT07M29.00S,2,1610612751,NJN,467,Kidd,J. Kidd,3,219,22,Made,1,36.0,26.0,62,h,Kidd 22' Jump Shot (6 PTS) (Van Horn 1 AST),Made Shot,Jump Shot,0,159
+20100927,158,PT07M13.00S,2,1610612748,MIA,754,Jackson,J. Jackson,45,213,22,Missed,1,0.0,0.0,0,v,MISS Jackson 22' Jump Shot,Missed Shot,Jump Shot,0,160
+20100927,159,PT07M11.00S,2,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,h,Jefferson REBOUND (Off:0 Def:3),Rebound,Unknown,0,161
+20100927,160,PT07M05.00S,2,1610612751,NJN,467,Kidd,J. Kidd,-27,76,8,Made,1,38.0,26.0,64,h,Kidd 8' Jump Shot (8 PTS),Made Shot,Jump Shot,0,162
+20100927,161,PT06M58.00S,2,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Timeout: Regular (Reg.2 Short 1),Timeout,Regular,0,163
+20100927,163,PT06M58.00S,2,1610612748,MIA,423,Gatling,C. Gatling,0,0,0,,0,0.0,0.0,0,v,SUB: Grant FOR Gatling,Substitution,,0,164
+20100927,164,PT06M48.00S,2,1610612748,MIA,1853,Carter,A. Carter,37,213,22,Missed,1,0.0,0.0,0,v,MISS Carter 22' Jump Shot,Missed Shot,Jump Shot,0,165
+20100927,165,PT06M46.00S,2,1610612751,NJN,446,Harris,L. Harris,0,0,0,,0,0.0,0.0,0,h,Harris REBOUND (Off:1 Def:1),Rebound,Unknown,0,166
+20100927,166,PT06M40.00S,2,1610612751,NJN,467,Kidd,J. Kidd,-117,95,15,Missed,1,0.0,0.0,0,h,MISS Kidd 15' Jump Shot,Missed Shot,Jump Shot,0,167
+20100927,167,PT06M38.00S,2,1610612748,MIA,383,Gill,K. Gill,0,0,0,,0,0.0,0.0,0,v,Gill REBOUND (Off:1 Def:3),Rebound,Unknown,0,168
+20100927,168,PT06M30.00S,2,1610612748,MIA,297,Mourning,A. Mourning,119,129,18,Missed,1,0.0,0.0,0,v,MISS Mourning 18' Jump Shot,Missed Shot,Jump Shot,0,169
+20100927,169,PT06M28.00S,2,1610612748,MIA,258,Grant,B. Grant,0,0,0,,0,0.0,0.0,0,v,Grant REBOUND (Off:2 Def:2),Rebound,Unknown,0,170
+20100927,170,PT06M27.00S,2,1610612748,MIA,258,Grant,B. Grant,0,0,0,Missed,1,0.0,0.0,0,v,MISS Grant  Tip Shot,Missed Shot,Tip Shot,0,171
+20100927,171,PT06M26.00S,2,1610612751,NJN,446,Harris,L. Harris,0,0,0,,0,0.0,0.0,0,h,Harris REBOUND (Off:1 Def:2),Rebound,Unknown,0,172
+20100927,172,PT06M12.00S,2,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,173
+20100927,172,PT06M12.00S,2,1610612748,MIA,1853,Carter,A. Carter,0,0,0,,0,0.0,0.0,0,v,Carter STEAL (1 STL),,,0,174
+20100927,173,PT06M07.00S,2,1610612748,MIA,383,Gill,K. Gill,0,0,0,,0,0.0,0.0,0,v,Gill Traveling Turnover (P2.T7),Turnover,Traveling,0,175
+20100927,174,PT06M07.00S,2,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,h,SUB: Martin FOR Jefferson,Substitution,,0,176
+20100927,175,PT06M07.00S,2,1610612748,MIA,754,Jackson,J. Jackson,0,0,0,,0,0.0,0.0,0,v,SUB: Strickland FOR Jackson,Substitution,,0,177
+20100927,176,PT05M53.00S,2,1610612751,NJN,2030,Martin,K. Martin,0,0,0,Made,1,40.0,26.0,66,h,Martin  Slam Dunk (4 PTS) (Kidd 6 AST),Made Shot,Slam Dunk Shot,0,178
+20100927,177,PT05M31.00S,2,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0.0,0.0,0,v,Mourning Lost Ball Turnover (P4.T8),Turnover,Lost Ball,0,179
+20100927,177,PT05M31.00S,2,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,0.0,0.0,0,h,Collins STEAL (2 STL),,,0,180
+20100927,178,PT05M21.00S,2,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,Missed,1,0.0,0.0,0,h,MISS Kidd  Layup,Missed Shot,Layup Shot,0,181
+20100927,178,PT05M21.00S,2,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0.0,0.0,0,v,Mourning BLOCK (2 BLK),,,0,182
+20100927,179,PT05M19.00S,2,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd REBOUND (Off:1 Def:1),Rebound,Unknown,0,183
+20100927,180,PT05M16.00S,2,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,0.0,0.0,0,h,Collins OFF.Foul (P1),Foul,Offensive,0,184
+20100927,181,PT05M16.00S,2,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,0.0,0.0,0,h,Collins Foul Turnover (P1.T8),Turnover,Foul,0,185
+20100927,182,PT05M16.00S,2,1610612748,MIA,1853,Carter,A. Carter,0,0,0,,0,0.0,0.0,0,v,SUB: Jackson FOR Carter,Substitution,,0,186
+20100927,183,PT04M53.00S,2,1610612748,MIA,393,Strickland,R. Strickland,54,192,20,Missed,1,0.0,0.0,0,v,MISS Strickland 20' Jump Shot,Missed Shot,Jump Shot,0,187
+20100927,184,PT04M51.00S,2,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0.0,0.0,0,v,Mourning REBOUND (Off:2 Def:0),Rebound,Unknown,0,188
+20100927,185,PT04M50.00S,2,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,Missed,1,0.0,0.0,0,v,MISS Mourning  Tip Shot,Missed Shot,Tip Shot,0,189
+20100927,186,PT04M49.00S,2,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd REBOUND (Off:1 Def:2),Rebound,Unknown,0,190
+20100927,187,PT04M45.00S,2,1610612751,NJN,446,Harris,L. Harris,-132,122,18,Made,1,42.0,26.0,68,h,Harris 18' Jump Shot (4 PTS) (Kidd 7 AST),Made Shot,Jump Shot,0,191
+20100927,188,PT04M34.00S,2,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,192
+20100927,190,PT04M34.00S,2,1610612751,NJN,446,Harris,L. Harris,0,0,0,,0,0.0,0.0,0,h,SUB: Kittles FOR Harris,Substitution,,0,193
+20100927,191,PT04M22.00S,2,1610612748,MIA,754,Jackson,J. Jackson,0,0,0,,0,0.0,0.0,0,v,Jackson Backcourt Turnover (P1.T9),Turnover,Backcourt Turnover,0,194
+20100927,193,PT04M11.00S,2,1610612751,NJN,2030,Martin,K. Martin,0,0,0,Missed,1,0.0,0.0,0,h,MISS Martin  Layup,Missed Shot,Layup Shot,0,195
+20100927,193,PT04M11.00S,2,1610612748,MIA,258,Grant,B. Grant,0,0,0,,0,0.0,0.0,0,v,Grant BLOCK (1 BLK),,,0,196
+20100927,194,PT04M10.00S,2,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd REBOUND (Off:2 Def:2),Rebound,Unknown,0,197
+20100927,195,PT03M59.00S,2,1610612751,NJN,1496,Van Horn,K. Van Horn,0,0,0,Made,1,44.0,26.0,70,h,Van Horn  Reverse Layup (15 PTS) (Kidd 8 AST),Made Shot,Reverse Layup Shot,0,198
+20100927,196,PT03M45.00S,2,1610612748,MIA,393,Strickland,R. Strickland,-101,171,20,Made,1,44.0,28.0,72,v,Strickland 20' Jump Shot (4 PTS),Made Shot,Jump Shot,0,199
+20100927,197,PT03M32.00S,2,1610612751,NJN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin FLAGRANT.FOUL.TYPE1 (P2.T2),Foul,Flagrant Type 1,0,200
+20100927,198,PT03M32.00S,2,1610612751,NJN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin Foul Turnover (P3.T9),Turnover,Foul,0,201
+20100927,199,PT03M32.00S,2,1610612748,MIA,754,Jackson,J. Jackson,0,0,0,,0,44.0,29.0,73,v,Jackson Free Throw Flagrant 1 of 2 (9 PTS),Free Throw,Free Throw Flagrant 1 of 2,0,202
+20100927,200,PT03M32.00S,2,1610612748,MIA,754,Jackson,J. Jackson,0,0,0,,0,44.0,30.0,74,v,Jackson Free Throw Flagrant 2 of 2 (10 PTS),Free Throw,Free Throw Flagrant 2 of 2,0,203
+20100927,201,PT03M10.00S,2,1610612748,MIA,754,Jackson,J. Jackson,207,61,22,Missed,1,0.0,0.0,0,v,MISS Jackson 22' Jump Shot,Missed Shot,Jump Shot,0,204
+20100927,202,PT03M09.00S,2,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd REBOUND (Off:2 Def:3),Rebound,Unknown,0,205
+20100927,203,PT03M04.00S,2,1610612751,NJN,2030,Martin,K. Martin,0,0,0,Made,1,46.0,30.0,76,h,Martin  Layup (6 PTS),Made Shot,Layup Shot,0,206
+20100927,204,PT02M49.00S,2,1610612748,MIA,258,Grant,B. Grant,0,0,0,,0,0.0,0.0,0,v,Grant OFF.Foul (P3),Foul,Offensive,0,207
+20100927,205,PT02M49.00S,2,1610612748,MIA,258,Grant,B. Grant,0,0,0,,0,0.0,0.0,0,v,Grant Foul Turnover (P1.T10),Turnover,Foul,0,208
+20100927,206,PT02M49.00S,2,1610612748,MIA,258,Grant,B. Grant,0,0,0,,0,0.0,0.0,0,v,SUB: Gatling FOR Grant,Substitution,,0,209
+20100927,207,PT02M33.00S,2,1610612751,NJN,2030,Martin,K. Martin,0,0,0,Made,1,48.0,30.0,78,h,Martin  Driving Layup (8 PTS),Made Shot,Driving Layup Shot,0,210
+20100927,208,PT02M07.00S,2,1610612748,MIA,754,Jackson,J. Jackson,-117,150,19,Made,1,48.0,32.0,80,v,Jackson 19' Jump Shot (12 PTS) (Mourning 2 AST),Made Shot,Jump Shot,0,211
+20100927,209,PT01M48.00S,2,1610612751,NJN,954,Kittles,K. Kittles,20,171,17,Missed,1,0.0,0.0,0,h,MISS Kittles 17' Running Jump Shot,Missed Shot,Running Jump Shot,0,212
+20100927,210,PT01M46.00S,2,1610612748,MIA,423,Gatling,C. Gatling,0,0,0,,0,0.0,0.0,0,v,Gatling REBOUND (Off:1 Def:3),Rebound,Unknown,0,213
+20100927,211,PT01M35.00S,2,1610612748,MIA,393,Strickland,R. Strickland,144,116,18,Made,1,48.0,34.0,82,v,Strickland 18' Jump Shot (6 PTS),Made Shot,Jump Shot,0,214
+20100927,212,PT01M18.00S,2,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,215
+20100927,212,PT01M18.00S,2,1610612748,MIA,383,Gill,K. Gill,0,0,0,,0,0.0,0.0,0,v,Gill STEAL (1 STL),,,0,216
+20100927,213,PT01M01.00S,2,1610612748,MIA,383,Gill,K. Gill,-75,186,20,Made,1,48.0,36.0,84,v,Gill 20' Jump Shot (4 PTS) (Strickland 2 AST),Made Shot,Jump Shot,0,217
+20100927,214,PT00M47.40S,2,1610612751,NJN,467,Kidd,J. Kidd,-84,213,23,Made,1,50.0,36.0,86,h,Kidd 23' Jump Shot (10 PTS),Made Shot,Jump Shot,0,218
+20100927,215,PT00M31.70S,2,1610612751,NJN,1496,Van Horn,K. Van Horn,0,0,0,,0,0.0,0.0,0,h,Van Horn S.FOUL (P1.T3),Foul,Shooting,0,219
+20100927,216,PT00M31.70S,2,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0.0,0.0,0,v,SUB: Stepania FOR Mourning,Substitution,,0,220
+20100927,217,PT00M31.70S,2,1610612748,MIA,423,Gatling,C. Gatling,0,0,0,,0,0.0,0.0,0,v,MISS Gatling Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,221
+20100927,218,PT00M31.70S,2,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Rebound,Rebound,Normal Rebound,0,222
+20100927,219,PT00M31.70S,2,1610612748,MIA,423,Gatling,C. Gatling,0,0,0,,0,50.0,37.0,87,v,Gatling Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,223
+20100927,220,PT00M21.00S,2,1610612748,MIA,754,Jackson,J. Jackson,0,0,0,,0,0.0,0.0,0,v,Jackson S.FOUL (P3.T3),Foul,Shooting,0,224
+20100927,221,PT00M21.00S,2,1610612751,NJN,1496,Van Horn,K. Van Horn,0,0,0,,0,0.0,0.0,0,h,MISS Van Horn Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,225
+20100927,222,PT00M21.00S,2,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,h,NETS Rebound,Rebound,Normal Rebound,0,226
+20100927,223,PT00M21.00S,2,1610612751,NJN,1496,Van Horn,K. Van Horn,0,0,0,,0,51.0,37.0,88,h,Van Horn Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,227
+20100927,224,PT00M01.90S,2,1610612748,MIA,393,Strickland,R. Strickland,0,0,0,Missed,1,0.0,0.0,0,v,MISS Strickland  Layup,Missed Shot,Layup Shot,0,228
+20100927,225,PT00M00.90S,2,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,0.0,0.0,0,h,Collins REBOUND (Off:1 Def:2),Rebound,Unknown,0,229
+20100927,226,PT00M00.00S,2,0,,0,,,0,0,0,,0,51.0,37.0,88,,End of 2nd Period (8:38 PM EST),period,end,0,230
+20100927,228,PT12M00.00S,3,0,,0,,,0,0,0,,0,51.0,37.0,88,,Start of 3rd Period (8:54 PM EST),period,start,0,231
+20100927,229,PT11M47.00S,3,1610612748,MIA,383,Gill,K. Gill,0,0,0,,0,0.0,0.0,0,v,Gill S.FOUL (P1.T1),Foul,Shooting,0,232
+20100927,230,PT11M47.00S,3,1610612751,NJN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,233
+20100927,231,PT11M47.00S,3,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,h,NETS Rebound,Rebound,Normal Rebound,0,234
+20100927,232,PT11M47.00S,3,1610612751,NJN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,MISS Martin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,235
+20100927,233,PT11M46.00S,3,1610612748,MIA,258,Grant,B. Grant,0,0,0,,0,0.0,0.0,0,v,Grant REBOUND (Off:2 Def:3),Rebound,Unknown,0,236
+20100927,234,PT11M28.00S,3,1610612748,MIA,383,Gill,K. Gill,54,207,21,Missed,1,0.0,0.0,0,v,MISS Gill 21' Jump Shot,Missed Shot,Jump Shot,0,237
+20100927,235,PT11M26.00S,3,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd REBOUND (Off:2 Def:4),Rebound,Unknown,0,238
+20100927,236,PT11M13.00S,3,1610612751,NJN,2030,Martin,K. Martin,85,40,9,Missed,1,0.0,0.0,0,h,MISS Martin 9' Jump Shot,Missed Shot,Jump Shot,0,239
+20100927,237,PT11M12.00S,3,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0.0,0.0,0,v,Mourning REBOUND (Off:2 Def:1),Rebound,Unknown,0,240
+20100927,238,PT10M53.00S,3,1610612748,MIA,393,Strickland,R. Strickland,-117,158,20,Made,1,51.0,39.0,90,v,Strickland 20' Jump Shot (8 PTS) (Gill 2 AST),Made Shot,Jump Shot,0,241
+20100927,239,PT10M34.00S,3,1610612748,MIA,383,Gill,K. Gill,0,0,0,,0,0.0,0.0,0,v,Gill P.FOUL (P2.T2),Foul,Personal,0,242
+20100927,240,PT10M24.00S,3,1610612751,NJN,2030,Martin,K. Martin,-50,47,7,Missed,1,0.0,0.0,0,h,MISS Martin 7' Hook Shot,Missed Shot,Hook Shot,0,243
+20100927,241,PT10M22.00S,3,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0.0,0.0,0,v,Mourning REBOUND (Off:2 Def:2),Rebound,Unknown,0,244
+20100927,242,PT10M10.00S,3,1610612748,MIA,224,Jones,E. Jones,-124,55,14,Missed,1,0.0,0.0,0,v,MISS Jones 14' Jump Shot,Missed Shot,Jump Shot,0,245
+20100927,243,PT10M08.00S,3,1610612751,NJN,1496,Van Horn,K. Van Horn,0,0,0,,0,0.0,0.0,0,h,Van Horn REBOUND (Off:2 Def:1),Rebound,Unknown,0,246
+20100927,244,PT10M02.00S,3,1610612751,NJN,954,Kittles,K. Kittles,144,7,14,Missed,1,0.0,0.0,0,h,MISS Kittles 14' Jump Shot,Missed Shot,Jump Shot,0,247
+20100927,245,PT10M00.00S,3,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0.0,0.0,0,v,Mourning REBOUND (Off:2 Def:3),Rebound,Unknown,0,248
+20100927,246,PT09M44.00S,3,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,Missed,1,0.0,0.0,0,v,MISS Mourning  Layup,Missed Shot,Layup Shot,0,249
+20100927,246,PT09M44.00S,3,1610612751,NJN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin BLOCK (1 BLK),,,0,250
+20100927,247,PT09M42.00S,3,1610612748,MIA,258,Grant,B. Grant,0,0,0,,0,0.0,0.0,0,v,Grant REBOUND (Off:3 Def:3),Rebound,Unknown,0,251
+20100927,248,PT09M39.00S,3,1610612748,MIA,393,Strickland,R. Strickland,0,0,0,Missed,1,0.0,0.0,0,v,MISS Strickland  Layup,Missed Shot,Layup Shot,0,252
+20100927,248,PT09M39.00S,3,1610612751,NJN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin BLOCK (2 BLK),,,0,253
+20100927,249,PT09M37.00S,3,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd REBOUND (Off:2 Def:5),Rebound,Unknown,0,254
+20100927,250,PT09M30.00S,3,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0.0,0.0,0,v,Mourning P.FOUL (P3.T3),Foul,Personal,0,255
+20100927,251,PT09M24.00S,3,1610612751,NJN,1496,Van Horn,K. Van Horn,224,13,0,Missed,1,0.0,0.0,0,h,MISS Van Horn  3PT Jump Shot,Missed Shot,Jump Shot,0,256
+20100927,252,PT09M22.00S,3,1610612748,MIA,224,Jones,E. Jones,0,0,0,,0,0.0,0.0,0,v,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,257
+20100927,253,PT09M11.00S,3,1610612748,MIA,383,Gill,K. Gill,0,0,0,Missed,1,0.0,0.0,0,v,MISS Gill  Layup,Missed Shot,Layup Shot,0,258
+20100927,253,PT09M11.00S,3,1610612751,NJN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin BLOCK (3 BLK),,,0,259
+20100927,254,PT09M09.00S,3,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd REBOUND (Off:2 Def:6),Rebound,Unknown,0,260
+20100927,255,PT09M03.00S,3,1610612751,NJN,1496,Van Horn,K. Van Horn,0,0,0,Made,1,53.0,39.0,92,h,Van Horn  Driving Dunk (18 PTS) (Kidd 9 AST),Made Shot,Driving Dunk Shot,0,261
+20100927,256,PT08M37.00S,3,1610612748,MIA,383,Gill,K. Gill,159,110,19,Missed,1,0.0,0.0,0,v,MISS Gill 19' Jump Shot,Missed Shot,Jump Shot,0,262
+20100927,257,PT08M35.00S,3,1610612751,NJN,1496,Van Horn,K. Van Horn,0,0,0,,0,0.0,0.0,0,h,Van Horn REBOUND (Off:2 Def:2),Rebound,Unknown,0,263
+20100927,258,PT08M33.00S,3,1610612748,MIA,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,v,Strickland P.FOUL (P1.T4),Foul,Personal,0,264
+20100927,259,PT08M14.00S,3,1610612751,NJN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin Lost Ball Turnover (P4.T11),Turnover,Lost Ball,0,265
+20100927,260,PT07M55.00S,3,1610612748,MIA,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,v,Strickland Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,266
+20100927,261,PT07M46.00S,3,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0.0,0.0,0,v,Mourning P.FOUL (P4.PN),Foul,Personal,0,267
+20100927,262,PT07M46.00S,3,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0.0,0.0,0,v,SUB: Gatling FOR Mourning,Substitution,,0,268
+20100927,263,PT07M46.00S,3,1610612751,NJN,1425,Williams,A. Williams,0,0,0,,0,54.0,39.0,93,h,Williams Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,269
+20100927,264,PT07M46.00S,3,1610612751,NJN,1425,Williams,A. Williams,0,0,0,,0,55.0,39.0,94,h,Williams Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,270
+20100927,265,PT07M31.00S,3,1610612748,MIA,224,Jones,E. Jones,-206,137,25,Made,1,55.0,42.0,97,v,Jones 25' 3PT Jump Shot (3 PTS) (Gill 3 AST),Made Shot,Jump Shot,0,271
+20100927,266,PT07M10.00S,3,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,Missed,1,0.0,0.0,0,h,MISS Kidd  Driving Layup,Missed Shot,Driving Layup Shot,0,272
+20100927,267,PT07M08.00S,3,1610612751,NJN,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Williams REBOUND (Off:1 Def:2),Rebound,Unknown,0,273
+20100927,268,PT07M08.00S,3,1610612751,NJN,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Williams Illegal Assist Turnover (P1.T12),Turnover,Illegal Assist Turnover,0,274
+20100927,269,PT06M54.00S,3,1610612748,MIA,423,Gatling,C. Gatling,-183,-6,18,Missed,1,0.0,0.0,0,v,MISS Gatling 18' Jump Shot,Missed Shot,Jump Shot,0,275
+20100927,270,PT06M52.00S,3,1610612751,NJN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,276
+20100927,271,PT06M43.00S,3,1610612751,NJN,1425,Williams,A. Williams,0,0,0,Missed,1,0.0,0.0,0,h,MISS Williams  Layup,Missed Shot,Layup Shot,0,277
+20100927,271,PT06M43.00S,3,1610612748,MIA,423,Gatling,C. Gatling,0,0,0,,0,0.0,0.0,0,v,Gatling BLOCK (1 BLK),,,0,278
+20100927,272,PT06M42.00S,3,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Rebound,Rebound,Unknown,0,279
+20100927,273,PT06M42.00S,3,1610612751,NJN,1496,Van Horn,K. Van Horn,0,0,0,,0,0.0,0.0,0,h,Van Horn L.B.FOUL (P2.T1),Foul,Loose Ball,0,280
+20100927,274,PT06M25.00S,3,1610612748,MIA,224,Jones,E. Jones,0,0,0,Missed,1,0.0,0.0,0,v,MISS Jones  Reverse Layup,Missed Shot,Reverse Layup Shot,0,281
+20100927,275,PT06M24.00S,3,1610612748,MIA,258,Grant,B. Grant,0,0,0,,0,0.0,0.0,0,v,Grant REBOUND (Off:4 Def:3),Rebound,Unknown,0,282
+20100927,276,PT06M24.00S,3,1610612751,NJN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin S.FOUL (P3.T2),Foul,Shooting,0,283
+20100927,277,PT06M24.00S,3,1610612748,MIA,258,Grant,B. Grant,0,0,0,,0,55.0,43.0,98,v,Grant Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,284
+20100927,278,PT06M24.00S,3,1610612748,MIA,258,Grant,B. Grant,0,0,0,,0,55.0,44.0,99,v,Grant Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,285
+20100927,279,PT06M10.00S,3,1610612751,NJN,467,Kidd,J. Kidd,85,158,18,Missed,1,0.0,0.0,0,h,MISS Kidd 18' Jump Shot,Missed Shot,Jump Shot,0,286
+20100927,280,PT06M08.00S,3,1610612748,MIA,423,Gatling,C. Gatling,0,0,0,,0,0.0,0.0,0,v,Gatling REBOUND (Off:1 Def:4),Rebound,Unknown,0,287
+20100927,281,PT05M58.00S,3,1610612748,MIA,393,Strickland,R. Strickland,37,89,10,Missed,1,0.0,0.0,0,v,MISS Strickland 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,288
+20100927,281,PT05M58.00S,3,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd BLOCK (1 BLK),,,0,289
+20100927,282,PT05M56.00S,3,1610612748,MIA,258,Grant,B. Grant,0,0,0,,0,0.0,0.0,0,v,Grant REBOUND (Off:5 Def:3),Rebound,Unknown,0,290
+20100927,283,PT05M55.00S,3,1610612748,MIA,258,Grant,B. Grant,0,0,0,Made,1,55.0,46.0,101,v,Grant  Layup (4 PTS),Made Shot,Layup Shot,0,291
+20100927,284,PT05M37.00S,3,1610612751,NJN,1496,Van Horn,K. Van Horn,167,68,18,Made,1,57.0,46.0,103,h,Van Horn 18' Jump Shot (20 PTS),Made Shot,Jump Shot,0,292
+20100927,285,PT05M19.00S,3,1610612748,MIA,224,Jones,E. Jones,90,49,10,Missed,1,0.0,0.0,0,v,MISS Jones 10' Running Jump Shot,Missed Shot,Running Jump Shot,0,293
+20100927,286,PT05M18.00S,3,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd REBOUND (Off:2 Def:7),Rebound,Unknown,0,294
+20100927,287,PT05M13.00S,3,1610612751,NJN,1496,Van Horn,K. Van Horn,0,0,0,Missed,1,0.0,0.0,0,h,MISS Van Horn  Driving Layup,Missed Shot,Driving Layup Shot,0,295
+20100927,287,PT05M13.00S,3,1610612748,MIA,224,Jones,E. Jones,0,0,0,,0,0.0,0.0,0,v,Jones BLOCK (1 BLK),,,0,296
+20100927,288,PT05M12.00S,3,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd REBOUND (Off:3 Def:7),Rebound,Unknown,0,297
+20100927,289,PT05M08.00S,3,1610612751,NJN,954,Kittles,K. Kittles,-141,-6,14,Missed,1,0.0,0.0,0,h,MISS Kittles 14' Jump Shot,Missed Shot,Jump Shot,0,298
+20100927,290,PT05M06.00S,3,1610612751,NJN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,299
+20100927,291,PT05M05.00S,3,1610612751,NJN,2030,Martin,K. Martin,0,0,0,Made,1,59.0,46.0,105,h,Martin  Tip Shot (10 PTS),Made Shot,Tip Shot,0,300
+20100927,292,PT04M50.00S,3,1610612748,MIA,393,Strickland,R. Strickland,0,0,0,Made,1,59.0,48.0,107,v,Strickland  Driving Layup (10 PTS),Made Shot,Driving Layup Shot,0,301
+20100927,293,PT04M40.00S,3,1610612748,MIA,423,Gatling,C. Gatling,0,0,0,,0,0.0,0.0,0,v,Gatling P.FOUL (P1.PN),Foul,Personal,0,302
+20100927,295,PT04M40.00S,3,1610612748,MIA,258,Grant,B. Grant,0,0,0,,0,0.0,0.0,0,v,SUB: Stepania FOR Grant,Substitution,,0,303
+20100927,296,PT04M40.00S,3,1610612748,MIA,383,Gill,K. Gill,0,0,0,,0,0.0,0.0,0,v,SUB: Jackson FOR Gill,Substitution,,0,304
+20100927,297,PT04M40.00S,3,1610612751,NJN,1496,Van Horn,K. Van Horn,0,0,0,,0,60.0,48.0,108,h,Van Horn Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,305
+20100927,298,PT04M40.00S,3,1610612751,NJN,1496,Van Horn,K. Van Horn,0,0,0,,0,61.0,48.0,109,h,Van Horn Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,306
+20100927,299,PT04M18.00S,3,1610612748,MIA,1735,Stepania,V. Stepania,-92,55,11,Made,1,61.0,50.0,111,v,Stepania 11' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,0,307
+20100927,300,PT03M56.00S,3,1610612751,NJN,1425,Williams,A. Williams,-35,47,6,Made,1,63.0,50.0,113,h,Williams 6' Hook Shot (6 PTS),Made Shot,Hook Shot,0,308
+20100927,301,PT03M38.00S,3,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd S.FOUL (P1.T3),Foul,Shooting,0,309
+20100927,302,PT03M38.00S,3,1610612751,NJN,1496,Van Horn,K. Van Horn,0,0,0,,0,0.0,0.0,0,h,SUB: Jefferson FOR Van Horn,Substitution,,0,310
+20100927,303,PT03M38.00S,3,1610612751,NJN,954,Kittles,K. Kittles,0,0,0,,0,0.0,0.0,0,h,SUB: Harris FOR Kittles,Substitution,,0,311
+20100927,304,PT03M38.00S,3,1610612748,MIA,754,Jackson,J. Jackson,0,0,0,,0,63.0,51.0,114,v,Jackson Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,312
+20100927,305,PT03M38.00S,3,1610612748,MIA,754,Jackson,J. Jackson,0,0,0,,0,63.0,52.0,115,v,Jackson Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,313
+20100927,306,PT03M17.00S,3,1610612751,NJN,2210,Jefferson,R. Jefferson,-132,150,20,Made,1,65.0,52.0,117,h,Jefferson 20' Jump Shot (4 PTS),Made Shot,Jump Shot,0,314
+20100927,307,PT03M02.00S,3,1610612748,MIA,224,Jones,E. Jones,-92,129,16,Missed,1,0.0,0.0,0,v,MISS Jones 16' Jump Shot,Missed Shot,Jump Shot,0,315
+20100927,308,PT03M00.00S,3,1610612751,NJN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin REBOUND (Off:1 Def:4),Rebound,Unknown,0,316
+20100927,309,PT02M44.00S,3,1610612751,NJN,1425,Williams,A. Williams,0,0,0,Missed,1,0.0,0.0,0,h,MISS Williams  Dunk,Missed Shot,Dunk Shot,0,317
+20100927,309,PT02M44.00S,3,1610612748,MIA,1735,Stepania,V. Stepania,0,0,0,,0,0.0,0.0,0,v,Stepania BLOCK (1 BLK),,,0,318
+20100927,310,PT02M42.00S,3,1610612748,MIA,224,Jones,E. Jones,0,0,0,,0,0.0,0.0,0,v,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,319
+20100927,311,PT02M35.00S,3,1610612751,NJN,446,Harris,L. Harris,0,0,0,,0,0.0,0.0,0,h,Harris Violation:Kicked Ball,Violation,Kicked Ball,0,320
+20100927,313,PT02M35.00S,3,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,321
+20100927,314,PT02M35.00S,3,1610612748,MIA,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,v,SUB: Carter FOR Strickland,Substitution,,0,322
+20100927,315,PT02M35.00S,3,1610612751,NJN,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,SUB: Collins FOR Williams,Substitution,,0,323
+20100927,316,PT02M24.00S,3,1610612748,MIA,754,Jackson,J. Jackson,144,207,25,Made,1,65.0,55.0,120,v,Jackson 25' 3PT Jump Shot (17 PTS) (Carter 1 AST),Made Shot,Jump Shot,0,324
+20100927,317,PT01M57.00S,3,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,0.0,0.0,0,h,Collins 3 Second Violation Turnover (P2.T13),Turnover,3 Second Violation,0,325
+20100927,318,PT01M41.00S,3,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,0.0,0.0,0,h,Collins S.FOUL (P2.T4),Foul,Shooting,0,326
+20100927,319,PT01M41.00S,3,1610612748,MIA,1735,Stepania,V. Stepania,0,0,0,,0,65.0,56.0,121,v,Stepania Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,327
+20100927,320,PT01M41.00S,3,1610612748,MIA,1735,Stepania,V. Stepania,0,0,0,,0,65.0,57.0,122,v,Stepania Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,328
+20100927,321,PT01M37.00S,3,1610612751,NJN,2210,Jefferson,R. Jefferson,77,7,8,Made,1,67.0,57.0,124,h,Jefferson 8' Jump Shot (6 PTS) (Harris 1 AST),Made Shot,Jump Shot,0,329
+20100927,322,PT01M18.00S,3,1610612748,MIA,423,Gatling,C. Gatling,191,55,20,Made,1,67.0,59.0,126,v,Gatling 20' Jump Shot (5 PTS) (Carter 2 AST),Made Shot,Jump Shot,0,330
+20100927,323,PT00M58.60S,3,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,Made,1,69.0,59.0,128,h,Jefferson  Driving Dunk (8 PTS) (Kidd 10 AST),Made Shot,Driving Dunk Shot,0,331
+20100927,324,PT00M37.70S,3,1610612748,MIA,1853,Carter,A. Carter,77,192,21,Missed,1,0.0,0.0,0,v,MISS Carter 21' Jump Shot,Missed Shot,Jump Shot,0,332
+20100927,325,PT00M35.50S,3,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,0.0,0.0,0,h,Collins REBOUND (Off:1 Def:3),Rebound,Unknown,0,333
+20100927,326,PT00M31.10S,3,1610612751,NJN,467,Kidd,J. Kidd,-101,241,26,Missed,1,0.0,0.0,0,h,MISS Kidd 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,334
+20100927,327,PT00M29.00S,3,1610612748,MIA,224,Jones,E. Jones,0,0,0,,0,0.0,0.0,0,v,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,0,335
+20100927,328,PT00M07.20S,3,1610612748,MIA,224,Jones,E. Jones,-92,0,9,Missed,1,0.0,0.0,0,v,MISS Jones 9' Running Jump Shot,Missed Shot,Running Jump Shot,0,336
+20100927,329,PT00M04.80S,3,1610612751,NJN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin REBOUND (Off:1 Def:5),Rebound,Unknown,0,337
+20100927,330,PT00M00.90S,3,1610612751,NJN,446,Harris,L. Harris,233,89,25,Missed,1,0.0,0.0,0,h,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,338
+20100927,331,PT00M00.00S,3,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,h,NETS Rebound,Rebound,Unknown,0,339
+20100927,333,PT00M00.00S,3,0,,0,,,0,0,0,,0,69.0,59.0,128,,End of 3rd Period (9:17 PM EST),period,end,0,340
+20100927,334,PT12M00.00S,4,0,,0,,,0,0,0,,0,69.0,59.0,128,,Start of 4th Period (9:19 PM EST),period,start,0,341
+20100927,335,PT11M41.00S,4,1610612748,MIA,423,Gatling,C. Gatling,-35,68,8,Made,1,69.0,61.0,130,v,Gatling 8' Hook Shot (7 PTS) (Jackson 3 AST),Made Shot,Hook Shot,0,342
+20100927,336,PT11M23.00S,4,1610612748,MIA,1735,Stepania,V. Stepania,0,0,0,,0,0.0,0.0,0,v,Stepania S.FOUL (P1.T1),Foul,Shooting,0,343
+20100927,337,PT11M23.00S,4,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,h,MISS Jefferson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,344
+20100927,338,PT11M23.00S,4,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,h,NETS Rebound,Rebound,Normal Rebound,0,345
+20100927,339,PT11M23.00S,4,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,h,MISS Jefferson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,346
+20100927,340,PT11M22.00S,4,1610612748,MIA,224,Jones,E. Jones,0,0,0,,0,0.0,0.0,0,v,Jones REBOUND (Off:0 Def:4),Rebound,Unknown,0,347
+20100927,341,PT11M06.00S,4,1610612748,MIA,423,Gatling,C. Gatling,110,0,11,Missed,1,0.0,0.0,0,v,MISS Gatling 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,348
+20100927,342,PT11M04.00S,4,1610612751,NJN,446,Harris,L. Harris,0,0,0,,0,0.0,0.0,0,h,Harris REBOUND (Off:1 Def:3),Rebound,Unknown,0,349
+20100927,343,PT10M43.00S,4,1610612751,NJN,446,Harris,L. Harris,0,0,0,,0,0.0,0.0,0,h,Harris Lost Ball Turnover (P2.T14),Turnover,Lost Ball,0,350
+20100927,344,PT10M38.00S,4,1610612748,MIA,224,Jones,E. Jones,0,0,0,Missed,1,0.0,0.0,0,v,MISS Jones  Driving Layup,Missed Shot,Driving Layup Shot,0,351
+20100927,345,PT10M37.00S,4,1610612751,NJN,1496,Van Horn,K. Van Horn,0,0,0,,0,0.0,0.0,0,h,Van Horn REBOUND (Off:2 Def:3),Rebound,Unknown,0,352
+20100927,346,PT10M33.00S,4,1610612748,MIA,423,Gatling,C. Gatling,0,0,0,,0,0.0,0.0,0,v,Gatling P.FOUL (P2.T2),Foul,Personal,0,353
+20100927,347,PT10M23.00S,4,1610612751,NJN,446,Harris,L. Harris,0,0,0,,0,0.0,0.0,0,h,Harris Bad Pass Turnover (P3.T15),Turnover,Bad Pass,0,354
+20100927,347,PT10M23.00S,4,1610612748,MIA,1735,Stepania,V. Stepania,0,0,0,,0,0.0,0.0,0,v,Stepania STEAL (1 STL),,,0,355
+20100927,348,PT10M21.00S,4,1610612748,MIA,1735,Stepania,V. Stepania,0,0,0,Made,1,69.0,63.0,132,v,Stepania  Driving Dunk (6 PTS),Made Shot,Driving Dunk Shot,0,356
+20100927,349,PT09M55.00S,4,1610612751,NJN,2215,Collins,J. Collins,0,0,0,Made,1,71.0,63.0,134,h,Collins  Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,357
+20100927,350,PT09M38.00S,4,1610612748,MIA,224,Jones,E. Jones,85,19,9,Missed,1,0.0,0.0,0,v,MISS Jones 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,358
+20100927,351,PT09M36.00S,4,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,h,NETS Rebound,Rebound,Unknown,0,359
+20100927,352,PT09M36.00S,4,1610612748,MIA,1735,Stepania,V. Stepania,0,0,0,,0,0.0,0.0,0,v,Stepania L.B.FOUL (P2.T3),Foul,Loose Ball,0,360
+20100927,353,PT09M36.00S,4,1610612751,NJN,1533,Johnson,A. Johnson,0,0,0,,0,0.0,0.0,0,h,SUB: Kidd FOR Johnson,Substitution,,0,361
+20100927,354,PT09M36.00S,4,1610612748,MIA,1735,Stepania,V. Stepania,0,0,0,,0,0.0,0.0,0,v,SUB: Mourning FOR Stepania,Substitution,,0,362
+20100927,355,PT09M36.00S,4,1610612748,MIA,224,Jones,E. Jones,0,0,0,,0,0.0,0.0,0,v,SUB: Gill FOR Jones,Substitution,,0,363
+20100927,356,PT09M36.00S,4,1610612748,MIA,423,Gatling,C. Gatling,0,0,0,,0,0.0,0.0,0,v,SUB: Grant FOR Gatling,Substitution,,0,364
+20100927,357,PT09M24.00S,4,1610612751,NJN,467,Kidd,J. Kidd,-84,34,9,Missed,1,0.0,0.0,0,h,MISS Kidd 9' Running Jump Shot,Missed Shot,Running Jump Shot,0,365
+20100927,358,PT09M23.00S,4,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,0.0,0.0,0,h,Collins REBOUND (Off:2 Def:3),Rebound,Unknown,0,366
+20100927,359,PT09M22.00S,4,1610612748,MIA,754,Jackson,J. Jackson,0,0,0,,0,0.0,0.0,0,v,Jackson S.FOUL (P4.T4),Foul,Shooting,0,367
+20100927,360,PT09M22.00S,4,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,72.0,63.0,135,h,Collins Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,368
+20100927,361,PT09M22.00S,4,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,73.0,63.0,136,h,Collins Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,369
+20100927,362,PT09M10.00S,4,1610612748,MIA,383,Gill,K. Gill,-214,-13,21,Missed,1,0.0,0.0,0,v,MISS Gill 21' Jump Shot,Missed Shot,Jump Shot,0,370
+20100927,363,PT09M08.00S,4,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd REBOUND (Off:3 Def:8),Rebound,Unknown,0,371
+20100927,364,PT08M55.00S,4,1610612751,NJN,446,Harris,L. Harris,136,7,14,Missed,1,0.0,0.0,0,h,MISS Harris 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,372
+20100927,365,PT08M53.00S,4,1610612748,MIA,258,Grant,B. Grant,0,0,0,,0,0.0,0.0,0,v,Grant REBOUND (Off:5 Def:4),Rebound,Unknown,0,373
+20100927,366,PT08M41.00S,4,1610612748,MIA,1853,Carter,A. Carter,0,0,0,Made,1,73.0,65.0,138,v,Carter  Driving Finger Roll (6 PTS),Made Shot,Driving Finger Roll Shot,0,374
+20100927,367,PT08M25.00S,4,1610612751,NJN,1496,Van Horn,K. Van Horn,0,0,0,Made,1,75.0,65.0,140,h,Van Horn  Layup (24 PTS) (Kidd 11 AST),Made Shot,Layup Shot,0,375
+20100927,368,PT08M02.00S,4,1610612748,MIA,383,Gill,K. Gill,-124,34,13,Made,1,75.0,67.0,142,v,Gill 13' Jump Shot (6 PTS) (Carter 3 AST),Made Shot,Jump Shot,0,376
+20100927,369,PT07M44.00S,4,1610612751,NJN,446,Harris,L. Harris,-223,28,0,Made,1,78.0,67.0,145,h,Harris  3PT Jump Shot (7 PTS) (Kidd 12 AST),Made Shot,Jump Shot,0,377
+20100927,370,PT07M23.00S,4,1610612748,MIA,297,Mourning,A. Mourning,-42,40,6,Missed,1,0.0,0.0,0,v,MISS Mourning 6' Hook Shot,Missed Shot,Hook Shot,0,378
+20100927,371,PT07M22.00S,4,1610612748,MIA,1853,Carter,A. Carter,0,0,0,,0,0.0,0.0,0,v,Carter REBOUND (Off:1 Def:1),Rebound,Unknown,0,379
+20100927,372,PT07M16.00S,4,1610612748,MIA,383,Gill,K. Gill,-191,7,19,Missed,1,0.0,0.0,0,v,MISS Gill 19' Jump Shot,Missed Shot,Jump Shot,0,380
+20100927,373,PT07M14.00S,4,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,0.0,0.0,0,h,Collins REBOUND (Off:2 Def:4),Rebound,Unknown,0,381
+20100927,374,PT07M11.00S,4,1610612748,MIA,1853,Carter,A. Carter,0,0,0,,0,0.0,0.0,0,v,Carter S.FOUL (P1.PN),Foul,Shooting,0,382
+20100927,375,PT07M11.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,383
+20100927,377,PT07M11.00S,4,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,0.0,0.0,0,h,SUB: Williams FOR Collins,Substitution,,0,384
+20100927,378,PT07M11.00S,4,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,h,MISS Jefferson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,385
+20100927,379,PT07M11.00S,4,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,h,NETS Rebound,Rebound,Normal Rebound,0,386
+20100927,380,PT07M11.00S,4,1610612748,MIA,383,Gill,K. Gill,0,0,0,,0,0.0,0.0,0,v,SUB: Jones FOR Gill,Substitution,,0,387
+20100927,381,PT07M11.00S,4,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,79.0,67.0,146,h,Jefferson Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,388
+20100927,382,PT06M59.00S,4,1610612748,MIA,258,Grant,B. Grant,-157,40,16,Made,1,79.0,69.0,148,v,Grant 16' Jump Shot (6 PTS) (Carter 4 AST),Made Shot,Jump Shot,0,389
+20100927,383,PT06M41.00S,4,1610612751,NJN,1425,Williams,A. Williams,0,0,0,Made,1,81.0,69.0,150,h,Williams  Slam Dunk (8 PTS) (Kidd 13 AST),Made Shot,Slam Dunk Shot,0,390
+20100927,384,PT06M28.00S,4,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,h,SUB: Martin FOR Jefferson,Substitution,,0,391
+20100927,385,PT06M17.00S,4,1610612748,MIA,1853,Carter,A. Carter,102,219,24,Missed,1,0.0,0.0,0,v,MISS Carter 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,392
+20100927,386,PT06M15.00S,4,1610612751,NJN,446,Harris,L. Harris,0,0,0,,0,0.0,0.0,0,h,Harris REBOUND (Off:1 Def:4),Rebound,Unknown,0,393
+20100927,387,PT05M59.00S,4,1610612751,NJN,1496,Van Horn,K. Van Horn,-132,82,16,Missed,1,0.0,0.0,0,h,MISS Van Horn 16' Jump Shot,Missed Shot,Jump Shot,0,394
+20100927,388,PT05M57.00S,4,1610612748,MIA,258,Grant,B. Grant,0,0,0,,0,0.0,0.0,0,v,Grant REBOUND (Off:5 Def:5),Rebound,Unknown,0,395
+20100927,389,PT05M42.00S,4,1610612748,MIA,754,Jackson,J. Jackson,0,0,0,,0,0.0,0.0,0,v,Jackson Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,396
+20100927,389,PT05M42.00S,4,1610612751,NJN,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Williams STEAL (2 STL),,,0,397
+20100927,390,PT05M38.00S,4,1610612748,MIA,224,Jones,E. Jones,0,0,0,,0,0.0,0.0,0,v,Jones S.FOUL (P4.PN),Foul,Shooting,0,398
+20100927,391,PT05M38.00S,4,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,h,NETS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,399
+20100927,394,PT05M38.00S,4,1610612748,MIA,1853,Carter,A. Carter,0,0,0,,0,0.0,0.0,0,v,SUB: Strickland FOR Carter,Substitution,,0,400
+20100927,395,PT05M38.00S,4,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,MISS Kidd Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,401
+20100927,396,PT05M38.00S,4,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,h,NETS Rebound,Rebound,Normal Rebound,0,402
+20100927,397,PT05M38.00S,4,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,82.0,69.0,151,h,Kidd Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,403
+20100927,398,PT05M18.00S,4,1610612748,MIA,754,Jackson,J. Jackson,233,-6,0,Missed,1,0.0,0.0,0,v,MISS Jackson  3PT Jump Shot,Missed Shot,Jump Shot,0,404
+20100927,399,PT05M16.00S,4,1610612751,NJN,1496,Van Horn,K. Van Horn,0,0,0,,0,0.0,0.0,0,h,Van Horn REBOUND (Off:2 Def:4),Rebound,Unknown,0,405
+20100927,400,PT04M52.00S,4,1610612751,NJN,1496,Van Horn,K. Van Horn,119,13,12,Made,1,84.0,69.0,153,h,Van Horn 12' Jump Shot (26 PTS),Made Shot,Jump Shot,0,406
+20100927,401,PT04M39.00S,4,1610612751,NJN,1496,Van Horn,K. Van Horn,0,0,0,,0,0.0,0.0,0,h,Van Horn S.FOUL (P3.T1),Foul,Shooting,0,407
+20100927,402,PT04M39.00S,4,1610612748,MIA,258,Grant,B. Grant,0,0,0,,0,0.0,0.0,0,v,SUB: Gatling FOR Grant,Substitution,,0,408
+20100927,403,PT04M39.00S,4,1610612751,NJN,446,Harris,L. Harris,0,0,0,,0,0.0,0.0,0,h,SUB: Kittles FOR Harris,Substitution,,0,409
+20100927,404,PT04M39.00S,4,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,84.0,70.0,154,v,Mourning Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,410
+20100927,405,PT04M39.00S,4,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,84.0,71.0,155,v,Mourning Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,411
+20100927,406,PT04M26.00S,4,1610612751,NJN,1496,Van Horn,K. Van Horn,45,95,11,Missed,1,0.0,0.0,0,h,MISS Van Horn 11' Running Jump Shot,Missed Shot,Running Jump Shot,0,412
+20100927,407,PT04M25.00S,4,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0.0,0.0,0,v,Mourning REBOUND (Off:2 Def:4),Rebound,Unknown,0,413
+20100927,408,PT04M18.00S,4,1610612751,NJN,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Williams P.FOUL (P4.T2),Foul,Personal,0,414
+20100927,409,PT04M06.00S,4,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,Made,1,84.0,73.0,157,v,Mourning  Reverse Layup (12 PTS),Made Shot,Reverse Layup Shot,0,415
+20100927,410,PT03M52.00S,4,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0.0,0.0,0,v,Mourning P.FOUL (P5.PN),Foul,Personal,0,416
+20100927,411,PT03M52.00S,4,1610612751,NJN,2030,Martin,K. Martin,0,0,0,,0,85.0,73.0,158,h,Martin Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,417
+20100927,412,PT03M52.00S,4,1610612751,NJN,2030,Martin,K. Martin,0,0,0,,0,86.0,73.0,159,h,Martin Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,418
+20100927,413,PT03M38.00S,4,1610612751,NJN,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Williams S.FOUL (P5.T3),Foul,Shooting,0,419
+20100927,414,PT03M38.00S,4,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,86.0,74.0,160,v,Mourning Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,420
+20100927,415,PT03M38.00S,4,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,86.0,75.0,161,v,Mourning Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,421
+20100927,416,PT03M18.00S,4,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,Missed,1,0.0,0.0,0,h,MISS Kidd  Driving Layup,Missed Shot,Driving Layup Shot,0,422
+20100927,417,PT03M16.00S,4,1610612751,NJN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin REBOUND (Off:2 Def:5),Rebound,Unknown,0,423
+20100927,418,PT03M14.00S,4,1610612751,NJN,2030,Martin,K. Martin,0,0,0,Made,1,88.0,75.0,163,h,Martin  Dunk (14 PTS),Made Shot,Dunk Shot,0,424
+20100927,419,PT03M04.00S,4,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Timeout: Regular (Reg.5 Short 1),Timeout,Regular,0,425
+20100927,421,PT02M58.00S,4,1610612748,MIA,224,Jones,E. Jones,-229,7,0,Missed,1,0.0,0.0,0,v,MISS Jones  3PT Jump Shot,Missed Shot,Jump Shot,0,426
+20100927,422,PT02M57.00S,4,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,h,NETS Rebound,Rebound,Unknown,0,427
+20100927,423,PT02M42.00S,4,1610612751,NJN,1496,Van Horn,K. Van Horn,119,0,12,Made,1,90.0,75.0,165,h,Van Horn 12' Jump Shot (28 PTS) (Kidd 14 AST),Made Shot,Jump Shot,0,428
+20100927,424,PT02M25.00S,4,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,Missed,1,0.0,0.0,0,v,MISS Mourning  Dunk,Missed Shot,Dunk Shot,0,429
+20100927,424,PT02M25.00S,4,1610612751,NJN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin BLOCK (4 BLK),,,0,430
+20100927,425,PT02M23.00S,4,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Rebound,Rebound,Unknown,0,431
+20100927,426,PT02M16.00S,4,1610612748,MIA,754,Jackson,J. Jackson,-157,13,16,Missed,1,0.0,0.0,0,v,MISS Jackson 16' Jump Shot,Missed Shot,Jump Shot,0,432
+20100927,427,PT02M15.00S,4,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd REBOUND (Off:3 Def:9),Rebound,Unknown,0,433
+20100927,428,PT02M15.00S,4,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0.0,0.0,0,v,Mourning L.B.FOUL (P6.PN),Foul,Loose Ball,0,434
+20100927,429,PT02M15.00S,4,1610612751,NJN,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,,"Double Technical - Williams, Mourning",Foul,Double Technical,0,435
+20100927,430,PT02M15.00S,4,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0.0,0.0,0,v,Mourning T.FOUL (P6.PN),Foul,Technical,0,436
+20100927,431,PT02M15.00S,4,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0.0,0.0,0,v,Mourning Ejection:Second Technical,Ejection,Second Technical,0,437
+20100927,432,PT02M15.00S,4,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,0.0,0.0,0,v,SUB: Stepania FOR Mourning,Substitution,,0,438
+20100927,433,PT02M15.00S,4,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,MISS Kidd Free Throw Technical,Free Throw,Free Throw Technical,0,439
+20100927,434,PT02M15.00S,4,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,h,NETS Rebound,Rebound,Normal Rebound,0,440
+20100927,435,PT02M15.00S,4,1610612748,MIA,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,v,SUB: Carter FOR Strickland,Substitution,,0,441
+20100927,436,PT02M15.00S,4,1610612751,NJN,1425,Williams,A. Williams,0,0,0,,0,91.0,75.0,166,h,Williams Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,442
+20100927,437,PT02M15.00S,4,1610612751,NJN,1425,Williams,A. Williams,0,0,0,,0,92.0,75.0,167,h,Williams Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,443
+20100927,438,PT02M09.00S,4,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Timeout: Short (Reg.5 Short 2),Timeout,Short,0,444
+20100927,441,PT02M09.00S,4,1610612748,MIA,224,Jones,E. Jones,0,0,0,,0,0.0,0.0,0,v,SUB: Allen FOR Jones,Substitution,,0,445
+20100927,442,PT01M56.00S,4,1610612748,MIA,2124,Allen,M. Allen,182,7,18,Missed,1,0.0,0.0,0,v,MISS Allen 18' Jump Shot,Missed Shot,Jump Shot,0,446
+20100927,443,PT01M54.00S,4,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,h,NETS Rebound,Rebound,Unknown,0,447
+20100927,445,PT01M35.00S,4,1610612751,NJN,954,Kittles,K. Kittles,-101,150,18,Made,1,94.0,75.0,169,h,Kittles 18' Jump Shot (9 PTS),Made Shot,Jump Shot,0,448
+20100927,446,PT01M35.00S,4,1610612748,MIA,754,Jackson,J. Jackson,0,0,0,,0,0.0,0.0,0,v,Jackson S.FOUL (P5.PN),Foul,Shooting,0,449
+20100927,447,PT01M35.00S,4,1610612751,NJN,2030,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,SUB: Jefferson FOR Martin,Substitution,,0,450
+20100927,448,PT01M35.00S,4,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,SUB: Johnson FOR Kidd,Substitution,,0,451
+20100927,449,PT01M35.00S,4,1610612751,NJN,954,Kittles,K. Kittles,0,0,0,,0,95.0,75.0,170,h,Kittles Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,452
+20100927,450,PT01M24.00S,4,1610612748,MIA,1853,Carter,A. Carter,110,158,19,Missed,1,0.0,0.0,0,v,MISS Carter 19' Jump Shot,Missed Shot,Jump Shot,0,453
+20100927,451,PT01M23.00S,4,1610612751,NJN,954,Kittles,K. Kittles,0,0,0,,0,0.0,0.0,0,h,Kittles REBOUND (Off:0 Def:4),Rebound,Unknown,0,454
+20100927,452,PT01M09.00S,4,1610612751,NJN,1425,Williams,A. Williams,-27,68,7,Missed,1,0.0,0.0,0,h,MISS Williams 7' Jump Shot,Missed Shot,Jump Shot,0,455
+20100927,453,PT01M07.00S,4,1610612748,MIA,1735,Stepania,V. Stepania,0,0,0,,0,0.0,0.0,0,v,Stepania REBOUND (Off:0 Def:1),Rebound,Unknown,0,456
+20100927,454,PT01M02.00S,4,1610612751,NJN,954,Kittles,K. Kittles,0,0,0,,0,0.0,0.0,0,h,Kittles P.FOUL (P1.T4),Foul,Personal,0,457
+20100927,455,PT01M02.00S,4,1610612751,NJN,954,Kittles,K. Kittles,0,0,0,,0,0.0,0.0,0,h,SUB: Scalabrine FOR Kittles,Substitution,,0,458
+20100927,456,PT01M02.00S,4,1610612751,NJN,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,SUB: Collins FOR Williams,Substitution,,0,459
+20100927,457,PT01M02.00S,4,1610612751,NJN,1496,Van Horn,K. Van Horn,0,0,0,,0,0.0,0.0,0,h,SUB: Armstrong FOR Van Horn,Substitution,,0,460
+20100927,458,PT00M45.60S,4,1610612748,MIA,754,Jackson,J. Jackson,0,0,0,,0,0.0,0.0,0,v,Jackson Lost Ball Turnover (P3.T13),Turnover,Lost Ball,0,461
+20100927,458,PT00M45.60S,4,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,0.0,0.0,0,h,Collins STEAL (3 STL),,,0,462
+20100927,459,PT00M40.20S,4,1610612751,NJN,2210,Jefferson,R. Jefferson,-124,144,19,Missed,1,0.0,0.0,0,h,MISS Jefferson 19' Jump Shot,Missed Shot,Jump Shot,0,463
+20100927,460,PT00M38.80S,4,1610612748,MIA,1853,Carter,A. Carter,0,0,0,,0,0.0,0.0,0,v,Carter REBOUND (Off:1 Def:2),Rebound,Unknown,0,464
+20100927,461,PT00M33.80S,4,1610612748,MIA,754,Jackson,J. Jackson,-206,61,21,Missed,1,0.0,0.0,0,v,MISS Jackson 21' Jump Shot,Missed Shot,Jump Shot,0,465
+20100927,462,PT00M31.60S,4,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,0.0,0.0,0,h,Collins REBOUND (Off:2 Def:5),Rebound,Unknown,0,466
+20100927,463,PT00M15.20S,4,1610612751,NJN,2215,Collins,J. Collins,167,7,17,Made,1,97.0,75.0,172,h,Collins 17' Jump Shot (8 PTS),Made Shot,Jump Shot,0,467
+20100927,464,PT00M05.50S,4,1610612748,MIA,1735,Stepania,V. Stepania,-229,40,0,Made,1,97.0,78.0,175,v,Stepania  3PT Jump Shot (9 PTS) (Allen 1 AST),Made Shot,Jump Shot,0,468
+20100927,465,PT00M00.00S,4,0,,0,,,0,0,0,,0,97.0,78.0,175,,End of 4th Period (9:49 PM EST),period,end,0,469

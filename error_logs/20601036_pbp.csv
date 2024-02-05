@@ -1,0 +1,479 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+20601036,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (1:10 PM EST),period,start,0,1
+20601036,1,PT12M00.00S,1,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,h,Jump Ball Smith vs. Dampier: Tip to Johnson,Jump Ball,,0,2
+20601036,2,PT11M44.00S,1,1610612737,ATL,1533,Johnson,A. Johnson,128,143,19,Missed,1,,,0,h,MISS Johnson 19' Jump Shot,Missed Shot,Jump Shot,0,3
+20601036,3,PT11M42.00S,1,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,,,0,h,Pachulia REBOUND (Off:1 Def:0),Rebound,Unknown,0,4
+20601036,4,PT11M41.00S,1,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,Missed,1,,,0,h,MISS Pachulia Layup,Missed Shot,Layup Shot,0,5
+20601036,4,PT11M41.00S,1,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,,,0,v,Dampier BLOCK (1 BLK),,,0,6
+20601036,5,PT11M38.00S,1,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,,,0,v,Terry REBOUND (Off:0 Def:1),Rebound,Unknown,0,7
+20601036,6,PT11M22.00S,1,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,Made,1,0.0,2.0,2,v,Dampier Dunk (2 PTS) (Harris 1 AST),Made Shot,Dunk Shot,0,8
+20601036,7,PT11M13.00S,1,1610612737,ATL,2735,Childress,J. Childress,0,0,0,,0,,,0,h,Childress Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,9
+20601036,7,PT11M13.00S,1,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,v,Harris STEAL (1 STL),,,0,10
+20601036,8,PT11M09.00S,1,1610612742,DAL,1891,Terry,J. Terry,0,0,0,Made,1,0.0,4.0,4,v,Terry Layup (2 PTS) (Harris 2 AST),Made Shot,Layup Shot,0,11
+20601036,10,PT10M52.00S,1,1610612737,ATL,2746,Smith,J. Smith,164,82,18,Missed,1,,,0,h,MISS Smith 18' Jump Shot,Missed Shot,Jump Shot,0,12
+20601036,11,PT10M50.00S,1,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,,,0,v,Dampier REBOUND (Off:0 Def:1),Rebound,Unknown,0,13
+20601036,12,PT10M36.00S,1,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,Made,1,0.0,6.0,6,v,Dampier Layup (4 PTS) (Terry 1 AST),Made Shot,Layup Shot,0,14
+20601036,13,PT10M36.00S,1,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,,,0,h,Pachulia S.FOUL (P1.T1),Foul,Shooting,0,15
+20601036,14,PT10M36.00S,1,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,,,0,v,MISS Dampier Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,16
+20601036,15,PT10M34.00S,1,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,,,0,h,Pachulia REBOUND (Off:1 Def:1),Rebound,Unknown,0,17
+20601036,16,PT10M27.00S,1,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,,,0,v,Howard P.FOUL (P1.T1),Foul,Personal,0,18
+20601036,17,PT10M27.00S,1,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,Made,1,2.0,6.0,8,h,Pachulia Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,19
+20601036,18,PT10M07.00S,1,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,,,0,h,M. Williams P.FOUL (P1.T2),Foul,Personal,0,20
+20601036,19,PT09M54.00S,1,1610612742,DAL,2572,Howard,J. Howard,-36,100,11,Made,1,2.0,8.0,10,v,Howard 11' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,0,21
+20601036,20,PT09M41.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,v,Nowitzki S.FOUL (P1.T2),Foul,Shooting,0,22
+20601036,21,PT09M41.00S,1,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,3.0,8.0,11,h,Smith Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,23
+20601036,23,PT09M41.00S,1,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,4.0,8.0,12,h,Smith Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,24
+20601036,24,PT09M22.00S,1,1610612742,DAL,2572,Howard,J. Howard,141,220,26,Made,1,4.0,11.0,15,v,Howard 26' 3PT Jump Shot (5 PTS) (Terry 2 AST),Made Shot,Jump Shot,0,25
+20601036,25,PT09M06.00S,1,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,h,Smith Step Out of Bounds Turnover (P1.T2),Turnover,Step Out of Bounds Turnover,0,26
+20601036,26,PT08M54.00S,1,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,,,0,v,Terry Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,27
+20601036,26,PT08M54.00S,1,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,,,0,h,Pachulia STEAL (1 STL),,,0,28
+20601036,27,PT08M43.00S,1,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,v,Harris S.FOUL (P1.T3),Foul,Shooting,0,29
+20601036,28,PT08M43.00S,1,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,,,0,h,MISS Pachulia Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,30
+20601036,29,PT08M43.00S,1,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Normal Rebound,0,31
+20601036,30,PT08M43.00S,1,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,,,0,h,MISS Pachulia Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,32
+20601036,31,PT08M42.00S,1,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,,,0,v,Dampier REBOUND (Off:0 Def:2),Rebound,Unknown,0,33
+20601036,33,PT08M37.00S,1,1610612737,ATL,1533,Johnson,A. Johnson,0,0,0,,0,,,0,h,Johnson P.FOUL (P1.T3),Foul,Personal,0,34
+20601036,34,PT08M20.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,Made,1,4.0,13.0,17,v,Nowitzki Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,35
+20601036,35,PT08M03.00S,1,1610612737,ATL,101107,Williams,M. Williams,-85,163,18,Missed,1,,,0,h,MISS M. Williams 18' Jump Shot,Missed Shot,Jump Shot,0,36
+20601036,36,PT08M01.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,v,Nowitzki REBOUND (Off:0 Def:1),Rebound,Unknown,0,37
+20601036,37,PT07M49.00S,1,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,,,0,h,Pachulia S.FOUL (P2.T4),Foul,Shooting,0,38
+20601036,38,PT07M49.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,4.0,14.0,18,v,Nowitzki Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,39
+20601036,39,PT07M49.00S,1,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,,,0,h,SUB: Wright FOR Pachulia,Substitution,,0,40
+20601036,40,PT07M49.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,4.0,15.0,19,v,Nowitzki Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,41
+20601036,41,PT07M39.00S,1,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,,,0,v,Terry P.FOUL (P1.T4),Foul,Personal,0,42
+20601036,42,PT07M27.00S,1,1610612737,ATL,2746,Smith,J. Smith,-61,181,19,Made,1,6.0,15.0,21,h,Smith 19' Jump Shot (4 PTS) (Johnson 1 AST),Made Shot,Jump Shot,0,43
+20601036,43,PT07M11.00S,1,1610612742,DAL,1891,Terry,J. Terry,0,0,0,Made,1,6.0,17.0,23,v,Terry Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,44
+20601036,44,PT07M04.00S,1,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,45
+20601036,46,PT06M45.00S,1,1610612737,ATL,1533,Johnson,A. Johnson,135,133,19,Made,1,8.0,17.0,25,h,Johnson 19' Jump Shot (2 PTS) (M. Williams 1 AST),Made Shot,Jump Shot,0,46
+20601036,47,PT06M25.00S,1,1610612742,DAL,2572,Howard,J. Howard,-154,110,19,Made,1,8.0,19.0,27,v,Howard 19' Jump Shot (7 PTS),Made Shot,Jump Shot,0,47
+20601036,48,PT05M56.00S,1,1610612737,ATL,2746,Smith,J. Smith,-164,100,19,Missed,1,,,0,h,MISS Smith 19' Jump Shot,Missed Shot,Jump Shot,0,48
+20601036,49,PT05M55.00S,1,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,,,0,v,Dampier REBOUND (Off:0 Def:3),Rebound,Unknown,0,49
+20601036,50,PT05M39.00S,1,1610612737,ATL,953,Wright,L. Wright,0,0,0,,0,,,0,h,Wright S.FOUL (P1.PN),Foul,Shooting,0,50
+20601036,51,PT05M39.00S,1,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,v,SUB: Stackhouse FOR Harris,Substitution,,0,51
+20601036,52,PT05M39.00S,1,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,8.0,20.0,28,v,Howard Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,52
+20601036,53,PT05M39.00S,1,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,8.0,21.0,29,v,Howard Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,53
+20601036,54,PT05M39.00S,1,1610612737,ATL,2735,Childress,J. Childress,0,0,0,Missed,1,,,0,h,MISS Childress Layup,Missed Shot,Layup Shot,0,54
+20601036,55,PT05M34.00S,1,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:0 Def:1),Rebound,Unknown,0,55
+20601036,56,PT05M33.00S,1,1610612737,ATL,2735,Childress,J. Childress,0,0,0,,0,,,0,h,Childress L.B.FOUL (P1.PN),Foul,Loose Ball,0,56
+20601036,57,PT05M33.00S,1,1610612737,ATL,1533,Johnson,A. Johnson,0,0,0,,0,,,0,h,SUB: Lue FOR Johnson,Substitution,,0,57
+20601036,58,PT05M33.00S,1,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,8.0,22.0,30,v,Howard Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,58
+20601036,59,PT05M33.00S,1,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,8.0,23.0,31,v,Howard Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,59
+20601036,60,PT05M33.00S,1,1610612737,ATL,2735,Childress,J. Childress,0,0,0,Made,1,10.0,23.0,33,h,Childress Layup (2 PTS) (Wright 1 AST),Made Shot,Layup Shot,0,60
+20601036,62,PT05M10.00S,1,1610612742,DAL,2572,Howard,J. Howard,0,0,0,Made,1,10.0,25.0,35,v,Howard Reverse Layup (13 PTS) (Stackhouse 1 AST),Made Shot,Reverse Layup Shot,0,61
+20601036,63,PT05M06.00S,1,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,,,0,h,M. Williams Poss Lost Ball Turnover (P1.T3),Turnover,Poss Lost Ball Turnover,0,62
+20601036,64,PT04M46.00S,1,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,,,0,v,SUB: Diop FOR Dampier,Substitution,,0,63
+20601036,65,PT04M26.00S,1,1610612737,ATL,953,Wright,L. Wright,0,0,0,,0,,,0,h,Wright S.FOUL (P2.PN),Foul,Shooting,0,64
+20601036,66,PT04M26.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,10.0,26.0,36,v,Nowitzki Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,65
+20601036,67,PT04M26.00S,1,1610612737,ATL,2735,Childress,J. Childress,0,0,0,,0,,,0,h,SUB: Stoudamire FOR Childress,Substitution,,0,66
+20601036,68,PT04M26.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,10.0,27.0,37,v,Nowitzki Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,67
+20601036,69,PT04M04.00S,1,1610612737,ATL,101107,Williams,M. Williams,98,26,10,Missed,1,,,0,h,MISS M. Williams 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,68
+20601036,70,PT04M01.00S,1,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,,,0,v,Diop REBOUND (Off:0 Def:1),Rebound,Unknown,0,69
+20601036,71,PT03M47.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-94,158,18,Missed,1,,,0,v,MISS Nowitzki 18' Jump Shot,Missed Shot,Jump Shot,0,70
+20601036,72,PT03M46.00S,1,1610612737,ATL,1731,Lue,T. Lue,0,0,0,,0,,,0,h,Lue REBOUND (Off:0 Def:1),Rebound,Unknown,0,71
+20601036,73,PT03M40.00S,1,1610612737,ATL,1731,Lue,T. Lue,0,0,0,Made,1,12.0,27.0,39,h,Lue Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,72
+20601036,74,PT03M18.00S,1,1610612742,DAL,711,Stackhouse,J. Stackhouse,113,117,16,Missed,1,,,0,v,MISS Stackhouse 16' Jump Shot,Missed Shot,Jump Shot,0,73
+20601036,74,PT03M18.00S,1,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,h,Smith BLOCK (1 BLK),,,0,74
+20601036,75,PT03M16.00S,1,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse REBOUND (Off:1 Def:0),Rebound,Unknown,0,75
+20601036,76,PT03M14.00S,1,1610612742,DAL,711,Stackhouse,J. Stackhouse,115,86,14,Missed,1,,,0,v,MISS Stackhouse 14' Jump Shot,Missed Shot,Jump Shot,0,76
+20601036,77,PT03M13.00S,1,1610612737,ATL,101136,Stoudamire,S. Stoudamire,0,0,0,,0,,,0,h,Stoudamire REBOUND (Off:0 Def:1),Rebound,Unknown,0,77
+20601036,78,PT03M00.00S,1,1610612737,ATL,101136,Stoudamire,S. Stoudamire,-87,150,17,Missed,1,,,0,h,MISS Stoudamire 17' Jump Shot,Missed Shot,Jump Shot,0,78
+20601036,79,PT02M59.00S,1,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,,,0,v,Terry REBOUND (Off:0 Def:2),Rebound,Unknown,0,79
+20601036,80,PT02M54.00S,1,1610612742,DAL,1891,Terry,J. Terry,0,0,0,Made,1,12.0,29.0,41,v,Terry Layup (6 PTS),Made Shot,Layup Shot,0,80
+20601036,81,PT02M54.00S,1,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,,,0,h,M. Williams S.FOUL (P2.PN),Foul,Shooting,0,81
+20601036,82,PT02M54.00S,1,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,82
+20601036,83,PT02M54.00S,1,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,,,0,h,SUB: Childress FOR M. Williams,Substitution,,0,83
+20601036,84,PT02M54.00S,1,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,12.0,30.0,42,v,Terry Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,84
+20601036,86,PT02M54.00S,1,1610612737,ATL,101136,Stoudamire,S. Stoudamire,154,115,19,Missed,1,,,0,h,MISS Stoudamire 19' Jump Shot,Missed Shot,Jump Shot,0,85
+20601036,87,PT02M52.00S,1,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse REBOUND (Off:1 Def:1),Rebound,Unknown,0,86
+20601036,89,PT02M43.00S,1,1610612742,DAL,1891,Terry,J. Terry,-158,61,17,Missed,1,,,0,v,MISS Terry 17' Jump Shot,Missed Shot,Jump Shot,0,87
+20601036,90,PT02M41.00S,1,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,0,88
+20601036,91,PT02M14.00S,1,1610612737,ATL,2746,Smith,J. Smith,21,63,7,Made,1,14.0,30.0,44,h,Smith 7' Hook Shot (6 PTS),Made Shot,Hook Shot,0,89
+20601036,92,PT02M04.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,Made,1,14.0,32.0,46,v,Nowitzki Driving Layup (8 PTS) (Terry 3 AST),Made Shot,Driving Layup Shot,0,90
+20601036,93,PT01M45.00S,1,1610612737,ATL,953,Wright,L. Wright,0,0,0,Made,1,16.0,32.0,48,h,Wright Layup (2 PTS) (Stoudamire 1 AST),Made Shot,Layup Shot,0,91
+20601036,94,PT01M30.00S,1,1610612737,ATL,953,Wright,L. Wright,0,0,0,,0,,,0,h,Wright S.FOUL (P3.PN),Foul,Shooting,0,92
+20601036,95,PT01M30.00S,1,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,,,0,v,SUB: Harris FOR Terry,Substitution,,0,93
+20601036,96,PT01M30.00S,1,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,16.0,33.0,49,v,Stackhouse Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,94
+20601036,97,PT01M30.00S,1,1610612737,ATL,953,Wright,L. Wright,0,0,0,,0,,,0,h,SUB: S. Williams FOR Wright,Substitution,,0,95
+20601036,98,PT01M30.00S,1,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,16.0,34.0,50,v,Stackhouse Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,96
+20601036,99,PT01M01.00S,1,1610612737,ATL,2746,Smith,J. Smith,0,0,0,Missed,1,,,0,h,MISS Smith Layup,Missed Shot,Layup Shot,0,97
+20601036,100,PT00M59.90S,1,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,,,0,v,Diop REBOUND (Off:0 Def:2),Rebound,Unknown,0,98
+20601036,101,PT00M46.20S,1,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,Made,1,16.0,36.0,52,v,Stackhouse Layup (4 PTS) (Harris 3 AST),Made Shot,Layup Shot,0,99
+20601036,102,PT00M34.10S,1,1610612737,ATL,1731,Lue,T. Lue,80,145,17,Made,1,18.0,36.0,54,h,Lue 17' Jump Shot (4 PTS),Made Shot,Jump Shot,0,100
+20601036,103,PT00M17.30S,1,1610612742,DAL,2572,Howard,J. Howard,207,160,26,Made,1,18.0,39.0,57,v,Howard 26' 3PT Jump Shot (16 PTS) (Stackhouse 2 AST),Made Shot,Jump Shot,0,101
+20601036,105,PT00M02.60S,1,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,,,0,v,Diop S.FOUL (P1.PN),Foul,Shooting,0,102
+20601036,106,PT00M02.60S,1,1610612737,ATL,1731,Lue,T. Lue,0,0,0,,0,,,0,h,MISS Lue Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,103
+20601036,107,PT00M02.60S,1,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Normal Rebound,0,104
+20601036,108,PT00M02.60S,1,1610612737,ATL,1731,Lue,T. Lue,0,0,0,,0,19.0,39.0,58,h,Lue Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,105
+20601036,110,PT00M00.00S,1,0,,0,,,0,0,0,,0,19.0,39.0,58,,End of 1st Period (1:42 PM EST),period,end,0,106
+20601036,112,PT12M00.00S,2,0,,0,,,0,0,0,,0,19.0,39.0,58,,Start of 2nd Period (1:45 PM EST),period,start,0,107
+20601036,113,PT11M40.00S,2,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,Missed,1,,,0,v,MISS Stackhouse Layup,Missed Shot,Layup Shot,0,108
+20601036,114,PT11M39.00S,2,1610612737,ATL,1731,Lue,T. Lue,0,0,0,,0,,,0,h,Lue REBOUND (Off:0 Def:2),Rebound,Unknown,0,109
+20601036,115,PT11M36.00S,2,1610612742,DAL,1904,George,D. George,0,0,0,,0,,,0,v,George S.FOUL (P1.T1),Foul,Shooting,0,110
+20601036,116,PT11M36.00S,2,1610612737,ATL,2735,Childress,J. Childress,0,0,0,,0,20.0,39.0,59,h,Childress Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,111
+20601036,117,PT11M36.00S,2,1610612737,ATL,2735,Childress,J. Childress,0,0,0,,0,,,0,h,MISS Childress Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,112
+20601036,118,PT11M35.00S,2,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,,,0,v,Dampier REBOUND (Off:0 Def:4),Rebound,Unknown,0,113
+20601036,119,PT11M26.00S,2,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,Made,1,20.0,41.0,61,v,Dampier Dunk (6 PTS) (Stackhouse 3 AST),Made Shot,Dunk Shot,0,114
+20601036,120,PT11M00.00S,2,1610612737,ATL,2746,Smith,J. Smith,0,71,7,Made,1,22.0,41.0,63,h,Smith 7' Turnaround Jump Shot (8 PTS),Made Shot,Turnaround Jump Shot,0,115
+20601036,121,PT11M00.00S,2,1610612742,DAL,1904,George,D. George,0,0,0,,0,,,0,v,George S.FOUL (P2.T2),Foul,Shooting,0,116
+20601036,122,PT11M00.00S,2,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,23.0,41.0,64,h,Smith Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,117
+20601036,123,PT10M47.00S,2,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,118
+20601036,123,PT10M47.00S,2,1610612737,ATL,200749,Williams,S. Williams,0,0,0,,0,,,0,h,S. Williams STEAL (1 STL),,,0,119
+20601036,124,PT10M47.00S,2,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,,,0,v,Dampier P.FOUL (P1.T3),Foul,Personal,0,120
+20601036,125,PT10M47.00S,2,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,,,0,v,SUB: Terry FOR Howard,Substitution,,0,121
+20601036,126,PT10M36.00S,2,1610612737,ATL,1731,Lue,T. Lue,77,146,17,Missed,1,,,0,h,MISS Lue 17' Jump Shot,Missed Shot,Jump Shot,0,122
+20601036,127,PT10M34.00S,2,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,,,0,v,Dampier REBOUND (Off:0 Def:5),Rebound,Unknown,0,123
+20601036,128,PT10M27.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,Missed,1,,,0,v,MISS Harris Layup,Missed Shot,Layup Shot,0,124
+20601036,129,PT10M25.00S,2,1610612737,ATL,101136,Stoudamire,S. Stoudamire,0,0,0,,0,,,0,h,Stoudamire REBOUND (Off:0 Def:2),Rebound,Unknown,0,125
+20601036,130,PT10M22.00S,2,1610612737,ATL,101136,Stoudamire,S. Stoudamire,0,0,0,,0,,,0,h,Stoudamire Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,126
+20601036,130,PT10M22.00S,2,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,,,0,v,Terry STEAL (1 STL),,,0,127
+20601036,131,PT10M14.00S,2,1610612742,DAL,1891,Terry,J. Terry,167,204,26,Missed,1,,,0,v,MISS Terry 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,128
+20601036,132,PT10M13.00S,2,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,h,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,0,129
+20601036,133,PT10M05.00S,2,1610612737,ATL,2746,Smith,J. Smith,0,0,0,Made,1,25.0,41.0,66,h,Smith Driving Layup (11 PTS),Made Shot,Driving Layup Shot,0,130
+20601036,134,PT10M05.00S,2,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,,,0,v,Dampier S.FOUL (P2.T4),Foul,Shooting,0,131
+20601036,136,PT10M05.00S,2,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,,,0,v,SUB: Diop FOR Dampier,Substitution,,0,132
+20601036,137,PT10M05.00S,2,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,SUB: Nowitzki FOR Stackhouse,Substitution,,0,133
+20601036,138,PT10M05.00S,2,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,26.0,41.0,67,h,Smith Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,134
+20601036,140,PT09M47.00S,2,1610612742,DAL,1904,George,D. George,-61,56,8,Missed,1,,,0,v,MISS George 8' Jump Shot,Missed Shot,Jump Shot,0,135
+20601036,141,PT09M46.00S,2,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,h,Smith REBOUND (Off:0 Def:2),Rebound,Unknown,0,136
+20601036,142,PT09M42.00S,2,1610612737,ATL,101136,Stoudamire,S. Stoudamire,0,0,0,,0,,,0,h,Stoudamire Lost Ball Turnover (P2.T5),Turnover,Lost Ball,0,137
+20601036,142,PT09M42.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,v,Harris STEAL (2 STL),,,0,138
+20601036,143,PT09M35.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-2,115,12,Made,1,26.0,43.0,69,v,Nowitzki 12' Jump Shot (10 PTS) (Harris 4 AST),Made Shot,Jump Shot,0,139
+20601036,144,PT09M15.00S,2,1610612737,ATL,200749,Williams,S. Williams,0,0,0,Missed,1,,,0,h,MISS S. Williams Driving Layup,Missed Shot,Driving Layup Shot,0,140
+20601036,145,PT09M13.00S,2,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,,,0,v,Diop REBOUND (Off:0 Def:3),Rebound,Unknown,0,141
+20601036,146,PT09M01.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-172,71,19,Made,1,26.0,45.0,71,v,Nowitzki 19' Fadeaway Jumper (12 PTS),Made Shot,Fadeaway Jump Shot,0,142
+20601036,147,PT08M42.00S,2,1610612737,ATL,2746,Smith,J. Smith,5,46,5,Missed,1,,,0,h,MISS Smith 5' Jump Shot,Missed Shot,Jump Shot,0,143
+20601036,148,PT08M40.00S,2,1610612742,DAL,1904,George,D. George,0,0,0,,0,,,0,v,George REBOUND (Off:0 Def:1),Rebound,Unknown,0,144
+20601036,149,PT08M21.00S,2,1610612742,DAL,1904,George,D. George,-241,56,25,Missed,1,,,0,v,MISS George 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,145
+20601036,150,PT08M20.00S,2,1610612737,ATL,1731,Lue,T. Lue,0,0,0,,0,,,0,h,Lue REBOUND (Off:0 Def:3),Rebound,Unknown,0,146
+20601036,151,PT08M09.00S,2,1610612737,ATL,200749,Williams,S. Williams,0,0,0,Missed,1,,,0,h,MISS S. Williams Layup,Missed Shot,Layup Shot,0,147
+20601036,152,PT08M08.00S,2,1610612737,ATL,200749,Williams,S. Williams,0,0,0,,0,,,0,h,S. Williams REBOUND (Off:1 Def:0),Rebound,Unknown,0,148
+20601036,153,PT08M07.00S,2,1610612737,ATL,200749,Williams,S. Williams,0,0,0,Missed,1,,,0,h,MISS S. Williams Layup,Missed Shot,Layup Shot,0,149
+20601036,154,PT08M06.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,v,Nowitzki REBOUND (Off:0 Def:2),Rebound,Unknown,0,150
+20601036,155,PT08M06.00S,2,1610612737,ATL,200749,Williams,S. Williams,0,0,0,,0,,,0,h,S. Williams L.B.FOUL (P1.T1),Foul,Loose Ball,0,151
+20601036,156,PT08M06.00S,2,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,152
+20601036,158,PT08M06.00S,2,1610612742,DAL,1904,George,D. George,0,0,0,,0,,,0,v,SUB: Buckner FOR George,Substitution,,0,153
+20601036,159,PT07M45.00S,2,1610612742,DAL,1761,Buckner,G. Buckner,-240,66,25,Missed,1,,,0,v,MISS Buckner 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,154
+20601036,160,PT07M44.00S,2,1610612737,ATL,2735,Childress,J. Childress,0,0,0,,0,,,0,h,Childress REBOUND (Off:0 Def:1),Rebound,Unknown,0,155
+20601036,161,PT07M25.00S,2,1610612737,ATL,2746,Smith,J. Smith,-112,160,20,Missed,1,,,0,h,MISS Smith 20' Jump Shot,Missed Shot,Jump Shot,0,156
+20601036,162,PT07M23.00S,2,1610612742,DAL,1761,Buckner,G. Buckner,0,0,0,,0,,,0,v,Buckner REBOUND (Off:0 Def:1),Rebound,Unknown,0,157
+20601036,163,PT07M12.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-177,56,19,Made,1,26.0,47.0,73,v,Nowitzki 19' Jump Shot (14 PTS) (Harris 5 AST),Made Shot,Jump Shot,0,158
+20601036,164,PT06M51.00S,2,1610612737,ATL,1731,Lue,T. Lue,-51,100,11,Missed,1,,,0,h,MISS Lue 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,159
+20601036,165,PT06M50.00S,2,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,,,0,v,Diop REBOUND (Off:0 Def:4),Rebound,Unknown,0,160
+20601036,166,PT06M36.00S,2,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,h,Smith S.FOUL (P1.T2),Foul,Shooting,0,161
+20601036,167,PT06M36.00S,2,1610612737,ATL,1731,Lue,T. Lue,0,0,0,,0,,,0,h,SUB: Johnson FOR Lue,Substitution,,0,162
+20601036,168,PT06M36.00S,2,1610612737,ATL,101136,Stoudamire,S. Stoudamire,0,0,0,,0,,,0,h,SUB: M. Williams FOR Stoudamire,Substitution,,0,163
+20601036,169,PT06M36.00S,2,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,,,0,v,MISS Diop Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,164
+20601036,170,PT06M36.00S,2,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Rebound,Rebound,Normal Rebound,0,165
+20601036,172,PT06M36.00S,2,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,,,0,v,SUB: Howard FOR Terry,Substitution,,0,166
+20601036,173,PT06M36.00S,2,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,26.0,48.0,74,v,Diop Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,167
+20601036,175,PT06M26.00S,2,1610612742,DAL,1761,Buckner,G. Buckner,0,0,0,,0,,,0,v,Buckner P.FOUL (P1.PN),Foul,Personal,0,168
+20601036,176,PT06M26.00S,2,1610612737,ATL,2735,Childress,J. Childress,0,0,0,,0,27.0,48.0,75,h,Childress Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,169
+20601036,177,PT06M26.00S,2,1610612737,ATL,2735,Childress,J. Childress,0,0,0,,0,28.0,48.0,76,h,Childress Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,170
+20601036,178,PT06M06.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,115,105,16,Missed,1,,,0,v,MISS Nowitzki 16' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,171
+20601036,179,PT06M04.00S,2,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,,,0,v,Diop REBOUND (Off:1 Def:4),Rebound,Unknown,0,172
+20601036,180,PT05M58.00S,2,1610612737,ATL,2735,Childress,J. Childress,0,0,0,,0,,,0,h,Childress S.FOUL (P2.T3),Foul,Shooting,0,173
+20601036,181,PT05M58.00S,2,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,174
+20601036,182,PT05M58.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,28.0,49.0,77,v,Nowitzki Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,175
+20601036,183,PT05M58.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,v,MISS Nowitzki Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,176
+20601036,184,PT05M56.00S,2,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,,,0,h,M. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,177
+20601036,185,PT05M41.00S,2,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,,,0,v,Howard S.FOUL (P2.PN),Foul,Shooting,0,178
+20601036,186,PT05M41.00S,2,1610612737,ATL,200749,Williams,S. Williams,0,0,0,,0,,,0,h,MISS S. Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,179
+20601036,187,PT05M41.00S,2,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Normal Rebound,0,180
+20601036,188,PT05M41.00S,2,1610612737,ATL,200749,Williams,S. Williams,0,0,0,,0,,,0,h,MISS S. Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,181
+20601036,189,PT05M39.00S,2,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:0 Def:2),Rebound,Unknown,0,182
+20601036,190,PT05M16.00S,2,1610612742,DAL,2572,Howard,J. Howard,57,120,13,Made,1,28.0,51.0,79,v,Howard 13' Turnaround Jump Shot (18 PTS),Made Shot,Turnaround Jump Shot,0,183
+20601036,191,PT04M57.00S,2,1610612742,DAL,1761,Buckner,G. Buckner,0,0,0,,0,,,0,v,Buckner P.FOUL (P2.PN),Foul,Personal,0,184
+20601036,192,PT04M57.00S,2,1610612737,ATL,200749,Williams,S. Williams,0,0,0,,0,29.0,51.0,80,h,S. Williams Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,185
+20601036,193,PT04M57.00S,2,1610612737,ATL,200749,Williams,S. Williams,0,0,0,,0,30.0,51.0,81,h,S. Williams Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,186
+20601036,194,PT04M36.00S,2,1610612742,DAL,1761,Buckner,G. Buckner,97,155,18,Missed,1,,,0,v,MISS Buckner 18' Jump Shot,Missed Shot,Jump Shot,0,187
+20601036,195,PT04M35.00S,2,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,h,Smith REBOUND (Off:0 Def:3),Rebound,Unknown,0,188
+20601036,196,PT04M29.00S,2,1610612737,ATL,2746,Smith,J. Smith,0,0,0,Missed,1,,,0,h,MISS Smith Driving Layup,Missed Shot,Driving Layup Shot,0,189
+20601036,197,PT04M27.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,v,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,190
+20601036,198,PT04M24.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,v,Harris Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,191
+20601036,200,PT04M24.00S,2,1610612737,ATL,200749,Williams,S. Williams,0,0,0,,0,,,0,h,SUB: Pachulia FOR S. Williams,Substitution,,0,192
+20601036,201,PT04M12.00S,2,1610612737,ATL,1533,Johnson,A. Johnson,75,35,8,Missed,1,,,0,h,MISS Johnson 8' Jump Shot,Missed Shot,Jump Shot,0,193
+20601036,202,PT04M12.00S,2,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,,,0,h,Pachulia REBOUND (Off:2 Def:1),Rebound,Unknown,0,194
+20601036,203,PT04M12.00S,2,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,,,0,v,Diop L.B.FOUL (P2.PN),Foul,Loose Ball,0,195
+20601036,204,PT04M12.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,v,SUB: Stackhouse FOR Nowitzki,Substitution,,0,196
+20601036,205,PT04M12.00S,2,1610612742,DAL,1761,Buckner,G. Buckner,0,0,0,,0,,,0,v,SUB: George FOR Buckner,Substitution,,0,197
+20601036,206,PT04M12.00S,2,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,31.0,51.0,82,h,Pachulia Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,198
+20601036,207,PT04M12.00S,2,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,32.0,51.0,83,h,Pachulia Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,199
+20601036,208,PT03M50.00S,2,1610612742,DAL,2205,Diop,D. Diop,1,63,6,Missed,1,,,0,v,MISS Diop 6' Jump Shot,Missed Shot,Jump Shot,0,200
+20601036,209,PT03M48.00S,2,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,,,0,h,M. Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,201
+20601036,210,PT03M41.00S,2,1610612737,ATL,2746,Smith,J. Smith,0,0,0,Missed,1,,,0,h,MISS Smith Layup,Missed Shot,Layup Shot,0,202
+20601036,211,PT03M40.00S,2,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:0 Def:3),Rebound,Unknown,0,203
+20601036,212,PT03M15.00S,2,1610612742,DAL,711,Stackhouse,J. Stackhouse,8,122,12,Missed,1,,,0,v,MISS Stackhouse 12' Jump Shot,Missed Shot,Jump Shot,0,204
+20601036,213,PT03M13.00S,2,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse REBOUND (Off:2 Def:1),Rebound,Unknown,0,205
+20601036,214,PT03M10.00S,2,1610612742,DAL,2572,Howard,J. Howard,0,0,0,Missed,1,,,0,v,MISS Howard Layup,Missed Shot,Layup Shot,0,206
+20601036,215,PT03M09.00S,2,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,,,0,h,Pachulia REBOUND (Off:2 Def:2),Rebound,Unknown,0,207
+20601036,216,PT03M04.00S,2,1610612737,ATL,1533,Johnson,A. Johnson,161,115,20,Missed,1,,,0,h,MISS Johnson 20' Jump Shot,Missed Shot,Jump Shot,0,208
+20601036,217,PT03M01.00S,2,1610612737,ATL,2735,Childress,J. Childress,0,0,0,,0,,,0,h,Childress REBOUND (Off:1 Def:1),Rebound,Unknown,0,209
+20601036,218,PT02M59.00S,2,1610612737,ATL,2735,Childress,J. Childress,0,0,0,Made,1,34.0,51.0,85,h,Childress Dunk (7 PTS),Made Shot,Dunk Shot,0,210
+20601036,220,PT02M50.00S,2,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,211
+20601036,221,PT02M50.00S,2,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,,,0,v,SUB: Nowitzki FOR Howard,Substitution,,0,212
+20601036,222,PT02M50.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,v,SUB: Terry FOR Harris,Substitution,,0,213
+20601036,223,PT02M36.00S,2,1610612742,DAL,1891,Terry,J. Terry,-44,243,25,Made,1,34.0,54.0,88,v,Terry 25' 3PT Jump Shot (10 PTS) (Nowitzki 1 AST),Made Shot,Jump Shot,0,214
+20601036,225,PT02M20.00S,2,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Mavericks T.Foul (Def. 3 Sec Stackhouse ),Foul,Defense 3 Second,0,215
+20601036,226,PT02M20.00S,2,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,35.0,54.0,89,h,M. Williams Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,216
+20601036,227,PT02M12.00S,2,1610612742,DAL,1904,George,D. George,0,0,0,,0,,,0,v,George P.FOUL (P3.PN),Foul,Personal,0,217
+20601036,228,PT02M12.00S,2,1610612737,ATL,2735,Childress,J. Childress,0,0,0,,0,36.0,54.0,90,h,Childress Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,218
+20601036,229,PT02M12.00S,2,1610612737,ATL,2735,Childress,J. Childress,0,0,0,,0,37.0,54.0,91,h,Childress Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,219
+20601036,230,PT02M07.00S,2,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,Made,1,37.0,56.0,93,v,Stackhouse Dunk (6 PTS) (Terry 4 AST),Made Shot,Dunk Shot,0,220
+20601036,231,PT01M44.00S,2,1610612737,ATL,101107,Williams,M. Williams,154,130,20,Missed,1,,,0,h,MISS M. Williams 20' Jump Shot,Missed Shot,Jump Shot,0,221
+20601036,232,PT01M42.00S,2,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse REBOUND (Off:2 Def:2),Rebound,Unknown,0,222
+20601036,233,PT01M39.00S,2,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,,,0,v,Terry Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,223
+20601036,235,PT01M15.00S,2,1610612737,ATL,101107,Williams,M. Williams,-153,7,15,Made,1,39.0,56.0,95,h,M. Williams 15' Jump Shot (3 PTS) (Johnson 2 AST),Made Shot,Jump Shot,0,224
+20601036,236,PT00M51.90S,2,1610612742,DAL,1891,Terry,J. Terry,-31,48,6,Missed,1,,,0,v,MISS Terry 6' Running Jump Shot,Missed Shot,Running Jump Shot,0,225
+20601036,237,PT00M50.90S,2,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,,,0,h,Pachulia REBOUND (Off:2 Def:3),Rebound,Unknown,0,226
+20601036,238,PT00M43.90S,2,1610612737,ATL,101107,Williams,M. Williams,-154,105,19,Missed,1,,,0,h,MISS M. Williams 19' Jump Shot,Missed Shot,Jump Shot,0,227
+20601036,240,PT00M43.80S,2,1610612737,ATL,2735,Childress,J. Childress,0,0,0,,0,,,0,h,Childress REBOUND (Off:2 Def:1),Rebound,Unknown,0,228
+20601036,239,PT00M43.80S,2,1610612737,ATL,2735,Childress,J. Childress,0,0,0,Missed,1,,,0,h,MISS Childress Tip Shot,Missed Shot,Tip Shot,0,229
+20601036,241,PT00M43.80S,2,1610612737,ATL,2735,Childress,J. Childress,0,0,0,,0,,,0,h,Childress REBOUND (Off:3 Def:1),Rebound,Unknown,0,230
+20601036,242,PT00M43.80S,2,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,,,0,v,Diop S.FOUL (P3.PN),Foul,Shooting,0,231
+20601036,243,PT00M43.80S,2,1610612737,ATL,2735,Childress,J. Childress,0,0,0,,0,40.0,56.0,96,h,Childress Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,232
+20601036,244,PT00M43.80S,2,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,,,0,h,SUB: S. Williams FOR Pachulia,Substitution,,0,233
+20601036,245,PT00M43.80S,2,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,,,0,h,SUB: Ivey FOR M. Williams,Substitution,,0,234
+20601036,246,PT00M43.80S,2,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,,,0,v,SUB: Harris FOR Diop,Substitution,,0,235
+20601036,247,PT00M43.80S,2,1610612737,ATL,2735,Childress,J. Childress,0,0,0,,0,41.0,56.0,97,h,Childress Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,236
+20601036,249,PT00M24.00S,2,1610612742,DAL,2734,Harris,D. Harris,153,63,17,Made,1,41.0,58.0,99,v,Harris 17' Jump Shot (2 PTS) (Stackhouse 4 AST),Made Shot,Jump Shot,0,237
+20601036,250,PT00M03.90S,2,1610612737,ATL,2735,Childress,J. Childress,0,0,0,,0,,,0,h,Childress Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,238
+20601036,250,PT00M03.90S,2,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,,,0,v,Terry STEAL (2 STL),,,0,239
+20601036,251,PT00M00.50S,2,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,,,0,v,Terry Lost Ball Turnover (P3.T5),Turnover,Lost Ball,0,240
+20601036,251,PT00M00.50S,2,1610612737,ATL,200749,Williams,S. Williams,0,0,0,,0,,,0,h,S. Williams STEAL (2 STL),,,0,241
+20601036,255,PT00M00.50S,2,1610612737,ATL,200749,Williams,S. Williams,-6,52,5,Missed,1,,,0,h,MISS S. Williams 5' Jump Shot,Missed Shot,Jump Shot,0,242
+20601036,256,PT00M00.50S,2,1610612737,ATL,200749,Williams,S. Williams,0,0,0,,0,,,0,h,S. Williams REBOUND (Off:2 Def:0),Rebound,Unknown,0,243
+20601036,252,PT00M00.40S,2,1610612737,ATL,200749,Williams,S. Williams,0,0,0,Made,1,43.0,58.0,101,h,S. Williams Layup (4 PTS),Made Shot,Layup Shot,0,244
+20601036,253,PT00M00.40S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,v,Harris S.FOUL (P2.PN),Foul,Shooting,0,245
+20601036,254,PT00M00.40S,2,1610612737,ATL,200749,Williams,S. Williams,0,0,0,,0,44.0,58.0,102,h,S. Williams Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,246
+20601036,258,PT00M00.00S,2,0,,0,,,0,0,0,,0,44.0,58.0,102,,End of 2nd Period (2:16 PM EST),period,end,0,247
+20601036,260,PT12M00.00S,3,0,,0,,,0,0,0,,0,44.0,58.0,102,,Start of 3rd Period (2:32 PM EST),period,start,0,248
+20601036,261,PT11M47.00S,3,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,,,0,v,Terry Palming Turnover (P4.T6),Turnover,Palming Turnover,0,249
+20601036,262,PT11M30.00S,3,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,Made,1,46.0,58.0,104,h,Pachulia Driving Layup (6 PTS) (Johnson 3 AST),Made Shot,Driving Layup Shot,0,250
+20601036,263,PT11M30.00S,3,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,,,0,v,Dampier S.FOUL (P3.T1),Foul,Shooting,0,251
+20601036,264,PT11M30.00S,3,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,47.0,58.0,105,h,Pachulia Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,252
+20601036,265,PT11M09.00S,3,1610612742,DAL,2572,Howard,J. Howard,28,91,10,Missed,1,,,0,v,MISS Howard 10' Jump Shot,Missed Shot,Jump Shot,0,253
+20601036,266,PT11M09.00S,3,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Rebound,Rebound,Unknown,0,254
+20601036,267,PT11M01.00S,3,1610612742,DAL,2734,Harris,D. Harris,71,46,8,Made,1,47.0,60.0,107,v,Harris 8' Turnaround Jump Shot (4 PTS) (Howard 1 AST),Made Shot,Turnaround Jump Shot,0,255
+20601036,268,PT10M43.00S,3,1610612737,ATL,2735,Childress,J. Childress,87,41,10,Made,1,49.0,60.0,109,h,Childress 10' Hook Shot (13 PTS),Made Shot,Hook Shot,0,256
+20601036,269,PT10M30.00S,3,1610612742,DAL,956,Dampier,E. Dampier,0,86,9,Missed,1,,,0,v,MISS Dampier 9' Hook Shot,Missed Shot,Hook Shot,0,257
+20601036,270,PT10M28.00S,3,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,,,0,h,M. Williams REBOUND (Off:0 Def:3),Rebound,Unknown,0,258
+20601036,271,PT10M21.00S,3,1610612737,ATL,2746,Smith,J. Smith,74,41,8,Missed,1,,,0,h,MISS Smith 8' Jump Shot,Missed Shot,Jump Shot,0,259
+20601036,272,PT10M20.00S,3,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,,,0,h,Pachulia REBOUND (Off:3 Def:3),Rebound,Unknown,0,260
+20601036,273,PT10M18.00S,3,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,Missed,1,,,0,h,MISS Pachulia Tip Shot,Missed Shot,Tip Shot,0,261
+20601036,274,PT10M18.00S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,h,Smith REBOUND (Off:1 Def:3),Rebound,Unknown,0,262
+20601036,275,PT10M18.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,v,Nowitzki S.FOUL (P2.T2),Foul,Shooting,0,263
+20601036,276,PT10M18.00S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,50.0,60.0,110,h,Smith Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,264
+20601036,277,PT10M18.00S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,51.0,60.0,111,h,Smith Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,265
+20601036,278,PT10M02.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,Made,1,51.0,62.0,113,v,Nowitzki Driving Layup (17 PTS),Made Shot,Driving Layup Shot,0,266
+20601036,279,PT09M39.00S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,Made,1,53.0,62.0,115,h,Smith Driving Layup (16 PTS),Made Shot,Driving Layup Shot,0,267
+20601036,281,PT09M17.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-16,191,19,Missed,1,,,0,v,MISS Nowitzki 19' Jump Shot,Missed Shot,Jump Shot,0,268
+20601036,282,PT09M15.00S,3,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,,,0,h,M. Williams REBOUND (Off:0 Def:4),Rebound,Unknown,0,269
+20601036,283,PT09M06.00S,3,1610612737,ATL,1533,Johnson,A. Johnson,-189,123,23,Made,1,55.0,62.0,117,h,Johnson 23' Jump Shot (4 PTS) (Pachulia 1 AST),Made Shot,Jump Shot,0,270
+20601036,284,PT09M05.00S,3,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,271
+20601036,285,PT08M41.00S,3,1610612742,DAL,1891,Terry,J. Terry,-87,125,15,Missed,1,,,0,v,MISS Terry 15' Jump Shot,Missed Shot,Jump Shot,0,272
+20601036,285,PT08M41.00S,3,1610612737,ATL,2735,Childress,J. Childress,0,0,0,,0,,,0,h,Childress BLOCK (1 BLK),,,0,273
+20601036,286,PT08M39.00S,3,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,,,0,h,Pachulia REBOUND (Off:3 Def:4),Rebound,Unknown,0,274
+20601036,287,PT08M17.00S,3,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Turnover: Shot Clock (T#7),Turnover,Shot Clock Turnover,0,275
+20601036,288,PT08M03.00S,3,1610612742,DAL,2572,Howard,J. Howard,153,99,18,Made,1,55.0,64.0,119,v,Howard 18' Fadeaway Jumper (20 PTS),Made Shot,Fadeaway Jump Shot,0,276
+20601036,289,PT07M58.00S,3,1610612737,ATL,2735,Childress,J. Childress,0,0,0,,0,,,0,h,Childress Lost Ball Turnover (P3.T8),Turnover,Lost Ball,0,277
+20601036,289,PT07M58.00S,3,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,,,0,v,Howard STEAL (1 STL),,,0,278
+20601036,290,PT07M37.00S,3,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,,,0,h,M. Williams S.FOUL (P3.T1),Foul,Shooting,0,279
+20601036,291,PT07M37.00S,3,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,55.0,65.0,120,v,Howard Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,280
+20601036,292,PT07M37.00S,3,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,,,0,v,MISS Howard Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,281
+20601036,293,PT07M36.00S,3,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,,,0,h,Pachulia REBOUND (Off:3 Def:5),Rebound,Unknown,0,282
+20601036,294,PT07M20.00S,3,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,,,0,v,Terry P.FOUL (P2.T3),Foul,Personal,0,283
+20601036,295,PT07M07.00S,3,1610612737,ATL,1533,Johnson,A. Johnson,-182,95,21,Missed,1,,,0,h,MISS Johnson 21' Jump Shot,Missed Shot,Jump Shot,0,284
+20601036,296,PT07M05.00S,3,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,,,0,v,Dampier REBOUND (Off:0 Def:6),Rebound,Unknown,0,285
+20601036,297,PT06M55.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,154,120,20,Made,1,55.0,67.0,122,v,Nowitzki 20' Jump Shot (19 PTS) (Harris 6 AST),Made Shot,Jump Shot,0,286
+20601036,298,PT06M54.00S,3,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,287
+20601036,300,PT06M35.00S,3,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,v,Harris S.FOUL (P3.T4),Foul,Shooting,0,288
+20601036,301,PT06M35.00S,3,1610612737,ATL,2735,Childress,J. Childress,0,0,0,,0,56.0,67.0,123,h,Childress Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,289
+20601036,302,PT06M35.00S,3,1610612737,ATL,2735,Childress,J. Childress,0,0,0,,0,57.0,67.0,124,h,Childress Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,290
+20601036,303,PT06M11.00S,3,1610612742,DAL,2734,Harris,D. Harris,-179,41,18,Missed,1,,,0,v,MISS Harris 18' Jump Shot,Missed Shot,Jump Shot,0,291
+20601036,304,PT06M08.00S,3,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,,,0,h,Pachulia REBOUND (Off:3 Def:6),Rebound,Unknown,0,292
+20601036,305,PT06M04.00S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,h,Smith Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,293
+20601036,305,PT06M04.00S,3,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,v,Harris STEAL (3 STL),,,0,294
+20601036,306,PT05M58.00S,3,1610612742,DAL,2572,Howard,J. Howard,169,18,17,Made,1,57.0,69.0,126,v,Howard 17' Jump Shot (23 PTS) (Nowitzki 2 AST),Made Shot,Jump Shot,0,295
+20601036,307,PT05M39.00S,3,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,,,0,v,Dampier S.FOUL (P4.PN),Foul,Shooting,0,296
+20601036,308,PT05M39.00S,3,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,v,SUB: Stackhouse FOR Harris,Substitution,,0,297
+20601036,309,PT05M39.00S,3,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,,,0,h,MISS Pachulia Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,298
+20601036,310,PT05M39.00S,3,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Normal Rebound,0,299
+20601036,311,PT05M39.00S,3,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,58.0,69.0,127,h,Pachulia Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,300
+20601036,313,PT05M26.00S,3,1610612737,ATL,1533,Johnson,A. Johnson,0,0,0,,0,,,0,h,Johnson S.FOUL (P2.T2),Foul,Shooting,0,301
+20601036,314,PT05M26.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,58.0,70.0,128,v,Nowitzki Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,302
+20601036,315,PT05M26.00S,3,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,,,0,v,SUB: Diop FOR Dampier,Substitution,,0,303
+20601036,316,PT05M26.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,58.0,71.0,129,v,Nowitzki Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,304
+20601036,317,PT05M11.00S,3,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,,,0,h,Pachulia Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,305
+20601036,318,PT04M52.00S,3,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,,,0,v,Terry Traveling Turnover (P5.T7),Turnover,Traveling,0,306
+20601036,319,PT04M42.00S,3,1610612737,ATL,2746,Smith,J. Smith,-80,26,8,Missed,1,,,0,h,MISS Smith 8' Jump Bank Shot,Missed Shot,Jump Bank Shot,0,307
+20601036,320,PT04M40.00S,3,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,,,0,v,Diop REBOUND (Off:1 Def:5),Rebound,Unknown,0,308
+20601036,321,PT04M29.00S,3,1610612742,DAL,711,Stackhouse,J. Stackhouse,241,28,24,Missed,1,,,0,v,MISS Stackhouse 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,309
+20601036,322,PT04M27.00S,3,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,,,0,v,Diop REBOUND (Off:2 Def:5),Rebound,Unknown,0,310
+20601036,323,PT04M25.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-12,242,24,Missed,1,,,0,v,MISS Nowitzki 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,311
+20601036,324,PT04M23.00S,3,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,,,0,h,Pachulia REBOUND (Off:3 Def:7),Rebound,Unknown,0,312
+20601036,325,PT04M17.00S,3,1610612737,ATL,101107,Williams,M. Williams,-184,72,20,Made,1,60.0,71.0,131,h,M. Williams 20' Jump Shot (5 PTS) (Johnson 4 AST),Made Shot,Jump Shot,0,313
+20601036,326,PT03M57.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,v,Nowitzki Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,314
+20601036,326,PT03M57.00S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,h,Smith STEAL (1 STL),,,0,315
+20601036,327,PT03M50.00S,3,1610612737,ATL,1533,Johnson,A. Johnson,-174,197,26,Made,1,63.0,71.0,134,h,Johnson 26' 3PT Jump Shot (7 PTS) (Smith 1 AST),Made Shot,Jump Shot,0,316
+20601036,328,PT03M27.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,18,176,18,Missed,1,,,0,v,MISS Nowitzki 18' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,317
+20601036,329,PT03M25.00S,3,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,,,0,h,Pachulia REBOUND (Off:3 Def:8),Rebound,Unknown,0,318
+20601036,330,PT03M22.00S,3,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Short (Full 3 Short 1),Timeout,Short,0,319
+20601036,331,PT03M22.00S,3,1610612737,ATL,1533,Johnson,A. Johnson,0,0,0,,0,,,0,h,SUB: Lue FOR Johnson,Substitution,,0,320
+20601036,332,PT03M22.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,v,SUB: Harris FOR Nowitzki,Substitution,,0,321
+20601036,333,PT03M10.00S,3,1610612737,ATL,2746,Smith,J. Smith,56,179,19,Missed,1,,,0,h,MISS Smith 19' Jump Shot,Missed Shot,Jump Shot,0,322
+20601036,334,PT03M09.00S,3,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse REBOUND (Off:2 Def:3),Rebound,Unknown,0,323
+20601036,336,PT02M52.00S,3,1610612742,DAL,1891,Terry,J. Terry,89,112,14,Made,1,63.0,73.0,136,v,Terry 14' Jump Shot (12 PTS),Made Shot,Jump Shot,0,324
+20601036,337,PT02M36.00S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,Missed,1,,,0,h,MISS Smith Layup,Missed Shot,Layup Shot,0,325
+20601036,337,PT02M36.00S,3,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,,,0,v,Diop BLOCK (1 BLK),,,0,326
+20601036,338,PT02M35.00S,3,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,,,0,v,Diop REBOUND (Off:2 Def:6),Rebound,Unknown,0,327
+20601036,339,PT02M35.00S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,h,Smith P.FOUL (P2.T3),Foul,Personal,0,328
+20601036,340,PT02M35.00S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,h,SUB: Johnson FOR Smith,Substitution,,0,329
+20601036,341,PT02M21.00S,3,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,330
+20601036,341,PT02M21.00S,3,1610612737,ATL,2735,Childress,J. Childress,0,0,0,,0,,,0,h,Childress STEAL (1 STL),,,0,331
+20601036,342,PT02M06.00S,3,1610612737,ATL,101107,Williams,M. Williams,140,120,18,Made,1,65.0,73.0,138,h,M. Williams 18' Jump Shot (7 PTS) (Lue 1 AST),Made Shot,Jump Shot,0,332
+20601036,343,PT01M43.00S,3,1610612742,DAL,2572,Howard,J. Howard,-131,105,17,Missed,1,,,0,v,MISS Howard 17' Jump Shot,Missed Shot,Jump Shot,0,333
+20601036,344,PT01M42.00S,3,1610612737,ATL,2735,Childress,J. Childress,0,0,0,,0,,,0,h,Childress REBOUND (Off:3 Def:2),Rebound,Unknown,0,334
+20601036,345,PT01M34.00S,3,1610612737,ATL,1533,Johnson,A. Johnson,-243,15,24,Missed,1,,,0,h,MISS Johnson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,335
+20601036,346,PT01M32.00S,3,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,v,Harris REBOUND (Off:0 Def:2),Rebound,Unknown,0,336
+20601036,347,PT01M30.00S,3,1610612737,ATL,1731,Lue,T. Lue,0,0,0,,0,,,0,h,Lue S.FOUL (P1.T4),Foul,Shooting,0,337
+20601036,348,PT01M30.00S,3,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,,,0,v,SUB: Buckner FOR Howard,Substitution,,0,338
+20601036,349,PT01M30.00S,3,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,65.0,74.0,139,v,Harris Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,339
+20601036,350,PT01M30.00S,3,1610612737,ATL,1533,Johnson,A. Johnson,0,0,0,,0,,,0,h,SUB: Stoudamire FOR Johnson,Substitution,,0,340
+20601036,351,PT01M30.00S,3,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,65.0,75.0,140,v,Harris Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,341
+20601036,352,PT01M16.00S,3,1610612737,ATL,2735,Childress,J. Childress,-182,99,21,Made,1,67.0,75.0,142,h,Childress 21' Jump Shot (17 PTS) (M. Williams 2 AST),Made Shot,Jump Shot,0,342
+20601036,353,PT01M00.00S,3,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,343
+20601036,353,PT01M00.00S,3,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,,,0,h,Pachulia STEAL (2 STL),,,0,344
+20601036,354,PT00M42.80S,3,1610612737,ATL,2585,Pachulia,Z. Pachulia,-164,56,17,Missed,1,,,0,h,MISS Pachulia 17' Jump Shot,Missed Shot,Jump Shot,0,345
+20601036,355,PT00M41.90S,3,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,v,Harris REBOUND (Off:0 Def:3),Rebound,Unknown,0,346
+20601036,356,PT00M24.90S,3,1610612742,DAL,1761,Buckner,G. Buckner,-34,109,11,Missed,1,,,0,v,MISS Buckner 11' Jump Shot,Missed Shot,Jump Shot,0,347
+20601036,357,PT00M23.60S,3,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,,,0,h,M. Williams REBOUND (Off:0 Def:5),Rebound,Unknown,0,348
+20601036,358,PT00M05.90S,3,1610612737,ATL,1731,Lue,T. Lue,0,0,0,,0,,,0,h,Lue Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,349
+20601036,358,PT00M05.90S,3,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,v,Harris STEAL (4 STL),,,0,350
+20601036,359,PT00M02.40S,3,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse Bad Pass Turnover (P4.T11),Turnover,Bad Pass,0,351
+20601036,361,PT00M00.00S,3,0,,0,,,0,0,0,,0,67.0,75.0,142,,End of 3rd Period (2:58 PM EST),period,end,0,352
+20601036,362,PT12M00.00S,4,0,,0,,,0,0,0,,0,67.0,75.0,142,,Start of 4th Period (3:01 PM EST),period,start,0,353
+20601036,363,PT11M46.00S,4,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse S.FOUL (P1.T1),Foul,Shooting,0,354
+20601036,364,PT11M46.00S,4,1610612737,ATL,101136,Stoudamire,S. Stoudamire,0,0,0,,0,68.0,75.0,143,h,Stoudamire Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,355
+20601036,365,PT11M46.00S,4,1610612737,ATL,101136,Stoudamire,S. Stoudamire,0,0,0,,0,,,0,h,MISS Stoudamire Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,356
+20601036,366,PT11M45.00S,4,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,,,0,v,Dampier REBOUND (Off:0 Def:7),Rebound,Unknown,0,357
+20601036,367,PT11M34.00S,4,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,,,0,v,Dampier 3 Second Violation Turnover (P1.T12),Turnover,3 Second Violation,0,358
+20601036,368,PT11M18.00S,4,1610612737,ATL,101107,Williams,M. Williams,0,0,0,Missed,1,,,0,h,MISS M. Williams Reverse Layup,Missed Shot,Reverse Layup Shot,0,359
+20601036,369,PT11M17.00S,4,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,0,360
+20601036,370,PT11M17.00S,4,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,SUB: Howard FOR Stackhouse,Substitution,,0,361
+20601036,371,PT11M10.00S,4,1610612737,ATL,1731,Lue,T. Lue,0,0,0,Made,1,70.0,75.0,145,h,Lue Driving Layup (7 PTS),Made Shot,Driving Layup Shot,0,362
+20601036,372,PT11M10.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,v,Harris S.FOUL (P4.T2),Foul,Shooting,0,363
+20601036,373,PT11M10.00S,4,1610612737,ATL,1731,Lue,T. Lue,0,0,0,,0,71.0,75.0,146,h,Lue Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,364
+20601036,375,PT10M45.00S,4,1610612742,DAL,2734,Harris,D. Harris,-202,46,21,Missed,1,,,0,v,MISS Harris 21' Jump Shot,Missed Shot,Jump Shot,0,365
+20601036,376,PT10M44.00S,4,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,,,0,h,Pachulia REBOUND (Off:3 Def:9),Rebound,Unknown,0,366
+20601036,378,PT10M34.00S,4,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,,,0,h,Pachulia 3 Second Violation Turnover (P2.T12),Turnover,3 Second Violation,0,367
+20601036,379,PT10M10.00S,4,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,0,368
+20601036,380,PT09M57.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,v,Harris S.FOUL (P5.T3),Foul,Shooting,0,369
+20601036,381,PT09M57.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,v,SUB: Terry FOR Harris,Substitution,,0,370
+20601036,382,PT09M57.00S,4,1610612737,ATL,1731,Lue,T. Lue,0,0,0,,0,72.0,75.0,147,h,Lue Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,371
+20601036,383,PT09M57.00S,4,1610612737,ATL,1731,Lue,T. Lue,0,0,0,,0,73.0,75.0,148,h,Lue Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,372
+20601036,385,PT09M35.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,11,100,10,Made,1,73.0,77.0,150,v,Nowitzki 10' Running Jump Shot (23 PTS) (Terry 5 AST),Made Shot,Running Jump Shot,0,373
+20601036,386,PT09M18.00S,4,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,,,0,v,Howard P.FOUL (P3.T4),Foul,Personal,0,374
+20601036,387,PT09M18.00S,4,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,,,0,h,SUB: Smith FOR M. Williams,Substitution,,0,375
+20601036,388,PT09M07.00S,4,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,,,0,v,Terry S.FOUL (P3.PN),Foul,Shooting,0,376
+20601036,389,PT09M07.00S,4,1610612737,ATL,1731,Lue,T. Lue,0,0,0,,0,74.0,77.0,151,h,Lue Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,377
+20601036,390,PT09M07.00S,4,1610612737,ATL,1731,Lue,T. Lue,0,0,0,,0,75.0,77.0,152,h,Lue Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,378
+20601036,391,PT08M46.00S,4,1610612742,DAL,2572,Howard,J. Howard,0,0,0,Missed,1,,,0,v,MISS Howard Driving Layup,Missed Shot,Driving Layup Shot,0,379
+20601036,392,PT08M44.00S,4,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,h,Smith REBOUND (Off:1 Def:4),Rebound,Unknown,0,380
+20601036,393,PT08M41.00S,4,1610612742,DAL,1761,Buckner,G. Buckner,0,0,0,,0,,,0,v,Buckner S.FOUL (P3.PN),Foul,Shooting,0,381
+20601036,394,PT08M41.00S,4,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,382
+20601036,395,PT08M41.00S,4,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,76.0,77.0,153,h,Pachulia Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,383
+20601036,396,PT08M41.00S,4,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,,,0,v,SUB: Diop FOR Dampier,Substitution,,0,384
+20601036,397,PT08M41.00S,4,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,77.0,77.0,154,h,Pachulia Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,385
+20601036,399,PT08M28.00S,4,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,,,0,v,Terry Bad Pass Turnover (P6.T14),Turnover,Bad Pass,0,386
+20601036,399,PT08M28.00S,4,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,h,Smith STEAL (2 STL),,,0,387
+20601036,400,PT08M24.00S,4,1610612737,ATL,2735,Childress,J. Childress,0,0,0,Made,1,79.0,77.0,156,h,Childress Dunk (19 PTS) (Stoudamire 2 AST),Made Shot,Dunk Shot,0,388
+20601036,401,PT08M01.00S,4,1610612742,DAL,1891,Terry,J. Terry,34,169,17,Made,1,79.0,79.0,158,v,Terry 17' Jump Shot (14 PTS),Made Shot,Jump Shot,0,389
+20601036,402,PT07M46.00S,4,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,,,0,h,Pachulia Lost Ball Turnover (P3.T13),Turnover,Lost Ball,0,390
+20601036,402,PT07M46.00S,4,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,,,0,v,Diop STEAL (1 STL),,,0,391
+20601036,403,PT07M44.00S,4,1610612737,ATL,2735,Childress,J. Childress,0,0,0,,0,,,0,h,Childress S.FOUL (P3.T1),Foul,Shooting,0,392
+20601036,404,PT07M44.00S,4,1610612742,DAL,1761,Buckner,G. Buckner,0,0,0,,0,,,0,v,SUB: Stackhouse FOR Buckner,Substitution,,0,393
+20601036,405,PT07M44.00S,4,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,79.0,80.0,159,v,Howard Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,0,394
+20601036,406,PT07M44.00S,4,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,79.0,81.0,160,v,Howard Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,0,395
+20601036,407,PT07M24.00S,4,1610612737,ATL,101136,Stoudamire,S. Stoudamire,-94,148,18,Missed,1,,,0,h,MISS Stoudamire 18' Jump Shot,Missed Shot,Jump Shot,0,396
+20601036,408,PT07M23.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,v,Nowitzki REBOUND (Off:0 Def:3),Rebound,Unknown,0,397
+20601036,409,PT07M08.00S,4,1610612742,DAL,1891,Terry,J. Terry,182,174,25,Missed,1,,,0,v,MISS Terry 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,398
+20601036,410,PT07M06.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,v,Nowitzki REBOUND (Off:1 Def:3),Rebound,Unknown,0,399
+20601036,411,PT07M05.00S,4,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,,,0,h,Pachulia P.FOUL (P3.T2),Foul,Personal,0,400
+20601036,413,PT06M52.00S,4,1610612742,DAL,1891,Terry,J. Terry,-187,58,20,Made,1,79.0,83.0,162,v,Terry 20' Jump Shot (16 PTS) (Stackhouse 5 AST),Made Shot,Jump Shot,0,401
+20601036,414,PT06M45.00S,4,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,402
+20601036,415,PT06M45.00S,4,1610612737,ATL,101136,Stoudamire,S. Stoudamire,0,0,0,,0,,,0,h,SUB: M. Williams FOR Stoudamire,Substitution,,0,403
+20601036,417,PT06M36.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,v,Nowitzki P.FOUL (P3.PN),Foul,Personal,0,404
+20601036,418,PT06M36.00S,4,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,h,MISS Smith Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,405
+20601036,419,PT06M36.00S,4,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Normal Rebound,0,406
+20601036,420,PT06M36.00S,4,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,80.0,83.0,163,h,Smith Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,407
+20601036,421,PT06M15.00S,4,1610612742,DAL,2572,Howard,J. Howard,238,58,24,Made,1,80.0,86.0,166,v,Howard 24' 3PT Jump Shot (28 PTS) (Stackhouse 6 AST),Made Shot,Jump Shot,0,408
+20601036,422,PT05M54.00S,4,1610612737,ATL,2746,Smith,J. Smith,0,0,0,Made,1,82.0,86.0,168,h,Smith Driving Layup (19 PTS) (Lue 2 AST),Made Shot,Driving Layup Shot,0,409
+20601036,423,PT05M34.00S,4,1610612742,DAL,2572,Howard,J. Howard,0,0,0,Missed,1,,,0,v,MISS Howard Layup,Missed Shot,Layup Shot,0,410
+20601036,424,PT05M31.00S,4,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,h,Smith REBOUND (Off:1 Def:5),Rebound,Unknown,0,411
+20601036,425,PT05M26.00S,4,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse S.FOUL (P2.PN),Foul,Shooting,0,412
+20601036,426,PT05M26.00S,4,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,83.0,86.0,169,h,M. Williams Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,413
+20601036,427,PT05M26.00S,4,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,84.0,86.0,170,h,M. Williams Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,414
+20601036,428,PT05M07.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,26,271,27,Made,1,84.0,89.0,173,v,Nowitzki 27' 3PT Jump Shot (26 PTS) (Terry 6 AST),Made Shot,Jump Shot,0,415
+20601036,429,PT04M48.00S,4,1610612737,ATL,101107,Williams,M. Williams,89,169,19,Missed,1,,,0,h,MISS M. Williams 19' Jump Shot,Missed Shot,Jump Shot,0,416
+20601036,430,PT04M45.00S,4,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,,,0,v,Terry REBOUND (Off:0 Def:3),Rebound,Unknown,0,417
+20601036,431,PT04M24.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,29,174,18,Missed,1,,,0,v,MISS Nowitzki 18' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,418
+20601036,432,PT04M23.00S,4,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,,,0,h,M. Williams REBOUND (Off:0 Def:6),Rebound,Unknown,0,419
+20601036,433,PT04M15.00S,4,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,Missed,1,,,0,h,MISS Pachulia Layup,Missed Shot,Layup Shot,0,420
+20601036,433,PT04M15.00S,4,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,,,0,v,Diop BLOCK (2 BLK),,,0,421
+20601036,434,PT04M13.00S,4,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:0 Def:4),Rebound,Unknown,0,422
+20601036,435,PT03M52.00S,4,1610612742,DAL,1891,Terry,J. Terry,-18,260,26,Made,1,84.0,92.0,176,v,Terry 26' 3PT Jump Shot (19 PTS) (Stackhouse 7 AST),Made Shot,Jump Shot,0,423
+20601036,436,PT03M52.00S,4,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 5 Short 1),Timeout,Regular,0,424
+20601036,437,PT03M52.00S,4,1610612737,ATL,1731,Lue,T. Lue,0,0,0,,0,,,0,h,SUB: Johnson FOR Lue,Substitution,,0,425
+20601036,438,PT03M32.00S,4,1610612737,ATL,2746,Smith,J. Smith,0,0,0,Missed,1,,,0,h,MISS Smith Hook Shot,Missed Shot,Hook Shot,0,426
+20601036,439,PT03M30.00S,4,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse REBOUND (Off:2 Def:4),Rebound,Unknown,0,427
+20601036,440,PT03M26.00S,4,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse Poss Lost Ball Turnover (P5.T15),Turnover,Poss Lost Ball Turnover,0,428
+20601036,441,PT03M10.00S,4,1610612737,ATL,1533,Johnson,A. Johnson,-29,115,12,Missed,1,,,0,h,MISS Johnson 12' Jump Shot,Missed Shot,Jump Shot,0,429
+20601036,442,PT03M09.00S,4,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,,,0,v,Diop REBOUND (Off:2 Def:7),Rebound,Unknown,0,430
+20601036,443,PT02M50.00S,4,1610612742,DAL,1891,Terry,J. Terry,138,86,16,Made,1,84.0,94.0,178,v,Terry 16' Jump Shot (21 PTS),Made Shot,Jump Shot,0,431
+20601036,444,PT02M37.00S,4,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,h,Smith Bad Pass Turnover (P3.T14),Turnover,Bad Pass,0,432
+20601036,444,PT02M37.00S,4,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,,,0,v,Terry STEAL (3 STL),,,0,433
+20601036,445,PT02M32.00S,4,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,,,0,v,Terry Bad Pass Turnover (P7.T16),Turnover,Bad Pass,0,434
+20601036,446,PT02M29.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,v,Nowitzki S.FOUL (P4.PN),Foul,Shooting,0,435
+20601036,447,PT02M29.00S,4,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,85.0,94.0,179,h,Pachulia Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,436
+20601036,448,PT02M29.00S,4,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,86.0,94.0,180,h,Pachulia Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,437
+20601036,450,PT02M10.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-13,160,16,Missed,1,,,0,v,MISS Nowitzki 16' Jump Shot,Missed Shot,Jump Shot,0,438
+20601036,451,PT02M08.00S,4,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,,,0,h,Pachulia REBOUND (Off:3 Def:10),Rebound,Unknown,0,439
+20601036,452,PT02M01.00S,4,1610612737,ATL,2746,Smith,J. Smith,0,0,0,Made,1,88.0,94.0,182,h,Smith Driving Layup (21 PTS) (Childress 1 AST),Made Shot,Driving Layup Shot,0,440
+20601036,454,PT01M39.00S,4,1610612742,DAL,1891,Terry,J. Terry,232,92,25,Made,1,88.0,97.0,185,v,Terry 25' 3PT Jump Shot (24 PTS) (Stackhouse 8 AST),Made Shot,Jump Shot,0,441
+20601036,456,PT01M22.00S,4,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,,,0,v,Diop S.FOUL (P4.PN),Foul,Shooting,0,442
+20601036,457,PT01M22.00S,4,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,89.0,97.0,186,h,Pachulia Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,443
+20601036,459,PT01M22.00S,4,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,,,0,v,SUB: Harris FOR Diop,Substitution,,0,444
+20601036,460,PT01M22.00S,4,1610612737,ATL,1533,Johnson,A. Johnson,0,0,0,,0,,,0,h,SUB: Lue FOR Johnson,Substitution,,0,445
+20601036,461,PT01M22.00S,4,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,90.0,97.0,187,h,Pachulia Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,446
+20601036,462,PT01M03.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,97,141,17,Made,1,90.0,99.0,189,v,Nowitzki 17' Jump Shot (28 PTS),Made Shot,Jump Shot,0,447
+20601036,463,PT00M58.30S,4,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 6 Short 1),Timeout,Regular,0,448
+20601036,464,PT00M58.30S,4,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,SUB: Diop FOR Stackhouse,Substitution,,0,449
+20601036,465,PT00M58.30S,4,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,,,0,h,SUB: Johnson FOR Pachulia,Substitution,,0,450
+20601036,466,PT00M52.90S,4,1610612737,ATL,1533,Johnson,A. Johnson,-184,207,28,Missed,1,,,0,h,MISS Johnson 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,451
+20601036,467,PT00M51.90S,4,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:0 Def:5),Rebound,Unknown,0,452
+20601036,468,PT00M43.90S,4,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,,,0,v,Terry Lost Ball Turnover (P8.T17),Turnover,Lost Ball,0,453
+20601036,468,PT00M43.90S,4,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,,,0,h,M. Williams STEAL (1 STL),,,0,454
+20601036,469,PT00M39.70S,4,1610612737,ATL,2735,Childress,J. Childress,0,0,0,Made,1,92.0,99.0,191,h,Childress Layup (21 PTS) (Lue 3 AST),Made Shot,Layup Shot,0,455
+20601036,470,PT00M38.70S,4,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,h,Smith P.FOUL (P3.T3),Foul,Personal,0,456
+20601036,471,PT00M38.70S,4,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Timeout: Short (Reg.3 Short 1),Timeout,Short,0,457
+20601036,472,PT00M38.70S,4,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,,,0,v,SUB: Stackhouse FOR Diop,Substitution,,0,458
+20601036,473,PT00M36.80S,4,1610612737,ATL,1731,Lue,T. Lue,0,0,0,,0,,,0,h,Lue P.FOUL (P2.PN),Foul,Personal,0,459
+20601036,474,PT00M36.80S,4,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,92.0,100.0,192,v,Terry Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,0,460
+20601036,475,PT00M36.80S,4,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,92.0,101.0,193,v,Terry Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,0,461
+20601036,476,PT00M31.90S,4,1610612737,ATL,1731,Lue,T. Lue,0,0,0,Made,1,94.0,101.0,195,h,Lue Layup (14 PTS),Made Shot,Layup Shot,0,462
+20601036,477,PT00M31.90S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,v,Harris S.FOUL (P6.PN),Foul,Shooting,0,463
+20601036,478,PT00M31.90S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,v,SUB: Buckner FOR Harris,Substitution,,0,464
+20601036,479,PT00M31.90S,4,1610612737,ATL,1731,Lue,T. Lue,0,0,0,,0,95.0,101.0,196,h,Lue Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,0,465
+20601036,480,PT00M19.40S,4,1610612737,ATL,2735,Childress,J. Childress,0,0,0,,0,,,0,h,Childress P.FOUL (P4.PN),Foul,Personal,0,466
+20601036,481,PT00M19.40S,4,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,95.0,102.0,197,v,Terry Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,0,467
+20601036,482,PT00M19.40S,4,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,,,0,v,MISS Terry Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,468
+20601036,483,PT00M18.80S,4,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,,,0,h,M. Williams REBOUND (Off:0 Def:7),Rebound,Unknown,0,469
+20601036,484,PT00M12.50S,4,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,,,0,h,M. Williams Poss Lost Ball Turnover (P2.T15),Turnover,Poss Lost Ball Turnover,0,470
+20601036,485,PT00M10.50S,4,1610612737,ATL,2735,Childress,J. Childress,0,0,0,,0,,,0,h,Childress P.FOUL (P5.PN),Foul,Personal,0,471
+20601036,486,PT00M10.50S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,v,SUB: Diop FOR Nowitzki,Substitution,,0,472
+20601036,487,PT00M10.50S,4,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,95.0,103.0,198,v,Stackhouse Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,473
+20601036,488,PT00M10.50S,4,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,,,0,v,SUB: Barea FOR Howard,Substitution,,0,474
+20601036,489,PT00M10.50S,4,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,,,0,v,SUB: Mensah-Bonsu FOR Terry,Substitution,,0,475
+20601036,490,PT00M10.50S,4,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,95.0,104.0,199,v,Stackhouse Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,476
+20601036,491,PT00M06.60S,4,1610612737,ATL,1533,Johnson,A. Johnson,0,0,0,Made,1,97.0,104.0,201,h,Johnson Dunk (9 PTS),Made Shot,Dunk Shot,0,477
+20601036,493,PT00M00.00S,4,0,,0,,,0,0,0,,0,97.0,104.0,201,,End of 4th Period (3:38 PM EST),period,end,0,478

@@ -1,0 +1,585 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+21400832,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (8:12 PM EST),period,start,0,1
+21400832,1,PT12M00.00S,1,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,0.0,0.0,0,h,Jump Ball Jones vs. Payne: Tip to Pekovic,Jump Ball,,1,2
+21400832,2,PT11M45.00S,1,1610612750,MIN,203952,Wiggins,A. Wiggins,-2,83,8,Missed,1,0.0,0.0,0,v,MISS Wiggins 8' Jump Shot,Missed Shot,Jump Shot,1,3
+21400832,2,PT11M45.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden BLOCK (1 BLK),,,1,4
+21400832,3,PT11M43.00S,1,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,h,Ariza REBOUND (Off:0 Def:1),Rebound,Unknown,1,5
+21400832,4,PT11M38.00S,1,1610612745,HOU,2772,Ariza,T. Ariza,28,1,3,Missed,1,0.0,0.0,0,h,MISS Ariza 3' Layup,Missed Shot,Layup Shot,1,6
+21400832,5,PT11M37.00S,1,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0.0,0.0,0,v,Rubio REBOUND (Off:0 Def:1),Rebound,Unknown,1,7
+21400832,6,PT11M19.00S,1,1610612750,MIN,203940,Payne,A. Payne,12,36,4,Made,1,0.0,2.0,2,v,Payne 4' Running Layup (2 PTS) (Wiggins 1 AST),Made Shot,Running Layup Shot,1,8
+21400832,7,PT11M08.00S,1,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,h,Ariza Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,9
+21400832,8,PT10M51.00S,1,1610612750,MIN,201593,Pekovic,N. Pekovic,10,47,5,Made,1,0.0,4.0,4,v,Pekovic 5' Jump Hook Shot (2 PTS),Made Shot,Jump Hook Shot,1,10
+21400832,9,PT10M40.00S,1,1610612745,HOU,2772,Ariza,T. Ariza,125,231,26,Made,1,3.0,4.0,7,h,Ariza 26' 3PT Jump Shot (3 PTS) (Harden 1 AST),Made Shot,Jump Shot,1,11
+21400832,11,PT10M20.00S,1,1610612750,MIN,203940,Payne,A. Payne,-12,11,2,Missed,1,0.0,0.0,0,v,MISS Payne 2' Layup,Missed Shot,Layup Shot,1,12
+21400832,13,PT10M19.00S,1,1610612750,MIN,201593,Pekovic,N. Pekovic,0,0,0,,0,0.0,0.0,0,v,Pekovic REBOUND (Off:1 Def:0),Rebound,Unknown,1,13
+21400832,12,PT10M19.00S,1,1610612750,MIN,201593,Pekovic,N. Pekovic,2,11,1,Made,1,3.0,6.0,9,v,Pekovic 1' Tip Shot (4 PTS),Made Shot,Tip Shot,1,14
+21400832,15,PT09M59.00S,1,1610612745,HOU,201935,Harden,J. Harden,50,160,17,Missed,1,0.0,0.0,0,h,MISS Harden 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,15
+21400832,17,PT09M58.00S,1,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,0.0,0.0,0,h,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,1,16
+21400832,16,PT09M58.00S,1,1610612745,HOU,203093,Jones,T. Jones,18,3,2,Missed,1,0.0,0.0,0,h,MISS Jones 2' Tip Shot,Missed Shot,Tip Shot,1,17
+21400832,18,PT09M54.00S,1,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0.0,0.0,0,v,Payne REBOUND (Off:0 Def:1),Rebound,Unknown,1,18
+21400832,19,PT09M47.00S,1,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0.0,0.0,0,v,Rubio Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,19
+21400832,19,PT09M47.00S,1,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0.0,0.0,0,h,Motiejunas STEAL (1 STL),,,1,20
+21400832,20,PT09M27.00S,1,1610612745,HOU,202700,Motiejunas,D. Motiejunas,-21,33,4,Made,1,5.0,6.0,11,h,Motiejunas 4' Layup (2 PTS),Made Shot,Layup Shot,1,21
+21400832,21,PT09M09.00S,1,1610612750,MIN,203952,Wiggins,A. Wiggins,84,205,22,Made,1,5.0,8.0,13,v,Wiggins 22' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,22
+21400832,22,PT09M02.00S,1,1610612745,HOU,203093,Jones,T. Jones,-7,6,1,Made,1,7.0,8.0,15,h,Jones 1' Layup (2 PTS) (Terry 1 AST),Made Shot,Layup Shot,1,23
+21400832,23,PT08M44.00S,1,1610612750,MIN,203940,Payne,A. Payne,59,39,7,Missed,1,0.0,0.0,0,v,MISS Payne 7' Jump Shot,Missed Shot,Jump Shot,1,24
+21400832,23,PT08M44.00S,1,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,0.0,0.0,0,h,Jones BLOCK (1 BLK),,,1,25
+21400832,24,PT08M42.00S,1,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0.0,0.0,0,v,Payne REBOUND (Off:1 Def:1),Rebound,Unknown,1,26
+21400832,25,PT08M40.00S,1,1610612750,MIN,203940,Payne,A. Payne,-15,6,2,Made,1,7.0,10.0,17,v,Payne 2' Reverse Layup (4 PTS),Made Shot,Reverse Layup Shot,1,27
+21400832,26,PT08M20.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,28
+21400832,26,PT08M20.00S,1,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0.0,0.0,0,v,Rubio STEAL (1 STL),,,1,29
+21400832,27,PT08M14.00S,1,1610612750,MIN,203952,Wiggins,A. Wiggins,-13,6,1,Made,1,7.0,12.0,19,v,Wiggins 1' Alley Oop Layup (4 PTS) (Martin 1 AST),Made Shot,Alley Oop Layup shot,1,30
+21400832,28,PT07M56.00S,1,1610612745,HOU,202700,Motiejunas,D. Motiejunas,230,115,26,Missed,1,0.0,0.0,0,h,MISS Motiejunas 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,31
+21400832,29,PT07M55.00S,1,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,0.0,0.0,0,h,Jones REBOUND (Off:2 Def:0),Rebound,Unknown,1,32
+21400832,30,PT07M54.00S,1,1610612745,HOU,203093,Jones,T. Jones,-8,1,1,Made,1,9.0,12.0,21,h,Jones 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,33
+21400832,31,PT07M44.00S,1,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,v,Martin Traveling Turnover (P1.T2),Turnover,Traveling,1,34
+21400832,32,PT07M27.00S,1,1610612745,HOU,1891,Terry,J. Terry,-228,-5,0,Missed,1,0.0,0.0,0,h,MISS Terry  3PT Jump Shot,Missed Shot,Jump Shot,1,35
+21400832,33,PT07M25.00S,1,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0.0,0.0,0,v,Rubio REBOUND (Off:0 Def:2),Rebound,Unknown,1,36
+21400832,34,PT07M20.00S,1,1610612750,MIN,203952,Wiggins,A. Wiggins,13,1,1,Made,1,9.0,14.0,23,v,Wiggins 1' Driving Layup (6 PTS) (Rubio 1 AST),Made Shot,Driving Layup Shot,1,37
+21400832,35,PT07M07.00S,1,1610612745,HOU,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,38
+21400832,35,PT07M07.00S,1,1610612750,MIN,201593,Pekovic,N. Pekovic,0,0,0,,0,0.0,0.0,0,v,Pekovic STEAL (1 STL),,,1,39
+21400832,36,PT07M02.00S,1,1610612745,HOU,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry S.FOUL (P1.T1),Foul,Shooting,1,40
+21400832,37,PT07M02.00S,1,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,41
+21400832,39,PT07M02.00S,1,0,,9,Threatt,S. Threatt,0,0,0,,0,0.0,0.0,0,,Support Ruling,Instant Replay,Support Ruling,0,42
+21400832,43,PT07M02.00S,1,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,9.0,15.0,24,v,Rubio Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,43
+21400832,45,PT07M02.00S,1,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,9.0,16.0,25,v,Rubio Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,44
+21400832,47,PT06M49.00S,1,1610612745,HOU,201935,Harden,J. Harden,-185,151,24,Missed,1,0.0,0.0,0,h,MISS Harden 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,45
+21400832,48,PT06M48.00S,1,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0.0,0.0,0,v,Rubio REBOUND (Off:0 Def:3),Rebound,Unknown,1,46
+21400832,49,PT06M45.00S,1,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0.0,0.0,0,v,Rubio Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,47
+21400832,50,PT06M24.00S,1,1610612745,HOU,202700,Motiejunas,D. Motiejunas,-52,78,9,Made,1,11.0,16.0,27,h,Motiejunas 9' Running Hook Shot (4 PTS) (Harden 2 AST),Made Shot,Running Hook Shot,1,48
+21400832,51,PT06M24.00S,1,1610612750,MIN,201593,Pekovic,N. Pekovic,0,0,0,,0,0.0,0.0,0,v,Pekovic S.FOUL (P1.T1),Foul,Shooting,1,49
+21400832,52,PT06M24.00S,1,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,12.0,16.0,28,h,Motiejunas Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,50
+21400832,54,PT06M12.00S,1,1610612750,MIN,2755,Martin,K. Martin,-64,108,13,Missed,1,0.0,0.0,0,v,MISS Martin 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,51
+21400832,55,PT06M10.00S,1,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0.0,0.0,0,v,Payne REBOUND (Off:2 Def:1),Rebound,Unknown,1,52
+21400832,56,PT06M09.00S,1,1610612750,MIN,203940,Payne,A. Payne,48,26,5,Made,1,12.0,18.0,30,v,Payne 5' Jump Hook Shot (6 PTS),Made Shot,Jump Hook Shot,1,53
+21400832,57,PT05M54.00S,1,1610612745,HOU,202700,Motiejunas,D. Motiejunas,9,1,1,Missed,1,0.0,0.0,0,h,MISS Motiejunas 1' Layup,Missed Shot,Layup Shot,1,54
+21400832,57,PT05M54.00S,1,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0.0,0.0,0,v,Payne BLOCK (1 BLK),,,1,55
+21400832,58,PT05M52.00S,1,1610612750,MIN,201593,Pekovic,N. Pekovic,0,0,0,,0,0.0,0.0,0,v,Pekovic REBOUND (Off:1 Def:1),Rebound,Unknown,1,56
+21400832,59,PT05M48.00S,1,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,v,Martin Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,57
+21400832,59,PT05M48.00S,1,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,h,Ariza STEAL (1 STL),,,1,58
+21400832,60,PT05M39.00S,1,1610612745,HOU,203093,Jones,T. Jones,0,1,0,Made,1,14.0,18.0,32,h,Jones  Dunk (6 PTS) (Motiejunas 1 AST),Made Shot,Dunk Shot,1,59
+21400832,61,PT05M21.00S,1,1610612750,MIN,201937,Rubio,R. Rubio,-134,208,25,Missed,1,0.0,0.0,0,v,MISS Rubio 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,60
+21400832,62,PT05M20.00S,1,0,,1610612750,,,0,0,0,,0,0.0,0.0,0,v,Timberwolves Rebound,Rebound,Unknown,0,61
+21400832,63,PT05M20.00S,1,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0.0,0.0,0,h,Motiejunas L.B.FOUL (P1.T2),Foul,Loose Ball,1,62
+21400832,64,PT05M20.00S,1,1610612750,MIN,201593,Pekovic,N. Pekovic,0,0,0,,0,0.0,0.0,0,v,SUB: Dieng FOR Pekovic,Substitution,,0,63
+21400832,65,PT05M08.00S,1,1610612750,MIN,201937,Rubio,R. Rubio,-134,222,26,Missed,1,0.0,0.0,0,v,MISS Rubio 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,64
+21400832,66,PT05M06.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden REBOUND (Off:0 Def:1),Rebound,Unknown,1,65
+21400832,67,PT05M00.00S,1,1610612745,HOU,201935,Harden,J. Harden,-25,16,3,Missed,1,0.0,0.0,0,h,MISS Harden 3' Driving Layup,Missed Shot,Driving Layup Shot,1,66
+21400832,67,PT05M00.00S,1,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,v,Wiggins BLOCK (1 BLK),,,1,67
+21400832,100,PT05M00.00S,1,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0.0,0.0,0,v,Rubio REBOUND (Off:0 Def:4),Rebound,Unknown,1,68
+21400832,68,PT04M51.00S,1,1610612750,MIN,2755,Martin,K. Martin,-175,179,25,Missed,1,0.0,0.0,0,v,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,69
+21400832,69,PT04M49.00S,1,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,0.0,0.0,0,h,Jones REBOUND (Off:2 Def:1),Rebound,Unknown,1,70
+21400832,70,PT04M41.00S,1,1610612745,HOU,2772,Ariza,T. Ariza,12,252,25,Missed,1,0.0,0.0,0,h,MISS Ariza 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,71
+21400832,72,PT04M39.00S,1,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,0.0,0.0,0,h,Jones REBOUND (Off:3 Def:1),Rebound,Unknown,1,72
+21400832,71,PT04M39.00S,1,1610612745,HOU,203093,Jones,T. Jones,23,9,2,Missed,1,0.0,0.0,0,h,MISS Jones 2' Tip Shot,Missed Shot,Tip Shot,1,73
+21400832,73,PT04M36.00S,1,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,0.0,0.0,0,h,Jones REBOUND (Off:4 Def:1),Rebound,Unknown,1,74
+21400832,74,PT04M33.00S,1,1610612745,HOU,201935,Harden,J. Harden,7,247,25,Missed,1,0.0,0.0,0,h,MISS Harden 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,75
+21400832,75,PT04M31.00S,1,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,h,Ariza REBOUND (Off:1 Def:1),Rebound,Unknown,1,76
+21400832,76,PT04M13.00S,1,1610612745,HOU,1891,Terry,J. Terry,228,47,0,Missed,1,0.0,0.0,0,h,MISS Terry  3PT Jump Shot,Missed Shot,Jump Shot,1,77
+21400832,77,PT04M12.00S,1,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,v,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,1,78
+21400832,78,PT04M06.00S,1,1610612750,MIN,201937,Rubio,R. Rubio,129,129,18,Made,1,14.0,20.0,34,v,Rubio 18' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,79
+21400832,80,PT03M54.00S,1,1610612745,HOU,202700,Motiejunas,D. Motiejunas,-45,58,7,Made,1,16.0,20.0,36,h,Motiejunas 7' Jump Shot (7 PTS) (Ariza 1 AST),Made Shot,Jump Shot,1,80
+21400832,81,PT03M36.00S,1,1610612750,MIN,203476,Dieng,G. Dieng,-25,14,3,Missed,1,0.0,0.0,0,v,MISS Dieng 3' Layup,Missed Shot,Layup Shot,1,81
+21400832,81,PT03M36.00S,1,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0.0,0.0,0,h,Motiejunas BLOCK (1 BLK),,,1,82
+21400832,83,PT03M36.00S,1,0,,1610612750,,,0,0,0,,0,0.0,0.0,0,v,Timberwolves Rebound,Rebound,Unknown,0,83
+21400832,82,PT03M36.00S,1,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,h,SUB: Brewer FOR Ariza,Substitution,,0,84
+21400832,84,PT03M36.00S,1,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,0.0,0.0,0,h,SUB: Smith FOR Jones,Substitution,,0,85
+21400832,85,PT03M36.00S,1,1610612745,HOU,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,SUB: Prigioni FOR Terry,Substitution,,0,86
+21400832,86,PT03M36.00S,1,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,v,SUB: Budinger FOR Martin,Substitution,,0,87
+21400832,87,PT03M35.00S,1,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0.0,0.0,0,h,Jump Ball Motiejunas vs. Dieng: Tip to,Jump Ball,,1,88
+21400832,88,PT03M31.00S,1,1610612750,MIN,201978,Budinger,C. Budinger,-163,12,16,Missed,1,0.0,0.0,0,v,MISS Budinger 16' Jump Shot,Missed Shot,Jump Shot,1,89
+21400832,89,PT03M31.00S,1,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Rebound,Rebound,Unknown,0,90
+21400832,90,PT03M18.00S,1,1610612745,HOU,201147,Brewer,C. Brewer,12,172,17,Missed,1,0.0,0.0,0,h,MISS Brewer 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,91
+21400832,91,PT03M16.00S,1,1610612745,HOU,203143,Prigioni,P. Prigioni,0,0,0,,0,0.0,0.0,0,h,Prigioni REBOUND (Off:1 Def:0),Rebound,Unknown,1,92
+21400832,92,PT03M11.00S,1,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,v,Wiggins S.FOUL (P1.T2),Foul,Shooting,1,93
+21400832,93,PT03M11.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,17.0,20.0,37,h,Harden Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,94
+21400832,96,PT03M11.00S,1,0,,1610612750,,,0,0,0,,0,0.0,0.0,0,v,Timberwolves Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,95
+21400832,101,PT03M11.00S,1,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0.0,0.0,0,h,SUB: Dorsey FOR Motiejunas,Substitution,,0,96
+21400832,103,PT03M11.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,18.0,20.0,38,h,Harden Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,97
+21400832,106,PT02M56.00S,1,1610612750,MIN,203940,Payne,A. Payne,-98,190,21,Missed,1,0.0,0.0,0,v,MISS Payne 21' Jump Shot,Missed Shot,Jump Shot,1,98
+21400832,107,PT02M55.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden REBOUND (Off:0 Def:2),Rebound,Unknown,1,99
+21400832,108,PT02M48.00S,1,1610612745,HOU,201935,Harden,J. Harden,53,244,25,Missed,1,0.0,0.0,0,h,MISS Harden 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,100
+21400832,109,PT02M48.00S,1,1610612745,HOU,201595,Dorsey,J. Dorsey,0,0,0,,0,0.0,0.0,0,h,Dorsey REBOUND (Off:1 Def:0),Rebound,Unknown,1,101
+21400832,110,PT02M48.00S,1,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,v,Dieng L.B.FOUL (P1.T3),Foul,Loose Ball,1,102
+21400832,111,PT02M33.00S,1,1610612745,HOU,201595,Dorsey,J. Dorsey,-21,36,4,Missed,1,0.0,0.0,0,h,MISS Dorsey 4' Hook Shot,Missed Shot,Hook Shot,1,103
+21400832,111,PT02M33.00S,1,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,v,Dieng BLOCK (1 BLK),,,1,104
+21400832,112,PT02M30.00S,1,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:1 Def:0),Rebound,Unknown,1,105
+21400832,113,PT02M28.00S,1,1610612745,HOU,2746,Smith,J. Smith,-59,6,6,Made,1,20.0,20.0,40,h,Smith 6' Jump Bank Shot (2 PTS),Made Shot,Jump Bank Shot,1,106
+21400832,114,PT02M10.00S,1,1610612750,MIN,203952,Wiggins,A. Wiggins,181,25,18,Made,1,20.0,22.0,42,v,Wiggins 18' Step Back Jump Shot (8 PTS) (Rubio 2 AST),Made Shot,Step Back Jump shot,1,107
+21400832,115,PT02M04.00S,1,1610612750,MIN,201978,Budinger,C. Budinger,0,0,0,,0,0.0,0.0,0,v,Budinger S.FOUL (P1.T4),Foul,Shooting,1,108
+21400832,116,PT02M04.00S,1,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0.0,0.0,0,h,MISS Brewer Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,109
+21400832,117,PT02M04.00S,1,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Rebound,Rebound,Normal Rebound,0,110
+21400832,118,PT02M04.00S,1,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0.0,0.0,0,h,MISS Brewer Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,111
+21400832,120,PT02M04.00S,1,1610612750,MIN,201978,Budinger,C. Budinger,0,0,0,,0,0.0,0.0,0,v,Budinger REBOUND (Off:0 Def:1),Rebound,Unknown,1,112
+21400832,121,PT01M42.00S,1,1610612750,MIN,203952,Wiggins,A. Wiggins,84,48,10,Missed,1,0.0,0.0,0,v,MISS Wiggins 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,113
+21400832,121,PT01M42.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden BLOCK (2 BLK),,,1,114
+21400832,138,PT01M42.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden REBOUND (Off:0 Def:3),Rebound,Unknown,1,115
+21400832,122,PT01M39.00S,1,1610612745,HOU,201595,Dorsey,J. Dorsey,34,-8,3,Made,1,22.0,22.0,44,h,Dorsey 3' Layup (2 PTS) (Harden 3 AST),Made Shot,Layup Shot,1,116
+21400832,123,PT01M22.00S,1,1610612745,HOU,201595,Dorsey,J. Dorsey,0,0,0,,0,0.0,0.0,0,h,Dorsey S.FOUL (P1.T3),Foul,Shooting,1,117
+21400832,124,PT01M22.00S,1,1610612750,MIN,201978,Budinger,C. Budinger,0,0,0,,0,0.0,0.0,0,v,MISS Budinger Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,118
+21400832,125,PT01M22.00S,1,0,,1610612750,,,0,0,0,,0,0.0,0.0,0,v,Timberwolves Rebound,Rebound,Normal Rebound,0,119
+21400832,126,PT01M22.00S,1,1610612750,MIN,201978,Budinger,C. Budinger,0,0,0,,0,22.0,23.0,45,v,Budinger Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,120
+21400832,128,PT01M06.00S,1,1610612745,HOU,201147,Brewer,C. Brewer,-205,153,26,Missed,1,0.0,0.0,0,h,MISS Brewer 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,121
+21400832,129,PT01M04.00S,1,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,v,Wiggins REBOUND (Off:0 Def:1),Rebound,Unknown,1,122
+21400832,130,PT01M01.00S,1,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith S.FOUL (P1.PN),Foul,Shooting,1,123
+21400832,131,PT01M01.00S,1,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,22.0,24.0,46,v,Dieng Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,124
+21400832,133,PT01M01.00S,1,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0.0,0.0,0,v,SUB: LaVine FOR Rubio,Substitution,,0,125
+21400832,135,PT01M01.00S,1,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,22.0,25.0,47,v,Dieng Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,126
+21400832,137,PT00M49.90S,1,1610612745,HOU,201595,Dorsey,J. Dorsey,0,1,0,Made,1,24.0,25.0,49,h,Dorsey  Dunk (4 PTS) (Harden 4 AST),Made Shot,Dunk Shot,1,127
+21400832,139,PT00M39.90S,1,1610612750,MIN,203952,Wiggins,A. Wiggins,-87,244,26,Missed,1,0.0,0.0,0,v,MISS Wiggins 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,128
+21400832,140,PT00M37.90S,1,1610612745,HOU,201595,Dorsey,J. Dorsey,0,0,0,,0,0.0,0.0,0,h,Dorsey REBOUND (Off:1 Def:1),Rebound,Unknown,1,129
+21400832,142,PT00M29.80S,1,1610612745,HOU,201935,Harden,J. Harden,140,241,28,Missed,1,0.0,0.0,0,h,MISS Harden 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,130
+21400832,143,PT00M27.90S,1,1610612745,HOU,201595,Dorsey,J. Dorsey,0,0,0,,0,0.0,0.0,0,h,Dorsey REBOUND (Off:2 Def:1),Rebound,Unknown,1,131
+21400832,144,PT00M26.20S,1,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,v,Dieng S.FOUL (P2.PN),Foul,Shooting,1,132
+21400832,145,PT00M26.20S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,25.0,25.0,50,h,Harden Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,133
+21400832,147,PT00M26.20S,1,1610612745,HOU,203143,Prigioni,P. Prigioni,0,0,0,,0,0.0,0.0,0,h,SUB: Ariza FOR Prigioni,Substitution,,0,134
+21400832,148,PT00M26.20S,1,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,v,SUB: Pekovic FOR Dieng,Substitution,,0,135
+21400832,149,PT00M26.20S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,26.0,25.0,51,h,Harden Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,136
+21400832,152,PT00M02.90S,1,1610612750,MIN,203940,Payne,A. Payne,42,75,9,Missed,1,0.0,0.0,0,v,MISS Payne 9' Running Hook Shot,Missed Shot,Running Hook Shot,1,137
+21400832,153,PT00M01.70S,1,1610612745,HOU,201595,Dorsey,J. Dorsey,0,0,0,,0,0.0,0.0,0,h,Dorsey REBOUND (Off:2 Def:2),Rebound,Unknown,1,138
+21400832,154,PT00M00.00S,1,0,,0,,,0,0,0,,0,26.0,25.0,51,,End of 1st Period (8:37 PM EST),period,end,0,139
+21400832,156,PT12M00.00S,2,0,,0,,,0,0,0,,0,26.0,25.0,51,,Start of 2nd Period (8:39 PM EST),period,start,0,140
+21400832,157,PT11M47.00S,2,1610612745,HOU,201147,Brewer,C. Brewer,69,26,7,Missed,1,0.0,0.0,0,h,MISS Brewer 7' Jump Shot,Missed Shot,Jump Shot,1,141
+21400832,158,PT11M46.00S,2,1610612750,MIN,201593,Pekovic,N. Pekovic,0,0,0,,0,0.0,0.0,0,v,Pekovic REBOUND (Off:1 Def:2),Rebound,Unknown,1,142
+21400832,159,PT11M33.00S,2,1610612750,MIN,201593,Pekovic,N. Pekovic,-82,30,9,Missed,1,0.0,0.0,0,v,MISS Pekovic 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,143
+21400832,160,PT11M31.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,h,Ariza REBOUND (Off:1 Def:2),Rebound,Unknown,1,144
+21400832,161,PT11M24.00S,2,1610612745,HOU,201147,Brewer,C. Brewer,23,3,2,Made,1,28.0,25.0,53,h,Brewer 2' Driving Layup (2 PTS) (Smith 1 AST),Made Shot,Driving Layup Shot,1,145
+21400832,162,PT11M06.00S,2,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,v,Wiggins Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,146
+21400832,162,PT11M06.00S,2,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith STEAL (1 STL),,,1,147
+21400832,163,PT11M01.00S,2,1610612745,HOU,201595,Dorsey,J. Dorsey,0,15,2,Made,1,30.0,25.0,55,h,Dorsey 2' Finger Roll Layup (6 PTS) (Smith 2 AST),Made Shot,Finger Roll Layup Shot,1,148
+21400832,164,PT11M00.00S,2,0,,1610612750,,,0,0,0,,0,0.0,0.0,0,v,Timberwolves Timeout: Short (Reg.1 Short 1),Timeout,Short,0,149
+21400832,167,PT11M00.00S,2,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,v,SUB: Martin FOR Wiggins,Substitution,,0,150
+21400832,168,PT10M41.00S,2,1610612750,MIN,201593,Pekovic,N. Pekovic,0,0,0,,0,0.0,0.0,0,v,Pekovic Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,151
+21400832,168,PT10M41.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,h,Ariza STEAL (2 STL),,,1,152
+21400832,169,PT10M38.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,0,1,0,Made,1,32.0,25.0,57,h,Ariza  Dunk (5 PTS),Made Shot,Dunk Shot,1,153
+21400832,170,PT10M17.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,h,Ariza S.FOUL (P1.T1),Foul,Shooting,1,154
+21400832,171,PT10M17.00S,2,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,32.0,26.0,58,v,Martin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,155
+21400832,173,PT10M17.00S,2,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,32.0,27.0,59,v,Martin Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,156
+21400832,175,PT10M10.00S,2,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0.0,0.0,0,h,Brewer Traveling Turnover (P1.T4),Turnover,Traveling,1,157
+21400832,176,PT10M10.00S,2,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0.0,0.0,0,v,SUB: Robinson FOR Payne,Substitution,,0,158
+21400832,177,PT10M01.00S,2,1610612750,MIN,203897,LaVine,Z. LaVine,-10,12,2,Made,1,32.0,29.0,61,v,LaVine 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,159
+21400832,179,PT09M42.00S,2,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0.0,0.0,0,h,Brewer Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,160
+21400832,179,PT09M42.00S,2,1610612750,MIN,201593,Pekovic,N. Pekovic,0,0,0,,0,0.0,0.0,0,v,Pekovic STEAL (2 STL),,,1,161
+21400832,180,PT09M30.00S,2,1610612750,MIN,203897,LaVine,Z. LaVine,29,261,26,Missed,1,0.0,0.0,0,v,MISS LaVine 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,162
+21400832,181,PT09M28.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,h,Ariza REBOUND (Off:1 Def:3),Rebound,Unknown,1,163
+21400832,182,PT09M20.00S,2,1610612745,HOU,203143,Prigioni,P. Prigioni,154,206,26,Missed,1,0.0,0.0,0,h,MISS Prigioni 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,164
+21400832,183,PT09M19.00S,2,1610612750,MIN,201978,Budinger,C. Budinger,0,0,0,,0,0.0,0.0,0,v,Budinger REBOUND (Off:0 Def:2),Rebound,Unknown,1,165
+21400832,184,PT09M13.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,h,Ariza Shooting Block Foul (P2.T2),Foul,Shooting Block,1,166
+21400832,185,PT09M13.00S,2,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,32.0,30.0,62,v,Martin Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,167
+21400832,187,PT09M13.00S,2,1610612745,HOU,201595,Dorsey,J. Dorsey,0,0,0,,0,0.0,0.0,0,h,SUB: Motiejunas FOR Dorsey,Substitution,,0,168
+21400832,188,PT09M13.00S,2,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,32.0,31.0,63,v,Martin Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,169
+21400832,190,PT08M54.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,106,233,26,Missed,1,0.0,0.0,0,h,MISS Ariza 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,170
+21400832,191,PT08M52.00S,2,1610612750,MIN,203897,LaVine,Z. LaVine,0,0,0,,0,0.0,0.0,0,v,LaVine REBOUND (Off:0 Def:1),Rebound,Unknown,1,171
+21400832,192,PT08M37.00S,2,1610612750,MIN,2755,Martin,K. Martin,-93,230,25,Made,1,32.0,34.0,66,v,Martin 25' 3PT Jump Shot (7 PTS) (Pekovic 1 AST),Made Shot,Jump Shot,1,172
+21400832,193,PT08M28.00S,2,1610612745,HOU,2746,Smith,J. Smith,-27,7,3,Made,1,34.0,34.0,68,h,Smith 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,173
+21400832,194,PT08M28.00S,2,1610612750,MIN,203922,Robinson III,G. Robinson III,0,0,0,,0,0.0,0.0,0,v,Robinson S.FOUL (P1.T1),Foul,Shooting,1,174
+21400832,195,PT08M28.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,175
+21400832,198,PT08M28.00S,2,1610612745,HOU,203143,Prigioni,P. Prigioni,0,0,0,,0,0.0,0.0,0,h,SUB: Terry FOR Prigioni,Substitution,,0,176
+21400832,199,PT08M28.00S,2,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,35.0,34.0,69,h,Smith Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,177
+21400832,201,PT08M13.00S,2,1610612750,MIN,201593,Pekovic,N. Pekovic,18,-3,2,Made,1,35.0,36.0,71,v,Pekovic 2' Layup (6 PTS) (LaVine 1 AST),Made Shot,Layup Shot,1,178
+21400832,202,PT07M54.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,-228,0,0,Missed,1,0.0,0.0,0,h,MISS Ariza  3PT Jump Shot,Missed Shot,Jump Shot,1,179
+21400832,203,PT07M52.00S,2,1610612750,MIN,201593,Pekovic,N. Pekovic,0,0,0,,0,0.0,0.0,0,v,Pekovic REBOUND (Off:1 Def:3),Rebound,Unknown,1,180
+21400832,204,PT07M46.00S,2,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0.0,0.0,0,h,Brewer P.FOUL (P1.T3),Foul,Personal,1,181
+21400832,205,PT07M46.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,h,SUB: Harden FOR Ariza,Substitution,,0,182
+21400832,206,PT07M46.00S,2,1610612750,MIN,201978,Budinger,C. Budinger,0,0,0,,0,0.0,0.0,0,v,SUB: Wiggins FOR Budinger,Substitution,,0,183
+21400832,207,PT07M36.00S,2,1610612750,MIN,201593,Pekovic,N. Pekovic,0,0,0,,0,0.0,0.0,0,v,Pekovic Traveling Turnover (P2.T7),Turnover,Traveling,1,184
+21400832,208,PT07M29.00S,2,1610612745,HOU,201147,Brewer,C. Brewer,-133,148,20,Missed,1,0.0,0.0,0,h,MISS Brewer 20' Jump Shot,Missed Shot,Jump Shot,1,185
+21400832,209,PT07M28.00S,2,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:2 Def:0),Rebound,Unknown,1,186
+21400832,210,PT07M27.00S,2,1610612745,HOU,2746,Smith,J. Smith,21,0,2,Made,1,37.0,36.0,73,h,Smith 2' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,1,187
+21400832,211,PT07M08.00S,2,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,v,Martin Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,188
+21400832,211,PT07M08.00S,2,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith STEAL (2 STL),,,1,189
+21400832,212,PT07M04.00S,2,1610612750,MIN,203922,Robinson III,G. Robinson III,0,0,0,,0,0.0,0.0,0,v,Robinson S.FOUL (P2.T2),Foul,Shooting,1,190
+21400832,213,PT07M04.00S,2,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,38.0,36.0,74,h,Brewer Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,191
+21400832,215,PT07M04.00S,2,1610612750,MIN,203922,Robinson III,G. Robinson III,0,0,0,,0,0.0,0.0,0,v,SUB: Dieng FOR Robinson,Substitution,,0,192
+21400832,216,PT07M04.00S,2,1610612750,MIN,203897,LaVine,Z. LaVine,0,0,0,,0,0.0,0.0,0,v,SUB: Rubio FOR LaVine,Substitution,,0,193
+21400832,217,PT07M04.00S,2,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,SUB: Jones FOR Smith,Substitution,,0,194
+21400832,218,PT07M04.00S,2,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,39.0,36.0,75,h,Brewer Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,195
+21400832,220,PT06M41.00S,2,1610612750,MIN,201937,Rubio,R. Rubio,125,149,19,Missed,1,0.0,0.0,0,v,MISS Rubio 19' Jump Shot,Missed Shot,Jump Shot,1,196
+21400832,221,PT06M39.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden REBOUND (Off:0 Def:4),Rebound,Unknown,1,197
+21400832,222,PT06M34.00S,2,1610612745,HOU,1891,Terry,J. Terry,170,178,25,Missed,1,0.0,0.0,0,h,MISS Terry 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,198
+21400832,223,PT06M32.00S,2,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0.0,0.0,0,v,Rubio REBOUND (Off:0 Def:5),Rebound,Unknown,1,199
+21400832,224,PT06M11.00S,2,1610612750,MIN,2755,Martin,K. Martin,45,39,6,Missed,1,0.0,0.0,0,v,MISS Martin 6' Running Jump Shot,Missed Shot,Running Jump Shot,1,200
+21400832,225,PT06M09.00S,2,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,v,Dieng REBOUND (Off:1 Def:1),Rebound,Unknown,1,201
+21400832,226,PT06M09.00S,2,1610612750,MIN,203476,Dieng,G. Dieng,45,30,5,Made,1,39.0,38.0,77,v,Dieng 5' Jump Shot (4 PTS),Made Shot,Jump Shot,1,202
+21400832,227,PT05M53.00S,2,1610612745,HOU,1891,Terry,J. Terry,-185,168,25,Missed,1,0.0,0.0,0,h,MISS Terry 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,203
+21400832,228,PT05M51.00S,2,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0.0,0.0,0,v,Rubio REBOUND (Off:0 Def:6),Rebound,Unknown,1,204
+21400832,229,PT05M40.00S,2,1610612750,MIN,201593,Pekovic,N. Pekovic,48,6,5,Missed,1,0.0,0.0,0,v,MISS Pekovic 5' Jump Shot,Missed Shot,Jump Shot,1,205
+21400832,230,PT05M38.00S,2,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,0.0,0.0,0,h,Jones REBOUND (Off:4 Def:2),Rebound,Unknown,1,206
+21400832,231,PT05M33.00S,2,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,v,Martin S.FOUL (P1.T3),Foul,Shooting,1,207
+21400832,232,PT05M33.00S,2,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,208
+21400832,236,PT05M33.00S,2,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0.0,0.0,0,h,MISS Motiejunas Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,209
+21400832,237,PT05M33.00S,2,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Rebound,Rebound,Normal Rebound,0,210
+21400832,238,PT05M33.00S,2,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0.0,0.0,0,h,MISS Motiejunas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,211
+21400832,240,PT05M33.00S,2,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,v,Dieng REBOUND (Off:1 Def:2),Rebound,Unknown,1,212
+21400832,241,PT05M12.00S,2,1610612750,MIN,203952,Wiggins,A. Wiggins,23,12,3,Missed,1,0.0,0.0,0,v,MISS Wiggins 3' Layup,Missed Shot,Layup Shot,1,213
+21400832,241,PT05M12.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden BLOCK (3 BLK),,,1,214
+21400832,242,PT05M12.00S,2,0,,1610612750,,,0,0,0,,0,0.0,0.0,0,v,Timberwolves Rebound,Rebound,Unknown,0,215
+21400832,243,PT05M09.00S,2,1610612750,MIN,2755,Martin,K. Martin,-7,0,1,Made,1,39.0,40.0,79,v,Martin 1' Layup (9 PTS) (Pekovic 2 AST),Made Shot,Layup Shot,1,216
+21400832,244,PT04M45.00S,2,1610612745,HOU,201935,Harden,J. Harden,70,238,25,Missed,1,0.0,0.0,0,h,MISS Harden 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,217
+21400832,245,PT04M43.00S,2,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,v,Dieng REBOUND (Off:1 Def:3),Rebound,Unknown,1,218
+21400832,246,PT04M39.00S,2,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,v,Wiggins Out of Bounds Lost Ball Turnover (P2.T9),Turnover,Out of Bounds Lost Ball Turnover,1,219
+21400832,247,PT04M29.00S,2,1610612745,HOU,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,220
+21400832,247,PT04M29.00S,2,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0.0,0.0,0,v,Rubio STEAL (2 STL),,,1,221
+21400832,248,PT04M24.00S,2,1610612750,MIN,203952,Wiggins,A. Wiggins,0,1,0,Made,1,39.0,42.0,81,v,Wiggins  Slam Dunk (10 PTS) (Dieng 1 AST),Made Shot,Slam Dunk Shot,1,222
+21400832,249,PT04M05.00S,2,1610612745,HOU,1891,Terry,J. Terry,-229,0,0,Made,1,42.0,42.0,84,h,Terry  3PT Jump Shot (3 PTS) (Harden 5 AST),Made Shot,Jump Shot,1,223
+21400832,251,PT03M50.00S,2,1610612750,MIN,201593,Pekovic,N. Pekovic,-90,15,9,Made,1,42.0,44.0,86,v,Pekovic 9' Turnaround Fadeaway (8 PTS) (Martin 2 AST),Made Shot,Turnaround Fadeaway shot,1,224
+21400832,252,PT03M33.00S,2,1610612745,HOU,201935,Harden,J. Harden,-21,36,4,Made,1,44.0,44.0,88,h,Harden 4' Turnaround Jump Shot (6 PTS),Made Shot,Turnaround Jump Shot,1,225
+21400832,253,PT03M33.00S,2,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,v,Wiggins S.FOUL (P2.T4),Foul,Shooting,1,226
+21400832,254,PT03M33.00S,2,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0.0,0.0,0,h,SUB: Ariza FOR Brewer,Substitution,,0,227
+21400832,255,PT03M33.00S,2,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0.0,0.0,0,h,SUB: Smith FOR Motiejunas,Substitution,,0,228
+21400832,257,PT03M33.00S,2,0,,1610612750,,,0,0,0,,0,0.0,0.0,0,v,Timberwolves Timeout: Regular (Reg.2 Short 1),Timeout,Regular,0,229
+21400832,262,PT03M33.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,45.0,44.0,89,h,Harden Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,230
+21400832,264,PT03M13.00S,2,1610612750,MIN,201593,Pekovic,N. Pekovic,0,0,0,,0,0.0,0.0,0,v,Pekovic Bad Pass Turnover (P3.T10),Turnover,Bad Pass,1,231
+21400832,265,PT03M04.00S,2,1610612750,MIN,201593,Pekovic,N. Pekovic,0,0,0,,0,0.0,0.0,0,v,Pekovic S.FOUL (P2.PN),Foul,Shooting,1,232
+21400832,266,PT03M04.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,46.0,44.0,90,h,Harden Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,233
+21400832,268,PT03M04.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,MISS Harden Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,234
+21400832,270,PT03M04.00S,2,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,v,Dieng REBOUND (Off:1 Def:4),Rebound,Unknown,1,235
+21400832,271,PT02M50.00S,2,1610612750,MIN,2755,Martin,K. Martin,124,149,19,Missed,1,0.0,0.0,0,v,MISS Martin 19' Jump Shot,Missed Shot,Jump Shot,1,236
+21400832,272,PT02M48.00S,2,1610612750,MIN,201593,Pekovic,N. Pekovic,0,0,0,,0,0.0,0.0,0,v,Pekovic REBOUND (Off:2 Def:3),Rebound,Unknown,1,237
+21400832,273,PT02M45.00S,2,1610612750,MIN,201593,Pekovic,N. Pekovic,24,0,2,Missed,1,0.0,0.0,0,v,MISS Pekovic 2' Layup,Missed Shot,Layup Shot,1,238
+21400832,275,PT02M44.00S,2,1610612750,MIN,201593,Pekovic,N. Pekovic,0,0,0,,0,0.0,0.0,0,v,Pekovic REBOUND (Off:3 Def:3),Rebound,Unknown,1,239
+21400832,274,PT02M44.00S,2,1610612750,MIN,201593,Pekovic,N. Pekovic,-5,6,1,Missed,1,0.0,0.0,0,v,MISS Pekovic 1' Tip Shot,Missed Shot,Tip Shot,1,240
+21400832,274,PT02M44.00S,2,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith BLOCK (1 BLK),,,1,241
+21400832,277,PT02M43.00S,2,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,v,Dieng REBOUND (Off:2 Def:4),Rebound,Unknown,1,242
+21400832,276,PT02M43.00S,2,1610612750,MIN,203476,Dieng,G. Dieng,18,-5,2,Missed,1,0.0,0.0,0,v,MISS Dieng 2' Tip Shot,Missed Shot,Tip Shot,1,243
+21400832,278,PT02M40.00S,2,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,v,Dieng REBOUND (Off:3 Def:4),Rebound,Unknown,1,244
+21400832,279,PT02M32.00S,2,1610612750,MIN,203952,Wiggins,A. Wiggins,-111,179,21,Made,1,46.0,46.0,92,v,Wiggins 21' Jump Shot (12 PTS) (Dieng 2 AST),Made Shot,Jump Shot,1,245
+21400832,280,PT02M25.00S,2,1610612745,HOU,2746,Smith,J. Smith,18,246,25,Made,1,49.0,46.0,95,h,Smith 25' 3PT Jump Shot (10 PTS) (Harden 6 AST),Made Shot,Jump Shot,1,246
+21400832,281,PT02M10.00S,2,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,v,Martin Bad Pass Turnover (P4.T11),Turnover,Bad Pass,1,247
+21400832,281,PT02M10.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,h,Ariza STEAL (3 STL),,,1,248
+21400832,282,PT02M05.00S,2,1610612745,HOU,2772,Ariza,T. Ariza,0,1,0,Made,1,51.0,46.0,97,h,Ariza  Dunk (7 PTS) (Terry 2 AST),Made Shot,Dunk Shot,1,249
+21400832,283,PT01M50.00S,2,1610612750,MIN,203952,Wiggins,A. Wiggins,24,6,2,Made,1,51.0,48.0,99,v,Wiggins 2' Layup (14 PTS) (Rubio 3 AST),Made Shot,Layup Shot,1,250
+21400832,284,PT01M36.00S,2,1610612745,HOU,2746,Smith,J. Smith,149,208,26,Missed,1,0.0,0.0,0,h,MISS Smith 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,251
+21400832,285,PT01M33.00S,2,0,,1610612750,,,0,0,0,,0,0.0,0.0,0,v,Timberwolves Rebound,Rebound,Unknown,0,252
+21400832,287,PT01M26.00S,2,1610612745,HOU,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry P.FOUL (P2.T4),Foul,Personal,1,253
+21400832,288,PT01M21.00S,2,1610612750,MIN,201937,Rubio,R. Rubio,-147,44,15,Made,1,51.0,50.0,101,v,Rubio 15' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,254
+21400832,289,PT01M02.00S,2,1610612745,HOU,2746,Smith,J. Smith,-15,15,2,Missed,1,0.0,0.0,0,h,MISS Smith 2' Layup,Missed Shot,Layup Shot,1,255
+21400832,290,PT01M01.00S,2,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,v,Dieng REBOUND (Off:3 Def:5),Rebound,Unknown,1,256
+21400832,291,PT00M56.90S,2,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0.0,0.0,0,v,Rubio Bad Pass Turnover (P3.T12),Turnover,Bad Pass,1,257
+21400832,291,PT00M56.90S,2,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,0.0,0.0,0,h,Jones STEAL (1 STL),,,1,258
+21400832,292,PT00M47.90S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,259
+21400832,292,PT00M47.90S,2,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,v,Martin STEAL (1 STL),,,1,260
+21400832,293,PT00M45.60S,2,1610612750,MIN,2755,Martin,K. Martin,-8,9,1,Made,1,51.0,52.0,103,v,Martin 1' Layup (11 PTS),Made Shot,Layup Shot,1,261
+21400832,294,PT00M45.60S,2,1610612745,HOU,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry S.FOUL (P3.PN),Foul,Shooting,1,262
+21400832,295,PT00M45.60S,2,1610612745,HOU,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry T.FOUL (P3.PN),Foul,Technical,0,263
+21400832,296,PT00M45.60S,2,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,51.0,53.0,104,v,Martin Free Throw Technical (12 PTS),Free Throw,Free Throw Technical,0,264
+21400832,298,PT00M45.60S,2,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,h,SUB: Brewer FOR Ariza,Substitution,,0,265
+21400832,299,PT00M45.60S,2,1610612745,HOU,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,SUB: Prigioni FOR Terry,Substitution,,0,266
+21400832,300,PT00M45.60S,2,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,v,SUB: Payne FOR Wiggins,Substitution,,0,267
+21400832,301,PT00M45.60S,2,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,v,SUB: Budinger FOR Dieng,Substitution,,0,268
+21400832,302,PT00M45.60S,2,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,51.0,54.0,105,v,Martin Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,269
+21400832,305,PT00M34.00S,2,1610612745,HOU,201935,Harden,J. Harden,-11,4,1,Made,1,53.0,54.0,107,h,Harden 1' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,270
+21400832,306,PT00M14.60S,2,1610612745,HOU,203143,Prigioni,P. Prigioni,0,0,0,,0,0.0,0.0,0,h,Prigioni S.FOUL (P1.PN),Foul,Shooting,1,271
+21400832,307,PT00M14.60S,2,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,53.0,55.0,108,v,Rubio Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,272
+21400832,309,PT00M14.60S,2,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,53.0,56.0,109,v,Rubio Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,273
+21400832,311,PT00M00.30S,2,1610612745,HOU,201935,Harden,J. Harden,-82,238,25,Made,1,56.0,56.0,112,h,Harden 25' 3PT Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,1,274
+21400832,312,PT00M00.00S,2,0,,0,,,0,0,0,,0,56.0,56.0,112,,End of 2nd Period (9:11 PM EST),period,end,0,275
+21400832,314,PT12M00.00S,3,0,,0,,,0,0,0,,0,56.0,56.0,112,,Start of 3rd Period (9:26 PM EST),period,start,0,276
+21400832,315,PT11M45.00S,3,1610612745,HOU,202700,Motiejunas,D. Motiejunas,23,11,3,Made,1,58.0,56.0,114,h,Motiejunas 3' Layup (9 PTS) (Harden 7 AST),Made Shot,Layup Shot,1,277
+21400832,316,PT11M27.00S,3,1610612750,MIN,203940,Payne,A. Payne,-105,19,11,Missed,1,0.0,0.0,0,v,MISS Payne 11' Running Jump Shot,Missed Shot,Running Jump Shot,1,278
+21400832,317,PT11M25.00S,3,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0.0,0.0,0,v,Payne REBOUND (Off:3 Def:1),Rebound,Unknown,1,279
+21400832,318,PT11M16.00S,3,1610612750,MIN,203952,Wiggins,A. Wiggins,176,137,22,Missed,1,0.0,0.0,0,v,MISS Wiggins 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,280
+21400832,319,PT11M14.00S,3,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,h,Ariza REBOUND (Off:1 Def:4),Rebound,Unknown,1,281
+21400832,320,PT11M04.00S,3,1610612745,HOU,202700,Motiejunas,D. Motiejunas,21,0,2,Missed,1,0.0,0.0,0,h,MISS Motiejunas 2' Layup,Missed Shot,Layup Shot,1,282
+21400832,321,PT11M02.00S,3,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0.0,0.0,0,v,Payne REBOUND (Off:3 Def:2),Rebound,Unknown,1,283
+21400832,322,PT10M53.00S,3,1610612750,MIN,203940,Payne,A. Payne,88,4,9,Missed,1,0.0,0.0,0,v,MISS Payne 9' Jump Shot,Missed Shot,Jump Shot,1,284
+21400832,323,PT10M52.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden REBOUND (Off:0 Def:5),Rebound,Unknown,1,285
+21400832,324,PT10M38.00S,3,1610612745,HOU,202700,Motiejunas,D. Motiejunas,58,99,11,Made,1,60.0,56.0,116,h,Motiejunas 11' Jump Shot (11 PTS) (Ariza 2 AST),Made Shot,Jump Shot,1,286
+21400832,325,PT10M19.00S,3,1610612750,MIN,2755,Martin,K. Martin,-228,26,0,Missed,1,0.0,0.0,0,v,MISS Martin  3PT Jump Shot,Missed Shot,Jump Shot,1,287
+21400832,326,PT10M17.00S,3,1610612750,MIN,201593,Pekovic,N. Pekovic,0,0,0,,0,0.0,0.0,0,v,Pekovic REBOUND (Off:4 Def:3),Rebound,Unknown,1,288
+21400832,327,PT10M13.00S,3,1610612750,MIN,2755,Martin,K. Martin,-226,17,0,Made,1,60.0,59.0,119,v,Martin  3PT Jump Shot (16 PTS) (Rubio 4 AST),Made Shot,Jump Shot,1,289
+21400832,328,PT09M58.00S,3,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,v,Martin S.FOUL (P2.T1),Foul,Shooting,1,290
+21400832,329,PT09M58.00S,3,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,0.0,0.0,0,h,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,291
+21400832,330,PT09M58.00S,3,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Rebound,Rebound,Normal Rebound,0,292
+21400832,331,PT09M58.00S,3,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0.0,0.0,0,v,SUB: Dieng FOR Payne,Substitution,,0,293
+21400832,332,PT09M58.00S,3,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,0.0,0.0,0,h,MISS Jones Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,294
+21400832,334,PT09M58.00S,3,1610612750,MIN,201593,Pekovic,N. Pekovic,0,0,0,,0,0.0,0.0,0,v,Pekovic REBOUND (Off:4 Def:4),Rebound,Unknown,1,295
+21400832,335,PT09M41.00S,3,1610612750,MIN,203952,Wiggins,A. Wiggins,-221,119,25,Missed,1,0.0,0.0,0,v,MISS Wiggins 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,296
+21400832,336,PT09M40.00S,3,0,,1610612750,,,0,0,0,,0,0.0,0.0,0,v,Timberwolves Rebound,Rebound,Unknown,0,297
+21400832,337,PT09M29.00S,3,1610612750,MIN,201593,Pekovic,N. Pekovic,13,45,5,Missed,1,0.0,0.0,0,v,MISS Pekovic 5' Hook Shot,Missed Shot,Hook Shot,1,298
+21400832,338,PT09M24.00S,3,1610612750,MIN,201593,Pekovic,N. Pekovic,0,0,0,,0,0.0,0.0,0,v,Pekovic REBOUND (Off:5 Def:4),Rebound,Unknown,1,299
+21400832,339,PT09M22.00S,3,1610612750,MIN,201593,Pekovic,N. Pekovic,-4,9,1,Missed,1,0.0,0.0,0,v,MISS Pekovic 1' Layup,Missed Shot,Layup Shot,1,300
+21400832,339,PT09M22.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden BLOCK (4 BLK),,,1,301
+21400832,340,PT09M19.00S,3,1610612745,HOU,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry REBOUND (Off:0 Def:1),Rebound,Unknown,1,302
+21400832,341,PT09M16.00S,3,1610612745,HOU,201935,Harden,J. Harden,-8,6,1,Missed,1,0.0,0.0,0,h,MISS Harden 1' Layup,Missed Shot,Layup Shot,1,303
+21400832,342,PT09M13.00S,3,1610612750,MIN,201593,Pekovic,N. Pekovic,0,0,0,,0,0.0,0.0,0,v,Pekovic REBOUND (Off:5 Def:5),Rebound,Unknown,1,304
+21400832,343,PT09M10.00S,3,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,v,Wiggins Traveling Turnover (P3.T13),Turnover,Traveling,1,305
+21400832,344,PT08M52.00S,3,1610612745,HOU,202700,Motiejunas,D. Motiejunas,81,12,8,Missed,1,0.0,0.0,0,h,MISS Motiejunas 8' Jump Shot,Missed Shot,Jump Shot,1,306
+21400832,345,PT08M51.00S,3,1610612750,MIN,201593,Pekovic,N. Pekovic,0,0,0,,0,0.0,0.0,0,v,Pekovic REBOUND (Off:5 Def:6),Rebound,Unknown,1,307
+21400832,346,PT08M40.00S,3,1610612750,MIN,201593,Pekovic,N. Pekovic,-8,4,1,Made,1,60.0,61.0,121,v,Pekovic 1' Layup (10 PTS) (Dieng 3 AST),Made Shot,Layup Shot,1,308
+21400832,347,PT08M40.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden S.FOUL (P1.T1),Foul,Shooting,1,309
+21400832,348,PT08M40.00S,3,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,310
+21400832,352,PT08M40.00S,3,1610612750,MIN,201593,Pekovic,N. Pekovic,0,0,0,,0,60.0,62.0,122,v,Pekovic Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,311
+21400832,354,PT08M28.00S,3,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0.0,0.0,0,h,Motiejunas Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,312
+21400832,355,PT08M14.00S,3,1610612750,MIN,201593,Pekovic,N. Pekovic,-26,36,4,Missed,1,0.0,0.0,0,v,MISS Pekovic 4' Jump Shot,Missed Shot,Jump Shot,1,313
+21400832,356,PT08M12.00S,3,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0.0,0.0,0,h,Motiejunas REBOUND (Off:0 Def:1),Rebound,Unknown,1,314
+21400832,357,PT08M09.00S,3,1610612745,HOU,203093,Jones,T. Jones,21,0,2,Made,1,62.0,62.0,124,h,Jones 2' Layup (8 PTS) (Harden 8 AST),Made Shot,Layup Shot,1,315
+21400832,358,PT08M09.00S,3,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0.0,0.0,0,v,Rubio S.FOUL (P1.T2),Foul,Shooting,1,316
+21400832,359,PT08M09.00S,3,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,63.0,62.0,125,h,Jones Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,317
+21400832,361,PT07M54.00S,3,1610612750,MIN,203952,Wiggins,A. Wiggins,43,22,5,Missed,1,0.0,0.0,0,v,MISS Wiggins 5' Running Jump Shot,Missed Shot,Running Jump Shot,1,318
+21400832,363,PT07M53.00S,3,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,v,Wiggins REBOUND (Off:1 Def:1),Rebound,Unknown,1,319
+21400832,362,PT07M53.00S,3,1610612750,MIN,203952,Wiggins,A. Wiggins,0,11,1,Missed,1,0.0,0.0,0,v,MISS Wiggins 1' Tip Shot,Missed Shot,Tip Shot,1,320
+21400832,364,PT07M52.00S,3,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,h,Ariza REBOUND (Off:1 Def:5),Rebound,Unknown,1,321
+21400832,365,PT07M46.00S,3,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,v,Martin S.FOUL (P3.T3),Foul,Shooting,1,322
+21400832,366,PT07M46.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,MISS Harden Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,323
+21400832,367,PT07M46.00S,3,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Rebound,Rebound,Normal Rebound,0,324
+21400832,368,PT07M46.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,64.0,62.0,126,h,Harden Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,325
+21400832,370,PT07M26.00S,3,1610612750,MIN,201937,Rubio,R. Rubio,-207,126,24,Missed,1,0.0,0.0,0,v,MISS Rubio 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,326
+21400832,371,PT07M25.00S,3,1610612750,MIN,201593,Pekovic,N. Pekovic,0,0,0,,0,0.0,0.0,0,v,Pekovic REBOUND (Off:6 Def:6),Rebound,Unknown,1,327
+21400832,372,PT07M18.00S,3,1610612750,MIN,201937,Rubio,R. Rubio,-226,-3,0,Missed,1,0.0,0.0,0,v,MISS Rubio  3PT Jump Shot,Missed Shot,Jump Shot,1,328
+21400832,373,PT07M17.00S,3,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,0.0,0.0,0,h,Jones REBOUND (Off:4 Def:3),Rebound,Unknown,1,329
+21400832,374,PT07M11.00S,3,1610612745,HOU,1891,Terry,J. Terry,-210,138,25,Made,1,67.0,62.0,129,h,Terry 25' 3PT Jump Shot (6 PTS) (Harden 9 AST),Made Shot,Jump Shot,1,330
+21400832,375,PT06M48.00S,3,1610612750,MIN,201593,Pekovic,N. Pekovic,105,1,11,Missed,1,0.0,0.0,0,v,MISS Pekovic 11' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,331
+21400832,376,PT06M46.00S,3,1610612745,HOU,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry REBOUND (Off:0 Def:2),Rebound,Unknown,1,332
+21400832,377,PT06M41.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden Out of Bounds Lost Ball Turnover (P3.T9),Turnover,Out of Bounds Lost Ball Turnover,1,333
+21400832,378,PT06M24.00S,3,1610612750,MIN,203476,Dieng,G. Dieng,-78,149,17,Missed,1,0.0,0.0,0,v,MISS Dieng 17' Jump Shot,Missed Shot,Jump Shot,1,334
+21400832,379,PT06M23.00S,3,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0.0,0.0,0,h,Motiejunas REBOUND (Off:0 Def:2),Rebound,Unknown,1,335
+21400832,380,PT06M18.00S,3,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,0.0,0.0,0,h,Jones Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,336
+21400832,380,PT06M18.00S,3,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,v,Dieng STEAL (1 STL),,,1,337
+21400832,381,PT06M12.00S,3,1610612750,MIN,2755,Martin,K. Martin,-210,135,25,Missed,1,0.0,0.0,0,v,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,338
+21400832,382,PT06M10.00S,3,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,v,Dieng REBOUND (Off:4 Def:5),Rebound,Unknown,1,339
+21400832,383,PT06M10.00S,3,1610612745,HOU,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry S.FOUL (P4.T2),Foul,Shooting,1,340
+21400832,384,PT06M10.00S,3,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,67.0,63.0,130,v,Dieng Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,341
+21400832,386,PT06M10.00S,3,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0.0,0.0,0,h,SUB: Smith FOR Motiejunas,Substitution,,0,342
+21400832,387,PT06M10.00S,3,1610612745,HOU,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,SUB: Prigioni FOR Terry,Substitution,,0,343
+21400832,388,PT06M10.00S,3,1610612750,MIN,201593,Pekovic,N. Pekovic,0,0,0,,0,0.0,0.0,0,v,SUB: Payne FOR Pekovic,Substitution,,0,344
+21400832,389,PT06M10.00S,3,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,v,MISS Dieng Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,345
+21400832,391,PT06M10.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden REBOUND (Off:0 Def:6),Rebound,Unknown,1,346
+21400832,392,PT06M00.00S,3,1610612745,HOU,2746,Smith,J. Smith,-16,74,8,Made,1,69.0,63.0,132,h,Smith 8' Running Hook Shot (12 PTS) (Harden 10 AST),Made Shot,Running Hook Shot,1,347
+21400832,393,PT05M45.00S,3,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,v,Wiggins Offensive Charge Foul (P3.T4),Foul,Offensive Charge,1,348
+21400832,394,PT05M45.00S,3,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,v,Wiggins Foul Turnover (P4.T14),Turnover,Foul,1,349
+21400832,395,PT05M45.00S,3,0,,1610612750,,,0,0,0,,0,0.0,0.0,0,v,Timberwolves Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,350
+21400832,399,PT05M34.00S,3,1610612745,HOU,203143,Prigioni,P. Prigioni,170,184,25,Missed,1,0.0,0.0,0,h,MISS Prigioni 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,351
+21400832,400,PT05M32.00S,3,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,v,Wiggins REBOUND (Off:1 Def:2),Rebound,Unknown,1,352
+21400832,401,PT05M18.00S,3,1610612750,MIN,2755,Martin,K. Martin,149,134,20,Missed,1,0.0,0.0,0,v,MISS Martin 20' Jump Shot,Missed Shot,Jump Shot,1,353
+21400832,402,PT05M17.00S,3,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,0.0,0.0,0,h,Jones REBOUND (Off:4 Def:4),Rebound,Unknown,1,354
+21400832,403,PT05M11.00S,3,1610612745,HOU,201935,Harden,J. Harden,-10,-3,1,Missed,1,0.0,0.0,0,h,MISS Harden 1' Driving Layup,Missed Shot,Driving Layup Shot,1,355
+21400832,404,PT05M09.00S,3,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,v,Dieng REBOUND (Off:4 Def:6),Rebound,Unknown,1,356
+21400832,405,PT05M02.00S,3,1610612750,MIN,203952,Wiggins,A. Wiggins,21,9,2,Missed,1,0.0,0.0,0,v,MISS Wiggins 2' Layup,Missed Shot,Layup Shot,1,357
+21400832,406,PT05M01.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden REBOUND (Off:0 Def:7),Rebound,Unknown,1,358
+21400832,407,PT04M43.00S,3,1610612745,HOU,201935,Harden,J. Harden,222,135,26,Made,1,72.0,63.0,135,h,Harden 26' 3PT Jump Shot (17 PTS),Made Shot,Jump Shot,1,359
+21400832,408,PT04M22.00S,3,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith P.FOUL (P2.T3),Foul,Personal,1,360
+21400832,409,PT04M13.00S,3,1610612750,MIN,203952,Wiggins,A. Wiggins,-117,178,21,Missed,1,0.0,0.0,0,v,MISS Wiggins 21' Jump Shot,Missed Shot,Jump Shot,1,361
+21400832,410,PT04M13.00S,3,0,,1610612750,,,0,0,0,,0,0.0,0.0,0,v,Timberwolves Rebound,Rebound,Unknown,0,362
+21400832,411,PT04M13.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden L.B.FOUL (P2.T4),Foul,Loose Ball,1,363
+21400832,412,PT04M04.00S,3,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,0.0,0.0,0,h,Jones S.FOUL (P1.PN),Foul,Shooting,1,364
+21400832,413,PT04M04.00S,3,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,72.0,64.0,136,v,Dieng Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,365
+21400832,415,PT04M04.00S,3,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,v,SUB: LaVine FOR Martin,Substitution,,0,366
+21400832,416,PT04M04.00S,3,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,72.0,65.0,137,v,Dieng Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,367
+21400832,418,PT03M56.00S,3,1610612745,HOU,2772,Ariza,T. Ariza,-8,254,25,Missed,1,0.0,0.0,0,h,MISS Ariza 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,368
+21400832,419,PT03M54.00S,3,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,v,Dieng REBOUND (Off:4 Def:7),Rebound,Unknown,1,369
+21400832,420,PT03M46.00S,3,1610612750,MIN,203940,Payne,A. Payne,42,4,4,Missed,1,0.0,0.0,0,v,MISS Payne 4' Jump Shot,Missed Shot,Jump Shot,1,370
+21400832,421,PT03M45.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden REBOUND (Off:0 Def:8),Rebound,Unknown,1,371
+21400832,422,PT03M45.00S,3,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,v,Dieng P.FOUL (P3.PN),Foul,Personal,1,372
+21400832,423,PT03M45.00S,3,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,h,SUB: Brewer FOR Ariza,Substitution,,0,373
+21400832,424,PT03M45.00S,3,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,0.0,0.0,0,h,SUB: Motiejunas FOR Jones,Substitution,,0,374
+21400832,425,PT03M28.00S,3,1610612745,HOU,201147,Brewer,C. Brewer,111,12,11,Missed,1,0.0,0.0,0,h,MISS Brewer 11' Jump Shot,Missed Shot,Jump Shot,1,375
+21400832,426,PT03M25.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden REBOUND (Off:1 Def:8),Rebound,Unknown,1,376
+21400832,427,PT03M21.00S,3,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0.0,0.0,0,h,Motiejunas Lost Ball Turnover (P2.T11),Turnover,Lost Ball,1,377
+21400832,427,PT03M21.00S,3,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0.0,0.0,0,v,Rubio STEAL (3 STL),,,1,378
+21400832,428,PT03M17.00S,3,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0.0,0.0,0,v,Rubio Bad Pass Turnover (P4.T15),Turnover,Bad Pass,1,379
+21400832,428,PT03M17.00S,3,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith STEAL (3 STL),,,1,380
+21400832,429,PT03M12.00S,3,1610612745,HOU,203143,Prigioni,P. Prigioni,223,135,26,Missed,1,0.0,0.0,0,h,MISS Prigioni 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,381
+21400832,430,PT03M09.00S,3,1610612745,HOU,203143,Prigioni,P. Prigioni,0,0,0,,0,0.0,0.0,0,h,Prigioni REBOUND (Off:2 Def:0),Rebound,Unknown,1,382
+21400832,431,PT03M05.00S,3,1610612745,HOU,2746,Smith,J. Smith,233,74,24,Missed,1,0.0,0.0,0,h,MISS Smith 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,383
+21400832,432,PT03M04.00S,3,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0.0,0.0,0,h,Brewer REBOUND (Off:1 Def:0),Rebound,Unknown,1,384
+21400832,433,PT03M00.00S,3,1610612745,HOU,201935,Harden,J. Harden,190,183,26,Made,1,75.0,65.0,140,h,Harden 26' 3PT Jump Shot (20 PTS) (Brewer 1 AST),Made Shot,Jump Shot,1,385
+21400832,435,PT02M38.00S,3,1610612750,MIN,203940,Payne,A. Payne,-155,195,25,Made,1,75.0,68.0,143,v,Payne 25' 3PT Jump Shot (9 PTS) (Rubio 5 AST),Made Shot,Jump Shot,1,386
+21400832,436,PT02M24.00S,3,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0.0,0.0,0,h,Brewer Bad Pass Turnover (P3.T12),Turnover,Bad Pass,1,387
+21400832,436,PT02M24.00S,3,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,v,Wiggins STEAL (1 STL),,,1,388
+21400832,437,PT02M20.00S,3,1610612750,MIN,203952,Wiggins,A. Wiggins,9,9,1,Made,1,75.0,70.0,145,v,Wiggins 1' Driving Finger Roll Layup (16 PTS),Made Shot,Driving Finger Roll Layup Shot,1,389
+21400832,438,PT02M05.00S,3,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,v,Dieng Shooting Block Foul (P4.PN),Foul,Shooting Block,1,390
+21400832,439,PT02M05.00S,3,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,76.0,70.0,146,h,Motiejunas Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,391
+21400832,441,PT02M05.00S,3,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,v,SUB: Pekovic FOR Dieng,Substitution,,0,392
+21400832,442,PT02M05.00S,3,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0.0,0.0,0,h,MISS Motiejunas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,393
+21400832,444,PT02M05.00S,3,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0.0,0.0,0,v,Rubio REBOUND (Off:0 Def:7),Rebound,Unknown,1,394
+21400832,445,PT02M04.00S,3,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0.0,0.0,0,h,Brewer P.FOUL (P2.PN),Foul,Personal,1,395
+21400832,446,PT02M04.00S,3,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,76.0,71.0,147,v,Rubio Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,396
+21400832,448,PT02M04.00S,3,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,76.0,72.0,148,v,Rubio Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,397
+21400832,451,PT01M52.00S,3,1610612745,HOU,201147,Brewer,C. Brewer,4,22,2,Missed,1,0.0,0.0,0,h,MISS Brewer 2' Layup,Missed Shot,Layup Shot,1,398
+21400832,452,PT01M51.00S,3,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0.0,0.0,0,h,Brewer REBOUND (Off:2 Def:0),Rebound,Unknown,1,399
+21400832,453,PT01M51.00S,3,1610612750,MIN,201593,Pekovic,N. Pekovic,0,0,0,,0,0.0,0.0,0,v,Pekovic S.FOUL (P3.PN),Foul,Shooting,1,400
+21400832,454,PT01M51.00S,3,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,77.0,72.0,149,h,Brewer Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,401
+21400832,456,PT01M51.00S,3,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,78.0,72.0,150,h,Brewer Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,402
+21400832,458,PT01M36.00S,3,1610612750,MIN,203940,Payne,A. Payne,-158,183,24,Missed,1,0.0,0.0,0,v,MISS Payne 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,403
+21400832,459,PT01M34.00S,3,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,v,Wiggins REBOUND (Off:2 Def:2),Rebound,Unknown,1,404
+21400832,460,PT01M29.00S,3,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,v,Wiggins Lost Ball Turnover (P5.T16),Turnover,Lost Ball,1,405
+21400832,460,PT01M29.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden STEAL (1 STL),,,1,406
+21400832,461,PT01M25.00S,3,1610612745,HOU,2746,Smith,J. Smith,11,19,2,Missed,1,0.0,0.0,0,h,MISS Smith 2' Layup,Missed Shot,Layup Shot,1,407
+21400832,462,PT01M23.00S,3,1610612750,MIN,203897,LaVine,Z. LaVine,0,0,0,,0,0.0,0.0,0,v,LaVine REBOUND (Off:0 Def:2),Rebound,Unknown,1,408
+21400832,463,PT01M16.00S,3,1610612750,MIN,201593,Pekovic,N. Pekovic,20,36,4,Missed,1,0.0,0.0,0,v,MISS Pekovic 4' Hook Shot,Missed Shot,Hook Shot,1,409
+21400832,495,PT01M15.00S,3,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0.0,0.0,0,v,Payne REBOUND (Off:4 Def:2),Rebound,Unknown,1,410
+21400832,496,PT01M15.00S,3,1610612750,MIN,203940,Payne,A. Payne,-4,12,1,Missed,1,0.0,0.0,0,v,MISS Payne 1' Layup,Missed Shot,Layup Shot,1,411
+21400832,464,PT01M12.00S,3,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,v,Wiggins REBOUND (Off:3 Def:2),Rebound,Unknown,1,412
+21400832,465,PT01M12.00S,3,1610612750,MIN,203952,Wiggins,A. Wiggins,-12,19,2,Missed,1,0.0,0.0,0,v,MISS Wiggins 2' Layup,Missed Shot,Layup Shot,1,413
+21400832,466,PT01M12.00S,3,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0.0,0.0,0,v,Payne REBOUND (Off:5 Def:2),Rebound,Unknown,1,414
+21400832,467,PT01M12.00S,3,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith S.FOUL (P3.PN),Foul,Shooting,1,415
+21400832,468,PT01M12.00S,3,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0.0,0.0,0,v,MISS Payne Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,416
+21400832,469,PT01M12.00S,3,0,,1610612750,,,0,0,0,,0,0.0,0.0,0,v,Timberwolves Rebound,Rebound,Normal Rebound,0,417
+21400832,470,PT01M12.00S,3,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,v,Wiggins T.FOUL (P3.PN),Foul,Technical,0,418
+21400832,471,PT01M12.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,79.0,72.0,151,h,Harden Free Throw Technical (21 PTS),Free Throw,Free Throw Technical,0,419
+21400832,473,PT01M12.00S,3,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,79.0,73.0,152,v,Payne Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,420
+21400832,475,PT01M04.00S,3,1610612745,HOU,201935,Harden,J. Harden,206,154,26,Missed,1,0.0,0.0,0,h,MISS Harden 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,421
+21400832,476,PT01M03.00S,3,1610612750,MIN,203897,LaVine,Z. LaVine,0,0,0,,0,0.0,0.0,0,v,LaVine REBOUND (Off:0 Def:3),Rebound,Unknown,1,422
+21400832,477,PT00M41.80S,3,1610612750,MIN,203897,LaVine,Z. LaVine,50,190,20,Missed,1,0.0,0.0,0,v,MISS LaVine 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,423
+21400832,478,PT00M40.90S,3,1610612750,MIN,201593,Pekovic,N. Pekovic,0,0,0,,0,0.0,0.0,0,v,Pekovic REBOUND (Off:7 Def:6),Rebound,Unknown,1,424
+21400832,479,PT00M37.90S,3,1610612750,MIN,201593,Pekovic,N. Pekovic,-16,9,2,Missed,1,0.0,0.0,0,v,MISS Pekovic 2' Layup,Missed Shot,Layup Shot,1,425
+21400832,480,PT00M35.70S,3,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0.0,0.0,0,h,Brewer REBOUND (Off:2 Def:1),Rebound,Unknown,1,426
+21400832,481,PT00M33.80S,3,1610612745,HOU,201147,Brewer,C. Brewer,-11,3,1,Made,1,81.0,73.0,154,h,Brewer 1' Layup (8 PTS),Made Shot,Layup Shot,1,427
+21400832,482,PT00M26.50S,3,1610612745,HOU,203143,Prigioni,P. Prigioni,0,0,0,,0,0.0,0.0,0,h,Prigioni P.FOUL (P2.PN),Foul,Personal,1,428
+21400832,483,PT00M26.50S,3,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,81.0,74.0,155,v,Rubio Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,429
+21400832,486,PT00M26.50S,3,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,v,SUB: Budinger FOR Wiggins,Substitution,,0,430
+21400832,487,PT00M26.50S,3,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,81.0,75.0,156,v,Rubio Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,431
+21400832,490,PT00M03.60S,3,1610612745,HOU,201935,Harden,J. Harden,129,214,25,Made,1,84.0,75.0,159,h,Harden 25' 3PT Step Back Jump Shot (24 PTS),Made Shot,Step Back Jump shot,1,432
+21400832,491,PT00M00.00S,3,1610612750,MIN,203897,LaVine,Z. LaVine,185,369,41,Missed,1,0.0,0.0,0,v,MISS LaVine 41' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,433
+21400832,492,PT00M00.00S,3,0,,1610612750,,,0,0,0,,0,0.0,0.0,0,v,Timberwolves Rebound,Rebound,Unknown,0,434
+21400832,493,PT00M00.00S,3,0,,0,,,0,0,0,,0,84.0,75.0,159,,End of 3rd Period (9:55 PM EST),period,end,0,435
+21400832,497,PT12M00.00S,4,0,,0,,,0,0,0,,0,84.0,75.0,159,,Start of 4th Period (9:58 PM EST),period,start,0,436
+21400832,499,PT11M37.00S,4,1610612750,MIN,2755,Martin,K. Martin,-204,105,23,Missed,1,0.0,0.0,0,v,MISS Martin 23' Jump Shot,Missed Shot,Jump Shot,1,437
+21400832,500,PT11M35.00S,4,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,h,Ariza REBOUND (Off:1 Def:6),Rebound,Unknown,1,438
+21400832,502,PT11M23.00S,4,1610612745,HOU,2746,Smith,J. Smith,-16,39,4,Made,1,86.0,75.0,161,h,Smith 4' Turnaround Hook Shot (14 PTS) (Ariza 3 AST),Made Shot,Turnaround Hook Shot,1,439
+21400832,503,PT11M08.00S,4,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith Personal Block Foul (P4.T1),Foul,Personal Block,1,440
+21400832,504,PT10M59.00S,4,1610612750,MIN,201593,Pekovic,N. Pekovic,-30,22,4,Made,1,86.0,77.0,163,v,Pekovic 4' Reverse Layup (13 PTS),Made Shot,Reverse Layup Shot,1,441
+21400832,505,PT10M59.00S,4,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0.0,0.0,0,h,Motiejunas S.FOUL (P2.T2),Foul,Shooting,1,442
+21400832,506,PT10M59.00S,4,0,,505,,,0,0,0,,0,0.0,0.0,0,,Support Ruling,Instant Replay,Support Ruling,0,443
+21400832,507,PT10M59.00S,4,1610612750,MIN,201593,Pekovic,N. Pekovic,0,0,0,,0,86.0,78.0,164,v,Pekovic Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,444
+21400832,509,PT10M36.00S,4,1610612750,MIN,203897,LaVine,Z. LaVine,0,0,0,,0,0.0,0.0,0,v,LaVine S.FOUL (P1.T1),Foul,Shooting,1,445
+21400832,510,PT10M36.00S,4,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,87.0,78.0,165,h,Brewer Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,446
+21400832,512,PT10M36.00S,4,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0.0,0.0,0,h,MISS Brewer Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,447
+21400832,514,PT10M36.00S,4,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:3 Def:0),Rebound,Unknown,1,448
+21400832,515,PT10M31.00S,4,1610612745,HOU,201147,Brewer,C. Brewer,18,60,6,Missed,1,0.0,0.0,0,h,MISS Brewer 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,449
+21400832,516,PT10M29.00S,4,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0.0,0.0,0,v,Payne REBOUND (Off:5 Def:3),Rebound,Unknown,1,450
+21400832,517,PT10M11.00S,4,1610612750,MIN,203940,Payne,A. Payne,45,192,20,Missed,1,0.0,0.0,0,v,MISS Payne 20' Jump Shot,Missed Shot,Jump Shot,1,451
+21400832,518,PT10M09.00S,4,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0.0,0.0,0,h,Motiejunas REBOUND (Off:0 Def:3),Rebound,Unknown,1,452
+21400832,519,PT09M54.00S,4,1610612745,HOU,2746,Smith,J. Smith,-180,186,26,Made,1,90.0,78.0,168,h,Smith 26' 3PT Jump Shot (17 PTS) (Prigioni 1 AST),Made Shot,Jump Shot,1,453
+21400832,520,PT09M36.00S,4,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,v,Martin Lost Ball Turnover (P5.T17),Turnover,Lost Ball,1,454
+21400832,520,PT09M36.00S,4,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,h,Ariza STEAL (4 STL),,,1,455
+21400832,521,PT09M30.00S,4,1610612745,HOU,203143,Prigioni,P. Prigioni,20,-2,2,Made,1,92.0,78.0,170,h,Prigioni 2' Layup (2 PTS) (Brewer 2 AST),Made Shot,Layup Shot,1,456
+21400832,522,PT09M30.00S,4,0,,1610612750,,,0,0,0,,0,0.0,0.0,0,v,Timberwolves Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,457
+21400832,524,PT09M30.00S,4,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0.0,0.0,0,v,SUB: Dieng FOR Payne,Substitution,,0,458
+21400832,525,PT09M30.00S,4,1610612750,MIN,201978,Budinger,C. Budinger,0,0,0,,0,0.0,0.0,0,v,SUB: Rubio FOR Budinger,Substitution,,0,459
+21400832,526,PT09M30.00S,4,1610612750,MIN,203897,LaVine,Z. LaVine,0,0,0,,0,0.0,0.0,0,v,SUB: Wiggins FOR LaVine,Substitution,,0,460
+21400832,528,PT09M09.00S,4,1610612750,MIN,201593,Pekovic,N. Pekovic,80,4,8,Missed,1,0.0,0.0,0,v,MISS Pekovic 8' Jump Hook Shot,Missed Shot,Jump Hook Shot,1,461
+21400832,529,PT09M09.00S,4,0,,1610612750,,,0,0,0,,0,0.0,0.0,0,v,Timberwolves Rebound,Rebound,Unknown,0,462
+21400832,530,PT09M09.00S,4,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0.0,0.0,0,h,Motiejunas L.B.FOUL (P3.T3),Foul,Loose Ball,1,463
+21400832,531,PT08M54.00S,4,1610612750,MIN,2755,Martin,K. Martin,-38,186,19,Missed,1,0.0,0.0,0,v,MISS Martin 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,464
+21400832,532,PT08M52.00S,4,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0.0,0.0,0,h,Brewer REBOUND (Off:2 Def:2),Rebound,Unknown,1,465
+21400832,533,PT08M47.00S,4,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0.0,0.0,0,h,Brewer Bad Pass Turnover (P4.T13),Turnover,Bad Pass,1,466
+21400832,533,PT08M47.00S,4,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0.0,0.0,0,v,Rubio STEAL (4 STL),,,1,467
+21400832,534,PT08M41.00S,4,1610612750,MIN,2755,Martin,K. Martin,-207,145,25,Made,1,92.0,81.0,173,v,Martin 25' 3PT Jump Shot (19 PTS) (Rubio 6 AST),Made Shot,Jump Shot,1,468
+21400832,535,PT08M21.00S,4,1610612745,HOU,202700,Motiejunas,D. Motiejunas,56,15,6,Missed,1,0.0,0.0,0,h,MISS Motiejunas 6' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,469
+21400832,536,PT08M19.00S,4,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,v,Dieng REBOUND (Off:4 Def:8),Rebound,Unknown,1,470
+21400832,537,PT08M10.00S,4,1610612750,MIN,201593,Pekovic,N. Pekovic,86,17,9,Missed,1,0.0,0.0,0,v,MISS Pekovic 9' Jump Hook Shot,Missed Shot,Jump Hook Shot,1,471
+21400832,538,PT08M08.00S,4,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,h,Ariza REBOUND (Off:1 Def:7),Rebound,Unknown,1,472
+21400832,540,PT08M02.00S,4,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith Traveling Turnover (P1.T14),Turnover,Traveling,1,473
+21400832,541,PT07M52.00S,4,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0.0,0.0,0,h,Brewer S.FOUL (P3.T4),Foul,Shooting,1,474
+21400832,542,PT07M52.00S,4,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,92.0,82.0,174,v,Wiggins Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,475
+21400832,544,PT07M52.00S,4,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0.0,0.0,0,h,SUB: Jones FOR Motiejunas,Substitution,,0,476
+21400832,545,PT07M52.00S,4,1610612750,MIN,201593,Pekovic,N. Pekovic,0,0,0,,0,0.0,0.0,0,v,SUB: Payne FOR Pekovic,Substitution,,0,477
+21400832,546,PT07M52.00S,4,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,92.0,83.0,175,v,Wiggins Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,478
+21400832,548,PT07M41.00S,4,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0.0,0.0,0,h,Brewer Traveling Turnover (P5.T15),Turnover,Traveling,1,479
+21400832,549,PT07M41.00S,4,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0.0,0.0,0,h,SUB: Harden FOR Brewer,Substitution,,0,480
+21400832,551,PT07M31.00S,4,1610612750,MIN,203952,Wiggins,A. Wiggins,31,165,17,Made,1,92.0,85.0,177,v,Wiggins 17' Jump Shot (20 PTS),Made Shot,Jump Shot,1,481
+21400832,552,PT07M06.00S,4,1610612745,HOU,201935,Harden,J. Harden,12,47,5,Missed,1,0.0,0.0,0,h,MISS Harden 5' Running Jump Shot,Missed Shot,Running Jump Shot,1,482
+21400832,553,PT07M05.00S,4,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,0.0,0.0,0,h,Jones REBOUND (Off:5 Def:4),Rebound,Unknown,1,483
+21400832,554,PT07M02.00S,4,1610612745,HOU,203093,Jones,T. Jones,23,9,2,Missed,1,0.0,0.0,0,h,MISS Jones 2' Layup,Missed Shot,Layup Shot,1,484
+21400832,566,PT07M01.00S,4,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,v,Dieng REBOUND (Off:4 Def:9),Rebound,Unknown,1,485
+21400832,569,PT06M57.00S,4,1610612750,MIN,2755,Martin,K. Martin,-170,48,18,Missed,1,0.0,0.0,0,v,MISS Martin 18' Jump Shot,Missed Shot,Jump Shot,1,486
+21400832,556,PT06M54.00S,4,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,v,Dieng REBOUND (Off:5 Def:9),Rebound,Unknown,1,487
+21400832,586,PT06M52.00S,4,1610612750,MIN,2755,Martin,K. Martin,-234,61,24,Missed,1,0.0,0.0,0,v,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,488
+21400832,557,PT06M48.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden REBOUND (Off:1 Def:9),Rebound,Unknown,1,489
+21400832,558,PT06M43.00S,4,1610612745,HOU,2746,Smith,J. Smith,-3,59,6,Missed,1,0.0,0.0,0,h,MISS Smith 6' Jump Shot,Missed Shot,Jump Shot,1,490
+21400832,604,PT06M42.00S,4,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,0.0,0.0,0,h,Jones REBOUND (Off:6 Def:4),Rebound,Unknown,1,491
+21400832,608,PT06M41.00S,4,1610612745,HOU,2746,Smith,J. Smith,-19,12,2,Missed,1,0.0,0.0,0,h,MISS Smith 2' Layup,Missed Shot,Layup Shot,1,492
+21400832,559,PT06M37.00S,4,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0.0,0.0,0,v,Payne REBOUND (Off:5 Def:4),Rebound,Unknown,1,493
+21400832,560,PT06M28.00S,4,1610612750,MIN,201937,Rubio,R. Rubio,-147,146,21,Missed,1,0.0,0.0,0,v,MISS Rubio 21' Jump Shot,Missed Shot,Jump Shot,1,494
+21400832,561,PT06M27.00S,4,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,0.0,0.0,0,h,Jones REBOUND (Off:6 Def:5),Rebound,Unknown,1,495
+21400832,562,PT06M21.00S,4,1610612745,HOU,2772,Ariza,T. Ariza,-183,175,25,Missed,1,0.0,0.0,0,h,MISS Ariza 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,496
+21400832,563,PT06M19.00S,4,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,v,Wiggins REBOUND (Off:3 Def:3),Rebound,Unknown,1,497
+21400832,564,PT06M12.00S,4,1610612750,MIN,203952,Wiggins,A. Wiggins,-202,134,24,Made,1,92.0,88.0,180,v,Wiggins 24' 3PT Jump Shot (23 PTS) (Dieng 4 AST),Made Shot,Jump Shot,1,498
+21400832,565,PT06M12.00S,4,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,499
+21400832,568,PT06M12.00S,4,1610612745,HOU,203143,Prigioni,P. Prigioni,0,0,0,,0,0.0,0.0,0,h,SUB: Terry FOR Prigioni,Substitution,,0,500
+21400832,570,PT05M50.00S,4,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,v,Wiggins S.FOUL (P4.T2),Foul,Shooting,1,501
+21400832,571,PT05M50.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,93.0,88.0,181,h,Harden Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,0,502
+21400832,573,PT05M50.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,94.0,88.0,182,h,Harden Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,0,503
+21400832,575,PT05M35.00S,4,1610612750,MIN,203952,Wiggins,A. Wiggins,23,53,6,Missed,1,0.0,0.0,0,v,MISS Wiggins 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,504
+21400832,576,PT05M32.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden REBOUND (Off:1 Def:10),Rebound,Unknown,1,505
+21400832,577,PT05M26.00S,4,1610612745,HOU,2746,Smith,J. Smith,163,190,25,Missed,1,0.0,0.0,0,h,MISS Smith 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,506
+21400832,578,PT05M24.00S,4,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,v,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,507
+21400832,579,PT05M18.00S,4,1610612750,MIN,2755,Martin,K. Martin,77,12,8,Missed,1,0.0,0.0,0,v,MISS Martin 8' Running Jump Shot,Missed Shot,Running Jump Shot,1,508
+21400832,580,PT05M16.00S,4,1610612745,HOU,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry REBOUND (Off:0 Def:3),Rebound,Unknown,1,509
+21400832,581,PT05M10.00S,4,1610612745,HOU,2772,Ariza,T. Ariza,203,164,26,Missed,1,0.0,0.0,0,h,MISS Ariza 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,510
+21400832,582,PT05M09.00S,4,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0.0,0.0,0,v,Payne REBOUND (Off:5 Def:5),Rebound,Unknown,1,511
+21400832,583,PT05M09.00S,4,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,0.0,0.0,0,h,Jones P.FOUL (P2.PN),Foul,Personal,1,512
+21400832,584,PT05M09.00S,4,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0.0,0.0,0,v,MISS Payne Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,513
+21400832,585,PT05M09.00S,4,0,,1610612750,,,0,0,0,,0,0.0,0.0,0,v,Timberwolves Rebound,Rebound,Normal Rebound,0,514
+21400832,587,PT05M09.00S,4,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,94.0,89.0,183,v,Payne Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,515
+21400832,589,PT04M56.00S,4,1610612745,HOU,1891,Terry,J. Terry,214,137,25,Made,1,97.0,89.0,186,h,Terry 25' 3PT Jump Shot (9 PTS) (Smith 3 AST),Made Shot,Jump Shot,1,516
+21400832,590,PT04M27.00S,4,1610612750,MIN,203940,Payne,A. Payne,39,22,4,Missed,1,0.0,0.0,0,v,MISS Payne 4' Running Layup,Missed Shot,Running Layup Shot,1,517
+21400832,591,PT04M26.00S,4,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:3 Def:1),Rebound,Unknown,1,518
+21400832,592,PT04M08.00S,4,1610612745,HOU,201935,Harden,J. Harden,-92,119,15,Missed,1,0.0,0.0,0,h,MISS Harden 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,519
+21400832,593,PT04M06.00S,4,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0.0,0.0,0,v,Rubio REBOUND (Off:0 Def:8),Rebound,Unknown,1,520
+21400832,594,PT04M03.00S,4,1610612750,MIN,203952,Wiggins,A. Wiggins,0,6,1,Made,1,97.0,91.0,188,v,Wiggins 1' Layup (25 PTS) (Rubio 7 AST),Made Shot,Layup Shot,1,521
+21400832,595,PT04M03.00S,4,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith S.FOUL (P5.PN),Foul,Shooting,1,522
+21400832,596,PT04M03.00S,4,1610612750,MIN,203940,Payne,A. Payne,0,0,0,,0,0.0,0.0,0,v,SUB: Pekovic FOR Payne,Substitution,,0,523
+21400832,597,PT04M03.00S,4,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,97.0,92.0,189,v,Wiggins Free Throw 1 of 1 (26 PTS),Free Throw,Free Throw 1 of 1,0,524
+21400832,600,PT03M51.00S,4,1610612745,HOU,2746,Smith,J. Smith,217,134,26,Missed,1,0.0,0.0,0,h,MISS Smith 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,525
+21400832,601,PT03M49.00S,4,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0.0,0.0,0,v,Rubio REBOUND (Off:0 Def:9),Rebound,Unknown,1,526
+21400832,602,PT03M41.00S,4,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith P.FOUL (P6.PN),Foul,Personal,1,527
+21400832,603,PT03M41.00S,4,1610612745,HOU,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,SUB: Motiejunas FOR Smith,Substitution,,0,528
+21400832,605,PT03M41.00S,4,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,97.0,93.0,190,v,Rubio Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,529
+21400832,607,PT03M41.00S,4,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,97.0,94.0,191,v,Rubio Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,530
+21400832,610,PT03M32.00S,4,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,h,Ariza Out of Bounds Lost Ball Turnover (P2.T16),Turnover,Out of Bounds Lost Ball Turnover,1,531
+21400832,611,PT03M21.00S,4,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0.0,0.0,0,h,Motiejunas P.FOUL (P4.PN),Foul,Personal,1,532
+21400832,612,PT03M21.00S,4,1610612750,MIN,201593,Pekovic,N. Pekovic,0,0,0,,0,97.0,95.0,192,v,Pekovic Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,533
+21400832,614,PT03M21.00S,4,1610612750,MIN,201593,Pekovic,N. Pekovic,0,0,0,,0,97.0,96.0,193,v,Pekovic Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,534
+21400832,616,PT03M06.00S,4,1610612745,HOU,1891,Terry,J. Terry,-224,30,0,Missed,1,0.0,0.0,0,h,MISS Terry  3PT Jump Shot,Missed Shot,Jump Shot,1,535
+21400832,618,PT03M05.00S,4,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,0.0,0.0,0,h,Jones REBOUND (Off:7 Def:5),Rebound,Unknown,1,536
+21400832,617,PT03M05.00S,4,1610612745,HOU,203093,Jones,T. Jones,10,9,1,Made,1,99.0,96.0,195,h,Jones 1' Tip Shot (11 PTS),Made Shot,Tip Shot,1,537
+21400832,619,PT02M51.00S,4,1610612750,MIN,201937,Rubio,R. Rubio,121,179,22,Missed,1,0.0,0.0,0,v,MISS Rubio 22' Jump Shot,Missed Shot,Jump Shot,1,538
+21400832,620,PT02M49.00S,4,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,0.0,0.0,0,h,Jones REBOUND (Off:7 Def:6),Rebound,Unknown,1,539
+21400832,621,PT02M42.00S,4,1610612745,HOU,201935,Harden,J. Harden,187,1,19,Missed,1,0.0,0.0,0,h,MISS Harden 19' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,540
+21400832,622,PT02M40.00S,4,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,0.0,0.0,0,h,Jones REBOUND (Off:8 Def:6),Rebound,Unknown,1,541
+21400832,623,PT02M39.00S,4,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,v,Dieng S.FOUL (P5.T3),Foul,Shooting,1,542
+21400832,624,PT02M39.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,543
+21400832,628,PT02M39.00S,4,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,100.0,96.0,196,h,Jones Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,544
+21400832,630,PT02M39.00S,4,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,101.0,96.0,197,h,Jones Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,545
+21400832,632,PT02M31.00S,4,1610612750,MIN,201593,Pekovic,N. Pekovic,0,0,0,,0,0.0,0.0,0,v,Pekovic OFF.Foul (P4),Foul,Offensive,1,546
+21400832,633,PT02M31.00S,4,1610612750,MIN,201593,Pekovic,N. Pekovic,0,0,0,,0,0.0,0.0,0,v,Pekovic Foul Turnover (P4.T18),Turnover,Foul,1,547
+21400832,634,PT02M10.00S,4,1610612745,HOU,2772,Ariza,T. Ariza,239,15,24,Made,1,104.0,96.0,200,h,Ariza 24' 3PT Jump Shot (10 PTS) (Motiejunas 2 AST),Made Shot,Jump Shot,1,548
+21400832,635,PT01M56.00S,4,1610612745,HOU,2772,Ariza,T. Ariza,0,0,0,,0,0.0,0.0,0,h,Ariza P.FOUL (P3.PN),Foul,Personal,1,549
+21400832,636,PT01M56.00S,4,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,104.0,97.0,201,v,Martin Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,550
+21400832,638,PT01M56.00S,4,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,104.0,98.0,202,v,Martin Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,551
+21400832,641,PT01M33.00S,4,1610612745,HOU,201935,Harden,J. Harden,-232,82,25,Made,1,107.0,98.0,205,h,Harden 25' 3PT Step Back Jump Shot (29 PTS),Made Shot,Step Back Jump shot,1,552
+21400832,642,PT01M33.00S,4,0,,1610612750,,,0,0,0,,0,0.0,0.0,0,v,Timberwolves Timeout: Short (Reg.4 Short 2),Timeout,Short,0,553
+21400832,644,PT01M33.00S,4,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,v,SUB: LaVine FOR Dieng,Substitution,,0,554
+21400832,645,PT01M33.00S,4,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0.0,0.0,0,h,SUB: Brewer FOR Motiejunas,Substitution,,0,555
+21400832,646,PT01M27.00S,4,1610612750,MIN,2755,Martin,K. Martin,-49,-2,5,Missed,1,0.0,0.0,0,v,MISS Martin 5' Running Hook Shot,Missed Shot,Running Hook Shot,1,556
+21400832,646,PT01M27.00S,4,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,0.0,0.0,0,h,Jones BLOCK (2 BLK),,,1,557
+21400832,647,PT01M26.00S,4,0,,1610612750,,,0,0,0,,0,0.0,0.0,0,v,Timberwolves Rebound,Rebound,Unknown,0,558
+21400832,648,PT01M21.00S,4,1610612750,MIN,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,v,Martin Bad Pass Turnover (P6.T19),Turnover,Bad Pass,1,559
+21400832,650,PT01M01.00S,4,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,v,Wiggins S.FOUL (P5.T4),Foul,Shooting,1,560
+21400832,651,PT01M01.00S,4,0,,650,,,0,0,0,,0,0.0,0.0,0,,Support Ruling,Instant Replay,Support Ruling,0,561
+21400832,652,PT01M01.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,108.0,98.0,206,h,Harden Free Throw 1 of 3 (30 PTS),Free Throw,Free Throw 1 of 3,0,562
+21400832,654,PT01M01.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,MISS Harden Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,0,563
+21400832,655,PT01M01.00S,4,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Rebound,Rebound,Normal Rebound,0,564
+21400832,656,PT01M01.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,109.0,98.0,207,h,Harden Free Throw 3 of 3 (31 PTS),Free Throw,Free Throw 3 of 3,0,565
+21400832,658,PT01M01.00S,4,0,,1610612750,,,0,0,0,,0,0.0,0.0,0,v,Timberwolves Timeout: Regular (Reg.5 Short 2),Timeout,Regular,0,566
+21400832,660,PT00M59.90S,4,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0.0,0.0,0,v,Rubio Bad Pass Turnover (P5.T20),Turnover,Bad Pass,1,567
+21400832,660,PT00M59.90S,4,1610612745,HOU,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry STEAL (1 STL),,,1,568
+21400832,661,PT00M54.90S,4,1610612745,HOU,201147,Brewer,C. Brewer,37,0,4,Missed,1,0.0,0.0,0,h,MISS Brewer 4' Jump Shot,Missed Shot,Jump Shot,1,569
+21400832,663,PT00M53.00S,4,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0.0,0.0,0,h,Brewer REBOUND (Off:3 Def:2),Rebound,Unknown,1,570
+21400832,675,PT00M53.00S,4,1610612745,HOU,201147,Brewer,C. Brewer,4,19,2,Missed,1,0.0,0.0,0,h,MISS Brewer 2' Tip Shot,Missed Shot,Tip Shot,1,571
+21400832,679,PT00M53.00S,4,1610612745,HOU,203093,Jones,T. Jones,0,0,0,,0,0.0,0.0,0,h,Jones REBOUND (Off:9 Def:6),Rebound,Unknown,1,572
+21400832,662,PT00M51.00S,4,1610612745,HOU,203093,Jones,T. Jones,-4,0,0,Made,1,111.0,98.0,209,h,Jones  Tip Shot (15 PTS),Made Shot,Tip Shot,1,573
+21400832,664,PT00M47.70S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden S.FOUL (P3.PN),Foul,Shooting,1,574
+21400832,665,PT00M47.70S,4,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,111.0,99.0,210,v,Wiggins Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,0,575
+21400832,667,PT00M47.70S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,SUB: McDaniels FOR Harden,Substitution,,0,576
+21400832,668,PT00M47.70S,4,1610612750,MIN,201593,Pekovic,N. Pekovic,0,0,0,,0,0.0,0.0,0,v,SUB: Brown FOR Pekovic,Substitution,,0,577
+21400832,669,PT00M47.70S,4,1610612750,MIN,201937,Rubio,R. Rubio,0,0,0,,0,0.0,0.0,0,v,SUB: Robinson FOR Rubio,Substitution,,0,578
+21400832,670,PT00M47.70S,4,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,111.0,100.0,211,v,Wiggins Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,0,579
+21400832,672,PT00M30.60S,4,1610612745,HOU,203909,McDaniels,K. McDaniels,-37,74,8,Missed,1,0.0,0.0,0,h,MISS McDaniels 8' Jump Shot,Missed Shot,Jump Shot,1,580
+21400832,673,PT00M29.60S,4,1610612745,HOU,201147,Brewer,C. Brewer,0,0,0,,0,0.0,0.0,0,h,Brewer REBOUND (Off:4 Def:2),Rebound,Unknown,1,581
+21400832,674,PT00M29.60S,4,1610612745,HOU,201147,Brewer,C. Brewer,21,-5,2,Made,1,113.0,100.0,213,h,Brewer 2' Layup (11 PTS),Made Shot,Layup Shot,1,582
+21400832,676,PT00M15.70S,4,1610612750,MIN,203952,Wiggins,A. Wiggins,17,-2,2,Made,1,113.0,102.0,215,v,Wiggins 2' Driving Layup (30 PTS),Made Shot,Driving Layup Shot,1,583
+21400832,682,PT00M00.00S,4,0,,0,,,0,0,0,,0,113.0,102.0,215,,End of 4th Period (10:36 PM EST),period,end,0,584

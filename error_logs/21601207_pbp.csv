@@ -1,0 +1,411 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+21601207,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (8:13 PM EST),period,start,0,1
+21601207,1,PT12M00.00S,1,1610612749,MIL,1627748,Maker,T. Maker,0,0,0,,0,0.0,0.0,0,h,Jump Ball Maker vs. Zeller: Tip to Middleton,Jump Ball,,1,2
+21601207,2,PT11M45.00S,1,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,0.0,0.0,0,v,Zeller Violation:Kicked Ball (B.Forte),Violation,Kicked Ball,0,3
+21601207,3,PT11M33.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,h,Middleton Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,4
+21601207,3,PT11M33.00S,1,1610612766,CHA,201587,Batum,N. Batum,0,0,0,,0,0.0,0.0,0,v,Batum STEAL (1 STL),,,1,5
+21601207,4,PT11M24.00S,1,1610612749,MIL,1627748,Maker,T. Maker,0,0,0,,0,0.0,0.0,0,h,Maker S.FOUL (P1.T1) (B.Forte),Foul,Shooting,1,6
+21601207,5,PT11M24.00S,1,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,0.0,1.0,1,v,Zeller Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,7
+21601207,7,PT11M24.00S,1,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,0.0,2.0,2,v,Zeller Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,8
+21601207,10,PT11M07.00S,1,1610612749,MIL,1627763,Brogdon,M. Brogdon,-176,190,26,Missed,1,0.0,0.0,0,h,MISS Brogdon 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,9
+21601207,11,PT11M05.00S,1,1610612749,MIL,1627748,Maker,T. Maker,0,0,0,,0,0.0,0.0,0,h,Maker REBOUND (Off:1 Def:0),Rebound,Unknown,1,10
+21601207,12,PT11M03.00S,1,1610612749,MIL,1627748,Maker,T. Maker,-4,11,1,Missed,1,0.0,0.0,0,h,MISS Maker 1' Putback Layup,Missed Shot,Putback Layup Shot,1,11
+21601207,12,PT11M03.00S,1,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,0.0,0.0,0,v,Zeller BLOCK (1 BLK),,,1,12
+21601207,13,PT11M00.00S,1,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,0.0,0.0,0,v,Kidd-Gilchrist REBOUND (Off:0 Def:1),Rebound,Unknown,1,13
+21601207,14,PT10M53.00S,1,1610612766,CHA,101107,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,v,Williams Offensive Charge Foul (P1.T1) (B.Kennedy),Foul,Offensive Charge,1,14
+21601207,15,PT10M53.00S,1,1610612766,CHA,101107,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,v,Williams Foul Turnover (P1.T1),Turnover,Foul,1,15
+21601207,16,PT10M41.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,1,0,Missed,1,0.0,0.0,0,h,MISS Antetokounmpo  Dunk,Missed Shot,Dunk Shot,1,16
+21601207,17,PT10M38.00S,1,1610612766,CHA,101107,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,v,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,17
+21601207,18,PT10M22.00S,1,1610612766,CHA,203469,Zeller,C. Zeller,-129,129,18,Missed,1,0.0,0.0,0,v,MISS Zeller 18' Jump Shot,Missed Shot,Jump Shot,1,18
+21601207,19,PT10M21.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,h,Middleton REBOUND (Off:0 Def:1),Rebound,Unknown,1,19
+21601207,20,PT10M08.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,1,0,Made,1,2.0,2.0,4,h,Antetokounmpo  Driving Dunk (2 PTS) (Snell 1 AST),Made Shot,Driving Dunk Shot,1,20
+21601207,21,PT09M47.00S,1,1610612766,CHA,201587,Batum,N. Batum,123,115,17,Made,1,2.0,4.0,6,v,Batum 17' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,21
+21601207,22,PT09M32.00S,1,1610612749,MIL,1627763,Brogdon,M. Brogdon,-1,16,2,Missed,1,0.0,0.0,0,h,MISS Brogdon 2' Layup,Missed Shot,Layup Shot,1,22
+21601207,22,PT09M32.00S,1,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,0.0,0.0,0,v,Kidd-Gilchrist BLOCK (1 BLK),,,1,23
+21601207,23,PT09M29.00S,1,1610612766,CHA,203148,Roberts,B. Roberts,0,0,0,,0,0.0,0.0,0,v,Roberts REBOUND (Off:0 Def:1),Rebound,Unknown,1,24
+21601207,24,PT09M20.00S,1,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,-166,21,17,Missed,1,0.0,0.0,0,v,MISS Kidd-Gilchrist 17' Jump Shot,Missed Shot,Jump Shot,1,25
+21601207,25,PT09M18.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,h,Antetokounmpo REBOUND (Off:0 Def:1),Rebound,Unknown,1,26
+21601207,26,PT09M13.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,6,2,1,Made,1,4.0,4.0,8,h,Antetokounmpo 1' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,27
+21601207,27,PT08M54.00S,1,1610612766,CHA,203148,Roberts,B. Roberts,-230,144,27,Missed,1,0.0,0.0,0,v,MISS Roberts 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,28
+21601207,28,PT08M53.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,h,Antetokounmpo REBOUND (Off:0 Def:2),Rebound,Unknown,1,29
+21601207,29,PT08M44.00S,1,1610612749,MIL,203503,Snell,T. Snell,-35,269,27,Made,1,7.0,4.0,11,h,Snell 27' 3PT Jump Shot (3 PTS) (Maker 1 AST),Made Shot,Jump Shot,1,30
+21601207,30,PT08M28.00S,1,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,-2,3,0,Made,1,7.0,6.0,13,v,Kidd-Gilchrist  Driving Layup (2 PTS) (Roberts 1 AST),Made Shot,Driving Layup Shot,1,31
+21601207,31,PT08M14.00S,1,1610612749,MIL,203503,Snell,T. Snell,0,0,0,,0,0.0,0.0,0,h,Snell Illegal Screen Turnover (P1.T2),Turnover,Illegal Screen Turnover,1,32
+21601207,32,PT08M02.00S,1,1610612766,CHA,201587,Batum,N. Batum,-1,262,26,Missed,1,0.0,0.0,0,v,MISS Batum 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,33
+21601207,33,PT08M00.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,h,Middleton REBOUND (Off:0 Def:2),Rebound,Unknown,1,34
+21601207,34,PT07M53.00S,1,1610612749,MIL,1627748,Maker,T. Maker,0,1,0,Made,1,9.0,6.0,15,h,Maker  Dunk (2 PTS) (Middleton 1 AST),Made Shot,Dunk Shot,1,35
+21601207,35,PT07M38.00S,1,1610612766,CHA,203148,Roberts,B. Roberts,0,0,0,,0,0.0,0.0,0,v,Roberts Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,36
+21601207,36,PT07M24.00S,1,1610612749,MIL,1627763,Brogdon,M. Brogdon,-114,213,24,Made,1,12.0,6.0,18,h,Brogdon 24' 3PT Jump Shot (3 PTS) (Antetokounmpo 1 AST),Made Shot,Jump Shot,1,37
+21601207,37,PT07M03.00S,1,1610612766,CHA,101107,Williams,M. Williams,-32,51,6,Made,1,12.0,8.0,20,v,Williams 6' Driving Floating Jump Shot (2 PTS) (Batum 1 AST),Made Shot,Driving Floating Jump Shot,1,38
+21601207,38,PT06M49.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,233,3,0,Made,1,15.0,8.0,23,h,Middleton  3PT Jump Shot (3 PTS) (Snell 2 AST),Made Shot,Jump Shot,1,39
+21601207,39,PT06M44.00S,1,0,,1610612766,,,0,0,0,,0,0.0,0.0,0,v,Hornets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,40
+21601207,42,PT06M31.00S,1,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,-138,101,17,Missed,1,0.0,0.0,0,v,MISS Kidd-Gilchrist 17' Jump Shot,Missed Shot,Jump Shot,1,41
+21601207,43,PT06M30.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,h,Antetokounmpo REBOUND (Off:0 Def:3),Rebound,Unknown,1,42
+21601207,44,PT06M15.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-12,183,18,Missed,1,0.0,0.0,0,h,MISS Antetokounmpo 18' Jump Shot,Missed Shot,Jump Shot,1,43
+21601207,45,PT06M14.00S,1,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,0.0,0.0,0,v,Zeller REBOUND (Off:0 Def:1),Rebound,Unknown,1,44
+21601207,46,PT06M02.00S,1,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,150,70,17,Missed,1,0.0,0.0,0,v,MISS Kidd-Gilchrist 17' Jump Shot,Missed Shot,Jump Shot,1,45
+21601207,47,PT06M01.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,h,Antetokounmpo REBOUND (Off:0 Def:4),Rebound,Unknown,1,46
+21601207,48,PT05M55.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,h,Antetokounmpo Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,47
+21601207,48,PT05M55.00S,1,1610612766,CHA,203148,Roberts,B. Roberts,0,0,0,,0,0.0,0.0,0,v,Roberts STEAL (1 STL),,,1,48
+21601207,49,PT05M51.00S,1,1610612766,CHA,203148,Roberts,B. Roberts,-4,8,1,Missed,1,0.0,0.0,0,v,MISS Roberts 1' Running Layup,Missed Shot,Running Layup Shot,1,49
+21601207,49,PT05M51.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,h,Antetokounmpo BLOCK (1 BLK),,,1,50
+21601207,50,PT05M51.00S,1,0,,1610612766,,,0,0,0,,0,0.0,0.0,0,v,Hornets Rebound,Rebound,Unknown,0,51
+21601207,51,PT05M51.00S,1,1610612749,MIL,1627748,Maker,T. Maker,0,0,0,,0,0.0,0.0,0,h,SUB: Monroe FOR Maker,Substitution,,0,52
+21601207,52,PT05M51.00S,1,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,0.0,0.0,0,h,SUB: Dellavedova FOR Brogdon,Substitution,,0,53
+21601207,70,PT05M39.00S,1,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,0.0,0.0,0,v,Zeller Poss Lost Ball Turnover (P1.T3),Turnover,Poss Lost Ball Turnover,1,54
+21601207,70,PT05M39.00S,1,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,h,Monroe STEAL (1 STL),,,1,55
+21601207,55,PT05M33.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,h,Middleton Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,56
+21601207,55,PT05M33.00S,1,1610612766,CHA,201587,Batum,N. Batum,0,0,0,,0,0.0,0.0,0,v,Batum STEAL (2 STL),,,1,57
+21601207,56,PT05M30.00S,1,1610612766,CHA,201587,Batum,N. Batum,0,0,0,,0,0.0,0.0,0,v,Batum Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,58
+21601207,56,PT05M30.00S,1,1610612749,MIL,203503,Snell,T. Snell,0,0,0,,0,0.0,0.0,0,h,Snell STEAL (1 STL),,,1,59
+21601207,77,PT05M25.00S,1,1610612749,MIL,203503,Snell,T. Snell,0,0,0,,0,0.0,0.0,0,h,Snell Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,60
+21601207,77,PT05M25.00S,1,1610612766,CHA,201587,Batum,N. Batum,0,0,0,,0,0.0,0.0,0,v,Batum STEAL (3 STL),,,1,61
+21601207,57,PT05M21.00S,1,1610612766,CHA,101107,Williams,M. Williams,-235,-1,24,Made,1,15.0,11.0,26,v,Williams 24' 3PT Jump Shot (5 PTS) (Batum 2 AST),Made Shot,Jump Shot,1,62
+21601207,58,PT04M54.00S,1,1610612749,MIL,203521,Dellavedova,M. Dellavedova,-9,61,6,Made,1,17.0,11.0,28,h,Dellavedova 6' Turnaround Jump Shot (2 PTS) (Antetokounmpo 2 AST),Made Shot,Turnaround Jump Shot,1,63
+21601207,59,PT04M38.00S,1,1610612766,CHA,201587,Batum,N. Batum,-119,136,18,Missed,1,0.0,0.0,0,v,MISS Batum 18' Jump Shot,Missed Shot,Jump Shot,1,64
+21601207,60,PT04M37.00S,1,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,0.0,0.0,0,v,Kidd-Gilchrist REBOUND (Off:1 Def:1),Rebound,Unknown,1,65
+21601207,61,PT04M25.00S,1,1610612766,CHA,203148,Roberts,B. Roberts,91,124,15,Made,1,17.0,13.0,30,v,Roberts 15' Jump Shot (2 PTS),Made Shot,Jump Shot,1,66
+21601207,62,PT04M12.00S,1,1610612749,MIL,203503,Snell,T. Snell,215,124,25,Missed,1,0.0,0.0,0,h,MISS Snell 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,67
+21601207,63,PT04M11.00S,1,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,0.0,0.0,0,v,Zeller REBOUND (Off:0 Def:2),Rebound,Unknown,1,68
+21601207,64,PT04M05.00S,1,1610612766,CHA,203148,Roberts,B. Roberts,0,0,0,,0,0.0,0.0,0,v,Roberts Out of Bounds Lost Ball Turnover (P2.T5),Turnover,Out of Bounds Lost Ball Turnover,1,69
+21601207,65,PT04M05.00S,1,1610612766,CHA,101107,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,v,SUB: Kaminsky FOR Williams,Substitution,,0,70
+21601207,66,PT04M05.00S,1,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,0.0,0.0,0,v,SUB: Plumlee FOR Zeller,Substitution,,0,71
+21601207,67,PT04M05.00S,1,1610612766,CHA,203148,Roberts,B. Roberts,0,0,0,,0,0.0,0.0,0,v,SUB: Weber FOR Roberts,Substitution,,0,72
+21601207,68,PT03M51.00S,1,1610612749,MIL,202328,Monroe,G. Monroe,-30,-1,3,Missed,1,0.0,0.0,0,h,MISS Monroe 3' Jump Shot,Missed Shot,Jump Shot,1,73
+21601207,69,PT03M49.00S,1,1610612766,CHA,203101,Plumlee,M. Plumlee,0,0,0,,0,0.0,0.0,0,v,Plumlee REBOUND (Off:0 Def:1),Rebound,Unknown,1,74
+21601207,71,PT03M27.00S,1,1610612766,CHA,1627362,Weber,B. Weber,69,52,9,Made,1,17.0,15.0,32,v,Weber 9' Jump Shot (2 PTS),Made Shot,Jump Shot,1,75
+21601207,72,PT03M06.00S,1,1610612749,MIL,203521,Dellavedova,M. Dellavedova,230,11,0,Missed,1,0.0,0.0,0,h,MISS Dellavedova  3PT Jump Shot,Missed Shot,Jump Shot,1,76
+21601207,73,PT03M05.00S,1,1610612766,CHA,1627362,Weber,B. Weber,0,0,0,,0,0.0,0.0,0,v,Weber REBOUND (Off:0 Def:1),Rebound,Unknown,1,77
+21601207,74,PT03M03.00S,1,1610612749,MIL,203521,Dellavedova,M. Dellavedova,0,0,0,,0,0.0,0.0,0,h,Dellavedova P.FOUL (P1.T2) (E.Dalen),Foul,Personal,1,78
+21601207,75,PT02M53.00S,1,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,35,70,8,Made,1,17.0,17.0,34,v,Kidd-Gilchrist 8' Fadeaway Jumper (4 PTS) (Weber 1 AST),Made Shot,Fadeaway Jump Shot,1,79
+21601207,76,PT02M53.00S,1,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,80
+21601207,78,PT02M53.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,h,SUB: Beasley FOR Middleton,Substitution,,0,81
+21601207,79,PT02M53.00S,1,1610612766,CHA,201587,Batum,N. Batum,0,0,0,,0,0.0,0.0,0,v,SUB: Lamb FOR Batum,Substitution,,0,82
+21601207,81,PT02M37.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,h,Jump Ball Antetokounmpo vs. Kidd-Gilchrist: Tip to Snell,Jump Ball,,1,83
+21601207,82,PT02M27.00S,1,1610612749,MIL,201563,Beasley,M. Beasley,-119,7,12,Missed,1,0.0,0.0,0,h,MISS Beasley 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,84
+21601207,83,PT02M26.00S,1,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,0.0,0.0,0,v,Kidd-Gilchrist REBOUND (Off:1 Def:2),Rebound,Unknown,1,85
+21601207,84,PT02M12.00S,1,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,-169,0,17,Missed,1,0.0,0.0,0,v,MISS Kaminsky 17' Jump Shot,Missed Shot,Jump Shot,1,86
+21601207,85,PT02M11.00S,1,0,,1610612766,,,0,0,0,,0,0.0,0.0,0,v,Hornets Rebound,Rebound,Unknown,0,87
+21601207,86,PT02M07.00S,1,1610612766,CHA,203087,Lamb,J. Lamb,114,41,12,Made,1,17.0,19.0,36,v,Lamb 12' Jump Bank Shot (2 PTS) (Kidd-Gilchrist 1 AST),Made Shot,Jump Bank Shot,1,88
+21601207,87,PT01M56.00S,1,1610612749,MIL,203521,Dellavedova,M. Dellavedova,-215,84,23,Missed,1,0.0,0.0,0,h,MISS Dellavedova 23' Jump Shot,Missed Shot,Jump Shot,1,89
+21601207,88,PT01M54.00S,1,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,0,0,0,,0,0.0,0.0,0,v,Kaminsky REBOUND (Off:0 Def:1),Rebound,Unknown,1,90
+21601207,89,PT01M46.00S,1,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,h,Monroe P.FOUL (P1.T3) (E.Dalen),Foul,Personal,1,91
+21601207,90,PT01M33.00S,1,1610612766,CHA,203101,Plumlee,M. Plumlee,0,1,0,Made,1,17.0,21.0,38,v,Plumlee  Cutting Dunk Shot (2 PTS) (Weber 2 AST),Made Shot,Cutting Dunk Shot,1,92
+21601207,91,PT01M16.00S,1,1610612749,MIL,201563,Beasley,M. Beasley,-124,90,15,Missed,1,0.0,0.0,0,h,MISS Beasley 15' Jump Shot,Missed Shot,Jump Shot,1,93
+21601207,92,PT01M15.00S,1,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,0.0,0.0,0,v,Kidd-Gilchrist REBOUND (Off:1 Def:3),Rebound,Unknown,1,94
+21601207,93,PT01M05.00S,1,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,-110,247,27,Missed,1,0.0,0.0,0,v,MISS Kaminsky 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,95
+21601207,94,PT01M04.00S,1,1610612749,MIL,201563,Beasley,M. Beasley,0,0,0,,0,0.0,0.0,0,h,Beasley REBOUND (Off:0 Def:1),Rebound,Unknown,1,96
+21601207,95,PT00M55.90S,1,1610612749,MIL,202328,Monroe,G. Monroe,-11,3,1,Missed,1,0.0,0.0,0,h,MISS Monroe 1' Layup,Missed Shot,Layup Shot,1,97
+21601207,96,PT00M53.60S,1,1610612749,MIL,203521,Dellavedova,M. Dellavedova,0,0,0,,0,0.0,0.0,0,h,Dellavedova REBOUND (Off:1 Def:0),Rebound,Unknown,1,98
+21601207,432,PT00M53.00S,1,1610612749,MIL,202328,Monroe,G. Monroe,8,-1,1,Missed,1,0.0,0.0,0,h,MISS Monroe 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,0,99
+21601207,433,PT00M53.00S,1,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,h,Monroe REBOUND (Off:1 Def:0),Rebound,Unknown,0,100
+21601207,97,PT00M50.60S,1,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,0.0,0.0,0,v,Kidd-Gilchrist S.FOUL (P1.T2) (E.Dalen),Foul,Shooting,1,101
+21601207,98,PT00M50.60S,1,1610612749,MIL,203503,Snell,T. Snell,0,0,0,,0,0.0,0.0,0,h,SUB: Terry FOR Snell,Substitution,,0,102
+21601207,99,PT00M50.60S,1,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,h,MISS Monroe Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,103
+21601207,100,PT00M50.60S,1,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Rebound,Rebound,Normal Rebound,0,104
+21601207,101,PT00M50.60S,1,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,18.0,21.0,39,h,Monroe Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,105
+21601207,103,PT00M38.40S,1,1610612766,CHA,203087,Lamb,J. Lamb,-1,0,0,Made,1,18.0,23.0,41,v,Lamb  Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,106
+21601207,104,PT00M22.90S,1,1610612749,MIL,202328,Monroe,G. Monroe,-4,11,1,Missed,1,0.0,0.0,0,h,MISS Monroe 1' Layup,Missed Shot,Layup Shot,1,107
+21601207,104,PT00M22.90S,1,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,0,0,0,,0,0.0,0.0,0,v,Kaminsky BLOCK (1 BLK),,,1,108
+21601207,105,PT00M19.90S,1,1610612766,CHA,1627362,Weber,B. Weber,0,0,0,,0,0.0,0.0,0,v,Weber REBOUND (Off:0 Def:2),Rebound,Unknown,1,109
+21601207,106,PT00M06.00S,1,1610612749,MIL,201563,Beasley,M. Beasley,0,0,0,,0,0.0,0.0,0,h,Beasley Personal Block Foul (P1.PN) (B.Forte),Foul,Personal Block,1,110
+21601207,107,PT00M06.00S,1,1610612766,CHA,1627362,Weber,B. Weber,0,0,0,,0,18.0,24.0,42,v,Weber Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,111
+21601207,109,PT00M06.00S,1,1610612766,CHA,1627362,Weber,B. Weber,0,0,0,,0,0.0,0.0,0,v,MISS Weber Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,112
+21601207,111,PT00M04.90S,1,1610612766,CHA,1627362,Weber,B. Weber,0,0,0,,0,0.0,0.0,0,v,Weber REBOUND (Off:1 Def:2),Rebound,Unknown,1,113
+21601207,112,PT00M00.00S,1,1610612766,CHA,1627362,Weber,B. Weber,-48,174,18,Missed,1,0.0,0.0,0,v,MISS Weber 18' Jump Shot,Missed Shot,Jump Shot,1,114
+21601207,113,PT00M00.00S,1,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,h,Monroe REBOUND (Off:1 Def:1),Rebound,Unknown,1,115
+21601207,114,PT00M00.00S,1,0,,0,,,0,0,0,,0,18.0,24.0,42,,End of 1st Period (8:35 PM EST),period,end,0,116
+21601207,116,PT12M00.00S,2,0,,0,,,0,0,0,,0,18.0,24.0,42,,Start of 2nd Period (8:38 PM EST),period,start,0,117
+21601207,117,PT11M49.00S,2,1610612749,MIL,203141,Teletovic,M. Teletovic,0,0,0,,0,0.0,0.0,0,h,Teletovic P.FOUL (P1.T1) (E.Dalen),Foul,Personal,1,118
+21601207,118,PT11M43.00S,2,1610612766,CHA,203087,Lamb,J. Lamb,159,210,26,Missed,1,0.0,0.0,0,v,MISS Lamb 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,119
+21601207,119,PT11M42.00S,2,1610612749,MIL,203141,Teletovic,M. Teletovic,0,0,0,,0,0.0,0.0,0,h,Teletovic REBOUND (Off:0 Def:1),Rebound,Unknown,1,120
+21601207,120,PT11M26.00S,2,1610612749,MIL,201563,Beasley,M. Beasley,79,134,16,Missed,1,0.0,0.0,0,h,MISS Beasley 16' Jump Shot,Missed Shot,Jump Shot,1,121
+21601207,121,PT11M25.00S,2,1610612766,CHA,203087,Lamb,J. Lamb,0,0,0,,0,0.0,0.0,0,v,Lamb REBOUND (Off:0 Def:1),Rebound,Unknown,1,122
+21601207,122,PT11M16.00S,2,1610612766,CHA,1626203,Graham,T. Graham,-171,224,28,Made,1,18.0,27.0,45,v,Graham 28' 3PT Jump Shot (3 PTS) (Kaminsky 1 AST),Made Shot,Jump Shot,1,123
+21601207,123,PT11M00.00S,2,1610612749,MIL,203141,Teletovic,M. Teletovic,0,0,0,,0,0.0,0.0,0,h,Teletovic Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,124
+21601207,123,PT11M00.00S,2,1610612766,CHA,203101,Plumlee,M. Plumlee,0,0,0,,0,0.0,0.0,0,v,Plumlee STEAL (1 STL),,,1,125
+21601207,124,PT10M42.00S,2,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,-119,277,30,Missed,1,0.0,0.0,0,v,MISS Kaminsky 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,126
+21601207,125,PT10M40.00S,2,1610612766,CHA,203101,Plumlee,M. Plumlee,0,0,0,,0,0.0,0.0,0,v,Plumlee REBOUND (Off:1 Def:1),Rebound,Unknown,1,127
+21601207,126,PT10M25.00S,2,1610612766,CHA,1626203,Graham,T. Graham,145,82,17,Missed,1,0.0,0.0,0,v,MISS Graham 17' Jump Shot,Missed Shot,Jump Shot,1,128
+21601207,128,PT10M23.00S,2,1610612766,CHA,203087,Lamb,J. Lamb,0,0,0,,0,0.0,0.0,0,v,Lamb REBOUND (Off:1 Def:1),Rebound,Unknown,1,129
+21601207,127,PT10M23.00S,2,1610612766,CHA,203087,Lamb,J. Lamb,-15,4,2,Missed,1,0.0,0.0,0,v,MISS Lamb 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,130
+21601207,130,PT10M21.00S,2,1610612766,CHA,203087,Lamb,J. Lamb,0,0,0,,0,0.0,0.0,0,v,Lamb REBOUND (Off:2 Def:1),Rebound,Unknown,1,131
+21601207,129,PT10M21.00S,2,1610612766,CHA,203087,Lamb,J. Lamb,10,-5,1,Made,1,18.0,29.0,47,v,Lamb 1' Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,132
+21601207,131,PT10M03.00S,2,1610612749,MIL,202328,Monroe,G. Monroe,-27,-16,3,Made,1,20.0,29.0,49,h,Monroe 3' Driving Layup (3 PTS),Made Shot,Driving Layup Shot,1,133
+21601207,132,PT09M39.00S,2,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,-138,100,17,Missed,1,0.0,0.0,0,v,MISS Kaminsky 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,134
+21601207,133,PT09M38.00S,2,1610612766,CHA,203101,Plumlee,M. Plumlee,0,0,0,,0,0.0,0.0,0,v,Plumlee REBOUND (Off:2 Def:1),Rebound,Unknown,1,135
+21601207,134,PT09M20.00S,2,1610612766,CHA,203087,Lamb,J. Lamb,-47,26,5,Missed,1,0.0,0.0,0,v,MISS Lamb 5' Jump Shot,Missed Shot,Jump Shot,1,136
+21601207,135,PT09M19.00S,2,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,h,Monroe REBOUND (Off:1 Def:2),Rebound,Unknown,1,137
+21601207,136,PT09M13.00S,2,1610612749,MIL,201563,Beasley,M. Beasley,-63,51,8,Missed,1,0.0,0.0,0,h,MISS Beasley 8' Jump Shot,Missed Shot,Jump Shot,1,138
+21601207,138,PT09M10.00S,2,1610612749,MIL,201563,Beasley,M. Beasley,0,0,0,,0,0.0,0.0,0,h,Beasley REBOUND (Off:1 Def:1),Rebound,Unknown,1,139
+21601207,137,PT09M10.00S,2,1610612749,MIL,201563,Beasley,M. Beasley,-14,0,1,Missed,1,0.0,0.0,0,h,MISS Beasley 1' Layup,Missed Shot,Layup Shot,1,140
+21601207,140,PT09M09.00S,2,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,h,Monroe REBOUND (Off:2 Def:2),Rebound,Unknown,1,141
+21601207,139,PT09M09.00S,2,1610612749,MIL,202328,Monroe,G. Monroe,-2,3,0,Made,1,22.0,29.0,51,h,Monroe  Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,1,142
+21601207,141,PT08M49.00S,2,1610612766,CHA,1626203,Graham,T. Graham,-4,7,1,Made,1,22.0,31.0,53,v,Graham 1' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,143
+21601207,142,PT08M49.00S,2,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,h,Monroe S.FOUL (P2.T2) (B.Kennedy),Foul,Shooting,1,144
+21601207,143,PT08M49.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,145
+21601207,145,PT08M49.00S,2,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,h,SUB: Henson FOR Monroe,Substitution,,0,146
+21601207,146,PT08M49.00S,2,1610612749,MIL,201563,Beasley,M. Beasley,0,0,0,,0,0.0,0.0,0,h,SUB: Middleton FOR Beasley,Substitution,,0,147
+21601207,147,PT08M49.00S,2,1610612766,CHA,1626203,Graham,T. Graham,0,0,0,,0,22.0,32.0,54,v,Graham Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,148
+21601207,149,PT08M33.00S,2,1610612749,MIL,203141,Teletovic,M. Teletovic,-235,43,24,Missed,1,0.0,0.0,0,h,MISS Teletovic 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,149
+21601207,150,PT08M32.00S,2,1610612766,CHA,1627362,Weber,B. Weber,0,0,0,,0,0.0,0.0,0,v,Weber REBOUND (Off:1 Def:3),Rebound,Unknown,1,150
+21601207,151,PT08M10.00S,2,1610612766,CHA,203101,Plumlee,M. Plumlee,-29,56,6,Missed,1,0.0,0.0,0,v,MISS Plumlee 6' Hook Shot,Missed Shot,Hook Shot,1,151
+21601207,152,PT08M09.00S,2,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0.0,0.0,0,h,Henson REBOUND (Off:0 Def:1),Rebound,Unknown,1,152
+21601207,153,PT07M59.00S,2,1610612749,MIL,1891,Terry,J. Terry,-227,136,26,Made,1,25.0,32.0,57,h,Terry 26' 3PT Jump Shot (3 PTS) (Middleton 2 AST),Made Shot,Jump Shot,1,153
+21601207,154,PT07M43.00S,2,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0.0,0.0,0,h,Henson S.FOUL (P1.T3) (E.Dalen),Foul,Shooting,1,154
+21601207,155,PT07M43.00S,2,1610612766,CHA,1626203,Graham,T. Graham,0,0,0,,0,0.0,0.0,0,v,MISS Graham Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,155
+21601207,156,PT07M43.00S,2,0,,1610612766,,,0,0,0,,0,0.0,0.0,0,v,Hornets Rebound,Rebound,Normal Rebound,0,156
+21601207,157,PT07M43.00S,2,1610612766,CHA,1626203,Graham,T. Graham,0,0,0,,0,25.0,33.0,58,v,Graham Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,157
+21601207,159,PT07M35.00S,2,1610612766,CHA,1627362,Weber,B. Weber,0,0,0,,0,0.0,0.0,0,v,Weber P.FOUL (P1.T1) (B.Kennedy),Foul,Personal,1,158
+21601207,160,PT07M30.00S,2,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0.0,0.0,0,h,Henson Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,159
+21601207,160,PT07M30.00S,2,1610612766,CHA,1626203,Graham,T. Graham,0,0,0,,0,0.0,0.0,0,v,Graham STEAL (1 STL),,,1,160
+21601207,161,PT07M19.00S,2,1610612766,CHA,203087,Lamb,J. Lamb,-2,0,0,Made,1,25.0,35.0,60,v,Lamb  Driving Layup (8 PTS) (Kaminsky 2 AST),Made Shot,Driving Layup Shot,1,161
+21601207,162,PT07M03.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,h,Middleton Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,162
+21601207,162,PT07M03.00S,2,1610612766,CHA,203087,Lamb,J. Lamb,0,0,0,,0,0.0,0.0,0,v,Lamb STEAL (1 STL),,,1,163
+21601207,163,PT06M55.00S,2,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,10,13,2,Missed,1,0.0,0.0,0,v,MISS Kaminsky 2' Layup,Missed Shot,Layup Shot,1,164
+21601207,164,PT06M55.00S,2,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Rebound,Rebound,Unknown,0,165
+21601207,165,PT06M55.00S,2,1610612766,CHA,203101,Plumlee,M. Plumlee,0,0,0,,0,0.0,0.0,0,v,Plumlee L.B.FOUL (P1.T2) (E.Dalen),Foul,Loose Ball,1,166
+21601207,166,PT06M55.00S,2,1610612749,MIL,203521,Dellavedova,M. Dellavedova,0,0,0,,0,0.0,0.0,0,h,SUB: Antetokounmpo FOR Dellavedova,Substitution,,0,167
+21601207,167,PT06M55.00S,2,1610612749,MIL,203141,Teletovic,M. Teletovic,0,0,0,,0,0.0,0.0,0,h,SUB: Brogdon FOR Teletovic,Substitution,,0,168
+21601207,169,PT06M55.00S,2,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,0,0,0,,0,0.0,0.0,0,v,SUB: Williams FOR Kaminsky,Substitution,,0,169
+21601207,168,PT06M30.00S,2,1610612749,MIL,1891,Terry,J. Terry,-237,95,26,Made,1,28.0,35.0,63,h,Terry 26' 3PT Jump Shot (6 PTS) (Antetokounmpo 3 AST),Made Shot,Jump Shot,1,170
+21601207,170,PT06M10.00S,2,1610612766,CHA,203087,Lamb,J. Lamb,0,0,0,,0,0.0,0.0,0,v,Lamb Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,171
+21601207,170,PT06M10.00S,2,1610612749,MIL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry STEAL (1 STL),,,1,172
+21601207,172,PT05M53.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,240,110,26,Made,1,31.0,35.0,66,h,Middleton 26' 3PT Jump Shot (6 PTS) (Brogdon 1 AST),Made Shot,Jump Shot,1,173
+21601207,173,PT05M46.00S,2,0,,1610612766,,,0,0,0,,0,0.0,0.0,0,v,Hornets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,174
+21601207,175,PT05M46.00S,2,1610612766,CHA,203101,Plumlee,M. Plumlee,0,0,0,,0,0.0,0.0,0,v,SUB: Zeller FOR Plumlee,Substitution,,0,175
+21601207,176,PT05M46.00S,2,1610612766,CHA,1627362,Weber,B. Weber,0,0,0,,0,0.0,0.0,0,v,SUB: Batum FOR Weber,Substitution,,0,176
+21601207,177,PT05M46.00S,2,1610612766,CHA,203087,Lamb,J. Lamb,0,0,0,,0,0.0,0.0,0,v,SUB: Roberts FOR Lamb,Substitution,,0,177
+21601207,179,PT05M38.00S,2,1610612766,CHA,203148,Roberts,B. Roberts,-166,232,29,Made,1,31.0,38.0,69,v,Roberts 29' 3PT Jump Shot (5 PTS) (Batum 3 AST),Made Shot,Jump Shot,1,178
+21601207,180,PT05M16.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,-94,21,10,Missed,1,0.0,0.0,0,h,MISS Middleton 10' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,179
+21601207,181,PT05M15.00S,2,1610612766,CHA,101107,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,v,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,1,180
+21601207,182,PT04M56.00S,2,1610612766,CHA,203469,Zeller,C. Zeller,4,183,18,Missed,1,0.0,0.0,0,v,MISS Zeller 18' Jump Shot,Missed Shot,Jump Shot,1,181
+21601207,183,PT04M55.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,h,Middleton REBOUND (Off:0 Def:3),Rebound,Unknown,1,182
+21601207,184,PT04M46.00S,2,1610612749,MIL,203089,Henson,J. Henson,0,1,0,Made,1,33.0,38.0,71,h,Henson  Dunk (2 PTS) (Antetokounmpo 4 AST),Made Shot,Dunk Shot,1,183
+21601207,185,PT04M22.00S,2,1610612766,CHA,101107,Williams,M. Williams,-237,67,25,Missed,1,0.0,0.0,0,v,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,184
+21601207,186,PT04M21.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,h,Antetokounmpo REBOUND (Off:0 Def:5),Rebound,Unknown,1,185
+21601207,187,PT04M18.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,h,Antetokounmpo Lost Ball Turnover (P2.T9),Turnover,Lost Ball,1,186
+21601207,187,PT04M18.00S,2,1610612766,CHA,1626203,Graham,T. Graham,0,0,0,,0,0.0,0.0,0,v,Graham STEAL (2 STL),,,1,187
+21601207,188,PT04M07.00S,2,1610612766,CHA,203148,Roberts,B. Roberts,92,56,11,Missed,1,0.0,0.0,0,v,MISS Roberts 11' Jump Shot,Missed Shot,Jump Shot,1,188
+21601207,188,PT04M07.00S,2,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0.0,0.0,0,h,Henson BLOCK (1 BLK),,,1,189
+21601207,189,PT04M04.00S,2,1610612749,MIL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry REBOUND (Off:0 Def:1),Rebound,Unknown,1,190
+21601207,190,PT03M53.00S,2,1610612749,MIL,1891,Terry,J. Terry,240,2,24,Made,1,36.0,38.0,74,h,Terry 24' 3PT Jump Shot (9 PTS) (Middleton 3 AST),Made Shot,Jump Shot,1,191
+21601207,191,PT03M33.00S,2,1610612766,CHA,201587,Batum,N. Batum,-210,87,23,Made,1,36.0,40.0,76,v,Batum 23' Jump Shot (4 PTS) (Zeller 1 AST),Made Shot,Jump Shot,1,192
+21601207,192,PT03M18.00S,2,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,0.0,0.0,0,v,Zeller P.FOUL (P1.T3) (B.Forte),Foul,Personal,1,193
+21601207,193,PT03M18.00S,2,1610612766,CHA,1626203,Graham,T. Graham,0,0,0,,0,0.0,0.0,0,v,SUB: Kidd-Gilchrist FOR Graham,Substitution,,0,194
+21601207,194,PT03M18.00S,2,1610612749,MIL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,SUB: Snell FOR Terry,Substitution,,0,195
+21601207,195,PT03M11.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,92,234,25,Missed,1,0.0,0.0,0,h,MISS Middleton 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,196
+21601207,196,PT03M10.00S,2,1610612766,CHA,201587,Batum,N. Batum,0,0,0,,0,0.0,0.0,0,v,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,1,197
+21601207,197,PT02M48.00S,2,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,1,0,Made,1,36.0,42.0,78,v,Kidd-Gilchrist  Driving Hook Shot (6 PTS),Made Shot,Driving Hook Shot,1,198
+21601207,198,PT02M37.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,148,124,19,Made,1,38.0,42.0,80,h,Antetokounmpo 19' Jump Shot (6 PTS),Made Shot,Jump Shot,1,199
+21601207,199,PT02M17.00S,2,1610612766,CHA,203148,Roberts,B. Roberts,-137,16,14,Missed,1,0.0,0.0,0,v,MISS Roberts 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,200
+21601207,200,PT02M16.00S,2,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,0.0,0.0,0,h,Brogdon REBOUND (Off:0 Def:1),Rebound,Unknown,1,201
+21601207,201,PT02M05.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,92,129,16,Made,1,40.0,42.0,82,h,Antetokounmpo 16' Jump Shot (8 PTS),Made Shot,Jump Shot,1,202
+21601207,202,PT01M49.00S,2,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0.0,0.0,0,h,Henson S.FOUL (P2.T4) (B.Kennedy),Foul,Shooting,1,203
+21601207,203,PT01M49.00S,2,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,204
+21601207,205,PT01M49.00S,2,0,,191,,,0,0,0,,0,0.0,0.0,0,,Support Ruling,Instant Replay,Support Ruling,0,205
+21601207,207,PT01M49.00S,2,1610612766,CHA,201587,Batum,N. Batum,0,0,0,,0,0.0,0.0,0,v,MISS Batum Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,206
+21601207,208,PT01M49.00S,2,0,,1610612766,,,0,0,0,,0,0.0,0.0,0,v,Hornets Rebound,Rebound,Normal Rebound,0,207
+21601207,209,PT01M49.00S,2,1610612766,CHA,201587,Batum,N. Batum,0,0,0,,0,0.0,0.0,0,v,MISS Batum Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,208
+21601207,211,PT01M48.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,h,Antetokounmpo REBOUND (Off:0 Def:6),Rebound,Unknown,1,209
+21601207,212,PT01M29.00S,2,1610612749,MIL,203089,Henson,J. Henson,-29,46,5,Missed,1,0.0,0.0,0,h,MISS Henson 5' Hook Shot,Missed Shot,Hook Shot,1,210
+21601207,213,PT01M28.00S,2,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,0.0,0.0,0,v,Zeller REBOUND (Off:0 Def:3),Rebound,Unknown,1,211
+21601207,214,PT01M19.00S,2,1610612766,CHA,201587,Batum,N. Batum,-156,-11,16,Made,1,40.0,44.0,84,v,Batum 16' Fadeaway Jumper (6 PTS),Made Shot,Fadeaway Jump Shot,1,212
+21601207,215,PT01M04.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-52,16,5,Missed,1,0.0,0.0,0,h,MISS Antetokounmpo 5' Hook Shot,Missed Shot,Hook Shot,1,213
+21601207,216,PT01M03.00S,2,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,0.0,0.0,0,v,Kidd-Gilchrist REBOUND (Off:1 Def:4),Rebound,Unknown,1,214
+21601207,217,PT00M57.90S,2,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,-4,3,1,Made,1,40.0,46.0,86,v,Kidd-Gilchrist 1' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,215
+21601207,218,PT00M43.50S,2,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,0.0,0.0,0,v,Hornets T.Foul (Def. 3 Sec Zeller ) (B.Forte),Foul,Defense 3 Second,1,216
+21601207,219,PT00M43.50S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,41.0,46.0,87,h,Middleton Free Throw Technical (7 PTS),Free Throw,Free Throw Technical,0,217
+21601207,221,PT00M31.40S,2,1610612749,MIL,203114,Middleton,K. Middleton,78,33,8,Made,1,43.0,46.0,89,h,Middleton 8' Pullup Jump Shot (9 PTS) (Antetokounmpo 5 AST),Made Shot,Pullup Jump shot,1,218
+21601207,222,PT00M17.70S,2,1610612766,CHA,201587,Batum,N. Batum,0,0,0,,0,0.0,0.0,0,v,Batum Traveling Turnover (P2.T7),Turnover,Traveling,1,219
+21601207,223,PT00M00.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,-173,82,19,Missed,1,0.0,0.0,0,h,MISS Middleton 19' Jump Shot,Missed Shot,Jump Shot,1,220
+21601207,224,PT00M00.00S,2,1610612766,CHA,203148,Roberts,B. Roberts,0,0,0,,0,0.0,0.0,0,v,Roberts REBOUND (Off:0 Def:2),Rebound,Unknown,1,221
+21601207,225,PT00M00.00S,2,0,,0,,,0,0,0,,0,43.0,46.0,89,,End of 2nd Period (9:01 PM EST),period,end,0,222
+21601207,227,PT12M00.00S,3,0,,0,,,0,0,0,,0,43.0,46.0,89,,Start of 3rd Period (9:18 PM EST),period,start,0,223
+21601207,228,PT11M39.00S,3,1610612766,CHA,203148,Roberts,B. Roberts,0,0,0,,0,0.0,0.0,0,v,Roberts Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,224
+21601207,228,PT11M39.00S,3,1610612749,MIL,203503,Snell,T. Snell,0,0,0,,0,0.0,0.0,0,h,Snell STEAL (2 STL),,,1,225
+21601207,229,PT11M33.00S,3,1610612749,MIL,203503,Snell,T. Snell,-4,-5,1,Made,1,45.0,46.0,91,h,Snell 1' Layup (5 PTS) (Antetokounmpo 6 AST),Made Shot,Layup Shot,1,226
+21601207,230,PT11M13.00S,3,1610612766,CHA,203469,Zeller,C. Zeller,-22,43,5,Made,1,45.0,48.0,93,v,Zeller 5' Floating Jump Shot (4 PTS) (Batum 4 AST),Made Shot,Floating Jump shot,1,227
+21601207,231,PT10M50.00S,3,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,8,1,Made,1,47.0,48.0,95,h,Brogdon 1' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,228
+21601207,232,PT10M27.00S,3,1610612766,CHA,201587,Batum,N. Batum,-101,16,10,Missed,1,0.0,0.0,0,v,MISS Batum 10' Step Back Bank Jump Shot,Missed Shot,Step Back Bank Jump Shot,1,229
+21601207,233,PT10M25.00S,3,1610612749,MIL,1627748,Maker,T. Maker,0,0,0,,0,0.0,0.0,0,h,Maker REBOUND (Off:1 Def:1),Rebound,Unknown,1,230
+21601207,234,PT10M05.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,-241,7,24,Made,1,50.0,48.0,98,h,Middleton 24' 3PT Jump Shot (12 PTS) (Brogdon 2 AST),Made Shot,Jump Shot,1,231
+21601207,235,PT09M39.00S,3,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,81,67,11,Made,1,50.0,50.0,100,v,Kidd-Gilchrist 11' Fadeaway Jumper (10 PTS),Made Shot,Fadeaway Jump Shot,1,232
+21601207,236,PT09M22.00S,3,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,0.0,0.0,0,h,Brogdon Lost Ball Turnover (P1.T10),Turnover,Lost Ball,1,233
+21601207,236,PT09M22.00S,3,1610612766,CHA,201587,Batum,N. Batum,0,0,0,,0,0.0,0.0,0,v,Batum STEAL (4 STL),,,1,234
+21601207,237,PT09M17.00S,3,1610612766,CHA,203469,Zeller,C. Zeller,0,8,1,Made,1,50.0,52.0,102,v,Zeller 1' Cutting Layup Shot (6 PTS) (Batum 5 AST),Made Shot,Cutting Layup Shot,1,235
+21601207,238,PT08M54.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,158,-6,16,Missed,1,0.0,0.0,0,h,MISS Middleton 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,236
+21601207,239,PT08M53.00S,3,1610612766,CHA,201587,Batum,N. Batum,0,0,0,,0,0.0,0.0,0,v,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,1,237
+21601207,242,PT08M40.00S,3,1610612766,CHA,101107,Williams,M. Williams,-151,-5,15,Missed,1,0.0,0.0,0,v,MISS Williams 15' Jump Shot,Missed Shot,Jump Shot,1,238
+21601207,243,PT08M38.00S,3,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,0.0,0.0,0,h,Brogdon REBOUND (Off:0 Def:2),Rebound,Unknown,1,239
+21601207,244,PT08M31.00S,3,1610612749,MIL,1627763,Brogdon,M. Brogdon,-17,16,2,Missed,1,0.0,0.0,0,h,MISS Brogdon 2' Layup,Missed Shot,Layup Shot,1,240
+21601207,244,PT08M31.00S,3,1610612766,CHA,101107,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,v,Williams BLOCK (1 BLK),,,1,241
+21601207,245,PT08M31.00S,3,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Rebound,Rebound,Unknown,0,242
+21601207,246,PT08M20.00S,3,1610612749,MIL,1627748,Maker,T. Maker,-56,26,6,Missed,1,0.0,0.0,0,h,MISS Maker 6' Hook Shot,Missed Shot,Hook Shot,1,243
+21601207,247,PT08M19.00S,3,1610612749,MIL,1627748,Maker,T. Maker,0,0,0,,0,0.0,0.0,0,h,Maker REBOUND (Off:2 Def:1),Rebound,Unknown,1,244
+21601207,248,PT08M12.00S,3,1610612749,MIL,203503,Snell,T. Snell,243,-15,24,Made,1,53.0,52.0,105,h,Snell 24' 3PT Jump Shot (8 PTS) (Middleton 4 AST),Made Shot,Jump Shot,1,245
+21601207,249,PT07M47.00S,3,1610612766,CHA,203148,Roberts,B. Roberts,-42,257,26,Missed,1,0.0,0.0,0,v,MISS Roberts 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,246
+21601207,250,PT07M46.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,h,Antetokounmpo REBOUND (Off:0 Def:7),Rebound,Unknown,1,247
+21601207,251,PT07M31.00S,3,1610612749,MIL,1627763,Brogdon,M. Brogdon,-171,229,29,Missed,1,0.0,0.0,0,h,MISS Brogdon 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,248
+21601207,252,PT07M30.00S,3,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,0.0,0.0,0,v,Zeller REBOUND (Off:0 Def:4),Rebound,Unknown,1,249
+21601207,254,PT07M09.00S,3,1610612766,CHA,203148,Roberts,B. Roberts,32,156,16,Missed,1,0.0,0.0,0,v,MISS Roberts 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,250
+21601207,255,PT07M08.00S,3,1610612749,MIL,1627748,Maker,T. Maker,0,0,0,,0,0.0,0.0,0,h,Maker REBOUND (Off:2 Def:2),Rebound,Unknown,1,251
+21601207,256,PT06M53.00S,3,1610612749,MIL,203503,Snell,T. Snell,-24,26,4,Missed,1,0.0,0.0,0,h,MISS Snell 4' Jump Shot,Missed Shot,Jump Shot,1,252
+21601207,257,PT06M52.00S,3,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,0.0,0.0,0,v,Zeller REBOUND (Off:0 Def:5),Rebound,Unknown,1,253
+21601207,258,PT06M44.00S,3,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,-5,1,Made,1,53.0,54.0,107,v,Kidd-Gilchrist 1' Driving Layup (12 PTS) (Williams 1 AST),Made Shot,Driving Layup Shot,1,254
+21601207,259,PT06M30.00S,3,1610612749,MIL,203503,Snell,T. Snell,-99,154,18,Missed,1,0.0,0.0,0,h,MISS Snell 18' Jump Shot,Missed Shot,Jump Shot,1,255
+21601207,261,PT06M29.00S,3,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,0.0,0.0,0,h,Brogdon REBOUND (Off:1 Def:2),Rebound,Unknown,1,256
+21601207,262,PT06M28.00S,3,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,0.0,0.0,0,v,Zeller L.B.FOUL (P2.T1) (B.Forte),Foul,Loose Ball,0,257
+21601207,300,PT06M20.00S,3,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,0.0,0.0,0,h,Brogdon Out of Bounds Lost Ball Turnover (P2.T11),Turnover,Out of Bounds Lost Ball Turnover,0,258
+21601207,265,PT06M04.00S,3,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,-43,8,4,Missed,1,0.0,0.0,0,v,MISS Kidd-Gilchrist 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,259
+21601207,266,PT06M02.00S,3,0,,1610612766,,,0,0,0,,0,0.0,0.0,0,v,Hornets Rebound,Rebound,Unknown,0,260
+21601207,267,PT05M52.00S,3,1610612766,CHA,201587,Batum,N. Batum,-19,178,18,Missed,1,0.0,0.0,0,v,MISS Batum 18' Jump Shot,Missed Shot,Jump Shot,1,261
+21601207,268,PT05M50.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,h,Antetokounmpo REBOUND (Off:0 Def:8),Rebound,Unknown,1,262
+21601207,269,PT05M34.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,h,Antetokounmpo Out of Bounds - Bad Pass Turnover Turnover (P3.T12),Turnover,Out of Bounds - Bad Pass Turnover,1,263
+21601207,270,PT05M34.00S,3,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,264
+21601207,271,PT05M34.00S,3,1610612766,CHA,101107,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,v,SUB: Kaminsky FOR Williams,Substitution,,0,265
+21601207,272,PT05M34.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,h,SUB: Monroe FOR Antetokounmpo,Substitution,,0,266
+21601207,273,PT05M34.00S,3,1610612749,MIL,1627748,Maker,T. Maker,0,0,0,,0,0.0,0.0,0,h,SUB: Teletovic FOR Maker,Substitution,,0,267
+21601207,274,PT05M15.00S,3,1610612766,CHA,201587,Batum,N. Batum,64,259,27,Made,1,53.0,57.0,110,v,Batum 27' 3PT Jump Shot (9 PTS) (Kidd-Gilchrist 2 AST),Made Shot,Jump Shot,1,268
+21601207,275,PT04M52.00S,3,1610612749,MIL,202328,Monroe,G. Monroe,-88,47,10,Missed,1,0.0,0.0,0,h,MISS Monroe 10' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,269
+21601207,276,PT04M50.00S,3,1610612766,CHA,201587,Batum,N. Batum,0,0,0,,0,0.0,0.0,0,v,Batum REBOUND (Off:0 Def:3),Rebound,Unknown,1,270
+21601207,277,PT04M43.00S,3,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,-215,178,28,Missed,1,0.0,0.0,0,v,MISS Kaminsky 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,271
+21601207,278,PT04M41.00S,3,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,h,Monroe REBOUND (Off:2 Def:3),Rebound,Unknown,1,272
+21601207,279,PT04M19.00S,3,1610612749,MIL,203503,Snell,T. Snell,-4,3,1,Made,1,55.0,57.0,112,h,Snell 1' Driving Layup (10 PTS) (Brogdon 3 AST),Made Shot,Driving Layup Shot,1,273
+21601207,280,PT03M57.00S,3,1610612766,CHA,201587,Batum,N. Batum,161,-6,16,Missed,1,0.0,0.0,0,v,MISS Batum 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,274
+21601207,281,PT03M55.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,h,Middleton REBOUND (Off:0 Def:4),Rebound,Unknown,1,275
+21601207,282,PT03M46.00S,3,1610612749,MIL,202328,Monroe,G. Monroe,-2,0,0,Missed,1,0.0,0.0,0,h,MISS Monroe  Layup,Missed Shot,Layup Shot,1,276
+21601207,282,PT03M46.00S,3,1610612766,CHA,201587,Batum,N. Batum,0,0,0,,0,0.0,0.0,0,v,Batum BLOCK (1 BLK),,,1,277
+21601207,283,PT03M43.00S,3,1610612766,CHA,201587,Batum,N. Batum,0,0,0,,0,0.0,0.0,0,v,Batum REBOUND (Off:0 Def:4),Rebound,Unknown,1,278
+21601207,284,PT03M41.00S,3,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,2,0,0,Made,1,55.0,59.0,114,v,Kaminsky  Running Layup (2 PTS) (Batum 6 AST),Made Shot,Running Layup Shot,1,279
+21601207,285,PT03M41.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,h,Middleton S.FOUL (P1.T1) (B.Forte),Foul,Shooting,1,280
+21601207,286,PT03M41.00S,3,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,0.0,0.0,0,v,SUB: Plumlee FOR Zeller,Substitution,,0,281
+21601207,287,PT03M41.00S,3,1610612766,CHA,203148,Roberts,B. Roberts,0,0,0,,0,0.0,0.0,0,v,SUB: Weber FOR Roberts,Substitution,,0,282
+21601207,288,PT03M41.00S,3,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,0.0,0.0,0,h,SUB: Dellavedova FOR Brogdon,Substitution,,0,283
+21601207,289,PT03M41.00S,3,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,0,0,0,,0,55.0,60.0,115,v,Kaminsky Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,284
+21601207,291,PT03M24.00S,3,1610612749,MIL,203503,Snell,T. Snell,236,2,24,Made,1,58.0,60.0,118,h,Snell 24' 3PT Jump Shot (13 PTS) (Monroe 1 AST),Made Shot,Jump Shot,1,285
+21601207,292,PT03M05.00S,3,1610612766,CHA,201587,Batum,N. Batum,120,28,12,Made,1,58.0,62.0,120,v,Batum 12' Turnaround Jump Shot (11 PTS),Made Shot,Turnaround Jump Shot,1,286
+21601207,294,PT02M44.00S,3,1610612749,MIL,203141,Teletovic,M. Teletovic,164,210,27,Missed,1,0.0,0.0,0,h,MISS Teletovic 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,287
+21601207,295,PT02M44.00S,3,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Rebound,Rebound,Unknown,0,288
+21601207,296,PT02M44.00S,3,1610612766,CHA,203101,Plumlee,M. Plumlee,0,0,0,,0,0.0,0.0,0,v,Plumlee L.B.FOUL (P2.T2) (B.Forte),Foul,Loose Ball,1,289
+21601207,298,PT02M44.00S,3,0,,1610612766,,,0,0,0,,0,0.0,0.0,0,v,Hornets Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,290
+21601207,301,PT02M44.00S,3,1610612766,CHA,201587,Batum,N. Batum,0,0,0,,0,0.0,0.0,0,v,SUB: Lamb FOR Batum,Substitution,,0,291
+21601207,303,PT02M36.00S,3,1610612749,MIL,203521,Dellavedova,M. Dellavedova,-79,178,19,Missed,1,0.0,0.0,0,h,MISS Dellavedova 19' Jump Shot,Missed Shot,Jump Shot,1,292
+21601207,304,PT02M35.00S,3,1610612766,CHA,203087,Lamb,J. Lamb,0,0,0,,0,0.0,0.0,0,v,Lamb REBOUND (Off:2 Def:2),Rebound,Unknown,1,293
+21601207,305,PT02M22.00S,3,1610612766,CHA,203101,Plumlee,M. Plumlee,0,1,0,Made,1,58.0,64.0,122,v,Plumlee  Alley Oop Dunk (4 PTS) (Kaminsky 3 AST),Made Shot,Alley Oop Dunk Shot,1,294
+21601207,306,PT02M01.00S,3,1610612749,MIL,203503,Snell,T. Snell,232,75,24,Made,1,61.0,64.0,125,h,Snell 24' 3PT Jump Shot (16 PTS) (Monroe 2 AST),Made Shot,Jump Shot,1,295
+21601207,307,PT01M36.00S,3,1610612766,CHA,1627362,Weber,B. Weber,-235,169,29,Missed,1,0.0,0.0,0,v,MISS Weber 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,296
+21601207,308,PT01M35.00S,3,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,h,Monroe REBOUND (Off:2 Def:4),Rebound,Unknown,1,297
+21601207,309,PT01M26.00S,3,1610612749,MIL,203141,Teletovic,M. Teletovic,220,124,25,Missed,1,0.0,0.0,0,h,MISS Teletovic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,298
+21601207,310,PT01M25.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,h,Middleton REBOUND (Off:1 Def:4),Rebound,Unknown,1,299
+21601207,311,PT01M14.00S,3,1610612749,MIL,203141,Teletovic,M. Teletovic,15,31,3,Missed,1,0.0,0.0,0,h,MISS Teletovic 3' Driving Layup,Missed Shot,Driving Layup Shot,1,300
+21601207,312,PT01M13.00S,3,1610612766,CHA,203101,Plumlee,M. Plumlee,0,0,0,,0,0.0,0.0,0,v,Plumlee REBOUND (Off:2 Def:2),Rebound,Unknown,1,301
+21601207,313,PT00M51.90S,3,1610612766,CHA,203087,Lamb,J. Lamb,91,249,27,Missed,1,0.0,0.0,0,v,MISS Lamb 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,302
+21601207,314,PT00M50.70S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,h,Middleton REBOUND (Off:1 Def:5),Rebound,Unknown,1,303
+21601207,315,PT00M34.70S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,h,Middleton Out of Bounds - Bad Pass Turnover Turnover (P4.T13),Turnover,Out of Bounds - Bad Pass Turnover,1,304
+21601207,316,PT00M34.70S,3,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,0.0,0.0,0,v,SUB: Graham FOR Kidd-Gilchrist,Substitution,,0,305
+21601207,318,PT00M17.60S,3,1610612766,CHA,203087,Lamb,J. Lamb,-130,-5,13,Made,1,61.0,66.0,127,v,Lamb 13' Fadeaway Jumper (10 PTS),Made Shot,Fadeaway Jump Shot,1,306
+21601207,319,PT00M00.00S,3,1610612749,MIL,202328,Monroe,G. Monroe,138,61,15,Missed,1,0.0,0.0,0,h,MISS Monroe 15' Jump Shot,Missed Shot,Jump Shot,1,307
+21601207,320,PT00M00.00S,3,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Rebound,Rebound,Unknown,0,308
+21601207,321,PT00M00.00S,3,0,,0,,,0,0,0,,0,61.0,66.0,127,,End of 3rd Period (9:39 PM EST),period,end,0,309
+21601207,323,PT12M00.00S,4,0,,0,,,0,0,0,,0,61.0,66.0,127,,Start of 4th Period (9:41 PM EST),period,start,0,310
+21601207,324,PT11M44.00S,4,1610612749,MIL,201563,Beasley,M. Beasley,-237,-10,24,Made,1,64.0,66.0,130,h,Beasley 24' 3PT Jump Shot (3 PTS) (Antetokounmpo 7 AST),Made Shot,Jump Shot,1,311
+21601207,325,PT11M30.00S,4,1610612766,CHA,203087,Lamb,J. Lamb,0,1,0,Made,1,64.0,68.0,132,v,Lamb  Cutting Dunk Shot (12 PTS) (Kaminsky 4 AST),Made Shot,Cutting Dunk Shot,1,312
+21601207,326,PT11M08.00S,4,1610612749,MIL,202328,Monroe,G. Monroe,9,7,1,Made,1,66.0,68.0,134,h,Monroe 1' Cutting Layup Shot (7 PTS) (Antetokounmpo 8 AST),Made Shot,Cutting Layup Shot,1,313
+21601207,327,PT11M08.00S,4,1610612766,CHA,203101,Plumlee,M. Plumlee,0,0,0,,0,0.0,0.0,0,v,Plumlee S.FOUL (P3.T1) (E.Dalen),Foul,Shooting,1,314
+21601207,328,PT11M08.00S,4,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,h,MISS Monroe Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,315
+21601207,330,PT11M06.00S,4,1610612766,CHA,203101,Plumlee,M. Plumlee,0,0,0,,0,0.0,0.0,0,v,Plumlee REBOUND (Off:2 Def:3),Rebound,Unknown,1,316
+21601207,331,PT10M48.00S,4,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,-7,75,8,Missed,1,0.0,0.0,0,v,MISS Kaminsky 8' Jump Shot,Missed Shot,Jump Shot,1,317
+21601207,332,PT10M46.00S,4,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,h,Monroe REBOUND (Off:2 Def:5),Rebound,Unknown,1,318
+21601207,333,PT10M34.00S,4,1610612749,MIL,202328,Monroe,G. Monroe,-7,7,1,Made,1,68.0,68.0,136,h,Monroe 1' Reverse Layup (9 PTS) (Antetokounmpo 9 AST),Made Shot,Reverse Layup Shot,1,319
+21601207,334,PT10M34.00S,4,0,,1610612766,,,0,0,0,,0,0.0,0.0,0,v,Hornets Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,320
+21601207,336,PT10M08.00S,4,1610612766,CHA,1626203,Graham,T. Graham,53,262,27,Made,1,68.0,71.0,139,v,Graham 27' 3PT Jump Shot (10 PTS) (Kaminsky 5 AST),Made Shot,Jump Shot,1,321
+21601207,337,PT09M41.00S,4,1610612749,MIL,203521,Dellavedova,M. Dellavedova,-137,223,26,Made,1,71.0,71.0,142,h,Dellavedova 26' 3PT Jump Shot (5 PTS) (Monroe 3 AST),Made Shot,Jump Shot,1,322
+21601207,338,PT09M16.00S,4,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,-215,183,28,Missed,1,0.0,0.0,0,v,MISS Kaminsky 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,323
+21601207,339,PT09M15.00S,4,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Rebound,Rebound,Unknown,0,324
+21601207,340,PT09M00.00S,4,1610612749,MIL,201563,Beasley,M. Beasley,132,47,14,Missed,1,0.0,0.0,0,h,MISS Beasley 14' Jump Shot,Missed Shot,Jump Shot,1,325
+21601207,341,PT08M58.00S,4,1610612766,CHA,203101,Plumlee,M. Plumlee,0,0,0,,0,0.0,0.0,0,v,Plumlee REBOUND (Off:2 Def:4),Rebound,Unknown,1,326
+21601207,342,PT08M48.00S,4,1610612749,MIL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry P.FOUL (P1.T1) (B.Forte),Foul,Personal,1,327
+21601207,343,PT08M37.00S,4,1610612749,MIL,203521,Dellavedova,M. Dellavedova,0,0,0,,0,0.0,0.0,0,h,Dellavedova Personal Take Foul (P2.T2) (B.Kennedy),Foul,Personal Take,1,328
+21601207,344,PT08M29.00S,4,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,9,3,1,Missed,1,0.0,0.0,0,v,MISS Kaminsky 1' Driving Layup,Missed Shot,Driving Layup Shot,1,329
+21601207,345,PT08M27.00S,4,1610612749,MIL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry REBOUND (Off:0 Def:2),Rebound,Unknown,1,330
+21601207,346,PT08M22.00S,4,1610612749,MIL,202328,Monroe,G. Monroe,1,8,1,Made,1,73.0,71.0,144,h,Monroe 1' Reverse Layup (11 PTS) (Terry 1 AST),Made Shot,Reverse Layup Shot,1,331
+21601207,347,PT08M22.00S,4,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,0,0,0,,0,0.0,0.0,0,v,Kaminsky S.FOUL (P1.T2) (B.Kennedy),Foul,Shooting,1,332
+21601207,348,PT08M22.00S,4,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,74.0,71.0,145,h,Monroe Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,333
+21601207,350,PT08M08.00S,4,1610612749,MIL,203521,Dellavedova,M. Dellavedova,0,0,0,,0,0.0,0.0,0,h,Dellavedova Personal Take Foul (P3.T3) (E.Dalen),Foul,Personal Take,1,334
+21601207,351,PT08M06.00S,4,1610612766,CHA,1626203,Graham,T. Graham,-4,8,1,Made,1,74.0,73.0,147,v,Graham 1' Cutting Layup Shot (12 PTS) (Lamb 1 AST),Made Shot,Cutting Layup Shot,1,335
+21601207,352,PT07M41.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,h,Antetokounmpo 3 Second Violation Turnover (P4.T14),Turnover,3 Second Violation,1,336
+21601207,353,PT07M25.00S,4,1610612766,CHA,203087,Lamb,J. Lamb,-52,33,6,Missed,1,0.0,0.0,0,v,MISS Lamb 6' Jump Shot,Missed Shot,Jump Shot,1,337
+21601207,354,PT07M24.00S,4,1610612749,MIL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry REBOUND (Off:0 Def:3),Rebound,Unknown,1,338
+21601207,355,PT07M22.00S,4,1610612749,MIL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry Lost Ball Turnover (P1.T15),Turnover,Lost Ball,1,339
+21601207,355,PT07M22.00S,4,1610612766,CHA,1627362,Weber,B. Weber,0,0,0,,0,0.0,0.0,0,v,Weber STEAL (1 STL),,,1,340
+21601207,356,PT07M14.00S,4,1610612766,CHA,1627362,Weber,B. Weber,56,16,6,Missed,1,0.0,0.0,0,v,MISS Weber 6' Jump Shot,Missed Shot,Jump Shot,1,341
+21601207,357,PT07M13.00S,4,1610612749,MIL,201563,Beasley,M. Beasley,0,0,0,,0,0.0,0.0,0,h,Beasley REBOUND (Off:1 Def:2),Rebound,Unknown,1,342
+21601207,358,PT07M11.00S,4,1610612766,CHA,203101,Plumlee,M. Plumlee,0,0,0,,0,0.0,0.0,0,v,Plumlee P.FOUL (P4.T3) (B.Kennedy),Foul,Personal,1,343
+21601207,359,PT06M57.00S,4,1610612749,MIL,202328,Monroe,G. Monroe,60,151,16,Made,1,76.0,73.0,149,h,Monroe 16' Jump Shot (14 PTS) (Dellavedova 1 AST),Made Shot,Jump Shot,1,344
+21601207,360,PT06M38.00S,4,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,-165,-1,17,Missed,1,0.0,0.0,0,v,MISS Kaminsky 17' Jump Shot,Missed Shot,Jump Shot,1,345
+21601207,361,PT06M37.00S,4,1610612766,CHA,203101,Plumlee,M. Plumlee,0,0,0,,0,0.0,0.0,0,v,Plumlee REBOUND (Off:3 Def:4),Rebound,Unknown,1,346
+21601207,363,PT06M36.00S,4,1610612749,MIL,201563,Beasley,M. Beasley,0,0,0,,0,0.0,0.0,0,h,SUB: Middleton FOR Beasley,Substitution,,0,347
+21601207,364,PT06M30.00S,4,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,25,269,27,Missed,1,0.0,0.0,0,v,MISS Kaminsky 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,348
+21601207,365,PT06M29.00S,4,1610612749,MIL,203521,Dellavedova,M. Dellavedova,0,0,0,,0,0.0,0.0,0,h,Dellavedova REBOUND (Off:1 Def:1),Rebound,Unknown,1,349
+21601207,367,PT06M09.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-6,2,1,Made,1,78.0,73.0,151,h,Antetokounmpo 1' Alley Oop Layup (10 PTS) (Middleton 5 AST),Made Shot,Alley Oop Layup shot,1,350
+21601207,368,PT05M55.00S,4,0,,1610612766,,,0,0,0,,0,0.0,0.0,0,v,Hornets Timeout: Short (Reg.4 Short 1),Timeout,Short,0,351
+21601207,369,PT05M55.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,352
+21601207,370,PT05M37.00S,4,1610612766,CHA,203087,Lamb,J. Lamb,107,169,20,Missed,1,0.0,0.0,0,v,MISS Lamb 20' Jump Shot,Missed Shot,Jump Shot,1,353
+21601207,370,PT05M37.00S,4,1610612749,MIL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry BLOCK (1 BLK),,,1,354
+21601207,371,PT05M35.00S,4,1610612749,MIL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry REBOUND (Off:0 Def:4),Rebound,Unknown,1,355
+21601207,372,PT05M32.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-11,13,2,Missed,1,0.0,0.0,0,h,MISS Antetokounmpo 2' Layup,Missed Shot,Layup Shot,1,356
+21601207,373,PT05M31.00S,4,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,0,0,0,,0,0.0,0.0,0,v,Kaminsky REBOUND (Off:0 Def:2),Rebound,Unknown,1,357
+21601207,374,PT05M23.00S,4,1610612766,CHA,1627362,Weber,B. Weber,0,0,0,,0,0.0,0.0,0,v,Weber Out of Bounds - Bad Pass Turnover Turnover (P1.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,358
+21601207,375,PT05M23.00S,4,1610612766,CHA,1626163,Kaminsky,F. Kaminsky,0,0,0,,0,0.0,0.0,0,v,SUB: Zeller FOR Kaminsky,Substitution,,0,359
+21601207,376,PT05M23.00S,4,1610612766,CHA,203101,Plumlee,M. Plumlee,0,0,0,,0,0.0,0.0,0,v,SUB: Williams FOR Plumlee,Substitution,,0,360
+21601207,377,PT05M23.00S,4,1610612766,CHA,1627362,Weber,B. Weber,0,0,0,,0,0.0,0.0,0,v,SUB: Roberts FOR Weber,Substitution,,0,361
+21601207,378,PT05M23.00S,4,1610612766,CHA,1626203,Graham,T. Graham,0,0,0,,0,0.0,0.0,0,v,SUB: Batum FOR Graham,Substitution,,0,362
+21601207,379,PT05M05.00S,4,1610612749,MIL,1891,Terry,J. Terry,-227,124,26,Made,1,81.0,73.0,154,h,Terry 26' 3PT Jump Shot (12 PTS) (Dellavedova 2 AST),Made Shot,Jump Shot,1,363
+21601207,381,PT04M47.00S,4,1610612749,MIL,203521,Dellavedova,M. Dellavedova,0,0,0,,0,0.0,0.0,0,h,SUB: Brogdon FOR Dellavedova,Substitution,,0,364
+21601207,382,PT04M47.00S,4,1610612766,CHA,203087,Lamb,J. Lamb,0,0,0,,0,0.0,0.0,0,v,SUB: Kidd-Gilchrist FOR Lamb,Substitution,,0,365
+21601207,383,PT04M36.00S,4,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,133,77,15,Missed,1,0.0,0.0,0,v,MISS Kidd-Gilchrist 15' Jump Shot,Missed Shot,Jump Shot,1,366
+21601207,384,PT04M34.00S,4,1610612749,MIL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry REBOUND (Off:0 Def:5),Rebound,Unknown,1,367
+21601207,385,PT04M22.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,130,129,18,Missed,1,0.0,0.0,0,h,MISS Antetokounmpo 18' Jump Shot,Missed Shot,Jump Shot,1,368
+21601207,386,PT04M21.00S,4,1610612766,CHA,201587,Batum,N. Batum,0,0,0,,0,0.0,0.0,0,v,Batum REBOUND (Off:0 Def:5),Rebound,Unknown,1,369
+21601207,387,PT04M17.00S,4,1610612749,MIL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry S.FOUL (P2.T4) (B.Forte),Foul,Shooting,1,370
+21601207,388,PT04M17.00S,4,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,0.0,0.0,0,v,MISS Kidd-Gilchrist Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,371
+21601207,389,PT04M17.00S,4,0,,1610612766,,,0,0,0,,0,0.0,0.0,0,v,Hornets Rebound,Rebound,Normal Rebound,0,372
+21601207,390,PT04M17.00S,4,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,81.0,74.0,155,v,Kidd-Gilchrist Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,373
+21601207,392,PT03M51.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-132,80,15,Missed,1,0.0,0.0,0,h,MISS Antetokounmpo 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,374
+21601207,393,PT03M49.00S,4,1610612766,CHA,101107,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,v,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,1,375
+21601207,394,PT03M36.00S,4,1610612766,CHA,203469,Zeller,C. Zeller,-4,2,0,Missed,1,0.0,0.0,0,v,MISS Zeller  Reverse Layup,Missed Shot,Reverse Layup Shot,1,376
+21601207,395,PT03M34.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,h,Antetokounmpo REBOUND (Off:0 Def:9),Rebound,Unknown,1,377
+21601207,396,PT03M25.00S,4,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,0.0,0.0,0,h,Brogdon Bad Pass Turnover (P3.T16),Turnover,Bad Pass,1,378
+21601207,396,PT03M25.00S,4,1610612766,CHA,203077,Kidd-Gilchrist,M. Kidd-Gilchrist,0,0,0,,0,0.0,0.0,0,v,Kidd-Gilchrist STEAL (1 STL),,,1,379
+21601207,397,PT03M21.00S,4,1610612766,CHA,203469,Zeller,C. Zeller,0,-1,0,Missed,1,0.0,0.0,0,v,MISS Zeller  Running Layup,Missed Shot,Running Layup Shot,1,380
+21601207,398,PT03M19.00S,4,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,h,Monroe REBOUND (Off:2 Def:6),Rebound,Unknown,1,381
+21601207,399,PT02M56.00S,4,1610612749,MIL,1891,Terry,J. Terry,-120,242,27,Made,1,84.0,74.0,158,h,Terry 27' 3PT Jump Shot (15 PTS),Made Shot,Jump Shot,1,382
+21601207,400,PT02M41.00S,4,1610612766,CHA,201587,Batum,N. Batum,76,249,26,Missed,1,0.0,0.0,0,v,MISS Batum 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,383
+21601207,401,PT02M40.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,h,Antetokounmpo REBOUND (Off:0 Def:10),Rebound,Unknown,1,384
+21601207,402,PT02M18.00S,4,1610612749,MIL,1891,Terry,J. Terry,-132,234,27,Missed,1,0.0,0.0,0,h,MISS Terry 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,385
+21601207,403,PT02M18.00S,4,0,,1610612766,,,0,0,0,,0,0.0,0.0,0,v,Hornets Rebound,Rebound,Unknown,0,386
+21601207,404,PT02M18.00S,4,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,387
+21601207,405,PT02M04.00S,4,1610612766,CHA,203469,Zeller,C. Zeller,-55,36,7,Missed,1,0.0,0.0,0,v,MISS Zeller 7' Jump Shot,Missed Shot,Jump Shot,1,388
+21601207,406,PT02M03.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,h,Middleton REBOUND (Off:1 Def:6),Rebound,Unknown,1,389
+21601207,407,PT01M48.00S,4,1610612749,MIL,202328,Monroe,G. Monroe,6,41,4,Made,1,86.0,74.0,160,h,Monroe 4' Hook Shot (16 PTS) (Middleton 6 AST),Made Shot,Hook Shot,1,390
+21601207,408,PT01M38.00S,4,1610612766,CHA,203148,Roberts,B. Roberts,68,21,7,Missed,1,0.0,0.0,0,v,MISS Roberts 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,391
+21601207,409,PT01M36.00S,4,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,0.0,0.0,0,h,Brogdon REBOUND (Off:1 Def:3),Rebound,Unknown,1,392
+21601207,410,PT01M22.00S,4,1610612749,MIL,1891,Terry,J. Terry,-183,198,27,Missed,1,0.0,0.0,0,h,MISS Terry 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,393
+21601207,411,PT01M21.00S,4,1610612766,CHA,101107,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,v,Williams REBOUND (Off:0 Def:4),Rebound,Unknown,1,394
+21601207,412,PT01M08.00S,4,1610612766,CHA,201587,Batum,N. Batum,27,180,18,Missed,1,0.0,0.0,0,v,MISS Batum 18' Jump Shot,Missed Shot,Jump Shot,1,395
+21601207,413,PT01M06.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,h,Antetokounmpo REBOUND (Off:0 Def:11),Rebound,Unknown,1,396
+21601207,414,PT00M54.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,215,136,25,Made,1,89.0,74.0,163,h,Middleton 25' 3PT Jump Shot (15 PTS) (Antetokounmpo 10 AST),Made Shot,Jump Shot,1,397
+21601207,415,PT00M54.00S,4,0,,1610612766,,,0,0,0,,0,0.0,0.0,0,v,Hornets Timeout: Regular (Reg.5 Short 1),Timeout,Regular,0,398
+21601207,417,PT00M54.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,h,SUB: Maker FOR Middleton,Substitution,,0,399
+21601207,418,PT00M54.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,h,SUB: Vaughn FOR Antetokounmpo,Substitution,,0,400
+21601207,419,PT00M54.00S,4,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,0.0,0.0,0,h,SUB: Teletovic FOR Brogdon,Substitution,,0,401
+21601207,420,PT00M54.00S,4,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,h,SUB: Payton II FOR Monroe,Substitution,,0,402
+21601207,421,PT00M54.00S,4,1610612749,MIL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,SUB: Beasley FOR Terry,Substitution,,0,403
+21601207,422,PT00M51.40S,4,1610612766,CHA,203469,Zeller,C. Zeller,-9,-5,1,Made,1,89.0,76.0,165,v,Zeller 1' Cutting Layup Shot (8 PTS) (Batum 7 AST),Made Shot,Cutting Layup Shot,1,404
+21601207,423,PT00M51.40S,4,1610612749,MIL,201563,Beasley,M. Beasley,0,0,0,,0,0.0,0.0,0,h,Beasley S.FOUL (P2.PN) (E.Dalen),Foul,Shooting,1,405
+21601207,424,PT00M51.40S,4,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,89.0,77.0,166,v,Zeller Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,406
+21601207,426,PT00M29.40S,4,1610612749,MIL,203141,Teletovic,M. Teletovic,-56,262,27,Missed,1,0.0,0.0,0,h,MISS Teletovic 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,407
+21601207,427,PT00M28.40S,4,1610612766,CHA,203469,Zeller,C. Zeller,0,0,0,,0,0.0,0.0,0,v,Zeller REBOUND (Off:0 Def:6),Rebound,Unknown,1,408
+21601207,428,PT00M23.50S,4,1610612766,CHA,203148,Roberts,B. Roberts,-4,11,1,Made,1,89.0,79.0,168,v,Roberts 1' Cutting Layup Shot (7 PTS) (Batum 8 AST),Made Shot,Cutting Layup Shot,1,409
+21601207,429,PT00M00.00S,4,0,,0,,,0,0,0,,0,89.0,79.0,168,,End of 4th Period (10:09 PM EST),period,end,1,410

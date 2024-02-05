@@ -1,0 +1,469 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+20101009,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (7:07 PM EST),period,start,0,1
+20101009,1,PT12M00.00S,1,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,h,Jump Ball O'Neal vs. Wallace: Tip to Atkins,Jump Ball,,0,2
+20101009,2,PT11M52.00S,1,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,,,0,h,R. Miller P.FOUL (P1.T1),Foul,Personal,0,3
+20101009,3,PT11M39.00S,1,1610612765,DET,361,Robinson,C. Robinson,-109,112,16,Missed,1,,,0,v,MISS Robinson 16' Jump Shot,Missed Shot,Jump Shot,0,4
+20101009,4,PT11M37.00S,1,1610612754,IND,1802,Miller,B. Miller,0,0,0,,0,,,0,h,B. Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,5
+20101009,5,PT11M18.00S,1,1610612754,IND,1897,World Peace,M. World Peace,47,38,6,Missed,1,,,0,h,MISS World Peace 6' Jump Shot,Missed Shot,Jump Shot,0,6
+20101009,5,PT11M18.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,Wallace BLOCK (1 BLK),,,0,7
+20101009,7,PT11M15.00S,1,1610612754,IND,1802,Miller,B. Miller,0,0,0,,0,,,0,h,B. Miller REBOUND (Off:1 Def:1),Rebound,Unknown,0,8
+20101009,6,PT11M15.00S,1,1610612754,IND,1802,Miller,B. Miller,24,4,2,Made,1,2.0,0.0,2,h,B. Miller 2' Tip Shot (2 PTS),Made Shot,Tip Shot,0,9
+20101009,8,PT11M05.00S,1,1610612765,DET,1112,Wallace,B. Wallace,18,15,2,Made,1,2.0,2.0,4,v,Wallace 2' Dunk (2 PTS) (Stackhouse 1 AST),Made Shot,Dunk Shot,0,10
+20101009,9,PT10M49.00S,1,1610612754,IND,1802,Miller,B. Miller,0,0,0,,0,,,0,h,B. Miller OFF.Foul (P1),Foul,Offensive,0,11
+20101009,10,PT10M49.00S,1,1610612754,IND,1802,Miller,B. Miller,0,0,0,,0,,,0,h,B. Miller Foul Turnover (P1.T1),Turnover,Foul,0,12
+20101009,11,PT10M36.00S,1,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,h,PACERS T.Foul (Def. 3 Sec O'Neal ),Foul,Defense 3 Second,0,13
+20101009,12,PT10M36.00S,1,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,MISS Stackhouse Free Throw Technical,Free Throw,Free Throw Technical,0,14
+20101009,13,PT10M36.00S,1,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Rebound,Rebound,Normal Rebound,0,15
+20101009,14,PT10M29.00S,1,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Turnover: 5 Second Violation (T#1),Turnover,5 Second Violation,0,16
+20101009,15,PT10M26.00S,1,1610612754,IND,1897,World Peace,M. World Peace,212,150,26,Missed,1,,,0,h,MISS World Peace 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,17
+20101009,16,PT10M24.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,Wallace REBOUND (Off:0 Def:1),Rebound,Unknown,0,18
+20101009,17,PT10M08.00S,1,1610612765,DET,711,Stackhouse,J. Stackhouse,3,188,19,Missed,1,,,0,v,MISS Stackhouse 19' Jump Shot,Missed Shot,Jump Shot,0,19
+20101009,18,PT10M05.00S,1,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,h,Tinsley REBOUND (Off:0 Def:1),Rebound,Unknown,0,20
+20101009,19,PT10M00.00S,1,1610612754,IND,2224,Tinsley,J. Tinsley,-1,34,3,Made,1,4.0,2.0,6,h,Tinsley 3' Jump Shot (2 PTS),Made Shot,Jump Shot,0,21
+20101009,20,PT09M42.00S,1,1610612765,DET,361,Robinson,C. Robinson,-23,38,4,Made,1,4.0,4.0,8,v,Robinson 4' Running Hook Shot (2 PTS) (Atkins 1 AST),Made Shot,Running Hook Shot,0,22
+20101009,21,PT09M28.00S,1,1610612754,IND,397,Miller,R. Miller,125,171,21,Missed,1,,,0,h,MISS R. Miller 21' Jump Shot,Missed Shot,Jump Shot,0,23
+20101009,22,PT09M25.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,24
+20101009,23,PT09M18.00S,1,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,h,Tinsley Out Of Bounds Turnover (P1.T2),Turnover,Out Of Bounds,0,25
+20101009,24,PT09M05.00S,1,1610612765,DET,1088,Atkins,C. Atkins,3,188,19,Missed,1,,,0,v,MISS Atkins 19' Jump Shot,Missed Shot,Jump Shot,0,26
+20101009,25,PT09M03.00S,1,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,h,O'Neal REBOUND (Off:0 Def:1),Rebound,Unknown,0,27
+20101009,26,PT08M51.00S,1,1610612754,IND,1897,World Peace,M. World Peace,18,11,2,Made,1,6.0,4.0,10,h,World Peace 2' Layup (2 PTS) (B. Miller 1 AST),Made Shot,Layup Shot,0,28
+20101009,27,PT08M39.00S,1,1610612754,IND,1897,World Peace,M. World Peace,0,0,0,,0,,,0,h,World Peace P.FOUL (P1.T2),Foul,Personal,0,29
+20101009,28,PT08M27.00S,1,1610612765,DET,711,Stackhouse,J. Stackhouse,-157,-8,16,Made,1,6.0,6.0,12,v,Stackhouse 16' Jump Shot (2 PTS),Made Shot,Jump Shot,0,30
+20101009,29,PT08M15.00S,1,1610612765,DET,361,Robinson,C. Robinson,0,0,0,,0,,,0,v,Robinson P.FOUL (P1.T1),Foul,Personal,0,31
+20101009,30,PT08M09.00S,1,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse S.FOUL (P1.T2),Foul,Shooting,0,32
+20101009,31,PT08M09.00S,1,1610612754,IND,1897,World Peace,M. World Peace,0,0,0,,0,7.0,6.0,13,h,World Peace Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,33
+20101009,32,PT08M09.00S,1,1610612754,IND,1897,World Peace,M. World Peace,0,0,0,,0,,,0,h,MISS World Peace Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,34
+20101009,33,PT08M07.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,Wallace REBOUND (Off:0 Def:2),Rebound,Unknown,0,35
+20101009,34,PT07M54.00S,1,1610612765,DET,361,Robinson,C. Robinson,3,11,1,Made,1,7.0,8.0,15,v,Robinson 1' Slam Dunk (4 PTS),Made Shot,Slam Dunk Shot,0,36
+20101009,35,PT07M38.00S,1,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,,,0,h,R. Miller Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,37
+20101009,35,PT07M38.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,Wallace STEAL (1 STL),,,0,38
+20101009,36,PT07M28.00S,1,1610612765,DET,1088,Atkins,C. Atkins,-193,184,27,Missed,1,,,0,v,MISS Atkins 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,39
+20101009,37,PT07M25.00S,1,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,,,0,h,R. Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,40
+20101009,38,PT07M18.00S,1,1610612765,DET,688,Curry,M. Curry,0,0,0,,0,,,0,v,Curry P.FOUL (P1.T3),Foul,Personal,0,41
+20101009,39,PT07M10.00S,1,1610612754,IND,397,Miller,R. Miller,132,144,20,Missed,1,,,0,h,MISS R. Miller 20' Jump Shot,Missed Shot,Jump Shot,0,42
+20101009,40,PT07M08.00S,1,1610612754,IND,1802,Miller,B. Miller,0,0,0,,0,,,0,h,B. Miller REBOUND (Off:2 Def:1),Rebound,Unknown,0,43
+20101009,41,PT06M56.00S,1,1610612754,IND,1802,Miller,B. Miller,-136,106,17,Made,1,9.0,8.0,17,h,B. Miller 17' Jump Shot (4 PTS) (Tinsley 1 AST),Made Shot,Jump Shot,0,44
+20101009,42,PT06M40.00S,1,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,45
+20101009,42,PT06M40.00S,1,1610612754,IND,1897,World Peace,M. World Peace,0,0,0,,0,,,0,h,World Peace STEAL (1 STL),,,0,46
+20101009,43,PT06M36.00S,1,1610612765,DET,1088,Atkins,C. Atkins,0,0,0,,0,,,0,v,Atkins S.FOUL (P1.T4),Foul,Shooting,0,47
+20101009,44,PT06M36.00S,1,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,10.0,8.0,18,h,R. Miller Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,48
+20101009,45,PT06M36.00S,1,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,11.0,8.0,19,h,R. Miller Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,49
+20101009,46,PT06M19.00S,1,1610612765,DET,711,Stackhouse,J. Stackhouse,11,-4,1,Made,1,11.0,10.0,21,v,Stackhouse 1' Slam Dunk (4 PTS) (Robinson 1 AST),Made Shot,Slam Dunk Shot,0,50
+20101009,47,PT05M59.00S,1,1610612765,DET,688,Curry,M. Curry,0,0,0,,0,,,0,v,Curry S.FOUL (P2.PN),Foul,Shooting,0,51
+20101009,48,PT05M59.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,52
+20101009,50,PT05M59.00S,1,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,12.0,10.0,22,h,R. Miller Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,53
+20101009,51,PT05M59.00S,1,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,13.0,10.0,23,h,R. Miller Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,54
+20101009,52,PT05M45.00S,1,1610612765,DET,361,Robinson,C. Robinson,-214,-27,22,Missed,1,,,0,v,MISS Robinson 22' Jump Shot,Missed Shot,Jump Shot,0,55
+20101009,53,PT05M44.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,Wallace REBOUND (Off:1 Def:2),Rebound,Unknown,0,56
+20101009,54,PT05M44.00S,1,1610612754,IND,1802,Miller,B. Miller,0,0,0,,0,,,0,h,B. Miller L.B.FOUL (P2.T3),Foul,Loose Ball,0,57
+20101009,55,PT05M34.00S,1,1610612765,DET,711,Stackhouse,J. Stackhouse,176,-8,18,Missed,1,,,0,v,MISS Stackhouse 18' Jump Shot,Missed Shot,Jump Shot,0,58
+20101009,56,PT05M32.00S,1,1610612754,IND,1802,Miller,B. Miller,0,0,0,,0,,,0,h,B. Miller REBOUND (Off:2 Def:2),Rebound,Unknown,0,59
+20101009,57,PT05M27.00S,1,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,h,Tinsley Out Of Bounds Turnover (P2.T4),Turnover,Out Of Bounds,0,60
+20101009,58,PT05M13.00S,1,1610612765,DET,361,Robinson,C. Robinson,-23,38,4,Missed,1,,,0,v,MISS Robinson 4' Jump Shot,Missed Shot,Jump Shot,0,61
+20101009,59,PT05M11.00S,1,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,h,O'Neal REBOUND (Off:0 Def:2),Rebound,Unknown,0,62
+20101009,60,PT05M06.00S,1,1610612754,IND,2224,Tinsley,J. Tinsley,-29,15,3,Missed,1,,,0,h,MISS Tinsley 3' Jump Shot,Missed Shot,Jump Shot,0,63
+20101009,60,PT05M06.00S,1,1610612765,DET,361,Robinson,C. Robinson,0,0,0,,0,,,0,v,Robinson BLOCK (1 BLK),,,0,64
+20101009,61,PT05M03.00S,1,1610612765,DET,1088,Atkins,C. Atkins,0,0,0,,0,,,0,v,Atkins REBOUND (Off:0 Def:1),Rebound,Unknown,0,65
+20101009,62,PT04M54.00S,1,1610612765,DET,711,Stackhouse,J. Stackhouse,-229,-21,0,Missed,1,,,0,v,MISS Stackhouse 3PT Jump Shot,Missed Shot,Jump Shot,0,66
+20101009,63,PT04M52.00S,1,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,h,O'Neal REBOUND (Off:0 Def:3),Rebound,Unknown,0,67
+20101009,64,PT04M41.00S,1,1610612754,IND,1802,Miller,B. Miller,-145,61,16,Made,1,15.0,10.0,25,h,B. Miller 16' Jump Shot (6 PTS) (R. Miller 1 AST),Made Shot,Jump Shot,0,68
+20101009,65,PT04M15.00S,1,1610612765,DET,361,Robinson,C. Robinson,182,188,26,Missed,1,,,0,v,MISS Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,69
+20101009,66,PT04M14.00S,1,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,,,0,h,R. Miller REBOUND (Off:0 Def:2),Rebound,Unknown,0,70
+20101009,67,PT03M50.00S,1,1610612754,IND,1802,Miller,B. Miller,-101,-27,10,Made,1,17.0,10.0,27,h,B. Miller 10' Jump Shot (8 PTS),Made Shot,Jump Shot,0,71
+20101009,68,PT03M43.00S,1,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,72
+20101009,70,PT03M35.00S,1,1610612754,IND,1897,World Peace,M. World Peace,0,0,0,,0,,,0,h,World Peace P.FOUL (P2.T4),Foul,Personal,0,73
+20101009,71,PT03M31.00S,1,1610612765,DET,711,Stackhouse,J. Stackhouse,-172,184,25,Made,1,17.0,13.0,30,v,Stackhouse 25' 3PT Jump Shot (7 PTS) (Atkins 2 AST),Made Shot,Jump Shot,0,74
+20101009,72,PT03M10.00S,1,1610612754,IND,1802,Miller,B. Miller,-166,99,19,Missed,1,,,0,h,MISS B. Miller 19' Jump Shot,Missed Shot,Jump Shot,0,75
+20101009,73,PT03M09.00S,1,1610612754,IND,1897,World Peace,M. World Peace,0,0,0,,0,,,0,h,World Peace REBOUND (Off:1 Def:0),Rebound,Unknown,0,76
+20101009,74,PT03M07.00S,1,1610612754,IND,1897,World Peace,M. World Peace,-29,15,3,Missed,1,,,0,h,MISS World Peace 3' Jump Shot,Missed Shot,Jump Shot,0,77
+20101009,75,PT03M04.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,78
+20101009,76,PT02M54.00S,1,1610612754,IND,1897,World Peace,M. World Peace,153,112,19,Missed,1,,,0,h,MISS World Peace 19' Jump Shot,Missed Shot,Jump Shot,0,79
+20101009,77,PT02M51.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,80
+20101009,78,PT02M41.00S,1,1610612754,IND,1897,World Peace,M. World Peace,-8,15,2,Made,1,19.0,13.0,32,h,World Peace 2' Layup (5 PTS) (O'Neal 1 AST),Made Shot,Layup Shot,0,81
+20101009,79,PT02M18.00S,1,1610612765,DET,1112,Wallace,B. Wallace,98,38,11,Made,1,19.0,15.0,34,v,Wallace 11' Jump Shot (4 PTS),Made Shot,Jump Shot,0,82
+20101009,80,PT02M12.00S,1,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,h,Tinsley Lost Ball Turnover (P3.T5),Turnover,Lost Ball,0,83
+20101009,80,PT02M12.00S,1,1610612765,DET,688,Curry,M. Curry,0,0,0,,0,,,0,v,Curry STEAL (1 STL),,,0,84
+20101009,81,PT02M05.00S,1,1610612765,DET,711,Stackhouse,J. Stackhouse,-166,198,26,Made,1,19.0,18.0,37,v,Stackhouse 26' 3PT Jump Shot (10 PTS),Made Shot,Jump Shot,0,85
+20101009,82,PT01M48.00S,1,1610612754,IND,2224,Tinsley,J. Tinsley,-58,238,24,Missed,1,,,0,h,MISS Tinsley 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,86
+20101009,83,PT01M45.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,Wallace REBOUND (Off:1 Def:3),Rebound,Unknown,0,87
+20101009,84,PT01M45.00S,1,1610612754,IND,1802,Miller,B. Miller,0,0,0,,0,,,0,h,B. Miller L.B.FOUL (P3.PN),Foul,Loose Ball,0,88
+20101009,85,PT01M45.00S,1,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,h,SUB: Mercer FOR Tinsley,Substitution,,0,89
+20101009,87,PT01M45.00S,1,1610612754,IND,1802,Miller,B. Miller,0,0,0,,0,,,0,h,SUB: Foster FOR B. Miller,Substitution,,0,90
+20101009,93,PT01M45.00S,1,1610612765,DET,688,Curry,M. Curry,0,0,0,,0,,,0,v,SUB: Williamson FOR Curry,Substitution,,0,91
+20101009,88,PT01M45.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,MISS Wallace Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,92
+20101009,89,PT01M45.00S,1,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Rebound,Rebound,Normal Rebound,0,93
+20101009,90,PT01M45.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,19.0,19.0,38,v,Wallace Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,94
+20101009,91,PT01M32.00S,1,1610612754,IND,1500,Mercer,R. Mercer,56,165,17,Missed,1,,,0,h,MISS Mercer 17' Jump Shot,Missed Shot,Jump Shot,0,95
+20101009,92,PT01M27.00S,1,1610612765,DET,361,Robinson,C. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,96
+20101009,94,PT01M22.00S,1,1610612754,IND,1897,World Peace,M. World Peace,0,0,0,,0,,,0,h,SUB: Bender FOR World Peace,Substitution,,0,97
+20101009,95,PT01M15.00S,1,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,h,O'Neal S.FOUL (P1.PN),Foul,Shooting,0,98
+20101009,96,PT01M15.00S,1,1610612765,DET,361,Robinson,C. Robinson,0,0,0,,0,,,0,v,MISS Robinson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,99
+20101009,97,PT01M15.00S,1,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Rebound,Rebound,Normal Rebound,0,100
+20101009,98,PT01M15.00S,1,1610612765,DET,361,Robinson,C. Robinson,0,0,0,,0,19.0,20.0,39,v,Robinson Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,101
+20101009,99,PT01M01.00S,1,1610612765,DET,722,Williamson,C. Williamson,0,0,0,,0,,,0,v,Williamson P.FOUL (P1.PN),Foul,Personal,0,102
+20101009,100,PT01M01.00S,1,1610612754,IND,1886,Bender,J. Bender,0,0,0,,0,20.0,20.0,40,h,Bender Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,103
+20101009,101,PT01M01.00S,1,1610612754,IND,1886,Bender,J. Bender,0,0,0,,0,,,0,h,MISS Bender Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,104
+20101009,102,PT00M59.20S,1,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,h,O'Neal REBOUND (Off:1 Def:3),Rebound,Unknown,0,105
+20101009,103,PT00M54.90S,1,1610612754,IND,979,O'Neal,J. O'Neal,83,66,11,Made,1,22.0,20.0,42,h,O'Neal 11' Jump Shot (2 PTS),Made Shot,Jump Shot,0,106
+20101009,104,PT00M45.90S,1,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,,,0,h,Foster P.FOUL (P1.PN),Foul,Personal,0,107
+20101009,105,PT00M45.90S,1,1610612765,DET,722,Williamson,C. Williamson,0,0,0,,0,22.0,21.0,43,v,Williamson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,108
+20101009,106,PT00M45.90S,1,1610612765,DET,722,Williamson,C. Williamson,0,0,0,,0,,,0,v,MISS Williamson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,109
+20101009,107,PT00M44.70S,1,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,h,O'Neal REBOUND (Off:1 Def:4),Rebound,Unknown,0,110
+20101009,108,PT00M28.90S,1,1610612754,IND,397,Miller,R. Miller,125,122,17,Made,1,24.0,21.0,45,h,R. Miller 17' Jump Shot (6 PTS) (Bender 1 AST),Made Shot,Jump Shot,0,111
+20101009,110,PT00M09.60S,1,1610612754,IND,1500,Mercer,R. Mercer,0,0,0,,0,,,0,h,Mercer S.FOUL (P1.PN),Foul,Shooting,0,112
+20101009,111,PT00M09.60S,1,1610612765,DET,1088,Atkins,C. Atkins,0,0,0,,0,24.0,22.0,46,v,Atkins Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,113
+20101009,112,PT00M09.60S,1,1610612765,DET,361,Robinson,C. Robinson,0,0,0,,0,,,0,v,SUB: Rebraca FOR Robinson,Substitution,,0,114
+20101009,113,PT00M09.60S,1,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,,,0,h,SUB: Tinsley FOR Foster,Substitution,,0,115
+20101009,114,PT00M09.60S,1,1610612765,DET,1088,Atkins,C. Atkins,0,0,0,,0,24.0,23.0,47,v,Atkins Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,116
+20101009,115,PT00M01.00S,1,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,,,0,h,R. Miller Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,117
+20101009,115,PT00M01.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,Wallace STEAL (2 STL),,,0,118
+20101009,116,PT00M00.00S,1,0,,0,,,0,0,0,,0,24.0,23.0,47,,End of 1st Period (7:35 PM EST),period,end,0,119
+20101009,118,PT12M00.00S,2,0,,0,,,0,0,0,,0,24.0,23.0,47,,Start of 2nd Period (7:38 PM EST),period,start,0,120
+20101009,119,PT11M41.00S,2,1610612754,IND,1506,Croshere,A. Croshere,11,154,15,Missed,1,,,0,h,MISS Croshere 15' Jump Shot,Missed Shot,Jump Shot,0,121
+20101009,120,PT11M39.00S,2,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,,,0,h,Foster REBOUND (Off:1 Def:0),Rebound,Unknown,0,122
+20101009,121,PT11M33.00S,2,1610612754,IND,1506,Croshere,A. Croshere,39,15,4,Missed,1,,,0,h,MISS Croshere 4' Jump Shot,Missed Shot,Jump Shot,0,123
+20101009,122,PT11M31.00S,2,1610612765,DET,468,Barry,J. Barry,0,0,0,,0,,,0,v,Barry REBOUND (Off:0 Def:1),Rebound,Unknown,0,124
+20101009,123,PT11M21.00S,2,1610612765,DET,722,Williamson,C. Williamson,-151,38,16,Missed,1,,,0,v,MISS Williamson 16' Jump Shot,Missed Shot,Jump Shot,0,125
+20101009,124,PT11M20.00S,2,1610612754,IND,1500,Mercer,R. Mercer,0,0,0,,0,,,0,h,Mercer REBOUND (Off:0 Def:1),Rebound,Unknown,0,126
+20101009,125,PT11M12.00S,2,1610612754,IND,1886,Bender,J. Bender,-79,243,26,Missed,1,,,0,h,MISS Bender 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,127
+20101009,126,PT11M10.00S,2,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,h,Tinsley REBOUND (Off:1 Def:1),Rebound,Unknown,0,128
+20101009,127,PT11M01.00S,2,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,h,Tinsley Bad Pass Turnover (P4.T7),Turnover,Bad Pass,0,129
+20101009,127,PT11M01.00S,2,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,Wallace STEAL (3 STL),,,0,130
+20101009,128,PT10M44.00S,2,1610612754,IND,1886,Bender,J. Bender,0,0,0,,0,,,0,h,Bender S.FOUL (P1.T1),Foul,Shooting,0,131
+20101009,129,PT10M44.00S,2,1610612765,DET,1442,Rebraca,Z. Rebraca,0,0,0,,0,,,0,v,MISS Rebraca Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,132
+20101009,130,PT10M44.00S,2,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Rebound,Rebound,Normal Rebound,0,133
+20101009,131,PT10M44.00S,2,1610612765,DET,1442,Rebraca,Z. Rebraca,0,0,0,,0,24.0,24.0,48,v,Rebraca Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,134
+20101009,132,PT10M27.00S,2,1610612754,IND,1500,Mercer,R. Mercer,-101,28,10,Missed,1,,,0,h,MISS Mercer 10' Jump Shot,Missed Shot,Jump Shot,0,135
+20101009,133,PT10M25.00S,2,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,Wallace REBOUND (Off:1 Def:4),Rebound,Unknown,0,136
+20101009,134,PT10M19.00S,2,1610612765,DET,468,Barry,J. Barry,-1,4,0,Missed,1,,,0,v,MISS Barry Layup,Missed Shot,Layup Shot,0,137
+20101009,134,PT10M19.00S,2,1610612754,IND,1886,Bender,J. Bender,0,0,0,,0,,,0,h,Bender BLOCK (1 BLK),,,0,138
+20101009,135,PT10M17.00S,2,1610612765,DET,722,Williamson,C. Williamson,0,0,0,,0,,,0,v,Williamson REBOUND (Off:1 Def:0),Rebound,Unknown,0,139
+20101009,136,PT10M15.00S,2,1610612765,DET,722,Williamson,C. Williamson,11,15,2,Made,1,24.0,26.0,50,v,Williamson 2' Layup (3 PTS),Made Shot,Layup Shot,0,140
+20101009,137,PT09M58.00S,2,1610612754,IND,1886,Bender,J. Bender,119,171,21,Missed,1,,,0,h,MISS Bender 21' Jump Shot,Missed Shot,Jump Shot,0,141
+20101009,138,PT09M55.00S,2,1610612765,DET,1442,Rebraca,Z. Rebraca,0,0,0,,0,,,0,v,Rebraca REBOUND (Off:0 Def:1),Rebound,Unknown,0,142
+20101009,139,PT09M49.00S,2,1610612765,DET,468,Barry,J. Barry,0,0,0,,0,,,0,v,Barry Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,143
+20101009,139,PT09M49.00S,2,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,,,0,h,Foster STEAL (1 STL),,,0,144
+20101009,140,PT09M29.00S,2,1610612754,IND,2224,Tinsley,J. Tinsley,24,82,9,Missed,1,,,0,h,MISS Tinsley 9' Jump Shot,Missed Shot,Jump Shot,0,145
+20101009,141,PT09M27.00S,2,1610612765,DET,1442,Rebraca,Z. Rebraca,0,0,0,,0,,,0,v,Rebraca REBOUND (Off:0 Def:2),Rebound,Unknown,0,146
+20101009,142,PT09M23.00S,2,1610612765,DET,468,Barry,J. Barry,218,160,27,Made,1,24.0,29.0,53,v,Barry 27' 3PT Jump Shot (3 PTS) (Rebraca 1 AST),Made Shot,Jump Shot,0,147
+20101009,143,PT09M17.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,148
+20101009,145,PT09M17.00S,2,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,h,SUB: Ollie FOR Tinsley,Substitution,,0,149
+20101009,146,PT09M17.00S,2,1610612754,IND,1500,Mercer,R. Mercer,0,0,0,,0,,,0,h,SUB: World Peace FOR Mercer,Substitution,,0,150
+20101009,147,PT09M17.00S,2,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,,,0,h,SUB: B. Miller FOR Foster,Substitution,,0,151
+20101009,148,PT09M17.00S,2,1610612754,IND,1886,Bender,J. Bender,0,0,0,,0,,,0,h,SUB: O'Neal FOR Bender,Substitution,,0,152
+20101009,149,PT09M17.00S,2,1610612754,IND,1506,Croshere,A. Croshere,0,0,0,,0,,,0,h,SUB: R. Miller FOR Croshere,Substitution,,0,153
+20101009,150,PT09M06.00S,2,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,h,O'Neal OFF.Foul (P2),Foul,Offensive,0,154
+20101009,151,PT09M06.00S,2,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,h,O'Neal Foul Turnover (P1.T8),Turnover,Foul,0,155
+20101009,152,PT08M34.00S,2,1610612765,DET,722,Williamson,C. Williamson,0,0,0,,0,,,0,v,Williamson OFF.Foul (P2),Foul,Offensive,0,156
+20101009,153,PT08M34.00S,2,1610612765,DET,722,Williamson,C. Williamson,0,0,0,,0,,,0,v,Williamson Foul Turnover (P1.T4),Turnover,Foul,0,157
+20101009,154,PT08M30.00S,2,1610612754,IND,979,O'Neal,J. O'Neal,119,72,14,Missed,1,,,0,h,MISS O'Neal 14' Jump Shot,Missed Shot,Jump Shot,0,158
+20101009,155,PT08M27.00S,2,1610612765,DET,1800,Jones,D. Jones,0,0,0,,0,,,0,v,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,159
+20101009,156,PT08M24.00S,2,1610612765,DET,1442,Rebraca,Z. Rebraca,24,0,2,Made,1,24.0,31.0,55,v,Rebraca 2' Layup (3 PTS) (Jones 1 AST),Made Shot,Layup Shot,0,160
+20101009,157,PT08M24.00S,2,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,h,O'Neal S.FOUL (P3.T2),Foul,Shooting,0,161
+20101009,158,PT08M24.00S,2,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,SUB: Robinson FOR Wallace,Substitution,,0,162
+20101009,159,PT08M24.00S,2,1610612765,DET,1442,Rebraca,Z. Rebraca,0,0,0,,0,24.0,32.0,56,v,Rebraca Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,0,163
+20101009,160,PT08M04.00S,2,1610612754,IND,979,O'Neal,J. O'Neal,-1,4,0,Missed,1,,,0,h,MISS O'Neal Layup,Missed Shot,Layup Shot,0,164
+20101009,160,PT08M04.00S,2,1610612765,DET,1442,Rebraca,Z. Rebraca,0,0,0,,0,,,0,v,Rebraca BLOCK (1 BLK),,,0,165
+20101009,161,PT08M02.00S,2,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,h,O'Neal REBOUND (Off:2 Def:4),Rebound,Unknown,0,166
+20101009,162,PT08M00.00S,2,1610612754,IND,979,O'Neal,J. O'Neal,-37,15,4,Made,1,26.0,32.0,58,h,O'Neal 4' Hook Shot (4 PTS),Made Shot,Hook Shot,0,167
+20101009,163,PT07M51.00S,2,1610612765,DET,722,Williamson,C. Williamson,153,4,15,Missed,1,,,0,v,MISS Williamson 15' Jump Shot,Missed Shot,Jump Shot,0,168
+20101009,164,PT07M49.00S,2,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,,,0,h,R. Miller REBOUND (Off:0 Def:3),Rebound,Unknown,0,169
+20101009,165,PT07M39.00S,2,1610612765,DET,1442,Rebraca,Z. Rebraca,0,0,0,,0,,,0,v,Rebraca S.FOUL (P1.T1),Foul,Shooting,0,170
+20101009,166,PT07M39.00S,2,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,h,MISS O'Neal Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,171
+20101009,167,PT07M39.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,172
+20101009,168,PT07M39.00S,2,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,27.0,32.0,59,h,O'Neal Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,173
+20101009,169,PT07M29.00S,2,1610612754,IND,1563,Ollie,K. Ollie,0,0,0,,0,,,0,h,Ollie P.FOUL (P1.T3),Foul,Personal,0,174
+20101009,170,PT07M21.00S,2,1610612765,DET,722,Williamson,C. Williamson,-1,55,6,Made,1,27.0,34.0,61,v,Williamson 6' Running Jump Shot (5 PTS) (Robinson 2 AST),Made Shot,Running Jump Shot,0,175
+20101009,171,PT07M06.00S,2,1610612754,IND,979,O'Neal,J. O'Neal,104,-15,11,Missed,1,,,0,h,MISS O'Neal 11' Jump Shot,Missed Shot,Jump Shot,0,176
+20101009,172,PT07M03.00S,2,1610612765,DET,1442,Rebraca,Z. Rebraca,0,0,0,,0,,,0,v,Rebraca REBOUND (Off:0 Def:3),Rebound,Unknown,0,177
+20101009,173,PT06M53.00S,2,1610612765,DET,722,Williamson,C. Williamson,11,28,3,Missed,1,,,0,v,MISS Williamson 3' Jump Shot,Missed Shot,Jump Shot,0,178
+20101009,173,PT06M53.00S,2,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,h,O'Neal BLOCK (1 BLK),,,0,179
+20101009,174,PT06M51.00S,2,1610612765,DET,361,Robinson,C. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:1 Def:1),Rebound,Unknown,0,180
+20101009,175,PT06M49.00S,2,1610612765,DET,361,Robinson,C. Robinson,197,154,25,Made,1,27.0,37.0,64,v,Robinson 25' 3PT Jump Shot (8 PTS),Made Shot,Jump Shot,0,181
+20101009,176,PT06M30.00S,2,1610612754,IND,979,O'Neal,J. O'Neal,-8,11,1,Missed,1,,,0,h,MISS O'Neal 1' Layup,Missed Shot,Layup Shot,0,182
+20101009,177,PT06M28.00S,2,1610612754,IND,1802,Miller,B. Miller,0,0,0,,0,,,0,h,B. Miller REBOUND (Off:3 Def:2),Rebound,Unknown,0,183
+20101009,178,PT06M26.00S,2,1610612754,IND,1802,Miller,B. Miller,-29,11,3,Missed,1,,,0,h,MISS B. Miller 3' Jump Shot,Missed Shot,Jump Shot,0,184
+20101009,179,PT06M25.00S,2,1610612765,DET,361,Robinson,C. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:1 Def:2),Rebound,Unknown,0,185
+20101009,180,PT06M25.00S,2,1610612754,IND,1563,Ollie,K. Ollie,0,0,0,,0,,,0,h,Ollie L.B.FOUL (P2.T4),Foul,Loose Ball,0,186
+20101009,181,PT06M09.00S,2,1610612765,DET,361,Robinson,C. Robinson,-1,61,6,Missed,1,,,0,v,MISS Robinson 6' Jump Shot,Missed Shot,Jump Shot,0,187
+20101009,182,PT06M07.00S,2,1610612754,IND,1897,World Peace,M. World Peace,0,0,0,,0,,,0,h,World Peace REBOUND (Off:1 Def:1),Rebound,Unknown,0,188
+20101009,183,PT06M00.00S,2,1610612754,IND,1897,World Peace,M. World Peace,-208,150,26,Missed,1,,,0,h,MISS World Peace 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,189
+20101009,184,PT05M58.00S,2,1610612765,DET,1442,Rebraca,Z. Rebraca,0,0,0,,0,,,0,v,Rebraca REBOUND (Off:0 Def:4),Rebound,Unknown,0,190
+20101009,185,PT05M47.00S,2,1610612765,DET,722,Williamson,C. Williamson,0,0,0,,0,,,0,v,Williamson Lost Ball Turnover (P2.T5),Turnover,Lost Ball,0,191
+20101009,185,PT05M47.00S,2,1610612754,IND,1897,World Peace,M. World Peace,0,0,0,,0,,,0,h,World Peace STEAL (2 STL),,,0,192
+20101009,186,PT05M43.00S,2,1610612754,IND,397,Miller,R. Miller,11,15,2,Made,1,29.0,37.0,66,h,R. Miller 2' Layup (8 PTS) (Ollie 1 AST),Made Shot,Layup Shot,0,193
+20101009,187,PT05M35.00S,2,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,194
+20101009,189,PT05M22.00S,2,1610612765,DET,722,Williamson,C. Williamson,-29,49,6,Made,1,29.0,39.0,68,v,Williamson 6' Hook Shot (7 PTS) (Barry 1 AST),Made Shot,Hook Shot,0,195
+20101009,190,PT04M59.00S,2,1610612754,IND,1802,Miller,B. Miller,3,11,1,Made,1,31.0,39.0,70,h,B. Miller 1' Layup (10 PTS) (R. Miller 2 AST),Made Shot,Layup Shot,0,196
+20101009,191,PT04M40.00S,2,1610612765,DET,722,Williamson,C. Williamson,0,0,0,,0,,,0,v,SUB: Stackhouse FOR Williamson,Substitution,,0,197
+20101009,192,PT04M32.00S,2,1610612765,DET,1442,Rebraca,Z. Rebraca,-1,38,4,Made,1,31.0,41.0,72,v,Rebraca 4' Hook Shot (6 PTS) (Stackhouse 2 AST),Made Shot,Hook Shot,0,198
+20101009,193,PT04M09.00S,2,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse S.FOUL (P2.T2),Foul,Shooting,0,199
+20101009,194,PT04M09.00S,2,1610612754,IND,1897,World Peace,M. World Peace,0,0,0,,0,32.0,41.0,73,h,World Peace Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,200
+20101009,195,PT04M09.00S,2,1610612754,IND,1897,World Peace,M. World Peace,0,0,0,,0,33.0,41.0,74,h,World Peace Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,201
+20101009,196,PT03M48.00S,2,1610612765,DET,1442,Rebraca,Z. Rebraca,68,45,8,Missed,1,,,0,v,MISS Rebraca 8' Jump Shot,Missed Shot,Jump Shot,0,202
+20101009,197,PT03M47.00S,2,1610612754,IND,1802,Miller,B. Miller,0,0,0,,0,,,0,h,B. Miller REBOUND (Off:3 Def:3),Rebound,Unknown,0,203
+20101009,198,PT03M34.00S,2,1610612754,IND,979,O'Neal,J. O'Neal,18,-4,2,Made,1,35.0,41.0,76,h,O'Neal 2' Dunk (7 PTS) (R. Miller 3 AST),Made Shot,Dunk Shot,0,204
+20101009,199,PT03M17.00S,2,1610612765,DET,361,Robinson,C. Robinson,167,4,17,Missed,1,,,0,v,MISS Robinson 17' Jump Shot,Missed Shot,Jump Shot,0,205
+20101009,200,PT03M15.00S,2,1610612754,IND,1897,World Peace,M. World Peace,0,0,0,,0,,,0,h,World Peace REBOUND (Off:1 Def:2),Rebound,Unknown,0,206
+20101009,201,PT03M03.00S,2,1610612754,IND,1897,World Peace,M. World Peace,-86,82,12,Made,1,37.0,41.0,78,h,World Peace 12' Jump Shot (9 PTS),Made Shot,Jump Shot,0,207
+20101009,202,PT02M55.00S,2,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Timeout: Short (Reg.2 Short 1),Timeout,Short,0,208
+20101009,203,PT02M55.00S,2,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,209
+20101009,204,PT02M55.00S,2,1610612765,DET,1800,Jones,D. Jones,0,0,0,,0,,,0,v,SUB: Atkins FOR Jones,Substitution,,0,210
+20101009,205,PT02M55.00S,2,1610612765,DET,1442,Rebraca,Z. Rebraca,0,0,0,,0,,,0,v,SUB: Wallace FOR Rebraca,Substitution,,0,211
+20101009,206,PT02M43.00S,2,1610612765,DET,1088,Atkins,C. Atkins,205,-27,21,Made,1,37.0,43.0,80,v,Atkins 21' Jump Shot (4 PTS) (Robinson 3 AST),Made Shot,Jump Shot,0,212
+20101009,207,PT02M21.00S,2,1610612754,IND,979,O'Neal,J. O'Neal,119,34,12,Missed,1,,,0,h,MISS O'Neal 12' Jump Shot,Missed Shot,Jump Shot,0,213
+20101009,207,PT02M21.00S,2,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,Wallace BLOCK (2 BLK),,,0,214
+20101009,208,PT02M21.00S,2,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Rebound,Rebound,Unknown,0,215
+20101009,209,PT02M01.00S,2,1610612765,DET,1088,Atkins,C. Atkins,-136,154,21,Missed,1,,,0,v,MISS Atkins 21' Jump Shot,Missed Shot,Jump Shot,0,216
+20101009,210,PT01M59.00S,2,1610612754,IND,1897,World Peace,M. World Peace,0,0,0,,0,,,0,h,World Peace REBOUND (Off:1 Def:3),Rebound,Unknown,0,217
+20101009,211,PT01M44.00S,2,1610612754,IND,1802,Miller,B. Miller,-101,-27,10,Made,1,39.0,43.0,82,h,B. Miller 10' Jump Shot (12 PTS) (Ollie 2 AST),Made Shot,Jump Shot,0,218
+20101009,212,PT01M21.00S,2,1610612765,DET,361,Robinson,C. Robinson,-157,122,20,Missed,1,,,0,v,MISS Robinson 20' Jump Shot,Missed Shot,Jump Shot,0,219
+20101009,213,PT01M20.00S,2,1610612754,IND,1563,Ollie,K. Ollie,0,0,0,,0,,,0,h,Ollie REBOUND (Off:0 Def:1),Rebound,Unknown,0,220
+20101009,214,PT01M15.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Short (Full 2 Short 1),Timeout,Short,0,221
+20101009,215,PT01M15.00S,2,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,h,SUB: Foster FOR O'Neal,Substitution,,0,222
+20101009,216,PT01M05.00S,2,1610612754,IND,1563,Ollie,K. Ollie,140,150,21,Missed,1,,,0,h,MISS Ollie 21' Jump Shot,Missed Shot,Jump Shot,0,223
+20101009,217,PT01M03.00S,2,1610612765,DET,468,Barry,J. Barry,0,0,0,,0,,,0,v,Barry REBOUND (Off:0 Def:2),Rebound,Unknown,0,224
+20101009,218,PT00M54.90S,2,1610612765,DET,711,Stackhouse,J. Stackhouse,24,-4,2,Missed,1,,,0,v,MISS Stackhouse 2' Layup,Missed Shot,Layup Shot,0,225
+20101009,220,PT00M53.60S,2,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse REBOUND (Off:1 Def:0),Rebound,Unknown,0,226
+20101009,219,PT00M53.60S,2,1610612765,DET,711,Stackhouse,J. Stackhouse,11,4,1,Missed,1,,,0,v,MISS Stackhouse 1' Layup,Missed Shot,Layup Shot,0,227
+20101009,221,PT00M51.60S,2,1610612754,IND,1897,World Peace,M. World Peace,0,0,0,,0,,,0,h,World Peace REBOUND (Off:1 Def:4),Rebound,Unknown,0,228
+20101009,222,PT00M39.60S,2,1610612754,IND,1897,World Peace,M. World Peace,0,0,0,,0,,,0,h,World Peace OFF.Foul (P3),Foul,Offensive,0,229
+20101009,223,PT00M39.60S,2,1610612754,IND,1897,World Peace,M. World Peace,0,0,0,,0,,,0,h,World Peace Foul Turnover (P1.T9),Turnover,Foul,0,230
+20101009,224,PT00M39.60S,2,1610612754,IND,1897,World Peace,M. World Peace,0,0,0,,0,,,0,h,SUB: Mercer FOR World Peace,Substitution,,0,231
+20101009,225,PT00M25.00S,2,1610612765,DET,711,Stackhouse,J. Stackhouse,-44,160,17,Missed,1,,,0,v,MISS Stackhouse 17' Jump Shot,Missed Shot,Jump Shot,0,232
+20101009,226,PT00M22.50S,2,1610612754,IND,1802,Miller,B. Miller,0,0,0,,0,,,0,h,B. Miller REBOUND (Off:3 Def:4),Rebound,Unknown,0,233
+20101009,227,PT00M08.20S,2,1610612765,DET,1088,Atkins,C. Atkins,0,0,0,,0,,,0,v,Atkins P.FOUL (P2.T3),Foul,Personal,0,234
+20101009,228,PT00M08.20S,2,1610612765,DET,1088,Atkins,C. Atkins,0,0,0,,0,,,0,v,SUB: Jones FOR Atkins,Substitution,,0,235
+20101009,229,PT00M08.20S,2,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,SUB: Curry FOR Stackhouse,Substitution,,0,236
+20101009,230,PT00M00.60S,2,1610612754,IND,1802,Miller,B. Miller,153,-8,15,Missed,1,,,0,h,MISS B. Miller 15' Jump Shot,Missed Shot,Jump Shot,0,237
+20101009,230,PT00M00.60S,2,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,Wallace BLOCK (3 BLK),,,0,238
+20101009,231,PT00M00.60S,2,1610612754,IND,1802,Miller,B. Miller,0,0,0,,0,,,0,h,B. Miller REBOUND (Off:4 Def:4),Rebound,Unknown,0,239
+20101009,232,PT00M00.60S,2,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,Wallace S.FOUL (P1.PN),Foul,Shooting,0,240
+20101009,233,PT00M00.60S,2,1610612754,IND,1802,Miller,B. Miller,0,0,0,,0,,,0,h,MISS B. Miller Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,241
+20101009,234,PT00M00.60S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,242
+20101009,235,PT00M00.60S,2,1610612754,IND,1802,Miller,B. Miller,0,0,0,,0,40.0,43.0,83,h,B. Miller Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,243
+20101009,236,PT00M00.00S,2,0,,0,,,0,0,0,,0,40.0,43.0,83,,End of 2nd Period (8:05 PM EST),period,end,0,244
+20101009,238,PT12M00.00S,3,0,,0,,,0,0,0,,0,40.0,43.0,83,,Start of 3rd Period (8:21 PM EST),period,start,0,245
+20101009,239,PT11M43.00S,3,1610612754,IND,1802,Miller,B. Miller,24,11,3,Missed,1,,,0,h,MISS B. Miller 3' Layup,Missed Shot,Layup Shot,0,246
+20101009,239,PT11M43.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,Wallace BLOCK (4 BLK),,,0,247
+20101009,240,PT11M43.00S,3,1610612754,IND,1802,Miller,B. Miller,0,0,0,,0,,,0,h,Jump Ball B. Miller vs. Wallace: Tip to World Peace,Jump Ball,,0,248
+20101009,241,PT11M43.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,249
+20101009,242,PT11M39.00S,3,1610612754,IND,1897,World Peace,M. World Peace,-23,11,3,Made,1,42.0,43.0,85,h,World Peace 3' Layup (11 PTS),Made Shot,Layup Shot,0,250
+20101009,243,PT11M24.00S,3,1610612765,DET,361,Robinson,C. Robinson,-172,177,25,Missed,1,,,0,v,MISS Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,251
+20101009,244,PT11M22.00S,3,1610612754,IND,1802,Miller,B. Miller,0,0,0,,0,,,0,h,B. Miller REBOUND (Off:4 Def:5),Rebound,Unknown,0,252
+20101009,245,PT11M06.00S,3,1610612754,IND,1802,Miller,B. Miller,0,0,0,,0,,,0,h,B. Miller Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,253
+20101009,245,PT11M06.00S,3,1610612765,DET,688,Curry,M. Curry,0,0,0,,0,,,0,v,Curry STEAL (2 STL),,,0,254
+20101009,246,PT10M57.00S,3,1610612765,DET,711,Stackhouse,J. Stackhouse,-193,89,21,Missed,1,,,0,v,MISS Stackhouse 21' Jump Shot,Missed Shot,Jump Shot,0,255
+20101009,247,PT10M55.00S,3,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,,,0,h,R. Miller REBOUND (Off:0 Def:4),Rebound,Unknown,0,256
+20101009,248,PT10M40.00S,3,1610612754,IND,397,Miller,R. Miller,-124,228,26,Made,1,45.0,43.0,88,h,R. Miller 26' 3PT Jump Shot (11 PTS) (Tinsley 2 AST),Made Shot,Jump Shot,0,257
+20101009,249,PT10M18.00S,3,1610612765,DET,1088,Atkins,C. Atkins,-115,-15,12,Made,1,45.0,45.0,90,v,Atkins 12' Running Jump Shot (6 PTS),Made Shot,Running Jump Shot,0,258
+20101009,250,PT10M18.00S,3,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,h,Tinsley S.FOUL (P1.T1),Foul,Shooting,0,259
+20101009,251,PT10M18.00S,3,1610612765,DET,1088,Atkins,C. Atkins,0,0,0,,0,45.0,46.0,91,v,Atkins Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,260
+20101009,252,PT10M07.00S,3,1610612754,IND,1802,Miller,B. Miller,0,0,0,,0,,,0,h,B. Miller Lost Ball Turnover (P3.T11),Turnover,Lost Ball,0,261
+20101009,252,PT10M07.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,Wallace STEAL (4 STL),,,0,262
+20101009,253,PT10M07.00S,3,1610612754,IND,1802,Miller,B. Miller,0,0,0,,0,,,0,h,B. Miller T.FOUL (P3.T1),Foul,Technical,0,263
+20101009,254,PT10M07.00S,3,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,45.0,47.0,92,v,Stackhouse Free Throw Technical (11 PTS),Free Throw,Free Throw Technical,0,264
+20101009,255,PT09M53.00S,3,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,h,O'Neal S.FOUL (P4.T2),Foul,Shooting,0,265
+20101009,256,PT09M53.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,45.0,48.0,93,v,Wallace Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,266
+20101009,257,PT09M53.00S,3,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,h,SUB: Foster FOR O'Neal,Substitution,,0,267
+20101009,258,PT09M53.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,MISS Wallace Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,268
+20101009,259,PT09M51.00S,3,1610612754,IND,1802,Miller,B. Miller,0,0,0,,0,,,0,h,B. Miller REBOUND (Off:4 Def:6),Rebound,Unknown,0,269
+20101009,260,PT09M40.00S,3,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,h,Tinsley Bad Pass Turnover (P5.T12),Turnover,Bad Pass,0,270
+20101009,260,PT09M40.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,Wallace STEAL (5 STL),,,0,271
+20101009,261,PT09M32.00S,3,1610612765,DET,1088,Atkins,C. Atkins,-29,34,4,Missed,1,,,0,v,MISS Atkins 4' Jump Shot,Missed Shot,Jump Shot,0,272
+20101009,261,PT09M32.00S,3,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,,,0,h,Foster BLOCK (1 BLK),,,0,273
+20101009,262,PT09M30.00S,3,1610612765,DET,1088,Atkins,C. Atkins,0,0,0,,0,,,0,v,Atkins REBOUND (Off:1 Def:1),Rebound,Unknown,0,274
+20101009,263,PT09M27.00S,3,1610612765,DET,361,Robinson,C. Robinson,-178,177,25,Missed,1,,,0,v,MISS Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,275
+20101009,264,PT09M26.00S,3,1610612754,IND,1897,World Peace,M. World Peace,0,0,0,,0,,,0,h,World Peace REBOUND (Off:1 Def:5),Rebound,Unknown,0,276
+20101009,265,PT09M14.00S,3,1610612765,DET,361,Robinson,C. Robinson,0,0,0,,0,,,0,v,Robinson P.FOUL (P2.T1),Foul,Personal,0,277
+20101009,266,PT09M00.00S,3,1610612754,IND,397,Miller,R. Miller,153,-21,15,Made,1,47.0,48.0,95,h,R. Miller 15' Jump Shot (13 PTS) (Tinsley 3 AST),Made Shot,Jump Shot,0,278
+20101009,267,PT08M41.00S,3,1610612765,DET,688,Curry,M. Curry,226,34,0,Made,1,47.0,51.0,98,v,Curry 3PT Jump Shot (3 PTS) (Robinson 4 AST),Made Shot,Jump Shot,0,279
+20101009,268,PT08M22.00S,3,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,,,0,h,Foster Lost Ball Turnover (P1.T13),Turnover,Lost Ball,0,280
+20101009,268,PT08M22.00S,3,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse STEAL (1 STL),,,0,281
+20101009,269,PT08M11.00S,3,1610612765,DET,711,Stackhouse,J. Stackhouse,-1,15,2,Missed,1,,,0,v,MISS Stackhouse 2' Layup,Missed Shot,Layup Shot,0,282
+20101009,270,PT08M09.00S,3,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,,,0,h,Foster REBOUND (Off:1 Def:1),Rebound,Unknown,0,283
+20101009,271,PT08M00.00S,3,1610612754,IND,1897,World Peace,M. World Peace,239,0,24,Missed,1,,,0,h,MISS World Peace 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,284
+20101009,272,PT07M58.00S,3,1610612754,IND,1802,Miller,B. Miller,0,0,0,,0,,,0,h,B. Miller REBOUND (Off:5 Def:6),Rebound,Unknown,0,285
+20101009,273,PT07M58.00S,3,1610612754,IND,1802,Miller,B. Miller,11,15,2,Made,1,49.0,51.0,100,h,B. Miller 2' Hook Shot (15 PTS),Made Shot,Hook Shot,0,286
+20101009,274,PT07M58.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,Wallace S.FOUL (P2.T2),Foul,Shooting,0,287
+20101009,275,PT07M58.00S,3,1610612754,IND,1802,Miller,B. Miller,0,0,0,,0,50.0,51.0,101,h,B. Miller Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,0,288
+20101009,276,PT07M37.00S,3,1610612765,DET,1088,Atkins,C. Atkins,-229,82,24,Made,1,50.0,54.0,104,v,Atkins 24' 3PT Jump Shot (10 PTS) (Curry 1 AST),Made Shot,Jump Shot,0,289
+20101009,277,PT07M20.00S,3,1610612754,IND,397,Miller,R. Miller,-157,127,20,Missed,1,,,0,h,MISS R. Miller 20' Jump Shot,Missed Shot,Jump Shot,0,290
+20101009,278,PT07M17.00S,3,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse REBOUND (Off:1 Def:1),Rebound,Unknown,0,291
+20101009,279,PT07M00.00S,3,1610612765,DET,1088,Atkins,C. Atkins,-193,160,25,Made,1,50.0,57.0,107,v,Atkins 25' 3PT Jump Shot (13 PTS) (Stackhouse 3 AST),Made Shot,Jump Shot,0,292
+20101009,280,PT06M52.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,293
+20101009,281,PT06M52.00S,3,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,h,SUB: Mercer FOR Tinsley,Substitution,,0,294
+20101009,282,PT06M46.00S,3,1610612754,IND,1500,Mercer,R. Mercer,-50,116,13,Missed,1,,,0,h,MISS Mercer 13' Jump Shot,Missed Shot,Jump Shot,0,295
+20101009,284,PT06M44.00S,3,1610612754,IND,1802,Miller,B. Miller,0,0,0,,0,,,0,h,B. Miller REBOUND (Off:6 Def:6),Rebound,Unknown,0,296
+20101009,283,PT06M44.00S,3,1610612754,IND,1802,Miller,B. Miller,-8,0,1,Missed,1,,,0,h,MISS B. Miller 1' Layup,Missed Shot,Layup Shot,0,297
+20101009,285,PT06M42.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,Wallace REBOUND (Off:1 Def:5),Rebound,Unknown,0,298
+20101009,286,PT06M28.00S,3,1610612765,DET,1088,Atkins,C. Atkins,-229,-27,0,Made,1,50.0,60.0,110,v,Atkins 3PT Jump Shot (16 PTS) (Stackhouse 4 AST),Made Shot,Jump Shot,0,299
+20101009,287,PT06M03.00S,3,1610612754,IND,1897,World Peace,M. World Peace,-8,34,3,Missed,1,,,0,h,MISS World Peace 3' Jump Shot,Missed Shot,Jump Shot,0,300
+20101009,289,PT06M01.00S,3,1610612754,IND,1802,Miller,B. Miller,0,0,0,,0,,,0,h,B. Miller REBOUND (Off:7 Def:6),Rebound,Unknown,0,301
+20101009,288,PT06M01.00S,3,1610612754,IND,1802,Miller,B. Miller,3,4,1,Missed,1,,,0,h,MISS B. Miller 1' Layup,Missed Shot,Layup Shot,0,302
+20101009,288,PT06M01.00S,3,1610612765,DET,361,Robinson,C. Robinson,0,0,0,,0,,,0,v,Robinson BLOCK (2 BLK),,,0,303
+20101009,290,PT06M01.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,304
+20101009,291,PT06M01.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: Shot Clock (T#14),Turnover,Shot Clock Turnover,0,305
+20101009,292,PT05M49.00S,3,1610612754,IND,1500,Mercer,R. Mercer,0,0,0,,0,,,0,h,Mercer P.FOUL (P2.T3),Foul,Personal,0,306
+20101009,293,PT05M49.00S,3,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,,,0,h,SUB: O'Neal FOR Foster,Substitution,,0,307
+20101009,294,PT05M43.00S,3,1610612765,DET,711,Stackhouse,J. Stackhouse,39,11,4,Missed,1,,,0,v,MISS Stackhouse 4' Jump Shot,Missed Shot,Jump Shot,0,308
+20101009,295,PT05M41.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,Wallace REBOUND (Off:2 Def:5),Rebound,Unknown,0,309
+20101009,296,PT05M34.00S,3,1610612765,DET,361,Robinson,C. Robinson,-136,-27,14,Made,1,50.0,62.0,112,v,Robinson 14' Jump Shot (10 PTS) (Stackhouse 5 AST),Made Shot,Jump Shot,0,310
+20101009,297,PT05M11.00S,3,1610612754,IND,979,O'Neal,J. O'Neal,11,28,3,Missed,1,,,0,h,MISS O'Neal 3' Jump Shot,Missed Shot,Jump Shot,0,311
+20101009,298,PT05M09.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,Wallace REBOUND (Off:2 Def:6),Rebound,Unknown,0,312
+20101009,299,PT05M00.00S,3,1610612765,DET,361,Robinson,C. Robinson,18,61,6,Missed,1,,,0,v,MISS Robinson 6' Jump Shot,Missed Shot,Jump Shot,0,313
+20101009,300,PT04M59.00S,3,1610612754,IND,1897,World Peace,M. World Peace,0,0,0,,0,,,0,h,World Peace REBOUND (Off:1 Def:6),Rebound,Unknown,0,314
+20101009,301,PT04M51.00S,3,1610612754,IND,1500,Mercer,R. Mercer,-178,0,18,Missed,1,,,0,h,MISS Mercer 18' Jump Shot,Missed Shot,Jump Shot,0,315
+20101009,302,PT04M49.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,Wallace REBOUND (Off:2 Def:7),Rebound,Unknown,0,316
+20101009,303,PT04M31.00S,3,1610612754,IND,1802,Miller,B. Miller,0,0,0,,0,,,0,h,B. Miller P.FOUL (P4.T4),Foul,Personal,0,317
+20101009,304,PT04M31.00S,3,1610612754,IND,1897,World Peace,M. World Peace,0,0,0,,0,,,0,h,SUB: Bender FOR World Peace,Substitution,,0,318
+20101009,305,PT04M31.00S,3,1610612754,IND,1802,Miller,B. Miller,0,0,0,,0,,,0,h,SUB: Ollie FOR B. Miller,Substitution,,0,319
+20101009,306,PT04M25.00S,3,1610612765,DET,711,Stackhouse,J. Stackhouse,140,127,19,Missed,1,,,0,v,MISS Stackhouse 19' Jump Shot,Missed Shot,Jump Shot,0,320
+20101009,307,PT04M23.00S,3,1610612754,IND,1563,Ollie,K. Ollie,0,0,0,,0,,,0,h,Ollie REBOUND (Off:0 Def:2),Rebound,Unknown,0,321
+20101009,308,PT04M09.00S,3,1610612754,IND,979,O'Neal,J. O'Neal,104,-4,10,Missed,1,,,0,h,MISS O'Neal 10' Jump Shot,Missed Shot,Jump Shot,0,322
+20101009,309,PT04M07.00S,3,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,Stackhouse REBOUND (Off:1 Def:2),Rebound,Unknown,0,323
+20101009,310,PT03M47.00S,3,1610612765,DET,1088,Atkins,C. Atkins,-8,38,4,Made,1,50.0,64.0,114,v,Atkins 4' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,0,324
+20101009,311,PT03M20.00S,3,1610612754,IND,1500,Mercer,R. Mercer,191,-27,19,Made,1,52.0,64.0,116,h,Mercer 19' Jump Shot (2 PTS) (Ollie 3 AST),Made Shot,Jump Shot,0,325
+20101009,312,PT03M11.00S,3,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,326
+20101009,314,PT03M03.00S,3,1610612765,DET,361,Robinson,C. Robinson,-8,4,1,Made,1,52.0,66.0,118,v,Robinson 1' Layup (12 PTS) (Stackhouse 6 AST),Made Shot,Layup Shot,0,327
+20101009,315,PT03M03.00S,3,1610612754,IND,1886,Bender,J. Bender,0,0,0,,0,,,0,h,Bender S.FOUL (P2.PN),Foul,Shooting,0,328
+20101009,316,PT03M03.00S,3,1610612765,DET,361,Robinson,C. Robinson,0,0,0,,0,52.0,67.0,119,v,Robinson Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,329
+20101009,317,PT02M44.00S,3,1610612754,IND,979,O'Neal,J. O'Neal,-86,0,9,Made,1,54.0,67.0,121,h,O'Neal 9' Turnaround Jump Shot (9 PTS),Made Shot,Turnaround Jump Shot,0,330
+20101009,318,PT02M31.00S,3,1610612765,DET,1088,Atkins,C. Atkins,0,0,0,,0,,,0,v,Atkins OFF.Foul (P3),Foul,Offensive,0,331
+20101009,319,PT02M31.00S,3,1610612765,DET,1088,Atkins,C. Atkins,0,0,0,,0,,,0,v,Atkins Foul Turnover (P1.T6),Turnover,Foul,0,332
+20101009,320,PT02M16.00S,3,1610612754,IND,979,O'Neal,J. O'Neal,-115,-15,12,Missed,1,,,0,h,MISS O'Neal 12' Jump Shot,Missed Shot,Jump Shot,0,333
+20101009,321,PT02M15.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,Wallace REBOUND (Off:2 Def:8),Rebound,Unknown,0,334
+20101009,322,PT02M03.00S,3,1610612754,IND,1500,Mercer,R. Mercer,0,0,0,,0,,,0,h,Mercer P.FOUL (P3.PN),Foul,Personal,0,335
+20101009,323,PT02M03.00S,3,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,54.0,68.0,122,v,Stackhouse Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,336
+20101009,324,PT02M03.00S,3,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,,,0,v,MISS Stackhouse Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,337
+20101009,325,PT02M02.00S,3,1610612754,IND,1886,Bender,J. Bender,0,0,0,,0,,,0,h,Bender REBOUND (Off:0 Def:1),Rebound,Unknown,0,338
+20101009,326,PT01M50.00S,3,1610612754,IND,979,O'Neal,J. O'Neal,-29,34,4,Made,1,56.0,68.0,124,h,O'Neal 4' Jump Shot (11 PTS) (Ollie 4 AST),Made Shot,Jump Shot,0,339
+20101009,327,PT01M50.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,Wallace S.FOUL (P3.T3),Foul,Shooting,0,340
+20101009,328,PT01M50.00S,3,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,h,MISS O'Neal Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,341
+20101009,329,PT01M49.00S,3,1610612765,DET,361,Robinson,C. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:1 Def:3),Rebound,Unknown,0,342
+20101009,330,PT01M33.00S,3,1610612765,DET,711,Stackhouse,J. Stackhouse,3,15,2,Missed,1,,,0,v,MISS Stackhouse 2' Layup,Missed Shot,Layup Shot,0,343
+20101009,330,PT01M33.00S,3,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,h,O'Neal BLOCK (2 BLK),,,0,344
+20101009,331,PT01M31.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,Wallace REBOUND (Off:3 Def:8),Rebound,Unknown,0,345
+20101009,332,PT01M29.00S,3,1610612765,DET,1112,Wallace,B. Wallace,3,28,3,Missed,1,,,0,v,MISS Wallace 3' Layup,Missed Shot,Layup Shot,0,346
+20101009,333,PT01M28.00S,3,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,h,O'Neal REBOUND (Off:2 Def:5),Rebound,Unknown,0,347
+20101009,334,PT01M22.00S,3,1610612754,IND,1500,Mercer,R. Mercer,-151,-27,15,Made,1,58.0,68.0,126,h,Mercer 15' Jump Shot (4 PTS) (R. Miller 4 AST),Made Shot,Jump Shot,0,348
+20101009,335,PT00M58.50S,3,1610612765,DET,688,Curry,M. Curry,-223,137,26,Missed,1,,,0,v,MISS Curry 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,349
+20101009,336,PT00M56.30S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,Wallace REBOUND (Off:4 Def:8),Rebound,Unknown,0,350
+20101009,337,PT00M55.20S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,Wallace Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,351
+20101009,337,PT00M55.20S,3,1610612754,IND,1500,Mercer,R. Mercer,0,0,0,,0,,,0,h,Mercer STEAL (1 STL),,,0,352
+20101009,338,PT00M50.60S,3,1610612754,IND,1886,Bender,J. Bender,0,0,0,,0,,,0,h,Bender OFF.Foul (P3),Foul,Offensive,0,353
+20101009,339,PT00M50.60S,3,1610612754,IND,1886,Bender,J. Bender,0,0,0,,0,,,0,h,Bender Foul Turnover (P1.T15),Turnover,Foul,0,354
+20101009,340,PT00M50.60S,3,1610612754,IND,1886,Bender,J. Bender,0,0,0,,0,,,0,h,SUB: World Peace FOR Bender,Substitution,,0,355
+20101009,341,PT00M31.40S,3,1610612765,DET,711,Stackhouse,J. Stackhouse,176,-15,18,Missed,1,,,0,v,MISS Stackhouse 18' Jump Shot,Missed Shot,Jump Shot,0,356
+20101009,342,PT00M29.90S,3,1610612754,IND,1500,Mercer,R. Mercer,0,0,0,,0,,,0,h,Mercer REBOUND (Off:0 Def:2),Rebound,Unknown,0,357
+20101009,343,PT00M09.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,SUB: Rebraca FOR Wallace,Substitution,,0,358
+20101009,344,PT00M06.70S,3,1610612754,IND,979,O'Neal,J. O'Neal,140,-8,14,Missed,1,,,0,h,MISS O'Neal 14' Jump Shot,Missed Shot,Jump Shot,0,359
+20101009,345,PT00M04.30S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,360
+20101009,346,PT00M04.30S,3,1610612765,DET,1088,Atkins,C. Atkins,0,0,0,,0,,,0,v,SUB: Jones FOR Atkins,Substitution,,0,361
+20101009,347,PT00M02.60S,3,1610612754,IND,1500,Mercer,R. Mercer,-166,-15,17,Made,1,60.0,68.0,128,h,Mercer 17' Jump Shot (6 PTS) (Ollie 5 AST),Made Shot,Jump Shot,0,362
+20101009,348,PT00M00.00S,3,1610612765,DET,688,Curry,M. Curry,-223,122,25,Missed,1,,,0,v,MISS Curry 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,363
+20101009,349,PT00M00.00S,3,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Rebound,Rebound,Unknown,0,364
+20101009,350,PT00M00.00S,3,0,,0,,,0,0,0,,0,60.0,68.0,128,,End of 3rd Period (8:47 PM EST),period,end,0,365
+20101009,352,PT12M00.00S,4,0,,0,,,0,0,0,,0,60.0,68.0,128,,Start of 4th Period (8:50 PM EST),period,start,0,366
+20101009,353,PT11M44.00S,4,1610612765,DET,1800,Jones,D. Jones,0,0,0,,0,,,0,v,Jones Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,367
+20101009,353,PT11M44.00S,4,1610612754,IND,1897,World Peace,M. World Peace,0,0,0,,0,,,0,h,World Peace STEAL (3 STL),,,0,368
+20101009,354,PT11M24.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Short (Full 3 Short 2),Timeout,Short,0,369
+20101009,355,PT11M20.00S,4,1610612754,IND,1897,World Peace,M. World Peace,-157,209,26,Missed,1,,,0,h,MISS World Peace 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,370
+20101009,356,PT11M19.00S,4,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Rebound,Rebound,Unknown,0,371
+20101009,357,PT11M01.00S,4,1610612765,DET,722,Williamson,C. Williamson,-8,93,9,Missed,1,,,0,v,MISS Williamson 9' Jump Shot,Missed Shot,Jump Shot,0,372
+20101009,358,PT10M59.00S,4,1610612765,DET,1800,Jones,D. Jones,0,0,0,,0,,,0,v,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,373
+20101009,359,PT10M54.00S,4,1610612765,DET,722,Williamson,C. Williamson,0,0,0,,0,,,0,v,Williamson OFF.Foul (P3),Foul,Offensive,0,374
+20101009,360,PT10M54.00S,4,1610612765,DET,722,Williamson,C. Williamson,0,0,0,,0,,,0,v,Williamson Foul Turnover (P3.T9),Turnover,Foul,0,375
+20101009,361,PT10M32.00S,4,1610612754,IND,1500,Mercer,R. Mercer,167,-21,17,Made,1,62.0,68.0,130,h,Mercer 17' Jump Shot (8 PTS) (Ollie 6 AST),Made Shot,Jump Shot,0,376
+20101009,362,PT10M14.00S,4,1610612765,DET,1442,Rebraca,Z. Rebraca,47,28,5,Missed,1,,,0,v,MISS Rebraca 5' Jump Shot,Missed Shot,Jump Shot,0,377
+20101009,362,PT10M14.00S,4,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,h,O'Neal BLOCK (3 BLK),,,0,378
+20101009,363,PT10M12.00S,4,1610612754,IND,1563,Ollie,K. Ollie,0,0,0,,0,,,0,h,Ollie REBOUND (Off:0 Def:3),Rebound,Unknown,0,379
+20101009,364,PT10M06.00S,4,1610612754,IND,1500,Mercer,R. Mercer,-1,194,19,Made,1,64.0,68.0,132,h,Mercer 19' Jump Shot (10 PTS) (R. Miller 5 AST),Made Shot,Jump Shot,0,380
+20101009,365,PT10M04.00S,4,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,381
+20101009,366,PT09M48.00S,4,1610612754,IND,1897,World Peace,M. World Peace,0,0,0,,0,,,0,h,World Peace S.FOUL (P4.T1),Foul,Shooting,0,382
+20101009,367,PT09M48.00S,4,1610612765,DET,722,Williamson,C. Williamson,0,0,0,,0,64.0,69.0,133,v,Williamson Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,383
+20101009,368,PT09M48.00S,4,1610612765,DET,1442,Rebraca,Z. Rebraca,0,0,0,,0,,,0,v,SUB: Curry FOR Rebraca,Substitution,,0,384
+20101009,369,PT09M48.00S,4,1610612765,DET,722,Williamson,C. Williamson,0,0,0,,0,64.0,70.0,134,v,Williamson Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,385
+20101009,370,PT09M31.00S,4,1610612754,IND,1897,World Peace,M. World Peace,233,82,25,Missed,1,,,0,h,MISS World Peace 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,386
+20101009,371,PT09M31.00S,4,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Rebound,Rebound,Unknown,0,387
+20101009,372,PT09M31.00S,4,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,h,O'Neal L.B.FOUL (P5.T2),Foul,Loose Ball,0,388
+20101009,373,PT09M20.00S,4,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,h,SUB: Foster FOR O'Neal,Substitution,,0,389
+20101009,374,PT09M13.00S,4,1610612765,DET,468,Barry,J. Barry,-1,11,1,Made,1,64.0,72.0,136,v,Barry 1' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,0,390
+20101009,375,PT08M55.00S,4,1610612754,IND,1500,Mercer,R. Mercer,0,0,0,,0,,,0,h,Mercer Lost Ball Turnover (P1.T16),Turnover,Lost Ball,0,391
+20101009,375,PT08M55.00S,4,1610612765,DET,1800,Jones,D. Jones,0,0,0,,0,,,0,v,Jones STEAL (1 STL),,,0,392
+20101009,376,PT08M51.00S,4,1610612765,DET,688,Curry,M. Curry,11,11,2,Made,1,64.0,74.0,138,v,Curry 2' Dunk (5 PTS) (Barry 2 AST),Made Shot,Dunk Shot,0,393
+20101009,377,PT08M31.00S,4,1610612754,IND,1897,World Peace,M. World Peace,68,106,13,Missed,1,,,0,h,MISS World Peace 13' Jump Shot,Missed Shot,Jump Shot,0,394
+20101009,378,PT08M30.00S,4,1610612765,DET,468,Barry,J. Barry,0,0,0,,0,,,0,v,Barry REBOUND (Off:0 Def:3),Rebound,Unknown,0,395
+20101009,379,PT08M15.00S,4,1610612765,DET,468,Barry,J. Barry,-223,177,28,Made,1,64.0,77.0,141,v,Barry 28' 3PT Jump Shot (8 PTS),Made Shot,Jump Shot,0,396
+20101009,380,PT08M12.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 2),Timeout,Regular,0,397
+20101009,381,PT08M12.00S,4,1610612754,IND,1902,Foster,J. Foster,0,0,0,,0,,,0,h,SUB: B. Miller FOR Foster,Substitution,,0,398
+20101009,387,PT08M12.00S,4,1610612754,IND,1897,World Peace,M. World Peace,0,0,0,,0,,,0,h,SUB: O'Neal FOR World Peace,Substitution,,0,399
+20101009,382,PT07M49.00S,4,1610612754,IND,1500,Mercer,R. Mercer,119,112,16,Missed,1,,,0,h,MISS Mercer 16' Jump Shot,Missed Shot,Jump Shot,0,400
+20101009,383,PT07M47.00S,4,1610612765,DET,468,Barry,J. Barry,0,0,0,,0,,,0,v,Barry REBOUND (Off:0 Def:4),Rebound,Unknown,0,401
+20101009,384,PT07M35.00S,4,1610612765,DET,722,Williamson,C. Williamson,-23,45,5,Made,1,64.0,79.0,143,v,Williamson 5' Jump Shot (11 PTS) (Barry 3 AST),Made Shot,Jump Shot,0,402
+20101009,385,PT07M22.00S,4,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,,,0,h,R. Miller Bad Pass Turnover (P3.T17),Turnover,Bad Pass,0,403
+20101009,385,PT07M22.00S,4,1610612765,DET,688,Curry,M. Curry,0,0,0,,0,,,0,v,Curry STEAL (3 STL),,,0,404
+20101009,386,PT07M08.00S,4,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,,,0,h,R. Miller P.FOUL (P2.T3),Foul,Personal,0,405
+20101009,388,PT07M03.00S,4,1610612765,DET,722,Williamson,C. Williamson,3,4,1,Made,1,64.0,81.0,145,v,Williamson 1' Layup (13 PTS) (Barry 4 AST),Made Shot,Layup Shot,0,406
+20101009,389,PT06M48.00S,4,1610612754,IND,1563,Ollie,K. Ollie,0,0,0,,0,,,0,h,SUB: Tinsley FOR Ollie,Substitution,,0,407
+20101009,390,PT06M39.00S,4,1610612754,IND,2224,Tinsley,J. Tinsley,-124,228,26,Made,1,67.0,81.0,148,h,Tinsley 26' 3PT Jump Shot (5 PTS) (R. Miller 6 AST),Made Shot,Jump Shot,0,408
+20101009,391,PT06M21.00S,4,1610612765,DET,722,Williamson,C. Williamson,11,11,2,Made,1,67.0,83.0,150,v,Williamson 2' Reverse Layup (15 PTS) (Barry 5 AST),Made Shot,Reverse Layup Shot,0,409
+20101009,392,PT06M00.00S,4,1610612754,IND,1802,Miller,B. Miller,0,0,0,,0,,,0,h,B. Miller Lost Ball Turnover (P4.T18),Turnover,Lost Ball,0,410
+20101009,392,PT06M00.00S,4,1610612765,DET,468,Barry,J. Barry,0,0,0,,0,,,0,v,Barry STEAL (1 STL),,,0,411
+20101009,393,PT05M51.00S,4,1610612754,IND,1802,Miller,B. Miller,0,0,0,,0,,,0,h,B. Miller S.FOUL (P5.T4),Foul,Shooting,0,412
+20101009,394,PT05M51.00S,4,1610612765,DET,1800,Jones,D. Jones,0,0,0,,0,67.0,84.0,151,v,Jones Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,413
+20101009,395,PT05M51.00S,4,1610612765,DET,361,Robinson,C. Robinson,0,0,0,,0,,,0,v,SUB: Wallace FOR Robinson,Substitution,,0,414
+20101009,396,PT05M51.00S,4,1610612765,DET,1800,Jones,D. Jones,0,0,0,,0,67.0,85.0,152,v,Jones Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,415
+20101009,397,PT05M38.00S,4,1610612754,IND,397,Miller,R. Miller,-157,133,21,Made,1,69.0,85.0,154,h,R. Miller 21' Jump Shot (15 PTS) (Tinsley 4 AST),Made Shot,Jump Shot,0,416
+20101009,398,PT05M14.00S,4,1610612765,DET,1800,Jones,D. Jones,-101,243,26,Missed,1,,,0,v,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,417
+20101009,399,PT05M11.00S,4,1610612754,IND,1802,Miller,B. Miller,0,0,0,,0,,,0,h,B. Miller REBOUND (Off:7 Def:7),Rebound,Unknown,0,418
+20101009,400,PT05M04.00S,4,1610612754,IND,2224,Tinsley,J. Tinsley,191,177,26,Missed,1,,,0,h,MISS Tinsley 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,419
+20101009,401,PT05M02.00S,4,1610612754,IND,1802,Miller,B. Miller,0,0,0,,0,,,0,h,B. Miller REBOUND (Off:8 Def:7),Rebound,Unknown,0,420
+20101009,402,PT04M55.00S,4,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,Wallace P.FOUL (P4.T1),Foul,Personal,0,421
+20101009,403,PT04M47.00S,4,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,h,Tinsley Lost Ball Turnover (P6.T19),Turnover,Lost Ball,0,422
+20101009,403,PT04M47.00S,4,1610612765,DET,1800,Jones,D. Jones,0,0,0,,0,,,0,v,Jones STEAL (2 STL),,,0,423
+20101009,404,PT04M22.00S,4,1610612765,DET,1112,Wallace,B. Wallace,132,133,19,Missed,1,,,0,v,MISS Wallace 19' Jump Shot,Missed Shot,Jump Shot,0,424
+20101009,405,PT04M21.00S,4,1610612765,DET,1800,Jones,D. Jones,0,0,0,,0,,,0,v,Jones REBOUND (Off:2 Def:1),Rebound,Unknown,0,425
+20101009,406,PT04M07.00S,4,1610612765,DET,722,Williamson,C. Williamson,3,-15,2,Made,1,69.0,87.0,156,v,Williamson 2' Slam Dunk (17 PTS),Made Shot,Slam Dunk Shot,0,426
+20101009,407,PT03M50.00S,4,1610612754,IND,397,Miller,R. Miller,-8,89,9,Missed,1,,,0,h,MISS R. Miller 9' Jump Shot,Missed Shot,Jump Shot,0,427
+20101009,408,PT03M49.00S,4,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,Wallace REBOUND (Off:4 Def:9),Rebound,Unknown,0,428
+20101009,409,PT03M33.00S,4,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,h,Tinsley P.FOUL (P2.PN),Foul,Personal,0,429
+20101009,410,PT03M33.00S,4,1610612765,DET,722,Williamson,C. Williamson,0,0,0,,0,69.0,88.0,157,v,Williamson Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,430
+20101009,411,PT03M33.00S,4,1610612765,DET,722,Williamson,C. Williamson,0,0,0,,0,69.0,89.0,158,v,Williamson Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,431
+20101009,412,PT03M21.00S,4,1610612754,IND,1500,Mercer,R. Mercer,11,4,1,Made,1,71.0,89.0,160,h,Mercer 1' Reverse Layup (12 PTS),Made Shot,Reverse Layup Shot,0,432
+20101009,413,PT02M57.00S,4,1610612765,DET,722,Williamson,C. Williamson,-8,55,6,Made,1,71.0,91.0,162,v,Williamson 6' Hook Shot (21 PTS),Made Shot,Hook Shot,0,433
+20101009,414,PT02M41.00S,4,1610612754,IND,1802,Miller,B. Miller,11,11,2,Made,1,73.0,91.0,164,h,B. Miller 2' Layup (18 PTS) (Tinsley 5 AST),Made Shot,Layup Shot,0,434
+20101009,415,PT02M19.00S,4,1610612765,DET,722,Williamson,C. Williamson,-145,61,16,Made,1,73.0,93.0,166,v,Williamson 16' Jump Shot (23 PTS),Made Shot,Jump Shot,0,435
+20101009,416,PT02M02.00S,4,1610612754,IND,1500,Mercer,R. Mercer,0,0,0,,0,,,0,h,Mercer Bad Pass Turnover (P2.T20),Turnover,Bad Pass,0,436
+20101009,416,PT02M02.00S,4,1610612765,DET,468,Barry,J. Barry,0,0,0,,0,,,0,v,Barry STEAL (2 STL),,,0,437
+20101009,417,PT01M41.00S,4,1610612765,DET,468,Barry,J. Barry,-166,72,18,Made,1,73.0,95.0,168,v,Barry 18' Jump Shot (10 PTS) (Wallace 1 AST),Made Shot,Jump Shot,0,438
+20101009,418,PT01M34.00S,4,1610612754,IND,397,Miller,R. Miller,212,154,26,Missed,1,,,0,h,MISS R. Miller 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,439
+20101009,419,PT01M32.00S,4,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,Wallace REBOUND (Off:4 Def:10),Rebound,Unknown,0,440
+20101009,420,PT01M16.00S,4,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,441
+20101009,421,PT01M16.00S,4,1610612765,DET,722,Williamson,C. Williamson,0,0,0,,0,,,0,v,Williamson T.FOUL (P3.T1),Foul,Technical,0,442
+20101009,422,PT01M16.00S,4,1610612765,DET,722,Williamson,C. Williamson,0,0,0,,0,,,0,v,Williamson Ejection:Other,Ejection,Other,0,443
+20101009,424,PT01M16.00S,4,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,h,O'Neal FLAGRANT.FOUL.TYPE2 (P6.PN),Foul,Flagrant Type 2,0,444
+20101009,425,PT01M16.00S,4,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,,,0,h,O'Neal Ejection:First Flagrant Type 2,Ejection,First Flagrant Type 2,0,445
+20101009,427,PT01M16.00S,4,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,74.0,95.0,169,h,R. Miller Free Throw Technical (16 PTS),Free Throw,Free Throw Technical,0,446
+20101009,429,PT01M16.00S,4,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,SUB: White FOR Wallace,Substitution,,0,447
+20101009,430,PT01M16.00S,4,1610612765,DET,361,Robinson,C. Robinson,0,0,0,,0,,,0,v,SUB: Alexander FOR Robinson,Substitution,,0,448
+20101009,431,PT01M16.00S,4,1610612765,DET,468,Barry,J. Barry,0,0,0,,0,,,0,v,SUB: Rebraca FOR Barry,Substitution,,0,449
+20101009,432,PT01M16.00S,4,1610612765,DET,2206,White,R. White,0,0,0,,0,,,0,v,MISS White Free Throw Flagrant 1 of 1,Free Throw,Free Throw Flagrant 1 of 1,0,450
+20101009,433,PT01M16.00S,4,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Rebound,Rebound,Normal Rebound,0,451
+20101009,434,PT01M16.00S,4,1610612765,DET,2206,White,R. White,0,0,0,,0,74.0,96.0,170,v,White Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,452
+20101009,435,PT01M16.00S,4,1610612765,DET,688,Curry,M. Curry,0,0,0,,0,,,0,v,SUB: Moore FOR Curry,Substitution,,0,453
+20101009,436,PT01M12.00S,4,1610612754,IND,1563,Ollie,K. Ollie,0,0,0,,0,,,0,h,SUB: Foster FOR Ollie,Substitution,,0,454
+20101009,445,PT01M12.00S,4,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,,,0,h,SUB: World Peace FOR R. Miller,Substitution,,0,455
+20101009,437,PT01M08.00S,4,1610612765,DET,1800,Jones,D. Jones,0,0,0,,0,,,0,v,Jones Out Of Bounds Turnover (P2.T10),Turnover,Out Of Bounds,0,456
+20101009,438,PT00M49.10S,4,1610612754,IND,2224,Tinsley,J. Tinsley,191,171,26,Missed,1,,,0,h,MISS Tinsley 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,457
+20101009,439,PT00M47.00S,4,1610612765,DET,2206,White,R. White,0,0,0,,0,,,0,v,White REBOUND (Off:0 Def:1),Rebound,Unknown,0,458
+20101009,440,PT00M37.20S,4,1610612765,DET,2206,White,R. White,0,0,0,,0,,,0,v,White Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,459
+20101009,440,PT00M37.20S,4,1610612754,IND,1897,World Peace,M. World Peace,0,0,0,,0,,,0,h,World Peace STEAL (4 STL),,,0,460
+20101009,441,PT00M33.40S,4,1610612754,IND,1897,World Peace,M. World Peace,0,0,0,,0,,,0,h,World Peace OFF.Foul (P5),Foul,Offensive,0,461
+20101009,442,PT00M33.40S,4,1610612754,IND,1897,World Peace,M. World Peace,0,0,0,,0,,,0,h,World Peace Foul Turnover (P2.T21),Turnover,Foul,0,462
+20101009,443,PT00M19.00S,4,1610612765,DET,1442,Rebraca,Z. Rebraca,-101,-15,10,Missed,1,,,0,v,MISS Rebraca 10' Jump Shot,Missed Shot,Jump Shot,0,463
+20101009,444,PT00M16.90S,4,1610612754,IND,1897,World Peace,M. World Peace,0,0,0,,0,,,0,h,World Peace REBOUND (Off:1 Def:7),Rebound,Unknown,0,464
+20101009,446,PT00M04.90S,4,1610612754,IND,1897,World Peace,M. World Peace,-115,255,28,Missed,1,,,0,h,MISS World Peace 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,465
+20101009,447,PT00M02.60S,4,1610612754,IND,2224,Tinsley,J. Tinsley,0,0,0,,0,,,0,h,Tinsley REBOUND (Off:2 Def:1),Rebound,Unknown,0,466
+20101009,448,PT00M01.00S,4,1610612754,IND,1500,Mercer,R. Mercer,205,137,25,Made,1,77.0,96.0,173,h,Mercer 25' 3PT Jump Shot (15 PTS) (Tinsley 6 AST),Made Shot,Jump Shot,0,467
+20101009,449,PT00M00.00S,4,0,,0,,,0,0,0,,0,77.0,96.0,173,,End of 4th Period (9:19 PM EST),period,end,0,468

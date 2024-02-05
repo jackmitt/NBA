@@ -1,0 +1,459 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+20100597,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (7:11 PM EST),period,start,0,1
+20100597,1,PT12M00.00S,1,1610612764,WAS,1751,White,J. White,0,0,0,,0,0.0,0.0,0,h,Jump Ball White vs. Mihm: Tip to Miller,Jump Ball,,0,2
+20100597,2,PT11M47.00S,1,1610612739,CLE,2036,Mihm,C. Mihm,0,0,0,,0,0.0,0.0,0,v,Mihm Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,3
+20100597,2,PT11M47.00S,1,1610612764,WAS,893,Jordan,M. Jordan,0,0,0,,0,0.0,0.0,0,h,Jordan STEAL (1 STL),,,0,4
+20100597,3,PT11M30.00S,1,1610612764,WAS,1751,White,J. White,0,0,0,,0,0.0,0.0,0,h,White Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,5
+20100597,3,PT11M30.00S,1,1610612739,CLE,2036,Mihm,C. Mihm,0,0,0,,0,0.0,0.0,0,v,Mihm STEAL (1 STL),,,0,6
+20100597,4,PT11M26.00S,1,1610612739,CLE,445,Person,W. Person,199,-13,20,Made,1,0.0,2.0,2,v,Person 20' Jump Shot (2 PTS) (Miller 1 AST),Made Shot,Jump Shot,0,7
+20100597,5,PT11M08.00S,1,1610612764,WAS,893,Jordan,M. Jordan,169,87,19,Made,1,2.0,2.0,4,h,Jordan 19' Jump Shot (2 PTS) (Jones 1 AST),Made Shot,Jump Shot,0,8
+20100597,6,PT10M53.00S,1,1610612739,CLE,2036,Mihm,C. Mihm,32,30,4,Missed,1,0.0,0.0,0,v,MISS Mihm 4' Jump Shot,Missed Shot,Jump Shot,0,9
+20100597,7,PT10M51.00S,1,1610612739,CLE,1730,Skinner,B. Skinner,0,0,0,,0,0.0,0.0,0,v,Skinner REBOUND (Off:1 Def:0),Rebound,Unknown,0,10
+20100597,8,PT10M47.00S,1,1610612739,CLE,445,Person,W. Person,-94,137,17,Made,1,2.0,4.0,6,v,Person 17' Jump Shot (4 PTS) (Skinner 1 AST),Made Shot,Jump Shot,0,11
+20100597,9,PT10M24.00S,1,1610612764,WAS,1751,White,J. White,24,19,3,Missed,1,0.0,0.0,0,h,MISS White 3' Jump Shot,Missed Shot,Jump Shot,0,12
+20100597,10,PT10M23.00S,1,1610612764,WAS,461,Jones,P. Jones,0,0,0,,0,0.0,0.0,0,h,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,13
+20100597,11,PT10M22.00S,1,1610612764,WAS,461,Jones,P. Jones,-10,19,2,Missed,1,0.0,0.0,0,h,MISS Jones 2' Layup,Missed Shot,Layup Shot,0,14
+20100597,12,PT10M21.00S,1,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Rebound,Rebound,Unknown,0,15
+20100597,13,PT10M21.00S,1,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Turnover: Shot Clock (T#2),Turnover,Shot Clock Turnover,0,16
+20100597,14,PT10M09.00S,1,1610612739,CLE,445,Person,W. Person,-117,42,12,Made,1,2.0,6.0,8,v,Person 12' Jump Shot (6 PTS),Made Shot,Jump Shot,0,17
+20100597,15,PT09M49.00S,1,1610612764,WAS,43,Whitney,C. Whitney,235,-29,24,Made,1,5.0,6.0,11,h,Whitney 24' 3PT Jump Shot (3 PTS) (Davis 1 AST),Made Shot,Jump Shot,0,18
+20100597,16,PT09M36.00S,1,1610612739,CLE,445,Person,W. Person,-197,-29,20,Made,1,5.0,8.0,13,v,Person 20' Jump Shot (8 PTS) (Miller 2 AST),Made Shot,Jump Shot,0,19
+20100597,17,PT09M13.00S,1,1610612764,WAS,461,Jones,P. Jones,-10,120,12,Missed,1,0.0,0.0,0,h,MISS Jones 12' Jump Shot,Missed Shot,Jump Shot,0,20
+20100597,18,PT09M12.00S,1,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Rebound,Rebound,Unknown,0,21
+20100597,19,PT09M06.00S,1,1610612764,WAS,1751,White,J. White,3,-6,1,Made,1,7.0,8.0,15,h,White 1' Layup (2 PTS) (Davis 2 AST),Made Shot,Layup Shot,0,22
+20100597,20,PT09M06.00S,1,1610612739,CLE,2036,Mihm,C. Mihm,0,0,0,,0,0.0,0.0,0,v,Mihm S.FOUL (P1.T1),Foul,Shooting,0,23
+20100597,21,PT09M06.00S,1,1610612764,WAS,1751,White,J. White,0,0,0,,0,0.0,0.0,0,h,MISS White Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,24
+20100597,22,PT09M05.00S,1,1610612739,CLE,1908,Jones,J. Jones,0,0,0,,0,0.0,0.0,0,v,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,25
+20100597,23,PT08M59.00S,1,1610612739,CLE,1730,Skinner,B. Skinner,3,4,1,Made,1,7.0,10.0,17,v,Skinner 1' Dunk (2 PTS) (Jones 1 AST),Made Shot,Dunk Shot,0,26
+20100597,24,PT08M42.00S,1,1610612739,CLE,1908,Jones,J. Jones,0,0,0,,0,0.0,0.0,0,v,Jones P.FOUL (P1.T2),Foul,Personal,0,27
+20100597,25,PT08M32.00S,1,1610612764,WAS,893,Jordan,M. Jordan,-10,99,10,Missed,1,0.0,0.0,0,h,MISS Jordan 10' Jump Shot,Missed Shot,Jump Shot,0,28
+20100597,26,PT08M30.00S,1,1610612764,WAS,461,Jones,P. Jones,0,0,0,,0,0.0,0.0,0,h,Jones REBOUND (Off:2 Def:0),Rebound,Unknown,0,29
+20100597,27,PT08M28.00S,1,1610612764,WAS,461,Jones,P. Jones,0,0,0,,0,0.0,0.0,0,h,Jones Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,30
+20100597,27,PT08M28.00S,1,1610612739,CLE,1730,Skinner,B. Skinner,0,0,0,,0,0.0,0.0,0,v,Skinner STEAL (1 STL),,,0,31
+20100597,28,PT08M28.00S,1,1610612739,CLE,1730,Skinner,B. Skinner,0,0,0,,0,0.0,0.0,0,v,Skinner Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,32
+20100597,28,PT08M28.00S,1,1610612764,WAS,461,Jones,P. Jones,0,0,0,,0,0.0,0.0,0,h,Jones STEAL (1 STL),,,0,33
+20100597,29,PT08M23.00S,1,1610612764,WAS,893,Jordan,M. Jordan,106,93,14,Made,1,9.0,10.0,19,h,Jordan 14' Jump Shot (4 PTS) (Davis 3 AST),Made Shot,Jump Shot,0,34
+20100597,31,PT08M04.00S,1,1610612739,CLE,1889,Miller,A. Miller,32,0,3,Made,1,9.0,12.0,21,v,Miller 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,35
+20100597,32,PT07M45.00S,1,1610612764,WAS,461,Jones,P. Jones,163,-34,17,Missed,1,0.0,0.0,0,h,MISS Jones 17' Jump Shot,Missed Shot,Jump Shot,0,36
+20100597,33,PT07M43.00S,1,1610612739,CLE,1908,Jones,J. Jones,0,0,0,,0,0.0,0.0,0,v,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,37
+20100597,34,PT07M29.00S,1,1610612739,CLE,1908,Jones,J. Jones,-147,211,26,Missed,1,0.0,0.0,0,v,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,38
+20100597,35,PT07M26.00S,1,1610612764,WAS,43,Whitney,C. Whitney,0,0,0,,0,0.0,0.0,0,h,Whitney REBOUND (Off:0 Def:1),Rebound,Unknown,0,39
+20100597,36,PT07M21.00S,1,1610612764,WAS,893,Jordan,M. Jordan,-10,4,1,Made,1,11.0,12.0,23,h,Jordan 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,40
+20100597,37,PT07M07.00S,1,1610612739,CLE,445,Person,W. Person,-103,116,16,Made,1,11.0,14.0,25,v,Person 16' Jump Shot (10 PTS) (Miller 3 AST),Made Shot,Jump Shot,0,41
+20100597,38,PT06M43.00S,1,1610612764,WAS,893,Jordan,M. Jordan,163,76,18,Made,1,13.0,14.0,27,h,Jordan 18' Jump Shot (8 PTS) (Davis 4 AST),Made Shot,Jump Shot,0,42
+20100597,39,PT06M20.00S,1,1610612739,CLE,1889,Miller,A. Miller,157,116,20,Made,1,13.0,16.0,29,v,Miller 20' Jump Shot (4 PTS),Made Shot,Jump Shot,0,43
+20100597,40,PT06M02.00S,1,1610612764,WAS,893,Jordan,M. Jordan,-16,4,2,Missed,1,0.0,0.0,0,h,MISS Jordan 2' Layup,Missed Shot,Layup Shot,0,44
+20100597,41,PT06M00.00S,1,1610612764,WAS,461,Jones,P. Jones,0,0,0,,0,0.0,0.0,0,h,Jones REBOUND (Off:3 Def:0),Rebound,Unknown,0,45
+20100597,42,PT05M56.00S,1,1610612764,WAS,893,Jordan,M. Jordan,18,0,2,Made,1,15.0,16.0,31,h,Jordan 2' Layup (10 PTS) (Jones 2 AST),Made Shot,Layup Shot,0,46
+20100597,43,PT05M46.00S,1,1610612764,WAS,1751,White,J. White,0,0,0,,0,0.0,0.0,0,h,White P.FOUL (P1.T1),Foul,Personal,0,47
+20100597,44,PT05M46.00S,1,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,48
+20100597,46,PT05M36.00S,1,1610612739,CLE,445,Person,W. Person,-162,30,16,Missed,1,0.0,0.0,0,v,MISS Person 16' Jump Shot,Missed Shot,Jump Shot,0,49
+20100597,47,PT05M35.00S,1,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,v,Cavaliers Rebound,Rebound,Unknown,0,50
+20100597,48,PT05M28.00S,1,1610612739,CLE,445,Person,W. Person,-189,30,19,Made,1,15.0,18.0,33,v,Person 19' Jump Shot (12 PTS) (Miller 4 AST),Made Shot,Jump Shot,0,51
+20100597,49,PT05M12.00S,1,1610612764,WAS,43,Whitney,C. Whitney,0,0,0,,0,0.0,0.0,0,h,Whitney Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,52
+20100597,49,PT05M12.00S,1,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,Miller STEAL (1 STL),,,0,53
+20100597,50,PT05M02.00S,1,1610612739,CLE,1908,Jones,J. Jones,-197,-44,20,Missed,1,0.0,0.0,0,v,MISS Jones 20' Jump Shot,Missed Shot,Jump Shot,0,54
+20100597,51,PT05M00.00S,1,1610612739,CLE,1730,Skinner,B. Skinner,0,0,0,,0,0.0,0.0,0,v,Skinner REBOUND (Off:2 Def:0),Rebound,Unknown,0,55
+20100597,52,PT04M47.00S,1,1610612739,CLE,1730,Skinner,B. Skinner,0,0,0,,0,0.0,0.0,0,v,Skinner Lost Ball Turnover (P2.T3),Turnover,Lost Ball,0,56
+20100597,52,PT04M47.00S,1,1610612764,WAS,893,Jordan,M. Jordan,0,0,0,,0,0.0,0.0,0,h,Jordan STEAL (2 STL),,,0,57
+20100597,53,PT04M33.00S,1,1610612764,WAS,893,Jordan,M. Jordan,62,0,6,Missed,1,0.0,0.0,0,h,MISS Jordan 6' Jump Shot,Missed Shot,Jump Shot,0,58
+20100597,53,PT04M33.00S,1,1610612739,CLE,1908,Jones,J. Jones,0,0,0,,0,0.0,0.0,0,v,Jones BLOCK (1 BLK),,,0,59
+20100597,54,PT04M33.00S,1,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Rebound,Rebound,Unknown,0,60
+20100597,55,PT04M33.00S,1,1610612764,WAS,43,Whitney,C. Whitney,0,0,0,,0,0.0,0.0,0,h,SUB: Lue FOR Whitney,Substitution,,0,61
+20100597,56,PT04M33.00S,1,1610612764,WAS,1751,White,J. White,0,0,0,,0,0.0,0.0,0,h,SUB: Haywood FOR White,Substitution,,0,62
+20100597,57,PT04M31.00S,1,1610612764,WAS,93,Davis,H. Davis,134,-34,14,Missed,1,0.0,0.0,0,h,MISS Davis 14' Jump Shot,Missed Shot,Jump Shot,0,63
+20100597,58,PT04M29.00S,1,1610612764,WAS,461,Jones,P. Jones,0,0,0,,0,0.0,0.0,0,h,Jones REBOUND (Off:4 Def:0),Rebound,Unknown,0,64
+20100597,59,PT04M27.00S,1,1610612764,WAS,461,Jones,P. Jones,-1,-6,1,Missed,1,0.0,0.0,0,h,MISS Jones 1' Layup,Missed Shot,Layup Shot,0,65
+20100597,60,PT04M25.00S,1,1610612739,CLE,1908,Jones,J. Jones,0,0,0,,0,0.0,0.0,0,v,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,0,66
+20100597,61,PT04M12.00S,1,1610612739,CLE,445,Person,W. Person,113,127,17,Made,1,15.0,20.0,35,v,Person 17' Jump Shot (14 PTS) (Miller 5 AST),Made Shot,Jump Shot,0,67
+20100597,62,PT03M57.00S,1,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,Miller P.FOUL (P1.T3),Foul,Personal,0,68
+20100597,63,PT03M57.00S,1,1610612739,CLE,2036,Mihm,C. Mihm,0,0,0,,0,0.0,0.0,0,v,SUB: Ilgauskas FOR Mihm,Substitution,,0,69
+20100597,64,PT03M57.00S,1,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,SUB: Coles FOR Miller,Substitution,,0,70
+20100597,65,PT03M50.00S,1,1610612764,WAS,893,Jordan,M. Jordan,-109,106,15,Made,1,17.0,20.0,37,h,Jordan 15' Turnaround Jump Shot (12 PTS) (Lue 1 AST),Made Shot,Turnaround Jump Shot,0,71
+20100597,66,PT03M39.00S,1,1610612739,CLE,1730,Skinner,B. Skinner,134,-34,14,Made,1,17.0,22.0,39,v,Skinner 14' Jump Shot (4 PTS) (Coles 1 AST),Made Shot,Jump Shot,0,72
+20100597,67,PT03M23.00S,1,1610612764,WAS,893,Jordan,M. Jordan,77,15,8,Made,1,19.0,22.0,41,h,Jordan 8' Running Jump Shot (14 PTS) (Lue 2 AST),Made Shot,Running Jump Shot,0,73
+20100597,68,PT03M07.00S,1,1610612739,CLE,445,Person,W. Person,-109,116,16,Made,1,19.0,24.0,43,v,Person 16' Jump Shot (16 PTS) (Coles 2 AST),Made Shot,Jump Shot,0,74
+20100597,69,PT02M47.00S,1,1610612764,WAS,1731,Lue,T. Lue,98,-19,10,Missed,1,0.0,0.0,0,h,MISS Lue 10' Jump Shot,Missed Shot,Jump Shot,0,75
+20100597,69,PT02M47.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,v,Ilgauskas BLOCK (1 BLK),,,0,76
+20100597,70,PT02M47.00S,1,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Rebound,Rebound,Unknown,0,77
+20100597,71,PT02M47.00S,1,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,v,Cavaliers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,78
+20100597,73,PT02M47.00S,1,1610612739,CLE,1908,Jones,J. Jones,0,0,0,,0,0.0,0.0,0,v,SUB: Davis FOR Jones,Substitution,,0,79
+20100597,74,PT02M47.00S,1,1610612764,WAS,93,Davis,H. Davis,0,0,0,,0,0.0,0.0,0,h,SUB: Nesby FOR Davis,Substitution,,0,80
+20100597,75,PT02M44.00S,1,1610612764,WAS,461,Jones,P. Jones,199,-23,20,Missed,1,0.0,0.0,0,h,MISS Jones 20' Jump Shot,Missed Shot,Jump Shot,0,81
+20100597,76,PT02M42.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,v,Ilgauskas REBOUND (Off:0 Def:1),Rebound,Unknown,0,82
+20100597,77,PT02M24.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,-73,-23,8,Missed,1,0.0,0.0,0,v,MISS Ilgauskas 8' Jump Shot,Missed Shot,Jump Shot,0,83
+20100597,77,PT02M24.00S,1,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0.0,0.0,0,h,Haywood BLOCK (1 BLK),,,0,84
+20100597,78,PT02M22.00S,1,1610612764,WAS,893,Jordan,M. Jordan,0,0,0,,0,0.0,0.0,0,h,Jordan REBOUND (Off:0 Def:1),Rebound,Unknown,0,85
+20100597,79,PT02M12.00S,1,1610612739,CLE,1729,Davis,R. Davis,0,0,0,,0,0.0,0.0,0,v,Davis P.FOUL (P1.T4),Foul,Personal,0,86
+20100597,80,PT02M12.00S,1,1610612764,WAS,461,Jones,P. Jones,0,0,0,,0,0.0,0.0,0,h,SUB: Thomas FOR Jones,Substitution,,0,87
+20100597,81,PT02M02.00S,1,1610612764,WAS,893,Jordan,M. Jordan,56,99,11,Made,1,21.0,24.0,45,h,Jordan 11' Fadeaway Jumper (16 PTS),Made Shot,Fadeaway Jump Shot,0,88
+20100597,82,PT01M46.00S,1,1610612739,CLE,1729,Davis,R. Davis,18,137,14,Missed,1,0.0,0.0,0,v,MISS Davis 14' Jump Shot,Missed Shot,Jump Shot,0,89
+20100597,83,PT01M45.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,v,Ilgauskas REBOUND (Off:1 Def:1),Rebound,Unknown,0,90
+20100597,84,PT01M44.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,11,4,1,Missed,1,0.0,0.0,0,v,MISS Ilgauskas 1' Layup,Missed Shot,Layup Shot,0,91
+20100597,85,PT01M42.00S,1,1610612739,CLE,1730,Skinner,B. Skinner,0,0,0,,0,0.0,0.0,0,v,Skinner REBOUND (Off:3 Def:0),Rebound,Unknown,0,92
+20100597,86,PT01M39.00S,1,1610612739,CLE,902,Coles,B. Coles,-1,160,16,Missed,1,0.0,0.0,0,v,MISS Coles 16' Jump Shot,Missed Shot,Jump Shot,0,93
+20100597,87,PT01M38.00S,1,1610612764,WAS,1731,Lue,T. Lue,0,0,0,,0,0.0,0.0,0,h,Lue REBOUND (Off:0 Def:1),Rebound,Unknown,0,94
+20100597,88,PT01M31.00S,1,1610612764,WAS,1731,Lue,T. Lue,-67,160,17,Missed,1,0.0,0.0,0,h,MISS Lue 17' Jump Shot,Missed Shot,Jump Shot,0,95
+20100597,89,PT01M29.00S,1,1610612739,CLE,1730,Skinner,B. Skinner,0,0,0,,0,0.0,0.0,0,v,Skinner REBOUND (Off:3 Def:1),Rebound,Unknown,0,96
+20100597,90,PT01M03.00S,1,1610612739,CLE,902,Coles,B. Coles,-189,-29,19,Made,1,21.0,26.0,47,v,Coles 19' Jump Shot (2 PTS) (Person 1 AST),Made Shot,Jump Shot,0,97
+20100597,91,PT00M45.40S,1,1610612764,WAS,2041,Thomas,E. Thomas,47,66,8,Made,1,23.0,26.0,49,h,Thomas 8' Jump Hook Shot (2 PTS) (Haywood 1 AST),Made Shot,Jump Hook Shot,0,98
+20100597,92,PT00M25.40S,1,1610612739,CLE,902,Coles,B. Coles,3,150,15,Missed,1,0.0,0.0,0,v,MISS Coles 15' Jump Shot,Missed Shot,Jump Shot,0,99
+20100597,93,PT00M23.20S,1,1610612739,CLE,1730,Skinner,B. Skinner,0,0,0,,0,0.0,0.0,0,v,Skinner REBOUND (Off:4 Def:1),Rebound,Unknown,0,100
+20100597,94,PT00M22.10S,1,1610612739,CLE,1730,Skinner,B. Skinner,56,19,6,Made,1,23.0,28.0,51,v,Skinner 6' Jump Shot (6 PTS),Made Shot,Jump Shot,0,101
+20100597,95,PT00M03.10S,1,1610612764,WAS,1731,Lue,T. Lue,205,160,26,Missed,1,0.0,0.0,0,h,MISS Lue 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,102
+20100597,96,PT00M00.90S,1,1610612739,CLE,445,Person,W. Person,0,0,0,,0,0.0,0.0,0,v,Person REBOUND (Off:0 Def:1),Rebound,Unknown,0,103
+20100597,97,PT00M00.00S,1,0,,0,,,0,0,0,,0,23.0,28.0,51,,End of 1st Period (7:32 PM EST),period,end,0,104
+20100597,99,PT12M00.00S,2,0,,0,,,0,0,0,,0,23.0,28.0,51,,Start of 2nd Period (7:35 PM EST),period,start,0,105
+20100597,100,PT11M44.00S,2,1610612764,WAS,2217,Haywood,B. Haywood,47,4,5,Made,1,25.0,28.0,53,h,Haywood 5' Hook Shot (2 PTS) (Lue 3 AST),Made Shot,Hook Shot,0,106
+20100597,101,PT11M29.00S,2,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,11,70,7,Missed,1,0.0,0.0,0,v,MISS Ilgauskas 7' Jump Shot,Missed Shot,Jump Shot,0,107
+20100597,102,PT11M27.00S,2,1610612764,WAS,2042,Alexander,C. Alexander,0,0,0,,0,0.0,0.0,0,h,Alexander REBOUND (Off:0 Def:1),Rebound,Unknown,0,108
+20100597,103,PT11M20.00S,2,1610612764,WAS,1731,Lue,T. Lue,0,0,0,,0,0.0,0.0,0,h,Lue Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,109
+20100597,103,PT11M20.00S,2,1610612739,CLE,1729,Davis,R. Davis,0,0,0,,0,0.0,0.0,0,v,Davis STEAL (1 STL),,,0,110
+20100597,104,PT11M20.00S,2,1610612764,WAS,1731,Lue,T. Lue,0,0,0,,0,0.0,0.0,0,h,Lue P.FOUL (P1.T1),Foul,Personal,0,111
+20100597,105,PT11M07.00S,2,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,-183,-23,18,Missed,1,0.0,0.0,0,v,MISS Ilgauskas 18' Jump Shot,Missed Shot,Jump Shot,0,112
+20100597,106,PT11M05.00S,2,1610612764,WAS,1838,Nesby,T. Nesby,0,0,0,,0,0.0,0.0,0,h,Nesby REBOUND (Off:0 Def:1),Rebound,Unknown,0,113
+20100597,107,PT10M52.00S,2,1610612764,WAS,2042,Alexander,C. Alexander,-168,15,17,Missed,1,0.0,0.0,0,h,MISS Alexander 17' Jump Shot,Missed Shot,Jump Shot,0,114
+20100597,108,PT10M50.00S,2,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,v,Ilgauskas REBOUND (Off:1 Def:2),Rebound,Unknown,0,115
+20100597,109,PT10M38.00S,2,1610612739,CLE,1729,Davis,R. Davis,56,150,16,Missed,1,0.0,0.0,0,v,MISS Davis 16' Jump Shot,Missed Shot,Jump Shot,0,116
+20100597,110,PT10M35.00S,2,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0.0,0.0,0,h,Haywood REBOUND (Off:0 Def:1),Rebound,Unknown,0,117
+20100597,111,PT10M28.00S,2,1610612764,WAS,2041,Thomas,E. Thomas,169,76,19,Made,1,27.0,28.0,55,h,Thomas 19' Jump Shot (4 PTS) (Lue 4 AST),Made Shot,Jump Shot,0,118
+20100597,112,PT10M00.00S,2,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,v,Ilgauskas Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,119
+20100597,113,PT10M00.00S,2,1610612739,CLE,902,Coles,B. Coles,0,0,0,,0,0.0,0.0,0,v,SUB: Miller FOR Coles,Substitution,,0,120
+20100597,114,PT09M47.00S,2,1610612764,WAS,1731,Lue,T. Lue,18,36,4,Missed,1,0.0,0.0,0,h,MISS Lue 4' Jump Shot,Missed Shot,Jump Shot,0,121
+20100597,114,PT09M47.00S,2,1610612739,CLE,1730,Skinner,B. Skinner,0,0,0,,0,0.0,0.0,0,v,Skinner BLOCK (1 BLK),,,0,122
+20100597,115,PT09M45.00S,2,1610612764,WAS,1838,Nesby,T. Nesby,0,0,0,,0,0.0,0.0,0,h,Nesby REBOUND (Off:1 Def:1),Rebound,Unknown,0,123
+20100597,116,PT09M41.00S,2,1610612764,WAS,1838,Nesby,T. Nesby,32,133,14,Made,1,29.0,28.0,57,h,Nesby 14' Jump Shot (2 PTS),Made Shot,Jump Shot,0,124
+20100597,117,PT09M18.00S,2,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,3,36,4,Made,1,29.0,30.0,59,v,Ilgauskas 4' Hook Shot (2 PTS),Made Shot,Hook Shot,0,125
+20100597,118,PT08M54.00S,2,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,v,Ilgauskas P.FOUL (P1.T1),Foul,Personal,0,126
+20100597,119,PT08M54.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,127
+20100597,121,PT08M54.00S,2,1610612739,CLE,1730,Skinner,B. Skinner,0,0,0,,0,0.0,0.0,0,v,SUB: Mihm FOR Skinner,Substitution,,0,128
+20100597,122,PT08M54.00S,2,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,30.0,30.0,60,h,Haywood Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,129
+20100597,123,PT08M54.00S,2,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,31.0,30.0,61,h,Haywood Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,130
+20100597,124,PT08M38.00S,2,1610612739,CLE,179,Stith,B. Stith,70,241,25,Made,1,31.0,33.0,64,v,Stith 25' 3PT Jump Shot (3 PTS) (Ilgauskas 1 AST),Made Shot,Jump Shot,0,131
+20100597,125,PT08M25.00S,2,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,v,Ilgauskas P.FOUL (P2.T2),Foul,Personal,0,132
+20100597,126,PT08M20.00S,2,1610612739,CLE,1729,Davis,R. Davis,0,0,0,,0,0.0,0.0,0,v,Davis S.FOUL (P2.T3),Foul,Shooting,0,133
+20100597,127,PT08M20.00S,2,1610612764,WAS,2041,Thomas,E. Thomas,0,0,0,,0,0.0,0.0,0,h,MISS Thomas Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,134
+20100597,128,PT08M20.00S,2,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Rebound,Rebound,Normal Rebound,0,135
+20100597,129,PT08M20.00S,2,1610612764,WAS,2041,Thomas,E. Thomas,0,0,0,,0,32.0,33.0,65,h,Thomas Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,136
+20100597,130,PT08M03.00S,2,1610612739,CLE,2036,Mihm,C. Mihm,-73,42,8,Made,1,32.0,35.0,67,v,Mihm 8' Jump Shot (2 PTS) (Miller 6 AST),Made Shot,Jump Shot,0,137
+20100597,131,PT07M44.00S,2,1610612764,WAS,2042,Alexander,C. Alexander,-176,0,18,Missed,1,0.0,0.0,0,h,MISS Alexander 18' Jump Shot,Missed Shot,Jump Shot,0,138
+20100597,131,PT07M44.00S,2,1610612739,CLE,2036,Mihm,C. Mihm,0,0,0,,0,0.0,0.0,0,v,Mihm BLOCK (1 BLK),,,0,139
+20100597,132,PT07M41.00S,2,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,v,Ilgauskas REBOUND (Off:1 Def:3),Rebound,Unknown,0,140
+20100597,133,PT07M36.00S,2,1610612739,CLE,179,Stith,B. Stith,184,26,19,Missed,1,0.0,0.0,0,v,MISS Stith 19' Jump Shot,Missed Shot,Jump Shot,0,141
+20100597,134,PT07M36.00S,2,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Rebound,Rebound,Unknown,0,142
+20100597,135,PT07M36.00S,2,1610612739,CLE,2036,Mihm,C. Mihm,0,0,0,,0,0.0,0.0,0,v,Mihm L.B.FOUL (P2.T4),Foul,Loose Ball,0,143
+20100597,136,PT07M36.00S,2,1610612764,WAS,2042,Alexander,C. Alexander,0,0,0,,0,0.0,0.0,0,h,SUB: Jordan FOR Alexander,Substitution,,0,144
+20100597,137,PT07M36.00S,2,1610612739,CLE,2036,Mihm,C. Mihm,0,0,0,,0,0.0,0.0,0,v,SUB: Skinner FOR Mihm,Substitution,,0,145
+20100597,138,PT07M12.00S,2,1610612764,WAS,1838,Nesby,T. Nesby,3,15,2,Missed,1,0.0,0.0,0,h,MISS Nesby 2' Layup,Missed Shot,Layup Shot,0,146
+20100597,138,PT07M12.00S,2,1610612739,CLE,1730,Skinner,B. Skinner,0,0,0,,0,0.0,0.0,0,v,Skinner BLOCK (2 BLK),,,0,147
+20100597,139,PT07M11.00S,2,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Rebound,Rebound,Unknown,0,148
+20100597,140,PT07M11.00S,2,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Turnover: Shot Clock (T#6),Turnover,Shot Clock Turnover,0,149
+20100597,141,PT06M49.00S,2,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,134,-29,14,Missed,1,0.0,0.0,0,v,MISS Ilgauskas 14' Jump Shot,Missed Shot,Jump Shot,0,150
+20100597,142,PT06M48.00S,2,1610612764,WAS,893,Jordan,M. Jordan,0,0,0,,0,0.0,0.0,0,h,Jordan REBOUND (Off:0 Def:2),Rebound,Unknown,0,151
+20100597,143,PT06M39.00S,2,1610612764,WAS,2041,Thomas,E. Thomas,18,144,15,Missed,1,0.0,0.0,0,h,MISS Thomas 15' Jump Shot,Missed Shot,Jump Shot,0,152
+20100597,144,PT06M37.00S,2,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,153
+20100597,145,PT06M33.00S,2,1610612739,CLE,1889,Miller,A. Miller,39,15,4,Made,1,32.0,37.0,69,v,Miller 4' Running Jump Shot (6 PTS),Made Shot,Running Jump Shot,0,154
+20100597,146,PT06M17.00S,2,1610612764,WAS,893,Jordan,M. Jordan,3,82,8,Made,1,34.0,37.0,71,h,Jordan 8' Running Jump Shot (18 PTS),Made Shot,Running Jump Shot,0,155
+20100597,147,PT06M17.00S,2,1610612739,CLE,1729,Davis,R. Davis,0,0,0,,0,0.0,0.0,0,v,Davis S.FOUL (P3.PN),Foul,Shooting,0,156
+20100597,148,PT06M17.00S,2,1610612764,WAS,1838,Nesby,T. Nesby,0,0,0,,0,0.0,0.0,0,h,SUB: Davis FOR Nesby,Substitution,,0,157
+20100597,158,PT06M17.00S,2,1610612739,CLE,1729,Davis,R. Davis,0,0,0,,0,0.0,0.0,0,v,SUB: Person FOR Davis,Substitution,,0,158
+20100597,149,PT06M17.00S,2,1610612764,WAS,893,Jordan,M. Jordan,0,0,0,,0,35.0,37.0,72,h,Jordan Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,0,159
+20100597,150,PT06M04.00S,2,1610612764,WAS,2041,Thomas,E. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas S.FOUL (P1.T2),Foul,Shooting,0,160
+20100597,151,PT06M04.00S,2,1610612739,CLE,1730,Skinner,B. Skinner,0,0,0,,0,0.0,0.0,0,v,MISS Skinner Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,161
+20100597,152,PT06M04.00S,2,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,162
+20100597,153,PT06M04.00S,2,1610612739,CLE,1730,Skinner,B. Skinner,0,0,0,,0,0.0,0.0,0,v,MISS Skinner Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,163
+20100597,154,PT06M02.00S,2,1610612764,WAS,2041,Thomas,E. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,164
+20100597,155,PT05M50.00S,2,1610612764,WAS,893,Jordan,M. Jordan,-124,87,15,Missed,1,0.0,0.0,0,h,MISS Jordan 15' Jump Shot,Missed Shot,Jump Shot,0,165
+20100597,156,PT05M48.00S,2,1610612739,CLE,445,Person,W. Person,0,0,0,,0,0.0,0.0,0,v,Person REBOUND (Off:0 Def:2),Rebound,Unknown,0,166
+20100597,157,PT05M43.00S,2,1610612764,WAS,1731,Lue,T. Lue,0,0,0,,0,0.0,0.0,0,h,Lue P.FOUL (P2.T3),Foul,Personal,0,167
+20100597,159,PT05M43.00S,2,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,168
+20100597,161,PT05M26.00S,2,1610612739,CLE,179,Stith,B. Stith,157,49,16,Missed,1,0.0,0.0,0,v,MISS Stith 16' Jump Shot,Missed Shot,Jump Shot,0,169
+20100597,162,PT05M24.00S,2,1610612739,CLE,1730,Skinner,B. Skinner,0,0,0,,0,0.0,0.0,0,v,Skinner REBOUND (Off:5 Def:1),Rebound,Unknown,0,170
+20100597,163,PT05M23.00S,2,1610612739,CLE,1730,Skinner,B. Skinner,18,-13,2,Missed,1,0.0,0.0,0,v,MISS Skinner 2' Layup,Missed Shot,Layup Shot,0,171
+20100597,164,PT05M21.00S,2,1610612764,WAS,1731,Lue,T. Lue,0,0,0,,0,0.0,0.0,0,h,Lue REBOUND (Off:0 Def:2),Rebound,Unknown,0,172
+20100597,165,PT05M09.00S,2,1610612764,WAS,2041,Thomas,E. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas OFF.Foul (P2),Foul,Offensive,0,173
+20100597,166,PT05M09.00S,2,1610612764,WAS,2041,Thomas,E. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas Foul Turnover (P1.T7),Turnover,Foul,0,174
+20100597,167,PT05M09.00S,2,1610612764,WAS,1731,Lue,T. Lue,0,0,0,,0,0.0,0.0,0,h,SUB: Whitney FOR Lue,Substitution,,0,175
+20100597,168,PT05M09.00S,2,1610612764,WAS,2041,Thomas,E. Thomas,0,0,0,,0,0.0,0.0,0,h,SUB: Jones FOR Thomas,Substitution,,0,176
+20100597,169,PT05M09.00S,2,1610612739,CLE,1730,Skinner,B. Skinner,0,0,0,,0,0.0,0.0,0,v,SUB: Jones FOR Skinner,Substitution,,0,177
+20100597,170,PT04M53.00S,2,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0.0,0.0,0,h,Haywood P.FOUL (P1.T4),Foul,Personal,0,178
+20100597,171,PT04M53.00S,2,1610612739,CLE,179,Stith,B. Stith,0,0,0,,0,0.0,0.0,0,v,MISS Stith Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,179
+20100597,172,PT04M53.00S,2,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,180
+20100597,173,PT04M53.00S,2,1610612739,CLE,179,Stith,B. Stith,0,0,0,,0,35.0,38.0,73,v,Stith Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,181
+20100597,175,PT04M29.00S,2,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,0,182
+20100597,177,PT04M13.00S,2,1610612739,CLE,1889,Miller,A. Miller,3,4,1,Made,1,35.0,40.0,75,v,Miller 1' Layup (8 PTS) (Jones 2 AST),Made Shot,Layup Shot,0,183
+20100597,178,PT03M58.00S,2,1610612764,WAS,43,Whitney,C. Whitney,235,-44,24,Made,1,38.0,40.0,78,h,Whitney 24' 3PT Jump Shot (6 PTS) (Davis 5 AST),Made Shot,Jump Shot,0,184
+20100597,179,PT03M39.00S,2,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,Miller OFF.Foul (P2),Foul,Offensive,0,185
+20100597,180,PT03M39.00S,2,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,Miller Foul Turnover (P1.T5),Turnover,Foul,0,186
+20100597,181,PT03M38.00S,2,1610612764,WAS,461,Jones,P. Jones,0,0,0,,0,0.0,0.0,0,h,Jones Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,187
+20100597,181,PT03M38.00S,2,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,Miller STEAL (2 STL),,,0,188
+20100597,182,PT03M34.00S,2,1610612739,CLE,1908,Jones,J. Jones,11,-6,1,Made,1,38.0,42.0,80,v,Jones 1' Layup (2 PTS) (Miller 7 AST),Made Shot,Layup Shot,0,189
+20100597,183,PT03M18.00S,2,1610612764,WAS,461,Jones,P. Jones,77,9,8,Missed,1,0.0,0.0,0,h,MISS Jones 8' Jump Shot,Missed Shot,Jump Shot,0,190
+20100597,184,PT03M16.00S,2,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0.0,0.0,0,h,Haywood REBOUND (Off:1 Def:1),Rebound,Unknown,0,191
+20100597,185,PT03M15.00S,2,1610612764,WAS,2217,Haywood,B. Haywood,3,0,0,Made,1,40.0,42.0,82,h,Haywood  Tip Shot (6 PTS),Made Shot,Tip Shot,0,192
+20100597,186,PT03M04.00S,2,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0.0,0.0,0,h,Haywood S.FOUL (P2.PN),Foul,Shooting,0,193
+20100597,187,PT03M04.00S,2,1610612739,CLE,179,Stith,B. Stith,0,0,0,,0,40.0,43.0,83,v,Stith Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,194
+20100597,188,PT03M04.00S,2,1610612739,CLE,179,Stith,B. Stith,0,0,0,,0,40.0,44.0,84,v,Stith Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,195
+20100597,189,PT02M51.00S,2,1610612739,CLE,179,Stith,B. Stith,0,0,0,,0,0.0,0.0,0,v,Stith P.FOUL (P1.PN),Foul,Personal,0,196
+20100597,190,PT02M51.00S,2,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,v,Cavaliers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,197
+20100597,192,PT02M51.00S,2,1610612739,CLE,179,Stith,B. Stith,0,0,0,,0,0.0,0.0,0,v,SUB: Skinner FOR Stith,Substitution,,0,198
+20100597,193,PT02M51.00S,2,1610612764,WAS,461,Jones,P. Jones,0,0,0,,0,0.0,0.0,0,h,SUB: Nesby FOR Jones,Substitution,,0,199
+20100597,194,PT02M51.00S,2,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,v,SUB: Davis FOR Ilgauskas,Substitution,,0,200
+20100597,195,PT02M51.00S,2,1610612764,WAS,893,Jordan,M. Jordan,0,0,0,,0,0.0,0.0,0,h,MISS Jordan Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,201
+20100597,196,PT02M51.00S,2,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Rebound,Rebound,Normal Rebound,0,202
+20100597,197,PT02M51.00S,2,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0.0,0.0,0,h,SUB: White FOR Haywood,Substitution,,0,203
+20100597,198,PT02M51.00S,2,1610612764,WAS,893,Jordan,M. Jordan,0,0,0,,0,41.0,44.0,85,h,Jordan Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,204
+20100597,199,PT02M41.00S,2,1610612739,CLE,445,Person,W. Person,142,87,17,Missed,1,0.0,0.0,0,v,MISS Person 17' Jump Shot,Missed Shot,Jump Shot,0,205
+20100597,200,PT02M39.00S,2,1610612764,WAS,1751,White,J. White,0,0,0,,0,0.0,0.0,0,h,White REBOUND (Off:0 Def:1),Rebound,Unknown,0,206
+20100597,201,PT02M28.00S,2,1610612764,WAS,43,Whitney,C. Whitney,18,0,2,Missed,1,0.0,0.0,0,h,MISS Whitney 2' Layup,Missed Shot,Layup Shot,0,207
+20100597,201,PT02M28.00S,2,1610612739,CLE,445,Person,W. Person,0,0,0,,0,0.0,0.0,0,v,Person BLOCK (1 BLK),,,0,208
+20100597,202,PT02M24.00S,2,1610612739,CLE,445,Person,W. Person,0,0,0,,0,0.0,0.0,0,v,Person REBOUND (Off:0 Def:3),Rebound,Unknown,0,209
+20100597,203,PT02M19.00S,2,1610612739,CLE,1908,Jones,J. Jones,3,-13,1,Made,1,41.0,46.0,87,v,Jones 1' Layup (4 PTS) (Davis 1 AST),Made Shot,Layup Shot,0,210
+20100597,204,PT02M01.00S,2,1610612764,WAS,93,Davis,H. Davis,193,177,26,Missed,1,0.0,0.0,0,h,MISS Davis 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,211
+20100597,205,PT01M59.00S,2,1610612764,WAS,1751,White,J. White,0,0,0,,0,0.0,0.0,0,h,White REBOUND (Off:1 Def:1),Rebound,Unknown,0,212
+20100597,206,PT01M56.00S,2,1610612764,WAS,43,Whitney,C. Whitney,-197,160,25,Made,1,44.0,46.0,90,h,Whitney 25' 3PT Jump Shot (9 PTS) (White 1 AST),Made Shot,Jump Shot,0,213
+20100597,207,PT01M37.00S,2,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,Miller OFF.Foul (P3),Foul,Offensive,0,214
+20100597,208,PT01M37.00S,2,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,Miller Foul Turnover (P2.T6),Turnover,Foul,0,215
+20100597,209,PT01M23.00S,2,1610612764,WAS,893,Jordan,M. Jordan,-23,82,9,Made,1,46.0,46.0,92,h,Jordan 9' Fadeaway Jumper (22 PTS),Made Shot,Fadeaway Jump Shot,0,216
+20100597,210,PT01M23.00S,2,1610612739,CLE,1729,Davis,R. Davis,0,0,0,,0,0.0,0.0,0,v,Davis S.FOUL (P4.PN),Foul,Shooting,0,217
+20100597,211,PT01M23.00S,2,1610612764,WAS,893,Jordan,M. Jordan,0,0,0,,0,0.0,0.0,0,h,MISS Jordan Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,218
+20100597,212,PT01M20.00S,2,1610612739,CLE,1730,Skinner,B. Skinner,0,0,0,,0,0.0,0.0,0,v,Skinner REBOUND (Off:5 Def:2),Rebound,Unknown,0,219
+20100597,213,PT01M07.00S,2,1610612764,WAS,1838,Nesby,T. Nesby,0,0,0,,0,0.0,0.0,0,h,Nesby S.FOUL (P1.PN),Foul,Shooting,0,220
+20100597,214,PT01M07.00S,2,1610612739,CLE,1730,Skinner,B. Skinner,0,0,0,,0,46.0,47.0,93,v,Skinner Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,221
+20100597,215,PT01M07.00S,2,1610612739,CLE,1729,Davis,R. Davis,0,0,0,,0,0.0,0.0,0,v,SUB: Mihm FOR Davis,Substitution,,0,222
+20100597,216,PT01M07.00S,2,1610612739,CLE,1730,Skinner,B. Skinner,0,0,0,,0,46.0,48.0,94,v,Skinner Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,223
+20100597,217,PT00M50.00S,2,1610612764,WAS,93,Davis,H. Davis,39,36,5,Missed,1,0.0,0.0,0,h,MISS Davis 5' Jump Shot,Missed Shot,Jump Shot,0,224
+20100597,218,PT00M48.40S,2,1610612739,CLE,2036,Mihm,C. Mihm,0,0,0,,0,0.0,0.0,0,v,Mihm REBOUND (Off:0 Def:1),Rebound,Unknown,0,225
+20100597,219,PT00M42.60S,2,1610612739,CLE,1908,Jones,J. Jones,-189,-40,19,Made,1,46.0,50.0,96,v,Jones 19' Jump Shot (6 PTS) (Miller 8 AST),Made Shot,Jump Shot,0,226
+20100597,220,PT00M29.70S,2,1610612764,WAS,893,Jordan,M. Jordan,-117,99,15,Made,1,48.0,50.0,98,h,Jordan 15' Jump Shot (24 PTS) (Whitney 1 AST),Made Shot,Jump Shot,0,227
+20100597,221,PT00M10.40S,2,1610612739,CLE,1908,Jones,J. Jones,178,184,26,Missed,1,0.0,0.0,0,v,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,228
+20100597,222,PT00M07.80S,2,1610612739,CLE,1730,Skinner,B. Skinner,0,0,0,,0,0.0,0.0,0,v,Skinner REBOUND (Off:6 Def:2),Rebound,Unknown,0,229
+20100597,223,PT00M05.00S,2,1610612739,CLE,2036,Mihm,C. Mihm,98,99,14,Missed,1,0.0,0.0,0,v,MISS Mihm 14' Jump Shot,Missed Shot,Jump Shot,0,230
+20100597,224,PT00M02.80S,2,1610612764,WAS,1838,Nesby,T. Nesby,0,0,0,,0,0.0,0.0,0,h,Nesby REBOUND (Off:1 Def:2),Rebound,Unknown,0,231
+20100597,226,PT00M00.00S,2,0,,0,,,0,0,0,,0,48.0,50.0,98,,End of 2nd Period (8:04 PM EST),period,end,0,232
+20100597,228,PT12M00.00S,3,0,,0,,,0,0,0,,0,48.0,50.0,98,,Start of 3rd Period (8:20 PM EST),period,start,0,233
+20100597,229,PT11M44.00S,3,1610612764,WAS,93,Davis,H. Davis,18,262,26,Made,1,51.0,50.0,101,h,Davis 26' 3PT Jump Shot (3 PTS) (Jordan 1 AST),Made Shot,Jump Shot,0,234
+20100597,230,PT11M16.00S,3,1610612739,CLE,1908,Jones,J. Jones,-183,-23,18,Missed,1,0.0,0.0,0,v,MISS Jones 18' Jump Shot,Missed Shot,Jump Shot,0,235
+20100597,231,PT11M15.00S,3,1610612739,CLE,2036,Mihm,C. Mihm,0,0,0,,0,0.0,0.0,0,v,Mihm REBOUND (Off:1 Def:1),Rebound,Unknown,0,236
+20100597,232,PT11M14.00S,3,1610612764,WAS,461,Jones,P. Jones,0,0,0,,0,0.0,0.0,0,h,Jones S.FOUL (P1.T1),Foul,Shooting,0,237
+20100597,233,PT11M14.00S,3,1610612739,CLE,2036,Mihm,C. Mihm,0,0,0,,0,51.0,51.0,102,v,Mihm Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,238
+20100597,234,PT11M14.00S,3,1610612739,CLE,2036,Mihm,C. Mihm,0,0,0,,0,51.0,52.0,103,v,Mihm Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,239
+20100597,235,PT10M54.00S,3,1610612764,WAS,461,Jones,P. Jones,193,-34,20,Missed,1,0.0,0.0,0,h,MISS Jones 20' Jump Shot,Missed Shot,Jump Shot,0,240
+20100597,236,PT10M51.00S,3,1610612739,CLE,445,Person,W. Person,0,0,0,,0,0.0,0.0,0,v,Person REBOUND (Off:0 Def:4),Rebound,Unknown,0,241
+20100597,237,PT10M32.00S,3,1610612739,CLE,2036,Mihm,C. Mihm,24,120,12,Missed,1,0.0,0.0,0,v,MISS Mihm 12' Jump Shot,Missed Shot,Jump Shot,0,242
+20100597,238,PT10M29.00S,3,1610612764,WAS,461,Jones,P. Jones,0,0,0,,0,0.0,0.0,0,h,Jones REBOUND (Off:4 Def:1),Rebound,Unknown,0,243
+20100597,239,PT10M19.00S,3,1610612764,WAS,893,Jordan,M. Jordan,-124,116,17,Missed,1,0.0,0.0,0,h,MISS Jordan 17' Jump Shot,Missed Shot,Jump Shot,0,244
+20100597,240,PT10M17.00S,3,1610612739,CLE,1730,Skinner,B. Skinner,0,0,0,,0,0.0,0.0,0,v,Skinner REBOUND (Off:6 Def:3),Rebound,Unknown,0,245
+20100597,241,PT10M10.00S,3,1610612739,CLE,1889,Miller,A. Miller,-82,99,13,Missed,1,0.0,0.0,0,v,MISS Miller 13' Jump Shot,Missed Shot,Jump Shot,0,246
+20100597,242,PT10M08.00S,3,1610612764,WAS,893,Jordan,M. Jordan,0,0,0,,0,0.0,0.0,0,h,Jordan REBOUND (Off:0 Def:3),Rebound,Unknown,0,247
+20100597,243,PT09M55.00S,3,1610612764,WAS,893,Jordan,M. Jordan,11,19,2,Missed,1,0.0,0.0,0,h,MISS Jordan 2' Layup,Missed Shot,Layup Shot,0,248
+20100597,243,PT09M55.00S,3,1610612739,CLE,1908,Jones,J. Jones,0,0,0,,0,0.0,0.0,0,v,Jones BLOCK (2 BLK),,,0,249
+20100597,244,PT09M53.00S,3,1610612739,CLE,1908,Jones,J. Jones,0,0,0,,0,0.0,0.0,0,v,Jones REBOUND (Off:0 Def:4),Rebound,Unknown,0,250
+20100597,245,PT09M51.00S,3,1610612739,CLE,1730,Skinner,B. Skinner,3,-6,1,Made,1,51.0,54.0,105,v,Skinner 1' Dunk (10 PTS) (Miller 9 AST),Made Shot,Dunk Shot,0,251
+20100597,246,PT09M31.00S,3,1610612739,CLE,2036,Mihm,C. Mihm,0,0,0,,0,0.0,0.0,0,v,Mihm S.FOUL (P3.T1),Foul,Shooting,0,252
+20100597,247,PT09M31.00S,3,1610612764,WAS,893,Jordan,M. Jordan,0,0,0,,0,52.0,54.0,106,h,Jordan Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,0,253
+20100597,248,PT09M31.00S,3,1610612764,WAS,893,Jordan,M. Jordan,0,0,0,,0,53.0,54.0,107,h,Jordan Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,0,254
+20100597,249,PT09M17.00S,3,1610612764,WAS,43,Whitney,C. Whitney,0,0,0,,0,0.0,0.0,0,h,Whitney S.FOUL (P1.T2),Foul,Shooting,0,255
+20100597,250,PT09M17.00S,3,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,MISS Miller Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,256
+20100597,251,PT09M17.00S,3,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,257
+20100597,252,PT09M17.00S,3,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,MISS Miller Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,258
+20100597,253,PT09M15.00S,3,1610612764,WAS,461,Jones,P. Jones,0,0,0,,0,0.0,0.0,0,h,Jones REBOUND (Off:4 Def:2),Rebound,Unknown,0,259
+20100597,254,PT09M00.00S,3,1610612764,WAS,43,Whitney,C. Whitney,-10,127,13,Made,1,55.0,54.0,109,h,Whitney 13' Running Jump Shot (11 PTS),Made Shot,Running Jump Shot,0,260
+20100597,255,PT08M37.00S,3,1610612739,CLE,1730,Skinner,B. Skinner,-58,-13,6,Missed,1,0.0,0.0,0,v,MISS Skinner 6' Jump Shot,Missed Shot,Jump Shot,0,261
+20100597,255,PT08M37.00S,3,1610612764,WAS,1751,White,J. White,0,0,0,,0,0.0,0.0,0,h,White BLOCK (1 BLK),,,0,262
+20100597,256,PT08M34.00S,3,1610612739,CLE,1908,Jones,J. Jones,0,0,0,,0,0.0,0.0,0,v,Jones REBOUND (Off:1 Def:4),Rebound,Unknown,0,263
+20100597,257,PT08M34.00S,3,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,v,Cavaliers Turnover: Shot Clock (T#7),Turnover,Shot Clock Turnover,0,264
+20100597,258,PT08M19.00S,3,1610612764,WAS,893,Jordan,M. Jordan,-138,66,15,Made,1,57.0,54.0,111,h,Jordan 15' Jump Shot (28 PTS) (Whitney 2 AST),Made Shot,Jump Shot,0,265
+20100597,259,PT08M08.00S,3,1610612764,WAS,893,Jordan,M. Jordan,0,0,0,,0,0.0,0.0,0,h,Jordan P.FOUL (P1.T3),Foul,Personal,0,266
+20100597,260,PT08M01.00S,3,1610612739,CLE,445,Person,W. Person,-233,-23,0,Missed,1,0.0,0.0,0,v,MISS Person  3PT Jump Shot,Missed Shot,Jump Shot,0,267
+20100597,261,PT07M59.00S,3,1610612739,CLE,2036,Mihm,C. Mihm,0,0,0,,0,0.0,0.0,0,v,Mihm REBOUND (Off:2 Def:1),Rebound,Unknown,0,268
+20100597,262,PT07M58.00S,3,1610612739,CLE,2036,Mihm,C. Mihm,11,-13,2,Missed,1,0.0,0.0,0,v,MISS Mihm 2' Layup,Missed Shot,Layup Shot,0,269
+20100597,263,PT07M56.00S,3,1610612764,WAS,1751,White,J. White,0,0,0,,0,0.0,0.0,0,h,White REBOUND (Off:1 Def:2),Rebound,Unknown,0,270
+20100597,264,PT07M50.00S,3,1610612764,WAS,893,Jordan,M. Jordan,157,36,16,Made,1,59.0,54.0,113,h,Jordan 16' Jump Shot (30 PTS),Made Shot,Jump Shot,0,271
+20100597,268,PT07M50.00S,3,1610612739,CLE,1908,Jones,J. Jones,0,0,0,,0,0.0,0.0,0,v,Jones S.FOUL (P2.T2),Foul,Shooting,0,272
+20100597,267,PT07M50.00S,3,1610612764,WAS,893,Jordan,M. Jordan,0,0,0,,0,0.0,0.0,0,h,MISS Jordan Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,273
+20100597,270,PT07M50.00S,3,1610612764,WAS,1751,White,J. White,0,0,0,,0,0.0,0.0,0,h,White REBOUND (Off:1 Def:3),Rebound,Unknown,0,274
+20100597,271,PT07M46.00S,3,1610612764,WAS,43,Whitney,C. Whitney,-183,177,25,Missed,1,0.0,0.0,0,h,MISS Whitney 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,275
+20100597,272,PT07M43.00S,3,1610612739,CLE,2036,Mihm,C. Mihm,0,0,0,,0,0.0,0.0,0,v,Mihm REBOUND (Off:2 Def:2),Rebound,Unknown,0,276
+20100597,274,PT07M40.00S,3,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,v,Cavaliers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,277
+20100597,276,PT07M32.00S,3,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,Miller Bad Pass Turnover (P3.T8),Turnover,Bad Pass,0,278
+20100597,276,PT07M32.00S,3,1610612764,WAS,1751,White,J. White,0,0,0,,0,0.0,0.0,0,h,White STEAL (1 STL),,,0,279
+20100597,277,PT07M15.00S,3,1610612764,WAS,893,Jordan,M. Jordan,-1,160,16,Made,1,61.0,54.0,115,h,Jordan 16' Jump Shot (32 PTS) (Davis 6 AST),Made Shot,Jump Shot,0,280
+20100597,278,PT06M55.00S,3,1610612739,CLE,1908,Jones,J. Jones,-1,0,0,Made,1,61.0,56.0,117,v,Jones  Alley Oop Dunk (8 PTS) (Miller 10 AST),Made Shot,Alley Oop Dunk Shot,0,281
+20100597,279,PT06M37.00S,3,1610612764,WAS,461,Jones,P. Jones,121,184,22,Made,1,63.0,56.0,119,h,Jones 22' Jump Shot (2 PTS) (Whitney 3 AST),Made Shot,Jump Shot,0,282
+20100597,280,PT06M26.00S,3,1610612739,CLE,445,Person,W. Person,-189,-34,19,Missed,1,0.0,0.0,0,v,MISS Person 19' Jump Shot,Missed Shot,Jump Shot,0,283
+20100597,281,PT06M23.00S,3,1610612764,WAS,893,Jordan,M. Jordan,0,0,0,,0,0.0,0.0,0,h,Jordan REBOUND (Off:0 Def:4),Rebound,Unknown,0,284
+20100597,282,PT06M16.00S,3,1610612764,WAS,893,Jordan,M. Jordan,142,99,17,Missed,1,0.0,0.0,0,h,MISS Jordan 17' Jump Shot,Missed Shot,Jump Shot,0,285
+20100597,283,PT06M14.00S,3,1610612739,CLE,1730,Skinner,B. Skinner,0,0,0,,0,0.0,0.0,0,v,Skinner REBOUND (Off:6 Def:4),Rebound,Unknown,0,286
+20100597,284,PT06M03.00S,3,1610612764,WAS,461,Jones,P. Jones,0,0,0,,0,0.0,0.0,0,h,Jones S.FOUL (P2.T4),Foul,Shooting,0,287
+20100597,285,PT06M03.00S,3,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,MISS Miller Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,288
+20100597,286,PT06M03.00S,3,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,289
+20100597,287,PT06M03.00S,3,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,63.0,57.0,120,v,Miller Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,290
+20100597,288,PT05M42.00S,3,1610612764,WAS,43,Whitney,C. Whitney,235,-34,24,Missed,1,0.0,0.0,0,h,MISS Whitney 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,291
+20100597,289,PT05M41.00S,3,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Rebound,Rebound,Unknown,0,292
+20100597,290,PT05M23.00S,3,1610612764,WAS,461,Jones,P. Jones,0,0,0,,0,0.0,0.0,0,h,Jones Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,293
+20100597,291,PT05M02.00S,3,1610612739,CLE,2036,Mihm,C. Mihm,0,0,0,,0,0.0,0.0,0,v,Mihm Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,294
+20100597,292,PT04M50.00S,3,1610612764,WAS,1751,White,J. White,0,0,0,,0,0.0,0.0,0,h,White Lost Ball Turnover (P2.T11),Turnover,Lost Ball,0,295
+20100597,293,PT04M39.00S,3,1610612764,WAS,93,Davis,H. Davis,0,0,0,,0,0.0,0.0,0,h,Davis P.FOUL (P1.PN),Foul,Personal,0,296
+20100597,294,PT04M39.00S,3,1610612739,CLE,445,Person,W. Person,0,0,0,,0,0.0,0.0,0,v,MISS Person Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,297
+20100597,295,PT04M39.00S,3,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,298
+20100597,296,PT04M39.00S,3,1610612739,CLE,2036,Mihm,C. Mihm,0,0,0,,0,0.0,0.0,0,v,SUB: Ilgauskas FOR Mihm,Substitution,,0,299
+20100597,297,PT04M39.00S,3,1610612764,WAS,1751,White,J. White,0,0,0,,0,0.0,0.0,0,h,SUB: Haywood FOR White,Substitution,,0,300
+20100597,298,PT04M39.00S,3,1610612739,CLE,445,Person,W. Person,0,0,0,,0,63.0,58.0,121,v,Person Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,301
+20100597,299,PT04M16.00S,3,1610612764,WAS,893,Jordan,M. Jordan,169,36,17,Made,1,65.0,58.0,123,h,Jordan 17' Jump Shot (34 PTS),Made Shot,Jump Shot,0,302
+20100597,300,PT03M57.00S,3,1610612739,CLE,445,Person,W. Person,184,99,21,Missed,1,0.0,0.0,0,v,MISS Person 21' Jump Shot,Missed Shot,Jump Shot,0,303
+20100597,301,PT03M55.00S,3,1610612739,CLE,1908,Jones,J. Jones,0,0,0,,0,0.0,0.0,0,v,Jones REBOUND (Off:2 Def:4),Rebound,Unknown,0,304
+20100597,302,PT03M50.00S,3,1610612739,CLE,1908,Jones,J. Jones,3,4,1,Missed,1,0.0,0.0,0,v,MISS Jones 1' Layup,Missed Shot,Layup Shot,0,305
+20100597,303,PT03M46.00S,3,1610612739,CLE,1908,Jones,J. Jones,0,0,0,,0,0.0,0.0,0,v,Jones REBOUND (Off:3 Def:4),Rebound,Unknown,0,306
+20100597,304,PT03M45.00S,3,1610612739,CLE,1908,Jones,J. Jones,18,-23,3,Made,1,65.0,60.0,125,v,Jones 3' Layup (10 PTS),Made Shot,Layup Shot,0,307
+20100597,305,PT03M30.00S,3,1610612764,WAS,893,Jordan,M. Jordan,-37,-34,5,Made,1,67.0,60.0,127,h,Jordan 5' Jump Shot (36 PTS),Made Shot,Jump Shot,0,308
+20100597,306,PT03M15.00S,3,1610612739,CLE,1730,Skinner,B. Skinner,24,150,15,Missed,1,0.0,0.0,0,v,MISS Skinner 15' Jump Shot,Missed Shot,Jump Shot,0,309
+20100597,307,PT03M12.00S,3,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0.0,0.0,0,h,Haywood REBOUND (Off:1 Def:2),Rebound,Unknown,0,310
+20100597,308,PT03M05.00S,3,1610612764,WAS,461,Jones,P. Jones,47,0,5,Made,1,69.0,60.0,129,h,Jones 5' Jump Shot (4 PTS) (Jordan 2 AST),Made Shot,Jump Shot,0,311
+20100597,310,PT03M05.00S,3,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,v,Ilgauskas S.FOUL (P3.T3),Foul,Shooting,0,312
+20100597,312,PT03M05.00S,3,1610612764,WAS,893,Jordan,M. Jordan,0,0,0,,0,0.0,0.0,0,h,SUB: Nesby FOR Jordan,Substitution,,0,313
+20100597,313,PT03M05.00S,3,1610612764,WAS,461,Jones,P. Jones,0,0,0,,0,70.0,60.0,130,h,Jones Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,314
+20100597,314,PT02M47.00S,3,1610612739,CLE,445,Person,W. Person,-23,156,16,Made,1,70.0,62.0,132,v,Person 16' Jump Shot (19 PTS) (Skinner 2 AST),Made Shot,Jump Shot,0,315
+20100597,315,PT02M25.00S,3,1610612764,WAS,93,Davis,H. Davis,184,188,26,Missed,1,0.0,0.0,0,h,MISS Davis 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,316
+20100597,316,PT02M23.00S,3,1610612764,WAS,461,Jones,P. Jones,0,0,0,,0,0.0,0.0,0,h,Jones REBOUND (Off:5 Def:2),Rebound,Unknown,0,317
+20100597,317,PT02M20.00S,3,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,318
+20100597,319,PT02M05.00S,3,1610612764,WAS,93,Davis,H. Davis,-1,59,6,Missed,1,0.0,0.0,0,h,MISS Davis 6' Jump Shot,Missed Shot,Jump Shot,0,319
+20100597,320,PT02M03.00S,3,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0.0,0.0,0,h,Haywood REBOUND (Off:2 Def:2),Rebound,Unknown,0,320
+20100597,321,PT02M03.00S,3,1610612764,WAS,2217,Haywood,B. Haywood,-10,-6,1,Made,1,72.0,62.0,134,h,Haywood 1' Slam Dunk (8 PTS),Made Shot,Slam Dunk Shot,0,321
+20100597,322,PT02M03.00S,3,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,v,Ilgauskas S.FOUL (P4.T4),Foul,Shooting,0,322
+20100597,323,PT02M03.00S,3,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,73.0,62.0,135,h,Haywood Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,323
+20100597,324,PT01M38.00S,3,1610612739,CLE,1889,Miller,A. Miller,184,66,20,Made,1,73.0,64.0,137,v,Miller 20' Jump Shot (11 PTS),Made Shot,Jump Shot,0,324
+20100597,325,PT01M21.00S,3,1610612764,WAS,93,Davis,H. Davis,18,55,6,Missed,1,0.0,0.0,0,h,MISS Davis 6' Jump Shot,Missed Shot,Jump Shot,0,325
+20100597,326,PT01M20.00S,3,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Rebound,Rebound,Unknown,0,326
+20100597,327,PT01M20.00S,3,1610612739,CLE,1730,Skinner,B. Skinner,0,0,0,,0,0.0,0.0,0,v,SUB: Mihm FOR Skinner,Substitution,,0,327
+20100597,328,PT01M14.00S,3,1610612764,WAS,1838,Nesby,T. Nesby,3,0,0,Made,1,75.0,64.0,139,h,Nesby  Alley Oop Dunk (4 PTS) (Haywood 2 AST),Made Shot,Alley Oop Dunk Shot,0,328
+20100597,329,PT00M47.00S,3,1610612739,CLE,1889,Miller,A. Miller,121,-13,12,Missed,1,0.0,0.0,0,v,MISS Miller 12' Jump Shot,Missed Shot,Jump Shot,0,329
+20100597,330,PT00M45.60S,3,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,Miller REBOUND (Off:1 Def:1),Rebound,Unknown,0,330
+20100597,331,PT00M42.70S,3,1610612739,CLE,1889,Miller,A. Miller,-94,-13,9,Missed,1,0.0,0.0,0,v,MISS Miller 9' Jump Shot,Missed Shot,Jump Shot,0,331
+20100597,332,PT00M41.00S,3,1610612764,WAS,1838,Nesby,T. Nesby,0,0,0,,0,0.0,0.0,0,h,Nesby REBOUND (Off:1 Def:3),Rebound,Unknown,0,332
+20100597,333,PT00M21.30S,3,1610612764,WAS,461,Jones,P. Jones,85,49,10,Made,1,77.0,64.0,141,h,Jones 10' Hook Shot (7 PTS),Made Shot,Hook Shot,0,333
+20100597,334,PT00M02.50S,3,1610612739,CLE,1908,Jones,J. Jones,-183,184,26,Made,1,77.0,67.0,144,v,Jones 26' 3PT Jump Shot (13 PTS) (Miller 11 AST),Made Shot,Jump Shot,0,334
+20100597,335,PT00M00.00S,3,0,,0,,,0,0,0,,0,77.0,67.0,144,,End of 3rd Period (8:45 PM EST),period,end,0,335
+20100597,337,PT12M00.00S,4,0,,0,,,0,0,0,,0,77.0,67.0,144,,Start of 4th Period (8:48 PM EST),period,start,0,336
+20100597,338,PT11M49.00S,4,1610612739,CLE,445,Person,W. Person,91,137,16,Missed,1,0.0,0.0,0,v,MISS Person 16' Jump Shot,Missed Shot,Jump Shot,0,337
+20100597,339,PT11M47.00S,4,1610612764,WAS,893,Jordan,M. Jordan,0,0,0,,0,0.0,0.0,0,h,Jordan REBOUND (Off:0 Def:5),Rebound,Unknown,0,338
+20100597,340,PT11M34.00S,4,1610612764,WAS,43,Whitney,C. Whitney,18,110,11,Missed,1,0.0,0.0,0,h,MISS Whitney 11' Jump Shot,Missed Shot,Jump Shot,0,339
+20100597,341,PT11M32.00S,4,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0.0,0.0,0,h,Haywood REBOUND (Off:3 Def:2),Rebound,Unknown,0,340
+20100597,342,PT11M26.00S,4,1610612764,WAS,1838,Nesby,T. Nesby,91,137,16,Missed,1,0.0,0.0,0,h,MISS Nesby 16' Jump Shot,Missed Shot,Jump Shot,0,341
+20100597,343,PT11M24.00S,4,1610612764,WAS,893,Jordan,M. Jordan,0,0,0,,0,0.0,0.0,0,h,Jordan REBOUND (Off:1 Def:5),Rebound,Unknown,0,342
+20100597,344,PT11M23.00S,4,1610612764,WAS,893,Jordan,M. Jordan,-10,4,1,Made,1,79.0,67.0,146,h,Jordan 1' Layup (38 PTS),Made Shot,Layup Shot,0,343
+20100597,345,PT11M03.00S,4,1610612739,CLE,902,Coles,B. Coles,-162,70,18,Missed,1,0.0,0.0,0,v,MISS Coles 18' Jump Shot,Missed Shot,Jump Shot,0,344
+20100597,346,PT11M00.00S,4,1610612764,WAS,1838,Nesby,T. Nesby,0,0,0,,0,0.0,0.0,0,h,Nesby REBOUND (Off:1 Def:4),Rebound,Unknown,0,345
+20100597,347,PT10M44.00S,4,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,v,Ilgauskas S.FOUL (P5.T1),Foul,Shooting,0,346
+20100597,348,PT10M44.00S,4,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,80.0,67.0,147,h,Haywood Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,347
+20100597,349,PT10M44.00S,4,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,81.0,67.0,148,h,Haywood Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,348
+20100597,350,PT10M22.00S,4,1610612739,CLE,902,Coles,B. Coles,184,-19,18,Missed,1,0.0,0.0,0,v,MISS Coles 18' Jump Shot,Missed Shot,Jump Shot,0,349
+20100597,351,PT10M20.00S,4,1610612764,WAS,1838,Nesby,T. Nesby,0,0,0,,0,0.0,0.0,0,h,Nesby REBOUND (Off:1 Def:5),Rebound,Unknown,0,350
+20100597,352,PT10M06.00S,4,1610612764,WAS,43,Whitney,C. Whitney,-197,171,26,Missed,1,0.0,0.0,0,h,MISS Whitney 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,351
+20100597,353,PT10M04.00S,4,1610612739,CLE,445,Person,W. Person,0,0,0,,0,0.0,0.0,0,v,Person REBOUND (Off:0 Def:5),Rebound,Unknown,0,352
+20100597,354,PT09M47.00S,4,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0.0,0.0,0,h,Haywood S.FOUL (P3.T1),Foul,Shooting,0,353
+20100597,355,PT09M47.00S,4,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,81.0,68.0,149,v,Ilgauskas Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,354
+20100597,356,PT09M47.00S,4,1610612739,CLE,445,Person,W. Person,0,0,0,,0,0.0,0.0,0,v,SUB: Stith FOR Person,Substitution,,0,355
+20100597,357,PT09M47.00S,4,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,81.0,69.0,150,v,Ilgauskas Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,356
+20100597,358,PT09M30.00S,4,1610612764,WAS,893,Jordan,M. Jordan,-176,-6,18,Missed,1,0.0,0.0,0,h,MISS Jordan 18' Jump Shot,Missed Shot,Jump Shot,0,357
+20100597,359,PT09M28.00S,4,1610612739,CLE,179,Stith,B. Stith,0,0,0,,0,0.0,0.0,0,v,Stith REBOUND (Off:0 Def:1),Rebound,Unknown,0,358
+20100597,360,PT09M21.00S,4,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,11,59,6,Made,1,81.0,71.0,152,v,Ilgauskas 6' Hook Shot (6 PTS) (Coles 3 AST),Made Shot,Hook Shot,0,359
+20100597,361,PT09M17.00S,4,1610612739,CLE,902,Coles,B. Coles,0,0,0,,0,0.0,0.0,0,v,Coles P.FOUL (P1.T2),Foul,Personal,0,360
+20100597,362,PT08M54.00S,4,1610612764,WAS,893,Jordan,M. Jordan,-1,116,12,Missed,1,0.0,0.0,0,h,MISS Jordan 12' Jump Shot,Missed Shot,Jump Shot,0,361
+20100597,363,PT08M52.00S,4,1610612739,CLE,179,Stith,B. Stith,0,0,0,,0,0.0,0.0,0,v,Stith REBOUND (Off:0 Def:2),Rebound,Unknown,0,362
+20100597,364,PT08M31.00S,4,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,47,59,8,Missed,1,0.0,0.0,0,v,MISS Ilgauskas 8' Jump Shot,Missed Shot,Jump Shot,0,363
+20100597,365,PT08M29.00S,4,1610612764,WAS,893,Jordan,M. Jordan,0,0,0,,0,0.0,0.0,0,h,Jordan REBOUND (Off:1 Def:6),Rebound,Unknown,0,364
+20100597,366,PT08M14.00S,4,1610612764,WAS,43,Whitney,C. Whitney,-189,-29,19,Missed,1,0.0,0.0,0,h,MISS Whitney 19' Jump Shot,Missed Shot,Jump Shot,0,365
+20100597,367,PT08M13.00S,4,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Rebound,Rebound,Unknown,0,366
+20100597,368,PT08M13.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,367
+20100597,370,PT08M13.00S,4,1610612764,WAS,43,Whitney,C. Whitney,0,0,0,,0,0.0,0.0,0,h,SUB: Davis FOR Whitney,Substitution,,0,368
+20100597,371,PT07M58.00S,4,1610612764,WAS,1838,Nesby,T. Nesby,0,0,0,,0,0.0,0.0,0,h,Nesby Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,369
+20100597,371,PT07M58.00S,4,1610612739,CLE,179,Stith,B. Stith,0,0,0,,0,0.0,0.0,0,v,Stith STEAL (1 STL),,,0,370
+20100597,372,PT07M33.00S,4,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,-124,-29,13,Made,1,81.0,73.0,154,v,Ilgauskas 13' Jump Shot (8 PTS) (Stith 1 AST),Made Shot,Jump Shot,0,371
+20100597,373,PT07M09.00S,4,1610612764,WAS,93,Davis,H. Davis,148,167,22,Missed,1,0.0,0.0,0,h,MISS Davis 22' Jump Shot,Missed Shot,Jump Shot,0,372
+20100597,374,PT07M05.00S,4,1610612764,WAS,2041,Thomas,E. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas REBOUND (Off:1 Def:1),Rebound,Unknown,0,373
+20100597,375,PT07M04.00S,4,1610612764,WAS,2041,Thomas,E. Thomas,-1,9,1,Made,1,83.0,73.0,156,h,Thomas 1' Dunk (7 PTS),Made Shot,Dunk Shot,0,374
+20100597,376,PT06M38.00S,4,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,-23,19,3,Missed,1,0.0,0.0,0,v,MISS Ilgauskas 3' Layup,Missed Shot,Layup Shot,0,375
+20100597,376,PT06M38.00S,4,1610612764,WAS,2041,Thomas,E. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas BLOCK (1 BLK),,,0,376
+20100597,377,PT06M36.00S,4,1610612764,WAS,2041,Thomas,E. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas REBOUND (Off:1 Def:2),Rebound,Unknown,0,377
+20100597,378,PT06M31.00S,4,1610612764,WAS,2217,Haywood,B. Haywood,-46,-19,5,Missed,1,0.0,0.0,0,h,MISS Haywood 5' Jump Shot,Missed Shot,Jump Shot,0,378
+20100597,378,PT06M31.00S,4,1610612739,CLE,2036,Mihm,C. Mihm,0,0,0,,0,0.0,0.0,0,v,Mihm BLOCK (2 BLK),,,0,379
+20100597,379,PT06M29.00S,4,1610612764,WAS,1838,Nesby,T. Nesby,0,0,0,,0,0.0,0.0,0,h,Nesby REBOUND (Off:2 Def:5),Rebound,Unknown,0,380
+20100597,380,PT06M18.00S,4,1610612739,CLE,902,Coles,B. Coles,0,0,0,,0,0.0,0.0,0,v,Coles P.FOUL (P2.T3),Foul,Personal,0,381
+20100597,381,PT06M18.00S,4,0,,1786,,,0,0,0,,0,0.0,0.0,0,,John Lucas Foul:T.FOUL,Foul,Technical,0,382
+20100597,390,PT06M18.00S,4,1610612764,WAS,1838,Nesby,T. Nesby,0,0,0,,0,0.0,0.0,0,h,SUB: Whitney FOR Nesby,Substitution,,0,383
+20100597,382,PT06M18.00S,4,1610612764,WAS,93,Davis,H. Davis,0,0,0,,0,84.0,73.0,157,h,Davis Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,0,384
+20100597,383,PT06M05.00S,4,1610612764,WAS,93,Davis,H. Davis,163,15,16,Missed,1,0.0,0.0,0,h,MISS Davis 16' Jump Shot,Missed Shot,Jump Shot,0,385
+20100597,384,PT06M03.00S,4,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,v,Ilgauskas REBOUND (Off:1 Def:4),Rebound,Unknown,0,386
+20100597,385,PT05M59.00S,4,1610612764,WAS,2041,Thomas,E. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas P.FOUL (P3.T2),Foul,Personal,0,387
+20100597,386,PT05M59.00S,4,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,388
+20100597,388,PT05M59.00S,4,1610612739,CLE,902,Coles,B. Coles,0,0,0,,0,0.0,0.0,0,v,SUB: Miller FOR Coles,Substitution,,0,389
+20100597,389,PT05M59.00S,4,1610612764,WAS,2041,Thomas,E. Thomas,0,0,0,,0,0.0,0.0,0,h,SUB: Jones FOR Thomas,Substitution,,0,390
+20100597,392,PT05M48.00S,4,1610612764,WAS,893,Jordan,M. Jordan,0,0,0,,0,0.0,0.0,0,h,Jordan S.FOUL (P2.T3),Foul,Shooting,0,391
+20100597,393,PT05M48.00S,4,1610612739,CLE,1729,Davis,R. Davis,0,0,0,,0,0.0,0.0,0,v,MISS Davis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,392
+20100597,394,PT05M48.00S,4,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,393
+20100597,395,PT05M48.00S,4,1610612739,CLE,1729,Davis,R. Davis,0,0,0,,0,84.0,74.0,158,v,Davis Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,394
+20100597,396,PT05M33.00S,4,1610612764,WAS,893,Jordan,M. Jordan,11,-6,1,Made,1,86.0,74.0,160,h,Jordan 1' Alley Oop Layup (40 PTS) (Whitney 4 AST),Made Shot,Alley Oop Layup shot,0,395
+20100597,397,PT05M15.00S,4,1610612739,CLE,1729,Davis,R. Davis,-1,200,20,Missed,1,0.0,0.0,0,v,MISS Davis 20' Jump Shot,Missed Shot,Jump Shot,0,396
+20100597,398,PT05M13.00S,4,1610612764,WAS,93,Davis,H. Davis,0,0,0,,0,0.0,0.0,0,h,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,397
+20100597,399,PT04M57.00S,4,1610612764,WAS,43,Whitney,C. Whitney,-153,-23,15,Made,1,88.0,74.0,162,h,Whitney 15' Jump Shot (13 PTS) (Davis 7 AST),Made Shot,Jump Shot,0,398
+20100597,400,PT04M47.00S,4,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,v,Cavaliers Timeout: Short (Reg.3 Short 1),Timeout,Short,0,399
+20100597,402,PT04M47.00S,4,1610612739,CLE,179,Stith,B. Stith,0,0,0,,0,0.0,0.0,0,v,SUB: Person FOR Stith,Substitution,,0,400
+20100597,403,PT04M33.00S,4,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,157,-23,16,Missed,1,0.0,0.0,0,v,MISS Ilgauskas 16' Jump Shot,Missed Shot,Jump Shot,0,401
+20100597,404,PT04M32.00S,4,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,v,Cavaliers Rebound,Rebound,Unknown,0,402
+20100597,405,PT04M32.00S,4,1610612739,CLE,2036,Mihm,C. Mihm,0,0,0,,0,0.0,0.0,0,v,SUB: Skinner FOR Mihm,Substitution,,0,403
+20100597,406,PT04M32.00S,4,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,SUB: Coles FOR Miller,Substitution,,0,404
+20100597,407,PT04M29.00S,4,1610612739,CLE,445,Person,W. Person,199,-29,20,Missed,1,0.0,0.0,0,v,MISS Person 20' Jump Shot,Missed Shot,Jump Shot,0,405
+20100597,408,PT04M28.00S,4,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,v,Ilgauskas REBOUND (Off:2 Def:4),Rebound,Unknown,0,406
+20100597,409,PT04M28.00S,4,1610612764,WAS,93,Davis,H. Davis,0,0,0,,0,0.0,0.0,0,h,Davis S.FOUL (P2.T4),Foul,Shooting,0,407
+20100597,410,PT04M28.00S,4,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,88.0,75.0,163,v,Ilgauskas Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,408
+20100597,411,PT04M28.00S,4,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,v,MISS Ilgauskas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,409
+20100597,412,PT04M26.00S,4,1610612764,WAS,893,Jordan,M. Jordan,0,0,0,,0,0.0,0.0,0,h,Jordan REBOUND (Off:1 Def:7),Rebound,Unknown,0,410
+20100597,413,PT04M10.00S,4,1610612764,WAS,93,Davis,H. Davis,98,87,13,Missed,1,0.0,0.0,0,h,MISS Davis 13' Jump Shot,Missed Shot,Jump Shot,0,411
+20100597,414,PT04M08.00S,4,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0.0,0.0,0,h,Haywood REBOUND (Off:4 Def:2),Rebound,Unknown,0,412
+20100597,415,PT03M50.00S,4,1610612764,WAS,43,Whitney,C. Whitney,169,-13,17,Missed,1,0.0,0.0,0,h,MISS Whitney 17' Jump Shot,Missed Shot,Jump Shot,0,413
+20100597,416,PT03M49.00S,4,1610612739,CLE,445,Person,W. Person,0,0,0,,0,0.0,0.0,0,v,Person REBOUND (Off:0 Def:6),Rebound,Unknown,0,414
+20100597,417,PT03M41.00S,4,1610612739,CLE,1729,Davis,R. Davis,199,9,20,Missed,1,0.0,0.0,0,v,MISS Davis 20' Jump Shot,Missed Shot,Jump Shot,0,415
+20100597,418,PT03M39.00S,4,1610612764,WAS,461,Jones,P. Jones,0,0,0,,0,0.0,0.0,0,h,Jones REBOUND (Off:5 Def:3),Rebound,Unknown,0,416
+20100597,419,PT03M22.00S,4,1610612764,WAS,893,Jordan,M. Jordan,32,177,18,Missed,1,0.0,0.0,0,h,MISS Jordan 18' Jump Shot,Missed Shot,Jump Shot,0,417
+20100597,420,PT03M20.00S,4,1610612739,CLE,902,Coles,B. Coles,0,0,0,,0,0.0,0.0,0,v,Coles REBOUND (Off:0 Def:1),Rebound,Unknown,0,418
+20100597,421,PT03M12.00S,4,1610612739,CLE,1729,Davis,R. Davis,184,55,19,Missed,1,0.0,0.0,0,v,MISS Davis 19' Jump Shot,Missed Shot,Jump Shot,0,419
+20100597,422,PT03M10.00S,4,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,v,Ilgauskas REBOUND (Off:3 Def:4),Rebound,Unknown,0,420
+20100597,423,PT03M10.00S,4,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0.0,0.0,0,h,Haywood P.FOUL (P4.PN),Foul,Personal,0,421
+20100597,424,PT03M10.00S,4,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,88.0,76.0,164,v,Ilgauskas Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,422
+20100597,425,PT03M10.00S,4,1610612739,CLE,1730,Skinner,B. Skinner,0,0,0,,0,0.0,0.0,0,v,SUB: Diop FOR Skinner,Substitution,,0,423
+20100597,433,PT03M10.00S,4,1610612739,CLE,902,Coles,B. Coles,0,0,0,,0,0.0,0.0,0,v,SUB: Miller FOR Coles,Substitution,,0,424
+20100597,426,PT03M10.00S,4,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,88.0,77.0,165,v,Ilgauskas Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,425
+20100597,427,PT02M52.00S,4,1610612764,WAS,461,Jones,P. Jones,-124,-6,12,Made,1,90.0,77.0,167,h,Jones 12' Jump Shot (9 PTS) (Davis 8 AST),Made Shot,Jump Shot,0,426
+20100597,428,PT02M40.00S,4,1610612739,CLE,1729,Davis,R. Davis,77,99,13,Made,1,90.0,79.0,169,v,Davis 13' Jump Shot (3 PTS) (Miller 12 AST),Made Shot,Jump Shot,0,427
+20100597,429,PT02M35.00S,4,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,Miller P.FOUL (P4.T4),Foul,Personal,0,428
+20100597,431,PT02M35.00S,4,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,v,Cavaliers Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,429
+20100597,434,PT02M35.00S,4,1610612739,CLE,445,Person,W. Person,0,0,0,,0,0.0,0.0,0,v,SUB: Jones FOR Person,Substitution,,0,430
+20100597,435,PT02M35.00S,4,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,v,SUB: Langdon FOR Ilgauskas,Substitution,,0,431
+20100597,436,PT02M35.00S,4,1610612764,WAS,2217,Haywood,B. Haywood,0,0,0,,0,0.0,0.0,0,h,SUB: Nesby FOR Haywood,Substitution,,0,432
+20100597,437,PT02M10.00S,4,1610612764,WAS,1838,Nesby,T. Nesby,-1,4,0,Made,1,92.0,79.0,171,h,Nesby  Slam Dunk (6 PTS) (Whitney 5 AST),Made Shot,Slam Dunk Shot,0,433
+20100597,438,PT01M52.00S,4,1610612764,WAS,1838,Nesby,T. Nesby,0,0,0,,0,0.0,0.0,0,h,Nesby S.FOUL (P2.PN),Foul,Shooting,0,434
+20100597,439,PT01M52.00S,4,1610612739,CLE,1729,Davis,R. Davis,0,0,0,,0,92.0,80.0,172,v,Davis Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,435
+20100597,440,PT01M52.00S,4,1610612739,CLE,1729,Davis,R. Davis,0,0,0,,0,92.0,81.0,173,v,Davis Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,436
+20100597,441,PT01M48.00S,4,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,Miller AWAY.FROM.PLAY.FOUL (P5.PN),Foul,Away From Play,0,437
+20100597,442,PT01M48.00S,4,1610612764,WAS,43,Whitney,C. Whitney,0,0,0,,0,0.0,0.0,0,h,MISS Whitney Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,438
+20100597,443,PT01M48.00S,4,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Rebound,Rebound,Normal Rebound,0,439
+20100597,444,PT01M31.00S,4,1610612764,WAS,893,Jordan,M. Jordan,-103,42,11,Missed,1,0.0,0.0,0,h,MISS Jordan 11' Jump Shot,Missed Shot,Jump Shot,0,440
+20100597,445,PT01M29.00S,4,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,Miller REBOUND (Off:1 Def:2),Rebound,Unknown,0,441
+20100597,446,PT01M22.00S,4,1610612739,CLE,2205,Diop,D. Diop,62,116,13,Made,1,92.0,83.0,175,v,Diop 13' Jump Shot (2 PTS) (Davis 2 AST),Made Shot,Jump Shot,0,442
+20100597,447,PT00M58.80S,4,1610612764,WAS,93,Davis,H. Davis,-1,257,26,Missed,1,0.0,0.0,0,h,MISS Davis 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,443
+20100597,448,PT00M56.70S,4,1610612739,CLE,1729,Davis,R. Davis,0,0,0,,0,0.0,0.0,0,v,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,444
+20100597,449,PT00M49.10S,4,1610612739,CLE,1892,Langdon,T. Langdon,-147,-6,15,Missed,1,0.0,0.0,0,v,MISS Langdon 15' Jump Shot,Missed Shot,Jump Shot,0,445
+20100597,450,PT00M46.70S,4,1610612739,CLE,1908,Jones,J. Jones,0,0,0,,0,0.0,0.0,0,v,Jones REBOUND (Off:4 Def:4),Rebound,Unknown,0,446
+20100597,451,PT00M44.90S,4,1610612739,CLE,1729,Davis,R. Davis,85,36,9,Missed,1,0.0,0.0,0,v,MISS Davis 9' Jump Shot,Missed Shot,Jump Shot,0,447
+20100597,452,PT00M43.30S,4,1610612764,WAS,93,Davis,H. Davis,0,0,0,,0,0.0,0.0,0,h,Davis REBOUND (Off:0 Def:2),Rebound,Unknown,0,448
+20100597,453,PT00M38.30S,4,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,Miller P.FOUL (P6.PN),Foul,Personal,0,449
+20100597,454,PT00M38.30S,4,1610612764,WAS,43,Whitney,C. Whitney,0,0,0,,0,93.0,83.0,176,h,Whitney Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,450
+20100597,455,PT00M38.30S,4,1610612764,WAS,893,Jordan,M. Jordan,0,0,0,,0,0.0,0.0,0,h,SUB: Simmons FOR Jordan,Substitution,,0,451
+20100597,456,PT00M38.30S,4,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,SUB: Coles FOR Miller,Substitution,,0,452
+20100597,458,PT00M38.30S,4,1610612764,WAS,461,Jones,P. Jones,0,0,0,,0,0.0,0.0,0,h,SUB: Brown FOR Jones,Substitution,,0,453
+20100597,457,PT00M38.30S,4,1610612764,WAS,43,Whitney,C. Whitney,0,0,0,,0,94.0,83.0,177,h,Whitney Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,454
+20100597,459,PT00M22.80S,4,1610612739,CLE,2205,Diop,D. Diop,-117,-23,12,Missed,1,0.0,0.0,0,v,MISS Diop 12' Jump Shot,Missed Shot,Jump Shot,0,455
+20100597,460,PT00M22.30S,4,1610612739,CLE,1729,Davis,R. Davis,0,0,0,,0,0.0,0.0,0,v,Davis REBOUND (Off:1 Def:1),Rebound,Unknown,0,456
+20100597,461,PT00M22.30S,4,1610612739,CLE,1729,Davis,R. Davis,18,-23,3,Made,1,94.0,85.0,179,v,Davis 3' Tip Shot (7 PTS),Made Shot,Tip Shot,0,457
+20100597,462,PT00M00.00S,4,0,,0,,,0,0,0,,0,94.0,85.0,179,,End of 4th Period (9:18 PM EST),period,end,0,458

@@ -1,0 +1,442 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+21401025,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (8:11 PM EST),period,start,0,1
+21401025,1,PT12M00.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,,,0,h,Jump Ball Gasol vs. Valanciunas: Tip to A. Johnson,Jump Ball,,1,2
+21401025,2,PT11M39.00S,1,1610612761,TOR,202349,Vasquez,G. Vasquez,133,214,25,Missed,1,,,0,v,MISS Vasquez 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+21401025,3,PT11M38.00S,1,1610612741,CHI,203503,Snell,T. Snell,0,0,0,,0,,,0,h,Snell REBOUND (Off:0 Def:1),Rebound,Unknown,1,4
+21401025,5,PT11M29.00S,1,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,5
+21401025,4,PT11M29.00S,1,1610612741,CHI,201149,Noah,J. Noah,-11,11,2,Made,1,2.0,0.0,2,h,Noah 2' Layup (2 PTS) (Gasol 1 AST),Made Shot,Layup Shot,1,6
+21401025,6,PT11M20.00S,1,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,,,0,h,Dunleavy P.FOUL (P1.T1),Foul,Personal,1,7
+21401025,7,PT11M15.00S,1,1610612761,TOR,101161,Johnson,A. Johnson,-27,200,20,Missed,1,,,0,v,MISS A. Johnson 20' Jump Shot,Missed Shot,Jump Shot,1,8
+21401025,8,PT11M14.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:0 Def:1),Rebound,Unknown,1,9
+21401025,9,PT11M11.00S,1,1610612741,CHI,201166,Brooks,A. Brooks,0,0,0,,0,,,0,h,Brooks Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,10
+21401025,10,PT10M52.00S,1,1610612761,TOR,203082,Ross,T. Ross,-152,214,26,Missed,1,,,0,v,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,11
+21401025,11,PT10M51.00S,1,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,h,Noah REBOUND (Off:0 Def:1),Rebound,Unknown,1,12
+21401025,12,PT10M44.00S,1,1610612741,CHI,203503,Snell,T. Snell,-4,242,24,Missed,1,,,0,h,MISS Snell 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,13
+21401025,13,PT10M43.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:0 Def:1),Rebound,Unknown,1,14
+21401025,14,PT10M31.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,-224,-24,0,Made,1,2.0,3.0,5,v,DeRozan 3PT Jump Shot (3 PTS) (Vasquez 1 AST),Made Shot,Jump Shot,1,15
+21401025,16,PT10M13.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,4,138,14,Missed,1,,,0,h,MISS Gasol 14' Jump Shot,Missed Shot,Jump Shot,1,16
+21401025,17,PT10M12.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,DeRozan REBOUND (Off:0 Def:1),Rebound,Unknown,1,17
+21401025,18,PT09M56.00S,1,1610612761,TOR,101161,Johnson,A. Johnson,-49,7,5,Made,1,2.0,5.0,7,v,A. Johnson 5' Jump Shot (2 PTS) (Ross 1 AST),Made Shot,Jump Shot,1,18
+21401025,19,PT09M36.00S,1,1610612741,CHI,201166,Brooks,A. Brooks,-70,143,16,Made,1,4.0,5.0,9,h,Brooks 16' Jump Shot (2 PTS),Made Shot,Jump Shot,1,19
+21401025,20,PT09M20.00S,1,1610612761,TOR,203082,Ross,T. Ross,-84,101,13,Made,1,4.0,7.0,11,v,Ross 13' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,1,20
+21401025,21,PT08M58.00S,1,1610612741,CHI,2399,Dunleavy,M. Dunleavy,-16,9,2,Made,1,6.0,7.0,13,h,Dunleavy 2' Running Layup (2 PTS) (Noah 1 AST),Made Shot,Running Layup Shot,1,21
+21401025,22,PT08M34.00S,1,1610612761,TOR,202349,Vasquez,G. Vasquez,65,93,11,Made,1,6.0,9.0,15,v,Vasquez 11' Running Jump Shot (2 PTS) (DeRozan 1 AST),Made Shot,Running Jump Shot,1,22
+21401025,23,PT08M24.00S,1,1610612741,CHI,201166,Brooks,A. Brooks,-64,72,10,Missed,1,,,0,h,MISS Brooks 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,23
+21401025,24,PT08M21.00S,1,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,24
+21401025,25,PT08M05.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,DeRozan Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,25
+21401025,25,PT08M05.00S,1,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,,,0,h,Dunleavy STEAL (1 STL),,,1,26
+21401025,26,PT07M58.00S,1,1610612741,CHI,201166,Brooks,A. Brooks,-146,211,26,Missed,1,,,0,h,MISS Brooks 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,27
+21401025,28,PT07M57.00S,1,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,h,Noah REBOUND (Off:1 Def:1),Rebound,Unknown,1,28
+21401025,27,PT07M57.00S,1,1610612741,CHI,201149,Noah,J. Noah,21,7,2,Missed,1,,,0,h,MISS Noah 2' Tip Shot,Missed Shot,Tip Shot,1,29
+21401025,29,PT07M56.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,DeRozan REBOUND (Off:0 Def:2),Rebound,Unknown,1,30
+21401025,30,PT07M53.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,DeRozan Offensive Charge Foul (P1),Foul,Offensive Charge,1,31
+21401025,31,PT07M53.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,DeRozan Foul Turnover (P2.T2),Turnover,Foul,1,32
+21401025,32,PT07M41.00S,1,1610612741,CHI,201149,Noah,J. Noah,-15,17,2,Missed,1,,,0,h,MISS Noah 2' Layup,Missed Shot,Layup Shot,1,33
+21401025,32,PT07M41.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas BLOCK (1 BLK),,,1,34
+21401025,33,PT07M41.00S,1,0,,1610612741,,,0,0,0,,0,,,0,h,BULLS Rebound,Rebound,Unknown,0,35
+21401025,34,PT07M31.00S,1,1610612741,CHI,2399,Dunleavy,M. Dunleavy,-11,4,1,Made,1,8.0,9.0,17,h,Dunleavy 1' Running Reverse Layup (4 PTS) (Noah 2 AST),Made Shot,Running Reverse Layup Shot,1,36
+21401025,35,PT07M06.00S,1,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,37
+21401025,35,PT07M06.00S,1,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,,,0,h,Dunleavy STEAL (2 STL),,,1,38
+21401025,36,PT06M58.00S,1,1610612741,CHI,203503,Snell,T. Snell,-100,222,24,Missed,1,,,0,h,MISS Snell 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,39
+21401025,37,PT06M57.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:1 Def:1),Rebound,Unknown,1,40
+21401025,38,PT06M55.00S,1,1610612741,CHI,203503,Snell,T. Snell,-16,3,2,Made,1,10.0,9.0,19,h,Snell 2' Layup (2 PTS) (Gasol 2 AST),Made Shot,Layup Shot,1,41
+21401025,39,PT06M47.00S,1,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,42
+21401025,41,PT06M40.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,-166,142,22,Made,1,10.0,11.0,21,v,DeRozan 22' Jump Shot (5 PTS) (A. Johnson 1 AST),Made Shot,Jump Shot,1,43
+21401025,42,PT06M21.00S,1,1610612741,CHI,2399,Dunleavy,M. Dunleavy,-111,165,20,Made,1,12.0,11.0,23,h,Dunleavy 20' Jump Shot (6 PTS) (Noah 3 AST),Made Shot,Jump Shot,1,44
+21401025,43,PT06M08.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,-171,115,21,Made,1,12.0,13.0,25,v,DeRozan 21' Jump Shot (7 PTS) (Vasquez 2 AST),Made Shot,Jump Shot,1,45
+21401025,44,PT05M42.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,28,12,3,Missed,1,,,0,h,MISS Gasol 3' Layup,Missed Shot,Layup Shot,1,46
+21401025,44,PT05M42.00S,1,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson BLOCK (1 BLK),,,1,47
+21401025,45,PT05M40.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,DeRozan REBOUND (Off:0 Def:3),Rebound,Unknown,1,48
+21401025,46,PT05M25.00S,1,1610612761,TOR,203082,Ross,T. Ross,-175,172,25,Made,1,12.0,16.0,28,v,Ross 25' 3PT Jump Shot (5 PTS) (A. Johnson 2 AST),Made Shot,Jump Shot,1,49
+21401025,47,PT05M15.00S,1,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson P.FOUL (P1.T1),Foul,Personal,1,50
+21401025,48,PT05M06.00S,1,1610612741,CHI,201166,Brooks,A. Brooks,154,213,26,Missed,1,,,0,h,MISS Brooks 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,51
+21401025,49,PT05M05.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:0 Def:2),Rebound,Unknown,1,52
+21401025,50,PT04M51.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,239,-19,24,Made,1,12.0,19.0,31,v,DeRozan 24' 3PT Jump Shot (10 PTS) (Ross 2 AST),Made Shot,Jump Shot,1,53
+21401025,51,PT04M34.00S,1,1610612741,CHI,203503,Snell,T. Snell,21,11,2,Made,1,14.0,19.0,33,h,Snell 2' Layup (4 PTS) (Noah 4 AST),Made Shot,Layup Shot,1,54
+21401025,52,PT04M18.00S,1,1610612761,TOR,203082,Ross,T. Ross,-235,-6,24,Missed,1,,,0,v,MISS Ross 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,55
+21401025,53,PT04M16.00S,1,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson REBOUND (Off:1 Def:1),Rebound,Unknown,1,56
+21401025,54,PT04M09.00S,1,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,,,0,v,Vasquez Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,57
+21401025,54,PT04M09.00S,1,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,h,Noah STEAL (1 STL),,,1,58
+21401025,55,PT04M03.00S,1,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson S.FOUL (P2.T2),Foul,Shooting,1,59
+21401025,56,PT04M03.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,15.0,19.0,34,h,Gasol Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,60
+21401025,58,PT04M03.00S,1,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,h,SUB: Gibson FOR Noah,Substitution,,0,61
+21401025,59,PT04M03.00S,1,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,,,0,h,SUB: Mirotic FOR Dunleavy,Substitution,,0,62
+21401025,60,PT04M03.00S,1,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,SUB: Williams FOR Ross,Substitution,,0,63
+21401025,61,PT04M03.00S,1,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,SUB: Patterson FOR A. Johnson,Substitution,,0,64
+21401025,64,PT04M03.00S,1,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,,,0,v,Vasquez Violation:Lane,Violation,Lane,0,65
+21401025,66,PT04M03.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,16.0,19.0,35,h,Gasol Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,66
+21401025,68,PT03M44.00S,1,1610612761,TOR,202349,Vasquez,G. Vasquez,-51,52,7,Missed,1,,,0,v,MISS Vasquez 7' Jump Shot,Missed Shot,Jump Shot,1,67
+21401025,69,PT03M43.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:1 Def:2),Rebound,Unknown,1,68
+21401025,70,PT03M33.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,10,-6,1,Made,1,18.0,19.0,37,h,Gibson 1' Alley Oop Layup (2 PTS) (Gasol 3 AST),Made Shot,Alley Oop Layup shot,1,69
+21401025,71,PT03M15.00S,1,1610612761,TOR,202335,Patterson,P. Patterson,-232,25,0,Missed,1,,,0,v,MISS Patterson 3PT Jump Shot,Missed Shot,Jump Shot,1,70
+21401025,72,PT03M14.00S,1,1610612741,CHI,201166,Brooks,A. Brooks,0,0,0,,0,,,0,h,Brooks REBOUND (Off:0 Def:1),Rebound,Unknown,1,71
+21401025,73,PT03M01.00S,1,1610612741,CHI,202703,Mirotic,N. Mirotic,176,181,25,Made,1,21.0,19.0,40,h,Mirotic 25' 3PT Jump Shot (3 PTS) (Gibson 1 AST),Made Shot,Jump Shot,1,72
+21401025,74,PT02M54.00S,1,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Timeout: Short (Reg.1 Short 1),Timeout,Short,0,73
+21401025,75,PT02M54.00S,1,0,,1610612741,,,0,0,0,,0,,,0,h,BULLS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,74
+21401025,76,PT02M54.00S,1,1610612741,CHI,201166,Brooks,A. Brooks,0,0,0,,0,,,0,h,SUB: Hinrich FOR Brooks,Substitution,,0,75
+21401025,77,PT02M54.00S,1,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,,,0,v,SUB: J. Johnson FOR Vasquez,Substitution,,0,76
+21401025,78,PT02M42.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,,,0,h,Hinrich P.FOUL (P1.T2),Foul,Personal,1,77
+21401025,79,PT02M26.00S,1,1610612761,TOR,201949,Johnson,J. Johnson,91,241,26,Missed,1,,,0,v,MISS J. Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,78
+21401025,80,PT02M25.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,,,0,h,Gibson REBOUND (Off:0 Def:1),Rebound,Unknown,1,79
+21401025,81,PT02M11.00S,1,1610612741,CHI,202703,Mirotic,N. Mirotic,-161,176,24,Made,1,24.0,19.0,43,h,Mirotic 24' 3PT Jump Shot (6 PTS) (Snell 1 AST),Made Shot,Jump Shot,1,80
+21401025,82,PT01M52.00S,1,1610612761,TOR,101150,Williams,L. Williams,-144,94,17,Missed,1,,,0,v,MISS Williams 17' Jump Shot,Missed Shot,Jump Shot,1,81
+21401025,82,PT01M52.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,,,0,h,Hinrich BLOCK (1 BLK),,,1,82
+21401025,83,PT01M50.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:1 Def:3),Rebound,Unknown,1,83
+21401025,84,PT01M39.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,91,151,18,Missed,1,,,0,h,MISS Gasol 18' Jump Shot,Missed Shot,Jump Shot,1,84
+21401025,85,PT01M37.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,,,0,h,Gibson REBOUND (Off:1 Def:1),Rebound,Unknown,1,85
+21401025,86,PT01M27.00S,1,1610612741,CHI,2200,Gasol,P. Gasol,23,6,2,Made,1,26.0,19.0,45,h,Gasol 2' Layup (4 PTS) (Mirotic 1 AST),Made Shot,Layup Shot,1,86
+21401025,87,PT01M08.00S,1,1610612741,CHI,202703,Mirotic,N. Mirotic,0,0,0,,0,,,0,h,Mirotic S.FOUL (P1.T3),Foul,Shooting,1,87
+21401025,88,PT01M08.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,26.0,20.0,46,v,DeRozan Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,88
+21401025,90,PT01M08.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,SUB: Hansbrough FOR Valanciunas,Substitution,,0,89
+21401025,91,PT01M08.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,26.0,21.0,47,v,DeRozan Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,90
+21401025,94,PT00M55.90S,1,1610612741,CHI,201959,Gibson,T. Gibson,0,1,0,Made,1,28.0,21.0,49,h,Gibson Slam Dunk (4 PTS) (Gasol 4 AST),Made Shot,Slam Dunk Shot,1,91
+21401025,96,PT00M33.50S,1,1610612741,CHI,203503,Snell,T. Snell,0,0,0,,0,,,0,h,Snell S.FOUL (P1.PN),Foul,Shooting,1,92
+21401025,97,PT00M33.50S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,28.0,22.0,50,v,DeRozan Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,93
+21401025,99,PT00M33.50S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,MISS DeRozan Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,94
+21401025,101,PT00M31.80S,1,1610612741,CHI,202703,Mirotic,N. Mirotic,0,0,0,,0,,,0,h,Mirotic REBOUND (Off:0 Def:1),Rebound,Unknown,1,95
+21401025,102,PT00M23.90S,1,1610612741,CHI,202703,Mirotic,N. Mirotic,141,217,26,Missed,1,,,0,h,MISS Mirotic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,96
+21401025,102,PT00M23.90S,1,1610612761,TOR,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,v,Hansbrough BLOCK (1 BLK),,,1,97
+21401025,103,PT00M20.90S,1,1610612741,CHI,202703,Mirotic,N. Mirotic,0,0,0,,0,,,0,h,Mirotic REBOUND (Off:1 Def:1),Rebound,Unknown,1,98
+21401025,104,PT00M20.60S,1,1610612741,CHI,202703,Mirotic,N. Mirotic,-19,1,2,Made,1,30.0,22.0,52,h,Mirotic 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,99
+21401025,105,PT00M04.90S,1,1610612741,CHI,203503,Snell,T. Snell,0,0,0,,0,,,0,h,Snell P.FOUL (P2.PN),Foul,Personal,1,100
+21401025,106,PT00M04.90S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,30.0,23.0,53,v,DeRozan Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,101
+21401025,108,PT00M04.90S,1,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,,,0,h,SUB: Brooks FOR Gibson,Substitution,,0,102
+21401025,109,PT00M04.90S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,30.0,24.0,54,v,DeRozan Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,103
+21401025,111,PT00M03.00S,1,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,,,0,v,Williams Personal Take Foul (P1.T3),Foul,Personal Take,1,104
+21401025,112,PT00M00.10S,1,1610612741,CHI,202703,Mirotic,N. Mirotic,15,4,2,Made,1,32.0,24.0,56,h,Mirotic 2' Running Layup (10 PTS) (Hinrich 1 AST),Made Shot,Running Layup Shot,1,105
+21401025,115,PT00M00.00S,1,0,,112,Wingfield,D. Wingfield,0,0,0,,0,,,0,,Support Ruling,Instant Replay,Support Ruling,0,106
+21401025,113,PT00M00.00S,1,0,,0,,,0,0,0,,0,32.0,24.0,56,,End of 1st Period (8:36 PM EST),period,end,0,107
+21401025,116,PT12M00.00S,2,0,,0,,,0,0,0,,0,32.0,24.0,56,,Start of 2nd Period (8:38 PM EST),period,start,0,108
+21401025,117,PT11M44.00S,2,1610612761,TOR,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,J. Johnson P.FOUL (P1.T1),Foul,Personal,1,109
+21401025,118,PT11M32.00S,2,1610612741,CHI,202703,Mirotic,N. Mirotic,149,203,25,Missed,1,,,0,h,MISS Mirotic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,110
+21401025,119,PT11M30.00S,2,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,,,0,v,Vasquez REBOUND (Off:0 Def:1),Rebound,Unknown,1,111
+21401025,121,PT11M18.00S,2,1610612761,TOR,202349,Vasquez,G. Vasquez,18,12,2,Made,1,32.0,26.0,58,v,Vasquez 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,112
+21401025,122,PT10M55.00S,2,1610612741,CHI,202734,Moore,E. Moore,77,183,20,Made,1,34.0,26.0,60,h,Moore 20' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,113
+21401025,123,PT10M40.00S,2,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,h,Noah S.FOUL (P1.T1),Foul,Shooting,1,114
+21401025,124,PT10M40.00S,2,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,34.0,27.0,61,v,Williams Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,115
+21401025,126,PT10M40.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,,,0,h,SUB: McDermott FOR Gibson,Substitution,,0,116
+21401025,127,PT10M40.00S,2,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,34.0,28.0,62,v,Williams Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,117
+21401025,129,PT10M22.00S,2,1610612761,TOR,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,v,Hansbrough S.FOUL (P1.T2),Foul,Shooting,1,118
+21401025,130,PT10M22.00S,2,1610612741,CHI,202703,Mirotic,N. Mirotic,0,0,0,,0,35.0,28.0,63,h,Mirotic Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,119
+21401025,132,PT10M22.00S,2,1610612741,CHI,202703,Mirotic,N. Mirotic,0,0,0,,0,,,0,h,MISS Mirotic Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,120
+21401025,134,PT10M20.00S,2,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,Patterson REBOUND (Off:0 Def:1),Rebound,Unknown,1,121
+21401025,135,PT10M08.00S,2,1610612761,TOR,101150,Williams,L. Williams,-158,190,25,Made,1,35.0,31.0,66,v,Williams 25' 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,1,122
+21401025,136,PT09M58.00S,2,1610612741,CHI,203926,McDermott,D. McDermott,-114,214,24,Made,1,38.0,31.0,69,h,McDermott 24' 3PT Jump Shot (3 PTS) (Noah 5 AST),Made Shot,Jump Shot,1,123
+21401025,137,PT09M36.00S,2,1610612761,TOR,202349,Vasquez,G. Vasquez,-34,244,25,Missed,1,,,0,v,MISS Vasquez 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,124
+21401025,138,PT09M35.00S,2,1610612741,CHI,202734,Moore,E. Moore,0,0,0,,0,,,0,h,Moore REBOUND (Off:0 Def:1),Rebound,Unknown,1,125
+21401025,139,PT09M14.00S,2,1610612741,CHI,202703,Mirotic,N. Mirotic,-231,39,0,Missed,1,,,0,h,MISS Mirotic 3PT Jump Shot,Missed Shot,Jump Shot,1,126
+21401025,140,PT09M12.00S,2,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,,,0,v,Vasquez REBOUND (Off:0 Def:2),Rebound,Unknown,1,127
+21401025,141,PT08M59.00S,2,1610612761,TOR,202335,Patterson,P. Patterson,67,17,7,Made,1,38.0,33.0,71,v,Patterson 7' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,1,128
+21401025,142,PT08M47.00S,2,1610612741,CHI,203926,McDermott,D. McDermott,146,194,24,Missed,1,,,0,h,MISS McDermott 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,129
+21401025,143,PT08M46.00S,2,1610612741,CHI,203926,McDermott,D. McDermott,0,0,0,,0,,,0,h,McDermott REBOUND (Off:1 Def:0),Rebound,Unknown,1,130
+21401025,144,PT08M44.00S,2,1610612741,CHI,203926,McDermott,D. McDermott,0,0,0,,0,,,0,h,McDermott Offensive Charge Foul (P1),Foul,Offensive Charge,1,131
+21401025,145,PT08M44.00S,2,1610612741,CHI,203926,McDermott,D. McDermott,0,0,0,,0,,,0,h,McDermott Foul Turnover (P1.T2),Turnover,Foul,1,132
+21401025,146,PT08M44.00S,2,0,,0,,,0,0,0,,0,,,0,,Timeout: Regular,Timeout,Regular,0,133
+21401025,147,PT08M44.00S,2,1610612761,TOR,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,SUB: DeRozan FOR J. Johnson,Substitution,,0,134
+21401025,148,PT08M44.00S,2,1610612741,CHI,203926,McDermott,D. McDermott,0,0,0,,0,,,0,h,SUB: Brooks FOR McDermott,Substitution,,0,135
+21401025,149,PT08M44.00S,2,1610612741,CHI,202734,Moore,E. Moore,0,0,0,,0,,,0,h,SUB: Snell FOR Moore,Substitution,,0,136
+21401025,150,PT08M26.00S,2,1610612761,TOR,202335,Patterson,P. Patterson,-117,33,12,Made,1,38.0,35.0,73,v,Patterson 12' Jump Shot (4 PTS),Made Shot,Jump Shot,1,137
+21401025,151,PT08M12.00S,2,1610612741,CHI,203503,Snell,T. Snell,15,4,2,Made,1,40.0,35.0,75,h,Snell 2' Layup (6 PTS) (Noah 6 AST),Made Shot,Layup Shot,1,138
+21401025,152,PT07M46.00S,2,1610612761,TOR,202335,Patterson,P. Patterson,105,148,18,Missed,1,,,0,v,MISS Patterson 18' Jump Shot,Missed Shot,Jump Shot,1,139
+21401025,153,PT07M44.00S,2,1610612741,CHI,203503,Snell,T. Snell,0,0,0,,0,,,0,h,Snell REBOUND (Off:0 Def:2),Rebound,Unknown,1,140
+21401025,154,PT07M30.00S,2,1610612741,CHI,201149,Noah,J. Noah,0,1,0,Made,1,42.0,35.0,77,h,Noah Slam Dunk (4 PTS) (Brooks 1 AST),Made Shot,Slam Dunk Shot,1,141
+21401025,155,PT07M11.00S,2,1610612741,CHI,201166,Brooks,A. Brooks,0,0,0,,0,,,0,h,Brooks S.FOUL (P1.T2),Foul,Shooting,1,142
+21401025,156,PT07M11.00S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,42.0,36.0,78,v,DeRozan Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,143
+21401025,158,PT07M11.00S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,42.0,37.0,79,v,DeRozan Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,144
+21401025,160,PT07M01.00S,2,1610612741,CHI,203503,Snell,T. Snell,0,1,0,Made,1,44.0,37.0,81,h,Snell Running Slam Dunk (8 PTS) (Noah 7 AST),Made Shot,Running Slam Dunk Shot,1,145
+21401025,161,PT06M44.00S,2,1610612761,TOR,202349,Vasquez,G. Vasquez,230,1,0,Made,1,44.0,40.0,84,v,Vasquez 3PT Jump Shot (7 PTS) (Williams 1 AST),Made Shot,Jump Shot,1,146
+21401025,162,PT06M22.00S,2,1610612741,CHI,202703,Mirotic,N. Mirotic,-29,252,25,Missed,1,,,0,h,MISS Mirotic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,147
+21401025,163,PT06M21.00S,2,1610612741,CHI,201166,Brooks,A. Brooks,0,0,0,,0,,,0,h,Brooks REBOUND (Off:1 Def:1),Rebound,Unknown,1,148
+21401025,164,PT06M13.00S,2,1610612741,CHI,203503,Snell,T. Snell,31,6,3,Made,1,46.0,40.0,86,h,Snell 3' Running Layup (10 PTS) (Noah 8 AST),Made Shot,Running Layup Shot,1,149
+21401025,165,PT05M48.00S,2,1610612761,TOR,101150,Williams,L. Williams,-146,105,18,Missed,1,,,0,v,MISS Williams 18' Jump Shot,Missed Shot,Jump Shot,1,150
+21401025,166,PT05M47.00S,2,1610612741,CHI,202703,Mirotic,N. Mirotic,0,0,0,,0,,,0,h,Mirotic REBOUND (Off:1 Def:2),Rebound,Unknown,1,151
+21401025,167,PT05M39.00S,2,1610612741,CHI,203503,Snell,T. Snell,-153,203,25,Missed,1,,,0,h,MISS Snell 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,152
+21401025,168,PT05M38.00S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,DeRozan REBOUND (Off:0 Def:4),Rebound,Unknown,1,153
+21401025,169,PT05M25.00S,2,1610612761,TOR,201946,Hansbrough,T. Hansbrough,0,1,0,Made,1,46.0,42.0,88,v,Hansbrough Dunk (2 PTS) (Patterson 1 AST),Made Shot,Dunk Shot,1,154
+21401025,171,PT04M58.00S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,-237,-17,24,Made,1,49.0,42.0,91,h,Hinrich 24' 3PT Jump Shot (3 PTS) (Noah 9 AST),Made Shot,Jump Shot,1,155
+21401025,172,PT04M50.00S,2,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Timeout: Regular (Reg.2 Short 1),Timeout,Regular,0,156
+21401025,173,PT04M50.00S,2,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,h,SUB: Gasol FOR Noah,Substitution,,0,157
+21401025,174,PT04M50.00S,2,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Williams,Substitution,,0,158
+21401025,175,PT04M50.00S,2,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,SUB: A. Johnson FOR Patterson,Substitution,,0,159
+21401025,176,PT04M50.00S,2,1610612761,TOR,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,v,SUB: Ross FOR Hansbrough,Substitution,,0,160
+21401025,177,PT04M34.00S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,-13,55,6,Missed,1,,,0,v,MISS DeRozan 6' Jump Shot,Missed Shot,Jump Shot,1,161
+21401025,178,PT04M34.00S,2,0,,1610612741,,,0,0,0,,0,,,0,h,BULLS Rebound,Rebound,Unknown,0,162
+21401025,179,PT04M34.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas L.B.FOUL (P1.T3),Foul,Loose Ball,1,163
+21401025,180,PT04M34.00S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,,,0,h,SUB: Dunleavy FOR Hinrich,Substitution,,0,164
+21401025,181,PT04M23.00S,2,1610612741,CHI,201166,Brooks,A. Brooks,21,6,2,Made,1,51.0,42.0,93,h,Brooks 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,165
+21401025,182,PT04M08.00S,2,1610612761,TOR,202349,Vasquez,G. Vasquez,102,47,11,Missed,1,,,0,v,MISS Vasquez 11' Jump Shot,Missed Shot,Jump Shot,1,166
+21401025,183,PT04M07.00S,2,1610612741,CHI,202703,Mirotic,N. Mirotic,0,0,0,,0,,,0,h,Mirotic REBOUND (Off:1 Def:3),Rebound,Unknown,1,167
+21401025,184,PT03M51.00S,2,1610612741,CHI,203503,Snell,T. Snell,0,0,0,,0,,,0,h,Snell Traveling Turnover (P1.T3),Turnover,Traveling,1,168
+21401025,186,PT03M41.00S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,143,9,14,Made,1,51.0,44.0,95,v,DeRozan 14' Driving Jump Shot (19 PTS) (Vasquez 3 AST),Made Shot,Driving Jump shot,1,169
+21401025,187,PT03M27.00S,2,1610612741,CHI,202703,Mirotic,N. Mirotic,-21,0,2,Made,1,53.0,44.0,97,h,Mirotic 2' Running Layup (13 PTS),Made Shot,Running Layup Shot,1,170
+21401025,188,PT03M12.00S,2,1610612761,TOR,101161,Johnson,A. Johnson,-125,211,25,Made,1,53.0,47.0,100,v,A. Johnson 25' 3PT Jump Shot (5 PTS) (DeRozan 2 AST),Made Shot,Jump Shot,1,171
+21401025,189,PT02M53.00S,2,1610612741,CHI,202703,Mirotic,N. Mirotic,-15,19,2,Made,1,55.0,47.0,102,h,Mirotic 2' Alley Oop Layup (15 PTS) (Gasol 5 AST),Made Shot,Alley Oop Layup shot,1,172
+21401025,190,PT02M32.00S,2,1610612761,TOR,203082,Ross,T. Ross,15,19,2,Missed,1,,,0,v,MISS Ross 2' Layup,Missed Shot,Layup Shot,1,173
+21401025,190,PT02M32.00S,2,1610612741,CHI,202703,Mirotic,N. Mirotic,0,0,0,,0,,,0,h,Mirotic BLOCK (1 BLK),,,1,174
+21401025,191,PT02M30.00S,2,1610612741,CHI,202703,Mirotic,N. Mirotic,0,0,0,,0,,,0,h,Mirotic REBOUND (Off:1 Def:4),Rebound,Unknown,1,175
+21401025,193,PT02M24.00S,2,0,,1610612741,,,0,0,0,,0,,,0,h,BULLS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,176
+21401025,194,PT02M24.00S,2,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,,,0,v,SUB: Williams FOR Vasquez,Substitution,,0,177
+21401025,195,PT02M11.00S,2,1610612741,CHI,201166,Brooks,A. Brooks,15,3,2,Made,1,57.0,47.0,104,h,Brooks 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,178
+21401025,196,PT01M49.00S,2,1610612761,TOR,101161,Johnson,A. Johnson,4,64,6,Missed,1,,,0,v,MISS A. Johnson 6' Jump Shot,Missed Shot,Jump Shot,1,179
+21401025,196,PT01M49.00S,2,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,,,0,h,Gasol BLOCK (1 BLK),,,1,180
+21401025,197,PT01M47.00S,2,1610612741,CHI,201166,Brooks,A. Brooks,0,0,0,,0,,,0,h,Brooks REBOUND (Off:1 Def:2),Rebound,Unknown,1,181
+21401025,198,PT01M39.00S,2,1610612741,CHI,2200,Gasol,P. Gasol,-19,201,20,Missed,1,,,0,h,MISS Gasol 20' Jump Shot,Missed Shot,Jump Shot,1,182
+21401025,199,PT01M38.00S,2,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,183
+21401025,200,PT01M21.00S,2,1610612761,TOR,203082,Ross,T. Ross,-38,242,24,Missed,1,,,0,v,MISS Ross 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,184
+21401025,201,PT01M19.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:1 Def:2),Rebound,Unknown,1,185
+21401025,202,PT01M19.00S,2,1610612741,CHI,203503,Snell,T. Snell,0,0,0,,0,,,0,h,Snell S.FOUL (P3.T3),Foul,Shooting,1,186
+21401025,203,PT01M19.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,57.0,48.0,105,v,Valanciunas Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,187
+21401025,205,PT01M19.00S,2,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,SUB: Patterson FOR A. Johnson,Substitution,,0,188
+21401025,206,PT01M19.00S,2,1610612741,CHI,203503,Snell,T. Snell,0,0,0,,0,,,0,h,SUB: Hinrich FOR Snell,Substitution,,0,189
+21401025,207,PT01M19.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,MISS Valanciunas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,190
+21401025,209,PT01M17.00S,2,1610612741,CHI,202703,Mirotic,N. Mirotic,0,0,0,,0,,,0,h,Mirotic REBOUND (Off:1 Def:5),Rebound,Unknown,1,191
+21401025,211,PT00M54.90S,2,1610612741,CHI,2399,Dunleavy,M. Dunleavy,234,0,0,Missed,1,,,0,h,MISS Dunleavy 3PT Jump Shot,Missed Shot,Jump Shot,1,192
+21401025,212,PT00M53.50S,2,1610612741,CHI,201166,Brooks,A. Brooks,0,0,0,,0,,,0,h,Brooks REBOUND (Off:2 Def:2),Rebound,Unknown,1,193
+21401025,213,PT00M37.90S,2,1610612741,CHI,201166,Brooks,A. Brooks,-27,52,6,Missed,1,,,0,h,MISS Brooks 6' Jump Shot,Missed Shot,Jump Shot,1,194
+21401025,214,PT00M36.90S,2,1610612741,CHI,201166,Brooks,A. Brooks,0,0,0,,0,,,0,h,Brooks REBOUND (Off:3 Def:2),Rebound,Unknown,1,195
+21401025,215,PT00M31.90S,2,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,,,0,h,Dunleavy Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,196
+21401025,215,PT00M31.90S,2,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,Patterson STEAL (1 STL),,,1,197
+21401025,216,PT00M09.90S,2,1610612761,TOR,101150,Williams,L. Williams,62,47,8,Missed,1,,,0,v,MISS Williams 8' Jump Shot,Missed Shot,Jump Shot,1,198
+21401025,217,PT00M08.90S,2,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:1 Def:4),Rebound,Unknown,1,199
+21401025,219,PT00M00.10S,2,1610612741,CHI,2399,Dunleavy,M. Dunleavy,-168,181,25,Made,1,60.0,48.0,108,h,Dunleavy 25' 3PT Jump Shot (9 PTS) (Brooks 2 AST),Made Shot,Jump Shot,1,200
+21401025,222,PT00M00.00S,2,0,,219,Del Negro,V. Del Negro,0,0,0,,0,,,0,,Support Ruling,Instant Replay,Support Ruling,0,201
+21401025,220,PT00M00.00S,2,0,,0,,,0,0,0,,0,60.0,48.0,108,,End of 2nd Period (9:03 PM EST),period,end,0,202
+21401025,224,PT12M00.00S,3,0,,0,,,0,0,0,,0,60.0,48.0,108,,Start of 3rd Period (9:21 PM EST),period,start,0,203
+21401025,225,PT11M43.00S,3,1610612741,CHI,2200,Gasol,P. Gasol,-7,66,7,Missed,1,,,0,h,MISS Gasol 7' Hook Shot,Missed Shot,Hook Shot,1,204
+21401025,226,PT11M42.00S,3,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson REBOUND (Off:1 Def:2),Rebound,Unknown,1,205
+21401025,227,PT11M33.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,-134,143,20,Missed,1,,,0,v,MISS DeRozan 20' Jump Shot,Missed Shot,Jump Shot,1,206
+21401025,228,PT11M32.00S,3,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:1 Def:5),Rebound,Unknown,1,207
+21401025,229,PT11M12.00S,3,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,,,0,h,Gasol Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,208
+21401025,229,PT11M12.00S,3,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,Ross STEAL (1 STL),,,1,209
+21401025,230,PT10M53.00S,3,1610612761,TOR,202349,Vasquez,G. Vasquez,4,96,10,Made,1,60.0,50.0,110,v,Vasquez 10' Jump Shot (9 PTS),Made Shot,Jump Shot,1,210
+21401025,231,PT10M32.00S,3,1610612741,CHI,201166,Brooks,A. Brooks,10,20,2,Missed,1,,,0,h,MISS Brooks 2' Layup,Missed Shot,Layup Shot,1,211
+21401025,232,PT10M31.00S,3,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,,,0,v,Vasquez REBOUND (Off:0 Def:3),Rebound,Unknown,1,212
+21401025,233,PT10M24.00S,3,1610612761,TOR,203082,Ross,T. Ross,138,205,25,Missed,1,,,0,v,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,213
+21401025,234,PT10M23.00S,3,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,,,0,h,Dunleavy REBOUND (Off:0 Def:1),Rebound,Unknown,1,214
+21401025,235,PT10M11.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas S.FOUL (P2.T1),Foul,Shooting,1,215
+21401025,236,PT10M11.00S,3,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,61.0,50.0,111,h,Gasol Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,216
+21401025,238,PT10M11.00S,3,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,62.0,50.0,112,h,Gasol Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,217
+21401025,240,PT09M55.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,55,6,Missed,1,,,0,v,MISS Valanciunas 6' Jump Shot,Missed Shot,Jump Shot,1,218
+21401025,241,PT09M54.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,h,Noah REBOUND (Off:1 Def:2),Rebound,Unknown,1,219
+21401025,242,PT09M41.00S,3,1610612741,CHI,2399,Dunleavy,M. Dunleavy,-2,160,16,Missed,1,,,0,h,MISS Dunleavy 16' Jump Shot,Missed Shot,Jump Shot,1,220
+21401025,243,PT09M40.00S,3,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,1,221
+21401025,244,PT09M35.00S,3,1610612761,TOR,203082,Ross,T. Ross,-23,3,2,Missed,1,,,0,v,MISS Ross 2' Running Layup,Missed Shot,Running Layup Shot,1,222
+21401025,245,PT09M34.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,h,Noah REBOUND (Off:1 Def:3),Rebound,Unknown,1,223
+21401025,246,PT09M24.00S,3,1610612741,CHI,2200,Gasol,P. Gasol,-150,3,15,Made,1,64.0,50.0,114,h,Gasol 15' Jump Shot (8 PTS) (Noah 10 AST),Made Shot,Jump Shot,1,224
+21401025,247,PT09M07.00S,3,1610612761,TOR,101161,Johnson,A. Johnson,-21,4,2,Missed,1,,,0,v,MISS A. Johnson 2' Layup,Missed Shot,Layup Shot,1,225
+21401025,248,PT09M06.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,h,Noah REBOUND (Off:1 Def:4),Rebound,Unknown,1,226
+21401025,249,PT08M54.00S,3,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,,,0,h,Gasol Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,227
+21401025,249,PT08M54.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas STEAL (1 STL),,,1,228
+21401025,250,PT08M48.00S,3,1610612761,TOR,202349,Vasquez,G. Vasquez,9,-2,1,Missed,1,,,0,v,MISS Vasquez 1' Running Layup,Missed Shot,Running Layup Shot,1,229
+21401025,251,PT08M48.00S,3,0,,1610612741,,,0,0,0,,0,,,0,h,BULLS Rebound,Rebound,Unknown,0,230
+21401025,252,PT08M37.00S,3,1610612741,CHI,2399,Dunleavy,M. Dunleavy,-10,3,1,Made,1,66.0,50.0,116,h,Dunleavy 1' Layup (11 PTS) (Gasol 6 AST),Made Shot,Layup Shot,1,231
+21401025,253,PT08M37.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,DeRozan S.FOUL (P2.T2),Foul,Shooting,1,232
+21401025,254,PT08M37.00S,3,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,67.0,50.0,117,h,Dunleavy Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,233
+21401025,256,PT08M31.00S,3,1610612741,CHI,203503,Snell,T. Snell,0,0,0,,0,,,0,h,Snell P.FOUL (P4.T1),Foul,Personal,1,234
+21401025,257,PT08M31.00S,3,1610612741,CHI,203503,Snell,T. Snell,0,0,0,,0,,,0,h,SUB: Hinrich FOR Snell,Substitution,,0,235
+21401025,258,PT08M23.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,-13,17,2,Made,1,67.0,52.0,119,v,DeRozan 2' Alley Oop Layup (21 PTS) (A. Johnson 3 AST),Made Shot,Alley Oop Layup shot,1,236
+21401025,259,PT08M08.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas P.FOUL (P3.T3),Foul,Personal,1,237
+21401025,261,PT08M00.00S,3,1610612741,CHI,2399,Dunleavy,M. Dunleavy,-147,137,20,Made,1,69.0,52.0,121,h,Dunleavy 20' Jump Shot (14 PTS) (Brooks 3 AST),Made Shot,Jump Shot,1,238
+21401025,262,PT07M45.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,h,Noah S.FOUL (P2.T2),Foul,Shooting,1,239
+21401025,263,PT07M45.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,MISS DeRozan Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,240
+21401025,264,PT07M45.00S,3,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Normal Rebound,0,241
+21401025,265,PT07M45.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,69.0,53.0,122,v,DeRozan Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,242
+21401025,267,PT07M26.00S,3,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson P.FOUL (P3.T4),Foul,Personal,1,243
+21401025,268,PT07M23.00S,3,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,Ross P.FOUL (P1.PN),Foul,Personal,1,244
+21401025,269,PT07M23.00S,3,1610612741,CHI,201166,Brooks,A. Brooks,0,0,0,,0,70.0,53.0,123,h,Brooks Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,245
+21401025,271,PT07M23.00S,3,1610612741,CHI,201166,Brooks,A. Brooks,0,0,0,,0,71.0,53.0,124,h,Brooks Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,246
+21401025,273,PT07M10.00S,3,1610612761,TOR,101161,Johnson,A. Johnson,20,3,2,Made,1,71.0,55.0,126,v,A. Johnson 2' Layup (7 PTS) (Vasquez 4 AST),Made Shot,Layup Shot,1,247
+21401025,274,PT07M10.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,h,Noah S.FOUL (P3.T3),Foul,Shooting,1,248
+21401025,275,PT07M10.00S,3,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,71.0,56.0,127,v,A. Johnson Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,249
+21401025,277,PT07M03.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,,,0,h,Hinrich OFF.Foul (P2),Foul,Offensive,1,250
+21401025,278,PT07M03.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,,,0,h,Hinrich Foul Turnover (P1.T7),Turnover,Foul,1,251
+21401025,279,PT06M53.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas Traveling Turnover (P1.T5),Turnover,Traveling,1,252
+21401025,280,PT06M30.00S,3,1610612741,CHI,2200,Gasol,P. Gasol,-10,64,6,Missed,1,,,0,h,MISS Gasol 6' Hook Shot,Missed Shot,Hook Shot,1,253
+21401025,281,PT06M28.00S,3,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson REBOUND (Off:1 Def:3),Rebound,Unknown,1,254
+21401025,282,PT06M18.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,-45,52,7,Missed,1,,,0,v,MISS DeRozan 7' Jump Shot,Missed Shot,Jump Shot,1,255
+21401025,283,PT06M17.00S,3,1610612741,CHI,201166,Brooks,A. Brooks,0,0,0,,0,,,0,h,Brooks REBOUND (Off:3 Def:3),Rebound,Unknown,1,256
+21401025,284,PT06M12.00S,3,1610612741,CHI,201166,Brooks,A. Brooks,135,222,26,Missed,1,,,0,h,MISS Brooks 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,257
+21401025,285,PT06M11.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,h,Noah REBOUND (Off:2 Def:4),Rebound,Unknown,1,258
+21401025,286,PT06M08.00S,3,1610612741,CHI,2399,Dunleavy,M. Dunleavy,133,213,25,Missed,1,,,0,h,MISS Dunleavy 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,259
+21401025,287,PT06M05.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:1 Def:3),Rebound,Unknown,1,260
+21401025,288,PT05M52.00S,3,1610612761,TOR,202349,Vasquez,G. Vasquez,2,86,9,Missed,1,,,0,v,MISS Vasquez 9' Running Jump Shot,Missed Shot,Running Jump Shot,1,261
+21401025,289,PT05M51.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,h,Noah REBOUND (Off:2 Def:5),Rebound,Unknown,1,262
+21401025,290,PT05M44.00S,3,1610612741,CHI,201166,Brooks,A. Brooks,-134,203,24,Made,1,74.0,56.0,130,h,Brooks 24' 3PT Jump Shot (11 PTS) (Dunleavy 1 AST),Made Shot,Jump Shot,1,263
+21401025,291,PT05M42.00S,3,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,264
+21401025,293,PT05M42.00S,3,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,SUB: Williams FOR Ross,Substitution,,0,265
+21401025,294,PT05M42.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,SUB: Patterson FOR Valanciunas,Substitution,,0,266
+21401025,295,PT05M17.00S,3,1610612761,TOR,101161,Johnson,A. Johnson,-15,247,25,Missed,1,,,0,v,MISS A. Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,267
+21401025,296,PT05M15.00S,3,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:1 Def:6),Rebound,Unknown,1,268
+21401025,297,PT04M58.00S,3,1610612741,CHI,2399,Dunleavy,M. Dunleavy,15,247,25,Made,1,77.0,56.0,133,h,Dunleavy 25' 3PT Jump Shot (17 PTS) (Noah 11 AST),Made Shot,Jump Shot,1,269
+21401025,298,PT04M40.00S,3,1610612761,TOR,202335,Patterson,P. Patterson,237,-8,24,Made,1,77.0,59.0,136,v,Patterson 24' 3PT Jump Shot (7 PTS) (Vasquez 5 AST),Made Shot,Jump Shot,1,270
+21401025,299,PT04M26.00S,3,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,Patterson P.FOUL (P1.PN),Foul,Personal,1,271
+21401025,300,PT04M26.00S,3,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,78.0,59.0,137,h,Dunleavy Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,272
+21401025,302,PT04M26.00S,3,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,h,SUB: Mirotic FOR Noah,Substitution,,0,273
+21401025,303,PT04M26.00S,3,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,,,0,h,MISS Dunleavy Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,274
+21401025,305,PT04M24.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,DeRozan REBOUND (Off:0 Def:5),Rebound,Unknown,1,275
+21401025,306,PT04M09.00S,3,1610612761,TOR,202335,Patterson,P. Patterson,-67,85,11,Missed,1,,,0,v,MISS Patterson 11' Jump Shot,Missed Shot,Jump Shot,1,276
+21401025,307,PT04M08.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,,,0,h,Hinrich REBOUND (Off:0 Def:1),Rebound,Unknown,1,277
+21401025,308,PT03M49.00S,3,1610612741,CHI,202703,Mirotic,N. Mirotic,160,28,16,Missed,1,,,0,h,MISS Mirotic 16' Jump Shot,Missed Shot,Jump Shot,1,278
+21401025,309,PT03M46.00S,3,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,1,279
+21401025,310,PT03M29.00S,3,1610612761,TOR,202349,Vasquez,G. Vasquez,106,216,24,Missed,1,,,0,v,MISS Vasquez 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,280
+21401025,311,PT03M28.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,DeRozan REBOUND (Off:1 Def:5),Rebound,Unknown,1,281
+21401025,312,PT03M17.00S,3,1610612761,TOR,202349,Vasquez,G. Vasquez,-24,-2,2,Made,1,78.0,61.0,139,v,Vasquez 2' Running Reverse Layup (11 PTS) (A. Johnson 4 AST),Made Shot,Running Reverse Layup Shot,1,282
+21401025,313,PT03M14.00S,3,0,,1610612741,,,0,0,0,,0,,,0,h,BULLS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,283
+21401025,315,PT03M14.00S,3,0,,298,,,0,0,0,,0,,,0,,Support Ruling,Instant Replay,Support Ruling,0,284
+21401025,316,PT03M14.00S,3,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,,,0,h,SUB: Moore FOR Dunleavy,Substitution,,0,285
+21401025,318,PT02M58.00S,3,1610612741,CHI,201166,Brooks,A. Brooks,0,0,0,,0,,,0,h,Brooks Out of Bounds Lost Ball Turnover (P2.T8),Turnover,Out of Bounds Lost Ball Turnover,1,286
+21401025,319,PT02M43.00S,3,1610612761,TOR,202335,Patterson,P. Patterson,-34,258,26,Made,1,78.0,64.0,142,v,Patterson 26' 3PT Jump Shot (10 PTS) (Vasquez 6 AST),Made Shot,Jump Shot,1,287
+21401025,320,PT02M28.00S,3,1610612741,CHI,202703,Mirotic,N. Mirotic,-67,238,25,Made,1,81.0,64.0,145,h,Mirotic 25' 3PT Jump Shot (18 PTS) (Brooks 4 AST),Made Shot,Jump Shot,1,288
+21401025,321,PT02M02.00S,3,1610612761,TOR,101150,Williams,L. Williams,-157,183,24,Missed,1,,,0,v,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,289
+21401025,323,PT02M01.00S,3,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,Patterson REBOUND (Off:1 Def:1),Rebound,Unknown,1,290
+21401025,322,PT02M01.00S,3,1610612761,TOR,202335,Patterson,P. Patterson,12,-2,1,Made,1,81.0,66.0,147,v,Patterson 1' Putback Layup (12 PTS),Made Shot,Putback Layup Shot,1,291
+21401025,325,PT01M49.00S,3,1610612741,CHI,201166,Brooks,A. Brooks,23,11,3,Missed,1,,,0,h,MISS Brooks 3' Running Layup,Missed Shot,Running Layup Shot,1,292
+21401025,326,PT01M48.00S,3,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,,,0,v,Vasquez REBOUND (Off:0 Def:4),Rebound,Unknown,1,293
+21401025,327,PT01M43.00S,3,1610612761,TOR,101150,Williams,L. Williams,21,11,2,Missed,1,,,0,v,MISS Williams 2' Driving Layup,Missed Shot,Driving Layup Shot,1,294
+21401025,328,PT01M42.00S,3,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:1 Def:7),Rebound,Unknown,1,295
+21401025,329,PT01M23.00S,3,1610612741,CHI,202703,Mirotic,N. Mirotic,-93,233,25,Missed,1,,,0,h,MISS Mirotic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,296
+21401025,330,PT01M21.00S,3,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,Patterson REBOUND (Off:1 Def:2),Rebound,Unknown,1,297
+21401025,331,PT01M15.00S,3,1610612761,TOR,202349,Vasquez,G. Vasquez,91,20,9,Missed,1,,,0,v,MISS Vasquez 9' Jump Shot,Missed Shot,Jump Shot,1,298
+21401025,332,PT01M14.00S,3,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:1 Def:8),Rebound,Unknown,1,299
+21401025,333,PT01M08.00S,3,1610612741,CHI,2200,Gasol,P. Gasol,-18,14,2,Made,1,83.0,66.0,149,h,Gasol 2' Layup (10 PTS) (Brooks 5 AST),Made Shot,Layup Shot,1,300
+21401025,334,PT01M08.00S,3,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,,,0,v,Williams S.FOUL (P2.PN),Foul,Shooting,1,301
+21401025,335,PT01M08.00S,3,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,SUB: Hansbrough FOR A. Johnson,Substitution,,0,302
+21401025,336,PT01M08.00S,3,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,84.0,66.0,150,h,Gasol Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,303
+21401025,338,PT00M55.50S,3,1610612741,CHI,201166,Brooks,A. Brooks,0,0,0,,0,,,0,h,Brooks P.FOUL (P2.T4),Foul,Personal,1,304
+21401025,339,PT00M55.50S,3,1610612741,CHI,2200,Gasol,P. Gasol,0,0,0,,0,,,0,h,SUB: Gibson FOR Gasol,Substitution,,0,305
+21401025,340,PT00M40.90S,3,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,,,0,v,Vasquez Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,306
+21401025,340,PT00M40.90S,3,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,,,0,h,Gibson STEAL (1 STL),,,1,307
+21401025,341,PT00M37.80S,3,1610612741,CHI,202703,Mirotic,N. Mirotic,0,1,0,Made,1,86.0,66.0,152,h,Mirotic Slam Dunk (20 PTS) (Hinrich 2 AST),Made Shot,Slam Dunk Shot,1,308
+21401025,342,PT00M27.70S,3,1610612741,CHI,202734,Moore,E. Moore,0,0,0,,0,,,0,h,Moore S.FOUL (P1.PN),Foul,Shooting,1,309
+21401025,343,PT00M27.70S,3,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,86.0,67.0,153,v,Williams Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,310
+21401025,345,PT00M27.70S,3,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,,,0,v,SUB: Ross FOR Vasquez,Substitution,,0,311
+21401025,346,PT00M27.70S,3,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,86.0,68.0,154,v,Williams Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,312
+21401025,348,PT00M06.90S,3,1610612741,CHI,201166,Brooks,A. Brooks,0,0,0,,0,,,0,h,Jump Ball Brooks vs. Williams: Tip to Patterson,Jump Ball,,1,313
+21401025,349,PT00M06.90S,3,1610612741,CHI,201166,Brooks,A. Brooks,0,0,0,,0,,,0,h,Brooks Lost Ball Turnover (P3.T9),Turnover,Lost Ball,1,314
+21401025,349,PT00M06.90S,3,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,,,0,v,Williams STEAL (1 STL),,,1,315
+21401025,350,PT00M01.10S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,-172,71,19,Missed,1,,,0,v,MISS DeRozan 19' Jump Shot,Missed Shot,Jump Shot,1,316
+21401025,352,PT00M00.10S,3,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:1 Def:2),Rebound,Unknown,1,317
+21401025,351,PT00M00.10S,3,1610612761,TOR,101150,Williams,L. Williams,-19,9,2,Missed,1,,,0,v,MISS Williams 2' Putback Layup,Missed Shot,Putback Layup Shot,1,318
+21401025,354,PT00M00.00S,3,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,0,319
+21401025,353,PT00M00.00S,3,0,,0,,,0,0,0,,0,86.0,68.0,154,,End of 3rd Period (9:48 PM EST),period,end,0,320
+21401025,356,PT12M00.00S,4,0,,0,,,0,0,0,,0,86.0,68.0,154,,Start of 4th Period (9:50 PM EST),period,start,0,321
+21401025,357,PT11M46.00S,4,1610612761,TOR,202335,Patterson,P. Patterson,15,3,2,Made,1,86.0,70.0,156,v,Patterson 2' Layup (14 PTS) (Williams 2 AST),Made Shot,Layup Shot,1,322
+21401025,358,PT11M32.00S,4,1610612741,CHI,202703,Mirotic,N. Mirotic,236,7,24,Missed,1,,,0,h,MISS Mirotic 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,323
+21401025,358,PT11M32.00S,4,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,Patterson BLOCK (1 BLK),,,1,324
+21401025,359,PT11M32.00S,4,0,,1610612741,,,0,0,0,,0,,,0,h,BULLS Rebound,Rebound,Unknown,0,325
+21401025,360,PT11M25.00S,4,1610612741,CHI,202703,Mirotic,N. Mirotic,0,0,0,,0,,,0,h,Mirotic Lost Ball Turnover (P1.T10),Turnover,Lost Ball,1,326
+21401025,360,PT11M25.00S,4,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,Patterson STEAL (2 STL),,,1,327
+21401025,361,PT11M13.00S,4,1610612761,TOR,101150,Williams,L. Williams,21,11,2,Missed,1,,,0,v,MISS Williams 2' Layup,Missed Shot,Layup Shot,1,328
+21401025,361,PT11M13.00S,4,1610612741,CHI,202703,Mirotic,N. Mirotic,0,0,0,,0,,,0,h,Mirotic BLOCK (2 BLK),,,1,329
+21401025,362,PT11M13.00S,4,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,0,330
+21401025,363,PT11M01.00S,4,1610612761,TOR,202335,Patterson,P. Patterson,127,216,25,Made,1,86.0,73.0,159,v,Patterson 25' 3PT Jump Shot (17 PTS) (J. Johnson 1 AST),Made Shot,Jump Shot,1,331
+21401025,364,PT10M36.00S,4,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,Patterson S.FOUL (P2.T1),Foul,Shooting,1,332
+21401025,365,PT10M36.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,87.0,73.0,160,h,Gibson Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,333
+21401025,367,PT10M36.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,88.0,73.0,161,h,Gibson Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,334
+21401025,369,PT10M24.00S,4,1610612761,TOR,201949,Johnson,J. Johnson,-13,6,1,Made,1,88.0,75.0,163,v,J. Johnson 1' Layup (2 PTS),Made Shot,Layup Shot,1,335
+21401025,370,PT10M24.00S,4,1610612741,CHI,202703,Mirotic,N. Mirotic,0,0,0,,0,,,0,h,Mirotic S.FOUL (P2.T1),Foul,Shooting,1,336
+21401025,371,PT10M24.00S,4,1610612761,TOR,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,MISS J. Johnson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,337
+21401025,373,PT10M21.00S,4,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,Patterson REBOUND (Off:2 Def:2),Rebound,Unknown,1,338
+21401025,374,PT10M17.00S,4,1610612761,TOR,101150,Williams,L. Williams,-87,238,25,Missed,1,,,0,v,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,339
+21401025,375,PT10M16.00S,4,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,Patterson REBOUND (Off:3 Def:2),Rebound,Unknown,1,340
+21401025,376,PT10M08.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,,,0,h,Jump Ball Gibson vs. Williams: Tip to Patterson,Jump Ball,,1,341
+21401025,377,PT10M03.00S,4,1610612761,TOR,202335,Patterson,P. Patterson,-232,17,0,Missed,1,,,0,v,MISS Patterson 3PT Jump Shot,Missed Shot,Jump Shot,1,342
+21401025,379,PT10M02.00S,4,1610612761,TOR,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,v,Hansbrough REBOUND (Off:1 Def:0),Rebound,Unknown,1,343
+21401025,378,PT10M02.00S,4,1610612761,TOR,201946,Hansbrough,T. Hansbrough,-11,16,2,Missed,1,,,0,v,MISS Hansbrough 2' Tip Shot,Missed Shot,Tip Shot,1,344
+21401025,381,PT10M00.00S,4,1610612761,TOR,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,J. Johnson REBOUND (Off:1 Def:0),Rebound,Unknown,1,345
+21401025,380,PT10M00.00S,4,1610612761,TOR,201949,Johnson,J. Johnson,1,15,2,Missed,1,,,0,v,MISS J. Johnson 2' Tip Shot,Missed Shot,Tip Shot,1,346
+21401025,383,PT09M56.00S,4,1610612761,TOR,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,J. Johnson REBOUND (Off:2 Def:0),Rebound,Unknown,1,347
+21401025,382,PT09M56.00S,4,1610612761,TOR,201949,Johnson,J. Johnson,7,14,2,Missed,1,,,0,v,MISS J. Johnson 2' Tip Shot,Missed Shot,Tip Shot,1,348
+21401025,382,PT09M56.00S,4,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,h,Noah BLOCK (1 BLK),,,1,349
+21401025,385,PT09M55.00S,4,1610612761,TOR,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,v,Hansbrough REBOUND (Off:2 Def:0),Rebound,Unknown,1,350
+21401025,387,PT09M55.00S,4,1610612741,CHI,202703,Mirotic,N. Mirotic,0,0,0,,0,,,0,h,Mirotic S.FOUL (P3.T2),Foul,Shooting,1,351
+21401025,388,PT09M55.00S,4,1610612761,TOR,201946,Hansbrough,T. Hansbrough,0,0,0,,0,88.0,76.0,164,v,Hansbrough Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,352
+21401025,390,PT09M55.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,,,0,h,SUB: Dunleavy FOR Gibson,Substitution,,0,353
+21401025,391,PT09M55.00S,4,1610612761,TOR,201946,Hansbrough,T. Hansbrough,0,0,0,,0,88.0,77.0,165,v,Hansbrough Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,354
+21401025,394,PT09M47.00S,4,1610612761,TOR,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,v,Hansbrough P.FOUL (P2.T2),Foul,Personal,1,355
+21401025,395,PT09M36.00S,4,1610612741,CHI,202703,Mirotic,N. Mirotic,-146,209,25,Missed,1,,,0,h,MISS Mirotic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,356
+21401025,396,PT09M35.00S,4,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,,,0,h,Dunleavy REBOUND (Off:1 Def:1),Rebound,Unknown,1,357
+21401025,397,PT09M31.00S,4,1610612761,TOR,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,v,Hansbrough P.FOUL (P3.T3),Foul,Personal,1,358
+21401025,398,PT09M22.00S,4,1610612741,CHI,201149,Noah,J. Noah,17,11,2,Made,1,90.0,77.0,167,h,Noah 2' Layup (6 PTS) (Dunleavy 2 AST),Made Shot,Layup Shot,1,359
+21401025,400,PT09M08.00S,4,1610612761,TOR,201949,Johnson,J. Johnson,-11,20,2,Missed,1,,,0,v,MISS J. Johnson 2' Layup,Missed Shot,Layup Shot,1,360
+21401025,401,PT09M05.00S,4,1610612761,TOR,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,v,Hansbrough REBOUND (Off:3 Def:0),Rebound,Unknown,1,361
+21401025,402,PT08M51.00S,4,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,,,0,h,Dunleavy P.FOUL (P2.T3),Foul,Personal,1,362
+21401025,403,PT08M51.00S,4,0,,0,,,0,0,0,,0,,,0,,Timeout: Regular,Timeout,Regular,0,363
+21401025,405,PT08M51.00S,4,1610612741,CHI,201166,Brooks,A. Brooks,0,0,0,,0,,,0,h,SUB: Hinrich FOR Brooks,Substitution,,0,364
+21401025,406,PT08M36.00S,4,1610612761,TOR,203082,Ross,T. Ross,242,44,25,Missed,1,,,0,v,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,365
+21401025,407,PT08M36.00S,4,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,0,366
+21401025,408,PT08M36.00S,4,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Turnover: Shot Clock (T#7),Turnover,Shot Clock Turnover,0,367
+21401025,410,PT08M17.00S,4,1610612741,CHI,2399,Dunleavy,M. Dunleavy,75,239,25,Missed,1,,,0,h,MISS Dunleavy 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,368
+21401025,411,PT08M16.00S,4,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,h,Noah REBOUND (Off:3 Def:5),Rebound,Unknown,1,369
+21401025,412,PT08M04.00S,4,1610612741,CHI,202703,Mirotic,N. Mirotic,129,157,20,Missed,1,,,0,h,MISS Mirotic 20' Jump Shot,Missed Shot,Jump Shot,1,370
+21401025,414,PT08M02.00S,4,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,,,0,h,Dunleavy REBOUND (Off:2 Def:1),Rebound,Unknown,1,371
+21401025,413,PT08M02.00S,4,1610612741,CHI,2399,Dunleavy,M. Dunleavy,2,7,1,Missed,1,,,0,h,MISS Dunleavy 1' Tip Shot,Missed Shot,Tip Shot,1,372
+21401025,415,PT08M00.00S,4,1610612741,CHI,202703,Mirotic,N. Mirotic,0,0,0,,0,,,0,h,Mirotic REBOUND (Off:2 Def:5),Rebound,Unknown,1,373
+21401025,416,PT08M00.00S,4,1610612741,CHI,202703,Mirotic,N. Mirotic,54,17,6,Made,1,92.0,77.0,169,h,Mirotic 6' Running Bank Shot (22 PTS),Made Shot,Running Bank shot,1,374
+21401025,417,PT08M00.00S,4,1610612761,TOR,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,v,Hansbrough S.FOUL (P4.T4),Foul,Shooting,1,375
+21401025,418,PT08M00.00S,4,1610612741,CHI,202703,Mirotic,N. Mirotic,0,0,0,,0,93.0,77.0,170,h,Mirotic Free Throw 1 of 1 (23 PTS),Free Throw,Free Throw 1 of 1,0,376
+21401025,420,PT07M47.00S,4,1610612761,TOR,203082,Ross,T. Ross,-10,25,3,Missed,1,,,0,v,MISS Ross 3' Running Layup,Missed Shot,Running Layup Shot,1,377
+21401025,420,PT07M47.00S,4,1610612741,CHI,202703,Mirotic,N. Mirotic,0,0,0,,0,,,0,h,Mirotic BLOCK (3 BLK),,,1,378
+21401025,421,PT07M46.00S,4,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,h,Noah REBOUND (Off:3 Def:6),Rebound,Unknown,1,379
+21401025,422,PT07M22.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,-128,170,21,Made,1,95.0,77.0,172,h,Hinrich 21' Jump Shot (5 PTS),Made Shot,Jump Shot,1,380
+21401025,423,PT07M11.00S,4,1610612761,TOR,201949,Johnson,J. Johnson,15,9,2,Missed,1,,,0,v,MISS J. Johnson 2' Driving Layup,Missed Shot,Driving Layup Shot,1,381
+21401025,424,PT07M10.00S,4,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,h,Noah REBOUND (Off:3 Def:7),Rebound,Unknown,1,382
+21401025,425,PT06M54.00S,4,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,h,Noah Traveling Turnover (P1.T11),Turnover,Traveling,1,383
+21401025,426,PT06M54.00S,4,1610612761,TOR,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,SUB: DeRozan FOR J. Johnson,Substitution,,0,384
+21401025,427,PT06M44.00S,4,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,h,Noah S.FOUL (P4.T4),Foul,Shooting,1,385
+21401025,428,PT06M44.00S,4,1610612761,TOR,201946,Hansbrough,T. Hansbrough,0,0,0,,0,95.0,78.0,173,v,Hansbrough Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,386
+21401025,431,PT06M44.00S,4,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,,,0,v,SUB: Vasquez FOR Williams,Substitution,,0,387
+21401025,432,PT06M44.00S,4,1610612761,TOR,201946,Hansbrough,T. Hansbrough,0,0,0,,0,95.0,79.0,174,v,Hansbrough Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,388
+21401025,434,PT06M27.00S,4,1610612741,CHI,202703,Mirotic,N. Mirotic,-15,-2,2,Made,1,97.0,79.0,176,h,Mirotic 2' Running Layup (25 PTS) (Noah 12 AST),Made Shot,Running Layup Shot,1,389
+21401025,435,PT06M09.00S,4,1610612761,TOR,203082,Ross,T. Ross,84,153,17,Made,1,97.0,81.0,178,v,Ross 17' Jump Shot (7 PTS) (DeRozan 3 AST),Made Shot,Jump Shot,1,390
+21401025,436,PT05M51.00S,4,1610612741,CHI,2399,Dunleavy,M. Dunleavy,147,201,25,Made,1,100.0,81.0,181,h,Dunleavy 25' 3PT Jump Shot (21 PTS) (Noah 13 AST),Made Shot,Jump Shot,1,391
+21401025,437,PT05M44.00S,4,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,392
+21401025,439,PT05M44.00S,4,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,SUB: A. Johnson FOR Patterson,Substitution,,0,393
+21401025,440,PT05M33.00S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,31,48,6,Missed,1,,,0,v,MISS DeRozan 6' Jump Shot,Missed Shot,Jump Shot,1,394
+21401025,440,PT05M33.00S,4,1610612741,CHI,202703,Mirotic,N. Mirotic,0,0,0,,0,,,0,h,Mirotic BLOCK (4 BLK),,,1,395
+21401025,441,PT05M32.00S,4,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,0,396
+21401025,443,PT05M25.00S,4,1610612761,TOR,201946,Hansbrough,T. Hansbrough,58,12,6,Missed,1,,,0,v,MISS Hansbrough 6' Jump Shot,Missed Shot,Jump Shot,1,397
+21401025,444,PT05M24.00S,4,1610612741,CHI,202703,Mirotic,N. Mirotic,0,0,0,,0,,,0,h,Mirotic REBOUND (Off:2 Def:6),Rebound,Unknown,1,398
+21401025,445,PT05M10.00S,4,1610612741,CHI,202703,Mirotic,N. Mirotic,0,1,0,Made,1,102.0,81.0,183,h,Mirotic Running Dunk (27 PTS) (Noah 14 AST),Made Shot,Running Dunk Shot,1,399
+21401025,446,PT04M47.00S,4,1610612761,TOR,203082,Ross,T. Ross,99,157,19,Made,1,102.0,83.0,185,v,Ross 19' Step Back Jump Shot (9 PTS),Made Shot,Step Back Jump shot,1,400
+21401025,447,PT04M28.00S,4,1610612741,CHI,202703,Mirotic,N. Mirotic,0,0,0,,0,,,0,h,Mirotic Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,401
+21401025,447,PT04M28.00S,4,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,,,0,v,Vasquez STEAL (1 STL),,,1,402
+21401025,448,PT04M11.00S,4,1610612761,TOR,202349,Vasquez,G. Vasquez,80,244,26,Missed,1,,,0,v,MISS Vasquez 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,403
+21401025,449,PT04M10.00S,4,1610612741,CHI,202703,Mirotic,N. Mirotic,0,0,0,,0,,,0,h,Mirotic REBOUND (Off:2 Def:7),Rebound,Unknown,1,404
+21401025,450,PT04M04.00S,4,1610612741,CHI,201149,Noah,J. Noah,-166,-2,17,Missed,1,,,0,h,MISS Noah 17' Jump Shot,Missed Shot,Jump Shot,1,405
+21401025,451,PT04M03.00S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,DeRozan REBOUND (Off:1 Def:6),Rebound,Unknown,1,406
+21401025,452,PT03M55.00S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,23,4,2,Made,1,102.0,85.0,187,v,DeRozan 2' Layup (24 PTS),Made Shot,Layup Shot,1,407
+21401025,453,PT03M28.00S,4,1610612741,CHI,201149,Noah,J. Noah,-15,42,4,Made,1,104.0,85.0,189,h,Noah 4' Driving Jump Shot (8 PTS),Made Shot,Driving Jump shot,1,408
+21401025,454,PT03M09.00S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,-226,-10,0,Made,1,104.0,88.0,192,v,DeRozan 3PT Jump Shot (27 PTS) (A. Johnson 5 AST),Made Shot,Jump Shot,1,409
+21401025,455,PT02M51.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,-5,22,2,Made,1,106.0,88.0,194,h,Hinrich 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,410
+21401025,456,PT02M37.00S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,-73,137,16,Missed,1,,,0,v,MISS DeRozan 16' Jump Shot,Missed Shot,Jump Shot,1,411
+21401025,457,PT02M36.00S,4,1610612741,CHI,202703,Mirotic,N. Mirotic,0,0,0,,0,,,0,h,Mirotic REBOUND (Off:2 Def:8),Rebound,Unknown,1,412
+21401025,458,PT02M20.00S,4,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,,,0,v,Vasquez P.FOUL (P1.PN),Foul,Personal,1,413
+21401025,459,PT02M20.00S,4,0,,1610612741,,,0,0,0,,0,,,0,h,BULLS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,414
+21401025,462,PT02M20.00S,4,1610612741,CHI,2399,Dunleavy,M. Dunleavy,0,0,0,,0,,,0,h,SUB: Gibson FOR Dunleavy,Substitution,,0,415
+21401025,463,PT02M20.00S,4,1610612741,CHI,201149,Noah,J. Noah,0,0,0,,0,,,0,h,SUB: McDermott FOR Noah,Substitution,,0,416
+21401025,464,PT02M20.00S,4,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,SUB: Fields FOR A. Johnson,Substitution,,0,417
+21401025,465,PT02M20.00S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,SUB: J. Johnson FOR DeRozan,Substitution,,0,418
+21401025,466,PT02M20.00S,4,1610612761,TOR,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Hansbrough,Substitution,,0,419
+21401025,467,PT02M20.00S,4,1610612741,CHI,202703,Mirotic,N. Mirotic,0,0,0,,0,107.0,88.0,195,h,Mirotic Free Throw 1 of 2 (28 PTS),Free Throw,Free Throw 1 of 2,0,420
+21401025,469,PT02M20.00S,4,1610612741,CHI,202703,Mirotic,N. Mirotic,0,0,0,,0,108.0,88.0,196,h,Mirotic Free Throw 2 of 2 (29 PTS),Free Throw,Free Throw 2 of 2,0,421
+21401025,471,PT01M58.00S,4,1610612761,TOR,203082,Ross,T. Ross,17,217,22,Missed,1,,,0,v,MISS Ross 22' Jump Shot,Missed Shot,Jump Shot,1,422
+21401025,472,PT01M57.00S,4,1610612741,CHI,202703,Mirotic,N. Mirotic,0,0,0,,0,,,0,h,Mirotic REBOUND (Off:2 Def:9),Rebound,Unknown,1,423
+21401025,473,PT01M44.00S,4,1610612741,CHI,202703,Mirotic,N. Mirotic,-234,12,0,Missed,1,,,0,h,MISS Mirotic 3PT Jump Shot,Missed Shot,Jump Shot,1,424
+21401025,474,PT01M43.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:1 Def:4),Rebound,Unknown,1,425
+21401025,475,PT01M25.00S,4,1610612761,TOR,202349,Vasquez,G. Vasquez,10,25,3,Missed,1,,,0,v,MISS Vasquez 3' Running Layup,Missed Shot,Running Layup Shot,1,426
+21401025,476,PT01M24.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,,,0,h,Gibson REBOUND (Off:1 Def:2),Rebound,Unknown,1,427
+21401025,477,PT01M04.00S,4,1610612741,CHI,203926,McDermott,D. McDermott,-2,247,25,Missed,1,,,0,h,MISS McDermott 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,428
+21401025,478,PT01M02.00S,4,1610612761,TOR,202361,Fields,L. Fields,0,0,0,,0,,,0,v,Fields REBOUND (Off:0 Def:1),Rebound,Unknown,1,429
+21401025,479,PT00M56.20S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,,,0,h,Gibson P.FOUL (P1.PN),Foul,Personal,1,430
+21401025,480,PT00M56.20S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,108.0,89.0,197,v,Valanciunas Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,431
+21401025,482,PT00M56.20S,4,1610612741,CHI,202703,Mirotic,N. Mirotic,0,0,0,,0,,,0,h,SUB: Mohammed FOR Mirotic,Substitution,,0,432
+21401025,483,PT00M56.20S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,,,0,h,SUB: Bairstow FOR Hinrich,Substitution,,0,433
+21401025,484,PT00M56.20S,4,1610612741,CHI,203503,Snell,T. Snell,0,0,0,,0,,,0,h,SUB: Moore FOR Snell,Substitution,,0,434
+21401025,485,PT00M56.20S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,108.0,90.0,198,v,Valanciunas Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,435
+21401025,487,PT00M34.90S,4,1610612741,CHI,202734,Moore,E. Moore,149,151,21,Missed,1,,,0,h,MISS Moore 21' Jump Shot,Missed Shot,Jump Shot,1,436
+21401025,488,PT00M33.90S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:1 Def:5),Rebound,Unknown,1,437
+21401025,489,PT00M20.80S,4,1610612741,CHI,203926,McDermott,D. McDermott,0,0,0,,0,,,0,h,McDermott S.FOUL (P2.PN),Foul,Shooting,1,438
+21401025,490,PT00M20.80S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,108.0,91.0,199,v,Valanciunas Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,439
+21401025,492,PT00M20.80S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,108.0,92.0,200,v,Valanciunas Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,440
+21401025,495,PT00M00.00S,4,0,,0,,,0,0,0,,0,108.0,92.0,200,,End of 4th Period (10:18 PM EST),period,end,0,441

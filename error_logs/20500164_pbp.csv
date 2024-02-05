@@ -1,0 +1,464 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+20500164,1,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (10:16 PM EST),period,start,0,1
+20500164,2,PT12M00.00S,1,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0.0,0.0,0,h,Jump Ball Miller vs. Krstic: Tip to Robinson,Jump Ball,,0,2
+20500164,3,PT11M43.00S,1,1610612751,NJN,2420,Krstic,N. Krstic,43,61,7,Missed,1,0.0,0.0,0,v,MISS Krstic 7' Hook Shot,Missed Shot,Hook Shot,0,3
+20500164,4,PT11M41.00S,1,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,v,Kidd REBOUND (Off:1 Def:0),Rebound,Unknown,0,4
+20500164,5,PT11M38.00S,1,1610612751,NJN,467,Kidd,J. Kidd,-128,150,20,Missed,1,0.0,0.0,0,v,MISS Kidd 20' Jump Shot,Missed Shot,Jump Shot,0,5
+20500164,6,PT11M36.00S,1,1610612758,SAC,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,h,Wells REBOUND (Off:0 Def:1),Rebound,Unknown,0,6
+20500164,7,PT11M16.00S,1,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,0.0,0.0,0,h,Abdur-Rahim Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,7
+20500164,7,PT11M16.00S,1,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,Jefferson STEAL (1 STL),,,0,8
+20500164,8,PT11M02.00S,1,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,Jefferson Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,9
+20500164,8,PT11M02.00S,1,1610612758,SAC,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,h,Wells STEAL (1 STL),,,0,10
+20500164,9,PT11M01.00S,1,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,Jefferson P.FOUL (P1.T1),Foul,Personal,0,11
+20500164,10,PT10M49.00S,1,1610612758,SAC,1710,Bibby,M. Bibby,-163,30,17,Made,1,2.0,0.0,2,h,Bibby 17' Jump Shot (2 PTS) (Miller 1 AST),Made Shot,Jump Shot,0,12
+20500164,11,PT10M32.00S,1,1610612751,NJN,2420,Krstic,N. Krstic,141,76,16,Missed,1,0.0,0.0,0,v,MISS Krstic 16' Jump Shot,Missed Shot,Jump Shot,0,13
+20500164,12,PT10M30.00S,1,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,0.0,0.0,0,h,Abdur-Rahim REBOUND (Off:0 Def:1),Rebound,Unknown,0,14
+20500164,13,PT10M22.00S,1,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,Made,1,4.0,0.0,4,h,Garcia  Reverse Layup (2 PTS) (Miller 2 AST),Made Shot,Reverse Layup Shot,0,15
+20500164,14,PT10M02.00S,1,1610612751,NJN,976,McInnis,J. McInnis,0,0,0,Missed,1,0.0,0.0,0,v,MISS McInnis  Layup,Missed Shot,Layup Shot,0,16
+20500164,16,PT10M01.00S,1,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,0.0,0.0,0,v,Krstic REBOUND (Off:1 Def:0),Rebound,Unknown,0,17
+20500164,15,PT10M01.00S,1,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,Made,1,4.0,2.0,6,v,Krstic  Tip Shot (2 PTS),Made Shot,Tip Shot,0,18
+20500164,17,PT09M44.00S,1,1610612758,SAC,1719,Wells,B. Wells,0,0,0,Missed,1,0.0,0.0,0,h,MISS Wells  Layup,Missed Shot,Layup Shot,0,19
+20500164,17,PT09M44.00S,1,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,Jefferson BLOCK (1 BLK),,,0,20
+20500164,18,PT09M43.00S,1,1610612751,NJN,976,McInnis,J. McInnis,0,0,0,,0,0.0,0.0,0,v,McInnis REBOUND (Off:0 Def:1),Rebound,Unknown,0,21
+20500164,19,PT09M35.00S,1,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,0.0,0.0,0,h,Abdur-Rahim P.FOUL (P1.T1),Foul,Personal,0,22
+20500164,20,PT09M23.00S,1,1610612751,NJN,361,Robinson,C. Robinson,24,191,19,Missed,1,0.0,0.0,0,v,MISS Robinson 19' Jump Shot,Missed Shot,Jump Shot,0,23
+20500164,21,PT09M20.00S,1,1610612758,SAC,1710,Bibby,M. Bibby,0,0,0,,0,0.0,0.0,0,h,Bibby REBOUND (Off:0 Def:1),Rebound,Unknown,0,24
+20500164,22,PT09M10.00S,1,1610612758,SAC,1802,Miller,B. Miller,-94,123,15,Missed,1,0.0,0.0,0,h,MISS Miller 15' Jump Shot,Missed Shot,Jump Shot,0,25
+20500164,23,PT09M08.00S,1,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,Jefferson REBOUND (Off:0 Def:1),Rebound,Unknown,0,26
+20500164,24,PT08M54.00S,1,1610612751,NJN,467,Kidd,J. Kidd,-66,156,17,Missed,1,0.0,0.0,0,v,MISS Kidd 17' Jump Shot,Missed Shot,Jump Shot,0,27
+20500164,25,PT08M52.00S,1,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0.0,0.0,0,h,Garcia REBOUND (Off:0 Def:1),Rebound,Unknown,0,28
+20500164,26,PT08M47.00S,1,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0.0,0.0,0,h,Garcia Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,29
+20500164,27,PT08M35.00S,1,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,Made,1,4.0,4.0,8,v,Kidd  Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,30
+20500164,28,PT08M35.00S,1,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0.0,0.0,0,h,Garcia S.FOUL (P1.T2),Foul,Shooting,0,31
+20500164,29,PT08M35.00S,1,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,4.0,5.0,9,v,Kidd Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,32
+20500164,30,PT08M18.00S,1,1610612758,SAC,1710,Bibby,M. Bibby,166,54,17,Missed,1,0.0,0.0,0,h,MISS Bibby 17' Jump Shot,Missed Shot,Jump Shot,0,33
+20500164,31,PT08M18.00S,1,0,,1610612758,,,0,0,0,,0,0.0,0.0,0,h,KINGS Rebound,Rebound,Unknown,0,34
+20500164,32,PT08M18.00S,1,1610612751,NJN,976,McInnis,J. McInnis,0,0,0,,0,0.0,0.0,0,v,McInnis L.B.FOUL (P1.T2),Foul,Loose Ball,0,35
+20500164,33,PT08M09.00S,1,1610612758,SAC,1710,Bibby,M. Bibby,0,0,0,,0,0.0,0.0,0,h,Bibby Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,36
+20500164,33,PT08M09.00S,1,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,v,Kidd STEAL (1 STL),,,0,37
+20500164,34,PT08M05.00S,1,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,Made,1,4.0,7.0,11,v,Jefferson  Dunk (2 PTS) (Kidd 1 AST),Made Shot,Dunk Shot,0,38
+20500164,35,PT07M52.00S,1,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,105,179,21,Missed,1,0.0,0.0,0,h,MISS Abdur-Rahim 21' Jump Shot,Missed Shot,Jump Shot,0,39
+20500164,36,PT07M50.00S,1,1610612751,NJN,976,McInnis,J. McInnis,0,0,0,,0,0.0,0.0,0,v,McInnis REBOUND (Off:0 Def:2),Rebound,Unknown,0,40
+20500164,37,PT07M45.00S,1,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,0.0,0.0,0,v,Krstic Traveling Turnover (P1.T2),Turnover,Traveling,0,41
+20500164,38,PT07M23.00S,1,1610612758,SAC,1710,Bibby,M. Bibby,156,194,25,Made,1,7.0,7.0,14,h,Bibby 25' 3PT Jump Shot (5 PTS) (Abdur-Rahim 1 AST),Made Shot,Jump Shot,0,42
+20500164,39,PT07M02.00S,1,1610612751,NJN,2210,Jefferson,R. Jefferson,-177,-1,18,Made,1,7.0,9.0,16,v,Jefferson 18' Jump Shot (4 PTS) (Kidd 2 AST),Made Shot,Jump Shot,0,43
+20500164,40,PT06M47.00S,1,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,Made,1,9.0,9.0,18,h,Garcia  Layup (4 PTS) (Miller 3 AST),Made Shot,Layup Shot,0,44
+20500164,41,PT06M28.00S,1,1610612751,NJN,2420,Krstic,N. Krstic,-29,158,16,Made,1,9.0,11.0,20,v,Krstic 16' Jump Shot (4 PTS) (Kidd 3 AST),Made Shot,Jump Shot,0,45
+20500164,42,PT06M11.00S,1,1610612758,SAC,1719,Wells,B. Wells,0,0,0,Missed,1,0.0,0.0,0,h,MISS Wells  Layup,Missed Shot,Layup Shot,0,46
+20500164,44,PT06M09.00S,1,1610612758,SAC,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,h,Wells REBOUND (Off:1 Def:1),Rebound,Unknown,0,47
+20500164,43,PT06M09.00S,1,1610612758,SAC,1719,Wells,B. Wells,0,0,0,Missed,1,0.0,0.0,0,h,MISS Wells  Tip Shot,Missed Shot,Tip Shot,0,48
+20500164,45,PT06M08.00S,1,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,v,Kidd REBOUND (Off:1 Def:1),Rebound,Unknown,0,49
+20500164,46,PT06M02.00S,1,1610612751,NJN,2210,Jefferson,R. Jefferson,176,69,19,Made,1,9.0,13.0,22,v,Jefferson 19' Jump Shot (6 PTS) (Kidd 4 AST),Made Shot,Jump Shot,0,50
+20500164,47,PT05M47.00S,1,1610612758,SAC,1710,Bibby,M. Bibby,-148,100,18,Missed,1,0.0,0.0,0,h,MISS Bibby 18' Jump Shot,Missed Shot,Jump Shot,0,51
+20500164,48,PT05M44.00S,1,1610612751,NJN,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,52
+20500164,49,PT05M36.00S,1,1610612751,NJN,2420,Krstic,N. Krstic,-131,133,19,Made,1,9.0,15.0,24,v,Krstic 19' Jump Shot (6 PTS) (McInnis 1 AST),Made Shot,Jump Shot,0,53
+20500164,50,PT05M20.00S,1,1610612758,SAC,1802,Miller,B. Miller,0,0,0,Made,1,11.0,15.0,26,h,Miller  Layup (2 PTS) (Garcia 1 AST),Made Shot,Layup Shot,0,54
+20500164,51,PT05M02.00S,1,1610612751,NJN,976,McInnis,J. McInnis,0,0,0,,0,0.0,0.0,0,v,McInnis Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,55
+20500164,51,PT05M02.00S,1,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0.0,0.0,0,h,Garcia STEAL (1 STL),,,0,56
+20500164,52,PT04M58.00S,1,1610612758,SAC,1719,Wells,B. Wells,0,0,0,Made,1,13.0,15.0,28,h,Wells  Driving Dunk (2 PTS) (Garcia 2 AST),Made Shot,Driving Dunk Shot,0,57
+20500164,53,PT04M35.00S,1,1610612751,NJN,2420,Krstic,N. Krstic,-154,12,15,Missed,1,0.0,0.0,0,v,MISS Krstic 15' Jump Shot,Missed Shot,Jump Shot,0,58
+20500164,54,PT04M33.00S,1,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0.0,0.0,0,h,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,59
+20500164,55,PT04M26.00S,1,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,0.0,0.0,0,h,Abdur-Rahim Traveling Turnover (P2.T4),Turnover,Traveling,0,60
+20500164,56,PT04M26.00S,1,0,,1610612758,,,0,0,0,,0,0.0,0.0,0,h,KINGS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,61
+20500164,60,PT04M10.00S,1,1610612751,NJN,361,Robinson,C. Robinson,-184,2,18,Made,1,13.0,17.0,30,v,Robinson 18' Jump Shot (2 PTS) (Jefferson 1 AST),Made Shot,Jump Shot,0,62
+20500164,61,PT03M49.00S,1,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,121,140,19,Made,1,15.0,17.0,32,h,Abdur-Rahim 19' Jump Shot (2 PTS) (Garcia 3 AST),Made Shot,Jump Shot,0,63
+20500164,62,PT03M32.00S,1,1610612751,NJN,361,Robinson,C. Robinson,184,174,25,Made,1,15.0,20.0,35,v,Robinson 25' 3PT Jump Shot (5 PTS) (Kidd 5 AST),Made Shot,Jump Shot,0,64
+20500164,63,PT03M10.00S,1,1610612758,SAC,1710,Bibby,M. Bibby,0,0,0,Made,1,17.0,20.0,37,h,Bibby  Layup (7 PTS) (Miller 4 AST),Made Shot,Layup Shot,0,65
+20500164,64,PT02M55.00S,1,1610612751,NJN,361,Robinson,C. Robinson,125,87,15,Missed,1,0.0,0.0,0,v,MISS Robinson 15' Jump Shot,Missed Shot,Jump Shot,0,66
+20500164,65,PT02M53.00S,1,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,v,Kidd REBOUND (Off:2 Def:1),Rebound,Unknown,0,67
+20500164,66,PT02M45.00S,1,1610612751,NJN,2420,Krstic,N. Krstic,72,40,8,Missed,1,0.0,0.0,0,v,MISS Krstic 8' Hook Shot,Missed Shot,Hook Shot,0,68
+20500164,67,PT02M44.00S,1,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0.0,0.0,0,h,Miller REBOUND (Off:0 Def:2),Rebound,Unknown,0,69
+20500164,68,PT02M38.00S,1,1610612758,SAC,1710,Bibby,M. Bibby,0,0,0,Missed,1,0.0,0.0,0,h,MISS Bibby  Layup,Missed Shot,Layup Shot,0,70
+20500164,70,PT02M36.00S,1,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,0.0,0.0,0,h,Abdur-Rahim REBOUND (Off:1 Def:1),Rebound,Unknown,0,71
+20500164,69,PT02M36.00S,1,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,Made,1,19.0,20.0,39,h,Abdur-Rahim  Tip Shot (4 PTS),Made Shot,Tip Shot,0,72
+20500164,71,PT02M14.00S,1,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,v,Nets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,73
+20500164,73,PT02M11.00S,1,1610612751,NJN,2210,Jefferson,R. Jefferson,202,189,28,Missed,1,0.0,0.0,0,v,MISS Jefferson 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,74
+20500164,74,PT02M10.00S,1,0,,1610612758,,,0,0,0,,0,0.0,0.0,0,h,KINGS Rebound,Rebound,Unknown,0,75
+20500164,75,PT01M49.00S,1,1610612758,SAC,1710,Bibby,M. Bibby,-233,-8,0,Made,1,22.0,20.0,42,h,Bibby  3PT Jump Shot (10 PTS) (Abdur-Rahim 2 AST),Made Shot,Jump Shot,0,76
+20500164,76,PT01M30.00S,1,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0.0,0.0,0,h,Garcia S.FOUL (P2.T3),Foul,Shooting,0,77
+20500164,77,PT01M30.00S,1,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,0.0,0.0,0,v,SUB: Jackson FOR Krstic,Substitution,,0,78
+20500164,78,PT01M30.00S,1,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,22.0,21.0,43,v,Kidd Free Throw 1 of 3 (4 PTS),Free Throw,Free Throw 1 of 3,0,79
+20500164,79,PT01M30.00S,1,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,22.0,22.0,44,v,Kidd Free Throw 2 of 3 (5 PTS),Free Throw,Free Throw 2 of 3,0,80
+20500164,80,PT01M30.00S,1,1610612751,NJN,976,McInnis,J. McInnis,0,0,0,,0,0.0,0.0,0,v,SUB: Planinic FOR McInnis,Substitution,,0,81
+20500164,82,PT01M30.00S,1,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0.0,0.0,0,h,SUB: Martin FOR Garcia,Substitution,,0,82
+20500164,83,PT01M30.00S,1,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,22.0,23.0,45,v,Kidd Free Throw 3 of 3 (6 PTS),Free Throw,Free Throw 3 of 3,0,83
+20500164,84,PT01M16.00S,1,1610612751,NJN,2565,Planinic,Z. Planinic,0,0,0,,0,0.0,0.0,0,v,Planinic S.FOUL (P1.T3),Foul,Shooting,0,84
+20500164,85,PT01M16.00S,1,1610612758,SAC,1719,Wells,B. Wells,0,0,0,,0,23.0,23.0,46,h,Wells Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,85
+20500164,86,PT01M16.00S,1,1610612758,SAC,1719,Wells,B. Wells,0,0,0,,0,24.0,23.0,47,h,Wells Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,86
+20500164,87,PT01M06.00S,1,1610612751,NJN,467,Kidd,J. Kidd,-112,132,17,Made,1,24.0,25.0,49,v,Kidd 17' Jump Shot (8 PTS),Made Shot,Jump Shot,0,87
+20500164,88,PT00M42.50S,1,1610612758,SAC,1802,Miller,B. Miller,0,0,0,Made,1,26.0,25.0,51,h,Miller  Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,88
+20500164,89,PT00M30.20S,1,1610612751,NJN,2210,Jefferson,R. Jefferson,166,8,17,Made,1,26.0,27.0,53,v,Jefferson 17' Jump Shot (8 PTS) (Kidd 6 AST),Made Shot,Jump Shot,0,89
+20500164,90,PT00M06.90S,1,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,-29,158,16,Missed,1,0.0,0.0,0,h,MISS Abdur-Rahim 16' Jump Shot,Missed Shot,Jump Shot,0,90
+20500164,91,PT00M04.90S,1,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,0.0,0.0,0,h,Abdur-Rahim REBOUND (Off:2 Def:1),Rebound,Unknown,0,91
+20500164,92,PT00M01.90S,1,1610612758,SAC,1710,Bibby,M. Bibby,-143,210,25,Missed,1,0.0,0.0,0,h,MISS Bibby 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,92
+20500164,93,PT00M00.00S,1,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,Jefferson REBOUND (Off:0 Def:2),Rebound,Unknown,0,93
+20500164,94,PT00M00.00S,1,0,,0,,,0,0,0,,0,26.0,27.0,53,,End of 1st Period (10:39 PM EST),period,end,0,94
+20500164,96,PT12M00.00S,2,0,,0,,,0,0,0,,0,26.0,27.0,53,,Start of 2nd Period (10:41 PM EST),period,start,0,95
+20500164,97,PT11M46.00S,2,1610612758,SAC,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,h,Wells OFF.Foul (P1),Foul,Offensive,0,96
+20500164,98,PT11M46.00S,2,1610612758,SAC,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,h,Wells Foul Turnover (P1.T5),Turnover,Foul,0,97
+20500164,99,PT11M34.00S,2,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,Jefferson Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,98
+20500164,99,PT11M34.00S,2,1610612758,SAC,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,h,Wells STEAL (2 STL),,,0,99
+20500164,100,PT11M30.00S,2,1610612758,SAC,2755,Martin,K. Martin,0,0,0,Made,1,28.0,27.0,55,h,Martin  Layup (2 PTS) (Bibby 1 AST),Made Shot,Layup Shot,0,100
+20500164,101,PT11M30.00S,2,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,v,Kidd S.FOUL (P1.T1),Foul,Shooting,0,101
+20500164,102,PT11M30.00S,2,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,29.0,27.0,56,h,Martin Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,102
+20500164,103,PT11M16.00S,2,1610612751,NJN,2565,Planinic,Z. Planinic,0,0,0,Made,1,29.0,29.0,58,v,Planinic  Layup (2 PTS) (Jackson 1 AST),Made Shot,Layup Shot,0,103
+20500164,104,PT11M01.00S,2,1610612758,SAC,1903,Thomas,K. Thomas,-57,155,17,Missed,1,0.0,0.0,0,h,MISS Thomas 17' Jump Shot,Missed Shot,Jump Shot,0,104
+20500164,105,PT10M58.00S,2,1610612751,NJN,1531,Jackson,M. Jackson,0,0,0,,0,0.0,0.0,0,v,Jackson REBOUND (Off:0 Def:1),Rebound,Unknown,0,105
+20500164,106,PT10M51.00S,2,1610612751,NJN,361,Robinson,C. Robinson,-61,232,24,Made,1,29.0,32.0,61,v,Robinson 24' 3PT Jump Shot (8 PTS) (Kidd 7 AST),Made Shot,Jump Shot,0,106
+20500164,107,PT10M29.00S,2,1610612758,SAC,1903,Thomas,K. Thomas,74,17,8,Missed,1,0.0,0.0,0,h,MISS Thomas 8' Hook Shot,Missed Shot,Hook Shot,0,107
+20500164,108,PT10M27.00S,2,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,v,Kidd REBOUND (Off:2 Def:2),Rebound,Unknown,0,108
+20500164,109,PT10M24.00S,2,1610612758,SAC,1710,Bibby,M. Bibby,0,0,0,,0,0.0,0.0,0,h,Bibby S.FOUL (P1.T1),Foul,Shooting,0,109
+20500164,110,PT10M24.00S,2,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,29.0,33.0,62,v,Jefferson Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,110
+20500164,111,PT10M24.00S,2,1610612758,SAC,1710,Bibby,M. Bibby,0,0,0,,0,0.0,0.0,0,h,SUB: Hart FOR Bibby,Substitution,,0,111
+20500164,113,PT10M24.00S,2,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,v,SUB: McInnis FOR Kidd,Substitution,,0,112
+20500164,114,PT10M24.00S,2,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,29.0,34.0,63,v,Jefferson Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,113
+20500164,115,PT10M09.00S,2,1610612751,NJN,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,v,Nets T.Foul (Def. 3 Sec Robinson ),Foul,Defense 3 Second,0,114
+20500164,116,PT10M09.00S,2,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,MISS Martin Free Throw Technical,Free Throw,Free Throw Technical,0,115
+20500164,117,PT10M09.00S,2,0,,1610612758,,,0,0,0,,0,0.0,0.0,0,h,KINGS Rebound,Rebound,Normal Rebound,0,116
+20500164,118,PT10M02.00S,2,1610612758,SAC,1719,Wells,B. Wells,-11,87,9,Missed,1,0.0,0.0,0,h,MISS Wells 9' Jump Shot,Missed Shot,Jump Shot,0,117
+20500164,119,PT10M00.00S,2,1610612751,NJN,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,118
+20500164,120,PT09M47.00S,2,1610612751,NJN,976,McInnis,J. McInnis,-79,76,11,Missed,1,0.0,0.0,0,v,MISS McInnis 11' Jump Shot,Missed Shot,Jump Shot,0,119
+20500164,121,PT09M45.00S,2,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,0.0,0.0,0,h,Abdur-Rahim REBOUND (Off:2 Def:2),Rebound,Unknown,0,120
+20500164,122,PT09M37.00S,2,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,-79,120,14,Made,1,31.0,34.0,65,h,Abdur-Rahim 14' Jump Shot (6 PTS) (Wells 1 AST),Made Shot,Jump Shot,0,121
+20500164,123,PT09M24.00S,2,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,Jefferson Bad Pass Turnover (P3.T5),Turnover,Bad Pass,0,122
+20500164,123,PT09M24.00S,2,1610612758,SAC,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,h,Wells STEAL (3 STL),,,0,123
+20500164,124,PT09M20.00S,2,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,Jefferson S.FOUL (P2.T2),Foul,Shooting,0,124
+20500164,125,PT09M20.00S,2,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,0.0,0.0,0,h,SUB: Miller FOR Abdur-Rahim,Substitution,,0,125
+20500164,126,PT09M20.00S,2,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,SUB: Krstic FOR Jefferson,Substitution,,0,126
+20500164,127,PT09M20.00S,2,1610612751,NJN,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,v,SUB: Murray FOR Robinson,Substitution,,0,127
+20500164,128,PT09M20.00S,2,1610612758,SAC,2078,Hart,J. Hart,0,0,0,,0,32.0,34.0,66,h,Hart Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,128
+20500164,129,PT09M20.00S,2,1610612758,SAC,2078,Hart,J. Hart,0,0,0,,0,0.0,0.0,0,h,MISS Hart Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,129
+20500164,130,PT09M20.00S,2,1610612751,NJN,1531,Jackson,M. Jackson,0,0,0,,0,0.0,0.0,0,v,Jackson REBOUND (Off:0 Def:2),Rebound,Unknown,0,130
+20500164,131,PT09M02.00S,2,1610612751,NJN,441,Murray,L. Murray,-179,176,25,Made,1,32.0,37.0,69,v,Murray 25' 3PT Jump Shot (3 PTS) (McInnis 2 AST),Made Shot,Jump Shot,0,131
+20500164,132,PT08M50.00S,2,1610612758,SAC,1802,Miller,B. Miller,69,13,7,Made,1,34.0,37.0,71,h,Miller 7' Jump Shot (6 PTS),Made Shot,Jump Shot,0,132
+20500164,133,PT08M50.00S,2,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,0.0,0.0,0,v,Krstic S.FOUL (P1.T3),Foul,Shooting,0,133
+20500164,134,PT08M50.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,134
+20500164,136,PT08M50.00S,2,1610612758,SAC,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,h,SUB: Garcia FOR Wells,Substitution,,0,135
+20500164,138,PT08M50.00S,2,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,35.0,37.0,72,h,Miller Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,136
+20500164,139,PT08M40.00S,2,1610612751,NJN,1531,Jackson,M. Jackson,0,0,0,,0,0.0,0.0,0,v,Jackson Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,137
+20500164,140,PT08M23.00S,2,1610612758,SAC,1903,Thomas,K. Thomas,0,0,0,Made,1,37.0,37.0,74,h,Thomas  Dunk (2 PTS) (Garcia 4 AST),Made Shot,Dunk Shot,0,138
+20500164,141,PT08M23.00S,2,1610612751,NJN,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,v,Murray S.FOUL (P1.T4),Foul,Shooting,0,139
+20500164,142,PT08M23.00S,2,1610612758,SAC,1903,Thomas,K. Thomas,0,0,0,,0,38.0,37.0,75,h,Thomas Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,140
+20500164,143,PT07M59.00S,2,1610612751,NJN,976,McInnis,J. McInnis,158,5,16,Made,1,38.0,39.0,77,v,McInnis 16' Jump Shot (2 PTS),Made Shot,Jump Shot,0,141
+20500164,144,PT07M43.00S,2,1610612758,SAC,2755,Martin,K. Martin,0,0,0,Missed,1,0.0,0.0,0,h,MISS Martin  Layup,Missed Shot,Layup Shot,0,142
+20500164,144,PT07M43.00S,2,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,0.0,0.0,0,v,Krstic BLOCK (1 BLK),,,0,143
+20500164,145,PT07M43.00S,2,0,,1610612758,,,0,0,0,,0,0.0,0.0,0,h,KINGS Rebound,Rebound,Unknown,0,144
+20500164,146,PT07M43.00S,2,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,v,Nets Timeout: Short (Reg.1 Short 1),Timeout,Short,0,145
+20500164,149,PT07M43.00S,2,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,0.0,0.0,0,v,SUB: Robinson FOR Krstic,Substitution,,0,146
+20500164,150,PT07M40.00S,2,1610612758,SAC,1802,Miller,B. Miller,144,100,18,Missed,1,0.0,0.0,0,h,MISS Miller 18' Jump Shot,Missed Shot,Jump Shot,0,147
+20500164,151,PT07M38.00S,2,1610612751,NJN,976,McInnis,J. McInnis,0,0,0,,0,0.0,0.0,0,v,McInnis REBOUND (Off:0 Def:3),Rebound,Unknown,0,148
+20500164,152,PT07M31.00S,2,1610612751,NJN,1531,Jackson,M. Jackson,0,0,0,Made,1,38.0,41.0,79,v,Jackson  Layup (2 PTS) (McInnis 3 AST),Made Shot,Layup Shot,0,149
+20500164,153,PT07M13.00S,2,1610612758,SAC,1903,Thomas,K. Thomas,0,0,0,Made,1,40.0,41.0,81,h,Thomas  Driving Layup (5 PTS),Made Shot,Driving Layup Shot,0,150
+20500164,154,PT06M49.00S,2,1610612751,NJN,441,Murray,L. Murray,-184,31,19,Missed,1,0.0,0.0,0,v,MISS Murray 19' Jump Shot,Missed Shot,Jump Shot,0,151
+20500164,155,PT06M47.00S,2,1610612751,NJN,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson REBOUND (Off:1 Def:2),Rebound,Unknown,0,152
+20500164,156,PT06M34.00S,2,1610612751,NJN,2565,Planinic,Z. Planinic,0,0,0,Missed,1,0.0,0.0,0,v,MISS Planinic  Layup,Missed Shot,Layup Shot,0,153
+20500164,157,PT06M32.00S,2,1610612751,NJN,1531,Jackson,M. Jackson,0,0,0,,0,0.0,0.0,0,v,Jackson REBOUND (Off:1 Def:2),Rebound,Unknown,0,154
+20500164,158,PT06M32.00S,2,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0.0,0.0,0,h,Garcia S.FOUL (P3.T2),Foul,Shooting,0,155
+20500164,159,PT06M32.00S,2,1610612751,NJN,1531,Jackson,M. Jackson,0,0,0,,0,0.0,0.0,0,v,MISS Jackson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,156
+20500164,160,PT06M32.00S,2,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,v,Nets Rebound,Rebound,Normal Rebound,0,157
+20500164,161,PT06M32.00S,2,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0.0,0.0,0,h,SUB: Bibby FOR Garcia,Substitution,,0,158
+20500164,162,PT06M32.00S,2,1610612751,NJN,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,v,SUB: Kidd FOR Murray,Substitution,,0,159
+20500164,163,PT06M32.00S,2,1610612751,NJN,1531,Jackson,M. Jackson,0,0,0,,0,40.0,42.0,82,v,Jackson Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,160
+20500164,164,PT06M18.00S,2,1610612758,SAC,1802,Miller,B. Miller,0,0,0,Made,1,42.0,42.0,84,h,Miller  Dunk (9 PTS) (Martin 1 AST),Made Shot,Dunk Shot,0,161
+20500164,165,PT05M57.00S,2,1610612751,NJN,1531,Jackson,M. Jackson,161,100,19,Made,1,42.0,44.0,86,v,Jackson 19' Jump Shot (5 PTS) (Kidd 8 AST),Made Shot,Jump Shot,0,162
+20500164,166,PT05M40.00S,2,1610612758,SAC,2078,Hart,J. Hart,0,0,0,,0,0.0,0.0,0,h,Hart Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,163
+20500164,166,PT05M40.00S,2,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,v,Kidd STEAL (2 STL),,,0,164
+20500164,167,PT05M37.00S,2,1610612758,SAC,1710,Bibby,M. Bibby,0,0,0,,0,0.0,0.0,0,h,Bibby S.FOUL (P2.T3),Foul,Shooting,0,165
+20500164,168,PT05M37.00S,2,0,,1610612758,,,0,0,0,,0,0.0,0.0,0,h,KINGS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,166
+20500164,170,PT05M37.00S,2,1610612758,SAC,2078,Hart,J. Hart,0,0,0,,0,0.0,0.0,0,h,SUB: Wells FOR Hart,Substitution,,0,167
+20500164,172,PT05M37.00S,2,1610612751,NJN,2565,Planinic,Z. Planinic,0,0,0,,0,42.0,45.0,87,v,Planinic Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,168
+20500164,173,PT05M37.00S,2,1610612751,NJN,2565,Planinic,Z. Planinic,0,0,0,,0,42.0,46.0,88,v,Planinic Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,169
+20500164,174,PT05M25.00S,2,1610612758,SAC,1710,Bibby,M. Bibby,-120,137,18,Made,1,44.0,46.0,90,h,Bibby 18' Jump Shot (12 PTS) (Miller 5 AST),Made Shot,Jump Shot,0,170
+20500164,175,PT05M08.00S,2,1610612751,NJN,1531,Jackson,M. Jackson,0,0,0,Made,1,44.0,48.0,92,v,Jackson  Layup (7 PTS) (Kidd 9 AST),Made Shot,Layup Shot,0,171
+20500164,176,PT05M02.00S,2,1610612758,SAC,1903,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,h,SUB: Abdur-Rahim FOR Thomas,Substitution,,0,172
+20500164,177,PT05M02.00S,2,1610612751,NJN,1531,Jackson,M. Jackson,0,0,0,,0,0.0,0.0,0,v,SUB: Jefferson FOR Jackson,Substitution,,0,173
+20500164,178,PT05M02.00S,2,1610612751,NJN,2565,Planinic,Z. Planinic,0,0,0,,0,0.0,0.0,0,v,SUB: Krstic FOR Planinic,Substitution,,0,174
+20500164,179,PT04M52.00S,2,1610612758,SAC,1719,Wells,B. Wells,100,-5,10,Missed,1,0.0,0.0,0,h,MISS Wells 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,175
+20500164,180,PT04M49.00S,2,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,0.0,0.0,0,v,Krstic REBOUND (Off:1 Def:1),Rebound,Unknown,0,176
+20500164,181,PT04M37.00S,2,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,Made,1,44.0,50.0,94,v,Krstic  Layup (8 PTS),Made Shot,Layup Shot,0,177
+20500164,182,PT04M10.00S,2,0,,1610612758,,,0,0,0,,0,0.0,0.0,0,h,KINGS Turnover: Shot Clock (T#7),Turnover,Shot Clock Turnover,0,178
+20500164,183,PT04M00.00S,2,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0.0,0.0,0,h,Miller S.FOUL (P1.T4),Foul,Shooting,0,179
+20500164,184,PT04M00.00S,2,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,44.0,51.0,95,v,Krstic Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,180
+20500164,185,PT04M00.00S,2,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,0.0,0.0,0,v,MISS Krstic Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,181
+20500164,186,PT03M58.00S,2,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0.0,0.0,0,h,Miller REBOUND (Off:0 Def:3),Rebound,Unknown,0,182
+20500164,187,PT03M44.00S,2,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,-69,26,7,Missed,1,0.0,0.0,0,h,MISS Abdur-Rahim 7' Hook Shot,Missed Shot,Hook Shot,0,183
+20500164,188,PT03M41.00S,2,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,Jefferson REBOUND (Off:0 Def:3),Rebound,Unknown,0,184
+20500164,189,PT03M33.00S,2,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,Missed,1,0.0,0.0,0,v,MISS Kidd  Layup,Missed Shot,Layup Shot,0,185
+20500164,190,PT03M32.00S,2,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,186
+20500164,191,PT03M26.00S,2,1610612758,SAC,2755,Martin,K. Martin,0,0,0,Made,1,46.0,51.0,97,h,Martin  Driving Layup (5 PTS),Made Shot,Driving Layup Shot,0,187
+20500164,192,PT03M07.00S,2,1610612751,NJN,467,Kidd,J. Kidd,190,161,25,Missed,1,0.0,0.0,0,v,MISS Kidd 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,188
+20500164,193,PT03M07.00S,2,0,,1610612758,,,0,0,0,,0,0.0,0.0,0,h,KINGS Rebound,Rebound,Unknown,0,189
+20500164,194,PT03M07.00S,2,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,0.0,0.0,0,v,Krstic L.B.FOUL (P2.PN),Foul,Loose Ball,0,190
+20500164,195,PT03M07.00S,2,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,47.0,51.0,98,h,Miller Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,191
+20500164,196,PT03M07.00S,2,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,48.0,51.0,99,h,Miller Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,192
+20500164,197,PT03M07.00S,2,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,v,Nets Timeout: Regular (Reg.2 Short 1),Timeout,Regular,0,193
+20500164,201,PT02M53.00S,2,1610612751,NJN,2210,Jefferson,R. Jefferson,79,156,17,Made,1,48.0,53.0,101,v,Jefferson 17' Jump Shot (12 PTS) (Kidd 10 AST),Made Shot,Jump Shot,0,194
+20500164,202,PT02M36.00S,2,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,0.0,0.0,0,h,Abdur-Rahim Bad Pass Turnover (P3.T8),Turnover,Bad Pass,0,195
+20500164,202,PT02M36.00S,2,1610612751,NJN,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson STEAL (1 STL),,,0,196
+20500164,203,PT02M35.00S,2,1610612751,NJN,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,197
+20500164,203,PT02M35.00S,2,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,0.0,0.0,0,h,Abdur-Rahim STEAL (1 STL),,,0,198
+20500164,204,PT02M34.00S,2,1610612751,NJN,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson P.FOUL (P1.PN),Foul,Personal,0,199
+20500164,205,PT02M34.00S,2,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,49.0,53.0,102,h,Abdur-Rahim Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,200
+20500164,206,PT02M34.00S,2,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,50.0,53.0,103,h,Abdur-Rahim Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,201
+20500164,207,PT02M21.00S,2,1610612751,NJN,2210,Jefferson,R. Jefferson,-72,135,15,Missed,1,0.0,0.0,0,v,MISS Jefferson 15' Jump Shot,Missed Shot,Jump Shot,0,202
+20500164,208,PT02M19.00S,2,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,203
+20500164,209,PT02M13.00S,2,1610612758,SAC,1802,Miller,B. Miller,0,0,0,Made,1,52.0,53.0,105,h,Miller  Layup (13 PTS) (Wells 2 AST),Made Shot,Layup Shot,0,204
+20500164,210,PT01M58.00S,2,1610612751,NJN,467,Kidd,J. Kidd,-227,31,0,Made,1,52.0,56.0,108,v,Kidd  3PT Jump Shot (11 PTS) (Jefferson 2 AST),Made Shot,Jump Shot,0,205
+20500164,211,PT01M45.00S,2,1610612758,SAC,2755,Martin,K. Martin,210,146,26,Missed,1,0.0,0.0,0,h,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,206
+20500164,212,PT01M42.00S,2,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,Jefferson REBOUND (Off:0 Def:4),Rebound,Unknown,0,207
+20500164,213,PT01M36.00S,2,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,Missed,1,0.0,0.0,0,v,MISS Jefferson  Layup,Missed Shot,Layup Shot,0,208
+20500164,214,PT01M34.00S,2,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0.0,0.0,0,h,Miller REBOUND (Off:0 Def:4),Rebound,Unknown,0,209
+20500164,215,PT01M30.00S,2,1610612758,SAC,2755,Martin,K. Martin,0,0,0,Missed,1,0.0,0.0,0,h,MISS Martin  Layup,Missed Shot,Layup Shot,0,210
+20500164,215,PT01M30.00S,2,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,v,Kidd BLOCK (1 BLK),,,0,211
+20500164,216,PT01M30.00S,2,0,,1610612758,,,0,0,0,,0,0.0,0.0,0,h,KINGS Rebound,Rebound,Unknown,0,212
+20500164,217,PT01M27.00S,2,1610612758,SAC,1710,Bibby,M. Bibby,-128,99,16,Missed,1,0.0,0.0,0,h,MISS Bibby 16' Jump Shot,Missed Shot,Jump Shot,0,213
+20500164,219,PT01M25.00S,2,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,214
+20500164,218,PT01M25.00S,2,1610612758,SAC,2755,Martin,K. Martin,0,0,0,Made,1,54.0,56.0,110,h,Martin  Follow Up Dunk (7 PTS),Made Shot,Follow Up Dunk Shot,0,215
+20500164,220,PT01M05.00S,2,1610612751,NJN,2420,Krstic,N. Krstic,0,140,14,Made,1,54.0,58.0,112,v,Krstic 14' Jump Shot (11 PTS) (Robinson 1 AST),Made Shot,Jump Shot,0,216
+20500164,221,PT00M44.80S,2,1610612758,SAC,2755,Martin,K. Martin,146,209,25,Made,1,57.0,58.0,115,h,Martin 25' 3PT Jump Shot (10 PTS) (Miller 6 AST),Made Shot,Jump Shot,0,217
+20500164,222,PT00M37.90S,2,1610612751,NJN,467,Kidd,J. Kidd,-117,210,24,Missed,1,0.0,0.0,0,v,MISS Kidd 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,218
+20500164,223,PT00M35.90S,2,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,0.0,0.0,0,h,Abdur-Rahim REBOUND (Off:2 Def:3),Rebound,Unknown,0,219
+20500164,224,PT00M30.10S,2,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,0.0,0.0,0,v,Krstic P.FOUL (P3.PN),Foul,Personal,0,220
+20500164,225,PT00M30.10S,2,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,58.0,58.0,116,h,Miller Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,221
+20500164,226,PT00M30.10S,2,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,0.0,0.0,0,v,SUB: Jackson FOR Krstic,Substitution,,0,222
+20500164,227,PT00M30.10S,2,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,59.0,58.0,117,h,Miller Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,223
+20500164,228,PT00M10.20S,2,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,Jefferson OFF.Foul (P3),Foul,Offensive,0,224
+20500164,229,PT00M10.20S,2,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,Jefferson Foul Turnover (P4.T8),Turnover,Foul,0,225
+20500164,230,PT00M10.20S,2,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,SUB: Planinic FOR Jefferson,Substitution,,0,226
+20500164,231,PT00M00.50S,2,1610612758,SAC,1802,Miller,B. Miller,0,0,0,Missed,1,0.0,0.0,0,h,MISS Miller  Layup,Missed Shot,Layup Shot,0,227
+20500164,231,PT00M00.50S,2,1610612751,NJN,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson BLOCK (1 BLK),,,0,228
+20500164,232,PT00M00.50S,2,0,,1610612758,,,0,0,0,,0,0.0,0.0,0,h,KINGS Rebound,Rebound,Unknown,0,229
+20500164,233,PT00M00.20S,2,1610612758,SAC,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,h,Wells Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,230
+20500164,233,PT00M00.20S,2,1610612751,NJN,976,McInnis,J. McInnis,0,0,0,,0,0.0,0.0,0,v,McInnis STEAL (1 STL),,,0,231
+20500164,234,PT00M00.00S,2,0,,0,,,0,0,0,,0,59.0,58.0,117,,End of 2nd Period (11:15 PM EST),period,end,0,232
+20500164,236,PT12M00.00S,3,0,,0,,,0,0,0,,0,59.0,58.0,117,,Start of 3rd Period (11:32 PM EST),period,start,0,233
+20500164,237,PT11M47.00S,3,1610612758,SAC,1719,Wells,B. Wells,0,0,0,Missed,1,0.0,0.0,0,h,MISS Wells  Layup,Missed Shot,Layup Shot,0,234
+20500164,238,PT11M45.00S,3,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,Jefferson REBOUND (Off:0 Def:5),Rebound,Unknown,0,235
+20500164,239,PT11M21.00S,3,1610612751,NJN,976,McInnis,J. McInnis,-18,210,21,Made,1,59.0,60.0,119,v,McInnis 21' Jump Shot (4 PTS) (Krstic 1 AST),Made Shot,Jump Shot,0,236
+20500164,240,PT10M59.00S,3,1610612758,SAC,1719,Wells,B. Wells,146,72,16,Missed,1,0.0,0.0,0,h,MISS Wells 16' Jump Shot,Missed Shot,Jump Shot,0,237
+20500164,241,PT10M57.00S,3,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,Jefferson REBOUND (Off:0 Def:6),Rebound,Unknown,0,238
+20500164,242,PT10M57.00S,3,1610612758,SAC,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,h,Wells P.FOUL (P2.T1),Foul,Personal,0,239
+20500164,243,PT10M40.00S,3,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,Missed,1,0.0,0.0,0,v,MISS Krstic  Layup,Missed Shot,Layup Shot,0,240
+20500164,243,PT10M40.00S,3,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0.0,0.0,0,h,Miller BLOCK (1 BLK),,,0,241
+20500164,244,PT10M37.00S,3,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0.0,0.0,0,h,Garcia REBOUND (Off:0 Def:2),Rebound,Unknown,0,242
+20500164,245,PT10M30.00S,3,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0.0,0.0,0,h,Miller Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,243
+20500164,245,PT10M30.00S,3,1610612751,NJN,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson STEAL (2 STL),,,0,244
+20500164,246,PT10M25.00S,3,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,Missed,1,0.0,0.0,0,v,MISS Kidd  Layup,Missed Shot,Layup Shot,0,245
+20500164,248,PT10M23.00S,3,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,0.0,0.0,0,v,Krstic REBOUND (Off:2 Def:1),Rebound,Unknown,0,246
+20500164,247,PT10M23.00S,3,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,Made,1,59.0,62.0,121,v,Krstic  Layup (13 PTS),Made Shot,Layup Shot,0,247
+20500164,249,PT10M06.00S,3,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0.0,0.0,0,h,Miller Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,248
+20500164,250,PT09M46.00S,3,1610612751,NJN,467,Kidd,J. Kidd,100,123,16,Missed,1,0.0,0.0,0,v,MISS Kidd 16' Jump Shot,Missed Shot,Jump Shot,0,249
+20500164,251,PT09M45.00S,3,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,v,Kidd REBOUND (Off:3 Def:2),Rebound,Unknown,0,250
+20500164,252,PT09M42.00S,3,1610612751,NJN,976,McInnis,J. McInnis,103,156,19,Made,1,59.0,64.0,123,v,McInnis 19' Jump Shot (6 PTS) (Jefferson 3 AST),Made Shot,Jump Shot,0,251
+20500164,253,PT09M27.00S,3,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,0.0,0.0,0,v,Krstic P.FOUL (P4.T1),Foul,Personal,0,252
+20500164,254,PT09M27.00S,3,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,0.0,0.0,0,v,SUB: Jackson FOR Krstic,Substitution,,0,253
+20500164,255,PT09M24.00S,3,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,Jefferson S.FOUL (P4.T2),Foul,Shooting,0,254
+20500164,256,PT09M24.00S,3,1610612758,SAC,1719,Wells,B. Wells,0,0,0,,0,60.0,64.0,124,h,Wells Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,255
+20500164,257,PT09M24.00S,3,1610612758,SAC,1719,Wells,B. Wells,0,0,0,,0,61.0,64.0,125,h,Wells Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,256
+20500164,258,PT09M11.00S,3,1610612758,SAC,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,h,Wells P.FOUL (P3.T2),Foul,Personal,0,257
+20500164,259,PT09M02.00S,3,1610612751,NJN,976,McInnis,J. McInnis,79,28,8,Made,1,61.0,66.0,127,v,McInnis 8' Jump Bank Shot (8 PTS),Made Shot,Jump Bank Shot,0,258
+20500164,260,PT08M49.00S,3,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0.0,0.0,0,h,Miller Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,259
+20500164,260,PT08M49.00S,3,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,v,Kidd STEAL (3 STL),,,0,260
+20500164,261,PT08M40.00S,3,1610612751,NJN,976,McInnis,J. McInnis,0,0,0,,0,0.0,0.0,0,v,McInnis Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,261
+20500164,261,PT08M40.00S,3,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0.0,0.0,0,h,Miller STEAL (1 STL),,,0,262
+20500164,262,PT08M31.00S,3,1610612758,SAC,101128,Garcia,F. Garcia,-146,206,25,Missed,1,0.0,0.0,0,h,MISS Garcia 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,263
+20500164,263,PT08M28.00S,3,1610612758,SAC,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,h,Wells REBOUND (Off:2 Def:1),Rebound,Unknown,0,264
+20500164,264,PT08M25.00S,3,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,Made,1,63.0,66.0,129,h,Garcia  Layup (6 PTS) (Wells 3 AST),Made Shot,Layup Shot,0,265
+20500164,265,PT08M00.00S,3,1610612751,NJN,467,Kidd,J. Kidd,195,168,26,Missed,1,0.0,0.0,0,v,MISS Kidd 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,266
+20500164,266,PT07M58.00S,3,1610612758,SAC,1710,Bibby,M. Bibby,0,0,0,,0,0.0,0.0,0,h,Bibby REBOUND (Off:0 Def:2),Rebound,Unknown,0,267
+20500164,267,PT07M53.00S,3,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0.0,0.0,0,h,Garcia OFF.Foul (P4),Foul,Offensive,0,268
+20500164,268,PT07M53.00S,3,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0.0,0.0,0,h,Garcia Foul Turnover (P2.T13),Turnover,Foul,0,269
+20500164,269,PT07M53.00S,3,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0.0,0.0,0,h,SUB: Martin FOR Garcia,Substitution,,0,270
+20500164,270,PT07M41.00S,3,1610612751,NJN,1531,Jackson,M. Jackson,0,0,0,,0,0.0,0.0,0,v,Jackson Lost Ball Turnover (P2.T10),Turnover,Lost Ball,0,271
+20500164,270,PT07M41.00S,3,1610612758,SAC,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,h,Wells STEAL (4 STL),,,0,272
+20500164,272,PT07M36.00S,3,1610612751,NJN,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson S.FOUL (P2.T3),Foul,Shooting,0,273
+20500164,273,PT07M36.00S,3,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,64.0,66.0,130,h,Abdur-Rahim Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,274
+20500164,274,PT07M36.00S,3,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,65.0,66.0,131,h,Abdur-Rahim Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,275
+20500164,275,PT07M25.00S,3,1610612751,NJN,1531,Jackson,M. Jackson,0,0,0,Made,1,65.0,68.0,133,v,Jackson  Layup (9 PTS) (Kidd 11 AST),Made Shot,Layup Shot,0,276
+20500164,276,PT07M25.00S,3,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0.0,0.0,0,h,Miller S.FOUL (P2.T3),Foul,Shooting,0,277
+20500164,277,PT07M25.00S,3,1610612751,NJN,1531,Jackson,M. Jackson,0,0,0,,0,0.0,0.0,0,v,MISS Jackson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,278
+20500164,278,PT07M24.00S,3,1610612758,SAC,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,h,Wells REBOUND (Off:2 Def:2),Rebound,Unknown,0,279
+20500164,279,PT07M11.00S,3,1610612758,SAC,2755,Martin,K. Martin,209,155,26,Missed,1,0.0,0.0,0,h,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,280
+20500164,281,PT07M09.00S,3,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0.0,0.0,0,h,Miller REBOUND (Off:1 Def:4),Rebound,Unknown,0,281
+20500164,280,PT07M09.00S,3,1610612758,SAC,1802,Miller,B. Miller,0,0,0,Made,1,67.0,68.0,135,h,Miller  Layup (17 PTS),Made Shot,Layup Shot,0,282
+20500164,282,PT06M55.00S,3,1610612751,NJN,1531,Jackson,M. Jackson,0,0,0,,0,0.0,0.0,0,v,Jackson OFF.Foul (P1),Foul,Offensive,0,283
+20500164,283,PT06M55.00S,3,1610612751,NJN,1531,Jackson,M. Jackson,0,0,0,,0,0.0,0.0,0,v,Jackson Foul Turnover (P3.T11),Turnover,Foul,0,284
+20500164,284,PT06M42.00S,3,1610612751,NJN,976,McInnis,J. McInnis,0,0,0,,0,0.0,0.0,0,v,McInnis P.FOUL (P2.T4),Foul,Personal,0,285
+20500164,285,PT06M36.00S,3,1610612758,SAC,2755,Martin,K. Martin,0,0,0,Missed,1,0.0,0.0,0,h,MISS Martin  Layup,Missed Shot,Layup Shot,0,286
+20500164,286,PT06M34.00S,3,1610612751,NJN,1531,Jackson,M. Jackson,0,0,0,,0,0.0,0.0,0,v,Jackson REBOUND (Off:1 Def:3),Rebound,Unknown,0,287
+20500164,287,PT06M19.00S,3,1610612751,NJN,1531,Jackson,M. Jackson,-2,43,4,Made,1,67.0,70.0,137,v,Jackson 4' Hook Shot (11 PTS),Made Shot,Hook Shot,0,288
+20500164,288,PT06M06.00S,3,1610612758,SAC,1719,Wells,B. Wells,-227,30,0,Made,1,70.0,70.0,140,h,Wells  3PT Jump Shot (9 PTS) (Bibby 2 AST),Made Shot,Jump Shot,0,289
+20500164,289,PT05M48.00S,3,1610612751,NJN,2210,Jefferson,R. Jefferson,97,59,11,Missed,1,0.0,0.0,0,v,MISS Jefferson 11' Jump Shot,Missed Shot,Jump Shot,0,290
+20500164,290,PT05M46.00S,3,1610612758,SAC,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,h,Wells REBOUND (Off:2 Def:3),Rebound,Unknown,0,291
+20500164,291,PT05M42.00S,3,1610612751,NJN,976,McInnis,J. McInnis,0,0,0,,0,0.0,0.0,0,v,McInnis S.FOUL (P3.PN),Foul,Shooting,0,292
+20500164,292,PT05M42.00S,3,0,,1610612758,,,0,0,0,,0,0.0,0.0,0,h,KINGS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,293
+20500164,294,PT05M42.00S,3,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,SUB: Planinic FOR Jefferson,Substitution,,0,294
+20500164,296,PT05M42.00S,3,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,71.0,70.0,141,h,Martin Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,295
+20500164,297,PT05M42.00S,3,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,72.0,70.0,142,h,Martin Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,296
+20500164,298,PT05M21.00S,3,1610612751,NJN,1531,Jackson,M. Jackson,-149,100,18,Made,1,72.0,72.0,144,v,Jackson 18' Jump Shot (13 PTS) (Planinic 1 AST),Made Shot,Jump Shot,0,297
+20500164,299,PT05M08.00S,3,1610612751,NJN,2565,Planinic,Z. Planinic,0,0,0,,0,0.0,0.0,0,v,Planinic P.FOUL (P2.PN),Foul,Personal,0,298
+20500164,300,PT05M08.00S,3,1610612758,SAC,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,h,MISS Wells Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,299
+20500164,301,PT05M08.00S,3,0,,1610612758,,,0,0,0,,0,0.0,0.0,0,h,KINGS Rebound,Rebound,Normal Rebound,0,300
+20500164,302,PT05M08.00S,3,1610612758,SAC,1719,Wells,B. Wells,0,0,0,,0,73.0,72.0,145,h,Wells Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,301
+20500164,303,PT04M55.00S,3,1610612751,NJN,976,McInnis,J. McInnis,-126,143,19,Missed,1,0.0,0.0,0,v,MISS McInnis 19' Jump Shot,Missed Shot,Jump Shot,0,302
+20500164,304,PT04M53.00S,3,1610612758,SAC,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,h,Wells REBOUND (Off:2 Def:4),Rebound,Unknown,0,303
+20500164,305,PT04M37.00S,3,1610612758,SAC,2755,Martin,K. Martin,-26,100,10,Made,1,75.0,72.0,147,h,Martin 10' Jump Shot (14 PTS) (Miller 7 AST),Made Shot,Jump Shot,0,304
+20500164,306,PT04M12.00S,3,1610612751,NJN,361,Robinson,C. Robinson,84,118,14,Missed,1,0.0,0.0,0,v,MISS Robinson 14' Jump Shot,Missed Shot,Jump Shot,0,305
+20500164,307,PT04M11.00S,3,1610612758,SAC,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,h,Wells REBOUND (Off:2 Def:5),Rebound,Unknown,0,306
+20500164,308,PT04M04.00S,3,1610612758,SAC,1710,Bibby,M. Bibby,176,207,27,Missed,1,0.0,0.0,0,h,MISS Bibby 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,307
+20500164,309,PT04M02.00S,3,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin REBOUND (Off:2 Def:2),Rebound,Unknown,0,308
+20500164,310,PT04M01.00S,3,1610612758,SAC,1710,Bibby,M. Bibby,0,0,0,Made,1,77.0,72.0,149,h,Bibby  Driving Layup (14 PTS),Made Shot,Driving Layup Shot,0,309
+20500164,311,PT04M01.00S,3,1610612751,NJN,1531,Jackson,M. Jackson,0,0,0,,0,0.0,0.0,0,v,Jackson S.FOUL (P2.PN),Foul,Shooting,0,310
+20500164,312,PT04M01.00S,3,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,v,Nets Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,311
+20500164,316,PT04M01.00S,3,1610612758,SAC,1710,Bibby,M. Bibby,0,0,0,,0,78.0,72.0,150,h,Bibby Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,0,312
+20500164,317,PT03M46.00S,3,1610612751,NJN,1531,Jackson,M. Jackson,-97,28,10,Made,1,78.0,74.0,152,v,Jackson 10' Turnaround Jump Shot (15 PTS),Made Shot,Turnaround Jump Shot,0,313
+20500164,318,PT03M36.00S,3,1610612758,SAC,1802,Miller,B. Miller,0,0,0,Made,1,80.0,74.0,154,h,Miller  Driving Layup (19 PTS),Made Shot,Driving Layup Shot,0,314
+20500164,319,PT03M36.00S,3,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,v,Kidd S.FOUL (P2.PN),Foul,Shooting,0,315
+20500164,320,PT03M36.00S,3,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,81.0,74.0,155,h,Miller Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,0,316
+20500164,321,PT03M21.00S,3,1610612751,NJN,1531,Jackson,M. Jackson,-10,54,5,Missed,1,0.0,0.0,0,v,MISS Jackson 5' Hook Shot,Missed Shot,Hook Shot,0,317
+20500164,322,PT03M19.00S,3,1610612758,SAC,1710,Bibby,M. Bibby,0,0,0,,0,0.0,0.0,0,h,Bibby REBOUND (Off:0 Def:3),Rebound,Unknown,0,318
+20500164,323,PT03M15.00S,3,1610612751,NJN,976,McInnis,J. McInnis,0,0,0,,0,0.0,0.0,0,v,McInnis S.FOUL (P4.PN),Foul,Shooting,0,319
+20500164,324,PT03M15.00S,3,1610612758,SAC,1710,Bibby,M. Bibby,0,0,0,,0,82.0,74.0,156,h,Bibby Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,320
+20500164,325,PT03M15.00S,3,1610612751,NJN,976,McInnis,J. McInnis,0,0,0,,0,0.0,0.0,0,v,SUB: Vaughn FOR McInnis,Substitution,,0,321
+20500164,326,PT03M15.00S,3,1610612751,NJN,1531,Jackson,M. Jackson,0,0,0,,0,0.0,0.0,0,v,SUB: Padgett FOR Jackson,Substitution,,0,322
+20500164,327,PT03M15.00S,3,1610612758,SAC,1710,Bibby,M. Bibby,0,0,0,,0,83.0,74.0,157,h,Bibby Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,323
+20500164,328,PT02M56.00S,3,1610612751,NJN,2565,Planinic,Z. Planinic,0,0,0,Missed,1,0.0,0.0,0,v,MISS Planinic  Layup,Missed Shot,Layup Shot,0,324
+20500164,329,PT02M54.00S,3,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,0.0,0.0,0,h,Abdur-Rahim REBOUND (Off:2 Def:4),Rebound,Unknown,0,325
+20500164,330,PT02M49.00S,3,1610612751,NJN,2565,Planinic,Z. Planinic,0,0,0,,0,0.0,0.0,0,v,Planinic P.FOUL (P3.PN),Foul,Personal,0,326
+20500164,331,PT02M49.00S,3,1610612758,SAC,1719,Wells,B. Wells,0,0,0,,0,84.0,74.0,158,h,Wells Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,327
+20500164,332,PT02M49.00S,3,1610612751,NJN,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,v,SUB: Jefferson FOR Robinson,Substitution,,0,328
+20500164,333,PT02M49.00S,3,1610612751,NJN,2565,Planinic,Z. Planinic,0,0,0,,0,0.0,0.0,0,v,SUB: Krstic FOR Planinic,Substitution,,0,329
+20500164,334,PT02M49.00S,3,1610612758,SAC,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,h,MISS Wells Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,330
+20500164,335,PT02M48.00S,3,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,v,Kidd REBOUND (Off:3 Def:3),Rebound,Unknown,0,331
+20500164,336,PT02M46.00S,3,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,v,Kidd Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,332
+20500164,337,PT02M40.00S,3,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,v,Kidd P.FOUL (P3.PN),Foul,Personal,0,333
+20500164,338,PT02M40.00S,3,1610612758,SAC,1719,Wells,B. Wells,0,0,0,,0,85.0,74.0,159,h,Wells Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,334
+20500164,339,PT02M40.00S,3,1610612758,SAC,1719,Wells,B. Wells,0,0,0,,0,86.0,74.0,160,h,Wells Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,335
+20500164,340,PT02M27.00S,3,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,0.0,0.0,0,h,Abdur-Rahim S.FOUL (P2.T4),Foul,Shooting,0,336
+20500164,341,PT02M27.00S,3,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,v,MISS Kidd Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,337
+20500164,342,PT02M27.00S,3,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,v,Nets Rebound,Rebound,Normal Rebound,0,338
+20500164,343,PT02M27.00S,3,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,v,MISS Kidd Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,339
+20500164,344,PT02M26.00S,3,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,0.0,0.0,0,h,Abdur-Rahim REBOUND (Off:2 Def:5),Rebound,Unknown,0,340
+20500164,345,PT02M13.00S,3,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,0.0,0.0,0,h,Abdur-Rahim OFF.Foul (P3),Foul,Offensive,0,341
+20500164,346,PT02M13.00S,3,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,0.0,0.0,0,h,Abdur-Rahim Foul Turnover (P4.T14),Turnover,Foul,0,342
+20500164,347,PT01M57.00S,3,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,Made,1,86.0,76.0,162,v,Krstic  Dunk (15 PTS) (Jefferson 4 AST),Made Shot,Dunk Shot,0,343
+20500164,348,PT01M39.00S,3,1610612758,SAC,2755,Martin,K. Martin,0,0,0,Made,1,88.0,76.0,164,h,Martin  Layup (16 PTS) (Abdur-Rahim 3 AST),Made Shot,Layup Shot,0,344
+20500164,349,PT01M13.00S,3,1610612751,NJN,1909,Padgett,S. Padgett,-77,72,11,Missed,1,0.0,0.0,0,v,MISS Padgett 11' Jump Shot,Missed Shot,Jump Shot,0,345
+20500164,350,PT01M10.00S,3,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0.0,0.0,0,h,Miller REBOUND (Off:1 Def:5),Rebound,Unknown,0,346
+20500164,351,PT01M05.00S,3,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,Jefferson S.FOUL (P5.PN),Foul,Shooting,0,347
+20500164,352,PT01M05.00S,3,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,SUB: McInnis FOR Jefferson,Substitution,,0,348
+20500164,353,PT01M05.00S,3,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,v,SUB: Planinic FOR Kidd,Substitution,,0,349
+20500164,354,PT01M05.00S,3,1610612751,NJN,1521,Vaughn,J. Vaughn,0,0,0,,0,0.0,0.0,0,v,SUB: Murray FOR Vaughn,Substitution,,0,350
+20500164,355,PT01M05.00S,3,1610612758,SAC,1710,Bibby,M. Bibby,0,0,0,,0,89.0,76.0,165,h,Bibby Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,351
+20500164,356,PT01M05.00S,3,1610612758,SAC,1710,Bibby,M. Bibby,0,0,0,,0,90.0,76.0,166,h,Bibby Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,352
+20500164,357,PT00M41.90S,3,1610612751,NJN,2565,Planinic,Z. Planinic,-195,153,25,Missed,1,0.0,0.0,0,v,MISS Planinic 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,353
+20500164,358,PT00M39.80S,3,1610612758,SAC,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,h,Wells REBOUND (Off:2 Def:6),Rebound,Unknown,0,354
+20500164,359,PT00M24.50S,3,1610612751,NJN,1909,Padgett,S. Padgett,0,0,0,,0,0.0,0.0,0,v,Padgett S.FOUL (P1.PN),Foul,Shooting,0,355
+20500164,360,PT00M24.50S,3,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,91.0,76.0,167,h,Abdur-Rahim Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,356
+20500164,361,PT00M24.50S,3,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,92.0,76.0,168,h,Abdur-Rahim Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,357
+20500164,362,PT00M05.90S,3,1610612751,NJN,976,McInnis,J. McInnis,-25,56,6,Made,1,92.0,78.0,170,v,McInnis 6' Jump Hook Shot (10 PTS),Made Shot,Jump Hook Shot,0,358
+20500164,363,PT00M00.10S,3,1610612758,SAC,1719,Wells,B. Wells,149,99,18,Made,1,94.0,78.0,172,h,Wells 18' Jump Shot (15 PTS),Made Shot,Jump Shot,0,359
+20500164,365,PT00M00.00S,3,0,,0,,,0,0,0,,0,94.0,78.0,172,,Instant Replay3rd Period (12:01 PM EST),Instant Replay,Support Ruling,0,360
+20500164,366,PT00M00.00S,3,0,,0,,,0,0,0,,0,94.0,78.0,172,,End of 3rd Period (12:01 PM EST),period,end,0,361
+20500164,368,PT12M00.00S,4,0,,0,,,0,0,0,,0,94.0,78.0,172,,Start of 4th Period (12:03 PM EST),period,start,0,362
+20500164,369,PT11M47.00S,4,1610612751,NJN,2420,Krstic,N. Krstic,24,49,5,Missed,1,0.0,0.0,0,v,MISS Krstic 5' Hook Shot,Missed Shot,Hook Shot,0,363
+20500164,370,PT11M45.00S,4,1610612758,SAC,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,h,Wells REBOUND (Off:2 Def:7),Rebound,Unknown,0,364
+20500164,371,PT11M28.00S,4,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,0.0,0.0,0,h,Abdur-Rahim Lost Ball Turnover (P5.T15),Turnover,Lost Ball,0,365
+20500164,371,PT11M28.00S,4,1610612751,NJN,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson STEAL (3 STL),,,0,366
+20500164,372,PT11M18.00S,4,1610612751,NJN,361,Robinson,C. Robinson,-108,146,18,Missed,1,0.0,0.0,0,v,MISS Robinson 18' Jump Shot,Missed Shot,Jump Shot,0,367
+20500164,373,PT11M15.00S,4,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin REBOUND (Off:2 Def:3),Rebound,Unknown,0,368
+20500164,374,PT11M12.00S,4,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,Made,1,96.0,78.0,174,h,Abdur-Rahim  Dunk (14 PTS) (Martin 2 AST),Made Shot,Dunk Shot,0,369
+20500164,375,PT11M02.00S,4,1610612751,NJN,976,McInnis,J. McInnis,0,0,0,,0,0.0,0.0,0,v,McInnis Bad Pass Turnover (P3.T13),Turnover,Bad Pass,0,370
+20500164,375,PT11M02.00S,4,1610612758,SAC,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,h,Wells STEAL (5 STL),,,0,371
+20500164,376,PT10M52.00S,4,1610612751,NJN,976,McInnis,J. McInnis,0,0,0,,0,0.0,0.0,0,v,McInnis P.FOUL (P5.T1),Foul,Personal,0,372
+20500164,377,PT10M43.00S,4,1610612758,SAC,1710,Bibby,M. Bibby,186,117,22,Missed,1,0.0,0.0,0,h,MISS Bibby 22' Jump Shot,Missed Shot,Jump Shot,0,373
+20500164,378,PT10M41.00S,4,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,v,Kidd REBOUND (Off:3 Def:4),Rebound,Unknown,0,374
+20500164,379,PT10M36.00S,4,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,v,Kidd Bad Pass Turnover (P2.T14),Turnover,Bad Pass,0,375
+20500164,379,PT10M36.00S,4,1610612758,SAC,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,h,Wells STEAL (6 STL),,,0,376
+20500164,380,PT10M32.00S,4,1610612758,SAC,1719,Wells,B. Wells,0,0,0,Made,1,98.0,78.0,176,h,Wells  Driving Dunk (17 PTS),Made Shot,Driving Dunk Shot,0,377
+20500164,381,PT10M24.00S,4,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,v,Nets Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,378
+20500164,385,PT10M14.00S,4,1610612751,NJN,976,McInnis,J. McInnis,0,0,0,,0,0.0,0.0,0,v,McInnis Bad Pass Turnover (P4.T15),Turnover,Bad Pass,0,379
+20500164,385,PT10M14.00S,4,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin STEAL (1 STL),,,0,380
+20500164,386,PT10M09.00S,4,1610612758,SAC,2755,Martin,K. Martin,0,0,0,Made,1,100.0,78.0,178,h,Martin  Driving Dunk (18 PTS),Made Shot,Driving Dunk Shot,0,381
+20500164,387,PT09M56.00S,4,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0.0,0.0,0,h,Miller Violation:Kicked Ball,Violation,Kicked Ball,0,382
+20500164,388,PT09M56.00S,4,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,v,SUB: Planinic FOR Kidd,Substitution,,0,383
+20500164,389,PT09M44.00S,4,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0.0,0.0,0,h,Miller P.FOUL (P3.T1),Foul,Personal,0,384
+20500164,390,PT09M44.00S,4,1610612751,NJN,361,Robinson,C. Robinson,0,0,0,,0,100.0,79.0,179,v,Robinson Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,385
+20500164,394,PT09M44.00S,4,1610612751,NJN,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,v,SUB: Jefferson FOR Murray,Substitution,,0,386
+20500164,391,PT09M44.00S,4,1610612751,NJN,361,Robinson,C. Robinson,0,0,0,,0,100.0,80.0,180,v,Robinson Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,387
+20500164,392,PT09M28.00S,4,1610612758,SAC,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,h,Wells Bad Pass Turnover (P3.T16),Turnover,Bad Pass,0,388
+20500164,392,PT09M28.00S,4,1610612751,NJN,2565,Planinic,Z. Planinic,0,0,0,,0,0.0,0.0,0,v,Planinic STEAL (1 STL),,,0,389
+20500164,393,PT09M25.00S,4,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0.0,0.0,0,h,Miller S.FOUL (P4.T2),Foul,Shooting,0,390
+20500164,395,PT09M25.00S,4,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,100.0,81.0,181,v,Jefferson Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,391
+20500164,396,PT09M25.00S,4,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,100.0,82.0,182,v,Jefferson Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,392
+20500164,398,PT09M01.00S,4,1610612758,SAC,1802,Miller,B. Miller,0,0,0,Missed,1,0.0,0.0,0,h,MISS Miller  Layup,Missed Shot,Layup Shot,0,393
+20500164,398,PT09M01.00S,4,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,0.0,0.0,0,v,Krstic BLOCK (2 BLK),,,0,394
+20500164,399,PT08M58.00S,4,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,0.0,0.0,0,v,Krstic REBOUND (Off:2 Def:2),Rebound,Unknown,0,395
+20500164,400,PT08M50.00S,4,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,0.0,0.0,0,h,Abdur-Rahim S.FOUL (P4.T3),Foul,Shooting,0,396
+20500164,401,PT08M50.00S,4,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,100.0,83.0,183,v,Krstic Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,397
+20500164,402,PT08M50.00S,4,1610612758,SAC,949,Abdur-Rahim,S. Abdur-Rahim,0,0,0,,0,0.0,0.0,0,h,SUB: Thomas FOR Abdur-Rahim,Substitution,,0,398
+20500164,403,PT08M50.00S,4,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,100.0,84.0,184,v,Krstic Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,399
+20500164,404,PT08M39.00S,4,1610612758,SAC,1719,Wells,B. Wells,0,0,0,Made,1,102.0,84.0,186,h,Wells  Dunk (19 PTS) (Miller 8 AST),Made Shot,Dunk Shot,0,400
+20500164,405,PT08M09.00S,4,1610612751,NJN,2420,Krstic,N. Krstic,156,5,16,Made,1,102.0,86.0,188,v,Krstic 16' Jump Shot (19 PTS) (McInnis 4 AST),Made Shot,Jump Shot,0,401
+20500164,406,PT07M51.00S,4,1610612758,SAC,1710,Bibby,M. Bibby,-228,8,0,Made,1,105.0,86.0,191,h,Bibby  3PT Jump Shot (22 PTS) (Martin 3 AST),Made Shot,Jump Shot,0,402
+20500164,407,PT07M28.00S,4,1610612751,NJN,2565,Planinic,Z. Planinic,-195,161,25,Missed,1,0.0,0.0,0,v,MISS Planinic 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,403
+20500164,408,PT07M26.00S,4,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0.0,0.0,0,h,Miller REBOUND (Off:1 Def:6),Rebound,Unknown,0,404
+20500164,409,PT07M17.00S,4,1610612758,SAC,1710,Bibby,M. Bibby,0,0,0,,0,0.0,0.0,0,h,Bibby Poss Lost Ball Turnover (P2.T17),Turnover,Poss Lost Ball Turnover,0,405
+20500164,410,PT07M02.00S,4,1610612751,NJN,976,McInnis,J. McInnis,133,138,19,Missed,1,0.0,0.0,0,v,MISS McInnis 19' Jump Shot,Missed Shot,Jump Shot,0,406
+20500164,411,PT07M00.00S,4,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin REBOUND (Off:2 Def:4),Rebound,Unknown,0,407
+20500164,412,PT06M39.00S,4,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,0.0,0.0,0,v,Krstic Violation:Kicked Ball,Violation,Kicked Ball,0,408
+20500164,413,PT06M39.00S,4,0,,1610612758,,,0,0,0,,0,0.0,0.0,0,h,KINGS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,409
+20500164,419,PT06M39.00S,4,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,0.0,0.0,0,v,SUB: Jackson FOR Krstic,Substitution,,0,410
+20500164,420,PT06M25.00S,4,0,,1610612758,,,0,0,0,,0,0.0,0.0,0,h,KINGS Turnover: Shot Clock (T#18),Turnover,Shot Clock Turnover,0,411
+20500164,421,PT06M13.00S,4,1610612751,NJN,1531,Jackson,M. Jackson,149,5,15,Made,1,105.0,88.0,193,v,Jackson 15' Jump Shot (17 PTS) (Jefferson 5 AST),Made Shot,Jump Shot,0,412
+20500164,422,PT05M46.00S,4,1610612758,SAC,1710,Bibby,M. Bibby,-228,5,0,Missed,1,0.0,0.0,0,h,MISS Bibby  3PT Jump Shot,Missed Shot,Jump Shot,0,413
+20500164,423,PT05M46.00S,4,0,,1610612758,,,0,0,0,,0,0.0,0.0,0,h,KINGS Rebound,Rebound,Unknown,0,414
+20500164,424,PT05M46.00S,4,0,,1610612758,,,0,0,0,,0,0.0,0.0,0,h,KINGS Turnover: Shot Clock (T#19),Turnover,Shot Clock Turnover,0,415
+20500164,425,PT05M46.00S,4,1610612751,NJN,976,McInnis,J. McInnis,0,0,0,,0,0.0,0.0,0,v,SUB: Vaughn FOR McInnis,Substitution,,0,416
+20500164,426,PT05M30.00S,4,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,Made,1,105.0,90.0,195,v,Jefferson  Driving Dunk (16 PTS),Made Shot,Driving Dunk Shot,0,417
+20500164,427,PT05M10.00S,4,1610612758,SAC,1710,Bibby,M. Bibby,238,10,24,Made,1,108.0,90.0,198,h,Bibby 24' 3PT Jump Shot (25 PTS) (Miller 9 AST),Made Shot,Jump Shot,0,418
+20500164,428,PT04M47.00S,4,1610612751,NJN,2565,Planinic,Z. Planinic,0,0,0,Made,1,108.0,92.0,200,v,Planinic  Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,419
+20500164,429,PT04M35.00S,4,1610612758,SAC,1719,Wells,B. Wells,-135,173,22,Missed,1,0.0,0.0,0,h,MISS Wells 22' Jump Shot,Missed Shot,Jump Shot,0,420
+20500164,430,PT04M32.00S,4,1610612751,NJN,1531,Jackson,M. Jackson,0,0,0,,0,0.0,0.0,0,v,Jackson REBOUND (Off:1 Def:4),Rebound,Unknown,0,421
+20500164,431,PT04M23.00S,4,1610612751,NJN,1521,Vaughn,J. Vaughn,166,0,17,Made,1,108.0,94.0,202,v,Vaughn 17' Jump Shot (2 PTS) (Planinic 2 AST),Made Shot,Jump Shot,0,422
+20500164,432,PT04M02.00S,4,1610612758,SAC,1710,Bibby,M. Bibby,-125,156,20,Missed,1,0.0,0.0,0,h,MISS Bibby 20' Jump Shot,Missed Shot,Jump Shot,0,423
+20500164,433,PT03M59.00S,4,1610612751,NJN,2565,Planinic,Z. Planinic,0,0,0,,0,0.0,0.0,0,v,Planinic REBOUND (Off:0 Def:1),Rebound,Unknown,0,424
+20500164,434,PT03M45.00S,4,1610612751,NJN,2565,Planinic,Z. Planinic,133,49,14,Made,1,108.0,96.0,204,v,Planinic 14' Jump Bank Shot (8 PTS),Made Shot,Jump Bank Shot,0,425
+20500164,435,PT03M23.00S,4,1610612758,SAC,1719,Wells,B. Wells,26,71,8,Made,1,110.0,96.0,206,h,Wells 8' Finger Roll (21 PTS),Made Shot,Finger Roll Shot,0,426
+20500164,436,PT02M57.00S,4,1610612751,NJN,2565,Planinic,Z. Planinic,0,260,26,Missed,1,0.0,0.0,0,v,MISS Planinic 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,427
+20500164,437,PT02M55.00S,4,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin REBOUND (Off:2 Def:5),Rebound,Unknown,0,428
+20500164,438,PT02M36.00S,4,1610612758,SAC,1719,Wells,B. Wells,-177,10,18,Missed,1,0.0,0.0,0,h,MISS Wells 18' Jump Shot,Missed Shot,Jump Shot,0,429
+20500164,439,PT02M34.00S,4,1610612751,NJN,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson REBOUND (Off:1 Def:3),Rebound,Unknown,0,430
+20500164,440,PT02M30.00S,4,1610612751,NJN,1531,Jackson,M. Jackson,0,0,0,Made,1,110.0,98.0,208,v,Jackson  Layup (19 PTS) (Jefferson 6 AST),Made Shot,Layup Shot,0,431
+20500164,441,PT02M05.00S,4,1610612758,SAC,1719,Wells,B. Wells,0,41,4,Made,1,112.0,98.0,210,h,Wells 4' Jump Shot (23 PTS) (Miller 10 AST),Made Shot,Jump Shot,0,432
+20500164,442,PT01M58.00S,4,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,v,Nets Timeout: Regular (Reg.5 Short 1),Timeout,Regular,0,433
+20500164,446,PT01M58.00S,4,1610612758,SAC,1710,Bibby,M. Bibby,0,0,0,,0,0.0,0.0,0,h,SUB: Price FOR Bibby,Substitution,,0,434
+20500164,444,PT01M58.00S,4,1610612758,SAC,1802,Miller,B. Miller,0,0,0,,0,0.0,0.0,0,h,SUB: Hart FOR Miller,Substitution,,0,435
+20500164,445,PT01M58.00S,4,1610612758,SAC,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,h,SUB: Garcia FOR Wells,Substitution,,0,436
+20500164,447,PT01M58.00S,4,1610612758,SAC,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,SUB: Skinner FOR Martin,Substitution,,0,437
+20500164,448,PT01M58.00S,4,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,SUB: Wright FOR Jefferson,Substitution,,0,438
+20500164,449,PT01M58.00S,4,1610612751,NJN,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,v,SUB: Johnson FOR Robinson,Substitution,,0,439
+20500164,450,PT01M58.00S,4,1610612751,NJN,2565,Planinic,Z. Planinic,0,0,0,,0,0.0,0.0,0,v,SUB: Murray FOR Planinic,Substitution,,0,440
+20500164,451,PT01M50.00S,4,1610612751,NJN,441,Murray,L. Murray,-20,156,16,Missed,1,0.0,0.0,0,v,MISS Murray 16' Jump Shot,Missed Shot,Jump Shot,0,441
+20500164,453,PT01M49.00S,4,1610612751,NJN,1531,Jackson,M. Jackson,0,0,0,,0,0.0,0.0,0,v,Jackson REBOUND (Off:2 Def:4),Rebound,Unknown,0,442
+20500164,452,PT01M49.00S,4,1610612751,NJN,1531,Jackson,M. Jackson,0,0,0,Missed,1,0.0,0.0,0,v,MISS Jackson  Tip Shot,Missed Shot,Tip Shot,0,443
+20500164,455,PT01M48.00S,4,1610612751,NJN,1531,Jackson,M. Jackson,0,0,0,,0,0.0,0.0,0,v,Jackson REBOUND (Off:3 Def:4),Rebound,Unknown,0,444
+20500164,454,PT01M48.00S,4,1610612751,NJN,1531,Jackson,M. Jackson,0,0,0,Made,1,112.0,100.0,212,v,Jackson  Layup (21 PTS),Made Shot,Layup Shot,0,445
+20500164,456,PT01M33.00S,4,1610612758,SAC,101128,Garcia,F. Garcia,-123,123,17,Missed,1,0.0,0.0,0,h,MISS Garcia 17' Jump Shot,Missed Shot,Jump Shot,0,446
+20500164,457,PT01M30.00S,4,1610612751,NJN,1531,Jackson,M. Jackson,0,0,0,,0,0.0,0.0,0,v,Jackson REBOUND (Off:3 Def:5),Rebound,Unknown,0,447
+20500164,458,PT01M21.00S,4,1610612758,SAC,101128,Garcia,F. Garcia,0,0,0,,0,0.0,0.0,0,h,Garcia S.FOUL (P5.T4),Foul,Shooting,0,448
+20500164,459,PT01M21.00S,4,1610612751,NJN,441,Murray,L. Murray,0,0,0,,0,112.0,101.0,213,v,Murray Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,449
+20500164,460,PT01M21.00S,4,1610612751,NJN,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,v,MISS Murray Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,450
+20500164,463,PT01M21.00S,4,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,v,Nets Rebound,Rebound,Unknown,0,451
+20500164,462,PT01M21.00S,4,1610612751,NJN,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,v,Murray Lane Violation Turnover (P1.T16),Turnover,Lane Violation,0,452
+20500164,464,PT01M13.00S,4,1610612751,NJN,2669,Johnson,L. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson P.FOUL (P1.T2),Foul,Personal,0,453
+20500164,465,PT00M56.90S,4,1610612758,SAC,2078,Hart,J. Hart,-82,30,9,Missed,1,0.0,0.0,0,h,MISS Hart 9' Jump Shot,Missed Shot,Jump Shot,0,454
+20500164,466,PT00M54.90S,4,1610612751,NJN,1531,Jackson,M. Jackson,0,0,0,,0,0.0,0.0,0,v,Jackson REBOUND (Off:3 Def:6),Rebound,Unknown,0,455
+20500164,467,PT00M41.80S,4,1610612751,NJN,101120,Wright,A. Wright,0,0,0,Made,1,112.0,103.0,215,v,Wright  Reverse Layup (2 PTS) (Jackson 2 AST),Made Shot,Reverse Layup Shot,0,456
+20500164,469,PT00M19.90S,4,1610612758,SAC,1903,Thomas,K. Thomas,-169,72,18,Missed,1,0.0,0.0,0,h,MISS Thomas 18' Jump Shot,Missed Shot,Jump Shot,0,457
+20500164,470,PT00M17.70S,4,1610612758,SAC,2078,Hart,J. Hart,0,0,0,,0,0.0,0.0,0,h,Hart REBOUND (Off:1 Def:0),Rebound,Unknown,0,458
+20500164,471,PT00M16.50S,4,1610612751,NJN,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,v,Murray L.B.FOUL (P2.PN),Foul,Loose Ball,0,459
+20500164,472,PT00M16.50S,4,1610612758,SAC,2078,Hart,J. Hart,0,0,0,,0,113.0,103.0,216,h,Hart Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,460
+20500164,473,PT00M16.50S,4,1610612758,SAC,2078,Hart,J. Hart,0,0,0,,0,114.0,103.0,217,h,Hart Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,461
+20500164,474,PT00M09.40S,4,1610612751,NJN,2669,Johnson,L. Johnson,0,0,0,Made,1,114.0,105.0,219,v,Johnson  Layup (2 PTS) (Jackson 3 AST),Made Shot,Layup Shot,0,462
+20500164,475,PT00M00.00S,4,0,,0,,,0,0,0,,0,114.0,105.0,219,,End of 4th Period (12:29 PM EST),period,end,0,463

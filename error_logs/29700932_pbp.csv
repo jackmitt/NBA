@@ -1,0 +1,462 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+29700932,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (10:13 PM EST),period,start,0,1
+29700932,1,PT12M00.00S,1,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,h,Jump Ball Robinson vs. Johnson: Tip to Duncan,Jump Ball,,0,2
+29700932,2,PT11M53.00S,1,1610612759,SAS,764,Robinson,D. Robinson,111,-8,11,Missed,1,0.0,0.0,0,h,MISS Robinson 11' Jump Shot,Missed Shot,Jump Shot,0,3
+29700932,3,PT11M51.00S,1,1610612749,MIL,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,v,Allen REBOUND (Off:0 Def:1),Rebound,Unknown,0,4
+29700932,4,PT11M51.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,h,Duncan P.FOUL (P1.T1),Foul,Personal,0,5
+29700932,5,PT11M42.00S,1,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,h,SPURS Violation: Def. Goaltending Violation,Violation,Defensive Goaltending,0,6
+29700932,6,PT11M32.00S,1,1610612749,MIL,911,Johnson,E. Johnson,14,-1,1,Missed,1,0.0,0.0,0,v,MISS Johnson 1' Layup,Missed Shot,Layup Shot,0,7
+29700932,6,PT11M32.00S,1,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson BLOCK (1 BLK),,,0,8
+29700932,7,PT11M32.00S,1,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,v,Bucks Rebound,Rebound,Unknown,0,9
+29700932,8,PT11M25.00S,1,1610612749,MIL,288,Gilliam,A. Gilliam,-147,36,15,Made,1,0.0,2.0,2,v,Gilliam 15' Jump Shot (2 PTS) (Johnson 1 AST),Made Shot,Jump Shot,0,10
+29700932,9,PT11M09.00S,1,1610612759,SAS,456,Person,C. Person,196,158,25,Missed,1,0.0,0.0,0,h,MISS Person 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,11
+29700932,10,PT11M07.00S,1,1610612749,MIL,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,v,Allen REBOUND (Off:0 Def:2),Rebound,Unknown,0,12
+29700932,11,PT11M02.00S,1,1610612749,MIL,951,Allen,R. Allen,-83,126,15,Made,1,0.0,4.0,4,v,Allen 15' Jump Shot (2 PTS),Made Shot,Jump Shot,0,13
+29700932,12,PT10M47.00S,1,1610612759,SAS,219,Del Negro,V. Del Negro,-38,3,4,Missed,1,0.0,0.0,0,h,MISS Del Negro 4' Jump Shot,Missed Shot,Jump Shot,0,14
+29700932,14,PT10M45.00S,1,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson REBOUND (Off:1 Def:0),Rebound,Unknown,0,15
+29700932,13,PT10M45.00S,1,1610612759,SAS,764,Robinson,D. Robinson,-14,3,1,Made,1,2.0,4.0,6,h,Robinson 1' Tip Shot (2 PTS),Made Shot,Tip Shot,0,16
+29700932,15,PT10M33.00S,1,1610612749,MIL,688,Curry,M. Curry,184,48,19,Made,1,2.0,6.0,8,v,Curry 19' Jump Shot (2 PTS) (Allen 1 AST),Made Shot,Jump Shot,0,17
+29700932,16,PT10M23.00S,1,1610612759,SAS,764,Robinson,D. Robinson,14,3,1,Made,1,4.0,6.0,10,h,Robinson 1' Layup (4 PTS) (Del Negro 1 AST),Made Shot,Layup Shot,0,18
+29700932,17,PT10M00.00S,1,1610612749,MIL,911,Johnson,E. Johnson,147,0,15,Missed,1,0.0,0.0,0,v,MISS Johnson 15' Jump Shot,Missed Shot,Jump Shot,0,19
+29700932,18,PT09M58.00S,1,1610612759,SAS,219,Del Negro,V. Del Negro,0,0,0,,0,0.0,0.0,0,h,Del Negro REBOUND (Off:0 Def:1),Rebound,Unknown,0,20
+29700932,19,PT09M50.00S,1,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson P.FOUL (P1.T1),Foul,Personal,0,21
+29700932,20,PT09M39.00S,1,1610612759,SAS,219,Del Negro,V. Del Negro,5,27,3,Made,1,6.0,6.0,12,h,Del Negro 3' Layup (2 PTS) (Johnson 1 AST),Made Shot,Layup Shot,0,22
+29700932,21,PT09M22.00S,1,1610612749,MIL,951,Allen,R. Allen,173,10,17,Made,1,6.0,8.0,14,v,Allen 17' Jump Shot (4 PTS) (Perry 1 AST),Made Shot,Jump Shot,0,23
+29700932,22,PT08M51.00S,1,1610612759,SAS,764,Robinson,D. Robinson,18,10,2,Made,1,8.0,8.0,16,h,Robinson 2' Driving Layup (6 PTS) (Johnson 2 AST),Made Shot,Driving Layup Shot,0,24
+29700932,23,PT08M29.00S,1,1610612749,MIL,288,Gilliam,A. Gilliam,-61,16,6,Made,1,8.0,10.0,18,v,Gilliam 6' Jump Shot (4 PTS),Made Shot,Jump Shot,0,25
+29700932,24,PT08M14.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,74,25,8,Missed,1,0.0,0.0,0,h,MISS Duncan 8' Jump Shot,Missed Shot,Jump Shot,0,26
+29700932,25,PT08M12.00S,1,1610612749,MIL,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,v,Allen REBOUND (Off:0 Def:3),Rebound,Unknown,0,27
+29700932,26,PT07M54.00S,1,1610612749,MIL,386,Perry,E. Perry,0,0,0,,0,0.0,0.0,0,v,Perry Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,28
+29700932,26,PT07M54.00S,1,1610612759,SAS,456,Person,C. Person,0,0,0,,0,0.0,0.0,0,h,Person STEAL (1 STL),,,0,29
+29700932,27,PT07M47.00S,1,1610612759,SAS,219,Del Negro,V. Del Negro,-126,12,13,Missed,1,0.0,0.0,0,h,MISS Del Negro 13' Jump Shot,Missed Shot,Jump Shot,0,30
+29700932,28,PT07M46.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,h,Duncan REBOUND (Off:1 Def:0),Rebound,Unknown,0,31
+29700932,29,PT07M36.00S,1,1610612759,SAS,422,Johnson,A. Johnson,5,12,1,Made,1,10.0,10.0,20,h,Johnson 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,32
+29700932,30,PT07M18.00S,1,1610612749,MIL,386,Perry,E. Perry,0,0,0,,0,0.0,0.0,0,v,Perry Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,33
+29700932,30,PT07M18.00S,1,1610612759,SAS,422,Johnson,A. Johnson,0,0,0,,0,0.0,0.0,0,h,Johnson STEAL (1 STL),,,0,34
+29700932,31,PT07M11.00S,1,1610612759,SAS,219,Del Negro,V. Del Negro,-104,8,10,Missed,1,0.0,0.0,0,h,MISS Del Negro 10' Jump Shot,Missed Shot,Jump Shot,0,35
+29700932,32,PT07M09.00S,1,1610612749,MIL,288,Gilliam,A. Gilliam,0,0,0,,0,0.0,0.0,0,v,Gilliam REBOUND (Off:0 Def:1),Rebound,Unknown,0,36
+29700932,33,PT07M03.00S,1,1610612749,MIL,386,Perry,E. Perry,-128,166,21,Missed,1,0.0,0.0,0,v,MISS Perry 21' Jump Shot,Missed Shot,Jump Shot,0,37
+29700932,34,PT06M59.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,h,Duncan REBOUND (Off:1 Def:1),Rebound,Unknown,0,38
+29700932,35,PT06M51.00S,1,1610612749,MIL,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,v,Allen P.FOUL (P1.T2),Foul,Personal,0,39
+29700932,36,PT06M51.00S,1,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,h,SPURS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,40
+29700932,38,PT06M46.00S,1,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,v,Bucks Violation: Def. Goaltending Violation,Violation,Defensive Goaltending,0,41
+29700932,39,PT06M37.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,3,55,6,Missed,1,0.0,0.0,0,h,MISS Duncan 6' Jump Shot,Missed Shot,Jump Shot,0,42
+29700932,40,PT06M35.00S,1,1610612749,MIL,688,Curry,M. Curry,0,0,0,,0,0.0,0.0,0,v,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,0,43
+29700932,41,PT06M20.00S,1,1610612749,MIL,386,Perry,E. Perry,-8,194,19,Missed,1,0.0,0.0,0,v,MISS Perry 19' Jump Shot,Missed Shot,Jump Shot,0,44
+29700932,42,PT06M16.00S,1,1610612759,SAS,456,Person,C. Person,0,0,0,,0,0.0,0.0,0,h,Person REBOUND (Off:0 Def:1),Rebound,Unknown,0,45
+29700932,43,PT06M06.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,h,Duncan Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,46
+29700932,43,PT06M06.00S,1,1610612749,MIL,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,v,Allen STEAL (1 STL),,,0,47
+29700932,44,PT06M00.00S,1,1610612749,MIL,951,Allen,R. Allen,72,16,7,Missed,1,0.0,0.0,0,v,MISS Allen 7' Jump Shot,Missed Shot,Jump Shot,0,48
+29700932,45,PT05M58.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,h,Duncan REBOUND (Off:1 Def:2),Rebound,Unknown,0,49
+29700932,46,PT05M55.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,h,Duncan Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,50
+29700932,46,PT05M55.00S,1,1610612749,MIL,386,Perry,E. Perry,0,0,0,,0,0.0,0.0,0,v,Perry STEAL (1 STL),,,0,51
+29700932,47,PT05M53.00S,1,1610612749,MIL,288,Gilliam,A. Gilliam,0,0,0,,0,0.0,0.0,0,v,Gilliam Out Of Bounds Turnover (P1.T3),Turnover,Out Of Bounds,0,52
+29700932,48,PT05M37.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,-18,63,7,Missed,1,0.0,0.0,0,h,MISS Duncan 7' Jump Shot,Missed Shot,Jump Shot,0,53
+29700932,49,PT05M35.00S,1,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,h,SPURS Rebound,Rebound,Unknown,0,54
+29700932,50,PT05M22.00S,1,1610612759,SAS,456,Person,C. Person,14,254,25,Missed,1,0.0,0.0,0,h,MISS Person 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,55
+29700932,51,PT05M19.00S,1,1610612749,MIL,386,Perry,E. Perry,0,0,0,,0,0.0,0.0,0,v,Perry REBOUND (Off:0 Def:1),Rebound,Unknown,0,56
+29700932,52,PT05M09.00S,1,1610612749,MIL,688,Curry,M. Curry,-162,126,21,Missed,1,0.0,0.0,0,v,MISS Curry 21' Jump Shot,Missed Shot,Jump Shot,0,57
+29700932,53,PT05M05.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,h,Duncan REBOUND (Off:1 Def:3),Rebound,Unknown,0,58
+29700932,54,PT05M01.00S,1,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,59
+29700932,54,PT05M01.00S,1,1610612749,MIL,288,Gilliam,A. Gilliam,0,0,0,,0,0.0,0.0,0,v,Gilliam STEAL (1 STL),,,0,60
+29700932,55,PT04M54.00S,1,1610612759,SAS,456,Person,C. Person,0,0,0,,0,0.0,0.0,0,h,Person S.FOUL (P1.T2),Foul,Shooting,0,61
+29700932,56,PT04M54.00S,1,1610612749,MIL,688,Curry,M. Curry,0,0,0,,0,10.0,11.0,21,v,Curry Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,62
+29700932,57,PT04M54.00S,1,1610612749,MIL,688,Curry,M. Curry,0,0,0,,0,10.0,12.0,22,v,Curry Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,63
+29700932,58,PT04M42.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,h,Duncan Bad Pass Turnover (P3.T4),Turnover,Bad Pass,0,64
+29700932,58,PT04M42.00S,1,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson STEAL (1 STL),,,0,65
+29700932,59,PT04M34.00S,1,1610612749,MIL,951,Allen,R. Allen,20,8,2,Made,1,10.0,14.0,24,v,Allen 2' Layup (6 PTS),Made Shot,Layup Shot,0,66
+29700932,61,PT04M22.00S,1,1610612759,SAS,764,Robinson,D. Robinson,-10,1,1,Missed,1,0.0,0.0,0,h,MISS Robinson 1' Layup,Missed Shot,Layup Shot,0,67
+29700932,61,PT04M22.00S,1,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson BLOCK (1 BLK),,,0,68
+29700932,62,PT04M22.00S,1,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,h,Jump Ball Robinson vs. Johnson: Tip to Johnson,Jump Ball,,0,69
+29700932,63,PT04M22.00S,1,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,h,SPURS Rebound,Rebound,Unknown,0,70
+29700932,64,PT04M12.00S,1,1610612759,SAS,764,Robinson,D. Robinson,16,18,2,Made,1,12.0,14.0,26,h,Robinson 2' Layup (8 PTS) (Johnson 3 AST),Made Shot,Layup Shot,0,71
+29700932,65,PT04M12.00S,1,1610612749,MIL,288,Gilliam,A. Gilliam,0,0,0,,0,0.0,0.0,0,v,Gilliam S.FOUL (P1.T3),Foul,Shooting,0,72
+29700932,66,PT04M12.00S,1,1610612759,SAS,219,Del Negro,V. Del Negro,0,0,0,,0,0.0,0.0,0,h,SUB: Jackson FOR Del Negro,Substitution,,0,73
+29700932,67,PT04M12.00S,1,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,h,MISS Robinson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,74
+29700932,68,PT04M12.00S,1,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,0,75
+29700932,69,PT03M59.00S,1,1610612749,MIL,951,Allen,R. Allen,-106,147,18,Missed,1,0.0,0.0,0,v,MISS Allen 18' Jump Shot,Missed Shot,Jump Shot,0,76
+29700932,70,PT03M56.00S,1,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson REBOUND (Off:1 Def:1),Rebound,Unknown,0,77
+29700932,71,PT03M49.00S,1,1610612759,SAS,422,Johnson,A. Johnson,-1,27,3,Missed,1,0.0,0.0,0,h,MISS Johnson 3' Layup,Missed Shot,Layup Shot,0,78
+29700932,73,PT03M48.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,h,Duncan REBOUND (Off:2 Def:3),Rebound,Unknown,0,79
+29700932,72,PT03M48.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,-6,1,1,Made,1,14.0,14.0,28,h,Duncan 1' Tip Shot (2 PTS),Made Shot,Tip Shot,0,80
+29700932,74,PT03M30.00S,1,1610612749,MIL,288,Gilliam,A. Gilliam,-21,31,4,Missed,1,0.0,0.0,0,v,MISS Gilliam 4' Jump Shot,Missed Shot,Jump Shot,0,81
+29700932,76,PT03M27.00S,1,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson REBOUND (Off:1 Def:1),Rebound,Unknown,0,82
+29700932,77,PT03M27.00S,1,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson Violation:Lane,Violation,Lane,0,83
+29700932,75,PT03M27.00S,1,1610612749,MIL,911,Johnson,E. Johnson,16,5,2,Made,1,14.0,16.0,30,v,Johnson 2' Layup (2 PTS),Made Shot,Layup Shot,0,84
+29700932,78,PT03M16.00S,1,1610612759,SAS,1114,Jackson,J. Jackson,-119,134,18,Made,1,16.0,16.0,32,h,Jackson 18' Jump Shot (2 PTS) (Johnson 4 AST),Made Shot,Jump Shot,0,85
+29700932,79,PT02M59.00S,1,1610612749,MIL,951,Allen,R. Allen,-151,57,16,Missed,1,0.0,0.0,0,v,MISS Allen 16' Jump Shot,Missed Shot,Jump Shot,0,86
+29700932,80,PT02M56.00S,1,1610612759,SAS,456,Person,C. Person,0,0,0,,0,0.0,0.0,0,h,Person REBOUND (Off:0 Def:2),Rebound,Unknown,0,87
+29700932,81,PT02M43.00S,1,1610612759,SAS,1114,Jackson,J. Jackson,-48,248,25,Missed,1,0.0,0.0,0,h,MISS Jackson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,88
+29700932,82,PT02M41.00S,1,1610612759,SAS,422,Johnson,A. Johnson,0,0,0,,0,0.0,0.0,0,h,Johnson REBOUND (Off:1 Def:0),Rebound,Unknown,0,89
+29700932,83,PT02M41.00S,1,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,v,Bucks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,90
+29700932,85,PT02M41.00S,1,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,h,SUB: Herrera FOR Duncan,Substitution,,0,91
+29700932,86,PT02M41.00S,1,1610612759,SAS,456,Person,C. Person,0,0,0,,0,0.0,0.0,0,h,SUB: Rose FOR Person,Substitution,,0,92
+29700932,87,PT02M31.00S,1,1610612759,SAS,61,Herrera,C. Herrera,0,0,0,,0,0.0,0.0,0,h,Herrera Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,93
+29700932,87,PT02M31.00S,1,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson STEAL (2 STL),,,0,94
+29700932,88,PT02M22.00S,1,1610612749,MIL,911,Johnson,E. Johnson,-104,1,10,Made,1,16.0,18.0,34,v,Johnson 10' Jump Shot (4 PTS) (Perry 2 AST),Made Shot,Jump Shot,0,95
+29700932,89,PT02M07.00S,1,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,96
+29700932,89,PT02M07.00S,1,1610612749,MIL,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,v,Allen STEAL (2 STL),,,0,97
+29700932,90,PT01M57.00S,1,1610612749,MIL,688,Curry,M. Curry,113,160,20,Missed,1,0.0,0.0,0,v,MISS Curry 20' Jump Shot,Missed Shot,Jump Shot,0,98
+29700932,91,PT01M55.00S,1,1610612749,MIL,288,Gilliam,A. Gilliam,0,0,0,,0,0.0,0.0,0,v,Gilliam REBOUND (Off:1 Def:1),Rebound,Unknown,0,99
+29700932,92,PT01M52.00S,1,1610612749,MIL,951,Allen,R. Allen,235,-1,24,Missed,1,0.0,0.0,0,v,MISS Allen 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,100
+29700932,93,PT01M50.00S,1,1610612749,MIL,288,Gilliam,A. Gilliam,0,0,0,,0,0.0,0.0,0,v,Gilliam REBOUND (Off:2 Def:1),Rebound,Unknown,0,101
+29700932,94,PT01M43.00S,1,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,h,SPURS Foul,Foul,Defense 3 Second,0,102
+29700932,95,PT01M43.00S,1,1610612749,MIL,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,v,MISS Allen Free Throw Technical,Free Throw,Free Throw Technical,0,103
+29700932,96,PT01M43.00S,1,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,v,Bucks Rebound,Rebound,Unknown,0,104
+29700932,97,PT01M33.00S,1,1610612749,MIL,386,Perry,E. Perry,186,59,20,Made,1,16.0,20.0,36,v,Perry 20' Jump Shot (2 PTS) (Allen 2 AST),Made Shot,Jump Shot,0,105
+29700932,98,PT01M13.00S,1,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson Bad Pass Turnover (P3.T7),Turnover,Bad Pass,0,106
+29700932,98,PT01M13.00S,1,1610612749,MIL,386,Perry,E. Perry,0,0,0,,0,0.0,0.0,0,v,Perry STEAL (2 STL),,,0,107
+29700932,99,PT01M00.00S,1,1610612749,MIL,951,Allen,R. Allen,-3,63,6,Missed,1,0.0,0.0,0,v,MISS Allen 6' Jump Shot,Missed Shot,Jump Shot,0,108
+29700932,100,PT00M57.90S,1,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson REBOUND (Off:2 Def:1),Rebound,Unknown,0,109
+29700932,101,PT00M55.40S,1,1610612749,MIL,386,Perry,E. Perry,40,196,20,Made,1,16.0,22.0,38,v,Perry 20' Jump Shot (4 PTS) (Johnson 2 AST),Made Shot,Jump Shot,0,110
+29700932,102,PT00M41.90S,1,1610612749,MIL,386,Perry,E. Perry,0,0,0,,0,0.0,0.0,0,v,Perry P.FOUL (P1.T4),Foul,Personal,0,111
+29700932,103,PT00M35.20S,1,1610612749,MIL,688,Curry,M. Curry,0,0,0,,0,0.0,0.0,0,v,Curry S.FOUL (P1.PN),Foul,Shooting,0,112
+29700932,105,PT00M35.20S,1,1610612759,SAS,422,Johnson,A. Johnson,0,0,0,,0,0.0,0.0,0,h,MISS Johnson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,113
+29700932,106,PT00M35.20S,1,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,h,SPURS Rebound,Rebound,Unknown,0,114
+29700932,107,PT00M35.20S,1,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,h,SUB: Perdue FOR Robinson,Substitution,,0,115
+29700932,108,PT00M35.20S,1,1610612759,SAS,990,Rose,M. Rose,0,0,0,,0,0.0,0.0,0,h,SUB: Person FOR Rose,Substitution,,0,116
+29700932,109,PT00M35.20S,1,1610612759,SAS,422,Johnson,A. Johnson,0,0,0,,0,0.0,0.0,0,h,MISS Johnson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,117
+29700932,110,PT00M33.90S,1,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson REBOUND (Off:2 Def:2),Rebound,Unknown,0,118
+29700932,111,PT00M20.90S,1,1610612749,MIL,288,Gilliam,A. Gilliam,-70,10,7,Missed,1,0.0,0.0,0,v,MISS Gilliam 7' Jump Shot,Missed Shot,Jump Shot,0,119
+29700932,111,PT00M20.90S,1,1610612759,SAS,781,Perdue,W. Perdue,0,0,0,,0,0.0,0.0,0,h,Perdue BLOCK (1 BLK),,,0,120
+29700932,112,PT00M18.90S,1,1610612759,SAS,1114,Jackson,J. Jackson,0,0,0,,0,0.0,0.0,0,h,Jackson REBOUND (Off:0 Def:1),Rebound,Unknown,0,121
+29700932,113,PT00M15.00S,1,1610612759,SAS,422,Johnson,A. Johnson,-14,8,2,Made,1,18.0,22.0,40,h,Johnson 2' Layup (4 PTS) (Jackson 1 AST),Made Shot,Layup Shot,0,122
+29700932,114,PT00M03.40S,1,1610612759,SAS,422,Johnson,A. Johnson,0,0,0,,0,0.0,0.0,0,h,Johnson P.FOUL (P1.T3),Foul,Personal,0,123
+29700932,115,PT00M00.00S,1,1610612749,MIL,951,Allen,R. Allen,1,68,7,Missed,1,0.0,0.0,0,v,MISS Allen 7' Jump Shot,Missed Shot,Jump Shot,0,124
+29700932,116,PT00M00.00S,1,1610612759,SAS,456,Person,C. Person,0,0,0,,0,0.0,0.0,0,h,Person REBOUND (Off:0 Def:3),Rebound,Unknown,0,125
+29700932,118,PT00M00.00S,1,0,,0,,,0,0,0,,0,18.0,22.0,40,,End of 1st Period (10:36 PM EST),period,end,0,126
+29700932,119,PT12M00.00S,2,0,,0,,,0,0,0,,0,18.0,22.0,40,,Start of 2nd Period (10:38 PM EST),period,start,0,127
+29700932,120,PT11M35.00S,2,1610612749,MIL,386,Perry,E. Perry,87,109,14,Missed,1,0.0,0.0,0,v,MISS Perry 14' Jump Shot,Missed Shot,Jump Shot,0,128
+29700932,120,PT11M35.00S,2,1610612759,SAS,1002,Geary,R. Geary,0,0,0,,0,0.0,0.0,0,h,Geary BLOCK (1 BLK),,,0,129
+29700932,121,PT11M35.00S,2,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,v,Bucks Rebound,Rebound,Unknown,0,130
+29700932,122,PT11M35.00S,2,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,v,Bucks Turnover: Shot Clock (T#4),Turnover,Shot Clock Turnover,0,131
+29700932,123,PT11M19.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,-23,48,5,Made,1,20.0,22.0,42,h,Duncan 5' Jump Shot (4 PTS),Made Shot,Jump Shot,0,132
+29700932,124,PT11M03.00S,2,1610612749,MIL,1532,Honeycutt,J. Honeycutt,74,10,7,Missed,1,0.0,0.0,0,v,MISS Honeycutt 7' Jump Shot,Missed Shot,Jump Shot,0,133
+29700932,125,PT11M01.00S,2,1610612749,MIL,386,Perry,E. Perry,0,0,0,,0,0.0,0.0,0,v,Perry REBOUND (Off:1 Def:1),Rebound,Unknown,0,134
+29700932,126,PT10M58.00S,2,1610612749,MIL,386,Perry,E. Perry,171,-3,17,Missed,1,0.0,0.0,0,v,MISS Perry 17' Jump Shot,Missed Shot,Jump Shot,0,135
+29700932,127,PT10M56.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,h,Duncan REBOUND (Off:2 Def:4),Rebound,Unknown,0,136
+29700932,128,PT10M40.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,h,Duncan Lost Ball Turnover (P4.T8),Turnover,Lost Ball,0,137
+29700932,128,PT10M40.00S,2,1610612749,MIL,288,Gilliam,A. Gilliam,0,0,0,,0,0.0,0.0,0,v,Gilliam STEAL (2 STL),,,0,138
+29700932,129,PT10M35.00S,2,1610612749,MIL,386,Perry,E. Perry,0,0,0,,0,0.0,0.0,0,v,Perry Bad Pass Turnover (P3.T5),Turnover,Bad Pass,0,139
+29700932,130,PT10M21.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,-16,3,2,Missed,1,0.0,0.0,0,h,MISS Duncan 2' Layup,Missed Shot,Layup Shot,0,140
+29700932,130,PT10M21.00S,2,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson BLOCK (2 BLK),,,0,141
+29700932,131,PT10M18.00S,2,1610612749,MIL,288,Gilliam,A. Gilliam,0,0,0,,0,0.0,0.0,0,v,Gilliam REBOUND (Off:2 Def:2),Rebound,Unknown,0,142
+29700932,132,PT10M15.00S,2,1610612749,MIL,386,Perry,E. Perry,10,1,1,Missed,1,0.0,0.0,0,v,MISS Perry 1' Layup,Missed Shot,Layup Shot,0,143
+29700932,133,PT10M13.00S,2,1610612759,SAS,781,Perdue,W. Perdue,0,0,0,,0,0.0,0.0,0,h,Perdue REBOUND (Off:0 Def:1),Rebound,Unknown,0,144
+29700932,134,PT10M11.00S,2,1610612759,SAS,781,Perdue,W. Perdue,0,0,0,,0,0.0,0.0,0,h,Perdue Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,145
+29700932,135,PT10M11.00S,2,1610612749,MIL,386,Perry,E. Perry,0,0,0,,0,0.0,0.0,0,v,SUB: Feick FOR Perry,Substitution,,0,146
+29700932,136,PT10M11.00S,2,1610612749,MIL,288,Gilliam,A. Gilliam,0,0,0,,0,0.0,0.0,0,v,SUB: Curry FOR Gilliam,Substitution,,0,147
+29700932,137,PT10M07.00S,2,1610612759,SAS,1002,Geary,R. Geary,0,0,0,,0,0.0,0.0,0,h,Geary P.FOUL (P1.T1),Foul,Personal,0,148
+29700932,138,PT09M57.00S,2,1610612759,SAS,781,Perdue,W. Perdue,0,0,0,,0,0.0,0.0,0,h,Perdue S.FOUL (P1.T2),Foul,Shooting,0,149
+29700932,139,PT09M57.00S,2,1610612749,MIL,951,Allen,R. Allen,0,0,0,,0,20.0,23.0,43,v,Allen Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,150
+29700932,140,PT09M57.00S,2,1610612749,MIL,951,Allen,R. Allen,0,0,0,,0,20.0,24.0,44,v,Allen Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,151
+29700932,141,PT09M36.00S,2,1610612759,SAS,1002,Geary,R. Geary,108,154,19,Made,1,22.0,24.0,46,h,Geary 19' Jump Shot (2 PTS) (Duncan 1 AST),Made Shot,Jump Shot,0,152
+29700932,142,PT09M14.00S,2,1610612749,MIL,951,Allen,R. Allen,-61,3,6,Missed,1,0.0,0.0,0,v,MISS Allen 6' Jump Shot,Missed Shot,Jump Shot,0,153
+29700932,144,PT09M10.00S,2,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson REBOUND (Off:3 Def:2),Rebound,Unknown,0,154
+29700932,143,PT09M10.00S,2,1610612749,MIL,911,Johnson,E. Johnson,-18,10,2,Made,1,22.0,26.0,48,v,Johnson 2' Layup (6 PTS),Made Shot,Layup Shot,0,155
+29700932,145,PT08M56.00S,2,1610612749,MIL,994,Feick,J. Feick,0,0,0,,0,0.0,0.0,0,v,Feick P.FOUL (P1.T1),Foul,Personal,0,156
+29700932,146,PT08M43.00S,2,1610612759,SAS,1114,Jackson,J. Jackson,-74,233,24,Missed,1,0.0,0.0,0,h,MISS Jackson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,157
+29700932,147,PT08M41.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,h,Duncan REBOUND (Off:3 Def:4),Rebound,Unknown,0,158
+29700932,148,PT08M40.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,55,25,6,Made,1,24.0,26.0,50,h,Duncan 6' Jump Shot (6 PTS),Made Shot,Jump Shot,0,159
+29700932,149,PT08M24.00S,2,1610612749,MIL,1532,Honeycutt,J. Honeycutt,-117,1,12,Missed,1,0.0,0.0,0,v,MISS Honeycutt 12' Jump Shot,Missed Shot,Jump Shot,0,160
+29700932,151,PT08M21.00S,2,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson REBOUND (Off:4 Def:2),Rebound,Unknown,0,161
+29700932,150,PT08M21.00S,2,1610612749,MIL,911,Johnson,E. Johnson,-14,0,1,Made,1,24.0,28.0,52,v,Johnson 1' Tip Shot (8 PTS),Made Shot,Tip Shot,0,162
+29700932,152,PT08M04.00S,2,1610612759,SAS,1114,Jackson,J. Jackson,-104,224,25,Made,1,27.0,28.0,55,h,Jackson 25' 3PT Jump Shot (5 PTS) (Geary 1 AST),Made Shot,Jump Shot,0,163
+29700932,153,PT07M48.00S,2,1610612749,MIL,1532,Honeycutt,J. Honeycutt,8,5,1,Missed,1,0.0,0.0,0,v,MISS Honeycutt 1' Layup,Missed Shot,Layup Shot,0,164
+29700932,154,PT07M46.00S,2,1610612749,MIL,688,Curry,M. Curry,0,0,0,,0,0.0,0.0,0,v,Curry REBOUND (Off:1 Def:1),Rebound,Unknown,0,165
+29700932,155,PT07M38.00S,2,1610612749,MIL,951,Allen,R. Allen,-57,242,25,Missed,1,0.0,0.0,0,v,MISS Allen 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,166
+29700932,156,PT07M34.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,h,Duncan REBOUND (Off:3 Def:5),Rebound,Unknown,0,167
+29700932,157,PT07M31.00S,2,1610612759,SAS,1114,Jackson,J. Jackson,-139,70,16,Missed,1,0.0,0.0,0,h,MISS Jackson 16' Jump Shot,Missed Shot,Jump Shot,0,168
+29700932,158,PT07M29.00S,2,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,v,Bucks Rebound,Rebound,Unknown,0,169
+29700932,159,PT07M29.00S,2,1610612759,SAS,1002,Geary,R. Geary,0,0,0,,0,0.0,0.0,0,h,SUB: Johnson FOR Geary,Substitution,,0,170
+29700932,160,PT07M29.00S,2,1610612759,SAS,781,Perdue,W. Perdue,0,0,0,,0,0.0,0.0,0,h,SUB: Robinson FOR Perdue,Substitution,,0,171
+29700932,161,PT07M11.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,h,Duncan L.B.FOUL (P2.T3),Foul,Loose Ball,0,172
+29700932,162,PT07M11.00S,2,1610612749,MIL,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,v,SUB: Perry FOR Allen,Substitution,,0,173
+29700932,163,PT07M11.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,h,SUB: Rose FOR Duncan,Substitution,,0,174
+29700932,164,PT07M02.00S,2,1610612749,MIL,994,Feick,J. Feick,-169,55,18,Missed,1,0.0,0.0,0,v,MISS Feick 18' Jump Shot,Missed Shot,Jump Shot,0,175
+29700932,165,PT06M59.00S,2,1610612759,SAS,456,Person,C. Person,0,0,0,,0,0.0,0.0,0,h,Person REBOUND (Off:0 Def:4),Rebound,Unknown,0,176
+29700932,166,PT06M47.00S,2,1610612759,SAS,990,Rose,M. Rose,-31,12,3,Made,1,29.0,28.0,57,h,Rose 3' Jump Shot (2 PTS),Made Shot,Jump Shot,0,177
+29700932,167,PT06M25.00S,2,1610612749,MIL,386,Perry,E. Perry,141,14,14,Missed,1,0.0,0.0,0,v,MISS Perry 14' Jump Shot,Missed Shot,Jump Shot,0,178
+29700932,168,PT06M22.00S,2,1610612759,SAS,990,Rose,M. Rose,0,0,0,,0,0.0,0.0,0,h,Rose REBOUND (Off:0 Def:1),Rebound,Unknown,0,179
+29700932,169,PT06M19.00S,2,1610612759,SAS,990,Rose,M. Rose,0,0,0,,0,0.0,0.0,0,h,Rose Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,180
+29700932,169,PT06M19.00S,2,1610612749,MIL,386,Perry,E. Perry,0,0,0,,0,0.0,0.0,0,v,Perry STEAL (3 STL),,,0,181
+29700932,170,PT06M13.00S,2,1610612749,MIL,994,Feick,J. Feick,8,14,2,Made,1,29.0,30.0,59,v,Feick 2' Slam Dunk (2 PTS) (Perry 3 AST),Made Shot,Slam Dunk Shot,0,182
+29700932,171,PT05M53.00S,2,1610612759,SAS,422,Johnson,A. Johnson,59,145,16,Missed,1,0.0,0.0,0,h,MISS Johnson 16' Jump Shot,Missed Shot,Jump Shot,0,183
+29700932,172,PT05M52.00S,2,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,v,Bucks Rebound,Rebound,Unknown,0,184
+29700932,173,PT05M52.00S,2,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,h,SPURS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,185
+29700932,175,PT05M52.00S,2,1610612759,SAS,1114,Jackson,J. Jackson,0,0,0,,0,0.0,0.0,0,h,SUB: Del Negro FOR Jackson,Substitution,,0,186
+29700932,176,PT05M36.00S,2,1610612759,SAS,456,Person,C. Person,0,0,0,,0,0.0,0.0,0,h,Person P.FOUL (P2.T4),Foul,Personal,0,187
+29700932,177,PT05M21.00S,2,1610612749,MIL,911,Johnson,E. Johnson,5,55,6,Made,1,29.0,32.0,61,v,Johnson 6' Jump Shot (10 PTS) (Honeycutt 1 AST),Made Shot,Jump Shot,0,188
+29700932,178,PT05M07.00S,2,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson Out Of Bounds Turnover (P4.T11),Turnover,Out Of Bounds,0,189
+29700932,179,PT05M07.00S,2,1610612759,SAS,456,Person,C. Person,0,0,0,,0,0.0,0.0,0,h,SUB: Burton FOR Person,Substitution,,0,190
+29700932,180,PT04M55.00S,2,1610612749,MIL,1532,Honeycutt,J. Honeycutt,-68,72,10,Missed,1,0.0,0.0,0,v,MISS Honeycutt 10' Jump Shot,Missed Shot,Jump Shot,0,191
+29700932,182,PT04M51.00S,2,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson REBOUND (Off:5 Def:2),Rebound,Unknown,0,192
+29700932,181,PT04M51.00S,2,1610612749,MIL,911,Johnson,E. Johnson,-18,8,2,Made,1,29.0,34.0,63,v,Johnson 2' Tip Shot (12 PTS),Made Shot,Tip Shot,0,193
+29700932,183,PT04M46.00S,2,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,h,SPURS Timeout: Short (Full 2 Short 1),Timeout,Short,0,194
+29700932,185,PT04M36.00S,2,1610612759,SAS,764,Robinson,D. Robinson,23,1,2,Missed,1,0.0,0.0,0,h,MISS Robinson 2' Layup,Missed Shot,Layup Shot,0,195
+29700932,185,PT04M36.00S,2,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson BLOCK (3 BLK),,,0,196
+29700932,186,PT04M35.00S,2,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,v,Bucks Rebound,Rebound,Unknown,0,197
+29700932,187,PT04M25.00S,2,1610612759,SAS,416,Burton,W. Burton,0,0,0,,0,0.0,0.0,0,h,Burton S.FOUL (P1.PN),Foul,Shooting,0,198
+29700932,188,PT04M25.00S,2,1610612749,MIL,1532,Honeycutt,J. Honeycutt,0,0,0,,0,29.0,35.0,64,v,Honeycutt Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,199
+29700932,189,PT04M25.00S,2,1610612749,MIL,1532,Honeycutt,J. Honeycutt,0,0,0,,0,29.0,36.0,65,v,Honeycutt Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,200
+29700932,190,PT04M09.00S,2,1610612759,SAS,219,Del Negro,V. Del Negro,-111,10,11,Missed,1,0.0,0.0,0,h,MISS Del Negro 11' Jump Shot,Missed Shot,Jump Shot,0,201
+29700932,191,PT04M07.00S,2,1610612749,MIL,994,Feick,J. Feick,0,0,0,,0,0.0,0.0,0,v,Feick REBOUND (Off:0 Def:1),Rebound,Unknown,0,202
+29700932,192,PT04M00.00S,2,1610612749,MIL,386,Perry,E. Perry,-68,194,21,Made,1,29.0,38.0,67,v,Perry 21' Jump Shot (6 PTS),Made Shot,Jump Shot,0,203
+29700932,193,PT03M44.00S,2,1610612749,MIL,1532,Honeycutt,J. Honeycutt,0,0,0,,0,0.0,0.0,0,v,Honeycutt P.FOUL (P1.T2),Foul,Personal,0,204
+29700932,194,PT03M37.00S,2,1610612749,MIL,994,Feick,J. Feick,0,0,0,,0,0.0,0.0,0,v,Feick P.FOUL (P2.T3),Foul,Personal,0,205
+29700932,195,PT03M29.00S,2,1610612759,SAS,422,Johnson,A. Johnson,-10,0,1,Made,1,31.0,38.0,69,h,Johnson 1' Driving Layup (6 PTS) (Robinson 1 AST),Made Shot,Driving Layup Shot,0,206
+29700932,196,PT03M09.00S,2,1610612749,MIL,994,Feick,J. Feick,138,3,14,Missed,1,0.0,0.0,0,v,MISS Feick 14' Jump Shot,Missed Shot,Jump Shot,0,207
+29700932,197,PT03M07.00S,2,1610612759,SAS,219,Del Negro,V. Del Negro,0,0,0,,0,0.0,0.0,0,h,Del Negro REBOUND (Off:0 Def:2),Rebound,Unknown,0,208
+29700932,198,PT03M01.00S,2,1610612759,SAS,416,Burton,W. Burton,-182,25,18,Made,1,33.0,38.0,71,h,Burton 18' Jump Shot (2 PTS) (Del Negro 2 AST),Made Shot,Jump Shot,0,209
+29700932,199,PT02M50.00S,2,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,v,Bucks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,210
+29700932,202,PT02M50.00S,2,1610612759,SAS,990,Rose,M. Rose,0,0,0,,0,0.0,0.0,0,h,SUB: Duncan FOR Rose,Substitution,,0,211
+29700932,203,PT02M50.00S,2,1610612749,MIL,1532,Honeycutt,J. Honeycutt,0,0,0,,0,0.0,0.0,0,v,SUB: Gilliam FOR Honeycutt,Substitution,,0,212
+29700932,204,PT02M50.00S,2,1610612749,MIL,994,Feick,J. Feick,0,0,0,,0,0.0,0.0,0,v,SUB: Allen FOR Feick,Substitution,,0,213
+29700932,205,PT02M33.00S,2,1610612749,MIL,288,Gilliam,A. Gilliam,0,0,0,,0,0.0,0.0,0,v,Gilliam OFF.Foul (P2),Foul,Offensive,0,214
+29700932,206,PT02M33.00S,2,1610612749,MIL,288,Gilliam,A. Gilliam,0,0,0,,0,0.0,0.0,0,v,Gilliam Foul Turnover (P2.T6),Turnover,Foul,0,215
+29700932,207,PT02M22.00S,2,1610612749,MIL,386,Perry,E. Perry,0,0,0,,0,0.0,0.0,0,v,Perry P.FOUL (P2.T4),Foul,Personal,0,216
+29700932,208,PT02M14.00S,2,1610612759,SAS,1495,Duncan,T. Duncan,46,12,5,Made,1,35.0,38.0,73,h,Duncan 5' Jump Shot (8 PTS) (Del Negro 3 AST),Made Shot,Jump Shot,0,217
+29700932,209,PT01M54.00S,2,1610612749,MIL,951,Allen,R. Allen,186,31,19,Missed,1,0.0,0.0,0,v,MISS Allen 19' Jump Shot,Missed Shot,Jump Shot,0,218
+29700932,210,PT01M52.00S,2,1610612759,SAS,416,Burton,W. Burton,0,0,0,,0,0.0,0.0,0,h,Burton REBOUND (Off:0 Def:1),Rebound,Unknown,0,219
+29700932,211,PT01M52.00S,2,1610612749,MIL,688,Curry,M. Curry,0,0,0,,0,0.0,0.0,0,v,Curry P.FOUL (P2.PN),Foul,Personal,0,220
+29700932,212,PT01M52.00S,2,1610612759,SAS,416,Burton,W. Burton,0,0,0,,0,36.0,38.0,74,h,Burton Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,221
+29700932,213,PT01M52.00S,2,1610612759,SAS,416,Burton,W. Burton,0,0,0,,0,37.0,38.0,75,h,Burton Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,222
+29700932,214,PT01M41.00S,2,1610612749,MIL,688,Curry,M. Curry,0,0,0,,0,0.0,0.0,0,v,Curry Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,223
+29700932,215,PT01M29.00S,2,1610612759,SAS,422,Johnson,A. Johnson,-1,3,0,Made,1,39.0,38.0,77,h,Johnson  Layup (8 PTS),Made Shot,Layup Shot,0,224
+29700932,216,PT01M07.00S,2,1610612749,MIL,386,Perry,E. Perry,-27,201,20,Made,1,39.0,40.0,79,v,Perry 20' Jump Shot (8 PTS) (Gilliam 1 AST),Made Shot,Jump Shot,0,225
+29700932,217,PT00M47.90S,2,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,v,Bucks Foul,Foul,Defense 3 Second,0,226
+29700932,218,PT00M47.90S,2,1610612759,SAS,219,Del Negro,V. Del Negro,0,0,0,,0,40.0,40.0,80,h,Del Negro Free Throw Technical (3 PTS),Free Throw,Free Throw Technical,0,227
+29700932,219,PT00M33.90S,2,1610612759,SAS,422,Johnson,A. Johnson,0,0,0,,0,0.0,0.0,0,h,Johnson Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,228
+29700932,219,PT00M33.90S,2,1610612749,MIL,688,Curry,M. Curry,0,0,0,,0,0.0,0.0,0,v,Curry STEAL (1 STL),,,0,229
+29700932,220,PT00M25.80S,2,1610612759,SAS,416,Burton,W. Burton,0,0,0,,0,0.0,0.0,0,h,Burton P.FOUL (P2.PN),Foul,Personal,0,230
+29700932,221,PT00M25.80S,2,1610612749,MIL,688,Curry,M. Curry,0,0,0,,0,40.0,41.0,81,v,Curry Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,231
+29700932,222,PT00M25.80S,2,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,h,SUB: Rose FOR Duncan,Substitution,,0,232
+29700932,223,PT00M25.80S,2,1610612749,MIL,288,Gilliam,A. Gilliam,0,0,0,,0,0.0,0.0,0,v,SUB: Feick FOR Gilliam,Substitution,,0,233
+29700932,224,PT00M25.80S,2,1610612749,MIL,688,Curry,M. Curry,0,0,0,,0,40.0,42.0,82,v,Curry Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,234
+29700932,225,PT00M02.90S,2,1610612759,SAS,219,Del Negro,V. Del Negro,-156,21,16,Missed,1,0.0,0.0,0,h,MISS Del Negro 16' Jump Shot,Missed Shot,Jump Shot,0,235
+29700932,226,PT00M00.90S,2,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson REBOUND (Off:5 Def:3),Rebound,Unknown,0,236
+29700932,228,PT00M00.00S,2,0,,0,,,0,0,0,,0,40.0,42.0,82,,End of 2nd Period (11:04 PM EST),period,end,0,237
+29700932,229,PT12M00.00S,3,0,,0,,,0,0,0,,0,40.0,42.0,82,,Start of 3rd Period (11:20 PM EST),period,start,0,238
+29700932,230,PT11M47.00S,3,1610612749,MIL,288,Gilliam,A. Gilliam,-70,132,15,Missed,1,0.0,0.0,0,v,MISS Gilliam 15' Jump Shot,Missed Shot,Jump Shot,0,239
+29700932,231,PT11M43.00S,3,1610612749,MIL,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,v,Allen REBOUND (Off:1 Def:3),Rebound,Unknown,0,240
+29700932,232,PT11M42.00S,3,1610612749,MIL,951,Allen,R. Allen,-81,1,8,Missed,1,0.0,0.0,0,v,MISS Allen 8' Jump Shot,Missed Shot,Jump Shot,0,241
+29700932,233,PT11M40.00S,3,1610612749,MIL,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,v,Allen REBOUND (Off:2 Def:3),Rebound,Unknown,0,242
+29700932,234,PT11M38.00S,3,1610612749,MIL,288,Gilliam,A. Gilliam,1,59,6,Made,1,40.0,44.0,84,v,Gilliam 6' Jump Shot (6 PTS) (Allen 3 AST),Made Shot,Jump Shot,0,243
+29700932,235,PT11M20.00S,3,1610612759,SAS,219,Del Negro,V. Del Negro,-38,100,11,Made,1,42.0,44.0,86,h,Del Negro 11' Jump Shot (5 PTS),Made Shot,Jump Shot,0,244
+29700932,236,PT10M57.00S,3,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,h,SPURS Foul,Foul,Defense 3 Second,0,245
+29700932,237,PT10M57.00S,3,1610612749,MIL,951,Allen,R. Allen,0,0,0,,0,42.0,45.0,87,v,Allen Free Throw Technical (9 PTS),Free Throw,Free Throw Technical,0,246
+29700932,238,PT10M34.00S,3,1610612749,MIL,688,Curry,M. Curry,0,0,0,,0,0.0,0.0,0,v,Curry Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,247
+29700932,238,PT10M34.00S,3,1610612759,SAS,219,Del Negro,V. Del Negro,0,0,0,,0,0.0,0.0,0,h,Del Negro STEAL (1 STL),,,0,248
+29700932,239,PT10M29.00S,3,1610612749,MIL,386,Perry,E. Perry,0,0,0,,0,0.0,0.0,0,v,Perry S.FOUL (P3.T1),Foul,Shooting,0,249
+29700932,240,PT10M29.00S,3,1610612759,SAS,219,Del Negro,V. Del Negro,0,0,0,,0,43.0,45.0,88,h,Del Negro Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,250
+29700932,241,PT10M29.00S,3,1610612759,SAS,219,Del Negro,V. Del Negro,0,0,0,,0,44.0,45.0,89,h,Del Negro Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,251
+29700932,242,PT10M14.00S,3,1610612749,MIL,951,Allen,R. Allen,-106,5,11,Missed,1,0.0,0.0,0,v,MISS Allen 11' Jump Shot,Missed Shot,Jump Shot,0,252
+29700932,243,PT10M12.00S,3,1610612749,MIL,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,v,Allen REBOUND (Off:3 Def:3),Rebound,Unknown,0,253
+29700932,244,PT10M10.00S,3,1610612749,MIL,386,Perry,E. Perry,115,175,21,Made,1,44.0,47.0,91,v,Perry 21' Jump Shot (10 PTS) (Johnson 3 AST),Made Shot,Jump Shot,0,254
+29700932,245,PT09M53.00S,3,1610612759,SAS,764,Robinson,D. Robinson,-8,1,1,Made,1,46.0,47.0,93,h,Robinson 1' Slam Dunk (10 PTS) (Johnson 5 AST),Made Shot,Slam Dunk Shot,0,255
+29700932,246,PT09M37.00S,3,1610612749,MIL,288,Gilliam,A. Gilliam,-16,66,7,Missed,1,0.0,0.0,0,v,MISS Gilliam 7' Jump Shot,Missed Shot,Jump Shot,0,256
+29700932,247,PT09M34.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,h,Duncan REBOUND (Off:3 Def:6),Rebound,Unknown,0,257
+29700932,248,PT09M29.00S,3,1610612759,SAS,422,Johnson,A. Johnson,-14,-1,1,Missed,1,0.0,0.0,0,h,MISS Johnson 1' Layup,Missed Shot,Layup Shot,0,258
+29700932,250,PT09M28.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,h,Duncan REBOUND (Off:4 Def:6),Rebound,Unknown,0,259
+29700932,249,PT09M28.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,18,5,2,Missed,1,0.0,0.0,0,h,MISS Duncan 2' Layup,Missed Shot,Layup Shot,0,260
+29700932,251,PT09M27.00S,3,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson REBOUND (Off:2 Def:1),Rebound,Unknown,0,261
+29700932,252,PT09M27.00S,3,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson S.FOUL (P2.T2),Foul,Shooting,0,262
+29700932,253,PT09M27.00S,3,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,47.0,47.0,94,h,Robinson Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,263
+29700932,254,PT09M27.00S,3,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,48.0,47.0,95,h,Robinson Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,264
+29700932,255,PT09M09.00S,3,1610612749,MIL,951,Allen,R. Allen,5,-10,1,Missed,1,0.0,0.0,0,v,MISS Allen 1' Layup,Missed Shot,Layup Shot,0,265
+29700932,255,PT09M09.00S,3,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson BLOCK (2 BLK),,,0,266
+29700932,256,PT09M06.00S,3,1610612759,SAS,422,Johnson,A. Johnson,0,0,0,,0,0.0,0.0,0,h,Johnson REBOUND (Off:1 Def:1),Rebound,Unknown,0,267
+29700932,257,PT09M03.00S,3,1610612759,SAS,456,Person,C. Person,18,3,2,Missed,1,0.0,0.0,0,h,MISS Person 2' Layup,Missed Shot,Layup Shot,0,268
+29700932,258,PT09M01.00S,3,1610612759,SAS,219,Del Negro,V. Del Negro,0,0,0,,0,0.0,0.0,0,h,Del Negro REBOUND (Off:1 Def:2),Rebound,Unknown,0,269
+29700932,259,PT08M46.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,h,Duncan Bad Pass Turnover (P5.T13),Turnover,Bad Pass,0,270
+29700932,260,PT08M28.00S,3,1610612749,MIL,288,Gilliam,A. Gilliam,0,0,0,,0,0.0,0.0,0,v,Gilliam Bad Pass Turnover (P3.T9),Turnover,Bad Pass,0,271
+29700932,260,PT08M28.00S,3,1610612759,SAS,456,Person,C. Person,0,0,0,,0,0.0,0.0,0,h,Person STEAL (2 STL),,,0,272
+29700932,261,PT08M25.00S,3,1610612759,SAS,219,Del Negro,V. Del Negro,8,1,1,Made,1,50.0,47.0,97,h,Del Negro 1' Layup (9 PTS) (Johnson 6 AST),Made Shot,Layup Shot,0,273
+29700932,262,PT08M22.00S,3,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,v,Bucks Timeout: Short (Reg.2 Short 1),Timeout,Short,0,274
+29700932,264,PT08M07.00S,3,1610612749,MIL,288,Gilliam,A. Gilliam,-31,51,6,Missed,1,0.0,0.0,0,v,MISS Gilliam 6' Jump Shot,Missed Shot,Jump Shot,0,275
+29700932,265,PT08M04.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,h,Duncan REBOUND (Off:4 Def:7),Rebound,Unknown,0,276
+29700932,266,PT07M50.00S,3,1610612759,SAS,219,Del Negro,V. Del Negro,-134,128,19,Missed,1,0.0,0.0,0,h,MISS Del Negro 19' Jump Shot,Missed Shot,Jump Shot,0,277
+29700932,268,PT07M48.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,h,Duncan REBOUND (Off:5 Def:7),Rebound,Unknown,0,278
+29700932,267,PT07M48.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,18,0,2,Made,1,52.0,47.0,99,h,Duncan 2' Tip Shot (10 PTS),Made Shot,Tip Shot,0,279
+29700932,269,PT07M33.00S,3,1610612749,MIL,911,Johnson,E. Johnson,5,1,1,Missed,1,0.0,0.0,0,v,MISS Johnson 1' Layup,Missed Shot,Layup Shot,0,280
+29700932,269,PT07M33.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,h,Duncan BLOCK (1 BLK),,,0,281
+29700932,270,PT07M31.00S,3,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson REBOUND (Off:2 Def:2),Rebound,Unknown,0,282
+29700932,271,PT07M22.00S,3,1610612759,SAS,219,Del Negro,V. Del Negro,1,76,8,Made,1,54.0,47.0,101,h,Del Negro 8' Jump Shot (11 PTS),Made Shot,Jump Shot,0,283
+29700932,272,PT07M19.00S,3,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,v,Bucks Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,284
+29700932,274,PT07M00.00S,3,1610612749,MIL,288,Gilliam,A. Gilliam,0,0,0,,0,0.0,0.0,0,v,Gilliam Lost Ball Turnover (P4.T10),Turnover,Lost Ball,0,285
+29700932,274,PT07M00.00S,3,1610612759,SAS,219,Del Negro,V. Del Negro,0,0,0,,0,0.0,0.0,0,h,Del Negro STEAL (2 STL),,,0,286
+29700932,275,PT06M37.00S,3,1610612759,SAS,422,Johnson,A. Johnson,-14,18,2,Missed,1,0.0,0.0,0,h,MISS Johnson 2' Layup,Missed Shot,Layup Shot,0,287
+29700932,277,PT06M37.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,h,Duncan REBOUND (Off:6 Def:7),Rebound,Unknown,0,288
+29700932,276,PT06M37.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,8,21,2,Made,1,56.0,47.0,103,h,Duncan 2' Slam Dunk (12 PTS),Made Shot,Slam Dunk Shot,0,289
+29700932,278,PT06M20.00S,3,1610612749,MIL,288,Gilliam,A. Gilliam,-139,21,14,Missed,1,0.0,0.0,0,v,MISS Gilliam 14' Jump Shot,Missed Shot,Jump Shot,0,290
+29700932,279,PT06M18.00S,3,1610612759,SAS,456,Person,C. Person,0,0,0,,0,0.0,0.0,0,h,Person REBOUND (Off:0 Def:5),Rebound,Unknown,0,291
+29700932,280,PT06M07.00S,3,1610612759,SAS,764,Robinson,D. Robinson,-89,72,11,Missed,1,0.0,0.0,0,h,MISS Robinson 11' Jump Shot,Missed Shot,Jump Shot,0,292
+29700932,281,PT06M05.00S,3,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson REBOUND (Off:5 Def:4),Rebound,Unknown,0,293
+29700932,282,PT06M01.00S,3,1610612749,MIL,386,Perry,E. Perry,-139,106,17,Missed,1,0.0,0.0,0,v,MISS Perry 17' Jump Shot,Missed Shot,Jump Shot,0,294
+29700932,283,PT05M58.00S,3,1610612749,MIL,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,v,Allen REBOUND (Off:4 Def:3),Rebound,Unknown,0,295
+29700932,284,PT05M48.00S,3,1610612749,MIL,288,Gilliam,A. Gilliam,-29,38,5,Made,1,56.0,49.0,105,v,Gilliam 5' Jump Shot (8 PTS),Made Shot,Jump Shot,0,296
+29700932,285,PT05M33.00S,3,1610612759,SAS,219,Del Negro,V. Del Negro,-14,68,7,Made,1,58.0,49.0,107,h,Del Negro 7' Jump Shot (13 PTS) (Johnson 7 AST),Made Shot,Jump Shot,0,297
+29700932,286,PT05M07.00S,3,1610612749,MIL,951,Allen,R. Allen,143,1,14,Missed,1,0.0,0.0,0,v,MISS Allen 14' Jump Shot,Missed Shot,Jump Shot,0,298
+29700932,287,PT05M04.00S,3,1610612759,SAS,456,Person,C. Person,0,0,0,,0,0.0,0.0,0,h,Person REBOUND (Off:0 Def:6),Rebound,Unknown,0,299
+29700932,288,PT05M01.00S,3,1610612759,SAS,422,Johnson,A. Johnson,0,0,0,,0,0.0,0.0,0,h,Johnson Bad Pass Turnover (P2.T14),Turnover,Bad Pass,0,300
+29700932,288,PT05M01.00S,3,1610612749,MIL,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,v,Allen STEAL (3 STL),,,0,301
+29700932,289,PT04M57.00S,3,1610612759,SAS,456,Person,C. Person,0,0,0,,0,0.0,0.0,0,h,Person S.FOUL (P3.T1),Foul,Shooting,0,302
+29700932,290,PT04M57.00S,3,1610612749,MIL,288,Gilliam,A. Gilliam,0,0,0,,0,0.0,0.0,0,v,SUB: Honeycutt FOR Gilliam,Substitution,,0,303
+29700932,291,PT04M57.00S,3,1610612749,MIL,688,Curry,M. Curry,0,0,0,,0,0.0,0.0,0,v,SUB: Lang FOR Curry,Substitution,,0,304
+29700932,292,PT04M57.00S,3,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,SUB: Feick FOR Johnson,Substitution,,0,305
+29700932,293,PT04M57.00S,3,1610612749,MIL,386,Perry,E. Perry,0,0,0,,0,58.0,50.0,108,v,Perry Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,306
+29700932,294,PT04M57.00S,3,1610612749,MIL,386,Perry,E. Perry,0,0,0,,0,58.0,51.0,109,v,Perry Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,307
+29700932,295,PT04M43.00S,3,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,v,Bucks Foul,Foul,Defense 3 Second,0,308
+29700932,296,PT04M43.00S,3,1610612759,SAS,219,Del Negro,V. Del Negro,0,0,0,,0,59.0,51.0,110,h,Del Negro Free Throw Technical (14 PTS),Free Throw,Free Throw Technical,0,309
+29700932,297,PT04M20.00S,3,1610612759,SAS,764,Robinson,D. Robinson,89,117,15,Missed,1,0.0,0.0,0,h,MISS Robinson 15' Jump Shot,Missed Shot,Jump Shot,0,310
+29700932,298,PT04M17.00S,3,1610612749,MIL,1532,Honeycutt,J. Honeycutt,0,0,0,,0,0.0,0.0,0,v,Honeycutt REBOUND (Off:0 Def:1),Rebound,Unknown,0,311
+29700932,299,PT04M00.00S,3,1610612749,MIL,951,Allen,R. Allen,128,1,13,Missed,1,0.0,0.0,0,v,MISS Allen 13' Jump Shot,Missed Shot,Jump Shot,0,312
+29700932,300,PT03M57.00S,3,1610612759,SAS,219,Del Negro,V. Del Negro,0,0,0,,0,0.0,0.0,0,h,Del Negro REBOUND (Off:1 Def:3),Rebound,Unknown,0,313
+29700932,301,PT03M50.00S,3,1610612759,SAS,764,Robinson,D. Robinson,-128,44,14,Made,1,61.0,51.0,112,h,Robinson 14' Jump Shot (14 PTS) (Johnson 8 AST),Made Shot,Jump Shot,0,314
+29700932,302,PT03M29.00S,3,1610612749,MIL,1532,Honeycutt,J. Honeycutt,-130,23,13,Made,1,61.0,53.0,114,v,Honeycutt 13' Jump Shot (4 PTS) (Perry 4 AST),Made Shot,Jump Shot,0,315
+29700932,303,PT03M16.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,h,Duncan Lost Ball Turnover (P6.T15),Turnover,Lost Ball,0,316
+29700932,303,PT03M16.00S,3,1610612749,MIL,457,Lang,A. Lang,0,0,0,,0,0.0,0.0,0,v,Lang STEAL (1 STL),,,0,317
+29700932,304,PT02M52.00S,3,1610612749,MIL,994,Feick,J. Feick,14,14,2,Made,1,61.0,55.0,116,v,Feick 2' Layup (4 PTS) (Lang 1 AST),Made Shot,Layup Shot,0,318
+29700932,305,PT02M33.00S,3,1610612749,MIL,994,Feick,J. Feick,0,0,0,,0,0.0,0.0,0,v,Feick S.FOUL (P3.T3),Foul,Shooting,0,319
+29700932,306,PT02M33.00S,3,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,h,SPURS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,320
+29700932,308,PT02M33.00S,3,1610612759,SAS,219,Del Negro,V. Del Negro,0,0,0,,0,0.0,0.0,0,h,SUB: Jackson FOR Del Negro,Substitution,,0,321
+29700932,309,PT02M33.00S,3,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,h,MISS Robinson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,322
+29700932,310,PT02M33.00S,3,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,h,SPURS Rebound,Rebound,Unknown,0,323
+29700932,311,PT02M33.00S,3,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,62.0,55.0,117,h,Robinson Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,324
+29700932,312,PT02M16.00S,3,1610612749,MIL,994,Feick,J. Feick,207,-10,21,Made,1,62.0,57.0,119,v,Feick 21' Jump Shot (6 PTS) (Lang 2 AST),Made Shot,Jump Shot,0,325
+29700932,313,PT01M59.00S,3,1610612759,SAS,422,Johnson,A. Johnson,18,3,2,Made,1,64.0,57.0,121,h,Johnson 2' Layup (10 PTS) (Robinson 2 AST),Made Shot,Layup Shot,0,326
+29700932,314,PT01M46.00S,3,1610612749,MIL,1532,Honeycutt,J. Honeycutt,-66,169,18,Missed,1,0.0,0.0,0,v,MISS Honeycutt 18' Jump Shot,Missed Shot,Jump Shot,0,327
+29700932,315,PT01M44.00S,3,1610612759,SAS,764,Robinson,D. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson REBOUND (Off:2 Def:3),Rebound,Unknown,0,328
+29700932,316,PT01M37.00S,3,1610612759,SAS,764,Robinson,D. Robinson,63,149,16,Made,1,66.0,57.0,123,h,Robinson 16' Jump Shot (17 PTS) (Johnson 9 AST),Made Shot,Jump Shot,0,329
+29700932,317,PT01M13.00S,3,1610612749,MIL,1532,Honeycutt,J. Honeycutt,-128,14,13,Made,1,66.0,59.0,125,v,Honeycutt 13' Jump Shot (6 PTS),Made Shot,Jump Shot,0,330
+29700932,318,PT00M53.90S,3,1610612759,SAS,456,Person,C. Person,192,162,25,Missed,1,0.0,0.0,0,h,MISS Person 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,331
+29700932,319,PT00M51.80S,3,1610612749,MIL,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,v,Allen REBOUND (Off:4 Def:4),Rebound,Unknown,0,332
+29700932,320,PT00M44.90S,3,1610612749,MIL,951,Allen,R. Allen,38,33,5,Missed,1,0.0,0.0,0,v,MISS Allen 5' Jump Shot,Missed Shot,Jump Shot,0,333
+29700932,320,PT00M44.90S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,h,Duncan BLOCK (2 BLK),,,0,334
+29700932,321,PT00M42.60S,3,1610612759,SAS,456,Person,C. Person,0,0,0,,0,0.0,0.0,0,h,Person REBOUND (Off:0 Def:7),Rebound,Unknown,0,335
+29700932,322,PT00M39.90S,3,1610612759,SAS,764,Robinson,D. Robinson,-18,16,2,Made,1,68.0,59.0,127,h,Robinson 2' Tip Shot (19 PTS) (Johnson 10 AST),Made Shot,Tip Shot,0,336
+29700932,323,PT00M24.90S,3,1610612749,MIL,1532,Honeycutt,J. Honeycutt,136,38,14,Missed,1,0.0,0.0,0,v,MISS Honeycutt 14' Jump Shot,Missed Shot,Jump Shot,0,337
+29700932,324,PT00M23.30S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,h,Duncan REBOUND (Off:6 Def:8),Rebound,Unknown,0,338
+29700932,325,PT00M19.20S,3,1610612759,SAS,764,Robinson,D. Robinson,-14,5,1,Made,1,70.0,59.0,129,h,Robinson 1' Slam Dunk (21 PTS) (Person 1 AST),Made Shot,Slam Dunk Shot,0,339
+29700932,326,PT00M07.00S,3,1610612759,SAS,1114,Jackson,J. Jackson,0,0,0,,0,0.0,0.0,0,h,Jackson P.FOUL (P1.T2),Foul,Personal,0,340
+29700932,327,PT00M07.00S,3,1610612759,SAS,422,Johnson,A. Johnson,0,0,0,,0,0.0,0.0,0,h,SUB: Geary FOR Johnson,Substitution,,0,341
+29700932,328,PT00M01.90S,3,1610612749,MIL,386,Perry,E. Perry,59,100,12,Missed,1,0.0,0.0,0,v,MISS Perry 12' Jump Shot,Missed Shot,Jump Shot,0,342
+29700932,328,PT00M01.90S,3,1610612759,SAS,1002,Geary,R. Geary,0,0,0,,0,0.0,0.0,0,h,Geary BLOCK (2 BLK),,,0,343
+29700932,329,PT00M00.00S,3,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,h,Duncan REBOUND (Off:6 Def:9),Rebound,Unknown,0,344
+29700932,333,PT00M00.00S,3,0,,0,,,0,0,0,,0,70.0,59.0,129,,End of 3rd Period (11:43 PM EST),period,end,0,345
+29700932,334,PT12M00.00S,4,0,,0,,,0,0,0,,0,70.0,59.0,129,,Start of 4th Period (11:45 PM EST),period,start,0,346
+29700932,335,PT11M46.00S,4,1610612759,SAS,456,Person,C. Person,0,0,0,,0,0.0,0.0,0,h,Person Bad Pass Turnover (P1.T16),Turnover,Bad Pass,0,347
+29700932,335,PT11M46.00S,4,1610612749,MIL,288,Gilliam,A. Gilliam,0,0,0,,0,0.0,0.0,0,v,Gilliam STEAL (3 STL),,,0,348
+29700932,336,PT11M35.00S,4,1610612749,MIL,911,Johnson,E. Johnson,-106,14,11,Missed,1,0.0,0.0,0,v,MISS Johnson 11' Jump Shot,Missed Shot,Jump Shot,0,349
+29700932,337,PT11M33.00S,4,1610612759,SAS,456,Person,C. Person,0,0,0,,0,0.0,0.0,0,h,Person REBOUND (Off:0 Def:8),Rebound,Unknown,0,350
+29700932,338,PT11M15.00S,4,1610612759,SAS,1495,Duncan,T. Duncan,-74,57,9,Made,1,72.0,59.0,131,h,Duncan 9' Jump Shot (14 PTS) (Person 2 AST),Made Shot,Jump Shot,0,351
+29700932,339,PT10M58.00S,4,1610612759,SAS,1114,Jackson,J. Jackson,0,0,0,,0,0.0,0.0,0,h,Jackson S.FOUL (P2.T1),Foul,Shooting,0,352
+29700932,340,PT10M58.00S,4,1610612749,MIL,688,Curry,M. Curry,0,0,0,,0,72.0,60.0,132,v,Curry Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,353
+29700932,341,PT10M58.00S,4,1610612749,MIL,688,Curry,M. Curry,0,0,0,,0,72.0,61.0,133,v,Curry Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,354
+29700932,342,PT10M43.00S,4,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson S.FOUL (P3.T1),Foul,Shooting,0,355
+29700932,343,PT10M43.00S,4,1610612759,SAS,1002,Geary,R. Geary,0,0,0,,0,73.0,61.0,134,h,Geary Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,356
+29700932,344,PT10M43.00S,4,1610612759,SAS,1002,Geary,R. Geary,0,0,0,,0,74.0,61.0,135,h,Geary Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,357
+29700932,345,PT10M26.00S,4,1610612749,MIL,288,Gilliam,A. Gilliam,38,12,4,Missed,1,0.0,0.0,0,v,MISS Gilliam 4' Jump Shot,Missed Shot,Jump Shot,0,358
+29700932,346,PT10M24.00S,4,1610612759,SAS,1114,Jackson,J. Jackson,0,0,0,,0,0.0,0.0,0,h,Jackson REBOUND (Off:0 Def:2),Rebound,Unknown,0,359
+29700932,347,PT10M21.00S,4,1610612759,SAS,1114,Jackson,J. Jackson,0,0,0,,0,0.0,0.0,0,h,Jackson Bad Pass Turnover (P1.T17),Turnover,Bad Pass,0,360
+29700932,347,PT10M21.00S,4,1610612749,MIL,386,Perry,E. Perry,0,0,0,,0,0.0,0.0,0,v,Perry STEAL (4 STL),,,0,361
+29700932,348,PT09M58.00S,4,1610612749,MIL,1532,Honeycutt,J. Honeycutt,0,0,0,,0,0.0,0.0,0,v,Honeycutt Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,362
+29700932,348,PT09M58.00S,4,1610612759,SAS,1002,Geary,R. Geary,0,0,0,,0,0.0,0.0,0,h,Geary STEAL (1 STL),,,0,363
+29700932,349,PT09M58.00S,4,1610612749,MIL,1532,Honeycutt,J. Honeycutt,0,0,0,,0,0.0,0.0,0,v,Honeycutt P.FOUL (P2.T2),Foul,Personal,0,364
+29700932,350,PT09M58.00S,4,1610612759,SAS,456,Person,C. Person,0,0,0,,0,0.0,0.0,0,h,SUB: Rose FOR Person,Substitution,,0,365
+29700932,351,PT09M44.00S,4,1610612759,SAS,1495,Duncan,T. Duncan,-126,57,14,Made,1,76.0,61.0,137,h,Duncan 14' Jump Shot (16 PTS) (Rose 1 AST),Made Shot,Jump Shot,0,366
+29700932,352,PT09M28.00S,4,1610612759,SAS,1114,Jackson,J. Jackson,0,0,0,,0,0.0,0.0,0,h,Jackson S.FOUL (P3.T2),Foul,Shooting,0,367
+29700932,353,PT09M28.00S,4,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,76.0,62.0,138,v,Johnson Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,368
+29700932,354,PT09M28.00S,4,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,MISS Johnson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,369
+29700932,355,PT09M26.00S,4,1610612759,SAS,1002,Geary,R. Geary,0,0,0,,0,0.0,0.0,0,h,Geary REBOUND (Off:0 Def:1),Rebound,Unknown,0,370
+29700932,356,PT09M07.00S,4,1610612759,SAS,1495,Duncan,T. Duncan,18,5,2,Made,1,78.0,62.0,140,h,Duncan 2' Layup (18 PTS) (Geary 2 AST),Made Shot,Layup Shot,0,371
+29700932,357,PT08M49.00S,4,1610612749,MIL,386,Perry,E. Perry,-115,156,19,Missed,1,0.0,0.0,0,v,MISS Perry 19' Jump Shot,Missed Shot,Jump Shot,0,372
+29700932,358,PT08M46.00S,4,1610612759,SAS,781,Perdue,W. Perdue,0,0,0,,0,0.0,0.0,0,h,Perdue REBOUND (Off:0 Def:2),Rebound,Unknown,0,373
+29700932,359,PT08M40.00S,4,1610612759,SAS,990,Rose,M. Rose,-68,23,7,Missed,1,0.0,0.0,0,h,MISS Rose 7' Jump Shot,Missed Shot,Jump Shot,0,374
+29700932,360,PT08M38.00S,4,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,v,Bucks Rebound,Rebound,Unknown,0,375
+29700932,361,PT08M21.00S,4,1610612749,MIL,1532,Honeycutt,J. Honeycutt,-143,8,14,Missed,1,0.0,0.0,0,v,MISS Honeycutt 14' Jump Shot,Missed Shot,Jump Shot,0,376
+29700932,362,PT08M18.00S,4,1610612759,SAS,781,Perdue,W. Perdue,0,0,0,,0,0.0,0.0,0,h,Perdue REBOUND (Off:0 Def:3),Rebound,Unknown,0,377
+29700932,363,PT08M14.00S,4,1610612759,SAS,1114,Jackson,J. Jackson,-186,10,19,Made,1,80.0,62.0,142,h,Jackson 19' Jump Shot (7 PTS) (Geary 3 AST),Made Shot,Jump Shot,0,378
+29700932,364,PT08M10.00S,4,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,v,Bucks Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,379
+29700932,366,PT08M07.00S,4,1610612759,SAS,1002,Geary,R. Geary,0,0,0,,0,0.0,0.0,0,h,Geary P.FOUL (P2.T3),Foul,Personal,0,380
+29700932,367,PT07M54.00S,4,1610612749,MIL,1532,Honeycutt,J. Honeycutt,-104,227,25,Made,1,80.0,65.0,145,v,Honeycutt 25' 3PT Jump Shot (9 PTS) (Perry 5 AST),Made Shot,Jump Shot,0,381
+29700932,368,PT07M27.00S,4,1610612759,SAS,1002,Geary,R. Geary,33,265,27,Missed,1,0.0,0.0,0,h,MISS Geary 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,382
+29700932,369,PT07M26.00S,4,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,h,SPURS Rebound,Rebound,Unknown,0,383
+29700932,370,PT07M26.00S,4,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,h,SPURS Turnover: Shot Clock (T#18),Turnover,Shot Clock Turnover,0,384
+29700932,371,PT07M10.00S,4,1610612749,MIL,911,Johnson,E. Johnson,-51,38,6,Made,1,80.0,67.0,147,v,Johnson 6' Hook Shot (15 PTS) (Perry 6 AST),Made Shot,Hook Shot,0,385
+29700932,372,PT06M58.00S,4,1610612759,SAS,1114,Jackson,J. Jackson,-1,5,1,Missed,1,0.0,0.0,0,h,MISS Jackson 1' Layup,Missed Shot,Layup Shot,0,386
+29700932,372,PT06M58.00S,4,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson BLOCK (4 BLK),,,0,387
+29700932,373,PT06M55.00S,4,1610612759,SAS,781,Perdue,W. Perdue,0,0,0,,0,0.0,0.0,0,h,Perdue REBOUND (Off:1 Def:3),Rebound,Unknown,0,388
+29700932,374,PT06M49.00S,4,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson S.FOUL (P4.T3),Foul,Shooting,0,389
+29700932,375,PT06M49.00S,4,1610612759,SAS,990,Rose,M. Rose,0,0,0,,0,0.0,0.0,0,h,MISS Rose Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,390
+29700932,376,PT06M49.00S,4,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,h,SPURS Rebound,Rebound,Unknown,0,391
+29700932,377,PT06M49.00S,4,1610612749,MIL,288,Gilliam,A. Gilliam,0,0,0,,0,0.0,0.0,0,v,SUB: Allen FOR Gilliam,Substitution,,0,392
+29700932,378,PT06M49.00S,4,1610612759,SAS,990,Rose,M. Rose,0,0,0,,0,81.0,67.0,148,h,Rose Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,393
+29700932,379,PT06M32.00S,4,1610612749,MIL,1532,Honeycutt,J. Honeycutt,-227,-5,0,Made,1,81.0,70.0,151,v,Honeycutt  3PT Jump Shot (12 PTS) (Perry 7 AST),Made Shot,Jump Shot,0,394
+29700932,380,PT06M22.00S,4,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson P.FOUL (P5.T4),Foul,Personal,0,395
+29700932,381,PT06M22.00S,4,1610612759,SAS,990,Rose,M. Rose,0,0,0,,0,0.0,0.0,0,h,SUB: Del Negro FOR Rose,Substitution,,0,396
+29700932,382,PT06M12.00S,4,1610612759,SAS,219,Del Negro,V. Del Negro,-6,36,4,Missed,1,0.0,0.0,0,h,MISS Del Negro 4' Jump Shot,Missed Shot,Jump Shot,0,397
+29700932,382,PT06M12.00S,4,1610612749,MIL,1532,Honeycutt,J. Honeycutt,0,0,0,,0,0.0,0.0,0,v,Honeycutt BLOCK (1 BLK),,,0,398
+29700932,383,PT06M09.00S,4,1610612759,SAS,1114,Jackson,J. Jackson,0,0,0,,0,0.0,0.0,0,h,Jackson REBOUND (Off:1 Def:2),Rebound,Unknown,0,399
+29700932,384,PT05M58.00S,4,1610612759,SAS,1495,Duncan,T. Duncan,42,18,5,Made,1,83.0,70.0,153,h,Duncan 5' Jump Shot (20 PTS),Made Shot,Jump Shot,0,400
+29700932,385,PT05M30.00S,4,1610612749,MIL,386,Perry,E. Perry,-231,-5,0,Made,1,83.0,73.0,156,v,Perry  3PT Jump Shot (15 PTS) (Honeycutt 2 AST),Made Shot,Jump Shot,0,401
+29700932,386,PT05M05.00S,4,1610612759,SAS,1002,Geary,R. Geary,-23,14,3,Missed,1,0.0,0.0,0,h,MISS Geary 3' Layup,Missed Shot,Layup Shot,0,402
+29700932,386,PT05M05.00S,4,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson BLOCK (5 BLK),,,0,403
+29700932,387,PT05M02.00S,4,1610612749,MIL,386,Perry,E. Perry,0,0,0,,0,0.0,0.0,0,v,Perry REBOUND (Off:1 Def:2),Rebound,Unknown,0,404
+29700932,388,PT04M57.00S,4,1610612749,MIL,1532,Honeycutt,J. Honeycutt,-147,205,25,Missed,1,0.0,0.0,0,v,MISS Honeycutt 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,405
+29700932,389,PT04M55.00S,4,1610612759,SAS,1114,Jackson,J. Jackson,0,0,0,,0,0.0,0.0,0,h,Jackson REBOUND (Off:1 Def:3),Rebound,Unknown,0,406
+29700932,390,PT04M39.00S,4,1610612759,SAS,1002,Geary,R. Geary,115,145,19,Made,1,85.0,73.0,158,h,Geary 19' Jump Shot (6 PTS) (Duncan 2 AST),Made Shot,Jump Shot,0,407
+29700932,391,PT04M19.00S,4,1610612749,MIL,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,v,Allen Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,408
+29700932,391,PT04M19.00S,4,1610612759,SAS,781,Perdue,W. Perdue,0,0,0,,0,0.0,0.0,0,h,Perdue STEAL (1 STL),,,0,409
+29700932,392,PT04M11.00S,4,1610612759,SAS,781,Perdue,W. Perdue,-12,1,1,Made,1,87.0,73.0,160,h,Perdue 1' Slam Dunk (2 PTS) (Duncan 3 AST),Made Shot,Slam Dunk Shot,0,410
+29700932,393,PT04M10.00S,4,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,v,Bucks Timeout: Regular (Reg.5 Short 1),Timeout,Regular,0,411
+29700932,395,PT03M52.00S,4,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,h,Duncan S.FOUL (P3.T4),Foul,Shooting,0,412
+29700932,396,PT03M52.00S,4,1610612749,MIL,1532,Honeycutt,J. Honeycutt,0,0,0,,0,87.0,74.0,161,v,Honeycutt Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,413
+29700932,397,PT03M52.00S,4,1610612749,MIL,1532,Honeycutt,J. Honeycutt,0,0,0,,0,0.0,0.0,0,v,MISS Honeycutt Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,414
+29700932,398,PT03M51.00S,4,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson REBOUND (Off:6 Def:4),Rebound,Unknown,0,415
+29700932,399,PT03M48.00S,4,1610612749,MIL,911,Johnson,E. Johnson,-23,53,6,Missed,1,0.0,0.0,0,v,MISS Johnson 6' Jump Shot,Missed Shot,Jump Shot,0,416
+29700932,400,PT03M46.00S,4,1610612759,SAS,781,Perdue,W. Perdue,0,0,0,,0,0.0,0.0,0,h,Perdue REBOUND (Off:1 Def:4),Rebound,Unknown,0,417
+29700932,401,PT03M28.00S,4,1610612759,SAS,1495,Duncan,T. Duncan,51,8,5,Missed,1,0.0,0.0,0,h,MISS Duncan 5' Jump Shot,Missed Shot,Jump Shot,0,418
+29700932,401,PT03M28.00S,4,1610612749,MIL,1532,Honeycutt,J. Honeycutt,0,0,0,,0,0.0,0.0,0,v,Honeycutt BLOCK (2 BLK),,,0,419
+29700932,403,PT03M23.00S,4,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,h,Duncan REBOUND (Off:7 Def:9),Rebound,Unknown,0,420
+29700932,402,PT03M23.00S,4,1610612759,SAS,1495,Duncan,T. Duncan,14,10,2,Made,1,89.0,74.0,163,h,Duncan 2' Layup (22 PTS),Made Shot,Layup Shot,0,421
+29700932,404,PT03M06.00S,4,1610612749,MIL,688,Curry,M. Curry,93,175,20,Missed,1,0.0,0.0,0,v,MISS Curry 20' Jump Shot,Missed Shot,Jump Shot,0,422
+29700932,406,PT03M03.00S,4,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson REBOUND (Off:7 Def:4),Rebound,Unknown,0,423
+29700932,405,PT03M03.00S,4,1610612749,MIL,911,Johnson,E. Johnson,-16,8,2,Missed,1,0.0,0.0,0,v,MISS Johnson 2' Layup,Missed Shot,Layup Shot,0,424
+29700932,407,PT03M02.00S,4,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson REBOUND (Off:8 Def:4),Rebound,Unknown,0,425
+29700932,408,PT03M02.00S,4,1610612759,SAS,1002,Geary,R. Geary,0,0,0,,0,0.0,0.0,0,h,Geary S.FOUL (P3.PN),Foul,Shooting,0,426
+29700932,409,PT03M02.00S,4,1610612749,MIL,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,v,SUB: Feick FOR Allen,Substitution,,0,427
+29700932,410,PT03M02.00S,4,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,MISS Johnson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,428
+29700932,411,PT03M02.00S,4,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,v,Bucks Rebound,Rebound,Unknown,0,429
+29700932,412,PT03M02.00S,4,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,MISS Johnson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,430
+29700932,413,PT03M00.00S,4,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,h,Duncan REBOUND (Off:7 Def:10),Rebound,Unknown,0,431
+29700932,414,PT02M43.00S,4,1610612749,MIL,1532,Honeycutt,J. Honeycutt,0,0,0,,0,0.0,0.0,0,v,Honeycutt S.FOUL (P3.PN),Foul,Shooting,0,432
+29700932,415,PT02M43.00S,4,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,SUB: Lang FOR Johnson,Substitution,,0,433
+29700932,416,PT02M43.00S,4,1610612749,MIL,386,Perry,E. Perry,0,0,0,,0,0.0,0.0,0,v,SUB: Green FOR Perry,Substitution,,0,434
+29700932,417,PT02M43.00S,4,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,90.0,74.0,164,h,Duncan Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,435
+29700932,418,PT02M43.00S,4,1610612759,SAS,1114,Jackson,J. Jackson,0,0,0,,0,0.0,0.0,0,h,SUB: Burton FOR Jackson,Substitution,,0,436
+29700932,419,PT02M43.00S,4,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,h,MISS Duncan Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,437
+29700932,420,PT02M42.00S,4,1610612749,MIL,457,Lang,A. Lang,0,0,0,,0,0.0,0.0,0,v,Lang REBOUND (Off:0 Def:1),Rebound,Unknown,0,438
+29700932,421,PT02M29.00S,4,1610612749,MIL,994,Feick,J. Feick,-224,-14,0,Made,1,90.0,77.0,167,v,Feick  3PT Jump Shot (9 PTS) (Green 1 AST),Made Shot,Jump Shot,0,439
+29700932,422,PT02M08.00S,4,1610612759,SAS,1495,Duncan,T. Duncan,-12,0,1,Made,1,92.0,77.0,169,h,Duncan 1' Driving Dunk (25 PTS) (Geary 4 AST),Made Shot,Driving Dunk Shot,0,440
+29700932,423,PT01M49.00S,4,1610612759,SAS,1002,Geary,R. Geary,0,0,0,,0,0.0,0.0,0,h,Geary S.FOUL (P4.PN),Foul,Shooting,0,441
+29700932,424,PT01M49.00S,4,1610612759,SAS,1495,Duncan,T. Duncan,0,0,0,,0,0.0,0.0,0,h,SUB: Rose FOR Duncan,Substitution,,0,442
+29700932,425,PT01M49.00S,4,1610612749,MIL,1036,Green,L. Green,0,0,0,,0,92.0,78.0,170,v,Green Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,443
+29700932,426,PT01M49.00S,4,1610612749,MIL,1036,Green,L. Green,0,0,0,,0,92.0,79.0,171,v,Green Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,444
+29700932,427,PT01M27.00S,4,1610612759,SAS,781,Perdue,W. Perdue,0,0,0,,0,0.0,0.0,0,h,Perdue Bad Pass Turnover (P2.T19),Turnover,Bad Pass,0,445
+29700932,428,PT01M12.00S,4,1610612749,MIL,994,Feick,J. Feick,-194,160,25,Made,1,92.0,82.0,174,v,Feick 25' 3PT Jump Shot (12 PTS) (Honeycutt 3 AST),Made Shot,Jump Shot,0,446
+29700932,429,PT01M08.00S,4,1610612749,MIL,688,Curry,M. Curry,0,0,0,,0,0.0,0.0,0,v,Curry AWAY.FROM.PLAY.FOUL (P3.PN),Foul,Away From Play,0,447
+29700932,430,PT01M08.00S,4,1610612749,MIL,688,Curry,M. Curry,0,0,0,,0,0.0,0.0,0,v,SUB: Nordgaard FOR Curry,Substitution,,0,448
+29700932,431,PT01M08.00S,4,1610612759,SAS,219,Del Negro,V. Del Negro,0,0,0,,0,93.0,82.0,175,h,Del Negro Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,0,449
+29700932,433,PT00M59.90S,4,1610612759,SAS,1002,Geary,R. Geary,0,0,0,,0,0.0,0.0,0,h,Geary Bad Pass Turnover (P1.T20),Turnover,Bad Pass,0,450
+29700932,433,PT00M59.90S,4,1610612749,MIL,1532,Honeycutt,J. Honeycutt,0,0,0,,0,0.0,0.0,0,v,Honeycutt STEAL (1 STL),,,0,451
+29700932,436,PT00M55.60S,4,1610612759,SAS,416,Burton,W. Burton,0,0,0,,0,0.0,0.0,0,h,Burton Violation:Lane,Violation,Lane,0,452
+29700932,434,PT00M55.60S,4,1610612749,MIL,1532,Honeycutt,J. Honeycutt,0,27,3,Made,1,93.0,84.0,177,v,Honeycutt 3' Layup (15 PTS),Made Shot,Layup Shot,0,453
+29700932,437,PT00M55.60S,4,1610612759,SAS,1002,Geary,R. Geary,0,0,0,,0,0.0,0.0,0,h,Geary S.FOUL (P5.PN),Foul,Shooting,0,454
+29700932,438,PT00M55.60S,4,1610612749,MIL,1532,Honeycutt,J. Honeycutt,0,0,0,,0,93.0,85.0,178,v,Honeycutt Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,0,455
+29700932,439,PT00M38.40S,4,1610612759,SAS,416,Burton,W. Burton,231,-5,0,Made,1,96.0,85.0,181,h,Burton  3PT Jump Shot (7 PTS) (Geary 5 AST),Made Shot,Jump Shot,0,456
+29700932,440,PT00M33.00S,4,1610612749,MIL,1532,Honeycutt,J. Honeycutt,0,0,0,,0,0.0,0.0,0,v,Honeycutt Out Of Bounds Turnover (P2.T13),Turnover,Out Of Bounds,0,457
+29700932,441,PT00M13.90S,4,1610612759,SAS,219,Del Negro,V. Del Negro,-6,143,14,Missed,1,0.0,0.0,0,h,MISS Del Negro 14' Jump Shot,Missed Shot,Jump Shot,0,458
+29700932,442,PT00M10.90S,4,1610612749,MIL,994,Feick,J. Feick,0,0,0,,0,0.0,0.0,0,v,Feick REBOUND (Off:0 Def:2),Rebound,Unknown,0,459
+29700932,443,PT00M03.90S,4,1610612749,MIL,994,Feick,J. Feick,3,250,25,Missed,1,0.0,0.0,0,v,MISS Feick 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,460
+29700932,444,PT00M01.60S,4,1610612759,SAS,219,Del Negro,V. Del Negro,0,0,0,,0,0.0,0.0,0,h,Del Negro REBOUND (Off:1 Def:4),Rebound,Unknown,0,461

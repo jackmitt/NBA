@@ -177,18 +177,42 @@ def play_by_play():
     df.to_csv(db_path+"play_by_play.csv",index=False)
     return (1)
 
-
+#for logging issues with lineup processing
+log_error = False
+#For excluding games who have serious errors
+bad_gids = []
 #function used in lineups_on_court:
 #takes the name and team of the player being subbed on, as well as the dfs for play by play for each team (home and away) and traditional game boxscore 
 def substitution_player_id(replace_name, replace_team, h_pbp, a_pbp, game_bs):
-
+    global log_error
+    global bad_gids
     h_team = game_bs['team_id'].unique()[0]
 
-    if ('.' in replace_name):
+    #replace_name = replace_name.lower()
+
+    #Hard Coding for when all else fails... NBA doesn't know how to handle names from different cultures in their data
+    hard_code = {"Ming":2397,"Nene":2403,"N'Diaye":1823,"Seung-Jin":2775,"N'Dong":101238,"McRay":200840,
+                 "Jianlian":201146,"Yue":201180,"Pendergraph":201965,"Ewing Jr.":201607,"Kanter":202683,
+                 "Mark Morris":202693,"Marc Morris":202694,"Jones III":203103,"Ennis III":203516,"Robinson III":203922,
+                 "O'Bryant III":203948,"Drew II":203580,"Baldwin IV":1627735,"McClellan":1627815,"Jones, Jr.":1627884,
+                 "Zhou":1627753,"Mason III":1628412,"Dowtin":1630288,"Nembhard Jr.":1630612,"Baldwin Jr.":1631116}
+    if (replace_name in hard_code):
+        return (hard_code[replace_name])
+
+
+    if ('.' in replace_name.split(" ")[0]):
         if (replace_team == h_team):
             if (len(h_pbp.loc[h_pbp['playerNameI']==replace_name, ]['personId'].unique()) != 0):
                 replace_id = h_pbp.loc[h_pbp['playerNameI']==replace_name, ]['personId'].unique()[0]
             else:
+                #For when the replace name does not fit the format of X. Lastname - for example Er. Johnson when PlayerNameI is E. Johnson
+                #Or when there is an Mik. Smith and Mic. Smith, 
+                lname = replace_name.split(" ")[1]
+                for index, row in h_pbp.loc[h_pbp['playerName']==lname, ].iterrows():
+                    if (pd.isnull(row['description'])):
+                        continue
+                    if (replace_name in row['description'] and row['description'].count(lname) == 1):
+                        return (row['personId'])
                 potentials = []
 
                 #Below finds the total seconds played for players without a single contribution, so we can find their ID from the boxscore
@@ -213,12 +237,21 @@ def substitution_player_id(replace_name, replace_team, h_pbp, a_pbp, game_bs):
                 else:
                     replace_id = np.nan
                     print ("ERROR: "+ str(len(potentials)) +" potential subs found", h_pbp['game_id'].unique()[0], replace_team, replace_name)
+                    log_error = True
             if (len(h_pbp.loc[h_pbp['playerNameI']==replace_name, ]['personId'].unique()) > 1):
-                print ("ERROR: Duplicate Names")
+                print ("ERROR: Duplicate Names", replace_name, h_pbp['game_id'].unique()[0])
+                log_error = True
+                bad_gids.append(h_pbp['game_id'].unique()[0])
         else:
             if (len(a_pbp.loc[a_pbp['playerNameI']==replace_name, ]['personId'].unique()) != 0):
                 replace_id = a_pbp.loc[a_pbp['playerNameI']==replace_name, ]['personId'].unique()[0]
             else:
+                lname = replace_name.split(" ")[1]
+                for index, row in a_pbp.loc[a_pbp['playerName']==lname, ].iterrows():
+                    if (pd.isnull(row['description'])):
+                        continue
+                    if (replace_name in row['description'] and row['description'].count(lname) == 1):
+                        return (row['personId'])
                 potentials = []
 
                 #Below finds the total seconds played for players without a single contribution, so we can find their ID from the boxscore
@@ -243,6 +276,11 @@ def substitution_player_id(replace_name, replace_team, h_pbp, a_pbp, game_bs):
                 else:
                     replace_id = np.nan
                     print ("ERROR: "+ str(len(potentials)) +" potential subs found", h_pbp['game_id'].unique()[0], replace_team, replace_name)
+                    log_error = True
+            if (len(a_pbp.loc[a_pbp['playerNameI']==replace_name, ]['personId'].unique()) > 1):
+                print ("ERROR: Duplicate Names", replace_name, h_pbp['game_id'].unique()[0])
+                log_error = True
+                bad_gids.append(h_pbp['game_id'].unique()[0])
     else:
         if (replace_team == h_team):
             if (len(h_pbp.loc[h_pbp['playerName']==replace_name, ]['personId'].unique()) != 0):
@@ -270,8 +308,16 @@ def substitution_player_id(replace_name, replace_team, h_pbp, a_pbp, game_bs):
                 if (len(potentials) == 1):
                     replace_id = potentials[0]
                 else:
+                    #For the case of Otto Porter Jr. who appears as Porter and not Porter Jr.
+                    if (replace_name == "Porter" and "O. Porter Jr." in list(h_pbp['playerNameI'])):
+                        return (203490)
                     replace_id = np.nan
                     print ("ERROR: "+ str(len(potentials)) +" potential subs found", h_pbp['game_id'].unique()[0], replace_team, replace_name)
+                    log_error = True
+            if (len(h_pbp.loc[h_pbp['playerName']==replace_name, ]['personId'].unique()) > 1):
+                print ("ERROR: Duplicate Names", replace_name, h_pbp['game_id'].unique()[0])
+                log_error = True
+                bad_gids.append(h_pbp['game_id'].unique()[0])
         else:
             if (len(a_pbp.loc[a_pbp['playerName']==replace_name, ]['personId'].unique()) != 0):
                 replace_id = a_pbp.loc[a_pbp['playerName']==replace_name, ]['personId'].unique()[0]
@@ -298,15 +344,23 @@ def substitution_player_id(replace_name, replace_team, h_pbp, a_pbp, game_bs):
                 if (len(potentials) == 1):
                     replace_id = potentials[0]
                 else:
+                    #For the case of Otto Porter Jr. who appears as Porter and not Porter Jr.
+                    if (replace_name == "Porter" and "O. Porter Jr." in list(a_pbp['playerNameI'])):
+                        return (203490)
                     replace_id = np.nan
                     print ("ERROR: "+ str(len(potentials)) +" potential subs found", h_pbp['game_id'].unique()[0], replace_team, replace_name)
+                    log_error = True
             if (len(a_pbp.loc[a_pbp['playerName']==replace_name, ]['personId'].unique()) > 1):
-                print ("ERROR: Duplicate Names")
+                print ("ERROR: Duplicate Names", replace_name, h_pbp['game_id'].unique()[0])
+                log_error = True
+                bad_gids.append(h_pbp['game_id'].unique()[0])
+            
     
     return (replace_id)
 #function used in lineups_on_court
 #takes the unaccounted_game_time dict and the dict about to be pushed to the table with the info of time played for the current lineup
 def game_time_accounting(unaccounted_game_time, dict):
+    global log_error
     for key in dict:
         if (pd.isnull(dict[key])):
             continue
@@ -315,31 +369,56 @@ def game_time_accounting(unaccounted_game_time, dict):
                 if (dict[key] > 0): unaccounted_game_time['home'][dict[key]] -= dict['end'] - dict['start']
             except:
                 print ('ERROR: Player Id not found in boxscore.', dict['game_id'], dict['h_id'], dict[key])
+                log_error = True
         elif ('a_player_' in key):
             try:
                 if (dict[key] > 0): unaccounted_game_time['away'][dict[key]] -= dict['end'] - dict['start']
             except:
                 print ('ERROR: Player Id not found in boxscore.', dict['game_id'], dict['a_id'], dict[key])
+                log_error = True
 #Uses play by play data to get data about every unique lineup during the game
 #need to come up with a way to validate
+#Note: When run for future seasons, must validate all errors in the new season
 def lineups_on_court():
     pbp = pd.read_csv(db_path+'play_by_play.csv')
+    
+    #This is disgusting to have to do, but it's all I could come up with for these cases where the name has additional titles at the end but not the name in the description
+    #Although the players start out being referred to without the title, the title gets added eventually, so you must also hard code their id to their full title name in the sub function
+    pbp = pbp.replace("Jones III","Jones")
+    pbp = pbp.replace("Ennis III","Ennis")
+    pbp = pbp.replace("O'Bryant III","O'Bryant")
+    pbp = pbp.replace("Drew II","Drew")
+    pbp = pbp.replace("Baldwin IV","Baldwin")
+    pbp = pbp.replace("Mason III","Mason")
+
+    box_score = pd.read_csv(db_path+'traditional_boxscores_players.csv')
     #pbp = pbp.iloc[0:100000]
     #pbp.to_csv('C:/Users/jackj/OneDrive/Desktop/play_by_play.csv', index = False)
     #return
-    box_score = pd.read_csv(db_path+'traditional_boxscores_players.csv')
+    games = pd.read_csv("./database/games.csv")
+    games_to_exclude = list(games[games["game_type"].str.contains("Pre Season|Pre-Season")]['game_id'])
+
     game_ids = list(pbp["game_id"].unique())
 
     #players_df = pd.read_csv(db_path+'players.csv')
     #player_map = dict.fromkeys(players_df[''])
 
     table = []
+    global log_error
+    global bad_gids
 
     for gid in tqdm(game_ids):
+        if (gid in games_to_exclude):
+            continue
+        log_error = False
         game_pbp = pbp.loc[pbp['game_id']==gid,].reset_index(drop=True)
+
         game_bs = box_score.loc[box_score['game_id']==gid,]
         pd.options.mode.chained_assignment = None
-        game_bs['seconds'] = game_bs['minutes'].dropna().transform(lambda x: int(x.split(":")[0]) * 60 + int(x.split(":")[1]))
+        try:
+            game_bs['seconds'] = game_bs['minutes'].dropna().transform(lambda x: int(x.split(":")[0]) * 60 + int(x.split(":")[1]))
+        except:
+            game_bs['seconds'] = game_bs['minutes'].dropna() * 60
 
         sub_events = game_pbp.loc[game_pbp['actionType']=="Substitution", ].copy()
 
@@ -385,6 +464,13 @@ def lineups_on_court():
                 if (game_pbp.at[index, 'period'] != 1):
                     if (game_pbp.at[index, 'period'] > 4):
                         dict['end'] = 2880 + (game_pbp.at[index, 'period']-5) * 300
+                        if (not sub_in_period):
+                            for i in range(len(h_players_found), 5):
+                                dict['h_player_'+str(i+1)] = -(i+1)
+                                missing_list_h.append(game_pbp.at[index,'period'])
+                            for i in range(len(a_players_found), 5):
+                                dict['a_player_'+str(i+1)] = -(i+1)
+                                missing_list_a.append(game_pbp.at[index,'period'])
                         table.append(dict.copy())
                         game_time_accounting(unaccounted_game_time, dict)
                         dict = {'game_id':gid,'h_id':h_team,'a_id':a_team,'start':2880 + (game_pbp.at[index, 'period']-5) * 300,'end':-1} 
@@ -397,8 +483,9 @@ def lineups_on_court():
                 a_players_found = []
                 #new_lineup is true when 1,2,3,4,OTs periods begin and we do not know who started the quarter on the court; switched to False when we know
                 new_lineup = True
+                sub_in_period = False
             #bench players can get technical fouls
-            if (new_lineup and not (game_pbp.at[index, 'actionType'] == 'Foul' and game_pbp.at[index, 'subType'] == 'Technical')):
+            if (new_lineup and not (game_pbp.at[index, 'actionType'] == 'Foul' and (game_pbp.at[index, 'subType'] == 'Technical' or game_pbp.at[index, 'subType'] == 'Double Technical'))):
                 if (game_pbp.at[index,'teamId'] == h_team and game_pbp.at[index,'personId'] not in h_players_found and game_pbp.at[index,'personId'] in unaccounted_game_time['home']):
                     h_players_found.append(game_pbp.at[index,'personId'])
                     dict['h_player_'+str(len(h_players_found))] = game_pbp.at[index,'personId']
@@ -409,6 +496,8 @@ def lineups_on_court():
                     new_lineup = False
 
             if (game_pbp.at[index, 'actionType'] == 'Substitution' and not pd.isnull(game_pbp.at[index,'description'])):
+                sub_in_period = True
+
                 if (game_pbp.at[index,'period'] <= 4):
                     sec_elapsed_game = 720*(game_pbp.at[index,'period']) - float(game_pbp.at[index,'clock'].split("PT")[1].split("M")[0]) * 60 - float(game_pbp.at[index,'clock'].split("M")[1].split("S")[0])
                 else:
@@ -434,7 +523,7 @@ def lineups_on_court():
                         end_period_index += 1
 
                     for j in range(index, end_period_index):
-                        if (not (game_pbp.at[j, 'actionType'] == 'Foul' and game_pbp.at[j, 'subType'] == 'Technical')):
+                        if (not (game_pbp.at[j, 'actionType'] == 'Foul' and (game_pbp.at[j, 'subType'] == 'Technical' or game_pbp.at[j, 'subType'] == 'Double Technical'))):
                             if (game_pbp.at[j,'teamId'] == h_team and game_pbp.at[j,'personId'] not in h_players_found and game_pbp.at[j,'personId'] not in h_subbed_on and game_pbp.at[j,'personId'] in unaccounted_game_time['home']):
                                 h_players_found.append(game_pbp.at[j,'personId'])
                                 dict['h_player_'+str(len(h_players_found))] = game_pbp.at[j,'personId']
@@ -490,8 +579,12 @@ def lineups_on_court():
                                 only_one_unknown = False
                                 break
                     
+                    #Often this happens because a player was ejected and they do not specify the sub like they usually do
+                    #It is very rare that this happens - currently just throwing away the games - example 20300785
                     if (not only_one_unknown):
                         print ("BIG BIG ERROR (Unknown key - data ruined):", gid, game_pbp.at[index,'personId'], sec_elapsed_game)
+                        bad_gids.append(gid)
+                        log_error = True
                 
                 #print (str(game_pbp.at[index,'description']))
                 replace_name = str(game_pbp.at[index,'description']).split("SUB: ")[1].split(" FOR")[0]
@@ -515,17 +608,35 @@ def lineups_on_court():
             for key in unaccounted_game_time['home']:
                 if (unaccounted_game_time['home'][key] > 298):
                     for t_dict in table[-100:]:
-                        if (t_dict['h_player_5'] < 0):
-                            t_dict['h_player_5'] = key
+                        try:
+                            if (t_dict['h_player_5'] < 0):
+                                t_dict['h_player_5'] = key
+                        except:
+                            log_error = True
+                            print ("ERROR: h_player_5 missing???", gid)
+                            bad_gids.append(gid)
         if (len(missing_list_a) == 1):
             for key in unaccounted_game_time['away']:
                 if (unaccounted_game_time['away'][key] > 298):
                     for t_dict in table[-100:]:
-                        if (t_dict['a_player_5'] < 0):
-                            t_dict['a_player_5'] = key
+                        try:
+                            if (t_dict['a_player_5'] < 0):
+                                t_dict['a_player_5'] = key
+                        except:
+                            log_error = True
+                            print ("ERROR: a_player_5 missing???", gid)
+                            bad_gids.append(gid)
+            
+        if (log_error):
+            df = pd.DataFrame(table[-100:])
+            df.to_csv('./error_logs/'+str(gid)+'_lineups.csv', index=False)
+            game_pbp.to_csv('./error_logs/'+str(gid)+'_pbp.csv', index=False)
 
 
     df = pd.DataFrame(table)
+    drop_rows = df['game_id'].isin(bad_gids)
+    df = df[~drop_rows]
+    print ("Games dropped:", bad_gids)
     df.to_csv(db_path+'unique_lineups.csv',index=False)
 
 

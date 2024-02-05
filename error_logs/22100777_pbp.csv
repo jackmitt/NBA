@@ -1,0 +1,505 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+22100777,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (8:14 PM EST),period,start,0,1
+22100777,4,PT12M00.00S,1,1610612745,HOU,1626174,Wood,C. Wood,0,0,0,,0,,,0,h,Jump Ball Wood vs. Allen: Tip to Osman,Jump Ball,,1,2
+22100777,7,PT11M38.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,-1,58,6,Missed,1,,,0,v,MISS Mobley 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,3
+22100777,8,PT11M36.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:1 Def:0),Rebound,Unknown,1,4
+22100777,9,PT11M31.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,21,69,7,Missed,1,,,0,v,MISS Okoro 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,5
+22100777,10,PT11M29.00S,1,1610612745,HOU,1626174,Wood,C. Wood,0,0,0,,0,,,0,h,Wood REBOUND (Off:0 Def:1),Rebound,Unknown,1,6
+22100777,11,PT11M23.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen P.FOUL (P1.T1) (B.Nansel),Foul,Personal,1,7
+22100777,13,PT11M12.00S,1,1610612745,HOU,1626174,Wood,C. Wood,-48,69,8,Missed,1,,,0,h,MISS Wood 8' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,8
+22100777,14,PT11M11.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley REBOUND (Off:0 Def:1),Rebound,Unknown,1,9
+22100777,15,PT11M06.00S,1,1610612739,CLE,1629164,Goodwin,B. Goodwin,196,153,25,Missed,1,,,0,v,MISS Goodwin 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,10
+22100777,16,PT11M03.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:2 Def:0),Rebound,Unknown,1,11
+22100777,17,PT11M02.00S,1,1610612739,CLE,1628386,Allen,J. Allen,6,8,1,Made,1,0.0,2.0,2,v,Allen 1' Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,1,12
+22100777,18,PT10M43.00S,1,1610612745,HOU,1630256,Tate,J. Tate,229,-4,0,Missed,1,,,0,h,MISS Tate 3PT Jump Shot,Missed Shot,Jump Shot,1,13
+22100777,19,PT10M41.00S,1,1610612739,CLE,1626224,Osman,C. Osman,0,0,0,,0,,,0,v,Osman REBOUND (Off:0 Def:1),Rebound,Unknown,1,14
+22100777,20,PT10M27.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,232,27,0,Made,1,0.0,5.0,5,v,Okoro 3PT Jump Shot (3 PTS) (Goodwin 1 AST),Made Shot,Jump Shot,1,15
+22100777,22,PT10M15.00S,1,1610612745,HOU,1630224,Green,J. Green,10,13,2,Missed,1,,,0,h,MISS Green 2' Driving Layup,Missed Shot,Driving Layup Shot,1,16
+22100777,23,PT10M13.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,v,Okoro REBOUND (Off:0 Def:1),Rebound,Unknown,1,17
+22100777,24,PT09M55.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,7,10,1,Made,1,0.0,7.0,7,v,Mobley 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,18
+22100777,25,PT09M38.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,-109,244,27,Made,1,3.0,7.0,10,h,Porter Jr. 27' 3PT Pullup Jump Shot (3 PTS) (Green 1 AST),Made Shot,Pullup Jump shot,1,19
+22100777,26,PT09M20.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. P.FOUL (P1.T1) (C.Kirkland),Foul,Personal,1,20
+22100777,28,PT09M08.00S,1,1610612739,CLE,1626224,Osman,C. Osman,12,11,2,Made,1,3.0,9.0,12,v,Osman 2' Cutting Layup Shot (2 PTS) (Goodwin 2 AST),Made Shot,Cutting Layup Shot,1,21
+22100777,30,PT09M01.00S,1,1610612745,HOU,1630224,Green,J. Green,-2,16,2,Made,1,5.0,9.0,14,h,Green 2' Running Layup (2 PTS) (Porter Jr. 1 AST),Made Shot,Running Layup Shot,1,22
+22100777,33,PT08M37.00S,1,1610612739,CLE,1628386,Allen,J. Allen,-9,99,10,Made,1,5.0,11.0,16,v,Allen 10' Driving Hook Shot (4 PTS),Made Shot,Driving Hook Shot,1,23
+22100777,34,PT08M24.00S,1,1610612745,HOU,1630224,Green,J. Green,34,260,26,Made,1,8.0,11.0,19,h,Green 26' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,24
+22100777,35,PT08M04.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,Green S.FOUL (P1.T2) (C.Kirkland),Foul,Shooting,1,25
+22100777,37,PT08M04.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,8.0,12.0,20,v,Mobley Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,26
+22100777,38,PT08M04.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,8.0,13.0,21,v,Mobley Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,27
+22100777,39,PT07M58.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,1,28
+22100777,40,PT07M44.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. P.FOUL (P2.T3) (R.Acosta),Foul,Personal,1,29
+22100777,42,PT07M42.00S,1,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate P.FOUL (P1.T4) (B.Nansel),Foul,Personal,1,30
+22100777,44,PT07M32.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,2,9,1,Made,1,8.0,15.0,23,v,Mobley 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,31
+22100777,45,PT07M18.00S,1,1610612739,CLE,1629164,Goodwin,B. Goodwin,0,0,0,,0,,,0,v,Goodwin P.FOUL (P1.T2) (C.Kirkland),Foul,Personal,1,32
+22100777,47,PT07M13.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen S.FOUL (P2.T3) (R.Acosta),Foul,Shooting,1,33
+22100777,49,PT07M13.00S,1,1610612745,HOU,1626174,Wood,C. Wood,0,0,0,,0,9.0,15.0,24,h,Wood Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,34
+22100777,50,PT07M13.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,SUB: Love FOR Allen,Substitution,,0,35
+22100777,52,PT07M13.00S,1,1610612745,HOU,1626174,Wood,C. Wood,0,0,0,,0,10.0,15.0,25,h,Wood Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,36
+22100777,53,PT06M52.00S,1,1610612739,CLE,201567,Love,K. Love,124,124,18,Missed,1,,,0,v,MISS Love 18' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,37
+22100777,54,PT06M51.00S,1,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate REBOUND (Off:0 Def:1),Rebound,Unknown,1,38
+22100777,55,PT06M42.00S,1,1610612745,HOU,201569,Gordon,E. Gordon,232,-1,0,Missed,1,,,0,h,MISS Gordon 3PT Jump Shot,Missed Shot,Jump Shot,1,39
+22100777,56,PT06M41.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:0 Def:1),Rebound,Unknown,1,40
+22100777,57,PT06M25.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,16,51,5,Missed,1,,,0,v,MISS Mobley 5' Layup,Missed Shot,Layup Shot,1,41
+22100777,58,PT06M23.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley REBOUND (Off:1 Def:1),Rebound,Unknown,1,42
+22100777,61,PT06M21.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,Made,1,10.0,17.0,27,v,Mobley Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,43
+22100777,62,PT06M21.00S,1,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,44
+22100777,63,PT06M21.00S,1,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,SUB: Mathews FOR Tate,Substitution,,0,45
+22100777,64,PT06M21.00S,1,1610612745,HOU,201569,Gordon,E. Gordon,0,0,0,,0,,,0,h,SUB: Sengun FOR Gordon,Substitution,,0,46
+22100777,65,PT06M21.00S,1,1610612739,CLE,1629164,Goodwin,B. Goodwin,0,0,0,,0,,,0,v,SUB: Rondo FOR Goodwin,Substitution,,0,47
+22100777,69,PT05M58.00S,1,1610612745,HOU,1630224,Green,J. Green,0,7,1,Made,1,12.0,17.0,29,h,Green 1' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,1,48
+22100777,70,PT05M58.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley S.FOUL (P1.T4) (B.Nansel),Foul,Shooting,1,49
+22100777,72,PT05M58.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,13.0,17.0,30,h,Green Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,1,50
+22100777,73,PT05M34.00S,1,1610612739,CLE,200765,Rondo,R. Rondo,-142,215,26,Missed,1,,,0,v,MISS Rondo 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,51
+22100777,74,PT05M32.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:1 Def:1),Rebound,Unknown,1,52
+22100777,75,PT05M29.00S,1,1610612739,CLE,201567,Love,K. Love,110,13,11,Made,1,13.0,19.0,32,v,Love 11' Jump Shot (2 PTS),Made Shot,Jump Shot,1,53
+22100777,76,PT05M11.00S,1,1610612745,HOU,1626174,Wood,C. Wood,-1,6,1,Made,1,15.0,19.0,34,h,Wood 1' Driving Layup (4 PTS) (Sengun 1 AST),Made Shot,Driving Layup Shot,1,54
+22100777,78,PT04M58.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,-136,79,16,Made,1,15.0,21.0,36,v,Mobley 16' Jump Shot (10 PTS) (Love 1 AST),Made Shot,Jump Shot,1,55
+22100777,80,PT04M38.00S,1,1610612745,HOU,1630224,Green,J. Green,1,59,6,Missed,1,,,0,h,MISS Green 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,56
+22100777,80,PT04M38.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,v,Okoro BLOCK (1 BLK),,,1,57
+22100777,82,PT04M36.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:1 Def:2),Rebound,Unknown,1,58
+22100777,83,PT04M30.00S,1,1610612739,CLE,201567,Love,K. Love,112,224,25,Missed,1,,,0,v,MISS Love 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,59
+22100777,84,PT04M28.00S,1,1610612745,HOU,1626174,Wood,C. Wood,0,0,0,,0,,,0,h,Wood REBOUND (Off:0 Def:2),Rebound,Unknown,1,60
+22100777,85,PT04M18.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,-15,32,4,Made,1,17.0,21.0,38,h,Sengun 4' Layup (2 PTS),Made Shot,Layup Shot,1,61
+22100777,86,PT04M10.00S,1,1610612739,CLE,1626224,Osman,C. Osman,0,0,0,,0,,,0,v,Osman OFF.Foul (P1) (B.Nansel),Foul,Offensive,1,62
+22100777,88,PT04M10.00S,1,1610612739,CLE,1626224,Osman,C. Osman,0,0,0,,0,,,0,v,Osman Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,1,63
+22100777,89,PT04M10.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,v,SUB: Stevens FOR Okoro,Substitution,,0,64
+22100777,91,PT03M57.00S,1,1610612745,HOU,1626174,Wood,C. Wood,11,260,26,Missed,1,,,0,h,MISS Wood 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,65
+22100777,92,PT03M55.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley REBOUND (Off:1 Def:2),Rebound,Unknown,1,66
+22100777,93,PT03M49.00S,1,1610612739,CLE,1630205,Stevens,L. Stevens,2,8,1,Made,1,17.0,23.0,40,v,Stevens 1' Running Dunk (2 PTS) (Rondo 1 AST),Made Shot,Running Dunk Shot,1,67
+22100777,95,PT03M40.00S,1,1610612739,CLE,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,Stevens P.FOUL (P1.PN) (B.Nansel),Foul,Personal,1,68
+22100777,97,PT03M40.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,18.0,23.0,41,h,Sengun Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,69
+22100777,98,PT03M40.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,19.0,23.0,42,h,Sengun Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,70
+22100777,99,PT03M17.00S,1,1610612739,CLE,1630205,Stevens,L. Stevens,-179,195,26,Missed,1,,,0,v,MISS Stevens 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,71
+22100777,100,PT03M16.00S,1,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,72
+22100777,102,PT03M16.00S,1,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Turnover: Shot Clock (T#2),Turnover,Shot Clock Turnover,0,73
+22100777,103,PT03M05.00S,1,1610612745,HOU,1629726,Mathews,G. Mathews,-151,243,29,Made,1,22.0,23.0,45,h,Mathews 29' 3PT Pullup Jump Shot (3 PTS) (Porter Jr. 2 AST),Made Shot,Pullup Jump shot,1,74
+22100777,105,PT03M05.00S,1,1610612739,CLE,200765,Rondo,R. Rondo,0,0,0,,0,,,0,v,Rondo S.FOUL (P1.PN) (C.Kirkland),Foul,Shooting,1,75
+22100777,112,PT03M05.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Lane,Violation,Lane,0,76
+22100777,107,PT03M05.00S,1,1610612745,HOU,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,MISS Mathews Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,77
+22100777,113,PT03M05.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley REBOUND (Off:1 Def:3),Rebound,Unknown,1,78
+22100777,114,PT02M59.00S,1,1610612745,HOU,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews P.FOUL (P1.PN) (C.Kirkland),Foul,Personal,0,79
+22100777,111,PT02M59.00S,1,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,80
+22100777,116,PT02M59.00S,1,1610612739,CLE,200765,Rondo,R. Rondo,0,0,0,,0,22.0,24.0,46,v,Rondo Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,81
+22100777,117,PT02M59.00S,1,1610612739,CLE,200765,Rondo,R. Rondo,0,0,0,,0,22.0,25.0,47,v,Rondo Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,82
+22100777,118,PT02M48.00S,1,1610612739,CLE,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,Stevens P.FOUL (P2.PN) (R.Acosta),Foul,Personal,1,83
+22100777,120,PT02M48.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,23.0,25.0,48,h,Green Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,84
+22100777,121,PT02M48.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,24.0,25.0,49,h,Green Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,85
+22100777,122,PT02M36.00S,1,1610612739,CLE,201567,Love,K. Love,181,5,18,Missed,1,,,0,v,MISS Love 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,86
+22100777,123,PT02M34.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,87
+22100777,124,PT02M24.00S,1,1610612745,HOU,1630224,Green,J. Green,154,204,26,Missed,1,,,0,h,MISS Green 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,88
+22100777,125,PT02M23.00S,1,1610612739,CLE,200765,Rondo,R. Rondo,0,0,0,,0,,,0,v,Rondo REBOUND (Off:0 Def:1),Rebound,Unknown,1,89
+22100777,126,PT02M12.00S,1,1610612739,CLE,200765,Rondo,R. Rondo,0,0,0,,0,,,0,v,Rondo Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,90
+22100777,126,PT02M12.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,Green STEAL (1 STL),,,1,91
+22100777,128,PT02M12.00S,1,1610612739,CLE,200765,Rondo,R. Rondo,0,0,0,,0,,,0,v,Rondo Personal Take Foul (P2.PN) (B.Nansel),Foul,Personal Take,1,92
+22100777,130,PT02M12.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,25.0,25.0,50,h,Green Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,93
+22100777,131,PT02M12.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,MISS Green Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,94
+22100777,132,PT02M12.00S,1,1610612739,CLE,200765,Rondo,R. Rondo,0,0,0,,0,,,0,v,Rondo REBOUND (Off:0 Def:2),Rebound,Unknown,1,95
+22100777,133,PT01M53.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,131,224,26,Missed,1,,,0,v,MISS Mobley 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,96
+22100777,134,PT01M52.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:0 Def:1),Rebound,Unknown,1,97
+22100777,135,PT01M47.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,98
+22100777,135,PT01M47.00S,1,1610612739,CLE,200765,Rondo,R. Rondo,0,0,0,,0,,,0,v,Rondo STEAL (1 STL),,,1,99
+22100777,137,PT01M41.00S,1,1610612739,CLE,1626224,Osman,C. Osman,-199,162,26,Made,1,25.0,28.0,53,v,Osman 26' 3PT Running Jump Shot (5 PTS) (Rondo 2 AST),Made Shot,Running Jump Shot,1,100
+22100777,139,PT01M22.00S,1,1610612739,CLE,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,Stevens S.FOUL (P3.PN) (B.Nansel),Foul,Shooting,1,101
+22100777,141,PT01M22.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,26.0,28.0,54,h,Sengun Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,102
+22100777,142,PT01M22.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,SUB: Christopher FOR Green,Substitution,,0,103
+22100777,143,PT01M22.00S,1,1610612739,CLE,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,SUB: Okoro FOR Stevens,Substitution,,0,104
+22100777,146,PT01M22.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,MISS Sengun Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,105
+22100777,147,PT01M22.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley REBOUND (Off:1 Def:4),Rebound,Unknown,1,106
+22100777,148,PT01M07.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,107
+22100777,148,PT01M07.00S,1,1610612745,HOU,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews STEAL (1 STL),,,1,108
+22100777,150,PT01M02.00S,1,1610612745,HOU,1629726,Mathews,G. Mathews,170,223,28,Made,1,29.0,28.0,57,h,Mathews 28' 3PT Running Jump Shot (6 PTS) (Porter Jr. 3 AST),Made Shot,Running Jump Shot,1,109
+22100777,152,PT00M48.90S,1,1610612739,CLE,201567,Love,K. Love,-175,176,25,Missed,1,,,0,v,MISS Love 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,110
+22100777,153,PT00M46.60S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,111
+22100777,154,PT00M36.70S,1,1610612745,HOU,1630528,Christopher,J. Christopher,-159,205,26,Made,1,32.0,28.0,60,h,Christopher 26' 3PT Jump Shot (3 PTS) (Wood 1 AST),Made Shot,Jump Shot,1,112
+22100777,156,PT00M27.90S,1,1610612739,CLE,200765,Rondo,R. Rondo,-1,9,1,Missed,1,,,0,v,MISS Rondo 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,113
+22100777,157,PT00M27.00S,1,1610612745,HOU,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,114
+22100777,158,PT00M20.20S,1,1610612745,HOU,1630528,Christopher,J. Christopher,-1,21,2,Missed,1,,,0,h,MISS Christopher 2' Driving Layup,Missed Shot,Driving Layup Shot,1,115
+22100777,159,PT00M20.20S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley REBOUND (Off:1 Def:5),Rebound,Unknown,1,116
+22100777,161,PT00M00.60S,1,1610612739,CLE,1626224,Osman,C. Osman,-13,268,27,Made,1,32.0,31.0,63,v,Osman 27' 3PT Jump Shot (8 PTS) (Mobley 1 AST),Made Shot,Jump Shot,1,117
+22100777,163,PT00M00.60S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun S.FOUL (P1.PN) (R.Acosta),Foul,Shooting,1,118
+22100777,165,PT00M00.60S,1,1610612739,CLE,1626224,Osman,C. Osman,0,0,0,,0,,,0,v,MISS Osman Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,119
+22100777,166,PT00M00.60S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley REBOUND (Off:2 Def:5),Rebound,Unknown,1,120
+22100777,167,PT00M00.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,Missed,1,,,0,v,MISS Mobley Tip Layup Shot,Missed Shot,Tip Layup Shot,1,121
+22100777,168,PT00M00.00S,1,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,122
+22100777,169,PT00M00.00S,1,0,,0,,,0,0,0,,0,32.0,31.0,63,,End of 1st Period (8:42 PM EST),period,end,1,123
+22100777,180,PT12M00.00S,2,0,,0,,,0,0,0,,0,32.0,31.0,63,,Start of 2nd Period (8:45 PM EST),period,start,0,124
+22100777,181,PT11M40.00S,2,1610612745,HOU,1630256,Tate,J. Tate,-5,16,2,Missed,1,,,0,h,MISS Tate 2' Layup,Missed Shot,Layup Shot,1,125
+22100777,181,PT11M40.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love BLOCK (1 BLK),,,1,126
+22100777,183,PT11M35.00S,2,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate REBOUND (Off:1 Def:1),Rebound,Unknown,1,127
+22100777,184,PT11M33.00S,2,1610612745,HOU,1630256,Tate,J. Tate,-88,81,12,Missed,1,,,0,h,MISS Tate 12' Hook Shot,Missed Shot,Hook Shot,1,128
+22100777,185,PT11M31.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:1 Def:3),Rebound,Unknown,1,129
+22100777,186,PT11M20.00S,2,1610612739,CLE,1629164,Goodwin,B. Goodwin,-168,201,26,Missed,1,,,0,v,MISS Goodwin 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,130
+22100777,187,PT11M17.00S,2,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,,,0,h,Christopher REBOUND (Off:0 Def:1),Rebound,Unknown,1,131
+22100777,188,PT11M10.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen FLAGRANT.FOUL.TYPE1 (P3.T1) (R.Acosta),Foul,Flagrant Type 1,1,132
+22100777,190,PT11M10.00S,2,0,,188,,,0,0,0,,0,32.0,31.0,63,,Instant Replay2nd Period (8:47 PM EST),Instant Replay,Overturn Ruling,0,133
+22100777,191,PT11M10.00S,2,1610612745,HOU,1629726,Mathews,G. Mathews,0,0,0,,0,33.0,31.0,64,h,Mathews Free Throw Flagrant 1 of 3 (7 PTS),Free Throw,Free Throw Flagrant 1 of 3,1,134
+22100777,192,PT11M10.00S,2,1610612745,HOU,1629726,Mathews,G. Mathews,0,0,0,,0,34.0,31.0,65,h,Mathews Free Throw Flagrant 2 of 3 (8 PTS),Free Throw,Free Throw Flagrant 2 of 3,1,135
+22100777,193,PT11M10.00S,2,1610612745,HOU,1629726,Mathews,G. Mathews,0,0,0,,0,35.0,31.0,66,h,Mathews Free Throw Flagrant 3 of 3 (9 PTS),Free Throw,Free Throw Flagrant 3 of 3,1,136
+22100777,213,PT11M10.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,SUB: Davis FOR Allen,Substitution,,0,137
+22100777,194,PT11M02.00S,2,1610612745,HOU,201569,Gordon,E. Gordon,-45,278,28,Missed,1,,,0,h,MISS Gordon 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,138
+22100777,195,PT10M57.00S,2,1610612739,CLE,1629164,Goodwin,B. Goodwin,0,0,0,,0,,,0,v,Goodwin REBOUND (Off:0 Def:1),Rebound,Unknown,1,139
+22100777,196,PT10M53.00S,2,1610612745,HOU,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P2.T1) (C.Kirkland),Foul,Shooting,1,140
+22100777,198,PT10M53.00S,2,1610612739,CLE,1629164,Goodwin,B. Goodwin,0,0,0,,0,35.0,32.0,67,v,Goodwin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,141
+22100777,199,PT10M53.00S,2,1610612745,HOU,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Martin Jr. FOR Mathews,Substitution,,0,142
+22100777,202,PT10M53.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Lane,Violation,Lane,0,143
+22100777,201,PT10M53.00S,2,1610612739,CLE,1629164,Goodwin,B. Goodwin,0,0,0,,0,35.0,33.0,68,v,Goodwin Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,144
+22100777,203,PT10M42.00S,2,1610612739,CLE,202334,Davis,E. Davis,0,0,0,,0,,,0,v,Davis S.FOUL (P1.T2) (B.Nansel),Foul,Shooting,1,145
+22100777,205,PT10M42.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,36.0,33.0,69,h,Sengun Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,146
+22100777,206,PT10M42.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,37.0,33.0,70,h,Sengun Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,147
+22100777,207,PT10M37.00S,2,1610612739,CLE,1629164,Goodwin,B. Goodwin,-11,5,1,Missed,1,,,0,v,MISS Goodwin 1' Running Layup,Missed Shot,Running Layup Shot,1,148
+22100777,207,PT10M37.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun BLOCK (1 BLK),,,1,149
+22100777,209,PT10M34.00S,2,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate REBOUND (Off:1 Def:2),Rebound,Unknown,1,150
+22100777,210,PT10M33.00S,2,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,-5,0,1,Made,1,39.0,33.0,72,h,Martin Jr. 1' Running Dunk (2 PTS) (Tate 1 AST),Made Shot,Running Dunk Shot,1,151
+22100777,212,PT10M33.00S,2,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,152
+22100777,215,PT10M13.00S,2,1610612739,CLE,201567,Love,K. Love,126,-1,13,Missed,1,,,0,v,MISS Love 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,153
+22100777,216,PT10M11.00S,2,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate REBOUND (Off:1 Def:3),Rebound,Unknown,1,154
+22100777,217,PT09M56.00S,2,1610612745,HOU,201569,Gordon,E. Gordon,-85,246,26,Missed,1,,,0,h,MISS Gordon 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,155
+22100777,218,PT09M55.00S,2,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,,,0,h,Christopher REBOUND (Off:1 Def:1),Rebound,Unknown,1,156
+22100777,219,PT09M46.00S,2,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,157
+22100777,219,PT09M46.00S,2,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,,,0,v,Wade STEAL (1 STL),,,1,158
+22100777,221,PT09M42.00S,2,1610612739,CLE,1630171,Okoro,I. Okoro,2,6,1,Made,1,39.0,35.0,74,v,Okoro 1' Running Layup (5 PTS),Made Shot,Running Layup Shot,1,159
+22100777,222,PT09M27.00S,2,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,228,71,24,Missed,1,,,0,h,MISS Martin Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,160
+22100777,223,PT09M25.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:1 Def:4),Rebound,Unknown,1,161
+22100777,224,PT09M12.00S,2,1610612739,CLE,201567,Love,K. Love,83,239,25,Missed,1,,,0,v,MISS Love 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,162
+22100777,225,PT09M09.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:0 Def:2),Rebound,Unknown,1,163
+22100777,226,PT09M02.00S,2,1610612745,HOU,201569,Gordon,E. Gordon,1,7,1,Made,1,41.0,35.0,76,h,Gordon 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,164
+22100777,227,PT09M02.00S,2,1610612739,CLE,202334,Davis,E. Davis,0,0,0,,0,,,0,v,Davis S.FOUL (P2.T3) (C.Kirkland),Foul,Shooting,1,165
+22100777,229,PT09M02.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun Lane Violation Turnover (P2.T4),Turnover,Lane Violation,1,166
+22100777,230,PT08M45.00S,2,1610612739,CLE,202334,Davis,E. Davis,0,0,0,,0,,,0,v,Davis Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,167
+22100777,230,PT08M45.00S,2,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate STEAL (1 STL),,,1,168
+22100777,232,PT08M43.00S,2,1610612739,CLE,202334,Davis,E. Davis,0,0,0,,0,,,0,v,Davis S.FOUL (P3.T4) (R.Acosta),Foul,Shooting,1,169
+22100777,234,PT08M43.00S,2,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,42.0,35.0,77,h,Martin Jr. Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,170
+22100777,235,PT08M43.00S,2,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,,,0,h,MISS Martin Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,171
+22100777,236,PT08M43.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:1 Def:5),Rebound,Unknown,1,172
+22100777,237,PT08M27.00S,2,1610612745,HOU,201569,Gordon,E. Gordon,0,0,0,,0,,,0,h,Gordon P.FOUL (P1.T2) (R.Acosta),Foul,Personal,1,173
+22100777,239,PT08M21.00S,2,1610612739,CLE,202334,Davis,E. Davis,0,0,0,,0,,,0,v,Davis OFF.Foul (P4) (B.Nansel),Foul,Offensive,1,174
+22100777,241,PT08M21.00S,2,1610612739,CLE,202334,Davis,E. Davis,0,0,0,,0,,,0,v,Davis Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,1,175
+22100777,242,PT08M21.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,SUB: Mobley FOR Love,Substitution,,0,176
+22100777,243,PT08M21.00S,2,1610612739,CLE,202334,Davis,E. Davis,0,0,0,,0,,,0,v,SUB: Osman FOR Davis,Substitution,,0,177
+22100777,246,PT08M09.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,-4,8,1,Made,1,44.0,35.0,79,h,Sengun 1' Cutting Dunk Shot (9 PTS) (Gordon 1 AST),Made Shot,Cutting Dunk Shot,1,178
+22100777,248,PT07M47.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,16,61,6,Made,1,44.0,37.0,81,v,Mobley 6' Turnaround Hook Shot (12 PTS),Made Shot,Turnaround Hook Shot,1,179
+22100777,249,PT07M26.00S,2,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,,,0,h,SUB: Green FOR Christopher,Substitution,,0,180
+22100777,251,PT07M26.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Jump Ball Sengun vs. Mobley: Tip to Gordon,Jump Ball,,1,181
+22100777,254,PT07M19.00S,2,1610612745,HOU,201569,Gordon,E. Gordon,-6,86,9,Missed,1,,,0,h,MISS Gordon 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,182
+22100777,255,PT07M16.00S,2,1610612739,CLE,1629164,Goodwin,B. Goodwin,0,0,0,,0,,,0,v,Goodwin REBOUND (Off:0 Def:2),Rebound,Unknown,1,183
+22100777,256,PT06M55.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,184
+22100777,256,PT06M55.00S,2,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate STEAL (2 STL),,,1,185
+22100777,258,PT06M38.00S,2,1610612745,HOU,201569,Gordon,E. Gordon,-43,278,28,Made,1,47.0,37.0,84,h,Gordon 28' 3PT Jump Shot (5 PTS) (Green 2 AST),Made Shot,Jump Shot,1,186
+22100777,260,PT06M25.00S,2,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate P.FOUL (P2.T3) (R.Acosta),Foul,Personal,1,187
+22100777,262,PT06M25.00S,2,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,SUB: Wood FOR Tate,Substitution,,0,188
+22100777,263,PT06M25.00S,2,1610612745,HOU,201569,Gordon,E. Gordon,0,0,0,,0,,,0,h,SUB: Porter Jr. FOR Gordon,Substitution,,0,189
+22100777,264,PT06M25.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,SUB: Mathews FOR Sengun,Substitution,,0,190
+22100777,268,PT06M18.00S,2,1610612745,HOU,1626174,Wood,C. Wood,0,0,0,,0,,,0,h,Wood P.FOUL (P1.T4) (B.Nansel),Foul,Personal,1,191
+22100777,270,PT06M03.00S,2,1610612739,CLE,1629164,Goodwin,B. Goodwin,20,10,2,Made,1,47.0,39.0,86,v,Goodwin 2' Driving Layup (4 PTS) (Mobley 2 AST),Made Shot,Driving Layup Shot,1,192
+22100777,272,PT05M57.00S,2,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,v,Okoro Violation:Kicked Ball (C.Kirkland),Violation,Kicked Ball,0,193
+22100777,273,PT05M46.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,194
+22100777,274,PT05M35.00S,2,1610612739,CLE,1626224,Osman,C. Osman,0,26,3,Missed,1,,,0,v,MISS Osman 3' Driving Layup,Missed Shot,Driving Layup Shot,1,195
+22100777,275,PT05M35.00S,2,1610612745,HOU,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:2),Rebound,Unknown,1,196
+22100777,276,PT05M28.00S,2,1610612745,HOU,1630224,Green,J. Green,140,226,27,Made,1,50.0,39.0,89,h,Green 27' 3PT Jump Shot (14 PTS) (Porter Jr. 4 AST),Made Shot,Jump Shot,1,197
+22100777,278,PT05M09.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. P.FOUL (P3.PN) (R.Acosta),Foul,Personal,1,198
+22100777,280,PT05M09.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,MISS Mobley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,199
+22100777,281,PT05M09.00S,2,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,200
+22100777,282,PT05M09.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,MISS Mobley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,201
+22100777,283,PT05M09.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley REBOUND (Off:3 Def:5),Rebound,Unknown,1,202
+22100777,284,PT05M06.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley Lost Ball Turnover (P2.T8),Turnover,Lost Ball,1,203
+22100777,284,PT05M06.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. STEAL (1 STL),,,1,204
+22100777,286,PT05M06.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley P.FOUL (P2.PN) (B.Nansel),Foul,Personal,1,205
+22100777,288,PT05M06.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,h,MISS Porter Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,206
+22100777,289,PT05M06.00S,2,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Rebound,Rebound,Normal Rebound,0,207
+22100777,290,PT05M06.00S,2,1610612739,CLE,1629164,Goodwin,B. Goodwin,0,0,0,,0,,,0,v,SUB: Rondo FOR Goodwin,Substitution,,0,208
+22100777,292,PT05M06.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,h,MISS Porter Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,209
+22100777,293,PT05M06.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley REBOUND (Off:3 Def:6),Rebound,Unknown,1,210
+22100777,294,PT04M59.00S,2,1610612739,CLE,1629731,Wade,D. Wade,-210,150,26,Made,1,50.0,42.0,92,v,Wade 26' 3PT Running Jump Shot (3 PTS) (Rondo 3 AST),Made Shot,Running Jump Shot,1,211
+22100777,296,PT04M42.00S,2,1610612745,HOU,1629726,Mathews,G. Mathews,-143,272,31,Missed,1,,,0,h,MISS Mathews 31' 3PT Jump Shot,Missed Shot,Jump Shot,1,212
+22100777,297,PT04M41.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley REBOUND (Off:3 Def:7),Rebound,Unknown,1,213
+22100777,298,PT04M34.00S,2,1610612745,HOU,1626174,Wood,C. Wood,0,0,0,,0,,,0,h,Wood P.FOUL (P2.PN) (R.Acosta),Foul,Personal,1,214
+22100777,300,PT04M34.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,MISS Mobley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,215
+22100777,301,PT04M34.00S,2,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,216
+22100777,302,PT04M34.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,MISS Mobley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,217
+22100777,303,PT04M34.00S,2,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,,,0,h,Martin Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,218
+22100777,304,PT04M23.00S,2,1610612745,HOU,1630224,Green,J. Green,-200,162,26,Missed,1,,,0,h,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,219
+22100777,305,PT04M21.00S,2,1610612745,HOU,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:1 Def:2),Rebound,Unknown,1,220
+22100777,306,PT04M18.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,69,259,27,Made,1,53.0,42.0,95,h,Porter Jr. 27' 3PT Jump Shot (6 PTS) (Mathews 1 AST),Made Shot,Jump Shot,1,221
+22100777,308,PT04M04.00S,2,1610612739,CLE,1626224,Osman,C. Osman,9,5,1,Missed,1,,,0,v,MISS Osman 1' Driving Layup,Missed Shot,Driving Layup Shot,1,222
+22100777,308,PT04M04.00S,2,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,Green BLOCK (1 BLK),,,1,223
+22100777,309,PT04M03.00S,2,1610612745,HOU,1626174,Wood,C. Wood,0,0,0,,0,,,0,h,Wood REBOUND (Off:0 Def:3),Rebound,Unknown,1,224
+22100777,310,PT03M58.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,36,257,26,Missed,1,,,0,h,MISS Porter Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,225
+22100777,311,PT03M56.00S,2,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Rebound,Rebound,Unknown,0,226
+22100777,313,PT03M53.00S,2,1610612745,HOU,1629726,Mathews,G. Mathews,-148,17,15,Made,1,55.0,42.0,97,h,Mathews 15' Fadeaway Jumper (11 PTS) (Porter Jr. 5 AST),Made Shot,Fadeaway Jump Shot,1,227
+22100777,315,PT03M47.00S,2,1610612739,CLE,200765,Rondo,R. Rondo,0,0,0,,0,,,0,v,Rondo Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,228
+22100777,316,PT03M38.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley S.FOUL (P3.PN) (R.Acosta),Foul,Shooting,1,229
+22100777,318,PT03M38.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,56.0,42.0,98,h,Porter Jr. Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,230
+22100777,319,PT03M38.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,SUB: Love FOR Mobley,Substitution,,0,231
+22100777,321,PT03M38.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,h,MISS Porter Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,232
+22100777,322,PT03M38.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:1 Def:6),Rebound,Unknown,1,233
+22100777,324,PT03M24.00S,2,1610612739,CLE,1626224,Osman,C. Osman,-232,47,24,Missed,1,,,0,v,MISS Osman 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,234
+22100777,325,PT03M20.00S,2,1610612745,HOU,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:1 Def:3),Rebound,Unknown,1,235
+22100777,326,PT03M14.00S,2,1610612745,HOU,1629726,Mathews,G. Mathews,-80,53,10,Missed,1,,,0,h,MISS Mathews 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,236
+22100777,326,PT03M14.00S,2,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,,,0,v,Wade BLOCK (1 BLK),,,1,237
+22100777,328,PT03M13.00S,2,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,,,0,h,Martin Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,238
+22100777,329,PT03M13.00S,2,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,v,Okoro P.FOUL (P1.PN) (B.Nansel),Foul,Personal,1,239
+22100777,331,PT03M13.00S,2,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,,,0,h,MISS Martin Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,240
+22100777,332,PT03M13.00S,2,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Rebound,Rebound,Normal Rebound,0,241
+22100777,333,PT03M13.00S,2,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,57.0,42.0,99,h,Martin Jr. Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,242
+22100777,334,PT02M48.00S,2,1610612739,CLE,201567,Love,K. Love,-1,30,3,Missed,1,,,0,v,MISS Love 3' Hook Shot,Missed Shot,Hook Shot,1,243
+22100777,335,PT02M45.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:2 Def:6),Rebound,Unknown,1,244
+22100777,336,PT02M45.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,Made,1,57.0,44.0,101,v,Love Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,245
+22100777,337,PT02M36.00S,2,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,v,Okoro P.FOUL (P2.PN) (R.Acosta),Foul,Personal,1,246
+22100777,339,PT02M36.00S,2,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,247
+22100777,340,PT02M36.00S,2,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,v,SUB: Stevens FOR Okoro,Substitution,,0,248
+22100777,342,PT02M36.00S,2,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,58.0,44.0,102,h,Martin Jr. Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,249
+22100777,343,PT02M36.00S,2,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,59.0,44.0,103,h,Martin Jr. Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,250
+22100777,344,PT02M19.00S,2,1610612745,HOU,1626174,Wood,C. Wood,0,0,0,,0,,,0,h,Wood S.FOUL (P3.PN) (R.Acosta),Foul,Shooting,1,251
+22100777,346,PT02M19.00S,2,1610612739,CLE,1630205,Stevens,L. Stevens,0,0,0,,0,59.0,45.0,104,v,Stevens Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,252
+22100777,347,PT02M19.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,h,SUB: Gordon FOR Porter Jr.,Substitution,,0,253
+22100777,349,PT02M19.00S,2,1610612739,CLE,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,MISS Stevens Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,254
+22100777,350,PT02M19.00S,2,1610612745,HOU,1626174,Wood,C. Wood,0,0,0,,0,,,0,h,Wood REBOUND (Off:0 Def:4),Rebound,Unknown,1,255
+22100777,351,PT02M06.00S,2,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,,,0,h,Martin Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,256
+22100777,352,PT01M59.00S,2,1610612745,HOU,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews P.FOUL (P3.PN) (C.Kirkland),Foul,Personal,1,257
+22100777,354,PT01M59.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,59.0,46.0,105,v,Love Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,258
+22100777,355,PT01M59.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,59.0,47.0,106,v,Love Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,259
+22100777,356,PT01M47.00S,2,1610612745,HOU,1626174,Wood,C. Wood,-26,29,4,Missed,1,,,0,h,MISS Wood 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,260
+22100777,357,PT01M46.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:2 Def:7),Rebound,Unknown,1,261
+22100777,358,PT01M38.00S,2,1610612739,CLE,1630205,Stevens,L. Stevens,5,5,1,Made,1,59.0,49.0,108,v,Stevens 1' Driving Dunk (5 PTS) (Wade 1 AST),Made Shot,Driving Dunk Shot,1,262
+22100777,360,PT01M23.00S,2,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,23,42,5,Made,1,61.0,49.0,110,h,Martin Jr. 5' Driving Floating Jump Shot (8 PTS) (Green 3 AST),Made Shot,Driving Floating Jump Shot,1,263
+22100777,362,PT01M10.00S,2,1610612739,CLE,201567,Love,K. Love,-5,88,9,Made,1,61.0,51.0,112,v,Love 9' Turnaround Hook Shot (8 PTS),Made Shot,Turnaround Hook Shot,1,264
+22100777,364,PT00M54.60S,2,1610612745,HOU,1630224,Green,J. Green,197,169,26,Missed,1,,,0,h,MISS Green 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,265
+22100777,365,PT00M54.10S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:2 Def:8),Rebound,Unknown,1,266
+22100777,366,PT00M45.60S,2,1610612739,CLE,201567,Love,K. Love,4,9,1,Made,1,61.0,53.0,114,v,Love 1' Cutting Layup Shot (10 PTS) (Rondo 4 AST),Made Shot,Cutting Layup Shot,1,267
+22100777,368,PT00M36.60S,2,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,,,0,v,Wade P.FOUL (P1.PN) (B.Nansel),Foul,Personal,1,268
+22100777,370,PT00M36.60S,2,1610612745,HOU,1626174,Wood,C. Wood,0,0,0,,0,62.0,53.0,115,h,Wood Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,269
+22100777,371,PT00M36.60S,2,1610612745,HOU,1626174,Wood,C. Wood,0,0,0,,0,,,0,h,MISS Wood Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,270
+22100777,372,PT00M36.60S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:2 Def:9),Rebound,Unknown,1,271
+22100777,373,PT00M30.10S,2,1610612739,CLE,200765,Rondo,R. Rondo,0,0,0,,0,,,0,v,Rondo Bad Pass Turnover (P3.T10),Turnover,Bad Pass,1,272
+22100777,373,PT00M30.10S,2,1610612745,HOU,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews STEAL (2 STL),,,1,273
+22100777,375,PT00M27.50S,2,1610612745,HOU,1629726,Mathews,G. Mathews,5,16,2,Made,1,64.0,53.0,117,h,Mathews 2' Running Dunk (13 PTS),Made Shot,Running Dunk Shot,1,274
+22100777,376,PT00M03.90S,2,1610612739,CLE,1626224,Osman,C. Osman,-39,101,11,Missed,1,,,0,v,MISS Osman 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,275
+22100777,377,PT00M03.50S,2,1610612739,CLE,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,Stevens REBOUND (Off:1 Def:0),Rebound,Unknown,1,276
+22100777,378,PT00M03.50S,2,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Turnover: Shot Clock (T#11),Turnover,Shot Clock Turnover,0,277
+22100777,379,PT00M00.00S,2,1610612745,HOU,1630224,Green,J. Green,181,190,26,Missed,1,,,0,h,MISS Green 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,278
+22100777,380,PT00M00.00S,2,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Rebound,Rebound,Unknown,0,279
+22100777,381,PT00M00.00S,2,0,,0,,,0,0,0,,0,64.0,53.0,117,,End of 2nd Period (9:20 PM EST),period,end,1,280
+22100777,394,PT12M00.00S,3,0,,0,,,0,0,0,,0,64.0,53.0,117,,Start of 3rd Period (9:35 PM EST),period,start,0,281
+22100777,395,PT11M41.00S,3,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate Backcourt Turnover (P2.T7),Turnover,Backcourt Turnover,1,282
+22100777,396,PT11M18.00S,3,1610612739,CLE,1629164,Goodwin,B. Goodwin,-131,233,27,Made,1,64.0,56.0,120,v,Goodwin 27' 3PT Jump Shot (7 PTS) (Allen 1 AST),Made Shot,Jump Shot,1,283
+22100777,398,PT11M06.00S,3,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate OFF.Foul (P3) (C.Kirkland),Foul,Offensive,1,284
+22100777,400,PT11M06.00S,3,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate Offensive Foul Turnover (P3.T8),Turnover,Offensive Foul Turnover,1,285
+22100777,401,PT10M51.00S,3,1610612745,HOU,1626174,Wood,C. Wood,0,0,0,,0,,,0,h,Wood S.FOUL (P4.T1) (B.Nansel),Foul,Shooting,1,286
+22100777,403,PT10M51.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,64.0,57.0,121,v,Allen Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,287
+22100777,404,PT10M51.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,MISS Allen Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,288
+22100777,405,PT10M51.00S,3,1610612745,HOU,201569,Gordon,E. Gordon,0,0,0,,0,,,0,h,Gordon REBOUND (Off:0 Def:1),Rebound,Unknown,1,289
+22100777,406,PT10M40.00S,3,1610612745,HOU,1626174,Wood,C. Wood,2,6,1,Made,1,66.0,57.0,123,h,Wood 1' Driving Dunk (7 PTS) (Gordon 2 AST),Made Shot,Driving Dunk Shot,1,290
+22100777,408,PT10M40.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley S.FOUL (P4.T1) (B.Nansel),Foul,Shooting,1,291
+22100777,410,PT10M40.00S,3,1610612745,HOU,1626174,Wood,C. Wood,0,0,0,,0,67.0,57.0,124,h,Wood Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,1,292
+22100777,411,PT10M22.00S,3,1610612739,CLE,1626224,Osman,C. Osman,-135,222,26,Made,1,67.0,60.0,127,v,Osman 26' 3PT Jump Shot (11 PTS) (Okoro 1 AST),Made Shot,Jump Shot,1,293
+22100777,413,PT10M07.00S,3,1610612745,HOU,1630256,Tate,J. Tate,2,10,1,Made,1,69.0,60.0,129,h,Tate 1' Cutting Layup Shot (2 PTS) (Wood 2 AST),Made Shot,Cutting Layup Shot,1,294
+22100777,415,PT09M50.00S,3,1610612739,CLE,1628386,Allen,J. Allen,2,7,1,Made,1,69.0,62.0,131,v,Allen 1' Cutting Dunk Shot (7 PTS) (Goodwin 3 AST),Made Shot,Cutting Dunk Shot,1,295
+22100777,417,PT09M39.00S,3,1610612745,HOU,1626174,Wood,C. Wood,229,51,0,Missed,1,,,0,h,MISS Wood 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,296
+22100777,418,PT09M39.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:2 Def:1),Rebound,Unknown,1,297
+22100777,419,PT09M20.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,-45,102,11,Missed,1,,,0,v,MISS Mobley 11' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,298
+22100777,420,PT09M19.00S,3,1610612745,HOU,1626174,Wood,C. Wood,0,0,0,,0,,,0,h,Wood REBOUND (Off:0 Def:5),Rebound,Unknown,1,299
+22100777,421,PT09M10.00S,3,1610612745,HOU,1626174,Wood,C. Wood,2,35,4,Missed,1,,,0,h,MISS Wood 4' Driving Layup,Missed Shot,Driving Layup Shot,1,300
+22100777,421,PT09M10.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen BLOCK (1 BLK),,,1,301
+22100777,423,PT09M07.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,v,Okoro REBOUND (Off:0 Def:2),Rebound,Unknown,1,302
+22100777,424,PT09M03.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,-4,6,1,Made,1,69.0,64.0,133,v,Okoro 1' Running Layup (7 PTS),Made Shot,Running Layup Shot,1,303
+22100777,425,PT08M48.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,5,117,12,Made,1,71.0,64.0,135,h,Porter Jr. 12' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,1,304
+22100777,426,PT08M36.00S,3,1610612739,CLE,1628386,Allen,J. Allen,59,11,6,Missed,1,,,0,v,MISS Allen 6' Hook Shot,Missed Shot,Hook Shot,1,305
+22100777,427,PT08M36.00S,3,1610612745,HOU,1626174,Wood,C. Wood,0,0,0,,0,,,0,h,Wood REBOUND (Off:0 Def:6),Rebound,Unknown,1,306
+22100777,428,PT08M30.00S,3,1610612745,HOU,1630224,Green,J. Green,4,17,2,Made,1,73.0,64.0,137,h,Green 2' Running Layup (16 PTS) (Wood 3 AST),Made Shot,Running Layup Shot,1,307
+22100777,430,PT08M19.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,-4,12,1,Made,1,73.0,66.0,139,v,Mobley 1' Layup (14 PTS) (Osman 1 AST),Made Shot,Layup Shot,1,308
+22100777,432,PT08M08.00S,3,1610612745,HOU,201569,Gordon,E. Gordon,-173,220,28,Missed,1,,,0,h,MISS Gordon 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,309
+22100777,433,PT08M08.00S,3,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,310
+22100777,435,PT08M00.00S,3,1610612739,CLE,1626224,Osman,C. Osman,0,0,0,,0,,,0,v,Osman OFF.Foul (P2) (R.Acosta),Foul,Offensive,1,311
+22100777,437,PT08M00.00S,3,1610612739,CLE,1626224,Osman,C. Osman,0,0,0,,0,,,0,v,Osman Offensive Foul Turnover (P2.T12),Turnover,Offensive Foul Turnover,1,312
+22100777,438,PT07M47.00S,3,1610612745,HOU,1626174,Wood,C. Wood,38,264,27,Made,1,76.0,66.0,142,h,Wood 27' 3PT Jump Shot (11 PTS) (Porter Jr. 6 AST),Made Shot,Jump Shot,1,313
+22100777,440,PT07M30.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,-9,16,2,Made,1,76.0,68.0,144,v,Mobley 2' Alley Oop Dunk (16 PTS) (Allen 2 AST),Made Shot,Alley Oop Dunk Shot,1,314
+22100777,442,PT07M12.00S,3,1610612745,HOU,1626174,Wood,C. Wood,0,0,0,,0,,,0,h,Wood Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,315
+22100777,442,PT07M12.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,v,Okoro STEAL (1 STL),,,1,316
+22100777,444,PT07M09.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,-7,17,2,Made,1,76.0,70.0,146,v,Okoro 2' Running Dunk (9 PTS),Made Shot,Running Dunk Shot,1,317
+22100777,445,PT06M56.00S,3,1610612745,HOU,201569,Gordon,E. Gordon,11,85,9,Made,1,78.0,70.0,148,h,Gordon 9' Driving Floating Jump Shot (7 PTS) (Tate 2 AST),Made Shot,Driving Floating Jump Shot,1,318
+22100777,448,PT06M33.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley Bad Pass Turnover (P3.T13),Turnover,Bad Pass,1,319
+22100777,448,PT06M33.00S,3,1610612745,HOU,1626174,Wood,C. Wood,0,0,0,,0,,,0,h,Wood STEAL (1 STL),,,1,320
+22100777,450,PT06M28.00S,3,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate Bad Pass Turnover (P4.T10),Turnover,Bad Pass,1,321
+22100777,450,PT06M28.00S,3,1610612739,CLE,1629164,Goodwin,B. Goodwin,0,0,0,,0,,,0,v,Goodwin STEAL (1 STL),,,1,322
+22100777,452,PT06M25.00S,3,1610612739,CLE,1626224,Osman,C. Osman,0,12,1,Made,1,78.0,72.0,150,v,Osman 1' Dunk (13 PTS) (Goodwin 4 AST),Made Shot,Dunk Shot,1,323
+22100777,454,PT06M25.00S,3,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,324
+22100777,455,PT06M25.00S,3,1610612745,HOU,201569,Gordon,E. Gordon,0,0,0,,0,,,0,h,SUB: Sengun FOR Gordon,Substitution,,0,325
+22100777,456,PT06M25.00S,3,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,SUB: Mathews FOR Tate,Substitution,,0,326
+22100777,459,PT06M06.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun Lost Ball Turnover (P3.T11),Turnover,Lost Ball,1,327
+22100777,459,PT06M06.00S,3,1610612739,CLE,1626224,Osman,C. Osman,0,0,0,,0,,,0,v,Osman STEAL (1 STL),,,1,328
+22100777,461,PT06M03.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,Green S.FOUL (P2.T2) (B.Nansel),Foul,Shooting,1,329
+22100777,463,PT06M03.00S,3,1610612739,CLE,1626224,Osman,C. Osman,0,0,0,,0,,,0,v,MISS Osman Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,330
+22100777,464,PT06M03.00S,3,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,331
+22100777,465,PT06M03.00S,3,1610612739,CLE,1626224,Osman,C. Osman,0,0,0,,0,,,0,v,MISS Osman Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,332
+22100777,466,PT06M03.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:0 Def:3),Rebound,Unknown,1,333
+22100777,467,PT05M45.00S,3,1610612745,HOU,1629726,Mathews,G. Mathews,-227,41,0,Made,1,81.0,72.0,153,h,Mathews 3PT Jump Shot (16 PTS) (Wood 4 AST),Made Shot,Jump Shot,1,334
+22100777,469,PT05M22.00S,3,1610612739,CLE,1626224,Osman,C. Osman,-205,158,26,Missed,1,,,0,v,MISS Osman 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,335
+22100777,470,PT05M21.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:3 Def:1),Rebound,Unknown,1,336
+22100777,471,PT05M17.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,-4,29,3,Missed,1,,,0,v,MISS Okoro 3' Driving Layup,Missed Shot,Driving Layup Shot,1,337
+22100777,471,PT05M17.00S,3,1610612745,HOU,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews BLOCK (1 BLK),,,1,338
+22100777,473,PT05M17.00S,3,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,339
+22100777,474,PT05M17.00S,3,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,340
+22100777,475,PT05M17.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,SUB: Love FOR Mobley,Substitution,,0,341
+22100777,476,PT05M17.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,v,SUB: Stevens FOR Okoro,Substitution,,0,342
+22100777,479,PT05M13.00S,3,1610612739,CLE,1628386,Allen,J. Allen,-12,2,1,Made,1,81.0,74.0,155,v,Allen 1' Alley Oop Dunk (9 PTS) (Love 2 AST),Made Shot,Alley Oop Dunk Shot,1,343
+22100777,481,PT04M55.00S,3,1610612745,HOU,1626174,Wood,C. Wood,48,242,25,Missed,1,,,0,h,MISS Wood 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,344
+22100777,482,PT04M53.00S,3,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Rebound,Rebound,Unknown,0,345
+22100777,484,PT04M42.00S,3,1610612745,HOU,1629726,Mathews,G. Mathews,-224,101,25,Missed,1,,,0,h,MISS Mathews 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,346
+22100777,485,PT04M42.00S,3,1610612739,CLE,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,Stevens REBOUND (Off:1 Def:1),Rebound,Unknown,1,347
+22100777,486,PT04M23.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,Green S.FOUL (P3.T3) (C.Kirkland),Foul,Shooting,1,348
+22100777,488,PT04M23.00S,3,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,81.0,75.0,156,v,Love Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,349
+22100777,489,PT04M23.00S,3,1610612739,CLE,1629164,Goodwin,B. Goodwin,0,0,0,,0,,,0,v,SUB: Rondo FOR Goodwin,Substitution,,0,350
+22100777,491,PT04M23.00S,3,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,MISS Love Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,351
+22100777,492,PT04M23.00S,3,1610612745,HOU,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:1 Def:4),Rebound,Unknown,1,352
+22100777,493,PT04M11.00S,3,1610612739,CLE,1626224,Osman,C. Osman,0,0,0,,0,,,0,v,Osman P.FOUL (P3.T2) (B.Nansel),Foul,Personal,1,353
+22100777,495,PT04M02.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,5,1,Made,1,83.0,75.0,158,h,Porter Jr. 1' Driving Finger Roll Layup (11 PTS),Made Shot,Driving Finger Roll Layup Shot,1,354
+22100777,496,PT03M44.00S,3,1610612739,CLE,1628386,Allen,J. Allen,-7,39,4,Missed,1,,,0,v,MISS Allen 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,0,355
+22100777,497,PT03M44.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:0 Def:2),Rebound,Unknown,0,356
+22100777,498,PT03M34.00S,3,1610612745,HOU,1626174,Wood,C. Wood,-229,24,0,Made,1,86.0,75.0,161,h,Wood 3PT Jump Shot (14 PTS) (Green 4 AST),Made Shot,Jump Shot,1,357
+22100777,500,PT03M22.00S,3,1610612739,CLE,201567,Love,K. Love,-116,239,27,Missed,1,,,0,v,MISS Love 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,358
+22100777,501,PT03M20.00S,3,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Rebound,Rebound,Unknown,0,359
+22100777,503,PT03M00.00S,3,1610612745,HOU,1626174,Wood,C. Wood,39,35,5,Made,1,88.0,75.0,163,h,Wood 5' Driving Layup (16 PTS),Made Shot,Driving Layup Shot,1,360
+22100777,504,PT02M39.00S,3,1610612739,CLE,1626224,Osman,C. Osman,9,21,2,Missed,1,,,0,v,MISS Osman 2' Layup,Missed Shot,Layup Shot,1,361
+22100777,505,PT02M38.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:0 Def:3),Rebound,Unknown,1,362
+22100777,506,PT02M32.00S,3,1610612745,HOU,1626174,Wood,C. Wood,123,232,26,Missed,1,,,0,h,MISS Wood 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,363
+22100777,507,PT02M31.00S,3,1610612739,CLE,200765,Rondo,R. Rondo,0,0,0,,0,,,0,v,Rondo REBOUND (Off:0 Def:3),Rebound,Unknown,1,364
+22100777,508,PT02M24.00S,3,1610612739,CLE,201567,Love,K. Love,-158,191,25,Made,1,88.0,78.0,166,v,Love 25' 3PT Running Pull-Up Jump Shot (14 PTS) (Rondo 5 AST),Made Shot,Running Pull-Up Jump Shot,1,365
+22100777,511,PT02M06.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,54,63,8,Missed,1,,,0,h,MISS Porter Jr. 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,366
+22100777,512,PT02M06.00S,3,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,367
+22100777,514,PT02M06.00S,3,1610612739,CLE,1626224,Osman,C. Osman,0,0,0,,0,,,0,v,SUB: Goodwin FOR Osman,Substitution,,0,368
+22100777,515,PT02M06.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,SUB: Mobley FOR Allen,Substitution,,0,369
+22100777,518,PT01M54.00S,3,1610612739,CLE,201567,Love,K. Love,-172,196,26,Missed,1,,,0,v,MISS Love 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,370
+22100777,519,PT01M52.00S,3,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,371
+22100777,521,PT01M52.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,,,0,h,SUB: Tate FOR Porter Jr.,Substitution,,0,372
+22100777,522,PT01M52.00S,3,1610612745,HOU,1626174,Wood,C. Wood,0,0,0,,0,,,0,h,SUB: Gordon FOR Wood,Substitution,,0,373
+22100777,525,PT01M39.00S,3,1610612739,CLE,201567,Love,K. Love,-2,21,2,Made,1,88.0,80.0,168,v,Love 2' Driving Layup (16 PTS) (Goodwin 5 AST),Made Shot,Driving Layup Shot,1,374
+22100777,526,PT01M21.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun Lost Ball Turnover (P4.T12),Turnover,Lost Ball,1,375
+22100777,526,PT01M21.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley STEAL (1 STL),,,1,376
+22100777,528,PT01M13.00S,3,1610612739,CLE,1629164,Goodwin,B. Goodwin,-9,17,2,Missed,1,,,0,v,MISS Goodwin 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,377
+22100777,529,PT01M12.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley REBOUND (Off:4 Def:7),Rebound,Unknown,1,378
+22100777,530,PT01M09.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,17,17,2,Missed,1,,,0,v,MISS Mobley 2' Layup,Missed Shot,Layup Shot,1,379
+22100777,531,PT01M07.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:0 Def:4),Rebound,Unknown,1,380
+22100777,532,PT00M59.20S,3,1610612745,HOU,1630578,Sengun,A. Sengun,60,67,9,Missed,1,,,0,h,MISS Sengun 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,381
+22100777,533,PT00M57.50S,3,1610612739,CLE,200765,Rondo,R. Rondo,0,0,0,,0,,,0,v,Rondo REBOUND (Off:0 Def:4),Rebound,Unknown,1,382
+22100777,534,PT00M51.50S,3,1610612739,CLE,201567,Love,K. Love,-70,247,26,Missed,1,,,0,v,MISS Love 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,383
+22100777,535,PT00M51.50S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:0 Def:5),Rebound,Unknown,1,384
+22100777,536,PT00M36.90S,3,1610612745,HOU,201569,Gordon,E. Gordon,4,13,1,Made,1,90.0,80.0,170,h,Gordon 1' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,385
+22100777,537,PT00M36.90S,3,1610612739,CLE,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,Stevens Violation:Defensive Goaltending (C.Kirkland),Violation,Defensive Goaltending,1,386
+22100777,538,PT00M25.60S,3,1610612739,CLE,201567,Love,K. Love,-1,69,7,Made,1,90.0,82.0,172,v,Love 7' Jump Shot (18 PTS),Made Shot,Jump Shot,1,387
+22100777,539,PT00M25.60S,3,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate S.FOUL (P4.T4) (B.Nansel),Foul,Shooting,1,388
+22100777,541,PT00M25.60S,3,1610612739,CLE,200765,Rondo,R. Rondo,0,0,0,,0,,,0,v,SUB: Okoro FOR Rondo,Substitution,,0,389
+22100777,543,PT00M25.60S,3,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,90.0,83.0,173,v,Love Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,1,390
+22100777,545,PT00M03.30S,3,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,SUB: Osman FOR Love,Substitution,,0,391
+22100777,547,PT00M00.40S,3,1610612745,HOU,1629726,Mathews,G. Mathews,-232,24,0,Missed,1,,,0,h,MISS Mathews 3PT Jump Shot,Missed Shot,Jump Shot,1,392
+22100777,548,PT00M00.40S,3,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Rebound,Rebound,Unknown,0,393
+22100777,549,PT00M00.00S,3,0,,0,,,0,0,0,,0,90.0,83.0,173,,End of 3rd Period (10:01 PM EST),period,end,1,394
+22100777,555,PT12M00.00S,4,0,,0,,,0,0,0,,0,90.0,83.0,173,,Start of 4th Period (10:03 PM EST),period,start,0,395
+22100777,556,PT11M41.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,100,144,18,Made,1,90.0,85.0,175,v,Mobley 18' Turnaround Fadeaway (18 PTS),Made Shot,Turnaround Fadeaway shot,1,396
+22100777,557,PT11M23.00S,4,1610612745,HOU,1629726,Mathews,G. Mathews,203,158,26,Missed,1,,,0,h,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,397
+22100777,558,PT11M20.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:1 Def:3),Rebound,Unknown,1,398
+22100777,559,PT11M17.00S,4,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love P.FOUL (P1.T1) (R.Acosta),Foul,Personal,1,399
+22100777,562,PT11M01.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,-107,21,11,Missed,1,,,0,h,MISS Sengun 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,400
+22100777,563,PT10M59.00S,4,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate REBOUND (Off:2 Def:3),Rebound,Unknown,1,401
+22100777,564,PT10M58.00S,4,1610612745,HOU,1629726,Mathews,G. Mathews,228,57,24,Missed,1,,,0,h,MISS Mathews 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,402
+22100777,565,PT10M58.00S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,403
+22100777,566,PT10M58.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun L.B.FOUL (P2.T1) (C.Kirkland),Foul,Loose Ball,1,404
+22100777,568,PT10M58.00S,4,1610612745,HOU,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Martin Jr. FOR Mathews,Substitution,,0,405
+22100777,570,PT10M40.00S,4,1610612739,CLE,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,Stevens Out of Bounds Lost Ball Turnover (P1.T14),Turnover,Out of Bounds Lost Ball Turnover,1,406
+22100777,572,PT10M24.00S,4,1610612745,HOU,201569,Gordon,E. Gordon,-158,203,26,Missed,1,,,0,h,MISS Gordon 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,407
+22100777,573,PT10M22.00S,4,1610612739,CLE,1629164,Goodwin,B. Goodwin,0,0,0,,0,,,0,v,Goodwin REBOUND (Off:0 Def:3),Rebound,Unknown,1,408
+22100777,574,PT10M12.00S,4,1610612739,CLE,201567,Love,K. Love,-48,100,11,Missed,1,,,0,v,MISS Love 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,409
+22100777,575,PT10M11.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:1 Def:4),Rebound,Unknown,1,410
+22100777,576,PT10M02.00S,4,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,2,5,1,Made,1,92.0,85.0,177,h,Martin Jr. 1' Driving Reverse Layup (10 PTS),Made Shot,Driving Reverse Layup Shot,1,411
+22100777,577,PT09M47.00S,4,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,,,0,h,Christopher S.FOUL (P1.T2) (B.Nansel),Foul,Shooting,1,412
+22100777,579,PT09M47.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,92.0,86.0,178,v,Mobley Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,413
+22100777,580,PT09M47.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,92.0,87.0,179,v,Mobley Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,414
+22100777,581,PT09M30.00S,4,1610612745,HOU,1630256,Tate,J. Tate,4,4,1,Made,1,94.0,87.0,181,h,Tate 1' Driving Layup (4 PTS) (Sengun 2 AST),Made Shot,Driving Layup Shot,1,415
+22100777,583,PT09M12.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,-11,42,4,Made,1,94.0,89.0,183,v,Mobley 4' Turnaround Hook Shot (22 PTS),Made Shot,Turnaround Hook Shot,1,416
+22100777,584,PT08M56.00S,4,1610612745,HOU,1630528,Christopher,J. Christopher,10,16,2,Made,1,96.0,89.0,185,h,Christopher 2' Cutting Layup Shot (5 PTS) (Sengun 3 AST),Made Shot,Cutting Layup Shot,1,417
+22100777,586,PT08M56.00S,4,1610612739,CLE,1626224,Osman,C. Osman,0,0,0,,0,,,0,v,Osman S.FOUL (P4.T2) (B.Nansel),Foul,Shooting,1,418
+22100777,588,PT08M56.00S,4,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,SUB: Allen FOR Love,Substitution,,0,419
+22100777,590,PT08M56.00S,4,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,,,0,h,MISS Christopher Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,420
+22100777,591,PT08M56.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:3 Def:2),Rebound,Unknown,1,421
+22100777,592,PT08M39.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,-7,13,1,Made,1,96.0,91.0,187,v,Mobley 1' Dunk (24 PTS),Made Shot,Dunk Shot,1,422
+22100777,593,PT08M12.00S,4,1610612745,HOU,1630528,Christopher,J. Christopher,-201,41,21,Missed,1,,,0,h,MISS Christopher 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,423
+22100777,594,PT08M11.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:2 Def:4),Rebound,Unknown,1,424
+22100777,595,PT08M09.00S,4,1610612739,CLE,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,Stevens P.FOUL (P4.T3) (C.Kirkland),Foul,Personal,1,425
+22100777,597,PT07M59.00S,4,1610612745,HOU,1630256,Tate,J. Tate,10,11,1,Made,1,98.0,91.0,189,h,Tate 1' Driving Reverse Layup (6 PTS) (Gordon 3 AST),Made Shot,Driving Reverse Layup Shot,1,426
+22100777,599,PT07M43.00S,4,1610612739,CLE,1626224,Osman,C. Osman,103,237,26,Missed,1,,,0,v,MISS Osman 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,427
+22100777,600,PT07M41.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:2 Def:5),Rebound,Unknown,1,428
+22100777,601,PT07M29.00S,4,1610612745,HOU,201569,Gordon,E. Gordon,2,8,1,Made,1,100.0,91.0,191,h,Gordon 1' Driving Reverse Layup (11 PTS),Made Shot,Driving Reverse Layup Shot,1,429
+22100777,603,PT07M29.00S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,430
+22100777,604,PT07M29.00S,4,1610612739,CLE,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,SUB: Love FOR Stevens,Substitution,,0,431
+22100777,605,PT07M29.00S,4,1610612739,CLE,1626224,Osman,C. Osman,0,0,0,,0,,,0,v,SUB: Okoro FOR Osman,Substitution,,0,432
+22100777,608,PT07M11.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,6,52,5,Missed,1,,,0,v,MISS Mobley 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,433
+22100777,609,PT07M08.00S,4,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:3 Def:9),Rebound,Unknown,1,434
+22100777,610,PT07M08.00S,4,1610612739,CLE,201567,Love,K. Love,0,0,0,Missed,1,,,0,v,MISS Love Tip Layup Shot,Missed Shot,Tip Layup Shot,1,435
+22100777,611,PT07M07.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley REBOUND (Off:5 Def:7),Rebound,Unknown,1,436
+22100777,613,PT06M56.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,-23,69,7,Missed,1,,,0,v,MISS Mobley 7' Hook Shot,Missed Shot,Hook Shot,1,437
+22100777,614,PT06M55.00S,4,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Rebound,Rebound,Unknown,0,438
+22100777,616,PT06M36.00S,4,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,229,48,0,Missed,1,,,0,h,MISS Martin Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,439
+22100777,617,PT06M34.00S,4,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:3 Def:10),Rebound,Unknown,1,440
+22100777,618,PT06M14.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun S.FOUL (P3.T3) (C.Kirkland),Foul,Shooting,1,441
+22100777,620,PT06M14.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,MISS Allen Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,442
+22100777,621,PT06M14.00S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,443
+22100777,622,PT06M14.00S,4,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,SUB: Mathews FOR Tate,Substitution,,0,444
+22100777,624,PT06M14.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,MISS Allen Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,445
+22100777,625,PT06M14.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,Sengun REBOUND (Off:2 Def:6),Rebound,Unknown,1,446
+22100777,626,PT05M58.00S,4,1610612745,HOU,201569,Gordon,E. Gordon,7,273,27,Missed,1,,,0,h,MISS Gordon 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,447
+22100777,627,PT05M57.00S,4,1610612739,CLE,1629164,Goodwin,B. Goodwin,0,0,0,,0,,,0,v,Goodwin REBOUND (Off:0 Def:4),Rebound,Unknown,1,448
+22100777,629,PT05M49.00S,4,1610612745,HOU,201569,Gordon,E. Gordon,0,0,0,,0,,,0,h,SUB: Wood FOR Gordon,Substitution,,0,449
+22100777,630,PT05M49.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,,,0,h,SUB: Porter Jr. FOR Sengun,Substitution,,0,450
+22100777,634,PT05M43.00S,4,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,,,0,h,SUB: Green FOR Christopher,Substitution,,0,451
+22100777,636,PT05M34.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,58,91,11,Made,1,100.0,93.0,193,v,Mobley 11' Turnaround Fadeaway (26 PTS) (Goodwin 6 AST),Made Shot,Turnaround Fadeaway shot,1,452
+22100777,638,PT05M21.00S,4,1610612745,HOU,1630224,Green,J. Green,-238,51,24,Made,1,103.0,93.0,196,h,Green 24' 3PT Jump Shot (19 PTS) (Porter Jr. 7 AST),Made Shot,Jump Shot,1,453
+22100777,640,PT05M06.00S,4,1610612739,CLE,201567,Love,K. Love,-43,74,9,Made,1,103.0,95.0,198,v,Love 9' Turnaround Hook Shot (21 PTS) (Goodwin 7 AST),Made Shot,Turnaround Hook Shot,1,454
+22100777,642,PT04M55.00S,4,1610612745,HOU,1629726,Mathews,G. Mathews,4,285,29,Missed,1,,,0,h,MISS Mathews 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,455
+22100777,643,PT04M54.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:3 Def:3),Rebound,Unknown,1,456
+22100777,644,PT04M47.00S,4,1610612739,CLE,1629164,Goodwin,B. Goodwin,0,0,0,,0,,,0,v,Goodwin Bad Pass Turnover (P1.T15),Turnover,Bad Pass,1,457
+22100777,644,PT04M47.00S,4,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,,,0,h,Martin Jr. STEAL (1 STL),,,1,458
+22100777,647,PT04M43.00S,4,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,459
+22100777,648,PT04M31.00S,4,1610612745,HOU,1629726,Mathews,G. Mathews,235,25,24,Missed,1,,,0,h,MISS Mathews 24' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,460
+22100777,649,PT04M29.00S,4,1610612745,HOU,1626174,Wood,C. Wood,0,0,0,,0,,,0,h,Wood REBOUND (Off:1 Def:6),Rebound,Unknown,1,461
+22100777,651,PT04M21.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,-9,59,6,Missed,1,,,0,h,MISS Porter Jr. 6' Layup,Missed Shot,Layup Shot,1,462
+22100777,652,PT04M19.00S,4,1610612739,CLE,1629164,Goodwin,B. Goodwin,0,0,0,,0,,,0,v,Goodwin REBOUND (Off:0 Def:5),Rebound,Unknown,1,463
+22100777,653,PT04M15.00S,4,1610612739,CLE,1630171,Okoro,I. Okoro,1,4,0,Made,1,103.0,97.0,200,v,Okoro Running Layup (11 PTS) (Goodwin 8 AST),Made Shot,Running Layup Shot,1,464
+22100777,655,PT04M03.00S,4,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,v,Okoro S.FOUL (P3.T4) (B.Nansel),Foul,Shooting,1,465
+22100777,657,PT04M03.00S,4,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,104.0,97.0,201,h,Green Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,466
+22100777,658,PT04M03.00S,4,1610612745,HOU,1630231,Martin Jr.,K. Martin Jr.,0,0,0,,0,,,0,h,SUB: Tate FOR Martin Jr.,Substitution,,0,467
+22100777,660,PT04M03.00S,4,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,105.0,97.0,202,h,Green Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,468
+22100777,661,PT03M48.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen Out of Bounds - Bad Pass Turnover Turnover (P1.T16),Turnover,Out of Bounds - Bad Pass Turnover,1,469
+22100777,662,PT03M33.00S,4,1610612745,HOU,1630224,Green,J. Green,38,200,20,Missed,1,,,0,h,MISS Green 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,470
+22100777,663,PT03M33.00S,4,1610612739,CLE,1629164,Goodwin,B. Goodwin,0,0,0,,0,,,0,v,Goodwin REBOUND (Off:0 Def:6),Rebound,Unknown,1,471
+22100777,664,PT03M23.00S,4,1610612739,CLE,1628386,Allen,J. Allen,-5,5,1,Made,1,105.0,99.0,204,v,Allen 1' Cutting Dunk Shot (11 PTS) (Love 3 AST),Made Shot,Cutting Dunk Shot,1,472
+22100777,666,PT03M13.00S,4,0,,1610612745,,,0,0,0,,0,,,0,h,ROCKETS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,473
+22100777,667,PT03M13.00S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,474
+22100777,668,PT03M13.00S,4,1610612745,HOU,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Gordon FOR Mathews,Substitution,,0,475
+22100777,670,PT02M58.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,103,140,17,Missed,1,,,0,h,MISS Porter Jr. 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,476
+22100777,671,PT02M56.00S,4,1610612739,CLE,1629164,Goodwin,B. Goodwin,0,0,0,,0,,,0,v,Goodwin REBOUND (Off:0 Def:7),Rebound,Unknown,1,477
+22100777,672,PT02M44.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,1,91,9,Made,1,105.0,101.0,206,v,Mobley 9' Driving Hook Shot (28 PTS),Made Shot,Driving Hook Shot,1,478
+22100777,673,PT02M44.00S,4,1610612745,HOU,1626174,Wood,C. Wood,0,0,0,,0,,,0,h,Wood S.FOUL (P5.T4) (R.Acosta),Foul,Shooting,1,479
+22100777,675,PT02M44.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,105.0,102.0,207,v,Mobley Free Throw 1 of 1 (29 PTS),Free Throw,Free Throw 1 of 1,1,480
+22100777,676,PT02M32.00S,4,1610612745,HOU,1626174,Wood,C. Wood,9,100,10,Made,1,107.0,102.0,209,h,Wood 10' Floating Jump Shot (18 PTS),Made Shot,Floating Jump shot,1,481
+22100777,677,PT02M14.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley Lost Ball Turnover (P4.T17),Turnover,Lost Ball,1,482
+22100777,677,PT02M14.00S,4,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate STEAL (3 STL),,,1,483
+22100777,679,PT01M55.00S,4,1610612745,HOU,1626174,Wood,C. Wood,-148,204,25,Made,1,110.0,102.0,212,h,Wood 25' 3PT Step Back Jump Shot (21 PTS),Made Shot,Step Back Jump shot,1,484
+22100777,680,PT01M50.00S,4,1610612745,HOU,1626174,Wood,C. Wood,0,0,0,,0,,,0,h,Wood Violation:Kicked Ball (B.Nansel),Violation,Kicked Ball,0,485
+22100777,681,PT01M50.00S,4,1610612739,CLE,1629164,Goodwin,B. Goodwin,0,0,0,,0,,,0,v,SUB: Osman FOR Goodwin,Substitution,,0,486
+22100777,683,PT01M42.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen Bad Pass Turnover (P2.T18),Turnover,Bad Pass,1,487
+22100777,683,PT01M42.00S,4,1610612745,HOU,1626174,Wood,C. Wood,0,0,0,,0,,,0,h,Wood STEAL (2 STL),,,1,488
+22100777,685,PT01M26.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,1,257,26,Made,1,113.0,102.0,215,h,Porter Jr. 26' 3PT Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,489
+22100777,686,PT01M15.00S,4,1610612739,CLE,1626224,Osman,C. Osman,0,0,0,,0,,,0,v,Osman Lost Ball Turnover (P3.T19),Turnover,Lost Ball,1,490
+22100777,686,PT01M15.00S,4,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,,,0,h,Tate STEAL (4 STL),,,1,491
+22100777,688,PT01M12.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,6,16,2,Made,1,115.0,102.0,217,h,Porter Jr. 2' Running Alley Oop Dunk Shot (16 PTS) (Green 5 AST),Made Shot,Running Alley Oop Dunk Shot,1,492
+22100777,690,PT01M12.00S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,493
+22100777,691,PT01M12.00S,4,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,SUB: Pangos FOR Love,Substitution,,0,494
+22100777,692,PT01M12.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,SUB: Windler FOR Mobley,Substitution,,0,495
+22100777,693,PT01M12.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,SUB: Davis FOR Allen,Substitution,,0,496
+22100777,694,PT01M12.00S,4,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,v,SUB: Wade FOR Okoro,Substitution,,0,497
+22100777,695,PT01M12.00S,4,1610612739,CLE,1626224,Osman,C. Osman,0,0,0,,0,,,0,v,SUB: Stevens FOR Osman,Substitution,,0,498
+22100777,701,PT00M55.00S,4,1610612739,CLE,1630205,Stevens,L. Stevens,-75,155,17,Made,1,115.0,104.0,219,v,Stevens 17' Step Back Jump Shot (7 PTS),Made Shot,Step Back Jump shot,1,499
+22100777,702,PT00M33.40S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,15,268,27,Missed,1,,,0,h,MISS Porter Jr. 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,500
+22100777,703,PT00M32.10S,4,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,,,0,v,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,1,501
+22100777,704,PT00M22.20S,4,1610612739,CLE,1630205,Stevens,L. Stevens,77,183,20,Missed,1,,,0,v,MISS Stevens 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,502
+22100777,705,PT00M20.10S,4,1610612745,HOU,201569,Gordon,E. Gordon,0,0,0,,0,,,0,h,Gordon REBOUND (Off:0 Def:2),Rebound,Unknown,1,503
+22100777,706,PT00M00.00S,4,0,,0,,,0,0,0,,0,115.0,104.0,219,,End of 4th Period (10:34 PM EST),period,end,1,504

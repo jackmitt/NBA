@@ -1,0 +1,486 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+41500116,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (7:41 PM EST),period,start,0,1
+41500116,1,PT12M00.00S,1,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Jump Ball Mahinmi vs. Valanciunas: Tip to Turner,Jump Ball,,1,2
+41500116,2,PT11M41.00S,1,1610612754,IND,101133,Mahinmi,I. Mahinmi,-12,-5,1,Missed,1,,,0,h,MISS Mahinmi 1' Driving Layup,Missed Shot,Driving Layup Shot,1,3
+41500116,3,PT11M41.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:0 Def:1),Rebound,Unknown,1,4
+41500116,4,PT11M18.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,-115,3,12,Missed,1,,,0,v,MISS Lowry 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,5
+41500116,5,PT11M17.00S,1,1610612754,IND,202331,George,P. George,0,0,0,,0,,,0,h,George REBOUND (Off:0 Def:1),Rebound,Unknown,1,6
+41500116,6,PT11M06.00S,1,1610612754,IND,101145,Ellis,M. Ellis,-25,36,4,Missed,1,,,0,h,MISS Ellis 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,7
+41500116,7,PT11M06.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:0 Def:2),Rebound,Unknown,1,8
+41500116,8,PT11M01.00S,1,1610612754,IND,202331,George,P. George,0,0,0,,0,,,0,h,George Shooting Block Foul (P1.T1) (J.Goble),Foul,Shooting Block,1,9
+41500116,9,PT11M01.00S,1,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,0.0,1.0,1,v,Carroll Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,10
+41500116,11,PT11M01.00S,1,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,0.0,2.0,2,v,Carroll Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,11
+41500116,13,PT10M37.00S,1,1610612754,IND,101133,Mahinmi,I. Mahinmi,32,51,6,Made,1,2.0,2.0,4,h,Mahinmi 6' Hook Shot (2 PTS) (Ellis 1 AST),Made Shot,Hook Shot,1,12
+41500116,14,PT10M11.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,32,16,4,Missed,1,,,0,v,MISS Valanciunas 4' Driving Layup,Missed Shot,Driving Layup Shot,1,13
+41500116,14,PT10M11.00S,1,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi BLOCK (1 BLK),,,1,14
+41500116,15,PT10M11.00S,1,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,0,15
+41500116,16,PT10M11.00S,1,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,0,16
+41500116,17,PT09M56.00S,1,1610612754,IND,202331,George,P. George,-47,244,25,Missed,1,,,0,h,MISS George 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,17
+41500116,18,PT09M54.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry REBOUND (Off:0 Def:1),Rebound,Unknown,1,18
+41500116,19,PT09M44.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,-53,11,5,Missed,1,,,0,v,MISS Valanciunas 5' Jump Shot,Missed Shot,Jump Shot,1,19
+41500116,21,PT09M44.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,DeRozan REBOUND (Off:1 Def:0),Rebound,Unknown,1,20
+41500116,20,PT09M44.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,1,0,Made,1,2.0,4.0,6,v,DeRozan Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,1,21
+41500116,22,PT09M32.00S,1,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,22
+41500116,22,PT09M32.00S,1,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,,,0,v,Carroll STEAL (1 STL),,,1,23
+41500116,23,PT09M28.00S,1,1610612761,TOR,201960,Carroll,D. Carroll,0,1,0,Made,1,2.0,6.0,8,v,Carroll Running Dunk (4 PTS),Made Shot,Running Dunk Shot,1,24
+41500116,24,PT09M12.00S,1,1610612754,IND,101145,Ellis,M. Ellis,-235,-6,24,Missed,1,,,0,h,MISS Ellis 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,25
+41500116,25,PT09M10.00S,1,1610612754,IND,202331,George,P. George,0,0,0,,0,,,0,h,George REBOUND (Off:1 Def:1),Rebound,Unknown,1,26
+41500116,26,PT09M08.00S,1,1610612754,IND,202331,George,P. George,-1,-1,0,Missed,1,,,0,h,MISS George Putback Layup,Missed Shot,Putback Layup Shot,1,27
+41500116,26,PT09M08.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas BLOCK (1 BLK),,,1,28
+41500116,27,PT09M07.00S,1,1610612754,IND,101145,Ellis,M. Ellis,0,0,0,,0,,,0,h,Ellis REBOUND (Off:1 Def:0),Rebound,Unknown,1,29
+41500116,28,PT08M59.00S,1,1610612754,IND,201588,Hill,G. Hill,105,-1,11,Missed,1,,,0,h,MISS G. Hill 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,30
+41500116,29,PT08M58.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,31
+41500116,30,PT08M50.00S,1,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,,,0,v,Carroll P.FOUL (P1.T1) (K.Fitzgerald),Foul,Personal,1,32
+41500116,31,PT08M40.00S,1,1610612754,IND,1626167,Turner,M. Turner,-140,16,14,Missed,1,,,0,h,MISS Turner 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,33
+41500116,32,PT08M38.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry REBOUND (Off:0 Def:2),Rebound,Unknown,1,34
+41500116,33,PT08M32.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,1,7,1,Made,1,2.0,8.0,10,v,Lowry 1' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,1,35
+41500116,34,PT08M31.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,36
+41500116,36,PT08M14.00S,1,1610612754,IND,201588,Hill,G. Hill,10,2,1,Missed,1,,,0,h,MISS G. Hill 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,37
+41500116,37,PT08M13.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,DeRozan REBOUND (Off:1 Def:1),Rebound,Unknown,1,38
+41500116,38,PT08M03.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,DeRozan Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,39
+41500116,38,PT08M03.00S,1,1610612754,IND,101145,Ellis,M. Ellis,0,0,0,,0,,,0,h,Ellis STEAL (1 STL),,,1,40
+41500116,39,PT07M59.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry S.FOUL (P1.T2) (M.Callahan),Foul,Shooting,1,41
+41500116,40,PT07M59.00S,1,1610612754,IND,201588,Hill,G. Hill,0,0,0,,0,3.0,8.0,11,h,G. Hill Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,42
+41500116,42,PT07M59.00S,1,1610612754,IND,201588,Hill,G. Hill,0,0,0,,0,4.0,8.0,12,h,G. Hill Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,43
+41500116,44,PT07M41.00S,1,1610612761,TOR,202335,Patterson,P. Patterson,1,56,6,Missed,1,,,0,v,MISS Patterson 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,44
+41500116,45,PT07M37.00S,1,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,0,45
+41500116,46,PT07M15.00S,1,1610612761,TOR,201960,Carroll,D. Carroll,-228,70,24,Made,1,4.0,11.0,15,v,Carroll 24' 3PT Jump Shot (7 PTS) (Lowry 1 AST),Made Shot,Jump Shot,1,46
+41500116,47,PT06M47.00S,1,1610612754,IND,101133,Mahinmi,I. Mahinmi,38,8,4,Missed,1,,,0,h,MISS Mahinmi 4' Driving Layup,Missed Shot,Driving Layup Shot,1,47
+41500116,48,PT06M47.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:0 Def:3),Rebound,Unknown,1,48
+41500116,49,PT06M27.00S,1,1610612761,TOR,202335,Patterson,P. Patterson,236,-19,24,Made,1,4.0,14.0,18,v,Patterson 24' 3PT Jump Shot (3 PTS) (DeRozan 1 AST),Made Shot,Jump Shot,1,49
+41500116,50,PT06M06.00S,1,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,1,0,Made,1,6.0,14.0,20,h,Mahinmi Cutting Dunk Shot (4 PTS) (G. Hill 1 AST),Made Shot,Cutting Dunk Shot,1,50
+41500116,51,PT05M54.00S,1,1610612761,TOR,202335,Patterson,P. Patterson,-11,205,21,Made,1,6.0,16.0,22,v,Patterson 21' Pullup Jump Shot (5 PTS) (Lowry 2 AST),Made Shot,Pullup Jump shot,1,51
+41500116,52,PT05M44.00S,1,1610612754,IND,201588,Hill,G. Hill,-246,-16,25,Missed,1,,,0,h,MISS G. Hill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,52
+41500116,53,PT05M43.00S,1,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,0,53
+41500116,54,PT05M30.00S,1,1610612761,TOR,201960,Carroll,D. Carroll,-16,41,4,Made,1,6.0,18.0,24,v,Carroll 4' Hook Shot (9 PTS) (Lowry 3 AST),Made Shot,Hook Shot,1,54
+41500116,55,PT05M25.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Short (Full 1 Short 1),Timeout,Short,0,55
+41500116,57,PT05M25.00S,1,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,,,0,h,SUB: S. Hill FOR Turner,Substitution,,0,56
+41500116,58,PT05M12.00S,1,1610612754,IND,202331,George,P. George,76,13,8,Missed,1,,,0,h,MISS George 8' Jump Shot,Missed Shot,Jump Shot,1,57
+41500116,58,PT05M12.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas BLOCK (2 BLK),,,1,58
+41500116,59,PT05M11.00S,1,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,Patterson REBOUND (Off:0 Def:1),Rebound,Unknown,1,59
+41500116,60,PT05M06.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,-1,242,24,Missed,1,,,0,v,MISS Lowry 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,60
+41500116,62,PT05M05.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:1 Def:3),Rebound,Unknown,1,61
+41500116,61,PT05M05.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,7,1,Missed,1,,,0,v,MISS Valanciunas 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,62
+41500116,63,PT05M04.00S,1,1610612754,IND,201588,Hill,G. Hill,0,0,0,,0,,,0,h,G. Hill REBOUND (Off:0 Def:1),Rebound,Unknown,1,63
+41500116,64,PT04M50.00S,1,1610612754,IND,202331,George,P. George,-6,11,1,Missed,1,,,0,h,MISS George 1' Driving Layup,Missed Shot,Driving Layup Shot,1,64
+41500116,65,PT04M49.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry REBOUND (Off:0 Def:3),Rebound,Unknown,1,65
+41500116,66,PT04M43.00S,1,1610612754,IND,203524,Hill,S. Hill,0,0,0,,0,,,0,h,S. Hill P.FOUL (P1.T2) (J.Goble),Foul,Personal,1,66
+41500116,67,PT04M33.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,67
+41500116,67,PT04M33.00S,1,1610612754,IND,101145,Ellis,M. Ellis,0,0,0,,0,,,0,h,Ellis STEAL (2 STL),,,1,68
+41500116,68,PT04M28.00S,1,1610612754,IND,101145,Ellis,M. Ellis,-1,3,0,Made,1,8.0,18.0,26,h,Ellis Cutting Layup Shot (2 PTS) (George 1 AST),Made Shot,Cutting Layup Shot,1,69
+41500116,69,PT04M06.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,-243,85,26,Missed,1,,,0,v,MISS DeRozan 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,70
+41500116,70,PT04M04.00S,1,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi REBOUND (Off:0 Def:1),Rebound,Unknown,1,71
+41500116,71,PT03M55.00S,1,1610612754,IND,101145,Ellis,M. Ellis,-16,257,26,Missed,1,,,0,h,MISS Ellis 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,72
+41500116,72,PT03M54.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:1 Def:4),Rebound,Unknown,1,73
+41500116,73,PT03M36.00S,1,1610612761,TOR,201960,Carroll,D. Carroll,-66,38,8,Missed,1,,,0,v,MISS Carroll 8' Hook Shot,Missed Shot,Hook Shot,1,74
+41500116,75,PT03M35.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:2 Def:4),Rebound,Unknown,1,75
+41500116,74,PT03M35.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,2,0,Made,1,8.0,20.0,28,v,Valanciunas Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,76
+41500116,76,PT03M21.00S,1,1610612754,IND,203524,Hill,S. Hill,155,218,27,Made,1,11.0,20.0,31,h,S. Hill 27' 3PT Jump Shot (3 PTS) (G. Hill 2 AST),Made Shot,Jump Shot,1,77
+41500116,77,PT03M14.00S,1,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,78
+41500116,79,PT03M14.00S,1,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,,,0,v,SUB: Biyombo FOR Carroll,Substitution,,0,79
+41500116,80,PT03M14.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,SUB: Joseph FOR Valanciunas,Substitution,,0,80
+41500116,81,PT03M14.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,SUB: Powell FOR Lowry,Substitution,,0,81
+41500116,82,PT03M14.00S,1,1610612754,IND,101145,Ellis,M. Ellis,0,0,0,,0,,,0,h,SUB: Stuckey FOR Ellis,Substitution,,0,82
+41500116,83,PT02M59.00S,1,1610612761,TOR,1626181,Powell,N. Powell,-9,2,1,Missed,1,,,0,v,MISS Powell 1' Driving Layup,Missed Shot,Driving Layup Shot,1,83
+41500116,84,PT02M58.00S,1,1610612761,TOR,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:0),Rebound,Unknown,1,84
+41500116,85,PT02M56.00S,1,1610612761,TOR,202687,Biyombo,B. Biyombo,2,11,1,Made,1,11.0,22.0,33,v,Biyombo 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,85
+41500116,86,PT02M42.00S,1,1610612754,IND,101133,Mahinmi,I. Mahinmi,-14,56,6,Made,1,13.0,22.0,35,h,Mahinmi 6' Hook Shot (6 PTS) (George 2 AST),Made Shot,Hook Shot,1,86
+41500116,87,PT02M28.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,DeRozan Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,87
+41500116,88,PT02M15.00S,1,1610612754,IND,203524,Hill,S. Hill,-237,-16,24,Made,1,16.0,22.0,38,h,S. Hill 24' 3PT Jump Shot (6 PTS) (George 3 AST),Made Shot,Jump Shot,1,88
+41500116,90,PT01M43.00S,1,1610612761,TOR,202335,Patterson,P. Patterson,-165,-16,17,Missed,1,,,0,v,MISS Patterson 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,89
+41500116,91,PT01M42.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,90
+41500116,93,PT01M20.00S,1,1610612754,IND,101133,Mahinmi,I. Mahinmi,10,38,4,Missed,1,,,0,h,MISS Mahinmi 4' Hook Shot,Missed Shot,Hook Shot,1,91
+41500116,94,PT01M19.00S,1,1610612761,TOR,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:1),Rebound,Unknown,1,92
+41500116,95,PT00M57.90S,1,1610612761,TOR,202687,Biyombo,B. Biyombo,-160,-6,16,Missed,1,,,0,v,MISS Biyombo 16' Jump Shot,Missed Shot,Jump Shot,1,93
+41500116,96,PT00M57.50S,1,1610612754,IND,202331,George,P. George,0,0,0,,0,,,0,h,George REBOUND (Off:1 Def:2),Rebound,Unknown,1,94
+41500116,98,PT00M48.10S,1,1610612754,IND,201588,Hill,G. Hill,0,0,0,,0,,,0,h,SUB: Lawson FOR G. Hill,Substitution,,0,95
+41500116,99,PT00M34.90S,1,1610612754,IND,203524,Hill,S. Hill,24,-1,2,Missed,1,,,0,h,MISS S. Hill 2' Driving Layup,Missed Shot,Driving Layup Shot,1,96
+41500116,101,PT00M34.60S,1,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi REBOUND (Off:1 Def:1),Rebound,Unknown,1,97
+41500116,100,PT00M34.60S,1,1610612754,IND,101133,Mahinmi,I. Mahinmi,4,11,1,Made,1,18.0,22.0,40,h,Mahinmi 1' Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,98
+41500116,102,PT00M18.90S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,4,7,1,Missed,1,,,0,v,MISS DeRozan 1' Driving Layup,Missed Shot,Driving Layup Shot,1,99
+41500116,104,PT00M16.80S,1,1610612761,TOR,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:2 Def:1),Rebound,Unknown,1,100
+41500116,103,PT00M16.80S,1,1610612761,TOR,202687,Biyombo,B. Biyombo,-4,2,0,Missed,1,,,0,v,MISS Biyombo Tip Layup Shot,Missed Shot,Tip Layup Shot,1,101
+41500116,105,PT00M15.90S,1,1610612754,IND,201951,Lawson,T. Lawson,0,0,0,,0,,,0,h,Lawson REBOUND (Off:0 Def:1),Rebound,Unknown,1,102
+41500116,106,PT00M04.70S,1,1610612761,TOR,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo S.FOUL (P1.T3) (K.Fitzgerald),Foul,Shooting,1,103
+41500116,107,PT00M04.70S,1,1610612754,IND,202331,George,P. George,0,0,0,,0,19.0,22.0,41,h,George Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,104
+41500116,109,PT00M04.70S,1,1610612754,IND,202331,George,P. George,0,0,0,,0,20.0,22.0,42,h,George Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,105
+41500116,111,PT00M00.00S,1,0,,0,,,0,0,0,,0,20.0,22.0,42,,End of 1st Period (8:05 PM EST),period,end,0,106
+41500116,113,PT12M00.00S,2,0,,0,,,0,0,0,,0,20.0,22.0,42,,Start of 2nd Period (8:09 PM EST),period,start,0,107
+41500116,114,PT11M48.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,-1,2,0,Missed,1,,,0,v,MISS Lowry Driving Layup,Missed Shot,Driving Layup Shot,1,108
+41500116,114,PT11M48.00S,2,1610612754,IND,202331,George,P. George,0,0,0,,0,,,0,h,George BLOCK (1 BLK),,,1,109
+41500116,115,PT11M47.00S,2,1610612754,IND,201951,Lawson,T. Lawson,0,0,0,,0,,,0,h,Lawson REBOUND (Off:0 Def:2),Rebound,Unknown,1,110
+41500116,116,PT11M41.00S,2,1610612754,IND,101139,Miles,C. Miles,-6,3,1,Missed,1,,,0,h,MISS Miles 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,111
+41500116,116,PT11M41.00S,2,1610612761,TOR,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo BLOCK (1 BLK),,,1,112
+41500116,117,PT11M40.00S,2,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,113
+41500116,118,PT11M32.00S,2,1610612761,TOR,202709,Joseph,C. Joseph,138,223,26,Made,1,20.0,25.0,45,v,Joseph 26' 3PT Jump Shot (3 PTS) (Lowry 4 AST),Made Shot,Jump Shot,1,114
+41500116,119,PT11M17.00S,2,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,,,0,v,Powell P.FOUL (P1.T1) (M.Callahan),Foul,Personal,1,115
+41500116,121,PT11M06.00S,2,1610612754,IND,101139,Miles,C. Miles,-240,-19,24,Missed,1,,,0,h,MISS Miles 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,116
+41500116,122,PT11M05.00S,2,1610612761,TOR,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:2 Def:2),Rebound,Unknown,1,117
+41500116,123,PT11M00.00S,2,1610612761,TOR,1626181,Powell,N. Powell,-163,232,28,Missed,1,,,0,v,MISS Powell 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,118
+41500116,124,PT10M58.00S,2,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,,,0,v,Joseph REBOUND (Off:1 Def:0),Rebound,Unknown,1,119
+41500116,125,PT10M47.00S,2,1610612761,TOR,202709,Joseph,C. Joseph,235,77,25,Made,1,20.0,28.0,48,v,Joseph 25' 3PT Jump Shot (6 PTS) (Lowry 5 AST),Made Shot,Jump Shot,1,120
+41500116,126,PT10M24.00S,2,1610612754,IND,201155,Stuckey,R. Stuckey,-27,254,26,Missed,1,,,0,h,MISS Stuckey 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,121
+41500116,127,PT10M23.00S,2,1610612754,IND,101139,Miles,C. Miles,0,0,0,,0,,,0,h,Miles REBOUND (Off:1 Def:0),Rebound,Unknown,1,122
+41500116,128,PT10M19.00S,2,1610612754,IND,101139,Miles,C. Miles,-34,46,6,Made,1,22.0,28.0,50,h,Miles 6' Jump Shot (2 PTS),Made Shot,Jump Shot,1,123
+41500116,129,PT09M55.00S,2,1610612761,TOR,1626181,Powell,N. Powell,225,134,26,Missed,1,,,0,v,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,124
+41500116,130,PT09M54.00S,2,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,,,0,h,Turner REBOUND (Off:0 Def:1),Rebound,Unknown,1,125
+41500116,131,PT09M37.00S,2,1610612754,IND,1626167,Turner,M. Turner,-71,183,20,Missed,1,,,0,h,MISS Turner 20' Jump Shot,Missed Shot,Jump Shot,1,126
+41500116,132,PT09M36.00S,2,1610612761,TOR,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:2 Def:3),Rebound,Unknown,1,127
+41500116,133,PT09M27.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,-96,188,21,Made,1,22.0,30.0,52,v,Lowry 21' Jump Shot (4 PTS),Made Shot,Jump Shot,1,128
+41500116,134,PT09M25.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 1),Timeout,Regular,0,129
+41500116,136,PT09M25.00S,2,1610612754,IND,202331,George,P. George,0,0,0,,0,,,0,h,SUB: S. Hill FOR George,Substitution,,0,130
+41500116,137,PT09M10.00S,2,1610612754,IND,101139,Miles,C. Miles,112,170,20,Made,1,24.0,30.0,54,h,Miles 20' Turnaround Jump Shot (4 PTS) (Stuckey 1 AST),Made Shot,Turnaround Jump Shot,1,131
+41500116,138,PT08M56.00S,2,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,,,0,h,Turner P.FOUL (P1.T1) (K.Fitzgerald),Foul,Personal,1,132
+41500116,139,PT08M50.00S,2,1610612761,TOR,202709,Joseph,C. Joseph,-70,198,21,Missed,1,,,0,v,MISS Joseph 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,133
+41500116,140,PT08M50.00S,2,1610612754,IND,101139,Miles,C. Miles,0,0,0,,0,,,0,h,Miles REBOUND (Off:1 Def:1),Rebound,Unknown,1,134
+41500116,141,PT08M41.00S,2,1610612754,IND,101139,Miles,C. Miles,23,-1,2,Missed,1,,,0,h,MISS Miles 2' Driving Layup,Missed Shot,Driving Layup Shot,1,135
+41500116,141,PT08M41.00S,2,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,Ross BLOCK (1 BLK),,,1,136
+41500116,142,PT08M40.00S,2,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,1,137
+41500116,143,PT08M28.00S,2,1610612761,TOR,203082,Ross,T. Ross,51,8,5,Missed,1,,,0,v,MISS Ross 5' Jump Shot,Missed Shot,Jump Shot,1,138
+41500116,144,PT08M28.00S,2,1610612761,TOR,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:3 Def:3),Rebound,Unknown,1,139
+41500116,145,PT08M22.00S,2,1610612761,TOR,203082,Ross,T. Ross,243,36,25,Missed,1,,,0,v,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,140
+41500116,146,PT08M19.00S,2,1610612761,TOR,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:4 Def:3),Rebound,Unknown,1,141
+41500116,147,PT08M12.00S,2,1610612754,IND,201951,Lawson,T. Lawson,0,0,0,,0,,,0,h,Lawson P.FOUL (P1.T2) (K.Fitzgerald),Foul,Personal,1,142
+41500116,148,PT08M04.00S,2,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,,,0,v,Joseph Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,143
+41500116,148,PT08M04.00S,2,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,,,0,h,Turner STEAL (1 STL),,,1,144
+41500116,149,PT07M58.00S,2,1610612754,IND,201951,Lawson,T. Lawson,12,3,1,Made,1,26.0,30.0,56,h,Lawson 1' Layup (2 PTS),Made Shot,Layup Shot,1,145
+41500116,150,PT07M42.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,17,264,26,Missed,1,,,0,v,MISS Lowry 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,146
+41500116,151,PT07M41.00S,2,1610612754,IND,101139,Miles,C. Miles,0,0,0,,0,,,0,h,Miles REBOUND (Off:1 Def:2),Rebound,Unknown,1,147
+41500116,152,PT07M20.00S,2,1610612754,IND,1626167,Turner,M. Turner,-70,174,19,Made,1,28.0,30.0,58,h,Turner 19' Jump Shot (2 PTS) (Stuckey 2 AST),Made Shot,Jump Shot,1,148
+41500116,153,PT07M12.00S,2,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,149
+41500116,155,PT07M12.00S,2,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,,,0,v,SUB: DeRozan FOR Powell,Substitution,,0,150
+41500116,156,PT07M12.00S,2,1610612754,IND,201155,Stuckey,R. Stuckey,0,0,0,,0,,,0,h,SUB: G. Hill FOR Stuckey,Substitution,,0,151
+41500116,157,PT07M00.00S,2,1610612761,TOR,203082,Ross,T. Ross,189,178,26,Missed,1,,,0,v,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,152
+41500116,158,PT07M00.00S,2,1610612754,IND,201588,Hill,G. Hill,0,0,0,,0,,,0,h,G. Hill REBOUND (Off:0 Def:2),Rebound,Unknown,1,153
+41500116,159,PT06M47.00S,2,1610612754,IND,101139,Miles,C. Miles,135,223,26,Missed,1,,,0,h,MISS Miles 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,154
+41500116,161,PT06M46.00S,2,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,,,0,h,Turner REBOUND (Off:1 Def:1),Rebound,Unknown,1,155
+41500116,160,PT06M46.00S,2,1610612754,IND,1626167,Turner,M. Turner,9,8,1,Made,1,30.0,30.0,60,h,Turner 1' Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,156
+41500116,162,PT06M30.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,-124,115,17,Missed,1,,,0,v,MISS Lowry 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,157
+41500116,163,PT06M29.00S,2,1610612754,IND,201951,Lawson,T. Lawson,0,0,0,,0,,,0,h,Lawson REBOUND (Off:0 Def:3),Rebound,Unknown,1,158
+41500116,164,PT06M21.00S,2,1610612754,IND,101139,Miles,C. Miles,-4,44,4,Missed,1,,,0,h,MISS Miles 4' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,1,159
+41500116,166,PT06M20.00S,2,1610612754,IND,101139,Miles,C. Miles,0,0,0,,0,,,0,h,Miles REBOUND (Off:2 Def:2),Rebound,Unknown,1,160
+41500116,165,PT06M20.00S,2,1610612754,IND,101139,Miles,C. Miles,-22,21,3,Missed,1,,,0,h,MISS Miles 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,161
+41500116,167,PT06M19.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry REBOUND (Off:0 Def:4),Rebound,Unknown,1,162
+41500116,168,PT06M05.00S,2,1610612754,IND,201951,Lawson,T. Lawson,0,0,0,,0,,,0,h,Lawson S.FOUL (P2.T3) (J.Goble),Foul,Shooting,1,163
+41500116,169,PT06M05.00S,2,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,,,0,v,MISS Joseph Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,164
+41500116,170,PT06M05.00S,2,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Normal Rebound,0,165
+41500116,171,PT06M05.00S,2,1610612761,TOR,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Biyombo,Substitution,,0,166
+41500116,172,PT06M05.00S,2,1610612754,IND,201951,Lawson,T. Lawson,0,0,0,,0,,,0,h,SUB: Ellis FOR Lawson,Substitution,,0,167
+41500116,173,PT06M05.00S,2,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,30.0,31.0,61,v,Joseph Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,168
+41500116,175,PT05M49.00S,2,1610612754,IND,1626167,Turner,M. Turner,0,208,21,Missed,1,,,0,h,MISS Turner 21' Jump Shot,Missed Shot,Jump Shot,1,169
+41500116,176,PT05M48.00S,2,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,0,170
+41500116,177,PT05M38.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,22,21,3,Made,1,30.0,33.0,63,v,Valanciunas 3' Hook Shot (4 PTS) (Lowry 6 AST),Made Shot,Hook Shot,1,171
+41500116,178,PT05M25.00S,2,1610612754,IND,201588,Hill,G. Hill,12,16,2,Missed,1,,,0,h,MISS G. Hill 2' Layup,Missed Shot,Layup Shot,1,172
+41500116,179,PT05M24.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry REBOUND (Off:0 Def:5),Rebound,Unknown,1,173
+41500116,180,PT05M15.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,10,31,3,Made,1,30.0,35.0,65,v,Valanciunas 3' Layup (6 PTS),Made Shot,Layup Shot,1,174
+41500116,181,PT04M59.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas S.FOUL (P1.T2) (M.Callahan),Foul,Shooting,1,175
+41500116,182,PT04M59.00S,2,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,31.0,35.0,66,h,Turner Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,176
+41500116,184,PT04M59.00S,2,1610612754,IND,101139,Miles,C. Miles,0,0,0,,0,,,0,h,SUB: George FOR Miles,Substitution,,0,177
+41500116,185,PT04M59.00S,2,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,,,0,v,SUB: Carroll FOR Joseph,Substitution,,0,178
+41500116,187,PT04M59.00S,2,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,SUB: Patterson FOR Ross,Substitution,,0,179
+41500116,188,PT04M59.00S,2,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,32.0,35.0,67,h,Turner Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,180
+41500116,190,PT04M47.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,-74,232,24,Missed,1,,,0,v,MISS Lowry 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,181
+41500116,191,PT04M45.00S,2,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,,,0,v,Carroll REBOUND (Off:1 Def:0),Rebound,Unknown,1,182
+41500116,192,PT04M45.00S,2,1610612754,IND,203524,Hill,S. Hill,0,0,0,,0,,,0,h,S. Hill P.FOUL (P2.T4) (J.Goble),Foul,Personal,1,183
+41500116,193,PT04M30.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,1,0,Made,1,32.0,37.0,69,v,Valanciunas Alley Oop Dunk (8 PTS) (Lowry 7 AST),Made Shot,Alley Oop Dunk Shot,1,184
+41500116,194,PT04M07.00S,2,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,Patterson P.FOUL (P1.T3) (K.Fitzgerald),Foul,Personal,1,185
+41500116,195,PT03M59.00S,2,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,,,0,h,Turner OFF.Foul (P2) (J.Goble),Foul,Offensive,1,186
+41500116,196,PT03M59.00S,2,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,,,0,h,Turner Foul Turnover (P1.T2),Turnover,Foul,1,187
+41500116,197,PT03M59.00S,2,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,,,0,h,SUB: Mahinmi FOR Turner,Substitution,,0,188
+41500116,198,PT03M40.00S,2,1610612761,TOR,202335,Patterson,P. Patterson,-241,2,24,Missed,1,,,0,v,MISS Patterson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,189
+41500116,199,PT03M40.00S,2,1610612754,IND,202331,George,P. George,0,0,0,,0,,,0,h,George REBOUND (Off:1 Def:3),Rebound,Unknown,1,190
+41500116,200,PT03M35.00S,2,1610612754,IND,202331,George,P. George,0,0,0,,0,,,0,h,George Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,191
+41500116,200,PT03M35.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas STEAL (1 STL),,,1,192
+41500116,201,PT03M19.00S,2,1610612761,TOR,201960,Carroll,D. Carroll,232,-5,0,Made,1,32.0,40.0,72,v,Carroll 3PT Jump Shot (12 PTS) (Lowry 8 AST),Made Shot,Jump Shot,1,193
+41500116,202,PT03M05.00S,2,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,,,0,v,Carroll S.FOUL (P2.T4) (M.Callahan),Foul,Shooting,1,194
+41500116,203,PT03M05.00S,2,1610612754,IND,202331,George,P. George,0,0,0,,0,33.0,40.0,73,h,George Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,195
+41500116,205,PT03M05.00S,2,1610612754,IND,202331,George,P. George,0,0,0,,0,34.0,40.0,74,h,George Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,196
+41500116,207,PT02M53.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,197
+41500116,208,PT02M53.00S,2,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,198
+41500116,210,PT02M31.00S,2,1610612754,IND,201588,Hill,G. Hill,0,56,6,Missed,1,,,0,h,MISS G. Hill 6' Jump Shot,Missed Shot,Jump Shot,1,199
+41500116,211,PT02M30.00S,2,1610612754,IND,201588,Hill,G. Hill,0,0,0,,0,,,0,h,G. Hill REBOUND (Off:1 Def:2),Rebound,Unknown,1,200
+41500116,212,PT02M28.00S,2,1610612754,IND,201588,Hill,G. Hill,0,0,0,,0,,,0,h,G. Hill Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,201
+41500116,212,PT02M28.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry STEAL (1 STL),,,1,202
+41500116,213,PT02M17.00S,2,1610612754,IND,203524,Hill,S. Hill,0,0,0,,0,,,0,h,S. Hill S.FOUL (P3.PN) (M.Callahan),Foul,Shooting,1,203
+41500116,214,PT02M17.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,34.0,41.0,75,v,Valanciunas Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,204
+41500116,216,PT02M17.00S,2,1610612754,IND,203524,Hill,S. Hill,0,0,0,,0,,,0,h,SUB: Turner FOR S. Hill,Substitution,,0,205
+41500116,217,PT02M17.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,34.0,42.0,76,v,Valanciunas Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,206
+41500116,219,PT02M02.00S,2,1610612754,IND,101145,Ellis,M. Ellis,-17,-1,2,Missed,1,,,0,h,MISS Ellis 2' Layup,Missed Shot,Layup Shot,1,207
+41500116,220,PT02M02.00S,2,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,Patterson REBOUND (Off:0 Def:2),Rebound,Unknown,1,208
+41500116,221,PT01M46.00S,2,1610612761,TOR,201960,Carroll,D. Carroll,222,111,25,Missed,1,,,0,v,MISS Carroll 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,209
+41500116,222,PT01M45.00S,2,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi REBOUND (Off:1 Def:2),Rebound,Unknown,1,210
+41500116,223,PT01M41.00S,2,1610612754,IND,101145,Ellis,M. Ellis,-1,18,2,Made,1,36.0,42.0,78,h,Ellis 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,211
+41500116,224,PT01M41.00S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,DeRozan Shooting Block Foul (P1.PN) (J.Goble),Foul,Shooting Block,1,212
+41500116,225,PT01M41.00S,2,1610612754,IND,101145,Ellis,M. Ellis,0,0,0,,0,37.0,42.0,79,h,Ellis Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,213
+41500116,227,PT01M22.00S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,163,115,20,Missed,1,,,0,v,MISS DeRozan 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,214
+41500116,228,PT01M21.00S,2,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,,,0,h,Turner REBOUND (Off:1 Def:2),Rebound,Unknown,1,215
+41500116,229,PT01M05.00S,2,1610612754,IND,202331,George,P. George,-238,-16,24,Made,1,40.0,42.0,82,h,George 24' 3PT Jump Shot (7 PTS) (Ellis 2 AST),Made Shot,Jump Shot,1,216
+41500116,230,PT00M53.40S,2,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi S.FOUL (P1.PN) (J.Goble),Foul,Shooting,1,217
+41500116,231,PT00M53.40S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,40.0,43.0,83,v,DeRozan Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,218
+41500116,233,PT00M53.40S,2,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,,,0,v,SUB: Powell FOR Carroll,Substitution,,0,219
+41500116,234,PT00M53.40S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,SUB: Biyombo FOR Valanciunas,Substitution,,0,220
+41500116,235,PT00M53.40S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,40.0,44.0,84,v,DeRozan Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,221
+41500116,237,PT00M37.90S,2,1610612754,IND,202331,George,P. George,-243,87,26,Missed,1,,,0,h,MISS George 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,222
+41500116,238,PT00M36.90S,2,1610612761,TOR,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:4 Def:4),Rebound,Unknown,1,223
+41500116,239,PT00M28.90S,2,1610612761,TOR,200768,Lowry,K. Lowry,140,208,25,Missed,1,,,0,v,MISS Lowry 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,224
+41500116,240,PT00M28.20S,2,1610612761,TOR,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:5 Def:4),Rebound,Unknown,1,225
+41500116,241,PT00M23.10S,2,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Timeout: Short (Reg.2 Short 1),Timeout,Short,0,226
+41500116,243,PT00M23.10S,2,1610612761,TOR,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Biyombo,Substitution,,0,227
+41500116,244,PT00M05.80S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,DeRozan Bad Pass Turnover (P3.T7),Turnover,Bad Pass,1,228
+41500116,244,PT00M05.80S,2,1610612754,IND,202331,George,P. George,0,0,0,,0,,,0,h,George STEAL (1 STL),,,1,229
+41500116,245,PT00M00.00S,2,1610612754,IND,101145,Ellis,M. Ellis,-235,-24,24,Missed,1,,,0,h,MISS Ellis 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,230
+41500116,247,PT00M00.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,231
+41500116,246,PT00M00.00S,2,0,,0,,,0,0,0,,0,40.0,44.0,84,,End of 2nd Period (8:40 PM EST),period,end,0,232
+41500116,249,PT12M00.00S,3,0,,0,,,0,0,0,,0,40.0,44.0,84,,Start of 3rd Period (8:57 PM EST),period,start,0,233
+41500116,250,PT11M44.00S,3,1610612761,TOR,201960,Carroll,D. Carroll,-150,239,28,Missed,1,,,0,v,MISS Carroll 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,234
+41500116,252,PT11M43.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:3 Def:4),Rebound,Unknown,1,235
+41500116,251,PT11M43.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,22,7,2,Made,1,40.0,46.0,86,v,Valanciunas 2' Tip Layup Shot (12 PTS),Made Shot,Tip Layup Shot,1,236
+41500116,253,PT11M31.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas P.FOUL (P2.T1) (K.Fitzgerald),Foul,Personal,1,237
+41500116,254,PT11M15.00S,3,1610612754,IND,101145,Ellis,M. Ellis,218,120,25,Made,1,43.0,46.0,89,h,Ellis 25' 3PT Jump Shot (8 PTS) (George 4 AST),Made Shot,Jump Shot,1,238
+41500116,255,PT10M57.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,DeRozan Lost Ball Turnover (P4.T8),Turnover,Lost Ball,1,239
+41500116,255,PT10M57.00S,3,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi STEAL (1 STL),,,1,240
+41500116,256,PT10M53.00S,3,1610612754,IND,201588,Hill,G. Hill,14,-1,1,Made,1,45.0,46.0,91,h,G. Hill 1' Running Finger Roll Layup (4 PTS),Made Shot,Running Finger Roll Layup Shot,1,241
+41500116,257,PT10M35.00S,3,1610612761,TOR,202335,Patterson,P. Patterson,-17,80,8,Missed,1,,,0,v,MISS Patterson 8' Hook Shot,Missed Shot,Hook Shot,1,242
+41500116,257,PT10M35.00S,3,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,,,0,h,Turner BLOCK (1 BLK),,,1,243
+41500116,258,PT10M34.00S,3,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,,,0,h,Turner REBOUND (Off:1 Def:3),Rebound,Unknown,1,244
+41500116,259,PT10M27.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,DeRozan Personal Block Foul (P2.T2) (J.Goble),Foul,Personal Block,1,245
+41500116,260,PT10M18.00S,3,1610612754,IND,1626167,Turner,M. Turner,-204,-21,21,Made,1,47.0,46.0,93,h,Turner 21' Jump Shot (8 PTS) (Mahinmi 1 AST),Made Shot,Jump Shot,1,246
+41500116,261,PT09M55.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,135,120,18,Made,1,47.0,48.0,95,v,DeRozan 18' Jump Shot (6 PTS) (Lowry 9 AST),Made Shot,Jump Shot,1,247
+41500116,262,PT09M35.00S,3,1610612754,IND,201588,Hill,G. Hill,-84,2,8,Missed,1,,,0,h,MISS G. Hill 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,248
+41500116,267,PT09M34.00S,3,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,,,0,h,Turner REBOUND (Off:2 Def:3),Rebound,Unknown,1,249
+41500116,266,PT09M33.00S,3,1610612754,IND,1626167,Turner,M. Turner,-1,4,0,Missed,1,,,0,h,MISS Turner Tip Layup Shot,Missed Shot,Tip Layup Shot,1,250
+41500116,264,PT09M32.00S,3,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi REBOUND (Off:2 Def:2),Rebound,Unknown,1,251
+41500116,263,PT09M32.00S,3,1610612754,IND,101133,Mahinmi,I. Mahinmi,-11,11,2,Made,1,49.0,48.0,97,h,Mahinmi 2' Tip Layup Shot (10 PTS),Made Shot,Tip Layup Shot,1,252
+41500116,265,PT09M21.00S,3,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi P.FOUL (P2.T1) (J.Goble),Foul,Personal,1,253
+41500116,268,PT09M11.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,-145,106,18,Missed,1,,,0,v,MISS DeRozan 18' Jump Shot,Missed Shot,Jump Shot,1,254
+41500116,269,PT09M09.00S,3,1610612754,IND,202331,George,P. George,0,0,0,,0,,,0,h,George REBOUND (Off:1 Def:4),Rebound,Unknown,1,255
+41500116,270,PT08M53.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry S.FOUL (P2.T3) (J.Goble),Foul,Shooting,1,256
+41500116,271,PT08M53.00S,3,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,MISS Mahinmi Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,257
+41500116,272,PT08M53.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,258
+41500116,273,PT08M53.00S,3,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,50.0,48.0,98,h,Mahinmi Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,259
+41500116,275,PT08M46.00S,3,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,,,0,h,Turner P.FOUL (P3.T2) (J.Goble),Foul,Personal,1,260
+41500116,276,PT08M35.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,-79,120,14,Made,1,50.0,50.0,100,v,Lowry 14' Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,1,261
+41500116,277,PT08M16.00S,3,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,,,0,v,Carroll S.FOUL (P3.T4) (J.Goble),Foul,Shooting,1,262
+41500116,278,PT08M16.00S,3,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,51.0,50.0,101,h,Mahinmi Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,263
+41500116,280,PT08M16.00S,3,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,MISS Mahinmi Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,264
+41500116,282,PT08M15.00S,3,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,,,0,h,Turner REBOUND (Off:3 Def:3),Rebound,Unknown,1,265
+41500116,284,PT08M14.00S,3,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,,,0,h,Turner Lost Ball Turnover (P2.T5),Turnover,Lost Ball,1,266
+41500116,284,PT08M14.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas STEAL (2 STL),,,1,267
+41500116,283,PT08M14.00S,3,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,,,0,h,Jump Ball Turner vs. Valanciunas: Tip to DeRozan,Jump Ball,,1,268
+41500116,285,PT07M57.00S,3,1610612761,TOR,202335,Patterson,P. Patterson,-230,141,27,Missed,1,,,0,v,MISS Patterson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,269
+41500116,286,PT07M56.00S,3,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,,,0,h,Turner REBOUND (Off:3 Def:4),Rebound,Unknown,1,270
+41500116,287,PT07M40.00S,3,1610612754,IND,201588,Hill,G. Hill,207,165,26,Made,1,54.0,50.0,104,h,G. Hill 26' 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,271
+41500116,288,PT07M23.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,272
+41500116,288,PT07M23.00S,3,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi STEAL (2 STL),,,1,273
+41500116,289,PT07M19.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry S.FOUL (P3.PN) (M.Callahan),Foul,Shooting,1,274
+41500116,290,PT07M19.00S,3,1610612754,IND,201588,Hill,G. Hill,0,0,0,,0,,,0,h,MISS G. Hill Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,275
+41500116,291,PT07M19.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,276
+41500116,292,PT07M19.00S,3,1610612754,IND,201588,Hill,G. Hill,0,0,0,,0,55.0,50.0,105,h,G. Hill Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,277
+41500116,294,PT07M19.00S,3,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,278
+41500116,296,PT07M10.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,10,62,6,Missed,1,,,0,v,MISS Lowry 6' Running Jump Shot,Missed Shot,Running Jump Shot,1,279
+41500116,297,PT07M09.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:4 Def:4),Rebound,Unknown,1,280
+41500116,298,PT07M07.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,6,-1,1,Missed,1,,,0,v,MISS Valanciunas 1' Layup,Missed Shot,Layup Shot,1,281
+41500116,298,PT07M07.00S,3,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,,,0,h,Turner BLOCK (2 BLK),,,1,282
+41500116,299,PT07M05.00S,3,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,,,0,v,Carroll REBOUND (Off:2 Def:0),Rebound,Unknown,1,283
+41500116,300,PT07M03.00S,3,1610612761,TOR,201960,Carroll,D. Carroll,-29,101,11,Made,1,55.0,52.0,107,v,Carroll 11' Jump Shot (14 PTS),Made Shot,Jump Shot,1,284
+41500116,301,PT06M51.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,DeRozan P.FOUL (P3.PN) (M.Callahan),Foul,Personal,1,285
+41500116,302,PT06M51.00S,3,1610612754,IND,201588,Hill,G. Hill,0,0,0,,0,56.0,52.0,108,h,G. Hill Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,286
+41500116,304,PT06M51.00S,3,1610612754,IND,201588,Hill,G. Hill,0,0,0,,0,57.0,52.0,109,h,G. Hill Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,287
+41500116,306,PT06M28.00S,3,1610612754,IND,101145,Ellis,M. Ellis,0,0,0,,0,,,0,h,Ellis S.FOUL (P1.T3) (K.Fitzgerald),Foul,Shooting,1,288
+41500116,307,PT06M28.00S,3,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,,,0,v,MISS Carroll Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,289
+41500116,308,PT06M28.00S,3,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Normal Rebound,0,290
+41500116,309,PT06M28.00S,3,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,57.0,53.0,110,v,Carroll Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,291
+41500116,311,PT06M18.00S,3,1610612754,IND,101145,Ellis,M. Ellis,155,205,26,Missed,1,,,0,h,MISS Ellis 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,292
+41500116,312,PT06M17.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:4 Def:5),Rebound,Unknown,1,293
+41500116,313,PT06M04.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas Lost Ball Turnover (P2.T10),Turnover,Lost Ball,1,294
+41500116,313,PT06M04.00S,3,1610612754,IND,101145,Ellis,M. Ellis,0,0,0,,0,,,0,h,Ellis STEAL (3 STL),,,1,295
+41500116,314,PT05M55.00S,3,1610612754,IND,101145,Ellis,M. Ellis,-166,-1,17,Made,1,59.0,53.0,112,h,Ellis 17' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,296
+41500116,315,PT05M35.00S,3,1610612754,IND,101145,Ellis,M. Ellis,0,0,0,,0,,,0,h,Ellis S.FOUL (P2.T4) (J.Goble),Foul,Shooting,1,297
+41500116,316,PT05M35.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,MISS Valanciunas Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,298
+41500116,317,PT05M35.00S,3,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Normal Rebound,0,299
+41500116,319,PT05M35.00S,3,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,SUB: Joseph FOR Patterson,Substitution,,0,300
+41500116,320,PT05M35.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,MISS Valanciunas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,301
+41500116,322,PT05M35.00S,3,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,,,0,h,Turner REBOUND (Off:3 Def:5),Rebound,Unknown,1,302
+41500116,323,PT05M19.00S,3,1610612754,IND,202331,George,P. George,166,-1,17,Made,1,61.0,53.0,114,h,George 17' Turnaround Jump Shot (9 PTS) (Ellis 3 AST),Made Shot,Turnaround Jump Shot,1,303
+41500116,324,PT05M01.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry Bad Pass Turnover (P3.T11),Turnover,Bad Pass,1,304
+41500116,324,PT05M01.00S,3,1610612754,IND,201588,Hill,G. Hill,0,0,0,,0,,,0,h,G. Hill STEAL (1 STL),,,1,305
+41500116,325,PT04M55.00S,3,1610612754,IND,101145,Ellis,M. Ellis,0,0,0,,0,,,0,h,Ellis Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,306
+41500116,326,PT04M40.00S,3,1610612761,TOR,201960,Carroll,D. Carroll,-201,169,26,Missed,1,,,0,v,MISS Carroll 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,307
+41500116,327,PT04M40.00S,3,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,0,308
+41500116,328,PT04M40.00S,3,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi L.B.FOUL (P3.PN) (K.Fitzgerald),Foul,Loose Ball,1,309
+41500116,329,PT04M40.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,61.0,54.0,115,v,Valanciunas Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,310
+41500116,331,PT04M40.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,61.0,55.0,116,v,Valanciunas Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,311
+41500116,333,PT04M24.00S,3,1610612754,IND,101145,Ellis,M. Ellis,-19,7,2,Made,1,63.0,55.0,118,h,Ellis 2' Driving Reverse Layup (12 PTS),Made Shot,Driving Reverse Layup Shot,1,312
+41500116,334,PT04M09.00S,3,1610612761,TOR,202709,Joseph,C. Joseph,230,-6,0,Made,1,63.0,58.0,121,v,Joseph 3PT Jump Shot (10 PTS) (Lowry 10 AST),Made Shot,Jump Shot,1,313
+41500116,335,PT03M44.00S,3,1610612754,IND,101145,Ellis,M. Ellis,0,0,0,,0,,,0,h,Ellis Lost Ball Turnover (P2.T7),Turnover,Lost Ball,1,314
+41500116,335,PT03M44.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry STEAL (2 STL),,,1,315
+41500116,336,PT03M42.00S,3,1610612754,IND,202331,George,P. George,0,0,0,,0,,,0,h,George S.FOUL (P2.PN) (M.Callahan),Foul,Shooting,1,316
+41500116,337,PT03M42.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,MISS Lowry Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,317
+41500116,338,PT03M42.00S,3,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Normal Rebound,0,318
+41500116,339,PT03M42.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,63.0,59.0,122,v,Lowry Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,319
+41500116,341,PT03M26.00S,3,1610612754,IND,202331,George,P. George,0,0,0,,0,,,0,h,George Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,320
+41500116,341,PT03M26.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,DeRozan STEAL (1 STL),,,1,321
+41500116,342,PT03M18.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,61,160,17,Missed,1,,,0,v,MISS DeRozan 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,322
+41500116,343,PT03M16.00S,3,1610612754,IND,201588,Hill,G. Hill,0,0,0,,0,,,0,h,G. Hill REBOUND (Off:1 Def:3),Rebound,Unknown,1,323
+41500116,344,PT03M11.00S,3,1610612754,IND,101145,Ellis,M. Ellis,-2,0,0,Made,1,65.0,59.0,124,h,Ellis Cutting Layup Shot (14 PTS) (G. Hill 3 AST),Made Shot,Cutting Layup Shot,1,324
+41500116,345,PT02M49.00S,3,1610612754,IND,101145,Ellis,M. Ellis,0,0,0,,0,,,0,h,Ellis S.FOUL (P3.PN) (J.Goble),Foul,Shooting,1,325
+41500116,346,PT02M49.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,326
+41500116,348,PT02M49.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,SUB: Biyombo FOR Valanciunas,Substitution,,0,327
+41500116,349,PT02M49.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,SUB: Powell FOR Lowry,Substitution,,0,328
+41500116,350,PT02M49.00S,3,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,,,0,h,SUB: Stuckey FOR Turner,Substitution,,0,329
+41500116,351,PT02M49.00S,3,1610612754,IND,101145,Ellis,M. Ellis,0,0,0,,0,,,0,h,SUB: S. Hill FOR Ellis,Substitution,,0,330
+41500116,352,PT02M49.00S,3,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,65.0,60.0,125,v,Joseph Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,331
+41500116,354,PT02M49.00S,3,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,,,0,v,MISS Joseph Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,332
+41500116,356,PT02M49.00S,3,1610612754,IND,201588,Hill,G. Hill,0,0,0,,0,,,0,h,G. Hill REBOUND (Off:1 Def:4),Rebound,Unknown,1,333
+41500116,357,PT02M25.00S,3,1610612754,IND,202331,George,P. George,227,16,0,Missed,1,,,0,h,MISS George 3PT Jump Shot,Missed Shot,Jump Shot,1,334
+41500116,358,PT02M24.00S,3,1610612761,TOR,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:5 Def:5),Rebound,Unknown,1,335
+41500116,359,PT02M10.00S,3,1610612754,IND,201155,Stuckey,R. Stuckey,0,0,0,,0,,,0,h,Stuckey S.FOUL (P1.PN) (M.Callahan),Foul,Shooting,1,336
+41500116,360,PT02M10.00S,3,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,65.0,61.0,126,v,Joseph Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,337
+41500116,362,PT02M10.00S,3,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,65.0,62.0,127,v,Joseph Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,338
+41500116,364,PT01M52.00S,3,1610612754,IND,201588,Hill,G. Hill,0,0,0,,0,,,0,h,G. Hill Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,339
+41500116,364,PT01M52.00S,3,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,,,0,v,Joseph STEAL (1 STL),,,1,340
+41500116,365,PT01M49.00S,3,1610612761,TOR,1626181,Powell,N. Powell,0,1,0,Made,1,65.0,64.0,129,v,Powell Cutting Dunk Shot (2 PTS) (Joseph 1 AST),Made Shot,Cutting Dunk Shot,1,341
+41500116,366,PT01M35.00S,3,1610612761,TOR,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo S.FOUL (P2.PN) (M.Callahan),Foul,Shooting,1,342
+41500116,367,PT01M35.00S,3,1610612754,IND,202331,George,P. George,0,0,0,,0,66.0,64.0,130,h,George Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,343
+41500116,369,PT01M35.00S,3,1610612754,IND,202331,George,P. George,0,0,0,,0,67.0,64.0,131,h,George Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,344
+41500116,371,PT01M23.00S,3,1610612761,TOR,202709,Joseph,C. Joseph,-20,3,2,Missed,1,,,0,v,MISS Joseph 2' Driving Layup,Missed Shot,Driving Layup Shot,1,345
+41500116,371,PT01M23.00S,3,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,Mahinmi BLOCK (2 BLK),,,1,346
+41500116,372,PT01M23.00S,3,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,0,347
+41500116,373,PT01M16.00S,3,1610612761,TOR,201960,Carroll,D. Carroll,-16,272,27,Missed,1,,,0,v,MISS Carroll 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,348
+41500116,374,PT01M15.00S,3,1610612754,IND,203524,Hill,S. Hill,0,0,0,,0,,,0,h,S. Hill REBOUND (Off:0 Def:1),Rebound,Unknown,1,349
+41500116,375,PT01M05.00S,3,1610612754,IND,201155,Stuckey,R. Stuckey,50,164,17,Made,1,69.0,64.0,133,h,Stuckey 17' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,350
+41500116,376,PT00M42.90S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,1,208,21,Missed,1,,,0,v,MISS DeRozan 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,351
+41500116,377,PT00M41.90S,3,1610612754,IND,201155,Stuckey,R. Stuckey,0,0,0,,0,,,0,h,Stuckey REBOUND (Off:0 Def:1),Rebound,Unknown,1,352
+41500116,378,PT00M31.00S,3,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,,,0,v,Joseph P.FOUL (P1.PN) (J.Goble),Foul,Personal,1,353
+41500116,380,PT00M31.00S,3,1610612754,IND,201588,Hill,G. Hill,0,0,0,,0,70.0,64.0,134,h,G. Hill Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,354
+41500116,382,PT00M31.00S,3,1610612754,IND,201588,Hill,G. Hill,0,0,0,,0,71.0,64.0,135,h,G. Hill Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,355
+41500116,383,PT00M06.80S,3,1610612761,TOR,1626181,Powell,N. Powell,225,-21,0,Missed,1,,,0,v,MISS Powell 3PT Jump Shot,Missed Shot,Jump Shot,1,356
+41500116,384,PT00M05.90S,3,1610612754,IND,202331,George,P. George,0,0,0,,0,,,0,h,George REBOUND (Off:1 Def:5),Rebound,Unknown,1,357
+41500116,385,PT00M00.00S,3,1610612754,IND,202331,George,P. George,110,16,11,Missed,1,,,0,h,MISS George 11' Running Jump Shot,Missed Shot,Running Jump Shot,1,358
+41500116,386,PT00M00.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,359
+41500116,387,PT00M00.00S,3,0,,0,,,0,0,0,,0,71.0,64.0,135,,End of 3rd Period (9:28 PM EST),period,end,0,360
+41500116,389,PT12M00.00S,4,0,,0,,,0,0,0,,0,71.0,64.0,135,,Start of 4th Period (9:32 PM EST),period,start,0,361
+41500116,390,PT11M40.00S,4,1610612754,IND,202331,George,P. George,4,7,1,Made,1,73.0,64.0,137,h,George 1' Reverse Layup (13 PTS) (Stuckey 3 AST),Made Shot,Reverse Layup Shot,1,362
+41500116,391,PT11M38.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Violation: Delay of game Violation,Violation,Delay Of Game,0,363
+41500116,392,PT11M19.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry Bad Pass Turnover (P4.T12),Turnover,Bad Pass,1,364
+41500116,393,PT11M02.00S,4,1610612754,IND,1626167,Turner,M. Turner,61,72,9,Made,1,75.0,64.0,139,h,Turner 9' Jump Shot (10 PTS) (George 5 AST),Made Shot,Jump Shot,1,365
+41500116,394,PT10M42.00S,4,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,,,0,v,Powell Lost Ball Turnover (P1.T13),Turnover,Lost Ball,1,366
+41500116,394,PT10M42.00S,4,1610612754,IND,201155,Stuckey,R. Stuckey,0,0,0,,0,,,0,h,Stuckey STEAL (1 STL),,,1,367
+41500116,395,PT10M38.00S,4,1610612754,IND,202331,George,P. George,0,1,0,Made,1,77.0,64.0,141,h,George Running Dunk (15 PTS) (Ellis 4 AST),Made Shot,Running Dunk Shot,1,368
+41500116,396,PT10M38.00S,4,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,369
+41500116,398,PT10M38.00S,4,1610612761,TOR,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Biyombo,Substitution,,0,370
+41500116,399,PT10M27.00S,4,1610612761,TOR,203082,Ross,T. Ross,-22,90,9,Missed,1,,,0,v,MISS Ross 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,371
+41500116,400,PT10M26.00S,4,1610612754,IND,201155,Stuckey,R. Stuckey,0,0,0,,0,,,0,h,Stuckey REBOUND (Off:0 Def:2),Rebound,Unknown,1,372
+41500116,401,PT10M14.00S,4,1610612754,IND,201155,Stuckey,R. Stuckey,-153,210,26,Made,1,80.0,64.0,144,h,Stuckey 26' 3PT Jump Shot (5 PTS) (Ellis 5 AST),Made Shot,Jump Shot,1,373
+41500116,402,PT09M59.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,-197,190,27,Missed,1,,,0,v,MISS Lowry 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,374
+41500116,403,PT09M58.00S,4,1610612754,IND,202331,George,P. George,0,0,0,,0,,,0,h,George REBOUND (Off:1 Def:6),Rebound,Unknown,1,375
+41500116,404,PT09M49.00S,4,1610612754,IND,1626167,Turner,M. Turner,-1,2,0,Made,1,82.0,64.0,146,h,Turner Driving Layup (12 PTS) (Stuckey 4 AST),Made Shot,Driving Layup Shot,1,376
+41500116,405,PT09M49.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas S.FOUL (P3.T1) (J.Goble),Foul,Shooting,1,377
+41500116,406,PT09M49.00S,4,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,83.0,64.0,147,h,Turner Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,378
+41500116,408,PT09M36.00S,4,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,,,0,v,Joseph Offensive Charge Foul (P2) (M.Callahan),Foul,Offensive Charge,1,379
+41500116,409,PT09M36.00S,4,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,,,0,v,Joseph Foul Turnover (P2.T14),Turnover,Foul,1,380
+41500116,410,PT09M36.00S,4,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,,,0,v,SUB: Carroll FOR Joseph,Substitution,,0,381
+41500116,411,PT09M36.00S,4,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,,,0,v,SUB: DeRozan FOR Powell,Substitution,,0,382
+41500116,412,PT09M36.00S,4,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,SUB: Patterson FOR Ross,Substitution,,0,383
+41500116,413,PT09M24.00S,4,1610612754,IND,202331,George,P. George,117,218,25,Missed,1,,,0,h,MISS George 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,384
+41500116,414,PT09M23.00S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,DeRozan REBOUND (Off:1 Def:2),Rebound,Unknown,1,385
+41500116,415,PT09M08.00S,4,1610612761,TOR,201960,Carroll,D. Carroll,-14,0,1,Missed,1,,,0,v,MISS Carroll 1' Reverse Layup,Missed Shot,Reverse Layup Shot,1,386
+41500116,415,PT09M08.00S,4,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,,,0,h,Turner BLOCK (3 BLK),,,1,387
+41500116,416,PT09M07.00S,4,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,,,0,v,Carroll REBOUND (Off:3 Def:0),Rebound,Unknown,1,388
+41500116,417,PT09M05.00S,4,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,,,0,v,Carroll Bad Pass Turnover (P1.T15),Turnover,Bad Pass,1,389
+41500116,417,PT09M05.00S,4,1610612754,IND,203524,Hill,S. Hill,0,0,0,,0,,,0,h,S. Hill STEAL (1 STL),,,1,390
+41500116,418,PT08M51.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas Personal Block Foul (P4.T2) (J.Goble),Foul,Personal Block,1,391
+41500116,419,PT08M39.00S,4,1610612754,IND,101145,Ellis,M. Ellis,0,0,0,,0,,,0,h,Ellis Lost Ball Turnover (P3.T10),Turnover,Lost Ball,1,392
+41500116,419,PT08M39.00S,4,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,,,0,v,Carroll STEAL (2 STL),,,1,393
+41500116,420,PT08M35.00S,4,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,,,0,v,Carroll Lost Ball Turnover (P2.T16),Turnover,Lost Ball,1,394
+41500116,420,PT08M35.00S,4,1610612754,IND,101145,Ellis,M. Ellis,0,0,0,,0,,,0,h,Ellis STEAL (4 STL),,,1,395
+41500116,421,PT08M31.00S,4,1610612754,IND,202331,George,P. George,-14,3,1,Missed,1,,,0,h,MISS George 1' Driving Layup,Missed Shot,Driving Layup Shot,1,396
+41500116,422,PT08M29.00S,4,1610612754,IND,202331,George,P. George,0,0,0,,0,,,0,h,George REBOUND (Off:2 Def:6),Rebound,Unknown,1,397
+41500116,423,PT08M29.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas P.FOUL (P5.T3) (M.Callahan),Foul,Personal,1,398
+41500116,424,PT08M20.00S,4,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,,,0,h,Turner OFF.Foul (P4) (M.Callahan),Foul,Offensive,1,399
+41500116,425,PT08M20.00S,4,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,,,0,h,Turner Foul Turnover (P3.T11),Turnover,Foul,1,400
+41500116,426,PT08M20.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,SUB: Biyombo FOR Valanciunas,Substitution,,0,401
+41500116,427,PT08M01.00S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,-11,2,1,Missed,1,,,0,v,MISS DeRozan 1' Driving Layup,Missed Shot,Driving Layup Shot,1,402
+41500116,427,PT08M01.00S,4,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,,,0,h,Turner BLOCK (4 BLK),,,1,403
+41500116,428,PT07M59.00S,4,1610612754,IND,202331,George,P. George,0,0,0,,0,,,0,h,George REBOUND (Off:2 Def:7),Rebound,Unknown,1,404
+41500116,429,PT07M52.00S,4,1610612754,IND,101145,Ellis,M. Ellis,0,0,0,,0,,,0,h,Ellis Bad Pass Turnover (P4.T12),Turnover,Bad Pass,1,405
+41500116,429,PT07M52.00S,4,1610612761,TOR,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo STEAL (1 STL),,,1,406
+41500116,430,PT07M47.00S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,-27,13,3,Missed,1,,,0,v,MISS DeRozan 3' Running Layup,Missed Shot,Running Layup Shot,1,407
+41500116,431,PT07M45.00S,4,1610612754,IND,202331,George,P. George,0,0,0,,0,,,0,h,George REBOUND (Off:2 Def:8),Rebound,Unknown,1,408
+41500116,433,PT07M33.00S,4,1610612754,IND,203524,Hill,S. Hill,-240,-24,24,Missed,1,,,0,h,MISS S. Hill 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,409
+41500116,434,PT07M32.00S,4,1610612754,IND,202331,George,P. George,0,0,0,,0,,,0,h,George REBOUND (Off:3 Def:8),Rebound,Unknown,1,410
+41500116,435,PT07M32.00S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,DeRozan P.FOUL (P4.T4) (J.Goble),Foul,Personal,1,411
+41500116,436,PT07M23.00S,4,1610612754,IND,1626167,Turner,M. Turner,84,180,20,Missed,1,,,0,h,MISS Turner 20' Jump Shot,Missed Shot,Jump Shot,1,412
+41500116,437,PT07M22.00S,4,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,,,0,v,Carroll REBOUND (Off:3 Def:1),Rebound,Unknown,1,413
+41500116,438,PT07M13.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,-81,244,26,Made,1,83.0,67.0,150,v,Lowry 26' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,414
+41500116,439,PT07M12.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,415
+41500116,441,PT07M12.00S,4,1610612754,IND,101145,Ellis,M. Ellis,0,0,0,,0,,,0,h,SUB: G. Hill FOR Ellis,Substitution,,0,416
+41500116,442,PT07M01.00S,4,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,,,0,v,Carroll L.B.FOUL (P4.PN) (M.Callahan),Foul,Loose Ball,1,417
+41500116,443,PT07M01.00S,4,1610612754,IND,202331,George,P. George,0,0,0,,0,84.0,67.0,151,h,George Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,418
+41500116,445,PT07M01.00S,4,1610612754,IND,202331,George,P. George,0,0,0,,0,85.0,67.0,152,h,George Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,419
+41500116,447,PT06M52.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,-29,273,27,Missed,1,,,0,v,MISS Lowry 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,420
+41500116,448,PT06M51.00S,4,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,,,0,h,Turner REBOUND (Off:3 Def:6),Rebound,Unknown,1,421
+41500116,449,PT06M35.00S,4,1610612754,IND,1626167,Turner,M. Turner,156,-1,16,Made,1,87.0,67.0,154,h,Turner 16' Jump Shot (15 PTS) (S. Hill 1 AST),Made Shot,Jump Shot,1,422
+41500116,450,PT06M17.00S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,-117,174,21,Missed,1,,,0,v,MISS DeRozan 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,423
+41500116,451,PT06M16.00S,4,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,0,424
+41500116,452,PT06M16.00S,4,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,SUB: Joseph FOR Patterson,Substitution,,0,425
+41500116,453,PT06M06.00S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,56,164,17,Made,1,87.0,69.0,156,v,DeRozan 17' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,426
+41500116,454,PT05M46.00S,4,1610612754,IND,201588,Hill,G. Hill,0,0,0,,0,,,0,h,G. Hill Bad Pass Turnover (P3.T13),Turnover,Bad Pass,1,427
+41500116,455,PT05M37.00S,4,1610612754,IND,203524,Hill,S. Hill,0,0,0,,0,,,0,h,S. Hill P.FOUL (P4.T1) (M.Callahan),Foul,Personal,1,428
+41500116,456,PT05M26.00S,4,1610612761,TOR,201960,Carroll,D. Carroll,227,-11,0,Missed,1,,,0,v,MISS Carroll 3PT Jump Shot,Missed Shot,Jump Shot,1,429
+41500116,457,PT05M22.00S,4,1610612754,IND,203524,Hill,S. Hill,0,0,0,,0,,,0,h,S. Hill REBOUND (Off:0 Def:2),Rebound,Unknown,1,430
+41500116,458,PT05M16.00S,4,1610612754,IND,203524,Hill,S. Hill,-147,228,27,Made,1,90.0,69.0,159,h,S. Hill 27' 3PT Jump Shot (9 PTS) (George 6 AST),Made Shot,Jump Shot,1,431
+41500116,459,PT04M59.00S,4,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,,,0,h,Turner P.FOUL (P5.T2) (K.Fitzgerald),Foul,Personal,1,432
+41500116,460,PT04M59.00S,4,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,,,0,h,SUB: Mahinmi FOR Turner,Substitution,,0,433
+41500116,461,PT04M49.00S,4,1610612754,IND,202331,George,P. George,0,0,0,,0,,,0,h,George P.FOUL (P3.T3) (M.Callahan),Foul,Personal,1,434
+41500116,462,PT04M49.00S,4,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,,,0,v,SUB: Powell FOR Carroll,Substitution,,0,435
+41500116,463,PT04M43.00S,4,1610612754,IND,202331,George,P. George,0,0,0,,0,,,0,h,George P.FOUL (P4.T4) (K.Fitzgerald),Foul,Personal,1,436
+41500116,465,PT04M28.00S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,186,95,21,Missed,1,,,0,v,MISS DeRozan 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,437
+41500116,466,PT04M27.00S,4,1610612754,IND,203524,Hill,S. Hill,0,0,0,,0,,,0,h,S. Hill REBOUND (Off:0 Def:3),Rebound,Unknown,1,438
+41500116,467,PT04M06.00S,4,1610612754,IND,201155,Stuckey,R. Stuckey,-125,232,26,Made,1,93.0,69.0,162,h,Stuckey 26' 3PT Jump Shot (8 PTS) (G. Hill 4 AST),Made Shot,Jump Shot,1,439
+41500116,468,PT03M45.00S,4,1610612761,TOR,1626181,Powell,N. Powell,-197,175,26,Missed,1,,,0,v,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,440
+41500116,469,PT03M44.00S,4,1610612754,IND,201155,Stuckey,R. Stuckey,0,0,0,,0,,,0,h,Stuckey REBOUND (Off:0 Def:3),Rebound,Unknown,1,441
+41500116,470,PT03M27.00S,4,1610612754,IND,202331,George,P. George,179,2,18,Made,1,95.0,69.0,164,h,George 18' Step Back Jump Shot (19 PTS),Made Shot,Step Back Jump shot,1,442
+41500116,471,PT03M27.00S,4,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Timeout: Regular (Reg.5 Short 1),Timeout,Regular,0,443
+41500116,473,PT03M27.00S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,,,0,v,SUB: Thompson FOR DeRozan,Substitution,,0,444
+41500116,474,PT03M27.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,SUB: Wright FOR Lowry,Substitution,,0,445
+41500116,475,PT03M27.00S,4,1610612761,TOR,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Ross FOR Biyombo,Substitution,,0,446
+41500116,476,PT03M12.00S,4,1610612761,TOR,1626153,Wright,D. Wright,0,0,0,,0,,,0,v,Wright Lost Ball Turnover (P1.T17),Turnover,Lost Ball,1,447
+41500116,476,PT03M12.00S,4,1610612754,IND,202331,George,P. George,0,0,0,,0,,,0,h,George STEAL (2 STL),,,1,448
+41500116,477,PT03M09.00S,4,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,,,0,v,Joseph S.FOUL (P3.PN) (M.Callahan),Foul,Shooting,1,449
+41500116,478,PT03M09.00S,4,1610612754,IND,202331,George,P. George,0,0,0,,0,96.0,69.0,165,h,George Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,450
+41500116,480,PT03M09.00S,4,1610612754,IND,101133,Mahinmi,I. Mahinmi,0,0,0,,0,,,0,h,SUB: J. Hill FOR Mahinmi,Substitution,,0,451
+41500116,481,PT03M09.00S,4,1610612754,IND,202331,George,P. George,0,0,0,,0,97.0,69.0,166,h,George Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,452
+41500116,483,PT03M08.00S,4,1610612754,IND,201155,Stuckey,R. Stuckey,0,0,0,,0,,,0,h,Stuckey Personal Take Foul (P2.PN) (J.Goble),Foul,Personal Take,1,453
+41500116,484,PT03M08.00S,4,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,MISS Ross Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,454
+41500116,485,PT03M08.00S,4,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Normal Rebound,0,455
+41500116,486,PT03M08.00S,4,1610612754,IND,202331,George,P. George,0,0,0,,0,,,0,h,SUB: Allen FOR George,Substitution,,0,456
+41500116,487,PT03M08.00S,4,1610612754,IND,201588,Hill,G. Hill,0,0,0,,0,,,0,h,SUB: Robinson III FOR G. Hill,Substitution,,0,457
+41500116,488,PT03M08.00S,4,1610612754,IND,203524,Hill,S. Hill,0,0,0,,0,,,0,h,SUB: Young FOR S. Hill,Substitution,,0,458
+41500116,490,PT03M08.00S,4,1610612754,IND,201155,Stuckey,R. Stuckey,0,0,0,,0,,,0,h,SUB: Lawson FOR Stuckey,Substitution,,0,459
+41500116,491,PT03M08.00S,4,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,97.0,70.0,167,v,Ross Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,460
+41500116,493,PT02M46.00S,4,1610612754,IND,1626202,Young,J. Young,0,0,0,,0,,,0,h,Young Traveling Turnover (P1.T14),Turnover,Traveling,1,461
+41500116,494,PT02M26.00S,4,1610612761,TOR,201574,Thompson,J. Thompson,1,70,7,Missed,1,,,0,v,MISS Thompson 7' Jump Shot,Missed Shot,Jump Shot,1,462
+41500116,495,PT02M25.00S,4,1610612754,IND,201941,Hill,J. Hill,0,0,0,,0,,,0,h,J. Hill REBOUND (Off:0 Def:1),Rebound,Unknown,1,463
+41500116,496,PT02M08.00S,4,1610612754,IND,201941,Hill,J. Hill,-142,120,19,Missed,1,,,0,h,MISS J. Hill 19' Jump Shot,Missed Shot,Jump Shot,1,464
+41500116,497,PT02M07.00S,4,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,1,465
+41500116,498,PT02M00.00S,4,1610612761,TOR,202709,Joseph,C. Joseph,9,2,1,Made,1,97.0,72.0,169,v,Joseph 1' Driving Finger Roll Layup (15 PTS),Made Shot,Driving Finger Roll Layup Shot,1,466
+41500116,499,PT01M44.00S,4,1610612754,IND,1626202,Young,J. Young,50,129,14,Made,1,99.0,72.0,171,h,Young 14' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,1,467
+41500116,500,PT01M30.00S,4,1610612761,TOR,203082,Ross,T. Ross,-201,178,27,Made,1,99.0,75.0,174,v,Ross 27' 3PT Jump Shot (4 PTS) (Wright 1 AST),Made Shot,Jump Shot,1,468
+41500116,501,PT01M06.00S,4,1610612754,IND,1626202,Young,J. Young,145,-5,15,Missed,1,,,0,h,MISS Young 15' Jump Shot,Missed Shot,Jump Shot,1,469
+41500116,501,PT01M06.00S,4,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,Ross BLOCK (2 BLK),,,1,470
+41500116,502,PT01M05.00S,4,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,,,0,v,Joseph REBOUND (Off:1 Def:1),Rebound,Unknown,1,471
+41500116,503,PT01M02.00S,4,1610612761,TOR,201574,Thompson,J. Thompson,0,1,0,Made,1,99.0,77.0,176,v,Thompson Cutting Dunk Shot (2 PTS) (Joseph 2 AST),Made Shot,Cutting Dunk Shot,1,472
+41500116,504,PT01M02.00S,4,1610612754,IND,1626202,Young,J. Young,0,0,0,,0,,,0,h,Young S.FOUL (P1.PN) (M.Callahan),Foul,Shooting,1,473
+41500116,505,PT01M02.00S,4,1610612761,TOR,201574,Thompson,J. Thompson,0,0,0,,0,,,0,v,MISS Thompson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,474
+41500116,508,PT01M01.00S,4,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,Ross REBOUND (Off:1 Def:1),Rebound,Unknown,1,475
+41500116,507,PT01M01.00S,4,1610612761,TOR,203082,Ross,T. Ross,-1,-1,0,Made,1,99.0,79.0,178,v,Ross Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,476
+41500116,509,PT00M43.00S,4,1610612754,IND,201951,Lawson,T. Lawson,53,124,13,Made,1,101.0,79.0,180,h,Lawson 13' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,1,477
+41500116,510,PT00M38.70S,4,1610612754,IND,1626202,Young,J. Young,0,0,0,,0,,,0,h,Young S.FOUL (P2.PN) (K.Fitzgerald),Foul,Shooting,1,478
+41500116,511,PT00M38.70S,4,1610612761,TOR,1626153,Wright,D. Wright,0,0,0,,0,,,0,v,MISS Wright Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,479
+41500116,512,PT00M38.70S,4,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Normal Rebound,0,480
+41500116,513,PT00M38.70S,4,1610612761,TOR,1626153,Wright,D. Wright,0,0,0,,0,101.0,80.0,181,v,Wright Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,481
+41500116,515,PT00M20.90S,4,1610612754,IND,201951,Lawson,T. Lawson,-122,237,27,Missed,1,,,0,h,MISS Lawson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,482
+41500116,516,PT00M19.90S,4,1610612761,TOR,201574,Thompson,J. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,483
+41500116,517,PT00M08.40S,4,1610612761,TOR,203082,Ross,T. Ross,114,232,26,Made,1,101.0,83.0,184,v,Ross 26' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,484
+41500116,518,PT00M00.00S,4,0,,0,,,0,0,0,,0,101.0,83.0,184,,End of 4th Period (10:05 PM EST),period,end,0,485

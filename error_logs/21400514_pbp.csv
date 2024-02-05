@@ -1,0 +1,462 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+21400514,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (8:11 PM EST),period,start,0,1
+21400514,1,PT12M00.00S,1,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,h,Jump Ball Dieng vs. Mozgov: Tip to Lawson,Jump Ball,,1,2
+21400514,2,PT11M42.00S,1,1610612743,DEN,201951,Lawson,T. Lawson,0,80,8,Missed,1,0.0,0.0,0,v,MISS Lawson 8' Running Jump Shot,Missed Shot,Running Jump Shot,1,3
+21400514,2,PT11M42.00S,1,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,h,Dieng BLOCK (1 BLK),,,1,4
+21400514,3,PT11M39.00S,1,1610612750,MIN,201152,Young,T. Young,0,0,0,,0,0.0,0.0,0,h,Young REBOUND (Off:0 Def:1),Rebound,Unknown,1,5
+21400514,4,PT11M26.00S,1,1610612750,MIN,201152,Young,T. Young,-27,39,5,Made,1,2.0,0.0,2,h,Young 5' Jump Bank Shot (2 PTS) (Williams 1 AST),Made Shot,Jump Bank Shot,1,6
+21400514,5,PT11M11.00S,1,1610612743,DEN,202702,Faried,K. Faried,-35,3,4,Missed,1,0.0,0.0,0,v,MISS Faried 4' Jump Shot,Missed Shot,Jump Shot,1,7
+21400514,5,PT11M11.00S,1,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,h,Dieng BLOCK (2 BLK),,,1,8
+21400514,6,PT11M09.00S,1,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,h,Wiggins REBOUND (Off:0 Def:1),Rebound,Unknown,1,9
+21400514,7,PT11M02.00S,1,1610612750,MIN,203476,Dieng,G. Dieng,28,-2,3,Made,1,4.0,0.0,4,h,Dieng 3' Layup (2 PTS) (Wiggins 1 AST),Made Shot,Layup Shot,1,10
+21400514,8,PT11M02.00S,1,1610612743,DEN,202389,Mozgov,T. Mozgov,0,0,0,,0,0.0,0.0,0,v,Mozgov S.FOUL (P1.T1),Foul,Shooting,1,11
+21400514,9,PT11M02.00S,1,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,5.0,0.0,5,h,Dieng Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,12
+21400514,11,PT10M45.00S,1,1610612750,MIN,2590,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,h,Williams P.FOUL (P1.T1),Foul,Personal,1,13
+21400514,12,PT10M41.00S,1,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0.0,0.0,0,v,Faried Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,14
+21400514,12,PT10M41.00S,1,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,h,Dieng STEAL (1 STL),,,1,15
+21400514,13,PT10M34.00S,1,1610612750,MIN,2590,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,h,Williams Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,16
+21400514,13,PT10M34.00S,1,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,0.0,0.0,0,v,Lawson STEAL (1 STL),,,1,17
+21400514,14,PT10M27.00S,1,1610612743,DEN,202702,Faried,K. Faried,2,11,1,Missed,1,0.0,0.0,0,v,MISS Faried 1' Layup,Missed Shot,Layup Shot,1,18
+21400514,15,PT10M26.00S,1,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,h,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,1,19
+21400514,16,PT10M15.00S,1,1610612750,MIN,2590,Williams,M. Williams,-37,172,18,Made,1,7.0,0.0,7,h,Williams 18' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,20
+21400514,17,PT10M00.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,21,23,3,Missed,1,0.0,0.0,0,v,MISS Chandler 3' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,21
+21400514,18,PT09M59.00S,1,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0.0,0.0,0,v,Faried REBOUND (Off:1 Def:0),Rebound,Unknown,1,22
+21400514,19,PT09M59.00S,1,1610612743,DEN,202702,Faried,K. Faried,-2,-11,1,Made,1,7.0,2.0,9,v,Faried 1' Tip Shot (2 PTS),Made Shot,Tip Shot,1,23
+21400514,20,PT09M39.00S,1,1610612750,MIN,203498,Muhammad,S. Muhammad,4,198,20,Made,1,9.0,2.0,11,h,Muhammad 20' Jump Shot (2 PTS) (Williams 2 AST),Made Shot,Jump Shot,1,24
+21400514,21,PT09M23.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,-109,176,21,Missed,1,0.0,0.0,0,v,MISS Afflalo 21' Jump Shot,Missed Shot,Jump Shot,1,25
+21400514,22,PT09M23.00S,1,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Rebound,Rebound,Unknown,0,26
+21400514,23,PT09M23.00S,1,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,h,Dieng L.B.FOUL (P1.T2),Foul,Loose Ball,1,27
+21400514,24,PT09M18.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,-139,140,20,Made,1,9.0,4.0,13,v,Afflalo 20' Jump Shot (2 PTS) (Lawson 1 AST),Made Shot,Jump Shot,1,28
+21400514,25,PT09M04.00S,1,1610612743,DEN,202389,Mozgov,T. Mozgov,0,0,0,,0,0.0,0.0,0,v,Mozgov P.FOUL (P2.T2),Foul,Personal,1,29
+21400514,26,PT09M04.00S,1,1610612743,DEN,202389,Mozgov,T. Mozgov,0,0,0,,0,0.0,0.0,0,v,SUB: Nurkic FOR Mozgov,Substitution,,0,30
+21400514,27,PT08M55.00S,1,1610612750,MIN,203952,Wiggins,A. Wiggins,-10,77,8,Missed,1,0.0,0.0,0,h,MISS Wiggins 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,31
+21400514,28,PT08M53.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0.0,0.0,0,v,Chandler REBOUND (Off:0 Def:1),Rebound,Unknown,1,32
+21400514,29,PT08M45.00S,1,1610612743,DEN,203994,Nurkic,J. Nurkic,0,1,0,Made,1,9.0,6.0,15,v,Nurkic  Slam Dunk (2 PTS) (Lawson 2 AST),Made Shot,Slam Dunk Shot,1,33
+21400514,30,PT08M22.00S,1,1610612750,MIN,203952,Wiggins,A. Wiggins,29,37,5,Missed,1,0.0,0.0,0,h,MISS Wiggins 5' Jump Shot,Missed Shot,Jump Shot,1,34
+21400514,31,PT08M20.00S,1,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0.0,0.0,0,v,Faried REBOUND (Off:1 Def:1),Rebound,Unknown,1,35
+21400514,32,PT08M11.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0.0,0.0,0,v,Afflalo OFF.Foul (P1),Foul,Offensive,1,36
+21400514,33,PT08M11.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0.0,0.0,0,v,Afflalo Foul Turnover (P1.T2),Turnover,Foul,1,37
+21400514,34,PT07M58.00S,1,1610612750,MIN,203498,Muhammad,S. Muhammad,177,47,18,Made,1,11.0,6.0,17,h,Muhammad 18' Jump Shot (4 PTS) (Williams 3 AST),Made Shot,Jump Shot,1,38
+21400514,35,PT07M39.00S,1,1610612743,DEN,201951,Lawson,T. Lawson,-120,146,19,Made,1,11.0,8.0,19,v,Lawson 19' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,39
+21400514,36,PT07M26.00S,1,1610612750,MIN,2590,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,h,Williams Bad Pass Turnover (P2.T2),Turnover,Bad Pass,1,40
+21400514,37,PT07M14.00S,1,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,0.0,0.0,0,v,Lawson Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,41
+21400514,37,PT07M14.00S,1,1610612750,MIN,203498,Muhammad,S. Muhammad,0,0,0,,0,0.0,0.0,0,h,Muhammad STEAL (1 STL),,,1,42
+21400514,38,PT07M10.00S,1,1610612750,MIN,201152,Young,T. Young,0,1,0,Made,1,13.0,8.0,21,h,Young  Dunk (4 PTS) (Muhammad 1 AST),Made Shot,Dunk Shot,1,43
+21400514,40,PT06M54.00S,1,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,h,Dieng Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,44
+21400514,39,PT06M54.00S,1,1610612743,DEN,203994,Nurkic,J. Nurkic,4,30,3,Made,1,13.0,10.0,23,v,Nurkic 3' Jump Shot (4 PTS),Made Shot,Jump Shot,1,45
+21400514,41,PT06M39.00S,1,1610612750,MIN,2590,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,h,Williams Bad Pass Turnover (P3.T3),Turnover,Bad Pass,1,46
+21400514,41,PT06M39.00S,1,1610612743,DEN,203994,Nurkic,J. Nurkic,0,0,0,,0,0.0,0.0,0,v,Nurkic STEAL (1 STL),,,1,47
+21400514,42,PT06M36.00S,1,1610612750,MIN,2590,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,h,Williams P.FOUL (P2.T3),Foul,Personal,1,48
+21400514,43,PT06M36.00S,1,1610612750,MIN,2590,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,h,SUB: LaVine FOR Williams,Substitution,,0,49
+21400514,44,PT06M26.00S,1,1610612750,MIN,203498,Muhammad,S. Muhammad,0,0,0,,0,0.0,0.0,0,h,Muhammad P.FOUL (P1.T4),Foul,Personal,1,50
+21400514,45,PT06M16.00S,1,1610612743,DEN,203994,Nurkic,J. Nurkic,23,33,4,Made,1,13.0,12.0,25,v,Nurkic 4' Running Hook Shot (6 PTS) (Lawson 3 AST),Made Shot,Running Hook Shot,1,51
+21400514,46,PT06M07.00S,1,0,,1610612750,,,0,0,0,,0,0.0,0.0,0,h,TIMBERWOLVES Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,52
+21400514,48,PT05M49.00S,1,1610612750,MIN,203476,Dieng,G. Dieng,31,15,3,Missed,1,0.0,0.0,0,h,MISS Dieng 3' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,53
+21400514,49,PT05M47.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0.0,0.0,0,v,Chandler REBOUND (Off:0 Def:2),Rebound,Unknown,1,54
+21400514,50,PT05M36.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,81,228,24,Made,1,13.0,15.0,28,v,Afflalo 24' 3PT Jump Shot (5 PTS) (Lawson 4 AST),Made Shot,Jump Shot,1,55
+21400514,51,PT05M20.00S,1,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,h,Wiggins Traveling Turnover (P1.T4),Turnover,Traveling,1,56
+21400514,52,PT05M12.00S,1,1610612743,DEN,202702,Faried,K. Faried,0,1,0,Made,1,13.0,17.0,30,v,Faried  Slam Dunk (4 PTS) (Lawson 5 AST),Made Shot,Slam Dunk Shot,1,57
+21400514,53,PT04M55.00S,1,1610612750,MIN,201152,Young,T. Young,-23,31,4,Missed,1,0.0,0.0,0,h,MISS Young 4' Jump Shot,Missed Shot,Jump Shot,1,58
+21400514,54,PT04M53.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0.0,0.0,0,v,Chandler REBOUND (Off:0 Def:3),Rebound,Unknown,1,59
+21400514,55,PT04M44.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,127,216,25,Made,1,13.0,20.0,33,v,Afflalo 25' 3PT Jump Shot (8 PTS) (Nurkic 1 AST),Made Shot,Jump Shot,1,60
+21400514,56,PT04M22.00S,1,1610612750,MIN,203498,Muhammad,S. Muhammad,192,154,25,Made,1,16.0,20.0,36,h,Muhammad 25' 3PT Jump Shot (7 PTS) (Wiggins 2 AST),Made Shot,Jump Shot,1,61
+21400514,57,PT04M11.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,149,198,25,Missed,1,0.0,0.0,0,v,MISS Afflalo 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,62
+21400514,58,PT04M10.00S,1,1610612750,MIN,203498,Muhammad,S. Muhammad,0,0,0,,0,0.0,0.0,0,h,Muhammad REBOUND (Off:0 Def:1),Rebound,Unknown,1,63
+21400514,59,PT03M52.00S,1,1610612750,MIN,203476,Dieng,G. Dieng,-7,-5,1,Made,1,18.0,20.0,38,h,Dieng 1' Layup (5 PTS) (Young 1 AST),Made Shot,Layup Shot,1,64
+21400514,60,PT03M52.00S,1,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0.0,0.0,0,v,Faried S.FOUL (P1.T3),Foul,Shooting,1,65
+21400514,61,PT03M52.00S,1,1610612750,MIN,201152,Young,T. Young,0,0,0,,0,0.0,0.0,0,h,SUB: Bennett FOR Young,Substitution,,0,66
+21400514,62,PT03M52.00S,1,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0.0,0.0,0,v,SUB: Hickson FOR Faried,Substitution,,0,67
+21400514,63,PT03M52.00S,1,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,19.0,20.0,39,h,Dieng Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,68
+21400514,65,PT03M40.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,228,15,0,Missed,1,0.0,0.0,0,v,MISS Chandler  3PT Jump Shot,Missed Shot,Jump Shot,1,69
+21400514,66,PT03M39.00S,1,1610612750,MIN,203461,Bennett,A. Bennett,0,0,0,,0,0.0,0.0,0,h,Bennett REBOUND (Off:0 Def:1),Rebound,Unknown,1,70
+21400514,67,PT03M32.00S,1,1610612750,MIN,203498,Muhammad,S. Muhammad,-232,20,0,Missed,1,0.0,0.0,0,h,MISS Muhammad  3PT Jump Shot,Missed Shot,Jump Shot,1,71
+21400514,68,PT03M30.00S,1,1610612750,MIN,203461,Bennett,A. Bennett,0,0,0,,0,0.0,0.0,0,h,Bennett REBOUND (Off:1 Def:1),Rebound,Unknown,1,72
+21400514,69,PT03M28.00S,1,1610612750,MIN,203461,Bennett,A. Bennett,0,0,0,,0,0.0,0.0,0,h,Bennett Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,73
+21400514,69,PT03M28.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0.0,0.0,0,v,Afflalo STEAL (1 STL),,,1,74
+21400514,70,PT03M24.00S,1,1610612750,MIN,203897,LaVine,Z. LaVine,0,0,0,,0,0.0,0.0,0,h,LaVine S.FOUL (P1.PN),Foul,Shooting,1,75
+21400514,71,PT03M24.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,19.0,21.0,40,v,Afflalo Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,76
+21400514,73,PT03M24.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0.0,0.0,0,v,SUB: Robinson FOR Chandler,Substitution,,0,77
+21400514,74,PT03M24.00S,1,1610612750,MIN,203498,Muhammad,S. Muhammad,0,0,0,,0,0.0,0.0,0,h,SUB: Daniels FOR Muhammad,Substitution,,0,78
+21400514,75,PT03M24.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,19.0,22.0,41,v,Afflalo Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,79
+21400514,77,PT03M11.00S,1,1610612750,MIN,203461,Bennett,A. Bennett,-76,197,21,Missed,1,0.0,0.0,0,h,MISS Bennett 21' Jump Shot,Missed Shot,Jump Shot,1,80
+21400514,78,PT03M10.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0.0,0.0,0,v,Afflalo REBOUND (Off:0 Def:1),Rebound,Unknown,1,81
+21400514,79,PT02M58.00S,1,1610612743,DEN,201581,Hickson,J. Hickson,56,45,7,Missed,1,0.0,0.0,0,v,MISS Hickson 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,82
+21400514,80,PT02M56.00S,1,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,h,Wiggins REBOUND (Off:0 Def:2),Rebound,Unknown,1,83
+21400514,81,PT02M45.00S,1,1610612750,MIN,203461,Bennett,A. Bennett,2,20,2,Missed,1,0.0,0.0,0,h,MISS Bennett 2' Layup,Missed Shot,Layup Shot,1,84
+21400514,81,PT02M45.00S,1,1610612743,DEN,203994,Nurkic,J. Nurkic,0,0,0,,0,0.0,0.0,0,v,Nurkic BLOCK (1 BLK),,,1,85
+21400514,82,PT02M43.00S,1,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,h,Dieng REBOUND (Off:1 Def:1),Rebound,Unknown,1,86
+21400514,83,PT02M37.00S,1,1610612750,MIN,203897,LaVine,Z. LaVine,-226,52,0,Missed,1,0.0,0.0,0,h,MISS LaVine  3PT Jump Shot,Missed Shot,Jump Shot,1,87
+21400514,84,PT02M35.00S,1,1610612743,DEN,203994,Nurkic,J. Nurkic,0,0,0,,0,0.0,0.0,0,v,Nurkic REBOUND (Off:0 Def:1),Rebound,Unknown,1,88
+21400514,85,PT02M28.00S,1,1610612743,DEN,201951,Lawson,T. Lawson,-147,86,17,Made,1,19.0,24.0,43,v,Lawson 17' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,1,89
+21400514,86,PT02M28.00S,1,1610612750,MIN,203584,Daniels,T. Daniels,0,0,0,,0,0.0,0.0,0,h,Daniels S.FOUL (P1.PN),Foul,Shooting,1,90
+21400514,87,PT02M28.00S,1,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,91
+21400514,89,PT02M28.00S,1,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,h,SUB: Adrien FOR Dieng,Substitution,,0,92
+21400514,90,PT02M28.00S,1,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,0.0,0.0,0,v,MISS Lawson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,93
+21400514,92,PT02M25.00S,1,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Rebound,Rebound,Unknown,0,94
+21400514,93,PT02M17.00S,1,1610612743,DEN,101126,Robinson,N. Robinson,-234,50,24,Made,1,19.0,27.0,46,v,Robinson 24' 3PT Jump Shot (3 PTS) (Lawson 6 AST),Made Shot,Jump Shot,1,95
+21400514,94,PT01M57.00S,1,1610612750,MIN,203461,Bennett,A. Bennett,151,50,16,Missed,1,0.0,0.0,0,h,MISS Bennett 16' Jump Shot,Missed Shot,Jump Shot,1,96
+21400514,95,PT01M56.00S,1,1610612743,DEN,203994,Nurkic,J. Nurkic,0,0,0,,0,0.0,0.0,0,v,Nurkic REBOUND (Off:0 Def:2),Rebound,Unknown,1,97
+21400514,96,PT01M48.00S,1,1610612743,DEN,203994,Nurkic,J. Nurkic,-168,88,19,Made,1,19.0,29.0,48,v,Nurkic 19' Jump Shot (8 PTS) (Lawson 7 AST),Made Shot,Jump Shot,1,98
+21400514,97,PT01M31.00S,1,1610612750,MIN,203952,Wiggins,A. Wiggins,-73,176,19,Missed,1,0.0,0.0,0,h,MISS Wiggins 19' Jump Shot,Missed Shot,Jump Shot,1,99
+21400514,97,PT01M31.00S,1,1610612743,DEN,203994,Nurkic,J. Nurkic,0,0,0,,0,0.0,0.0,0,v,Nurkic BLOCK (2 BLK),,,1,100
+21400514,98,PT01M29.00S,1,1610612743,DEN,201581,Hickson,J. Hickson,0,0,0,,0,0.0,0.0,0,v,Hickson REBOUND (Off:0 Def:1),Rebound,Unknown,1,101
+21400514,99,PT01M23.00S,1,1610612743,DEN,201167,Afflalo,A. Afflalo,36,249,25,Made,1,19.0,32.0,51,v,Afflalo 25' 3PT Jump Shot (13 PTS) (Robinson 1 AST),Made Shot,Jump Shot,1,102
+21400514,101,PT01M09.00S,1,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,h,SUB: Muhammad FOR Wiggins,Substitution,,0,103
+21400514,102,PT00M59.30S,1,1610612750,MIN,203461,Bennett,A. Bennett,-161,55,17,Made,1,21.0,32.0,53,h,Bennett 17' Jump Shot (2 PTS) (Muhammad 2 AST),Made Shot,Jump Shot,1,104
+21400514,103,PT00M40.50S,1,1610612743,DEN,101126,Robinson,N. Robinson,-130,220,26,Made,1,21.0,35.0,56,v,Robinson 26' 3PT Jump Shot (6 PTS) (Lawson 8 AST),Made Shot,Jump Shot,1,105
+21400514,104,PT00M29.90S,1,1610612750,MIN,203498,Muhammad,S. Muhammad,-141,206,25,Missed,1,0.0,0.0,0,h,MISS Muhammad 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,106
+21400514,105,PT00M28.90S,1,1610612743,DEN,201581,Hickson,J. Hickson,0,0,0,,0,0.0,0.0,0,v,Hickson REBOUND (Off:0 Def:2),Rebound,Unknown,1,107
+21400514,106,PT00M05.90S,1,1610612743,DEN,203994,Nurkic,J. Nurkic,-169,23,17,Missed,1,0.0,0.0,0,v,MISS Nurkic 17' Jump Shot,Missed Shot,Jump Shot,1,108
+21400514,107,PT00M04.50S,1,1610612750,MIN,203498,Muhammad,S. Muhammad,0,0,0,,0,0.0,0.0,0,h,Muhammad REBOUND (Off:0 Def:2),Rebound,Unknown,1,109
+21400514,108,PT00M00.80S,1,1610612750,MIN,203498,Muhammad,S. Muhammad,-30,34,5,Missed,1,0.0,0.0,0,h,MISS Muhammad 5' Running Jump Shot,Missed Shot,Running Jump Shot,1,110
+21400514,109,PT00M00.00S,1,0,,1610612750,,,0,0,0,,0,0.0,0.0,0,h,TIMBERWOLVES Rebound,Rebound,Unknown,0,111
+21400514,110,PT00M00.00S,1,0,,0,,,0,0,0,,0,21.0,35.0,56,,End of 1st Period (8:34 PM EST),period,end,0,112
+21400514,112,PT12M00.00S,2,0,,0,,,0,0,0,,0,21.0,35.0,56,,Start of 2nd Period (8:37 PM EST),period,start,0,113
+21400514,113,PT11M41.00S,2,1610612750,MIN,203461,Bennett,A. Bennett,-57,190,20,Missed,1,0.0,0.0,0,h,MISS Bennett 20' Jump Shot,Missed Shot,Jump Shot,1,114
+21400514,114,PT11M40.00S,2,1610612750,MIN,203498,Muhammad,S. Muhammad,0,0,0,,0,0.0,0.0,0,h,Muhammad REBOUND (Off:1 Def:2),Rebound,Unknown,1,115
+21400514,115,PT11M24.00S,2,1610612750,MIN,203498,Muhammad,S. Muhammad,-7,11,1,Made,1,23.0,35.0,58,h,Muhammad 1' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,116
+21400514,116,PT11M08.00S,2,1610612743,DEN,201163,Chandler,W. Chandler,65,183,19,Missed,1,0.0,0.0,0,v,MISS Chandler 19' Jump Shot,Missed Shot,Jump Shot,1,117
+21400514,117,PT11M07.00S,2,1610612750,MIN,203461,Bennett,A. Bennett,0,0,0,,0,0.0,0.0,0,h,Bennett REBOUND (Off:1 Def:2),Rebound,Unknown,1,118
+21400514,118,PT11M02.00S,2,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,0.0,0.0,0,v,Lawson S.FOUL (P1.T1),Foul,Shooting,1,119
+21400514,119,PT11M02.00S,2,1610612750,MIN,203897,LaVine,Z. LaVine,0,0,0,,0,24.0,35.0,59,h,LaVine Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,120
+21400514,122,PT11M02.00S,2,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,0.0,0.0,0,v,SUB: Faried FOR Lawson,Substitution,,0,121
+21400514,123,PT11M02.00S,2,1610612750,MIN,203897,LaVine,Z. LaVine,0,0,0,,0,0.0,0.0,0,h,MISS LaVine Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,122
+21400514,125,PT11M02.00S,2,1610612743,DEN,201581,Hickson,J. Hickson,0,0,0,,0,0.0,0.0,0,v,Hickson REBOUND (Off:0 Def:3),Rebound,Unknown,1,123
+21400514,126,PT10M52.00S,2,1610612743,DEN,101126,Robinson,N. Robinson,17,12,2,Made,1,24.0,37.0,61,v,Robinson 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,124
+21400514,128,PT10M37.00S,2,1610612750,MIN,203584,Daniels,T. Daniels,-226,4,0,Missed,1,0.0,0.0,0,h,MISS Daniels  3PT Jump Shot,Missed Shot,Jump Shot,1,125
+21400514,129,PT10M36.00S,2,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Rebound,Rebound,Unknown,0,126
+21400514,130,PT10M36.00S,2,1610612750,MIN,202399,Adrien,J. Adrien,0,0,0,,0,0.0,0.0,0,h,Adrien L.B.FOUL (P1.T1),Foul,Loose Ball,1,127
+21400514,132,PT10M20.00S,2,1610612750,MIN,203461,Bennett,A. Bennett,0,0,0,,0,0.0,0.0,0,h,Bennett P.FOUL (P1.T2),Foul,Personal,1,128
+21400514,133,PT10M14.00S,2,1610612743,DEN,101126,Robinson,N. Robinson,-71,168,18,Made,1,24.0,39.0,63,v,Robinson 18' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,129
+21400514,134,PT10M02.00S,2,1610612743,DEN,101126,Robinson,N. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson P.FOUL (P1.T2),Foul,Personal,1,130
+21400514,135,PT09M56.00S,2,1610612750,MIN,202399,Adrien,J. Adrien,2,9,1,Missed,1,0.0,0.0,0,h,MISS Adrien 1' Layup,Missed Shot,Layup Shot,1,131
+21400514,136,PT09M54.00S,2,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0.0,0.0,0,v,Faried REBOUND (Off:1 Def:2),Rebound,Unknown,1,132
+21400514,137,PT09M48.00S,2,1610612743,DEN,201581,Hickson,J. Hickson,-2,-5,1,Made,1,24.0,41.0,65,v,Hickson 1' Driving Layup (2 PTS) (Robinson 2 AST),Made Shot,Driving Layup Shot,1,133
+21400514,138,PT09M32.00S,2,1610612750,MIN,203897,LaVine,Z. LaVine,0,-14,1,Missed,1,0.0,0.0,0,h,MISS LaVine 1' Driving Layup,Missed Shot,Driving Layup Shot,1,134
+21400514,139,PT09M31.00S,2,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0.0,0.0,0,v,Chandler REBOUND (Off:0 Def:4),Rebound,Unknown,1,135
+21400514,140,PT09M26.00S,2,1610612743,DEN,202702,Faried,K. Faried,0,1,0,Made,1,24.0,43.0,67,v,Faried  Slam Dunk (6 PTS) (Arthur 1 AST),Made Shot,Slam Dunk Shot,1,136
+21400514,141,PT09M20.00S,2,0,,1610612750,,,0,0,0,,0,0.0,0.0,0,h,TIMBERWOLVES Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,137
+21400514,143,PT09M20.00S,2,1610612750,MIN,202399,Adrien,J. Adrien,0,0,0,,0,0.0,0.0,0,h,SUB: Dieng FOR Adrien,Substitution,,0,138
+21400514,144,PT09M20.00S,2,1610612750,MIN,203584,Daniels,T. Daniels,0,0,0,,0,0.0,0.0,0,h,SUB: Wiggins FOR Daniels,Substitution,,0,139
+21400514,145,PT09M04.00S,2,1610612750,MIN,203952,Wiggins,A. Wiggins,108,231,26,Missed,1,0.0,0.0,0,h,MISS Wiggins 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,140
+21400514,146,PT09M02.00S,2,1610612743,DEN,201581,Hickson,J. Hickson,0,0,0,,0,0.0,0.0,0,v,Hickson REBOUND (Off:0 Def:4),Rebound,Unknown,1,141
+21400514,147,PT08M40.00S,2,1610612743,DEN,201581,Hickson,J. Hickson,73,39,8,Made,1,24.0,45.0,69,v,Hickson 8' Jump Shot (4 PTS),Made Shot,Jump Shot,1,142
+21400514,148,PT08M14.00S,2,1610612750,MIN,203952,Wiggins,A. Wiggins,228,55,0,Made,1,27.0,45.0,72,h,Wiggins  3PT Jump Shot (3 PTS) (Muhammad 3 AST),Made Shot,Jump Shot,1,143
+21400514,149,PT07M55.00S,2,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,h,Dieng S.FOUL (P2.T3),Foul,Shooting,1,144
+21400514,150,PT07M55.00S,2,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,27.0,46.0,73,v,Faried Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,145
+21400514,152,PT07M55.00S,2,1610612750,MIN,203461,Bennett,A. Bennett,0,0,0,,0,0.0,0.0,0,h,SUB: Young FOR Bennett,Substitution,,0,146
+21400514,153,PT07M55.00S,2,1610612750,MIN,203897,LaVine,Z. LaVine,0,0,0,,0,0.0,0.0,0,h,SUB: Williams FOR LaVine,Substitution,,0,147
+21400514,154,PT07M55.00S,2,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,27.0,47.0,74,v,Faried Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,148
+21400514,156,PT07M54.00S,2,1610612743,DEN,201581,Hickson,J. Hickson,0,0,0,,0,0.0,0.0,0,v,Hickson P.FOUL (P1.T3),Foul,Personal,1,149
+21400514,157,PT07M47.00S,2,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0.0,0.0,0,v,Faried P.FOUL (P2.T4),Foul,Personal,1,150
+21400514,158,PT07M41.00S,2,1610612750,MIN,2590,Williams,M. Williams,-29,247,25,Missed,1,0.0,0.0,0,h,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,151
+21400514,159,PT07M40.00S,2,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0.0,0.0,0,v,Faried REBOUND (Off:1 Def:3),Rebound,Unknown,1,152
+21400514,160,PT07M38.00S,2,1610612743,DEN,101126,Robinson,N. Robinson,2,4,0,Made,1,27.0,49.0,76,v,Robinson  Layup (12 PTS) (Faried 1 AST),Made Shot,Layup Shot,1,153
+21400514,161,PT07M19.00S,2,1610612750,MIN,203498,Muhammad,S. Muhammad,24,71,7,Missed,1,0.0,0.0,0,h,MISS Muhammad 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,154
+21400514,162,PT07M17.00S,2,1610612743,DEN,201581,Hickson,J. Hickson,0,0,0,,0,0.0,0.0,0,v,Hickson REBOUND (Off:0 Def:5),Rebound,Unknown,1,155
+21400514,163,PT07M13.00S,2,1610612743,DEN,201589,Arthur,D. Arthur,2,12,1,Missed,1,0.0,0.0,0,v,MISS Arthur 1' Layup,Missed Shot,Layup Shot,1,156
+21400514,164,PT07M11.00S,2,1610612750,MIN,201152,Young,T. Young,0,0,0,,0,0.0,0.0,0,h,Young REBOUND (Off:0 Def:2),Rebound,Unknown,1,157
+21400514,165,PT07M03.00S,2,1610612750,MIN,203952,Wiggins,A. Wiggins,-158,189,25,Missed,1,0.0,0.0,0,h,MISS Wiggins 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,158
+21400514,167,PT07M02.00S,2,1610612750,MIN,203498,Muhammad,S. Muhammad,0,0,0,,0,0.0,0.0,0,h,Muhammad REBOUND (Off:2 Def:2),Rebound,Unknown,1,159
+21400514,166,PT07M02.00S,2,1610612750,MIN,203498,Muhammad,S. Muhammad,0,1,0,Made,1,29.0,49.0,78,h,Muhammad  Tip Shot (11 PTS),Made Shot,Tip Shot,1,160
+21400514,168,PT07M02.00S,2,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0.0,0.0,0,v,Faried S.FOUL (P3.PN),Foul,Shooting,1,161
+21400514,169,PT07M02.00S,2,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0.0,0.0,0,v,SUB: Mozgov FOR Faried,Substitution,,0,162
+21400514,170,PT07M02.00S,2,1610612750,MIN,203498,Muhammad,S. Muhammad,0,0,0,,0,0.0,0.0,0,h,MISS Muhammad Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,163
+21400514,172,PT07M01.00S,2,1610612743,DEN,202389,Mozgov,T. Mozgov,0,0,0,,0,0.0,0.0,0,v,Mozgov REBOUND (Off:0 Def:1),Rebound,Unknown,1,164
+21400514,173,PT06M51.00S,2,1610612743,DEN,101126,Robinson,N. Robinson,119,231,26,Missed,1,0.0,0.0,0,v,MISS Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,165
+21400514,174,PT06M50.00S,2,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,h,Dieng REBOUND (Off:1 Def:2),Rebound,Unknown,1,166
+21400514,175,PT06M32.00S,2,1610612750,MIN,203476,Dieng,G. Dieng,17,15,2,Made,1,31.0,49.0,80,h,Dieng 2' Running Layup (8 PTS),Made Shot,Running Layup Shot,1,167
+21400514,176,PT06M24.00S,2,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,168
+21400514,178,PT06M24.00S,2,1610612743,DEN,101126,Robinson,N. Robinson,0,0,0,,0,0.0,0.0,0,v,SUB: Lawson FOR Robinson,Substitution,,0,169
+21400514,179,PT06M24.00S,2,1610612743,DEN,201589,Arthur,D. Arthur,0,0,0,,0,0.0,0.0,0,v,SUB: Afflalo FOR Arthur,Substitution,,0,170
+21400514,180,PT06M12.00S,2,1610612743,DEN,202389,Mozgov,T. Mozgov,149,25,15,Missed,1,0.0,0.0,0,v,MISS Mozgov 15' Jump Shot,Missed Shot,Jump Shot,1,171
+21400514,181,PT06M11.00S,2,1610612750,MIN,2590,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,h,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,172
+21400514,182,PT06M01.00S,2,1610612750,MIN,2590,Williams,M. Williams,122,22,12,Missed,1,0.0,0.0,0,h,MISS Williams 12' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,173
+21400514,183,PT05M59.00S,2,1610612743,DEN,202389,Mozgov,T. Mozgov,0,0,0,,0,0.0,0.0,0,v,Mozgov REBOUND (Off:0 Def:2),Rebound,Unknown,1,174
+21400514,184,PT05M51.00S,2,1610612743,DEN,201167,Afflalo,A. Afflalo,-144,208,25,Missed,1,0.0,0.0,0,v,MISS Afflalo 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,175
+21400514,185,PT05M50.00S,2,1610612750,MIN,203498,Muhammad,S. Muhammad,0,0,0,,0,0.0,0.0,0,h,Muhammad REBOUND (Off:2 Def:3),Rebound,Unknown,1,176
+21400514,186,PT05M27.00S,2,1610612750,MIN,203476,Dieng,G. Dieng,45,157,16,Missed,1,0.0,0.0,0,h,MISS Dieng 16' Jump Shot,Missed Shot,Jump Shot,1,177
+21400514,187,PT05M26.00S,2,0,,1610612750,,,0,0,0,,0,0.0,0.0,0,h,TIMBERWOLVES Rebound,Rebound,Unknown,0,178
+21400514,188,PT05M26.00S,2,0,,1610612750,,,0,0,0,,0,0.0,0.0,0,h,TIMBERWOLVES Turnover: Shot Clock (T#6),Turnover,Shot Clock Turnover,0,179
+21400514,190,PT05M01.00S,2,1610612743,DEN,201951,Lawson,T. Lawson,-119,172,21,Missed,1,0.0,0.0,0,v,MISS Lawson 21' Jump Shot,Missed Shot,Jump Shot,1,180
+21400514,191,PT04M59.00S,2,1610612750,MIN,201152,Young,T. Young,0,0,0,,0,0.0,0.0,0,h,Young REBOUND (Off:0 Def:3),Rebound,Unknown,1,181
+21400514,192,PT04M52.00S,2,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,h,Dieng Traveling Turnover (P1.T7),Turnover,Traveling,1,182
+21400514,193,PT04M35.00S,2,1610612743,DEN,201167,Afflalo,A. Afflalo,132,107,17,Made,1,31.0,51.0,82,v,Afflalo 17' Jump Shot (15 PTS),Made Shot,Jump Shot,1,183
+21400514,194,PT04M35.00S,2,1610612750,MIN,203498,Muhammad,S. Muhammad,0,0,0,,0,0.0,0.0,0,h,Muhammad S.FOUL (P2.T4),Foul,Shooting,1,184
+21400514,195,PT04M35.00S,2,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,31.0,52.0,83,v,Afflalo Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,0,185
+21400514,196,PT04M23.00S,2,1610612743,DEN,202389,Mozgov,T. Mozgov,0,0,0,,0,0.0,0.0,0,v,Mozgov S.FOUL (P3.PN),Foul,Shooting,1,186
+21400514,197,PT04M23.00S,2,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,h,MISS Wiggins Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,187
+21400514,198,PT04M23.00S,2,0,,1610612750,,,0,0,0,,0,0.0,0.0,0,h,TIMBERWOLVES Rebound,Rebound,Normal Rebound,0,188
+21400514,199,PT04M23.00S,2,1610612743,DEN,202389,Mozgov,T. Mozgov,0,0,0,,0,0.0,0.0,0,v,SUB: Nurkic FOR Mozgov,Substitution,,0,189
+21400514,200,PT04M23.00S,2,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,32.0,52.0,84,h,Wiggins Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,190
+21400514,203,PT04M00.00S,2,1610612743,DEN,201581,Hickson,J. Hickson,-86,96,13,Made,1,32.0,54.0,86,v,Hickson 13' Jump Shot (6 PTS),Made Shot,Jump Shot,1,191
+21400514,204,PT03M37.00S,2,1610612750,MIN,201152,Young,T. Young,43,159,16,Missed,1,0.0,0.0,0,h,MISS Young 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,192
+21400514,205,PT03M36.00S,2,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,0.0,0.0,0,v,Lawson REBOUND (Off:0 Def:1),Rebound,Unknown,1,193
+21400514,206,PT03M30.00S,2,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,h,Wiggins S.FOUL (P1.PN),Foul,Shooting,1,194
+21400514,207,PT03M30.00S,2,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,32.0,55.0,87,v,Afflalo Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,195
+21400514,209,PT03M30.00S,2,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,32.0,56.0,88,v,Afflalo Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,196
+21400514,211,PT03M18.00S,2,1610612743,DEN,201581,Hickson,J. Hickson,0,0,0,,0,0.0,0.0,0,v,Hickson S.FOUL (P2.PN),Foul,Shooting,1,197
+21400514,212,PT03M18.00S,2,1610612750,MIN,201152,Young,T. Young,0,0,0,,0,33.0,56.0,89,h,Young Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,198
+21400514,214,PT03M18.00S,2,1610612750,MIN,203498,Muhammad,S. Muhammad,0,0,0,,0,0.0,0.0,0,h,SUB: LaVine FOR Muhammad,Substitution,,0,199
+21400514,215,PT03M18.00S,2,1610612750,MIN,201152,Young,T. Young,0,0,0,,0,34.0,56.0,90,h,Young Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,200
+21400514,219,PT03M09.00S,2,1610612743,DEN,201581,Hickson,J. Hickson,0,0,0,,0,0.0,0.0,0,v,Hickson Traveling Turnover (P1.T4),Turnover,Traveling,1,201
+21400514,220,PT02M52.00S,2,1610612750,MIN,201152,Young,T. Young,-21,14,3,Missed,1,0.0,0.0,0,h,MISS Young 3' Layup,Missed Shot,Layup Shot,1,202
+21400514,221,PT02M51.00S,2,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,h,Dieng REBOUND (Off:2 Def:2),Rebound,Unknown,1,203
+21400514,222,PT02M49.00S,2,1610612750,MIN,203476,Dieng,G. Dieng,0,6,1,Made,1,36.0,56.0,92,h,Dieng 1' Layup (10 PTS),Made Shot,Layup Shot,1,204
+21400514,223,PT02M34.00S,2,1610612743,DEN,203994,Nurkic,J. Nurkic,0,1,0,Made,1,36.0,58.0,94,v,Nurkic  Dunk (10 PTS) (Lawson 9 AST),Made Shot,Dunk Shot,1,205
+21400514,224,PT02M14.00S,2,1610612750,MIN,201152,Young,T. Young,-127,30,13,Missed,1,0.0,0.0,0,h,MISS Young 13' Jump Shot,Missed Shot,Jump Shot,1,206
+21400514,225,PT02M13.00S,2,1610612743,DEN,203994,Nurkic,J. Nurkic,0,0,0,,0,0.0,0.0,0,v,Nurkic REBOUND (Off:0 Def:3),Rebound,Unknown,1,207
+21400514,226,PT02M00.00S,2,1610612743,DEN,201581,Hickson,J. Hickson,0,-3,0,Made,1,36.0,60.0,96,v,Hickson  Layup (8 PTS),Made Shot,Layup Shot,1,208
+21400514,227,PT01M52.00S,2,0,,1610612750,,,0,0,0,,0,0.0,0.0,0,h,TIMBERWOLVES Timeout: Short (Full 2 Short 1),Timeout,Short,0,209
+21400514,228,PT01M52.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Regular,Timeout,Regular,0,210
+21400514,230,PT01M42.00S,2,1610612750,MIN,203476,Dieng,G. Dieng,67,63,9,Missed,1,0.0,0.0,0,h,MISS Dieng 9' Jump Shot,Missed Shot,Jump Shot,1,211
+21400514,230,PT01M42.00S,2,1610612743,DEN,203994,Nurkic,J. Nurkic,0,0,0,,0,0.0,0.0,0,v,Nurkic BLOCK (3 BLK),,,1,212
+21400514,231,PT01M39.00S,2,1610612750,MIN,2590,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,h,Williams REBOUND (Off:1 Def:1),Rebound,Unknown,1,213
+21400514,232,PT01M37.00S,2,1610612750,MIN,203476,Dieng,G. Dieng,0,1,0,Made,1,38.0,60.0,98,h,Dieng  Dunk (12 PTS) (Williams 4 AST),Made Shot,Dunk Shot,1,214
+21400514,233,PT01M18.00S,2,1610612743,DEN,201167,Afflalo,A. Afflalo,7,127,13,Made,1,38.0,62.0,100,v,Afflalo 13' Jump Shot (20 PTS) (Lawson 10 AST),Made Shot,Jump Shot,1,215
+21400514,234,PT01M03.00S,2,1610612750,MIN,2590,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,h,Williams Bad Pass Turnover (P4.T8),Turnover,Bad Pass,1,216
+21400514,234,PT01M03.00S,2,1610612743,DEN,203994,Nurkic,J. Nurkic,0,0,0,,0,0.0,0.0,0,v,Nurkic STEAL (2 STL),,,1,217
+21400514,235,PT00M47.70S,2,1610612743,DEN,203994,Nurkic,J. Nurkic,0,0,0,,0,0.0,0.0,0,v,Nurkic Out of Bounds Lost Ball Turnover (P1.T5),Turnover,Out of Bounds Lost Ball Turnover,1,218
+21400514,236,PT00M28.90S,2,1610612750,MIN,203897,LaVine,Z. LaVine,-127,219,25,Missed,1,0.0,0.0,0,h,MISS LaVine 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,219
+21400514,237,PT00M27.70S,2,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,h,Dieng REBOUND (Off:3 Def:2),Rebound,Unknown,1,220
+21400514,238,PT00M19.80S,2,1610612750,MIN,201152,Young,T. Young,50,170,18,Missed,1,0.0,0.0,0,h,MISS Young 18' Jump Shot,Missed Shot,Jump Shot,1,221
+21400514,239,PT00M17.20S,2,0,,1610612750,,,0,0,0,,0,0.0,0.0,0,h,TIMBERWOLVES Rebound,Rebound,Unknown,0,222
+21400514,240,PT00M17.20S,2,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Timeout: Short (Reg.2 Short 1),Timeout,Short,0,223
+21400514,241,PT00M17.20S,2,1610612743,DEN,203994,Nurkic,J. Nurkic,0,0,0,,0,0.0,0.0,0,v,SUB: Arthur FOR Nurkic,Substitution,,0,224
+21400514,242,PT00M17.20S,2,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,h,SUB: Daniels FOR Dieng,Substitution,,0,225
+21400514,243,PT00M02.30S,2,1610612750,MIN,2590,Williams,M. Williams,130,220,26,Made,1,41.0,62.0,103,h,Williams 26' 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,1,226
+21400514,244,PT00M00.50S,2,1610612743,DEN,201951,Lawson,T. Lawson,-2,489,49,Missed,1,0.0,0.0,0,v,MISS Lawson 49' 3PT Jump Shot,Missed Shot,Jump Shot,1,227
+21400514,245,PT00M00.00S,2,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Rebound,Rebound,Unknown,0,228
+21400514,246,PT00M00.00S,2,0,,0,,,0,0,0,,0,41.0,62.0,103,,End of 2nd Period (9:08 PM EST),period,end,0,229
+21400514,248,PT12M00.00S,3,0,,0,,,0,0,0,,0,41.0,62.0,103,,Start of 3rd Period (9:23 PM EST),period,start,0,230
+21400514,249,PT11M47.00S,3,1610612750,MIN,203952,Wiggins,A. Wiggins,88,192,21,Made,1,43.0,62.0,105,h,Wiggins 21' Jump Shot (6 PTS) (Williams 5 AST),Made Shot,Jump Shot,1,231
+21400514,250,PT11M26.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,133,148,20,Made,1,43.0,64.0,107,v,Chandler 20' Jump Shot (2 PTS),Made Shot,Jump Shot,1,232
+21400514,251,PT11M05.00S,3,1610612750,MIN,2590,Williams,M. Williams,-78,121,14,Missed,1,0.0,0.0,0,h,MISS Williams 14' Jump Shot,Missed Shot,Jump Shot,1,233
+21400514,252,PT11M04.00S,3,1610612750,MIN,2590,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,h,Williams REBOUND (Off:2 Def:1),Rebound,Unknown,1,234
+21400514,253,PT11M02.00S,3,1610612750,MIN,2590,Williams,M. Williams,-34,91,10,Made,1,45.0,64.0,109,h,Williams 10' Jump Shot (7 PTS),Made Shot,Jump Shot,1,235
+21400514,254,PT10M56.00S,3,1610612743,DEN,202702,Faried,K. Faried,12,0,1,Made,1,45.0,66.0,111,v,Faried 1' Layup (10 PTS) (Lawson 11 AST),Made Shot,Layup Shot,1,236
+21400514,255,PT10M55.00S,3,0,,1610612750,,,0,0,0,,0,0.0,0.0,0,h,TIMBERWOLVES Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,237
+21400514,257,PT10M34.00S,3,1610612750,MIN,2590,Williams,M. Williams,13,257,26,Missed,1,0.0,0.0,0,h,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,238
+21400514,258,PT10M32.00S,3,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0.0,0.0,0,v,Faried REBOUND (Off:1 Def:4),Rebound,Unknown,1,239
+21400514,259,PT10M29.00S,3,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0.0,0.0,0,v,Faried Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,240
+21400514,259,PT10M29.00S,3,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,h,Wiggins STEAL (1 STL),,,1,241
+21400514,260,PT10M16.00S,3,1610612750,MIN,201152,Young,T. Young,-191,159,25,Missed,1,0.0,0.0,0,h,MISS Young 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,242
+21400514,261,PT10M15.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0.0,0.0,0,v,Chandler REBOUND (Off:0 Def:5),Rebound,Unknown,1,243
+21400514,262,PT09M51.00S,3,1610612743,DEN,201167,Afflalo,A. Afflalo,-202,37,21,Missed,1,0.0,0.0,0,v,MISS Afflalo 21' Jump Shot,Missed Shot,Jump Shot,1,244
+21400514,263,PT09M50.00S,3,1610612750,MIN,2590,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,h,Williams REBOUND (Off:2 Def:2),Rebound,Unknown,1,245
+21400514,264,PT09M44.00S,3,1610612750,MIN,201152,Young,T. Young,0,-6,1,Made,1,47.0,66.0,113,h,Young 1' Layup (8 PTS) (Williams 6 AST),Made Shot,Layup Shot,1,246
+21400514,265,PT09M30.00S,3,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,0.0,0.0,0,v,Lawson Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,247
+21400514,265,PT09M30.00S,3,1610612750,MIN,201152,Young,T. Young,0,0,0,,0,0.0,0.0,0,h,Young STEAL (1 STL),,,1,248
+21400514,266,PT09M25.00S,3,1610612750,MIN,203952,Wiggins,A. Wiggins,4,3,1,Missed,1,0.0,0.0,0,h,MISS Wiggins 1' Layup,Missed Shot,Layup Shot,1,249
+21400514,267,PT09M24.00S,3,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,h,Dieng REBOUND (Off:4 Def:2),Rebound,Unknown,1,250
+21400514,268,PT09M23.00S,3,1610612750,MIN,203476,Dieng,G. Dieng,1,-6,1,Made,1,49.0,66.0,115,h,Dieng 1' Layup (14 PTS),Made Shot,Layup Shot,1,251
+21400514,269,PT09M23.00S,3,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Timeout: Short (Reg.2 Short 2),Timeout,Short,0,252
+21400514,271,PT09M09.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0.0,0.0,0,v,Chandler Offensive Charge Foul (P1.T1),Foul,Offensive Charge,1,253
+21400514,272,PT09M09.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0.0,0.0,0,v,Chandler Foul Turnover (P1.T8),Turnover,Foul,1,254
+21400514,273,PT08M58.00S,3,1610612750,MIN,203952,Wiggins,A. Wiggins,-166,186,25,Made,1,52.0,66.0,118,h,Wiggins 25' 3PT Jump Shot (9 PTS) (Young 2 AST),Made Shot,Jump Shot,1,255
+21400514,274,PT08M46.00S,3,1610612743,DEN,201167,Afflalo,A. Afflalo,-76,110,13,Made,1,52.0,68.0,120,v,Afflalo 13' Step Back Jump Shot (22 PTS),Made Shot,Step Back Jump shot,1,256
+21400514,275,PT08M25.00S,3,1610612750,MIN,203498,Muhammad,S. Muhammad,-10,250,25,Made,1,55.0,68.0,123,h,Muhammad 25' 3PT Jump Shot (14 PTS) (Wiggins 3 AST),Made Shot,Jump Shot,1,257
+21400514,276,PT08M08.00S,3,1610612743,DEN,201951,Lawson,T. Lawson,118,91,15,Made,1,55.0,70.0,125,v,Lawson 15' Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,1,258
+21400514,277,PT07M47.00S,3,1610612750,MIN,203498,Muhammad,S. Muhammad,-60,58,8,Missed,1,0.0,0.0,0,h,MISS Muhammad 8' Running Jump Shot,Missed Shot,Running Jump Shot,1,259
+21400514,278,PT07M46.00S,3,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,0.0,0.0,0,v,Lawson REBOUND (Off:0 Def:2),Rebound,Unknown,1,260
+21400514,279,PT07M41.00S,3,1610612750,MIN,2590,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,h,Williams P.FOUL (P3.T1),Foul,Personal,1,261
+21400514,280,PT07M24.00S,3,1610612743,DEN,202702,Faried,K. Faried,-18,36,4,Missed,1,0.0,0.0,0,v,MISS Faried 4' Jump Shot,Missed Shot,Jump Shot,1,262
+21400514,280,PT07M24.00S,3,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,h,Dieng BLOCK (3 BLK),,,1,263
+21400514,281,PT07M22.00S,3,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,h,Dieng REBOUND (Off:4 Def:3),Rebound,Unknown,1,264
+21400514,282,PT07M16.00S,3,1610612750,MIN,2590,Williams,M. Williams,89,230,25,Made,1,58.0,70.0,128,h,Williams 25' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,265
+21400514,283,PT07M03.00S,3,1610612750,MIN,2590,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,h,Williams S.FOUL (P4.T2),Foul,Shooting,1,266
+21400514,284,PT07M03.00S,3,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,58.0,71.0,129,v,Afflalo Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,267
+21400514,286,PT07M03.00S,3,1610612750,MIN,2590,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,h,SUB: LaVine FOR Williams,Substitution,,0,268
+21400514,287,PT07M03.00S,3,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,58.0,72.0,130,v,Afflalo Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,269
+21400514,289,PT07M03.00S,3,1610612750,MIN,2590,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,h,Williams T.FOUL (P4.T2),Foul,Technical,0,270
+21400514,290,PT07M03.00S,3,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,58.0,73.0,131,v,Afflalo Free Throw Technical (25 PTS),Free Throw,Free Throw Technical,0,271
+21400514,292,PT06M39.00S,3,1610612750,MIN,203897,LaVine,Z. LaVine,-169,140,22,Made,1,60.0,73.0,133,h,LaVine 22' Jump Shot (3 PTS),Made Shot,Jump Shot,1,272
+21400514,293,PT06M25.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,-138,217,26,Missed,1,0.0,0.0,0,v,MISS Chandler 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,273
+21400514,294,PT06M24.00S,3,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0.0,0.0,0,v,Faried REBOUND (Off:2 Def:4),Rebound,Unknown,1,274
+21400514,295,PT06M20.00S,3,1610612743,DEN,202389,Mozgov,T. Mozgov,0,1,0,Made,1,60.0,75.0,135,v,Mozgov  Alley Oop Dunk (2 PTS) (Faried 2 AST),Made Shot,Alley Oop Dunk Shot,1,275
+21400514,296,PT05M56.00S,3,1610612750,MIN,201152,Young,T. Young,0,0,0,,0,0.0,0.0,0,h,Young Out of Bounds Lost Ball Turnover (P1.T9),Turnover,Out of Bounds Lost Ball Turnover,1,276
+21400514,297,PT05M46.00S,3,1610612743,DEN,202702,Faried,K. Faried,0,1,0,Made,1,60.0,77.0,137,v,Faried  Reverse Slam Dunk (12 PTS) (Lawson 12 AST),Made Shot,Reverse Slam Dunk Shot,1,277
+21400514,298,PT05M28.00S,3,1610612750,MIN,203897,LaVine,Z. LaVine,10,48,5,Made,1,62.0,77.0,139,h,LaVine 5' Floating Jump Shot (5 PTS),Made Shot,Floating Jump shot,1,278
+21400514,299,PT05M16.00S,3,1610612750,MIN,203897,LaVine,Z. LaVine,0,0,0,,0,0.0,0.0,0,h,LaVine P.FOUL (P2.T3),Foul,Personal,1,279
+21400514,300,PT05M16.00S,3,1610612750,MIN,201152,Young,T. Young,0,0,0,,0,0.0,0.0,0,h,SUB: Bennett FOR Young,Substitution,,0,280
+21400514,301,PT05M10.00S,3,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,0.0,0.0,0,v,Lawson Bad Pass Turnover (P3.T9),Turnover,Bad Pass,1,281
+21400514,301,PT05M10.00S,3,1610612750,MIN,203498,Muhammad,S. Muhammad,0,0,0,,0,0.0,0.0,0,h,Muhammad STEAL (2 STL),,,1,282
+21400514,302,PT05M06.00S,3,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,0.0,0.0,0,v,Lawson P.FOUL (P2.T2),Foul,Personal,1,283
+21400514,303,PT05M00.00S,3,1610612750,MIN,203461,Bennett,A. Bennett,0,0,0,,0,0.0,0.0,0,h,Bennett Lost Ball Turnover (P2.T10),Turnover,Lost Ball,1,284
+21400514,303,PT05M00.00S,3,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,0.0,0.0,0,v,Lawson STEAL (2 STL),,,1,285
+21400514,304,PT04M51.00S,3,1610612743,DEN,201167,Afflalo,A. Afflalo,9,102,10,Made,1,62.0,79.0,141,v,Afflalo 10' Fadeaway Jumper (27 PTS),Made Shot,Fadeaway Jump Shot,1,286
+21400514,305,PT04M36.00S,3,1610612750,MIN,203897,LaVine,Z. LaVine,-19,50,5,Missed,1,0.0,0.0,0,h,MISS LaVine 5' Jump Shot,Missed Shot,Jump Shot,1,287
+21400514,305,PT04M36.00S,3,1610612743,DEN,202389,Mozgov,T. Mozgov,0,0,0,,0,0.0,0.0,0,v,Mozgov BLOCK (1 BLK),,,1,288
+21400514,307,PT04M33.00S,3,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,h,Dieng REBOUND (Off:5 Def:3),Rebound,Unknown,1,289
+21400514,306,PT04M33.00S,3,1610612750,MIN,203476,Dieng,G. Dieng,1,-2,0,Made,1,64.0,79.0,143,h,Dieng  Tip Shot (16 PTS),Made Shot,Tip Shot,1,290
+21400514,308,PT04M19.00S,3,1610612743,DEN,202702,Faried,K. Faried,-32,168,17,Missed,1,0.0,0.0,0,v,MISS Faried 17' Jump Shot,Missed Shot,Jump Shot,1,291
+21400514,309,PT04M18.00S,3,1610612743,DEN,202389,Mozgov,T. Mozgov,0,0,0,,0,0.0,0.0,0,v,Mozgov REBOUND (Off:1 Def:2),Rebound,Unknown,1,292
+21400514,310,PT04M15.00S,3,1610612743,DEN,202389,Mozgov,T. Mozgov,0,55,6,Missed,1,0.0,0.0,0,v,MISS Mozgov 6' Jump Hook Shot,Missed Shot,Jump Hook Shot,1,293
+21400514,311,PT04M14.00S,3,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,h,Dieng REBOUND (Off:5 Def:4),Rebound,Unknown,1,294
+21400514,312,PT04M07.00S,3,1610612750,MIN,203498,Muhammad,S. Muhammad,-54,15,6,Made,1,66.0,79.0,145,h,Muhammad 6' Floating Jump Shot (16 PTS),Made Shot,Floating Jump shot,1,295
+21400514,313,PT04M07.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0.0,0.0,0,v,Chandler S.FOUL (P2.T3),Foul,Shooting,1,296
+21400514,314,PT04M07.00S,3,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0.0,0.0,0,v,SUB: Hickson FOR Faried,Substitution,,0,297
+21400514,315,PT04M07.00S,3,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,h,SUB: Robinson FOR Wiggins,Substitution,,0,298
+21400514,316,PT04M07.00S,3,1610612750,MIN,203498,Muhammad,S. Muhammad,0,0,0,,0,67.0,79.0,146,h,Muhammad Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,0,299
+21400514,318,PT03M57.00S,3,1610612743,DEN,201951,Lawson,T. Lawson,4,9,1,Made,1,67.0,81.0,148,v,Lawson 1' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,300
+21400514,319,PT03M34.00S,3,1610612750,MIN,203476,Dieng,G. Dieng,-131,74,15,Made,1,69.0,81.0,150,h,Dieng 15' Jump Bank Shot (18 PTS) (LaVine 1 AST),Made Shot,Jump Bank Shot,1,301
+21400514,320,PT03M17.00S,3,1610612743,DEN,202389,Mozgov,T. Mozgov,-226,53,0,Missed,1,0.0,0.0,0,v,MISS Mozgov  3PT Jump Shot,Missed Shot,Jump Shot,1,302
+21400514,321,PT03M16.00S,3,1610612750,MIN,203498,Muhammad,S. Muhammad,0,0,0,,0,0.0,0.0,0,h,Muhammad REBOUND (Off:2 Def:4),Rebound,Unknown,1,303
+21400514,322,PT03M07.00S,3,1610612750,MIN,203461,Bennett,A. Bennett,58,195,20,Missed,1,0.0,0.0,0,h,MISS Bennett 20' Jump Shot,Missed Shot,Jump Shot,1,304
+21400514,323,PT03M05.00S,3,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,0.0,0.0,0,v,Lawson REBOUND (Off:0 Def:3),Rebound,Unknown,1,305
+21400514,324,PT02M56.00S,3,1610612743,DEN,201951,Lawson,T. Lawson,100,143,17,Missed,1,0.0,0.0,0,v,MISS Lawson 17' Jump Shot,Missed Shot,Jump Shot,1,306
+21400514,325,PT02M54.00S,3,1610612743,DEN,201581,Hickson,J. Hickson,0,0,0,,0,0.0,0.0,0,v,Hickson REBOUND (Off:1 Def:5),Rebound,Unknown,1,307
+21400514,326,PT02M52.00S,3,1610612743,DEN,201581,Hickson,J. Hickson,-8,-10,1,Missed,1,0.0,0.0,0,v,MISS Hickson 1' Layup,Missed Shot,Layup Shot,1,308
+21400514,327,PT02M51.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0.0,0.0,0,v,Chandler REBOUND (Off:1 Def:5),Rebound,Unknown,1,309
+21400514,328,PT02M41.00S,3,1610612743,DEN,201167,Afflalo,A. Afflalo,89,102,14,Made,1,69.0,83.0,152,v,Afflalo 14' Turnaround Fadeaway (29 PTS),Made Shot,Turnaround Fadeaway shot,1,310
+21400514,329,PT02M15.00S,3,1610612750,MIN,203461,Bennett,A. Bennett,0,0,0,,0,0.0,0.0,0,h,Bennett Poss Lost Ball Turnover (P3.T11),Turnover,Poss Lost Ball Turnover,1,311
+21400514,329,PT02M15.00S,3,1610612743,DEN,202389,Mozgov,T. Mozgov,0,0,0,,0,0.0,0.0,0,v,Mozgov STEAL (1 STL),,,1,312
+21400514,331,PT02M07.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,233,12,0,Missed,1,0.0,0.0,0,v,MISS Chandler  3PT Jump Shot,Missed Shot,Jump Shot,1,313
+21400514,332,PT02M06.00S,3,1610612743,DEN,201581,Hickson,J. Hickson,0,0,0,,0,0.0,0.0,0,v,Hickson REBOUND (Off:2 Def:5),Rebound,Unknown,1,314
+21400514,333,PT01M57.00S,3,1610612743,DEN,201951,Lawson,T. Lawson,129,107,17,Missed,1,0.0,0.0,0,v,MISS Lawson 17' Jump Shot,Missed Shot,Jump Shot,1,315
+21400514,334,PT01M56.00S,3,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,h,Dieng REBOUND (Off:5 Def:5),Rebound,Unknown,1,316
+21400514,335,PT01M38.00S,3,1610612750,MIN,203498,Muhammad,S. Muhammad,-21,129,13,Missed,1,0.0,0.0,0,h,MISS Muhammad 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,317
+21400514,336,PT01M37.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0.0,0.0,0,v,Chandler REBOUND (Off:1 Def:6),Rebound,Unknown,1,318
+21400514,337,PT01M21.00S,3,1610612743,DEN,202389,Mozgov,T. Mozgov,140,23,14,Missed,1,0.0,0.0,0,v,MISS Mozgov 14' Jump Shot,Missed Shot,Jump Shot,1,319
+21400514,338,PT01M19.00S,3,1610612743,DEN,201581,Hickson,J. Hickson,0,0,0,,0,0.0,0.0,0,v,Hickson REBOUND (Off:3 Def:5),Rebound,Unknown,1,320
+21400514,339,PT01M13.00S,3,1610612743,DEN,201167,Afflalo,A. Afflalo,-204,34,21,Made,1,69.0,85.0,154,v,Afflalo 21' Jump Shot (31 PTS) (Hickson 1 AST),Made Shot,Jump Shot,1,321
+21400514,340,PT00M51.90S,3,1610612750,MIN,203476,Dieng,G. Dieng,0,22,2,Missed,1,0.0,0.0,0,h,MISS Dieng 2' Layup,Missed Shot,Layup Shot,1,322
+21400514,340,PT00M51.90S,3,1610612743,DEN,202389,Mozgov,T. Mozgov,0,0,0,,0,0.0,0.0,0,v,Mozgov BLOCK (2 BLK),,,1,323
+21400514,341,PT00M51.00S,3,0,,1610612750,,,0,0,0,,0,0.0,0.0,0,h,TIMBERWOLVES Rebound,Rebound,Unknown,0,324
+21400514,342,PT00M51.00S,3,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Timeout: Regular (Reg.3 Short 2),Timeout,Regular,0,325
+21400514,343,PT00M51.00S,3,0,,292,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,,Support Ruling,Instant Replay,Support Ruling,0,326
+21400514,344,PT00M51.00S,3,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,h,SUB: Adrien FOR Dieng,Substitution,,0,327
+21400514,345,PT00M51.00S,3,1610612750,MIN,203498,Muhammad,S. Muhammad,0,0,0,,0,0.0,0.0,0,h,SUB: Wiggins FOR Muhammad,Substitution,,0,328
+21400514,346,PT00M51.00S,3,1610612743,DEN,202389,Mozgov,T. Mozgov,0,0,0,,0,0.0,0.0,0,v,SUB: Nurkic FOR Mozgov,Substitution,,0,329
+21400514,347,PT00M51.00S,3,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,0.0,0.0,0,v,SUB: Arthur FOR Lawson,Substitution,,0,330
+21400514,348,PT00M51.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,0.0,0.0,0,v,SUB: Robinson FOR Chandler,Substitution,,0,331
+21400514,349,PT00M47.90S,3,1610612750,MIN,203952,Wiggins,A. Wiggins,188,16,19,Missed,1,0.0,0.0,0,h,MISS Wiggins 19' Jump Shot,Missed Shot,Jump Shot,1,332
+21400514,350,PT00M46.90S,3,1610612743,DEN,203994,Nurkic,J. Nurkic,0,0,0,,0,0.0,0.0,0,v,Nurkic REBOUND (Off:0 Def:4),Rebound,Unknown,1,333
+21400514,351,PT00M26.90S,3,1610612743,DEN,201581,Hickson,J. Hickson,-7,97,10,Made,1,69.0,87.0,156,v,Hickson 10' Jump Shot (10 PTS),Made Shot,Jump Shot,1,334
+21400514,352,PT00M07.40S,3,1610612743,DEN,101126,Robinson,N. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson Personal Take Foul (P2.T4),Foul,Personal Take,1,335
+21400514,353,PT00M00.90S,3,1610612750,MIN,203897,LaVine,Z. LaVine,-105,146,18,Missed,1,0.0,0.0,0,h,MISS LaVine 18' Jump Shot,Missed Shot,Jump Shot,1,336
+21400514,354,PT00M00.00S,3,0,,1610612750,,,0,0,0,,0,0.0,0.0,0,h,TIMBERWOLVES Rebound,Rebound,Unknown,0,337
+21400514,355,PT00M00.00S,3,0,,0,,,0,0,0,,0,69.0,87.0,156,,End of 3rd Period (9:45 PM EST),period,end,0,338
+21400514,356,PT12M00.00S,4,0,,0,,,0,0,0,,0,69.0,87.0,156,,Start of 4th Period (9:48 PM EST),period,start,0,339
+21400514,357,PT11M46.00S,4,1610612743,DEN,201589,Arthur,D. Arthur,75,239,25,Missed,1,0.0,0.0,0,v,MISS Arthur 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,340
+21400514,359,PT11M43.00S,4,1610612750,MIN,203897,LaVine,Z. LaVine,0,0,0,,0,0.0,0.0,0,h,LaVine REBOUND (Off:0 Def:1),Rebound,Unknown,1,341
+21400514,360,PT11M38.00S,4,1610612750,MIN,203897,LaVine,Z. LaVine,18,-2,2,Missed,1,0.0,0.0,0,h,MISS LaVine 2' Driving Layup,Missed Shot,Driving Layup Shot,1,342
+21400514,362,PT11M36.00S,4,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,h,Wiggins REBOUND (Off:1 Def:2),Rebound,Unknown,1,343
+21400514,361,PT11M36.00S,4,1610612750,MIN,203952,Wiggins,A. Wiggins,0,1,0,Made,1,71.0,87.0,158,h,Wiggins  Putback Dunk (11 PTS),Made Shot,Putback Dunk Shot,1,344
+21400514,365,PT11M12.00S,4,1610612743,DEN,201167,Afflalo,A. Afflalo,-109,107,15,Missed,1,0.0,0.0,0,v,MISS Afflalo 15' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,345
+21400514,366,PT11M10.00S,4,1610612750,MIN,202399,Adrien,J. Adrien,0,0,0,,0,0.0,0.0,0,h,Adrien REBOUND (Off:0 Def:1),Rebound,Unknown,1,346
+21400514,367,PT11M02.00S,4,1610612750,MIN,203952,Wiggins,A. Wiggins,173,105,20,Missed,1,0.0,0.0,0,h,MISS Wiggins 20' Jump Shot,Missed Shot,Jump Shot,1,347
+21400514,368,PT11M01.00S,4,1610612743,DEN,201581,Hickson,J. Hickson,0,0,0,,0,0.0,0.0,0,v,Hickson REBOUND (Off:3 Def:6),Rebound,Unknown,1,348
+21400514,369,PT10M43.00S,4,1610612743,DEN,201581,Hickson,J. Hickson,10,75,8,Made,1,71.0,89.0,160,v,Hickson 8' Jump Shot (12 PTS),Made Shot,Jump Shot,1,349
+21400514,370,PT10M26.00S,4,1610612743,DEN,201589,Arthur,D. Arthur,0,0,0,,0,0.0,0.0,0,v,Arthur Personal Block Foul (P1.T1),Foul,Personal Block,1,350
+21400514,371,PT10M22.00S,4,1610612750,MIN,202399,Adrien,J. Adrien,21,20,3,Missed,1,0.0,0.0,0,h,MISS Adrien 3' Driving Layup,Missed Shot,Driving Layup Shot,1,351
+21400514,371,PT10M22.00S,4,1610612743,DEN,203994,Nurkic,J. Nurkic,0,0,0,,0,0.0,0.0,0,v,Nurkic BLOCK (4 BLK),,,1,352
+21400514,372,PT10M20.00S,4,1610612743,DEN,101126,Robinson,N. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,1,353
+21400514,373,PT10M04.00S,4,1610612743,DEN,201589,Arthur,D. Arthur,122,227,26,Made,1,71.0,92.0,163,v,Arthur 26' 3PT Jump Shot (3 PTS) (Afflalo 1 AST),Made Shot,Jump Shot,1,354
+21400514,374,PT09M48.00S,4,1610612750,MIN,203922,Robinson III,G. Robinson III,78,176,19,Missed,1,0.0,0.0,0,h,MISS Robinson 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,355
+21400514,375,PT09M47.00S,4,1610612743,DEN,203994,Nurkic,J. Nurkic,0,0,0,,0,0.0,0.0,0,v,Nurkic REBOUND (Off:0 Def:5),Rebound,Unknown,1,356
+21400514,376,PT09M36.00S,4,1610612743,DEN,203994,Nurkic,J. Nurkic,-27,186,19,Missed,1,0.0,0.0,0,v,MISS Nurkic 19' Jump Shot,Missed Shot,Jump Shot,1,357
+21400514,377,PT09M35.00S,4,1610612750,MIN,203584,Daniels,T. Daniels,0,0,0,,0,0.0,0.0,0,h,Daniels REBOUND (Off:0 Def:1),Rebound,Unknown,1,358
+21400514,378,PT09M27.00S,4,1610612750,MIN,203584,Daniels,T. Daniels,0,4,0,Missed,1,0.0,0.0,0,h,MISS Daniels  Layup,Missed Shot,Layup Shot,1,359
+21400514,379,PT09M26.00S,4,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0.0,0.0,0,v,Afflalo REBOUND (Off:0 Def:2),Rebound,Unknown,1,360
+21400514,380,PT09M22.00S,4,1610612743,DEN,201589,Arthur,D. Arthur,0,1,0,Made,1,71.0,94.0,165,v,Arthur  Driving Dunk (5 PTS) (Robinson 3 AST),Made Shot,Driving Dunk Shot,1,361
+21400514,381,PT09M21.00S,4,0,,1610612750,,,0,0,0,,0,0.0,0.0,0,h,TIMBERWOLVES Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,362
+21400514,383,PT09M21.00S,4,1610612750,MIN,203922,Robinson III,G. Robinson III,0,0,0,,0,0.0,0.0,0,h,SUB: Muhammad FOR Robinson,Substitution,,0,363
+21400514,384,PT09M21.00S,4,1610612750,MIN,203897,LaVine,Z. LaVine,0,0,0,,0,0.0,0.0,0,h,SUB: Williams FOR LaVine,Substitution,,0,364
+21400514,385,PT09M21.00S,4,1610612743,DEN,201167,Afflalo,A. Afflalo,0,0,0,,0,0.0,0.0,0,v,SUB: Chandler FOR Afflalo,Substitution,,0,365
+21400514,386,PT09M21.00S,4,1610612750,MIN,203584,Daniels,T. Daniels,0,0,0,,0,0.0,0.0,0,h,SUB: Young FOR Daniels,Substitution,,0,366
+21400514,387,PT09M07.00S,4,1610612750,MIN,203952,Wiggins,A. Wiggins,-89,179,20,Missed,1,0.0,0.0,0,h,MISS Wiggins 20' Jump Shot,Missed Shot,Jump Shot,1,367
+21400514,388,PT09M06.00S,4,1610612750,MIN,202399,Adrien,J. Adrien,0,0,0,,0,0.0,0.0,0,h,Adrien REBOUND (Off:1 Def:1),Rebound,Unknown,1,368
+21400514,389,PT09M06.00S,4,1610612743,DEN,101126,Robinson,N. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson P.FOUL (P3.T2),Foul,Personal,1,369
+21400514,390,PT08M52.00S,4,1610612750,MIN,201152,Young,T. Young,-234,22,24,Missed,1,0.0,0.0,0,h,MISS Young 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,370
+21400514,391,PT08M50.00S,4,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,h,Wiggins REBOUND (Off:2 Def:2),Rebound,Unknown,1,371
+21400514,392,PT08M45.00S,4,1610612750,MIN,2590,Williams,M. Williams,-97,233,25,Missed,1,0.0,0.0,0,h,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,372
+21400514,393,PT08M44.00S,4,1610612750,MIN,201152,Young,T. Young,0,0,0,,0,0.0,0.0,0,h,Young REBOUND (Off:1 Def:3),Rebound,Unknown,1,373
+21400514,394,PT08M40.00S,4,1610612750,MIN,2590,Williams,M. Williams,-116,74,14,Made,1,73.0,94.0,167,h,Williams 14' Jump Shot (12 PTS) (Young 3 AST),Made Shot,Jump Shot,1,374
+21400514,395,PT08M22.00S,4,1610612743,DEN,201589,Arthur,D. Arthur,26,247,25,Missed,1,0.0,0.0,0,v,MISS Arthur 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,375
+21400514,396,PT08M21.00S,4,0,,1610612750,,,0,0,0,,0,0.0,0.0,0,h,TIMBERWOLVES Rebound,Rebound,Unknown,0,376
+21400514,397,PT08M21.00S,4,1610612743,DEN,203994,Nurkic,J. Nurkic,0,0,0,,0,0.0,0.0,0,v,Nurkic L.B.FOUL (P1.T3),Foul,Loose Ball,1,377
+21400514,398,PT08M12.00S,4,1610612750,MIN,201152,Young,T. Young,-8,246,25,Made,1,76.0,94.0,170,h,Young 25' 3PT Jump Shot (11 PTS) (Williams 7 AST),Made Shot,Jump Shot,1,378
+21400514,399,PT07M47.00S,4,1610612743,DEN,101126,Robinson,N. Robinson,166,224,28,Missed,1,0.0,0.0,0,v,MISS Robinson 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,379
+21400514,400,PT07M46.00S,4,1610612743,DEN,203994,Nurkic,J. Nurkic,0,0,0,,0,0.0,0.0,0,v,Nurkic REBOUND (Off:1 Def:5),Rebound,Unknown,1,380
+21400514,401,PT07M43.00S,4,1610612743,DEN,203994,Nurkic,J. Nurkic,-5,52,5,Made,1,76.0,96.0,172,v,Nurkic 5' Jump Shot (12 PTS),Made Shot,Jump Shot,1,381
+21400514,402,PT07M34.00S,4,1610612750,MIN,2590,Williams,M. Williams,-87,239,25,Missed,1,0.0,0.0,0,h,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,382
+21400514,403,PT07M33.00S,4,1610612743,DEN,101126,Robinson,N. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,1,383
+21400514,404,PT07M13.00S,4,1610612743,DEN,203994,Nurkic,J. Nurkic,2,4,0,Missed,1,0.0,0.0,0,v,MISS Nurkic  Layup,Missed Shot,Layup Shot,1,384
+21400514,404,PT07M13.00S,4,1610612750,MIN,202399,Adrien,J. Adrien,0,0,0,,0,0.0,0.0,0,h,Adrien BLOCK (1 BLK),,,1,385
+21400514,405,PT07M12.00S,4,1610612750,MIN,201152,Young,T. Young,0,0,0,,0,0.0,0.0,0,h,Young REBOUND (Off:1 Def:4),Rebound,Unknown,1,386
+21400514,406,PT07M08.00S,4,1610612750,MIN,201152,Young,T. Young,0,0,0,,0,0.0,0.0,0,h,Young Poss Lost Ball Turnover (P2.T12),Turnover,Poss Lost Ball Turnover,1,387
+21400514,406,PT07M08.00S,4,1610612743,DEN,201581,Hickson,J. Hickson,0,0,0,,0,0.0,0.0,0,v,Hickson STEAL (1 STL),,,1,388
+21400514,407,PT07M06.00S,4,1610612743,DEN,201581,Hickson,J. Hickson,0,0,0,,0,0.0,0.0,0,v,Hickson Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,389
+21400514,407,PT07M06.00S,4,1610612750,MIN,201152,Young,T. Young,0,0,0,,0,0.0,0.0,0,h,Young STEAL (2 STL),,,1,390
+21400514,408,PT07M01.00S,4,1610612750,MIN,203952,Wiggins,A. Wiggins,231,9,0,Made,1,79.0,96.0,175,h,Wiggins  3PT Jump Shot (14 PTS) (Young 4 AST),Made Shot,Jump Shot,1,391
+21400514,409,PT06M59.00S,4,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Timeout: Regular (Reg.4 Short 2),Timeout,Regular,0,392
+21400514,411,PT06M59.00S,4,1610612750,MIN,202399,Adrien,J. Adrien,0,0,0,,0,0.0,0.0,0,h,SUB: Dieng FOR Adrien,Substitution,,0,393
+21400514,412,PT06M46.00S,4,1610612743,DEN,203994,Nurkic,J. Nurkic,0,0,0,,0,0.0,0.0,0,v,Nurkic Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,394
+21400514,413,PT06M34.00S,4,1610612750,MIN,2590,Williams,M. Williams,-168,170,24,Made,1,82.0,96.0,178,h,Williams 24' 3PT Jump Shot (15 PTS) (Young 5 AST),Made Shot,Jump Shot,1,395
+21400514,414,PT06M16.00S,4,1610612743,DEN,201163,Chandler,W. Chandler,21,85,9,Made,1,82.0,98.0,180,v,Chandler 9' Running Bank Shot (4 PTS) (Robinson 4 AST),Made Shot,Running Bank shot,1,396
+21400514,416,PT05M51.00S,4,1610612743,DEN,201589,Arthur,D. Arthur,0,0,0,,0,0.0,0.0,0,v,Arthur S.FOUL (P2.T4),Foul,Shooting,1,397
+21400514,417,PT05M51.00S,4,1610612750,MIN,203498,Muhammad,S. Muhammad,0,0,0,,0,83.0,98.0,181,h,Muhammad Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,398
+21400514,419,PT05M51.00S,4,1610612750,MIN,203498,Muhammad,S. Muhammad,0,0,0,,0,84.0,98.0,182,h,Muhammad Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,399
+21400514,421,PT05M38.00S,4,1610612743,DEN,101126,Robinson,N. Robinson,75,242,25,Missed,1,0.0,0.0,0,v,MISS Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,400
+21400514,422,PT05M36.00S,4,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Rebound,Rebound,Unknown,0,401
+21400514,423,PT05M26.00S,4,1610612743,DEN,203994,Nurkic,J. Nurkic,4,4,1,Made,1,84.0,100.0,184,v,Nurkic 1' Layup (14 PTS) (Robinson 5 AST),Made Shot,Layup Shot,1,402
+21400514,424,PT05M16.00S,4,1610612750,MIN,2590,Williams,M. Williams,45,247,25,Missed,1,0.0,0.0,0,h,MISS Williams 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,403
+21400514,425,PT05M14.00S,4,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,h,Dieng REBOUND (Off:6 Def:5),Rebound,Unknown,1,404
+21400514,426,PT05M14.00S,4,1610612743,DEN,201589,Arthur,D. Arthur,0,0,0,,0,0.0,0.0,0,v,Arthur S.FOUL (P3.PN),Foul,Shooting,1,405
+21400514,427,PT05M14.00S,4,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,85.0,100.0,185,h,Dieng Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,406
+21400514,429,PT05M14.00S,4,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,86.0,100.0,186,h,Dieng Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,407
+21400514,431,PT05M01.00S,4,1610612743,DEN,203994,Nurkic,J. Nurkic,69,200,21,Missed,1,0.0,0.0,0,v,MISS Nurkic 21' Jump Shot,Missed Shot,Jump Shot,1,408
+21400514,432,PT05M00.00S,4,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,h,Wiggins REBOUND (Off:2 Def:3),Rebound,Unknown,1,409
+21400514,433,PT04M50.00S,4,1610612750,MIN,203952,Wiggins,A. Wiggins,29,4,3,Made,1,88.0,100.0,188,h,Wiggins 3' Driving Layup (16 PTS),Made Shot,Driving Layup Shot,1,410
+21400514,434,PT04M31.00S,4,1610612743,DEN,101126,Robinson,N. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,411
+21400514,434,PT04M31.00S,4,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,h,Dieng STEAL (2 STL),,,1,412
+21400514,435,PT04M20.00S,4,1610612743,DEN,201589,Arthur,D. Arthur,0,0,0,,0,0.0,0.0,0,v,Arthur S.FOUL (P4.PN),Foul,Shooting,1,413
+21400514,436,PT04M20.00S,4,1610612750,MIN,201152,Young,T. Young,0,0,0,,0,89.0,100.0,189,h,Young Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,414
+21400514,438,PT04M20.00S,4,1610612743,DEN,203994,Nurkic,J. Nurkic,0,0,0,,0,0.0,0.0,0,v,SUB: Faried FOR Nurkic,Substitution,,0,415
+21400514,439,PT04M20.00S,4,1610612743,DEN,101126,Robinson,N. Robinson,0,0,0,,0,0.0,0.0,0,v,SUB: Lawson FOR Robinson,Substitution,,0,416
+21400514,440,PT04M20.00S,4,1610612743,DEN,201589,Arthur,D. Arthur,0,0,0,,0,0.0,0.0,0,v,SUB: Afflalo FOR Arthur,Substitution,,0,417
+21400514,441,PT04M20.00S,4,1610612750,MIN,201152,Young,T. Young,0,0,0,,0,90.0,100.0,190,h,Young Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,418
+21400514,443,PT03M56.00S,4,1610612743,DEN,201167,Afflalo,A. Afflalo,-179,71,19,Missed,1,0.0,0.0,0,v,MISS Afflalo 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,419
+21400514,444,PT03M55.00S,4,1610612743,DEN,201581,Hickson,J. Hickson,0,0,0,,0,0.0,0.0,0,v,Hickson REBOUND (Off:4 Def:6),Rebound,Unknown,1,420
+21400514,445,PT03M54.00S,4,1610612743,DEN,201581,Hickson,J. Hickson,0,1,0,Made,1,90.0,102.0,192,v,Hickson  Slam Dunk (14 PTS),Made Shot,Slam Dunk Shot,1,421
+21400514,446,PT03M54.00S,4,1610612750,MIN,201152,Young,T. Young,0,0,0,,0,0.0,0.0,0,h,Young S.FOUL (P1.T1),Foul,Shooting,1,422
+21400514,447,PT03M54.00S,4,1610612743,DEN,201581,Hickson,J. Hickson,0,0,0,,0,0.0,0.0,0,v,MISS Hickson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,423
+21400514,449,PT03M54.00S,4,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,h,Dieng REBOUND (Off:6 Def:6),Rebound,Unknown,1,424
+21400514,450,PT03M39.00S,4,1610612750,MIN,203952,Wiggins,A. Wiggins,2,0,0,Missed,1,0.0,0.0,0,h,MISS Wiggins  Driving Layup,Missed Shot,Driving Layup Shot,1,425
+21400514,451,PT03M38.00S,4,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0.0,0.0,0,v,Faried REBOUND (Off:2 Def:5),Rebound,Unknown,1,426
+21400514,452,PT03M17.00S,4,1610612750,MIN,2590,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,h,Williams S.FOUL (P5.T2),Foul,Shooting,1,427
+21400514,453,PT03M17.00S,4,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0.0,0.0,0,v,MISS Faried Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,428
+21400514,454,PT03M17.00S,4,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,429
+21400514,455,PT03M17.00S,4,1610612743,DEN,201951,Lawson,T. Lawson,0,0,0,,0,0.0,0.0,0,v,SUB: Robinson FOR Lawson,Substitution,,0,430
+21400514,456,PT03M17.00S,4,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,90.0,103.0,193,v,Faried Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,431
+21400514,458,PT03M09.00S,4,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,h,Dieng Lost Ball Turnover (P2.T13),Turnover,Lost Ball,1,432
+21400514,458,PT03M09.00S,4,1610612743,DEN,201581,Hickson,J. Hickson,0,0,0,,0,0.0,0.0,0,v,Hickson STEAL (2 STL),,,1,433
+21400514,459,PT03M04.00S,4,1610612743,DEN,201581,Hickson,J. Hickson,0,1,0,Made,1,90.0,105.0,195,v,Hickson  Slam Dunk (16 PTS) (Robinson 6 AST),Made Shot,Slam Dunk Shot,1,434
+21400514,460,PT02M58.00S,4,0,,1610612750,,,0,0,0,,0,0.0,0.0,0,h,TIMBERWOLVES Timeout: Short (Full 4 Short 2),Timeout,Short,0,435
+21400514,461,PT02M58.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Regular,Timeout,Regular,0,436
+21400514,463,PT02M51.00S,4,1610612750,MIN,2590,Williams,M. Williams,1,64,6,Made,1,92.0,105.0,197,h,Williams 6' Running Jump Shot (17 PTS) (Muhammad 4 AST),Made Shot,Running Jump Shot,1,437
+21400514,464,PT02M30.00S,4,1610612743,DEN,202702,Faried,K. Faried,9,52,5,Made,1,92.0,107.0,199,v,Faried 5' Jump Hook Shot (15 PTS) (Afflalo 2 AST),Made Shot,Jump Hook Shot,1,438
+21400514,465,PT02M16.00S,4,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0.0,0.0,0,v,Faried S.FOUL (P4.PN),Foul,Shooting,1,439
+21400514,466,PT02M16.00S,4,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,93.0,107.0,200,h,Dieng Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,440
+21400514,468,PT02M16.00S,4,1610612750,MIN,203498,Muhammad,S. Muhammad,0,0,0,,0,0.0,0.0,0,h,SUB: Robinson FOR Muhammad,Substitution,,0,441
+21400514,469,PT02M16.00S,4,1610612750,MIN,2590,Williams,M. Williams,0,0,0,,0,0.0,0.0,0,h,SUB: LaVine FOR Williams,Substitution,,0,442
+21400514,470,PT02M16.00S,4,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,94.0,107.0,201,h,Dieng Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,443
+21400514,472,PT02M05.00S,4,1610612750,MIN,201152,Young,T. Young,0,0,0,,0,0.0,0.0,0,h,Young S.FOUL (P2.T3),Foul,Shooting,1,444
+21400514,473,PT02M05.00S,4,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0.0,0.0,0,v,MISS Faried Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,445
+21400514,474,PT02M05.00S,4,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,446
+21400514,475,PT02M05.00S,4,1610612750,MIN,203476,Dieng,G. Dieng,0,0,0,,0,0.0,0.0,0,h,SUB: Bennett FOR Dieng,Substitution,,0,447
+21400514,476,PT02M05.00S,4,1610612750,MIN,201152,Young,T. Young,0,0,0,,0,0.0,0.0,0,h,SUB: Daniels FOR Young,Substitution,,0,448
+21400514,477,PT02M05.00S,4,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,0.0,0.0,0,v,MISS Faried Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,449
+21400514,479,PT02M05.00S,4,1610612750,MIN,203584,Daniels,T. Daniels,0,0,0,,0,0.0,0.0,0,h,Daniels REBOUND (Off:0 Def:2),Rebound,Unknown,1,450
+21400514,481,PT01M43.00S,4,1610612750,MIN,203897,LaVine,Z. LaVine,-35,213,22,Missed,1,0.0,0.0,0,h,MISS LaVine 22' Jump Shot,Missed Shot,Jump Shot,1,451
+21400514,482,PT01M42.00S,4,1610612743,DEN,201581,Hickson,J. Hickson,0,0,0,,0,0.0,0.0,0,v,Hickson REBOUND (Off:4 Def:7),Rebound,Unknown,1,452
+21400514,483,PT01M18.00S,4,1610612743,DEN,201167,Afflalo,A. Afflalo,-231,25,0,Made,1,94.0,110.0,204,v,Afflalo  3PT Jump Shot (34 PTS) (Chandler 1 AST),Made Shot,Jump Shot,1,453
+21400514,484,PT01M02.00S,4,1610612750,MIN,203952,Wiggins,A. Wiggins,146,31,15,Made,1,96.0,110.0,206,h,Wiggins 15' Jump Shot (18 PTS),Made Shot,Jump Shot,1,454
+21400514,485,PT00M39.90S,4,1610612743,DEN,201167,Afflalo,A. Afflalo,20,61,6,Missed,1,0.0,0.0,0,v,MISS Afflalo 6' Jump Shot,Missed Shot,Jump Shot,1,455
+21400514,486,PT00M37.90S,4,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,h,Wiggins REBOUND (Off:2 Def:4),Rebound,Unknown,1,456
+21400514,487,PT00M32.20S,4,1610612750,MIN,203952,Wiggins,A. Wiggins,-8,42,4,Made,1,98.0,110.0,208,h,Wiggins 4' Driving Jump Shot (20 PTS),Made Shot,Driving Jump shot,1,457
+21400514,488,PT00M10.90S,4,1610612743,DEN,101126,Robinson,N. Robinson,140,143,20,Missed,1,0.0,0.0,0,v,MISS Robinson 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,458
+21400514,489,PT00M08.90S,4,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,0.0,0.0,0,h,Wiggins REBOUND (Off:2 Def:5),Rebound,Unknown,1,459
+21400514,490,PT00M01.50S,4,1610612750,MIN,203584,Daniels,T. Daniels,100,231,25,Made,1,101.0,110.0,211,h,Daniels 25' 3PT Jump Shot (3 PTS) (Wiggins 4 AST),Made Shot,Jump Shot,1,460
+21400514,491,PT00M00.00S,4,0,,0,,,0,0,0,,0,101.0,110.0,211,,End of 4th Period (10:15 PM EST),period,end,0,461

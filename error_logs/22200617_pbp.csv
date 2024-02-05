@@ -1,0 +1,467 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+22200617,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (10:41 PM EST),period,start,0,1
+22200617,4,PT12M00.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Jump Ball Zubac vs. Powell: Tip to Mann,Jump Ball,,1,2
+22200617,7,PT11M39.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,49,20,5,Made,1,2.0,0.0,2,h,Zubac 5' Turnaround Bank Hook Shot (2 PTS),Made Shot,Turnaround Bank Hook Shot,1,3
+22200617,8,PT11M16.00S,1,1610612742,DAL,1626174,Wood,C. Wood,-206,155,26,Missed,1,,,0,v,MISS Wood 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,4
+22200617,9,PT11M15.00S,1,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Rebound,Rebound,Unknown,0,5
+22200617,10,PT11M15.00S,1,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,1,6
+22200617,11,PT11M01.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,20,2,Made,1,4.0,0.0,4,h,Zubac 2' Dunk (4 PTS) (Mann 1 AST),Made Shot,Dunk Shot,1,7
+22200617,13,PT10M49.00S,1,1610612742,DAL,1629029,Doncic,L. Doncic,-104,143,18,Made,1,4.0,2.0,6,v,Doncic 18' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,8
+22200617,14,PT10M34.00S,1,1610612746,LAC,1629611,Mann,T. Mann,15,22,3,Made,1,6.0,2.0,8,h,Mann 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,9
+22200617,15,PT10M21.00S,1,1610612742,DAL,1629029,Doncic,L. Doncic,158,201,26,Missed,1,,,0,v,MISS Doncic 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,10
+22200617,16,PT10M18.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard REBOUND (Off:0 Def:1),Rebound,Unknown,1,11
+22200617,17,PT10M10.00S,1,1610612746,LAC,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,,,0,h,Morris Sr. Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,12
+22200617,17,PT10M10.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell STEAL (1 STL),,,1,13
+22200617,19,PT10M01.00S,1,1610612742,DAL,1629029,Doncic,L. Doncic,16,4,2,Missed,1,,,0,v,MISS Doncic 2' Driving Layup,Missed Shot,Driving Layup Shot,1,14
+22200617,20,PT09M59.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac REBOUND (Off:0 Def:1),Rebound,Unknown,1,15
+22200617,21,PT09M51.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,53,109,12,Missed,1,,,0,h,MISS Zubac 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,16
+22200617,22,PT09M49.00S,1,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,v,Hardaway Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,17
+22200617,23,PT09M35.00S,1,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,-4,280,28,Missed,1,,,0,v,MISS Hardaway Jr. 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,18
+22200617,24,PT09M31.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,1,19
+22200617,26,PT09M24.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac P.FOUL (P1.T1) (J.Goble),Foul,Personal,1,20
+22200617,28,PT09M20.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac S.FOUL (P2.T2) (B.Kennedy),Foul,Shooting,1,21
+22200617,30,PT09M20.00S,1,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,6.0,3.0,9,v,Doncic Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,22
+22200617,31,PT09M20.00S,1,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,6.0,4.0,10,v,Doncic Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,23
+22200617,32,PT09M04.00S,1,1610612746,LAC,1629611,Mann,T. Mann,21,30,4,Missed,1,,,0,h,MISS Mann 4' Driving Layup,Missed Shot,Driving Layup Shot,1,24
+22200617,32,PT09M04.00S,1,1610612742,DAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,Dinwiddie BLOCK (1 BLK),,,1,25
+22200617,34,PT09M04.00S,1,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,1,26
+22200617,36,PT08M57.00S,1,1610612746,LAC,202694,Morris Sr.,M. Morris Sr.,136,230,27,Missed,1,,,0,h,MISS Morris Sr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,27
+22200617,37,PT08M53.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac REBOUND (Off:1 Def:1),Rebound,Unknown,1,28
+22200617,38,PT08M51.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,31,45,5,Made,1,8.0,4.0,12,h,Zubac 5' Hook Shot (6 PTS),Made Shot,Hook Shot,1,29
+22200617,39,PT08M34.00S,1,1610612742,DAL,1629029,Doncic,L. Doncic,-37,28,5,Missed,1,,,0,v,MISS Doncic 5' Driving Layup,Missed Shot,Driving Layup Shot,1,30
+22200617,39,PT08M34.00S,1,1610612746,LAC,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,,,0,h,Morris Sr. BLOCK (1 BLK),,,1,31
+22200617,41,PT08M34.00S,1,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Rebound,Rebound,Unknown,0,32
+22200617,43,PT08M27.00S,1,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,4,111,11,Missed,1,,,0,v,MISS Hardaway Jr. 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,33
+22200617,44,PT08M24.00S,1,1610612742,DAL,1626174,Wood,C. Wood,0,0,0,,0,,,0,v,Wood REBOUND (Off:1 Def:0),Rebound,Unknown,1,34
+22200617,45,PT08M17.00S,1,1610612742,DAL,1629029,Doncic,L. Doncic,-184,180,26,Missed,1,,,0,v,MISS Doncic 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,35
+22200617,46,PT08M13.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard REBOUND (Off:0 Def:2),Rebound,Unknown,1,36
+22200617,47,PT08M09.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,-53,105,12,Made,1,10.0,4.0,14,h,Leonard 12' Running Pull-Up Jump Shot (2 PTS),Made Shot,Running Pull-Up Jump Shot,1,37
+22200617,48,PT07M54.00S,1,1610612742,DAL,1626174,Wood,C. Wood,-36,38,5,Made,1,10.0,6.0,16,v,Wood 5' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,1,38
+22200617,49,PT07M39.00S,1,1610612746,LAC,1629611,Mann,T. Mann,-18,266,27,Missed,1,,,0,h,MISS Mann 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,39
+22200617,50,PT07M36.00S,1,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,,,0,v,Doncic REBOUND (Off:0 Def:1),Rebound,Unknown,1,40
+22200617,51,PT07M23.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac S.FOUL (P3.T3) (J.Goble),Foul,Shooting,1,41
+22200617,53,PT07M23.00S,1,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,,,0,v,MISS Doncic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,42
+22200617,54,PT07M23.00S,1,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Rebound,Rebound,Normal Rebound,0,43
+22200617,55,PT07M23.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,SUB: Covington FOR Zubac,Substitution,,0,44
+22200617,57,PT07M23.00S,1,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,,,0,v,MISS Doncic Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,45
+22200617,58,PT07M20.00S,1,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,,,0,h,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,1,46
+22200617,59,PT07M13.00S,1,1610612742,DAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,Dinwiddie S.FOUL (P1.T1) (B.Kennedy),Foul,Shooting,1,47
+22200617,61,PT07M13.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,11.0,6.0,17,h,Leonard Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,48
+22200617,62,PT07M13.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,12.0,6.0,18,h,Leonard Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,49
+22200617,63,PT06M58.00S,1,1610612742,DAL,203915,Dinwiddie,S. Dinwiddie,227,-3,0,Missed,1,,,0,v,MISS Dinwiddie 3PT Jump Shot,Missed Shot,Jump Shot,1,50
+22200617,64,PT06M55.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard REBOUND (Off:0 Def:3),Rebound,Unknown,1,51
+22200617,65,PT06M50.00S,1,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,v,Hardaway Jr. S.FOUL (P1.T2) (B.Kennedy),Foul,Shooting,1,52
+22200617,67,PT06M50.00S,1,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,53
+22200617,68,PT06M50.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,13.0,6.0,19,h,Leonard Free Throw 1 of 3 (5 PTS),Free Throw,Free Throw 1 of 3,1,54
+22200617,69,PT06M50.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,14.0,6.0,20,h,Leonard Free Throw 2 of 3 (6 PTS),Free Throw,Free Throw 2 of 3,1,55
+22200617,70,PT06M50.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,15.0,6.0,21,h,Leonard Free Throw 3 of 3 (7 PTS),Free Throw,Free Throw 3 of 3,1,56
+22200617,71,PT06M35.00S,1,1610612742,DAL,203939,Powell,D. Powell,1,7,1,Made,1,15.0,8.0,23,v,Powell 1' Cutting Dunk Shot (2 PTS) (Doncic 1 AST),Made Shot,Cutting Dunk Shot,1,57
+22200617,73,PT06M14.00S,1,1610612746,LAC,202694,Morris Sr.,M. Morris Sr.,29,94,10,Made,1,17.0,8.0,25,h,Morris Sr. 10' Pullup Jump Shot (2 PTS) (Covington 1 AST),Made Shot,Pullup Jump shot,1,58
+22200617,75,PT05M50.00S,1,1610612746,LAC,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,,,0,h,Morris Sr. S.FOUL (P1.T4) (B.Kennedy),Foul,Shooting,1,59
+22200617,77,PT05M50.00S,1,1610612742,DAL,1626174,Wood,C. Wood,0,0,0,,0,17.0,9.0,26,v,Wood Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,60
+22200617,78,PT05M50.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Bullock FOR Powell,Substitution,,0,61
+22200617,80,PT05M50.00S,1,1610612742,DAL,1626174,Wood,C. Wood,0,0,0,,0,17.0,10.0,27,v,Wood Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,62
+22200617,81,PT05M27.00S,1,1610612746,LAC,1629611,Mann,T. Mann,-9,17,2,Missed,1,,,0,h,MISS Mann 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,63
+22200617,82,PT05M26.00S,1,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:1 Def:0),Rebound,Unknown,1,64
+22200617,83,PT05M25.00S,1,1610612746,LAC,203496,Covington,R. Covington,0,0,0,Missed,1,,,0,h,MISS Covington Tip Layup Shot,Missed Shot,Tip Layup Shot,1,65
+22200617,83,PT05M25.00S,1,1610612742,DAL,1626174,Wood,C. Wood,0,0,0,,0,,,0,v,Wood BLOCK (1 BLK),,,1,66
+22200617,84,PT05M24.00S,1,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,,,0,h,Batum REBOUND (Off:1 Def:1),Rebound,Unknown,1,67
+22200617,85,PT05M23.00S,1,1610612746,LAC,201587,Batum,N. Batum,6,26,3,Missed,1,,,0,h,MISS Batum 3' Putback Layup,Missed Shot,Putback Layup Shot,1,68
+22200617,86,PT05M22.00S,1,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:2 Def:0),Rebound,Unknown,1,69
+22200617,87,PT05M20.00S,1,1610612746,LAC,203496,Covington,R. Covington,0,0,0,Made,1,19.0,10.0,29,h,Covington Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,70
+22200617,88,PT05M00.00S,1,1610612742,DAL,203493,Bullock,R. Bullock,0,0,0,,0,,,0,v,Bullock Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,71
+22200617,88,PT05M00.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard STEAL (1 STL),,,1,72
+22200617,90,PT04M53.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,115,-2,12,Made,1,21.0,10.0,31,h,Leonard 12' Jump Shot (9 PTS) (Batum 1 AST),Made Shot,Jump Shot,1,73
+22200617,92,PT04M51.00S,1,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,74
+22200617,93,PT04M35.00S,1,1610612742,DAL,203915,Dinwiddie,S. Dinwiddie,232,18,0,Made,1,21.0,13.0,34,v,Dinwiddie 3PT Jump Shot (3 PTS) (Bullock 1 AST),Made Shot,Jump Shot,1,75
+22200617,95,PT04M09.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,146,201,25,Missed,1,,,0,h,MISS Leonard 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,76
+22200617,96,PT04M06.00S,1,1610612742,DAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,Dinwiddie REBOUND (Off:0 Def:1),Rebound,Unknown,1,77
+22200617,97,PT03M54.00S,1,1610612742,DAL,203915,Dinwiddie,S. Dinwiddie,214,143,26,Missed,1,,,0,v,MISS Dinwiddie 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,78
+22200617,98,PT03M49.00S,1,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:2 Def:1),Rebound,Unknown,1,79
+22200617,99,PT03M37.00S,1,1610612746,LAC,202694,Morris Sr.,M. Morris Sr.,-183,169,25,Made,1,24.0,13.0,37,h,Morris Sr. 25' 3PT Jump Shot (5 PTS) (Batum 2 AST),Made Shot,Jump Shot,1,80
+22200617,101,PT03M08.00S,1,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,-183,206,28,Made,1,24.0,16.0,40,v,Hardaway Jr. 28' 3PT Jump Shot (3 PTS) (Dinwiddie 1 AST),Made Shot,Jump Shot,1,81
+22200617,103,PT02M50.00S,1,1610612746,LAC,202694,Morris Sr.,M. Morris Sr.,164,189,25,Made,1,27.0,16.0,43,h,Morris Sr. 25' 3PT Jump Shot (8 PTS) (Leonard 1 AST),Made Shot,Jump Shot,1,82
+22200617,105,PT02M31.00S,1,1610612742,DAL,1626174,Wood,C. Wood,74,23,8,Missed,1,,,0,v,MISS Wood 8' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,1,83
+22200617,106,PT02M29.00S,1,1610612746,LAC,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,,,0,h,Morris Sr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,84
+22200617,107,PT02M12.00S,1,1610612746,LAC,201587,Batum,N. Batum,-162,190,25,Missed,1,,,0,h,MISS Batum 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,85
+22200617,108,PT02M09.00S,1,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,v,Hardaway Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,86
+22200617,109,PT02M02.00S,1,1610612742,DAL,1629029,Doncic,L. Doncic,-115,11,12,Made,1,27.0,18.0,45,v,Doncic 12' Fadeaway Jumper (6 PTS),Made Shot,Fadeaway Jump Shot,1,87
+22200617,110,PT01M36.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,-53,176,18,Made,1,29.0,18.0,47,h,Leonard 18' Step Back Jump Shot (11 PTS),Made Shot,Step Back Jump shot,1,88
+22200617,112,PT01M23.00S,1,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Wall FOR Mann,Substitution,,0,89
+22200617,113,PT01M23.00S,1,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,,,0,h,SUB: Powell FOR Batum,Substitution,,0,90
+22200617,114,PT01M23.00S,1,1610612742,DAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,SUB: Hardy FOR Dinwiddie,Substitution,,0,91
+22200617,115,PT01M23.00S,1,1610612742,DAL,1626174,Wood,C. Wood,0,0,0,,0,,,0,v,SUB: Powell FOR Wood,Substitution,,0,92
+22200617,120,PT01M18.00S,1,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,-31,8,3,Made,1,29.0,20.0,49,v,Hardaway Jr. 3' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,93
+22200617,121,PT01M18.00S,1,1610612746,LAC,202322,Wall,J. Wall,0,0,0,,0,,,0,h,Wall S.FOUL (P1.PN) (J.Goble),Foul,Shooting,1,94
+22200617,123,PT01M18.00S,1,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,29.0,21.0,50,v,Hardaway Jr. Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,95
+22200617,124,PT01M03.00S,1,1610612746,LAC,1626181,Powell,N. Powell,-2,27,3,Missed,1,,,0,h,MISS Powell 3' Driving Layup,Missed Shot,Driving Layup Shot,1,96
+22200617,125,PT01M03.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:1 Def:1),Rebound,Unknown,1,97
+22200617,126,PT00M56.10S,1,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P1.PN) (J.Butler),Foul,Shooting,1,98
+22200617,128,PT00M56.10S,1,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,29.0,22.0,51,v,Doncic Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,99
+22200617,129,PT00M56.10S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,SUB: Brown FOR Leonard,Substitution,,0,100
+22200617,131,PT00M56.10S,1,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,29.0,23.0,52,v,Doncic Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,101
+22200617,132,PT00M44.00S,1,1610612746,LAC,1626181,Powell,N. Powell,-59,32,7,Missed,1,,,0,h,MISS Powell 7' Driving Layup,Missed Shot,Driving Layup Shot,1,102
+22200617,133,PT00M41.30S,1,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,,,0,v,Doncic REBOUND (Off:0 Def:2),Rebound,Unknown,1,103
+22200617,134,PT00M33.60S,1,1610612742,DAL,1630702,Hardy,J. Hardy,43,20,5,Made,1,29.0,25.0,54,v,Hardy 5' Turnaround Bank Shot (2 PTS),Made Shot,Turnaround Bank shot,1,104
+22200617,136,PT00M11.40S,1,1610612746,LAC,203496,Covington,R. Covington,-20,10,2,Missed,1,,,0,h,MISS Covington 2' Layup,Missed Shot,Layup Shot,1,105
+22200617,137,PT00M10.90S,1,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,0,106
+22200617,139,PT00M02.80S,1,1610612746,LAC,202694,Morris Sr.,M. Morris Sr.,-36,82,9,Made,1,31.0,25.0,56,h,Morris Sr. 9' Turnaround Jump Shot (10 PTS),Made Shot,Turnaround Jump Shot,1,107
+22200617,140,PT00M00.30S,1,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,-200,484,52,Missed,1,,,0,v,MISS Hardaway Jr. 52' 3PT Jump Shot,Missed Shot,Jump Shot,1,108
+22200617,141,PT00M00.10S,1,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Rebound,Rebound,Unknown,0,109
+22200617,142,PT00M00.00S,1,0,,0,,,0,0,0,,0,31.0,25.0,56,,End of 1st Period (11:07 PM EST),period,end,1,110
+22200617,149,PT12M00.00S,2,0,,0,,,0,0,0,,0,31.0,25.0,56,,Start of 2nd Period (11:10 PM EST),period,start,0,111
+22200617,150,PT11M44.00S,2,1610612746,LAC,1629650,Brown,M. Brown,0,0,0,,0,,,0,h,Brown S.FOUL (P1.T1) (J.Goble),Foul,Shooting,1,112
+22200617,153,PT11M44.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,31.0,26.0,57,v,Powell Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,113
+22200617,154,PT11M44.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,31.0,27.0,58,v,Powell Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,114
+22200617,155,PT11M33.00S,2,1610612746,LAC,202322,Wall,J. Wall,-29,52,6,Missed,1,,,0,h,MISS Wall 6' Driving Layup,Missed Shot,Driving Layup Shot,1,115
+22200617,155,PT11M33.00S,2,1610612742,DAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,Dinwiddie BLOCK (2 BLK),,,1,116
+22200617,157,PT11M33.00S,2,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,0,117
+22200617,159,PT11M33.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: McGee FOR Powell,Substitution,,0,118
+22200617,161,PT11M25.00S,2,1610612746,LAC,1626181,Powell,N. Powell,11,10,1,Made,1,33.0,27.0,60,h,Powell 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,119
+22200617,162,PT11M15.00S,2,1610612742,DAL,203915,Dinwiddie,S. Dinwiddie,-10,16,2,Made,1,33.0,29.0,62,v,Dinwiddie 2' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,120
+22200617,163,PT11M15.00S,2,1610612746,LAC,1629650,Brown,M. Brown,0,0,0,,0,,,0,h,Brown Violation:Defensive Goaltending (B.Kennedy),Violation,Defensive Goaltending,1,121
+22200617,164,PT10M52.00S,2,1610612746,LAC,202322,Wall,J. Wall,-1,114,11,Missed,1,,,0,h,MISS Wall 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,122
+22200617,165,PT10M50.00S,2,1610612742,DAL,203493,Bullock,R. Bullock,0,0,0,,0,,,0,v,Bullock REBOUND (Off:0 Def:1),Rebound,Unknown,1,123
+22200617,166,PT10M44.00S,2,1610612742,DAL,1630702,Hardy,J. Hardy,-29,13,3,Missed,1,,,0,v,MISS Hardy 3' Running Layup,Missed Shot,Running Layup Shot,1,124
+22200617,167,PT10M39.00S,2,1610612742,DAL,201580,McGee,J. McGee,0,0,0,,0,,,0,v,McGee REBOUND (Off:1 Def:0),Rebound,Unknown,1,125
+22200617,168,PT10M39.00S,2,1610612742,DAL,201580,McGee,J. McGee,0,0,0,Made,1,33.0,31.0,64,v,McGee Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,1,126
+22200617,169,PT10M37.00S,2,1610612746,LAC,202322,Wall,J. Wall,6,11,1,Made,1,35.0,31.0,66,h,Wall 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,127
+22200617,170,PT10M25.00S,2,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington S.FOUL (P1.T2) (B.Kennedy),Foul,Shooting,1,128
+22200617,172,PT10M25.00S,2,1610612742,DAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,35.0,32.0,67,v,Dinwiddie Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,129
+22200617,173,PT10M25.00S,2,1610612742,DAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,35.0,33.0,68,v,Dinwiddie Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,130
+22200617,174,PT10M14.00S,2,1610612746,LAC,202322,Wall,J. Wall,131,63,15,Missed,1,,,0,h,MISS Wall 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,131
+22200617,175,PT10M11.00S,2,1610612742,DAL,1630702,Hardy,J. Hardy,0,0,0,,0,,,0,v,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,1,132
+22200617,176,PT10M06.00S,2,1610612742,DAL,1630702,Hardy,J. Hardy,-27,36,5,Missed,1,,,0,v,MISS Hardy 5' Running Layup,Missed Shot,Running Layup Shot,1,133
+22200617,176,PT10M06.00S,2,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington BLOCK (1 BLK),,,1,134
+22200617,178,PT10M06.00S,2,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:2 Def:2),Rebound,Unknown,1,135
+22200617,180,PT09M50.00S,2,1610612746,LAC,1629650,Brown,M. Brown,-13,25,3,Missed,1,,,0,h,MISS Brown 3' Dunk,Missed Shot,Dunk Shot,1,136
+22200617,180,PT09M50.00S,2,1610612742,DAL,201580,McGee,J. McGee,0,0,0,,0,,,0,v,McGee BLOCK (1 BLK),,,1,137
+22200617,182,PT09M48.00S,2,1610612746,LAC,1629650,Brown,M. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:1 Def:0),Rebound,Unknown,1,138
+22200617,183,PT09M46.00S,2,1610612746,LAC,1629650,Brown,M. Brown,13,31,3,Missed,1,,,0,h,MISS Brown 3' Putback Layup,Missed Shot,Putback Layup Shot,1,139
+22200617,184,PT09M44.00S,2,1610612742,DAL,201580,McGee,J. McGee,0,0,0,,0,,,0,v,McGee REBOUND (Off:1 Def:1),Rebound,Unknown,1,140
+22200617,185,PT09M40.00S,2,1610612742,DAL,202722,Bertans,D. Bertans,225,1,0,Missed,1,,,0,v,MISS Bertans 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,141
+22200617,186,PT09M38.00S,2,1610612746,LAC,1629650,Brown,M. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:1 Def:1),Rebound,Unknown,1,142
+22200617,187,PT09M30.00S,2,1610612742,DAL,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans S.FOUL (P1.T1) (J.Butler),Foul,Shooting,1,143
+22200617,189,PT09M30.00S,2,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,MISS Covington Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,1,144
+22200617,190,PT09M30.00S,2,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Normal Rebound,1,145
+22200617,191,PT09M30.00S,2,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,MISS Covington Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,1,146
+22200617,192,PT09M30.00S,2,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Normal Rebound,1,147
+22200617,193,PT09M30.00S,2,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,MISS Covington Free Throw 3 of 3,Free Throw,Free Throw 3 of 3,1,148
+22200617,194,PT09M29.00S,2,1610612746,LAC,1629650,Brown,M. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:2 Def:1),Rebound,Unknown,1,149
+22200617,195,PT09M29.00S,2,1610612746,LAC,1629650,Brown,M. Brown,-1,14,1,Made,1,37.0,33.0,70,h,Brown 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,150
+22200617,196,PT09M29.00S,2,1610612742,DAL,201580,McGee,J. McGee,0,0,0,,0,,,0,v,McGee S.FOUL (P1.T2) (J.Goble),Foul,Shooting,1,151
+22200617,198,PT09M29.00S,2,1610612746,LAC,1629650,Brown,M. Brown,0,0,0,,0,,,0,h,MISS Brown Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,152
+22200617,199,PT09M27.00S,2,1610612742,DAL,201580,McGee,J. McGee,0,0,0,,0,,,0,v,McGee REBOUND (Off:1 Def:2),Rebound,Unknown,1,153
+22200617,200,PT09M13.00S,2,1610612742,DAL,203493,Bullock,R. Bullock,-232,43,24,Missed,1,,,0,v,MISS Bullock 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,154
+22200617,201,PT09M10.00S,2,1610612746,LAC,202322,Wall,J. Wall,0,0,0,,0,,,0,h,Wall REBOUND (Off:0 Def:1),Rebound,Unknown,1,155
+22200617,202,PT09M04.00S,2,1610612746,LAC,1629611,Mann,T. Mann,229,14,0,Missed,1,,,0,h,MISS Mann 3PT Jump Shot,Missed Shot,Jump Shot,1,156
+22200617,203,PT09M03.00S,2,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Rebound,Rebound,Unknown,0,157
+22200617,204,PT09M03.00S,2,1610612746,LAC,1629650,Brown,M. Brown,0,0,0,,0,,,0,h,Brown L.B.FOUL (P2.T3) (J.Butler),Foul,Loose Ball,1,158
+22200617,206,PT08M49.00S,2,1610612742,DAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,Dinwiddie Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,159
+22200617,207,PT08M49.00S,2,1610612742,DAL,201580,McGee,J. McGee,0,0,0,,0,,,0,v,SUB: Wood FOR McGee,Substitution,,0,160
+22200617,209,PT08M33.00S,2,1610612746,LAC,202322,Wall,J. Wall,27,10,3,Missed,1,,,0,h,MISS Wall 3' Driving Layup,Missed Shot,Driving Layup Shot,1,161
+22200617,209,PT08M33.00S,2,1610612742,DAL,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans BLOCK (1 BLK),,,1,162
+22200617,210,PT08M31.00S,2,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:3 Def:2),Rebound,Unknown,1,163
+22200617,211,PT08M29.00S,2,1610612746,LAC,1626181,Powell,N. Powell,-224,145,27,Made,1,40.0,33.0,73,h,Powell 27' 3PT Step Back Jump Shot (5 PTS) (Covington 2 AST),Made Shot,Step Back Jump shot,1,164
+22200617,213,PT08M11.00S,2,1610612746,LAC,1629650,Brown,M. Brown,0,0,0,,0,,,0,h,Brown P.FOUL (P3.T4) (J.Goble),Foul,Personal,1,165
+22200617,216,PT08M11.00S,2,1610612746,LAC,1629650,Brown,M. Brown,0,0,0,,0,,,0,h,SUB: Batum FOR Brown,Substitution,,0,166
+22200617,217,PT08M11.00S,2,1610612742,DAL,203493,Bullock,R. Bullock,0,0,0,,0,,,0,v,SUB: Ntilikina FOR Bullock,Substitution,,0,167
+22200617,220,PT07M59.00S,2,1610612742,DAL,1630702,Hardy,J. Hardy,0,0,0,,0,,,0,v,Hardy Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,168
+22200617,220,PT07M59.00S,2,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,,,0,h,Powell STEAL (1 STL),,,1,169
+22200617,222,PT07M48.00S,2,1610612746,LAC,202322,Wall,J. Wall,-7,82,8,Missed,1,,,0,h,MISS Wall 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,170
+22200617,223,PT07M44.00S,2,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:4 Def:2),Rebound,Unknown,1,171
+22200617,224,PT07M44.00S,2,1610612746,LAC,203496,Covington,R. Covington,-6,21,2,Made,1,42.0,33.0,75,h,Covington 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,172
+22200617,225,PT07M44.00S,2,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,173
+22200617,226,PT07M44.00S,2,1610612742,DAL,1630702,Hardy,J. Hardy,0,0,0,,0,,,0,v,SUB: Hardaway Jr. FOR Hardy,Substitution,,0,174
+22200617,227,PT07M44.00S,2,1610612742,DAL,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,SUB: Doncic FOR Bertans,Substitution,,0,175
+22200617,230,PT07M33.00S,2,1610612742,DAL,1626174,Wood,C. Wood,0,0,0,,0,,,0,v,Wood Traveling Turnover (P1.T5),Turnover,Traveling,1,176
+22200617,231,PT07M20.00S,2,1610612746,LAC,202322,Wall,J. Wall,0,0,0,,0,,,0,h,Wall Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,177
+22200617,231,PT07M20.00S,2,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,,,0,v,Doncic STEAL (1 STL),,,1,178
+22200617,233,PT07M14.00S,2,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,224,-3,0,Made,1,42.0,36.0,78,v,Hardaway Jr. 3PT Running Jump Shot (9 PTS) (Doncic 2 AST),Made Shot,Running Jump Shot,1,179
+22200617,235,PT06M57.00S,2,1610612746,LAC,202322,Wall,J. Wall,-13,19,2,Made,1,44.0,36.0,80,h,Wall 2' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,1,180
+22200617,236,PT06M45.00S,2,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,Mann S.FOUL (P1.PN) (J.Butler),Foul,Shooting,1,181
+22200617,238,PT06M45.00S,2,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,,,0,v,MISS Doncic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,182
+22200617,239,PT06M45.00S,2,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Rebound,Rebound,Normal Rebound,0,183
+22200617,240,PT06M45.00S,2,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS T.FOUL,Foul,Technical,0,184
+22200617,241,PT06M45.00S,2,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,SUB: Leonard FOR Covington,Substitution,,0,185
+22200617,243,PT06M45.00S,2,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,44.0,37.0,81,v,Doncic Free Throw Technical (9 PTS),Free Throw,Free Throw Technical,1,186
+22200617,244,PT06M45.00S,2,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,,,0,v,MISS Doncic Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,187
+22200617,245,PT06M42.00S,2,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,188
+22200617,246,PT06M29.00S,2,1610612742,DAL,1628373,Ntilikina,F. Ntilikina,0,0,0,,0,,,0,v,Ntilikina S.FOUL (P1.T3) (J.Goble),Foul,Shooting,1,189
+22200617,248,PT06M29.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,45.0,37.0,82,h,Leonard Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,190
+22200617,249,PT06M29.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,46.0,37.0,83,h,Leonard Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,191
+22200617,250,PT06M08.00S,2,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P2.PN) (J.Goble),Foul,Shooting,1,192
+22200617,252,PT06M08.00S,2,1610612742,DAL,1628373,Ntilikina,F. Ntilikina,0,0,0,,0,,,0,v,MISS Ntilikina Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,193
+22200617,253,PT06M08.00S,2,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Rebound,Rebound,Normal Rebound,0,194
+22200617,254,PT06M08.00S,2,1610612742,DAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,SUB: Bullock FOR Dinwiddie,Substitution,,0,195
+22200617,256,PT06M08.00S,2,1610612742,DAL,1628373,Ntilikina,F. Ntilikina,0,0,0,,0,,,0,v,MISS Ntilikina Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,196
+22200617,257,PT06M06.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard REBOUND (Off:0 Def:4),Rebound,Unknown,1,197
+22200617,258,PT06M03.00S,2,1610612742,DAL,1628373,Ntilikina,F. Ntilikina,0,0,0,,0,,,0,v,Ntilikina S.FOUL (P2.T4) (J.Goble),Foul,Shooting,1,198
+22200617,260,PT06M03.00S,2,1610612746,LAC,202322,Wall,J. Wall,0,0,0,,0,,,0,h,MISS Wall Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,199
+22200617,261,PT06M03.00S,2,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Normal Rebound,0,200
+22200617,262,PT06M03.00S,2,1610612742,DAL,1628373,Ntilikina,F. Ntilikina,0,0,0,,0,,,0,v,SUB: Hardy FOR Ntilikina,Substitution,,0,201
+22200617,264,PT06M03.00S,2,1610612746,LAC,202322,Wall,J. Wall,0,0,0,,0,47.0,37.0,84,h,Wall Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,202
+22200617,265,PT05M45.00S,2,1610612742,DAL,1626174,Wood,C. Wood,-4,60,6,Missed,1,,,0,v,MISS Wood 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,203
+22200617,266,PT05M43.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard REBOUND (Off:0 Def:5),Rebound,Unknown,1,204
+22200617,267,PT05M38.00S,2,1610612746,LAC,1626181,Powell,N. Powell,148,201,25,Made,1,50.0,37.0,87,h,Powell 25' 3PT Running Pull-Up Jump Shot (8 PTS) (Wall 1 AST),Made Shot,Running Pull-Up Jump Shot,1,205
+22200617,269,PT05M23.00S,2,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,164,194,25,Made,1,50.0,40.0,90,v,Hardaway Jr. 25' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,206
+22200617,270,PT05M00.00S,2,1610612746,LAC,202322,Wall,J. Wall,-86,222,24,Missed,1,,,0,h,MISS Wall 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,207
+22200617,271,PT04M58.00S,2,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,,,0,h,Batum REBOUND (Off:2 Def:1),Rebound,Unknown,1,208
+22200617,272,PT04M58.00S,2,1610612746,LAC,201587,Batum,N. Batum,-21,16,3,Missed,1,,,0,h,MISS Batum 3' Layup,Missed Shot,Layup Shot,1,209
+22200617,272,PT04M58.00S,2,1610612742,DAL,1626174,Wood,C. Wood,0,0,0,,0,,,0,v,Wood BLOCK (2 BLK),,,1,210
+22200617,279,PT04M58.00S,2,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Rebound,Rebound,Unknown,0,211
+22200617,274,PT04M58.00S,2,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,,,0,h,SUB: Morris Sr. FOR Batum,Substitution,,0,212
+22200617,276,PT04M57.00S,2,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,Jump Ball Mann vs. Wood: Tip to Hardaway Jr.,Jump Ball,,0,213
+22200617,280,PT04M50.00S,2,1610612746,LAC,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,,,0,h,Morris Sr. P.FOUL (P2.PN) (J.Goble),Foul,Personal,1,214
+22200617,282,PT04M50.00S,2,1610612742,DAL,1626174,Wood,C. Wood,0,0,0,,0,50.0,41.0,91,v,Wood Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,215
+22200617,283,PT04M50.00S,2,1610612746,LAC,202322,Wall,J. Wall,0,0,0,,0,,,0,h,SUB: Covington FOR Wall,Substitution,,0,216
+22200617,285,PT04M50.00S,2,1610612742,DAL,1626174,Wood,C. Wood,0,0,0,,0,50.0,42.0,92,v,Wood Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,217
+22200617,286,PT04M34.00S,2,1610612746,LAC,1626181,Powell,N. Powell,-65,29,7,Made,1,52.0,42.0,94,h,Powell 7' Driving Floating Bank Jump Shot (10 PTS) (Covington 3 AST),Made Shot,Driving Floating Bank Jump Shot,1,218
+22200617,288,PT04M21.00S,2,1610612742,DAL,1630702,Hardy,J. Hardy,228,79,24,Missed,1,,,0,v,MISS Hardy 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,219
+22200617,289,PT04M18.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard REBOUND (Off:0 Def:6),Rebound,Unknown,1,220
+22200617,290,PT04M03.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,123,29,13,Made,1,54.0,42.0,96,h,Leonard 13' Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,1,221
+22200617,291,PT03M42.00S,2,1610612742,DAL,1629029,Doncic,L. Doncic,-141,49,15,Missed,1,,,0,v,MISS Doncic 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,222
+22200617,292,PT03M39.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard REBOUND (Off:0 Def:7),Rebound,Unknown,1,223
+22200617,293,PT03M30.00S,2,1610612746,LAC,202694,Morris Sr.,M. Morris Sr.,-53,75,9,Made,1,56.0,42.0,98,h,Morris Sr. 9' Pullup Jump Shot (12 PTS) (Powell 1 AST),Made Shot,Pullup Jump shot,1,224
+22200617,295,PT03M30.00S,2,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,225
+22200617,296,PT03M30.00S,2,1610612742,DAL,1630702,Hardy,J. Hardy,0,0,0,,0,,,0,v,SUB: Dinwiddie FOR Hardy,Substitution,,0,226
+22200617,298,PT03M07.00S,2,1610612742,DAL,203493,Bullock,R. Bullock,0,0,0,,0,,,0,v,Bullock Lost Ball Turnover (P2.T6),Turnover,Lost Ball,1,227
+22200617,298,PT03M07.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard STEAL (2 STL),,,1,228
+22200617,300,PT03M01.00S,2,1610612746,LAC,203496,Covington,R. Covington,230,47,0,Made,1,59.0,42.0,101,h,Covington 3PT Jump Shot (7 PTS) (Leonard 2 AST),Made Shot,Jump Shot,1,229
+22200617,302,PT02M38.00S,2,1610612742,DAL,1626174,Wood,C. Wood,0,0,0,,0,,,0,v,Wood OFF.Foul (P1) (J.Goble),Foul,Offensive,1,230
+22200617,304,PT02M38.00S,2,1610612742,DAL,1626174,Wood,C. Wood,0,0,0,,0,,,0,v,Wood Offensive Foul Turnover (P2.T7),Turnover,Offensive Foul Turnover,1,231
+22200617,306,PT02M18.00S,2,1610612746,LAC,1626181,Powell,N. Powell,45,263,27,Made,1,62.0,42.0,104,h,Powell 27' 3PT Pullup Jump Shot (13 PTS) (Leonard 3 AST),Made Shot,Pullup Jump shot,1,232
+22200617,308,PT01M59.00S,2,1610612742,DAL,1629029,Doncic,L. Doncic,185,199,27,Made,1,62.0,45.0,107,v,Doncic 27' 3PT Jump Shot (12 PTS) (Dinwiddie 2 AST),Made Shot,Jump Shot,1,233
+22200617,310,PT01M36.00S,2,1610612746,LAC,1626181,Powell,N. Powell,2,37,4,Made,1,64.0,45.0,109,h,Powell 4' Driving Finger Roll Layup (15 PTS) (Morris Sr. 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,234
+22200617,312,PT01M36.00S,2,1610612742,DAL,1626174,Wood,C. Wood,0,0,0,,0,,,0,v,Wood S.FOUL (P2.PN) (J.Goble),Foul,Shooting,1,235
+22200617,314,PT01M36.00S,2,1610612746,LAC,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,,,0,h,SUB: Batum FOR Morris Sr.,Substitution,,0,236
+22200617,316,PT01M36.00S,2,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,65.0,45.0,110,h,Powell Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,1,237
+22200617,318,PT01M18.00S,2,1610612742,DAL,203493,Bullock,R. Bullock,-211,143,25,Missed,1,,,0,v,MISS Bullock 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,238
+22200617,319,PT01M14.00S,2,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,,,0,h,Batum REBOUND (Off:2 Def:2),Rebound,Unknown,1,239
+22200617,320,PT00M56.10S,2,1610612746,LAC,202695,Leonard,K. Leonard,-135,80,16,Made,1,67.0,45.0,112,h,Leonard 16' Step Back Jump Shot (17 PTS),Made Shot,Step Back Jump shot,1,240
+22200617,321,PT00M48.90S,2,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,-6,37,4,Made,1,67.0,47.0,114,v,Hardaway Jr. 4' Driving Finger Roll Layup (14 PTS) (Dinwiddie 3 AST),Made Shot,Driving Finger Roll Layup Shot,1,241
+22200617,323,PT00M33.20S,2,1610612746,LAC,202695,Leonard,K. Leonard,129,218,25,Missed,1,,,0,h,MISS Leonard 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,242
+22200617,324,PT00M30.00S,2,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,v,Hardaway Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,243
+22200617,325,PT00M16.60S,2,1610612742,DAL,203493,Bullock,R. Bullock,232,21,0,Missed,1,,,0,v,MISS Bullock 3PT Jump Shot,Missed Shot,Jump Shot,1,244
+22200617,326,PT00M13.30S,2,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,,,0,h,Batum REBOUND (Off:2 Def:3),Rebound,Unknown,1,245
+22200617,327,PT00M01.90S,2,1610612742,DAL,1626174,Wood,C. Wood,0,0,0,,0,,,0,v,Wood S.FOUL (P3.PN) (B.Kennedy),Foul,Shooting,1,246
+22200617,329,PT00M01.90S,2,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,68.0,47.0,115,h,Batum Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,247
+22200617,330,PT00M01.90S,2,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,69.0,47.0,116,h,Batum Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,248
+22200617,331,PT00M00.30S,2,1610612742,DAL,1629029,Doncic,L. Doncic,-200,527,56,Missed,1,,,0,v,MISS Doncic 56' 3PT Jump Shot,Missed Shot,Jump Shot,1,249
+22200617,332,PT00M00.10S,2,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Rebound,Rebound,Unknown,0,250
+22200617,333,PT00M00.00S,2,0,,0,,,0,0,0,,0,69.0,47.0,116,,End of 2nd Period (11:42 PM EST),period,end,1,251
+22200617,340,PT12M00.00S,3,0,,0,,,0,0,0,,0,69.0,47.0,116,,Start of 3rd Period (11:57 PM EST),period,start,0,252
+22200617,341,PT11M44.00S,3,1610612742,DAL,1626174,Wood,C. Wood,-20,6,2,Missed,1,,,0,v,MISS Wood 2' Layup,Missed Shot,Layup Shot,1,253
+22200617,341,PT11M44.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard BLOCK (1 BLK),,,1,254
+22200617,343,PT11M44.00S,3,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Rebound,Rebound,Unknown,1,255
+22200617,345,PT11M41.00S,3,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,-11,9,1,Made,1,69.0,49.0,118,v,Hardaway Jr. 1' Driving Layup (16 PTS) (Doncic 3 AST),Made Shot,Driving Layup Shot,1,256
+22200617,347,PT11M21.00S,3,1610612746,LAC,201587,Batum,N. Batum,-151,202,25,Made,1,72.0,49.0,121,h,Batum 25' 3PT Jump Shot (5 PTS) (Morris Sr. 2 AST),Made Shot,Jump Shot,1,257
+22200617,349,PT11M05.00S,3,1610612742,DAL,1626174,Wood,C. Wood,-4,16,2,Made,1,72.0,51.0,123,v,Wood 2' Finger Roll Layup (8 PTS) (Doncic 4 AST),Made Shot,Finger Roll Layup Shot,1,258
+22200617,351,PT10M43.00S,3,1610612746,LAC,201587,Batum,N. Batum,-151,201,25,Missed,1,,,0,h,MISS Batum 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,259
+22200617,352,PT10M40.00S,3,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,,,0,v,Doncic REBOUND (Off:0 Def:3),Rebound,Unknown,1,260
+22200617,353,PT10M23.00S,3,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,10,153,15,Missed,1,,,0,v,MISS Hardaway Jr. 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,261
+22200617,354,PT10M19.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac REBOUND (Off:1 Def:2),Rebound,Unknown,1,262
+22200617,355,PT10M11.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,263
+22200617,355,PT10M11.00S,3,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,,,0,v,Doncic STEAL (2 STL),,,1,264
+22200617,357,PT10M06.00S,3,1610612742,DAL,1629029,Doncic,L. Doncic,12,9,2,Made,1,72.0,53.0,125,v,Doncic 2' Running Layup (14 PTS) (Dinwiddie 4 AST),Made Shot,Running Layup Shot,1,265
+22200617,359,PT10M06.00S,3,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,266
+22200617,360,PT09M53.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,-70,11,7,Missed,1,,,0,h,MISS Zubac 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,267
+22200617,361,PT09M50.00S,3,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,v,Hardaway Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,1,268
+22200617,362,PT09M45.00S,3,1610612742,DAL,1629029,Doncic,L. Doncic,126,250,28,Missed,1,,,0,v,MISS Doncic 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,269
+22200617,363,PT09M42.00S,3,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,270
+22200617,364,PT09M31.00S,3,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,,,0,v,Doncic S.FOUL (P1.T1) (B.Kennedy),Foul,Shooting,1,271
+22200617,366,PT09M31.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,73.0,53.0,126,h,Leonard Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,272
+22200617,367,PT09M31.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,74.0,53.0,127,h,Leonard Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,273
+22200617,368,PT09M18.00S,3,1610612746,LAC,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,,,0,h,Morris Sr. Violation:Kicked Ball (B.Kennedy),Violation,Kicked Ball,0,274
+22200617,369,PT09M10.00S,3,1610612746,LAC,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,,,0,h,Morris Sr. S.FOUL (P3.T1) (J.Goble),Foul,Shooting,1,275
+22200617,371,PT09M10.00S,3,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,74.0,54.0,128,v,Doncic Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,276
+22200617,372,PT09M10.00S,3,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,74.0,55.0,129,v,Doncic Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,277
+22200617,373,PT08M48.00S,3,1610612746,LAC,202694,Morris Sr.,M. Morris Sr.,32,163,17,Missed,1,,,0,h,MISS Morris Sr. 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,278
+22200617,374,PT08M47.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac REBOUND (Off:2 Def:2),Rebound,Unknown,1,279
+22200617,375,PT08M46.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac Traveling Turnover (P1.T4),Turnover,Traveling,1,280
+22200617,376,PT08M35.00S,3,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,,,0,v,Doncic Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,281
+22200617,376,PT08M35.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard STEAL (3 STL),,,1,282
+22200617,378,PT08M27.00S,3,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,283
+22200617,378,PT08M27.00S,3,1610612742,DAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,Dinwiddie STEAL (1 STL),,,1,284
+22200617,380,PT08M22.00S,3,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,,,0,v,Doncic Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,285
+22200617,380,PT08M22.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard STEAL (4 STL),,,1,286
+22200617,382,PT08M06.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,191,158,25,Made,1,77.0,55.0,132,h,Leonard 25' 3PT Jump Shot (22 PTS) (Zubac 1 AST),Made Shot,Jump Shot,1,287
+22200617,384,PT07M42.00S,3,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,v,Hardaway Jr. Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,288
+22200617,384,PT07M42.00S,3,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,,,0,h,Batum STEAL (1 STL),,,1,289
+22200617,386,PT07M35.00S,3,1610612746,LAC,1629611,Mann,T. Mann,-20,11,2,Missed,1,,,0,h,MISS Mann 2' Running Layup,Missed Shot,Running Layup Shot,1,290
+22200617,387,PT07M35.00S,3,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Rebound,Rebound,Unknown,1,291
+22200617,388,PT07M35.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac L.B.FOUL (P4.T2) (J.Goble),Foul,Loose Ball,1,292
+22200617,390,PT07M35.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,SUB: Covington FOR Zubac,Substitution,,0,293
+22200617,392,PT07M17.00S,3,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington S.FOUL (P2.T3) (B.Kennedy),Foul,Shooting,1,294
+22200617,394,PT07M17.00S,3,1610612742,DAL,1626174,Wood,C. Wood,0,0,0,,0,77.0,56.0,133,v,Wood Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,295
+22200617,395,PT07M17.00S,3,1610612742,DAL,1626174,Wood,C. Wood,0,0,0,,0,77.0,57.0,134,v,Wood Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,296
+22200617,396,PT07M06.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,17,15,2,Made,1,79.0,57.0,136,h,Leonard 2' Driving Layup (24 PTS),Made Shot,Driving Layup Shot,1,297
+22200617,397,PT06M47.00S,3,1610612742,DAL,203915,Dinwiddie,S. Dinwiddie,49,283,29,Made,1,79.0,60.0,139,v,Dinwiddie 29' 3PT Jump Shot (10 PTS) (Doncic 5 AST),Made Shot,Jump Shot,1,298
+22200617,399,PT06M27.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,121,47,13,Missed,1,,,0,h,MISS Leonard 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,299
+22200617,400,PT06M23.00S,3,1610612742,DAL,1626174,Wood,C. Wood,0,0,0,,0,,,0,v,Wood REBOUND (Off:1 Def:1),Rebound,Unknown,1,300
+22200617,401,PT06M18.00S,3,1610612742,DAL,1629029,Doncic,L. Doncic,-197,140,24,Missed,1,,,0,v,MISS Doncic 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,301
+22200617,402,PT06M15.00S,3,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:2),Rebound,Unknown,1,302
+22200617,403,PT05M58.00S,3,1610612746,LAC,202694,Morris Sr.,M. Morris Sr.,-142,26,14,Missed,1,,,0,h,MISS Morris Sr. 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,303
+22200617,404,PT05M58.00S,3,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,0,304
+22200617,405,PT05M58.00S,3,1610612742,DAL,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans L.B.FOUL (P2.T2) (J.Goble),Foul,Loose Ball,1,305
+22200617,407,PT05M48.00S,3,1610612746,LAC,201587,Batum,N. Batum,120,226,26,Missed,1,,,0,h,MISS Batum 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,306
+22200617,408,PT05M43.00S,3,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,,,0,v,Doncic REBOUND (Off:0 Def:4),Rebound,Unknown,1,307
+22200617,409,PT05M34.00S,3,1610612742,DAL,1629029,Doncic,L. Doncic,43,22,5,Made,1,79.0,62.0,141,v,Doncic 5' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,1,308
+22200617,410,PT05M22.00S,3,1610612746,LAC,1629611,Mann,T. Mann,87,239,25,Missed,1,,,0,h,MISS Mann 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,309
+22200617,411,PT05M19.00S,3,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,,,0,v,Doncic REBOUND (Off:0 Def:5),Rebound,Unknown,1,310
+22200617,412,PT05M19.00S,3,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,,,0,h,Batum P.FOUL (P1.T4) (J.Butler),Foul,Personal,1,311
+22200617,414,PT05M19.00S,3,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Powell FOR Mann,Substitution,,0,312
+22200617,416,PT04M56.00S,3,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,-235,3,24,Missed,1,,,0,v,MISS Hardaway Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,313
+22200617,417,PT04M54.00S,3,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,1,314
+22200617,418,PT04M49.00S,3,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,,,0,v,Doncic S.FOUL (P2.T3) (B.Kennedy),Foul,Shooting,1,315
+22200617,420,PT04M49.00S,3,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,80.0,62.0,142,h,Powell Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,316
+22200617,421,PT04M49.00S,3,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,81.0,62.0,143,h,Powell Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,317
+22200617,422,PT04M35.00S,3,1610612742,DAL,1629029,Doncic,L. Doncic,-12,6,1,Made,1,81.0,64.0,145,v,Doncic 1' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,1,318
+22200617,423,PT04M09.00S,3,1610612746,LAC,203496,Covington,R. Covington,13,17,2,Made,1,83.0,64.0,147,h,Covington 2' Cutting Layup Shot (9 PTS) (Morris Sr. 3 AST),Made Shot,Cutting Layup Shot,1,319
+22200617,425,PT03M57.00S,3,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,,,0,h,Batum P.FOUL (P2.PN) (J.Goble),Foul,Personal,1,320
+22200617,427,PT03M57.00S,3,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,83.0,65.0,148,v,Doncic Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,321
+22200617,428,PT03M57.00S,3,1610612742,DAL,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,SUB: Hardy FOR Bertans,Substitution,,0,322
+22200617,430,PT03M57.00S,3,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,,,0,v,MISS Doncic Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,323
+22200617,431,PT03M54.00S,3,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,,,0,h,Batum REBOUND (Off:2 Def:4),Rebound,Unknown,1,324
+22200617,432,PT03M47.00S,3,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,,,0,h,Powell Traveling Turnover (P1.T6),Turnover,Traveling,1,325
+22200617,433,PT03M36.00S,3,1610612742,DAL,203915,Dinwiddie,S. Dinwiddie,-147,235,28,Made,1,83.0,68.0,151,v,Dinwiddie 28' 3PT Jump Shot (13 PTS) (Doncic 6 AST),Made Shot,Jump Shot,1,326
+22200617,435,PT03M28.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard Traveling Turnover (P2.T7),Turnover,Traveling,1,327
+22200617,436,PT03M28.00S,3,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,,,0,h,SUB: Wall FOR Batum,Substitution,,0,328
+22200617,438,PT03M17.00S,3,1610612746,LAC,202322,Wall,J. Wall,0,0,0,,0,,,0,h,Wall S.FOUL (P2.PN) (J.Goble),Foul,Shooting,1,329
+22200617,440,PT03M17.00S,3,1610612742,DAL,1626174,Wood,C. Wood,0,0,0,,0,83.0,69.0,152,v,Wood Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,330
+22200617,441,PT03M17.00S,3,1610612742,DAL,1626174,Wood,C. Wood,0,0,0,,0,83.0,70.0,153,v,Wood Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,331
+22200617,442,PT03M02.00S,3,1610612746,LAC,1626181,Powell,N. Powell,-18,16,2,Made,1,85.0,70.0,155,h,Powell 2' Driving Dunk (20 PTS) (Wall 2 AST),Made Shot,Driving Dunk Shot,1,332
+22200617,444,PT02M45.00S,3,1610612742,DAL,1626174,Wood,C. Wood,0,0,0,,0,,,0,v,Wood 3 Second Violation Turnover (P3.T11),Turnover,3 Second Violation,1,333
+22200617,445,PT02M45.00S,3,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,334
+22200617,446,PT02M45.00S,3,1610612742,DAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,SUB: Bullock FOR Dinwiddie,Substitution,,0,335
+22200617,447,PT02M45.00S,3,1610612742,DAL,1626174,Wood,C. Wood,0,0,0,,0,,,0,v,SUB: Ntilikina FOR Wood,Substitution,,0,336
+22200617,450,PT02M29.00S,3,1610612746,LAC,202694,Morris Sr.,M. Morris Sr.,-10,259,26,Missed,1,,,0,h,MISS Morris Sr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,337
+22200617,451,PT02M26.00S,3,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,,,0,v,Doncic REBOUND (Off:0 Def:6),Rebound,Unknown,1,338
+22200617,452,PT02M13.00S,3,1610612742,DAL,1630702,Hardy,J. Hardy,-224,11,0,Missed,1,,,0,v,MISS Hardy 3PT Jump Shot,Missed Shot,Jump Shot,1,339
+22200617,453,PT02M08.00S,3,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:4 Def:3),Rebound,Unknown,1,340
+22200617,454,PT01M57.00S,3,1610612746,LAC,202322,Wall,J. Wall,-168,188,25,Missed,1,,,0,h,MISS Wall 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,341
+22200617,455,PT01M54.00S,3,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,,,0,v,Doncic REBOUND (Off:0 Def:7),Rebound,Unknown,1,342
+22200617,456,PT01M39.00S,3,1610612742,DAL,203493,Bullock,R. Bullock,-102,229,25,Made,1,85.0,73.0,158,v,Bullock 25' 3PT Jump Shot (3 PTS) (Ntilikina 1 AST),Made Shot,Jump Shot,1,343
+22200617,458,PT01M16.00S,3,1610612746,LAC,202694,Morris Sr.,M. Morris Sr.,-62,85,11,Missed,1,,,0,h,MISS Morris Sr. 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,344
+22200617,459,PT01M14.00S,3,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,,,0,v,Doncic REBOUND (Off:0 Def:8),Rebound,Unknown,1,345
+22200617,460,PT01M01.00S,3,1610612742,DAL,1629029,Doncic,L. Doncic,10,78,8,Made,1,85.0,75.0,160,v,Doncic 8' Fadeaway Jumper (23 PTS),Made Shot,Fadeaway Jump Shot,1,346
+22200617,461,PT00M47.10S,3,1610612746,LAC,1626181,Powell,N. Powell,-174,22,18,Missed,1,,,0,h,MISS Powell 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,347
+22200617,462,PT00M45.20S,3,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,,,0,v,Doncic REBOUND (Off:0 Def:9),Rebound,Unknown,1,348
+22200617,463,PT00M35.40S,3,1610612742,DAL,1629029,Doncic,L. Doncic,56,263,27,Missed,1,,,0,v,MISS Doncic 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,349
+22200617,464,PT00M33.10S,3,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,1,350
+22200617,465,PT00M27.70S,3,1610612746,LAC,202695,Leonard,K. Leonard,-45,259,26,Made,1,88.0,75.0,163,h,Leonard 26' 3PT Jump Shot (27 PTS) (Wall 3 AST),Made Shot,Jump Shot,1,351
+22200617,467,PT00M04.50S,3,1610612742,DAL,203493,Bullock,R. Bullock,-229,-11,0,Made,1,88.0,78.0,166,v,Bullock 3PT Jump Shot (6 PTS) (Doncic 7 AST),Made Shot,Jump Shot,1,352
+22200617,469,PT00M00.30S,3,1610612746,LAC,202694,Morris Sr.,M. Morris Sr.,-192,253,32,Missed,1,,,0,h,MISS Morris Sr. 32' 3PT Jump Shot,Missed Shot,Jump Shot,1,353
+22200617,470,PT00M00.10S,3,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,0,354
+22200617,471,PT00M00.00S,3,0,,0,,,0,0,0,,0,88.0,78.0,166,,End of 3rd Period (12:24 AM EST),period,end,1,355
+22200617,480,PT12M00.00S,4,0,,0,,,0,0,0,,0,88.0,78.0,166,,Start of 4th Period (12:26 AM EST),period,start,0,356
+22200617,481,PT11M49.00S,4,1610612746,LAC,202322,Wall,J. Wall,45,200,21,Missed,1,,,0,h,MISS Wall 21' Jump Shot,Missed Shot,Jump Shot,1,357
+22200617,482,PT11M46.00S,4,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Rebound,Rebound,Unknown,0,358
+22200617,484,PT11M42.00S,4,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington Traveling Turnover (P1.T8),Turnover,Traveling,1,359
+22200617,485,PT11M28.00S,4,1610612742,DAL,203493,Bullock,R. Bullock,148,25,15,Missed,1,,,0,v,MISS Bullock 15' Jump Shot,Missed Shot,Jump Shot,1,360
+22200617,486,PT11M25.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac REBOUND (Off:2 Def:3),Rebound,Unknown,1,361
+22200617,487,PT11M10.00S,4,1610612746,LAC,1629611,Mann,T. Mann,194,165,25,Made,1,91.0,78.0,169,h,Mann 25' 3PT Jump Shot (5 PTS) (Zubac 2 AST),Made Shot,Jump Shot,1,362
+22200617,489,PT10M47.00S,4,1610612742,DAL,203493,Bullock,R. Bullock,205,138,25,Missed,1,,,0,v,MISS Bullock 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,363
+22200617,490,PT10M45.00S,4,1610612746,LAC,202322,Wall,J. Wall,0,0,0,,0,,,0,h,Wall REBOUND (Off:0 Def:2),Rebound,Unknown,1,364
+22200617,491,PT10M39.00S,4,1610612746,LAC,203496,Covington,R. Covington,-165,237,29,Missed,1,,,0,h,MISS Covington 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,365
+22200617,492,PT10M37.00S,4,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Rebound,Rebound,Unknown,0,366
+22200617,494,PT10M27.00S,4,1610612742,DAL,202722,Bertans,D. Bertans,146,205,25,Missed,1,,,0,v,MISS Bertans 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,367
+22200617,495,PT10M24.00S,4,1610612746,LAC,202322,Wall,J. Wall,0,0,0,,0,,,0,h,Wall REBOUND (Off:0 Def:3),Rebound,Unknown,0,368
+22200617,496,PT10M21.00S,4,1610612746,LAC,202322,Wall,J. Wall,-6,31,3,Missed,1,,,0,h,MISS Wall 3' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,369
+22200617,497,PT10M18.00S,4,1610612742,DAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,Dinwiddie REBOUND (Off:0 Def:2),Rebound,Unknown,1,370
+22200617,498,PT10M15.00S,4,1610612742,DAL,203493,Bullock,R. Bullock,216,124,25,Missed,1,,,0,v,MISS Bullock 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,371
+22200617,499,PT10M15.00S,4,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Rebound,Rebound,Unknown,1,372
+22200617,501,PT10M03.00S,4,1610612742,DAL,202722,Bertans,D. Bertans,-36,263,27,Missed,1,,,0,v,MISS Bertans 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,373
+22200617,502,PT09M59.00S,4,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:4),Rebound,Unknown,1,374
+22200617,503,PT09M38.00S,4,1610612746,LAC,1629611,Mann,T. Mann,107,231,25,Made,1,94.0,78.0,172,h,Mann 25' 3PT Step Back Jump Shot (8 PTS) (Wall 4 AST),Made Shot,Step Back Jump shot,1,375
+22200617,507,PT09M23.00S,4,0,,1610612742,,,0,0,0,,0,,,0,v,Mavericks Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,376
+22200617,508,PT09M23.00S,4,0,,504,,,0,0,0,,0,94.0,78.0,172,,Instant Replay4th Period (12:30 AM EST),Instant Replay,Coach Challenge Overturn Ruling,1,377
+22200617,510,PT09M23.00S,4,1610612746,LAC,202322,Wall,J. Wall,0,0,0,,0,,,0,h,Wall S.FOUL (P3.T1) (J.Butler),Foul,Shooting,1,378
+22200617,512,PT09M23.00S,4,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,94.0,79.0,173,v,Doncic Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,379
+22200617,513,PT09M23.00S,4,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,94.0,80.0,174,v,Doncic Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,380
+22200617,514,PT09M12.00S,4,1610612746,LAC,202322,Wall,J. Wall,0,0,0,,0,,,0,h,Wall Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,381
+22200617,514,PT09M12.00S,4,1610612742,DAL,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans STEAL (1 STL),,,1,382
+22200617,516,PT09M03.00S,4,1610612742,DAL,203915,Dinwiddie,S. Dinwiddie,18,293,29,Missed,1,,,0,v,MISS Dinwiddie 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,383
+22200617,517,PT09M00.00S,4,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:3),Rebound,Unknown,1,384
+22200617,518,PT08M44.00S,4,1610612742,DAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,Dinwiddie P.FOUL (P2.T1) (B.Kennedy),Foul,Personal,1,385
+22200617,520,PT08M44.00S,4,1610612746,LAC,202322,Wall,J. Wall,0,0,0,,0,,,0,h,SUB: Batum FOR Wall,Substitution,,0,386
+22200617,522,PT08M38.00S,4,1610612746,LAC,1626181,Powell,N. Powell,-110,259,28,Missed,1,,,0,h,MISS Powell 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,387
+22200617,523,PT08M35.00S,4,1610612742,DAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,Dinwiddie REBOUND (Off:0 Def:3),Rebound,Unknown,1,388
+22200617,524,PT08M30.00S,4,1610612742,DAL,202722,Bertans,D. Bertans,-227,89,24,Missed,1,,,0,v,MISS Bertans 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,389
+22200617,525,PT08M28.00S,4,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:4),Rebound,Unknown,1,390
+22200617,526,PT08M20.00S,4,1610612742,DAL,203493,Bullock,R. Bullock,0,0,0,,0,,,0,v,Bullock S.FOUL (P1.T2) (B.Kennedy),Foul,Shooting,1,391
+22200617,528,PT08M20.00S,4,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,95.0,80.0,175,h,Powell Free Throw 1 of 3 (21 PTS),Free Throw,Free Throw 1 of 3,1,392
+22200617,529,PT08M20.00S,4,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,96.0,80.0,176,h,Powell Free Throw 2 of 3 (22 PTS),Free Throw,Free Throw 2 of 3,1,393
+22200617,530,PT08M20.00S,4,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,,,0,h,MISS Powell Free Throw 3 of 3,Free Throw,Free Throw 3 of 3,1,394
+22200617,531,PT08M18.00S,4,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,,,0,v,Doncic REBOUND (Off:0 Def:10),Rebound,Unknown,1,395
+22200617,532,PT08M04.00S,4,1610612742,DAL,202722,Bertans,D. Bertans,-69,239,25,Missed,1,,,0,v,MISS Bertans 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,396
+22200617,533,PT08M01.00S,4,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:4 Def:4),Rebound,Unknown,1,397
+22200617,534,PT07M49.00S,4,1610612746,LAC,203496,Covington,R. Covington,42,95,10,Missed,1,,,0,h,MISS Covington 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,398
+22200617,535,PT07M44.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac REBOUND (Off:3 Def:3),Rebound,Unknown,1,399
+22200617,536,PT07M44.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,Made,1,98.0,80.0,178,h,Zubac Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,400
+22200617,537,PT07M28.00S,4,1610612742,DAL,1629029,Doncic,L. Doncic,22,79,8,Made,1,98.0,82.0,180,v,Doncic 8' Driving Floating Jump Shot (27 PTS) (Bertans 1 AST),Made Shot,Driving Floating Jump Shot,1,401
+22200617,539,PT07M16.00S,4,1610612746,LAC,1626181,Powell,N. Powell,-21,15,3,Made,1,100.0,82.0,182,h,Powell 3' Driving Reverse Layup (24 PTS),Made Shot,Driving Reverse Layup Shot,1,402
+22200617,541,PT07M02.00S,4,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,SUB: Leonard FOR Covington,Substitution,,0,403
+22200617,542,PT07M02.00S,4,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,v,SUB: Ntilikina FOR Hardaway Jr.,Substitution,,0,404
+22200617,543,PT07M02.00S,4,1610612742,DAL,203493,Bullock,R. Bullock,0,0,0,,0,,,0,v,SUB: Wood FOR Bullock,Substitution,,0,405
+22200617,544,PT07M02.00S,4,1610612742,DAL,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,SUB: Hardy FOR Bertans,Substitution,,0,406
+22200617,549,PT06M59.00S,4,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,,,0,v,Doncic Bad Pass Turnover (P3.T12),Turnover,Bad Pass,1,407
+22200617,549,PT06M59.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac STEAL (1 STL),,,1,408
+22200617,551,PT06M47.00S,4,1610612746,LAC,201587,Batum,N. Batum,227,27,0,Missed,1,,,0,h,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,1,409
+22200617,552,PT06M44.00S,4,1610612742,DAL,1626174,Wood,C. Wood,0,0,0,,0,,,0,v,Wood REBOUND (Off:1 Def:2),Rebound,Unknown,1,410
+22200617,553,PT06M26.00S,4,1610612742,DAL,1628373,Ntilikina,F. Ntilikina,110,232,26,Made,1,100.0,85.0,185,v,Ntilikina 26' 3PT Jump Shot (3 PTS) (Dinwiddie 5 AST),Made Shot,Jump Shot,1,411
+22200617,555,PT06M08.00S,4,1610612746,LAC,1626181,Powell,N. Powell,21,164,17,Missed,1,,,0,h,MISS Powell 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,412
+22200617,556,PT06M05.00S,4,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,,,0,v,Doncic REBOUND (Off:0 Def:11),Rebound,Unknown,1,413
+22200617,557,PT05M50.00S,4,1610612742,DAL,1626174,Wood,C. Wood,25,15,3,Missed,1,,,0,v,MISS Wood 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,414
+22200617,557,PT05M50.00S,4,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,Mann BLOCK (1 BLK),,,1,415
+22200617,559,PT05M47.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac REBOUND (Off:3 Def:4),Rebound,Unknown,1,416
+22200617,560,PT05M34.00S,4,1610612746,LAC,201587,Batum,N. Batum,-124,217,25,Missed,1,,,0,h,MISS Batum 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,417
+22200617,561,PT05M29.00S,4,1610612742,DAL,1628373,Ntilikina,F. Ntilikina,0,0,0,,0,,,0,v,Ntilikina REBOUND (Off:0 Def:1),Rebound,Unknown,1,418
+22200617,562,PT05M22.00S,4,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,Mann S.FOUL (P2.T2) (B.Kennedy),Foul,Shooting,1,419
+22200617,564,PT05M22.00S,4,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,100.0,86.0,186,v,Doncic Free Throw 1 of 2 (28 PTS),Free Throw,Free Throw 1 of 2,1,420
+22200617,565,PT05M22.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,SUB: Morris Sr. FOR Zubac,Substitution,,0,421
+22200617,567,PT05M22.00S,4,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,100.0,87.0,187,v,Doncic Free Throw 2 of 2 (29 PTS),Free Throw,Free Throw 2 of 2,1,422
+22200617,568,PT05M05.00S,4,1610612746,LAC,1629611,Mann,T. Mann,13,18,2,Missed,1,,,0,h,MISS Mann 2' Driving Layup,Missed Shot,Driving Layup Shot,1,423
+22200617,569,PT05M01.00S,4,1610612742,DAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,Dinwiddie REBOUND (Off:0 Def:4),Rebound,Unknown,1,424
+22200617,570,PT04M49.00S,4,1610612742,DAL,1629029,Doncic,L. Doncic,58,16,6,Made,1,100.0,89.0,189,v,Doncic 6' Floating Jump Shot (31 PTS),Made Shot,Floating Jump shot,1,425
+22200617,571,PT04M32.00S,4,1610612746,LAC,1629611,Mann,T. Mann,13,6,1,Made,1,102.0,89.0,191,h,Mann 1' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,426
+22200617,572,PT04M15.00S,4,1610612742,DAL,1629029,Doncic,L. Doncic,55,37,7,Made,1,102.0,91.0,193,v,Doncic 7' Turnaround Bank Hook Shot (33 PTS),Made Shot,Turnaround Bank Hook Shot,1,427
+22200617,573,PT03M47.00S,4,1610612746,LAC,1626181,Powell,N. Powell,-237,17,24,Missed,1,,,0,h,MISS Powell 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,428
+22200617,574,PT03M43.00S,4,1610612742,DAL,1630702,Hardy,J. Hardy,0,0,0,,0,,,0,v,Hardy REBOUND (Off:0 Def:2),Rebound,Unknown,1,429
+22200617,575,PT03M35.00S,4,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P3.T3) (J.Goble),Foul,Shooting,1,430
+22200617,577,PT03M35.00S,4,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,102.0,92.0,194,v,Doncic Free Throw 1 of 2 (34 PTS),Free Throw,Free Throw 1 of 2,1,431
+22200617,578,PT03M35.00S,4,1610612742,DAL,1630702,Hardy,J. Hardy,0,0,0,,0,,,0,v,SUB: Hardaway Jr. FOR Hardy,Substitution,,0,432
+22200617,580,PT03M35.00S,4,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,102.0,93.0,195,v,Doncic Free Throw 2 of 2 (35 PTS),Free Throw,Free Throw 2 of 2,1,433
+22200617,581,PT03M11.00S,4,1610612746,LAC,1629611,Mann,T. Mann,-2,53,5,Made,1,104.0,93.0,197,h,Mann 5' Driving Floating Jump Shot (12 PTS) (Leonard 4 AST),Made Shot,Driving Floating Jump Shot,1,434
+22200617,583,PT02M50.00S,4,1610612742,DAL,1629029,Doncic,L. Doncic,-191,187,27,Made,1,104.0,96.0,200,v,Doncic 27' 3PT Jump Shot (38 PTS),Made Shot,Jump Shot,1,435
+22200617,584,PT02M25.00S,4,1610612746,LAC,202694,Morris Sr.,M. Morris Sr.,-234,26,24,Missed,1,,,0,h,MISS Morris Sr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,436
+22200617,585,PT02M22.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard REBOUND (Off:1 Def:7),Rebound,Unknown,1,437
+22200617,586,PT02M17.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,224,122,26,Made,1,107.0,96.0,203,h,Leonard 26' 3PT Pullup Jump Shot (30 PTS),Made Shot,Pullup Jump shot,1,438
+22200617,587,PT02M05.00S,4,1610612742,DAL,1629029,Doncic,L. Doncic,-235,185,30,Made,1,107.0,99.0,206,v,Doncic 30' 3PT Step Back Jump Shot (41 PTS),Made Shot,Step Back Jump shot,1,439
+22200617,588,PT01M40.00S,4,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,v,Hardaway Jr. S.FOUL (P2.T3) (J.Butler),Foul,Shooting,1,440
+22200617,590,PT01M40.00S,4,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,441
+22200617,591,PT01M40.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,108.0,99.0,207,h,Leonard Free Throw 1 of 3 (31 PTS),Free Throw,Free Throw 1 of 3,1,442
+22200617,592,PT01M40.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,109.0,99.0,208,h,Leonard Free Throw 2 of 3 (32 PTS),Free Throw,Free Throw 2 of 3,1,443
+22200617,593,PT01M40.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,110.0,99.0,209,h,Leonard Free Throw 3 of 3 (33 PTS),Free Throw,Free Throw 3 of 3,1,444
+22200617,594,PT01M28.00S,4,1610612742,DAL,1629029,Doncic,L. Doncic,18,14,2,Missed,1,,,0,v,MISS Doncic 2' Driving Layup,Missed Shot,Driving Layup Shot,1,445
+22200617,595,PT01M26.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,Leonard REBOUND (Off:1 Def:8),Rebound,Unknown,1,446
+22200617,596,PT01M25.00S,4,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,v,Hardaway Jr. S.FOUL (P3.PN) (J.Goble),Foul,Shooting,1,447
+22200617,598,PT01M25.00S,4,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,111.0,99.0,210,h,Powell Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,1,448
+22200617,599,PT01M25.00S,4,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,112.0,99.0,211,h,Powell Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,1,449
+22200617,600,PT01M14.00S,4,1610612746,LAC,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,,,0,h,Morris Sr. S.FOUL (P4.T4) (J.Goble),Foul,Shooting,1,450
+22200617,602,PT01M14.00S,4,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,112.0,100.0,212,v,Doncic Free Throw 1 of 2 (42 PTS),Free Throw,Free Throw 1 of 2,1,451
+22200617,603,PT01M14.00S,4,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,112.0,101.0,213,v,Doncic Free Throw 2 of 2 (43 PTS),Free Throw,Free Throw 2 of 2,1,452
+22200617,604,PT00M56.30S,4,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,v,Hardaway Jr. S.FOUL (P4.PN) (J.Goble),Foul,Shooting,1,453
+22200617,606,PT00M56.30S,4,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,113.0,101.0,214,h,Powell Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,1,454
+22200617,607,PT00M56.30S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,,,0,h,SUB: Covington FOR Leonard,Substitution,,0,455
+22200617,608,PT00M56.30S,4,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,,,0,h,SUB: Coffey FOR Batum,Substitution,,0,456
+22200617,609,PT00M56.30S,4,1610612742,DAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,,,0,v,SUB: Hardy FOR Dinwiddie,Substitution,,0,457
+22200617,610,PT00M56.30S,4,1610612742,DAL,1626174,Wood,C. Wood,0,0,0,,0,,,0,v,SUB: Wright IV FOR Wood,Substitution,,0,458
+22200617,611,PT00M56.30S,4,1610612742,DAL,1629029,Doncic,L. Doncic,0,0,0,,0,,,0,v,SUB: Lawson FOR Doncic,Substitution,,0,459
+22200617,612,PT00M56.30S,4,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,,,0,v,SUB: Pinson FOR Hardaway Jr.,Substitution,,0,460
+22200617,619,PT00M56.30S,4,1610612746,LAC,1626181,Powell,N. Powell,0,0,0,,0,,,0,h,MISS Powell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,461
+22200617,620,PT00M54.70S,4,1610612742,DAL,1630639,Lawson,A. Lawson,0,0,0,,0,,,0,v,Lawson REBOUND (Off:0 Def:1),Rebound,Unknown,1,462
+22200617,621,PT00M41.00S,4,1610612742,DAL,1630702,Hardy,J. Hardy,-169,176,24,Missed,1,,,0,v,MISS Hardy 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,463
+22200617,622,PT00M37.90S,4,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:5),Rebound,Unknown,1,464
+22200617,623,PT00M16.90S,4,0,,1610612746,,,0,0,0,,0,,,0,h,CLIPPERS Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,1,465
+22200617,624,PT00M00.00S,4,0,,0,,,0,0,0,,0,113.0,101.0,214,,End of 4th Period (12:55 AM EST),period,end,1,466

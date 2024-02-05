@@ -1,0 +1,458 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+29701169,1,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (11:13 AM EST),period,start,0,1
+29701169,2,PT12M00.00S,1,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,,,0,h,Jump Ball D. Davis vs. Camby: Tip to D. Davis,Jump Ball,,0,2
+29701169,3,PT11M43.00S,1,1610612754,IND,397,Miller,R. Miller,8,36,4,Made,1,2.0,0.0,2,h,Miller 4' Driving Layup (2 PTS) (Jackson 1 AST),Made Shot,Driving Layup Shot,0,3
+29701169,4,PT11M26.00S,1,1610612761,TOR,948,Camby,M. Camby,119,-18,12,Missed,1,,,0,v,MISS Camby 12' Jump Shot,Missed Shot,Jump Shot,0,4
+29701169,5,PT11M24.00S,1,1610612761,TOR,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby REBOUND (Off:1 Def:0),Rebound,Unknown,0,5
+29701169,6,PT11M21.00S,1,1610612761,TOR,961,Wallace,J. Wallace,1,-1,0,Missed,1,,,0,v,MISS Wallace Layup,Missed Shot,Layup Shot,0,6
+29701169,7,PT11M20.00S,1,1610612761,TOR,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby REBOUND (Off:2 Def:0),Rebound,Unknown,0,7
+29701169,8,PT11M19.00S,1,1610612754,IND,213,Davis,A. Davis,0,0,0,,0,,,0,h,A. Davis S.FOUL (P1.T1),Foul,Shooting,0,8
+29701169,9,PT11M19.00S,1,1610612761,TOR,948,Camby,M. Camby,0,0,0,,0,2.0,1.0,3,v,Camby Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,9
+29701169,10,PT11M19.00S,1,1610612761,TOR,948,Camby,M. Camby,0,0,0,,0,2.0,2.0,4,v,Camby Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,10
+29701169,11,PT11M03.00S,1,1610612754,IND,905,Davis,D. Davis,-113,-21,11,Made,1,4.0,2.0,6,h,D. Davis 11' Jump Shot (2 PTS),Made Shot,Jump Shot,0,11
+29701169,12,PT10M40.00S,1,1610612761,TOR,57,Christie,D. Christie,136,61,15,Made,1,4.0,4.0,8,v,Christie 15' Jump Shot (2 PTS) (Wallace 1 AST),Made Shot,Jump Shot,0,12
+29701169,13,PT10M26.00S,1,1610612761,TOR,1503,McGrady,T. McGrady,0,0,0,,0,,,0,v,McGrady S.FOUL (P1.T1),Foul,Shooting,0,13
+29701169,14,PT10M26.00S,1,1610612754,IND,213,Davis,A. Davis,0,0,0,,0,,,0,h,MISS A. Davis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,14
+29701169,15,PT10M26.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,15
+29701169,16,PT10M26.00S,1,1610612754,IND,213,Davis,A. Davis,0,0,0,,0,5.0,4.0,9,h,A. Davis Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,16
+29701169,17,PT10M10.00S,1,1610612761,TOR,1503,McGrady,T. McGrady,169,18,17,Made,1,5.0,6.0,11,v,McGrady 17' Jump Shot (2 PTS),Made Shot,Jump Shot,0,17
+29701169,19,PT09M57.00S,1,1610612761,TOR,57,Christie,D. Christie,0,0,0,,0,,,0,v,Christie P.FOUL (P1.T2),Foul,Personal,0,18
+29701169,20,PT09M39.00S,1,1610612754,IND,904,Mullin,C. Mullin,-229,40,0,Missed,1,,,0,h,MISS Mullin 3PT Jump Shot,Missed Shot,Jump Shot,0,19
+29701169,21,PT09M38.00S,1,1610612754,IND,213,Davis,A. Davis,0,0,0,,0,,,0,h,A. Davis REBOUND (Off:1 Def:0),Rebound,Unknown,0,20
+29701169,22,PT09M28.00S,1,1610612754,IND,904,Mullin,C. Mullin,-235,55,24,Missed,1,,,0,h,MISS Mullin 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,21
+29701169,23,PT09M27.00S,1,1610612761,TOR,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby REBOUND (Off:2 Def:1),Rebound,Unknown,0,22
+29701169,24,PT09M17.00S,1,1610612761,TOR,1497,Billups,C. Billups,-113,222,25,Missed,1,,,0,v,MISS Billups 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,23
+29701169,25,PT09M16.00S,1,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,,,0,h,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,24
+29701169,26,PT09M10.00S,1,1610612754,IND,349,Jackson,M. Jackson,-8,16,2,Made,1,7.0,6.0,13,h,Jackson 2' Layup (2 PTS),Made Shot,Layup Shot,0,25
+29701169,27,PT08M54.00S,1,1610612761,TOR,961,Wallace,J. Wallace,-70,57,9,Made,1,7.0,8.0,15,v,Wallace 9' Jump Shot (2 PTS) (McGrady 1 AST),Made Shot,Jump Shot,0,26
+29701169,28,PT08M40.00S,1,1610612754,IND,213,Davis,A. Davis,0,0,0,,0,,,0,h,A. Davis Traveling Turnover (P1.T1),Turnover,Traveling,0,27
+29701169,29,PT08M32.00S,1,1610612761,TOR,961,Wallace,J. Wallace,0,-5,1,Made,1,7.0,10.0,17,v,Wallace 1' Layup (4 PTS) (McGrady 2 AST),Made Shot,Layup Shot,0,28
+29701169,30,PT08M18.00S,1,1610612754,IND,397,Miller,R. Miller,-207,31,21,Made,1,9.0,10.0,19,h,Miller 21' Jump Shot (4 PTS) (Jackson 2 AST),Made Shot,Jump Shot,0,29
+29701169,31,PT08M00.00S,1,1610612761,TOR,961,Wallace,J. Wallace,-141,76,16,Missed,1,,,0,v,MISS Wallace 16' Jump Shot,Missed Shot,Jump Shot,0,30
+29701169,32,PT07M59.00S,1,1610612754,IND,349,Jackson,M. Jackson,0,0,0,,0,,,0,h,Jackson REBOUND (Off:0 Def:1),Rebound,Unknown,0,31
+29701169,33,PT07M48.00S,1,1610612754,IND,905,Davis,D. Davis,0,57,6,Made,1,11.0,10.0,21,h,D. Davis 6' Jump Shot (4 PTS),Made Shot,Jump Shot,0,32
+29701169,34,PT07M30.00S,1,1610612761,TOR,57,Christie,D. Christie,3,-3,0,Made,1,11.0,12.0,23,v,Christie Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,33
+29701169,35,PT07M06.00S,1,1610612754,IND,397,Miller,R. Miller,194,-27,20,Made,1,13.0,12.0,25,h,Miller 20' Jump Shot (6 PTS),Made Shot,Jump Shot,0,34
+29701169,36,PT06M50.00S,1,1610612761,TOR,1503,McGrady,T. McGrady,-1,25,3,Made,1,13.0,14.0,27,v,McGrady 3' Layup (4 PTS) (Billups 1 AST),Made Shot,Layup Shot,0,35
+29701169,37,PT06M32.00S,1,1610612754,IND,349,Jackson,M. Jackson,81,188,20,Missed,1,,,0,h,MISS Jackson 20' Jump Shot,Missed Shot,Jump Shot,0,36
+29701169,38,PT06M30.00S,1,1610612761,TOR,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby REBOUND (Off:2 Def:2),Rebound,Unknown,0,37
+29701169,39,PT06M24.00S,1,1610612761,TOR,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby Traveling Turnover (P1.T1),Turnover,Traveling,0,38
+29701169,40,PT06M24.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,39
+29701169,42,PT06M16.00S,1,1610612754,IND,213,Davis,A. Davis,0,0,0,Made,1,15.0,14.0,29,h,A. Davis Slam Dunk (3 PTS) (Miller 1 AST),Made Shot,Slam Dunk Shot,0,40
+29701169,43,PT05M53.00S,1,1610612761,TOR,57,Christie,D. Christie,-160,12,16,Made,1,15.0,16.0,31,v,Christie 16' Jump Shot (6 PTS),Made Shot,Jump Shot,0,41
+29701169,44,PT05M34.00S,1,1610612754,IND,397,Miller,R. Miller,-235,-8,24,Missed,1,,,0,h,MISS Miller 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,42
+29701169,45,PT05M33.00S,1,1610612761,TOR,1497,Billups,C. Billups,0,0,0,,0,,,0,v,Billups REBOUND (Off:0 Def:1),Rebound,Unknown,0,43
+29701169,46,PT05M29.00S,1,1610612754,IND,904,Mullin,C. Mullin,0,0,0,,0,,,0,h,Mullin S.FOUL (P1.T2),Foul,Shooting,0,44
+29701169,47,PT05M29.00S,1,1610612761,TOR,1497,Billups,C. Billups,0,0,0,,0,15.0,17.0,32,v,Billups Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,45
+29701169,48,PT05M29.00S,1,1610612761,TOR,1497,Billups,C. Billups,0,0,0,,0,15.0,18.0,33,v,Billups Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,46
+29701169,49,PT05M16.00S,1,1610612761,TOR,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby S.FOUL (P1.T3),Foul,Shooting,0,47
+29701169,50,PT05M16.00S,1,1610612754,IND,213,Davis,A. Davis,0,0,0,,0,,,0,h,MISS A. Davis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,48
+29701169,51,PT05M16.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,49
+29701169,52,PT05M16.00S,1,1610612754,IND,213,Davis,A. Davis,0,0,0,,0,16.0,18.0,34,h,A. Davis Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,50
+29701169,53,PT05M06.00S,1,1610612761,TOR,57,Christie,D. Christie,5,-10,1,Made,1,16.0,20.0,36,v,Christie 1' Slam Dunk (8 PTS) (Billups 2 AST),Made Shot,Slam Dunk Shot,0,51
+29701169,54,PT04M52.00S,1,1610612754,IND,905,Davis,D. Davis,0,12,1,Made,1,18.0,20.0,38,h,D. Davis 1' Layup (6 PTS) (Jackson 3 AST),Made Shot,Layup Shot,0,52
+29701169,55,PT04M39.00S,1,1610612761,TOR,961,Wallace,J. Wallace,-1,10,1,Missed,1,,,0,v,MISS Wallace 1' Layup,Missed Shot,Layup Shot,0,53
+29701169,55,PT04M39.00S,1,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,,,0,h,D. Davis BLOCK (1 BLK),,,0,54
+29701169,56,PT04M37.00S,1,1610612754,IND,213,Davis,A. Davis,0,0,0,,0,,,0,h,A. Davis REBOUND (Off:1 Def:1),Rebound,Unknown,0,55
+29701169,57,PT04M31.00S,1,1610612754,IND,905,Davis,D. Davis,1,3,0,Made,1,20.0,20.0,40,h,D. Davis Layup (8 PTS) (Jackson 4 AST),Made Shot,Layup Shot,0,56
+29701169,58,PT04M17.00S,1,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,,,0,h,D. Davis S.FOUL (P1.T3),Foul,Shooting,0,57
+29701169,59,PT04M17.00S,1,1610612761,TOR,961,Wallace,J. Wallace,0,0,0,,0,20.0,21.0,41,v,Wallace Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,58
+29701169,60,PT04M17.00S,1,1610612754,IND,213,Davis,A. Davis,0,0,0,,0,,,0,h,SUB: Smits FOR A. Davis,Substitution,,0,59
+29701169,61,PT04M17.00S,1,1610612761,TOR,961,Wallace,J. Wallace,0,0,0,,0,20.0,22.0,42,v,Wallace Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,60
+29701169,62,PT04M09.00S,1,1610612761,TOR,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby S.FOUL (P2.T4),Foul,Shooting,0,61
+29701169,63,PT04M09.00S,1,1610612754,IND,22,Smits,R. Smits,0,0,0,,0,21.0,22.0,43,h,Smits Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,62
+29701169,64,PT04M09.00S,1,1610612754,IND,22,Smits,R. Smits,0,0,0,,0,22.0,22.0,44,h,Smits Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,63
+29701169,65,PT04M00.00S,1,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,,,0,h,Miller P.FOUL (P1.T4),Foul,Personal,0,64
+29701169,66,PT03M52.00S,1,1610612761,TOR,948,Camby,M. Camby,1,61,6,Missed,1,,,0,v,MISS Camby 6' Jump Shot,Missed Shot,Jump Shot,0,65
+29701169,67,PT03M51.00S,1,1610612754,IND,904,Mullin,C. Mullin,0,0,0,,0,,,0,h,Mullin REBOUND (Off:0 Def:1),Rebound,Unknown,0,66
+29701169,68,PT03M43.00S,1,1610612754,IND,905,Davis,D. Davis,5,16,2,Missed,1,,,0,h,MISS D. Davis 2' Layup,Missed Shot,Layup Shot,0,67
+29701169,68,PT03M43.00S,1,1610612761,TOR,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby BLOCK (1 BLK),,,0,68
+29701169,69,PT03M40.00S,1,1610612754,IND,22,Smits,R. Smits,0,0,0,,0,,,0,h,Smits REBOUND (Off:1 Def:0),Rebound,Unknown,0,69
+29701169,70,PT03M40.00S,1,1610612754,IND,22,Smits,R. Smits,-57,18,6,Missed,1,,,0,h,MISS Smits 6' Jump Shot,Missed Shot,Jump Shot,0,70
+29701169,70,PT03M40.00S,1,1610612761,TOR,961,Wallace,J. Wallace,0,0,0,,0,,,0,v,Wallace BLOCK (1 BLK),,,0,71
+29701169,71,PT03M38.00S,1,1610612761,TOR,1503,McGrady,T. McGrady,0,0,0,,0,,,0,v,McGrady REBOUND (Off:0 Def:1),Rebound,Unknown,0,72
+29701169,72,PT03M34.00S,1,1610612761,TOR,948,Camby,M. Camby,76,-16,8,Made,1,22.0,24.0,46,v,Camby 8' Jump Shot (4 PTS) (McGrady 3 AST),Made Shot,Jump Shot,0,73
+29701169,73,PT03M16.00S,1,1610612754,IND,905,Davis,D. Davis,0,0,0,Made,1,24.0,24.0,48,h,D. Davis Slam Dunk (10 PTS) (Jackson 5 AST),Made Shot,Slam Dunk Shot,0,74
+29701169,74,PT02M54.00S,1,1610612761,TOR,948,Camby,M. Camby,-36,72,8,Made,1,24.0,26.0,50,v,Camby 8' Jump Shot (6 PTS) (Billups 3 AST),Made Shot,Jump Shot,0,75
+29701169,75,PT02M36.00S,1,1610612754,IND,22,Smits,R. Smits,-111,-23,11,Made,1,26.0,26.0,52,h,Smits 11' Jump Shot (4 PTS) (Mullin 1 AST),Made Shot,Jump Shot,0,76
+29701169,76,PT02M21.00S,1,1610612761,TOR,57,Christie,D. Christie,-132,-21,13,Made,1,26.0,28.0,54,v,Christie 13' Jump Shot (10 PTS),Made Shot,Jump Shot,0,77
+29701169,77,PT02M21.00S,1,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,,,0,h,Miller S.FOUL (P2.PN),Foul,Shooting,0,78
+29701169,78,PT02M21.00S,1,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,79
+29701169,80,PT02M21.00S,1,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,,,0,h,SUB: Rose FOR Miller,Substitution,,0,80
+29701169,81,PT02M21.00S,1,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,,,0,h,SUB: A. Davis FOR D. Davis,Substitution,,0,81
+29701169,82,PT02M21.00S,1,1610612761,TOR,961,Wallace,J. Wallace,0,0,0,,0,,,0,v,SUB: Trent FOR Wallace,Substitution,,0,82
+29701169,83,PT02M21.00S,1,1610612761,TOR,57,Christie,D. Christie,0,0,0,,0,26.0,29.0,55,v,Christie Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,83
+29701169,84,PT02M08.00S,1,1610612754,IND,904,Mullin,C. Mullin,166,38,17,Missed,1,,,0,h,MISS Mullin 17' Jump Shot,Missed Shot,Jump Shot,0,84
+29701169,85,PT02M07.00S,1,1610612761,TOR,718,Trent,G. Trent,0,0,0,,0,,,0,v,Trent REBOUND (Off:0 Def:1),Rebound,Unknown,0,85
+29701169,86,PT01M52.00S,1,1610612754,IND,22,Smits,R. Smits,0,0,0,,0,,,0,h,Smits P.FOUL (P1.PN),Foul,Personal,0,86
+29701169,87,PT01M52.00S,1,1610612761,TOR,57,Christie,D. Christie,0,0,0,,0,26.0,30.0,56,v,Christie Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,87
+29701169,88,PT01M52.00S,1,1610612761,TOR,57,Christie,D. Christie,0,0,0,,0,,,0,v,MISS Christie Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,88
+29701169,89,PT01M51.00S,1,1610612754,IND,22,Smits,R. Smits,0,0,0,,0,,,0,h,Smits REBOUND (Off:1 Def:1),Rebound,Unknown,0,89
+29701169,90,PT01M43.00S,1,1610612761,TOR,718,Trent,G. Trent,0,0,0,,0,,,0,v,Trent P.FOUL (P1.PN),Foul,Personal,0,90
+29701169,91,PT01M43.00S,1,1610612754,IND,22,Smits,R. Smits,0,0,0,,0,27.0,30.0,57,h,Smits Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,91
+29701169,92,PT01M43.00S,1,1610612754,IND,22,Smits,R. Smits,0,0,0,,0,28.0,30.0,58,h,Smits Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,92
+29701169,93,PT01M27.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Violation: Def. Goaltending Violation,Violation,Defensive Goaltending,0,93
+29701169,94,PT01M27.00S,1,1610612754,IND,904,Mullin,C. Mullin,0,0,0,,0,,,0,h,SUB: McKey FOR Mullin,Substitution,,0,94
+29701169,95,PT01M24.00S,1,1610612761,TOR,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby Traveling Turnover (P2.T2),Turnover,Traveling,0,95
+29701169,96,PT01M11.00S,1,1610612754,IND,22,Smits,R. Smits,-115,25,12,Missed,1,,,0,h,MISS Smits 12' Jump Shot,Missed Shot,Jump Shot,0,96
+29701169,97,PT01M10.00S,1,1610612761,TOR,57,Christie,D. Christie,0,0,0,,0,,,0,v,Christie REBOUND (Off:0 Def:1),Rebound,Unknown,0,97
+29701169,98,PT01M04.00S,1,1610612761,TOR,1503,McGrady,T. McGrady,59,51,8,Missed,1,,,0,v,MISS McGrady 8' Jump Shot,Missed Shot,Jump Shot,0,98
+29701169,99,PT01M03.00S,1,1610612754,IND,22,Smits,R. Smits,0,0,0,,0,,,0,h,Smits REBOUND (Off:1 Def:2),Rebound,Unknown,0,99
+29701169,100,PT00M48.70S,1,1610612754,IND,213,Davis,A. Davis,-158,-21,16,Missed,1,,,0,h,MISS A. Davis 16' Jump Shot,Missed Shot,Jump Shot,0,100
+29701169,101,PT00M47.40S,1,1610612761,TOR,718,Trent,G. Trent,0,0,0,,0,,,0,v,Trent REBOUND (Off:0 Def:2),Rebound,Unknown,0,101
+29701169,102,PT00M42.50S,1,1610612761,TOR,1497,Billups,C. Billups,-1,8,1,Made,1,28.0,32.0,60,v,Billups 1' Layup (4 PTS),Made Shot,Layup Shot,0,102
+29701169,103,PT00M23.00S,1,1610612754,IND,22,Smits,R. Smits,-106,14,11,Missed,1,,,0,h,MISS Smits 11' Jump Shot,Missed Shot,Jump Shot,0,103
+29701169,105,PT00M21.50S,1,1610612754,IND,213,Davis,A. Davis,0,0,0,,0,,,0,h,A. Davis REBOUND (Off:2 Def:1),Rebound,Unknown,0,104
+29701169,104,PT00M21.50S,1,1610612754,IND,213,Davis,A. Davis,-1,3,0,Made,1,30.0,32.0,62,h,A. Davis Tip Shot (6 PTS),Made Shot,Tip Shot,0,105
+29701169,106,PT00M01.20S,1,1610612761,TOR,57,Christie,D. Christie,-8,209,21,Missed,1,,,0,v,MISS Christie 21' Jump Shot,Missed Shot,Jump Shot,0,106
+29701169,107,PT00M00.10S,1,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,0,107
+29701169,108,PT00M00.00S,1,0,,0,,,0,0,0,,0,30.0,32.0,62,,End of 1st Period (11:36 AM EST),period,end,0,108
+29701169,110,PT12M00.00S,2,0,,0,,,0,0,0,,0,30.0,32.0,62,,Start of 2nd Period (11:39 AM EST),period,start,0,109
+29701169,111,PT11M44.00S,2,1610612761,TOR,948,Camby,M. Camby,160,-27,16,Missed,1,,,0,v,MISS Camby 16' Jump Shot,Missed Shot,Jump Shot,0,110
+29701169,112,PT11M43.00S,2,1610612754,IND,365,McKey,D. McKey,0,0,0,,0,,,0,h,McKey REBOUND (Off:0 Def:1),Rebound,Unknown,0,111
+29701169,113,PT11M20.00S,2,1610612754,IND,696,Best,T. Best,231,-16,0,Missed,1,,,0,h,MISS Best 3PT Jump Shot,Missed Shot,Jump Shot,0,112
+29701169,114,PT11M18.00S,2,1610612761,TOR,718,Trent,G. Trent,0,0,0,,0,,,0,v,Trent REBOUND (Off:0 Def:3),Rebound,Unknown,0,113
+29701169,115,PT11M12.00S,2,1610612754,IND,147,Rose,J. Rose,0,0,0,,0,,,0,h,Rose S.FOUL (P1.T1),Foul,Shooting,0,114
+29701169,116,PT11M12.00S,2,1610612761,TOR,948,Camby,M. Camby,0,0,0,,0,30.0,33.0,63,v,Camby Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,115
+29701169,117,PT11M12.00S,2,1610612761,TOR,948,Camby,M. Camby,0,0,0,,0,30.0,34.0,64,v,Camby Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,116
+29701169,118,PT11M03.00S,2,1610612754,IND,696,Best,T. Best,44,188,19,Made,1,32.0,34.0,66,h,Best 19' Jump Shot (2 PTS),Made Shot,Jump Shot,0,117
+29701169,119,PT10M44.00S,2,1610612761,TOR,948,Camby,M. Camby,5,-3,1,Made,1,32.0,36.0,68,v,Camby 1' Layup (10 PTS),Made Shot,Layup Shot,0,118
+29701169,120,PT10M44.00S,2,1610612754,IND,22,Smits,R. Smits,0,0,0,,0,,,0,h,Smits S.FOUL (P2.T2),Foul,Shooting,0,119
+29701169,121,PT10M44.00S,2,1610612761,TOR,948,Camby,M. Camby,0,0,0,,0,32.0,37.0,69,v,Camby Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,120
+29701169,122,PT10M32.00S,2,1610612761,TOR,1497,Billups,C. Billups,0,0,0,,0,,,0,v,Billups P.FOUL (P1.T1),Foul,Personal,0,121
+29701169,123,PT10M23.00S,2,1610612754,IND,147,Rose,J. Rose,48,72,9,Made,1,34.0,37.0,71,h,Rose 9' Jump Shot (2 PTS),Made Shot,Jump Shot,0,122
+29701169,124,PT10M06.00S,2,1610612761,TOR,57,Christie,D. Christie,-31,42,5,Missed,1,,,0,v,MISS Christie 5' Jump Shot,Missed Shot,Jump Shot,0,123
+29701169,125,PT10M05.00S,2,1610612754,IND,147,Rose,J. Rose,0,0,0,,0,,,0,h,Rose REBOUND (Off:0 Def:1),Rebound,Unknown,0,124
+29701169,126,PT09M48.00S,2,1610612754,IND,22,Smits,R. Smits,0,0,0,,0,,,0,h,Smits Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,125
+29701169,126,PT09M48.00S,2,1610612761,TOR,718,Trent,G. Trent,0,0,0,,0,,,0,v,Trent STEAL (1 STL),,,0,126
+29701169,127,PT09M43.00S,2,1610612761,TOR,57,Christie,D. Christie,-147,205,25,Missed,1,,,0,v,MISS Christie 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,127
+29701169,128,PT09M42.00S,2,1610612754,IND,213,Davis,A. Davis,0,0,0,,0,,,0,h,A. Davis REBOUND (Off:2 Def:2),Rebound,Unknown,0,128
+29701169,129,PT09M36.00S,2,1610612761,TOR,1497,Billups,C. Billups,0,0,0,,0,,,0,v,Billups S.FOUL (P2.T2),Foul,Shooting,0,129
+29701169,130,PT09M36.00S,2,1610612761,TOR,718,Trent,G. Trent,0,0,0,,0,,,0,v,SUB: Slater FOR Trent,Substitution,,0,130
+29701169,131,PT09M36.00S,2,1610612754,IND,147,Rose,J. Rose,0,0,0,,0,35.0,37.0,72,h,Rose Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,131
+29701169,132,PT09M36.00S,2,1610612761,TOR,1497,Billups,C. Billups,0,0,0,,0,,,0,v,SUB: Brown FOR Billups,Substitution,,0,132
+29701169,133,PT09M36.00S,2,1610612754,IND,213,Davis,A. Davis,0,0,0,,0,,,0,h,SUB: D. Davis FOR A. Davis,Substitution,,0,133
+29701169,134,PT09M36.00S,2,1610612754,IND,147,Rose,J. Rose,0,0,0,,0,36.0,37.0,73,h,Rose Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,134
+29701169,135,PT09M13.00S,2,1610612761,TOR,57,Christie,D. Christie,0,0,0,,0,,,0,v,Christie Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,135
+29701169,135,PT09M13.00S,2,1610612754,IND,147,Rose,J. Rose,0,0,0,,0,,,0,h,Rose STEAL (1 STL),,,0,136
+29701169,136,PT09M09.00S,2,1610612754,IND,147,Rose,J. Rose,-31,18,4,Made,1,38.0,37.0,75,h,Rose 4' Jump Shot (6 PTS),Made Shot,Jump Shot,0,137
+29701169,137,PT08M57.00S,2,1610612761,TOR,948,Camby,M. Camby,-158,98,19,Made,1,38.0,39.0,77,v,Camby 19' Jump Shot (13 PTS) (Brown 1 AST),Made Shot,Jump Shot,0,138
+29701169,138,PT08M39.00S,2,1610612754,IND,147,Rose,J. Rose,40,158,16,Made,1,40.0,39.0,79,h,Rose 16' Jump Shot (8 PTS) (Best 1 AST),Made Shot,Jump Shot,0,139
+29701169,139,PT08M26.00S,2,1610612754,IND,696,Best,T. Best,0,0,0,,0,,,0,h,Best P.FOUL (P1.T3),Foul,Personal,0,140
+29701169,140,PT08M13.00S,2,1610612761,TOR,948,Camby,M. Camby,66,81,10,Missed,1,,,0,v,MISS Camby 10' Jump Shot,Missed Shot,Jump Shot,0,141
+29701169,141,PT08M12.00S,2,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,,,0,h,D. Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,142
+29701169,142,PT07M59.00S,2,1610612754,IND,22,Smits,R. Smits,76,14,8,Missed,1,,,0,h,MISS Smits 8' Jump Shot,Missed Shot,Jump Shot,0,143
+29701169,143,PT07M58.00S,2,1610612754,IND,365,McKey,D. McKey,0,0,0,,0,,,0,h,McKey REBOUND (Off:1 Def:1),Rebound,Unknown,0,144
+29701169,144,PT07M45.00S,2,1610612761,TOR,1073,Slater,R. Slater,0,0,0,,0,,,0,v,Slater P.FOUL (P1.T3),Foul,Personal,0,145
+29701169,145,PT07M45.00S,2,1610612761,TOR,57,Christie,D. Christie,0,0,0,,0,,,0,v,SUB: McGrady FOR Christie,Substitution,,0,146
+29701169,146,PT07M38.00S,2,1610612754,IND,147,Rose,J. Rose,0,0,0,,0,,,0,h,Rose Traveling Turnover (P1.T3),Turnover,Traveling,0,147
+29701169,147,PT07M19.00S,2,1610612761,TOR,244,Brown,D. Brown,74,53,9,Missed,1,,,0,v,MISS Brown 9' Jump Shot,Missed Shot,Jump Shot,0,148
+29701169,148,PT07M18.00S,2,1610612754,IND,365,McKey,D. McKey,0,0,0,,0,,,0,h,McKey REBOUND (Off:1 Def:2),Rebound,Unknown,0,149
+29701169,149,PT07M15.00S,2,1610612761,TOR,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby S.FOUL (P3.T4),Foul,Shooting,0,150
+29701169,150,PT07M15.00S,2,1610612754,IND,147,Rose,J. Rose,0,0,0,,0,41.0,39.0,80,h,Rose Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,151
+29701169,151,PT07M15.00S,2,1610612761,TOR,948,Camby,M. Camby,0,0,0,,0,,,0,v,SUB: Trent FOR Camby,Substitution,,0,152
+29701169,152,PT07M15.00S,2,1610612754,IND,147,Rose,J. Rose,0,0,0,,0,42.0,39.0,81,h,Rose Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,153
+29701169,153,PT06M55.00S,2,1610612761,TOR,961,Wallace,J. Wallace,-36,10,4,Missed,1,,,0,v,MISS Wallace 4' Jump Shot,Missed Shot,Jump Shot,0,154
+29701169,154,PT06M54.00S,2,1610612754,IND,22,Smits,R. Smits,0,0,0,,0,,,0,h,Smits REBOUND (Off:1 Def:3),Rebound,Unknown,0,155
+29701169,155,PT06M49.00S,2,1610612754,IND,365,McKey,D. McKey,-201,29,20,Missed,1,,,0,h,MISS McKey 20' Jump Shot,Missed Shot,Jump Shot,0,156
+29701169,156,PT06M48.00S,2,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,,,0,h,D. Davis REBOUND (Off:1 Def:1),Rebound,Unknown,0,157
+29701169,157,PT06M46.00S,2,1610612754,IND,905,Davis,D. Davis,0,0,0,Made,1,44.0,39.0,83,h,D. Davis Dunk (12 PTS),Made Shot,Dunk Shot,0,158
+29701169,158,PT06M28.00S,2,1610612754,IND,696,Best,T. Best,0,0,0,,0,,,0,h,Best S.FOUL (P2.T4),Foul,Shooting,0,159
+29701169,159,PT06M28.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,160
+29701169,161,PT06M28.00S,2,1610612761,TOR,244,Brown,D. Brown,0,0,0,,0,44.0,40.0,84,v,Brown Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,161
+29701169,162,PT06M28.00S,2,1610612761,TOR,244,Brown,D. Brown,0,0,0,,0,44.0,41.0,85,v,Brown Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,162
+29701169,163,PT06M11.00S,2,1610612754,IND,147,Rose,J. Rose,0,0,0,,0,,,0,h,Rose Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,163
+29701169,163,PT06M11.00S,2,1610612761,TOR,1503,McGrady,T. McGrady,0,0,0,,0,,,0,v,McGrady STEAL (1 STL),,,0,164
+29701169,164,PT06M10.00S,2,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,,,0,h,D. Davis L.B.FOUL (P2.PN),Foul,Loose Ball,0,165
+29701169,165,PT06M10.00S,2,1610612761,TOR,1503,McGrady,T. McGrady,0,0,0,,0,44.0,42.0,86,v,McGrady Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,166
+29701169,166,PT06M10.00S,2,1610612761,TOR,1503,McGrady,T. McGrady,0,0,0,,0,44.0,43.0,87,v,McGrady Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,167
+29701169,167,PT06M02.00S,2,1610612754,IND,696,Best,T. Best,-128,158,20,Made,1,46.0,43.0,89,h,Best 20' Jump Shot (4 PTS),Made Shot,Jump Shot,0,168
+29701169,168,PT05M40.00S,2,1610612761,TOR,718,Trent,G. Trent,0,0,0,,0,,,0,v,Trent Traveling Turnover (P1.T4),Turnover,Traveling,0,169
+29701169,169,PT05M23.00S,2,1610612754,IND,365,McKey,D. McKey,151,106,18,Made,1,48.0,43.0,91,h,McKey 18' Jump Shot (2 PTS) (D. Davis 1 AST),Made Shot,Jump Shot,0,170
+29701169,170,PT05M05.00S,2,1610612761,TOR,718,Trent,G. Trent,8,14,2,Missed,1,,,0,v,MISS Trent 2' Layup,Missed Shot,Layup Shot,0,171
+29701169,171,PT05M04.00S,2,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,,,0,h,D. Davis REBOUND (Off:1 Def:2),Rebound,Unknown,0,172
+29701169,172,PT04M43.00S,2,1610612761,TOR,961,Wallace,J. Wallace,0,0,0,,0,,,0,v,Wallace S.FOUL (P1.PN),Foul,Shooting,0,173
+29701169,173,PT04M43.00S,2,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,49.0,43.0,92,h,D. Davis Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,174
+29701169,174,PT04M43.00S,2,1610612754,IND,22,Smits,R. Smits,0,0,0,,0,,,0,h,SUB: A. Davis FOR Smits,Substitution,,0,175
+29701169,175,PT04M43.00S,2,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,50.0,43.0,93,h,D. Davis Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,176
+29701169,176,PT04M33.00S,2,1610612761,TOR,244,Brown,D. Brown,12,201,20,Made,1,50.0,45.0,95,v,Brown 20' Jump Shot (4 PTS),Made Shot,Jump Shot,0,177
+29701169,177,PT04M16.00S,2,1610612754,IND,147,Rose,J. Rose,154,109,19,Missed,1,,,0,h,MISS Rose 19' Jump Shot,Missed Shot,Jump Shot,0,178
+29701169,178,PT04M14.00S,2,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,,,0,h,D. Davis REBOUND (Off:2 Def:2),Rebound,Unknown,0,179
+29701169,179,PT04M08.00S,2,1610612754,IND,696,Best,T. Best,-23,227,23,Missed,1,,,0,h,MISS Best 23' Jump Shot,Missed Shot,Jump Shot,0,180
+29701169,180,PT04M06.00S,2,1610612761,TOR,718,Trent,G. Trent,0,0,0,,0,,,0,v,Trent REBOUND (Off:0 Def:4),Rebound,Unknown,0,181
+29701169,181,PT03M58.00S,2,1610612761,TOR,961,Wallace,J. Wallace,111,87,14,Missed,1,,,0,v,MISS Wallace 14' Jump Shot,Missed Shot,Jump Shot,0,182
+29701169,182,PT03M57.00S,2,1610612754,IND,213,Davis,A. Davis,0,0,0,,0,,,0,h,A. Davis REBOUND (Off:2 Def:3),Rebound,Unknown,0,183
+29701169,183,PT03M51.00S,2,1610612754,IND,147,Rose,J. Rose,3,18,2,Made,1,52.0,45.0,97,h,Rose 2' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,0,184
+29701169,184,PT03M35.00S,2,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,185
+29701169,186,PT03M35.00S,2,1610612761,TOR,718,Trent,G. Trent,0,0,0,,0,,,0,v,SUB: Camby FOR Trent,Substitution,,0,186
+29701169,187,PT03M35.00S,2,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,,,0,h,SUB: Mullin FOR D. Davis,Substitution,,0,187
+29701169,188,PT03M26.00S,2,1610612754,IND,904,Mullin,C. Mullin,0,0,0,,0,,,0,h,Mullin P.FOUL (P2.PN),Foul,Personal,0,188
+29701169,189,PT03M26.00S,2,1610612761,TOR,961,Wallace,J. Wallace,0,0,0,,0,52.0,46.0,98,v,Wallace Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,189
+29701169,190,PT03M26.00S,2,1610612761,TOR,961,Wallace,J. Wallace,0,0,0,,0,52.0,47.0,99,v,Wallace Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,190
+29701169,191,PT03M08.00S,2,1610612754,IND,147,Rose,J. Rose,27,151,15,Made,1,54.0,47.0,101,h,Rose 15' Jump Shot (14 PTS) (Best 2 AST),Made Shot,Jump Shot,0,191
+29701169,192,PT02M50.00S,2,1610612761,TOR,961,Wallace,J. Wallace,0,0,0,,0,,,0,v,Wallace Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,192
+29701169,192,PT02M50.00S,2,1610612754,IND,365,McKey,D. McKey,0,0,0,,0,,,0,h,McKey STEAL (1 STL),,,0,193
+29701169,193,PT02M30.00S,2,1610612754,IND,365,McKey,D. McKey,-115,-18,12,Missed,1,,,0,h,MISS McKey 12' Jump Shot,Missed Shot,Jump Shot,0,194
+29701169,194,PT02M29.00S,2,1610612761,TOR,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby REBOUND (Off:2 Def:3),Rebound,Unknown,0,195
+29701169,195,PT02M23.00S,2,1610612761,TOR,961,Wallace,J. Wallace,0,0,0,,0,,,0,v,Wallace Out Of Bounds Turnover (P2.T6),Turnover,Out Of Bounds,0,196
+29701169,196,PT02M07.00S,2,1610612754,IND,213,Davis,A. Davis,-70,46,8,Missed,1,,,0,h,MISS A. Davis 8' Jump Shot,Missed Shot,Jump Shot,0,197
+29701169,196,PT02M07.00S,2,1610612761,TOR,961,Wallace,J. Wallace,0,0,0,,0,,,0,v,Wallace BLOCK (2 BLK),,,0,198
+29701169,197,PT02M06.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,199
+29701169,198,PT02M03.00S,2,1610612754,IND,147,Rose,J. Rose,111,164,20,Missed,1,,,0,h,MISS Rose 20' Jump Shot,Missed Shot,Jump Shot,0,200
+29701169,199,PT02M02.00S,2,1610612761,TOR,244,Brown,D. Brown,0,0,0,,0,,,0,v,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,201
+29701169,200,PT01M54.00S,2,1610612754,IND,365,McKey,D. McKey,0,0,0,,0,,,0,h,McKey S.FOUL (P1.PN),Foul,Shooting,0,202
+29701169,201,PT01M54.00S,2,1610612761,TOR,948,Camby,M. Camby,0,0,0,,0,,,0,v,MISS Camby Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,203
+29701169,202,PT01M54.00S,2,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,0,204
+29701169,204,PT01M54.00S,2,1610612761,TOR,1073,Slater,R. Slater,0,0,0,,0,,,0,v,SUB: Christie FOR Slater,Substitution,,0,205
+29701169,205,PT01M54.00S,2,1610612761,TOR,948,Camby,M. Camby,0,0,0,,0,,,0,v,MISS Camby Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,206
+29701169,206,PT01M53.00S,2,1610612761,TOR,961,Wallace,J. Wallace,0,0,0,,0,,,0,v,Wallace REBOUND (Off:1 Def:0),Rebound,Unknown,0,207
+29701169,207,PT01M50.00S,2,1610612754,IND,213,Davis,A. Davis,0,0,0,,0,,,0,h,A. Davis S.FOUL (P2.PN),Foul,Shooting,0,208
+29701169,208,PT01M50.00S,2,1610612761,TOR,961,Wallace,J. Wallace,0,0,0,,0,54.0,48.0,102,v,Wallace Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,209
+29701169,209,PT01M50.00S,2,1610612761,TOR,961,Wallace,J. Wallace,0,0,0,,0,54.0,49.0,103,v,Wallace Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,210
+29701169,210,PT01M38.00S,2,1610612754,IND,213,Davis,A. Davis,0,0,0,Made,1,56.0,49.0,105,h,A. Davis Dunk (8 PTS) (Rose 1 AST),Made Shot,Dunk Shot,0,211
+29701169,211,PT01M17.00S,2,1610612761,TOR,244,Brown,D. Brown,201,-23,20,Missed,1,,,0,v,MISS Brown 20' Jump Shot,Missed Shot,Jump Shot,0,212
+29701169,212,PT01M16.00S,2,1610612754,IND,213,Davis,A. Davis,0,0,0,,0,,,0,h,A. Davis REBOUND (Off:2 Def:4),Rebound,Unknown,0,213
+29701169,213,PT01M07.00S,2,1610612754,IND,696,Best,T. Best,-121,218,25,Made,1,59.0,49.0,108,h,Best 25' 3PT Jump Shot (7 PTS) (Rose 2 AST),Made Shot,Jump Shot,0,214
+29701169,214,PT00M56.60S,2,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Timeout: Short (Reg.2 Short 1),Timeout,Short,0,215
+29701169,215,PT00M48.30S,2,1610612754,IND,147,Rose,J. Rose,0,0,0,,0,,,0,h,Rose S.FOUL (P2.PN),Foul,Shooting,0,216
+29701169,216,PT00M48.30S,2,1610612761,TOR,57,Christie,D. Christie,0,0,0,,0,,,0,v,MISS Christie Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,217
+29701169,217,PT00M48.30S,2,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,0,218
+29701169,218,PT00M48.30S,2,1610612761,TOR,57,Christie,D. Christie,0,0,0,,0,59.0,50.0,109,v,Christie Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,219
+29701169,219,PT00M34.00S,2,1610612754,IND,696,Best,T. Best,0,5,1,Missed,1,,,0,h,MISS Best 1' Layup,Missed Shot,Layup Shot,0,220
+29701169,221,PT00M32.70S,2,1610612754,IND,365,McKey,D. McKey,0,0,0,,0,,,0,h,McKey REBOUND (Off:2 Def:2),Rebound,Unknown,0,221
+29701169,220,PT00M32.70S,2,1610612754,IND,365,McKey,D. McKey,0,0,0,Missed,1,,,0,h,MISS McKey Tip Shot,Missed Shot,Tip Shot,0,222
+29701169,222,PT00M30.70S,2,1610612761,TOR,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby REBOUND (Off:2 Def:4),Rebound,Unknown,0,223
+29701169,223,PT00M27.70S,2,1610612761,TOR,57,Christie,D. Christie,194,-8,19,Made,1,59.0,52.0,111,v,Christie 19' Jump Shot (15 PTS),Made Shot,Jump Shot,0,224
+29701169,224,PT00M05.20S,2,1610612754,IND,365,McKey,D. McKey,154,-14,15,Made,1,61.0,52.0,113,h,McKey 15' Jump Shot (4 PTS) (Mullin 2 AST),Made Shot,Jump Shot,0,225
+29701169,225,PT00M00.60S,2,1610612761,TOR,244,Brown,D. Brown,214,106,24,Made,1,61.0,55.0,116,v,Brown 24' 3PT Jump Shot (7 PTS),Made Shot,Jump Shot,0,226
+29701169,226,PT00M00.60S,2,1610612754,IND,365,McKey,D. McKey,0,0,0,,0,,,0,h,McKey Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,227
+29701169,227,PT00M00.10S,2,1610612761,TOR,57,Christie,D. Christie,-205,-23,21,Made,1,61.0,57.0,118,v,Christie 21' Jump Shot (17 PTS) (Camby 1 AST),Made Shot,Jump Shot,0,228
+29701169,228,PT00M00.00S,2,0,,0,,,0,0,0,,0,61.0,57.0,118,,End of 2nd Period (12:06 PM EST),period,end,0,229
+29701169,230,PT12M00.00S,3,0,,0,,,0,0,0,,0,61.0,57.0,118,,Start of 3rd Period (12:22 PM EST),period,start,0,230
+29701169,231,PT11M51.00S,3,1610612761,TOR,57,Christie,D. Christie,0,0,0,,0,,,0,v,Christie Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,231
+29701169,231,PT11M51.00S,3,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,,,0,h,D. Davis STEAL (1 STL),,,0,232
+29701169,232,PT11M45.00S,3,1610612754,IND,397,Miller,R. Miller,-203,-23,20,Made,1,63.0,57.0,120,h,Miller 20' Jump Shot (8 PTS) (Jackson 6 AST),Made Shot,Jump Shot,0,233
+29701169,233,PT11M21.00S,3,1610612761,TOR,1497,Billups,C. Billups,-182,169,25,Missed,1,,,0,v,MISS Billups 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,234
+29701169,234,PT11M19.00S,3,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,,,0,h,D. Davis REBOUND (Off:2 Def:3),Rebound,Unknown,0,235
+29701169,235,PT11M01.00S,3,1610612754,IND,905,Davis,D. Davis,61,63,9,Made,1,65.0,57.0,122,h,D. Davis 9' Jump Shot (16 PTS),Made Shot,Jump Shot,0,236
+29701169,236,PT10M41.00S,3,1610612761,TOR,961,Wallace,J. Wallace,-68,42,8,Made,1,65.0,59.0,124,v,Wallace 8' Jump Shot (12 PTS),Made Shot,Jump Shot,0,237
+29701169,237,PT10M20.00S,3,1610612754,IND,397,Miller,R. Miller,35,76,8,Missed,1,,,0,h,MISS Miller 8' Jump Shot,Missed Shot,Jump Shot,0,238
+29701169,239,PT10M19.00S,3,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,,,0,h,Miller REBOUND (Off:1 Def:1),Rebound,Unknown,0,239
+29701169,238,PT10M19.00S,3,1610612754,IND,397,Miller,R. Miller,0,0,0,Missed,1,,,0,h,MISS Miller Tip Shot,Missed Shot,Tip Shot,0,240
+29701169,240,PT10M17.00S,3,1610612761,TOR,57,Christie,D. Christie,0,0,0,,0,,,0,v,Christie REBOUND (Off:0 Def:2),Rebound,Unknown,0,241
+29701169,241,PT10M03.00S,3,1610612761,TOR,961,Wallace,J. Wallace,0,0,0,,0,,,0,v,Wallace Traveling Turnover (P3.T8),Turnover,Traveling,0,242
+29701169,242,PT09M43.00S,3,1610612754,IND,904,Mullin,C. Mullin,-21,44,5,Missed,1,,,0,h,MISS Mullin 5' Jump Shot,Missed Shot,Jump Shot,0,243
+29701169,242,PT09M43.00S,3,1610612761,TOR,1503,McGrady,T. McGrady,0,0,0,,0,,,0,v,McGrady BLOCK (1 BLK),,,0,244
+29701169,243,PT09M41.00S,3,1610612761,TOR,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby REBOUND (Off:2 Def:5),Rebound,Unknown,0,245
+29701169,244,PT09M37.00S,3,1610612761,TOR,1503,McGrady,T. McGrady,1,18,2,Missed,1,,,0,v,MISS McGrady 2' Layup,Missed Shot,Layup Shot,0,246
+29701169,245,PT09M36.00S,3,1610612761,TOR,1497,Billups,C. Billups,0,0,0,,0,,,0,v,Billups REBOUND (Off:1 Def:1),Rebound,Unknown,0,247
+29701169,246,PT09M34.00S,3,1610612761,TOR,961,Wallace,J. Wallace,-36,23,4,Made,1,65.0,61.0,126,v,Wallace 4' Jump Shot (14 PTS) (Billups 4 AST),Made Shot,Jump Shot,0,248
+29701169,247,PT09M13.00S,3,1610612754,IND,904,Mullin,C. Mullin,-1,21,2,Missed,1,,,0,h,MISS Mullin 2' Layup,Missed Shot,Layup Shot,0,249
+29701169,247,PT09M13.00S,3,1610612761,TOR,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby BLOCK (2 BLK),,,0,250
+29701169,248,PT09M11.00S,3,1610612761,TOR,961,Wallace,J. Wallace,0,0,0,,0,,,0,v,Wallace REBOUND (Off:1 Def:1),Rebound,Unknown,0,251
+29701169,249,PT09M10.00S,3,1610612761,TOR,961,Wallace,J. Wallace,0,0,0,,0,,,0,v,Wallace Bad Pass Turnover (P4.T9),Turnover,Bad Pass,0,252
+29701169,249,PT09M10.00S,3,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,,,0,h,D. Davis STEAL (2 STL),,,0,253
+29701169,250,PT09M08.00S,3,1610612761,TOR,961,Wallace,J. Wallace,0,0,0,,0,,,0,v,Wallace P.FOUL (P2.T1),Foul,Personal,0,254
+29701169,251,PT09M00.00S,3,1610612754,IND,213,Davis,A. Davis,-23,40,5,Missed,1,,,0,h,MISS A. Davis 5' Jump Shot,Missed Shot,Jump Shot,0,255
+29701169,252,PT08M59.00S,3,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,,,0,h,Miller REBOUND (Off:2 Def:1),Rebound,Unknown,0,256
+29701169,253,PT08M54.00S,3,1610612754,IND,349,Jackson,M. Jackson,-3,46,5,Made,1,67.0,61.0,128,h,Jackson 5' Running Jump Shot (4 PTS) (Miller 2 AST),Made Shot,Running Jump Shot,0,257
+29701169,254,PT08M40.00S,3,1610612761,TOR,1497,Billups,C. Billups,0,0,0,,0,,,0,v,Billups Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,258
+29701169,255,PT08M19.00S,3,1610612754,IND,905,Davis,D. Davis,51,44,7,Missed,1,,,0,h,MISS D. Davis 7' Jump Shot,Missed Shot,Jump Shot,0,259
+29701169,256,PT08M18.00S,3,1610612761,TOR,1497,Billups,C. Billups,0,0,0,,0,,,0,v,Billups REBOUND (Off:1 Def:2),Rebound,Unknown,0,260
+29701169,257,PT08M10.00S,3,1610612761,TOR,1503,McGrady,T. McGrady,-46,25,5,Missed,1,,,0,v,MISS McGrady 5' Jump Shot,Missed Shot,Jump Shot,0,261
+29701169,257,PT08M10.00S,3,1610612754,IND,904,Mullin,C. Mullin,0,0,0,,0,,,0,h,Mullin BLOCK (1 BLK),,,0,262
+29701169,258,PT08M09.00S,3,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,0,263
+29701169,259,PT08M02.00S,3,1610612761,TOR,1497,Billups,C. Billups,-33,31,5,Missed,1,,,0,v,MISS Billups 5' Jump Shot,Missed Shot,Jump Shot,0,264
+29701169,259,PT08M02.00S,3,1610612754,IND,213,Davis,A. Davis,0,0,0,,0,,,0,h,A. Davis BLOCK (1 BLK),,,0,265
+29701169,260,PT08M00.00S,3,1610612761,TOR,961,Wallace,J. Wallace,0,0,0,,0,,,0,v,Wallace REBOUND (Off:2 Def:1),Rebound,Unknown,0,266
+29701169,261,PT07M58.00S,3,1610612761,TOR,1503,McGrady,T. McGrady,-18,31,4,Missed,1,,,0,v,MISS McGrady 4' Jump Shot,Missed Shot,Jump Shot,0,267
+29701169,262,PT07M57.00S,3,1610612754,IND,213,Davis,A. Davis,0,0,0,,0,,,0,h,A. Davis REBOUND (Off:2 Def:5),Rebound,Unknown,0,268
+29701169,263,PT07M49.00S,3,1610612754,IND,904,Mullin,C. Mullin,231,0,0,Made,1,70.0,61.0,131,h,Mullin 3PT Jump Shot (3 PTS) (Jackson 7 AST),Made Shot,Jump Shot,0,269
+29701169,264,PT07M38.00S,3,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,270
+29701169,266,PT07M27.00S,3,1610612761,TOR,57,Christie,D. Christie,-63,74,10,Missed,1,,,0,v,MISS Christie 10' Jump Shot,Missed Shot,Jump Shot,0,271
+29701169,267,PT07M25.00S,3,1610612754,IND,904,Mullin,C. Mullin,0,0,0,,0,,,0,h,Mullin REBOUND (Off:0 Def:2),Rebound,Unknown,0,272
+29701169,268,PT07M08.00S,3,1610612754,IND,397,Miller,R. Miller,229,87,24,Missed,1,,,0,h,MISS Miller 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,273
+29701169,269,PT07M06.00S,3,1610612754,IND,213,Davis,A. Davis,0,0,0,,0,,,0,h,A. Davis REBOUND (Off:3 Def:5),Rebound,Unknown,0,274
+29701169,270,PT07M04.00S,3,1610612754,IND,397,Miller,R. Miller,235,10,24,Missed,1,,,0,h,MISS Miller 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,275
+29701169,270,PT07M04.00S,3,1610612761,TOR,961,Wallace,J. Wallace,0,0,0,,0,,,0,v,Wallace BLOCK (3 BLK),,,0,276
+29701169,271,PT07M01.00S,3,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,,,0,h,D. Davis REBOUND (Off:3 Def:3),Rebound,Unknown,0,277
+29701169,272,PT06M48.00S,3,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,,,0,h,Miller Traveling Turnover (P1.T6),Turnover,Traveling,0,278
+29701169,273,PT06M27.00S,3,1610612761,TOR,948,Camby,M. Camby,-162,-23,16,Made,1,70.0,63.0,133,v,Camby 16' Jump Shot (15 PTS),Made Shot,Jump Shot,0,279
+29701169,275,PT06M16.00S,3,1610612761,TOR,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby Violation:Lane,Violation,Lane,0,280
+29701169,274,PT06M16.00S,3,1610612754,IND,904,Mullin,C. Mullin,-1,5,1,Made,1,72.0,63.0,135,h,Mullin 1' Layup (5 PTS) (Jackson 8 AST),Made Shot,Layup Shot,0,281
+29701169,276,PT05M59.00S,3,1610612761,TOR,57,Christie,D. Christie,-154,-21,16,Made,1,72.0,65.0,137,v,Christie 16' Jump Shot (19 PTS),Made Shot,Jump Shot,0,282
+29701169,277,PT05M41.00S,3,1610612754,IND,397,Miller,R. Miller,-233,-3,0,Missed,1,,,0,h,MISS Miller 3PT Jump Shot,Missed Shot,Jump Shot,0,283
+29701169,278,PT05M40.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,284
+29701169,279,PT05M33.00S,3,1610612761,TOR,961,Wallace,J. Wallace,0,0,0,,0,,,0,v,Wallace P.FOUL (P3.T2),Foul,Personal,0,285
+29701169,280,PT05M33.00S,3,1610612754,IND,213,Davis,A. Davis,0,0,0,,0,73.0,65.0,138,h,A. Davis Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,286
+29701169,281,PT05M33.00S,3,1610612754,IND,213,Davis,A. Davis,0,0,0,,0,74.0,65.0,139,h,A. Davis Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,287
+29701169,282,PT05M10.00S,3,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,,,0,h,Miller S.FOUL (P3.T1),Foul,Shooting,0,288
+29701169,283,PT05M10.00S,3,1610612761,TOR,57,Christie,D. Christie,0,0,0,,0,74.0,66.0,140,v,Christie Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,289
+29701169,284,PT05M10.00S,3,1610612761,TOR,57,Christie,D. Christie,0,0,0,,0,,,0,v,MISS Christie Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,290
+29701169,285,PT05M09.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,291
+29701169,286,PT04M57.00S,3,1610612754,IND,904,Mullin,C. Mullin,-182,160,24,Missed,1,,,0,h,MISS Mullin 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,292
+29701169,287,PT04M56.00S,3,1610612761,TOR,961,Wallace,J. Wallace,0,0,0,,0,,,0,v,Wallace REBOUND (Off:2 Def:2),Rebound,Unknown,0,293
+29701169,288,PT04M42.00S,3,1610612761,TOR,961,Wallace,J. Wallace,20,186,19,Missed,1,,,0,v,MISS Wallace 19' Jump Shot,Missed Shot,Jump Shot,0,294
+29701169,289,PT04M42.00S,3,1610612754,IND,213,Davis,A. Davis,0,0,0,,0,,,0,h,A. Davis REBOUND (Off:3 Def:6),Rebound,Unknown,0,295
+29701169,290,PT04M42.00S,3,1610612761,TOR,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby L.B.FOUL (P4.T3),Foul,Loose Ball,0,296
+29701169,291,PT04M27.00S,3,1610612754,IND,213,Davis,A. Davis,-53,74,9,Made,1,76.0,66.0,142,h,A. Davis 9' Jump Shot (12 PTS),Made Shot,Jump Shot,0,297
+29701169,292,PT04M09.00S,3,1610612761,TOR,961,Wallace,J. Wallace,0,0,0,,0,,,0,v,Wallace Out Of Bounds Turnover (P5.T11),Turnover,Out Of Bounds,0,298
+29701169,293,PT04M08.00S,3,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,,,0,h,SUB: Smits FOR D. Davis,Substitution,,0,299
+29701169,294,PT03M53.00S,3,1610612754,IND,904,Mullin,C. Mullin,1,-10,1,Made,1,78.0,66.0,144,h,Mullin 1' Layup (7 PTS) (Miller 3 AST),Made Shot,Layup Shot,0,300
+29701169,295,PT03M36.00S,3,1610612761,TOR,961,Wallace,J. Wallace,0,0,0,,0,,,0,v,Wallace Traveling Turnover (P6.T12),Turnover,Traveling,0,301
+29701169,296,PT03M36.00S,3,1610612761,TOR,948,Camby,M. Camby,0,0,0,,0,,,0,v,SUB: Trent FOR Camby,Substitution,,0,302
+29701169,297,PT03M19.00S,3,1610612754,IND,22,Smits,R. Smits,-89,21,9,Missed,1,,,0,h,MISS Smits 9' Jump Shot,Missed Shot,Jump Shot,0,303
+29701169,297,PT03M19.00S,3,1610612761,TOR,718,Trent,G. Trent,0,0,0,,0,,,0,v,Trent BLOCK (1 BLK),,,0,304
+29701169,298,PT03M17.00S,3,1610612761,TOR,718,Trent,G. Trent,0,0,0,,0,,,0,v,Trent REBOUND (Off:0 Def:5),Rebound,Unknown,0,305
+29701169,299,PT03M01.00S,3,1610612761,TOR,718,Trent,G. Trent,3,192,19,Missed,1,,,0,v,MISS Trent 19' Jump Shot,Missed Shot,Jump Shot,0,306
+29701169,301,PT02M59.00S,3,1610612761,TOR,57,Christie,D. Christie,0,0,0,,0,,,0,v,Christie REBOUND (Off:1 Def:2),Rebound,Unknown,0,307
+29701169,300,PT02M59.00S,3,1610612761,TOR,57,Christie,D. Christie,0,0,0,Missed,1,,,0,v,MISS Christie Tip Shot,Missed Shot,Tip Shot,0,308
+29701169,303,PT02M57.00S,3,1610612761,TOR,57,Christie,D. Christie,0,0,0,,0,,,0,v,Christie REBOUND (Off:2 Def:2),Rebound,Unknown,0,309
+29701169,302,PT02M57.00S,3,1610612761,TOR,57,Christie,D. Christie,-6,8,1,Made,1,78.0,68.0,146,v,Christie 1' Layup (22 PTS),Made Shot,Layup Shot,0,310
+29701169,304,PT02M29.00S,3,1610612754,IND,22,Smits,R. Smits,0,0,0,,0,,,0,h,Smits Lost Ball Turnover (P2.T7),Turnover,Lost Ball,0,311
+29701169,304,PT02M29.00S,3,1610612761,TOR,1503,McGrady,T. McGrady,0,0,0,,0,,,0,v,McGrady STEAL (2 STL),,,0,312
+29701169,305,PT02M23.00S,3,1610612761,TOR,1503,McGrady,T. McGrady,0,0,0,Made,1,78.0,70.0,148,v,McGrady Dunk (8 PTS) (Billups 5 AST),Made Shot,Dunk Shot,0,313
+29701169,306,PT02M06.00S,3,1610612754,IND,22,Smits,R. Smits,-147,-3,15,Missed,1,,,0,h,MISS Smits 15' Jump Shot,Missed Shot,Jump Shot,0,314
+29701169,307,PT02M05.00S,3,1610612761,TOR,718,Trent,G. Trent,0,0,0,,0,,,0,v,Trent REBOUND (Off:0 Def:6),Rebound,Unknown,0,315
+29701169,308,PT01M59.00S,3,1610612761,TOR,57,Christie,D. Christie,166,66,18,Missed,1,,,0,v,MISS Christie 18' Jump Shot,Missed Shot,Jump Shot,0,316
+29701169,309,PT01M58.00S,3,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,,,0,h,Miller REBOUND (Off:2 Def:2),Rebound,Unknown,0,317
+29701169,310,PT01M52.00S,3,1610612754,IND,397,Miller,R. Miller,164,199,26,Made,1,81.0,70.0,151,h,Miller 26' 3PT Jump Shot (11 PTS) (Jackson 9 AST),Made Shot,Jump Shot,0,318
+29701169,311,PT01M37.00S,3,1610612761,TOR,718,Trent,G. Trent,10,-12,2,Made,1,81.0,72.0,153,v,Trent 2' Layup (2 PTS),Made Shot,Layup Shot,0,319
+29701169,312,PT01M27.00S,3,1610612754,IND,397,Miller,R. Miller,156,194,25,Missed,1,,,0,h,MISS Miller 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,320
+29701169,313,PT01M25.00S,3,1610612761,TOR,718,Trent,G. Trent,0,0,0,,0,,,0,v,Trent REBOUND (Off:0 Def:7),Rebound,Unknown,0,321
+29701169,314,PT01M16.00S,3,1610612761,TOR,961,Wallace,J. Wallace,85,40,9,Missed,1,,,0,v,MISS Wallace 9' Jump Shot,Missed Shot,Jump Shot,0,322
+29701169,315,PT01M15.00S,3,1610612761,TOR,718,Trent,G. Trent,0,0,0,,0,,,0,v,Trent REBOUND (Off:1 Def:7),Rebound,Unknown,0,323
+29701169,316,PT01M10.00S,3,1610612761,TOR,718,Trent,G. Trent,0,0,0,,0,,,0,v,Trent Traveling Turnover (P2.T13),Turnover,Traveling,0,324
+29701169,317,PT01M10.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,325
+29701169,319,PT01M10.00S,3,1610612754,IND,904,Mullin,C. Mullin,0,0,0,,0,,,0,h,SUB: Rose FOR Mullin,Substitution,,0,326
+29701169,320,PT01M10.00S,3,1610612754,IND,213,Davis,A. Davis,0,0,0,,0,,,0,h,SUB: McKey FOR A. Davis,Substitution,,0,327
+29701169,321,PT01M10.00S,3,1610612761,TOR,1503,McGrady,T. McGrady,0,0,0,,0,,,0,v,SUB: Brown FOR McGrady,Substitution,,0,328
+29701169,322,PT00M53.90S,3,1610612761,TOR,718,Trent,G. Trent,0,0,0,,0,,,0,v,Trent S.FOUL (P2.T4),Foul,Shooting,0,329
+29701169,323,PT00M53.90S,3,1610612754,IND,22,Smits,R. Smits,0,0,0,,0,,,0,h,MISS Smits Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,330
+29701169,324,PT00M53.90S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,331
+29701169,325,PT00M53.90S,3,1610612754,IND,22,Smits,R. Smits,0,0,0,,0,82.0,72.0,154,h,Smits Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,332
+29701169,326,PT00M44.60S,3,1610612761,TOR,1497,Billups,C. Billups,0,0,0,,0,,,0,v,Billups Bad Pass Turnover (P2.T14),Turnover,Bad Pass,0,333
+29701169,326,PT00M44.60S,3,1610612754,IND,365,McKey,D. McKey,0,0,0,,0,,,0,h,McKey STEAL (2 STL),,,0,334
+29701169,327,PT00M33.60S,3,1610612754,IND,349,Jackson,M. Jackson,128,166,21,Missed,1,,,0,h,MISS Jackson 21' Jump Shot,Missed Shot,Jump Shot,0,335
+29701169,328,PT00M31.90S,3,1610612754,IND,349,Jackson,M. Jackson,0,0,0,,0,,,0,h,Jackson REBOUND (Off:1 Def:1),Rebound,Unknown,0,336
+29701169,329,PT00M29.90S,3,1610612761,TOR,961,Wallace,J. Wallace,0,0,0,,0,,,0,v,Wallace S.FOUL (P4.PN),Foul,Shooting,0,337
+29701169,330,PT00M29.90S,3,1610612754,IND,22,Smits,R. Smits,0,0,0,,0,,,0,h,MISS Smits Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,338
+29701169,331,PT00M29.90S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,339
+29701169,332,PT00M29.90S,3,1610612761,TOR,961,Wallace,J. Wallace,0,0,0,,0,,,0,v,SUB: Slater FOR Wallace,Substitution,,0,340
+29701169,333,PT00M29.90S,3,1610612754,IND,22,Smits,R. Smits,0,0,0,,0,83.0,72.0,155,h,Smits Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,341
+29701169,334,PT00M19.60S,3,1610612754,IND,22,Smits,R. Smits,0,0,0,,0,,,0,h,Smits S.FOUL (P3.T2),Foul,Shooting,0,342
+29701169,335,PT00M19.60S,3,1610612761,TOR,718,Trent,G. Trent,0,0,0,,0,,,0,v,MISS Trent Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,343
+29701169,336,PT00M19.60S,3,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,0,344
+29701169,337,PT00M19.60S,3,1610612761,TOR,718,Trent,G. Trent,0,0,0,,0,,,0,v,MISS Trent Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,345
+29701169,338,PT00M18.30S,3,1610612761,TOR,57,Christie,D. Christie,0,0,0,,0,,,0,v,Christie REBOUND (Off:3 Def:2),Rebound,Unknown,0,346
+29701169,339,PT00M02.90S,3,1610612761,TOR,57,Christie,D. Christie,38,78,9,Made,1,83.0,74.0,157,v,Christie 9' Jump Shot (24 PTS),Made Shot,Jump Shot,0,347
+29701169,340,PT00M00.70S,3,1610612754,IND,397,Miller,R. Miller,74,394,40,Missed,1,,,0,h,MISS Miller 40' 3PT Jump Shot,Missed Shot,Jump Shot,0,348
+29701169,341,PT00M00.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,349
+29701169,342,PT00M00.00S,3,0,,0,,,0,0,0,,0,83.0,74.0,157,,End of 3rd Period (12:45 PM EST),period,end,0,350
+29701169,344,PT12M00.00S,4,0,,0,,,0,0,0,,0,83.0,74.0,157,,Start of 4th Period (12:47 PM EST),period,start,0,351
+29701169,345,PT11M47.00S,4,1610612754,IND,696,Best,T. Best,190,-25,19,Missed,1,,,0,h,MISS Best 19' Jump Shot,Missed Shot,Jump Shot,0,352
+29701169,346,PT11M45.00S,4,1610612761,TOR,1073,Slater,R. Slater,0,0,0,,0,,,0,v,Slater REBOUND (Off:0 Def:1),Rebound,Unknown,0,353
+29701169,347,PT11M36.00S,4,1610612761,TOR,718,Trent,G. Trent,-31,93,10,Missed,1,,,0,v,MISS Trent 10' Jump Shot,Missed Shot,Jump Shot,0,354
+29701169,348,PT11M35.00S,4,1610612754,IND,147,Rose,J. Rose,0,0,0,,0,,,0,h,Rose REBOUND (Off:0 Def:2),Rebound,Unknown,0,355
+29701169,349,PT11M33.00S,4,1610612761,TOR,1073,Slater,R. Slater,0,0,0,,0,,,0,v,Slater P.FOUL (P2.T1),Foul,Personal,0,356
+29701169,350,PT11M26.00S,4,1610612761,TOR,1073,Slater,R. Slater,0,0,0,,0,,,0,v,Slater P.FOUL (P3.T2),Foul,Personal,0,357
+29701169,351,PT11M11.00S,4,1610612754,IND,22,Smits,R. Smits,-139,66,15,Made,1,85.0,74.0,159,h,Smits 15' Jump Shot (10 PTS) (McKey 1 AST),Made Shot,Jump Shot,0,358
+29701169,352,PT10M53.00S,4,1610612761,TOR,718,Trent,G. Trent,74,55,9,Missed,1,,,0,v,MISS Trent 9' Jump Shot,Missed Shot,Jump Shot,0,359
+29701169,353,PT10M52.00S,4,1610612761,TOR,1073,Slater,R. Slater,0,0,0,,0,,,0,v,Slater REBOUND (Off:1 Def:1),Rebound,Unknown,0,360
+29701169,354,PT10M50.00S,4,1610612761,TOR,1073,Slater,R. Slater,0,0,0,,0,,,0,v,Slater Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,361
+29701169,354,PT10M50.00S,4,1610612754,IND,147,Rose,J. Rose,0,0,0,,0,,,0,h,Rose STEAL (2 STL),,,0,362
+29701169,355,PT10M47.00S,4,1610612754,IND,147,Rose,J. Rose,0,0,0,,0,,,0,h,Rose Bad Pass Turnover (P3.T8),Turnover,Bad Pass,0,363
+29701169,355,PT10M47.00S,4,1610612761,TOR,57,Christie,D. Christie,0,0,0,,0,,,0,v,Christie STEAL (1 STL),,,0,364
+29701169,356,PT10M40.00S,4,1610612761,TOR,1073,Slater,R. Slater,0,0,0,,0,,,0,v,Slater Traveling Turnover (P2.T16),Turnover,Traveling,0,365
+29701169,357,PT10M29.00S,4,1610612754,IND,365,McKey,D. McKey,0,203,20,Made,1,87.0,74.0,161,h,McKey 20' Jump Shot (6 PTS) (Best 3 AST),Made Shot,Jump Shot,0,366
+29701169,358,PT10M05.00S,4,1610612754,IND,365,McKey,D. McKey,0,0,0,,0,,,0,h,McKey S.FOUL (P2.T1),Foul,Shooting,0,367
+29701169,359,PT10M05.00S,4,1610612754,IND,397,Miller,R. Miller,0,0,0,,0,,,0,h,SUB: D. Davis FOR Miller,Substitution,,0,368
+29701169,360,PT10M05.00S,4,1610612761,TOR,1073,Slater,R. Slater,0,0,0,,0,87.0,75.0,162,v,Slater Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,369
+29701169,361,PT10M05.00S,4,1610612761,TOR,1073,Slater,R. Slater,0,0,0,,0,87.0,76.0,163,v,Slater Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,370
+29701169,362,PT09M49.00S,4,1610612754,IND,905,Davis,D. Davis,136,-14,14,Made,1,89.0,76.0,165,h,D. Davis 14' Jump Shot (18 PTS),Made Shot,Jump Shot,0,371
+29701169,363,PT09M27.00S,4,1610612761,TOR,1073,Slater,R. Slater,25,57,6,Made,1,89.0,78.0,167,v,Slater 6' Hook Shot (4 PTS),Made Shot,Hook Shot,0,372
+29701169,364,PT09M13.00S,4,1610612754,IND,147,Rose,J. Rose,18,139,14,Missed,1,,,0,h,MISS Rose 14' Jump Shot,Missed Shot,Jump Shot,0,373
+29701169,365,PT09M12.00S,4,1610612761,TOR,718,Trent,G. Trent,0,0,0,,0,,,0,v,Trent REBOUND (Off:1 Def:8),Rebound,Unknown,0,374
+29701169,366,PT09M06.00S,4,1610612754,IND,22,Smits,R. Smits,0,0,0,,0,,,0,h,Smits S.FOUL (P4.T2),Foul,Shooting,0,375
+29701169,367,PT09M06.00S,4,1610612761,TOR,1073,Slater,R. Slater,0,0,0,,0,89.0,79.0,168,v,Slater Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,376
+29701169,368,PT09M06.00S,4,1610612761,TOR,57,Christie,D. Christie,0,0,0,,0,,,0,v,SUB: Camby FOR Christie,Substitution,,0,377
+29701169,369,PT09M06.00S,4,1610612761,TOR,1073,Slater,R. Slater,0,0,0,,0,89.0,80.0,169,v,Slater Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,378
+29701169,370,PT08M47.00S,4,1610612754,IND,22,Smits,R. Smits,-149,-25,15,Made,1,91.0,80.0,171,h,Smits 15' Jump Shot (12 PTS),Made Shot,Jump Shot,0,379
+29701169,371,PT08M34.00S,4,1610612761,TOR,1073,Slater,R. Slater,44,68,8,Missed,1,,,0,v,MISS Slater 8' Jump Shot,Missed Shot,Jump Shot,0,380
+29701169,372,PT08M32.00S,4,1610612754,IND,22,Smits,R. Smits,0,0,0,,0,,,0,h,Smits REBOUND (Off:1 Def:4),Rebound,Unknown,0,381
+29701169,373,PT08M27.00S,4,1610612754,IND,905,Davis,D. Davis,3,0,0,Made,1,93.0,80.0,173,h,D. Davis Layup (20 PTS) (Rose 3 AST),Made Shot,Layup Shot,0,382
+29701169,374,PT08M12.00S,4,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,383
+29701169,376,PT07M59.00S,4,1610612761,TOR,948,Camby,M. Camby,-91,-23,9,Made,1,93.0,82.0,175,v,Camby 9' Jump Shot (17 PTS) (Brown 2 AST),Made Shot,Jump Shot,0,384
+29701169,377,PT07M38.00S,4,1610612754,IND,22,Smits,R. Smits,55,76,9,Made,1,95.0,82.0,177,h,Smits 9' Jump Shot (14 PTS),Made Shot,Jump Shot,0,385
+29701169,378,PT07M19.00S,4,1610612761,TOR,244,Brown,D. Brown,-132,212,25,Made,1,95.0,85.0,180,v,Brown 25' 3PT Jump Shot (10 PTS) (Trent 1 AST),Made Shot,Jump Shot,0,386
+29701169,379,PT06M59.00S,4,1610612754,IND,147,Rose,J. Rose,164,188,25,Made,1,98.0,85.0,183,h,Rose 25' 3PT Jump Shot (17 PTS) (McKey 2 AST),Made Shot,Jump Shot,0,387
+29701169,380,PT06M38.00S,4,1610612754,IND,22,Smits,R. Smits,0,0,0,,0,,,0,h,Smits S.FOUL (P5.T3),Foul,Shooting,0,388
+29701169,381,PT06M38.00S,4,1610612761,TOR,1073,Slater,R. Slater,0,0,0,,0,98.0,86.0,184,v,Slater Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,389
+29701169,382,PT06M38.00S,4,1610612761,TOR,1073,Slater,R. Slater,0,0,0,,0,98.0,87.0,185,v,Slater Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,390
+29701169,383,PT06M28.00S,4,1610612754,IND,22,Smits,R. Smits,-1,188,19,Made,1,100.0,87.0,187,h,Smits 19' Jump Shot (16 PTS) (Best 4 AST),Made Shot,Jump Shot,0,391
+29701169,384,PT06M13.00S,4,1610612761,TOR,244,Brown,D. Brown,-209,48,21,Missed,1,,,0,v,MISS Brown 21' Jump Shot,Missed Shot,Jump Shot,0,392
+29701169,385,PT06M12.00S,4,1610612761,TOR,718,Trent,G. Trent,0,0,0,,0,,,0,v,Trent REBOUND (Off:2 Def:8),Rebound,Unknown,0,393
+29701169,386,PT06M10.00S,4,1610612761,TOR,718,Trent,G. Trent,93,55,11,Missed,1,,,0,v,MISS Trent 11' Jump Shot,Missed Shot,Jump Shot,0,394
+29701169,387,PT06M08.00S,4,1610612754,IND,696,Best,T. Best,0,0,0,,0,,,0,h,Best REBOUND (Off:0 Def:1),Rebound,Unknown,0,395
+29701169,388,PT06M06.00S,4,1610612754,IND,696,Best,T. Best,0,0,0,,0,,,0,h,Best Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,396
+29701169,389,PT05M53.00S,4,1610612754,IND,147,Rose,J. Rose,0,0,0,,0,,,0,h,Rose P.FOUL (P3.T4),Foul,Personal,0,397
+29701169,390,PT05M46.00S,4,1610612761,TOR,948,Camby,M. Camby,-111,-1,11,Made,1,100.0,89.0,189,v,Camby 11' Jump Shot (19 PTS),Made Shot,Jump Shot,0,398
+29701169,391,PT05M26.00S,4,1610612754,IND,22,Smits,R. Smits,117,-16,12,Missed,1,,,0,h,MISS Smits 12' Jump Shot,Missed Shot,Jump Shot,0,399
+29701169,392,PT05M24.00S,4,1610612761,TOR,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby REBOUND (Off:2 Def:6),Rebound,Unknown,0,400
+29701169,393,PT05M17.00S,4,1610612761,TOR,1497,Billups,C. Billups,-63,81,10,Missed,1,,,0,v,MISS Billups 10' Jump Shot,Missed Shot,Jump Shot,0,401
+29701169,394,PT05M15.00S,4,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,,,0,h,D. Davis REBOUND (Off:3 Def:4),Rebound,Unknown,0,402
+29701169,395,PT04M59.00S,4,1610612761,TOR,718,Trent,G. Trent,0,0,0,,0,,,0,v,Trent S.FOUL (P3.T3),Foul,Shooting,0,403
+29701169,396,PT04M59.00S,4,1610612754,IND,22,Smits,R. Smits,0,0,0,,0,101.0,89.0,190,h,Smits Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,404
+29701169,397,PT04M59.00S,4,1610612761,TOR,1497,Billups,C. Billups,0,0,0,,0,,,0,v,SUB: Christie FOR Billups,Substitution,,0,405
+29701169,398,PT04M59.00S,4,1610612761,TOR,1073,Slater,R. Slater,0,0,0,,0,,,0,v,SUB: Wallace FOR Slater,Substitution,,0,406
+29701169,399,PT04M59.00S,4,1610612754,IND,22,Smits,R. Smits,0,0,0,,0,,,0,h,MISS Smits Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,407
+29701169,400,PT04M59.00S,4,1610612761,TOR,718,Trent,G. Trent,0,0,0,,0,,,0,v,Trent REBOUND (Off:2 Def:9),Rebound,Unknown,0,408
+29701169,401,PT04M42.00S,4,1610612761,TOR,961,Wallace,J. Wallace,23,61,7,Made,1,101.0,91.0,192,v,Wallace 7' Jump Shot (16 PTS),Made Shot,Jump Shot,0,409
+29701169,402,PT04M25.00S,4,1610612754,IND,365,McKey,D. McKey,-233,29,0,Missed,1,,,0,h,MISS McKey 3PT Jump Shot,Missed Shot,Jump Shot,0,410
+29701169,403,PT04M24.00S,4,1610612761,TOR,57,Christie,D. Christie,0,0,0,,0,,,0,v,Christie REBOUND (Off:3 Def:3),Rebound,Unknown,0,411
+29701169,404,PT04M13.00S,4,1610612754,IND,22,Smits,R. Smits,0,0,0,,0,,,0,h,Smits S.FOUL (P6.PN),Foul,Shooting,0,412
+29701169,405,PT04M13.00S,4,1610612754,IND,22,Smits,R. Smits,0,0,0,,0,,,0,h,SUB: A. Davis FOR Smits,Substitution,,0,413
+29701169,406,PT04M13.00S,4,1610612761,TOR,948,Camby,M. Camby,0,0,0,,0,,,0,v,MISS Camby Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,414
+29701169,407,PT04M13.00S,4,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,0,415
+29701169,408,PT04M13.00S,4,1610612761,TOR,948,Camby,M. Camby,0,0,0,,0,101.0,92.0,193,v,Camby Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,416
+29701169,409,PT04M02.00S,4,1610612754,IND,147,Rose,J. Rose,-186,-8,19,Made,1,103.0,92.0,195,h,Rose 19' Jump Shot (19 PTS) (McKey 3 AST),Made Shot,Jump Shot,0,417
+29701169,410,PT03M50.00S,4,1610612761,TOR,718,Trent,G. Trent,175,10,18,Missed,1,,,0,v,MISS Trent 18' Jump Shot,Missed Shot,Jump Shot,0,418
+29701169,411,PT03M49.00S,4,1610612754,IND,696,Best,T. Best,0,0,0,,0,,,0,h,Best REBOUND (Off:0 Def:2),Rebound,Unknown,0,419
+29701169,412,PT03M39.00S,4,1610612754,IND,365,McKey,D. McKey,0,-10,1,Made,1,105.0,92.0,197,h,McKey 1' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,0,420
+29701169,413,PT03M20.00S,4,1610612761,TOR,718,Trent,G. Trent,0,0,0,,0,,,0,v,Trent Lost Ball Turnover (P3.T17),Turnover,Lost Ball,0,421
+29701169,413,PT03M20.00S,4,1610612754,IND,696,Best,T. Best,0,0,0,,0,,,0,h,Best STEAL (1 STL),,,0,422
+29701169,414,PT03M17.00S,4,1610612761,TOR,244,Brown,D. Brown,0,0,0,,0,,,0,v,Brown P.FOUL (P1.T4),Foul,Personal,0,423
+29701169,415,PT03M17.00S,4,1610612754,IND,696,Best,T. Best,0,0,0,,0,,,0,h,SUB: Jackson FOR Best,Substitution,,0,424
+29701169,416,PT03M17.00S,4,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Timeout: Regular (Reg.5 Short 1),Timeout,Regular,0,425
+29701169,418,PT03M03.00S,4,1610612754,IND,147,Rose,J. Rose,44,59,7,Missed,1,,,0,h,MISS Rose 7' Jump Shot,Missed Shot,Jump Shot,0,426
+29701169,419,PT03M01.00S,4,1610612761,TOR,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby REBOUND (Off:2 Def:7),Rebound,Unknown,0,427
+29701169,420,PT02M38.00S,4,1610612761,TOR,244,Brown,D. Brown,115,124,17,Missed,1,,,0,v,MISS Brown 17' Jump Shot,Missed Shot,Jump Shot,0,428
+29701169,421,PT02M37.00S,4,1610612754,IND,213,Davis,A. Davis,0,0,0,,0,,,0,h,A. Davis REBOUND (Off:3 Def:7),Rebound,Unknown,0,429
+29701169,422,PT02M19.00S,4,1610612754,IND,905,Davis,D. Davis,143,8,14,Missed,1,,,0,h,MISS D. Davis 14' Jump Shot,Missed Shot,Jump Shot,0,430
+29701169,423,PT02M17.00S,4,1610612761,TOR,948,Camby,M. Camby,0,0,0,,0,,,0,v,Camby REBOUND (Off:2 Def:8),Rebound,Unknown,0,431
+29701169,424,PT02M11.00S,4,1610612761,TOR,244,Brown,D. Brown,132,203,24,Missed,1,,,0,v,MISS Brown 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,432
+29701169,425,PT02M10.00S,4,1610612754,IND,147,Rose,J. Rose,0,0,0,,0,,,0,h,Rose REBOUND (Off:0 Def:3),Rebound,Unknown,0,433
+29701169,426,PT01M49.00S,4,1610612754,IND,349,Jackson,M. Jackson,169,169,24,Missed,1,,,0,h,MISS Jackson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,434
+29701169,427,PT01M47.00S,4,1610612761,TOR,961,Wallace,J. Wallace,0,0,0,,0,,,0,v,Wallace REBOUND (Off:2 Def:3),Rebound,Unknown,0,435
+29701169,428,PT01M36.00S,4,1610612761,TOR,948,Camby,M. Camby,-149,89,17,Missed,1,,,0,v,MISS Camby 17' Jump Shot,Missed Shot,Jump Shot,0,436
+29701169,429,PT01M35.00S,4,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,,,0,h,D. Davis REBOUND (Off:3 Def:5),Rebound,Unknown,0,437
+29701169,430,PT01M18.00S,4,1610612754,IND,905,Davis,D. Davis,14,10,2,Missed,1,,,0,h,MISS D. Davis 2' Layup,Missed Shot,Layup Shot,0,438
+29701169,431,PT01M17.00S,4,1610612761,TOR,718,Trent,G. Trent,0,0,0,,0,,,0,v,Trent REBOUND (Off:2 Def:10),Rebound,Unknown,0,439
+29701169,432,PT01M09.00S,4,1610612754,IND,213,Davis,A. Davis,0,0,0,,0,,,0,h,A. Davis P.FOUL (P3.PN),Foul,Personal,0,440
+29701169,433,PT01M09.00S,4,1610612761,TOR,718,Trent,G. Trent,0,0,0,,0,,,0,v,SUB: Thomas FOR Trent,Substitution,,0,441
+29701169,434,PT01M09.00S,4,1610612761,TOR,57,Christie,D. Christie,0,0,0,,0,,,0,v,SUB: Williams FOR Christie,Substitution,,0,442
+29701169,448,PT01M09.00S,4,1610612761,TOR,961,Wallace,J. Wallace,0,0,0,,0,,,0,v,SUB: Slater FOR Wallace,Substitution,,0,443
+29701169,435,PT01M09.00S,4,1610612754,IND,905,Davis,D. Davis,0,0,0,,0,,,0,h,SUB: Pope FOR D. Davis,Substitution,,0,444
+29701169,436,PT01M09.00S,4,1610612761,TOR,244,Brown,D. Brown,0,0,0,,0,105.0,93.0,198,v,Brown Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,445
+29701169,437,PT01M09.00S,4,1610612754,IND,147,Rose,J. Rose,0,0,0,,0,,,0,h,SUB: Hoiberg FOR Rose,Substitution,,0,446
+29701169,438,PT01M09.00S,4,1610612761,TOR,244,Brown,D. Brown,0,0,0,,0,105.0,94.0,199,v,Brown Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,447
+29701169,439,PT01M07.00S,4,1610612761,TOR,244,Brown,D. Brown,0,0,0,,0,,,0,v,Brown P.FOUL (P2.PN),Foul,Personal,0,448
+29701169,440,PT01M07.00S,4,1610612761,TOR,244,Brown,D. Brown,0,0,0,,0,,,0,v,SUB: Garner FOR Brown,Substitution,,0,449
+29701169,441,PT01M07.00S,4,1610612754,IND,349,Jackson,M. Jackson,0,0,0,,0,106.0,94.0,200,h,Jackson Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,450
+29701169,442,PT01M07.00S,4,1610612754,IND,349,Jackson,M. Jackson,0,0,0,,0,107.0,94.0,201,h,Jackson Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,451
+29701169,443,PT00M47.30S,4,1610612761,TOR,1073,Slater,R. Slater,-38,151,16,Made,1,107.0,96.0,203,v,Slater 16' Jump Shot (10 PTS) (Thomas 1 AST),Made Shot,Jump Shot,0,452
+29701169,444,PT00M22.20S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,0,453
+29701169,445,PT00M12.70S,4,1610612761,TOR,1612,Garner,C. Garner,-194,66,20,Missed,1,,,0,v,MISS Garner 20' Jump Shot,Missed Shot,Jump Shot,0,454
+29701169,446,PT00M11.40S,4,1610612761,TOR,1073,Slater,R. Slater,0,0,0,,0,,,0,v,Slater REBOUND (Off:2 Def:1),Rebound,Unknown,0,455
+29701169,447,PT00M09.70S,4,1610612761,TOR,1073,Slater,R. Slater,0,0,0,Made,1,107.0,98.0,205,v,Slater Layup (12 PTS),Made Shot,Layup Shot,0,456
+29701169,449,PT00M00.00S,4,0,,0,,,0,0,0,,0,107.0,98.0,205,,End of 4th Period (1:12 PM EST),period,end,0,457

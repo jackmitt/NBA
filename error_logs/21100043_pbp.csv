@@ -1,0 +1,483 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+21100043,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (8:12 PM EST),period,start,0,1
+21100043,1,PT12M00.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0.0,0.0,0,h,Jump Ball Gasol vs. Hill: Tip to Pargo,Jump Ball,,0,2
+21100043,2,PT11M46.00S,1,1610612763,MEM,200752,Gay,R. Gay,2,6,1,Made,1,2.0,0.0,2,h,Gay 1' Slam Dunk (2 PTS) (Gasol 1 AST),Made Shot,Slam Dunk Shot,0,3
+21100043,3,PT11M25.00S,1,1610612745,HOU,200768,Lowry,K. Lowry,-117,235,26,Made,1,2.0,3.0,5,v,Lowry 26' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,0,4
+21100043,4,PT11M05.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,121,123,17,Made,1,4.0,3.0,7,h,Randolph 17' Jump Shot (2 PTS) (Pargo 1 AST),Made Shot,Jump Shot,0,5
+21100043,5,PT10M49.00S,1,1610612745,HOU,200768,Lowry,K. Lowry,10,7,1,Made,1,4.0,5.0,9,v,Lowry 1' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,0,6
+21100043,6,PT10M49.00S,1,1610612763,MEM,202951,Pargo,J. Pargo,0,0,0,,0,0.0,0.0,0,h,Pargo S.FOUL (P1.T1),Foul,Shooting,0,7
+21100043,7,PT10M49.00S,1,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,4.0,6.0,10,v,Lowry Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,8
+21100043,9,PT10M35.00S,1,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0.0,0.0,0,v,Scola S.FOUL (P1.T1),Foul,Shooting,0,9
+21100043,10,PT10M35.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,5.0,6.0,11,h,Gasol Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,10
+21100043,12,PT10M35.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,6.0,6.0,12,h,Gasol Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,11
+21100043,14,PT10M25.00S,1,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0.0,0.0,0,h,Allen P.FOUL (P1.T2),Foul,Personal,0,12
+21100043,15,PT10M12.00S,1,1610612745,HOU,201978,Budinger,C. Budinger,-100,168,20,Missed,1,0.0,0.0,0,v,MISS Budinger 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,13
+21100043,16,PT10M10.00S,1,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0.0,0.0,0,h,Gay REBOUND (Off:0 Def:1),Rebound,Unknown,0,14
+21100043,17,PT10M08.00S,1,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0.0,0.0,0,h,Gay Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,15
+21100043,17,PT10M08.00S,1,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,Lowry STEAL (1 STL),,,0,16
+21100043,18,PT10M03.00S,1,1610612745,HOU,201978,Budinger,C. Budinger,-2,14,1,Made,1,6.0,8.0,14,v,Budinger 1' Dunk (2 PTS) (Lowry 1 AST),Made Shot,Dunk Shot,0,17
+21100043,19,PT09M36.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,138,154,21,Missed,1,0.0,0.0,0,h,MISS Randolph 21' Jump Shot,Missed Shot,Jump Shot,0,18
+21100043,20,PT09M34.00S,1,1610612745,HOU,201941,Hill,J. Hill,0,0,0,,0,0.0,0.0,0,v,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,19
+21100043,21,PT09M18.00S,1,1610612745,HOU,201978,Budinger,C. Budinger,-199,1,20,Missed,1,0.0,0.0,0,v,MISS Budinger 20' Jump Shot,Missed Shot,Jump Shot,0,20
+21100043,22,PT09M17.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0.0,0.0,0,h,Gasol REBOUND (Off:0 Def:1),Rebound,Unknown,0,21
+21100043,23,PT09M11.00S,1,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0.0,0.0,0,h,Gay Lost Ball Turnover (P2.T2),Turnover,Lost Ball,0,22
+21100043,23,PT09M11.00S,1,1610612745,HOU,201978,Budinger,C. Budinger,0,0,0,,0,0.0,0.0,0,v,Budinger STEAL (1 STL),,,0,23
+21100043,24,PT09M00.00S,1,1610612745,HOU,201941,Hill,J. Hill,0,0,0,,0,0.0,0.0,0,v,Hill Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,24
+21100043,24,PT09M00.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0.0,0.0,0,h,Gasol STEAL (1 STL),,,0,25
+21100043,25,PT08M53.00S,1,1610612763,MEM,202951,Pargo,J. Pargo,0,0,0,,0,0.0,0.0,0,h,Pargo Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,26
+21100043,25,PT08M53.00S,1,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,Lowry STEAL (2 STL),,,0,27
+21100043,26,PT08M48.00S,1,1610612745,HOU,2755,Martin,K. Martin,179,189,26,Made,1,6.0,11.0,17,v,Martin 26' 3PT Jump Shot (3 PTS) (Lowry 2 AST),Made Shot,Jump Shot,0,28
+21100043,27,PT08M26.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0.0,0.0,0,h,Gasol Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,29
+21100043,27,PT08M26.00S,1,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,Lowry STEAL (3 STL),,,0,30
+21100043,28,PT08M21.00S,1,1610612745,HOU,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,v,Martin Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,31
+21100043,28,PT08M21.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0.0,0.0,0,h,Gasol STEAL (2 STL),,,0,32
+21100043,29,PT08M16.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,-8,11,1,Made,1,8.0,11.0,19,h,Gasol 1' Layup (4 PTS) (Allen 1 AST),Made Shot,Layup Shot,0,33
+21100043,30,PT08M01.00S,1,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0.0,0.0,0,v,Scola Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,34
+21100043,30,PT08M01.00S,1,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0.0,0.0,0,h,Gay STEAL (1 STL),,,0,35
+21100043,31,PT07M49.00S,1,1610612763,MEM,202951,Pargo,J. Pargo,-108,235,26,Missed,1,0.0,0.0,0,h,MISS Pargo 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,36
+21100043,32,PT07M47.00S,1,1610612745,HOU,201941,Hill,J. Hill,0,0,0,,0,0.0,0.0,0,v,Hill REBOUND (Off:0 Def:2),Rebound,Unknown,0,37
+21100043,33,PT07M40.00S,1,1610612763,MEM,202951,Pargo,J. Pargo,0,0,0,,0,0.0,0.0,0,h,Pargo S.FOUL (P2.T3),Foul,Shooting,0,38
+21100043,34,PT07M40.00S,1,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,8.0,12.0,20,v,Lowry Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,39
+21100043,36,PT07M40.00S,1,1610612763,MEM,202951,Pargo,J. Pargo,0,0,0,,0,0.0,0.0,0,h,SUB: Selby FOR Pargo,Substitution,,0,40
+21100043,37,PT07M40.00S,1,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,8.0,13.0,21,v,Lowry Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,41
+21100043,39,PT07M24.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,26,66,7,Made,1,10.0,13.0,23,h,Gasol 7' Jump Shot (6 PTS) (Gay 1 AST),Made Shot,Jump Shot,0,42
+21100043,40,PT07M01.00S,1,1610612745,HOU,201941,Hill,J. Hill,121,126,17,Missed,1,0.0,0.0,0,v,MISS Hill 17' Jump Shot,Missed Shot,Jump Shot,0,43
+21100043,41,PT07M00.00S,1,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0.0,0.0,0,h,Gay REBOUND (Off:0 Def:2),Rebound,Unknown,0,44
+21100043,42,PT06M52.00S,1,1610612763,MEM,200752,Gay,R. Gay,-56,181,19,Made,1,12.0,13.0,25,h,Gay 19' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,0,45
+21100043,43,PT06M34.00S,1,1610612745,HOU,2449,Scola,L. Scola,-18,42,5,Missed,1,0.0,0.0,0,v,MISS Scola 5' Jump Shot,Missed Shot,Jump Shot,0,46
+21100043,43,PT06M34.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0.0,0.0,0,h,Gasol BLOCK (1 BLK),,,0,47
+21100043,44,PT06M32.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,h,Randolph REBOUND (Off:0 Def:1),Rebound,Unknown,0,48
+21100043,45,PT06M29.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0.0,0.0,0,h,Gasol Out of Bounds Lost Ball Turnover (P2.T5),Turnover,Out of Bounds Lost Ball Turnover,0,49
+21100043,46,PT06M29.00S,1,1610612745,HOU,201941,Hill,J. Hill,0,0,0,,0,0.0,0.0,0,v,SUB: Dalembert FOR Hill,Substitution,,0,50
+21100043,47,PT06M15.00S,1,1610612745,HOU,2755,Martin,K. Martin,-240,66,25,Missed,1,0.0,0.0,0,v,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,51
+21100043,48,PT06M14.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,h,Randolph REBOUND (Off:0 Def:2),Rebound,Unknown,0,52
+21100043,49,PT06M09.00S,1,1610612763,MEM,2754,Allen,T. Allen,0,3,0,Made,1,14.0,13.0,27,h,Allen  Layup (2 PTS) (Randolph 1 AST),Made Shot,Layup Shot,0,53
+21100043,50,PT05M54.00S,1,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0.0,0.0,0,h,Gay S.FOUL (P1.T4),Foul,Shooting,0,54
+21100043,51,PT05M54.00S,1,0,,1610612763,,,0,0,0,,0,0.0,0.0,0,h,GRIZZLIES Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,55
+21100043,54,PT05M54.00S,1,1610612745,HOU,201978,Budinger,C. Budinger,0,0,0,,0,14.0,14.0,28,v,Budinger Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,56
+21100043,56,PT05M54.00S,1,1610612745,HOU,201978,Budinger,C. Budinger,0,0,0,,0,14.0,15.0,29,v,Budinger Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,57
+21100043,58,PT05M42.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0.0,0.0,0,h,Gasol Bad Pass Turnover (P3.T6),Turnover,Bad Pass,0,58
+21100043,58,PT05M42.00S,1,1610612745,HOU,201978,Budinger,C. Budinger,0,0,0,,0,0.0,0.0,0,v,Budinger STEAL (2 STL),,,0,59
+21100043,59,PT05M37.00S,1,1610612745,HOU,2223,Dalembert,S. Dalembert,0,0,0,,0,0.0,0.0,0,v,Dalembert Offensive Goaltending Turnover (P1.T4),Turnover,Offensive Goaltending,0,60
+21100043,60,PT05M20.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,121,145,19,Made,1,16.0,15.0,31,h,Randolph 19' Jump Shot (4 PTS),Made Shot,Jump Shot,0,61
+21100043,61,PT05M00.00S,1,1610612745,HOU,2755,Martin,K. Martin,-52,165,17,Missed,1,0.0,0.0,0,v,MISS Martin 17' Jump Shot,Missed Shot,Jump Shot,0,62
+21100043,62,PT04M59.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0.0,0.0,0,h,Gasol REBOUND (Off:0 Def:2),Rebound,Unknown,0,63
+21100043,63,PT04M50.00S,1,1610612763,MEM,200752,Gay,R. Gay,-21,25,3,Missed,1,0.0,0.0,0,h,MISS Gay 3' Driving Jump Shot,Missed Shot,Driving Jump shot,0,64
+21100043,63,PT04M50.00S,1,1610612745,HOU,2223,Dalembert,S. Dalembert,0,0,0,,0,0.0,0.0,0,v,Dalembert BLOCK (1 BLK),,,0,65
+21100043,64,PT04M48.00S,1,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0.0,0.0,0,v,Scola REBOUND (Off:0 Def:1),Rebound,Unknown,0,66
+21100043,65,PT04M48.00S,1,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0.0,0.0,0,h,Allen P.FOUL (P2.PN),Foul,Personal,0,67
+21100043,66,PT04M48.00S,1,1610612745,HOU,2755,Martin,K. Martin,0,0,0,,0,16.0,16.0,32,v,Martin Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,68
+21100043,68,PT04M48.00S,1,1610612745,HOU,201978,Budinger,C. Budinger,0,0,0,,0,0.0,0.0,0,v,SUB: Lee FOR Budinger,Substitution,,0,69
+21100043,69,PT04M48.00S,1,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0.0,0.0,0,h,SUB: Mayo FOR Allen,Substitution,,0,70
+21100043,70,PT04M48.00S,1,1610612745,HOU,2755,Martin,K. Martin,0,0,0,,0,16.0,17.0,33,v,Martin Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,71
+21100043,72,PT04M36.00S,1,1610612763,MEM,201564,Mayo,O. Mayo,0,0,0,,0,0.0,0.0,0,h,Mayo Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,72
+21100043,73,PT04M25.00S,1,1610612763,MEM,201564,Mayo,O. Mayo,0,0,0,,0,0.0,0.0,0,h,Mayo P.FOUL (P1.PN),Foul,Personal,0,73
+21100043,74,PT04M25.00S,1,1610612745,HOU,2755,Martin,K. Martin,0,0,0,,0,16.0,18.0,34,v,Martin Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,74
+21100043,76,PT04M25.00S,1,1610612745,HOU,2755,Martin,K. Martin,0,0,0,,0,16.0,19.0,35,v,Martin Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,75
+21100043,78,PT04M14.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,40,20,4,Missed,1,0.0,0.0,0,h,MISS Gasol 4' Jump Shot,Missed Shot,Jump Shot,0,76
+21100043,78,PT04M14.00S,1,1610612745,HOU,2223,Dalembert,S. Dalembert,0,0,0,,0,0.0,0.0,0,v,Dalembert BLOCK (2 BLK),,,0,77
+21100043,79,PT04M13.00S,1,1610612745,HOU,2223,Dalembert,S. Dalembert,0,0,0,,0,0.0,0.0,0,v,Dalembert REBOUND (Off:0 Def:1),Rebound,Unknown,0,78
+21100043,80,PT04M00.00S,1,1610612745,HOU,2755,Martin,K. Martin,84,236,25,Missed,1,0.0,0.0,0,v,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,79
+21100043,81,PT03M59.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,h,Randolph REBOUND (Off:0 Def:3),Rebound,Unknown,0,80
+21100043,82,PT03M54.00S,1,1610612763,MEM,202729,Selby,J. Selby,-24,25,3,Made,1,18.0,19.0,37,h,Selby 3' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,0,81
+21100043,83,PT03M54.00S,1,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,Lowry S.FOUL (P1.T2),Foul,Shooting,0,82
+21100043,84,PT03M54.00S,1,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0.0,0.0,0,v,SUB: Patterson FOR Scola,Substitution,,0,83
+21100043,86,PT03M54.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,h,SUB: Cunningham FOR Randolph,Substitution,,0,84
+21100043,87,PT03M54.00S,1,1610612763,MEM,202729,Selby,J. Selby,0,0,0,,0,0.0,0.0,0,h,MISS Selby Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,85
+21100043,89,PT03M53.00S,1,1610612745,HOU,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,v,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,86
+21100043,90,PT03M39.00S,1,1610612745,HOU,200768,Lowry,K. Lowry,7,37,4,Missed,1,0.0,0.0,0,v,MISS Lowry 4' Jump Shot,Missed Shot,Jump Shot,0,87
+21100043,91,PT03M38.00S,1,1610612763,MEM,201564,Mayo,O. Mayo,0,0,0,,0,0.0,0.0,0,h,Mayo REBOUND (Off:0 Def:1),Rebound,Unknown,0,88
+21100043,92,PT03M34.00S,1,1610612745,HOU,2223,Dalembert,S. Dalembert,0,0,0,,0,0.0,0.0,0,v,Dalembert S.FOUL (P1.T3),Foul,Shooting,0,89
+21100043,93,PT03M34.00S,1,1610612763,MEM,201967,Cunningham,D. Cunningham,0,0,0,,0,19.0,19.0,38,h,Cunningham Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,90
+21100043,95,PT03M34.00S,1,1610612763,MEM,201967,Cunningham,D. Cunningham,0,0,0,,0,20.0,19.0,39,h,Cunningham Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,91
+21100043,97,PT03M10.00S,1,1610612745,HOU,201584,Lee,C. Lee,-122,33,13,Missed,1,0.0,0.0,0,v,MISS Lee 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,92
+21100043,97,PT03M10.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0.0,0.0,0,h,Gasol BLOCK (2 BLK),,,0,93
+21100043,98,PT03M10.00S,1,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Unknown,0,94
+21100043,99,PT03M10.00S,1,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,0,95
+21100043,100,PT02M55.00S,1,1610612763,MEM,201967,Cunningham,D. Cunningham,62,61,9,Missed,1,0.0,0.0,0,h,MISS Cunningham 9' Jump Shot,Missed Shot,Jump Shot,0,96
+21100043,101,PT02M54.00S,1,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,v,Patterson REBOUND (Off:0 Def:1),Rebound,Unknown,0,97
+21100043,102,PT02M46.00S,1,1610612745,HOU,200768,Lowry,K. Lowry,121,227,26,Missed,1,0.0,0.0,0,v,MISS Lowry 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,98
+21100043,103,PT02M45.00S,1,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0.0,0.0,0,h,Gay REBOUND (Off:0 Def:3),Rebound,Unknown,0,99
+21100043,104,PT02M32.00S,1,1610612763,MEM,202729,Selby,J. Selby,-141,216,26,Missed,1,0.0,0.0,0,h,MISS Selby 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,100
+21100043,105,PT02M31.00S,1,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,Lowry REBOUND (Off:0 Def:1),Rebound,Unknown,0,101
+21100043,106,PT02M31.00S,1,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0.0,0.0,0,h,Gay P.FOUL (P2.PN),Foul,Personal,0,102
+21100043,107,PT02M31.00S,1,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,103
+21100043,110,PT02M31.00S,1,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0.0,0.0,0,h,SUB: Pondexter FOR Gay,Substitution,,0,104
+21100043,111,PT02M31.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0.0,0.0,0,h,SUB: Randolph FOR Gasol,Substitution,,0,105
+21100043,112,PT02M31.00S,1,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,MISS Lowry Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,106
+21100043,113,PT02M31.00S,1,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Normal Rebound,0,107
+21100043,114,PT02M31.00S,1,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,20.0,20.0,40,v,Lowry Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,108
+21100043,116,PT02M20.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,-54,178,19,Made,1,22.0,20.0,42,h,Randolph 19' Jump Shot (6 PTS) (Selby 1 AST),Made Shot,Jump Shot,0,109
+21100043,117,PT01M59.00S,1,1610612745,HOU,2755,Martin,K. Martin,70,78,10,Made,1,22.0,22.0,44,v,Martin 10' Running Jump Shot (9 PTS),Made Shot,Running Jump Shot,0,110
+21100043,118,PT01M42.00S,1,1610612763,MEM,201564,Mayo,O. Mayo,-202,36,21,Made,1,24.0,22.0,46,h,Mayo 21' Jump Shot (2 PTS) (Selby 2 AST),Made Shot,Jump Shot,0,111
+21100043,119,PT01M22.00S,1,1610612745,HOU,2223,Dalembert,S. Dalembert,-13,4,1,Made,1,24.0,24.0,48,v,Dalembert 1' Alley Oop Dunk (2 PTS) (Lowry 3 AST),Made Shot,Alley Oop Dunk Shot,0,112
+21100043,120,PT01M04.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,2,200,20,Made,1,26.0,24.0,50,h,Randolph 20' Jump Shot (8 PTS),Made Shot,Jump Shot,0,113
+21100043,121,PT00M48.90S,1,1610612745,HOU,200768,Lowry,K. Lowry,0,14,1,Made,1,26.0,26.0,52,v,Lowry 1' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,0,114
+21100043,122,PT00M30.20S,1,1610612763,MEM,2216,Randolph,Z. Randolph,-21,33,4,Made,1,28.0,26.0,54,h,Randolph 4' Running Hook Shot (10 PTS),Made Shot,Running Hook Shot,0,115
+21100043,123,PT00M30.20S,1,1610612745,HOU,2223,Dalembert,S. Dalembert,0,0,0,,0,0.0,0.0,0,v,Dalembert S.FOUL (P2.T4),Foul,Shooting,0,116
+21100043,124,PT00M30.20S,1,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,SUB: Dragic FOR Lowry,Substitution,,0,117
+21100043,125,PT00M30.20S,1,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,h,MISS Randolph Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,118
+21100043,126,PT00M28.90S,1,1610612745,HOU,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,v,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,119
+21100043,127,PT00M09.90S,1,1610612745,HOU,202335,Patterson,P. Patterson,0,203,20,Missed,1,0.0,0.0,0,v,MISS Patterson 20' Jump Shot,Missed Shot,Jump Shot,0,120
+21100043,128,PT00M08.20S,1,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Unknown,0,121
+21100043,129,PT00M05.80S,1,1610612745,HOU,2755,Martin,K. Martin,151,15,15,Made,1,28.0,28.0,56,v,Martin 15' Pullup Jump Shot (11 PTS) (Lee 1 AST),Made Shot,Pullup Jump shot,0,122
+21100043,130,PT00M01.70S,1,1610612763,MEM,202729,Selby,J. Selby,23,14,3,Made,1,30.0,28.0,58,h,Selby 3' Running Layup (4 PTS),Made Shot,Running Layup Shot,0,123
+21100043,131,PT00M01.00S,1,1610612745,HOU,201584,Lee,C. Lee,-146,470,49,Missed,1,0.0,0.0,0,v,MISS Lee 49' 3PT Jump Shot,Missed Shot,Jump Shot,0,124
+21100043,134,PT00M00.00S,1,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Unknown,0,125
+21100043,133,PT00M00.00S,1,0,,0,,,0,0,0,,0,30.0,28.0,58,,End of 1st Period (8:39 PM EST),period,end,0,126
+21100043,136,PT12M00.00S,2,0,,0,,,0,0,0,,0,30.0,28.0,58,,Start of 2nd Period (8:41 PM EST),period,start,0,127
+21100043,137,PT11M43.00S,2,1610612745,HOU,201584,Lee,C. Lee,-120,126,17,Missed,1,0.0,0.0,0,v,MISS Lee 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,128
+21100043,138,PT11M42.00S,2,1610612745,HOU,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,v,Dragic REBOUND (Off:1 Def:0),Rebound,Unknown,0,129
+21100043,139,PT11M32.00S,2,1610612745,HOU,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,v,Dragic Palming Turnover (P1.T6),Turnover,Palming Turnover,0,130
+21100043,140,PT11M21.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,h,Randolph Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,131
+21100043,140,PT11M21.00S,2,1610612745,HOU,201944,Williams,T. Williams,0,0,0,,0,0.0,0.0,0,v,Williams STEAL (1 STL),,,0,132
+21100043,141,PT11M19.00S,2,1610612745,HOU,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,v,Dragic Poss Lost Ball Turnover (P2.T7),Turnover,Poss Lost Ball Turnover,0,133
+21100043,142,PT11M19.00S,2,1610612745,HOU,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,v,Dragic L.B.FOUL (P1.T1),Foul,Loose Ball,0,134
+21100043,143,PT11M11.00S,2,1610612763,MEM,202729,Selby,J. Selby,36,20,4,Missed,1,0.0,0.0,0,h,MISS Selby 4' Driving Jump Shot,Missed Shot,Driving Jump shot,0,135
+21100043,144,PT11M08.00S,2,1610612745,HOU,201941,Hill,J. Hill,0,0,0,,0,0.0,0.0,0,v,Hill REBOUND (Off:0 Def:3),Rebound,Unknown,0,136
+21100043,145,PT11M05.00S,2,1610612745,HOU,201609,Dragic,G. Dragic,-29,25,4,Missed,1,0.0,0.0,0,v,MISS Dragic 4' Jump Shot,Missed Shot,Jump Shot,0,137
+21100043,145,PT11M05.00S,2,1610612763,MEM,201967,Cunningham,D. Cunningham,0,0,0,,0,0.0,0.0,0,h,Cunningham BLOCK (1 BLK),,,0,138
+21100043,146,PT11M02.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,h,Randolph REBOUND (Off:0 Def:4),Rebound,Unknown,0,139
+21100043,147,PT10M54.00S,2,1610612763,MEM,201564,Mayo,O. Mayo,9,154,15,Missed,1,0.0,0.0,0,h,MISS Mayo 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,140
+21100043,148,PT10M52.00S,2,1610612745,HOU,201941,Hill,J. Hill,0,0,0,,0,0.0,0.0,0,v,Hill REBOUND (Off:0 Def:4),Rebound,Unknown,0,141
+21100043,149,PT10M35.00S,2,1610612745,HOU,201941,Hill,J. Hill,122,28,13,Missed,1,0.0,0.0,0,v,MISS Hill 13' Jump Shot,Missed Shot,Jump Shot,0,142
+21100043,150,PT10M34.00S,2,1610612763,MEM,201967,Cunningham,D. Cunningham,0,0,0,,0,0.0,0.0,0,h,Cunningham REBOUND (Off:0 Def:1),Rebound,Unknown,0,143
+21100043,151,PT10M09.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,65,134,15,Made,1,32.0,28.0,60,h,Randolph 15' Jump Shot (12 PTS),Made Shot,Jump Shot,0,144
+21100043,152,PT09M54.00S,2,1610612763,MEM,202347,Pondexter,Q. Pondexter,0,0,0,,0,0.0,0.0,0,h,Pondexter P.FOUL (P1.T1),Foul,Personal,0,145
+21100043,153,PT09M54.00S,2,1610612763,MEM,202729,Selby,J. Selby,0,0,0,,0,0.0,0.0,0,h,SUB: Pargo FOR Selby,Substitution,,0,146
+21100043,154,PT09M54.00S,2,1610612763,MEM,201967,Cunningham,D. Cunningham,0,0,0,,0,0.0,0.0,0,h,SUB: Gasol FOR Cunningham,Substitution,,0,147
+21100043,155,PT09M39.00S,2,1610612745,HOU,201941,Hill,J. Hill,-15,88,9,Made,1,32.0,30.0,62,v,Hill 9' Hook Shot (2 PTS) (Dragic 1 AST),Made Shot,Hook Shot,0,148
+21100043,156,PT09M24.00S,2,1610612763,MEM,202951,Pargo,J. Pargo,113,157,19,Missed,1,0.0,0.0,0,h,MISS Pargo 19' Jump Shot,Missed Shot,Jump Shot,0,149
+21100043,157,PT09M23.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,h,Randolph REBOUND (Off:1 Def:4),Rebound,Unknown,0,150
+21100043,158,PT09M18.00S,2,1610612763,MEM,202347,Pondexter,Q. Pondexter,-11,19,2,Missed,1,0.0,0.0,0,h,MISS Pondexter 2' Layup,Missed Shot,Layup Shot,0,151
+21100043,159,PT09M17.00S,2,1610612745,HOU,201941,Hill,J. Hill,0,0,0,,0,0.0,0.0,0,v,Hill REBOUND (Off:0 Def:5),Rebound,Unknown,0,152
+21100043,160,PT09M14.00S,2,1610612763,MEM,202951,Pargo,J. Pargo,0,0,0,,0,0.0,0.0,0,h,Pargo P.FOUL (P3.T2),Foul,Personal,0,153
+21100043,161,PT09M14.00S,2,1610612763,MEM,202951,Pargo,J. Pargo,0,0,0,,0,0.0,0.0,0,h,SUB: Selby FOR Pargo,Substitution,,0,154
+21100043,162,PT09M08.00S,2,1610612745,HOU,202335,Patterson,P. Patterson,-4,178,18,Missed,1,0.0,0.0,0,v,MISS Patterson 18' Jump Shot,Missed Shot,Jump Shot,0,155
+21100043,163,PT09M07.00S,2,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0.0,0.0,0,h,Gasol REBOUND (Off:0 Def:3),Rebound,Unknown,0,156
+21100043,164,PT08M56.00S,2,1610612763,MEM,201564,Mayo,O. Mayo,7,6,1,Made,1,34.0,30.0,64,h,Mayo 1' Slam Dunk (4 PTS) (Randolph 2 AST),Made Shot,Slam Dunk Shot,0,157
+21100043,165,PT08M32.00S,2,1610612745,HOU,201584,Lee,C. Lee,228,6,0,Missed,1,0.0,0.0,0,v,MISS Lee  3PT Jump Shot,Missed Shot,Jump Shot,0,158
+21100043,166,PT08M31.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,h,Randolph REBOUND (Off:1 Def:5),Rebound,Unknown,0,159
+21100043,167,PT08M25.00S,2,1610612763,MEM,201188,Gasol,M. Gasol,4,7,1,Made,1,36.0,30.0,66,h,Gasol 1' Layup (8 PTS) (Mayo 1 AST),Made Shot,Layup Shot,0,160
+21100043,168,PT08M03.00S,2,1610612745,HOU,201609,Dragic,G. Dragic,-114,233,26,Missed,1,0.0,0.0,0,v,MISS Dragic 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,161
+21100043,169,PT08M01.00S,2,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0.0,0.0,0,h,Gasol REBOUND (Off:0 Def:4),Rebound,Unknown,0,162
+21100043,170,PT08M01.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,163
+21100043,172,PT08M01.00S,2,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,v,SUB: Scola FOR Patterson,Substitution,,0,164
+21100043,173,PT08M01.00S,2,1610612745,HOU,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,v,SUB: Lowry FOR Dragic,Substitution,,0,165
+21100043,175,PT07M47.00S,2,1610612763,MEM,201564,Mayo,O. Mayo,-123,78,15,Missed,1,0.0,0.0,0,h,MISS Mayo 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,166
+21100043,176,PT07M43.00S,2,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,Lowry REBOUND (Off:0 Def:2),Rebound,Unknown,0,167
+21100043,177,PT07M36.00S,2,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,Lowry Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,168
+21100043,177,PT07M36.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,h,Randolph STEAL (1 STL),,,0,169
+21100043,178,PT07M34.00S,2,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,Lowry S.FOUL (P2.T2),Foul,Shooting,0,170
+21100043,179,PT07M34.00S,2,1610612763,MEM,202347,Pondexter,Q. Pondexter,0,0,0,,0,0.0,0.0,0,h,MISS Pondexter Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,171
+21100043,180,PT07M34.00S,2,0,,1610612763,,,0,0,0,,0,0.0,0.0,0,h,GRIZZLIES Rebound,Rebound,Normal Rebound,0,172
+21100043,181,PT07M34.00S,2,1610612745,HOU,201944,Williams,T. Williams,0,0,0,,0,0.0,0.0,0,v,SUB: Martin FOR Williams,Substitution,,0,173
+21100043,182,PT07M34.00S,2,1610612763,MEM,202347,Pondexter,Q. Pondexter,0,0,0,,0,37.0,30.0,67,h,Pondexter Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,174
+21100043,184,PT07M22.00S,2,1610612745,HOU,201941,Hill,J. Hill,26,31,4,Missed,1,0.0,0.0,0,v,MISS Hill 4' Jump Shot,Missed Shot,Jump Shot,0,175
+21100043,184,PT07M22.00S,2,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0.0,0.0,0,h,Gasol BLOCK (3 BLK),,,0,176
+21100043,185,PT07M20.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,h,Randolph REBOUND (Off:1 Def:6),Rebound,Unknown,0,177
+21100043,186,PT07M16.00S,2,1610612763,MEM,202729,Selby,J. Selby,2,23,2,Missed,1,0.0,0.0,0,h,MISS Selby 2' Layup,Missed Shot,Layup Shot,0,178
+21100043,186,PT07M16.00S,2,1610612745,HOU,201584,Lee,C. Lee,0,0,0,,0,0.0,0.0,0,v,Lee BLOCK (1 BLK),,,0,179
+21100043,187,PT07M16.00S,2,0,,1610612763,,,0,0,0,,0,0.0,0.0,0,h,GRIZZLIES Rebound,Rebound,Unknown,0,180
+21100043,188,PT07M09.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,-13,0,1,Made,1,39.0,30.0,69,h,Randolph 1' Reverse Layup (14 PTS) (Mayo 2 AST),Made Shot,Reverse Layup Shot,0,181
+21100043,189,PT07M09.00S,2,1610612745,HOU,201941,Hill,J. Hill,0,0,0,,0,0.0,0.0,0,v,Hill S.FOUL (P1.T3),Foul,Shooting,0,182
+21100043,190,PT07M09.00S,2,1610612745,HOU,201941,Hill,J. Hill,0,0,0,,0,0.0,0.0,0,v,SUB: Dalembert FOR Hill,Substitution,,0,183
+21100043,191,PT07M09.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,40.0,30.0,70,h,Randolph Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,0,184
+21100043,193,PT06M53.00S,2,1610612745,HOU,2755,Martin,K. Martin,133,219,26,Made,1,40.0,33.0,73,v,Martin 26' 3PT Jump Shot (14 PTS) (Lowry 4 AST),Made Shot,Jump Shot,0,185
+21100043,194,PT06M33.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,h,Randolph Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,186
+21100043,194,PT06M33.00S,2,1610612745,HOU,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,v,Martin STEAL (1 STL),,,0,187
+21100043,195,PT06M31.00S,2,1610612745,HOU,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,v,Martin Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,188
+21100043,195,PT06M31.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,h,Randolph STEAL (2 STL),,,0,189
+21100043,196,PT06M15.00S,2,1610612763,MEM,201564,Mayo,O. Mayo,0,15,2,Made,1,42.0,33.0,75,h,Mayo 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,190
+21100043,197,PT06M15.00S,2,1610612745,HOU,201584,Lee,C. Lee,0,0,0,,0,0.0,0.0,0,v,Lee S.FOUL (P1.T4),Foul,Shooting,0,191
+21100043,198,PT06M15.00S,2,1610612763,MEM,201564,Mayo,O. Mayo,0,0,0,,0,43.0,33.0,76,h,Mayo Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,192
+21100043,200,PT06M01.00S,2,1610612745,HOU,200768,Lowry,K. Lowry,-7,6,1,Made,1,43.0,35.0,78,v,Lowry 1' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,0,193
+21100043,201,PT05M41.00S,2,1610612763,MEM,202347,Pondexter,Q. Pondexter,108,67,13,Made,1,45.0,35.0,80,h,Pondexter 13' Pullup Bank Shot (3 PTS) (Selby 3 AST),Made Shot,Pullup Bank shot,0,194
+21100043,202,PT05M23.00S,2,1610612745,HOU,2449,Scola,L. Scola,124,71,14,Made,1,45.0,37.0,82,v,Scola 14' Jump Shot (2 PTS) (Lee 2 AST),Made Shot,Jump Shot,0,195
+21100043,203,PT05M01.00S,2,1610612745,HOU,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,v,Martin P.FOUL (P1.PN),Foul,Personal,0,196
+21100043,204,PT05M01.00S,2,0,,1610612763,,,0,0,0,,0,0.0,0.0,0,h,GRIZZLIES Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,197
+21100043,207,PT05M01.00S,2,1610612763,MEM,202347,Pondexter,Q. Pondexter,0,0,0,,0,0.0,0.0,0,h,SUB: Gay FOR Pondexter,Substitution,,0,198
+21100043,208,PT05M01.00S,2,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,46.0,37.0,83,h,Gasol Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,199
+21100043,210,PT05M01.00S,2,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,47.0,37.0,84,h,Gasol Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,200
+21100043,212,PT04M37.00S,2,1610612745,HOU,200768,Lowry,K. Lowry,-65,254,26,Missed,1,0.0,0.0,0,v,MISS Lowry 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,201
+21100043,213,PT04M36.00S,2,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0.0,0.0,0,h,Gasol REBOUND (Off:0 Def:5),Rebound,Unknown,0,202
+21100043,214,PT04M25.00S,2,1610612763,MEM,200752,Gay,R. Gay,-29,118,12,Missed,1,0.0,0.0,0,h,MISS Gay 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,203
+21100043,215,PT04M23.00S,2,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0.0,0.0,0,v,Scola REBOUND (Off:0 Def:2),Rebound,Unknown,0,204
+21100043,216,PT04M17.00S,2,1610612745,HOU,2755,Martin,K. Martin,9,11,1,Made,1,47.0,39.0,86,v,Martin 1' Layup (16 PTS),Made Shot,Layup Shot,0,205
+21100043,217,PT03M59.00S,2,1610612763,MEM,201188,Gasol,M. Gasol,-112,28,12,Made,1,49.0,39.0,88,h,Gasol 12' Turnaround Jump Shot (12 PTS) (Selby 4 AST),Made Shot,Turnaround Jump Shot,0,206
+21100043,218,PT03M46.00S,2,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,Lowry OFF.Foul (P3),Foul,Offensive,0,207
+21100043,219,PT03M46.00S,2,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,Lowry Foul Turnover (P2.T10),Turnover,Foul,0,208
+21100043,220,PT03M46.00S,2,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,SUB: Flynn FOR Lowry,Substitution,,0,209
+21100043,221,PT03M29.00S,2,1610612763,MEM,201188,Gasol,M. Gasol,-93,37,10,Missed,1,0.0,0.0,0,h,MISS Gasol 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,0,210
+21100043,222,PT03M27.00S,2,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0.0,0.0,0,v,Scola REBOUND (Off:0 Def:3),Rebound,Unknown,0,211
+21100043,223,PT03M08.00S,2,1610612745,HOU,201938,Flynn,J. Flynn,-62,48,8,Made,1,49.0,41.0,90,v,Flynn 8' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,0,212
+21100043,224,PT02M53.00S,2,1610612745,HOU,2223,Dalembert,S. Dalembert,0,0,0,,0,0.0,0.0,0,v,Dalembert S.FOUL (P3.PN),Foul,Shooting,0,213
+21100043,225,PT02M53.00S,2,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,214
+21100043,227,PT02M53.00S,2,1610612745,HOU,2223,Dalembert,S. Dalembert,0,0,0,,0,0.0,0.0,0,v,SUB: Parsons FOR Dalembert,Substitution,,0,215
+21100043,228,PT02M53.00S,2,1610612763,MEM,202729,Selby,J. Selby,0,0,0,,0,0.0,0.0,0,h,MISS Selby Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,216
+21100043,229,PT02M53.00S,2,0,,1610612763,,,0,0,0,,0,0.0,0.0,0,h,GRIZZLIES Rebound,Rebound,Normal Rebound,0,217
+21100043,230,PT02M53.00S,2,1610612763,MEM,202729,Selby,J. Selby,0,0,0,,0,50.0,41.0,91,h,Selby Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,218
+21100043,232,PT02M33.00S,2,1610612745,HOU,2449,Scola,L. Scola,-56,53,8,Made,1,50.0,43.0,93,v,Scola 8' Jump Bank Shot (4 PTS) (Flynn 1 AST),Made Shot,Jump Bank Shot,0,219
+21100043,233,PT02M18.00S,2,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,v,Parsons P.FOUL (P1.PN),Foul,Personal,0,220
+21100043,234,PT02M18.00S,2,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,51.0,43.0,94,h,Gay Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,221
+21100043,236,PT02M18.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,h,SUB: Cunningham FOR Randolph,Substitution,,0,222
+21100043,237,PT02M18.00S,2,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,52.0,43.0,95,h,Gay Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,223
+21100043,239,PT02M04.00S,2,1610612745,HOU,201938,Flynn,J. Flynn,228,14,0,Made,1,52.0,46.0,98,v,Flynn  3PT Jump Shot (5 PTS) (Martin 1 AST),Made Shot,Jump Shot,0,224
+21100043,240,PT01M40.00S,2,1610612763,MEM,202729,Selby,J. Selby,-7,28,3,Missed,1,0.0,0.0,0,h,MISS Selby 3' Layup,Missed Shot,Layup Shot,0,225
+21100043,240,PT01M40.00S,2,1610612745,HOU,201584,Lee,C. Lee,0,0,0,,0,0.0,0.0,0,v,Lee BLOCK (2 BLK),,,0,226
+21100043,242,PT01M38.00S,2,1610612763,MEM,201967,Cunningham,D. Cunningham,0,0,0,,0,0.0,0.0,0,h,Cunningham REBOUND (Off:1 Def:1),Rebound,Unknown,0,227
+21100043,241,PT01M38.00S,2,1610612763,MEM,201967,Cunningham,D. Cunningham,-8,20,2,Missed,1,0.0,0.0,0,h,MISS Cunningham 2' Layup,Missed Shot,Layup Shot,0,228
+21100043,243,PT01M36.00S,2,0,,1610612763,,,0,0,0,,0,0.0,0.0,0,h,GRIZZLIES Rebound,Rebound,Unknown,0,229
+21100043,244,PT01M29.00S,2,1610612763,MEM,201564,Mayo,O. Mayo,-123,173,21,Made,1,54.0,46.0,100,h,Mayo 21' Pullup Jump Shot (9 PTS) (Selby 5 AST),Made Shot,Pullup Jump shot,0,230
+21100043,245,PT01M12.00S,2,1610612745,HOU,2755,Martin,K. Martin,226,107,25,Made,1,54.0,49.0,103,v,Martin 25' 3PT Jump Shot (19 PTS) (Parsons 1 AST),Made Shot,Jump Shot,0,231
+21100043,246,PT01M00.00S,2,1610612745,HOU,201584,Lee,C. Lee,0,0,0,,0,0.0,0.0,0,v,Lee S.FOUL (P2.PN),Foul,Shooting,0,232
+21100043,247,PT01M00.00S,2,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0.0,0.0,0,h,MISS Gasol Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,233
+21100043,248,PT01M00.00S,2,0,,1610612763,,,0,0,0,,0,0.0,0.0,0,h,GRIZZLIES Rebound,Rebound,Normal Rebound,0,234
+21100043,250,PT01M00.00S,2,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0.0,0.0,0,h,SUB: Pondexter FOR Gay,Substitution,,0,235
+21100043,251,PT01M00.00S,2,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,55.0,49.0,104,h,Gasol Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,236
+21100043,253,PT00M43.90S,2,1610612745,HOU,202718,Parsons,C. Parsons,-51,63,8,Missed,1,0.0,0.0,0,v,MISS Parsons 8' Jump Shot,Missed Shot,Jump Shot,0,237
+21100043,255,PT00M41.90S,2,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,v,Parsons REBOUND (Off:1 Def:0),Rebound,Unknown,0,238
+21100043,254,PT00M41.90S,2,1610612745,HOU,202718,Parsons,C. Parsons,-8,14,2,Missed,1,0.0,0.0,0,v,MISS Parsons 2' Tip Shot,Missed Shot,Tip Shot,0,239
+21100043,256,PT00M39.50S,2,1610612763,MEM,201967,Cunningham,D. Cunningham,0,0,0,,0,0.0,0.0,0,h,Cunningham REBOUND (Off:1 Def:2),Rebound,Unknown,0,240
+21100043,257,PT00M24.70S,2,1610612763,MEM,201967,Cunningham,D. Cunningham,149,112,19,Made,1,57.0,49.0,106,h,Cunningham 19' Jump Shot (4 PTS) (Pondexter 1 AST),Made Shot,Jump Shot,0,241
+21100043,258,PT00M01.60S,2,1610612745,HOU,201584,Lee,C. Lee,-2,1,0,Made,1,57.0,51.0,108,v,Lee  Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,242
+21100043,259,PT00M01.00S,2,1610612763,MEM,202347,Pondexter,Q. Pondexter,-5,457,46,Missed,1,0.0,0.0,0,h,MISS Pondexter 46' 3PT Jump Shot,Missed Shot,Jump Shot,0,243
+21100043,261,PT00M00.00S,2,0,,1610612763,,,0,0,0,,0,0.0,0.0,0,h,GRIZZLIES Rebound,Rebound,Unknown,0,244
+21100043,260,PT00M00.00S,2,0,,0,,,0,0,0,,0,57.0,51.0,108,,End of 2nd Period (9:09 PM EST),period,end,0,245
+21100043,263,PT12M00.00S,3,0,,0,,,0,0,0,,0,57.0,51.0,108,,Start of 3rd Period (9:25 PM EST),period,start,0,246
+21100043,264,PT11M44.00S,3,1610612745,HOU,201978,Budinger,C. Budinger,236,-8,24,Missed,1,0.0,0.0,0,v,MISS Budinger 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,247
+21100043,265,PT11M43.00S,3,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0.0,0.0,0,h,Allen REBOUND (Off:0 Def:1),Rebound,Unknown,0,248
+21100043,266,PT11M43.00S,3,1610612745,HOU,201941,Hill,J. Hill,0,0,0,,0,0.0,0.0,0,v,Hill P.FOUL (P2.T1),Foul,Personal,0,249
+21100043,267,PT11M29.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0.0,0.0,0,h,Gasol Out of Bounds Lost Ball Turnover (P4.T10),Turnover,Out of Bounds Lost Ball Turnover,0,250
+21100043,268,PT11M14.00S,3,1610612745,HOU,201978,Budinger,C. Budinger,-240,77,25,Made,1,57.0,54.0,111,v,Budinger 25' 3PT Jump Shot (7 PTS) (Lowry 5 AST),Made Shot,Jump Shot,0,251
+21100043,269,PT10M54.00S,3,1610612763,MEM,200752,Gay,R. Gay,86,69,11,Missed,1,0.0,0.0,0,h,MISS Gay 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,252
+21100043,271,PT10M52.00S,3,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0.0,0.0,0,h,Allen REBOUND (Off:1 Def:1),Rebound,Unknown,0,253
+21100043,270,PT10M52.00S,3,1610612763,MEM,2754,Allen,T. Allen,0,14,1,Missed,1,0.0,0.0,0,h,MISS Allen 1' Tip Shot,Missed Shot,Tip Shot,0,254
+21100043,273,PT10M50.00S,3,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0.0,0.0,0,h,Gay REBOUND (Off:1 Def:3),Rebound,Unknown,0,255
+21100043,272,PT10M50.00S,3,1610612763,MEM,200752,Gay,R. Gay,-11,12,2,Made,1,59.0,54.0,113,h,Gay 2' Putback Slam Dunk (8 PTS),Made Shot,Putback Slam Dunk Shot,0,256
+21100043,274,PT10M36.00S,3,1610612745,HOU,201978,Budinger,C. Budinger,89,56,11,Made,1,59.0,56.0,115,v,Budinger 11' Running Jump Shot (9 PTS) (Lowry 6 AST),Made Shot,Running Jump Shot,0,257
+21100043,275,PT10M19.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,22,2,Made,1,61.0,56.0,117,h,Gasol 2' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,0,258
+21100043,276,PT10M19.00S,3,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0.0,0.0,0,v,Scola S.FOUL (P2.T2),Foul,Shooting,0,259
+21100043,277,PT10M19.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,62.0,56.0,118,h,Gasol Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,0,260
+21100043,278,PT10M03.00S,3,1610612745,HOU,201978,Budinger,C. Budinger,0,0,0,,0,0.0,0.0,0,v,Budinger Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,261
+21100043,278,PT10M03.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0.0,0.0,0,h,Gasol STEAL (3 STL),,,0,262
+21100043,279,PT09M58.00S,3,1610612763,MEM,202951,Pargo,J. Pargo,32,85,9,Made,1,64.0,56.0,120,h,Pargo 9' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,0,263
+21100043,281,PT09M43.00S,3,1610612745,HOU,2755,Martin,K. Martin,-237,0,24,Missed,1,0.0,0.0,0,v,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,264
+21100043,282,PT09M42.00S,3,1610612763,MEM,202951,Pargo,J. Pargo,0,0,0,,0,0.0,0.0,0,h,Pargo REBOUND (Off:0 Def:1),Rebound,Unknown,0,265
+21100043,283,PT09M31.00S,3,1610612763,MEM,200752,Gay,R. Gay,13,19,2,Made,1,66.0,56.0,122,h,Gay 2' Finger Roll Layup (10 PTS),Made Shot,Finger Roll Layup Shot,0,266
+21100043,284,PT09M21.00S,3,1610612745,HOU,200768,Lowry,K. Lowry,-13,25,3,Missed,1,0.0,0.0,0,v,MISS Lowry 3' Driving Layup,Missed Shot,Driving Layup Shot,0,267
+21100043,284,PT09M21.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0.0,0.0,0,h,Gasol BLOCK (4 BLK),,,0,268
+21100043,285,PT09M18.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,h,Randolph REBOUND (Off:1 Def:7),Rebound,Unknown,0,269
+21100043,286,PT09M16.00S,3,1610612745,HOU,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,v,Martin S.FOUL (P2.T3),Foul,Shooting,0,270
+21100043,287,PT09M16.00S,3,1610612763,MEM,202951,Pargo,J. Pargo,0,0,0,,0,67.0,56.0,123,h,Pargo Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,271
+21100043,289,PT09M16.00S,3,1610612763,MEM,202951,Pargo,J. Pargo,0,0,0,,0,68.0,56.0,124,h,Pargo Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,272
+21100043,291,PT09M03.00S,3,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0.0,0.0,0,v,Scola OFF.Foul (P3),Foul,Offensive,0,273
+21100043,292,PT09M03.00S,3,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0.0,0.0,0,v,Scola Foul Turnover (P2.T12),Turnover,Foul,0,274
+21100043,293,PT09M03.00S,3,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,275
+21100043,295,PT09M03.00S,3,1610612745,HOU,201941,Hill,J. Hill,0,0,0,,0,0.0,0.0,0,v,SUB: Dalembert FOR Hill,Substitution,,0,276
+21100043,297,PT08M47.00S,3,1610612763,MEM,200752,Gay,R. Gay,-134,124,18,Missed,1,0.0,0.0,0,h,MISS Gay 18' Jump Shot,Missed Shot,Jump Shot,0,277
+21100043,298,PT08M45.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0.0,0.0,0,h,Gasol REBOUND (Off:1 Def:5),Rebound,Unknown,0,278
+21100043,299,PT08M32.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,-5,195,20,Made,1,70.0,56.0,126,h,Gasol 20' Jump Shot (18 PTS) (Pargo 2 AST),Made Shot,Jump Shot,0,279
+21100043,300,PT08M24.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0.0,0.0,0,h,Gasol P.FOUL (P1.T1),Foul,Personal,0,280
+21100043,301,PT08M08.00S,3,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,Lowry Lost Ball Turnover (P3.T13),Turnover,Lost Ball,0,281
+21100043,301,PT08M08.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,h,Randolph STEAL (3 STL),,,0,282
+21100043,302,PT07M57.00S,3,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0.0,0.0,0,h,Gay Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,283
+21100043,302,PT07M57.00S,3,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,Lowry STEAL (4 STL),,,0,284
+21100043,303,PT07M52.00S,3,1610612745,HOU,2755,Martin,K. Martin,6,11,1,Made,1,70.0,58.0,128,v,Martin 1' Layup (21 PTS) (Lowry 7 AST),Made Shot,Layup Shot,0,285
+21100043,304,PT07M36.00S,3,1610612745,HOU,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,v,Martin S.FOUL (P3.T4),Foul,Shooting,0,286
+21100043,305,PT07M36.00S,3,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0.0,0.0,0,h,MISS Allen Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,287
+21100043,306,PT07M36.00S,3,0,,1610612763,,,0,0,0,,0,0.0,0.0,0,h,GRIZZLIES Rebound,Rebound,Normal Rebound,0,288
+21100043,307,PT07M36.00S,3,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0.0,0.0,0,h,MISS Allen Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,289
+21100043,309,PT07M35.00S,3,1610612745,HOU,2223,Dalembert,S. Dalembert,0,0,0,,0,0.0,0.0,0,v,Dalembert REBOUND (Off:0 Def:2),Rebound,Unknown,0,290
+21100043,310,PT07M26.00S,3,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0.0,0.0,0,h,Allen P.FOUL (P3.T2),Foul,Personal,0,291
+21100043,311,PT07M26.00S,3,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Timeout: Short (Reg.3 Short 1),Timeout,Short,0,292
+21100043,313,PT07M22.00S,3,1610612745,HOU,201978,Budinger,C. Budinger,-242,26,24,Missed,1,0.0,0.0,0,v,MISS Budinger 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,293
+21100043,314,PT07M21.00S,3,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0.0,0.0,0,h,Gay REBOUND (Off:1 Def:4),Rebound,Unknown,0,294
+21100043,315,PT07M10.00S,3,1610612763,MEM,202951,Pargo,J. Pargo,122,178,22,Made,1,72.0,58.0,130,h,Pargo 22' Jump Shot (6 PTS),Made Shot,Jump Shot,0,295
+21100043,316,PT06M48.00S,3,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0.0,0.0,0,v,Scola Offensive Charge Foul (P4.PN),Foul,Offensive Charge,0,296
+21100043,317,PT06M48.00S,3,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0.0,0.0,0,v,Scola Foul Turnover (P3.T14),Turnover,Foul,0,297
+21100043,318,PT06M48.00S,3,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0.0,0.0,0,v,SUB: Patterson FOR Scola,Substitution,,0,298
+21100043,319,PT06M38.00S,3,1610612763,MEM,202951,Pargo,J. Pargo,0,0,0,,0,0.0,0.0,0,h,Pargo Out of Bounds Lost Ball Turnover (P2.T12),Turnover,Out of Bounds Lost Ball Turnover,0,299
+21100043,320,PT06M25.00S,3,1610612745,HOU,201978,Budinger,C. Budinger,10,28,3,Missed,1,0.0,0.0,0,v,MISS Budinger 3' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,0,300
+21100043,320,PT06M25.00S,3,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0.0,0.0,0,h,Gay BLOCK (1 BLK),,,0,301
+21100043,321,PT06M22.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,h,Randolph REBOUND (Off:1 Def:8),Rebound,Unknown,0,302
+21100043,322,PT06M21.00S,3,1610612745,HOU,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,v,Martin S.FOUL (P4.PN),Foul,Shooting,0,303
+21100043,323,PT06M21.00S,3,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0.0,0.0,0,h,MISS Allen Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,304
+21100043,324,PT06M21.00S,3,0,,1610612763,,,0,0,0,,0,0.0,0.0,0,h,GRIZZLIES Rebound,Rebound,Normal Rebound,0,305
+21100043,325,PT06M21.00S,3,1610612745,HOU,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,v,SUB: Lee FOR Martin,Substitution,,0,306
+21100043,326,PT06M21.00S,3,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,73.0,58.0,131,h,Allen Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,307
+21100043,328,PT06M08.00S,3,1610612745,HOU,202335,Patterson,P. Patterson,13,138,14,Missed,1,0.0,0.0,0,v,MISS Patterson 14' Jump Shot,Missed Shot,Jump Shot,0,308
+21100043,329,PT06M07.00S,3,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,Lowry REBOUND (Off:1 Def:2),Rebound,Unknown,0,309
+21100043,330,PT05M58.00S,3,1610612745,HOU,2223,Dalembert,S. Dalembert,108,41,12,Missed,1,0.0,0.0,0,v,MISS Dalembert 12' Jump Shot,Missed Shot,Jump Shot,0,310
+21100043,331,PT05M57.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0.0,0.0,0,h,Gasol REBOUND (Off:1 Def:6),Rebound,Unknown,0,311
+21100043,332,PT05M39.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,37,14,4,Made,1,75.0,58.0,133,h,Randolph 4' Jump Shot (17 PTS),Made Shot,Jump Shot,0,312
+21100043,333,PT05M23.00S,3,1610612745,HOU,201978,Budinger,C. Budinger,-15,11,2,Made,1,75.0,60.0,135,v,Budinger 2' Reverse Layup (11 PTS) (Lowry 8 AST),Made Shot,Reverse Layup Shot,0,313
+21100043,334,PT05M12.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,124,17,13,Missed,1,0.0,0.0,0,h,MISS Randolph 13' Jump Shot,Missed Shot,Jump Shot,0,314
+21100043,335,PT05M10.00S,3,1610612745,HOU,201584,Lee,C. Lee,0,0,0,,0,0.0,0.0,0,v,Lee REBOUND (Off:0 Def:1),Rebound,Unknown,0,315
+21100043,336,PT05M00.00S,3,1610612745,HOU,200768,Lowry,K. Lowry,2,14,1,Made,1,75.0,62.0,137,v,Lowry 1' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,0,316
+21100043,337,PT05M00.00S,3,0,,1610612763,,,0,0,0,,0,0.0,0.0,0,h,GRIZZLIES Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,317
+21100043,339,PT05M00.00S,3,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0.0,0.0,0,h,SUB: Pondexter FOR Gay,Substitution,,0,318
+21100043,340,PT05M00.00S,3,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0.0,0.0,0,h,SUB: Mayo FOR Allen,Substitution,,0,319
+21100043,341,PT04M47.00S,3,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,v,Patterson P.FOUL (P1.PN),Foul,Personal,0,320
+21100043,342,PT04M47.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,76.0,62.0,138,h,Gasol Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,321
+21100043,344,PT04M47.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,h,SUB: Cunningham FOR Randolph,Substitution,,0,322
+21100043,345,PT04M47.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,77.0,62.0,139,h,Gasol Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,323
+21100043,347,PT04M31.00S,3,1610612745,HOU,201584,Lee,C. Lee,113,241,27,Missed,1,0.0,0.0,0,v,MISS Lee 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,324
+21100043,348,PT04M29.00S,3,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,v,Patterson REBOUND (Off:1 Def:1),Rebound,Unknown,0,325
+21100043,349,PT04M28.00S,3,1610612745,HOU,202335,Patterson,P. Patterson,-11,9,1,Missed,1,0.0,0.0,0,v,MISS Patterson 1' Tip Shot,Missed Shot,Tip Shot,0,326
+21100043,350,PT04M25.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0.0,0.0,0,h,Gasol REBOUND (Off:1 Def:7),Rebound,Unknown,0,327
+21100043,351,PT04M18.00S,3,1610612763,MEM,201564,Mayo,O. Mayo,233,7,0,Missed,1,0.0,0.0,0,h,MISS Mayo  3PT Jump Shot,Missed Shot,Jump Shot,0,328
+21100043,352,PT04M17.00S,3,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,v,Patterson REBOUND (Off:1 Def:2),Rebound,Unknown,0,329
+21100043,353,PT04M08.00S,3,1610612763,MEM,201967,Cunningham,D. Cunningham,0,0,0,,0,0.0,0.0,0,h,Cunningham S.FOUL (P1.T3),Foul,Shooting,0,330
+21100043,354,PT04M08.00S,3,1610612745,HOU,2223,Dalembert,S. Dalembert,0,0,0,,0,77.0,63.0,140,v,Dalembert Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,331
+21100043,356,PT04M08.00S,3,1610612745,HOU,201978,Budinger,C. Budinger,0,0,0,,0,0.0,0.0,0,v,SUB: Flynn FOR Budinger,Substitution,,0,332
+21100043,357,PT04M08.00S,3,1610612745,HOU,2223,Dalembert,S. Dalembert,0,0,0,,0,77.0,64.0,141,v,Dalembert Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,333
+21100043,359,PT03M56.00S,3,1610612763,MEM,202951,Pargo,J. Pargo,0,6,1,Made,1,79.0,64.0,143,h,Pargo 1' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,0,334
+21100043,360,PT03M33.00S,3,1610612763,MEM,201967,Cunningham,D. Cunningham,0,0,0,,0,0.0,0.0,0,h,Cunningham P.FOUL (P2.T4),Foul,Personal,0,335
+21100043,361,PT03M22.00S,3,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,Lowry Offensive Charge Foul (P4.PN),Foul,Offensive Charge,0,336
+21100043,362,PT03M22.00S,3,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,Lowry Foul Turnover (P4.T15),Turnover,Foul,0,337
+21100043,363,PT03M22.00S,3,1610612745,HOU,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,SUB: Dragic FOR Lowry,Substitution,,0,338
+21100043,364,PT03M12.00S,3,1610612763,MEM,202951,Pargo,J. Pargo,0,0,0,,0,0.0,0.0,0,h,Pargo Traveling Turnover (P3.T13),Turnover,Traveling,0,339
+21100043,365,PT03M05.00S,3,1610612745,HOU,2223,Dalembert,S. Dalembert,29,25,4,Missed,1,0.0,0.0,0,v,MISS Dalembert 4' Jump Shot,Missed Shot,Jump Shot,0,340
+21100043,365,PT03M05.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0.0,0.0,0,h,Gasol BLOCK (5 BLK),,,0,341
+21100043,366,PT03M04.00S,3,1610612763,MEM,201967,Cunningham,D. Cunningham,0,0,0,,0,0.0,0.0,0,h,Cunningham REBOUND (Off:1 Def:3),Rebound,Unknown,0,342
+21100043,367,PT02M50.00S,3,1610612763,MEM,201564,Mayo,O. Mayo,132,179,22,Missed,1,0.0,0.0,0,h,MISS Mayo 22' Jump Shot,Missed Shot,Jump Shot,0,343
+21100043,368,PT02M49.00S,3,1610612745,HOU,201938,Flynn,J. Flynn,0,0,0,,0,0.0,0.0,0,v,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,0,344
+21100043,369,PT02M30.00S,3,1610612745,HOU,201938,Flynn,J. Flynn,37,255,26,Missed,1,0.0,0.0,0,v,MISS Flynn 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,345
+21100043,370,PT02M30.00S,3,1610612763,MEM,201564,Mayo,O. Mayo,0,0,0,,0,0.0,0.0,0,h,Mayo REBOUND (Off:0 Def:2),Rebound,Unknown,0,346
+21100043,371,PT02M23.00S,3,1610612763,MEM,201967,Cunningham,D. Cunningham,-16,12,2,Missed,1,0.0,0.0,0,h,MISS Cunningham 2' Layup,Missed Shot,Layup Shot,0,347
+21100043,373,PT02M20.00S,3,1610612763,MEM,202347,Pondexter,Q. Pondexter,0,0,0,,0,0.0,0.0,0,h,Pondexter REBOUND (Off:1 Def:0),Rebound,Unknown,0,348
+21100043,372,PT02M20.00S,3,1610612763,MEM,202347,Pondexter,Q. Pondexter,-11,8,1,Made,1,81.0,64.0,145,h,Pondexter 1' Tip Shot (5 PTS),Made Shot,Tip Shot,0,349
+21100043,374,PT01M56.00S,3,1610612745,HOU,201584,Lee,C. Lee,-234,-10,0,Missed,1,0.0,0.0,0,v,MISS Lee  3PT Jump Shot,Missed Shot,Jump Shot,0,350
+21100043,375,PT01M56.00S,3,0,,1610612763,,,0,0,0,,0,0.0,0.0,0,h,GRIZZLIES Rebound,Rebound,Unknown,0,351
+21100043,376,PT01M56.00S,3,1610612745,HOU,2223,Dalembert,S. Dalembert,0,0,0,,0,0.0,0.0,0,v,Dalembert L.B.FOUL (P4.PN),Foul,Loose Ball,0,352
+21100043,377,PT01M56.00S,3,1610612763,MEM,201967,Cunningham,D. Cunningham,0,0,0,,0,82.0,64.0,146,h,Cunningham Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,353
+21100043,379,PT01M56.00S,3,1610612745,HOU,2223,Dalembert,S. Dalembert,0,0,0,,0,0.0,0.0,0,v,SUB: Parsons FOR Dalembert,Substitution,,0,354
+21100043,380,PT01M56.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,0.0,0.0,0,h,SUB: Selby FOR Gasol,Substitution,,0,355
+21100043,381,PT01M56.00S,3,1610612763,MEM,202951,Pargo,J. Pargo,0,0,0,,0,0.0,0.0,0,h,SUB: Davis FOR Pargo,Substitution,,0,356
+21100043,382,PT01M56.00S,3,1610612763,MEM,201967,Cunningham,D. Cunningham,0,0,0,,0,0.0,0.0,0,h,MISS Cunningham Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,357
+21100043,384,PT01M54.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,v,Parsons REBOUND (Off:1 Def:1),Rebound,Unknown,0,358
+21100043,385,PT01M44.00S,3,1610612763,MEM,2668,Davis,J. Davis,0,0,0,,0,0.0,0.0,0,h,Davis P.FOUL (P1.PN),Foul,Personal,0,359
+21100043,386,PT01M44.00S,3,1610612745,HOU,201938,Flynn,J. Flynn,0,0,0,,0,0.0,0.0,0,v,MISS Flynn Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,360
+21100043,387,PT01M44.00S,3,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Normal Rebound,0,361
+21100043,388,PT01M44.00S,3,1610612745,HOU,201938,Flynn,J. Flynn,0,0,0,,0,82.0,65.0,147,v,Flynn Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,362
+21100043,390,PT01M31.00S,3,1610612763,MEM,201967,Cunningham,D. Cunningham,0,0,0,,0,0.0,0.0,0,h,Cunningham Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,363
+21100043,390,PT01M31.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,v,Parsons STEAL (1 STL),,,0,364
+21100043,391,PT01M25.00S,3,1610612745,HOU,201609,Dragic,G. Dragic,-16,4,2,Made,1,82.0,67.0,149,v,Dragic 2' Finger Roll Layup (2 PTS),Made Shot,Finger Roll Layup Shot,0,365
+21100043,393,PT01M19.00S,3,1610612763,MEM,2668,Davis,J. Davis,0,0,0,,0,0.0,0.0,0,h,SUB: Gay FOR Davis,Substitution,,0,366
+21100043,394,PT01M09.00S,3,1610612763,MEM,201967,Cunningham,D. Cunningham,15,9,2,Made,1,84.0,67.0,151,h,Cunningham 2' Layup (7 PTS) (Selby 6 AST),Made Shot,Layup Shot,0,367
+21100043,395,PT00M59.90S,3,1610612745,HOU,201584,Lee,C. Lee,17,7,2,Missed,1,0.0,0.0,0,v,MISS Lee 2' Reverse Layup,Missed Shot,Reverse Layup Shot,0,368
+21100043,396,PT00M55.90S,3,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0.0,0.0,0,h,Gay REBOUND (Off:1 Def:5),Rebound,Unknown,0,369
+21100043,397,PT00M50.80S,3,1610612763,MEM,202347,Pondexter,Q. Pondexter,10,-5,1,Made,1,86.0,67.0,153,h,Pondexter 1' Layup (7 PTS) (Selby 7 AST),Made Shot,Layup Shot,0,370
+21100043,398,PT00M28.90S,3,1610612745,HOU,201938,Flynn,J. Flynn,0,0,0,,0,0.0,0.0,0,v,Flynn Bad Pass Turnover (P1.T16),Turnover,Bad Pass,0,371
+21100043,398,PT00M28.90S,3,1610612763,MEM,202347,Pondexter,Q. Pondexter,0,0,0,,0,0.0,0.0,0,h,Pondexter STEAL (1 STL),,,0,372
+21100043,399,PT00M23.90S,3,1610612763,MEM,202729,Selby,J. Selby,36,15,4,Missed,1,0.0,0.0,0,h,MISS Selby 4' Jump Shot,Missed Shot,Jump Shot,0,373
+21100043,401,PT00M22.70S,3,1610612763,MEM,202347,Pondexter,Q. Pondexter,0,0,0,,0,0.0,0.0,0,h,Pondexter REBOUND (Off:2 Def:0),Rebound,Unknown,0,374
+21100043,400,PT00M22.70S,3,1610612763,MEM,202347,Pondexter,Q. Pondexter,-10,1,1,Made,1,88.0,67.0,155,h,Pondexter 1' Layup (9 PTS),Made Shot,Layup Shot,0,375
+21100043,402,PT00M01.00S,3,1610612745,HOU,201938,Flynn,J. Flynn,157,200,25,Missed,1,0.0,0.0,0,v,MISS Flynn 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,376
+21100043,405,PT00M00.00S,3,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Unknown,0,377
+21100043,404,PT00M00.00S,3,0,,0,,,0,0,0,,0,88.0,67.0,155,,End of 3rd Period (9:54 PM EST),period,end,0,378
+21100043,407,PT12M00.00S,4,0,,0,,,0,0,0,,0,88.0,67.0,155,,Start of 4th Period (9:56 PM EST),period,start,0,379
+21100043,408,PT11M45.00S,4,1610612763,MEM,200752,Gay,R. Gay,0,55,6,Missed,1,0.0,0.0,0,h,MISS Gay 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,380
+21100043,409,PT11M43.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,v,Parsons REBOUND (Off:1 Def:2),Rebound,Unknown,0,381
+21100043,410,PT11M23.00S,4,1610612745,HOU,201609,Dragic,G. Dragic,2,6,1,Missed,1,0.0,0.0,0,v,MISS Dragic 1' Reverse Layup,Missed Shot,Reverse Layup Shot,0,382
+21100043,411,PT11M21.00S,4,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0.0,0.0,0,h,Gay REBOUND (Off:1 Def:6),Rebound,Unknown,0,383
+21100043,412,PT11M16.00S,4,1610612763,MEM,202347,Pondexter,Q. Pondexter,1,1,0,Made,1,90.0,67.0,157,h,Pondexter  Alley Oop Dunk (11 PTS) (Gay 2 AST),Made Shot,Alley Oop Dunk Shot,0,384
+21100043,413,PT10M52.00S,4,1610612745,HOU,201584,Lee,C. Lee,0,0,0,,0,0.0,0.0,0,v,Lee Traveling Turnover (P1.T17),Turnover,Traveling,0,385
+21100043,414,PT10M52.00S,4,1610612745,HOU,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,v,SUB: Williams FOR Dragic,Substitution,,0,386
+21100043,415,PT10M40.00S,4,1610612763,MEM,202729,Selby,J. Selby,1,148,15,Made,1,92.0,67.0,159,h,Selby 15' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,0,387
+21100043,416,PT10M13.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,10,1,1,Made,1,92.0,69.0,161,v,Parsons 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,388
+21100043,417,PT09M59.00S,4,1610612763,MEM,202347,Pondexter,Q. Pondexter,-147,94,17,Missed,1,0.0,0.0,0,h,MISS Pondexter 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,389
+21100043,418,PT09M56.00S,4,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0.0,0.0,0,v,Scola REBOUND (Off:0 Def:4),Rebound,Unknown,0,390
+21100043,419,PT09M51.00S,4,1610612745,HOU,201584,Lee,C. Lee,-112,222,25,Made,1,92.0,72.0,164,v,Lee 25' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,0,391
+21100043,420,PT09M30.00S,4,1610612763,MEM,201967,Cunningham,D. Cunningham,-8,176,18,Made,1,94.0,72.0,166,h,Cunningham 18' Jump Shot (9 PTS) (Pondexter 2 AST),Made Shot,Jump Shot,0,392
+21100043,421,PT09M18.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,241,85,26,Made,1,94.0,75.0,169,v,Parsons 26' 3PT Jump Shot (5 PTS) (Williams 1 AST),Made Shot,Jump Shot,0,393
+21100043,422,PT09M05.00S,4,1610612763,MEM,202729,Selby,J. Selby,0,0,0,,0,0.0,0.0,0,h,Selby Offensive Charge Foul (P1.T1),Foul,Offensive Charge,0,394
+21100043,423,PT09M05.00S,4,1610612763,MEM,202729,Selby,J. Selby,0,0,0,,0,0.0,0.0,0,h,Selby Foul Turnover (P1.T15),Turnover,Foul,0,395
+21100043,424,PT09M05.00S,4,1610612763,MEM,201967,Cunningham,D. Cunningham,0,0,0,,0,0.0,0.0,0,h,SUB: Randolph FOR Cunningham,Substitution,,0,396
+21100043,425,PT09M05.00S,4,1610612763,MEM,202729,Selby,J. Selby,0,0,0,,0,0.0,0.0,0,h,SUB: Pargo FOR Selby,Substitution,,0,397
+21100043,426,PT08M54.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,24,247,25,Made,1,94.0,78.0,172,v,Parsons 25' 3PT Jump Shot (8 PTS) (Flynn 2 AST),Made Shot,Jump Shot,0,398
+21100043,427,PT08M37.00S,4,1610612763,MEM,202951,Pargo,J. Pargo,-153,208,26,Missed,1,0.0,0.0,0,h,MISS Pargo 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,399
+21100043,428,PT08M36.00S,4,0,,1610612763,,,0,0,0,,0,0.0,0.0,0,h,GRIZZLIES Rebound,Rebound,Unknown,0,400
+21100043,429,PT08M36.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,v,Parsons L.B.FOUL (P2.T1),Foul,Loose Ball,0,401
+21100043,430,PT08M36.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,402
+21100043,432,PT08M29.00S,4,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0.0,0.0,0,v,Scola P.FOUL (P5.T2),Foul,Personal,0,403
+21100043,433,PT08M14.00S,4,1610612763,MEM,200752,Gay,R. Gay,69,42,8,Missed,1,0.0,0.0,0,h,MISS Gay 8' Jump Shot,Missed Shot,Jump Shot,0,404
+21100043,434,PT08M13.00S,4,1610612745,HOU,201944,Williams,T. Williams,0,0,0,,0,0.0,0.0,0,v,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,405
+21100043,435,PT08M02.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,-11,25,3,Made,1,94.0,80.0,174,v,Parsons 3' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,0,406
+21100043,436,PT08M02.00S,4,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0.0,0.0,0,h,Gay S.FOUL (P3.T2),Foul,Shooting,0,407
+21100043,437,PT08M02.00S,4,1610612763,MEM,201564,Mayo,O. Mayo,0,0,0,,0,0.0,0.0,0,h,SUB: Allen FOR Mayo,Substitution,,0,408
+21100043,438,PT08M02.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,v,MISS Parsons Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,409
+21100043,440,PT08M01.00S,4,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0.0,0.0,0,h,Gay REBOUND (Off:1 Def:7),Rebound,Unknown,0,410
+21100043,441,PT07M47.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,v,Parsons P.FOUL (P3.T3),Foul,Personal,0,411
+21100043,442,PT07M35.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,135,15,14,Made,1,96.0,80.0,176,h,Randolph 14' Step Back Jump Shot (19 PTS),Made Shot,Step Back Jump shot,0,412
+21100043,443,PT07M22.00S,4,1610612745,HOU,201584,Lee,C. Lee,0,0,0,,0,0.0,0.0,0,v,Lee Traveling Turnover (P2.T18),Turnover,Traveling,0,413
+21100043,444,PT07M13.00S,4,1610612763,MEM,202951,Pargo,J. Pargo,-16,1,2,Made,1,98.0,80.0,178,h,Pargo 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,0,414
+21100043,445,PT06M55.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,v,Parsons Bad Pass Turnover (P1.T19),Turnover,Bad Pass,0,415
+21100043,445,PT06M55.00S,4,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0.0,0.0,0,h,Allen STEAL (1 STL),,,0,416
+21100043,446,PT06M52.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,v,Parsons P.FOUL (P4.T4),Foul,Personal,0,417
+21100043,447,PT06M37.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,125,41,13,Missed,1,0.0,0.0,0,h,MISS Randolph 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,418
+21100043,448,PT06M36.00S,4,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Unknown,0,419
+21100043,449,PT06M36.00S,4,1610612763,MEM,202347,Pondexter,Q. Pondexter,0,0,0,,0,0.0,0.0,0,h,Pondexter L.B.FOUL (P2.T3),Foul,Loose Ball,0,420
+21100043,450,PT06M27.00S,4,1610612745,HOU,201938,Flynn,J. Flynn,103,91,14,Made,1,98.0,82.0,180,v,Flynn 14' Pullup Bank Shot (8 PTS),Made Shot,Pullup Bank shot,0,421
+21100043,452,PT05M58.00S,4,1610612763,MEM,202951,Pargo,J. Pargo,91,148,17,Made,1,100.0,82.0,182,h,Pargo 17' Jump Shot (12 PTS) (Randolph 3 AST),Made Shot,Jump Shot,0,422
+21100043,453,PT05M58.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,h,Randolph L.B.FOUL (P1.T4),Foul,Loose Ball,0,423
+21100043,480,PT05M58.00S,4,0,,1610612763,,,0,0,0,,0,0.0,0.0,0,h,GRIZZLIES Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,424
+21100043,455,PT05M58.00S,4,1610612745,HOU,2449,Scola,L. Scola,0,0,0,,0,0.0,0.0,0,v,SUB: Morris FOR Scola,Substitution,,0,425
+21100043,458,PT05M46.00S,4,1610612745,HOU,201938,Flynn,J. Flynn,0,0,0,,0,0.0,0.0,0,v,Flynn Bad Pass Turnover (P2.T20),Turnover,Bad Pass,0,426
+21100043,458,PT05M46.00S,4,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0.0,0.0,0,h,Allen STEAL (2 STL),,,0,427
+21100043,459,PT05M34.00S,4,1610612763,MEM,2754,Allen,T. Allen,10,4,1,Made,1,102.0,82.0,184,h,Allen 1' Reverse Layup (5 PTS) (Pargo 3 AST),Made Shot,Reverse Layup Shot,0,428
+21100043,460,PT05M24.00S,4,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,-92,239,26,Missed,1,0.0,0.0,0,v,MISS Morris 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,429
+21100043,461,PT05M22.00S,4,1610612745,HOU,201584,Lee,C. Lee,0,0,0,,0,0.0,0.0,0,v,Lee REBOUND (Off:1 Def:1),Rebound,Unknown,0,430
+21100043,462,PT05M20.00S,4,1610612745,HOU,201584,Lee,C. Lee,2,3,0,Made,1,102.0,84.0,186,v,Lee  Driving Layup (7 PTS),Made Shot,Driving Layup Shot,0,431
+21100043,463,PT04M53.00S,4,1610612763,MEM,200752,Gay,R. Gay,7,3,1,Missed,1,0.0,0.0,0,h,MISS Gay 1' Driving Layup,Missed Shot,Driving Layup Shot,0,432
+21100043,464,PT04M51.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,v,Parsons REBOUND (Off:1 Def:3),Rebound,Unknown,0,433
+21100043,465,PT04M41.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,-108,233,26,Made,1,102.0,87.0,189,v,Parsons 26' 3PT Jump Shot (13 PTS) (Williams 2 AST),Made Shot,Jump Shot,0,434
+21100043,466,PT04M39.00S,4,0,,1610612763,,,0,0,0,,0,0.0,0.0,0,h,GRIZZLIES Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,435
+21100043,468,PT04M39.00S,4,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0.0,0.0,0,h,SUB: Mayo FOR Allen,Substitution,,0,436
+21100043,470,PT04M27.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,-10,14,2,Made,1,104.0,87.0,191,h,Randolph 2' Layup (21 PTS) (Pargo 4 AST),Made Shot,Layup Shot,0,437
+21100043,471,PT04M27.00S,4,1610612745,HOU,201584,Lee,C. Lee,0,0,0,,0,0.0,0.0,0,v,Lee S.FOUL (P3.PN),Foul,Shooting,0,438
+21100043,472,PT04M27.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,h,MISS Randolph Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,439
+21100043,474,PT04M26.00S,4,1610612745,HOU,201944,Williams,T. Williams,0,0,0,,0,0.0,0.0,0,v,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,440
+21100043,475,PT04M12.00S,4,1610612745,HOU,201938,Flynn,J. Flynn,136,211,25,Missed,1,0.0,0.0,0,v,MISS Flynn 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,441
+21100043,476,PT04M10.00S,4,1610612763,MEM,202951,Pargo,J. Pargo,0,0,0,,0,0.0,0.0,0,h,Pargo REBOUND (Off:0 Def:2),Rebound,Unknown,0,442
+21100043,477,PT03M57.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,13,12,2,Made,1,106.0,87.0,193,h,Randolph 2' Layup (23 PTS) (Pargo 5 AST),Made Shot,Layup Shot,0,443
+21100043,478,PT03M45.00S,4,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,-112,160,20,Made,1,106.0,89.0,195,v,Morris 20' Pullup Jump Shot (2 PTS) (Flynn 3 AST),Made Shot,Pullup Jump shot,0,444
+21100043,479,PT03M27.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,h,Randolph 3 Second Violation Turnover (P3.T16),Turnover,3 Second Violation,0,445
+21100043,481,PT03M21.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,h,Randolph S.FOUL (P2.PN),Foul,Shooting,0,446
+21100043,483,PT03M21.00S,4,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0.0,0.0,0,v,MISS Morris Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,447
+21100043,484,PT03M21.00S,4,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Normal Rebound,0,448
+21100043,485,PT03M21.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,h,SUB: Cunningham FOR Randolph,Substitution,,0,449
+21100043,486,PT03M21.00S,4,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,106.0,90.0,196,v,Morris Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,450
+21100043,488,PT03M10.00S,4,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0.0,0.0,0,v,Rockets T.Foul (Def. 3 Sec Morris ),Foul,Defense 3 Second,0,451
+21100043,489,PT03M10.00S,4,1610612763,MEM,201564,Mayo,O. Mayo,0,0,0,,0,107.0,90.0,197,h,Mayo Free Throw Technical (10 PTS),Free Throw,Free Throw Technical,0,452
+21100043,491,PT03M10.00S,4,1610612745,HOU,201584,Lee,C. Lee,0,0,0,,0,0.0,0.0,0,v,SUB: Dragic FOR Lee,Substitution,,0,453
+21100043,492,PT03M10.00S,4,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,0.0,0.0,0,h,SUB: Young FOR Gay,Substitution,,0,454
+21100043,493,PT03M00.00S,4,1610612763,MEM,202951,Pargo,J. Pargo,-117,156,20,Made,1,109.0,90.0,199,h,Pargo 20' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,0,455
+21100043,494,PT02M37.00S,4,1610612745,HOU,201938,Flynn,J. Flynn,-15,11,2,Missed,1,0.0,0.0,0,v,MISS Flynn 2' Driving Layup,Missed Shot,Driving Layup Shot,0,456
+21100043,495,PT02M34.00S,4,1610612763,MEM,201967,Cunningham,D. Cunningham,0,0,0,,0,0.0,0.0,0,h,Cunningham REBOUND (Off:1 Def:4),Rebound,Unknown,0,457
+21100043,496,PT02M26.00S,4,1610612763,MEM,202951,Pargo,J. Pargo,-146,0,15,Missed,1,0.0,0.0,0,h,MISS Pargo 15' Jump Shot,Missed Shot,Jump Shot,0,458
+21100043,497,PT02M26.00S,4,0,,1610612763,,,0,0,0,,0,0.0,0.0,0,h,GRIZZLIES Rebound,Rebound,Unknown,0,459
+21100043,498,PT02M26.00S,4,1610612745,HOU,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,v,Dragic L.B.FOUL (P2.PN),Foul,Loose Ball,0,460
+21100043,499,PT02M26.00S,4,1610612763,MEM,202347,Pondexter,Q. Pondexter,0,0,0,,0,110.0,90.0,200,h,Pondexter Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,461
+21100043,501,PT02M26.00S,4,1610612763,MEM,202951,Pargo,J. Pargo,0,0,0,,0,0.0,0.0,0,h,SUB: Selby FOR Pargo,Substitution,,0,462
+21100043,502,PT02M26.00S,4,1610612763,MEM,202347,Pondexter,Q. Pondexter,0,0,0,,0,111.0,90.0,201,h,Pondexter Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,463
+21100043,504,PT02M14.00S,4,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,-138,28,14,Missed,1,0.0,0.0,0,v,MISS Morris 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,0,464
+21100043,505,PT02M10.00S,4,1610612763,MEM,201967,Cunningham,D. Cunningham,0,0,0,,0,0.0,0.0,0,h,Cunningham REBOUND (Off:1 Def:5),Rebound,Unknown,0,465
+21100043,506,PT02M06.00S,4,1610612763,MEM,202347,Pondexter,Q. Pondexter,-30,7,3,Missed,1,0.0,0.0,0,h,MISS Pondexter 3' Jump Shot,Missed Shot,Jump Shot,0,466
+21100043,507,PT02M04.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,v,Parsons REBOUND (Off:1 Def:4),Rebound,Unknown,0,467
+21100043,508,PT01M54.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,-18,3,2,Missed,1,0.0,0.0,0,v,MISS Parsons 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,0,468
+21100043,509,PT01M50.00S,4,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0.0,0.0,0,v,Morris REBOUND (Off:1 Def:0),Rebound,Unknown,0,469
+21100043,510,PT01M45.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,-141,12,14,Missed,1,0.0,0.0,0,v,MISS Parsons 14' Jump Shot,Missed Shot,Jump Shot,0,470
+21100043,511,PT01M43.00S,4,1610612763,MEM,202729,Selby,J. Selby,0,0,0,,0,0.0,0.0,0,h,Selby REBOUND (Off:0 Def:1),Rebound,Unknown,0,471
+21100043,512,PT01M28.00S,4,1610612763,MEM,201564,Mayo,O. Mayo,122,164,20,Missed,1,0.0,0.0,0,h,MISS Mayo 20' Jump Shot,Missed Shot,Jump Shot,0,472
+21100043,513,PT01M27.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,v,Parsons REBOUND (Off:1 Def:5),Rebound,Unknown,0,473
+21100043,514,PT01M13.00S,4,1610612745,HOU,201944,Williams,T. Williams,105,242,26,Missed,1,0.0,0.0,0,v,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,474
+21100043,515,PT01M10.00S,4,1610612763,MEM,201970,Young,S. Young,0,0,0,,0,0.0,0.0,0,h,Young REBOUND (Off:0 Def:1),Rebound,Unknown,0,475
+21100043,516,PT01M01.00S,4,1610612763,MEM,201970,Young,S. Young,13,0,1,Missed,1,0.0,0.0,0,h,MISS Young 1' Reverse Layup,Missed Shot,Reverse Layup Shot,0,476
+21100043,517,PT00M59.90S,4,1610612745,HOU,201944,Williams,T. Williams,0,0,0,,0,0.0,0.0,0,v,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,0,477
+21100043,518,PT00M52.80S,4,1610612745,HOU,201609,Dragic,G. Dragic,-146,209,25,Made,1,111.0,93.0,204,v,Dragic 25' 3PT Jump Shot (5 PTS) (Flynn 4 AST),Made Shot,Jump Shot,0,478
+21100043,519,PT00M29.60S,4,1610612763,MEM,202729,Selby,J. Selby,17,28,3,Made,1,113.0,93.0,206,h,Selby 3' Running Jump Shot (9 PTS),Made Shot,Running Jump Shot,0,479
+21100043,520,PT00M18.90S,4,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,231,20,0,Missed,1,0.0,0.0,0,v,MISS Morris  3PT Jump Shot,Missed Shot,Jump Shot,0,480
+21100043,521,PT00M15.90S,4,1610612763,MEM,202729,Selby,J. Selby,0,0,0,,0,0.0,0.0,0,h,Selby REBOUND (Off:0 Def:2),Rebound,Unknown,0,481
+21100043,523,PT00M00.00S,4,0,,0,,,0,0,0,,0,113.0,93.0,206,,End of 4th Period (10:22 PM EST),period,end,0,482

@@ -1,0 +1,536 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+40400102,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (8:12 PM EST),period,start,0,1
+40400102,1,PT12M00.00S,1,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,,,0,h,Jump Ball O'Neal vs. Collins: Tip to D. Jones,Jump Ball,,0,2
+40400102,2,PT11M37.00S,1,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,Made,1,2.0,0.0,2,h,Haslem Layup (2 PTS) (O'Neal 1 AST),Made Shot,Layup Shot,0,3
+40400102,3,PT11M21.00S,1,1610612751,NJN,2420,Krstic,N. Krstic,-125,137,19,Missed,1,,,0,v,MISS Krstic 19' Jump Shot,Missed Shot,Jump Shot,0,4
+40400102,4,PT11M19.00S,1,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,,,0,h,O'Neal REBOUND (Off:0 Def:1),Rebound,Unknown,0,5
+40400102,5,PT10M55.00S,1,1610612748,MIA,2617,Haslem,U. Haslem,192,59,20,Missed,1,,,0,h,MISS Haslem 20' Jump Shot,Missed Shot,Jump Shot,0,6
+40400102,6,PT10M53.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,Wade REBOUND (Off:1 Def:0),Rebound,Unknown,0,7
+40400102,7,PT10M46.00S,1,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,,,0,v,Collins P.FOUL (P1.T1),Foul,Personal,0,8
+40400102,8,PT10M39.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,Wade Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,9
+40400102,8,PT10M39.00S,1,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,,,0,v,Kidd STEAL (1 STL),,,0,10
+40400102,9,PT10M35.00S,1,1610612751,NJN,2243,Scalabrine,B. Scalabrine,0,0,0,,0,,,0,v,Scalabrine Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,11
+40400102,10,PT10M21.00S,1,1610612751,NJN,2243,Scalabrine,B. Scalabrine,0,0,0,,0,,,0,v,Scalabrine S.FOUL (P1.T2),Foul,Shooting,0,12
+40400102,11,PT10M21.00S,1,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,3.0,0.0,3,h,O'Neal Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,13
+40400102,12,PT10M21.00S,1,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,4.0,0.0,4,h,O'Neal Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,14
+40400102,13,PT10M11.00S,1,1610612751,NJN,1713,Carter,V. Carter,18,248,25,Missed,1,,,0,v,MISS Carter 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,15
+40400102,14,PT10M09.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,Wade REBOUND (Off:1 Def:1),Rebound,Unknown,0,16
+40400102,15,PT10M02.00S,1,1610612748,MIA,1800,Jones,D. Jones,225,46,0,Made,1,7.0,0.0,7,h,D. Jones 3PT Jump Shot (3 PTS) (Wade 1 AST),Made Shot,Jump Shot,0,17
+40400102,16,PT09M41.00S,1,1610612751,NJN,467,Kidd,J. Kidd,-94,30,10,Missed,1,,,0,v,MISS Kidd 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,18
+40400102,17,PT09M39.00S,1,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,,,0,h,Haslem REBOUND (Off:0 Def:1),Rebound,Unknown,0,19
+40400102,18,PT09M29.00S,1,1610612748,MIA,224,Jones,E. Jones,0,0,0,Missed,1,,,0,h,MISS E. Jones Reverse Layup,Missed Shot,Reverse Layup Shot,0,20
+40400102,18,PT09M29.00S,1,1610612751,NJN,2243,Scalabrine,B. Scalabrine,0,0,0,,0,,,0,v,Scalabrine BLOCK (1 BLK),,,0,21
+40400102,19,PT09M27.00S,1,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,,,0,v,Krstic REBOUND (Off:0 Def:1),Rebound,Unknown,0,22
+40400102,20,PT09M24.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,Wade P.FOUL (P1.T1),Foul,Personal,0,23
+40400102,21,PT09M15.00S,1,1610612751,NJN,1713,Carter,V. Carter,177,97,20,Made,1,7.0,2.0,9,v,Carter 20' Jump Shot (2 PTS) (Krstic 1 AST),Made Shot,Jump Shot,0,24
+40400102,22,PT08M50.00S,1,1610612751,NJN,2243,Scalabrine,B. Scalabrine,0,0,0,,0,,,0,v,Scalabrine P.FOUL (P2.T3),Foul,Personal,0,25
+40400102,23,PT08M50.00S,1,1610612751,NJN,2243,Scalabrine,B. Scalabrine,0,0,0,,0,,,0,v,SUB: Best FOR Scalabrine,Substitution,,0,26
+40400102,24,PT08M45.00S,1,1610612748,MIA,224,Jones,E. Jones,204,123,24,Missed,1,,,0,h,MISS E. Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,27
+40400102,25,PT08M43.00S,1,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,,,0,v,Krstic REBOUND (Off:0 Def:2),Rebound,Unknown,0,28
+40400102,26,PT08M34.00S,1,1610612751,NJN,696,Best,T. Best,235,15,24,Missed,1,,,0,v,MISS Best 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,29
+40400102,27,PT08M32.00S,1,1610612748,MIA,224,Jones,E. Jones,0,0,0,,0,,,0,h,E. Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,30
+40400102,28,PT08M17.00S,1,1610612748,MIA,406,O'Neal,S. O'Neal,-39,33,5,Missed,1,,,0,h,MISS O'Neal 5' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,31
+40400102,29,PT08M15.00S,1,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,,,0,v,Krstic REBOUND (Off:0 Def:3),Rebound,Unknown,0,32
+40400102,30,PT08M05.00S,1,1610612751,NJN,2420,Krstic,N. Krstic,59,115,13,Made,1,7.0,4.0,11,v,Krstic 13' Jump Shot (2 PTS) (Best 1 AST),Made Shot,Jump Shot,0,33
+40400102,31,PT07M52.00S,1,1610612751,NJN,1713,Carter,V. Carter,0,0,0,,0,,,0,v,Carter P.FOUL (P1.T4),Foul,Personal,0,34
+40400102,32,PT07M52.00S,1,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,8.0,4.0,12,h,Haslem Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,35
+40400102,33,PT07M52.00S,1,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,9.0,4.0,13,h,Haslem Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,36
+40400102,34,PT07M34.00S,1,1610612748,MIA,1800,Jones,D. Jones,0,0,0,,0,,,0,h,D. Jones P.FOUL (P1.T2),Foul,Personal,0,37
+40400102,35,PT07M24.00S,1,1610612751,NJN,2420,Krstic,N. Krstic,148,125,19,Missed,1,,,0,v,MISS Krstic 19' Jump Shot,Missed Shot,Jump Shot,0,38
+40400102,36,PT07M22.00S,1,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,,,0,v,Kidd REBOUND (Off:1 Def:0),Rebound,Unknown,0,39
+40400102,37,PT07M13.00S,1,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,Made,1,9.0,6.0,15,v,Krstic Dunk (4 PTS) (Kidd 1 AST),Made Shot,Dunk Shot,0,40
+40400102,38,PT06M52.00S,1,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,,,0,h,O'Neal OFF.Foul (P1),Foul,Offensive,0,41
+40400102,39,PT06M52.00S,1,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,,,0,h,O'Neal Foul Turnover (P1.T2),Turnover,Foul,0,42
+40400102,40,PT06M38.00S,1,1610612751,NJN,696,Best,T. Best,233,10,0,Missed,1,,,0,v,MISS Best 3PT Jump Shot,Missed Shot,Jump Shot,0,43
+40400102,41,PT06M36.00S,1,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,,,0,v,Collins REBOUND (Off:1 Def:0),Rebound,Unknown,0,44
+40400102,42,PT06M35.00S,1,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,,,0,h,Haslem P.FOUL (P1.T3),Foul,Personal,0,45
+40400102,44,PT06M28.00S,1,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,,,0,h,O'Neal Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,46
+40400102,43,PT06M28.00S,1,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,Made,1,9.0,8.0,17,v,Kidd Driving Finger Roll (2 PTS),Made Shot,Driving Finger Roll Shot,0,47
+40400102,45,PT06M14.00S,1,1610612748,MIA,2548,Wade,D. Wade,24,155,16,Made,1,11.0,8.0,19,h,Wade 16' Jump Shot (2 PTS),Made Shot,Jump Shot,0,48
+40400102,46,PT05M52.00S,1,1610612751,NJN,2420,Krstic,N. Krstic,-69,0,7,Made,1,11.0,10.0,21,v,Krstic 7' Hook Shot (6 PTS) (Carter 1 AST),Made Shot,Hook Shot,0,49
+40400102,47,PT05M35.00S,1,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,,,0,h,O'Neal 3 Second Violation Turnover (P2.T3),Turnover,3 Second Violation,0,50
+40400102,48,PT05M35.00S,1,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,51
+40400102,50,PT05M21.00S,1,1610612751,NJN,2215,Collins,J. Collins,167,107,20,Missed,1,,,0,v,MISS Collins 20' Jump Shot,Missed Shot,Jump Shot,0,52
+40400102,51,PT05M18.00S,1,1610612748,MIA,224,Jones,E. Jones,0,0,0,,0,,,0,h,E. Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,53
+40400102,52,PT05M11.00S,1,1610612751,NJN,1713,Carter,V. Carter,0,0,0,,0,,,0,v,Carter Violation:Kicked Ball,Violation,Kicked Ball,0,54
+40400102,53,PT05M02.00S,1,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,Made,1,13.0,10.0,23,h,Haslem Dunk (6 PTS) (O'Neal 2 AST),Made Shot,Dunk Shot,0,55
+40400102,54,PT04M41.00S,1,1610612751,NJN,2420,Krstic,N. Krstic,28,92,10,Missed,1,,,0,v,MISS Krstic 10' Hook Shot,Missed Shot,Hook Shot,0,56
+40400102,55,PT04M39.00S,1,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,,,0,h,Haslem REBOUND (Off:0 Def:2),Rebound,Unknown,0,57
+40400102,56,PT04M29.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,Wade Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,58
+40400102,56,PT04M29.00S,1,1610612751,NJN,1713,Carter,V. Carter,0,0,0,,0,,,0,v,Carter STEAL (1 STL),,,0,59
+40400102,57,PT04M23.00S,1,1610612751,NJN,696,Best,T. Best,24,138,14,Made,1,13.0,12.0,25,v,Best 14' Jump Shot (2 PTS) (Kidd 2 AST),Made Shot,Jump Shot,0,60
+40400102,58,PT04M00.00S,1,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,Made,1,15.0,12.0,27,h,O'Neal Dunk (4 PTS) (Wade 2 AST),Made Shot,Dunk Shot,0,61
+40400102,59,PT03M41.00S,1,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,,,0,h,HEAT T.Foul (Def. 3 Sec O'Neal ),Foul,Defense 3 Second,0,62
+40400102,60,PT03M41.00S,1,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,,,0,h,SUB: Mourning FOR O'Neal,Substitution,,0,63
+40400102,61,PT03M41.00S,1,1610612751,NJN,696,Best,T. Best,0,0,0,,0,15.0,13.0,28,v,Best Free Throw Technical (3 PTS),Free Throw,Free Throw Technical,0,64
+40400102,62,PT03M41.00S,1,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,,,0,v,SUB: Robinson FOR Collins,Substitution,,0,65
+40400102,63,PT03M34.00S,1,1610612751,NJN,1713,Carter,V. Carter,-41,53,7,Missed,1,,,0,v,MISS Carter 7' Hook Shot,Missed Shot,Hook Shot,0,66
+40400102,64,PT03M32.00S,1,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,,,0,h,Mourning REBOUND (Off:0 Def:1),Rebound,Unknown,0,67
+40400102,65,PT03M24.00S,1,1610612748,MIA,2548,Wade,D. Wade,79,206,22,Missed,1,,,0,h,MISS Wade 22' Jump Shot,Missed Shot,Jump Shot,0,68
+40400102,66,PT03M23.00S,1,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Unknown,0,69
+40400102,67,PT03M17.00S,1,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,,,0,h,Mourning OFF.Foul (P1),Foul,Offensive,0,70
+40400102,68,PT03M17.00S,1,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,,,0,h,Mourning Foul Turnover (P1.T5),Turnover,Foul,0,71
+40400102,69,PT03M04.00S,1,1610612751,NJN,696,Best,T. Best,0,0,0,Missed,1,,,0,v,MISS Best Driving Layup,Missed Shot,Driving Layup Shot,0,72
+40400102,69,PT03M04.00S,1,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,,,0,h,Mourning BLOCK (1 BLK),,,0,73
+40400102,70,PT03M02.00S,1,1610612748,MIA,224,Jones,E. Jones,0,0,0,,0,,,0,h,E. Jones REBOUND (Off:0 Def:3),Rebound,Unknown,0,74
+40400102,71,PT02M58.00S,1,1610612751,NJN,361,Robinson,C. Robinson,0,0,0,,0,,,0,v,Robinson P.FOUL (P1.PN),Foul,Personal,0,75
+40400102,72,PT02M58.00S,1,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,76
+40400102,76,PT02M58.00S,1,1610612748,MIA,1800,Jones,D. Jones,0,0,0,,0,16.0,13.0,29,h,D. Jones Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,77
+40400102,77,PT02M58.00S,1,1610612748,MIA,1800,Jones,D. Jones,0,0,0,,0,,,0,h,MISS D. Jones Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,78
+40400102,78,PT02M56.00S,1,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,,,0,v,Kidd REBOUND (Off:1 Def:1),Rebound,Unknown,0,79
+40400102,79,PT02M46.00S,1,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,Made,1,16.0,15.0,31,v,Krstic Layup (8 PTS) (Carter 2 AST),Made Shot,Layup Shot,0,80
+40400102,80,PT02M16.00S,1,1610612748,MIA,224,Jones,E. Jones,-107,8,11,Made,1,18.0,15.0,33,h,E. Jones 11' Jump Shot (2 PTS),Made Shot,Jump Shot,0,81
+40400102,81,PT01M58.00S,1,1610612751,NJN,361,Robinson,C. Robinson,187,168,25,Missed,1,,,0,v,MISS Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,82
+40400102,82,PT01M57.00S,1,1610612751,NJN,1713,Carter,V. Carter,0,0,0,,0,,,0,v,Carter REBOUND (Off:1 Def:0),Rebound,Unknown,0,83
+40400102,83,PT01M57.00S,1,1610612748,MIA,1800,Jones,D. Jones,0,0,0,,0,,,0,h,D. Jones S.FOUL (P2.T4),Foul,Shooting,0,84
+40400102,84,PT01M57.00S,1,1610612751,NJN,1713,Carter,V. Carter,0,0,0,,0,,,0,v,MISS Carter Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,85
+40400102,85,PT01M57.00S,1,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Normal Rebound,0,86
+40400102,86,PT01M57.00S,1,1610612748,MIA,1800,Jones,D. Jones,0,0,0,,0,,,0,h,SUB: Dooling FOR D. Jones,Substitution,,0,87
+40400102,87,PT01M57.00S,1,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,,,0,v,SUB: Jefferson FOR Krstic,Substitution,,0,88
+40400102,88,PT01M57.00S,1,1610612751,NJN,1713,Carter,V. Carter,0,0,0,,0,18.0,16.0,34,v,Carter Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,89
+40400102,89,PT01M33.00S,1,1610612748,MIA,2039,Dooling,K. Dooling,69,127,14,Made,1,20.0,16.0,36,h,Dooling 14' Jump Shot (2 PTS),Made Shot,Jump Shot,0,90
+40400102,90,PT01M15.00S,1,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,,,0,h,Haslem P.FOUL (P2.PN),Foul,Personal,0,91
+40400102,91,PT01M15.00S,1,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,,,0,v,MISS Jefferson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,92
+40400102,92,PT01M15.00S,1,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Normal Rebound,0,93
+40400102,93,PT01M15.00S,1,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,,,0,h,SUB: Anderson FOR Haslem,Substitution,,0,94
+40400102,94,PT01M15.00S,1,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,,,0,v,MISS Jefferson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,95
+40400102,95,PT01M13.00S,1,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,,,0,h,Mourning REBOUND (Off:0 Def:2),Rebound,Unknown,0,96
+40400102,96,PT01M07.00S,1,1610612751,NJN,696,Best,T. Best,0,0,0,,0,,,0,v,Best P.FOUL (P1.PN),Foul,Personal,0,97
+40400102,97,PT01M07.00S,1,1610612748,MIA,2039,Dooling,K. Dooling,0,0,0,,0,21.0,16.0,37,h,Dooling Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,98
+40400102,98,PT01M07.00S,1,1610612748,MIA,2039,Dooling,K. Dooling,0,0,0,,0,22.0,16.0,38,h,Dooling Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,99
+40400102,99,PT00M53.90S,1,1610612751,NJN,2210,Jefferson,R. Jefferson,11,224,22,Missed,1,,,0,v,MISS Jefferson 22' Jump Shot,Missed Shot,Jump Shot,0,100
+40400102,100,PT00M52.70S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,Wade REBOUND (Off:1 Def:2),Rebound,Unknown,0,101
+40400102,101,PT00M43.90S,1,1610612748,MIA,297,Mourning,A. Mourning,128,123,18,Missed,1,,,0,h,MISS Mourning 18' Jump Shot,Missed Shot,Jump Shot,0,102
+40400102,102,PT00M41.90S,1,1610612748,MIA,224,Jones,E. Jones,0,0,0,,0,,,0,h,E. Jones REBOUND (Off:1 Def:3),Rebound,Unknown,0,103
+40400102,103,PT00M27.70S,1,1610612748,MIA,2548,Wade,D. Wade,-156,107,19,Made,1,24.0,16.0,40,h,Wade 19' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,0,104
+40400102,104,PT00M06.90S,1,1610612751,NJN,361,Robinson,C. Robinson,235,12,24,Missed,1,,,0,v,MISS Robinson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,105
+40400102,105,PT00M03.70S,1,1610612748,MIA,1000,Anderson,S. Anderson,0,0,0,,0,,,0,h,Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,106
+40400102,106,PT00M00.10S,1,1610612748,MIA,2039,Dooling,K. Dooling,-212,-3,21,Made,1,26.0,16.0,42,h,Dooling 21' Jump Shot (6 PTS) (E. Jones 1 AST),Made Shot,Jump Shot,0,107
+40400102,107,PT00M00.00S,1,0,,0,,,0,0,0,,0,26.0,16.0,42,,End of 1st Period (8:42 PM EST),period,end,0,108
+40400102,109,PT00M00.00S,1,0,,0,,,0,0,0,,0,26.0,16.0,42,,Instant Replay1st Period (8:42 PM EST),Instant Replay,Support Ruling,0,109
+40400102,112,PT12M00.00S,2,0,,0,,,0,0,0,,0,26.0,16.0,42,,Start of 2nd Period (8:45 PM EST),period,start,0,110
+40400102,113,PT11M46.00S,2,1610612751,NJN,696,Best,T. Best,-228,-9,0,Missed,1,,,0,v,MISS Best 3PT Jump Shot,Missed Shot,Jump Shot,0,111
+40400102,114,PT11M44.00S,2,1610612751,NJN,361,Robinson,C. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:1 Def:0),Rebound,Unknown,0,112
+40400102,115,PT11M41.00S,2,1610612751,NJN,467,Kidd,J. Kidd,189,151,24,Made,1,26.0,19.0,45,v,Kidd 24' 3PT Jump Shot (5 PTS) (Robinson 1 AST),Made Shot,Jump Shot,0,113
+40400102,116,PT11M26.00S,2,1610612751,NJN,361,Robinson,C. Robinson,0,0,0,,0,,,0,v,Robinson P.FOUL (P2.T1),Foul,Personal,0,114
+40400102,117,PT11M15.00S,2,1610612748,MIA,2446,Butler,R. Butler,236,10,24,Missed,1,,,0,h,MISS Butler 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,115
+40400102,118,PT11M12.00S,2,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,,,0,h,Mourning REBOUND (Off:1 Def:2),Rebound,Unknown,0,116
+40400102,119,PT11M10.00S,2,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,Made,1,28.0,19.0,47,h,Mourning Slam Dunk (2 PTS),Made Shot,Slam Dunk Shot,0,117
+40400102,120,PT10M53.00S,2,1610612748,MIA,2446,Butler,R. Butler,0,0,0,,0,,,0,h,Butler S.FOUL (P1.T1),Foul,Shooting,0,118
+40400102,121,PT10M53.00S,2,1610612751,NJN,361,Robinson,C. Robinson,0,0,0,,0,,,0,v,SUB: Krstic FOR Robinson,Substitution,,0,119
+40400102,122,PT10M53.00S,2,1610612751,NJN,1713,Carter,V. Carter,0,0,0,,0,28.0,20.0,48,v,Carter Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,120
+40400102,123,PT10M53.00S,2,1610612751,NJN,1713,Carter,V. Carter,0,0,0,,0,28.0,21.0,49,v,Carter Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,121
+40400102,124,PT10M43.00S,2,1610612751,NJN,696,Best,T. Best,0,0,0,,0,,,0,v,Best P.FOUL (P2.T2),Foul,Personal,0,122
+40400102,125,PT10M28.00S,2,1610612748,MIA,2446,Butler,R. Butler,148,92,17,Missed,1,,,0,h,MISS Butler 17' Jump Shot,Missed Shot,Jump Shot,0,123
+40400102,126,PT10M27.00S,2,1610612751,NJN,696,Best,T. Best,0,0,0,,0,,,0,v,Best REBOUND (Off:0 Def:1),Rebound,Unknown,0,124
+40400102,127,PT10M15.00S,2,1610612748,MIA,2039,Dooling,K. Dooling,0,0,0,,0,,,0,h,Dooling P.FOUL (P1.T2),Foul,Personal,0,125
+40400102,130,PT10M10.00S,2,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,,,0,h,Mourning Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,126
+40400102,129,PT10M10.00S,2,1610612751,NJN,1713,Carter,V. Carter,24,53,6,Made,1,28.0,23.0,51,v,Carter 6' Hook Shot (7 PTS) (Best 2 AST),Made Shot,Hook Shot,0,127
+40400102,131,PT09M58.00S,2,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,,,0,h,Mourning OFF.Foul (P2),Foul,Offensive,0,128
+40400102,132,PT09M58.00S,2,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,,,0,h,Mourning Foul Turnover (P2.T6),Turnover,Foul,0,129
+40400102,133,PT09M40.00S,2,1610612751,NJN,696,Best,T. Best,0,0,0,Made,1,28.0,25.0,53,v,Best Driving Layup (5 PTS),Made Shot,Driving Layup Shot,0,130
+40400102,134,PT09M25.00S,2,1610612748,MIA,297,Mourning,A. Mourning,-2,145,15,Made,1,30.0,25.0,55,h,Mourning 15' Jump Shot (4 PTS) (Butler 1 AST),Made Shot,Jump Shot,0,131
+40400102,135,PT09M02.00S,2,1610612751,NJN,1713,Carter,V. Carter,0,0,0,,0,,,0,v,Carter OFF.Foul (P2),Foul,Offensive,0,132
+40400102,136,PT09M02.00S,2,1610612751,NJN,1713,Carter,V. Carter,0,0,0,,0,,,0,v,Carter Foul Turnover (P1.T2),Turnover,Foul,0,133
+40400102,137,PT09M02.00S,2,1610612748,MIA,2039,Dooling,K. Dooling,0,0,0,,0,,,0,,"Double Technical - Dooling, Carter",Foul,Double Technical,0,134
+40400102,138,PT09M02.00S,2,1610612751,NJN,1713,Carter,V. Carter,0,0,0,,0,,,0,v,SUB: Scalabrine FOR Carter,Substitution,,0,135
+40400102,139,PT09M02.00S,2,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,,,0,h,SUB: O'Neal FOR Mourning,Substitution,,0,136
+40400102,140,PT08M49.00S,2,1610612748,MIA,2039,Dooling,K. Dooling,0,0,0,,0,,,0,h,Dooling Traveling Turnover (P1.T7),Turnover,Traveling,0,137
+40400102,141,PT08M49.00S,2,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,138
+40400102,143,PT08M49.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,SUB: E. Jones FOR Wade,Substitution,,0,139
+40400102,144,PT08M49.00S,2,1610612748,MIA,1000,Anderson,S. Anderson,0,0,0,,0,,,0,h,SUB: Haslem FOR Anderson,Substitution,,0,140
+40400102,145,PT08M49.00S,2,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,,,0,v,SUB: Collins FOR Jefferson,Substitution,,0,141
+40400102,146,PT08M30.00S,2,1610612751,NJN,2243,Scalabrine,B. Scalabrine,-209,115,24,Missed,1,,,0,v,MISS Scalabrine 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,142
+40400102,147,PT08M28.00S,2,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Unknown,0,143
+40400102,148,PT08M28.00S,2,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,,,0,v,Krstic L.B.FOUL (P1.T3),Foul,Loose Ball,0,144
+40400102,149,PT08M13.00S,2,1610612748,MIA,406,O'Neal,S. O'Neal,-77,-5,8,Made,1,32.0,25.0,57,h,O'Neal 8' Turnaround Jump Shot (6 PTS),Made Shot,Turnaround Jump Shot,0,145
+40400102,150,PT07M54.00S,2,1610612751,NJN,2243,Scalabrine,B. Scalabrine,0,0,0,,0,,,0,v,Scalabrine Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,146
+40400102,151,PT07M37.00S,2,1610612748,MIA,406,O'Neal,S. O'Neal,-89,7,9,Missed,1,,,0,h,MISS O'Neal 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,147
+40400102,152,PT07M35.00S,2,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,,,0,v,Kidd REBOUND (Off:1 Def:2),Rebound,Unknown,0,148
+40400102,153,PT07M28.00S,2,1610612751,NJN,696,Best,T. Best,115,212,24,Missed,1,,,0,v,MISS Best 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,149
+40400102,154,PT07M26.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,,,0,h,Haslem REBOUND (Off:0 Def:3),Rebound,Unknown,0,150
+40400102,155,PT07M22.00S,2,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,,,0,v,Collins P.FOUL (P2.T4),Foul,Personal,0,151
+40400102,156,PT07M22.00S,2,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,,,0,v,SUB: Carter FOR Kidd,Substitution,,0,152
+40400102,157,PT07M11.00S,2,1610612748,MIA,2446,Butler,R. Butler,177,76,19,Missed,1,,,0,h,MISS Butler 19' Jump Shot,Missed Shot,Jump Shot,0,153
+40400102,158,PT07M09.00S,2,1610612751,NJN,1713,Carter,V. Carter,0,0,0,,0,,,0,v,Carter REBOUND (Off:1 Def:1),Rebound,Unknown,0,154
+40400102,159,PT06M58.00S,2,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,,,0,h,O'Neal P.FOUL (P2.T3),Foul,Personal,0,155
+40400102,160,PT06M58.00S,2,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,32.0,26.0,58,v,Collins Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,156
+40400102,161,PT06M58.00S,2,1610612748,MIA,2039,Dooling,K. Dooling,0,0,0,,0,,,0,h,SUB: D. Jones FOR Dooling,Substitution,,0,157
+40400102,162,PT06M58.00S,2,1610612751,NJN,696,Best,T. Best,0,0,0,,0,,,0,v,SUB: Kidd FOR Best,Substitution,,0,158
+40400102,163,PT06M58.00S,2,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,,,0,v,MISS Collins Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,159
+40400102,164,PT06M57.00S,2,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,,,0,h,O'Neal REBOUND (Off:0 Def:2),Rebound,Unknown,0,160
+40400102,165,PT06M40.00S,2,1610612748,MIA,406,O'Neal,S. O'Neal,-20,25,3,Missed,1,,,0,h,MISS O'Neal 3' Jump Shot,Missed Shot,Jump Shot,0,161
+40400102,166,PT06M39.00S,2,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,,,0,h,O'Neal REBOUND (Off:1 Def:2),Rebound,Unknown,0,162
+40400102,167,PT06M39.00S,2,1610612751,NJN,2243,Scalabrine,B. Scalabrine,0,0,0,,0,,,0,v,Scalabrine S.FOUL (P3.PN),Foul,Shooting,0,163
+40400102,168,PT06M39.00S,2,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,,,0,h,MISS O'Neal Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,164
+40400102,169,PT06M39.00S,2,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Normal Rebound,0,165
+40400102,170,PT06M39.00S,2,1610612751,NJN,2243,Scalabrine,B. Scalabrine,0,0,0,,0,,,0,v,SUB: Jefferson FOR Scalabrine,Substitution,,0,166
+40400102,171,PT06M39.00S,2,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,,,0,h,MISS O'Neal Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,167
+40400102,172,PT06M37.00S,2,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,,,0,v,Jefferson REBOUND (Off:0 Def:1),Rebound,Unknown,0,168
+40400102,173,PT06M26.00S,2,1610612751,NJN,1713,Carter,V. Carter,146,168,22,Missed,1,,,0,v,MISS Carter 22' Jump Shot,Missed Shot,Jump Shot,0,169
+40400102,174,PT06M24.00S,2,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,,,0,h,O'Neal REBOUND (Off:1 Def:3),Rebound,Unknown,0,170
+40400102,175,PT06M13.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,Missed,1,,,0,h,MISS Haslem Driving Layup,Missed Shot,Driving Layup Shot,0,171
+40400102,177,PT06M12.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,,,0,h,Haslem REBOUND (Off:1 Def:3),Rebound,Unknown,0,172
+40400102,176,PT06M11.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,Missed,1,,,0,h,MISS Haslem Tip Shot,Missed Shot,Tip Shot,0,173
+40400102,178,PT06M10.00S,2,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,,,0,v,Collins REBOUND (Off:1 Def:1),Rebound,Unknown,0,174
+40400102,179,PT05M52.00S,2,1610612748,MIA,224,Jones,E. Jones,0,0,0,,0,,,0,h,E. Jones S.FOUL (P1.T4),Foul,Shooting,0,175
+40400102,180,PT05M52.00S,2,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,176
+40400102,184,PT05M52.00S,2,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,32.0,27.0,59,v,Krstic Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,177
+40400102,185,PT05M52.00S,2,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,32.0,28.0,60,v,Krstic Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,178
+40400102,186,PT05M32.00S,2,1610612748,MIA,1800,Jones,D. Jones,0,0,0,,0,,,0,h,D. Jones Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,179
+40400102,186,PT05M32.00S,2,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,,,0,v,Kidd STEAL (2 STL),,,0,180
+40400102,187,PT05M25.00S,2,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,Missed,1,,,0,v,MISS Jefferson Layup,Missed Shot,Layup Shot,0,181
+40400102,188,PT05M23.00S,2,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,,,0,v,Krstic REBOUND (Off:1 Def:3),Rebound,Unknown,0,182
+40400102,189,PT05M22.00S,2,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,Made,1,32.0,30.0,62,v,Krstic Layup (12 PTS),Made Shot,Layup Shot,0,183
+40400102,190,PT05M06.00S,2,1610612748,MIA,224,Jones,E. Jones,209,132,25,Made,1,35.0,30.0,65,h,E. Jones 25' 3PT Jump Shot (5 PTS) (O'Neal 3 AST),Made Shot,Jump Shot,0,184
+40400102,191,PT04M46.00S,2,1610612751,NJN,2420,Krstic,N. Krstic,-71,53,9,Missed,1,,,0,v,MISS Krstic 9' Jump Bank Shot,Missed Shot,Jump Bank Shot,0,185
+40400102,192,PT04M44.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,,,0,h,Haslem REBOUND (Off:1 Def:4),Rebound,Unknown,0,186
+40400102,193,PT04M34.00S,2,1610612748,MIA,2446,Butler,R. Butler,163,35,17,Made,1,37.0,30.0,67,h,Butler 17' Jump Shot (2 PTS),Made Shot,Jump Shot,0,187
+40400102,194,PT04M27.00S,2,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,188
+40400102,197,PT04M27.00S,2,1610612748,MIA,2446,Butler,R. Butler,0,0,0,,0,,,0,h,SUB: Wade FOR Butler,Substitution,,0,189
+40400102,198,PT04M16.00S,2,1610612751,NJN,467,Kidd,J. Kidd,184,171,25,Missed,1,,,0,v,MISS Kidd 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,190
+40400102,199,PT04M14.00S,2,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,,,0,h,O'Neal REBOUND (Off:1 Def:4),Rebound,Unknown,0,191
+40400102,200,PT04M10.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,Made,1,39.0,30.0,69,h,Wade Reverse Dunk (6 PTS) (O'Neal 4 AST),Made Shot,Reverse Dunk Shot,0,192
+40400102,201,PT03M49.00S,2,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,,,0,h,O'Neal S.FOUL (P3.PN),Foul,Shooting,0,193
+40400102,202,PT03M49.00S,2,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,,,0,v,MISS Collins Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,194
+40400102,203,PT03M49.00S,2,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Normal Rebound,0,195
+40400102,204,PT03M49.00S,2,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,,,0,h,SUB: Mourning FOR O'Neal,Substitution,,0,196
+40400102,205,PT03M49.00S,2,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,,,0,v,MISS Collins Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,197
+40400102,206,PT03M48.00S,2,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,,,0,h,Mourning REBOUND (Off:1 Def:3),Rebound,Unknown,0,198
+40400102,207,PT03M34.00S,2,1610612748,MIA,1800,Jones,D. Jones,18,243,24,Made,1,42.0,30.0,72,h,D. Jones 24' 3PT Jump Shot (7 PTS) (Wade 3 AST),Made Shot,Jump Shot,0,199
+40400102,208,PT03M17.00S,2,1610612748,MIA,224,Jones,E. Jones,0,0,0,,0,,,0,h,E. Jones P.FOUL (P2.PN),Foul,Personal,0,200
+40400102,209,PT03M17.00S,2,1610612751,NJN,1713,Carter,V. Carter,0,0,0,,0,42.0,31.0,73,v,Carter Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,201
+40400102,210,PT03M17.00S,2,1610612751,NJN,1713,Carter,V. Carter,0,0,0,,0,42.0,32.0,74,v,Carter Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,202
+40400102,211,PT03M05.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,Missed,1,,,0,h,MISS Haslem Driving Layup,Missed Shot,Driving Layup Shot,0,203
+40400102,212,PT03M04.00S,2,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,,,0,h,Mourning REBOUND (Off:2 Def:3),Rebound,Unknown,0,204
+40400102,213,PT03M04.00S,2,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,,,0,v,Krstic S.FOUL (P2.PN),Foul,Shooting,0,205
+40400102,214,PT03M04.00S,2,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,43.0,32.0,75,h,Mourning Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,206
+40400102,215,PT03M04.00S,2,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,,,0,h,MISS Mourning Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,207
+40400102,216,PT03M03.00S,2,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,,,0,v,Krstic REBOUND (Off:1 Def:4),Rebound,Unknown,0,208
+40400102,217,PT02M51.00S,2,1610612751,NJN,1713,Carter,V. Carter,0,0,0,Missed,1,,,0,v,MISS Carter Driving Layup,Missed Shot,Driving Layup Shot,0,209
+40400102,218,PT02M50.00S,2,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,,,0,v,Krstic REBOUND (Off:2 Def:4),Rebound,Unknown,0,210
+40400102,219,PT02M48.00S,2,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,Made,1,43.0,34.0,77,v,Krstic Layup (14 PTS),Made Shot,Layup Shot,0,211
+40400102,220,PT02M28.00S,2,1610612748,MIA,224,Jones,E. Jones,197,151,25,Missed,1,,,0,h,MISS E. Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,212
+40400102,221,PT02M26.00S,2,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,,,0,h,Mourning REBOUND (Off:3 Def:3),Rebound,Unknown,0,213
+40400102,222,PT02M26.00S,2,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,Made,1,45.0,34.0,79,h,Mourning Layup (7 PTS),Made Shot,Layup Shot,0,214
+40400102,223,PT02M26.00S,2,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,,,0,v,Collins S.FOUL (P3.PN),Foul,Shooting,0,215
+40400102,224,PT02M26.00S,2,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,46.0,34.0,80,h,Mourning Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,216
+40400102,225,PT02M15.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,,,0,h,Haslem S.FOUL (P3.PN),Foul,Shooting,0,217
+40400102,226,PT02M15.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,,,0,h,SUB: Laettner FOR Haslem,Substitution,,0,218
+40400102,227,PT02M15.00S,2,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,,,0,v,MISS Jefferson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,219
+40400102,228,PT02M15.00S,2,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Normal Rebound,0,220
+40400102,229,PT02M15.00S,2,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,46.0,35.0,81,v,Jefferson Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,221
+40400102,230,PT01M59.00S,2,1610612748,MIA,297,Mourning,A. Mourning,-21,94,10,Missed,1,,,0,h,MISS Mourning 10' Hook Shot,Missed Shot,Hook Shot,0,222
+40400102,231,PT01M57.00S,2,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,,,0,v,Kidd REBOUND (Off:1 Def:3),Rebound,Unknown,0,223
+40400102,232,PT01M52.00S,2,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,,,0,v,Kidd Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,224
+40400102,233,PT01M34.00S,2,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,,,0,h,Mourning Lost Ball Turnover (P3.T9),Turnover,Lost Ball,0,225
+40400102,233,PT01M34.00S,2,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,,,0,v,Kidd STEAL (3 STL),,,0,226
+40400102,234,PT01M30.00S,2,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,,,0,h,Mourning S.FOUL (P3.PN),Foul,Shooting,0,227
+40400102,235,PT01M30.00S,2,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,46.0,36.0,82,v,Krstic Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,228
+40400102,236,PT01M30.00S,2,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,,,0,h,SUB: Doleac FOR Mourning,Substitution,,0,229
+40400102,237,PT01M30.00S,2,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,46.0,37.0,83,v,Krstic Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,230
+40400102,238,PT01M10.00S,2,1610612748,MIA,363,Laettner,C. Laettner,144,110,18,Missed,1,,,0,h,MISS Laettner 18' Jump Shot,Missed Shot,Jump Shot,0,231
+40400102,240,PT01M07.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,Wade REBOUND (Off:2 Def:2),Rebound,Unknown,0,232
+40400102,239,PT01M06.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,Missed,1,,,0,h,MISS Wade Tip Shot,Missed Shot,Tip Shot,0,233
+40400102,242,PT01M05.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,Wade REBOUND (Off:3 Def:2),Rebound,Unknown,0,234
+40400102,241,PT01M04.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,Made,1,48.0,37.0,85,h,Wade Tip Shot (8 PTS),Made Shot,Tip Shot,0,235
+40400102,243,PT00M53.00S,2,1610612748,MIA,1800,Jones,D. Jones,0,0,0,,0,,,0,h,SUB: Dooling FOR D. Jones,Substitution,,0,236
+40400102,244,PT00M53.00S,2,1610612748,MIA,224,Jones,E. Jones,0,0,0,,0,,,0,h,SUB: Anderson FOR E. Jones,Substitution,,0,237
+40400102,248,PT00M53.00S,2,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,,,0,v,SUB: Robinson FOR Collins,Substitution,,0,238
+40400102,245,PT00M48.30S,2,1610612751,NJN,1713,Carter,V. Carter,0,0,0,,0,,,0,v,Carter OFF.Foul (P3),Foul,Offensive,0,239
+40400102,246,PT00M48.30S,2,1610612751,NJN,1713,Carter,V. Carter,0,0,0,,0,,,0,v,Carter Foul Turnover (P2.T5),Turnover,Foul,0,240
+40400102,247,PT00M46.90S,2,1610612751,NJN,1713,Carter,V. Carter,0,0,0,,0,,,0,v,SUB: Best FOR Carter,Substitution,,0,241
+40400102,249,PT00M34.90S,2,1610612748,MIA,2548,Wade,D. Wade,-67,229,24,Missed,1,,,0,h,MISS Wade 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,242
+40400102,250,PT00M33.50S,2,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Unknown,0,243
+40400102,251,PT00M33.50S,2,1610612748,MIA,1720,Doleac,M. Doleac,0,0,0,,0,,,0,h,Doleac L.B.FOUL (P1.PN),Foul,Loose Ball,0,244
+40400102,252,PT00M33.50S,2,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,48.0,38.0,86,v,Krstic Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,245
+40400102,253,PT00M33.50S,2,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,48.0,39.0,87,v,Krstic Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,246
+40400102,254,PT00M18.90S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,Wade Lost Ball Turnover (P3.T10),Turnover,Lost Ball,0,247
+40400102,254,PT00M18.90S,2,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,,,0,v,Kidd STEAL (4 STL),,,0,248
+40400102,255,PT00M00.00S,2,0,,0,,,0,0,0,,0,48.0,39.0,87,,End of 2nd Period (9:21 PM EST),period,end,0,249
+40400102,257,PT12M00.00S,3,0,,0,,,0,0,0,,0,48.0,39.0,87,,Start of 3rd Period (9:41 PM EST),period,start,0,250
+40400102,258,PT11M45.00S,3,1610612751,NJN,2243,Scalabrine,B. Scalabrine,0,0,0,,0,,,0,v,Scalabrine Step Out of Bounds Turnover (P3.T6),Turnover,Step Out of Bounds Turnover,0,251
+40400102,259,PT11M28.00S,3,1610612748,MIA,1800,Jones,D. Jones,-228,30,0,Made,1,51.0,39.0,90,h,D. Jones 3PT Jump Shot (10 PTS) (Wade 4 AST),Made Shot,Jump Shot,0,252
+40400102,260,PT11M13.00S,3,1610612748,MIA,1800,Jones,D. Jones,0,0,0,,0,,,0,h,D. Jones P.FOUL (P3.T1),Foul,Personal,0,253
+40400102,261,PT11M00.00S,3,1610612751,NJN,467,Kidd,J. Kidd,154,197,25,Missed,1,,,0,v,MISS Kidd 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,254
+40400102,262,PT10M58.00S,3,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,,,0,h,O'Neal REBOUND (Off:1 Def:5),Rebound,Unknown,0,255
+40400102,263,PT10M48.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,Wade Step Out of Bounds Turnover (P4.T11),Turnover,Step Out of Bounds Turnover,0,256
+40400102,264,PT10M38.00S,3,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,Made,1,51.0,41.0,92,v,Kidd Driving Finger Roll (7 PTS),Made Shot,Driving Finger Roll Shot,0,257
+40400102,265,PT10M20.00S,3,1610612748,MIA,224,Jones,E. Jones,0,0,0,Made,1,53.0,41.0,94,h,E. Jones Layup (7 PTS) (Wade 5 AST),Made Shot,Layup Shot,0,258
+40400102,266,PT10M03.00S,3,1610612748,MIA,224,Jones,E. Jones,0,0,0,,0,,,0,h,E. Jones P.FOUL (P3.T2),Foul,Personal,0,259
+40400102,267,PT10M01.00S,3,1610612751,NJN,1713,Carter,V. Carter,-61,28,7,Made,1,53.0,43.0,96,v,Carter 7' Jump Shot (11 PTS),Made Shot,Jump Shot,0,260
+40400102,268,PT10M01.00S,3,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,,,0,h,Haslem S.FOUL (P4.T3),Foul,Shooting,0,261
+40400102,269,PT10M01.00S,3,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,,,0,h,SUB: Laettner FOR Haslem,Substitution,,0,262
+40400102,270,PT10M01.00S,3,1610612751,NJN,1713,Carter,V. Carter,0,0,0,,0,53.0,44.0,97,v,Carter Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,263
+40400102,271,PT09M41.00S,3,1610612748,MIA,2548,Wade,D. Wade,-39,86,9,Missed,1,,,0,h,MISS Wade 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,264
+40400102,272,PT09M39.00S,3,1610612751,NJN,2243,Scalabrine,B. Scalabrine,0,0,0,,0,,,0,v,Scalabrine REBOUND (Off:0 Def:1),Rebound,Unknown,0,265
+40400102,273,PT09M33.00S,3,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,,,0,v,Kidd Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,266
+40400102,273,PT09M33.00S,3,1610612748,MIA,224,Jones,E. Jones,0,0,0,,0,,,0,h,E. Jones STEAL (1 STL),,,0,267
+40400102,274,PT09M29.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,Missed,1,,,0,h,MISS Wade Layup,Missed Shot,Layup Shot,0,268
+40400102,276,PT09M27.00S,3,1610612748,MIA,224,Jones,E. Jones,0,0,0,,0,,,0,h,E. Jones REBOUND (Off:2 Def:3),Rebound,Unknown,0,269
+40400102,275,PT09M27.00S,3,1610612748,MIA,224,Jones,E. Jones,0,0,0,Made,1,55.0,44.0,99,h,E. Jones Follow Up Dunk (9 PTS),Made Shot,Follow Up Dunk Shot,0,270
+40400102,277,PT09M20.00S,3,1610612751,NJN,1713,Carter,V. Carter,0,0,0,Missed,1,,,0,v,MISS Carter Layup,Missed Shot,Layup Shot,0,271
+40400102,278,PT09M19.00S,3,1610612748,MIA,363,Laettner,C. Laettner,0,0,0,,0,,,0,h,Laettner REBOUND (Off:0 Def:1),Rebound,Unknown,0,272
+40400102,279,PT09M15.00S,3,1610612748,MIA,1800,Jones,D. Jones,-230,7,0,Made,1,58.0,44.0,102,h,D. Jones 3PT Jump Shot (13 PTS) (Wade 6 AST),Made Shot,Jump Shot,0,273
+40400102,280,PT09M12.00S,3,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,274
+40400102,284,PT08M56.00S,3,1610612751,NJN,2243,Scalabrine,B. Scalabrine,138,107,17,Missed,1,,,0,v,MISS Scalabrine 17' Jump Shot,Missed Shot,Jump Shot,0,275
+40400102,285,PT08M53.00S,3,1610612748,MIA,1800,Jones,D. Jones,0,0,0,,0,,,0,h,D. Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,276
+40400102,286,PT08M49.00S,3,1610612748,MIA,2548,Wade,D. Wade,-171,127,21,Missed,1,,,0,h,MISS Wade 21' Jump Shot,Missed Shot,Jump Shot,0,277
+40400102,287,PT08M47.00S,3,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,,,0,v,Kidd REBOUND (Off:1 Def:4),Rebound,Unknown,0,278
+40400102,288,PT08M43.00S,3,1610612751,NJN,467,Kidd,J. Kidd,87,20,9,Missed,1,,,0,v,MISS Kidd 9' Jump Shot,Missed Shot,Jump Shot,0,279
+40400102,289,PT08M41.00S,3,1610612751,NJN,1713,Carter,V. Carter,0,0,0,,0,,,0,v,Carter REBOUND (Off:2 Def:1),Rebound,Unknown,0,280
+40400102,290,PT08M41.00S,3,1610612751,NJN,2243,Scalabrine,B. Scalabrine,0,0,0,,0,,,0,v,SUB: Jefferson FOR Scalabrine,Substitution,,0,281
+40400102,291,PT08M41.00S,3,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,,,0,h,Jump Ball O'Neal vs. Carter: Tip to Jefferson,Jump Ball,,0,282
+40400102,292,PT08M24.00S,3,1610612751,NJN,467,Kidd,J. Kidd,-141,204,25,Made,1,58.0,47.0,105,v,Kidd 25' 3PT Jump Shot (10 PTS) (Krstic 2 AST),Made Shot,Jump Shot,0,283
+40400102,293,PT08M04.00S,3,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,,,0,v,Nets T.Foul (Def. 3 Sec Collins ),Foul,Defense 3 Second,0,284
+40400102,294,PT08M04.00S,3,1610612748,MIA,224,Jones,E. Jones,0,0,0,,0,59.0,47.0,106,h,E. Jones Free Throw Technical (10 PTS),Free Throw,Free Throw Technical,0,285
+40400102,295,PT07M57.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,Missed,1,,,0,h,MISS Wade Dunk,Missed Shot,Dunk Shot,0,286
+40400102,296,PT07M55.00S,3,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,,,0,v,Collins REBOUND (Off:1 Def:2),Rebound,Unknown,0,287
+40400102,297,PT07M52.00S,3,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,,,0,v,Krstic OFF.Foul (P3),Foul,Offensive,0,288
+40400102,298,PT07M52.00S,3,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,,,0,v,Krstic Foul Turnover (P1.T8),Turnover,Foul,0,289
+40400102,299,PT07M38.00S,3,1610612748,MIA,1800,Jones,D. Jones,240,69,25,Missed,1,,,0,h,MISS D. Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,290
+40400102,300,PT07M36.00S,3,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,,,0,v,Krstic REBOUND (Off:2 Def:5),Rebound,Unknown,0,291
+40400102,301,PT07M31.00S,3,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,,,0,v,Krstic Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,292
+40400102,301,PT07M31.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,Wade STEAL (1 STL),,,0,293
+40400102,302,PT07M29.00S,3,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,,,0,v,Krstic S.FOUL (P4.T1),Foul,Shooting,0,294
+40400102,303,PT07M29.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,60.0,47.0,107,h,Wade Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,295
+40400102,304,PT07M29.00S,3,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,,,0,v,SUB: Robinson FOR Krstic,Substitution,,0,296
+40400102,305,PT07M29.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,61.0,47.0,108,h,Wade Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,297
+40400102,306,PT07M15.00S,3,1610612751,NJN,2210,Jefferson,R. Jefferson,84,26,9,Missed,1,,,0,v,MISS Jefferson 9' Jump Shot,Missed Shot,Jump Shot,0,298
+40400102,307,PT07M13.00S,3,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,,,0,v,Jefferson REBOUND (Off:1 Def:1),Rebound,Unknown,0,299
+40400102,308,PT07M10.00S,3,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,,,0,v,Jefferson Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,300
+40400102,308,PT07M10.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,Wade STEAL (2 STL),,,0,301
+40400102,309,PT07M05.00S,3,1610612748,MIA,224,Jones,E. Jones,0,0,0,Made,1,63.0,47.0,110,h,E. Jones Dunk (12 PTS) (D. Jones 1 AST),Made Shot,Dunk Shot,0,302
+40400102,310,PT07M01.00S,3,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,303
+40400102,314,PT06M44.00S,3,1610612751,NJN,467,Kidd,J. Kidd,-48,151,16,Missed,1,,,0,v,MISS Kidd 16' Jump Shot,Missed Shot,Jump Shot,0,304
+40400102,315,PT06M43.00S,3,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,,,0,v,Collins REBOUND (Off:2 Def:2),Rebound,Unknown,0,305
+40400102,316,PT06M42.00S,3,1610612751,NJN,2215,Collins,J. Collins,0,0,0,Missed,1,,,0,v,MISS Collins Layup,Missed Shot,Layup Shot,0,306
+40400102,316,PT06M42.00S,3,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,,,0,h,O'Neal BLOCK (1 BLK),,,0,307
+40400102,317,PT06M41.00S,3,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,,,0,v,Collins REBOUND (Off:3 Def:2),Rebound,Unknown,0,308
+40400102,318,PT06M40.00S,3,1610612751,NJN,2215,Collins,J. Collins,0,0,0,Missed,1,,,0,v,MISS Collins Layup,Missed Shot,Layup Shot,0,309
+40400102,318,PT06M40.00S,3,1610612748,MIA,224,Jones,E. Jones,0,0,0,,0,,,0,h,E. Jones BLOCK (1 BLK),,,0,310
+40400102,319,PT06M39.00S,3,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Unknown,0,311
+40400102,320,PT06M28.00S,3,1610612751,NJN,1713,Carter,V. Carter,0,0,0,Missed,1,,,0,v,MISS Carter Driving Finger Roll,Missed Shot,Driving Finger Roll Shot,0,312
+40400102,321,PT06M26.00S,3,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,,,0,h,O'Neal REBOUND (Off:1 Def:6),Rebound,Unknown,0,313
+40400102,322,PT06M23.00S,3,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,,,0,v,Jefferson P.FOUL (P1.T2),Foul,Personal,0,314
+40400102,323,PT06M17.00S,3,1610612751,NJN,361,Robinson,C. Robinson,0,0,0,,0,,,0,v,Robinson P.FOUL (P3.T3),Foul,Personal,0,315
+40400102,324,PT06M01.00S,3,1610612748,MIA,2548,Wade,D. Wade,-145,132,20,Missed,1,,,0,h,MISS Wade 20' Jump Shot,Missed Shot,Jump Shot,0,316
+40400102,325,PT05M59.00S,3,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,,,0,v,Jefferson REBOUND (Off:1 Def:2),Rebound,Unknown,0,317
+40400102,326,PT05M51.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,Wade P.FOUL (P2.T4),Foul,Personal,0,318
+40400102,327,PT05M48.00S,3,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,,,0,h,O'Neal P.FOUL (P4.PN),Foul,Personal,0,319
+40400102,328,PT05M48.00S,3,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,,,0,h,SUB: Mourning FOR O'Neal,Substitution,,0,320
+40400102,329,PT05M48.00S,3,1610612751,NJN,1713,Carter,V. Carter,0,0,0,,0,63.0,48.0,111,v,Carter Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,321
+40400102,330,PT05M48.00S,3,1610612751,NJN,1713,Carter,V. Carter,0,0,0,,0,63.0,49.0,112,v,Carter Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,322
+40400102,331,PT05M38.00S,3,1610612748,MIA,224,Jones,E. Jones,225,109,25,Missed,1,,,0,h,MISS E. Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,323
+40400102,332,PT05M37.00S,3,1610612751,NJN,1713,Carter,V. Carter,0,0,0,,0,,,0,v,Carter REBOUND (Off:2 Def:2),Rebound,Unknown,0,324
+40400102,333,PT05M29.00S,3,1610612751,NJN,1713,Carter,V. Carter,0,0,0,Missed,1,,,0,v,MISS Carter Driving Layup,Missed Shot,Driving Layup Shot,0,325
+40400102,334,PT05M27.00S,3,1610612748,MIA,363,Laettner,C. Laettner,0,0,0,,0,,,0,h,Laettner REBOUND (Off:0 Def:2),Rebound,Unknown,0,326
+40400102,335,PT05M26.00S,3,1610612748,MIA,363,Laettner,C. Laettner,0,0,0,,0,,,0,h,Laettner Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,327
+40400102,335,PT05M26.00S,3,1610612751,NJN,361,Robinson,C. Robinson,0,0,0,,0,,,0,v,Robinson STEAL (1 STL),,,0,328
+40400102,336,PT05M23.00S,3,1610612751,NJN,361,Robinson,C. Robinson,-8,86,9,Missed,1,,,0,v,MISS Robinson 9' Jump Shot,Missed Shot,Jump Shot,0,329
+40400102,338,PT05M22.00S,3,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,,,0,v,Collins REBOUND (Off:4 Def:2),Rebound,Unknown,0,330
+40400102,337,PT05M21.00S,3,1610612751,NJN,2215,Collins,J. Collins,0,0,0,Missed,1,,,0,v,MISS Collins Tip Shot,Missed Shot,Tip Shot,0,331
+40400102,339,PT05M19.00S,3,1610612748,MIA,224,Jones,E. Jones,0,0,0,,0,,,0,h,E. Jones REBOUND (Off:2 Def:4),Rebound,Unknown,0,332
+40400102,340,PT05M16.00S,3,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,,,0,v,Kidd S.FOUL (P1.T4),Foul,Shooting,0,333
+40400102,341,PT05M16.00S,3,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,64.0,49.0,113,h,Mourning Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,334
+40400102,342,PT05M16.00S,3,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,65.0,49.0,114,h,Mourning Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,335
+40400102,343,PT05M04.00S,3,1610612751,NJN,1713,Carter,V. Carter,187,66,20,Missed,1,,,0,v,MISS Carter 20' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,336
+40400102,344,PT05M03.00S,3,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Unknown,0,337
+40400102,345,PT04M55.00S,3,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,,,0,v,Jefferson Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,338
+40400102,345,PT04M55.00S,3,1610612748,MIA,1800,Jones,D. Jones,0,0,0,,0,,,0,h,D. Jones STEAL (1 STL),,,0,339
+40400102,346,PT04M53.00S,3,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,,,0,v,Kidd P.FOUL (P2.PN),Foul,Personal,0,340
+40400102,347,PT04M53.00S,3,1610612748,MIA,1800,Jones,D. Jones,0,0,0,,0,66.0,49.0,115,h,D. Jones Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,341
+40400102,348,PT04M53.00S,3,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,,,0,v,SUB: Best FOR Jefferson,Substitution,,0,342
+40400102,349,PT04M53.00S,3,1610612748,MIA,1800,Jones,D. Jones,0,0,0,,0,,,0,h,MISS D. Jones Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,343
+40400102,350,PT04M52.00S,3,1610612751,NJN,361,Robinson,C. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:1 Def:1),Rebound,Unknown,0,344
+40400102,351,PT04M36.00S,3,1610612751,NJN,467,Kidd,J. Kidd,-187,158,24,Missed,1,,,0,v,MISS Kidd 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,345
+40400102,352,PT04M34.00S,3,1610612748,MIA,363,Laettner,C. Laettner,0,0,0,,0,,,0,h,Laettner REBOUND (Off:0 Def:3),Rebound,Unknown,0,346
+40400102,353,PT04M29.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,Wade Bad Pass Turnover (P5.T13),Turnover,Bad Pass,0,347
+40400102,353,PT04M29.00S,3,1610612751,NJN,1713,Carter,V. Carter,0,0,0,,0,,,0,v,Carter STEAL (2 STL),,,0,348
+40400102,354,PT04M26.00S,3,1610612751,NJN,1713,Carter,V. Carter,0,0,0,,0,,,0,v,Carter OFF.Foul (P4),Foul,Offensive,0,349
+40400102,355,PT04M26.00S,3,1610612751,NJN,1713,Carter,V. Carter,0,0,0,,0,,,0,v,Carter Foul Turnover (P3.T12),Turnover,Foul,0,350
+40400102,356,PT04M14.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,Missed,1,,,0,h,MISS Wade Driving Layup,Missed Shot,Driving Layup Shot,0,351
+40400102,357,PT04M13.00S,3,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Unknown,0,352
+40400102,358,PT04M13.00S,3,1610612751,NJN,1713,Carter,V. Carter,0,0,0,,0,,,0,v,Carter P.FOUL (P5.PN),Foul,Personal,0,353
+40400102,359,PT04M13.00S,3,1610612751,NJN,1713,Carter,V. Carter,0,0,0,,0,,,0,v,SUB: Scalabrine FOR Carter,Substitution,,0,354
+40400102,360,PT04M13.00S,3,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,,,0,h,MISS Mourning Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,355
+40400102,361,PT04M13.00S,3,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Normal Rebound,0,356
+40400102,362,PT04M13.00S,3,1610612748,MIA,224,Jones,E. Jones,0,0,0,,0,,,0,h,SUB: Butler FOR E. Jones,Substitution,,0,357
+40400102,363,PT04M13.00S,3,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,67.0,49.0,116,h,Mourning Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,358
+40400102,364,PT03M59.00S,3,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,,,0,v,Kidd Bad Pass Turnover (P3.T13),Turnover,Bad Pass,0,359
+40400102,364,PT03M59.00S,3,1610612748,MIA,363,Laettner,C. Laettner,0,0,0,,0,,,0,h,Laettner STEAL (1 STL),,,0,360
+40400102,365,PT03M46.00S,3,1610612748,MIA,297,Mourning,A. Mourning,-28,69,7,Made,1,69.0,49.0,118,h,Mourning 7' Hook Shot (13 PTS),Made Shot,Hook Shot,0,361
+40400102,366,PT03M38.00S,3,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,362
+40400102,371,PT03M28.00S,3,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,,,0,h,Mourning Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,363
+40400102,370,PT03M28.00S,3,1610612751,NJN,361,Robinson,C. Robinson,6,54,5,Made,1,69.0,51.0,120,v,Robinson 5' Hook Shot (2 PTS),Made Shot,Hook Shot,0,364
+40400102,372,PT03M28.00S,3,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,,,0,h,Mourning T.FOUL (P3.PN),Foul,Technical,0,365
+40400102,373,PT03M28.00S,3,1610612751,NJN,696,Best,T. Best,0,0,0,,0,69.0,52.0,121,v,Best Free Throw Technical (6 PTS),Free Throw,Free Throw Technical,0,366
+40400102,374,PT03M28.00S,3,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,,,0,v,SUB: Krstic FOR Collins,Substitution,,0,367
+40400102,375,PT03M11.00S,3,1610612748,MIA,1800,Jones,D. Jones,209,135,25,Missed,1,,,0,h,MISS D. Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,368
+40400102,376,PT03M09.00S,3,1610612751,NJN,2243,Scalabrine,B. Scalabrine,0,0,0,,0,,,0,v,Scalabrine REBOUND (Off:0 Def:2),Rebound,Unknown,0,369
+40400102,377,PT03M02.00S,3,1610612751,NJN,361,Robinson,C. Robinson,179,174,25,Missed,1,,,0,v,MISS Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,370
+40400102,378,PT02M59.00S,3,1610612751,NJN,696,Best,T. Best,0,0,0,,0,,,0,v,Best REBOUND (Off:1 Def:1),Rebound,Unknown,0,371
+40400102,379,PT02M54.00S,3,1610612751,NJN,696,Best,T. Best,-220,12,0,Missed,1,,,0,v,MISS Best 3PT Jump Shot,Missed Shot,Jump Shot,0,372
+40400102,380,PT02M53.00S,3,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Unknown,0,373
+40400102,381,PT02M37.00S,3,1610612748,MIA,2446,Butler,R. Butler,232,26,0,Missed,1,,,0,h,MISS Butler 3PT Jump Shot,Missed Shot,Jump Shot,0,374
+40400102,382,PT02M35.00S,3,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,,,0,h,Mourning REBOUND (Off:4 Def:3),Rebound,Unknown,0,375
+40400102,383,PT02M35.00S,3,1610612748,MIA,297,Mourning,A. Mourning,56,46,7,Made,1,71.0,52.0,123,h,Mourning 7' Jump Shot (15 PTS),Made Shot,Jump Shot,0,376
+40400102,384,PT02M35.00S,3,1610612751,NJN,361,Robinson,C. Robinson,0,0,0,,0,,,0,v,Robinson S.FOUL (P4.PN),Foul,Shooting,0,377
+40400102,385,PT02M35.00S,3,1610612748,MIA,1800,Jones,D. Jones,0,0,0,,0,,,0,h,SUB: Dooling FOR D. Jones,Substitution,,0,378
+40400102,387,PT02M35.00S,3,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,,,0,v,SUB: Jefferson FOR Kidd,Substitution,,0,379
+40400102,388,PT02M35.00S,3,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,72.0,52.0,124,h,Mourning Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,0,380
+40400102,389,PT02M23.00S,3,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,,,0,h,Mourning P.FOUL (P4.PN),Foul,Personal,0,381
+40400102,390,PT02M23.00S,3,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,72.0,53.0,125,v,Krstic Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,382
+40400102,391,PT02M23.00S,3,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,,,0,h,SUB: Doleac FOR Mourning,Substitution,,0,383
+40400102,392,PT02M23.00S,3,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,72.0,54.0,126,v,Krstic Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,384
+40400102,393,PT02M09.00S,3,1610612748,MIA,2446,Butler,R. Butler,205,8,21,Missed,1,,,0,h,MISS Butler 21' Jump Shot,Missed Shot,Jump Shot,0,385
+40400102,394,PT02M07.00S,3,1610612748,MIA,363,Laettner,C. Laettner,0,0,0,,0,,,0,h,Laettner REBOUND (Off:1 Def:3),Rebound,Unknown,0,386
+40400102,395,PT01M56.00S,3,1610612748,MIA,1720,Doleac,M. Doleac,0,0,0,Made,1,74.0,54.0,128,h,Doleac Layup (2 PTS) (Wade 7 AST),Made Shot,Layup Shot,0,387
+40400102,396,PT01M32.00S,3,1610612751,NJN,2243,Scalabrine,B. Scalabrine,6,35,4,Missed,1,,,0,v,MISS Scalabrine 4' Hook Shot,Missed Shot,Hook Shot,0,388
+40400102,397,PT01M30.00S,3,1610612748,MIA,363,Laettner,C. Laettner,0,0,0,,0,,,0,h,Laettner REBOUND (Off:1 Def:4),Rebound,Unknown,0,389
+40400102,398,PT01M20.00S,3,1610612748,MIA,2039,Dooling,K. Dooling,51,176,18,Made,1,76.0,54.0,130,h,Dooling 18' Jump Shot (8 PTS) (Wade 8 AST),Made Shot,Jump Shot,0,390
+40400102,399,PT01M01.00S,3,1610612751,NJN,361,Robinson,C. Robinson,23,243,24,Made,1,76.0,57.0,133,v,Robinson 24' 3PT Jump Shot (5 PTS) (Best 3 AST),Made Shot,Jump Shot,0,391
+40400102,400,PT00M42.90S,3,1610612748,MIA,2446,Butler,R. Butler,202,41,21,Missed,1,,,0,h,MISS Butler 21' Jump Shot,Missed Shot,Jump Shot,0,392
+40400102,401,PT00M41.60S,3,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Unknown,0,393
+40400102,402,PT00M41.60S,3,1610612748,MIA,363,Laettner,C. Laettner,0,0,0,,0,,,0,h,Laettner L.B.FOUL (P1.PN),Foul,Loose Ball,0,394
+40400102,403,PT00M41.60S,3,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,76.0,58.0,134,v,Krstic Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,395
+40400102,404,PT00M41.60S,3,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,76.0,59.0,135,v,Krstic Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,396
+40400102,405,PT00M25.90S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,Missed,1,,,0,h,MISS Wade Driving Layup,Missed Shot,Driving Layup Shot,0,397
+40400102,406,PT00M23.50S,3,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,,,0,v,Krstic REBOUND (Off:2 Def:6),Rebound,Unknown,0,398
+40400102,407,PT00M18.60S,3,1610612751,NJN,696,Best,T. Best,0,0,0,Missed,1,,,0,v,MISS Best Driving Layup,Missed Shot,Driving Layup Shot,0,399
+40400102,407,PT00M18.60S,3,1610612748,MIA,1720,Doleac,M. Doleac,0,0,0,,0,,,0,h,Doleac BLOCK (1 BLK),,,0,400
+40400102,408,PT00M17.60S,3,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Unknown,0,401
+40400102,409,PT00M02.90S,3,1610612751,NJN,361,Robinson,C. Robinson,18,245,25,Missed,1,,,0,v,MISS Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,402
+40400102,410,PT00M01.70S,3,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,,,0,v,Jefferson REBOUND (Off:2 Def:2),Rebound,Unknown,0,403
+40400102,411,PT00M00.60S,3,1610612751,NJN,2210,Jefferson,R. Jefferson,38,30,5,Missed,1,,,0,v,MISS Jefferson 5' Jump Shot,Missed Shot,Jump Shot,0,404
+40400102,411,PT00M00.60S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,Wade BLOCK (1 BLK),,,0,405
+40400102,412,PT00M00.00S,3,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Unknown,0,406
+40400102,413,PT00M00.00S,3,0,,0,,,0,0,0,,0,76.0,59.0,135,,End of 3rd Period (10:17 PM EST),period,end,0,407
+40400102,415,PT12M00.00S,4,0,,0,,,0,0,0,,0,76.0,59.0,135,,Start of 4th Period (10:20 PM EST),period,start,0,408
+40400102,416,PT11M45.00S,4,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,,,0,v,Krstic P.FOUL (P5.T1),Foul,Personal,0,409
+40400102,417,PT11M34.00S,4,1610612748,MIA,363,Laettner,C. Laettner,0,0,0,Made,1,78.0,59.0,137,h,Laettner Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,410
+40400102,418,PT11M18.00S,4,1610612748,MIA,224,Jones,E. Jones,0,0,0,,0,,,0,h,E. Jones P.FOUL (P4.T1),Foul,Personal,0,411
+40400102,419,PT11M18.00S,4,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,,,0,v,SUB: Best FOR Krstic,Substitution,,0,412
+40400102,420,PT11M18.00S,4,1610612748,MIA,2446,Butler,R. Butler,0,0,0,,0,,,0,h,SUB: Anderson FOR Butler,Substitution,,0,413
+40400102,421,PT11M12.00S,4,1610612751,NJN,1713,Carter,V. Carter,0,0,0,Made,1,78.0,61.0,139,v,Carter Driving Finger Roll (16 PTS),Made Shot,Driving Finger Roll Shot,0,414
+40400102,422,PT10M52.00S,4,1610612751,NJN,361,Robinson,C. Robinson,0,0,0,,0,,,0,v,Robinson S.FOUL (P5.T2),Foul,Shooting,0,415
+40400102,423,PT10M52.00S,4,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,,,0,h,MISS O'Neal Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,416
+40400102,424,PT10M52.00S,4,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Normal Rebound,0,417
+40400102,425,PT10M52.00S,4,1610612748,MIA,363,Laettner,C. Laettner,0,0,0,,0,,,0,h,SUB: Haslem FOR Laettner,Substitution,,0,418
+40400102,426,PT10M52.00S,4,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,,,0,h,MISS O'Neal Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,419
+40400102,427,PT10M51.00S,4,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,,,0,v,Kidd REBOUND (Off:1 Def:5),Rebound,Unknown,0,420
+40400102,428,PT10M35.00S,4,1610612751,NJN,467,Kidd,J. Kidd,-143,194,24,Missed,1,,,0,v,MISS Kidd 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,421
+40400102,429,PT10M33.00S,4,1610612751,NJN,1713,Carter,V. Carter,0,0,0,,0,,,0,v,Carter REBOUND (Off:3 Def:2),Rebound,Unknown,0,422
+40400102,430,PT10M22.00S,4,1610612751,NJN,361,Robinson,C. Robinson,228,7,0,Missed,1,,,0,v,MISS Robinson 3PT Jump Shot,Missed Shot,Jump Shot,0,423
+40400102,431,PT10M20.00S,4,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Unknown,0,424
+40400102,432,PT10M16.00S,4,1610612751,NJN,1713,Carter,V. Carter,41,133,14,Missed,1,,,0,v,MISS Carter 14' Jump Shot,Missed Shot,Jump Shot,0,425
+40400102,433,PT10M14.00S,4,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,,,0,h,O'Neal REBOUND (Off:1 Def:7),Rebound,Unknown,0,426
+40400102,434,PT10M04.00S,4,1610612751,NJN,361,Robinson,C. Robinson,0,0,0,,0,,,0,v,Robinson P.FOUL (P6.T3),Foul,Personal,0,427
+40400102,435,PT10M04.00S,4,1610612751,NJN,361,Robinson,C. Robinson,0,0,0,,0,,,0,v,SUB: Collins FOR Robinson,Substitution,,0,428
+40400102,436,PT09M53.00S,4,1610612748,MIA,406,O'Neal,S. O'Neal,67,95,12,Missed,1,,,0,h,MISS O'Neal 12' Hook Shot,Missed Shot,Hook Shot,0,429
+40400102,437,PT09M51.00S,4,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,,,0,v,Collins REBOUND (Off:4 Def:3),Rebound,Unknown,0,430
+40400102,438,PT09M38.00S,4,1610612751,NJN,2210,Jefferson,R. Jefferson,177,123,22,Made,1,78.0,63.0,141,v,Jefferson 22' Jump Shot (3 PTS) (Best 4 AST),Made Shot,Jump Shot,0,431
+40400102,439,PT09M17.00S,4,1610612748,MIA,406,O'Neal,S. O'Neal,-16,82,8,Missed,1,,,0,h,MISS O'Neal 8' Jump Shot,Missed Shot,Jump Shot,0,432
+40400102,440,PT09M15.00S,4,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,,,0,v,Jefferson REBOUND (Off:2 Def:3),Rebound,Unknown,0,433
+40400102,441,PT09M12.00S,4,1610612748,MIA,224,Jones,E. Jones,0,0,0,,0,,,0,h,E. Jones P.FOUL (P5.T2),Foul,Personal,0,434
+40400102,442,PT09M12.00S,4,1610612748,MIA,224,Jones,E. Jones,0,0,0,,0,,,0,h,SUB: Wade FOR E. Jones,Substitution,,0,435
+40400102,443,PT09M02.00S,4,1610612751,NJN,2210,Jefferson,R. Jefferson,3,89,9,Missed,1,,,0,v,MISS Jefferson 9' Jump Shot,Missed Shot,Jump Shot,0,436
+40400102,444,PT09M00.00S,4,1610612748,MIA,1000,Anderson,S. Anderson,0,0,0,,0,,,0,h,Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,0,437
+40400102,445,PT08M51.00S,4,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,,,0,v,Collins S.FOUL (P4.T4),Foul,Shooting,0,438
+40400102,446,PT08M51.00S,4,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,439
+40400102,449,PT08M51.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,MISS Wade Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,440
+40400102,450,PT08M51.00S,4,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Normal Rebound,0,441
+40400102,451,PT08M51.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,79.0,63.0,142,h,Wade Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,442
+40400102,452,PT08M32.00S,4,1610612751,NJN,2210,Jefferson,R. Jefferson,154,132,20,Made,1,79.0,65.0,144,v,Jefferson 20' Jump Shot (5 PTS) (Carter 3 AST),Made Shot,Jump Shot,0,443
+40400102,453,PT08M11.00S,4,1610612748,MIA,1000,Anderson,S. Anderson,59,53,8,Missed,1,,,0,h,MISS Anderson 8' Jump Shot,Missed Shot,Jump Shot,0,444
+40400102,454,PT08M08.00S,4,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,,,0,h,Haslem REBOUND (Off:2 Def:4),Rebound,Unknown,0,445
+40400102,455,PT08M07.00S,4,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,Missed,1,,,0,h,MISS Haslem Layup,Missed Shot,Layup Shot,0,446
+40400102,456,PT08M06.00S,4,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,,,0,v,Collins REBOUND (Off:4 Def:4),Rebound,Unknown,0,447
+40400102,457,PT08M01.00S,4,1610612751,NJN,2210,Jefferson,R. Jefferson,44,45,6,Missed,1,,,0,v,MISS Jefferson 6' Jump Shot,Missed Shot,Jump Shot,0,448
+40400102,458,PT07M59.00S,4,1610612748,MIA,1000,Anderson,S. Anderson,0,0,0,,0,,,0,h,Anderson REBOUND (Off:0 Def:3),Rebound,Unknown,0,449
+40400102,459,PT07M54.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,Wade OFF.Foul (P3),Foul,Offensive,0,450
+40400102,460,PT07M54.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,Wade Foul Turnover (P6.T14),Turnover,Foul,0,451
+40400102,461,PT07M54.00S,4,1610612748,MIA,2039,Dooling,K. Dooling,0,0,0,,0,,,0,h,SUB: D. Jones FOR Dooling,Substitution,,0,452
+40400102,462,PT07M41.00S,4,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,,,0,h,Haslem P.FOUL (P5.T3),Foul,Personal,0,453
+40400102,463,PT07M41.00S,4,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,,,0,h,SUB: Butler FOR Haslem,Substitution,,0,454
+40400102,464,PT07M32.00S,4,1610612751,NJN,1713,Carter,V. Carter,82,63,10,Made,1,79.0,67.0,146,v,Carter 10' Jump Shot (18 PTS),Made Shot,Jump Shot,0,455
+40400102,465,PT07M11.00S,4,1610612748,MIA,406,O'Neal,S. O'Neal,41,36,5,Made,1,81.0,67.0,148,h,O'Neal 5' Hook Shot (8 PTS),Made Shot,Hook Shot,0,456
+40400102,466,PT07M11.00S,4,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,,,0,v,Collins S.FOUL (P5.PN),Foul,Shooting,0,457
+40400102,467,PT07M11.00S,4,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,82.0,67.0,149,h,O'Neal Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,458
+40400102,468,PT06M57.00S,4,1610612751,NJN,696,Best,T. Best,-154,122,20,Made,1,82.0,69.0,151,v,Best 20' Jump Shot (8 PTS),Made Shot,Jump Shot,0,459
+40400102,469,PT06M43.00S,4,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,,,0,v,Kidd P.FOUL (P3.PN),Foul,Personal,0,460
+40400102,470,PT06M43.00S,4,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,,,0,h,MISS O'Neal Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,461
+40400102,471,PT06M43.00S,4,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Normal Rebound,0,462
+40400102,474,PT06M43.00S,4,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,,,0,v,Jefferson Violation:Lane,Violation,Lane,0,463
+40400102,475,PT06M43.00S,4,1610612751,NJN,2215,Collins,J. Collins,0,0,0,,0,,,0,v,SUB: Smith FOR Collins,Substitution,,0,464
+40400102,476,PT06M43.00S,4,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,83.0,69.0,152,h,O'Neal Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,465
+40400102,477,PT06M35.00S,4,1610612751,NJN,467,Kidd,J. Kidd,61,132,15,Missed,1,,,0,v,MISS Kidd 15' Jump Shot,Missed Shot,Jump Shot,0,466
+40400102,477,PT06M35.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,Wade BLOCK (2 BLK),,,0,467
+40400102,478,PT06M33.00S,4,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,,,0,h,O'Neal REBOUND (Off:1 Def:8),Rebound,Unknown,0,468
+40400102,479,PT06M30.00S,4,1610612748,MIA,1000,Anderson,S. Anderson,0,0,0,Made,1,85.0,69.0,154,h,Anderson Layup (2 PTS) (D. Jones 2 AST),Made Shot,Layup Shot,0,469
+40400102,480,PT06M06.00S,4,1610612751,NJN,1713,Carter,V. Carter,131,209,25,Made,1,85.0,72.0,157,v,Carter 25' 3PT Jump Shot (21 PTS) (Kidd 3 AST),Made Shot,Jump Shot,0,470
+40400102,481,PT06M02.00S,4,1610612751,NJN,2074,Smith,J. Smith,0,0,0,,0,,,0,v,Smith P.FOUL (P1.PN),Foul,Personal,0,471
+40400102,482,PT06M02.00S,4,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,86.0,72.0,158,h,O'Neal Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,472
+40400102,483,PT06M02.00S,4,1610612751,NJN,2074,Smith,J. Smith,0,0,0,,0,,,0,v,SUB: Krstic FOR Smith,Substitution,,0,473
+40400102,484,PT06M02.00S,4,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,87.0,72.0,159,h,O'Neal Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,474
+40400102,485,PT05M50.00S,4,1610612751,NJN,2210,Jefferson,R. Jefferson,-233,15,0,Made,1,87.0,75.0,162,v,Jefferson 3PT Jump Shot (8 PTS) (Best 5 AST),Made Shot,Jump Shot,0,475
+40400102,486,PT05M31.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,Made,1,89.0,75.0,164,h,Wade Driving Dunk (13 PTS),Made Shot,Driving Dunk Shot,0,476
+40400102,487,PT05M17.00S,4,1610612751,NJN,2420,Krstic,N. Krstic,61,89,11,Missed,1,,,0,v,MISS Krstic 11' Hook Shot,Missed Shot,Hook Shot,0,477
+40400102,488,PT05M14.00S,4,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,,,0,h,O'Neal REBOUND (Off:1 Def:9),Rebound,Unknown,0,478
+40400102,490,PT05M03.00S,4,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,Made,1,91.0,75.0,166,h,O'Neal Layup (14 PTS) (Wade 9 AST),Made Shot,Layup Shot,0,479
+40400102,491,PT05M03.00S,4,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,480
+40400102,493,PT05M03.00S,4,1610612748,MIA,406,O'Neal,S. O'Neal,0,0,0,,0,,,0,h,SUB: Mourning FOR O'Neal,Substitution,,0,481
+40400102,495,PT04M50.00S,4,1610612751,NJN,1713,Carter,V. Carter,-51,64,8,Missed,1,,,0,v,MISS Carter 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,482
+40400102,496,PT04M48.00S,4,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,,,0,h,Mourning REBOUND (Off:4 Def:4),Rebound,Unknown,0,483
+40400102,497,PT04M33.00S,4,1610612748,MIA,1000,Anderson,S. Anderson,28,99,10,Missed,1,,,0,h,MISS Anderson 10' Jump Shot,Missed Shot,Jump Shot,0,484
+40400102,498,PT04M31.00S,4,1610612748,MIA,1000,Anderson,S. Anderson,0,0,0,,0,,,0,h,Anderson REBOUND (Off:1 Def:3),Rebound,Unknown,0,485
+40400102,499,PT04M28.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,Made,1,93.0,75.0,168,h,Wade Dunk (15 PTS) (Anderson 1 AST),Made Shot,Dunk Shot,0,486
+40400102,500,PT04M09.00S,4,1610612751,NJN,2210,Jefferson,R. Jefferson,-161,179,24,Made,1,93.0,78.0,171,v,Jefferson 24' 3PT Jump Shot (11 PTS) (Krstic 3 AST),Made Shot,Jump Shot,0,487
+40400102,501,PT03M48.00S,4,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,,,0,v,Jefferson P.FOUL (P2.PN),Foul,Personal,0,488
+40400102,503,PT03M48.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,94.0,78.0,172,h,Wade Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,489
+40400102,502,PT03M48.00S,4,1610612748,MIA,2446,Butler,R. Butler,0,0,0,,0,,,0,h,SUB: E. Jones FOR Butler,Substitution,,0,490
+40400102,504,PT03M48.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,95.0,78.0,173,h,Wade Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,491
+40400102,505,PT03M32.00S,4,1610612751,NJN,2420,Krstic,N. Krstic,18,86,9,Made,1,95.0,80.0,175,v,Krstic 9' Turnaround Hook Shot (24 PTS) (Kidd 4 AST),Made Shot,Turnaround Hook Shot,0,492
+40400102,506,PT03M21.00S,4,1610612748,MIA,224,Jones,E. Jones,0,0,0,,0,,,0,h,E. Jones Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,493
+40400102,506,PT03M21.00S,4,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,,,0,v,Kidd STEAL (5 STL),,,0,494
+40400102,507,PT03M18.00S,4,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,Made,1,95.0,82.0,177,v,Jefferson Layup (13 PTS) (Kidd 5 AST),Made Shot,Layup Shot,0,495
+40400102,509,PT03M01.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,Missed,1,,,0,h,MISS Wade Driving Layup,Missed Shot,Driving Layup Shot,0,496
+40400102,510,PT03M00.00S,4,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Unknown,0,497
+40400102,512,PT02M50.00S,4,1610612751,NJN,2420,Krstic,N. Krstic,-146,23,15,Made,1,95.0,84.0,179,v,Krstic 15' Jump Shot (26 PTS),Made Shot,Jump Shot,0,498
+40400102,513,PT02M47.00S,4,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,499
+40400102,517,PT02M31.00S,4,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,Made,1,97.0,84.0,181,h,Mourning Layup (18 PTS) (Wade 10 AST),Made Shot,Layup Shot,0,500
+40400102,518,PT02M05.00S,4,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,,,0,h,Mourning S.FOUL (P5.T4),Foul,Shooting,0,501
+40400102,519,PT02M05.00S,4,1610612748,MIA,1800,Jones,D. Jones,0,0,0,,0,,,0,h,SUB: Dooling FOR D. Jones,Substitution,,0,502
+40400102,520,PT02M05.00S,4,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,97.0,85.0,182,v,Krstic Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,0,503
+40400102,521,PT02M05.00S,4,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,,,0,v,MISS Krstic Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,504
+40400102,522,PT02M04.00S,4,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,,,0,h,Mourning REBOUND (Off:4 Def:5),Rebound,Unknown,0,505
+40400102,523,PT01M41.00S,4,1610612748,MIA,1000,Anderson,S. Anderson,-200,2,20,Missed,1,,,0,h,MISS Anderson 20' Jump Shot,Missed Shot,Jump Shot,0,506
+40400102,524,PT01M40.00S,4,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Unknown,0,507
+40400102,525,PT01M40.00S,4,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,,,0,v,Jefferson L.B.FOUL (P3.PN),Foul,Loose Ball,0,508
+40400102,526,PT01M40.00S,4,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,98.0,85.0,183,h,Mourning Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,509
+40400102,527,PT01M40.00S,4,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,99.0,85.0,184,h,Mourning Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,510
+40400102,528,PT01M32.00S,4,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,,,0,v,Krstic Lost Ball Turnover (P3.T14),Turnover,Lost Ball,0,511
+40400102,528,PT01M32.00S,4,1610612748,MIA,224,Jones,E. Jones,0,0,0,,0,,,0,h,E. Jones STEAL (2 STL),,,0,512
+40400102,529,PT01M28.00S,4,1610612748,MIA,224,Jones,E. Jones,0,0,0,Made,1,101.0,85.0,186,h,E. Jones Driving Layup (14 PTS),Made Shot,Driving Layup Shot,0,513
+40400102,530,PT01M24.00S,4,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Timeout: Short (Reg.6 Short 1),Timeout,Short,0,514
+40400102,531,PT01M24.00S,4,1610612751,NJN,2420,Krstic,N. Krstic,0,0,0,,0,,,0,v,SUB: Buford FOR Krstic,Substitution,,0,515
+40400102,532,PT01M24.00S,4,1610612751,NJN,467,Kidd,J. Kidd,0,0,0,,0,,,0,v,SUB: Smith FOR Kidd,Substitution,,0,516
+40400102,533,PT01M24.00S,4,1610612751,NJN,1713,Carter,V. Carter,0,0,0,,0,,,0,v,SUB: Planinic FOR Carter,Substitution,,0,517
+40400102,534,PT01M19.00S,4,1610612751,NJN,2210,Jefferson,R. Jefferson,-94,196,22,Missed,1,,,0,v,MISS Jefferson 22' Jump Shot,Missed Shot,Jump Shot,0,518
+40400102,535,PT01M17.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,Wade REBOUND (Off:3 Def:3),Rebound,Unknown,0,519
+40400102,536,PT01M00.00S,4,1610612751,NJN,2074,Smith,J. Smith,0,0,0,,0,,,0,v,Smith P.FOUL (P2.PN),Foul,Personal,0,520
+40400102,537,PT01M00.00S,4,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,,,0,h,MISS Mourning Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,521
+40400102,538,PT01M00.00S,4,0,,1610612748,,,0,0,0,,0,,,0,h,HEAT Rebound,Rebound,Normal Rebound,0,522
+40400102,539,PT01M00.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,h,SUB: Butler FOR Wade,Substitution,,0,523
+40400102,540,PT01M00.00S,4,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,102.0,85.0,187,h,Mourning Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,524
+40400102,541,PT00M49.30S,4,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,,,0,h,Mourning P.FOUL (P6.PN),Foul,Personal,0,525
+40400102,542,PT00M49.30S,4,1610612748,MIA,297,Mourning,A. Mourning,0,0,0,,0,,,0,h,SUB: Doleac FOR Mourning,Substitution,,0,526
+40400102,543,PT00M49.30S,4,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,,,0,v,MISS Jefferson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,527
+40400102,544,PT00M49.30S,4,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Normal Rebound,0,528
+40400102,545,PT00M49.30S,4,1610612751,NJN,2210,Jefferson,R. Jefferson,0,0,0,,0,102.0,86.0,188,v,Jefferson Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,529
+40400102,546,PT00M30.70S,4,1610612748,MIA,2039,Dooling,K. Dooling,77,105,13,Made,1,104.0,86.0,190,h,Dooling 13' Jump Shot (10 PTS),Made Shot,Jump Shot,0,530
+40400102,547,PT00M20.50S,4,1610612748,MIA,1720,Doleac,M. Doleac,0,0,0,,0,,,0,h,Doleac S.FOUL (P2.PN),Foul,Shooting,0,531
+40400102,548,PT00M20.50S,4,1610612751,NJN,696,Best,T. Best,0,0,0,,0,,,0,v,MISS Best Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,532
+40400102,549,PT00M20.50S,4,0,,1610612751,,,0,0,0,,0,,,0,v,Nets Rebound,Rebound,Normal Rebound,0,533
+40400102,550,PT00M20.50S,4,1610612751,NJN,696,Best,T. Best,0,0,0,,0,104.0,87.0,191,v,Best Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,534
+40400102,551,PT00M00.00S,4,0,,0,,,0,0,0,,0,104.0,87.0,191,,End of 4th Period (10:57 PM EST),period,end,0,535

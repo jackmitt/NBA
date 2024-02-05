@@ -1,0 +1,425 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+21500713,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (8:41 PM EST),period,start,0,1
+21500713,1,PT12M00.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,h,Jump Ball Thompson vs. Aldridge: Tip to James,Jump Ball,,1,2
+21500713,2,PT11M46.00S,1,1610612739,CLE,202681,Irving,K. Irving,156,31,16,Missed,1,0.0,0.0,0,h,MISS Irving 16' Jump Shot,Missed Shot,Jump Shot,1,3
+21500713,3,PT11M45.00S,1,1610612739,CLE,2747,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:1 Def:0),Rebound,Unknown,1,4
+21500713,4,PT11M39.00S,1,1610612739,CLE,201567,Love,K. Love,-184,174,25,Missed,1,0.0,0.0,0,h,MISS Love 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,5
+21500713,5,PT11M38.00S,1,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,0.0,0.0,0,v,Parker REBOUND (Off:0 Def:1),Rebound,Unknown,1,6
+21500713,6,PT11M23.00S,1,1610612759,SAS,2561,West,D. West,-12,8,1,Made,1,0.0,2.0,2,v,West 1' Layup (2 PTS) (Parker 1 AST),Made Shot,Layup Shot,1,7
+21500713,7,PT11M23.00S,1,1610612759,SAS,2561,West,D. West,0,0,0,,0,0.0,0.0,0,v,West T.FOUL (P0.T0) (D.Collins),Foul,Technical,0,8
+21500713,8,PT11M23.00S,1,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,1.0,2.0,3,h,Irving Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,9
+21500713,10,PT11M07.00S,1,1610612739,CLE,2544,James,L. James,123,13,12,Missed,1,0.0,0.0,0,h,MISS James 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,10
+21500713,11,PT11M06.00S,1,1610612759,SAS,202695,Leonard,K. Leonard,0,0,0,,0,0.0,0.0,0,v,Leonard REBOUND (Off:0 Def:1),Rebound,Unknown,1,11
+21500713,12,PT10M56.00S,1,1610612759,SAS,202695,Leonard,K. Leonard,0,1,0,Made,1,1.0,4.0,5,v,Leonard  Cutting Dunk Shot (2 PTS) (West 1 AST),Made Shot,Cutting Dunk Shot,1,12
+21500713,13,PT10M45.00S,1,1610612759,SAS,200746,Aldridge,L. Aldridge,0,0,0,,0,0.0,0.0,0,v,Aldridge S.FOUL (P1.T1) (J.Capers),Foul,Shooting,1,13
+21500713,14,PT10M45.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,2.0,4.0,6,h,Love Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,14
+21500713,16,PT10M45.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,3.0,4.0,7,h,Love Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,15
+21500713,19,PT10M34.00S,1,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,0.0,0.0,0,v,Parker Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,16
+21500713,19,PT10M34.00S,1,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0.0,0.0,0,h,Irving STEAL (1 STL),,,1,17
+21500713,20,PT10M29.00S,1,1610612739,CLE,202681,Irving,K. Irving,-11,-1,1,Made,1,5.0,4.0,9,h,Irving 1' Running Finger Roll Layup (3 PTS),Made Shot,Running Finger Roll Layup Shot,1,18
+21500713,21,PT10M15.00S,1,1610612759,SAS,2561,West,D. West,-96,31,10,Missed,1,0.0,0.0,0,v,MISS West 10' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,1,19
+21500713,22,PT10M11.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,Love REBOUND (Off:0 Def:1),Rebound,Unknown,1,20
+21500713,23,PT10M06.00S,1,1610612739,CLE,2747,Smith,J. Smith,227,65,24,Made,1,8.0,4.0,12,h,Smith 24' 3PT Jump Shot (3 PTS) (James 1 AST),Made Shot,Jump Shot,1,21
+21500713,24,PT09M48.00S,1,1610612759,SAS,200746,Aldridge,L. Aldridge,69,62,9,Missed,1,0.0,0.0,0,v,MISS Aldridge 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,22
+21500713,25,PT09M47.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,Love REBOUND (Off:0 Def:2),Rebound,Unknown,1,23
+21500713,26,PT09M38.00S,1,1610612739,CLE,201567,Love,K. Love,-173,82,19,Made,1,10.0,4.0,14,h,Love 19' Jump Shot (4 PTS) (James 2 AST),Made Shot,Jump Shot,1,24
+21500713,28,PT09M38.00S,1,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,25
+21500713,31,PT09M24.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,Love P.FOUL (P1.T1) (D.Collins),Foul,Personal,1,26
+21500713,32,PT09M17.00S,1,1610612759,SAS,200746,Aldridge,L. Aldridge,-35,149,15,Made,1,10.0,6.0,16,v,Aldridge 15' Jump Shot (2 PTS) (Parker 2 AST),Made Shot,Jump Shot,1,27
+21500713,33,PT09M02.00S,1,1610612739,CLE,201567,Love,K. Love,230,-11,0,Made,1,13.0,6.0,19,h,Love  3PT Jump Shot (7 PTS) (James 3 AST),Made Shot,Jump Shot,1,28
+21500713,34,PT08M37.00S,1,1610612759,SAS,2225,Parker,T. Parker,79,41,9,Missed,1,0.0,0.0,0,v,MISS Parker 9' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,29
+21500713,35,PT08M35.00S,1,1610612759,SAS,202695,Leonard,K. Leonard,0,0,0,,0,0.0,0.0,0,v,Leonard REBOUND (Off:1 Def:1),Rebound,Unknown,1,30
+21500713,36,PT08M29.00S,1,1610612759,SAS,202695,Leonard,K. Leonard,-112,129,17,Missed,1,0.0,0.0,0,v,MISS Leonard 17' Jump Shot,Missed Shot,Jump Shot,1,31
+21500713,37,PT08M27.00S,1,1610612759,SAS,201980,Green,D. Green,0,0,0,,0,0.0,0.0,0,v,Green REBOUND (Off:1 Def:0),Rebound,Unknown,1,32
+21500713,38,PT08M14.00S,1,1610612759,SAS,202695,Leonard,K. Leonard,-241,2,24,Made,1,13.0,9.0,22,v,Leonard 24' 3PT Jump Shot (5 PTS) (Parker 3 AST),Made Shot,Jump Shot,1,33
+21500713,39,PT07M57.00S,1,1610612739,CLE,202681,Irving,K. Irving,-158,134,21,Missed,1,0.0,0.0,0,h,MISS Irving 21' Jump Shot,Missed Shot,Jump Shot,1,34
+21500713,40,PT07M56.00S,1,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,0.0,0.0,0,v,Parker REBOUND (Off:0 Def:2),Rebound,Unknown,1,35
+21500713,41,PT07M44.00S,1,1610612759,SAS,2225,Parker,T. Parker,-1,3,0,Made,1,13.0,11.0,24,v,Parker  Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,36
+21500713,42,PT07M18.00S,1,1610612739,CLE,2544,James,L. James,79,262,27,Missed,1,0.0,0.0,0,h,MISS James 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,37
+21500713,43,PT07M17.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,h,Thompson REBOUND (Off:1 Def:0),Rebound,Unknown,1,38
+21500713,44,PT07M15.00S,1,1610612759,SAS,202695,Leonard,K. Leonard,0,0,0,,0,0.0,0.0,0,v,Leonard S.FOUL (P1.T2) (D.Collins),Foul,Shooting,1,39
+21500713,45,PT07M15.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,14.0,11.0,25,h,Thompson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,40
+21500713,47,PT07M15.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,15.0,11.0,26,h,Thompson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,41
+21500713,49,PT06M54.00S,1,1610612759,SAS,2225,Parker,T. Parker,-78,23,8,Made,1,15.0,13.0,28,v,Parker 8' Jump Bank Shot (4 PTS),Made Shot,Jump Bank Shot,1,42
+21500713,50,PT06M38.00S,1,1610612739,CLE,201567,Love,K. Love,87,26,9,Made,1,17.0,13.0,30,h,Love 9' Jump Bank Shot (9 PTS),Made Shot,Jump Bank Shot,1,43
+21500713,51,PT06M25.00S,1,1610612759,SAS,2225,Parker,T. Parker,-9,8,1,Missed,1,0.0,0.0,0,v,MISS Parker 1' Layup,Missed Shot,Layup Shot,1,44
+21500713,52,PT06M24.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,h,Thompson REBOUND (Off:1 Def:1),Rebound,Unknown,1,45
+21500713,53,PT06M18.00S,1,1610612739,CLE,2544,James,L. James,-79,23,8,Made,1,19.0,13.0,32,h,James 8' Driving Bank Shot (2 PTS),Made Shot,Driving Bank shot,1,46
+21500713,54,PT06M03.00S,1,1610612759,SAS,202695,Leonard,K. Leonard,0,0,0,,0,0.0,0.0,0,v,Leonard Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,47
+21500713,54,PT06M03.00S,1,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,James STEAL (1 STL),,,1,48
+21500713,55,PT05M57.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,1,0,Made,1,21.0,13.0,34,h,Thompson  Dunk (4 PTS) (James 4 AST),Made Shot,Dunk Shot,1,49
+21500713,56,PT05M43.00S,1,1610612759,SAS,2225,Parker,T. Parker,32,70,8,Missed,1,0.0,0.0,0,v,MISS Parker 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,50
+21500713,57,PT05M41.00S,1,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,James REBOUND (Off:0 Def:1),Rebound,Unknown,1,51
+21500713,58,PT05M27.00S,1,1610612739,CLE,201567,Love,K. Love,-168,75,18,Made,1,23.0,13.0,36,h,Love 18' Jump Shot (11 PTS) (Smith 1 AST),Made Shot,Jump Shot,1,52
+21500713,59,PT05M06.00S,1,1610612759,SAS,200746,Aldridge,L. Aldridge,-11,-5,1,Made,1,23.0,15.0,38,v,Aldridge 1' Layup (4 PTS),Made Shot,Layup Shot,1,53
+21500713,60,PT05M04.00S,1,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,54
+21500713,62,PT05M04.00S,1,1610612759,SAS,2561,West,D. West,0,0,0,,0,0.0,0.0,0,v,SUB: Mills FOR West,Substitution,,0,55
+21500713,63,PT05M04.00S,1,1610612759,SAS,201980,Green,D. Green,0,0,0,,0,0.0,0.0,0,v,SUB: Ginobili FOR Green,Substitution,,0,56
+21500713,64,PT05M04.00S,1,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,0.0,0.0,0,v,SUB: Diaw FOR Parker,Substitution,,0,57
+21500713,67,PT04M48.00S,1,1610612739,CLE,2747,Smith,J. Smith,-209,41,21,Missed,1,0.0,0.0,0,h,MISS Smith 21' Jump Shot,Missed Shot,Jump Shot,0,58
+21500713,68,PT04M47.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,Love REBOUND (Off:1 Def:2),Rebound,Unknown,0,59
+21500713,69,PT04M41.00S,1,1610612739,CLE,2747,Smith,J. Smith,-151,105,18,Missed,1,0.0,0.0,0,h,MISS Smith 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,60
+21500713,70,PT04M41.00S,1,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Rebound,Rebound,Unknown,0,61
+21500713,71,PT04M41.00S,1,1610612759,SAS,200746,Aldridge,L. Aldridge,0,0,0,,0,0.0,0.0,0,v,Aldridge L.B.FOUL (P2.T3) (J.Capers),Foul,Loose Ball,1,62
+21500713,72,PT04M28.00S,1,1610612739,CLE,202681,Irving,K. Irving,-73,120,14,Missed,1,0.0,0.0,0,h,MISS Irving 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,63
+21500713,73,PT04M28.00S,1,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Rebound,Rebound,Unknown,0,64
+21500713,74,PT04M09.00S,1,1610612759,SAS,200746,Aldridge,L. Aldridge,-191,26,19,Made,1,23.0,17.0,40,v,Aldridge 19' Jump Shot (6 PTS) (Mills 1 AST),Made Shot,Jump Shot,1,65
+21500713,75,PT03M47.00S,1,1610612739,CLE,201567,Love,K. Love,199,141,24,Made,1,26.0,17.0,43,h,Love 24' 3PT Jump Shot (14 PTS) (James 5 AST),Made Shot,Jump Shot,1,66
+21500713,76,PT03M29.00S,1,1610612759,SAS,1938,Ginobili,M. Ginobili,-38,80,9,Missed,1,0.0,0.0,0,v,MISS Ginobili 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,67
+21500713,78,PT03M25.00S,1,1610612759,SAS,200746,Aldridge,L. Aldridge,0,0,0,,0,0.0,0.0,0,v,Aldridge REBOUND (Off:1 Def:0),Rebound,Unknown,1,68
+21500713,77,PT03M25.00S,1,1610612759,SAS,200746,Aldridge,L. Aldridge,-12,26,3,Made,1,26.0,19.0,45,v,Aldridge 3' Hook Shot (8 PTS),Made Shot,Hook Shot,1,69
+21500713,79,PT03M09.00S,1,1610612739,CLE,202681,Irving,K. Irving,163,210,27,Missed,1,0.0,0.0,0,h,MISS Irving 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,70
+21500713,80,PT03M09.00S,1,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Rebound,Rebound,Unknown,0,71
+21500713,81,PT03M09.00S,1,1610612759,SAS,200746,Aldridge,L. Aldridge,0,0,0,,0,0.0,0.0,0,v,Aldridge L.B.FOUL (P3.T4) (D.Collins),Foul,Loose Ball,1,72
+21500713,82,PT03M09.00S,1,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0.0,0.0,0,h,SUB: Dellavedova FOR Irving,Substitution,,0,73
+21500713,83,PT03M09.00S,1,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,SUB: Jefferson FOR James,Substitution,,0,74
+21500713,84,PT03M09.00S,1,1610612759,SAS,200746,Aldridge,L. Aldridge,0,0,0,,0,0.0,0.0,0,v,SUB: West FOR Aldridge,Substitution,,0,75
+21500713,86,PT03M02.00S,1,1610612739,CLE,201567,Love,K. Love,-155,70,17,Missed,1,0.0,0.0,0,h,MISS Love 17' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,76
+21500713,87,PT03M00.00S,1,1610612759,SAS,202695,Leonard,K. Leonard,0,0,0,,0,0.0,0.0,0,v,Leonard REBOUND (Off:1 Def:2),Rebound,Unknown,1,77
+21500713,88,PT02M54.00S,1,1610612759,SAS,1938,Ginobili,M. Ginobili,-191,169,26,Made,1,26.0,22.0,48,v,Ginobili 26' 3PT Jump Shot (3 PTS) (Leonard 1 AST),Made Shot,Jump Shot,1,78
+21500713,89,PT02M45.00S,1,1610612739,CLE,203521,Dellavedova,M. Dellavedova,0,0,0,,0,0.0,0.0,0,h,Dellavedova Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,79
+21500713,91,PT02M30.00S,1,1610612759,SAS,2564,Diaw,B. Diaw,0,9,1,Missed,1,0.0,0.0,0,v,MISS Diaw 1' Layup,Missed Shot,Layup Shot,1,80
+21500713,93,PT02M28.00S,1,1610612739,CLE,2747,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:1 Def:1),Rebound,Unknown,0,81
+21500713,94,PT02M16.00S,1,1610612739,CLE,203521,Dellavedova,M. Dellavedova,63,21,7,Made,1,28.0,22.0,50,h,Dellavedova 7' Driving Bank Shot (2 PTS),Made Shot,Driving Bank shot,1,82
+21500713,95,PT02M00.00S,1,1610612739,CLE,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,h,Jefferson P.FOUL (P1.T2) (D.Collins),Foul,Personal,1,83
+21500713,96,PT02M00.00S,1,1610612759,SAS,202695,Leonard,K. Leonard,0,0,0,,0,28.0,23.0,51,v,Leonard Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,84
+21500713,98,PT02M00.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,SUB: Shumpert FOR Love,Substitution,,0,85
+21500713,99,PT02M00.00S,1,1610612759,SAS,202695,Leonard,K. Leonard,0,0,0,,0,28.0,24.0,52,v,Leonard Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,86
+21500713,102,PT01M47.00S,1,1610612739,CLE,2747,Smith,J. Smith,-66,239,25,Made,1,31.0,24.0,55,h,Smith 25' 3PT Jump Shot (6 PTS) (Jefferson 1 AST),Made Shot,Jump Shot,1,87
+21500713,104,PT01M33.00S,1,1610612759,SAS,1938,Ginobili,M. Ginobili,-19,11,2,Missed,1,0.0,0.0,0,v,MISS Ginobili 2' Driving Layup,Missed Shot,Driving Layup Shot,1,88
+21500713,105,PT01M32.00S,1,1610612739,CLE,203521,Dellavedova,M. Dellavedova,0,0,0,,0,0.0,0.0,0,h,Dellavedova REBOUND (Off:0 Def:1),Rebound,Unknown,1,89
+21500713,106,PT01M27.00S,1,1610612759,SAS,202695,Leonard,K. Leonard,0,0,0,,0,0.0,0.0,0,v,Leonard S.FOUL (P2.PN) (E.Dalen),Foul,Shooting,1,90
+21500713,107,PT01M27.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,32.0,24.0,56,h,Thompson Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,91
+21500713,109,PT01M27.00S,1,1610612759,SAS,202695,Leonard,K. Leonard,0,0,0,,0,0.0,0.0,0,v,SUB: Anderson FOR Leonard,Substitution,,0,92
+21500713,110,PT01M27.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,33.0,24.0,57,h,Thompson Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,93
+21500713,113,PT01M12.00S,1,1610612759,SAS,201988,Mills,P. Mills,-32,257,26,Missed,1,0.0,0.0,0,v,MISS Mills 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,94
+21500713,114,PT01M12.00S,1,1610612759,SAS,2564,Diaw,B. Diaw,0,0,0,,0,0.0,0.0,0,v,Diaw REBOUND (Off:1 Def:0),Rebound,Unknown,1,95
+21500713,115,PT01M03.00S,1,1610612759,SAS,2561,West,D. West,-122,11,12,Made,1,33.0,26.0,59,v,West 12' Fadeaway Jumper (4 PTS) (Diaw 1 AST),Made Shot,Fadeaway Jump Shot,1,96
+21500713,116,PT00M51.90S,1,1610612739,CLE,203521,Dellavedova,M. Dellavedova,-45,70,8,Missed,1,0.0,0.0,0,h,MISS Dellavedova 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,97
+21500713,117,PT00M49.90S,1,1610612739,CLE,203521,Dellavedova,M. Dellavedova,0,0,0,,0,0.0,0.0,0,h,Dellavedova REBOUND (Off:1 Def:1),Rebound,Unknown,1,98
+21500713,118,PT00M46.80S,1,1610612739,CLE,2747,Smith,J. Smith,222,61,0,Missed,1,0.0,0.0,0,h,MISS Smith  3PT Jump Shot,Missed Shot,Jump Shot,1,99
+21500713,119,PT00M46.30S,1,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,0.0,0.0,0,v,Ginobili REBOUND (Off:0 Def:1),Rebound,Unknown,1,100
+21500713,120,PT00M36.90S,1,1610612759,SAS,2564,Diaw,B. Diaw,6,2,1,Made,1,33.0,28.0,61,v,Diaw 1' Reverse Layup (2 PTS) (Anderson 1 AST),Made Shot,Reverse Layup Shot,1,101
+21500713,121,PT00M28.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,-7,7,1,Made,1,35.0,28.0,63,h,Thompson 1' Alley Oop Layup (8 PTS) (Dellavedova 1 AST),Made Shot,Alley Oop Layup shot,1,102
+21500713,122,PT00M17.10S,1,1610612759,SAS,2564,Diaw,B. Diaw,-2,-1,0,Made,1,35.0,30.0,65,v,Diaw  Layup (4 PTS),Made Shot,Layup Shot,1,103
+21500713,124,PT00M00.00S,1,1610612739,CLE,2747,Smith,J. Smith,199,65,21,Made,1,37.0,30.0,67,h,Smith 21' Jump Shot (8 PTS) (Dellavedova 2 AST),Made Shot,Jump Shot,1,104
+21500713,127,PT00M00.00S,1,0,,124,Divac,V. Divac,0,0,0,,0,0.0,0.0,0,,Support Ruling,Instant Replay,Support Ruling,0,105
+21500713,125,PT00M00.00S,1,0,,0,,,0,0,0,,0,37.0,30.0,67,,End of 1st Period (9:06 PM EST),period,end,0,106
+21500713,128,PT12M00.00S,2,0,,0,,,0,0,0,,0,37.0,30.0,67,,Start of 2nd Period (9:09 PM EST),period,start,0,107
+21500713,130,PT11M42.00S,2,1610612759,SAS,201988,Mills,P. Mills,183,44,19,Made,1,37.0,32.0,69,v,Mills 19' Pullup Jump Shot (2 PTS) (Ginobili 1 AST),Made Shot,Pullup Jump shot,1,108
+21500713,129,PT11M21.00S,2,1610612739,CLE,202389,Mozgov,T. Mozgov,-22,11,2,Made,1,39.0,32.0,71,h,Mozgov 2' Reverse Layup (2 PTS) (Shumpert 1 AST),Made Shot,Reverse Layup Shot,1,109
+21500713,131,PT11M09.00S,2,1610612759,SAS,201988,Mills,P. Mills,-124,7,12,Missed,1,0.0,0.0,0,v,MISS Mills 12' Jump Shot,Missed Shot,Jump Shot,1,110
+21500713,132,PT11M08.00S,2,1610612739,CLE,202697,Shumpert,I. Shumpert,0,0,0,,0,0.0,0.0,0,h,Shumpert REBOUND (Off:0 Def:1),Rebound,Unknown,1,111
+21500713,133,PT10M57.00S,2,1610612739,CLE,2210,Jefferson,R. Jefferson,-228,7,0,Made,1,42.0,32.0,74,h,Jefferson  3PT Jump Shot (3 PTS) (Irving 1 AST),Made Shot,Jump Shot,1,112
+21500713,134,PT10M47.00S,2,1610612739,CLE,202389,Mozgov,T. Mozgov,0,0,0,,0,0.0,0.0,0,h,Mozgov P.FOUL (P1.T1) (J.Capers),Foul,Personal,1,113
+21500713,135,PT10M47.00S,2,1610612759,SAS,2561,West,D. West,0,0,0,,0,0.0,0.0,0,v,SUB: Marjanovic FOR West,Substitution,,0,114
+21500713,136,PT10M30.00S,2,1610612759,SAS,1938,Ginobili,M. Ginobili,-246,43,25,Missed,1,0.0,0.0,0,v,MISS Ginobili 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,115
+21500713,137,PT10M29.00S,2,1610612739,CLE,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,h,Jefferson REBOUND (Off:0 Def:1),Rebound,Unknown,1,116
+21500713,138,PT10M13.00S,2,1610612739,CLE,202681,Irving,K. Irving,1,1,0,Made,1,44.0,32.0,76,h,Irving  Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,117
+21500713,139,PT09M50.00S,2,1610612759,SAS,201988,Mills,P. Mills,204,136,25,Missed,1,0.0,0.0,0,v,MISS Mills 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,118
+21500713,140,PT09M49.00S,2,1610612739,CLE,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,h,Jefferson REBOUND (Off:0 Def:2),Rebound,Unknown,1,119
+21500713,141,PT09M41.00S,2,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,0.0,0.0,0,v,Ginobili P.FOUL (P1.T1) (J.Capers),Foul,Personal,1,120
+21500713,142,PT09M29.00S,2,1610612739,CLE,202681,Irving,K. Irving,-173,61,18,Made,1,46.0,32.0,78,h,Irving 18' Jump Shot (7 PTS),Made Shot,Jump Shot,1,121
+21500713,143,PT09M14.00S,2,1610612739,CLE,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,h,Jefferson S.FOUL (P2.T2) (D.Collins),Foul,Shooting,1,122
+21500713,144,PT09M14.00S,2,1610612759,SAS,203937,Anderson,K. Anderson,0,0,0,,0,46.0,33.0,79,v,Anderson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,123
+21500713,146,PT09M14.00S,2,1610612739,CLE,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,h,SUB: James FOR Jefferson,Substitution,,0,124
+21500713,147,PT09M14.00S,2,1610612759,SAS,2564,Diaw,B. Diaw,0,0,0,,0,0.0,0.0,0,v,SUB: Leonard FOR Diaw,Substitution,,0,125
+21500713,148,PT09M14.00S,2,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,0.0,0.0,0,v,SUB: Simmons FOR Ginobili,Substitution,,0,126
+21500713,149,PT09M14.00S,2,1610612759,SAS,203937,Anderson,K. Anderson,0,0,0,,0,46.0,34.0,80,v,Anderson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,127
+21500713,151,PT08M53.00S,2,1610612759,SAS,1626246,Marjanovic,B. Marjanovic,0,0,0,,0,0.0,0.0,0,v,Marjanovic S.FOUL (P1.T2) (D.Collins),Foul,Shooting,1,128
+21500713,152,PT08M53.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,129
+21500713,155,PT08M53.00S,2,1610612739,CLE,203521,Dellavedova,M. Dellavedova,0,0,0,,0,0.0,0.0,0,h,SUB: Love FOR Dellavedova,Substitution,,0,130
+21500713,156,PT08M53.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,MISS James Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,131
+21500713,157,PT08M53.00S,2,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Rebound,Rebound,Normal Rebound,0,132
+21500713,158,PT08M53.00S,2,1610612759,SAS,201988,Mills,P. Mills,0,0,0,,0,0.0,0.0,0,v,SUB: Parker FOR Mills,Substitution,,0,133
+21500713,159,PT08M53.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,MISS James Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,134
+21500713,161,PT08M52.00S,2,1610612759,SAS,203937,Anderson,K. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,1,135
+21500713,162,PT08M37.00S,2,1610612759,SAS,203937,Anderson,K. Anderson,1,159,16,Made,1,46.0,36.0,82,v,Anderson 16' Jump Shot (4 PTS),Made Shot,Jump Shot,1,136
+21500713,163,PT08M21.00S,2,1610612739,CLE,202389,Mozgov,T. Mozgov,-9,7,1,Missed,1,0.0,0.0,0,h,MISS Mozgov 1' Layup,Missed Shot,Layup Shot,1,137
+21500713,164,PT08M20.00S,2,1610612759,SAS,203613,Simmons,J. Simmons,0,0,0,,0,0.0,0.0,0,v,Simmons REBOUND (Off:0 Def:1),Rebound,Unknown,1,138
+21500713,165,PT07M59.00S,2,1610612759,SAS,203937,Anderson,K. Anderson,240,11,24,Missed,1,0.0,0.0,0,v,MISS Anderson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,139
+21500713,166,PT07M58.00S,2,1610612739,CLE,202697,Shumpert,I. Shumpert,0,0,0,,0,0.0,0.0,0,h,Shumpert REBOUND (Off:0 Def:2),Rebound,Unknown,1,140
+21500713,167,PT07M42.00S,2,1610612759,SAS,203613,Simmons,J. Simmons,0,0,0,,0,0.0,0.0,0,v,Simmons S.FOUL (P1.T3) (J.Capers),Foul,Shooting,1,141
+21500713,168,PT07M42.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,47.0,36.0,83,h,James Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,142
+21500713,170,PT07M42.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,48.0,36.0,84,h,James Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,143
+21500713,173,PT07M22.00S,2,1610612759,SAS,202695,Leonard,K. Leonard,73,239,25,Missed,1,0.0,0.0,0,v,MISS Leonard 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,144
+21500713,174,PT07M21.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,Love REBOUND (Off:1 Def:3),Rebound,Unknown,1,145
+21500713,175,PT06M58.00S,2,1610612739,CLE,2544,James,L. James,-110,106,15,Missed,1,0.0,0.0,0,h,MISS James 15' Jump Shot,Missed Shot,Jump Shot,1,146
+21500713,176,PT06M57.00S,2,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,0.0,0.0,0,v,Parker REBOUND (Off:0 Def:3),Rebound,Unknown,1,147
+21500713,177,PT06M52.00S,2,1610612759,SAS,2225,Parker,T. Parker,-35,38,5,Missed,1,0.0,0.0,0,v,MISS Parker 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,148
+21500713,177,PT06M52.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,James BLOCK (1 BLK),,,1,149
+21500713,178,PT06M52.00S,2,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Rebound,Rebound,Unknown,0,150
+21500713,180,PT06M37.00S,2,1610612759,SAS,203613,Simmons,J. Simmons,-6,-5,1,Made,1,48.0,38.0,86,v,Simmons 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,151
+21500713,181,PT06M24.00S,2,1610612739,CLE,201567,Love,K. Love,-115,46,12,Made,1,50.0,38.0,88,h,Love 12' Step Back Bank Jump Shot (16 PTS) (Irving 2 AST),Made Shot,Step Back Bank Jump Shot,1,152
+21500713,182,PT06M04.00S,2,1610612739,CLE,202389,Mozgov,T. Mozgov,0,0,0,,0,0.0,0.0,0,h,Mozgov S.FOUL (P2.T3) (E.Dalen),Foul,Shooting,1,153
+21500713,183,PT06M04.00S,2,1610612759,SAS,1626246,Marjanovic,B. Marjanovic,0,0,0,,0,50.0,39.0,89,v,Marjanovic Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,154
+21500713,185,PT06M04.00S,2,1610612759,SAS,1626246,Marjanovic,B. Marjanovic,0,0,0,,0,50.0,40.0,90,v,Marjanovic Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,155
+21500713,188,PT05M48.00S,2,1610612739,CLE,201567,Love,K. Love,-63,65,9,Made,1,52.0,40.0,92,h,Love 9' Jump Shot (18 PTS) (Irving 3 AST),Made Shot,Jump Shot,1,156
+21500713,189,PT05M24.00S,2,1610612759,SAS,202695,Leonard,K. Leonard,17,247,25,Made,1,52.0,43.0,95,v,Leonard 25' 3PT Jump Shot (10 PTS) (Parker 4 AST),Made Shot,Jump Shot,1,157
+21500713,190,PT05M15.00S,2,1610612759,SAS,203613,Simmons,J. Simmons,0,0,0,,0,0.0,0.0,0,v,Simmons P.FOUL (P2.T4) (D.Collins),Foul,Personal,1,158
+21500713,192,PT05M15.00S,2,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,159
+21500713,193,PT05M15.00S,2,1610612759,SAS,203937,Anderson,K. Anderson,0,0,0,,0,0.0,0.0,0,v,SUB: Green FOR Anderson,Substitution,,0,160
+21500713,195,PT04M55.00S,2,1610612739,CLE,202389,Mozgov,T. Mozgov,-6,8,1,Made,1,54.0,43.0,97,h,Mozgov 1' Layup (4 PTS) (Love 1 AST),Made Shot,Layup Shot,1,161
+21500713,196,PT04M38.00S,2,1610612759,SAS,2225,Parker,T. Parker,128,-16,13,Made,1,54.0,45.0,99,v,Parker 13' Jump Shot (6 PTS) (Simmons 1 AST),Made Shot,Jump Shot,1,162
+21500713,197,PT04M20.00S,2,1610612739,CLE,202389,Mozgov,T. Mozgov,0,1,0,Made,1,56.0,45.0,101,h,Mozgov  Alley Oop Dunk (6 PTS) (Irving 4 AST),Made Shot,Alley Oop Dunk Shot,1,163
+21500713,199,PT04M00.00S,2,1610612759,SAS,202695,Leonard,K. Leonard,14,57,6,Missed,1,0.0,0.0,0,v,MISS Leonard 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,164
+21500713,200,PT03M58.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,Love REBOUND (Off:1 Def:4),Rebound,Unknown,1,165
+21500713,201,PT03M50.00S,2,1610612739,CLE,202389,Mozgov,T. Mozgov,-25,8,3,Missed,1,0.0,0.0,0,h,MISS Mozgov 3' Layup,Missed Shot,Layup Shot,1,166
+21500713,202,PT03M49.00S,2,1610612759,SAS,1626246,Marjanovic,B. Marjanovic,0,0,0,,0,0.0,0.0,0,v,Marjanovic REBOUND (Off:0 Def:1),Rebound,Unknown,1,167
+21500713,203,PT03M40.00S,2,1610612759,SAS,202695,Leonard,K. Leonard,63,31,7,Missed,1,0.0,0.0,0,v,MISS Leonard 7' Jump Shot,Missed Shot,Jump Shot,1,168
+21500713,204,PT03M40.00S,2,1610612739,CLE,202389,Mozgov,T. Mozgov,0,0,0,,0,0.0,0.0,0,h,Mozgov REBOUND (Off:0 Def:1),Rebound,Unknown,1,169
+21500713,205,PT03M36.00S,2,1610612739,CLE,2544,James,L. James,-11,3,1,Missed,1,0.0,0.0,0,h,MISS James 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,170
+21500713,205,PT03M36.00S,2,1610612759,SAS,203613,Simmons,J. Simmons,0,0,0,,0,0.0,0.0,0,v,Simmons BLOCK (1 BLK),,,1,171
+21500713,206,PT03M36.00S,2,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Rebound,Rebound,Unknown,0,172
+21500713,208,PT03M36.00S,2,1610612759,SAS,1626246,Marjanovic,B. Marjanovic,0,0,0,,0,0.0,0.0,0,v,SUB: West FOR Marjanovic,Substitution,,0,173
+21500713,209,PT03M36.00S,2,1610612739,CLE,202389,Mozgov,T. Mozgov,0,0,0,,0,0.0,0.0,0,h,SUB: Thompson FOR Mozgov,Substitution,,0,174
+21500713,210,PT03M36.00S,2,1610612739,CLE,202697,Shumpert,I. Shumpert,0,0,0,,0,0.0,0.0,0,h,SUB: Smith FOR Shumpert,Substitution,,0,175
+21500713,211,PT03M36.00S,2,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0.0,0.0,0,h,SUB: Dellavedova FOR Irving,Substitution,,0,176
+21500713,212,PT03M31.00S,2,1610612739,CLE,2747,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith OFF.Foul (P1) (J.Capers),Foul,Offensive,1,177
+21500713,213,PT03M31.00S,2,1610612739,CLE,2747,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith Foul Turnover (P1.T2),Turnover,Foul,1,178
+21500713,214,PT03M13.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,James P.FOUL (P1.T4) (J.Capers),Foul,Personal,1,179
+21500713,216,PT03M06.00S,2,1610612739,CLE,203521,Dellavedova,M. Dellavedova,0,0,0,,0,0.0,0.0,0,h,Dellavedova S.FOUL (P1.PN) (D.Collins),Foul,Shooting,1,180
+21500713,217,PT03M06.00S,2,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,56.0,46.0,102,v,Parker Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,181
+21500713,219,PT03M06.00S,2,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,0.0,0.0,0,v,MISS Parker Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,182
+21500713,221,PT03M04.00S,2,1610612739,CLE,2747,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:1 Def:2),Rebound,Unknown,1,183
+21500713,222,PT02M54.00S,2,1610612759,SAS,201980,Green,D. Green,0,0,0,,0,0.0,0.0,0,v,Green S.FOUL (P1.PN) (D.Collins),Foul,Shooting,1,184
+21500713,223,PT02M54.00S,2,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,185
+21500713,226,PT02M54.00S,2,1610612759,SAS,201980,Green,D. Green,0,0,0,,0,0.0,0.0,0,v,SUB: Diaw FOR Green,Substitution,,0,186
+21500713,227,PT02M54.00S,2,1610612759,SAS,203613,Simmons,J. Simmons,0,0,0,,0,0.0,0.0,0,v,SUB: Ginobili FOR Simmons,Substitution,,0,187
+21500713,228,PT02M54.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,57.0,46.0,103,h,James Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,188
+21500713,230,PT02M54.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,58.0,46.0,104,h,James Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,189
+21500713,233,PT02M39.00S,2,1610612759,SAS,202695,Leonard,K. Leonard,-17,95,10,Missed,1,0.0,0.0,0,v,MISS Leonard 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,190
+21500713,234,PT02M37.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,Love REBOUND (Off:1 Def:5),Rebound,Unknown,1,191
+21500713,235,PT02M29.00S,2,1610612739,CLE,203521,Dellavedova,M. Dellavedova,-160,180,24,Missed,1,0.0,0.0,0,h,MISS Dellavedova 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,192
+21500713,236,PT02M28.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,Love REBOUND (Off:2 Def:5),Rebound,Unknown,1,193
+21500713,237,PT02M22.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,1,0,Made,1,60.0,46.0,106,h,Thompson  Dunk (10 PTS) (Love 2 AST),Made Shot,Dunk Shot,1,194
+21500713,238,PT02M09.00S,2,1610612759,SAS,1938,Ginobili,M. Ginobili,-19,26,3,Missed,1,0.0,0.0,0,v,MISS Ginobili 3' Jump Shot,Missed Shot,Jump Shot,1,195
+21500713,238,PT02M09.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,Love BLOCK (1 BLK),,,1,196
+21500713,239,PT02M08.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,Love REBOUND (Off:2 Def:6),Rebound,Unknown,1,197
+21500713,240,PT02M01.00S,2,1610612739,CLE,2747,Smith,J. Smith,137,70,15,Made,1,62.0,46.0,108,h,Smith 15' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,198
+21500713,241,PT01M45.00S,2,1610612739,CLE,2747,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith S.FOUL (P2.PN) (J.Capers),Foul,Shooting,1,199
+21500713,242,PT01M45.00S,2,1610612759,SAS,202695,Leonard,K. Leonard,0,0,0,,0,0.0,0.0,0,v,MISS Leonard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,200
+21500713,243,PT01M45.00S,2,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Rebound,Rebound,Normal Rebound,0,201
+21500713,244,PT01M45.00S,2,1610612739,CLE,2747,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,SUB: Shumpert FOR Smith,Substitution,,0,202
+21500713,249,PT01M45.00S,2,1610612759,SAS,202695,Leonard,K. Leonard,0,0,0,,0,62.0,47.0,109,v,Leonard Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,203
+21500713,251,PT01M28.00S,2,1610612739,CLE,202697,Shumpert,I. Shumpert,-50,92,10,Made,1,64.0,47.0,111,h,Shumpert 10' Jump Shot (2 PTS) (James 6 AST),Made Shot,Jump Shot,1,204
+21500713,252,PT01M14.00S,2,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,0.0,0.0,0,v,Parker Step Out of Bounds Turnover (P2.T3),Turnover,Step Out of Bounds Turnover,1,205
+21500713,254,PT01M03.00S,2,1610612739,CLE,201567,Love,K. Love,164,190,25,Missed,1,0.0,0.0,0,h,MISS Love 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,206
+21500713,255,PT01M02.00S,2,1610612759,SAS,2564,Diaw,B. Diaw,0,0,0,,0,0.0,0.0,0,v,Diaw REBOUND (Off:1 Def:1),Rebound,Unknown,1,207
+21500713,256,PT00M58.10S,2,1610612739,CLE,203521,Dellavedova,M. Dellavedova,0,0,0,,0,0.0,0.0,0,h,Dellavedova S.FOUL (P2.PN) (J.Capers),Foul,Shooting,1,208
+21500713,257,PT00M58.10S,2,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,64.0,48.0,112,v,Parker Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,209
+21500713,259,PT00M58.10S,2,1610612739,CLE,203521,Dellavedova,M. Dellavedova,0,0,0,,0,0.0,0.0,0,h,SUB: Irving FOR Dellavedova,Substitution,,0,210
+21500713,260,PT00M58.10S,2,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,64.0,49.0,113,v,Parker Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,211
+21500713,263,PT00M34.90S,2,1610612739,CLE,202681,Irving,K. Irving,-155,193,25,Missed,1,0.0,0.0,0,h,MISS Irving 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,212
+21500713,264,PT00M34.30S,2,1610612759,SAS,2564,Diaw,B. Diaw,0,0,0,,0,0.0,0.0,0,v,Diaw REBOUND (Off:1 Def:2),Rebound,Unknown,1,213
+21500713,265,PT00M26.80S,2,1610612759,SAS,2225,Parker,T. Parker,-186,52,19,Missed,1,0.0,0.0,0,v,MISS Parker 19' Jump Shot,Missed Shot,Jump Shot,1,214
+21500713,266,PT00M26.30S,2,1610612739,CLE,202697,Shumpert,I. Shumpert,0,0,0,,0,0.0,0.0,0,h,Shumpert REBOUND (Off:0 Def:3),Rebound,Unknown,1,215
+21500713,268,PT00M05.20S,2,1610612739,CLE,2544,James,L. James,-6,-6,1,Made,1,66.0,49.0,115,h,James 1' Driving Finger Roll Layup (8 PTS),Made Shot,Driving Finger Roll Layup Shot,1,216
+21500713,269,PT00M00.10S,2,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,0.0,0.0,0,v,Parker Lost Ball Turnover (P3.T4),Turnover,Lost Ball,1,217
+21500713,269,PT00M00.10S,2,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0.0,0.0,0,h,Irving STEAL (2 STL),,,1,218
+21500713,270,PT00M00.00S,2,0,,0,,,0,0,0,,0,66.0,49.0,115,,End of 2nd Period (9:40 PM EST),period,end,0,219
+21500713,272,PT12M00.00S,3,0,,0,,,0,0,0,,0,66.0,49.0,115,,Start of 3rd Period (9:57 PM EST),period,start,0,220
+21500713,273,PT11M35.00S,3,1610612759,SAS,200746,Aldridge,L. Aldridge,119,61,13,Made,1,66.0,51.0,117,v,Aldridge 13' Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,1,221
+21500713,275,PT11M11.00S,3,1610612739,CLE,202681,Irving,K. Irving,-50,185,19,Missed,1,0.0,0.0,0,h,MISS Irving 19' Jump Shot,Missed Shot,Jump Shot,1,222
+21500713,276,PT11M10.00S,3,1610612759,SAS,202695,Leonard,K. Leonard,0,0,0,,0,0.0,0.0,0,v,Leonard REBOUND (Off:1 Def:3),Rebound,Unknown,1,223
+21500713,277,PT10M56.00S,3,1610612759,SAS,200746,Aldridge,L. Aldridge,-11,61,6,Made,1,66.0,53.0,119,v,Aldridge 6' Jump Shot (12 PTS),Made Shot,Jump Shot,1,224
+21500713,278,PT10M39.00S,3,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0.0,0.0,0,h,Irving Traveling Turnover (P1.T3),Turnover,Traveling,1,225
+21500713,279,PT10M26.00S,3,1610612759,SAS,202695,Leonard,K. Leonard,-14,7,2,Made,1,66.0,55.0,121,v,Leonard 2' Driving Layup (13 PTS) (Parker 5 AST),Made Shot,Driving Layup Shot,1,226
+21500713,280,PT10M26.00S,3,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,227
+21500713,284,PT10M06.00S,3,1610612739,CLE,2747,Smith,J. Smith,127,210,25,Missed,1,0.0,0.0,0,h,MISS Smith 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,228
+21500713,285,PT10M06.00S,3,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,0.0,0.0,0,v,Parker REBOUND (Off:0 Def:4),Rebound,Unknown,1,229
+21500713,286,PT09M52.00S,3,1610612759,SAS,2561,West,D. West,140,-19,14,Missed,1,0.0,0.0,0,v,MISS West 14' Jump Shot,Missed Shot,Jump Shot,1,230
+21500713,287,PT09M52.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,h,Thompson REBOUND (Off:1 Def:2),Rebound,Unknown,1,231
+21500713,288,PT09M37.00S,3,1610612739,CLE,2544,James,L. James,-11,18,2,Missed,1,0.0,0.0,0,h,MISS James 2' Driving Layup,Missed Shot,Driving Layup Shot,1,232
+21500713,289,PT09M36.00S,3,1610612759,SAS,202695,Leonard,K. Leonard,0,0,0,,0,0.0,0.0,0,v,Leonard REBOUND (Off:1 Def:4),Rebound,Unknown,1,233
+21500713,290,PT09M32.00S,3,1610612759,SAS,201980,Green,D. Green,-12,7,1,Made,1,66.0,57.0,123,v,Green 1' Layup (2 PTS) (Parker 6 AST),Made Shot,Layup Shot,1,234
+21500713,291,PT09M14.00S,3,1610612739,CLE,201567,Love,K. Love,-243,11,24,Missed,1,0.0,0.0,0,h,MISS Love 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,235
+21500713,292,PT09M14.00S,3,1610612759,SAS,2561,West,D. West,0,0,0,,0,0.0,0.0,0,v,West REBOUND (Off:0 Def:1),Rebound,Unknown,1,236
+21500713,293,PT08M59.00S,3,1610612759,SAS,200746,Aldridge,L. Aldridge,-109,62,13,Missed,1,0.0,0.0,0,v,MISS Aldridge 13' Jump Shot,Missed Shot,Jump Shot,1,237
+21500713,294,PT08M58.00S,3,1610612759,SAS,201980,Green,D. Green,0,0,0,,0,0.0,0.0,0,v,Green REBOUND (Off:2 Def:0),Rebound,Unknown,1,238
+21500713,295,PT08M47.00S,3,1610612759,SAS,200746,Aldridge,L. Aldridge,-84,47,10,Missed,1,0.0,0.0,0,v,MISS Aldridge 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,239
+21500713,296,PT08M46.00S,3,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,Love REBOUND (Off:2 Def:7),Rebound,Unknown,1,240
+21500713,297,PT08M41.00S,3,1610612739,CLE,2544,James,L. James,-9,-6,1,Made,1,68.0,57.0,125,h,James 1' Running Layup (10 PTS),Made Shot,Running Layup Shot,1,241
+21500713,298,PT08M23.00S,3,1610612759,SAS,202695,Leonard,K. Leonard,225,-5,0,Missed,1,0.0,0.0,0,v,MISS Leonard  3PT Jump Shot,Missed Shot,Jump Shot,1,242
+21500713,299,PT08M22.00S,3,1610612759,SAS,2561,West,D. West,0,0,0,,0,0.0,0.0,0,v,West REBOUND (Off:1 Def:1),Rebound,Unknown,1,243
+21500713,300,PT08M22.00S,3,1610612759,SAS,202695,Leonard,K. Leonard,0,0,0,,0,0.0,0.0,0,v,Leonard Traveling Turnover (P2.T5),Turnover,Traveling,1,244
+21500713,301,PT08M06.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,-24,80,8,Missed,1,0.0,0.0,0,h,MISS Thompson 8' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,1,245
+21500713,302,PT08M05.00S,3,1610612759,SAS,2561,West,D. West,0,0,0,,0,0.0,0.0,0,v,West REBOUND (Off:1 Def:2),Rebound,Unknown,1,246
+21500713,303,PT08M02.00S,3,1610612759,SAS,201980,Green,D. Green,-235,121,26,Missed,1,0.0,0.0,0,v,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,247
+21500713,304,PT08M00.00S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,James REBOUND (Off:0 Def:2),Rebound,Unknown,1,248
+21500713,306,PT07M35.00S,3,1610612739,CLE,202681,Irving,K. Irving,-68,3,7,Made,1,70.0,57.0,127,h,Irving 7' Driving Bank Shot (9 PTS),Made Shot,Driving Bank shot,1,249
+21500713,307,PT07M09.00S,3,1610612759,SAS,200746,Aldridge,L. Aldridge,-106,43,11,Missed,1,0.0,0.0,0,v,MISS Aldridge 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,250
+21500713,308,PT07M07.00S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,James REBOUND (Off:0 Def:3),Rebound,Unknown,1,251
+21500713,309,PT07M07.00S,3,1610612759,SAS,2561,West,D. West,0,0,0,,0,0.0,0.0,0,v,West S.FOUL (P1.T1) (D.Collins),Foul,Shooting,1,252
+21500713,310,PT07M07.00S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,71.0,57.0,128,h,James Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,253
+21500713,312,PT07M07.00S,3,1610612759,SAS,2561,West,D. West,0,0,0,,0,0.0,0.0,0,v,SUB: Ginobili FOR West,Substitution,,0,254
+21500713,313,PT07M07.00S,3,1610612759,SAS,201980,Green,D. Green,0,0,0,,0,0.0,0.0,0,v,SUB: Diaw FOR Green,Substitution,,0,255
+21500713,314,PT07M07.00S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,72.0,57.0,129,h,James Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,256
+21500713,317,PT06M55.00S,3,1610612759,SAS,2225,Parker,T. Parker,-4,2,0,Made,1,72.0,59.0,131,v,Parker  Driving Layup (11 PTS),Made Shot,Driving Layup Shot,1,257
+21500713,318,PT06M50.00S,3,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,0.0,0.0,0,v,Ginobili Shooting Block Foul (P2.T2) (J.Capers),Foul,Shooting Block,1,258
+21500713,319,PT06M50.00S,3,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,73.0,59.0,132,h,Irving Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,259
+21500713,321,PT06M50.00S,3,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,74.0,59.0,133,h,Irving Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,260
+21500713,324,PT06M36.00S,3,1610612759,SAS,2225,Parker,T. Parker,-9,-6,1,Made,1,74.0,61.0,135,v,Parker 1' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,261
+21500713,325,PT06M21.00S,3,1610612739,CLE,201567,Love,K. Love,38,31,5,Missed,1,0.0,0.0,0,h,MISS Love 5' Jump Shot,Missed Shot,Jump Shot,1,262
+21500713,326,PT06M21.00S,3,1610612759,SAS,202695,Leonard,K. Leonard,0,0,0,,0,0.0,0.0,0,v,Leonard REBOUND (Off:1 Def:5),Rebound,Unknown,1,263
+21500713,327,PT06M14.00S,3,1610612759,SAS,2564,Diaw,B. Diaw,17,21,3,Missed,1,0.0,0.0,0,v,MISS Diaw 3' Layup,Missed Shot,Layup Shot,1,264
+21500713,328,PT06M13.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,h,Thompson REBOUND (Off:1 Def:3),Rebound,Unknown,1,265
+21500713,329,PT06M12.00S,3,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,0.0,0.0,0,v,Parker P.FOUL (P1.T3) (E.Dalen),Foul,Personal,1,266
+21500713,330,PT05M58.00S,3,1610612739,CLE,2544,James,L. James,-7,3,1,Made,1,76.0,61.0,137,h,James 1' Layup (14 PTS),Made Shot,Layup Shot,1,267
+21500713,331,PT05M55.00S,3,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,268
+21500713,335,PT05M39.00S,3,1610612759,SAS,1938,Ginobili,M. Ginobili,-106,239,26,Missed,1,0.0,0.0,0,v,MISS Ginobili 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,269
+21500713,336,PT05M39.00S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,James REBOUND (Off:0 Def:4),Rebound,Unknown,1,270
+21500713,337,PT05M32.00S,3,1610612739,CLE,2544,James,L. James,-17,16,2,Missed,1,0.0,0.0,0,h,MISS James 2' Layup,Missed Shot,Layup Shot,1,271
+21500713,338,PT05M31.00S,3,1610612759,SAS,2564,Diaw,B. Diaw,0,0,0,,0,0.0,0.0,0,v,Diaw REBOUND (Off:1 Def:3),Rebound,Unknown,1,272
+21500713,339,PT05M21.00S,3,1610612759,SAS,2564,Diaw,B. Diaw,9,56,6,Made,1,76.0,63.0,139,v,Diaw 6' Hook Shot (6 PTS),Made Shot,Hook Shot,1,273
+21500713,340,PT05M21.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,h,Thompson S.FOUL (P1.T1) (D.Collins),Foul,Shooting,1,274
+21500713,341,PT05M21.00S,3,1610612759,SAS,2564,Diaw,B. Diaw,0,0,0,,0,76.0,64.0,140,v,Diaw Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,275
+21500713,343,PT05M00.00S,3,1610612739,CLE,2747,Smith,J. Smith,15,154,15,Missed,1,0.0,0.0,0,h,MISS Smith 15' Jump Shot,Missed Shot,Jump Shot,1,276
+21500713,344,PT05M00.00S,3,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Rebound,Rebound,Unknown,0,277
+21500713,345,PT05M00.00S,3,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,0.0,0.0,0,v,Ginobili L.B.FOUL (P3.T4) (J.Capers),Foul,Loose Ball,1,278
+21500713,346,PT04M47.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,h,Thompson 3 Second Violation Turnover (P1.T4),Turnover,3 Second Violation,1,279
+21500713,347,PT04M29.00S,3,1610612759,SAS,202695,Leonard,K. Leonard,12,62,6,Made,1,76.0,66.0,142,v,Leonard 6' Turnaround Jump Shot (15 PTS),Made Shot,Turnaround Jump Shot,1,280
+21500713,348,PT04M16.00S,3,1610612739,CLE,2544,James,L. James,192,154,25,Missed,1,0.0,0.0,0,h,MISS James 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,281
+21500713,349,PT04M15.00S,3,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,Love REBOUND (Off:3 Def:7),Rebound,Unknown,1,282
+21500713,350,PT04M10.00S,3,1610612739,CLE,2544,James,L. James,-12,3,1,Made,1,78.0,66.0,144,h,James 1' Cutting Layup Shot (16 PTS) (Love 3 AST),Made Shot,Cutting Layup Shot,1,283
+21500713,352,PT03M56.00S,3,1610612759,SAS,1938,Ginobili,M. Ginobili,-16,7,2,Missed,1,0.0,0.0,0,v,MISS Ginobili 2' Layup,Missed Shot,Layup Shot,1,284
+21500713,353,PT03M55.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,h,Thompson REBOUND (Off:1 Def:4),Rebound,Unknown,1,285
+21500713,354,PT03M48.00S,3,1610612739,CLE,201567,Love,K. Love,-235,111,26,Made,1,81.0,66.0,147,h,Love 26' 3PT Jump Shot (21 PTS) (Irving 5 AST),Made Shot,Jump Shot,1,286
+21500713,355,PT03M32.00S,3,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,Love S.FOUL (P2.T2) (J.Capers),Foul,Shooting,1,287
+21500713,356,PT03M32.00S,3,1610612759,SAS,200746,Aldridge,L. Aldridge,0,0,0,,0,81.0,67.0,148,v,Aldridge Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,288
+21500713,358,PT03M32.00S,3,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,SUB: Shumpert FOR Love,Substitution,,0,289
+21500713,359,PT03M32.00S,3,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0.0,0.0,0,h,SUB: Dellavedova FOR Irving,Substitution,,0,290
+21500713,360,PT03M32.00S,3,1610612759,SAS,2225,Parker,T. Parker,0,0,0,,0,0.0,0.0,0,v,SUB: Mills FOR Parker,Substitution,,0,291
+21500713,361,PT03M32.00S,3,1610612759,SAS,200746,Aldridge,L. Aldridge,0,0,0,,0,0.0,0.0,0,v,MISS Aldridge Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,292
+21500713,363,PT03M30.00S,3,1610612739,CLE,202697,Shumpert,I. Shumpert,0,0,0,,0,0.0,0.0,0,h,Shumpert REBOUND (Off:0 Def:4),Rebound,Unknown,1,293
+21500713,365,PT03M06.00S,3,1610612739,CLE,203521,Dellavedova,M. Dellavedova,-220,124,25,Made,1,84.0,67.0,151,h,Dellavedova 25' 3PT Jump Shot (5 PTS) (James 7 AST),Made Shot,Jump Shot,1,294
+21500713,366,PT03M02.00S,3,1610612739,CLE,2747,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith P.FOUL (P3.T3) (D.Collins),Foul,Personal,1,295
+21500713,367,PT02M54.00S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,James S.FOUL (P2.T4) (E.Dalen),Foul,Shooting,1,296
+21500713,368,PT02M54.00S,3,1610612759,SAS,202695,Leonard,K. Leonard,0,0,0,,0,84.0,68.0,152,v,Leonard Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,297
+21500713,370,PT02M54.00S,3,1610612759,SAS,202695,Leonard,K. Leonard,0,0,0,,0,84.0,69.0,153,v,Leonard Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,298
+21500713,372,PT02M44.00S,3,1610612739,CLE,2544,James,L. James,-2,-10,1,Made,1,86.0,69.0,155,h,James 1' Cutting Layup Shot (18 PTS) (Dellavedova 3 AST),Made Shot,Cutting Layup Shot,1,299
+21500713,373,PT02M29.00S,3,1610612759,SAS,1938,Ginobili,M. Ginobili,-101,36,11,Missed,1,0.0,0.0,0,v,MISS Ginobili 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,300
+21500713,373,PT02M29.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,h,Thompson BLOCK (1 BLK),,,1,301
+21500713,374,PT02M28.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,h,Thompson REBOUND (Off:1 Def:5),Rebound,Unknown,1,302
+21500713,375,PT02M23.00S,3,1610612739,CLE,2544,James,L. James,10,-6,1,Made,1,88.0,69.0,157,h,James 1' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,1,303
+21500713,376,PT02M05.00S,3,1610612739,CLE,202697,Shumpert,I. Shumpert,0,0,0,,0,0.0,0.0,0,h,Shumpert S.FOUL (P1.PN) (D.Collins),Foul,Shooting,1,304
+21500713,377,PT02M05.00S,3,1610612759,SAS,202695,Leonard,K. Leonard,0,0,0,,0,88.0,70.0,158,v,Leonard Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,305
+21500713,379,PT02M05.00S,3,1610612759,SAS,202695,Leonard,K. Leonard,0,0,0,,0,88.0,71.0,159,v,Leonard Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,306
+21500713,382,PT01M43.00S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,James Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,307
+21500713,382,PT01M43.00S,3,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,0.0,0.0,0,v,Ginobili STEAL (1 STL),,,1,308
+21500713,383,PT01M38.00S,3,1610612759,SAS,1938,Ginobili,M. Ginobili,2,13,1,Missed,1,0.0,0.0,0,v,MISS Ginobili 1' Running Layup,Missed Shot,Running Layup Shot,1,309
+21500713,383,PT01M38.00S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,James BLOCK (2 BLK),,,1,310
+21500713,384,PT01M38.00S,3,1610612739,CLE,203521,Dellavedova,M. Dellavedova,0,0,0,,0,0.0,0.0,0,h,Dellavedova REBOUND (Off:1 Def:2),Rebound,Unknown,1,311
+21500713,385,PT01M30.00S,3,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,312
+21500713,387,PT01M30.00S,3,1610612759,SAS,2564,Diaw,B. Diaw,0,0,0,,0,0.0,0.0,0,v,SUB: Anderson FOR Diaw,Substitution,,0,313
+21500713,389,PT01M12.00S,3,1610612739,CLE,202697,Shumpert,I. Shumpert,223,-6,0,Missed,1,0.0,0.0,0,h,MISS Shumpert  3PT Jump Shot,Missed Shot,Jump Shot,1,314
+21500713,390,PT01M11.00S,3,1610612759,SAS,1938,Ginobili,M. Ginobili,0,0,0,,0,0.0,0.0,0,v,Ginobili REBOUND (Off:0 Def:2),Rebound,Unknown,1,315
+21500713,391,PT01M04.00S,3,1610612759,SAS,203937,Anderson,K. Anderson,24,65,7,Missed,1,0.0,0.0,0,v,MISS Anderson 7' Running Jump Shot,Missed Shot,Running Jump Shot,1,316
+21500713,392,PT01M02.00S,3,1610612759,SAS,203937,Anderson,K. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson REBOUND (Off:1 Def:1),Rebound,Unknown,1,317
+21500713,393,PT00M58.80S,3,1610612759,SAS,1938,Ginobili,M. Ginobili,68,237,25,Made,1,88.0,74.0,162,v,Ginobili 25' 3PT Jump Shot (6 PTS) (Anderson 2 AST),Made Shot,Jump Shot,1,318
+21500713,394,PT00M38.90S,3,1610612739,CLE,2544,James,L. James,-112,28,12,Made,1,90.0,74.0,164,h,James 12' Turnaround Fadeaway Bank Jump Shot (22 PTS),Made Shot,Turnaround Fadeaway Bank Jump Shot,1,319
+21500713,395,PT00M27.60S,3,1610612759,SAS,202695,Leonard,K. Leonard,-143,11,14,Made,1,90.0,76.0,166,v,Leonard 14' Turnaround Fadeaway (21 PTS),Made Shot,Turnaround Fadeaway shot,1,320
+21500713,396,PT00M06.40S,3,1610612759,SAS,201988,Mills,P. Mills,0,0,0,,0,0.0,0.0,0,v,Mills P.FOUL (P1.PN) (J.Capers),Foul,Personal,1,321
+21500713,397,PT00M06.40S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,91.0,76.0,167,h,James Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,322
+21500713,399,PT00M06.40S,3,1610612739,CLE,2747,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,SUB: Jefferson FOR Smith,Substitution,,0,323
+21500713,400,PT00M06.40S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,92.0,76.0,168,h,James Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,324
+21500713,403,PT00M00.00S,3,1610612759,SAS,203937,Anderson,K. Anderson,-63,65,9,Missed,1,0.0,0.0,0,v,MISS Anderson 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,325
+21500713,404,PT00M00.00S,3,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Rebound,Rebound,Unknown,0,326
+21500713,405,PT00M00.00S,3,0,,0,,,0,0,0,,0,92.0,76.0,168,,End of 3rd Period (10:25 PM EST),period,end,0,327
+21500713,407,PT12M00.00S,4,0,,0,,,0,0,0,,0,92.0,76.0,168,,Start of 4th Period (10:29 PM EST),period,start,0,328
+21500713,408,PT11M41.00S,4,1610612739,CLE,202681,Irving,K. Irving,109,85,14,Made,1,94.0,76.0,170,h,Irving 14' Step Back Jump Shot (13 PTS),Made Shot,Step Back Jump shot,1,329
+21500713,409,PT11M33.00S,4,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0.0,0.0,0,h,Irving P.FOUL (P1.T1) (D.Collins),Foul,Personal,1,330
+21500713,410,PT11M19.00S,4,1610612759,SAS,203937,Anderson,K. Anderson,151,51,16,Made,1,94.0,78.0,172,v,Anderson 16' Jump Shot (6 PTS),Made Shot,Jump Shot,1,331
+21500713,411,PT11M05.00S,4,1610612759,SAS,2561,West,D. West,0,0,0,,0,0.0,0.0,0,v,West Violation:Kicked Ball (D.Collins),Violation,Kicked Ball,0,332
+21500713,412,PT11M01.00S,4,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,Love Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,333
+21500713,412,PT11M01.00S,4,1610612759,SAS,203937,Anderson,K. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson STEAL (1 STL),,,1,334
+21500713,413,PT11M00.00S,4,1610612739,CLE,203521,Dellavedova,M. Dellavedova,0,0,0,,0,0.0,0.0,0,h,Dellavedova P.FOUL (P3.T2) (J.Capers),Foul,Personal,1,335
+21500713,414,PT10M51.00S,4,1610612759,SAS,203937,Anderson,K. Anderson,0,1,0,Made,1,94.0,80.0,174,v,Anderson  Driving Dunk (8 PTS),Made Shot,Driving Dunk Shot,1,336
+21500713,415,PT10M42.00S,4,1610612759,SAS,203613,Simmons,J. Simmons,0,0,0,,0,0.0,0.0,0,v,Simmons P.FOUL (P3.T1) (E.Dalen),Foul,Personal,1,337
+21500713,416,PT10M42.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,h,SUB: Jefferson FOR Thompson,Substitution,,0,338
+21500713,417,PT10M36.00S,4,1610612739,CLE,203521,Dellavedova,M. Dellavedova,0,0,0,,0,0.0,0.0,0,h,Dellavedova Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,339
+21500713,418,PT10M19.00S,4,1610612759,SAS,203937,Anderson,K. Anderson,96,75,12,Missed,1,0.0,0.0,0,v,MISS Anderson 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,340
+21500713,419,PT10M17.00S,4,1610612739,CLE,203521,Dellavedova,M. Dellavedova,0,0,0,,0,0.0,0.0,0,h,Dellavedova REBOUND (Off:1 Def:3),Rebound,Unknown,1,341
+21500713,420,PT09M54.00S,4,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,0,342
+21500713,421,PT09M32.00S,4,1610612759,SAS,2561,West,D. West,-20,7,2,Made,1,94.0,82.0,176,v,West 2' Layup (6 PTS) (Green 1 AST),Made Shot,Layup Shot,1,343
+21500713,422,PT09M07.00S,4,1610612739,CLE,2210,Jefferson,R. Jefferson,171,-11,17,Missed,1,0.0,0.0,0,h,MISS Jefferson 17' Jump Shot,Missed Shot,Jump Shot,1,344
+21500713,423,PT09M07.00S,4,1610612759,SAS,203937,Anderson,K. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson REBOUND (Off:1 Def:2),Rebound,Unknown,1,345
+21500713,424,PT09M01.00S,4,1610612759,SAS,201980,Green,D. Green,-52,247,25,Missed,1,0.0,0.0,0,v,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,346
+21500713,425,PT09M01.00S,4,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,Love REBOUND (Off:3 Def:8),Rebound,Unknown,1,347
+21500713,426,PT08M43.00S,4,1610612739,CLE,202681,Irving,K. Irving,-42,38,6,Made,1,96.0,82.0,178,h,Irving 6' Hook Shot (15 PTS),Made Shot,Hook Shot,1,348
+21500713,427,PT08M24.00S,4,1610612759,SAS,2561,West,D. West,-9,-11,1,Made,1,96.0,84.0,180,v,West 1' Layup (8 PTS) (Anderson 3 AST),Made Shot,Layup Shot,1,349
+21500713,428,PT08M00.00S,4,1610612739,CLE,202681,Irving,K. Irving,-12,-1,1,Made,1,98.0,84.0,182,h,Irving 1' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,350
+21500713,429,PT08M00.00S,4,1610612759,SAS,2561,West,D. West,0,0,0,,0,0.0,0.0,0,v,West S.FOUL (P2.T2) (J.Capers),Foul,Shooting,1,351
+21500713,430,PT08M00.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,352
+21500713,435,PT08M00.00S,4,1610612759,SAS,2561,West,D. West,0,0,0,,0,0.0,0.0,0,v,SUB: Aldridge FOR West,Substitution,,0,353
+21500713,439,PT08M00.00S,4,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,SUB: Thompson FOR Love,Substitution,,0,354
+21500713,436,PT08M00.00S,4,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0.0,0.0,0,h,MISS Irving Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,355
+21500713,438,PT07M59.00S,4,1610612759,SAS,200746,Aldridge,L. Aldridge,0,0,0,,0,0.0,0.0,0,v,Aldridge REBOUND (Off:1 Def:1),Rebound,Unknown,1,356
+21500713,440,PT07M45.00S,4,1610612759,SAS,201988,Mills,P. Mills,169,190,25,Missed,1,0.0,0.0,0,v,MISS Mills 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,357
+21500713,441,PT07M45.00S,4,1610612739,CLE,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,h,Jefferson REBOUND (Off:0 Def:3),Rebound,Unknown,1,358
+21500713,442,PT07M40.00S,4,1610612739,CLE,202681,Irving,K. Irving,14,38,4,Missed,1,0.0,0.0,0,h,MISS Irving 4' Jump Shot,Missed Shot,Jump Shot,1,359
+21500713,442,PT07M40.00S,4,1610612759,SAS,203937,Anderson,K. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson BLOCK (1 BLK),,,1,360
+21500713,443,PT07M40.00S,4,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0.0,0.0,0,h,Irving REBOUND (Off:1 Def:0),Rebound,Unknown,1,361
+21500713,444,PT07M39.00S,4,1610612739,CLE,203521,Dellavedova,M. Dellavedova,-238,7,24,Made,1,101.0,84.0,185,h,Dellavedova 24' 3PT Jump Shot (8 PTS) (Irving 6 AST),Made Shot,Jump Shot,1,362
+21500713,445,PT07M15.00S,4,1610612759,SAS,203613,Simmons,J. Simmons,-4,2,0,Made,1,101.0,86.0,187,v,Simmons  Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,363
+21500713,446,PT06M57.00S,4,1610612739,CLE,203521,Dellavedova,M. Dellavedova,63,41,8,Made,1,103.0,86.0,189,h,Dellavedova 8' Floating Jump Shot (10 PTS),Made Shot,Floating Jump shot,1,364
+21500713,447,PT06M47.00S,4,1610612759,SAS,201980,Green,D. Green,-142,208,25,Made,1,103.0,89.0,192,v,Green 25' 3PT Jump Shot (5 PTS) (Mills 2 AST),Made Shot,Jump Shot,1,365
+21500713,449,PT06M24.00S,4,1610612739,CLE,202681,Irving,K. Irving,-17,51,5,Made,1,105.0,89.0,194,h,Irving 5' Driving Hook Shot (19 PTS),Made Shot,Driving Hook Shot,1,366
+21500713,450,PT06M16.00S,4,1610612739,CLE,202697,Shumpert,I. Shumpert,0,0,0,,0,0.0,0.0,0,h,Shumpert P.FOUL (P2.T3) (D.Collins),Foul,Personal,1,367
+21500713,451,PT06M16.00S,4,1610612739,CLE,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,h,SUB: James FOR Jefferson,Substitution,,0,368
+21500713,452,PT06M16.00S,4,1610612759,SAS,203937,Anderson,K. Anderson,0,0,0,,0,0.0,0.0,0,v,SUB: Leonard FOR Anderson,Substitution,,0,369
+21500713,453,PT06M04.00S,4,1610612759,SAS,203613,Simmons,J. Simmons,58,38,7,Made,1,105.0,91.0,196,v,Simmons 7' Running Jump Shot (6 PTS) (Leonard 2 AST),Made Shot,Running Jump Shot,1,370
+21500713,454,PT05M48.00S,4,1610612739,CLE,202681,Irving,K. Irving,-11,2,1,Made,1,107.0,91.0,198,h,Irving 1' Layup (21 PTS) (Thompson 1 AST),Made Shot,Layup Shot,1,371
+21500713,455,PT05M38.00S,4,1610612759,SAS,202695,Leonard,K. Leonard,-245,85,26,Missed,1,0.0,0.0,0,v,MISS Leonard 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,372
+21500713,456,PT05M37.00S,4,1610612739,CLE,202697,Shumpert,I. Shumpert,0,0,0,,0,0.0,0.0,0,h,Shumpert REBOUND (Off:0 Def:5),Rebound,Unknown,1,373
+21500713,457,PT05M23.00S,4,1610612739,CLE,203521,Dellavedova,M. Dellavedova,-205,174,27,Made,1,110.0,91.0,201,h,Dellavedova 27' 3PT Jump Shot (13 PTS) (Shumpert 2 AST),Made Shot,Jump Shot,1,374
+21500713,458,PT05M08.00S,4,1610612759,SAS,201988,Mills,P. Mills,-19,-1,2,Made,1,110.0,93.0,203,v,Mills 2' Driving Reverse Layup (4 PTS),Made Shot,Driving Reverse Layup Shot,1,375
+21500713,459,PT05M00.00S,4,1610612759,SAS,200746,Aldridge,L. Aldridge,0,0,0,,0,0.0,0.0,0,v,Aldridge Violation:Kicked Ball (D.Collins),Violation,Kicked Ball,0,376
+21500713,460,PT05M00.00S,4,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,377
+21500713,464,PT04M50.00S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,James Out of Bounds Lost Ball Turnover (P2.T9),Turnover,Out of Bounds Lost Ball Turnover,1,378
+21500713,465,PT04M43.00S,4,1610612759,SAS,201988,Mills,P. Mills,0,0,0,,0,0.0,0.0,0,v,Mills Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,379
+21500713,465,PT04M43.00S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,James STEAL (2 STL),,,1,380
+21500713,466,PT04M41.00S,4,1610612739,CLE,2544,James,L. James,-12,3,1,Made,1,112.0,93.0,205,h,James 1' Running Layup (26 PTS),Made Shot,Running Layup Shot,1,381
+21500713,467,PT04M41.00S,4,1610612759,SAS,201988,Mills,P. Mills,0,0,0,,0,0.0,0.0,0,v,Mills S.FOUL (P2.T3) (D.Collins),Foul,Shooting,1,382
+21500713,468,PT04M41.00S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,113.0,93.0,206,h,James Free Throw 1 of 1 (27 PTS),Free Throw,Free Throw 1 of 1,0,383
+21500713,470,PT04M20.00S,4,1610612759,SAS,200746,Aldridge,L. Aldridge,-124,36,13,Made,1,113.0,95.0,208,v,Aldridge 13' Turnaround Jump Shot (15 PTS) (Simmons 2 AST),Made Shot,Turnaround Jump Shot,1,384
+21500713,471,PT04M02.00S,4,1610612739,CLE,203521,Dellavedova,M. Dellavedova,223,-1,0,Missed,1,0.0,0.0,0,h,MISS Dellavedova  3PT Jump Shot,Missed Shot,Jump Shot,1,385
+21500713,472,PT04M01.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,h,Thompson REBOUND (Off:2 Def:5),Rebound,Unknown,1,386
+21500713,473,PT03M47.00S,4,1610612739,CLE,202697,Shumpert,I. Shumpert,-237,43,24,Missed,1,0.0,0.0,0,h,MISS Shumpert 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,387
+21500713,474,PT03M47.00S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,James REBOUND (Off:1 Def:4),Rebound,Unknown,1,388
+21500713,475,PT03M38.00S,4,1610612759,SAS,201988,Mills,P. Mills,0,0,0,,0,0.0,0.0,0,v,Mills P.FOUL (P3.T4) (J.Capers),Foul,Personal,1,389
+21500713,476,PT03M28.00S,4,1610612739,CLE,203521,Dellavedova,M. Dellavedova,30,75,8,Made,1,115.0,95.0,210,h,Dellavedova 8' Floating Jump Shot (15 PTS),Made Shot,Floating Jump shot,1,390
+21500713,478,PT03M18.00S,4,1610612759,SAS,202695,Leonard,K. Leonard,-120,223,25,Made,1,115.0,98.0,213,v,Leonard 25' 3PT Jump Shot (24 PTS),Made Shot,Jump Shot,1,391
+21500713,479,PT02M53.00S,4,1610612739,CLE,202681,Irving,K. Irving,-45,21,5,Missed,1,0.0,0.0,0,h,MISS Irving 5' Driving Bank Shot,Missed Shot,Driving Bank shot,1,392
+21500713,480,PT02M52.00S,4,1610612759,SAS,201980,Green,D. Green,0,0,0,,0,0.0,0.0,0,v,Green REBOUND (Off:2 Def:1),Rebound,Unknown,1,393
+21500713,481,PT02M49.00S,4,1610612759,SAS,202695,Leonard,K. Leonard,-187,170,25,Missed,1,0.0,0.0,0,v,MISS Leonard 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,394
+21500713,482,PT02M49.00S,4,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Rebound,Rebound,Unknown,0,395
+21500713,483,PT02M49.00S,4,0,,1610612759,,,0,0,0,,0,0.0,0.0,0,v,Spurs Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,396
+21500713,486,PT02M49.00S,4,1610612759,SAS,202695,Leonard,K. Leonard,0,0,0,,0,0.0,0.0,0,v,SUB: Butler FOR Leonard,Substitution,,0,397
+21500713,487,PT02M49.00S,4,1610612759,SAS,200746,Aldridge,L. Aldridge,0,0,0,,0,0.0,0.0,0,v,SUB: Anderson FOR Aldridge,Substitution,,0,398
+21500713,488,PT02M49.00S,4,1610612759,SAS,201980,Green,D. Green,0,0,0,,0,0.0,0.0,0,v,SUB: Marjanovic FOR Green,Substitution,,0,399
+21500713,503,PT02M49.00S,4,1610612759,SAS,201988,Mills,P. Mills,0,0,0,,0,0.0,0.0,0,v,SUB: Bonner FOR Mills,Substitution,,0,400
+21500713,489,PT02M25.00S,4,1610612739,CLE,2544,James,L. James,73,200,21,Made,1,117.0,98.0,215,h,James 21' Jump Shot (29 PTS),Made Shot,Jump Shot,1,401
+21500713,490,PT02M12.00S,4,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0.0,0.0,0,h,Irving P.FOUL (P2.T4) (J.Capers),Foul,Personal,1,402
+21500713,491,PT02M12.00S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,SUB: Mozgov FOR James,Substitution,,0,403
+21500713,492,PT02M12.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,h,SUB: Cunningham FOR Thompson,Substitution,,0,404
+21500713,493,PT02M12.00S,4,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0.0,0.0,0,h,SUB: Jefferson FOR Irving,Substitution,,0,405
+21500713,494,PT02M06.00S,4,1610612759,SAS,203613,Simmons,J. Simmons,-155,82,18,Missed,1,0.0,0.0,0,v,MISS Simmons 18' Jump Shot,Missed Shot,Jump Shot,1,406
+21500713,495,PT02M04.00S,4,1610612739,CLE,203521,Dellavedova,M. Dellavedova,0,0,0,,0,0.0,0.0,0,h,Dellavedova REBOUND (Off:1 Def:4),Rebound,Unknown,1,407
+21500713,496,PT01M42.00S,4,1610612739,CLE,203099,Cunningham,J. Cunningham,96,228,25,Missed,1,0.0,0.0,0,h,MISS Cunningham 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,408
+21500713,497,PT01M41.00S,4,1610612739,CLE,202389,Mozgov,T. Mozgov,0,0,0,,0,0.0,0.0,0,h,Mozgov REBOUND (Off:1 Def:1),Rebound,Unknown,1,409
+21500713,498,PT01M37.00S,4,1610612739,CLE,202389,Mozgov,T. Mozgov,1,-11,1,Missed,1,0.0,0.0,0,h,MISS Mozgov 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,410
+21500713,499,PT01M32.00S,4,1610612759,SAS,1626246,Marjanovic,B. Marjanovic,0,0,0,,0,0.0,0.0,0,v,Marjanovic REBOUND (Off:0 Def:2),Rebound,Unknown,1,411
+21500713,500,PT01M22.00S,4,1610612759,SAS,1626246,Marjanovic,B. Marjanovic,-14,2,1,Missed,1,0.0,0.0,0,v,MISS Marjanovic 1' Layup,Missed Shot,Layup Shot,1,412
+21500713,501,PT01M22.00S,4,1610612759,SAS,1626246,Marjanovic,B. Marjanovic,0,0,0,,0,0.0,0.0,0,v,Marjanovic REBOUND (Off:1 Def:2),Rebound,Unknown,1,413
+21500713,502,PT01M22.00S,4,1610612739,CLE,202389,Mozgov,T. Mozgov,0,0,0,,0,0.0,0.0,0,h,Mozgov P.FOUL (P3.PN) (E.Dalen),Foul,Personal,1,414
+21500713,504,PT01M22.00S,4,1610612759,SAS,1626246,Marjanovic,B. Marjanovic,0,0,0,,0,117.0,99.0,216,v,Marjanovic Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,415
+21500713,506,PT01M22.00S,4,1610612759,SAS,1626246,Marjanovic,B. Marjanovic,0,0,0,,0,0.0,0.0,0,v,MISS Marjanovic Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,416
+21500713,508,PT01M21.00S,4,1610612739,CLE,202389,Mozgov,T. Mozgov,0,0,0,,0,0.0,0.0,0,h,Mozgov REBOUND (Off:1 Def:2),Rebound,Unknown,1,417
+21500713,509,PT01M12.00S,4,1610612739,CLE,202389,Mozgov,T. Mozgov,0,0,0,,0,0.0,0.0,0,h,Mozgov OFF.Foul (P4) (J.Capers),Foul,Offensive,1,418
+21500713,510,PT01M12.00S,4,1610612739,CLE,202389,Mozgov,T. Mozgov,0,0,0,,0,0.0,0.0,0,h,Mozgov Foul Turnover (P1.T10),Turnover,Foul,1,419
+21500713,512,PT00M47.60S,4,1610612759,SAS,203937,Anderson,K. Anderson,155,7,16,Made,1,117.0,101.0,218,v,Anderson 16' Turnaround Jump Shot (10 PTS) (Marjanovic 1 AST),Made Shot,Turnaround Jump Shot,1,420
+21500713,514,PT00M28.80S,4,1610612739,CLE,203521,Dellavedova,M. Dellavedova,-86,124,15,Missed,1,0.0,0.0,0,h,MISS Dellavedova 15' Jump Shot,Missed Shot,Jump Shot,1,421
+21500713,515,PT00M27.90S,4,1610612759,SAS,203613,Simmons,J. Simmons,0,0,0,,0,0.0,0.0,0,v,Simmons REBOUND (Off:0 Def:2),Rebound,Unknown,1,422
+21500713,516,PT00M19.50S,4,1610612759,SAS,203613,Simmons,J. Simmons,-20,7,2,Made,1,117.0,103.0,220,v,Simmons 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,423
+21500713,518,PT00M00.00S,4,0,,0,,,0,0,0,,0,117.0,103.0,220,,End of 4th Period (10:56 PM EST),period,end,0,424

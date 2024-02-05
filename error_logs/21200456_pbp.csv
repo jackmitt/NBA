@@ -1,0 +1,438 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+21200456,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (8:09 PM EST),period,start,0,1
+21200456,1,PT12M00.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,Jump Ball Ibaka vs. Gortat: Tip to,Jump Ball,,0,2
+21200456,2,PT11M48.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,-52,19,6,Missed,1,0.0,0.0,0,h,MISS Westbrook 6' Jump Shot,Missed Shot,Jump Shot,0,3
+21200456,2,PT11M48.00S,1,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,v,Dragic BLOCK (1 BLK),,,0,4
+21200456,3,PT11M46.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,h,Westbrook REBOUND (Off:1 Def:0),Rebound,Unknown,0,5
+21200456,4,PT11M44.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,-32,-5,3,Missed,1,0.0,0.0,0,h,MISS Westbrook 3' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,6
+21200456,5,PT11M42.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,h,Westbrook REBOUND (Off:2 Def:0),Rebound,Unknown,0,7
+21200456,6,PT11M34.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,21,-2,2,Made,1,2.0,0.0,2,h,Westbrook 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,8
+21200456,7,PT11M22.00S,1,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0.0,0.0,0,h,Perkins P.FOUL (P1.T1),Foul,Personal,0,9
+21200456,8,PT11M07.00S,1,1610612756,PHX,2449,Scola,L. Scola,-19,14,2,Missed,1,0.0,0.0,0,v,MISS Scola 2' Driving Layup,Missed Shot,Driving Layup Shot,0,10
+21200456,8,PT11M07.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,Ibaka BLOCK (1 BLK),,,0,11
+21200456,9,PT11M06.00S,1,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,v,Suns Rebound,Rebound,Unknown,0,12
+21200456,10,PT11M06.00S,1,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,v,Suns Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,0,13
+21200456,11,PT10M49.00S,1,1610612760,OKC,201142,Durant,K. Durant,-100,48,11,Missed,1,0.0,0.0,0,h,MISS Durant 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,14
+21200456,12,PT10M48.00S,1,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0.0,0.0,0,v,Gortat REBOUND (Off:0 Def:1),Rebound,Unknown,0,15
+21200456,13,PT10M38.00S,1,1610612756,PHX,2449,Scola,L. Scola,-172,12,17,Made,1,2.0,2.0,4,v,Scola 17' Jump Shot (2 PTS) (Dragic 1 AST),Made Shot,Jump Shot,0,16
+21200456,14,PT10M22.00S,1,1610612760,OKC,2570,Perkins,K. Perkins,-161,1,16,Made,1,4.0,2.0,6,h,Perkins 16' Jump Shot (2 PTS) (Durant 1 AST),Made Shot,Jump Shot,0,17
+21200456,15,PT10M09.00S,1,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,v,Dragic Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,18
+21200456,15,PT10M09.00S,1,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,h,Durant STEAL (1 STL),,,0,19
+21200456,16,PT10M07.00S,1,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,v,Tucker P.FOUL (P1.T1),Foul,Personal,0,20
+21200456,17,PT09M52.00S,1,1610612760,OKC,201142,Durant,K. Durant,-49,26,6,Missed,1,0.0,0.0,0,h,MISS Durant 6' Driving Bank Shot,Missed Shot,Driving Bank shot,0,21
+21200456,18,PT09M51.00S,1,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,v,Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,22
+21200456,19,PT09M44.00S,1,1610612756,PHX,201162,Dudley,J. Dudley,226,0,0,Made,1,4.0,5.0,9,v,Dudley  3PT Jump Shot (3 PTS) (Dragic 2 AST),Made Shot,Jump Shot,0,23
+21200456,20,PT09M32.00S,1,1610612760,OKC,201142,Durant,K. Durant,18,-2,2,Missed,1,0.0,0.0,0,h,MISS Durant 2' Layup,Missed Shot,Layup Shot,0,24
+21200456,21,PT09M30.00S,1,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,0.0,0.0,0,v,Dudley REBOUND (Off:0 Def:1),Rebound,Unknown,0,25
+21200456,22,PT09M20.00S,1,1610612756,PHX,101162,Gortat,M. Gortat,-139,-2,14,Made,1,4.0,7.0,11,v,Gortat 14' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,0,26
+21200456,23,PT09M07.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,26,190,19,Made,1,6.0,7.0,13,h,Ibaka 19' Jump Shot (2 PTS) (Westbrook 1 AST),Made Shot,Jump Shot,0,27
+21200456,24,PT08M47.00S,1,1610612756,PHX,200782,Tucker,P. Tucker,-193,148,24,Missed,1,0.0,0.0,0,v,MISS Tucker 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,28
+21200456,25,PT08M43.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,Ibaka REBOUND (Off:0 Def:1),Rebound,Unknown,0,29
+21200456,26,PT08M36.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,88,126,15,Missed,1,0.0,0.0,0,h,MISS Westbrook 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,30
+21200456,27,PT08M34.00S,1,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0.0,0.0,0,v,Scola REBOUND (Off:0 Def:1),Rebound,Unknown,0,31
+21200456,28,PT08M26.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,h,Westbrook P.FOUL (P1.T2),Foul,Personal,0,32
+21200456,29,PT08M15.00S,1,1610612756,PHX,200782,Tucker,P. Tucker,-215,-2,22,Made,1,6.0,9.0,15,v,Tucker 22' Jump Shot (2 PTS) (Dudley 1 AST),Made Shot,Jump Shot,0,33
+21200456,30,PT07M52.00S,1,1610612760,OKC,200757,Sefolosha,T. Sefolosha,214,131,25,Made,1,9.0,9.0,18,h,Sefolosha 25' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,0,34
+21200456,31,PT07M28.00S,1,1610612756,PHX,101162,Gortat,M. Gortat,7,66,7,Made,1,9.0,11.0,20,v,Gortat 7' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,0,35
+21200456,32,PT07M13.00S,1,1610612760,OKC,201142,Durant,K. Durant,-10,23,3,Missed,1,0.0,0.0,0,h,MISS Durant 3' Layup,Missed Shot,Layup Shot,0,36
+21200456,32,PT07M13.00S,1,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0.0,0.0,0,v,Gortat BLOCK (1 BLK),,,0,37
+21200456,33,PT07M11.00S,1,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0.0,0.0,0,h,Perkins REBOUND (Off:1 Def:0),Rebound,Unknown,0,38
+21200456,34,PT07M07.00S,1,1610612760,OKC,201142,Durant,K. Durant,17,-2,2,Made,1,11.0,11.0,22,h,Durant 2' Slam Dunk (2 PTS) (Westbrook 2 AST),Made Shot,Slam Dunk Shot,0,39
+21200456,35,PT06M53.00S,1,1610612756,PHX,101162,Gortat,M. Gortat,12,1,1,Made,1,11.0,13.0,24,v,Gortat 1' Layup (6 PTS) (Dragic 3 AST),Made Shot,Layup Shot,0,40
+21200456,37,PT06M29.00S,1,1610612760,OKC,2570,Perkins,K. Perkins,0,37,4,Missed,1,0.0,0.0,0,h,MISS Perkins 4' Jump Hook Shot,Missed Shot,Jump Hook Shot,0,41
+21200456,38,PT06M28.00S,1,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,0.0,0.0,0,v,Dudley REBOUND (Off:0 Def:2),Rebound,Unknown,0,42
+21200456,39,PT06M18.00S,1,1610612756,PHX,201609,Dragic,G. Dragic,-199,151,25,Missed,1,0.0,0.0,0,v,MISS Dragic 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,43
+21200456,40,PT06M17.00S,1,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,h,Durant REBOUND (Off:0 Def:1),Rebound,Unknown,0,44
+21200456,41,PT06M02.00S,1,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,0.0,0.0,0,v,Dudley Violation:Kicked Ball,Violation,Kicked Ball,0,45
+21200456,42,PT05M55.00S,1,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0.0,0.0,0,v,Scola S.FOUL (P1.T2),Foul,Shooting,0,46
+21200456,43,PT05M55.00S,1,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,THUNDER Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,47
+21200456,45,PT05M55.00S,1,1610612760,OKC,200757,Sefolosha,T. Sefolosha,0,0,0,,0,0.0,0.0,0,h,SUB: Martin FOR Sefolosha,Substitution,,0,48
+21200456,47,PT05M55.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,12.0,13.0,25,h,Westbrook Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,49
+21200456,49,PT05M55.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,h,MISS Westbrook Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,50
+21200456,51,PT05M54.00S,1,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0.0,0.0,0,v,Gortat REBOUND (Off:0 Def:2),Rebound,Unknown,0,51
+21200456,52,PT05M33.00S,1,1610612756,PHX,200782,Tucker,P. Tucker,26,156,16,Missed,1,0.0,0.0,0,v,MISS Tucker 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,52
+21200456,53,PT05M32.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,Ibaka REBOUND (Off:0 Def:2),Rebound,Unknown,0,53
+21200456,54,PT05M13.00S,1,1610612760,OKC,201142,Durant,K. Durant,6,134,13,Made,1,14.0,13.0,27,h,Durant 13' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,0,54
+21200456,55,PT04M58.00S,1,1610612756,PHX,101162,Gortat,M. Gortat,-13,71,7,Missed,1,0.0,0.0,0,v,MISS Gortat 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,55
+21200456,56,PT04M56.00S,1,1610612760,OKC,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,56
+21200456,57,PT04M50.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,15,149,15,Made,1,16.0,13.0,29,h,Westbrook 15' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,0,57
+21200456,58,PT04M39.00S,1,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,h,Durant S.FOUL (P1.T3),Foul,Shooting,0,58
+21200456,59,PT04M39.00S,1,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,16.0,14.0,30,v,Dragic Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,59
+21200456,61,PT04M39.00S,1,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,16.0,15.0,31,v,Dragic Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,60
+21200456,63,PT04M31.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,6,26,3,Made,1,18.0,15.0,33,h,Ibaka 3' Layup (4 PTS) (Westbrook 3 AST),Made Shot,Layup Shot,0,61
+21200456,64,PT04M31.00S,1,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0.0,0.0,0,v,Gortat S.FOUL (P1.T3),Foul,Shooting,0,62
+21200456,65,PT04M31.00S,1,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0.0,0.0,0,h,SUB: Collison FOR Perkins,Substitution,,0,63
+21200456,66,PT04M31.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,19.0,15.0,34,h,Ibaka Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,64
+21200456,67,PT04M13.00S,1,1610612756,PHX,2449,Scola,L. Scola,-70,175,19,Missed,1,0.0,0.0,0,v,MISS Scola 19' Jump Shot,Missed Shot,Jump Shot,0,65
+21200456,68,PT04M12.00S,1,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,0.0,0.0,0,v,Dudley REBOUND (Off:1 Def:2),Rebound,Unknown,0,66
+21200456,69,PT03M56.00S,1,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0.0,0.0,0,h,Collison Violation:Kicked Ball,Violation,Kicked Ball,0,67
+21200456,70,PT03M50.00S,1,1610612756,PHX,2449,Scola,L. Scola,152,0,15,Made,1,19.0,17.0,36,v,Scola 15' Jump Shot (4 PTS) (Dragic 4 AST),Made Shot,Jump Shot,0,68
+21200456,71,PT03M35.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,-103,145,18,Missed,1,0.0,0.0,0,h,MISS Ibaka 18' Jump Shot,Missed Shot,Jump Shot,0,69
+21200456,72,PT03M34.00S,1,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,v,Dragic REBOUND (Off:0 Def:1),Rebound,Unknown,0,70
+21200456,74,PT03M30.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,Ibaka Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,71
+21200456,73,PT03M30.00S,1,1610612756,PHX,201609,Dragic,G. Dragic,6,7,1,Made,1,19.0,19.0,38,v,Dragic 1' Layup (4 PTS),Made Shot,Layup Shot,0,72
+21200456,75,PT03M22.00S,1,1610612760,OKC,201142,Durant,K. Durant,24,9,3,Missed,1,0.0,0.0,0,h,MISS Durant 3' Layup,Missed Shot,Layup Shot,0,73
+21200456,76,PT03M20.00S,1,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,v,Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,74
+21200456,77,PT03M12.00S,1,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0.0,0.0,0,v,Gortat OFF.Foul (P2),Foul,Offensive,0,75
+21200456,78,PT03M12.00S,1,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0.0,0.0,0,v,Gortat Foul Turnover (P1.T3),Turnover,Foul,0,76
+21200456,79,PT03M12.00S,1,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0.0,0.0,0,v,SUB: O'Neal FOR Gortat,Substitution,,0,77
+21200456,80,PT03M04.00S,1,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0.0,0.0,0,v,Scola S.FOUL (P2.T4),Foul,Shooting,0,78
+21200456,81,PT03M04.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,20.0,19.0,39,h,Westbrook Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,79
+21200456,83,PT03M04.00S,1,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0.0,0.0,0,v,SUB: Morris FOR Scola,Substitution,,0,80
+21200456,84,PT03M04.00S,1,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,0.0,0.0,0,v,SUB: Brown FOR Dudley,Substitution,,0,81
+21200456,85,PT03M04.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,21.0,19.0,40,h,Westbrook Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,82
+21200456,87,PT02M51.00S,1,1610612756,PHX,201609,Dragic,G. Dragic,-223,4,0,Made,1,21.0,22.0,43,v,Dragic  3PT Jump Shot (7 PTS),Made Shot,Jump Shot,0,83
+21200456,88,PT02M33.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,225,0,0,Made,1,24.0,22.0,46,h,Ibaka  3PT Jump Shot (8 PTS) (Martin 1 AST),Made Shot,Jump Shot,0,84
+21200456,89,PT02M23.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,h,Westbrook S.FOUL (P2.T4),Foul,Shooting,0,85
+21200456,90,PT02M23.00S,1,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,v,Suns Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,86
+21200456,92,PT02M23.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,SUB: Jackson FOR Ibaka,Substitution,,0,87
+21200456,93,PT02M23.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,h,SUB: Sefolosha FOR Westbrook,Substitution,,0,88
+21200456,94,PT02M23.00S,1,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,24.0,23.0,47,v,Dragic Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,89
+21200456,96,PT02M23.00S,1,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,v,MISS Dragic Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,90
+21200456,98,PT02M22.00S,1,1610612760,OKC,200757,Sefolosha,T. Sefolosha,0,0,0,,0,0.0,0.0,0,h,Sefolosha REBOUND (Off:0 Def:1),Rebound,Unknown,0,91
+21200456,99,PT01M56.00S,1,1610612760,OKC,201142,Durant,K. Durant,34,30,5,Missed,1,0.0,0.0,0,h,MISS Durant 5' Running Jump Shot,Missed Shot,Running Jump Shot,0,92
+21200456,101,PT01M55.00S,1,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0.0,0.0,0,h,Collison REBOUND (Off:1 Def:0),Rebound,Unknown,0,93
+21200456,100,PT01M55.00S,1,1610612760,OKC,2555,Collison,N. Collison,-21,7,2,Made,1,26.0,23.0,49,h,Collison 2' Tip Shot (2 PTS),Made Shot,Tip Shot,0,94
+21200456,102,PT01M30.00S,1,1610612756,PHX,201609,Dragic,G. Dragic,111,20,11,Missed,1,0.0,0.0,0,v,MISS Dragic 11' Jump Shot,Missed Shot,Jump Shot,0,95
+21200456,103,PT01M29.00S,1,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0.0,0.0,0,h,Collison REBOUND (Off:1 Def:1),Rebound,Unknown,0,96
+21200456,104,PT01M23.00S,1,1610612760,OKC,200757,Sefolosha,T. Sefolosha,12,1,1,Made,1,28.0,23.0,51,h,Sefolosha 1' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,0,97
+21200456,105,PT00M54.90S,1,1610612756,PHX,979,O'Neal,J. O'Neal,-23,11,3,Missed,1,0.0,0.0,0,v,MISS O'Neal 3' Layup,Missed Shot,Layup Shot,0,98
+21200456,106,PT00M53.80S,1,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0.0,0.0,0,h,Collison REBOUND (Off:1 Def:2),Rebound,Unknown,0,99
+21200456,107,PT00M47.20S,1,1610612760,OKC,202704,Jackson,R. Jackson,136,89,16,Made,1,30.0,23.0,53,h,Jackson 16' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,0,100
+21200456,108,PT00M32.10S,1,1610612756,PHX,202693,Morris,M. Morris,-43,148,15,Made,1,30.0,25.0,55,v,Morris 15' Pullup Jump Shot (2 PTS) (Dragic 5 AST),Made Shot,Pullup Jump shot,0,101
+21200456,109,PT00M06.90S,1,1610612760,OKC,2755,Martin,K. Martin,-136,192,24,Made,1,32.0,25.0,57,h,Martin 24' Jump Shot (2 PTS),Made Shot,Jump Shot,0,102
+21200456,110,PT00M00.00S,1,1610612756,PHX,200782,Tucker,P. Tucker,228,9,0,Made,1,32.0,28.0,60,v,Tucker  3PT Jump Shot (5 PTS) (Brown 1 AST),Made Shot,Jump Shot,0,103
+21200456,111,PT00M00.00S,1,0,,109,Horry,R. Horry,0,0,0,,0,0.0,0.0,0,,Support Ruling,Instant Replay,Support Ruling,0,104
+21200456,112,PT00M00.00S,1,0,,110,,,0,0,0,,0,0.0,0.0,0,,Support Ruling,Instant Replay,Support Ruling,0,105
+21200456,113,PT00M00.00S,1,0,,0,,,0,0,0,,0,32.0,28.0,60,,End of 1st Period (8:37 PM EST),period,end,0,106
+21200456,116,PT12M00.00S,2,0,,0,,,0,0,0,,0,32.0,28.0,60,,Start of 2nd Period (8:38 PM EST),period,start,0,107
+21200456,117,PT11M38.00S,2,1610612756,PHX,202693,Morris,M. Morris,62,17,6,Made,1,32.0,30.0,62,v,Morris 6' Jump Bank Shot (4 PTS) (O'Neal 1 AST),Made Shot,Jump Bank Shot,0,108
+21200456,118,PT11M19.00S,2,1610612760,OKC,2555,Collison,N. Collison,32,20,4,Made,1,34.0,30.0,64,h,Collison 4' Running Jump Shot (4 PTS),Made Shot,Running Jump Shot,0,109
+21200456,119,PT11M06.00S,2,1610612756,PHX,200769,Brown,S. Brown,-223,3,0,Missed,1,0.0,0.0,0,v,MISS Brown  3PT Jump Shot,Missed Shot,Jump Shot,0,110
+21200456,120,PT11M06.00S,2,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0.0,0.0,0,h,Collison REBOUND (Off:1 Def:3),Rebound,Unknown,0,111
+21200456,121,PT10M53.00S,2,1610612760,OKC,2555,Collison,N. Collison,-35,190,19,Made,1,36.0,30.0,66,h,Collison 19' Jump Shot (6 PTS) (Jackson 1 AST),Made Shot,Jump Shot,0,112
+21200456,122,PT10M35.00S,2,1610612756,PHX,979,O'Neal,J. O'Neal,-21,37,4,Missed,1,0.0,0.0,0,v,MISS O'Neal 4' Jump Shot,Missed Shot,Jump Shot,0,113
+21200456,122,PT10M35.00S,2,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0.0,0.0,0,h,Thabeet BLOCK (1 BLK),,,0,114
+21200456,123,PT10M34.00S,2,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,0.0,0.0,0,h,Jackson REBOUND (Off:0 Def:1),Rebound,Unknown,0,115
+21200456,124,PT10M11.00S,2,1610612760,OKC,2755,Martin,K. Martin,78,140,16,Missed,1,0.0,0.0,0,h,MISS Martin 16' Running Jump Shot,Missed Shot,Running Jump Shot,0,116
+21200456,125,PT10M10.00S,2,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,0.0,0.0,0,v,Dudley REBOUND (Off:1 Def:3),Rebound,Unknown,0,117
+21200456,126,PT10M04.00S,2,1610612756,PHX,201609,Dragic,G. Dragic,113,217,24,Missed,1,0.0,0.0,0,v,MISS Dragic 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,118
+21200456,127,PT10M02.00S,2,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,THUNDER Rebound,Rebound,Unknown,0,119
+21200456,128,PT10M02.00S,2,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,v,SUB: Telfair FOR Dragic,Substitution,,0,120
+21200456,129,PT09M46.00S,2,1610612756,PHX,979,O'Neal,J. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal S.FOUL (P1.T1),Foul,Shooting,0,121
+21200456,130,PT09M46.00S,2,1610612760,OKC,2755,Martin,K. Martin,0,0,0,,0,37.0,30.0,67,h,Martin Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,122
+21200456,132,PT09M46.00S,2,1610612760,OKC,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,MISS Martin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,123
+21200456,134,PT09M45.00S,2,1610612756,PHX,979,O'Neal,J. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal REBOUND (Off:0 Def:1),Rebound,Unknown,0,124
+21200456,135,PT09M37.00S,2,1610612756,PHX,979,O'Neal,J. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal OFF.Foul (P2),Foul,Offensive,0,125
+21200456,136,PT09M37.00S,2,1610612756,PHX,979,O'Neal,J. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal Foul Turnover (P1.T4),Turnover,Foul,0,126
+21200456,137,PT09M29.00S,2,1610612760,OKC,2755,Martin,K. Martin,-160,179,24,Missed,1,0.0,0.0,0,h,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,127
+21200456,138,PT09M27.00S,2,1610612756,PHX,979,O'Neal,J. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal REBOUND (Off:0 Def:2),Rebound,Unknown,0,128
+21200456,139,PT09M21.00S,2,1610612756,PHX,200769,Brown,S. Brown,0,0,0,,0,0.0,0.0,0,v,Brown Out of Bounds Lost Ball Turnover (P1.T5),Turnover,Out of Bounds Lost Ball Turnover,0,129
+21200456,140,PT09M08.00S,2,1610612760,OKC,2755,Martin,K. Martin,-139,83,16,Missed,1,0.0,0.0,0,h,MISS Martin 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,130
+21200456,141,PT09M07.00S,2,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,v,Suns Rebound,Rebound,Unknown,0,131
+21200456,142,PT08M48.00S,2,1610612756,PHX,979,O'Neal,J. O'Neal,-16,-10,2,Made,1,37.0,32.0,69,v,O'Neal 2' Layup (2 PTS),Made Shot,Layup Shot,0,132
+21200456,143,PT08M33.00S,2,1610612760,OKC,2755,Martin,K. Martin,-15,-5,2,Missed,1,0.0,0.0,0,h,MISS Martin 2' Layup,Missed Shot,Layup Shot,0,133
+21200456,144,PT08M32.00S,2,1610612756,PHX,979,O'Neal,J. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal REBOUND (Off:0 Def:3),Rebound,Unknown,0,134
+21200456,145,PT08M27.00S,2,1610612756,PHX,201162,Dudley,J. Dudley,182,162,24,Missed,1,0.0,0.0,0,v,MISS Dudley 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,135
+21200456,146,PT08M25.00S,2,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0.0,0.0,0,h,Thabeet REBOUND (Off:0 Def:1),Rebound,Unknown,0,136
+21200456,147,PT08M19.00S,2,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,0.0,0.0,0,h,Jackson Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,137
+21200456,147,PT08M19.00S,2,1610612756,PHX,979,O'Neal,J. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal STEAL (1 STL),,,0,138
+21200456,148,PT08M06.00S,2,1610612756,PHX,202693,Morris,M. Morris,144,197,24,Missed,1,0.0,0.0,0,v,MISS Morris 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,139
+21200456,149,PT08M05.00S,2,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,0.0,0.0,0,h,Jackson REBOUND (Off:0 Def:2),Rebound,Unknown,0,140
+21200456,150,PT07M58.00S,2,1610612760,OKC,200757,Sefolosha,T. Sefolosha,-29,3,3,Missed,1,0.0,0.0,0,h,MISS Sefolosha 3' Driving Layup,Missed Shot,Driving Layup Shot,0,141
+21200456,150,PT07M58.00S,2,1610612756,PHX,979,O'Neal,J. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal BLOCK (1 BLK),,,0,142
+21200456,151,PT07M56.00S,2,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0.0,0.0,0,v,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,0,143
+21200456,152,PT07M52.00S,2,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0.0,0.0,0,h,Thabeet S.FOUL (P1.T1),Foul,Shooting,0,144
+21200456,153,PT07M52.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,145
+21200456,155,PT07M52.00S,2,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,0.0,0.0,0,h,SUB: Westbrook FOR Jackson,Substitution,,0,146
+21200456,156,PT07M52.00S,2,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0.0,0.0,0,h,SUB: Durant FOR Thabeet,Substitution,,0,147
+21200456,158,PT07M52.00S,2,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,37.0,33.0,70,v,Dudley Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,148
+21200456,161,PT07M52.00S,2,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0.0,0.0,0,v,SUB: Tucker FOR Morris,Substitution,,0,149
+21200456,162,PT07M52.00S,2,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,37.0,34.0,71,v,Dudley Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,150
+21200456,164,PT07M35.00S,2,1610612756,PHX,2742,Telfair,S. Telfair,0,0,0,,0,0.0,0.0,0,v,Telfair P.FOUL (P1.T2),Foul,Personal,0,151
+21200456,165,PT07M31.00S,2,1610612760,OKC,2755,Martin,K. Martin,149,206,25,Made,1,40.0,34.0,74,h,Martin 25' 3PT Jump Shot (6 PTS) (Collison 1 AST),Made Shot,Jump Shot,0,152
+21200456,166,PT07M05.00S,2,1610612756,PHX,2742,Telfair,S. Telfair,62,241,25,Made,1,40.0,37.0,77,v,Telfair 25' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,0,153
+21200456,167,PT06M48.00S,2,1610612760,OKC,200757,Sefolosha,T. Sefolosha,233,0,0,Missed,1,0.0,0.0,0,h,MISS Sefolosha  3PT Jump Shot,Missed Shot,Jump Shot,0,154
+21200456,168,PT06M47.00S,2,1610612756,PHX,2742,Telfair,S. Telfair,0,0,0,,0,0.0,0.0,0,v,Telfair REBOUND (Off:0 Def:1),Rebound,Unknown,0,155
+21200456,169,PT06M39.00S,2,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,0.0,0.0,0,v,Dudley Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,156
+21200456,169,PT06M39.00S,2,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0.0,0.0,0,h,Collison STEAL (1 STL),,,0,157
+21200456,170,PT06M33.00S,2,1610612760,OKC,200757,Sefolosha,T. Sefolosha,20,-5,2,Made,1,42.0,37.0,79,h,Sefolosha 2' Reverse Layup (7 PTS) (Westbrook 4 AST),Made Shot,Reverse Layup Shot,0,158
+21200456,171,PT06M14.00S,2,1610612756,PHX,979,O'Neal,J. O'Neal,9,3,1,Made,1,42.0,39.0,81,v,O'Neal 1' Dunk (4 PTS) (Brown 2 AST),Made Shot,Dunk Shot,0,159
+21200456,173,PT06M04.00S,2,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,v,Tucker P.FOUL (P2.T3),Foul,Personal,0,160
+21200456,174,PT06M04.00S,2,1610612760,OKC,200757,Sefolosha,T. Sefolosha,0,0,0,,0,0.0,0.0,0,h,SUB: Ibaka FOR Sefolosha,Substitution,,0,161
+21200456,175,PT05M58.00S,2,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,0.0,0.0,0,v,Dudley P.FOUL (P1.T4),Foul,Personal,0,162
+21200456,176,PT05M58.00S,2,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,THUNDER Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,163
+21200456,179,PT05M48.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,h,Westbrook Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,164
+21200456,179,PT05M48.00S,2,1610612756,PHX,200769,Brown,S. Brown,0,0,0,,0,0.0,0.0,0,v,Brown STEAL (1 STL),,,0,165
+21200456,180,PT05M38.00S,2,1610612756,PHX,979,O'Neal,J. O'Neal,10,-10,1,Made,1,42.0,41.0,83,v,O'Neal 1' Alley Oop Dunk (6 PTS) (Telfair 1 AST),Made Shot,Alley Oop Dunk Shot,0,166
+21200456,181,PT05M23.00S,2,1610612756,PHX,200769,Brown,S. Brown,0,0,0,,0,0.0,0.0,0,v,Brown S.FOUL (P1.PN),Foul,Shooting,0,167
+21200456,182,PT05M23.00S,2,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,43.0,41.0,84,h,Ibaka Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,168
+21200456,184,PT05M23.00S,2,1610612756,PHX,200769,Brown,S. Brown,0,0,0,,0,0.0,0.0,0,v,SUB: Gortat FOR Brown,Substitution,,0,169
+21200456,185,PT05M23.00S,2,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0.0,0.0,0,h,SUB: Perkins FOR Collison,Substitution,,0,170
+21200456,186,PT05M23.00S,2,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,44.0,41.0,85,h,Ibaka Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,171
+21200456,188,PT05M03.00S,2,1610612756,PHX,979,O'Neal,J. O'Neal,-111,-2,11,Made,1,44.0,43.0,87,v,O'Neal 11' Turnaround Jump Shot (8 PTS),Made Shot,Turnaround Jump Shot,0,172
+21200456,189,PT04M46.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,28,131,13,Missed,1,0.0,0.0,0,h,MISS Westbrook 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,173
+21200456,191,PT04M45.00S,2,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0.0,0.0,0,h,Perkins REBOUND (Off:2 Def:0),Rebound,Unknown,0,174
+21200456,190,PT04M45.00S,2,1610612760,OKC,2570,Perkins,K. Perkins,13,0,1,Made,1,46.0,43.0,89,h,Perkins 1' Tip Shot (4 PTS),Made Shot,Tip Shot,0,175
+21200456,192,PT04M34.00S,2,1610612756,PHX,2742,Telfair,S. Telfair,222,37,0,Made,1,46.0,46.0,92,v,Telfair  3PT Jump Shot (6 PTS),Made Shot,Jump Shot,0,176
+21200456,193,PT04M11.00S,2,1610612760,OKC,201586,Ibaka,S. Ibaka,34,107,11,Missed,1,0.0,0.0,0,h,MISS Ibaka 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,177
+21200456,194,PT04M10.00S,2,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0.0,0.0,0,h,Perkins REBOUND (Off:3 Def:0),Rebound,Unknown,0,178
+21200456,195,PT04M06.00S,2,1610612760,OKC,2755,Martin,K. Martin,177,162,24,Missed,1,0.0,0.0,0,h,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,179
+21200456,196,PT04M05.00S,2,1610612756,PHX,979,O'Neal,J. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal REBOUND (Off:0 Def:4),Rebound,Unknown,0,180
+21200456,197,PT03M43.00S,2,1610612756,PHX,101162,Gortat,M. Gortat,-84,22,9,Missed,1,0.0,0.0,0,v,MISS Gortat 9' Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,181
+21200456,198,PT03M42.00S,2,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,Ibaka REBOUND (Off:0 Def:3),Rebound,Unknown,0,182
+21200456,199,PT03M34.00S,2,1610612760,OKC,2570,Perkins,K. Perkins,-92,14,9,Missed,1,0.0,0.0,0,h,MISS Perkins 9' Jump Shot,Missed Shot,Jump Shot,0,183
+21200456,200,PT03M33.00S,2,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0.0,0.0,0,v,Gortat REBOUND (Off:0 Def:3),Rebound,Unknown,0,184
+21200456,201,PT03M16.00S,2,1610612756,PHX,979,O'Neal,J. O'Neal,26,-5,3,Missed,1,0.0,0.0,0,v,MISS O'Neal 3' Layup,Missed Shot,Layup Shot,0,185
+21200456,202,PT03M14.00S,2,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,Ibaka REBOUND (Off:0 Def:4),Rebound,Unknown,0,186
+21200456,203,PT03M08.00S,2,1610612756,PHX,979,O'Neal,J. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal S.FOUL (P3.PN),Foul,Shooting,0,187
+21200456,205,PT03M08.00S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,47.0,46.0,93,h,Durant Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,188
+21200456,207,PT03M08.00S,2,1610612756,PHX,979,O'Neal,J. O'Neal,0,0,0,,0,0.0,0.0,0,v,SUB: Scola FOR O'Neal,Substitution,,0,189
+21200456,208,PT03M08.00S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,48.0,46.0,94,h,Durant Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,190
+21200456,211,PT02M53.00S,2,1610612756,PHX,201162,Dudley,J. Dudley,0,147,15,Missed,1,0.0,0.0,0,v,MISS Dudley 15' Jump Shot,Missed Shot,Jump Shot,0,191
+21200456,209,PT02M48.00S,2,1610612756,PHX,2742,Telfair,S. Telfair,0,0,0,,0,0.0,0.0,0,v,Telfair REBOUND (Off:1 Def:1),Rebound,Unknown,0,192
+21200456,210,PT02M45.00S,2,1610612756,PHX,101162,Gortat,M. Gortat,12,-6,1,Made,1,48.0,48.0,96,v,Gortat 1' Layup (8 PTS) (Telfair 2 AST),Made Shot,Layup Shot,0,193
+21200456,213,PT02M29.00S,2,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,v,Suns Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,194
+21200456,216,PT02M29.00S,2,1610612760,OKC,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,SUB: Sefolosha FOR Martin,Substitution,,0,195
+21200456,217,PT02M25.00S,2,1610612760,OKC,201142,Durant,K. Durant,91,137,16,Made,1,50.0,48.0,98,h,Durant 16' Jump Shot (8 PTS) (Ibaka 1 AST),Made Shot,Jump Shot,0,196
+21200456,218,PT02M07.00S,2,1610612756,PHX,101162,Gortat,M. Gortat,-5,4,1,Missed,1,0.0,0.0,0,v,MISS Gortat 1' Driving Dunk,Missed Shot,Driving Dunk Shot,0,197
+21200456,219,PT02M05.00S,2,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,v,Tucker REBOUND (Off:1 Def:2),Rebound,Unknown,0,198
+21200456,220,PT01M52.00S,2,1610612756,PHX,2449,Scola,L. Scola,24,-6,2,Made,1,50.0,50.0,100,v,Scola 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,199
+21200456,221,PT01M31.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,-43,9,4,Missed,1,0.0,0.0,0,h,MISS Westbrook 4' Jump Bank Shot,Missed Shot,Jump Bank Shot,0,200
+21200456,222,PT01M30.00S,2,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0.0,0.0,0,v,Gortat REBOUND (Off:0 Def:4),Rebound,Unknown,0,201
+21200456,223,PT01M20.00S,2,1610612756,PHX,2742,Telfair,S. Telfair,-183,159,24,Missed,1,0.0,0.0,0,v,MISS Telfair 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,202
+21200456,224,PT01M18.00S,2,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,Ibaka REBOUND (Off:0 Def:5),Rebound,Unknown,0,203
+21200456,225,PT01M13.00S,2,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,THUNDER Timeout: Short (Full 2 Short 1),Timeout,Short,0,204
+21200456,226,PT01M13.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,h,SUB: Jackson FOR Westbrook,Substitution,,0,205
+21200456,227,PT01M02.00S,2,1610612760,OKC,201142,Durant,K. Durant,-37,34,5,Missed,1,0.0,0.0,0,h,MISS Durant 5' Running Jump Shot,Missed Shot,Running Jump Shot,0,206
+21200456,228,PT01M01.00S,2,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,v,Tucker REBOUND (Off:1 Def:3),Rebound,Unknown,0,207
+21200456,229,PT00M35.90S,2,1610612756,PHX,200782,Tucker,P. Tucker,77,258,27,Missed,1,0.0,0.0,0,v,MISS Tucker 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,208
+21200456,230,PT00M32.90S,2,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,0.0,0.0,0,h,Jackson REBOUND (Off:0 Def:3),Rebound,Unknown,0,209
+21200456,231,PT00M27.40S,2,1610612760,OKC,201142,Durant,K. Durant,17,0,2,Made,1,52.0,50.0,102,h,Durant 2' Layup (10 PTS) (Jackson 2 AST),Made Shot,Layup Shot,0,210
+21200456,232,PT00M12.90S,2,1610612756,PHX,2449,Scola,L. Scola,-164,7,16,Missed,1,0.0,0.0,0,v,MISS Scola 16' Jump Shot,Missed Shot,Jump Shot,0,211
+21200456,233,PT00M11.40S,2,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,0.0,0.0,0,v,Dudley REBOUND (Off:2 Def:3),Rebound,Unknown,0,212
+21200456,234,PT00M06.00S,2,1610612756,PHX,2742,Telfair,S. Telfair,-71,228,24,Made,1,52.0,53.0,105,v,Telfair 24' 3PT Jump Shot (9 PTS),Made Shot,Jump Shot,0,213
+21200456,235,PT00M01.60S,2,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,v,Tucker Personal Block Foul (P3.PN),Foul,Personal Block,0,214
+21200456,236,PT00M01.60S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,53.0,53.0,106,h,Durant Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,215
+21200456,239,PT00M01.60S,2,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,v,Suns Timeout: Short (Reg.2 Short 1),Timeout,Short,0,216
+21200456,241,PT00M01.60S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,54.0,53.0,107,h,Durant Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,217
+21200456,242,PT00M00.00S,2,0,,0,,,0,0,0,,0,54.0,53.0,107,,End of 2nd Period (9:07 PM EST),period,end,0,218
+21200456,244,PT12M00.00S,3,0,,0,,,0,0,0,,0,54.0,53.0,107,,Start of 3rd Period (9:23 PM EST),period,start,0,219
+21200456,245,PT11M34.00S,3,1610612756,PHX,101162,Gortat,M. Gortat,159,77,18,Missed,1,0.0,0.0,0,v,MISS Gortat 18' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,220
+21200456,246,PT11M32.00S,3,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,0.0,0.0,0,h,Jackson REBOUND (Off:0 Def:4),Rebound,Unknown,0,221
+21200456,247,PT11M17.00S,3,1610612760,OKC,201142,Durant,K. Durant,-26,124,13,Made,1,56.0,53.0,109,h,Durant 13' Jump Shot (14 PTS),Made Shot,Jump Shot,0,222
+21200456,248,PT10M59.00S,3,1610612756,PHX,201609,Dragic,G. Dragic,-226,6,0,Missed,1,0.0,0.0,0,v,MISS Dragic  3PT Jump Shot,Missed Shot,Jump Shot,0,223
+21200456,249,PT10M58.00S,3,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0.0,0.0,0,h,Perkins REBOUND (Off:3 Def:1),Rebound,Unknown,0,224
+21200456,250,PT10M43.00S,3,1610612760,OKC,202704,Jackson,R. Jackson,0,4,0,Made,1,58.0,53.0,111,h,Jackson  Layup (4 PTS) (Perkins 1 AST),Made Shot,Layup Shot,0,225
+21200456,251,PT10M24.00S,3,1610612756,PHX,101162,Gortat,M. Gortat,102,131,17,Missed,1,0.0,0.0,0,v,MISS Gortat 17' Jump Shot,Missed Shot,Jump Shot,0,226
+21200456,252,PT10M23.00S,3,1610612760,OKC,200757,Sefolosha,T. Sefolosha,0,0,0,,0,0.0,0.0,0,h,Sefolosha REBOUND (Off:0 Def:2),Rebound,Unknown,0,227
+21200456,253,PT10M14.00S,3,1610612760,OKC,200757,Sefolosha,T. Sefolosha,-15,-2,2,Made,1,60.0,53.0,113,h,Sefolosha 2' Reverse Layup (9 PTS) (Durant 2 AST),Made Shot,Reverse Layup Shot,0,228
+21200456,254,PT10M05.00S,3,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,v,Suns Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,229
+21200456,255,PT09M56.00S,3,1610612756,PHX,2449,Scola,L. Scola,40,192,20,Missed,1,0.0,0.0,0,v,MISS Scola 20' Jump Shot,Missed Shot,Jump Shot,0,230
+21200456,255,PT09M56.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,Ibaka BLOCK (2 BLK),,,0,231
+21200456,256,PT09M55.00S,3,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,h,Durant REBOUND (Off:0 Def:2),Rebound,Unknown,0,232
+21200456,257,PT09M44.00S,3,1610612760,OKC,200757,Sefolosha,T. Sefolosha,0,0,0,,0,0.0,0.0,0,h,Sefolosha Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,233
+21200456,257,PT09M44.00S,3,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,0.0,0.0,0,v,Dudley STEAL (1 STL),,,0,234
+21200456,258,PT09M42.00S,3,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,0.0,0.0,0,v,Dudley Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,235
+21200456,260,PT09M19.00S,3,1610612760,OKC,201142,Durant,K. Durant,-7,-5,1,Made,1,62.0,53.0,115,h,Durant 1' Driving Dunk (16 PTS),Made Shot,Driving Dunk Shot,0,236
+21200456,261,PT08M58.00S,3,1610612756,PHX,201162,Dudley,J. Dudley,-224,7,0,Missed,1,0.0,0.0,0,v,MISS Dudley  3PT Jump Shot,Missed Shot,Jump Shot,0,237
+21200456,262,PT08M57.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,Ibaka REBOUND (Off:0 Def:6),Rebound,Unknown,0,238
+21200456,263,PT08M34.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,51,42,7,Made,1,64.0,53.0,117,h,Ibaka 7' Jump Shot (12 PTS) (Jackson 3 AST),Made Shot,Jump Shot,0,239
+21200456,264,PT08M27.00S,3,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,v,Dragic Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,240
+21200456,264,PT08M27.00S,3,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,0.0,0.0,0,h,Jackson STEAL (1 STL),,,0,241
+21200456,265,PT08M23.00S,3,1610612760,OKC,200757,Sefolosha,T. Sefolosha,9,6,1,Made,1,66.0,53.0,119,h,Sefolosha 1' Dunk (11 PTS) (Jackson 4 AST),Made Shot,Dunk Shot,0,242
+21200456,266,PT08M22.00S,3,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,v,Suns Timeout: Short (Reg.3 Short 2),Timeout,Short,0,243
+21200456,268,PT08M04.00S,3,1610612756,PHX,200782,Tucker,P. Tucker,45,52,7,Made,1,66.0,55.0,121,v,Tucker 7' Running Jump Shot (7 PTS),Made Shot,Running Jump Shot,0,244
+21200456,269,PT07M44.00S,3,1610612760,OKC,201142,Durant,K. Durant,-147,201,25,Missed,1,0.0,0.0,0,h,MISS Durant 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,245
+21200456,270,PT07M42.00S,3,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0.0,0.0,0,v,Gortat REBOUND (Off:0 Def:5),Rebound,Unknown,0,246
+21200456,271,PT07M33.00S,3,1610612756,PHX,2449,Scola,L. Scola,-56,162,17,Made,1,66.0,57.0,123,v,Scola 17' Jump Shot (8 PTS) (Dragic 6 AST),Made Shot,Jump Shot,0,247
+21200456,272,PT07M14.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,21,195,20,Missed,1,0.0,0.0,0,h,MISS Ibaka 20' Jump Shot,Missed Shot,Jump Shot,0,248
+21200456,273,PT07M13.00S,3,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0.0,0.0,0,v,Gortat REBOUND (Off:0 Def:6),Rebound,Unknown,0,249
+21200456,274,PT07M09.00S,3,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,0.0,0.0,0,h,Jackson P.FOUL (P1.T1),Foul,Personal,0,250
+21200456,275,PT06M55.00S,3,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,v,Dragic Bad Pass Turnover (P3.T9),Turnover,Bad Pass,0,251
+21200456,277,PT06M39.00S,3,1610612760,OKC,201142,Durant,K. Durant,80,146,17,Made,1,68.0,57.0,125,h,Durant 17' Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,0,252
+21200456,278,PT06M24.00S,3,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,h,Durant S.FOUL (P2.T2),Foul,Shooting,0,253
+21200456,279,PT06M24.00S,3,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,68.0,58.0,126,v,Gortat Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,254
+21200456,281,PT06M24.00S,3,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,0.0,0.0,0,h,SUB: Westbrook FOR Jackson,Substitution,,0,255
+21200456,282,PT06M24.00S,3,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,68.0,59.0,127,v,Gortat Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,256
+21200456,284,PT06M09.00S,3,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0.0,0.0,0,v,Scola S.FOUL (P3.T1),Foul,Shooting,0,257
+21200456,285,PT06M09.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,69.0,59.0,128,h,Westbrook Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,258
+21200456,287,PT06M09.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,70.0,59.0,129,h,Westbrook Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,259
+21200456,289,PT05M45.00S,3,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,v,Suns Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,0,260
+21200456,290,PT05M31.00S,3,1610612760,OKC,201142,Durant,K. Durant,0,-3,0,Made,1,72.0,59.0,131,h,Durant  Driving Slam Dunk (20 PTS),Made Shot,Driving Slam Dunk Shot,0,261
+21200456,291,PT05M16.00S,3,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,v,Dragic Bad Pass Turnover (P4.T11),Turnover,Bad Pass,0,262
+21200456,291,PT05M16.00S,3,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,h,Durant STEAL (2 STL),,,0,263
+21200456,292,PT05M09.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,13,0,1,Missed,1,0.0,0.0,0,h,MISS Ibaka 1' Layup,Missed Shot,Layup Shot,0,264
+21200456,293,PT05M07.00S,3,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0.0,0.0,0,v,Scola REBOUND (Off:0 Def:2),Rebound,Unknown,0,265
+21200456,294,PT05M02.00S,3,1610612756,PHX,201609,Dragic,G. Dragic,-10,1,1,Missed,1,0.0,0.0,0,v,MISS Dragic 1' Layup,Missed Shot,Layup Shot,0,266
+21200456,295,PT05M00.00S,3,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0.0,0.0,0,v,Scola REBOUND (Off:1 Def:2),Rebound,Unknown,0,267
+21200456,296,PT04M59.00S,3,1610612756,PHX,2449,Scola,L. Scola,17,0,2,Missed,1,0.0,0.0,0,v,MISS Scola 2' Layup,Missed Shot,Layup Shot,0,268
+21200456,296,PT04M59.00S,3,1610612760,OKC,200757,Sefolosha,T. Sefolosha,0,0,0,,0,0.0,0.0,0,h,Sefolosha BLOCK (1 BLK),,,0,269
+21200456,297,PT04M58.00S,3,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0.0,0.0,0,v,Scola REBOUND (Off:2 Def:2),Rebound,Unknown,0,270
+21200456,298,PT04M56.00S,3,1610612756,PHX,2449,Scola,L. Scola,34,9,4,Made,1,72.0,61.0,133,v,Scola 4' Turnaround Jump Shot (10 PTS),Made Shot,Turnaround Jump Shot,0,271
+21200456,299,PT04M36.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,-123,151,19,Made,1,74.0,61.0,135,h,Westbrook 19' Jump Shot (11 PTS),Made Shot,Jump Shot,0,272
+21200456,301,PT04M21.00S,3,1610612756,PHX,201162,Dudley,J. Dudley,-114,123,17,Made,1,74.0,63.0,137,v,Dudley 17' Jump Shot (7 PTS),Made Shot,Jump Shot,0,273
+21200456,302,PT04M08.00S,3,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,v,Dragic S.FOUL (P1.T2),Foul,Shooting,0,274
+21200456,304,PT04M08.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,75.0,63.0,138,h,Westbrook Free Throw 1 of 3 (12 PTS),Free Throw,Free Throw 1 of 3,0,275
+21200456,308,PT04M08.00S,3,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,0.0,0.0,0,v,SUB: Brown FOR Dudley,Substitution,,0,276
+21200456,310,PT04M08.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,76.0,63.0,139,h,Westbrook Free Throw 2 of 3 (13 PTS),Free Throw,Free Throw 2 of 3,0,277
+21200456,312,PT04M08.00S,3,1610612760,OKC,200757,Sefolosha,T. Sefolosha,0,0,0,,0,0.0,0.0,0,h,SUB: Martin FOR Sefolosha,Substitution,,0,278
+21200456,313,PT04M08.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,77.0,63.0,140,h,Westbrook Free Throw 3 of 3 (14 PTS),Free Throw,Free Throw 3 of 3,0,279
+21200456,315,PT03M56.00S,3,1610612756,PHX,2449,Scola,L. Scola,13,6,1,Made,1,77.0,65.0,142,v,Scola 1' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,0,280
+21200456,316,PT03M56.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,Ibaka S.FOUL (P1.T3),Foul,Shooting,0,281
+21200456,317,PT03M56.00S,3,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,77.0,66.0,143,v,Scola Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,282
+21200456,319,PT03M44.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,83,0,8,Made,1,79.0,66.0,145,h,Ibaka 8' Jump Shot (14 PTS) (Westbrook 5 AST),Made Shot,Jump Shot,0,283
+21200456,320,PT03M17.00S,3,1610612756,PHX,101162,Gortat,M. Gortat,-147,-3,15,Made,1,79.0,68.0,147,v,Gortat 15' Jump Shot (12 PTS) (Scola 1 AST),Made Shot,Jump Shot,0,284
+21200456,322,PT03M00.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,SUB: Collison FOR Ibaka,Substitution,,0,285
+21200456,323,PT02M53.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,81,231,24,Made,1,82.0,68.0,150,h,Westbrook 24' 3PT Jump Shot (17 PTS),Made Shot,Jump Shot,0,286
+21200456,324,PT02M38.00S,3,1610612756,PHX,2449,Scola,L. Scola,9,25,3,Made,1,82.0,70.0,152,v,Scola 3' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,0,287
+21200456,325,PT02M21.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,-54,101,11,Missed,1,0.0,0.0,0,h,MISS Westbrook 11' Jump Shot,Missed Shot,Jump Shot,0,288
+21200456,326,PT02M21.00S,3,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0.0,0.0,0,h,Perkins REBOUND (Off:4 Def:1),Rebound,Unknown,0,289
+21200456,327,PT02M19.00S,3,1610612760,OKC,2555,Collison,N. Collison,-10,1,1,Missed,1,0.0,0.0,0,h,MISS Collison 1' Dunk,Missed Shot,Dunk Shot,0,290
+21200456,328,PT02M17.00S,3,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0.0,0.0,0,h,Collison REBOUND (Off:2 Def:3),Rebound,Unknown,0,291
+21200456,329,PT02M10.00S,3,1610612760,OKC,201142,Durant,K. Durant,18,143,14,Missed,1,0.0,0.0,0,h,MISS Durant 14' Jump Shot,Missed Shot,Jump Shot,0,292
+21200456,330,PT02M09.00S,3,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,v,Dragic REBOUND (Off:0 Def:2),Rebound,Unknown,0,293
+21200456,331,PT02M00.00S,3,1610612756,PHX,201609,Dragic,G. Dragic,-231,55,24,Made,1,82.0,73.0,155,v,Dragic 24' 3PT Jump Shot (11 PTS) (Brown 3 AST),Made Shot,Jump Shot,0,294
+21200456,332,PT02M00.00S,3,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,THUNDER Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,295
+21200456,336,PT01M50.00S,3,1610612760,OKC,201142,Durant,K. Durant,48,239,24,Missed,1,0.0,0.0,0,h,MISS Durant 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,296
+21200456,337,PT01M49.00S,3,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0.0,0.0,0,v,Scola REBOUND (Off:2 Def:3),Rebound,Unknown,0,297
+21200456,338,PT01M32.00S,3,1610612756,PHX,2449,Scola,L. Scola,136,72,15,Missed,1,0.0,0.0,0,v,MISS Scola 15' Jump Shot,Missed Shot,Jump Shot,0,298
+21200456,339,PT01M31.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,h,Westbrook REBOUND (Off:2 Def:1),Rebound,Unknown,0,299
+21200456,340,PT01M21.00S,3,1610612760,OKC,2755,Martin,K. Martin,-10,71,7,Missed,1,0.0,0.0,0,h,MISS Martin 7' Running Jump Shot,Missed Shot,Running Jump Shot,0,300
+21200456,341,PT01M19.00S,3,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,v,Dragic REBOUND (Off:0 Def:3),Rebound,Unknown,0,301
+21200456,342,PT01M09.00S,3,1610612756,PHX,200769,Brown,S. Brown,-138,205,25,Missed,1,0.0,0.0,0,v,MISS Brown 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,302
+21200456,343,PT01M08.00S,3,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0.0,0.0,0,v,Gortat REBOUND (Off:1 Def:6),Rebound,Unknown,0,303
+21200456,344,PT01M00.00S,3,1610612756,PHX,2449,Scola,L. Scola,24,77,8,Made,1,82.0,75.0,157,v,Scola 8' Jump Shot (17 PTS) (Dragic 7 AST),Made Shot,Jump Shot,0,304
+21200456,345,PT00M46.90S,3,1610612760,OKC,201142,Durant,K. Durant,21,78,8,Missed,1,0.0,0.0,0,h,MISS Durant 8' Jump Shot,Missed Shot,Jump Shot,0,305
+21200456,346,PT00M45.70S,3,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,v,Tucker REBOUND (Off:1 Def:4),Rebound,Unknown,0,306
+21200456,347,PT00M42.10S,3,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0.0,0.0,0,h,Collison S.FOUL (P1.T4),Foul,Shooting,0,307
+21200456,348,PT00M42.10S,3,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,82.0,76.0,158,v,Scola Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,308
+21200456,349,PT00M42.10S,3,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0.0,0.0,0,h,SUB: Thabeet FOR Perkins,Substitution,,0,309
+21200456,350,PT00M42.10S,3,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,h,SUB: Sefolosha FOR Durant,Substitution,,0,310
+21200456,351,PT00M42.10S,3,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,82.0,77.0,159,v,Scola Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,311
+21200456,353,PT00M32.40S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,-32,75,8,Made,1,84.0,77.0,161,h,Westbrook 8' Pullup Jump Shot (19 PTS),Made Shot,Pullup Jump shot,0,312
+21200456,354,PT00M16.80S,3,1610612756,PHX,200769,Brown,S. Brown,0,6,1,Missed,1,0.0,0.0,0,v,MISS Brown 1' Layup,Missed Shot,Layup Shot,0,313
+21200456,354,PT00M16.80S,3,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0.0,0.0,0,h,Thabeet BLOCK (2 BLK),,,0,314
+21200456,355,PT00M14.90S,3,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0.0,0.0,0,v,Gortat REBOUND (Off:2 Def:6),Rebound,Unknown,0,315
+21200456,356,PT00M13.50S,3,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0.0,0.0,0,h,Thabeet S.FOUL (P2.PN),Foul,Shooting,0,316
+21200456,357,PT00M13.50S,3,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0.0,0.0,0,v,MISS Scola Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,317
+21200456,358,PT00M13.50S,3,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,v,Suns Rebound,Rebound,Normal Rebound,0,318
+21200456,359,PT00M13.50S,3,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,v,SUB: Dudley FOR Tucker,Substitution,,0,319
+21200456,360,PT00M13.50S,3,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,v,SUB: Telfair FOR Dragic,Substitution,,0,320
+21200456,361,PT00M13.50S,3,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,84.0,78.0,162,v,Scola Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,321
+21200456,363,PT00M02.90S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,-32,247,25,Missed,1,0.0,0.0,0,h,MISS Westbrook 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,322
+21200456,364,PT00M00.90S,3,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0.0,0.0,0,v,Gortat REBOUND (Off:2 Def:7),Rebound,Unknown,0,323
+21200456,365,PT00M00.00S,3,0,,0,,,0,0,0,,0,84.0,78.0,162,,End of 3rd Period (9:48 PM EST),period,end,0,324
+21200456,367,PT12M00.00S,4,0,,0,,,0,0,0,,0,84.0,78.0,162,,Start of 4th Period (9:50 PM EST),period,start,0,325
+21200456,368,PT11M42.00S,4,1610612760,OKC,2755,Martin,K. Martin,13,252,25,Missed,1,0.0,0.0,0,h,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,326
+21200456,369,PT11M40.00S,4,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,0.0,0.0,0,v,Dudley REBOUND (Off:2 Def:4),Rebound,Unknown,0,327
+21200456,370,PT11M22.00S,4,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,0.0,0.0,0,v,Dudley Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,328
+21200456,370,PT11M22.00S,4,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0.0,0.0,0,h,Thabeet STEAL (1 STL),,,0,329
+21200456,371,PT11M14.00S,4,1610612760,OKC,2755,Martin,K. Martin,-198,137,24,Missed,1,0.0,0.0,0,h,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,330
+21200456,372,PT11M13.00S,4,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0.0,0.0,0,h,Thabeet REBOUND (Off:1 Def:1),Rebound,Unknown,0,331
+21200456,373,PT11M08.00S,4,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0.0,0.0,0,v,Morris S.FOUL (P1.T1),Foul,Shooting,0,332
+21200456,374,PT11M08.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,85.0,78.0,163,h,Westbrook Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,333
+21200456,377,PT11M08.00S,4,1610612756,PHX,2742,Telfair,S. Telfair,0,0,0,,0,0.0,0.0,0,v,SUB: Dragic FOR Telfair,Substitution,,0,334
+21200456,378,PT11M08.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,h,MISS Westbrook Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,335
+21200456,380,PT11M05.00S,4,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0.0,0.0,0,h,Thabeet REBOUND (Off:2 Def:1),Rebound,Unknown,0,336
+21200456,381,PT11M05.00S,4,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0.0,0.0,0,h,Thabeet Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,0,337
+21200456,400,PT11M05.00S,4,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,v,SUB: Telfair FOR Dragic,Substitution,,0,338
+21200456,384,PT10M44.00S,4,1610612756,PHX,979,O'Neal,J. O'Neal,20,47,5,Missed,1,0.0,0.0,0,v,MISS O'Neal 5' Running Jump Shot,Missed Shot,Running Jump Shot,0,339
+21200456,385,PT10M43.00S,4,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0.0,0.0,0,h,Collison REBOUND (Off:2 Def:4),Rebound,Unknown,0,340
+21200456,386,PT10M35.00S,4,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0.0,0.0,0,h,Collison Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,341
+21200456,387,PT10M21.00S,4,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0.0,0.0,0,h,Collison S.FOUL (P2.T1),Foul,Shooting,0,342
+21200456,388,PT10M21.00S,4,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,85.0,79.0,164,v,Morris Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,343
+21200456,390,PT10M21.00S,4,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,85.0,80.0,165,v,Morris Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,344
+21200456,393,PT10M03.00S,4,1610612760,OKC,200757,Sefolosha,T. Sefolosha,215,7,22,Missed,1,0.0,0.0,0,h,MISS Sefolosha 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,345
+21200456,394,PT10M02.00S,4,1610612756,PHX,979,O'Neal,J. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal REBOUND (Off:0 Def:5),Rebound,Unknown,0,346
+21200456,395,PT09M51.00S,4,1610612756,PHX,202693,Morris,M. Morris,116,211,24,Made,1,85.0,83.0,168,v,Morris 24' 3PT Jump Shot (9 PTS) (Telfair 3 AST),Made Shot,Jump Shot,0,347
+21200456,396,PT09M39.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,129,131,18,Missed,1,0.0,0.0,0,h,MISS Westbrook 18' Jump Shot,Missed Shot,Jump Shot,0,348
+21200456,397,PT09M38.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,h,Westbrook REBOUND (Off:3 Def:1),Rebound,Unknown,0,349
+21200456,398,PT09M37.00S,4,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0.0,0.0,0,v,Morris Violation:Kicked Ball,Violation,Kicked Ball,0,350
+21200456,399,PT09M37.00S,4,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0.0,0.0,0,h,SUB: Durant FOR Thabeet,Substitution,,0,351
+21200456,401,PT09M31.00S,4,1610612760,OKC,2755,Martin,K. Martin,42,14,4,Missed,1,0.0,0.0,0,h,MISS Martin 4' Running Jump Shot,Missed Shot,Running Jump Shot,0,352
+21200456,402,PT09M30.00S,4,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0.0,0.0,0,h,Collison REBOUND (Off:3 Def:4),Rebound,Unknown,0,353
+21200456,403,PT09M29.00S,4,1610612760,OKC,2555,Collison,N. Collison,9,-2,1,Made,1,87.0,83.0,170,h,Collison 1' Layup (8 PTS),Made Shot,Layup Shot,0,354
+21200456,404,PT09M04.00S,4,1610612756,PHX,979,O'Neal,J. O'Neal,-26,0,3,Made,1,87.0,85.0,172,v,O'Neal 3' Layup (10 PTS) (Brown 4 AST),Made Shot,Layup Shot,0,355
+21200456,405,PT08M47.00S,4,1610612760,OKC,2555,Collison,N. Collison,-155,1,16,Made,1,89.0,85.0,174,h,Collison 16' Jump Shot (10 PTS) (Westbrook 6 AST),Made Shot,Jump Shot,0,356
+21200456,409,PT08M28.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,357
+21200456,411,PT08M28.00S,4,1610612756,PHX,200769,Brown,S. Brown,0,0,0,,0,0.0,0.0,0,v,SUB: Tucker FOR Brown,Substitution,,0,358
+21200456,413,PT08M26.00S,4,1610612756,PHX,202693,Morris,M. Morris,34,241,24,Missed,1,0.0,0.0,0,v,MISS Morris 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,359
+21200456,414,PT08M25.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,h,Westbrook REBOUND (Off:3 Def:2),Rebound,Unknown,0,360
+21200456,415,PT08M12.00S,4,1610612760,OKC,201142,Durant,K. Durant,-158,52,17,Missed,1,0.0,0.0,0,h,MISS Durant 17' Jump Shot,Missed Shot,Jump Shot,0,361
+21200456,416,PT08M12.00S,4,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,v,Tucker REBOUND (Off:1 Def:5),Rebound,Unknown,0,362
+21200456,417,PT07M57.00S,4,1610612756,PHX,202693,Morris,M. Morris,47,20,5,Missed,1,0.0,0.0,0,v,MISS Morris 5' Jump Shot,Missed Shot,Jump Shot,0,363
+21200456,417,PT07M57.00S,4,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,h,Durant BLOCK (1 BLK),,,0,364
+21200456,418,PT07M56.00S,4,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0.0,0.0,0,h,Collison REBOUND (Off:3 Def:5),Rebound,Unknown,0,365
+21200456,419,PT07M46.00S,4,1610612760,OKC,201142,Durant,K. Durant,-5,257,26,Missed,1,0.0,0.0,0,h,MISS Durant 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,366
+21200456,420,PT07M44.00S,4,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0.0,0.0,0,h,Collison REBOUND (Off:4 Def:5),Rebound,Unknown,0,367
+21200456,422,PT07M30.00S,4,1610612760,OKC,200757,Sefolosha,T. Sefolosha,-123,209,24,Made,1,92.0,85.0,177,h,Sefolosha 24' 3PT Jump Shot (14 PTS) (Collison 2 AST),Made Shot,Jump Shot,0,368
+21200456,423,PT07M05.00S,4,1610612756,PHX,979,O'Neal,J. O'Neal,29,37,5,Made,1,92.0,87.0,179,v,O'Neal 5' Turnaround Jump Shot (12 PTS),Made Shot,Turnaround Jump Shot,0,369
+21200456,424,PT06M45.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,1,19,2,Made,1,94.0,87.0,181,h,Westbrook 2' Driving Finger Roll Layup (22 PTS),Made Shot,Driving Finger Roll Layup Shot,0,370
+21200456,425,PT06M20.00S,4,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0.0,0.0,0,v,Morris Offensive Charge Foul (P2.T2),Foul,Offensive Charge,0,371
+21200456,426,PT06M20.00S,4,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0.0,0.0,0,v,Morris Foul Turnover (P1.T13),Turnover,Foul,0,372
+21200456,427,PT06M20.00S,4,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0.0,0.0,0,h,SUB: Ibaka FOR Collison,Substitution,,0,373
+21200456,428,PT06M09.00S,4,1610612756,PHX,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,v,Tucker S.FOUL (P4.T3),Foul,Shooting,0,374
+21200456,429,PT06M09.00S,4,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,95.0,87.0,182,h,Durant Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,375
+21200456,431,PT06M09.00S,4,1610612756,PHX,202693,Morris,M. Morris,0,0,0,,0,0.0,0.0,0,v,SUB: Scola FOR Morris,Substitution,,0,376
+21200456,433,PT06M09.00S,4,1610612756,PHX,2742,Telfair,S. Telfair,0,0,0,,0,0.0,0.0,0,v,SUB: Dragic FOR Telfair,Substitution,,0,377
+21200456,434,PT06M09.00S,4,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,96.0,87.0,183,h,Durant Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,378
+21200456,436,PT05M54.00S,4,1610612760,OKC,200757,Sefolosha,T. Sefolosha,0,0,0,,0,0.0,0.0,0,h,Sefolosha P.FOUL (P1.T2),Foul,Personal,0,379
+21200456,437,PT05M54.00S,4,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,THUNDER Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,380
+21200456,439,PT05M54.00S,4,1610612760,OKC,200757,Sefolosha,T. Sefolosha,0,0,0,,0,0.0,0.0,0,h,SUB: Perkins FOR Sefolosha,Substitution,,0,381
+21200456,440,PT05M44.00S,4,1610612756,PHX,979,O'Neal,J. O'Neal,80,91,12,Missed,1,0.0,0.0,0,v,MISS O'Neal 12' Jump Shot,Missed Shot,Jump Shot,0,382
+21200456,440,PT05M44.00S,4,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0.0,0.0,0,h,Perkins BLOCK (1 BLK),,,0,383
+21200456,441,PT05M43.00S,4,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,0.0,0.0,0,v,Dudley REBOUND (Off:3 Def:4),Rebound,Unknown,0,384
+21200456,442,PT05M39.00S,4,1610612756,PHX,201162,Dudley,J. Dudley,40,252,26,Missed,1,0.0,0.0,0,v,MISS Dudley 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,385
+21200456,443,PT05M38.00S,4,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,v,Suns Rebound,Rebound,Unknown,0,386
+21200456,444,PT05M21.00S,4,1610612756,PHX,2449,Scola,L. Scola,45,148,15,Made,1,96.0,89.0,185,v,Scola 15' Jump Shot (22 PTS) (Dudley 2 AST),Made Shot,Jump Shot,0,387
+21200456,445,PT05M06.00S,4,1610612760,OKC,201142,Durant,K. Durant,18,82,8,Made,1,98.0,89.0,187,h,Durant 8' Jump Shot (24 PTS) (Westbrook 7 AST),Made Shot,Jump Shot,0,388
+21200456,446,PT05M05.00S,4,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,v,Suns Timeout: Regular (Reg.4 Short 2),Timeout,Regular,0,389
+21200456,449,PT04M55.00S,4,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0.0,0.0,0,v,Scola Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,390
+21200456,449,PT04M55.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,h,Westbrook STEAL (1 STL),,,0,391
+21200456,450,PT04M51.00S,4,1610612760,OKC,201586,Ibaka,S. Ibaka,4,-2,0,Made,1,100.0,89.0,189,h,Ibaka  Dunk (16 PTS) (Westbrook 8 AST),Made Shot,Dunk Shot,0,392
+21200456,451,PT04M32.00S,4,1610612756,PHX,201609,Dragic,G. Dragic,122,127,18,Missed,1,0.0,0.0,0,v,MISS Dragic 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,393
+21200456,452,PT04M32.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,h,Westbrook REBOUND (Off:3 Def:3),Rebound,Unknown,0,394
+21200456,453,PT04M15.00S,4,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,v,Dragic P.FOUL (P2.T4),Foul,Personal,0,395
+21200456,455,PT04M08.00S,4,1610612760,OKC,201142,Durant,K. Durant,165,0,17,Made,1,102.0,89.0,191,h,Durant 17' Jump Shot (26 PTS) (Martin 2 AST),Made Shot,Jump Shot,0,396
+21200456,456,PT03M53.00S,4,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,v,Dragic Bad Pass Turnover (P5.T15),Turnover,Bad Pass,0,397
+21200456,457,PT03M53.00S,4,1610612756,PHX,979,O'Neal,J. O'Neal,0,0,0,,0,0.0,0.0,0,v,SUB: Gortat FOR O'Neal,Substitution,,0,398
+21200456,458,PT03M41.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,18,151,15,Missed,1,0.0,0.0,0,h,MISS Westbrook 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,399
+21200456,459,PT03M40.00S,4,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0.0,0.0,0,v,Scola REBOUND (Off:2 Def:4),Rebound,Unknown,0,400
+21200456,460,PT03M21.00S,4,1610612756,PHX,200782,Tucker,P. Tucker,-75,230,24,Missed,1,0.0,0.0,0,v,MISS Tucker 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,401
+21200456,461,PT03M20.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,h,Westbrook REBOUND (Off:3 Def:4),Rebound,Unknown,0,402
+21200456,462,PT03M08.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,2,61,6,Made,1,104.0,89.0,193,h,Westbrook 6' Turnaround Jump Shot (24 PTS),Made Shot,Turnaround Jump Shot,0,403
+21200456,463,PT03M00.00S,4,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0.0,0.0,0,h,Perkins P.FOUL (P2.T3),Foul,Personal,0,404
+21200456,464,PT03M00.00S,4,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,Ibaka P.FOUL (P2.T4),Foul,Personal,0,405
+21200456,465,PT02M54.00S,4,1610612756,PHX,201162,Dudley,J. Dudley,143,83,17,Missed,1,0.0,0.0,0,v,MISS Dudley 17' Jump Shot,Missed Shot,Jump Shot,0,406
+21200456,466,PT02M53.00S,4,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,h,Durant REBOUND (Off:0 Def:3),Rebound,Unknown,0,407
+21200456,467,PT02M45.00S,4,1610612760,OKC,2755,Martin,K. Martin,-161,178,24,Missed,1,0.0,0.0,0,h,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,408
+21200456,468,PT02M44.00S,4,1610612756,PHX,201162,Dudley,J. Dudley,0,0,0,,0,0.0,0.0,0,v,Dudley REBOUND (Off:3 Def:5),Rebound,Unknown,0,409
+21200456,469,PT02M36.00S,4,1610612756,PHX,2449,Scola,L. Scola,165,0,17,Made,1,104.0,91.0,195,v,Scola 17' Jump Shot (24 PTS) (Dragic 8 AST),Made Shot,Jump Shot,0,410
+21200456,470,PT02M18.00S,4,1610612760,OKC,201142,Durant,K. Durant,157,61,17,Made,1,106.0,91.0,197,h,Durant 17' Jump Shot (28 PTS) (Westbrook 9 AST),Made Shot,Jump Shot,0,411
+21200456,471,PT02M03.00S,4,1610612756,PHX,2449,Scola,L. Scola,-226,12,0,Missed,1,0.0,0.0,0,v,MISS Scola  3PT Jump Shot,Missed Shot,Jump Shot,0,412
+21200456,472,PT02M02.00S,4,1610612756,PHX,101162,Gortat,M. Gortat,0,0,0,,0,0.0,0.0,0,v,Gortat REBOUND (Off:3 Def:7),Rebound,Unknown,0,413
+21200456,473,PT02M00.00S,4,1610612756,PHX,101162,Gortat,M. Gortat,39,1,4,Missed,1,0.0,0.0,0,v,MISS Gortat 4' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,414
+21200456,474,PT01M58.00S,4,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,Ibaka REBOUND (Off:0 Def:7),Rebound,Unknown,0,415
+21200456,475,PT01M48.00S,4,1610612760,OKC,201586,Ibaka,S. Ibaka,-97,42,11,Missed,1,0.0,0.0,0,h,MISS Ibaka 11' Jump Shot,Missed Shot,Jump Shot,0,416
+21200456,476,PT01M46.00S,4,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0.0,0.0,0,h,Perkins REBOUND (Off:5 Def:1),Rebound,Unknown,0,417
+21200456,477,PT01M43.00S,4,1610612756,PHX,2449,Scola,L. Scola,0,0,0,,0,0.0,0.0,0,v,Scola S.FOUL (P4.PN),Foul,Shooting,0,418
+21200456,478,PT01M43.00S,4,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,107.0,91.0,198,h,Durant Free Throw 1 of 2 (29 PTS),Free Throw,Free Throw 1 of 2,0,419
+21200456,480,PT01M43.00S,4,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,SUB: Jackson FOR Ibaka,Substitution,,0,420
+21200456,481,PT01M43.00S,4,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0.0,0.0,0,h,SUB: Thabeet FOR Perkins,Substitution,,0,421
+21200456,482,PT01M43.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,h,SUB: Liggins FOR Westbrook,Substitution,,0,422
+21200456,483,PT01M43.00S,4,1610612760,OKC,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,h,SUB: Lamb FOR Martin,Substitution,,0,423
+21200456,484,PT01M43.00S,4,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,108.0,91.0,199,h,Durant Free Throw 2 of 2 (30 PTS),Free Throw,Free Throw 2 of 2,0,424
+21200456,486,PT01M42.00S,4,1610612760,OKC,202704,Jackson,R. Jackson,0,0,0,,0,0.0,0.0,0,h,Jackson P.FOUL (P2.PN),Foul,Personal,0,425
+21200456,487,PT01M42.00S,4,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,0.0,0.0,0,v,MISS Dragic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,426
+21200456,488,PT01M42.00S,4,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,v,Suns Rebound,Rebound,Normal Rebound,0,427
+21200456,489,PT01M42.00S,4,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,h,SUB: Jones FOR Durant,Substitution,,0,428
+21200456,490,PT01M42.00S,4,1610612756,PHX,201609,Dragic,G. Dragic,0,0,0,,0,108.0,92.0,200,v,Dragic Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,429
+21200456,492,PT01M20.00S,4,1610612760,OKC,203103,Jones,P. Jones III,-130,89,16,Made,1,110.0,92.0,202,h,Jones 16' Jump Shot (2 PTS) (Jackson 5 AST),Made Shot,Jump Shot,0,430
+21200456,493,PT01M11.00S,4,1610612756,PHX,201609,Dragic,G. Dragic,-82,96,13,Made,1,110.0,94.0,204,v,Dragic 13' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,0,431
+21200456,494,PT01M00.00S,4,1610612760,OKC,203103,Jones,P. Jones III,2,0,0,Made,1,112.0,94.0,206,h,Jones  Dunk (4 PTS) (Jackson 6 AST),Made Shot,Dunk Shot,0,432
+21200456,495,PT00M48.90S,4,1610612756,PHX,200782,Tucker,P. Tucker,-223,55,0,Missed,1,0.0,0.0,0,v,MISS Tucker  3PT Jump Shot,Missed Shot,Jump Shot,0,433
+21200456,496,PT00M48.50S,4,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0.0,0.0,0,h,Thabeet REBOUND (Off:2 Def:2),Rebound,Unknown,0,434
+21200456,497,PT00M25.10S,4,1610612760,OKC,202704,Jackson,R. Jackson,-21,0,2,Made,1,114.0,94.0,208,h,Jackson 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,435
+21200456,498,PT00M10.20S,4,1610612756,PHX,201609,Dragic,G. Dragic,-24,-3,2,Made,1,114.0,96.0,210,v,Dragic 2' Driving Layup (16 PTS),Made Shot,Driving Layup Shot,0,436
+21200456,499,PT00M00.00S,4,0,,0,,,0,0,0,,0,114.0,96.0,210,,End of 4th Period (10:22 PM EST),period,end,0,437

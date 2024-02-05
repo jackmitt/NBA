@@ -1,0 +1,431 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+21400577,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (7:41 PM EST),period,start,0,1
+21400577,1,PT12M00.00S,1,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0.0,0.0,0,h,Jump Ball Drummond vs. Davis: Tip to Asik,Jump Ball,,1,2
+21400577,2,PT11M42.00S,1,1610612740,NOP,203076,Davis,A. Davis,-166,25,17,Made,1,0.0,2.0,2,v,Davis 17' Jump Shot (2 PTS) (Gordon 1 AST),Made Shot,Jump Shot,1,3
+21400577,3,PT11M29.00S,1,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,-144,93,17,Missed,1,0.0,0.0,0,h,MISS Caldwell-Pope 17' Jump Shot,Missed Shot,Jump Shot,1,4
+21400577,4,PT11M27.00S,1,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0.0,0.0,0,v,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,1,5
+21400577,5,PT11M12.00S,1,1610612740,NOP,201967,Cunningham,D. Cunningham,0,1,0,Made,1,0.0,4.0,4,v,Cunningham  Dunk (2 PTS) (Evans 1 AST),Made Shot,Dunk Shot,1,6
+21400577,6,PT10M59.00S,1,1610612765,DET,201943,Jennings,B. Jennings,48,20,5,Made,1,2.0,4.0,6,h,Jennings 5' Floating Jump Shot (2 PTS) (Monroe 1 AST),Made Shot,Floating Jump shot,1,7
+21400577,7,PT10M37.00S,1,1610612740,NOP,201569,Gordon,E. Gordon,17,42,5,Made,1,2.0,6.0,8,v,Gordon 5' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,1,8
+21400577,8,PT10M17.00S,1,1610612765,DET,201943,Jennings,B. Jennings,-4,11,1,Missed,1,0.0,0.0,0,h,MISS Jennings 1' Layup,Missed Shot,Layup Shot,1,9
+21400577,9,PT10M16.00S,1,1610612740,NOP,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,Asik REBOUND (Off:0 Def:1),Rebound,Unknown,1,10
+21400577,10,PT09M52.00S,1,1610612740,NOP,201936,Evans,T. Evans,54,266,27,Missed,1,0.0,0.0,0,v,MISS Evans 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,11
+21400577,11,PT09M50.00S,1,1610612740,NOP,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,Asik REBOUND (Off:1 Def:1),Rebound,Unknown,1,12
+21400577,12,PT09M47.00S,1,1610612740,NOP,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,Asik Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,13
+21400577,12,PT09M47.00S,1,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0.0,0.0,0,h,Drummond STEAL (1 STL),,,1,14
+21400577,13,PT09M41.00S,1,1610612765,DET,203083,Drummond,A. Drummond,0,9,1,Missed,1,0.0,0.0,0,h,MISS Drummond 1' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,15
+21400577,14,PT09M41.00S,1,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Pelicans Rebound,Rebound,Unknown,0,16
+21400577,15,PT09M41.00S,1,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0.0,0.0,0,h,Drummond L.B.FOUL (P1.T1),Foul,Loose Ball,1,17
+21400577,16,PT09M27.00S,1,1610612740,NOP,201569,Gordon,E. Gordon,78,23,8,Missed,1,0.0,0.0,0,v,MISS Gordon 8' Jump Shot,Missed Shot,Jump Shot,1,18
+21400577,17,PT09M26.00S,1,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Pelicans Rebound,Rebound,Unknown,0,19
+21400577,18,PT09M11.00S,1,1610612740,NOP,201936,Evans,T. Evans,0,7,1,Missed,1,0.0,0.0,0,v,MISS Evans 1' Layup,Missed Shot,Layup Shot,1,20
+21400577,19,PT09M09.00S,1,1610612740,NOP,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,Asik REBOUND (Off:2 Def:1),Rebound,Unknown,1,21
+21400577,20,PT09M09.00S,1,1610612740,NOP,201600,Asik,O. Asik,0,6,1,Made,1,2.0,8.0,10,v,Asik 1' Layup (2 PTS),Made Shot,Layup Shot,1,22
+21400577,21,PT08M50.00S,1,1610612765,DET,202328,Monroe,G. Monroe,62,19,6,Missed,1,0.0,0.0,0,h,MISS Monroe 6' Hook Shot,Missed Shot,Hook Shot,1,23
+21400577,21,PT08M50.00S,1,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0.0,0.0,0,v,Davis BLOCK (1 BLK),,,1,24
+21400577,22,PT08M48.00S,1,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,0.0,0.0,0,v,Evans REBOUND (Off:0 Def:1),Rebound,Unknown,1,25
+21400577,23,PT08M32.00S,1,1610612740,NOP,203076,Davis,A. Davis,-56,15,6,Made,1,2.0,10.0,12,v,Davis 6' Hook Shot (4 PTS),Made Shot,Hook Shot,1,26
+21400577,24,PT08M32.00S,1,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,h,PISTONS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,27
+21400577,26,PT08M10.00S,1,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,-160,129,21,Made,1,4.0,10.0,14,h,Caldwell-Pope 21' Jump Shot (2 PTS) (Monroe 2 AST),Made Shot,Jump Shot,1,28
+21400577,28,PT07M48.00S,1,1610612740,NOP,201936,Evans,T. Evans,2,7,1,Made,1,4.0,12.0,16,v,Evans 1' Reverse Layup (2 PTS) (Cunningham 1 AST),Made Shot,Reverse Layup Shot,1,29
+21400577,29,PT07M34.00S,1,1610612765,DET,203083,Drummond,A. Drummond,-49,22,5,Missed,1,0.0,0.0,0,h,MISS Drummond 5' Hook Shot,Missed Shot,Hook Shot,1,30
+21400577,30,PT07M31.00S,1,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,h,Monroe REBOUND (Off:1 Def:0),Rebound,Unknown,1,31
+21400577,31,PT07M31.00S,1,1610612765,DET,202328,Monroe,G. Monroe,-8,6,1,Made,1,6.0,12.0,18,h,Monroe 1' Layup (2 PTS),Made Shot,Layup Shot,1,32
+21400577,32,PT07M04.00S,1,1610612740,NOP,201569,Gordon,E. Gordon,-138,214,25,Missed,1,0.0,0.0,0,v,MISS Gordon 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,33
+21400577,33,PT07M03.00S,1,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,h,Monroe REBOUND (Off:1 Def:1),Rebound,Unknown,1,34
+21400577,34,PT06M59.00S,1,1610612765,DET,202713,Singler,K. Singler,0,0,0,,0,0.0,0.0,0,h,Singler Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,35
+21400577,34,PT06M59.00S,1,1610612740,NOP,201569,Gordon,E. Gordon,0,0,0,,0,0.0,0.0,0,v,Gordon STEAL (1 STL),,,1,36
+21400577,35,PT06M54.00S,1,1610612740,NOP,203076,Davis,A. Davis,0,1,0,Made,1,6.0,14.0,20,v,Davis  Dunk (6 PTS) (Gordon 2 AST),Made Shot,Dunk Shot,1,37
+21400577,36,PT06M33.00S,1,1610612765,DET,202713,Singler,K. Singler,6,11,1,Made,1,8.0,14.0,22,h,Singler 1' Driving Layup (2 PTS) (Caldwell-Pope 1 AST),Made Shot,Driving Layup Shot,1,38
+21400577,37,PT06M17.00S,1,1610612740,NOP,201967,Cunningham,D. Cunningham,0,0,0,,0,0.0,0.0,0,v,Cunningham Step Out of Bounds Turnover (P1.T2),Turnover,Step Out of Bounds Turnover,1,39
+21400577,38,PT05M58.00S,1,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,0.0,0.0,0,h,Caldwell-Pope Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,40
+21400577,38,PT05M58.00S,1,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,0.0,0.0,0,v,Evans STEAL (1 STL),,,1,41
+21400577,40,PT05M39.00S,1,1610612740,NOP,201600,Asik,O. Asik,2,9,1,Missed,1,0.0,0.0,0,v,MISS Asik 1' Layup,Missed Shot,Layup Shot,1,42
+21400577,40,PT05M39.00S,1,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,0.0,0.0,0,h,Caldwell-Pope BLOCK (1 BLK),,,1,43
+21400577,41,PT05M38.00S,1,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,h,Monroe REBOUND (Off:1 Def:2),Rebound,Unknown,1,44
+21400577,42,PT05M33.00S,1,1610612765,DET,201943,Jennings,B. Jennings,-207,156,26,Missed,1,0.0,0.0,0,h,MISS Jennings 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,45
+21400577,43,PT05M32.00S,1,1610612740,NOP,201967,Cunningham,D. Cunningham,0,0,0,,0,0.0,0.0,0,v,Cunningham REBOUND (Off:0 Def:1),Rebound,Unknown,1,46
+21400577,44,PT05M19.00S,1,1610612740,NOP,201569,Gordon,E. Gordon,223,135,26,Made,1,8.0,17.0,25,v,Gordon 26' 3PT Jump Shot (5 PTS) (Evans 2 AST),Made Shot,Jump Shot,1,47
+21400577,46,PT05M06.00S,1,1610612740,NOP,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,SUB: Anderson FOR Asik,Substitution,,0,48
+21400577,47,PT05M06.00S,1,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,0.0,0.0,0,v,SUB: Pondexter FOR Evans,Substitution,,0,49
+21400577,48,PT04M54.00S,1,1610612765,DET,202328,Monroe,G. Monroe,1,9,1,Made,1,10.0,17.0,27,h,Monroe 1' Driving Layup (4 PTS) (Caldwell-Pope 2 AST),Made Shot,Driving Layup Shot,1,50
+21400577,49,PT04M33.00S,1,1610612740,NOP,201569,Gordon,E. Gordon,6,6,1,Missed,1,0.0,0.0,0,v,MISS Gordon 1' Layup,Missed Shot,Layup Shot,1,51
+21400577,50,PT04M33.00S,1,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0.0,0.0,0,h,Drummond REBOUND (Off:0 Def:1),Rebound,Unknown,1,52
+21400577,51,PT04M33.00S,1,1610612740,NOP,201967,Cunningham,D. Cunningham,0,0,0,,0,0.0,0.0,0,v,Cunningham L.B.FOUL (P1.T1),Foul,Loose Ball,1,53
+21400577,52,PT04M19.00S,1,1610612765,DET,202713,Singler,K. Singler,-146,235,28,Missed,1,0.0,0.0,0,h,MISS Singler 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,54
+21400577,53,PT04M17.00S,1,1610612740,NOP,201583,Anderson,R. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,1,55
+21400577,54,PT04M09.00S,1,1610612765,DET,202713,Singler,K. Singler,0,0,0,,0,0.0,0.0,0,h,PISTONS T.Foul (Def. 3 Sec Singler ),Foul,Defense 3 Second,1,56
+21400577,55,PT04M09.00S,1,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,10.0,18.0,28,v,Davis Free Throw Technical (7 PTS),Free Throw,Free Throw Technical,0,57
+21400577,57,PT04M01.00S,1,1610612740,NOP,201569,Gordon,E. Gordon,0,0,0,,0,0.0,0.0,0,v,Gordon Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,58
+21400577,57,PT04M01.00S,1,1610612765,DET,202713,Singler,K. Singler,0,0,0,,0,0.0,0.0,0,h,Singler STEAL (1 STL),,,1,59
+21400577,58,PT03M56.00S,1,1610612765,DET,201943,Jennings,B. Jennings,1,1,0,Made,1,12.0,18.0,30,h,Jennings  Layup (4 PTS) (Singler 1 AST),Made Shot,Layup Shot,1,60
+21400577,59,PT03M56.00S,1,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Pelicans Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,61
+21400577,60,PT03M56.00S,1,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0.0,0.0,0,h,SUB: Meeks FOR Drummond,Substitution,,0,62
+21400577,61,PT03M56.00S,1,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,0.0,0.0,0,h,SUB: Jerebko FOR Caldwell-Pope,Substitution,,0,63
+21400577,63,PT03M37.00S,1,1610612740,NOP,201569,Gordon,E. Gordon,0,0,0,,0,0.0,0.0,0,v,Gordon Lost Ball Turnover (P2.T4),Turnover,Lost Ball,1,64
+21400577,63,PT03M37.00S,1,1610612765,DET,201943,Jennings,B. Jennings,0,0,0,,0,0.0,0.0,0,h,Jennings STEAL (1 STL),,,1,65
+21400577,64,PT03M15.00S,1,1610612765,DET,201943,Jennings,B. Jennings,86,255,27,Missed,1,0.0,0.0,0,h,MISS Jennings 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,66
+21400577,65,PT03M14.00S,1,1610612740,NOP,202347,Pondexter,Q. Pondexter,0,0,0,,0,0.0,0.0,0,v,Pondexter REBOUND (Off:0 Def:1),Rebound,Unknown,1,67
+21400577,67,PT02M57.00S,1,1610612740,NOP,201967,Cunningham,D. Cunningham,0,0,0,,0,0.0,0.0,0,v,SUB: Fredette FOR Cunningham,Substitution,,0,68
+21400577,68,PT02M53.00S,1,1610612740,NOP,201583,Anderson,R. Anderson,152,115,19,Made,1,12.0,20.0,32,v,Anderson 19' Step Back Jump Shot (2 PTS) (Pondexter 1 AST),Made Shot,Step Back Jump shot,1,69
+21400577,69,PT02M31.00S,1,1610612765,DET,201975,Meeks,J. Meeks,0,0,0,,0,0.0,0.0,0,h,Meeks Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,70
+21400577,69,PT02M31.00S,1,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0.0,0.0,0,v,Davis STEAL (1 STL),,,1,71
+21400577,70,PT02M25.00S,1,1610612740,NOP,201569,Gordon,E. Gordon,-4,11,1,Made,1,12.0,22.0,34,v,Gordon 1' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,72
+21400577,72,PT02M08.00S,1,1610612765,DET,202713,Singler,K. Singler,0,0,0,,0,0.0,0.0,0,h,SUB: Butler FOR Singler,Substitution,,0,73
+21400577,73,PT02M08.00S,1,1610612765,DET,201943,Jennings,B. Jennings,0,0,0,,0,0.0,0.0,0,h,SUB: Augustin FOR Jennings,Substitution,,0,74
+21400577,75,PT02M01.00S,1,1610612765,DET,201571,Augustin,D. Augustin,2,7,1,Made,1,14.0,22.0,36,h,Augustin 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,75
+21400577,116,PT01M47.00S,1,1610612740,NOP,201569,Gordon,E. Gordon,-19,33,4,Missed,1,0.0,0.0,0,v,MISS Gordon 4' Driving Layup,Missed Shot,Driving Layup Shot,1,76
+21400577,116,PT01M47.00S,1,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,h,Monroe BLOCK (1 BLK),,,1,77
+21400577,117,PT01M46.00S,1,1610612740,NOP,201569,Gordon,E. Gordon,0,0,0,,0,0.0,0.0,0,v,Gordon REBOUND (Off:1 Def:0),Rebound,Unknown,1,78
+21400577,76,PT01M37.00S,1,1610612740,NOP,202690,Fredette,J. Fredette,212,151,26,Missed,1,0.0,0.0,0,v,MISS Fredette 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,79
+21400577,77,PT01M36.00S,1,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,h,Monroe REBOUND (Off:1 Def:3),Rebound,Unknown,1,80
+21400577,78,PT01M30.00S,1,1610612740,NOP,202690,Fredette,J. Fredette,0,0,0,,0,0.0,0.0,0,v,Fredette S.FOUL (P1.T2),Foul,Shooting,1,81
+21400577,79,PT01M30.00S,1,1610612765,DET,201571,Augustin,D. Augustin,0,0,0,,0,15.0,22.0,37,h,Augustin Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,82
+21400577,81,PT01M30.00S,1,1610612740,NOP,201569,Gordon,E. Gordon,0,0,0,,0,0.0,0.0,0,v,SUB: Evans FOR Gordon,Substitution,,0,83
+21400577,82,PT01M30.00S,1,1610612765,DET,201571,Augustin,D. Augustin,0,0,0,,0,16.0,22.0,38,h,Augustin Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,84
+21400577,84,PT01M03.00S,1,1610612740,NOP,203076,Davis,A. Davis,147,96,18,Missed,1,0.0,0.0,0,v,MISS Davis 18' Jump Shot,Missed Shot,Jump Shot,1,85
+21400577,85,PT01M02.00S,1,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,h,Monroe REBOUND (Off:1 Def:4),Rebound,Unknown,1,86
+21400577,86,PT00M53.90S,1,1610612765,DET,201973,Jerebko,J. Jerebko,-213,140,25,Missed,1,0.0,0.0,0,h,MISS Jerebko 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,87
+21400577,87,PT00M52.80S,1,1610612740,NOP,202347,Pondexter,Q. Pondexter,0,0,0,,0,0.0,0.0,0,v,Pondexter REBOUND (Off:0 Def:2),Rebound,Unknown,1,88
+21400577,88,PT00M46.50S,1,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,h,Monroe P.FOUL (P1.T2),Foul,Personal,1,89
+21400577,89,PT00M33.90S,1,1610612740,NOP,201936,Evans,T. Evans,2,11,1,Missed,1,0.0,0.0,0,v,MISS Evans 1' Layup,Missed Shot,Layup Shot,1,90
+21400577,90,PT00M32.90S,1,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,h,Monroe REBOUND (Off:1 Def:5),Rebound,Unknown,1,91
+21400577,91,PT00M15.90S,1,1610612765,DET,202328,Monroe,G. Monroe,-51,19,5,Made,1,18.0,22.0,40,h,Monroe 5' Hook Bank Shot (6 PTS),Made Shot,Hook Bank Shot,1,92
+21400577,92,PT00M02.90S,1,1610612740,NOP,201936,Evans,T. Evans,-24,15,3,Missed,1,0.0,0.0,0,v,MISS Evans 3' Layup,Missed Shot,Layup Shot,1,93
+21400577,92,PT00M02.90S,1,1610612765,DET,201973,Jerebko,J. Jerebko,0,0,0,,0,0.0,0.0,0,h,Jerebko BLOCK (1 BLK),,,1,94
+21400577,93,PT00M00.90S,1,1610612765,DET,201973,Jerebko,J. Jerebko,0,0,0,,0,0.0,0.0,0,h,Jerebko REBOUND (Off:0 Def:1),Rebound,Unknown,1,95
+21400577,94,PT00M00.00S,1,0,,0,,,0,0,0,,0,18.0,22.0,40,,End of 1st Period (8:03 PM EST),period,end,0,96
+21400577,95,PT12M00.00S,2,0,,0,,,0,0,0,,0,18.0,22.0,40,,Start of 2nd Period (8:05 PM EST),period,start,0,97
+21400577,97,PT11M34.00S,2,1610612765,DET,201975,Meeks,J. Meeks,0,12,1,Missed,1,0.0,0.0,0,h,MISS Meeks 1' Driving Layup,Missed Shot,Driving Layup Shot,1,98
+21400577,98,PT11M32.00S,2,1610612740,NOP,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,Asik REBOUND (Off:2 Def:2),Rebound,Unknown,1,99
+21400577,99,PT11M15.00S,2,1610612740,NOP,201583,Anderson,R. Anderson,40,23,5,Made,1,18.0,24.0,42,v,Anderson 5' Hook Shot (4 PTS),Made Shot,Hook Shot,1,100
+21400577,100,PT10M59.00S,2,1610612765,DET,201975,Meeks,J. Meeks,0,17,2,Made,1,20.0,24.0,44,h,Meeks 2' Driving Layup (2 PTS) (Jerebko 1 AST),Made Shot,Driving Layup Shot,1,101
+21400577,101,PT10M43.00S,2,1610612740,NOP,201583,Anderson,R. Anderson,-5,12,1,Missed,1,0.0,0.0,0,v,MISS Anderson 1' Layup,Missed Shot,Layup Shot,1,102
+21400577,102,PT10M42.00S,2,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0.0,0.0,0,h,Drummond REBOUND (Off:0 Def:2),Rebound,Unknown,1,103
+21400577,103,PT10M36.00S,2,1610612765,DET,2406,Butler,C. Butler,125,242,27,Missed,1,0.0,0.0,0,h,MISS Butler 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,104
+21400577,104,PT10M35.00S,2,1610612740,NOP,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,Asik REBOUND (Off:2 Def:3),Rebound,Unknown,1,105
+21400577,106,PT10M12.00S,2,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Pelicans Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,0,106
+21400577,107,PT09M58.00S,2,1610612765,DET,201571,Augustin,D. Augustin,4,9,1,Made,1,22.0,24.0,46,h,Augustin 1' Driving Layup (6 PTS) (Meeks 1 AST),Made Shot,Driving Layup Shot,1,107
+21400577,108,PT09M39.00S,2,1610612740,NOP,201936,Evans,T. Evans,155,131,20,Missed,1,0.0,0.0,0,v,MISS Evans 20' Jump Shot,Missed Shot,Jump Shot,1,108
+21400577,109,PT09M38.00S,2,1610612740,NOP,202347,Pondexter,Q. Pondexter,0,0,0,,0,0.0,0.0,0,v,Pondexter REBOUND (Off:1 Def:2),Rebound,Unknown,1,109
+21400577,110,PT09M29.00S,2,1610612740,NOP,201600,Asik,O. Asik,0,7,1,Made,1,22.0,26.0,48,v,Asik 1' Driving Layup (4 PTS) (Pondexter 2 AST),Made Shot,Driving Layup Shot,1,110
+21400577,111,PT09M09.00S,2,1610612765,DET,203083,Drummond,A. Drummond,62,15,6,Missed,1,0.0,0.0,0,h,MISS Drummond 6' Jump Shot,Missed Shot,Jump Shot,1,111
+21400577,112,PT09M08.00S,2,1610612740,NOP,201583,Anderson,R. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,1,112
+21400577,113,PT08M58.00S,2,1610612740,NOP,202690,Fredette,J. Fredette,53,26,6,Made,1,22.0,28.0,50,v,Fredette 6' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,1,113
+21400577,114,PT08M41.00S,2,1610612765,DET,201571,Augustin,D. Augustin,0,0,0,,0,0.0,0.0,0,h,Augustin Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,1,114
+21400577,115,PT08M41.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,115
+21400577,118,PT08M23.00S,2,1610612765,DET,201973,Jerebko,J. Jerebko,0,0,0,,0,0.0,0.0,0,h,Jerebko S.FOUL (P1.T1),Foul,Shooting,1,116
+21400577,120,PT08M23.00S,2,1610612740,NOP,201583,Anderson,R. Anderson,0,0,0,,0,22.0,29.0,51,v,Anderson Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,117
+21400577,123,PT08M23.00S,2,1610612740,NOP,201583,Anderson,R. Anderson,0,0,0,,0,22.0,30.0,52,v,Anderson Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,118
+21400577,125,PT08M13.00S,2,1610612740,NOP,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,Asik P.FOUL (P1.T1),Foul,Personal,1,119
+21400577,126,PT08M05.00S,2,1610612765,DET,201571,Augustin,D. Augustin,-149,115,19,Missed,1,0.0,0.0,0,h,MISS Augustin 19' Jump Shot,Missed Shot,Jump Shot,1,120
+21400577,127,PT08M04.00S,2,1610612740,NOP,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,Asik REBOUND (Off:2 Def:4),Rebound,Unknown,1,121
+21400577,128,PT07M53.00S,2,1610612740,NOP,202690,Fredette,J. Fredette,-70,15,7,Made,1,22.0,32.0,54,v,Fredette 7' Jump Shot (4 PTS),Made Shot,Jump Shot,1,122
+21400577,129,PT07M53.00S,2,1610612765,DET,201571,Augustin,D. Augustin,0,0,0,,0,0.0,0.0,0,h,Augustin S.FOUL (P1.T2),Foul,Shooting,1,123
+21400577,130,PT07M53.00S,2,1610612740,NOP,202690,Fredette,J. Fredette,0,0,0,,0,22.0,33.0,55,v,Fredette Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,124
+21400577,131,PT07M33.00S,2,1610612765,DET,201973,Jerebko,J. Jerebko,18,55,6,Missed,1,0.0,0.0,0,h,MISS Jerebko 6' Running Hook Shot,Missed Shot,Running Hook Shot,1,125
+21400577,133,PT07M30.00S,2,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,0.0,0.0,0,v,Evans REBOUND (Off:0 Def:2),Rebound,Unknown,1,126
+21400577,134,PT07M30.00S,2,1610612765,DET,2406,Butler,C. Butler,0,0,0,,0,0.0,0.0,0,h,Butler S.FOUL (P1.T3),Foul,Shooting,1,127
+21400577,135,PT07M30.00S,2,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,22.0,34.0,56,v,Evans Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,128
+21400577,137,PT07M30.00S,2,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,22.0,35.0,57,v,Evans Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,129
+21400577,139,PT07M11.00S,2,1610612765,DET,2406,Butler,C. Butler,-86,173,19,Missed,1,0.0,0.0,0,h,MISS Butler 19' Jump Shot,Missed Shot,Jump Shot,1,130
+21400577,140,PT07M10.00S,2,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Pelicans Rebound,Rebound,Unknown,0,131
+21400577,141,PT06M58.00S,2,1610612740,NOP,202690,Fredette,J. Fredette,138,34,14,Made,1,22.0,37.0,59,v,Fredette 14' Jump Shot (7 PTS),Made Shot,Jump Shot,1,132
+21400577,142,PT06M58.00S,2,1610612765,DET,201571,Augustin,D. Augustin,0,0,0,,0,0.0,0.0,0,h,Augustin S.FOUL (P2.T4),Foul,Shooting,1,133
+21400577,144,PT06M58.00S,2,1610612765,DET,2406,Butler,C. Butler,0,0,0,,0,0.0,0.0,0,h,SUB: Caldwell-Pope FOR Butler,Substitution,,0,134
+21400577,145,PT06M58.00S,2,1610612765,DET,201571,Augustin,D. Augustin,0,0,0,,0,0.0,0.0,0,h,SUB: Jennings FOR Augustin,Substitution,,0,135
+21400577,153,PT06M58.00S,2,1610612765,DET,201973,Jerebko,J. Jerebko,0,0,0,,0,0.0,0.0,0,h,SUB: Tolliver FOR Jerebko,Substitution,,0,136
+21400577,146,PT06M58.00S,2,1610612740,NOP,202690,Fredette,J. Fredette,0,0,0,,0,22.0,38.0,60,v,Fredette Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,137
+21400577,148,PT06M37.00S,2,1610612765,DET,201229,Tolliver,A. Tolliver,138,110,18,Missed,1,0.0,0.0,0,h,MISS Tolliver 18' Jump Shot,Missed Shot,Jump Shot,1,138
+21400577,149,PT06M35.00S,2,1610612740,NOP,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,Asik REBOUND (Off:2 Def:5),Rebound,Unknown,1,139
+21400577,150,PT06M26.00S,2,1610612740,NOP,202690,Fredette,J. Fredette,136,214,25,Missed,1,0.0,0.0,0,v,MISS Fredette 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,140
+21400577,151,PT06M25.00S,2,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,0.0,0.0,0,h,Caldwell-Pope REBOUND (Off:0 Def:1),Rebound,Unknown,1,141
+21400577,152,PT06M20.00S,2,1610612740,NOP,202347,Pondexter,Q. Pondexter,0,0,0,,0,0.0,0.0,0,v,Pondexter P.FOUL (P1.T2),Foul,Personal,1,142
+21400577,154,PT06M08.00S,2,1610612765,DET,201229,Tolliver,A. Tolliver,-5,6,1,Made,1,24.0,38.0,62,h,Tolliver 1' Layup (2 PTS) (Jennings 1 AST),Made Shot,Layup Shot,1,143
+21400577,155,PT05M50.00S,2,1610612740,NOP,201600,Asik,O. Asik,-16,17,2,Missed,1,0.0,0.0,0,v,MISS Asik 2' Layup,Missed Shot,Layup Shot,1,144
+21400577,155,PT05M50.00S,2,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0.0,0.0,0,h,Drummond BLOCK (1 BLK),,,1,145
+21400577,215,PT05M50.00S,2,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Pelicans Rebound,Rebound,Unknown,0,146
+21400577,156,PT05M49.00S,2,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,h,PISTONS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,147
+21400577,158,PT05M43.00S,2,1610612740,NOP,201936,Evans,T. Evans,2,11,1,Made,1,24.0,40.0,64,v,Evans 1' Layup (6 PTS) (Asik 1 AST),Made Shot,Layup Shot,1,148
+21400577,159,PT05M27.00S,2,1610612765,DET,201943,Jennings,B. Jennings,-11,7,1,Missed,1,0.0,0.0,0,h,MISS Jennings 1' Driving Layup,Missed Shot,Driving Layup Shot,1,149
+21400577,160,PT05M25.00S,2,1610612740,NOP,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,Asik REBOUND (Off:2 Def:6),Rebound,Unknown,1,150
+21400577,161,PT05M19.00S,2,1610612740,NOP,201583,Anderson,R. Anderson,-136,206,25,Made,1,24.0,43.0,67,v,Anderson 25' 3PT Jump Shot (9 PTS) (Evans 3 AST),Made Shot,Jump Shot,1,151
+21400577,162,PT05M19.00S,2,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,h,PISTONS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,152
+21400577,164,PT05M19.00S,2,1610612740,NOP,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,SUB: Gordon FOR Asik,Substitution,,0,153
+21400577,165,PT05M19.00S,2,1610612740,NOP,202690,Fredette,J. Fredette,0,0,0,,0,0.0,0.0,0,v,SUB: Davis FOR Fredette,Substitution,,0,154
+21400577,166,PT05M03.00S,2,1610612740,NOP,202347,Pondexter,Q. Pondexter,0,0,0,,0,0.0,0.0,0,v,Pondexter P.FOUL (P2.T3),Foul,Personal,1,155
+21400577,169,PT04M55.00S,2,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,64,255,26,Made,1,27.0,43.0,70,h,Caldwell-Pope 26' 3PT Jump Shot (5 PTS) (Jennings 2 AST),Made Shot,Jump Shot,1,156
+21400577,171,PT04M37.00S,2,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0.0,0.0,0,h,Drummond Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,157
+21400577,170,PT04M37.00S,2,1610612740,NOP,201583,Anderson,R. Anderson,88,41,10,Made,1,27.0,45.0,72,v,Anderson 10' Jump Shot (11 PTS),Made Shot,Jump Shot,1,158
+21400577,173,PT04M17.00S,2,1610612765,DET,203083,Drummond,A. Drummond,58,23,6,Made,1,29.0,45.0,74,h,Drummond 6' Hook Bank Shot (2 PTS),Made Shot,Hook Bank Shot,1,159
+21400577,174,PT03M59.00S,2,1610612740,NOP,201569,Gordon,E. Gordon,-224,123,26,Made,1,29.0,48.0,77,v,Gordon 26' 3PT Jump Shot (10 PTS) (Anderson 1 AST),Made Shot,Jump Shot,1,160
+21400577,175,PT03M41.00S,2,1610612765,DET,201975,Meeks,J. Meeks,228,36,0,Missed,1,0.0,0.0,0,h,MISS Meeks  3PT Jump Shot,Missed Shot,Jump Shot,1,161
+21400577,176,PT03M40.00S,2,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0.0,0.0,0,v,Davis REBOUND (Off:0 Def:2),Rebound,Unknown,1,162
+21400577,177,PT03M23.00S,2,1610612740,NOP,201936,Evans,T. Evans,4,3,1,Made,1,29.0,50.0,79,v,Evans 1' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,163
+21400577,178,PT03M11.00S,2,1610612765,DET,201975,Meeks,J. Meeks,0,4,0,Made,1,31.0,50.0,81,h,Meeks  Reverse Layup (4 PTS) (Tolliver 1 AST),Made Shot,Reverse Layup Shot,1,164
+21400577,179,PT02M59.00S,2,1610612740,NOP,202347,Pondexter,Q. Pondexter,0,0,0,,0,0.0,0.0,0,v,Pondexter Offensive Charge Foul (P3.T4),Foul,Offensive Charge,1,165
+21400577,180,PT02M59.00S,2,1610612740,NOP,202347,Pondexter,Q. Pondexter,0,0,0,,0,0.0,0.0,0,v,Pondexter Foul Turnover (P1.T6),Turnover,Foul,1,166
+21400577,181,PT02M59.00S,2,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0.0,0.0,0,h,SUB: Monroe FOR Drummond,Substitution,,0,167
+21400577,182,PT02M59.00S,2,1610612765,DET,201229,Tolliver,A. Tolliver,0,0,0,,0,0.0,0.0,0,h,SUB: Jerebko FOR Tolliver,Substitution,,0,168
+21400577,183,PT02M59.00S,2,1610612740,NOP,202347,Pondexter,Q. Pondexter,0,0,0,,0,0.0,0.0,0,v,SUB: Cunningham FOR Pondexter,Substitution,,0,169
+21400577,184,PT02M47.00S,2,1610612765,DET,201973,Jerebko,J. Jerebko,-160,214,27,Missed,1,0.0,0.0,0,h,MISS Jerebko 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,170
+21400577,185,PT02M45.00S,2,1610612740,NOP,201967,Cunningham,D. Cunningham,0,0,0,,0,0.0,0.0,0,v,Cunningham REBOUND (Off:0 Def:2),Rebound,Unknown,1,171
+21400577,186,PT02M23.00S,2,1610612740,NOP,201583,Anderson,R. Anderson,81,33,9,Missed,1,0.0,0.0,0,v,MISS Anderson 9' Jump Shot,Missed Shot,Jump Shot,1,172
+21400577,187,PT02M22.00S,2,1610612740,NOP,201583,Anderson,R. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson REBOUND (Off:1 Def:2),Rebound,Unknown,1,173
+21400577,188,PT02M13.00S,2,1610612740,NOP,203076,Davis,A. Davis,0,1,0,Made,1,31.0,52.0,83,v,Davis  Layup (9 PTS) (Evans 4 AST),Made Shot,Layup Shot,1,174
+21400577,189,PT01M50.00S,2,1610612765,DET,202328,Monroe,G. Monroe,0,4,0,Made,1,33.0,52.0,85,h,Monroe  Layup (8 PTS) (Caldwell-Pope 3 AST),Made Shot,Layup Shot,1,175
+21400577,190,PT01M39.00S,2,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,0.0,0.0,0,h,Caldwell-Pope S.FOUL (P1.PN),Foul,Shooting,1,176
+21400577,191,PT01M39.00S,2,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,33.0,53.0,86,v,Evans Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,177
+21400577,193,PT01M39.00S,2,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,33.0,54.0,87,v,Evans Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,178
+21400577,195,PT01M27.00S,2,1610612765,DET,202328,Monroe,G. Monroe,0,6,1,Made,1,35.0,54.0,89,h,Monroe 1' Layup (10 PTS) (Caldwell-Pope 4 AST),Made Shot,Layup Shot,1,179
+21400577,196,PT01M13.00S,2,1610612740,NOP,203076,Davis,A. Davis,0,1,0,Made,1,35.0,56.0,91,v,Davis  Alley Oop Dunk (11 PTS) (Evans 5 AST),Made Shot,Alley Oop Dunk Shot,1,180
+21400577,197,PT00M54.90S,2,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,-150,112,19,Missed,1,0.0,0.0,0,h,MISS Caldwell-Pope 19' Jump Shot,Missed Shot,Jump Shot,1,181
+21400577,198,PT00M53.90S,2,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0.0,0.0,0,v,Davis REBOUND (Off:0 Def:3),Rebound,Unknown,1,182
+21400577,199,PT00M52.10S,2,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0.0,0.0,0,v,Davis Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,183
+21400577,199,PT00M52.10S,2,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,h,Monroe STEAL (1 STL),,,1,184
+21400577,200,PT00M51.80S,2,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0.0,0.0,0,v,Davis S.FOUL (P1.PN),Foul,Shooting,1,185
+21400577,201,PT00M51.80S,2,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,36.0,56.0,92,h,Monroe Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,186
+21400577,203,PT00M51.80S,2,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,h,MISS Monroe Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,187
+21400577,205,PT00M51.50S,2,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0.0,0.0,0,v,Davis REBOUND (Off:0 Def:4),Rebound,Unknown,1,188
+21400577,206,PT00M40.80S,2,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,0.0,0.0,0,v,Evans Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,189
+21400577,206,PT00M40.80S,2,1610612765,DET,201973,Jerebko,J. Jerebko,0,0,0,,0,0.0,0.0,0,h,Jerebko STEAL (1 STL),,,1,190
+21400577,207,PT00M37.90S,2,1610612765,DET,201973,Jerebko,J. Jerebko,0,0,0,,0,0.0,0.0,0,h,Jerebko Double Dribble Turnover (P1.T5),Turnover,Double Dribble,1,191
+21400577,208,PT00M24.10S,2,1610612740,NOP,201569,Gordon,E. Gordon,6,4,1,Made,1,36.0,58.0,94,v,Gordon 1' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,192
+21400577,209,PT00M04.90S,2,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,154,217,27,Missed,1,0.0,0.0,0,h,MISS Caldwell-Pope 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,193
+21400577,210,PT00M03.70S,2,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0.0,0.0,0,v,Davis REBOUND (Off:0 Def:5),Rebound,Unknown,1,194
+21400577,211,PT00M01.00S,2,1610612740,NOP,203076,Davis,A. Davis,15,539,54,Missed,1,0.0,0.0,0,v,MISS Davis 54' 3PT Jump Shot,Missed Shot,Jump Shot,1,195
+21400577,212,PT00M00.00S,2,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Pelicans Rebound,Rebound,Unknown,0,196
+21400577,213,PT00M00.00S,2,0,,0,,,0,0,0,,0,36.0,58.0,94,,End of 2nd Period (8:31 PM EST),period,end,0,197
+21400577,216,PT12M00.00S,3,0,,0,,,0,0,0,,0,36.0,58.0,94,,Start of 3rd Period (8:48 PM EST),period,start,0,198
+21400577,217,PT11M44.00S,3,1610612765,DET,202713,Singler,K. Singler,0,7,1,Made,1,38.0,58.0,96,h,Singler 1' Layup (4 PTS) (Monroe 3 AST),Made Shot,Layup Shot,1,199
+21400577,218,PT11M27.00S,3,1610612740,NOP,203076,Davis,A. Davis,-158,121,20,Made,1,38.0,60.0,98,v,Davis 20' Jump Shot (13 PTS) (Gordon 3 AST),Made Shot,Jump Shot,1,200
+21400577,219,PT11M12.00S,3,1610612740,NOP,201569,Gordon,E. Gordon,0,0,0,,0,0.0,0.0,0,v,Gordon S.FOUL (P1.T1),Foul,Shooting,1,201
+21400577,220,PT11M12.00S,3,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,39.0,60.0,99,h,Monroe Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,202
+21400577,222,PT11M12.00S,3,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,40.0,60.0,100,h,Monroe Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,203
+21400577,224,PT10M50.00S,3,1610612740,NOP,203076,Davis,A. Davis,6,53,5,Missed,1,0.0,0.0,0,v,MISS Davis 5' Hook Shot,Missed Shot,Hook Shot,1,204
+21400577,225,PT10M48.00S,3,1610612765,DET,202713,Singler,K. Singler,0,0,0,,0,0.0,0.0,0,h,Singler REBOUND (Off:0 Def:1),Rebound,Unknown,1,205
+21400577,226,PT10M42.00S,3,1610612765,DET,201943,Jennings,B. Jennings,-111,227,25,Made,1,43.0,60.0,103,h,Jennings 25' 3PT Jump Shot (7 PTS),Made Shot,Jump Shot,1,206
+21400577,227,PT10M24.00S,3,1610612740,NOP,201967,Cunningham,D. Cunningham,176,110,21,Made,1,43.0,62.0,105,v,Cunningham 21' Jump Shot (4 PTS) (Gordon 4 AST),Made Shot,Jump Shot,1,207
+21400577,228,PT10M04.00S,3,1610612765,DET,201943,Jennings,B. Jennings,231,118,26,Missed,1,0.0,0.0,0,h,MISS Jennings 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,208
+21400577,229,PT10M03.00S,3,1610612740,NOP,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,Asik REBOUND (Off:2 Def:7),Rebound,Unknown,1,209
+21400577,230,PT09M42.00S,3,1610612740,NOP,203076,Davis,A. Davis,-95,11,10,Made,1,43.0,64.0,107,v,Davis 10' Jump Shot (15 PTS),Made Shot,Jump Shot,1,210
+21400577,231,PT09M26.00S,3,1610612765,DET,202713,Singler,K. Singler,228,127,26,Made,1,46.0,64.0,110,h,Singler 26' 3PT Jump Shot (7 PTS) (Monroe 4 AST),Made Shot,Jump Shot,1,211
+21400577,232,PT08M58.00S,3,1610612740,NOP,201967,Cunningham,D. Cunningham,89,181,20,Made,1,46.0,66.0,112,v,Cunningham 20' Jump Shot (6 PTS) (Evans 6 AST),Made Shot,Jump Shot,1,212
+21400577,233,PT08M51.00S,3,1610612740,NOP,201569,Gordon,E. Gordon,0,0,0,,0,0.0,0.0,0,v,Gordon S.FOUL (P2.T2),Foul,Shooting,1,213
+21400577,234,PT08M51.00S,3,1610612765,DET,201943,Jennings,B. Jennings,0,0,0,,0,47.0,66.0,113,h,Jennings Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,214
+21400577,236,PT08M51.00S,3,1610612765,DET,201943,Jennings,B. Jennings,0,0,0,,0,48.0,66.0,114,h,Jennings Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,215
+21400577,238,PT08M40.00S,3,1610612740,NOP,201569,Gordon,E. Gordon,0,0,0,,0,0.0,0.0,0,v,Gordon Bad Pass Turnover (P3.T9),Turnover,Bad Pass,1,216
+21400577,239,PT08M21.00S,3,1610612765,DET,202328,Monroe,G. Monroe,-23,14,3,Missed,1,0.0,0.0,0,h,MISS Monroe 3' Layup,Missed Shot,Layup Shot,1,217
+21400577,239,PT08M21.00S,3,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0.0,0.0,0,v,Davis BLOCK (2 BLK),,,1,218
+21400577,240,PT08M20.00S,3,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,0.0,0.0,0,v,Evans REBOUND (Off:0 Def:3),Rebound,Unknown,1,219
+21400577,241,PT08M10.00S,3,1610612740,NOP,201967,Cunningham,D. Cunningham,0,71,7,Missed,1,0.0,0.0,0,v,MISS Cunningham 7' Jump Shot,Missed Shot,Jump Shot,1,220
+21400577,242,PT08M08.00S,3,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0.0,0.0,0,v,Davis REBOUND (Off:1 Def:5),Rebound,Unknown,1,221
+21400577,243,PT07M49.00S,3,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,h,Monroe S.FOUL (P2.T1),Foul,Shooting,1,222
+21400577,244,PT07M49.00S,3,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,48.0,67.0,115,v,Davis Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,223
+21400577,246,PT07M49.00S,3,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,48.0,68.0,116,v,Davis Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,224
+21400577,248,PT07M39.00S,3,1610612740,NOP,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,Asik S.FOUL (P2.T3),Foul,Shooting,1,225
+21400577,249,PT07M39.00S,3,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,h,MISS Monroe Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,226
+21400577,250,PT07M39.00S,3,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,h,PISTONS Rebound,Rebound,Normal Rebound,0,227
+21400577,251,PT07M39.00S,3,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,49.0,68.0,117,h,Monroe Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,228
+21400577,253,PT07M24.00S,3,1610612740,NOP,203076,Davis,A. Davis,-171,15,17,Missed,1,0.0,0.0,0,v,MISS Davis 17' Jump Shot,Missed Shot,Jump Shot,1,229
+21400577,254,PT07M23.00S,3,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,0.0,0.0,0,h,Caldwell-Pope REBOUND (Off:0 Def:2),Rebound,Unknown,1,230
+21400577,255,PT07M15.00S,3,1610612765,DET,202713,Singler,K. Singler,226,131,26,Missed,1,0.0,0.0,0,h,MISS Singler 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,231
+21400577,256,PT07M14.00S,3,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,0.0,0.0,0,v,Evans REBOUND (Off:0 Def:4),Rebound,Unknown,1,232
+21400577,257,PT07M07.00S,3,1610612740,NOP,201967,Cunningham,D. Cunningham,48,22,5,Missed,1,0.0,0.0,0,v,MISS Cunningham 5' Jump Shot,Missed Shot,Jump Shot,1,233
+21400577,257,PT07M07.00S,3,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0.0,0.0,0,h,Drummond BLOCK (2 BLK),,,1,234
+21400577,258,PT07M07.00S,3,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Pelicans Rebound,Rebound,Unknown,0,235
+21400577,259,PT06M56.00S,3,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0.0,0.0,0,h,Drummond S.FOUL (P2.T2),Foul,Shooting,1,236
+21400577,260,PT06M56.00S,3,1610612740,NOP,201600,Asik,O. Asik,0,0,0,,0,49.0,69.0,118,v,Asik Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,237
+21400577,262,PT06M56.00S,3,1610612765,DET,203083,Drummond,A. Drummond,0,0,0,,0,0.0,0.0,0,h,SUB: Jerebko FOR Drummond,Substitution,,0,238
+21400577,263,PT06M56.00S,3,1610612740,NOP,201600,Asik,O. Asik,0,0,0,,0,49.0,70.0,119,v,Asik Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,239
+21400577,265,PT06M36.00S,3,1610612765,DET,202328,Monroe,G. Monroe,-54,17,6,Missed,1,0.0,0.0,0,h,MISS Monroe 6' Hook Shot,Missed Shot,Hook Shot,1,240
+21400577,266,PT06M34.00S,3,1610612740,NOP,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,Asik REBOUND (Off:2 Def:8),Rebound,Unknown,1,241
+21400577,267,PT06M29.00S,3,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,0.0,0.0,0,h,Caldwell-Pope S.FOUL (P2.T3),Foul,Shooting,1,242
+21400577,268,PT06M29.00S,3,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,0.0,0.0,0,v,MISS Evans Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,243
+21400577,269,PT06M29.00S,3,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Pelicans Rebound,Rebound,Normal Rebound,0,244
+21400577,270,PT06M29.00S,3,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,49.0,71.0,120,v,Evans Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,245
+21400577,272,PT06M15.00S,3,1610612765,DET,202328,Monroe,G. Monroe,1,4,0,Made,1,51.0,71.0,122,h,Monroe  Layup (16 PTS) (Singler 2 AST),Made Shot,Layup Shot,1,246
+21400577,273,PT06M15.00S,3,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0.0,0.0,0,v,Davis S.FOUL (P2.T4),Foul,Shooting,1,247
+21400577,275,PT06M15.00S,3,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Pelicans Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,248
+21400577,276,PT06M15.00S,3,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,h,MISS Monroe Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,249
+21400577,278,PT06M14.00S,3,1610612740,NOP,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,Asik REBOUND (Off:2 Def:9),Rebound,Unknown,1,250
+21400577,279,PT05M51.00S,3,1610612740,NOP,201569,Gordon,E. Gordon,135,220,26,Missed,1,0.0,0.0,0,v,MISS Gordon 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,251
+21400577,280,PT05M50.00S,3,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0.0,0.0,0,v,Davis REBOUND (Off:2 Def:5),Rebound,Unknown,1,252
+21400577,281,PT05M49.00S,3,1610612740,NOP,203076,Davis,A. Davis,0,4,0,Missed,1,0.0,0.0,0,v,MISS Davis  Tip Shot,Missed Shot,Tip Shot,1,253
+21400577,282,PT05M46.00S,3,1610612765,DET,202713,Singler,K. Singler,0,0,0,,0,0.0,0.0,0,h,Singler REBOUND (Off:0 Def:2),Rebound,Unknown,1,254
+21400577,283,PT05M31.00S,3,1610612765,DET,201943,Jennings,B. Jennings,6,12,1,Missed,1,0.0,0.0,0,h,MISS Jennings 1' Layup,Missed Shot,Layup Shot,1,255
+21400577,283,PT05M31.00S,3,1610612740,NOP,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,Asik BLOCK (1 BLK),,,1,256
+21400577,284,PT05M30.00S,3,1610612740,NOP,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,Asik REBOUND (Off:2 Def:10),Rebound,Unknown,1,257
+21400577,285,PT05M30.00S,3,1610612765,DET,201943,Jennings,B. Jennings,0,0,0,,0,0.0,0.0,0,h,Jennings P.FOUL (P1.T4),Foul,Personal,1,258
+21400577,286,PT05M30.00S,3,1610612740,NOP,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,SUB: Anderson FOR Asik,Substitution,,0,259
+21400577,287,PT05M30.00S,3,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,0.0,0.0,0,v,SUB: Pondexter FOR Evans,Substitution,,0,260
+21400577,288,PT05M20.00S,3,1610612740,NOP,201583,Anderson,R. Anderson,-202,184,27,Missed,1,0.0,0.0,0,v,MISS Anderson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,261
+21400577,289,PT05M18.00S,3,1610612765,DET,201973,Jerebko,J. Jerebko,0,0,0,,0,0.0,0.0,0,h,Jerebko REBOUND (Off:0 Def:2),Rebound,Unknown,1,262
+21400577,290,PT05M13.00S,3,1610612740,NOP,201569,Gordon,E. Gordon,0,0,0,,0,0.0,0.0,0,v,Gordon P.FOUL (P3.PN),Foul,Personal,1,263
+21400577,291,PT05M13.00S,3,1610612765,DET,201943,Jennings,B. Jennings,0,0,0,,0,52.0,71.0,123,h,Jennings Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,264
+21400577,293,PT05M13.00S,3,1610612765,DET,201943,Jennings,B. Jennings,0,0,0,,0,53.0,71.0,124,h,Jennings Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,265
+21400577,295,PT04M52.00S,3,1610612740,NOP,203076,Davis,A. Davis,0,1,0,Made,1,53.0,73.0,126,v,Davis  Dunk (19 PTS) (Pondexter 3 AST),Made Shot,Dunk Shot,1,266
+21400577,296,PT04M32.00S,3,1610612765,DET,202713,Singler,K. Singler,174,101,20,Missed,1,0.0,0.0,0,h,MISS Singler 20' Jump Shot,Missed Shot,Jump Shot,1,267
+21400577,297,PT04M31.00S,3,1610612765,DET,201973,Jerebko,J. Jerebko,0,0,0,,0,0.0,0.0,0,h,Jerebko REBOUND (Off:1 Def:2),Rebound,Unknown,1,268
+21400577,298,PT04M28.00S,3,1610612765,DET,201973,Jerebko,J. Jerebko,-4,9,1,Missed,1,0.0,0.0,0,h,MISS Jerebko 1' Tip Shot,Missed Shot,Tip Shot,1,269
+21400577,299,PT04M27.00S,3,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0.0,0.0,0,v,Davis REBOUND (Off:2 Def:6),Rebound,Unknown,1,270
+21400577,300,PT04M19.00S,3,1610612740,NOP,201569,Gordon,E. Gordon,0,0,0,,0,0.0,0.0,0,v,Gordon Bad Pass Turnover (P4.T10),Turnover,Bad Pass,1,271
+21400577,300,PT04M19.00S,3,1610612765,DET,202713,Singler,K. Singler,0,0,0,,0,0.0,0.0,0,h,Singler STEAL (2 STL),,,1,272
+21400577,301,PT04M15.00S,3,1610612765,DET,202713,Singler,K. Singler,0,0,0,,0,0.0,0.0,0,h,Singler Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,273
+21400577,301,PT04M15.00S,3,1610612740,NOP,201967,Cunningham,D. Cunningham,0,0,0,,0,0.0,0.0,0,v,Cunningham STEAL (1 STL),,,1,274
+21400577,302,PT04M09.00S,3,1610612740,NOP,201583,Anderson,R. Anderson,-202,176,27,Made,1,53.0,76.0,129,v,Anderson 27' 3PT Jump Shot (14 PTS) (Davis 1 AST),Made Shot,Jump Shot,1,275
+21400577,303,PT03M58.00S,3,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,h,PISTONS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,276
+21400577,305,PT03M58.00S,3,1610612765,DET,202713,Singler,K. Singler,0,0,0,,0,0.0,0.0,0,h,SUB: Meeks FOR Singler,Substitution,,0,277
+21400577,306,PT03M58.00S,3,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,h,SUB: Butler FOR Monroe,Substitution,,0,278
+21400577,307,PT03M58.00S,3,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,0.0,0.0,0,h,SUB: Anthony FOR Caldwell-Pope,Substitution,,0,279
+21400577,308,PT03M58.00S,3,1610612740,NOP,201967,Cunningham,D. Cunningham,0,0,0,,0,0.0,0.0,0,v,SUB: Fredette FOR Cunningham,Substitution,,0,280
+21400577,309,PT03M38.00S,3,1610612765,DET,201973,Jerebko,J. Jerebko,17,14,2,Missed,1,0.0,0.0,0,h,MISS Jerebko 2' Layup,Missed Shot,Layup Shot,1,281
+21400577,309,PT03M38.00S,3,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0.0,0.0,0,v,Davis BLOCK (3 BLK),,,1,282
+21400577,310,PT03M38.00S,3,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,h,PISTONS Rebound,Rebound,Unknown,0,283
+21400577,311,PT03M38.00S,3,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,h,PISTONS Turnover: Shot Clock (T#7),Turnover,Shot Clock Turnover,0,284
+21400577,312,PT03M23.00S,3,1610612740,NOP,202347,Pondexter,Q. Pondexter,-232,15,0,Missed,1,0.0,0.0,0,v,MISS Pondexter  3PT Jump Shot,Missed Shot,Jump Shot,1,285
+21400577,313,PT03M22.00S,3,1610612765,DET,201202,Anthony,J. Anthony,0,0,0,,0,0.0,0.0,0,h,Anthony REBOUND (Off:0 Def:1),Rebound,Unknown,1,286
+21400577,314,PT03M18.00S,3,1610612740,NOP,202690,Fredette,J. Fredette,0,0,0,,0,0.0,0.0,0,v,Fredette P.FOUL (P2.PN),Foul,Personal,1,287
+21400577,315,PT03M18.00S,3,1610612765,DET,201943,Jennings,B. Jennings,0,0,0,,0,54.0,76.0,130,h,Jennings Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,288
+21400577,317,PT03M18.00S,3,1610612765,DET,201943,Jennings,B. Jennings,0,0,0,,0,55.0,76.0,131,h,Jennings Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,289
+21400577,319,PT02M58.00S,3,1610612740,NOP,202347,Pondexter,Q. Pondexter,-24,17,3,Missed,1,0.0,0.0,0,v,MISS Pondexter 3' Layup,Missed Shot,Layup Shot,1,290
+21400577,319,PT02M58.00S,3,1610612765,DET,201202,Anthony,J. Anthony,0,0,0,,0,0.0,0.0,0,h,Anthony BLOCK (1 BLK),,,1,291
+21400577,320,PT02M56.00S,3,1610612765,DET,201973,Jerebko,J. Jerebko,0,0,0,,0,0.0,0.0,0,h,Jerebko REBOUND (Off:1 Def:3),Rebound,Unknown,1,292
+21400577,321,PT02M47.00S,3,1610612765,DET,201202,Anthony,J. Anthony,-7,7,1,Made,1,57.0,76.0,133,h,Anthony 1' Layup (2 PTS) (Butler 1 AST),Made Shot,Layup Shot,1,293
+21400577,322,PT02M26.00S,3,1610612740,NOP,202690,Fredette,J. Fredette,-194,157,25,Missed,1,0.0,0.0,0,v,MISS Fredette 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,294
+21400577,323,PT02M26.00S,3,1610612765,DET,201202,Anthony,J. Anthony,0,0,0,,0,0.0,0.0,0,h,Anthony REBOUND (Off:0 Def:2),Rebound,Unknown,1,295
+21400577,324,PT02M18.00S,3,1610612765,DET,201943,Jennings,B. Jennings,17,6,2,Missed,1,0.0,0.0,0,h,MISS Jennings 2' Driving Layup,Missed Shot,Driving Layup Shot,1,296
+21400577,325,PT02M17.00S,3,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Pelicans Rebound,Rebound,Unknown,0,297
+21400577,326,PT01M58.00S,3,1610612740,NOP,202690,Fredette,J. Fredette,-174,190,26,Missed,1,0.0,0.0,0,v,MISS Fredette 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,298
+21400577,327,PT01M57.00S,3,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0.0,0.0,0,v,Davis REBOUND (Off:3 Def:6),Rebound,Unknown,1,299
+21400577,328,PT01M54.00S,3,1610612740,NOP,203076,Davis,A. Davis,0,1,0,Made,1,57.0,78.0,135,v,Davis  Putback Dunk (21 PTS),Made Shot,Putback Dunk Shot,1,300
+21400577,329,PT01M49.00S,3,1610612740,NOP,201583,Anderson,R. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson P.FOUL (P1.PN),Foul,Personal,1,301
+21400577,330,PT01M49.00S,3,1610612765,DET,201943,Jennings,B. Jennings,0,0,0,,0,58.0,78.0,136,h,Jennings Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,302
+21400577,332,PT01M49.00S,3,1610612765,DET,201943,Jennings,B. Jennings,0,0,0,,0,59.0,78.0,137,h,Jennings Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,303
+21400577,334,PT01M34.00S,3,1610612740,NOP,202347,Pondexter,Q. Pondexter,233,28,0,Made,1,59.0,81.0,140,v,Pondexter  3PT Jump Shot (3 PTS) (Anderson 2 AST),Made Shot,Jump Shot,1,304
+21400577,335,PT01M18.00S,3,1610612765,DET,201202,Anthony,J. Anthony,-70,12,7,Missed,1,0.0,0.0,0,h,MISS Anthony 7' Jump Shot,Missed Shot,Jump Shot,1,305
+21400577,336,PT01M17.00S,3,1610612740,NOP,202347,Pondexter,Q. Pondexter,0,0,0,,0,0.0,0.0,0,v,Pondexter REBOUND (Off:1 Def:3),Rebound,Unknown,1,306
+21400577,337,PT01M05.00S,3,1610612765,DET,2406,Butler,C. Butler,0,0,0,,0,0.0,0.0,0,h,Butler S.FOUL (P2.PN),Foul,Shooting,1,307
+21400577,338,PT01M05.00S,3,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,59.0,82.0,141,v,Davis Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,0,308
+21400577,340,PT01M05.00S,3,1610612740,NOP,201569,Gordon,E. Gordon,0,0,0,,0,0.0,0.0,0,v,SUB: Evans FOR Gordon,Substitution,,0,309
+21400577,341,PT01M05.00S,3,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,59.0,83.0,142,v,Davis Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,310
+21400577,343,PT00M48.90S,3,1610612765,DET,201943,Jennings,B. Jennings,179,195,26,Missed,1,0.0,0.0,0,h,MISS Jennings 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,311
+21400577,344,PT00M47.90S,3,1610612765,DET,201973,Jerebko,J. Jerebko,0,0,0,,0,0.0,0.0,0,h,Jerebko REBOUND (Off:2 Def:3),Rebound,Unknown,1,312
+21400577,345,PT00M45.80S,3,1610612765,DET,2406,Butler,C. Butler,200,175,27,Made,1,62.0,83.0,145,h,Butler 27' 3PT Jump Shot (3 PTS) (Jennings 3 AST),Made Shot,Jump Shot,1,313
+21400577,346,PT00M27.90S,3,1610612740,NOP,201583,Anderson,R. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,314
+21400577,346,PT00M27.90S,3,1610612765,DET,201973,Jerebko,J. Jerebko,0,0,0,,0,0.0,0.0,0,h,Jerebko STEAL (2 STL),,,1,315
+21400577,347,PT00M21.20S,3,1610612765,DET,201943,Jennings,B. Jennings,-87,247,26,Made,1,65.0,83.0,148,h,Jennings 26' 3PT Jump Shot (18 PTS),Made Shot,Jump Shot,1,316
+21400577,348,PT00M10.90S,3,1610612740,NOP,201936,Evans,T. Evans,9,6,1,Missed,1,0.0,0.0,0,v,MISS Evans 1' Layup,Missed Shot,Layup Shot,1,317
+21400577,349,PT00M08.90S,3,1610612765,DET,201973,Jerebko,J. Jerebko,0,0,0,,0,0.0,0.0,0,h,Jerebko REBOUND (Off:2 Def:4),Rebound,Unknown,1,318
+21400577,350,PT00M06.60S,3,1610612740,NOP,201583,Anderson,R. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson S.FOUL (P2.PN),Foul,Shooting,1,319
+21400577,351,PT00M06.60S,3,1610612765,DET,201943,Jennings,B. Jennings,0,0,0,,0,66.0,83.0,149,h,Jennings Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,320
+21400577,353,PT00M06.60S,3,1610612765,DET,201943,Jennings,B. Jennings,0,0,0,,0,0.0,0.0,0,h,MISS Jennings Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,321
+21400577,355,PT00M05.90S,3,1610612740,NOP,202347,Pondexter,Q. Pondexter,0,0,0,,0,0.0,0.0,0,v,Pondexter REBOUND (Off:1 Def:4),Rebound,Unknown,1,322
+21400577,356,PT00M01.40S,3,1610612740,NOP,203076,Davis,A. Davis,10,15,2,Missed,1,0.0,0.0,0,v,MISS Davis 2' Layup,Missed Shot,Layup Shot,1,323
+21400577,356,PT00M01.40S,3,1610612765,DET,201202,Anthony,J. Anthony,0,0,0,,0,0.0,0.0,0,h,Anthony BLOCK (2 BLK),,,1,324
+21400577,357,PT00M00.80S,3,1610612765,DET,2406,Butler,C. Butler,0,0,0,,0,0.0,0.0,0,h,Butler REBOUND (Off:0 Def:1),Rebound,Unknown,1,325
+21400577,358,PT00M00.00S,3,0,,0,,,0,0,0,,0,66.0,83.0,149,,End of 3rd Period (9:17 PM EST),period,end,0,326
+21400577,360,PT12M00.00S,4,0,,0,,,0,0,0,,0,66.0,83.0,149,,Start of 4th Period (9:19 PM EST),period,start,0,327
+21400577,362,PT11M41.00S,4,1610612740,NOP,202347,Pondexter,Q. Pondexter,-213,116,24,Made,1,66.0,86.0,152,v,Pondexter 24' 3PT Jump Shot (6 PTS) (Evans 7 AST),Made Shot,Jump Shot,1,328
+21400577,363,PT11M27.00S,4,1610612765,DET,201975,Meeks,J. Meeks,184,198,27,Made,1,69.0,86.0,155,h,Meeks 27' 3PT Jump Shot (7 PTS) (Augustin 1 AST),Made Shot,Jump Shot,1,329
+21400577,364,PT11M04.00S,4,1610612740,NOP,202347,Pondexter,Q. Pondexter,132,235,27,Made,1,69.0,89.0,158,v,Pondexter 27' 3PT Jump Shot (9 PTS) (Evans 8 AST),Made Shot,Jump Shot,1,330
+21400577,365,PT10M58.00S,4,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,h,PISTONS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,331
+21400577,367,PT10M58.00S,4,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0.0,0.0,0,v,SUB: Asik FOR Davis,Substitution,,0,332
+21400577,368,PT10M54.00S,4,1610612765,DET,201202,Anthony,J. Anthony,0,0,0,,0,0.0,0.0,0,h,Anthony OFF.Foul (P1),Foul,Offensive,1,333
+21400577,369,PT10M54.00S,4,1610612765,DET,201202,Anthony,J. Anthony,0,0,0,,0,0.0,0.0,0,h,Anthony Foul Turnover (P1.T8),Turnover,Foul,1,334
+21400577,370,PT10M44.00S,4,1610612765,DET,2406,Butler,C. Butler,0,0,0,,0,0.0,0.0,0,h,Butler S.FOUL (P3.T1),Foul,Shooting,1,335
+21400577,371,PT10M44.00S,4,1610612740,NOP,201583,Anderson,R. Anderson,0,0,0,,0,69.0,90.0,159,v,Anderson Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,336
+21400577,373,PT10M44.00S,4,1610612740,NOP,201583,Anderson,R. Anderson,0,0,0,,0,0.0,0.0,0,v,MISS Anderson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,337
+21400577,375,PT10M43.00S,4,1610612765,DET,201975,Meeks,J. Meeks,0,0,0,,0,0.0,0.0,0,h,Meeks REBOUND (Off:0 Def:1),Rebound,Unknown,1,338
+21400577,376,PT10M30.00S,4,1610612765,DET,201202,Anthony,J. Anthony,-5,4,1,Made,1,71.0,90.0,161,h,Anthony 1' Layup (4 PTS) (Augustin 2 AST),Made Shot,Layup Shot,1,339
+21400577,377,PT10M21.00S,4,1610612740,NOP,201583,Anderson,R. Anderson,-109,247,27,Missed,1,0.0,0.0,0,v,MISS Anderson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,340
+21400577,378,PT10M20.00S,4,1610612765,DET,201975,Meeks,J. Meeks,0,0,0,,0,0.0,0.0,0,h,Meeks REBOUND (Off:0 Def:2),Rebound,Unknown,1,341
+21400577,379,PT10M13.00S,4,1610612765,DET,201975,Meeks,J. Meeks,1,1,0,Made,1,73.0,90.0,163,h,Meeks  Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,342
+21400577,380,PT09M48.00S,4,1610612740,NOP,202690,Fredette,J. Fredette,-8,12,1,Missed,1,0.0,0.0,0,v,MISS Fredette 1' Driving Layup,Missed Shot,Driving Layup Shot,1,343
+21400577,381,PT09M48.00S,4,1610612740,NOP,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,Asik REBOUND (Off:3 Def:10),Rebound,Unknown,1,344
+21400577,382,PT09M48.00S,4,1610612765,DET,201975,Meeks,J. Meeks,0,0,0,,0,0.0,0.0,0,h,Meeks S.FOUL (P1.T2),Foul,Shooting,1,345
+21400577,383,PT09M48.00S,4,1610612740,NOP,201600,Asik,O. Asik,0,0,0,,0,73.0,91.0,164,v,Asik Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,346
+21400577,385,PT09M48.00S,4,1610612765,DET,201973,Jerebko,J. Jerebko,0,0,0,,0,0.0,0.0,0,h,SUB: Tolliver FOR Jerebko,Substitution,,0,347
+21400577,386,PT09M48.00S,4,1610612740,NOP,201600,Asik,O. Asik,0,0,0,,0,73.0,92.0,165,v,Asik Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,348
+21400577,388,PT09M30.00S,4,1610612765,DET,2406,Butler,C. Butler,159,89,18,Made,1,75.0,92.0,167,h,Butler 18' Jump Shot (5 PTS),Made Shot,Jump Shot,1,349
+21400577,389,PT09M11.00S,4,1610612740,NOP,201600,Asik,O. Asik,1,37,4,Missed,1,0.0,0.0,0,v,MISS Asik 4' Jump Shot,Missed Shot,Jump Shot,1,350
+21400577,389,PT09M11.00S,4,1610612765,DET,201229,Tolliver,A. Tolliver,0,0,0,,0,0.0,0.0,0,h,Tolliver BLOCK (1 BLK),,,1,351
+21400577,390,PT09M09.00S,4,1610612765,DET,201571,Augustin,D. Augustin,0,0,0,,0,0.0,0.0,0,h,Augustin REBOUND (Off:0 Def:1),Rebound,Unknown,1,352
+21400577,391,PT09M04.00S,4,1610612765,DET,201975,Meeks,J. Meeks,-223,11,0,Missed,1,0.0,0.0,0,h,MISS Meeks  3PT Jump Shot,Missed Shot,Jump Shot,1,353
+21400577,392,PT09M03.00S,4,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,0.0,0.0,0,v,Evans REBOUND (Off:0 Def:5),Rebound,Unknown,1,354
+21400577,393,PT08M51.00S,4,1610612765,DET,201202,Anthony,J. Anthony,0,0,0,,0,0.0,0.0,0,h,Anthony S.FOUL (P2.T3),Foul,Shooting,1,355
+21400577,394,PT08M51.00S,4,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,0.0,0.0,0,v,MISS Evans Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,356
+21400577,395,PT08M51.00S,4,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Pelicans Rebound,Rebound,Normal Rebound,0,357
+21400577,396,PT08M51.00S,4,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,0.0,0.0,0,v,MISS Evans Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,358
+21400577,398,PT08M50.00S,4,1610612765,DET,201229,Tolliver,A. Tolliver,0,0,0,,0,0.0,0.0,0,h,Tolliver REBOUND (Off:0 Def:1),Rebound,Unknown,1,359
+21400577,399,PT08M35.00S,4,1610612765,DET,201975,Meeks,J. Meeks,0,9,1,Made,1,77.0,92.0,169,h,Meeks 1' Driving Layup (11 PTS) (Anthony 1 AST),Made Shot,Driving Layup Shot,1,360
+21400577,400,PT08M15.00S,4,1610612740,NOP,202347,Pondexter,Q. Pondexter,-144,86,17,Missed,1,0.0,0.0,0,v,MISS Pondexter 17' Jump Shot,Missed Shot,Jump Shot,1,361
+21400577,400,PT08M15.00S,4,1610612765,DET,201202,Anthony,J. Anthony,0,0,0,,0,0.0,0.0,0,h,Anthony BLOCK (3 BLK),,,1,362
+21400577,401,PT08M13.00S,4,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,0.0,0.0,0,v,Evans REBOUND (Off:1 Def:5),Rebound,Unknown,1,363
+21400577,402,PT08M11.00S,4,1610612740,NOP,201936,Evans,T. Evans,0,9,1,Made,1,77.0,94.0,171,v,Evans 1' Layup (13 PTS),Made Shot,Layup Shot,1,364
+21400577,403,PT08M00.00S,4,1610612765,DET,201229,Tolliver,A. Tolliver,-232,28,0,Missed,1,0.0,0.0,0,h,MISS Tolliver  3PT Jump Shot,Missed Shot,Jump Shot,1,365
+21400577,404,PT07M59.00S,4,1610612740,NOP,202690,Fredette,J. Fredette,0,0,0,,0,0.0,0.0,0,v,Fredette REBOUND (Off:0 Def:1),Rebound,Unknown,1,366
+21400577,406,PT07M42.00S,4,1610612740,NOP,201583,Anderson,R. Anderson,2,50,5,Missed,1,0.0,0.0,0,v,MISS Anderson 5' Running Jump Shot,Missed Shot,Running Jump Shot,1,367
+21400577,407,PT07M41.00S,4,1610612765,DET,201202,Anthony,J. Anthony,0,0,0,,0,0.0,0.0,0,h,Anthony REBOUND (Off:0 Def:3),Rebound,Unknown,1,368
+21400577,408,PT07M31.00S,4,1610612765,DET,201571,Augustin,D. Augustin,0,12,1,Made,1,79.0,94.0,173,h,Augustin 1' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,369
+21400577,409,PT07M11.00S,4,1610612740,NOP,201583,Anderson,R. Anderson,239,45,24,Missed,1,0.0,0.0,0,v,MISS Anderson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,370
+21400577,410,PT07M11.00S,4,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,h,PISTONS Rebound,Rebound,Unknown,0,371
+21400577,411,PT07M11.00S,4,1610612740,NOP,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,SUB: Davis FOR Asik,Substitution,,0,372
+21400577,412,PT07M11.00S,4,1610612740,NOP,202690,Fredette,J. Fredette,0,0,0,,0,0.0,0.0,0,v,SUB: Gordon FOR Fredette,Substitution,,0,373
+21400577,413,PT06M58.00S,4,1610612765,DET,201229,Tolliver,A. Tolliver,226,119,26,Missed,1,0.0,0.0,0,h,MISS Tolliver 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,374
+21400577,414,PT06M57.00S,4,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,0.0,0.0,0,v,Evans REBOUND (Off:1 Def:6),Rebound,Unknown,1,375
+21400577,415,PT06M39.00S,4,1610612740,NOP,202347,Pondexter,Q. Pondexter,-224,127,26,Missed,1,0.0,0.0,0,v,MISS Pondexter 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,376
+21400577,416,PT06M38.00S,4,1610612740,NOP,201569,Gordon,E. Gordon,0,0,0,,0,0.0,0.0,0,v,Gordon REBOUND (Off:2 Def:0),Rebound,Unknown,1,377
+21400577,417,PT06M12.00S,4,1610612740,NOP,201583,Anderson,R. Anderson,40,42,6,Made,1,79.0,96.0,175,v,Anderson 6' Jump Shot (17 PTS),Made Shot,Jump Shot,1,378
+21400577,418,PT05M55.00S,4,1610612765,DET,201229,Tolliver,A. Tolliver,190,23,19,Missed,1,0.0,0.0,0,h,MISS Tolliver 19' Jump Shot,Missed Shot,Jump Shot,1,379
+21400577,418,PT05M55.00S,4,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0.0,0.0,0,v,Davis BLOCK (4 BLK),,,1,380
+21400577,419,PT05M54.00S,4,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,0.0,0.0,0,v,Evans REBOUND (Off:1 Def:7),Rebound,Unknown,1,381
+21400577,420,PT05M41.00S,4,1610612740,NOP,201936,Evans,T. Evans,-157,69,17,Missed,1,0.0,0.0,0,v,MISS Evans 17' Jump Shot,Missed Shot,Jump Shot,1,382
+21400577,421,PT05M40.00S,4,1610612765,DET,201229,Tolliver,A. Tolliver,0,0,0,,0,0.0,0.0,0,h,Tolliver REBOUND (Off:0 Def:2),Rebound,Unknown,1,383
+21400577,422,PT05M34.00S,4,1610612740,NOP,201583,Anderson,R. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson P.FOUL (P3.T1),Foul,Personal,1,384
+21400577,423,PT05M34.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,385
+21400577,425,PT05M34.00S,4,1610612765,DET,201975,Meeks,J. Meeks,0,0,0,,0,0.0,0.0,0,h,SUB: Caldwell-Pope FOR Meeks,Substitution,,0,386
+21400577,426,PT05M34.00S,4,1610612765,DET,201202,Anthony,J. Anthony,0,0,0,,0,0.0,0.0,0,h,SUB: Monroe FOR Anthony,Substitution,,0,387
+21400577,427,PT05M29.00S,4,1610612765,DET,202328,Monroe,G. Monroe,2,0,0,Missed,1,0.0,0.0,0,h,MISS Monroe  Layup,Missed Shot,Layup Shot,1,388
+21400577,428,PT05M28.00S,4,1610612740,NOP,201569,Gordon,E. Gordon,0,0,0,,0,0.0,0.0,0,v,Gordon REBOUND (Off:2 Def:1),Rebound,Unknown,1,389
+21400577,429,PT05M10.00S,4,1610612740,NOP,203076,Davis,A. Davis,69,31,8,Missed,1,0.0,0.0,0,v,MISS Davis 8' Jump Shot,Missed Shot,Jump Shot,1,390
+21400577,430,PT05M09.00S,4,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,h,Monroe REBOUND (Off:1 Def:6),Rebound,Unknown,1,391
+21400577,431,PT04M57.00S,4,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,0.0,0.0,0,v,Evans S.FOUL (P1.T2),Foul,Shooting,1,392
+21400577,432,PT04M57.00S,4,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,80.0,96.0,176,h,Caldwell-Pope Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,393
+21400577,434,PT04M57.00S,4,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,0.0,0.0,0,h,MISS Caldwell-Pope Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,394
+21400577,436,PT04M55.00S,4,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0.0,0.0,0,v,Davis REBOUND (Off:3 Def:7),Rebound,Unknown,1,395
+21400577,437,PT04M31.00S,4,1610612740,NOP,203076,Davis,A. Davis,-2,48,5,Made,1,80.0,98.0,178,v,Davis 5' Hook Shot (25 PTS) (Gordon 5 AST),Made Shot,Hook Shot,1,396
+21400577,438,PT04M10.00S,4,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,2,7,1,Missed,1,0.0,0.0,0,h,MISS Caldwell-Pope 1' Layup,Missed Shot,Layup Shot,1,397
+21400577,438,PT04M10.00S,4,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,0.0,0.0,0,v,Evans BLOCK (1 BLK),,,1,398
+21400577,439,PT04M08.00S,4,1610612740,NOP,202347,Pondexter,Q. Pondexter,0,0,0,,0,0.0,0.0,0,v,Pondexter REBOUND (Off:1 Def:5),Rebound,Unknown,1,399
+21400577,440,PT03M49.00S,4,1610612740,NOP,201569,Gordon,E. Gordon,-41,23,5,Missed,1,0.0,0.0,0,v,MISS Gordon 5' Jump Shot,Missed Shot,Jump Shot,1,400
+21400577,440,PT03M49.00S,4,1610612765,DET,201229,Tolliver,A. Tolliver,0,0,0,,0,0.0,0.0,0,h,Tolliver BLOCK (2 BLK),,,1,401
+21400577,441,PT03M46.00S,4,1610612765,DET,2406,Butler,C. Butler,0,0,0,,0,0.0,0.0,0,h,Butler REBOUND (Off:0 Def:2),Rebound,Unknown,1,402
+21400577,442,PT03M32.00S,4,1610612765,DET,202328,Monroe,G. Monroe,43,12,4,Missed,1,0.0,0.0,0,h,MISS Monroe 4' Jump Shot,Missed Shot,Jump Shot,1,403
+21400577,442,PT03M32.00S,4,1610612740,NOP,201583,Anderson,R. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson BLOCK (1 BLK),,,1,404
+21400577,443,PT03M30.00S,4,1610612740,NOP,201569,Gordon,E. Gordon,0,0,0,,0,0.0,0.0,0,v,Gordon REBOUND (Off:2 Def:2),Rebound,Unknown,1,405
+21400577,444,PT03M15.00S,4,1610612740,NOP,203076,Davis,A. Davis,0,1,0,Made,1,80.0,100.0,180,v,Davis  Dunk (27 PTS) (Evans 9 AST),Made Shot,Dunk Shot,1,406
+21400577,445,PT03M04.00S,4,1610612765,DET,201571,Augustin,D. Augustin,-79,252,26,Made,1,83.0,100.0,183,h,Augustin 26' 3PT Jump Shot (11 PTS),Made Shot,Jump Shot,1,407
+21400577,446,PT02M47.00S,4,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,0.0,0.0,0,v,Evans Lost Ball Turnover (P2.T12),Turnover,Lost Ball,1,408
+21400577,446,PT02M47.00S,4,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,0.0,0.0,0,h,Caldwell-Pope STEAL (1 STL),,,1,409
+21400577,447,PT02M41.00S,4,1610612740,NOP,201583,Anderson,R. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson S.FOUL (P4.T3),Foul,Shooting,1,410
+21400577,448,PT02M41.00S,4,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Pelicans Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,411
+21400577,451,PT02M41.00S,4,1610612740,NOP,203076,Davis,A. Davis,0,0,0,,0,0.0,0.0,0,v,SUB: Asik FOR Davis,Substitution,,0,412
+21400577,452,PT02M41.00S,4,1610612765,DET,2406,Butler,C. Butler,0,0,0,,0,0.0,0.0,0,h,SUB: Martin FOR Butler,Substitution,,0,413
+21400577,453,PT02M41.00S,4,1610612765,DET,201571,Augustin,D. Augustin,0,0,0,,0,84.0,100.0,184,h,Augustin Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,414
+21400577,455,PT02M41.00S,4,1610612765,DET,201571,Augustin,D. Augustin,0,0,0,,0,85.0,100.0,185,h,Augustin Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,415
+21400577,457,PT02M24.00S,4,1610612740,NOP,201936,Evans,T. Evans,-235,22,24,Made,1,85.0,103.0,188,v,Evans 24' 3PT Jump Shot (16 PTS) (Asik 2 AST),Made Shot,Jump Shot,1,416
+21400577,458,PT02M01.00S,4,1610612765,DET,201229,Tolliver,A. Tolliver,-54,37,7,Made,1,87.0,103.0,190,h,Tolliver 7' Jump Shot (4 PTS) (Augustin 3 AST),Made Shot,Jump Shot,1,417
+21400577,459,PT01M32.00S,4,1610612740,NOP,201936,Evans,T. Evans,-182,107,21,Missed,1,0.0,0.0,0,v,MISS Evans 21' Jump Shot,Missed Shot,Jump Shot,1,418
+21400577,460,PT01M31.00S,4,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,h,Monroe REBOUND (Off:1 Def:7),Rebound,Unknown,1,419
+21400577,461,PT01M20.00S,4,1610612765,DET,201229,Tolliver,A. Tolliver,1,4,0,Made,1,89.0,103.0,192,h,Tolliver  Layup (6 PTS) (Monroe 5 AST),Made Shot,Layup Shot,1,420
+21400577,462,PT01M02.00S,4,1610612740,NOP,201936,Evans,T. Evans,-2,14,1,Made,1,89.0,105.0,194,v,Evans 1' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,1,421
+21400577,463,PT00M42.60S,4,1610612765,DET,203484,Caldwell-Pope,K. Caldwell-Pope,6,6,1,Made,1,91.0,105.0,196,h,Caldwell-Pope 1' Driving Finger Roll Layup (8 PTS),Made Shot,Driving Finger Roll Layup Shot,1,422
+21400577,464,PT00M24.90S,4,1610612740,NOP,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,Asik Traveling Turnover (P2.T13),Turnover,Traveling,1,423
+21400577,465,PT00M24.90S,4,1610612765,DET,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,h,SUB: Anthony FOR Monroe,Substitution,,0,424
+21400577,466,PT00M24.90S,4,1610612740,NOP,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,v,SUB: Babbitt FOR Asik,Substitution,,0,425
+21400577,467,PT00M24.90S,4,1610612740,NOP,201569,Gordon,E. Gordon,0,0,0,,0,0.0,0.0,0,v,SUB: Withey FOR Gordon,Substitution,,0,426
+21400577,468,PT00M24.90S,4,1610612740,NOP,201936,Evans,T. Evans,0,0,0,,0,0.0,0.0,0,v,SUB: Fredette FOR Evans,Substitution,,0,427
+21400577,469,PT00M24.90S,4,1610612740,NOP,201583,Anderson,R. Anderson,0,0,0,,0,0.0,0.0,0,v,SUB: Ajinca FOR Anderson,Substitution,,0,428
+21400577,470,PT00M10.90S,4,1610612765,DET,201229,Tolliver,A. Tolliver,231,33,0,Made,1,94.0,105.0,199,h,Tolliver  3PT Jump Shot (9 PTS) (Augustin 4 AST),Made Shot,Jump Shot,1,429
+21400577,471,PT00M00.00S,4,0,,0,,,0,0,0,,0,94.0,105.0,199,,End of 4th Period (9:44 PM EST),period,end,0,430

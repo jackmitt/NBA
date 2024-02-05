@@ -1,0 +1,481 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+21001143,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (6:13 PM EST),period,start,0,1
+21001143,1,PT12M00.00S,1,1610612752,NYK,2405,Stoudemire,A. Stoudemire,0,0,0,,0,,,0,h,Jump Ball Stoudemire vs. Hollins: Tip to Hickson,Jump Ball,,0,2
+21001143,2,PT11M40.00S,1,1610612739,CLE,201581,Hickson,J. Hickson,0,0,0,,0,,,0,v,Hickson Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,0,3
+21001143,3,PT11M18.00S,1,1610612752,NYK,202361,Fields,L. Fields,0,0,0,,0,,,0,h,Fields Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,4
+21001143,3,PT11M18.00S,1,1610612739,CLE,201581,Hickson,J. Hickson,0,0,0,,0,,,0,v,Hickson STEAL (1 STL),,,0,5
+21001143,4,PT11M12.00S,1,1610612739,CLE,201581,Hickson,J. Hickson,-10,15,2,Made,1,0.0,2.0,2,v,Hickson 2' Driving Dunk (2 PTS),Made Shot,Driving Dunk Shot,0,6
+21001143,5,PT11M02.00S,1,1610612752,NYK,202361,Fields,L. Fields,-13,-5,1,Missed,1,,,0,h,MISS Fields 1' Layup,Missed Shot,Layup Shot,0,7
+21001143,6,PT11M00.00S,1,1610612739,CLE,201581,Hickson,J. Hickson,0,0,0,,0,,,0,v,Hickson REBOUND (Off:0 Def:1),Rebound,Unknown,0,8
+21001143,7,PT10M48.00S,1,1610612739,CLE,1884,Davis,B. Davis,0,0,0,,0,,,0,v,Davis Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,9
+21001143,7,PT10M48.00S,1,1610612752,NYK,202361,Fields,L. Fields,0,0,0,,0,,,0,h,Fields STEAL (1 STL),,,0,10
+21001143,8,PT10M48.00S,1,1610612739,CLE,1884,Davis,B. Davis,0,0,0,,0,,,0,v,Davis P.FOUL (P1.T1),Foul,Personal,0,11
+21001143,9,PT10M36.00S,1,1610612752,NYK,2405,Stoudemire,A. Stoudemire,-71,138,16,Missed,1,,,0,h,MISS Stoudemire 16' Jump Shot,Missed Shot,Jump Shot,0,12
+21001143,10,PT10M35.00S,1,1610612739,CLE,200797,Hollins,R. Hollins,0,0,0,,0,,,0,v,Hollins REBOUND (Off:0 Def:1),Rebound,Unknown,0,13
+21001143,11,PT10M22.00S,1,1610612739,CLE,1515,Parker,A. Parker,-112,164,20,Made,1,0.0,4.0,4,v,Parker 20' Jump Shot (2 PTS) (Davis 1 AST),Made Shot,Jump Shot,0,14
+21001143,12,PT10M10.00S,1,1610612752,NYK,1497,Billups,C. Billups,7,254,25,Made,1,3.0,4.0,7,h,Billups 25' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,0,15
+21001143,13,PT09M54.00S,1,1610612739,CLE,1884,Davis,B. Davis,-26,266,27,Made,1,3.0,7.0,10,v,Davis 27' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,0,16
+21001143,14,PT09M41.00S,1,1610612752,NYK,202361,Fields,L. Fields,0,30,3,Missed,1,,,0,h,MISS Fields 3' Layup,Missed Shot,Layup Shot,0,17
+21001143,14,PT09M41.00S,1,1610612739,CLE,200797,Hollins,R. Hollins,0,0,0,,0,,,0,v,Hollins BLOCK (1 BLK),,,0,18
+21001143,15,PT09M39.00S,1,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,,,0,v,Gee REBOUND (Off:0 Def:1),Rebound,Unknown,0,19
+21001143,16,PT09M32.00S,1,1610612739,CLE,201581,Hickson,J. Hickson,-13,11,2,Made,1,3.0,9.0,12,v,Hickson 2' Finger Roll Layup (4 PTS),Made Shot,Finger Roll Layup Shot,0,20
+21001143,17,PT09M24.00S,1,1610612752,NYK,2405,Stoudemire,A. Stoudemire,0,0,0,,0,,,0,h,Stoudemire Step Out of Bounds Turnover (P1.T2),Turnover,Step Out of Bounds Turnover,0,21
+21001143,18,PT09M11.00S,1,1610612739,CLE,1884,Davis,B. Davis,0,0,0,,0,,,0,v,Davis Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,22
+21001143,18,PT09M11.00S,1,1610612752,NYK,2546,Anthony,C. Anthony,0,0,0,,0,,,0,h,Anthony STEAL (1 STL),,,0,23
+21001143,19,PT09M06.00S,1,1610612752,NYK,1497,Billups,C. Billups,15,19,2,Made,1,5.0,9.0,14,h,Billups 2' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,0,24
+21001143,20,PT08M45.00S,1,1610612739,CLE,201581,Hickson,J. Hickson,-160,15,16,Made,1,5.0,11.0,16,v,Hickson 16' Jump Shot (6 PTS) (Parker 1 AST),Made Shot,Jump Shot,0,25
+21001143,21,PT08M30.00S,1,1610612739,CLE,1884,Davis,B. Davis,0,0,0,,0,,,0,v,Davis P.FOUL (P2.T2),Foul,Personal,0,26
+21001143,22,PT08M30.00S,1,1610612739,CLE,1884,Davis,B. Davis,0,0,0,,0,,,0,v,SUB: Sessions FOR Davis,Substitution,,0,27
+21001143,23,PT08M19.00S,1,1610612752,NYK,2546,Anthony,C. Anthony,-23,4,2,Made,1,7.0,11.0,18,h,Anthony 2' Driving Layup (2 PTS) (Fields 1 AST),Made Shot,Driving Layup Shot,0,28
+21001143,24,PT08M19.00S,1,1610612739,CLE,200797,Hollins,R. Hollins,0,0,0,,0,,,0,v,Hollins S.FOUL (P1.T3),Foul,Shooting,0,29
+21001143,25,PT08M19.00S,1,1610612752,NYK,2546,Anthony,C. Anthony,0,0,0,,0,8.0,11.0,19,h,Anthony Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,30
+21001143,27,PT08M06.00S,1,1610612739,CLE,201196,Sessions,R. Sessions,-138,137,19,Missed,1,,,0,v,MISS Sessions 19' Jump Shot,Missed Shot,Jump Shot,0,31
+21001143,28,PT08M03.00S,1,1610612739,CLE,201581,Hickson,J. Hickson,0,0,0,,0,,,0,v,Hickson REBOUND (Off:1 Def:1),Rebound,Unknown,0,32
+21001143,29,PT08M03.00S,1,1610612739,CLE,201581,Hickson,J. Hickson,12,0,1,Missed,1,,,0,v,MISS Hickson 1' Tip Shot,Missed Shot,Tip Shot,0,33
+21001143,30,PT08M02.00S,1,1610612752,NYK,202361,Fields,L. Fields,0,0,0,,0,,,0,h,Fields REBOUND (Off:0 Def:1),Rebound,Unknown,0,34
+21001143,31,PT07M54.00S,1,1610612752,NYK,1497,Billups,C. Billups,-81,99,13,Made,1,10.0,11.0,21,h,Billups 13' Jump Shot (7 PTS),Made Shot,Jump Shot,0,35
+21001143,32,PT07M43.00S,1,1610612739,CLE,201581,Hickson,J. Hickson,12,197,20,Made,1,10.0,13.0,23,v,Hickson 20' Jump Shot (8 PTS) (Sessions 1 AST),Made Shot,Jump Shot,0,36
+21001143,33,PT07M22.00S,1,1610612752,NYK,200749,Williams,S. Williams,119,0,12,Made,1,12.0,13.0,25,h,Shel. Williams 12' Jump Shot (2 PTS) (Anthony 1 AST),Made Shot,Jump Shot,0,37
+21001143,35,PT07M11.00S,1,1610612739,CLE,1515,Parker,A. Parker,-179,-6,18,Missed,1,,,0,v,MISS Parker 18' Jump Shot,Missed Shot,Jump Shot,0,38
+21001143,36,PT07M11.00S,1,1610612752,NYK,200749,Williams,S. Williams,0,0,0,,0,,,0,h,Shel. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,39
+21001143,37,PT07M01.00S,1,1610612752,NYK,2405,Stoudemire,A. Stoudemire,121,140,19,Missed,1,,,0,h,MISS Stoudemire 19' Jump Shot,Missed Shot,Jump Shot,0,40
+21001143,38,PT07M00.00S,1,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,,,0,v,Gee REBOUND (Off:0 Def:2),Rebound,Unknown,0,41
+21001143,39,PT06M54.00S,1,1610612739,CLE,200797,Hollins,R. Hollins,4,9,1,Made,1,12.0,15.0,27,v,Hollins 1' Alley Oop Dunk (2 PTS) (Sessions 2 AST),Made Shot,Alley Oop Dunk Shot,0,42
+21001143,40,PT06M41.00S,1,1610612752,NYK,1497,Billups,C. Billups,121,0,12,Made,1,14.0,15.0,29,h,Billups 12' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,0,43
+21001143,41,PT06M27.00S,1,1610612739,CLE,201581,Hickson,J. Hickson,122,31,13,Missed,1,,,0,v,MISS Hickson 13' Jump Shot,Missed Shot,Jump Shot,0,44
+21001143,42,PT06M26.00S,1,1610612752,NYK,2546,Anthony,C. Anthony,0,0,0,,0,,,0,h,Anthony REBOUND (Off:0 Def:1),Rebound,Unknown,0,45
+21001143,43,PT06M17.00S,1,1610612752,NYK,2546,Anthony,C. Anthony,95,224,24,Missed,1,,,0,h,MISS Anthony 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,46
+21001143,44,PT06M17.00S,1,1610612739,CLE,1515,Parker,A. Parker,0,0,0,,0,,,0,v,Parker REBOUND (Off:0 Def:1),Rebound,Unknown,0,47
+21001143,45,PT06M12.00S,1,1610612752,NYK,200749,Williams,S. Williams,0,0,0,,0,,,0,h,Shel. Williams P.FOUL (P1.T1),Foul,Personal,0,48
+21001143,46,PT06M12.00S,1,1610612739,CLE,200797,Hollins,R. Hollins,0,0,0,,0,,,0,v,SUB: Samuels FOR Hollins,Substitution,,0,49
+21001143,47,PT06M04.00S,1,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,,,0,v,Gee Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,50
+21001143,47,PT06M04.00S,1,1610612752,NYK,202361,Fields,L. Fields,0,0,0,,0,,,0,h,Fields STEAL (2 STL),,,0,51
+21001143,48,PT05M58.00S,1,1610612752,NYK,202361,Fields,L. Fields,4,3,1,Missed,1,,,0,h,MISS Fields 1' Slam Dunk,Missed Shot,Slam Dunk Shot,0,52
+21001143,49,PT05M57.00S,1,1610612752,NYK,200749,Williams,S. Williams,0,0,0,,0,,,0,h,Shel. Williams REBOUND (Off:1 Def:1),Rebound,Unknown,0,53
+21001143,50,PT05M56.00S,1,1610612752,NYK,200749,Williams,S. Williams,-3,6,1,Missed,1,,,0,h,MISS Shel. Williams 1' Layup,Missed Shot,Layup Shot,0,54
+21001143,51,PT05M55.00S,1,1610612739,CLE,201581,Hickson,J. Hickson,0,0,0,,0,,,0,v,Hickson REBOUND (Off:1 Def:2),Rebound,Unknown,0,55
+21001143,52,PT05M52.00S,1,1610612752,NYK,2546,Anthony,C. Anthony,0,0,0,,0,,,0,h,Anthony S.FOUL (P1.T2),Foul,Shooting,0,56
+21001143,53,PT05M52.00S,1,0,,1610612752,,,0,0,0,,0,,,0,h,KNICKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,57
+21001143,56,PT05M52.00S,1,1610612752,NYK,200749,Williams,S. Williams,0,0,0,,0,,,0,h,SUB: Jeffries FOR Shel. Williams,Substitution,,0,58
+21001143,57,PT05M52.00S,1,1610612739,CLE,201581,Hickson,J. Hickson,0,0,0,,0,,,0,v,MISS Hickson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,59
+21001143,58,PT05M52.00S,1,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,60
+21001143,59,PT05M52.00S,1,1610612739,CLE,201581,Hickson,J. Hickson,0,0,0,,0,14.0,16.0,30,v,Hickson Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,61
+21001143,61,PT05M36.00S,1,1610612752,NYK,2405,Stoudemire,A. Stoudemire,-7,55,6,Made,1,16.0,16.0,32,h,Stoudemire 6' Jump Shot (2 PTS),Made Shot,Jump Shot,0,62
+21001143,62,PT05M15.00S,1,1610612739,CLE,202396,Samuels,S. Samuels,0,0,0,,0,,,0,v,Samuels Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,63
+21001143,62,PT05M15.00S,1,1610612752,NYK,2405,Stoudemire,A. Stoudemire,0,0,0,,0,,,0,h,Stoudemire STEAL (1 STL),,,0,64
+21001143,63,PT05M06.00S,1,1610612752,NYK,2405,Stoudemire,A. Stoudemire,-2,9,1,Made,1,18.0,16.0,34,h,Stoudemire 1' Driving Dunk (4 PTS) (Anthony 2 AST),Made Shot,Driving Dunk Shot,0,65
+21001143,64,PT04M42.00S,1,1610612739,CLE,1515,Parker,A. Parker,0,0,0,,0,,,0,v,Parker Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,66
+21001143,64,PT04M42.00S,1,1610612752,NYK,202361,Fields,L. Fields,0,0,0,,0,,,0,h,Fields STEAL (3 STL),,,0,67
+21001143,65,PT04M36.00S,1,1610612752,NYK,202361,Fields,L. Fields,15,17,2,Made,1,20.0,16.0,36,h,Fields 2' Driving Layup (2 PTS) (Billups 1 AST),Made Shot,Driving Layup Shot,0,68
+21001143,66,PT04M19.00S,1,1610612752,NYK,202361,Fields,L. Fields,0,0,0,,0,,,0,h,Fields S.FOUL (P1.T3),Foul,Shooting,0,69
+21001143,67,PT04M19.00S,1,1610612739,CLE,1515,Parker,A. Parker,0,0,0,,0,,,0,v,MISS Parker Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,70
+21001143,68,PT04M19.00S,1,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,71
+21001143,69,PT04M19.00S,1,1610612752,NYK,202361,Fields,L. Fields,0,0,0,,0,,,0,h,SUB: Douglas FOR Fields,Substitution,,0,72
+21001143,70,PT04M19.00S,1,1610612739,CLE,1515,Parker,A. Parker,0,0,0,,0,,,0,v,MISS Parker Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,73
+21001143,72,PT04M19.00S,1,1610612752,NYK,1497,Billups,C. Billups,0,0,0,,0,,,0,h,Billups REBOUND (Off:0 Def:1),Rebound,Unknown,0,74
+21001143,73,PT04M11.00S,1,1610612752,NYK,1497,Billups,C. Billups,-76,230,24,Made,1,23.0,16.0,39,h,Billups 24' 3PT Jump Shot (12 PTS),Made Shot,Jump Shot,0,75
+21001143,74,PT03M53.00S,1,1610612739,CLE,201196,Sessions,R. Sessions,-128,60,14,Missed,1,,,0,v,MISS Sessions 14' Jump Shot,Missed Shot,Jump Shot,0,76
+21001143,75,PT03M52.00S,1,1610612752,NYK,2546,Anthony,C. Anthony,0,0,0,,0,,,0,h,Anthony REBOUND (Off:0 Def:2),Rebound,Unknown,0,77
+21001143,76,PT03M46.00S,1,1610612752,NYK,1497,Billups,C. Billups,75,238,25,Made,1,26.0,16.0,42,h,Billups 25' 3PT Jump Shot (15 PTS),Made Shot,Jump Shot,0,78
+21001143,77,PT03M36.00S,1,1610612752,NYK,201962,Douglas,T. Douglas,0,0,0,,0,,,0,h,Douglas P.FOUL (P1.T4),Foul,Personal,0,79
+21001143,78,PT03M36.00S,1,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,80
+21001143,80,PT03M36.00S,1,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,,,0,v,SUB: Eyenga FOR Gee,Substitution,,0,81
+21001143,81,PT03M36.00S,1,1610612739,CLE,1515,Parker,A. Parker,0,0,0,,0,,,0,v,SUB: Gibson FOR Parker,Substitution,,0,82
+21001143,82,PT03M36.00S,1,1610612752,NYK,2405,Stoudemire,A. Stoudemire,0,0,0,,0,,,0,h,SUB: Sha. Williams FOR Stoudemire,Substitution,,0,83
+21001143,83,PT03M21.00S,1,1610612739,CLE,202396,Samuels,S. Samuels,0,0,0,,0,,,0,v,Samuels Lost Ball Turnover (P2.T7),Turnover,Lost Ball,0,84
+21001143,83,PT03M21.00S,1,1610612752,NYK,2546,Anthony,C. Anthony,0,0,0,,0,,,0,h,Anthony STEAL (2 STL),,,0,85
+21001143,84,PT03M17.00S,1,1610612739,CLE,201196,Sessions,R. Sessions,0,0,0,,0,,,0,v,Sessions S.FOUL (P1.T4),Foul,Shooting,0,86
+21001143,85,PT03M17.00S,1,1610612752,NYK,1497,Billups,C. Billups,0,0,0,,0,27.0,16.0,43,h,Billups Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,87
+21001143,87,PT03M17.00S,1,1610612752,NYK,1497,Billups,C. Billups,0,0,0,,0,28.0,16.0,44,h,Billups Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,88
+21001143,89,PT03M03.00S,1,1610612739,CLE,201581,Hickson,J. Hickson,-11,67,7,Made,1,28.0,18.0,46,v,Hickson 7' Floating Jump Shot (11 PTS),Made Shot,Floating Jump shot,0,89
+21001143,91,PT02M47.00S,1,1610612739,CLE,202396,Samuels,S. Samuels,0,0,0,,0,,,0,v,Samuels Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,90
+21001143,90,PT02M47.00S,1,1610612752,NYK,2546,Anthony,C. Anthony,21,7,2,Made,1,30.0,18.0,48,h,Anthony 2' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,0,91
+21001143,92,PT02M30.00S,1,1610612739,CLE,201581,Hickson,J. Hickson,-155,-11,16,Made,1,30.0,20.0,50,v,Hickson 16' Turnaround Jump Shot (13 PTS),Made Shot,Turnaround Jump Shot,0,92
+21001143,93,PT02M15.00S,1,1610612752,NYK,2546,Anthony,C. Anthony,6,4,1,Made,1,32.0,20.0,52,h,Anthony 1' Driving Layup (7 PTS) (Billups 2 AST),Made Shot,Driving Layup Shot,0,93
+21001143,94,PT01M52.00S,1,1610612752,NYK,200761,Williams,S. Williams,0,0,0,,0,,,0,h,Sha. Williams S.FOUL (P1.PN),Foul,Shooting,0,94
+21001143,95,PT01M52.00S,1,1610612739,CLE,201581,Hickson,J. Hickson,0,0,0,,0,,,0,v,SUB: Harangody FOR Hickson,Substitution,,0,95
+21001143,96,PT01M52.00S,1,1610612739,CLE,202396,Samuels,S. Samuels,0,0,0,,0,,,0,v,MISS Samuels Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,96
+21001143,97,PT01M52.00S,1,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,97
+21001143,98,PT01M52.00S,1,1610612752,NYK,1497,Billups,C. Billups,0,0,0,,0,,,0,h,SUB: Carter FOR Billups,Substitution,,0,98
+21001143,99,PT01M52.00S,1,1610612739,CLE,202396,Samuels,S. Samuels,0,0,0,,0,32.0,21.0,53,v,Samuels Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,99
+21001143,101,PT01M38.00S,1,1610612752,NYK,2546,Anthony,C. Anthony,-23,183,18,Made,1,34.0,21.0,55,h,Anthony 18' Jump Shot (9 PTS) (Carter 1 AST),Made Shot,Jump Shot,0,100
+21001143,102,PT01M17.00S,1,1610612739,CLE,201196,Sessions,R. Sessions,0,0,0,,0,,,0,v,Sessions Out of Bounds Lost Ball Turnover (P1.T8),Turnover,Out of Bounds Lost Ball Turnover,0,101
+21001143,103,PT01M03.00S,1,1610612752,NYK,200761,Williams,S. Williams,0,0,0,,0,,,0,h,Sha. Williams Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,102
+21001143,103,PT01M03.00S,1,1610612739,CLE,200789,Gibson,D. Gibson,0,0,0,,0,,,0,v,Gibson STEAL (1 STL),,,0,103
+21001143,104,PT01M00.00S,1,1610612739,CLE,201963,Eyenga,C. Eyenga,1,1,0,Made,1,34.0,23.0,57,v,Eyenga Slam Dunk (2 PTS),Made Shot,Slam Dunk Shot,0,104
+21001143,105,PT00M52.90S,1,1610612752,NYK,201962,Douglas,T. Douglas,94,1,9,Missed,1,,,0,h,MISS Douglas 9' Jump Shot,Missed Shot,Jump Shot,0,105
+21001143,106,PT00M52.40S,1,1610612739,CLE,202376,Harangody,L. Harangody,0,0,0,,0,,,0,v,Harangody REBOUND (Off:0 Def:1),Rebound,Unknown,0,106
+21001143,107,PT00M45.90S,1,1610612739,CLE,201196,Sessions,R. Sessions,-15,6,2,Missed,1,,,0,v,MISS Sessions 2' Layup,Missed Shot,Layup Shot,0,107
+21001143,108,PT00M43.90S,1,1610612739,CLE,202396,Samuels,S. Samuels,0,0,0,,0,,,0,v,Samuels REBOUND (Off:1 Def:0),Rebound,Unknown,0,108
+21001143,109,PT00M42.90S,1,1610612739,CLE,202396,Samuels,S. Samuels,24,1,2,Missed,1,,,0,v,MISS Samuels 2' Layup,Missed Shot,Layup Shot,0,109
+21001143,109,PT00M42.90S,1,1610612752,NYK,2407,Jeffries,J. Jeffries,0,0,0,,0,,,0,h,Jeffries BLOCK (1 BLK),,,0,110
+21001143,110,PT00M40.70S,1,1610612752,NYK,2407,Jeffries,J. Jeffries,0,0,0,,0,,,0,h,Jeffries REBOUND (Off:0 Def:1),Rebound,Unknown,0,111
+21001143,111,PT00M33.90S,1,1610612752,NYK,2546,Anthony,C. Anthony,-105,230,25,Missed,1,,,0,h,MISS Anthony 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,112
+21001143,112,PT00M33.70S,1,1610612739,CLE,202396,Samuels,S. Samuels,0,0,0,,0,,,0,v,Samuels REBOUND (Off:1 Def:1),Rebound,Unknown,0,113
+21001143,113,PT00M21.70S,1,1610612739,CLE,201196,Sessions,R. Sessions,-15,1,2,Made,1,34.0,25.0,59,v,Sessions 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,114
+21001143,115,PT00M04.20S,1,1610612739,CLE,201963,Eyenga,C. Eyenga,0,0,0,,0,,,0,v,Eyenga S.FOUL (P1.PN),Foul,Shooting,0,115
+21001143,116,PT00M04.20S,1,1610612752,NYK,2546,Anthony,C. Anthony,0,0,0,,0,35.0,25.0,60,h,Anthony Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,116
+21001143,118,PT00M04.20S,1,1610612752,NYK,2546,Anthony,C. Anthony,0,0,0,,0,36.0,25.0,61,h,Anthony Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,117
+21001143,120,PT00M00.20S,1,1610612739,CLE,201196,Sessions,R. Sessions,212,138,25,Missed,1,,,0,v,MISS Sessions 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,118
+21001143,121,PT00M00.00S,1,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,119
+21001143,122,PT00M00.00S,1,0,,0,,,0,0,0,,0,36.0,25.0,61,,End of 1st Period (6:38 PM EST),period,end,0,120
+21001143,124,PT12M00.00S,2,0,,0,,,0,0,0,,0,36.0,25.0,61,,Start of 2nd Period (6:41 PM EST),period,start,0,121
+21001143,125,PT11M44.00S,2,1610612752,NYK,1853,Carter,A. Carter,-27,3,3,Missed,1,,,0,h,MISS Carter 3' Layup,Missed Shot,Layup Shot,0,122
+21001143,126,PT11M42.00S,2,1610612739,CLE,202376,Harangody,L. Harangody,0,0,0,,0,,,0,v,Harangody REBOUND (Off:0 Def:2),Rebound,Unknown,0,123
+21001143,127,PT11M38.00S,2,1610612739,CLE,202396,Samuels,S. Samuels,2,17,2,Made,1,36.0,27.0,63,v,Samuels 2' Layup (3 PTS) (Sessions 3 AST),Made Shot,Layup Shot,0,124
+21001143,128,PT11M11.00S,2,1610612752,NYK,201611,Walker,H. Walker,124,216,25,Made,1,39.0,27.0,66,h,Walker 25' 3PT Jump Shot (3 PTS) (Douglas 1 AST),Made Shot,Jump Shot,0,125
+21001143,129,PT10M59.00S,2,1610612739,CLE,201963,Eyenga,C. Eyenga,-239,12,24,Missed,1,,,0,v,MISS Eyenga 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,126
+21001143,130,PT10M59.00S,2,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,127
+21001143,131,PT10M59.00S,2,1610612752,NYK,201611,Walker,H. Walker,0,0,0,,0,,,0,h,Walker L.B.FOUL (P1.T1),Foul,Loose Ball,0,128
+21001143,132,PT10M59.00S,2,1610612752,NYK,2407,Jeffries,J. Jeffries,0,0,0,,0,,,0,h,SUB: Stoudemire FOR Jeffries,Substitution,,0,129
+21001143,133,PT10M45.00S,2,1610612739,CLE,200789,Gibson,D. Gibson,-123,129,18,Made,1,39.0,29.0,68,v,Gibson 18' Jump Shot (2 PTS) (Sessions 4 AST),Made Shot,Jump Shot,0,130
+21001143,134,PT10M27.00S,2,1610612752,NYK,2405,Stoudemire,A. Stoudemire,179,75,19,Made,1,41.0,29.0,70,h,Stoudemire 19' Jump Shot (6 PTS),Made Shot,Jump Shot,0,131
+21001143,135,PT10M15.00S,2,1610612752,NYK,2405,Stoudemire,A. Stoudemire,0,0,0,,0,,,0,h,Stoudemire P.FOUL (P1.T2),Foul,Personal,0,132
+21001143,136,PT10M15.00S,2,1610612739,CLE,202396,Samuels,S. Samuels,0,0,0,,0,,,0,v,SUB: Hollins FOR Samuels,Substitution,,0,133
+21001143,137,PT10M08.00S,2,1610612739,CLE,201196,Sessions,R. Sessions,70,44,8,Missed,1,,,0,v,MISS Sessions 8' Jump Shot,Missed Shot,Jump Shot,0,134
+21001143,138,PT10M06.00S,2,1610612752,NYK,2405,Stoudemire,A. Stoudemire,0,0,0,,0,,,0,h,Stoudemire REBOUND (Off:0 Def:1),Rebound,Unknown,0,135
+21001143,139,PT10M01.00S,2,1610612752,NYK,2405,Stoudemire,A. Stoudemire,0,0,0,,0,,,0,h,Stoudemire Lost Ball Turnover (P2.T4),Turnover,Lost Ball,0,136
+21001143,139,PT10M01.00S,2,1610612739,CLE,201196,Sessions,R. Sessions,0,0,0,,0,,,0,v,Sessions STEAL (1 STL),,,0,137
+21001143,140,PT09M57.00S,2,1610612739,CLE,201963,Eyenga,C. Eyenga,-5,14,1,Made,1,41.0,31.0,72,v,Eyenga 1' Driving Finger Roll Layup (4 PTS) (Sessions 5 AST),Made Shot,Driving Finger Roll Layup Shot,0,138
+21001143,141,PT09M48.00S,2,1610612752,NYK,201962,Douglas,T. Douglas,7,249,25,Made,1,44.0,31.0,75,h,Douglas 25' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,0,139
+21001143,142,PT09M32.00S,2,1610612752,NYK,200761,Williams,S. Williams,0,0,0,,0,,,0,h,Sha. Williams S.FOUL (P2.T3),Foul,Shooting,0,140
+21001143,143,PT09M32.00S,2,1610612739,CLE,201963,Eyenga,C. Eyenga,0,0,0,,0,44.0,32.0,76,v,Eyenga Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,141
+21001143,145,PT09M32.00S,2,1610612739,CLE,201963,Eyenga,C. Eyenga,0,0,0,,0,,,0,v,MISS Eyenga Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,142
+21001143,147,PT09M31.00S,2,1610612752,NYK,200761,Williams,S. Williams,0,0,0,,0,,,0,h,Sha. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,143
+21001143,148,PT09M14.00S,2,1610612752,NYK,200761,Williams,S. Williams,237,30,24,Made,1,47.0,32.0,79,h,Sha. Williams 24' 3PT Jump Shot (3 PTS) (Douglas 2 AST),Made Shot,Jump Shot,0,144
+21001143,149,PT09M02.00S,2,1610612739,CLE,201196,Sessions,R. Sessions,-16,17,2,Missed,1,,,0,v,MISS Sessions 2' Layup,Missed Shot,Layup Shot,0,145
+21001143,150,PT09M00.00S,2,1610612752,NYK,201611,Walker,H. Walker,0,0,0,,0,,,0,h,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,146
+21001143,151,PT08M53.00S,2,1610612752,NYK,201962,Douglas,T. Douglas,133,216,25,Missed,1,,,0,h,MISS Douglas 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,147
+21001143,152,PT08M53.00S,2,1610612739,CLE,201196,Sessions,R. Sessions,0,0,0,,0,,,0,v,Sessions REBOUND (Off:0 Def:1),Rebound,Unknown,0,148
+21001143,153,PT08M49.00S,2,1610612739,CLE,200789,Gibson,D. Gibson,12,17,2,Made,1,47.0,34.0,81,v,Gibson 2' Driving Layup (4 PTS) (Sessions 6 AST),Made Shot,Driving Layup Shot,0,149
+21001143,154,PT08M31.00S,2,1610612752,NYK,2405,Stoudemire,A. Stoudemire,89,124,15,Missed,1,,,0,h,MISS Stoudemire 15' Jump Shot,Missed Shot,Jump Shot,0,150
+21001143,155,PT08M31.00S,2,1610612739,CLE,200789,Gibson,D. Gibson,0,0,0,,0,,,0,v,Gibson REBOUND (Off:0 Def:1),Rebound,Unknown,0,151
+21001143,156,PT08M31.00S,2,1610612752,NYK,200761,Williams,S. Williams,0,0,0,,0,,,0,h,Sha. Williams P.FOUL (P3.T4),Foul,Personal,0,152
+21001143,157,PT08M31.00S,2,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,153
+21001143,159,PT08M31.00S,2,1610612752,NYK,200761,Williams,S. Williams,0,0,0,,0,,,0,h,SUB: Shel. Williams FOR Sha. Williams,Substitution,,0,154
+21001143,160,PT08M31.00S,2,1610612739,CLE,201196,Sessions,R. Sessions,0,0,0,,0,,,0,v,SUB: Davis FOR Sessions,Substitution,,0,155
+21001143,161,PT08M20.00S,2,1610612739,CLE,200789,Gibson,D. Gibson,0,0,0,,0,,,0,v,Gibson Out of Bounds Lost Ball Turnover (P1.T9),Turnover,Out of Bounds Lost Ball Turnover,0,156
+21001143,162,PT08M09.00S,2,1610612752,NYK,2405,Stoudemire,A. Stoudemire,13,175,18,Missed,1,,,0,h,MISS Stoudemire 18' Jump Shot,Missed Shot,Jump Shot,0,157
+21001143,163,PT08M09.00S,2,1610612739,CLE,201963,Eyenga,C. Eyenga,0,0,0,,0,,,0,v,Eyenga REBOUND (Off:0 Def:1),Rebound,Unknown,0,158
+21001143,164,PT07M57.00S,2,1610612739,CLE,1884,Davis,B. Davis,-60,15,6,Missed,1,,,0,v,MISS Davis 6' Jump Shot,Missed Shot,Jump Shot,0,159
+21001143,165,PT07M56.00S,2,1610612752,NYK,201611,Walker,H. Walker,0,0,0,,0,,,0,h,Walker REBOUND (Off:0 Def:2),Rebound,Unknown,0,160
+21001143,166,PT07M52.00S,2,1610612739,CLE,200797,Hollins,R. Hollins,0,0,0,,0,,,0,v,Hollins S.FOUL (P2.T1),Foul,Shooting,0,161
+21001143,167,PT07M52.00S,2,1610612752,NYK,2405,Stoudemire,A. Stoudemire,0,0,0,,0,48.0,34.0,82,h,Stoudemire Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,162
+21001143,169,PT07M52.00S,2,1610612752,NYK,201962,Douglas,T. Douglas,0,0,0,,0,,,0,h,SUB: Billups FOR Douglas,Substitution,,0,163
+21001143,170,PT07M52.00S,2,1610612739,CLE,201963,Eyenga,C. Eyenga,0,0,0,,0,,,0,v,SUB: Gee FOR Eyenga,Substitution,,0,164
+21001143,171,PT07M52.00S,2,1610612752,NYK,2405,Stoudemire,A. Stoudemire,0,0,0,,0,49.0,34.0,83,h,Stoudemire Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,165
+21001143,173,PT07M38.00S,2,1610612752,NYK,1853,Carter,A. Carter,0,0,0,,0,,,0,h,Carter P.FOUL (P1.PN),Foul,Personal,0,166
+21001143,174,PT07M38.00S,2,1610612739,CLE,200797,Hollins,R. Hollins,0,0,0,,0,49.0,35.0,84,v,Hollins Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,167
+21001143,176,PT07M38.00S,2,1610612739,CLE,200797,Hollins,R. Hollins,0,0,0,,0,49.0,36.0,85,v,Hollins Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,168
+21001143,178,PT07M21.00S,2,1610612752,NYK,1497,Billups,C. Billups,0,0,0,,0,,,0,h,Billups Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,169
+21001143,178,PT07M21.00S,2,1610612739,CLE,202376,Harangody,L. Harangody,0,0,0,,0,,,0,v,Harangody STEAL (1 STL),,,0,170
+21001143,179,PT07M10.00S,2,1610612739,CLE,202376,Harangody,L. Harangody,-226,58,0,Missed,1,,,0,v,MISS Harangody 3PT Jump Shot,Missed Shot,Jump Shot,0,171
+21001143,180,PT07M10.00S,2,1610612752,NYK,200749,Williams,S. Williams,0,0,0,,0,,,0,h,Shel. Williams REBOUND (Off:1 Def:2),Rebound,Unknown,0,172
+21001143,181,PT06M57.00S,2,1610612752,NYK,1497,Billups,C. Billups,-136,11,14,Made,1,51.0,36.0,87,h,Billups 14' Jump Shot (19 PTS),Made Shot,Jump Shot,0,173
+21001143,182,PT06M57.00S,2,1610612739,CLE,200789,Gibson,D. Gibson,0,0,0,,0,,,0,v,Gibson S.FOUL (P1.T2),Foul,Shooting,0,174
+21001143,183,PT06M57.00S,2,1610612739,CLE,202376,Harangody,L. Harangody,0,0,0,,0,,,0,v,SUB: Hickson FOR Harangody,Substitution,,0,175
+21001143,184,PT06M57.00S,2,1610612752,NYK,1497,Billups,C. Billups,0,0,0,,0,52.0,36.0,88,h,Billups Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,0,176
+21001143,186,PT06M39.00S,2,1610612739,CLE,201581,Hickson,J. Hickson,-120,119,17,Missed,1,,,0,v,MISS Hickson 17' Jump Shot,Missed Shot,Jump Shot,0,177
+21001143,187,PT06M39.00S,2,1610612752,NYK,2405,Stoudemire,A. Stoudemire,0,0,0,,0,,,0,h,Stoudemire REBOUND (Off:0 Def:2),Rebound,Unknown,0,178
+21001143,188,PT06M32.00S,2,1610612752,NYK,201611,Walker,H. Walker,-202,142,25,Made,1,55.0,36.0,91,h,Walker 25' 3PT Jump Shot (6 PTS) (Carter 2 AST),Made Shot,Jump Shot,0,179
+21001143,189,PT06M21.00S,2,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,180
+21001143,192,PT06M21.00S,2,1610612752,NYK,201611,Walker,H. Walker,0,0,0,,0,,,0,h,SUB: Anthony FOR Walker,Substitution,,0,181
+21001143,193,PT06M10.00S,2,1610612739,CLE,202087,Gee,A. Gee,-180,175,25,Made,1,55.0,39.0,94,v,Gee 25' 3PT Jump Shot (3 PTS) (Davis 2 AST),Made Shot,Jump Shot,0,182
+21001143,194,PT05M48.00S,2,1610612752,NYK,2546,Anthony,C. Anthony,-89,173,19,Missed,1,,,0,h,MISS Anthony 19' Jump Shot,Missed Shot,Jump Shot,0,183
+21001143,195,PT05M47.00S,2,1610612739,CLE,200797,Hollins,R. Hollins,0,0,0,,0,,,0,v,Hollins REBOUND (Off:0 Def:2),Rebound,Unknown,0,184
+21001143,197,PT05M30.00S,2,1610612739,CLE,200789,Gibson,D. Gibson,0,0,0,,0,,,0,v,SUB: Parker FOR Gibson,Substitution,,0,185
+21001143,198,PT05M30.00S,2,1610612752,NYK,1853,Carter,A. Carter,0,0,0,,0,,,0,h,SUB: Fields FOR Carter,Substitution,,0,186
+21001143,199,PT05M26.00S,2,1610612739,CLE,201581,Hickson,J. Hickson,151,138,20,Missed,1,,,0,v,MISS Hickson 20' Jump Shot,Missed Shot,Jump Shot,0,187
+21001143,200,PT05M25.00S,2,1610612752,NYK,2546,Anthony,C. Anthony,0,0,0,,0,,,0,h,Anthony REBOUND (Off:0 Def:3),Rebound,Unknown,0,188
+21001143,201,PT05M19.00S,2,1610612752,NYK,2405,Stoudemire,A. Stoudemire,-10,7,1,Missed,1,,,0,h,MISS Stoudemire 1' Layup,Missed Shot,Layup Shot,0,189
+21001143,203,PT05M17.00S,2,1610612752,NYK,200749,Williams,S. Williams,0,0,0,,0,,,0,h,Shel. Williams REBOUND (Off:2 Def:2),Rebound,Unknown,0,190
+21001143,202,PT05M17.00S,2,1610612752,NYK,200749,Williams,S. Williams,0,11,1,Made,1,57.0,39.0,96,h,Shel. Williams 1' Tip Shot (4 PTS),Made Shot,Tip Shot,0,191
+21001143,204,PT05M01.00S,2,1610612739,CLE,1884,Davis,B. Davis,-152,190,24,Missed,1,,,0,v,MISS Davis 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,192
+21001143,205,PT05M00.00S,2,1610612752,NYK,200749,Williams,S. Williams,0,0,0,,0,,,0,h,Shel. Williams REBOUND (Off:2 Def:3),Rebound,Unknown,0,193
+21001143,206,PT04M44.00S,2,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,,,0,v,Gee S.FOUL (P1.T3),Foul,Shooting,0,194
+21001143,207,PT04M44.00S,2,1610612752,NYK,2546,Anthony,C. Anthony,0,0,0,,0,58.0,39.0,97,h,Anthony Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,195
+21001143,209,PT04M44.00S,2,1610612752,NYK,2546,Anthony,C. Anthony,0,0,0,,0,59.0,39.0,98,h,Anthony Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,196
+21001143,213,PT04M21.00S,2,1610612739,CLE,201581,Hickson,J. Hickson,-81,129,15,Missed,1,,,0,v,MISS Hickson 15' Jump Shot,Missed Shot,Jump Shot,0,197
+21001143,214,PT04M20.00S,2,1610612752,NYK,2546,Anthony,C. Anthony,0,0,0,,0,,,0,h,Anthony REBOUND (Off:0 Def:4),Rebound,Unknown,0,198
+21001143,215,PT04M09.00S,2,1610612752,NYK,2546,Anthony,C. Anthony,152,135,20,Made,1,61.0,39.0,100,h,Anthony 20' Jump Shot (15 PTS),Made Shot,Jump Shot,0,199
+21001143,216,PT03M52.00S,2,1610612739,CLE,1515,Parker,A. Parker,111,167,20,Made,1,61.0,41.0,102,v,Parker 20' Jump Shot (4 PTS) (Davis 3 AST),Made Shot,Jump Shot,0,200
+21001143,217,PT03M33.00S,2,1610612739,CLE,200797,Hollins,R. Hollins,0,0,0,,0,,,0,v,Hollins S.FOUL (P3.T4),Foul,Shooting,0,201
+21001143,218,PT03M33.00S,2,1610612752,NYK,2405,Stoudemire,A. Stoudemire,0,0,0,,0,,,0,h,MISS Stoudemire Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,202
+21001143,219,PT03M33.00S,2,0,,1610612752,,,0,0,0,,0,,,0,h,KNICKS Rebound,Rebound,Normal Rebound,0,203
+21001143,220,PT03M33.00S,2,1610612739,CLE,200797,Hollins,R. Hollins,0,0,0,,0,,,0,v,SUB: Samuels FOR Hollins,Substitution,,0,204
+21001143,221,PT03M33.00S,2,1610612752,NYK,2405,Stoudemire,A. Stoudemire,0,0,0,,0,62.0,41.0,103,h,Stoudemire Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,205
+21001143,223,PT03M20.00S,2,1610612739,CLE,1884,Davis,B. Davis,108,230,25,Made,1,62.0,44.0,106,v,Davis 25' 3PT Jump Shot (6 PTS) (Parker 2 AST),Made Shot,Jump Shot,0,206
+21001143,224,PT03M09.00S,2,1610612752,NYK,2546,Anthony,C. Anthony,13,42,4,Missed,1,,,0,h,MISS Anthony 4' Jump Shot,Missed Shot,Jump Shot,0,207
+21001143,224,PT03M09.00S,2,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,,,0,v,Gee BLOCK (1 BLK),,,0,208
+21001143,225,PT03M07.00S,2,1610612739,CLE,202396,Samuels,S. Samuels,0,0,0,,0,,,0,v,Samuels REBOUND (Off:1 Def:2),Rebound,Unknown,0,209
+21001143,226,PT03M02.00S,2,1610612739,CLE,1884,Davis,B. Davis,34,250,25,Made,1,62.0,47.0,109,v,Davis 25' 3PT Jump Shot (9 PTS),Made Shot,Jump Shot,0,210
+21001143,227,PT02M37.00S,2,1610612752,NYK,2546,Anthony,C. Anthony,0,0,0,,0,,,0,h,Anthony Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,211
+21001143,227,PT02M37.00S,2,1610612739,CLE,1884,Davis,B. Davis,0,0,0,,0,,,0,v,Davis STEAL (1 STL),,,0,212
+21001143,228,PT02M25.00S,2,1610612739,CLE,1884,Davis,B. Davis,-168,181,25,Made,1,62.0,50.0,112,v,Davis 25' 3PT Jump Shot (12 PTS) (Gee 1 AST),Made Shot,Jump Shot,0,213
+21001143,229,PT02M09.00S,2,1610612752,NYK,202361,Fields,L. Fields,-221,17,0,Missed,1,,,0,h,MISS Fields 3PT Jump Shot,Missed Shot,Jump Shot,0,214
+21001143,230,PT02M08.00S,2,1610612739,CLE,202396,Samuels,S. Samuels,0,0,0,,0,,,0,v,Samuels REBOUND (Off:1 Def:3),Rebound,Unknown,0,215
+21001143,231,PT02M02.00S,2,1610612739,CLE,1884,Davis,B. Davis,0,30,3,Made,1,62.0,52.0,114,v,Davis 3' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,0,216
+21001143,232,PT01M57.00S,2,0,,1610612752,,,0,0,0,,0,,,0,h,KNICKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,217
+21001143,236,PT01M42.00S,2,1610612752,NYK,2546,Anthony,C. Anthony,195,56,20,Made,1,64.0,52.0,116,h,Anthony 20' Jump Shot (17 PTS) (Fields 2 AST),Made Shot,Jump Shot,0,218
+21001143,237,PT01M19.00S,2,1610612752,NYK,2405,Stoudemire,A. Stoudemire,0,0,0,,0,,,0,h,Stoudemire S.FOUL (P2.PN),Foul,Shooting,0,219
+21001143,238,PT01M19.00S,2,1610612739,CLE,1884,Davis,B. Davis,0,0,0,,0,64.0,53.0,117,v,Davis Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,220
+21001143,240,PT01M19.00S,2,1610612739,CLE,1884,Davis,B. Davis,0,0,0,,0,,,0,v,MISS Davis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,221
+21001143,242,PT01M19.00S,2,1610612739,CLE,202396,Samuels,S. Samuels,0,0,0,,0,,,0,v,Samuels REBOUND (Off:2 Def:3),Rebound,Unknown,0,222
+21001143,243,PT01M04.00S,2,1610612739,CLE,201581,Hickson,J. Hickson,-16,11,2,Missed,1,,,0,v,MISS Hickson 2' Layup,Missed Shot,Layup Shot,0,223
+21001143,244,PT01M02.00S,2,1610612752,NYK,200749,Williams,S. Williams,0,0,0,,0,,,0,h,Shel. Williams REBOUND (Off:2 Def:4),Rebound,Unknown,0,224
+21001143,245,PT00M55.30S,2,1610612739,CLE,202396,Samuels,S. Samuels,0,0,0,,0,,,0,v,Samuels Shooting Block Foul (P1.PN),Foul,Shooting Block,0,225
+21001143,246,PT00M55.30S,2,1610612752,NYK,200749,Williams,S. Williams,0,0,0,,0,65.0,53.0,118,h,Shel. Williams Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,226
+21001143,251,PT00M55.30S,2,1610612752,NYK,202361,Fields,L. Fields,0,0,0,,0,,,0,h,Fields Lane Violation Turnover (P2.T7),Turnover,Lane Violation,0,227
+21001143,252,PT00M41.40S,2,1610612752,NYK,200749,Williams,S. Williams,0,0,0,,0,,,0,h,Shel. Williams S.FOUL (P2.PN),Foul,Shooting,0,228
+21001143,253,PT00M41.40S,2,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,65.0,54.0,119,v,Gee Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,229
+21001143,255,PT00M41.40S,2,1610612739,CLE,1884,Davis,B. Davis,0,0,0,,0,,,0,v,SUB: Sessions FOR Davis,Substitution,,0,230
+21001143,256,PT00M41.40S,2,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,65.0,55.0,120,v,Gee Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,231
+21001143,259,PT00M33.90S,2,1610612752,NYK,1497,Billups,C. Billups,89,261,28,Missed,1,,,0,h,MISS Billups 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,232
+21001143,260,PT00M32.90S,2,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,233
+21001143,261,PT00M26.60S,2,1610612739,CLE,201196,Sessions,R. Sessions,-5,9,1,Made,1,65.0,57.0,122,v,Sessions 1' Driving Layup (4 PTS) (Parker 3 AST),Made Shot,Driving Layup Shot,0,234
+21001143,262,PT00M03.90S,2,1610612752,NYK,2546,Anthony,C. Anthony,121,72,14,Made,1,67.0,57.0,124,h,Anthony 14' Jump Shot (19 PTS),Made Shot,Jump Shot,0,235
+21001143,263,PT00M00.80S,2,1610612739,CLE,202087,Gee,A. Gee,-175,241,30,Missed,1,,,0,v,MISS Gee 30' 3PT Jump Shot,Missed Shot,Jump Shot,0,236
+21001143,263,PT00M00.80S,2,1610612752,NYK,2546,Anthony,C. Anthony,0,0,0,,0,,,0,h,Anthony BLOCK (1 BLK),,,0,237
+21001143,264,PT00M00.00S,2,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,238
+21001143,265,PT00M00.00S,2,0,,0,,,0,0,0,,0,67.0,57.0,124,,End of 2nd Period (7:10 PM EST),period,end,0,239
+21001143,267,PT12M00.00S,3,0,,0,,,0,0,0,,0,67.0,57.0,124,,Start of 3rd Period (7:28 PM EST),period,start,0,240
+21001143,268,PT11M41.00S,3,1610612739,CLE,200797,Hollins,R. Hollins,0,0,0,,0,,,0,v,Hollins Shooting Block Foul (P4.T1),Foul,Shooting Block,0,241
+21001143,269,PT11M41.00S,3,1610612752,NYK,1497,Billups,C. Billups,0,0,0,,0,68.0,57.0,125,h,Billups Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,242
+21001143,271,PT11M41.00S,3,1610612752,NYK,1497,Billups,C. Billups,0,0,0,,0,69.0,57.0,126,h,Billups Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,243
+21001143,273,PT11M28.00S,3,1610612739,CLE,201581,Hickson,J. Hickson,1,131,13,Made,1,69.0,59.0,128,v,Hickson 13' Fadeaway Jumper (15 PTS) (Davis 4 AST),Made Shot,Fadeaway Jump Shot,0,244
+21001143,274,PT11M12.00S,3,1610612752,NYK,202361,Fields,L. Fields,0,0,0,,0,,,0,h,Fields Lost Ball Turnover (P3.T8),Turnover,Lost Ball,0,245
+21001143,274,PT11M12.00S,3,1610612739,CLE,1884,Davis,B. Davis,0,0,0,,0,,,0,v,Davis STEAL (2 STL),,,0,246
+21001143,275,PT11M07.00S,3,1610612739,CLE,201581,Hickson,J. Hickson,6,6,1,Made,1,69.0,61.0,130,v,Hickson 1' Driving Dunk (17 PTS) (Davis 5 AST),Made Shot,Driving Dunk Shot,0,247
+21001143,276,PT10M52.00S,3,1610612752,NYK,2405,Stoudemire,A. Stoudemire,80,47,9,Made,1,71.0,61.0,132,h,Stoudemire 9' Jump Shot (11 PTS) (Billups 3 AST),Made Shot,Jump Shot,0,248
+21001143,277,PT10M32.00S,3,1610612739,CLE,1515,Parker,A. Parker,-131,203,24,Made,1,71.0,64.0,135,v,Parker 24' 3PT Jump Shot (7 PTS),Made Shot,Jump Shot,0,249
+21001143,278,PT10M16.00S,3,1610612739,CLE,201581,Hickson,J. Hickson,0,0,0,,0,,,0,v,Hickson S.FOUL (P1.T2),Foul,Shooting,0,250
+21001143,279,PT10M16.00S,3,1610612739,CLE,200797,Hollins,R. Hollins,0,0,0,,0,,,0,v,SUB: Samuels FOR Hollins,Substitution,,0,251
+21001143,280,PT10M16.00S,3,1610612752,NYK,200749,Williams,S. Williams,0,0,0,,0,72.0,64.0,136,h,Shel. Williams Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,252
+21001143,282,PT10M16.00S,3,1610612752,NYK,200749,Williams,S. Williams,0,0,0,,0,73.0,64.0,137,h,Shel. Williams Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,253
+21001143,284,PT10M04.00S,3,1610612752,NYK,200749,Williams,S. Williams,0,0,0,,0,,,0,h,Shel. Williams S.FOUL (P3.T1),Foul,Shooting,0,254
+21001143,285,PT10M04.00S,3,1610612739,CLE,202396,Samuels,S. Samuels,0,0,0,,0,,,0,v,MISS Samuels Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,255
+21001143,286,PT10M04.00S,3,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,256
+21001143,287,PT10M04.00S,3,1610612739,CLE,202396,Samuels,S. Samuels,0,0,0,,0,,,0,v,MISS Samuels Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,257
+21001143,289,PT10M03.00S,3,1610612739,CLE,1515,Parker,A. Parker,0,0,0,,0,,,0,v,Parker REBOUND (Off:1 Def:1),Rebound,Unknown,0,258
+21001143,290,PT09M43.00S,3,1610612739,CLE,1884,Davis,B. Davis,-158,9,16,Missed,1,,,0,v,MISS Davis 16' Jump Shot,Missed Shot,Jump Shot,0,259
+21001143,291,PT09M42.00S,3,1610612739,CLE,1515,Parker,A. Parker,0,0,0,,0,,,0,v,Parker REBOUND (Off:2 Def:1),Rebound,Unknown,0,260
+21001143,292,PT09M31.00S,3,1610612739,CLE,202087,Gee,A. Gee,12,6,1,Made,1,73.0,66.0,139,v,Gee 1' Slam Dunk (7 PTS),Made Shot,Slam Dunk Shot,0,261
+21001143,293,PT09M16.00S,3,1610612752,NYK,200749,Williams,S. Williams,201,-16,20,Made,1,75.0,66.0,141,h,Shel. Williams 20' Jump Shot (9 PTS) (Billups 4 AST),Made Shot,Jump Shot,0,262
+21001143,294,PT09M01.00S,3,1610612752,NYK,2405,Stoudemire,A. Stoudemire,0,0,0,,0,,,0,h,Stoudemire S.FOUL (P3.T2),Foul,Shooting,0,263
+21001143,295,PT09M01.00S,3,1610612739,CLE,201581,Hickson,J. Hickson,0,0,0,,0,,,0,v,MISS Hickson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,264
+21001143,296,PT09M01.00S,3,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,265
+21001143,297,PT09M01.00S,3,1610612739,CLE,201581,Hickson,J. Hickson,0,0,0,,0,75.0,67.0,142,v,Hickson Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,266
+21001143,299,PT08M50.00S,3,1610612752,NYK,2546,Anthony,C. Anthony,-92,140,17,Missed,1,,,0,h,MISS Anthony 17' Jump Shot,Missed Shot,Jump Shot,0,267
+21001143,300,PT08M49.00S,3,1610612752,NYK,2405,Stoudemire,A. Stoudemire,0,0,0,,0,,,0,h,Stoudemire REBOUND (Off:1 Def:2),Rebound,Unknown,0,268
+21001143,301,PT08M47.00S,3,1610612752,NYK,2405,Stoudemire,A. Stoudemire,18,0,2,Made,1,77.0,67.0,144,h,Stoudemire 2' Layup (13 PTS),Made Shot,Layup Shot,0,269
+21001143,302,PT08M30.00S,3,1610612739,CLE,201581,Hickson,J. Hickson,65,48,8,Made,1,77.0,69.0,146,v,Hickson 8' Jump Shot (20 PTS) (Parker 4 AST),Made Shot,Jump Shot,0,270
+21001143,303,PT08M15.00S,3,1610612752,NYK,1497,Billups,C. Billups,239,-22,24,Missed,1,,,0,h,MISS Billups 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,271
+21001143,304,PT08M14.00S,3,1610612739,CLE,202396,Samuels,S. Samuels,0,0,0,,0,,,0,v,Samuels REBOUND (Off:2 Def:4),Rebound,Unknown,0,272
+21001143,305,PT08M09.00S,3,1610612739,CLE,202396,Samuels,S. Samuels,0,0,0,,0,,,0,v,Samuels OFF.Foul (P2),Foul,Offensive,0,273
+21001143,306,PT08M09.00S,3,1610612739,CLE,202396,Samuels,S. Samuels,0,0,0,,0,,,0,v,Samuels Foul Turnover (P3.T10),Turnover,Foul,0,274
+21001143,307,PT08M06.00S,3,1610612752,NYK,2405,Stoudemire,A. Stoudemire,-34,17,4,Missed,1,,,0,h,MISS Stoudemire 4' Jump Shot,Missed Shot,Jump Shot,0,275
+21001143,307,PT08M06.00S,3,1610612739,CLE,202396,Samuels,S. Samuels,0,0,0,,0,,,0,v,Samuels BLOCK (1 BLK),,,0,276
+21001143,308,PT08M03.00S,3,1610612752,NYK,202361,Fields,L. Fields,0,0,0,,0,,,0,h,Fields REBOUND (Off:1 Def:1),Rebound,Unknown,0,277
+21001143,309,PT08M00.00S,3,1610612752,NYK,2546,Anthony,C. Anthony,166,186,25,Missed,1,,,0,h,MISS Anthony 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,278
+21001143,310,PT07M58.00S,3,1610612739,CLE,201581,Hickson,J. Hickson,0,0,0,,0,,,0,v,Hickson REBOUND (Off:1 Def:3),Rebound,Unknown,0,279
+21001143,311,PT07M49.00S,3,1610612739,CLE,1884,Davis,B. Davis,17,9,2,Made,1,77.0,71.0,148,v,Davis 2' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,0,280
+21001143,312,PT07M33.00S,3,1610612752,NYK,202361,Fields,L. Fields,-155,186,24,Missed,1,,,0,h,MISS Fields 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,281
+21001143,313,PT07M33.00S,3,1610612739,CLE,1884,Davis,B. Davis,0,0,0,,0,,,0,v,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,282
+21001143,314,PT07M29.00S,3,1610612739,CLE,1884,Davis,B. Davis,0,0,0,,0,,,0,v,Davis Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,283
+21001143,314,PT07M29.00S,3,1610612752,NYK,1497,Billups,C. Billups,0,0,0,,0,,,0,h,Billups STEAL (1 STL),,,0,284
+21001143,315,PT07M25.00S,3,1610612752,NYK,200749,Williams,S. Williams,0,0,0,,0,,,0,h,Shel. Williams Traveling Turnover (P1.T9),Turnover,Traveling,0,285
+21001143,316,PT07M09.00S,3,1610612739,CLE,1515,Parker,A. Parker,-149,4,15,Made,1,77.0,73.0,150,v,Parker 15' Fadeaway Jumper (9 PTS),Made Shot,Fadeaway Jump Shot,0,286
+21001143,317,PT06M53.00S,3,1610612752,NYK,1497,Billups,C. Billups,0,0,0,,0,,,0,h,Billups OFF.Foul (P1),Foul,Offensive,0,287
+21001143,318,PT06M53.00S,3,1610612752,NYK,1497,Billups,C. Billups,0,0,0,,0,,,0,h,Billups Foul Turnover (P2.T10),Turnover,Foul,0,288
+21001143,319,PT06M53.00S,3,1610612752,NYK,202361,Fields,L. Fields,0,0,0,,0,,,0,h,SUB: Douglas FOR Fields,Substitution,,0,289
+21001143,320,PT06M53.00S,3,1610612752,NYK,200749,Williams,S. Williams,0,0,0,,0,,,0,h,SUB: Jeffries FOR Shel. Williams,Substitution,,0,290
+21001143,321,PT06M41.00S,3,1610612739,CLE,202396,Samuels,S. Samuels,7,11,1,Made,1,77.0,75.0,152,v,Samuels 1' Slam Dunk (5 PTS) (Parker 5 AST),Made Shot,Slam Dunk Shot,0,291
+21001143,322,PT06M22.00S,3,1610612752,NYK,2405,Stoudemire,A. Stoudemire,-93,159,18,Missed,1,,,0,h,MISS Stoudemire 18' Jump Shot,Missed Shot,Jump Shot,0,292
+21001143,323,PT06M21.00S,3,1610612739,CLE,201581,Hickson,J. Hickson,0,0,0,,0,,,0,v,Hickson REBOUND (Off:1 Def:4),Rebound,Unknown,0,293
+21001143,324,PT06M15.00S,3,1610612739,CLE,1884,Davis,B. Davis,-114,231,26,Missed,1,,,0,v,MISS Davis 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,294
+21001143,325,PT06M14.00S,3,1610612752,NYK,2405,Stoudemire,A. Stoudemire,0,0,0,,0,,,0,h,Stoudemire REBOUND (Off:1 Def:3),Rebound,Unknown,0,295
+21001143,326,PT06M14.00S,3,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,,,0,v,Gee P.FOUL (P2.T3),Foul,Personal,0,296
+21001143,327,PT05M52.00S,3,1610612752,NYK,2405,Stoudemire,A. Stoudemire,11,4,1,Made,1,79.0,75.0,154,h,Stoudemire 1' Layup (15 PTS),Made Shot,Layup Shot,0,297
+21001143,328,PT05M31.00S,3,1610612739,CLE,202087,Gee,A. Gee,-15,-5,2,Missed,1,,,0,v,MISS Gee 2' Dunk,Missed Shot,Dunk Shot,0,298
+21001143,328,PT05M31.00S,3,1610612752,NYK,2405,Stoudemire,A. Stoudemire,0,0,0,,0,,,0,h,Stoudemire BLOCK (1 BLK),,,0,299
+21001143,329,PT05M29.00S,3,1610612752,NYK,201962,Douglas,T. Douglas,0,0,0,,0,,,0,h,Douglas REBOUND (Off:0 Def:1),Rebound,Unknown,0,300
+21001143,330,PT05M21.00S,3,1610612752,NYK,2546,Anthony,C. Anthony,-204,151,25,Missed,1,,,0,h,MISS Anthony 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,301
+21001143,331,PT05M20.00S,3,1610612739,CLE,201581,Hickson,J. Hickson,0,0,0,,0,,,0,v,Hickson REBOUND (Off:1 Def:5),Rebound,Unknown,0,302
+21001143,332,PT05M06.00S,3,1610612739,CLE,202396,Samuels,S. Samuels,0,0,0,,0,,,0,v,Samuels OFF.Foul (P3),Foul,Offensive,0,303
+21001143,333,PT05M06.00S,3,1610612739,CLE,202396,Samuels,S. Samuels,0,0,0,,0,,,0,v,Samuels Foul Turnover (P4.T12),Turnover,Foul,0,304
+21001143,334,PT05M06.00S,3,0,,1610612752,,,0,0,0,,0,,,0,h,KNICKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,305
+21001143,336,PT05M06.00S,3,1610612739,CLE,1884,Davis,B. Davis,0,0,0,,0,,,0,v,SUB: Sessions FOR Davis,Substitution,,0,306
+21001143,338,PT04M56.00S,3,1610612752,NYK,2546,Anthony,C. Anthony,127,146,19,Missed,1,,,0,h,MISS Anthony 19' Jump Shot,Missed Shot,Jump Shot,0,307
+21001143,339,PT04M55.00S,3,1610612739,CLE,201581,Hickson,J. Hickson,0,0,0,,0,,,0,v,Hickson REBOUND (Off:1 Def:6),Rebound,Unknown,0,308
+21001143,340,PT04M41.00S,3,1610612739,CLE,201581,Hickson,J. Hickson,-11,7,1,Made,1,79.0,77.0,156,v,Hickson 1' Layup (22 PTS) (Sessions 7 AST),Made Shot,Layup Shot,0,309
+21001143,341,PT04M32.00S,3,1610612752,NYK,1497,Billups,C. Billups,-68,233,24,Missed,1,,,0,h,MISS Billups 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,310
+21001143,342,PT04M31.00S,3,1610612752,NYK,201962,Douglas,T. Douglas,0,0,0,,0,,,0,h,Douglas REBOUND (Off:1 Def:1),Rebound,Unknown,0,311
+21001143,343,PT04M16.00S,3,1610612752,NYK,201962,Douglas,T. Douglas,-146,146,21,Missed,1,,,0,h,MISS Douglas 21' Jump Shot,Missed Shot,Jump Shot,0,312
+21001143,344,PT04M15.00S,3,1610612752,NYK,2405,Stoudemire,A. Stoudemire,0,0,0,,0,,,0,h,Stoudemire REBOUND (Off:2 Def:3),Rebound,Unknown,0,313
+21001143,345,PT04M14.00S,3,1610612739,CLE,201581,Hickson,J. Hickson,0,0,0,,0,,,0,v,Hickson S.FOUL (P2.T4),Foul,Shooting,0,314
+21001143,346,PT04M14.00S,3,1610612739,CLE,1515,Parker,A. Parker,0,0,0,,0,,,0,v,SUB: Gibson FOR Parker,Substitution,,0,315
+21001143,347,PT04M14.00S,3,1610612752,NYK,2405,Stoudemire,A. Stoudemire,0,0,0,,0,80.0,77.0,157,h,Stoudemire Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,316
+21001143,349,PT04M14.00S,3,1610612752,NYK,2405,Stoudemire,A. Stoudemire,0,0,0,,0,81.0,77.0,158,h,Stoudemire Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,317
+21001143,351,PT03M57.00S,3,1610612739,CLE,202396,Samuels,S. Samuels,0,0,0,,0,,,0,v,Samuels Bad Pass Turnover (P5.T13),Turnover,Bad Pass,0,318
+21001143,351,PT03M57.00S,3,1610612752,NYK,1497,Billups,C. Billups,0,0,0,,0,,,0,h,Billups STEAL (2 STL),,,0,319
+21001143,352,PT03M52.00S,3,1610612752,NYK,201962,Douglas,T. Douglas,0,7,1,Made,1,83.0,77.0,160,h,Douglas 1' Driving Layup (5 PTS) (Billups 5 AST),Made Shot,Driving Layup Shot,0,320
+21001143,353,PT03M31.00S,3,1610612739,CLE,201581,Hickson,J. Hickson,0,0,0,,0,,,0,v,Hickson Out of Bounds Lost Ball Turnover (P2.T14),Turnover,Out of Bounds Lost Ball Turnover,0,321
+21001143,354,PT03M31.00S,3,1610612752,NYK,2405,Stoudemire,A. Stoudemire,0,0,0,,0,,,0,h,SUB: Sha. Williams FOR Stoudemire,Substitution,,0,322
+21001143,355,PT03M16.00S,3,1610612752,NYK,2546,Anthony,C. Anthony,-13,7,1,Missed,1,,,0,h,MISS Anthony 1' Layup,Missed Shot,Layup Shot,0,323
+21001143,356,PT03M15.00S,3,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,,,0,v,Gee REBOUND (Off:0 Def:3),Rebound,Unknown,0,324
+21001143,357,PT03M04.00S,3,1610612739,CLE,201196,Sessions,R. Sessions,12,44,5,Made,1,83.0,79.0,162,v,Sessions 5' Floating Jump Shot (6 PTS),Made Shot,Floating Jump shot,0,325
+21001143,358,PT02M53.00S,3,1610612752,NYK,1497,Billups,C. Billups,17,14,2,Missed,1,,,0,h,MISS Billups 2' Layup,Missed Shot,Layup Shot,0,326
+21001143,359,PT02M52.00S,3,1610612752,NYK,2407,Jeffries,J. Jeffries,0,0,0,,0,,,0,h,Jeffries REBOUND (Off:1 Def:1),Rebound,Unknown,0,327
+21001143,360,PT02M51.00S,3,1610612752,NYK,2407,Jeffries,J. Jeffries,15,12,2,Missed,1,,,0,h,MISS Jeffries 2' Putback Layup,Missed Shot,Putback Layup Shot,0,328
+21001143,361,PT02M49.00S,3,1610612752,NYK,2546,Anthony,C. Anthony,0,0,0,,0,,,0,h,Anthony REBOUND (Off:1 Def:4),Rebound,Unknown,0,329
+21001143,362,PT02M47.00S,3,1610612739,CLE,202396,Samuels,S. Samuels,0,0,0,,0,,,0,v,Samuels S.FOUL (P4.PN),Foul,Shooting,0,330
+21001143,364,PT02M47.00S,3,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,331
+21001143,365,PT02M47.00S,3,1610612739,CLE,201581,Hickson,J. Hickson,0,0,0,,0,,,0,v,SUB: Hollins FOR Hickson,Substitution,,0,332
+21001143,366,PT02M47.00S,3,1610612739,CLE,202396,Samuels,S. Samuels,0,0,0,,0,,,0,v,SUB: Harangody FOR Samuels,Substitution,,0,333
+21001143,368,PT02M47.00S,3,1610612752,NYK,2546,Anthony,C. Anthony,0,0,0,,0,84.0,79.0,163,h,Anthony Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,334
+21001143,370,PT02M47.00S,3,1610612752,NYK,2546,Anthony,C. Anthony,0,0,0,,0,85.0,79.0,164,h,Anthony Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,335
+21001143,372,PT02M24.00S,3,1610612739,CLE,201196,Sessions,R. Sessions,-19,3,2,Made,1,85.0,81.0,166,v,Sessions 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,0,336
+21001143,373,PT02M01.00S,3,1610612752,NYK,200761,Williams,S. Williams,236,-5,24,Made,1,88.0,81.0,169,h,Sha. Williams 24' 3PT Jump Shot (6 PTS) (Douglas 3 AST),Made Shot,Jump Shot,0,337
+21001143,374,PT01M36.00S,3,1610612752,NYK,200761,Williams,S. Williams,0,0,0,,0,,,0,h,Sha. Williams S.FOUL (P4.T3),Foul,Shooting,0,338
+21001143,375,PT01M36.00S,3,1610612752,NYK,1497,Billups,C. Billups,0,0,0,,0,,,0,h,SUB: Carter FOR Billups,Substitution,,0,339
+21001143,376,PT01M36.00S,3,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,88.0,82.0,170,v,Gee Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,340
+21001143,378,PT01M36.00S,3,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,88.0,83.0,171,v,Gee Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,341
+21001143,380,PT01M22.00S,3,1610612752,NYK,201962,Douglas,T. Douglas,62,246,25,Made,1,91.0,83.0,174,h,Douglas 25' 3PT Jump Shot (8 PTS) (Carter 3 AST),Made Shot,Jump Shot,0,342
+21001143,381,PT01M06.00S,3,1610612739,CLE,202376,Harangody,L. Harangody,-56,238,24,Made,1,91.0,86.0,177,v,Harangody 24' 3PT Jump Shot (3 PTS) (Sessions 8 AST),Made Shot,Jump Shot,0,343
+21001143,382,PT00M51.90S,3,1610612752,NYK,2546,Anthony,C. Anthony,94,48,11,Missed,1,,,0,h,MISS Anthony 11' Jump Shot,Missed Shot,Jump Shot,0,344
+21001143,383,PT00M50.90S,3,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,,,0,v,Gee REBOUND (Off:0 Def:4),Rebound,Unknown,0,345
+21001143,384,PT00M41.90S,3,1610612739,CLE,200789,Gibson,D. Gibson,-149,205,25,Missed,1,,,0,v,MISS Gibson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,346
+21001143,385,PT00M41.30S,3,1610612739,CLE,200797,Hollins,R. Hollins,0,0,0,,0,,,0,v,Hollins REBOUND (Off:1 Def:2),Rebound,Unknown,0,347
+21001143,386,PT00M38.90S,3,1610612739,CLE,200789,Gibson,D. Gibson,-234,-2,0,Missed,1,,,0,v,MISS Gibson 3PT Jump Shot,Missed Shot,Jump Shot,0,348
+21001143,387,PT00M36.80S,3,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,349
+21001143,388,PT00M36.80S,3,1610612752,NYK,2546,Anthony,C. Anthony,0,0,0,,0,,,0,h,Anthony L.B.FOUL (P2.PN),Foul,Loose Ball,0,350
+21001143,389,PT00M36.80S,3,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,91.0,87.0,178,v,Gee Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,351
+21001143,391,PT00M36.80S,3,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,91.0,88.0,179,v,Gee Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,352
+21001143,394,PT00M28.50S,3,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,,,0,v,Gee S.FOUL (P3.PN),Foul,Shooting,0,353
+21001143,395,PT00M28.50S,3,1610612752,NYK,2546,Anthony,C. Anthony,0,0,0,,0,92.0,88.0,180,h,Anthony Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,0,354
+21001143,397,PT00M28.50S,3,1610612752,NYK,2546,Anthony,C. Anthony,0,0,0,,0,93.0,88.0,181,h,Anthony Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,355
+21001143,399,PT00M05.90S,3,1610612739,CLE,200797,Hollins,R. Hollins,0,0,0,,0,,,0,v,Hollins Lost Ball Turnover (P1.T15),Turnover,Lost Ball,0,356
+21001143,399,PT00M05.90S,3,1610612752,NYK,1853,Carter,A. Carter,0,0,0,,0,,,0,h,Carter STEAL (1 STL),,,0,357
+21001143,400,PT00M02.80S,3,1610612752,NYK,201962,Douglas,T. Douglas,-131,205,24,Missed,1,,,0,h,MISS Douglas 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,358
+21001143,401,PT00M00.30S,3,1610612752,NYK,200761,Williams,S. Williams,0,0,0,,0,,,0,h,Sha. Williams REBOUND (Off:1 Def:1),Rebound,Unknown,0,359
+21001143,403,PT00M00.10S,3,1610612752,NYK,200761,Williams,S. Williams,29,4,3,Missed,1,,,0,h,MISS Sha. Williams 3' Putback Layup,Missed Shot,Putback Layup Shot,0,360
+21001143,404,PT00M00.00S,3,0,,1610612752,,,0,0,0,,0,,,0,h,KNICKS Rebound,Rebound,Unknown,0,361
+21001143,402,PT00M00.00S,3,0,,0,,,0,0,0,,0,93.0,88.0,181,,End of 3rd Period (7:54 PM EST),period,end,0,362
+21001143,406,PT12M00.00S,4,0,,0,,,0,0,0,,0,93.0,88.0,181,,Start of 4th Period (7:57 PM EST),period,start,0,363
+21001143,407,PT11M39.00S,4,1610612739,CLE,202376,Harangody,L. Harangody,37,247,25,Missed,1,,,0,v,MISS Harangody 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,364
+21001143,408,PT11M38.00S,4,1610612752,NYK,201611,Walker,H. Walker,0,0,0,,0,,,0,h,Walker REBOUND (Off:0 Def:3),Rebound,Unknown,0,365
+21001143,409,PT11M23.00S,4,1610612752,NYK,2405,Stoudemire,A. Stoudemire,102,77,13,Missed,1,,,0,h,MISS Stoudemire 13' Jump Shot,Missed Shot,Jump Shot,0,366
+21001143,410,PT11M22.00S,4,1610612739,CLE,200789,Gibson,D. Gibson,0,0,0,,0,,,0,v,Gibson REBOUND (Off:0 Def:2),Rebound,Unknown,0,367
+21001143,411,PT11M16.00S,4,1610612739,CLE,201196,Sessions,R. Sessions,-19,11,2,Made,1,93.0,90.0,183,v,Sessions 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,0,368
+21001143,412,PT11M02.00S,4,1610612752,NYK,1853,Carter,A. Carter,29,132,14,Missed,1,,,0,h,MISS Carter 14' Jump Shot,Missed Shot,Jump Shot,0,369
+21001143,413,PT11M01.00S,4,1610612739,CLE,201196,Sessions,R. Sessions,0,0,0,,0,,,0,v,Sessions REBOUND (Off:0 Def:2),Rebound,Unknown,0,370
+21001143,414,PT10M56.00S,4,1610612739,CLE,201196,Sessions,R. Sessions,0,0,0,,0,,,0,v,Sessions Bad Pass Turnover (P2.T16),Turnover,Bad Pass,0,371
+21001143,414,PT10M56.00S,4,1610612752,NYK,2407,Jeffries,J. Jeffries,0,0,0,,0,,,0,h,Jeffries STEAL (1 STL),,,0,372
+21001143,415,PT10M37.00S,4,1610612752,NYK,201962,Douglas,T. Douglas,-35,242,24,Made,1,96.0,90.0,186,h,Douglas 24' 3PT Jump Shot (11 PTS) (Walker 1 AST),Made Shot,Jump Shot,0,373
+21001143,416,PT10M21.00S,4,1610612739,CLE,201196,Sessions,R. Sessions,34,6,3,Missed,1,,,0,v,MISS Sessions 3' Jump Shot,Missed Shot,Jump Shot,0,374
+21001143,417,PT10M19.00S,4,1610612752,NYK,2405,Stoudemire,A. Stoudemire,0,0,0,,0,,,0,h,Stoudemire REBOUND (Off:2 Def:4),Rebound,Unknown,0,375
+21001143,418,PT10M13.00S,4,1610612752,NYK,201962,Douglas,T. Douglas,228,107,25,Missed,1,,,0,h,MISS Douglas 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,376
+21001143,419,PT10M12.00S,4,1610612739,CLE,200789,Gibson,D. Gibson,0,0,0,,0,,,0,v,Gibson REBOUND (Off:0 Def:3),Rebound,Unknown,0,377
+21001143,420,PT10M01.00S,4,1610612739,CLE,200797,Hollins,R. Hollins,0,0,0,,0,,,0,v,Hollins 3 Second Violation Turnover (P2.T17),Turnover,3 Second Violation,0,378
+21001143,421,PT09M50.00S,4,1610612739,CLE,200797,Hollins,R. Hollins,0,0,0,,0,,,0,v,Hollins S.FOUL (P5.T1),Foul,Shooting,0,379
+21001143,422,PT09M50.00S,4,1610612752,NYK,2405,Stoudemire,A. Stoudemire,0,0,0,,0,97.0,90.0,187,h,Stoudemire Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,380
+21001143,424,PT09M50.00S,4,1610612752,NYK,2405,Stoudemire,A. Stoudemire,0,0,0,,0,98.0,90.0,188,h,Stoudemire Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,381
+21001143,426,PT09M40.00S,4,1610612752,NYK,201962,Douglas,T. Douglas,0,0,0,,0,,,0,h,Douglas P.FOUL (P2.T1),Foul,Personal,0,382
+21001143,427,PT09M37.00S,4,1610612739,CLE,201196,Sessions,R. Sessions,-18,4,2,Missed,1,,,0,v,MISS Sessions 2' Layup,Missed Shot,Layup Shot,0,383
+21001143,427,PT09M37.00S,4,1610612752,NYK,2405,Stoudemire,A. Stoudemire,0,0,0,,0,,,0,h,Stoudemire BLOCK (2 BLK),,,0,384
+21001143,428,PT09M35.00S,4,1610612752,NYK,1853,Carter,A. Carter,0,0,0,,0,,,0,h,Carter REBOUND (Off:0 Def:1),Rebound,Unknown,0,385
+21001143,429,PT09M32.00S,4,1610612752,NYK,201962,Douglas,T. Douglas,15,7,2,Missed,1,,,0,h,MISS Douglas 2' Driving Layup,Missed Shot,Driving Layup Shot,0,386
+21001143,430,PT09M31.00S,4,1610612752,NYK,1853,Carter,A. Carter,0,0,0,,0,,,0,h,Carter REBOUND (Off:1 Def:1),Rebound,Unknown,0,387
+21001143,431,PT09M26.00S,4,1610612739,CLE,200797,Hollins,R. Hollins,0,0,0,,0,,,0,v,Hollins S.FOUL (P6.T2),Foul,Shooting,0,388
+21001143,432,PT09M26.00S,4,1610612739,CLE,200797,Hollins,R. Hollins,0,0,0,,0,,,0,v,SUB: Samuels FOR Hollins,Substitution,,0,389
+21001143,433,PT09M26.00S,4,1610612752,NYK,2405,Stoudemire,A. Stoudemire,0,0,0,,0,,,0,h,MISS Stoudemire Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,390
+21001143,434,PT09M26.00S,4,0,,1610612752,,,0,0,0,,0,,,0,h,KNICKS Rebound,Rebound,Normal Rebound,0,391
+21001143,435,PT09M26.00S,4,1610612752,NYK,2405,Stoudemire,A. Stoudemire,0,0,0,,0,99.0,90.0,189,h,Stoudemire Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,392
+21001143,437,PT09M07.00S,4,1610612739,CLE,201963,Eyenga,C. Eyenga,0,0,0,,0,,,0,v,Eyenga Step Out of Bounds Turnover (P1.T18),Turnover,Step Out of Bounds Turnover,0,393
+21001143,438,PT08M58.00S,4,1610612752,NYK,201611,Walker,H. Walker,4,1,0,Made,1,101.0,90.0,191,h,Walker Slam Dunk (8 PTS) (Carter 4 AST),Made Shot,Slam Dunk Shot,0,394
+21001143,439,PT08M38.00S,4,1610612739,CLE,201196,Sessions,R. Sessions,0,0,0,,0,,,0,v,Sessions Lost Ball Turnover (P3.T19),Turnover,Lost Ball,0,395
+21001143,439,PT08M38.00S,4,1610612752,NYK,201962,Douglas,T. Douglas,0,0,0,,0,,,0,h,Douglas STEAL (1 STL),,,0,396
+21001143,440,PT08M34.00S,4,1610612752,NYK,1853,Carter,A. Carter,0,4,0,Made,1,103.0,90.0,193,h,Carter Driving Reverse Layup (2 PTS) (Douglas 4 AST),Made Shot,Driving Reverse Layup Shot,0,397
+21001143,441,PT08M34.00S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,398
+21001143,444,PT08M34.00S,4,1610612739,CLE,202376,Harangody,L. Harangody,0,0,0,,0,,,0,v,SUB: Hickson FOR Harangody,Substitution,,0,399
+21001143,445,PT08M24.00S,4,1610612739,CLE,202396,Samuels,S. Samuels,15,36,4,Missed,1,,,0,v,MISS Samuels 4' Jump Shot,Missed Shot,Jump Shot,0,400
+21001143,446,PT08M22.00S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,401
+21001143,447,PT08M21.00S,4,1610612739,CLE,201196,Sessions,R. Sessions,0,0,0,,0,,,0,v,SUB: Davis FOR Sessions,Substitution,,0,402
+21001143,448,PT08M06.00S,4,1610612739,CLE,201963,Eyenga,C. Eyenga,0,0,0,,0,,,0,v,Eyenga Bad Pass Turnover (P2.T20),Turnover,Bad Pass,0,403
+21001143,448,PT08M06.00S,4,1610612752,NYK,201962,Douglas,T. Douglas,0,0,0,,0,,,0,h,Douglas STEAL (2 STL),,,0,404
+21001143,449,PT08M00.00S,4,1610612739,CLE,200789,Gibson,D. Gibson,0,0,0,,0,,,0,v,Gibson S.FOUL (P2.T3),Foul,Shooting,0,405
+21001143,450,PT08M00.00S,4,1610612739,CLE,201963,Eyenga,C. Eyenga,0,0,0,,0,,,0,v,SUB: Parker FOR Eyenga,Substitution,,0,406
+21001143,451,PT08M00.00S,4,1610612752,NYK,201611,Walker,H. Walker,0,0,0,,0,104.0,90.0,194,h,Walker Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,407
+21001143,453,PT08M00.00S,4,1610612752,NYK,201611,Walker,H. Walker,0,0,0,,0,105.0,90.0,195,h,Walker Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,408
+21001143,455,PT07M42.00S,4,1610612739,CLE,201581,Hickson,J. Hickson,-98,37,10,Missed,1,,,0,v,MISS Hickson 10' Jump Shot,Missed Shot,Jump Shot,0,409
+21001143,456,PT07M41.00S,4,1610612739,CLE,200789,Gibson,D. Gibson,0,0,0,,0,,,0,v,Gibson REBOUND (Off:1 Def:3),Rebound,Unknown,0,410
+21001143,457,PT07M40.00S,4,1610612739,CLE,200789,Gibson,D. Gibson,-4,3,1,Missed,1,,,0,v,MISS Gibson 1' Putback Layup,Missed Shot,Putback Layup Shot,0,411
+21001143,458,PT07M37.00S,4,1610612752,NYK,201611,Walker,H. Walker,0,0,0,,0,,,0,h,Walker REBOUND (Off:0 Def:4),Rebound,Unknown,0,412
+21001143,459,PT07M31.00S,4,1610612752,NYK,2405,Stoudemire,A. Stoudemire,-10,19,2,Missed,1,,,0,h,MISS Stoudemire 2' Layup,Missed Shot,Layup Shot,0,413
+21001143,460,PT07M29.00S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,414
+21001143,461,PT07M16.00S,4,1610612739,CLE,200789,Gibson,D. Gibson,-235,9,24,Made,1,105.0,93.0,198,v,Gibson 24' 3PT Jump Shot (7 PTS) (Davis 6 AST),Made Shot,Jump Shot,0,415
+21001143,462,PT07M03.00S,4,1610612752,NYK,201611,Walker,H. Walker,17,31,4,Made,1,107.0,93.0,200,h,Walker 4' Jump Shot (12 PTS),Made Shot,Jump Shot,0,416
+21001143,463,PT07M03.00S,4,1610612739,CLE,202396,Samuels,S. Samuels,0,0,0,,0,,,0,v,Samuels S.FOUL (P5.T4),Foul,Shooting,0,417
+21001143,464,PT07M03.00S,4,1610612752,NYK,201611,Walker,H. Walker,0,0,0,,0,108.0,93.0,201,h,Walker Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,418
+21001143,466,PT06M47.00S,4,1610612739,CLE,202396,Samuels,S. Samuels,13,6,1,Missed,1,,,0,v,MISS Samuels 1' Layup,Missed Shot,Layup Shot,0,419
+21001143,467,PT06M44.00S,4,1610612752,NYK,2407,Jeffries,J. Jeffries,0,0,0,,0,,,0,h,Jump Ball Jeffries vs. Samuels: Tip to Gibson,Jump Ball,,0,420
+21001143,468,PT06M44.00S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,421
+21001143,469,PT06M38.00S,4,1610612739,CLE,200789,Gibson,D. Gibson,13,7,1,Made,1,108.0,95.0,203,v,Gibson 1' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,0,422
+21001143,470,PT06M17.00S,4,1610612752,NYK,2405,Stoudemire,A. Stoudemire,-95,39,10,Made,1,110.0,95.0,205,h,Stoudemire 10' Jump Shot (22 PTS) (Douglas 5 AST),Made Shot,Jump Shot,0,423
+21001143,471,PT06M06.00S,4,1610612739,CLE,1884,Davis,B. Davis,0,0,0,,0,,,0,v,Davis Lost Ball Turnover (P4.T21),Turnover,Lost Ball,0,424
+21001143,471,PT06M06.00S,4,1610612752,NYK,1853,Carter,A. Carter,0,0,0,,0,,,0,h,Carter STEAL (2 STL),,,0,425
+21001143,472,PT06M01.00S,4,1610612739,CLE,1884,Davis,B. Davis,0,0,0,,0,,,0,v,Davis S.FOUL (P3.PN),Foul,Shooting,0,426
+21001143,473,PT06M01.00S,4,1610612752,NYK,2405,Stoudemire,A. Stoudemire,0,0,0,,0,111.0,95.0,206,h,Stoudemire Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,427
+21001143,475,PT06M01.00S,4,1610612752,NYK,2405,Stoudemire,A. Stoudemire,0,0,0,,0,112.0,95.0,207,h,Stoudemire Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,428
+21001143,477,PT05M47.00S,4,1610612739,CLE,200789,Gibson,D. Gibson,173,178,25,Missed,1,,,0,v,MISS Gibson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,429
+21001143,478,PT05M46.00S,4,1610612739,CLE,202396,Samuels,S. Samuels,0,0,0,,0,,,0,v,Samuels REBOUND (Off:3 Def:4),Rebound,Unknown,0,430
+21001143,479,PT05M44.00S,4,1610612739,CLE,202396,Samuels,S. Samuels,9,3,1,Made,1,112.0,97.0,209,v,Samuels 1' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,0,431
+21001143,480,PT05M29.00S,4,1610612752,NYK,201611,Walker,H. Walker,-70,247,26,Missed,1,,,0,h,MISS Walker 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,432
+21001143,481,PT05M28.00S,4,1610612739,CLE,202396,Samuels,S. Samuels,0,0,0,,0,,,0,v,Samuels REBOUND (Off:3 Def:5),Rebound,Unknown,0,433
+21001143,482,PT05M23.00S,4,1610612739,CLE,1515,Parker,A. Parker,21,1,2,Made,1,112.0,99.0,211,v,Parker 2' Layup (11 PTS) (Gibson 1 AST),Made Shot,Layup Shot,0,434
+21001143,483,PT05M22.00S,4,0,,1610612752,,,0,0,0,,0,,,0,h,KNICKS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,435
+21001143,485,PT05M22.00S,4,1610612752,NYK,201962,Douglas,T. Douglas,0,0,0,,0,,,0,h,SUB: Anthony FOR Douglas,Substitution,,0,436
+21001143,486,PT05M22.00S,4,1610612752,NYK,201611,Walker,H. Walker,0,0,0,,0,,,0,h,SUB: Billups FOR Walker,Substitution,,0,437
+21001143,488,PT04M58.00S,4,1610612752,NYK,2405,Stoudemire,A. Stoudemire,-95,112,15,Missed,1,,,0,h,MISS Stoudemire 15' Jump Shot,Missed Shot,Jump Shot,0,438
+21001143,489,PT04M57.00S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,439
+21001143,490,PT04M43.00S,4,1610612739,CLE,1515,Parker,A. Parker,92,74,12,Missed,1,,,0,v,MISS Parker 12' Jump Shot,Missed Shot,Jump Shot,0,440
+21001143,491,PT04M42.00S,4,1610612752,NYK,2405,Stoudemire,A. Stoudemire,0,0,0,,0,,,0,h,Stoudemire REBOUND (Off:2 Def:5),Rebound,Unknown,0,441
+21001143,492,PT04M21.00S,4,1610612752,NYK,2407,Jeffries,J. Jeffries,177,-17,18,Missed,1,,,0,h,MISS Jeffries 18' Jump Shot,Missed Shot,Jump Shot,0,442
+21001143,493,PT04M20.00S,4,1610612739,CLE,1515,Parker,A. Parker,0,0,0,,0,,,0,v,Parker REBOUND (Off:2 Def:2),Rebound,Unknown,0,443
+21001143,494,PT04M10.00S,4,1610612739,CLE,1515,Parker,A. Parker,195,153,25,Missed,1,,,0,v,MISS Parker 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,444
+21001143,495,PT04M09.00S,4,1610612752,NYK,1853,Carter,A. Carter,0,0,0,,0,,,0,h,Carter REBOUND (Off:1 Def:2),Rebound,Unknown,0,445
+21001143,496,PT03M55.00S,4,1610612752,NYK,1853,Carter,A. Carter,31,11,3,Made,1,114.0,99.0,213,h,Carter 3' Jump Shot (4 PTS) (Anthony 3 AST),Made Shot,Jump Shot,0,446
+21001143,497,PT03M37.00S,4,1610612739,CLE,1884,Davis,B. Davis,119,108,16,Made,1,114.0,101.0,215,v,Davis 16' Jump Shot (19 PTS),Made Shot,Jump Shot,0,447
+21001143,498,PT03M23.00S,4,1610612752,NYK,2546,Anthony,C. Anthony,152,131,20,Made,1,116.0,101.0,217,h,Anthony 20' Jump Shot (25 PTS) (Billups 6 AST),Made Shot,Jump Shot,0,448
+21001143,502,PT03M02.00S,4,1610612739,CLE,1884,Davis,B. Davis,-16,19,2,Missed,1,,,0,v,MISS Davis 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,0,449
+21001143,502,PT03M02.00S,4,1610612752,NYK,2407,Jeffries,J. Jeffries,0,0,0,,0,,,0,h,Jeffries BLOCK (2 BLK),,,0,450
+21001143,503,PT02M58.00S,4,0,,1610612752,,,0,0,0,,0,,,0,h,KNICKS Rebound,Rebound,Unknown,0,451
+21001143,504,PT02M58.00S,4,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,452
+21001143,507,PT02M58.00S,4,1610612752,NYK,1853,Carter,A. Carter,0,0,0,,0,,,0,h,SUB: Douglas FOR Carter,Substitution,,0,453
+21001143,508,PT02M44.00S,4,1610612752,NYK,2405,Stoudemire,A. Stoudemire,31,186,19,Made,1,118.0,101.0,219,h,Stoudemire 19' Jump Shot (26 PTS) (Billups 7 AST),Made Shot,Jump Shot,0,454
+21001143,509,PT02M28.00S,4,1610612739,CLE,201581,Hickson,J. Hickson,0,0,0,,0,,,0,v,Hickson Offensive Charge Foul (P3),Foul,Offensive Charge,0,455
+21001143,510,PT02M28.00S,4,1610612739,CLE,201581,Hickson,J. Hickson,0,0,0,,0,,,0,v,Hickson Foul Turnover (P3.T22),Turnover,Foul,0,456
+21001143,511,PT02M28.00S,4,1610612739,CLE,202396,Samuels,S. Samuels,0,0,0,,0,,,0,v,Samuels T.FOUL (P5.PN),Foul,Technical,0,457
+21001143,512,PT02M28.00S,4,1610612752,NYK,1497,Billups,C. Billups,0,0,0,,0,119.0,101.0,220,h,Billups Free Throw Technical (23 PTS),Free Throw,Free Throw Technical,0,458
+21001143,514,PT02M13.00S,4,1610612752,NYK,2405,Stoudemire,A. Stoudemire,-52,37,6,Made,1,121.0,101.0,222,h,Stoudemire 6' Driving Jump Shot (28 PTS),Made Shot,Driving Jump shot,0,459
+21001143,515,PT02M02.00S,4,1610612739,CLE,1884,Davis,B. Davis,15,254,25,Made,1,121.0,104.0,225,v,Davis 25' 3PT Jump Shot (22 PTS),Made Shot,Jump Shot,0,460
+21001143,516,PT01M49.00S,4,1610612752,NYK,1497,Billups,C. Billups,80,235,25,Missed,1,,,0,h,MISS Billups 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,461
+21001143,517,PT01M48.00S,4,1610612739,CLE,201581,Hickson,J. Hickson,0,0,0,,0,,,0,v,Hickson REBOUND (Off:1 Def:7),Rebound,Unknown,0,462
+21001143,518,PT01M38.00S,4,1610612739,CLE,1884,Davis,B. Davis,159,197,25,Missed,1,,,0,v,MISS Davis 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,463
+21001143,519,PT01M37.00S,4,1610612752,NYK,201962,Douglas,T. Douglas,0,0,0,,0,,,0,h,Douglas REBOUND (Off:1 Def:2),Rebound,Unknown,0,464
+21001143,520,PT01M18.00S,4,1610612752,NYK,2405,Stoudemire,A. Stoudemire,121,22,12,Missed,1,,,0,h,MISS Stoudemire 12' Jump Shot,Missed Shot,Jump Shot,0,465
+21001143,521,PT01M17.00S,4,1610612739,CLE,202396,Samuels,S. Samuels,0,0,0,,0,,,0,v,Samuels REBOUND (Off:3 Def:6),Rebound,Unknown,0,466
+21001143,522,PT01M02.00S,4,1610612752,NYK,2405,Stoudemire,A. Stoudemire,0,0,0,,0,,,0,h,Stoudemire S.FOUL (P4.T2),Foul,Shooting,0,467
+21001143,523,PT01M02.00S,4,1610612752,NYK,2546,Anthony,C. Anthony,0,0,0,,0,,,0,h,SUB: Walker FOR Anthony,Substitution,,0,468
+21001143,524,PT01M02.00S,4,1610612752,NYK,2405,Stoudemire,A. Stoudemire,0,0,0,,0,,,0,h,SUB: Sha. Williams FOR Stoudemire,Substitution,,0,469
+21001143,525,PT01M02.00S,4,1610612752,NYK,1497,Billups,C. Billups,0,0,0,,0,,,0,h,SUB: Fields FOR Billups,Substitution,,0,470
+21001143,526,PT01M02.00S,4,1610612739,CLE,201581,Hickson,J. Hickson,0,0,0,,0,121.0,105.0,226,v,Hickson Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,471
+21001143,528,PT01M02.00S,4,1610612739,CLE,1884,Davis,B. Davis,0,0,0,,0,,,0,v,SUB: Harris FOR Davis,Substitution,,0,472
+21001143,529,PT01M02.00S,4,1610612739,CLE,1515,Parker,A. Parker,0,0,0,,0,,,0,v,SUB: Graham FOR Parker,Substitution,,0,473
+21001143,530,PT01M02.00S,4,1610612739,CLE,201581,Hickson,J. Hickson,0,0,0,,0,,,0,v,MISS Hickson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,474
+21001143,532,PT01M01.00S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,475
+21001143,535,PT00M48.10S,4,1610612739,CLE,202396,Samuels,S. Samuels,13,4,1,Made,1,121.0,107.0,228,v,Samuels 1' Layup (9 PTS),Made Shot,Layup Shot,0,476
+21001143,536,PT00M29.10S,4,1610612752,NYK,200761,Williams,S. Williams,-138,138,20,Made,1,123.0,107.0,230,h,Sha. Williams 20' Jump Shot (8 PTS) (Douglas 6 AST),Made Shot,Jump Shot,0,477
+21001143,537,PT00M21.90S,4,1610612739,CLE,200789,Gibson,D. Gibson,133,239,27,Missed,1,,,0,v,MISS Gibson 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,478
+21001143,538,PT00M21.50S,4,1610612752,NYK,200761,Williams,S. Williams,0,0,0,,0,,,0,h,Sha. Williams REBOUND (Off:1 Def:2),Rebound,Unknown,0,479
+21001143,539,PT00M00.00S,4,0,,0,,,0,0,0,,0,123.0,107.0,230,,End of 4th Period (8:24 PM EST),period,end,0,480

@@ -1,0 +1,417 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+42200307,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (8:34 PM EST),period,start,0,1
+42200307,4,PT12M00.00S,1,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Jump Ball Horford vs. Adebayo: Tip to Brown,Jump Ball,,1,2
+42200307,7,PT11M34.00S,1,1610612748,MIA,1629216,Vincent,G. Vincent,0,0,0,,0,,,0,v,Vincent S.FOUL (P1.T1) (S.Foster),Foul,Shooting,1,3
+42200307,9,PT11M34.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,1.0,0.0,1,h,Tatum Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,4
+42200307,10,PT11M34.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,MISS Tatum Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,5
+42200307,11,PT11M34.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:0 Def:1),Rebound,Unknown,0,6
+42200307,12,PT11M19.00S,1,1610612748,MIA,1629216,Vincent,G. Vincent,-140,143,20,Missed,1,,,0,v,MISS Vincent 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,7
+42200307,13,PT11M17.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:1),Rebound,Unknown,1,8
+42200307,14,PT11M06.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,38,4,Missed,1,,,0,h,MISS Tatum 4' Driving Layup,Missed Shot,Driving Layup Shot,1,9
+42200307,15,PT11M05.00S,1,1610612748,MIA,202710,Butler,J. Butler,0,0,0,,0,,,0,v,Butler REBOUND (Off:0 Def:1),Rebound,Unknown,1,10
+42200307,16,PT10M42.00S,1,1610612748,MIA,1629216,Vincent,G. Vincent,-66,208,22,Missed,1,,,0,v,MISS Vincent 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,11
+42200307,17,PT10M40.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:2),Rebound,Unknown,1,12
+42200307,18,PT10M37.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,13
+42200307,19,PT10M37.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown L.B.FOUL (P1.T1) (S.Foster),Foul,Loose Ball,1,14
+42200307,21,PT10M21.00S,1,1610612748,MIA,202710,Butler,J. Butler,22,119,12,Missed,1,,,0,v,MISS Butler 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,15
+42200307,22,PT10M20.00S,1,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford REBOUND (Off:0 Def:1),Rebound,Unknown,1,16
+42200307,23,PT10M01.00S,1,1610612738,BOS,1627759,Brown,J. Brown,32,157,16,Made,1,3.0,0.0,3,h,Brown 16' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,0,17
+42200307,24,PT09M41.00S,1,1610612748,MIA,1629216,Vincent,G. Vincent,0,0,0,,0,,,0,v,Vincent Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,0,18
+42200307,25,PT09M25.00S,1,1610612738,BOS,1627759,Brown,J. Brown,237,6,24,Missed,1,,,0,h,MISS Brown 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,19
+42200307,26,PT09M23.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:1 Def:2),Rebound,Unknown,0,20
+42200307,27,PT09M19.00S,1,1610612738,BOS,201143,Horford,A. Horford,33,6,3,Made,1,5.0,0.0,5,h,Horford 3' Cutting Layup Shot (2 PTS) (Tatum 1 AST),Made Shot,Cutting Layup Shot,0,21
+42200307,29,PT09M07.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,-16,26,3,Made,1,5.0,2.0,7,v,Adebayo 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,22
+42200307,30,PT08M50.00S,1,1610612738,BOS,1627759,Brown,J. Brown,-130,157,20,Made,1,7.0,2.0,9,h,Brown 20' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,0,23
+42200307,31,PT08M26.00S,1,1610612748,MIA,1629622,Strus,M. Strus,-208,172,27,Missed,1,,,0,v,MISS Strus 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,24
+42200307,32,PT08M25.00S,1,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,1,25
+42200307,33,PT08M24.00S,1,1610612748,MIA,1628997,Martin,C. Martin,20,25,3,Missed,1,,,0,v,MISS Martin 3' Putback Layup,Missed Shot,Putback Layup Shot,1,26
+42200307,33,PT08M24.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown BLOCK (1 BLK),,,1,27
+42200307,34,PT08M23.00S,1,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:2 Def:0),Rebound,Unknown,1,28
+42200307,35,PT08M23.00S,1,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,Made,1,7.0,4.0,11,v,Martin Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,29
+42200307,36,PT08M04.00S,1,1610612738,BOS,1627759,Brown,J. Brown,13,13,2,Made,1,9.0,4.0,13,h,Brown 2' Cutting Layup Shot (6 PTS) (Smart 1 AST),Made Shot,Cutting Layup Shot,1,30
+42200307,38,PT07M55.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,71,151,17,Missed,1,,,0,v,MISS Adebayo 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,31
+42200307,39,PT07M54.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:1 Def:3),Rebound,Unknown,1,32
+42200307,40,PT07M48.00S,1,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,33
+42200307,40,PT07M48.00S,1,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin STEAL (1 STL),,,1,34
+42200307,42,PT07M42.00S,1,1610612748,MIA,1628997,Martin,C. Martin,18,32,4,Missed,1,,,0,v,MISS Martin 4' Running Layup,Missed Shot,Running Layup Shot,1,35
+42200307,43,PT07M41.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,1,36
+42200307,44,PT07M26.00S,1,1610612738,BOS,1628401,White,D. White,132,217,25,Missed,1,,,0,h,MISS White 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,37
+42200307,45,PT07M25.00S,1,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:2 Def:1),Rebound,Unknown,1,38
+42200307,46,PT07M15.00S,1,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford P.FOUL (P1.T2) (S.Foster),Foul,Personal,1,39
+42200307,48,PT07M10.00S,1,1610612748,MIA,1629622,Strus,M. Strus,-28,268,27,Missed,1,,,0,v,MISS Strus 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,40
+42200307,49,PT07M09.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:1 Def:4),Rebound,Unknown,1,41
+42200307,50,PT07M00.00S,1,1610612738,BOS,1627759,Brown,J. Brown,5,25,3,Missed,1,,,0,h,MISS Brown 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,42
+42200307,51,PT06M58.00S,1,1610612748,MIA,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus REBOUND (Off:0 Def:1),Rebound,Unknown,1,43
+42200307,52,PT06M54.00S,1,1610612748,MIA,1628997,Martin,C. Martin,233,0,0,Missed,1,,,0,v,MISS Martin 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,44
+42200307,53,PT06M53.00S,1,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart REBOUND (Off:0 Def:1),Rebound,Unknown,1,45
+42200307,54,PT06M53.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,46
+42200307,56,PT06M35.00S,1,1610612738,BOS,203935,Smart,M. Smart,230,-13,0,Missed,1,,,0,h,MISS Smart 3PT Jump Shot,Missed Shot,Jump Shot,1,47
+42200307,57,PT06M33.00S,1,1610612748,MIA,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus REBOUND (Off:0 Def:2),Rebound,Unknown,1,48
+42200307,58,PT06M22.00S,1,1610612748,MIA,1629216,Vincent,G. Vincent,-76,140,16,Made,1,9.0,6.0,15,v,Vincent 16' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,49
+42200307,59,PT05M55.00S,1,1610612738,BOS,1628401,White,D. White,-181,191,26,Missed,1,,,0,h,MISS White 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,50
+42200307,60,PT05M54.00S,1,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford REBOUND (Off:1 Def:1),Rebound,Unknown,1,51
+42200307,61,PT05M47.00S,1,1610612738,BOS,1628401,White,D. White,-165,214,27,Missed,1,,,0,h,MISS White 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,52
+42200307,62,PT05M46.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,53
+42200307,63,PT05M46.00S,1,1610612748,MIA,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus L.B.FOUL (P1.T2) (S.Foster),Foul,Loose Ball,1,54
+42200307,65,PT05M46.00S,1,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Brogdon FOR Smart,Substitution,,0,55
+42200307,67,PT05M39.00S,1,1610612738,BOS,1627759,Brown,J. Brown,53,170,18,Missed,1,,,0,h,MISS Brown 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,56
+42200307,68,PT05M38.00S,1,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:2 Def:2),Rebound,Unknown,1,57
+42200307,101,PT05M24.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,20,19,3,Missed,1,,,0,v,MISS Adebayo 3' Layup,Missed Shot,Layup Shot,1,58
+42200307,101,PT05M24.00S,1,1610612738,BOS,1627763,Brogdon,M. Brogdon,0,0,0,,0,,,0,h,Brogdon BLOCK (1 BLK),,,1,59
+42200307,103,PT05M23.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,60
+42200307,70,PT05M04.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown Lost Ball Turnover (P2.T3),Turnover,Lost Ball,1,61
+42200307,70,PT05M04.00S,1,1610612748,MIA,202710,Butler,J. Butler,0,0,0,,0,,,0,v,Butler STEAL (1 STL),,,1,62
+42200307,72,PT05M00.00S,1,1610612748,MIA,202710,Butler,J. Butler,17,25,3,Made,1,9.0,8.0,17,v,Butler 3' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,63
+42200307,73,PT04M45.00S,1,1610612738,BOS,201143,Horford,A. Horford,232,4,0,Missed,1,,,0,h,MISS Horford 3PT Jump Shot,Missed Shot,Jump Shot,1,64
+42200307,74,PT04M44.00S,1,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:2 Def:3),Rebound,Unknown,1,65
+42200307,75,PT04M38.00S,1,1610612748,MIA,1628997,Martin,C. Martin,-32,21,4,Missed,1,,,0,v,MISS Martin 4' Running Layup,Missed Shot,Running Layup Shot,1,66
+42200307,75,PT04M38.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown BLOCK (2 BLK),,,1,67
+42200307,77,PT04M37.00S,1,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford REBOUND (Off:1 Def:2),Rebound,Unknown,1,68
+42200307,78,PT04M27.00S,1,1610612738,BOS,1627759,Brown,J. Brown,-228,28,0,Missed,1,,,0,h,MISS Brown 3PT Jump Shot,Missed Shot,Jump Shot,1,69
+42200307,79,PT04M26.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:2 Def:4),Rebound,Unknown,1,70
+42200307,80,PT04M20.00S,1,1610612738,BOS,1628401,White,D. White,13,73,7,Made,1,11.0,8.0,19,h,White 7' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,71
+42200307,81,PT04M11.00S,1,1610612738,BOS,1627763,Brogdon,M. Brogdon,0,0,0,,0,,,0,h,Brogdon P.FOUL (P1.T3) (J.Goble),Foul,Personal,1,72
+42200307,83,PT04M11.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,SUB: Williams FOR Tatum,Substitution,,0,73
+42200307,84,PT04M11.00S,1,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,SUB: Williams III FOR Horford,Substitution,,0,74
+42200307,87,PT04M02.00S,1,1610612748,MIA,1628997,Martin,C. Martin,-166,140,22,Made,1,11.0,10.0,21,v,Martin 22' Jump Shot (4 PTS) (Butler 1 AST),Made Shot,Jump Shot,1,75
+42200307,89,PT03M45.00S,1,1610612738,BOS,1627763,Brogdon,M. Brogdon,-189,190,27,Missed,1,,,0,h,MISS Brogdon 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,76
+42200307,90,PT03M43.00S,1,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,0,77
+42200307,92,PT03M43.00S,1,1610612748,MIA,1629216,Vincent,G. Vincent,0,0,0,,0,,,0,v,SUB: Lowry FOR Vincent,Substitution,,0,78
+42200307,94,PT03M28.00S,1,1610612748,MIA,1629622,Strus,M. Strus,-159,208,26,Made,1,11.0,13.0,24,v,Strus 26' 3PT Jump Shot (3 PTS) (Butler 2 AST),Made Shot,Jump Shot,1,79
+42200307,96,PT03M13.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown Out of Bounds - Bad Pass Turnover Turnover (P3.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,80
+42200307,97,PT02M56.00S,1,1610612748,MIA,202710,Butler,J. Butler,91,22,9,Made,1,11.0,15.0,26,v,Butler 9' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,81
+42200307,98,PT02M34.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo S.FOUL (P1.T3) (T.Brothers),Foul,Shooting,1,82
+42200307,100,PT02M34.00S,1,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,83
+42200307,105,PT02M34.00S,1,0,,87,Mutombo,D. Mutombo,0,0,0,,0,11.0,15.0,26,,Instant Replay1st Period (8:53 PM EST),Instant Replay                          ,Replay Center,0,84
+42200307,106,PT02M34.00S,1,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,SUB: Smart FOR White,Substitution,,0,85
+42200307,108,PT02M34.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,12.0,15.0,27,h,Brown Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,86
+42200307,109,PT02M34.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,13.0,15.0,28,h,Brown Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,87
+42200307,110,PT02M16.00S,1,1610612748,MIA,202710,Butler,J. Butler,-16,32,4,Missed,1,,,0,v,MISS Butler 4' Driving Layup,Missed Shot,Driving Layup Shot,1,88
+42200307,110,PT02M16.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,Williams III BLOCK (1 BLK),,,1,89
+42200307,112,PT02M15.00S,1,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart REBOUND (Off:0 Def:2),Rebound,Unknown,1,90
+42200307,113,PT02M10.00S,1,1610612738,BOS,203935,Smart,M. Smart,86,242,26,Missed,1,,,0,h,MISS Smart 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,91
+42200307,114,PT02M09.00S,1,1610612748,MIA,202710,Butler,J. Butler,0,0,0,,0,,,0,v,Butler REBOUND (Off:0 Def:2),Rebound,Unknown,1,92
+42200307,115,PT01M55.00S,1,1610612748,MIA,200768,Lowry,K. Lowry,-148,234,28,Missed,1,,,0,v,MISS Lowry 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,93
+42200307,116,PT01M54.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,Williams III REBOUND (Off:0 Def:1),Rebound,Unknown,1,94
+42200307,117,PT01M45.00S,1,1610612738,BOS,1627763,Brogdon,M. Brogdon,-18,21,3,Missed,1,,,0,h,MISS Brogdon 3' Driving Layup,Missed Shot,Driving Layup Shot,1,95
+42200307,118,PT01M44.00S,1,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry REBOUND (Off:0 Def:1),Rebound,Unknown,1,96
+42200307,119,PT01M39.00S,1,1610612748,MIA,1628997,Martin,C. Martin,195,171,26,Made,1,13.0,18.0,31,v,Martin 26' 3PT Running Jump Shot (7 PTS) (Lowry 1 AST),Made Shot,Running Jump Shot,1,97
+42200307,121,PT01M12.00S,1,1610612738,BOS,1627759,Brown,J. Brown,29,8,3,Missed,1,,,0,h,MISS Brown 3' Driving Layup,Missed Shot,Driving Layup Shot,1,98
+42200307,122,PT01M10.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,Williams III REBOUND (Off:1 Def:1),Rebound,Unknown,1,99
+42200307,123,PT01M08.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,Missed,1,,,0,h,MISS Williams III Floating Jump Shot,Missed Shot,Floating Jump shot,1,100
+42200307,124,PT01M06.00S,1,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:1 Def:0),Rebound,Unknown,1,101
+42200307,125,PT01M03.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,31,17,4,Made,1,15.0,18.0,33,h,Williams III 4' Alley Oop Dunk (2 PTS) (Smart 2 AST),Made Shot,Alley Oop Dunk Shot,1,102
+42200307,127,PT00M48.60S,1,1610612748,MIA,202710,Butler,J. Butler,-17,17,2,Made,1,15.0,20.0,35,v,Butler 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,103
+42200307,128,PT00M36.00S,1,1610612738,BOS,1627759,Brown,J. Brown,233,21,0,Missed,1,,,0,h,MISS Brown 3PT Jump Shot,Missed Shot,Jump Shot,1,104
+42200307,129,PT00M35.00S,1,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:0 Def:2),Rebound,Unknown,1,105
+42200307,130,PT00M27.80S,1,1610612748,MIA,1629622,Strus,M. Strus,34,31,5,Made,1,15.0,22.0,37,v,Strus 5' Running Layup (5 PTS) (Lowry 2 AST),Made Shot,Running Layup Shot,1,106
+42200307,132,PT00M03.80S,1,1610612738,BOS,1627759,Brown,J. Brown,28,10,3,Missed,1,,,0,h,MISS Brown 3' Driving Layup,Missed Shot,Driving Layup Shot,1,107
+42200307,133,PT00M02.70S,1,1610612748,MIA,202710,Butler,J. Butler,0,0,0,,0,,,0,v,Butler REBOUND (Off:0 Def:3),Rebound,Unknown,1,108
+42200307,134,PT00M00.00S,1,1610612748,MIA,202710,Butler,J. Butler,120,435,45,Missed,1,,,0,v,MISS Butler 45' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,109
+42200307,135,PT00M00.00S,1,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,0,110
+42200307,136,PT00M00.00S,1,0,,0,,,0,0,0,,0,15.0,22.0,37,,End of 1st Period (8:57 PM EST),period,end,1,111
+42200307,147,PT12M00.00S,2,0,,0,,,0,0,0,,0,15.0,22.0,37,,Start of 2nd Period (9:01 PM EST),period,start,0,112
+42200307,148,PT11M42.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,-147,230,27,Missed,1,,,0,v,MISS Robinson 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,113
+42200307,149,PT11M40.00S,2,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford REBOUND (Off:1 Def:3),Rebound,Unknown,1,114
+42200307,150,PT11M28.00S,2,1610612738,BOS,1627763,Brogdon,M. Brogdon,-36,259,26,Missed,1,,,0,h,MISS Brogdon 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,115
+42200307,151,PT11M26.00S,2,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry REBOUND (Off:0 Def:2),Rebound,Unknown,1,116
+42200307,152,PT11M16.00S,2,1610612748,MIA,200768,Lowry,K. Lowry,20,199,20,Missed,1,,,0,v,MISS Lowry 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,117
+42200307,153,PT11M15.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,0,118
+42200307,155,PT11M10.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,162,220,27,Made,1,15.0,25.0,40,v,Robinson 27' 3PT Pullup Jump Shot (3 PTS) (Adebayo 1 AST),Made Shot,Pullup Jump shot,1,119
+42200307,157,PT10M44.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,120
+42200307,157,PT10M44.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith STEAL (1 STL),,,1,121
+42200307,159,PT10M41.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,18,30,3,Made,1,15.0,27.0,42,v,Highsmith 3' Running Layup (2 PTS) (Vincent 1 AST),Made Shot,Running Layup Shot,1,122
+42200307,161,PT10M41.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,123
+42200307,162,PT10M41.00S,2,1610612738,BOS,1627763,Brogdon,M. Brogdon,0,0,0,,0,,,0,h,SUB: White FOR Brogdon,Substitution,,0,124
+42200307,164,PT10M27.00S,2,1610612738,BOS,1628401,White,D. White,141,215,26,Missed,1,,,0,h,MISS White 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,125
+42200307,165,PT10M25.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:0 Def:3),Rebound,Unknown,1,126
+42200307,166,PT10M04.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,67,63,9,Missed,1,,,0,v,MISS Adebayo 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,127
+42200307,167,PT10M02.00S,2,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford REBOUND (Off:1 Def:4),Rebound,Unknown,1,128
+42200307,168,PT09M53.00S,2,1610612738,BOS,201143,Horford,A. Horford,-20,257,26,Made,1,18.0,27.0,45,h,Horford 26' 3PT Jump Shot (5 PTS) (White 1 AST),Made Shot,Jump Shot,1,129
+42200307,170,PT09M28.00S,2,1610612748,MIA,1629216,Vincent,G. Vincent,28,260,26,Made,1,18.0,30.0,48,v,Vincent 26' 3PT Step Back Jump Shot (5 PTS) (Adebayo 2 AST),Made Shot,Step Back Jump shot,1,130
+42200307,172,PT09M18.00S,2,1610612748,MIA,1629216,Vincent,G. Vincent,0,0,0,,0,,,0,v,Vincent P.FOUL (P2.T1) (S.Foster),Foul,Personal,1,131
+42200307,174,PT09M18.00S,2,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,,0,,,0,h,SUB: Brown FOR Williams,Substitution,,0,132
+42200307,175,PT09M18.00S,2,1610612748,MIA,1629216,Vincent,G. Vincent,0,0,0,,0,,,0,v,SUB: Martin FOR Vincent,Substitution,,0,133
+42200307,178,PT09M06.00S,2,1610612738,BOS,201143,Horford,A. Horford,54,34,6,Missed,1,,,0,h,MISS Horford 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,134
+42200307,178,PT09M06.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo BLOCK (1 BLK),,,1,135
+42200307,180,PT09M04.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,0,136
+42200307,182,PT08M45.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,Robinson Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,137
+42200307,183,PT08M45.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,Robinson L.B.FOUL (P1.T2) (J.Goble),Foul,Loose Ball,1,138
+42200307,185,PT08M37.00S,2,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,139
+42200307,185,PT08M37.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,Robinson STEAL (1 STL),,,1,140
+42200307,187,PT08M32.00S,2,1610612748,MIA,1628997,Martin,C. Martin,229,21,0,Made,1,18.0,33.0,51,v,Martin 3PT Running Jump Shot (10 PTS) (Lowry 3 AST),Made Shot,Running Jump Shot,1,141
+42200307,189,PT08M14.00S,2,1610612738,BOS,1627759,Brown,J. Brown,-138,230,27,Made,1,21.0,33.0,54,h,Brown 27' 3PT Jump Shot (11 PTS) (Horford 1 AST),Made Shot,Jump Shot,1,142
+42200307,191,PT08M00.00S,2,1610612748,MIA,200768,Lowry,K. Lowry,-188,178,26,Made,1,21.0,36.0,57,v,Lowry 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,143
+42200307,192,PT07M48.00S,2,1610612738,BOS,201143,Horford,A. Horford,235,-8,24,Missed,1,,,0,h,MISS Horford 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,144
+42200307,193,PT07M46.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,1,145
+42200307,194,PT07M46.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum L.B.FOUL (P1.T1) (T.Brothers),Foul,Loose Ball,1,146
+42200307,196,PT07M46.00S,2,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Williams III FOR Smart,Substitution,,0,147
+42200307,197,PT07M46.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,SUB: Butler FOR Adebayo,Substitution,,0,148
+42200307,200,PT07M32.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,28,22,4,Made,1,21.0,38.0,59,v,Robinson 4' Cutting Layup Shot (5 PTS) (Lowry 4 AST),Made Shot,Cutting Layup Shot,1,149
+42200307,202,PT07M22.00S,2,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry P.FOUL (P1.T3) (J.Goble),Foul,Personal,1,150
+42200307,204,PT07M14.00S,2,1610612738,BOS,1629057,Williams III,R. Williams III,-18,15,2,Made,1,23.0,38.0,61,h,Williams III 2' Alley Oop Dunk (4 PTS) (Brown 1 AST),Made Shot,Alley Oop Dunk Shot,1,151
+42200307,206,PT07M01.00S,2,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,152
+42200307,206,PT07M01.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum STEAL (1 STL),,,1,153
+42200307,208,PT06M58.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,7,25,3,Made,1,25.0,38.0,63,h,Tatum 3' Running Finger Roll Layup (3 PTS),Made Shot,Running Finger Roll Layup Shot,1,154
+42200307,209,PT06M58.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,155
+42200307,210,PT06M58.00S,2,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,SUB: Vincent FOR Lowry,Substitution,,0,156
+42200307,211,PT06M58.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,SUB: Adebayo FOR Highsmith,Substitution,,0,157
+42200307,214,PT06M36.00S,2,1610612748,MIA,1628997,Martin,C. Martin,23,103,11,Made,1,25.0,40.0,65,v,Martin 11' Turnaround Fadeaway (12 PTS),Made Shot,Turnaround Fadeaway shot,1,158
+42200307,215,PT06M21.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,31,25,4,Missed,1,,,0,h,MISS Tatum 4' Driving Layup,Missed Shot,Driving Layup Shot,1,159
+42200307,216,PT06M20.00S,2,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,Williams III REBOUND (Off:2 Def:1),Rebound,Unknown,1,160
+42200307,217,PT06M20.00S,2,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,Made,1,27.0,40.0,67,h,Williams III Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,161
+42200307,218,PT06M09.00S,2,1610612748,MIA,1628997,Martin,C. Martin,-18,15,2,Made,1,27.0,42.0,69,v,Martin 2' Driving Layup (14 PTS) (Adebayo 3 AST),Made Shot,Driving Layup Shot,1,162
+42200307,220,PT05M53.00S,2,1610612738,BOS,1627759,Brown,J. Brown,25,2,3,Made,1,29.0,42.0,71,h,Brown 3' Cutting Layup Shot (13 PTS) (Tatum 2 AST),Made Shot,Cutting Layup Shot,1,163
+42200307,222,PT05M41.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,53,63,8,Missed,1,,,0,v,MISS Robinson 8' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,1,164
+42200307,223,PT05M39.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:0 Def:2),Rebound,Unknown,1,165
+42200307,224,PT05M31.00S,2,1610612738,BOS,1627759,Brown,J. Brown,-191,184,27,Missed,1,,,0,h,MISS Brown 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,166
+42200307,224,PT05M31.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,Robinson BLOCK (1 BLK),,,1,167
+42200307,225,PT05M30.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:0 Def:4),Rebound,Unknown,1,168
+42200307,227,PT05M13.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,169
+42200307,227,PT05M13.00S,2,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White STEAL (1 STL),,,1,170
+42200307,229,PT05M01.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,-72,38,8,Made,1,31.0,42.0,73,h,Tatum 8' Driving Floating Jump Shot (5 PTS) (Brown 2 AST),Made Shot,Driving Floating Jump Shot,1,171
+42200307,231,PT04M33.00S,2,1610612748,MIA,1629216,Vincent,G. Vincent,-228,18,0,Made,1,31.0,45.0,76,v,Vincent 3PT Jump Shot (8 PTS) (Martin 1 AST),Made Shot,Jump Shot,1,172
+42200307,233,PT04M13.00S,2,1610612738,BOS,1628401,White,D. White,-174,227,29,Made,1,34.0,45.0,79,h,White 29' 3PT Jump Shot (5 PTS) (Tatum 3 AST),Made Shot,Jump Shot,1,173
+42200307,236,PT04M00.00S,2,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,Williams III S.FOUL (P1.T2) (S.Foster),Foul,Shooting,1,174
+42200307,238,PT04M00.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,34.0,46.0,80,v,Adebayo Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,175
+42200307,239,PT04M00.00S,2,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,SUB: Smart FOR Williams III,Substitution,,0,176
+42200307,244,PT04M00.00S,2,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,SUB: Strus FOR Robinson,Substitution,,0,177
+42200307,241,PT04M00.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,34.0,47.0,81,v,Adebayo Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,178
+42200307,242,PT03M45.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo P.FOUL (P2.T4) (J.Goble),Foul,Personal,1,179
+42200307,246,PT03M41.00S,2,1610612738,BOS,203935,Smart,M. Smart,-235,17,24,Missed,1,,,0,h,MISS Smart 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,180
+42200307,247,PT03M40.00S,2,1610612748,MIA,202710,Butler,J. Butler,0,0,0,,0,,,0,v,Butler REBOUND (Off:0 Def:4),Rebound,Unknown,1,181
+42200307,248,PT03M20.00S,2,1610612748,MIA,202710,Butler,J. Butler,102,74,13,Missed,1,,,0,v,MISS Butler 13' Jump Shot,Missed Shot,Jump Shot,1,182
+42200307,249,PT03M19.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,0,183
+42200307,251,PT03M11.00S,2,1610612748,MIA,1629622,Strus,M. Strus,-201,188,28,Missed,1,,,0,v,MISS Strus 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,184
+42200307,252,PT03M09.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:2 Def:5),Rebound,Unknown,1,185
+42200307,253,PT03M04.00S,2,1610612738,BOS,201143,Horford,A. Horford,-126,226,26,Missed,1,,,0,h,MISS Horford 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,186
+42200307,254,PT03M03.00S,2,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White REBOUND (Off:1 Def:0),Rebound,Unknown,1,187
+42200307,255,PT02M53.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,-99,154,18,Missed,1,,,0,h,MISS Tatum 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,188
+42200307,256,PT02M52.00S,2,1610612748,MIA,202710,Butler,J. Butler,0,0,0,,0,,,0,v,Butler REBOUND (Off:0 Def:5),Rebound,Unknown,1,189
+42200307,257,PT02M41.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo OFF.Foul (P3) (S.Foster),Foul,Offensive,1,190
+42200307,259,PT02M41.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo Offensive Foul Turnover (P2.T5),Turnover,Offensive Foul Turnover,1,191
+42200307,260,PT02M41.00S,2,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,SUB: Highsmith FOR Adebayo,Substitution,,0,192
+42200307,262,PT02M26.00S,2,1610612738,BOS,203935,Smart,M. Smart,-232,58,24,Made,1,37.0,47.0,84,h,Smart 24' 3PT Jump Shot (3 PTS) (Horford 2 AST),Made Shot,Jump Shot,1,193
+42200307,264,PT02M07.00S,2,1610612748,MIA,1629216,Vincent,G. Vincent,-43,188,19,Missed,1,,,0,v,MISS Vincent 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,194
+42200307,265,PT02M05.00S,2,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:3 Def:3),Rebound,Unknown,1,195
+42200307,266,PT02M03.00S,2,1610612748,MIA,202710,Butler,J. Butler,-33,21,4,Missed,1,,,0,v,MISS Butler 4' Floating Jump Shot,Missed Shot,Floating Jump shot,1,196
+42200307,267,PT02M02.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:2 Def:6),Rebound,Unknown,1,197
+42200307,268,PT01M49.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,18,6,2,Made,1,39.0,47.0,86,h,Tatum 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,198
+42200307,269,PT01M34.00S,2,1610612748,MIA,202710,Butler,J. Butler,240,63,25,Made,1,39.0,50.0,89,v,Butler 25' 3PT Jump Shot (9 PTS) (Vincent 2 AST),Made Shot,Jump Shot,1,199
+42200307,271,PT01M21.00S,2,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,200
+42200307,272,PT01M21.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown L.B.FOUL (P2.T3) (J.Goble),Foul,Loose Ball,1,201
+42200307,274,PT01M02.00S,2,1610612748,MIA,202710,Butler,J. Butler,1,105,11,Made,1,39.0,52.0,91,v,Butler 11' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,1,202
+42200307,275,PT00M46.20S,2,1610612738,BOS,203935,Smart,M. Smart,50,34,6,Made,1,41.0,52.0,93,h,Smart 6' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,203
+42200307,276,PT00M27.20S,2,1610612748,MIA,202710,Butler,J. Butler,74,58,9,Missed,1,,,0,v,MISS Butler 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,204
+42200307,277,PT00M25.50S,2,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford REBOUND (Off:1 Def:5),Rebound,Unknown,1,205
+42200307,278,PT00M04.70S,2,1610612738,BOS,1628369,Tatum,J. Tatum,-12,264,26,Missed,1,,,0,h,MISS Tatum 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,206
+42200307,279,PT00M02.60S,2,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:3 Def:4),Rebound,Unknown,1,207
+42200307,280,PT00M00.00S,2,1610612748,MIA,1629312,Highsmith,H. Highsmith,-127,237,27,Missed,1,,,0,v,MISS Highsmith 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,208
+42200307,281,PT00M00.00S,2,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,0,209
+42200307,282,PT00M00.00S,2,0,,0,,,0,0,0,,0,41.0,52.0,93,,End of 2nd Period (9:26 PM EST),period,end,1,210
+42200307,285,PT12M00.00S,3,0,,0,,,0,0,0,,0,41.0,52.0,93,,Start of 3rd Period (9:43 PM EST),period,start,0,211
+42200307,286,PT11M46.00S,3,1610612748,MIA,202710,Butler,J. Butler,158,204,26,Made,1,41.0,55.0,96,v,Butler 26' 3PT Jump Shot (14 PTS) (Vincent 3 AST),Made Shot,Jump Shot,1,212
+42200307,288,PT11M28.00S,3,1610612738,BOS,1627759,Brown,J. Brown,75,89,12,Made,1,43.0,55.0,98,h,Brown 12' Turnaround Fadeaway (15 PTS),Made Shot,Turnaround Fadeaway shot,1,213
+42200307,289,PT11M13.00S,3,1610612748,MIA,1629216,Vincent,G. Vincent,-40,15,4,Made,1,43.0,57.0,100,v,Vincent 4' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,214
+42200307,290,PT10M54.00S,3,1610612738,BOS,1627759,Brown,J. Brown,34,31,5,Missed,1,,,0,h,MISS Brown 5' Driving Layup,Missed Shot,Driving Layup Shot,1,215
+42200307,291,PT10M52.00S,3,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:3 Def:5),Rebound,Unknown,1,216
+42200307,292,PT10M33.00S,3,1610612748,MIA,1629216,Vincent,G. Vincent,93,15,9,Missed,1,,,0,v,MISS Vincent 9' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,217
+42200307,293,PT10M32.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:0 Def:3),Rebound,Unknown,1,218
+42200307,294,PT10M28.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum Traveling Turnover (P2.T8),Turnover,Traveling,1,219
+42200307,295,PT10M14.00S,3,1610612748,MIA,202710,Butler,J. Butler,0,41,4,Made,1,43.0,59.0,102,v,Butler 4' Driving Floating Jump Shot (16 PTS) (Vincent 4 AST),Made Shot,Driving Floating Jump Shot,1,220
+42200307,297,PT10M14.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,221
+42200307,299,PT10M02.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,25,150,15,Missed,1,,,0,h,MISS Tatum 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,222
+42200307,300,PT10M00.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:0 Def:5),Rebound,Unknown,1,223
+42200307,301,PT09M46.00S,3,1610612748,MIA,202710,Butler,J. Butler,23,20,3,Missed,1,,,0,v,MISS Butler 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,224
+42200307,302,PT09M44.00S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford REBOUND (Off:1 Def:6),Rebound,Unknown,1,225
+42200307,303,PT09M41.00S,3,1610612748,MIA,202710,Butler,J. Butler,0,0,0,,0,,,0,v,Butler S.FOUL (P1.T1) (J.Goble),Foul,Shooting,1,226
+42200307,305,PT09M41.00S,3,1610612738,BOS,1628401,White,D. White,0,0,0,,0,44.0,59.0,103,h,White Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,227
+42200307,306,PT09M41.00S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,SUB: Williams III FOR Horford,Substitution,,0,228
+42200307,308,PT09M41.00S,3,1610612738,BOS,1628401,White,D. White,0,0,0,,0,45.0,59.0,104,h,White Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,229
+42200307,309,PT09M29.00S,3,1610612748,MIA,1629216,Vincent,G. Vincent,31,184,19,Missed,1,,,0,v,MISS Vincent 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,230
+42200307,310,PT09M27.00S,3,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,Williams III REBOUND (Off:2 Def:2),Rebound,Unknown,1,231
+42200307,311,PT09M09.00S,3,1610612738,BOS,1628401,White,D. White,192,180,26,Made,1,48.0,59.0,107,h,White 26' 3PT Jump Shot (10 PTS) (Smart 3 AST),Made Shot,Jump Shot,1,232
+42200307,313,PT08M40.00S,3,1610612748,MIA,202710,Butler,J. Butler,137,147,20,Missed,1,,,0,v,MISS Butler 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,233
+42200307,314,PT08M38.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:2 Def:7),Rebound,Unknown,1,234
+42200307,315,PT08M29.00S,3,1610612738,BOS,1628401,White,D. White,22,92,9,Made,1,50.0,59.0,109,h,White 9' Driving Floating Jump Shot (12 PTS),Made Shot,Driving Floating Jump Shot,1,235
+42200307,316,PT08M29.00S,3,1610612748,MIA,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus S.FOUL (P2.T2) (S.Foster),Foul,Shooting,1,236
+42200307,318,PT08M29.00S,3,1610612738,BOS,1628401,White,D. White,0,0,0,,0,51.0,59.0,110,h,White Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,1,237
+42200307,319,PT08M11.00S,3,1610612748,MIA,1628997,Martin,C. Martin,-134,127,18,Made,1,51.0,61.0,112,v,Martin 18' Pullup Jump Shot (16 PTS) (Butler 3 AST),Made Shot,Pullup Jump shot,1,238
+42200307,321,PT07M54.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown Lost Ball Turnover (P4.T9),Turnover,Lost Ball,1,239
+42200307,321,PT07M54.00S,3,1610612748,MIA,202710,Butler,J. Butler,0,0,0,,0,,,0,v,Butler STEAL (2 STL),,,1,240
+42200307,323,PT07M39.00S,3,1610612748,MIA,202710,Butler,J. Butler,227,0,0,Missed,1,,,0,v,MISS Butler 3PT Jump Shot,Missed Shot,Jump Shot,1,241
+42200307,324,PT07M38.00S,3,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,Williams III REBOUND (Off:2 Def:3),Rebound,Unknown,1,242
+42200307,325,PT07M28.00S,3,1610612738,BOS,1627759,Brown,J. Brown,9,272,27,Missed,1,,,0,h,MISS Brown 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,243
+42200307,326,PT07M26.00S,3,1610612748,MIA,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus REBOUND (Off:0 Def:3),Rebound,Unknown,1,244
+42200307,327,PT07M11.00S,3,1610612748,MIA,1628997,Martin,C. Martin,-153,27,16,Made,1,51.0,63.0,114,v,Martin 16' Turnaround Fadeaway (18 PTS),Made Shot,Turnaround Fadeaway shot,1,245
+42200307,328,PT06M49.00S,3,1610612738,BOS,1629057,Williams III,R. Williams III,26,19,3,Made,1,53.0,63.0,116,h,Williams III 3' Reverse Layup (8 PTS) (Tatum 4 AST),Made Shot,Reverse Layup Shot,1,246
+42200307,330,PT06M24.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,-141,27,14,Missed,1,,,0,v,MISS Adebayo 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,247
+42200307,331,PT06M23.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:0 Def:4),Rebound,Unknown,1,248
+42200307,332,PT06M15.00S,3,1610612738,BOS,1628401,White,D. White,173,209,27,Missed,1,,,0,h,MISS White 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,249
+42200307,333,PT06M14.00S,3,1610612748,MIA,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus REBOUND (Off:0 Def:4),Rebound,Unknown,1,250
+42200307,334,PT05M53.00S,3,1610612748,MIA,202710,Butler,J. Butler,-27,27,4,Missed,1,,,0,v,MISS Butler 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,251
+42200307,335,PT05M52.00S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,0,252
+42200307,337,PT05M49.00S,3,1610612748,MIA,1629622,Strus,M. Strus,-172,196,26,Made,1,53.0,66.0,119,v,Strus 26' 3PT Jump Shot (8 PTS) (Adebayo 4 AST),Made Shot,Jump Shot,1,253
+42200307,339,PT05M21.00S,3,1610612738,BOS,1627759,Brown,J. Brown,-10,162,16,Missed,1,,,0,h,MISS Brown 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,254
+42200307,340,PT05M20.00S,3,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,Williams III REBOUND (Off:3 Def:3),Rebound,Unknown,1,255
+42200307,341,PT05M18.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,-151,220,27,Made,1,56.0,66.0,122,h,Tatum 27' 3PT Jump Shot (10 PTS) (Williams III 1 AST),Made Shot,Jump Shot,1,256
+42200307,343,PT05M03.00S,3,1610612748,MIA,1629216,Vincent,G. Vincent,148,221,27,Missed,1,,,0,v,MISS Vincent 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,257
+42200307,344,PT05M02.00S,3,1610612748,MIA,1629216,Vincent,G. Vincent,0,0,0,,0,,,0,v,Vincent REBOUND (Off:1 Def:0),Rebound,Unknown,1,258
+42200307,345,PT04M57.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,-25,25,4,Missed,1,,,0,v,MISS Adebayo 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,259
+42200307,346,PT04M56.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:0 Def:5),Rebound,Unknown,1,260
+42200307,347,PT04M49.00S,3,1610612738,BOS,1628401,White,D. White,-28,74,8,Made,1,58.0,66.0,124,h,White 8' Driving Floating Jump Shot (15 PTS) (Brown 3 AST),Made Shot,Driving Floating Jump Shot,1,261
+42200307,349,PT04M49.00S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,262
+42200307,350,PT04M49.00S,3,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,SUB: Horford FOR Williams III,Substitution,,0,263
+42200307,352,PT04M27.00S,3,1610612748,MIA,202710,Butler,J. Butler,-7,109,11,Missed,1,,,0,v,MISS Butler 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,264
+42200307,353,PT04M26.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:2 Def:8),Rebound,Unknown,1,265
+42200307,355,PT04M15.00S,3,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White Traveling Turnover (P2.T10),Turnover,Traveling,1,266
+42200307,356,PT03M51.00S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Turnover: Shot Clock (T#6),Turnover,Shot Clock Turnover,0,267
+42200307,357,PT03M33.00S,3,1610612748,MIA,1629216,Vincent,G. Vincent,0,0,0,,0,,,0,v,Vincent S.FOUL (P3.T3) (J.Goble),Foul,Shooting,1,268
+42200307,359,PT03M33.00S,3,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,MISS White Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,269
+42200307,360,PT03M33.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,270
+42200307,361,PT03M33.00S,3,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Williams FOR Smart,Substitution,,0,271
+42200307,362,PT03M33.00S,3,1610612748,MIA,1629216,Vincent,G. Vincent,0,0,0,,0,,,0,v,SUB: Lowry FOR Vincent,Substitution,,0,272
+42200307,365,PT03M33.00S,3,1610612738,BOS,1628401,White,D. White,0,0,0,,0,59.0,66.0,125,h,White Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,273
+42200307,366,PT03M19.00S,3,1610612748,MIA,1629622,Strus,M. Strus,-178,195,26,Missed,1,,,0,v,MISS Strus 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,274
+42200307,367,PT03M18.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:0 Def:6),Rebound,Unknown,1,275
+42200307,368,PT03M17.00S,3,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry P.FOUL (P2.T4) (J.Goble),Foul,Personal,1,276
+42200307,370,PT03M02.00S,3,1610612738,BOS,1628401,White,D. White,4,262,26,Missed,1,,,0,h,MISS White 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,277
+42200307,371,PT03M00.00S,3,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry REBOUND (Off:0 Def:3),Rebound,Unknown,1,278
+42200307,372,PT02M35.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,-64,105,12,Missed,1,,,0,v,MISS Adebayo 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,279
+42200307,373,PT02M34.00S,3,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White REBOUND (Off:1 Def:1),Rebound,Unknown,1,280
+42200307,374,PT02M24.00S,3,1610612738,BOS,1627759,Brown,J. Brown,-29,145,15,Missed,1,,,0,h,MISS Brown 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,281
+42200307,375,PT02M23.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:0 Def:6),Rebound,Unknown,1,282
+42200307,376,PT02M10.00S,3,1610612748,MIA,200768,Lowry,K. Lowry,82,54,10,Missed,1,,,0,v,MISS Lowry 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,283
+42200307,377,PT02M09.00S,3,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,0,284
+42200307,378,PT02M09.00S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford L.B.FOUL (P2.T1) (J.Goble),Foul,Loose Ball,1,285
+42200307,380,PT02M00.00S,3,1610612748,MIA,202710,Butler,J. Butler,-162,209,26,Made,1,59.0,69.0,128,v,Butler 26' 3PT Step Back Jump Shot (19 PTS),Made Shot,Step Back Jump shot,1,286
+42200307,381,PT01M50.00S,3,1610612738,BOS,1629684,Williams,G. Williams,-227,21,0,Made,1,62.0,69.0,131,h,Williams 3PT Jump Shot (3 PTS) (Brown 4 AST),Made Shot,Jump Shot,1,287
+42200307,383,PT01M25.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,-34,23,4,Made,1,62.0,71.0,133,v,Adebayo 4' Driving Layup (6 PTS) (Butler 4 AST),Made Shot,Driving Layup Shot,1,288
+42200307,385,PT01M18.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown OFF.Foul (P3) (J.Goble),Foul,Offensive,1,289
+42200307,387,PT01M18.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown Offensive Foul Turnover (P5.T11),Turnover,Offensive Foul Turnover,1,290
+42200307,388,PT01M18.00S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,SUB: Smart FOR Horford,Substitution,,0,291
+42200307,389,PT01M18.00S,3,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,SUB: Highsmith FOR Adebayo,Substitution,,0,292
+42200307,392,PT00M55.70S,3,1610612748,MIA,202710,Butler,J. Butler,-232,63,24,Missed,1,,,0,v,MISS Butler 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,293
+42200307,393,PT00M54.90S,3,1610612748,MIA,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus REBOUND (Off:1 Def:4),Rebound,Unknown,1,294
+42200307,394,PT00M53.20S,3,1610612748,MIA,1629622,Strus,M. Strus,16,17,2,Missed,1,,,0,v,MISS Strus 2' Putback Layup,Missed Shot,Putback Layup Shot,1,295
+42200307,395,PT00M52.10S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:2 Def:9),Rebound,Unknown,1,296
+42200307,396,PT00M52.10S,3,1610612748,MIA,1629622,Strus,M. Strus,0,0,0,,0,,,0,v,Strus P.FOUL (P3.PN) (J.Goble),Foul,Personal,1,297
+42200307,398,PT00M52.10S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,63.0,71.0,134,h,Tatum Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,298
+42200307,399,PT00M52.10S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,64.0,71.0,135,h,Tatum Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,299
+42200307,400,PT00M30.60S,3,1610612748,MIA,1628997,Martin,C. Martin,-219,141,26,Made,1,64.0,74.0,138,v,Martin 26' 3PT Step Back Jump Shot (21 PTS) (Butler 5 AST),Made Shot,Step Back Jump shot,1,300
+42200307,402,PT00M09.10S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith S.FOUL (P1.PN) (T.Brothers),Foul,Shooting,1,301
+42200307,404,PT00M09.10S,3,1610612738,BOS,1628401,White,D. White,0,0,0,,0,65.0,74.0,139,h,White Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,302
+42200307,405,PT00M09.10S,3,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,SUB: Robinson FOR Highsmith,Substitution,,0,303
+42200307,407,PT00M09.10S,3,1610612738,BOS,1628401,White,D. White,0,0,0,,0,66.0,74.0,140,h,White Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,304
+42200307,408,PT00M01.50S,3,1610612748,MIA,1628997,Martin,C. Martin,121,12,12,Made,1,66.0,76.0,142,v,Martin 12' Fadeaway Jumper (23 PTS),Made Shot,Fadeaway Jump Shot,1,305
+42200307,409,PT00M00.00S,3,1610612738,BOS,203935,Smart,M. Smart,-113,699,71,Missed,1,,,0,h,MISS Smart 71' 3PT Jump Shot,Missed Shot,Jump Shot,1,306
+42200307,410,PT00M00.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,307
+42200307,411,PT00M00.00S,3,0,,0,,,0,0,0,,0,66.0,76.0,142,,End of 3rd Period (10:09 PM EST),period,end,1,308
+42200307,416,PT12M00.00S,4,0,,0,,,0,0,0,,0,66.0,76.0,142,,Start of 4th Period (10:13 PM EST),period,start,0,309
+42200307,417,PT11M42.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,17,32,4,Missed,1,,,0,h,MISS Tatum 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,310
+42200307,418,PT11M41.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:0 Def:7),Rebound,Unknown,1,311
+42200307,419,PT11M35.00S,4,1610612748,MIA,1628997,Martin,C. Martin,38,252,25,Made,1,66.0,79.0,145,v,Martin 25' 3PT Step Back Jump Shot (26 PTS) (Butler 6 AST),Made Shot,Step Back Jump shot,1,312
+42200307,420,PT11M18.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown OFF.Foul (P4) (T.Brothers),Foul,Offensive,1,313
+42200307,422,PT11M18.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown Offensive Foul Turnover (P6.T12),Turnover,Offensive Foul Turnover,1,314
+42200307,423,PT11M18.00S,4,0,,420,Williams,J. Williams,0,0,0,,0,66.0,79.0,145,,Instant Replay4th Period (10:14 PM EST),Instant Replay,Ruling Stands,0,315
+42200307,424,PT11M06.00S,4,1610612748,MIA,202710,Butler,J. Butler,99,152,18,Made,1,66.0,81.0,147,v,Butler 18' Pullup Jump Shot (21 PTS),Made Shot,Pullup Jump shot,1,316
+42200307,426,PT10M52.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown Lost Ball Turnover (P7.T13),Turnover,Lost Ball,1,317
+42200307,426,PT10M52.00S,4,1610612748,MIA,202710,Butler,J. Butler,0,0,0,,0,,,0,v,Butler STEAL (3 STL),,,1,318
+42200307,428,PT10M50.00S,4,1610612748,MIA,202710,Butler,J. Butler,23,10,3,Made,1,66.0,83.0,149,v,Butler 3' Running Dunk (23 PTS) (Martin 2 AST),Made Shot,Running Dunk Shot,1,319
+42200307,429,PT10M50.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,320
+42200307,431,PT10M50.00S,4,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,,0,,,0,h,SUB: Smart FOR Williams,Substitution,,0,321
+42200307,432,PT10M50.00S,4,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,SUB: Horford FOR Williams III,Substitution,,0,322
+42200307,435,PT10M26.00S,4,1610612738,BOS,203935,Smart,M. Smart,227,20,0,Missed,1,,,0,h,MISS Smart 3PT Jump Shot,Missed Shot,Jump Shot,1,323
+42200307,436,PT10M25.00S,4,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry REBOUND (Off:0 Def:4),Rebound,Unknown,1,324
+42200307,437,PT10M09.00S,4,1610612748,MIA,202710,Butler,J. Butler,0,0,0,,0,,,0,v,Butler OFF.Foul (P2) (T.Brothers),Foul,Offensive,1,325
+42200307,439,PT10M09.00S,4,1610612748,MIA,202710,Butler,J. Butler,0,0,0,,0,,,0,v,Butler Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,1,326
+42200307,440,PT09M56.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,-12,27,3,Made,1,68.0,83.0,151,h,Tatum 3' Driving Dunk (14 PTS),Made Shot,Driving Dunk Shot,1,327
+42200307,441,PT09M42.00S,4,1610612748,MIA,1628997,Martin,C. Martin,97,231,25,Missed,1,,,0,v,MISS Martin 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,328
+42200307,442,PT09M40.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:0 Def:7),Rebound,Unknown,1,329
+42200307,443,PT09M34.00S,4,1610612738,BOS,1627759,Brown,J. Brown,-99,236,26,Missed,1,,,0,h,MISS Brown 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,330
+42200307,444,PT09M33.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:0 Def:8),Rebound,Unknown,1,331
+42200307,445,PT09M23.00S,4,1610612748,MIA,202710,Butler,J. Butler,143,128,19,Missed,1,,,0,v,MISS Butler 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,332
+42200307,446,PT09M21.00S,4,1610612748,MIA,202710,Butler,J. Butler,0,0,0,,0,,,0,v,Butler REBOUND (Off:1 Def:5),Rebound,Unknown,1,333
+42200307,448,PT09M17.00S,4,1610612748,MIA,1629130,Robinson,D. Robinson,-233,50,24,Made,1,68.0,86.0,154,v,Robinson 24' 3PT Jump Shot (8 PTS) (Lowry 5 AST),Made Shot,Jump Shot,1,334
+42200307,450,PT09M00.00S,4,1610612738,BOS,1628401,White,D. White,153,215,26,Missed,1,,,0,h,MISS White 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,335
+42200307,451,PT08M59.00S,4,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry REBOUND (Off:0 Def:5),Rebound,Unknown,1,336
+42200307,452,PT08M41.00S,4,1610612748,MIA,202710,Butler,J. Butler,162,204,26,Missed,1,,,0,v,MISS Butler 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,337
+42200307,453,PT08M40.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:0 Def:8),Rebound,Unknown,1,338
+42200307,454,PT08M30.00S,4,1610612738,BOS,201143,Horford,A. Horford,233,36,24,Made,1,71.0,86.0,157,h,Horford 24' 3PT Jump Shot (8 PTS) (Smart 4 AST),Made Shot,Jump Shot,1,339
+42200307,456,PT08M03.00S,4,1610612748,MIA,200768,Lowry,K. Lowry,0,168,17,Made,1,71.0,88.0,159,v,Lowry 17' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,340
+42200307,457,PT07M52.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,136,242,28,Missed,1,,,0,h,MISS Tatum 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,341
+42200307,458,PT07M51.00S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Unknown,0,342
+42200307,459,PT07M51.00S,4,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford L.B.FOUL (P3.T1) (S.Foster),Foul,Loose Ball,1,343
+42200307,461,PT07M51.00S,4,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,SUB: Hauser FOR White,Substitution,,0,344
+42200307,463,PT07M34.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,-123,79,15,Made,1,71.0,90.0,161,v,Adebayo 15' Jump Shot (8 PTS) (Martin 3 AST),Made Shot,Jump Shot,1,345
+42200307,464,PT07M13.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown Lost Ball Turnover (P8.T14),Turnover,Lost Ball,1,346
+42200307,464,PT07M13.00S,4,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,Robinson STEAL (2 STL),,,1,347
+42200307,466,PT06M57.00S,4,1610612748,MIA,202710,Butler,J. Butler,-62,31,7,Missed,1,,,0,v,MISS Butler 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,348
+42200307,467,PT06M56.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:1 Def:8),Rebound,Unknown,1,349
+42200307,468,PT06M55.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum S.FOUL (P2.T2) (S.Foster),Foul,Shooting,1,350
+42200307,470,PT06M55.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,71.0,91.0,162,v,Adebayo Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,351
+42200307,471,PT06M55.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,71.0,92.0,163,v,Adebayo Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,352
+42200307,473,PT06M44.00S,4,1610612738,BOS,1627759,Brown,J. Brown,-33,22,4,Made,1,73.0,92.0,165,h,Brown 4' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,353
+42200307,474,PT06M28.00S,4,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,Robinson Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,354
+42200307,474,PT06M28.00S,4,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford STEAL (1 STL),,,1,355
+42200307,476,PT06M19.00S,4,1610612738,BOS,203935,Smart,M. Smart,17,66,7,Missed,1,,,0,h,MISS Smart 7' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,356
+42200307,477,PT06M18.00S,4,1610612748,MIA,202710,Butler,J. Butler,0,0,0,,0,,,0,v,Butler REBOUND (Off:1 Def:6),Rebound,Unknown,1,357
+42200307,478,PT06M15.00S,4,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart P.FOUL (P1.T3) (S.Foster),Foul,Personal,1,358
+42200307,480,PT06M08.00S,4,1610612748,MIA,1629130,Robinson,D. Robinson,21,13,2,Made,1,73.0,94.0,167,v,Robinson 2' Cutting Layup Shot (10 PTS) (Adebayo 5 AST),Made Shot,Cutting Layup Shot,1,359
+42200307,482,PT06M08.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,360
+42200307,483,PT06M08.00S,4,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,,,0,h,SUB: Williams FOR Hauser,Substitution,,0,361
+42200307,485,PT05M56.00S,4,1610612738,BOS,1629684,Williams,G. Williams,98,242,26,Missed,1,,,0,h,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,362
+42200307,486,PT05M52.00S,4,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,1,363
+42200307,487,PT05M33.00S,4,1610612748,MIA,202710,Butler,J. Butler,-36,12,4,Made,1,73.0,96.0,169,v,Butler 4' Driving Reverse Layup (25 PTS),Made Shot,Driving Reverse Layup Shot,1,364
+42200307,488,PT05M21.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,-233,8,0,Missed,1,,,0,h,MISS Tatum 3PT Jump Shot,Missed Shot,Jump Shot,1,365
+42200307,489,PT05M20.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo REBOUND (Off:1 Def:9),Rebound,Unknown,1,366
+42200307,490,PT04M58.00S,4,1610612748,MIA,1629130,Robinson,D. Robinson,0,0,0,,0,,,0,v,Robinson Lost Ball Turnover (P3.T9),Turnover,Lost Ball,1,367
+42200307,490,PT04M58.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown STEAL (1 STL),,,1,368
+42200307,492,PT04M56.00S,4,1610612738,BOS,1627759,Brown,J. Brown,12,25,3,Made,1,75.0,96.0,171,h,Brown 3' Running Dunk (19 PTS),Made Shot,Running Dunk Shot,1,369
+42200307,493,PT04M35.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown S.FOUL (P5.T4) (S.Foster),Foul,Shooting,1,370
+42200307,495,PT04M35.00S,4,1610612748,MIA,202710,Butler,J. Butler,0,0,0,,0,,,0,v,MISS Butler Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,371
+42200307,496,PT04M35.00S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Normal Rebound,0,372
+42200307,497,PT04M35.00S,4,1610612748,MIA,202710,Butler,J. Butler,0,0,0,,0,75.0,97.0,172,v,Butler Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,1,373
+42200307,498,PT04M29.00S,4,1610612738,BOS,1627759,Brown,J. Brown,-124,237,27,Missed,1,,,0,h,MISS Brown 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,374
+42200307,499,PT04M28.00S,4,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry REBOUND (Off:0 Def:6),Rebound,Unknown,1,375
+42200307,500,PT04M08.00S,4,1610612748,MIA,202710,Butler,J. Butler,-142,138,20,Missed,1,,,0,v,MISS Butler 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,376
+42200307,501,PT04M07.00S,4,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford REBOUND (Off:1 Def:7),Rebound,Unknown,1,377
+42200307,502,PT03M59.00S,4,1610612738,BOS,203935,Smart,M. Smart,31,31,4,Made,1,77.0,97.0,174,h,Smart 4' Running Layup (7 PTS),Made Shot,Running Layup Shot,1,378
+42200307,504,PT03M47.00S,4,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,379
+42200307,504,PT03M47.00S,4,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart STEAL (1 STL),,,1,380
+42200307,506,PT03M45.00S,4,1610612738,BOS,203935,Smart,M. Smart,17,26,3,Made,1,79.0,97.0,176,h,Smart 3' Running Layup (9 PTS) (Brown 5 AST),Made Shot,Running Layup Shot,1,381
+42200307,508,PT03M45.00S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,382
+42200307,509,PT03M45.00S,4,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,,0,,,0,h,SUB: Pritchard FOR Williams,Substitution,,0,383
+42200307,511,PT03M27.00S,4,1610612748,MIA,202710,Butler,J. Butler,22,20,3,Made,1,79.0,99.0,178,v,Butler 3' Cutting Dunk Shot (28 PTS) (Adebayo 6 AST),Made Shot,Cutting Dunk Shot,1,384
+42200307,513,PT03M07.00S,4,1610612738,BOS,201143,Horford,A. Horford,15,85,9,Missed,1,,,0,h,MISS Horford 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,385
+42200307,514,PT03M06.00S,4,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry REBOUND (Off:0 Def:7),Rebound,Unknown,1,386
+42200307,515,PT02M42.00S,4,1610612748,MIA,200768,Lowry,K. Lowry,-37,23,4,Made,1,79.0,101.0,180,v,Lowry 4' Driving Layup (7 PTS) (Adebayo 7 AST),Made Shot,Driving Layup Shot,1,387
+42200307,517,PT02M29.00S,4,1610612738,BOS,1627759,Brown,J. Brown,-135,231,27,Missed,1,,,0,h,MISS Brown 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,388
+42200307,518,PT02M28.00S,4,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:3 Def:6),Rebound,Unknown,1,389
+42200307,519,PT02M13.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo Traveling Turnover (P3.T11),Turnover,Traveling,1,390
+42200307,520,PT02M13.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,SUB: Kornet FOR Tatum,Substitution,,0,391
+42200307,521,PT02M13.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,SUB: Muscala FOR Brown,Substitution,,0,392
+42200307,522,PT02M13.00S,4,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Hauser FOR Smart,Substitution,,0,393
+42200307,523,PT02M13.00S,4,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,SUB: Williams FOR Horford,Substitution,,0,394
+42200307,528,PT02M04.00S,4,1610612738,BOS,203488,Muscala,M. Muscala,-241,27,24,Made,1,82.0,101.0,183,h,Muscala 24' 3PT Jump Shot (3 PTS) (Williams 1 AST),Made Shot,Jump Shot,1,395
+42200307,530,PT01M50.00S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,396
+42200307,531,PT01M42.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,5,41,4,Made,1,82.0,103.0,185,v,Adebayo 4' Cutting Dunk Shot (12 PTS) (Robinson 1 AST),Made Shot,Cutting Dunk Shot,1,397
+42200307,533,PT01M36.00S,4,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,,0,,,0,h,Williams Out of Bounds - Bad Pass Turnover Turnover (P1.T15),Turnover,Out of Bounds - Bad Pass Turnover,1,398
+42200307,534,PT01M23.00S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,Adebayo Lost Ball Turnover (P4.T12),Turnover,Lost Ball,1,399
+42200307,534,PT01M23.00S,4,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,,0,,,0,h,Williams STEAL (1 STL),,,1,400
+42200307,536,PT01M21.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,401
+42200307,537,PT01M18.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,-105,262,28,Missed,1,,,0,h,MISS Pritchard 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,402
+42200307,538,PT01M17.00S,4,1610612738,BOS,203488,Muscala,M. Muscala,0,0,0,,0,,,0,h,Muscala REBOUND (Off:1 Def:0),Rebound,Unknown,0,403
+42200307,539,PT01M14.00S,4,1610612738,BOS,1630573,Hauser,S. Hauser,183,193,27,Missed,1,,,0,h,MISS Hauser 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,404
+42200307,540,PT01M13.00S,4,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:3 Def:7),Rebound,Unknown,1,405
+42200307,541,PT01M02.00S,4,1610612748,MIA,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry Out of Bounds - Bad Pass Turnover Turnover (P2.T13),Turnover,Out of Bounds - Bad Pass Turnover,1,406
+42200307,542,PT00M58.40S,4,1610612738,BOS,1630573,Hauser,S. Hauser,20,284,28,Missed,1,,,0,h,MISS Hauser 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,407
+42200307,543,PT00M55.00S,4,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,,,0,h,Hauser REBOUND (Off:1 Def:0),Rebound,Unknown,1,408
+42200307,544,PT00M53.70S,4,1610612738,BOS,1630573,Hauser,S. Hauser,36,57,7,Made,1,84.0,103.0,187,h,Hauser 7' Jump Shot (2 PTS),Made Shot,Jump Shot,1,409
+42200307,554,PT00M29.70S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Turnover: Shot Clock (T#14),Turnover,Shot Clock Turnover,0,410
+42200307,546,PT00M29.70S,4,1610612748,MIA,1628389,Adebayo,B. Adebayo,0,0,0,,0,,,0,v,SUB: Jovic FOR Adebayo,Substitution,,0,411
+42200307,547,PT00M29.70S,4,1610612748,MIA,1628997,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Highsmith FOR Martin,Substitution,,0,412
+42200307,548,PT00M29.70S,4,1610612748,MIA,202710,Butler,J. Butler,0,0,0,,0,,,0,v,SUB: Yurtseven FOR Butler,Substitution,,0,413
+42200307,552,PT00M24.20S,4,1610612738,BOS,1629684,Williams,G. Williams,-145,214,26,Missed,1,,,0,h,MISS Williams 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,414
+42200307,553,PT00M21.70S,4,1610612748,MIA,1629312,Highsmith,H. Highsmith,0,0,0,,0,,,0,v,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,1,415
+42200307,555,PT00M00.00S,4,0,,0,,,0,0,0,,0,84.0,103.0,187,,End of 4th Period (10:43 PM EST),period,end,1,416

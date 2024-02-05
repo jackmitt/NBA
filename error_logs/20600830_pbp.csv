@@ -1,0 +1,532 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+20600830,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (9:08 PM EST),period,start,0,1
+20600830,1,PT12M00.00S,1,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Jump Ball Dampier vs. Camby: Tip to Iverson,Jump Ball,,0,2
+20600830,2,PT11M46.00S,1,1610612743,DEN,200821,Diawara,Y. Diawara,227,49,0,Missed,1,0.0,0.0,0,v,MISS Diawara  3PT Jump Shot,Missed Shot,Jump Shot,0,3
+20600830,3,PT11M44.00S,1,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier REBOUND (Off:0 Def:1),Rebound,Unknown,0,4
+20600830,4,PT11M30.00S,1,1610612742,DAL,2572,Howard,J. Howard,184,53,19,Made,1,2.0,0.0,2,h,Howard 19' Jump Shot (2 PTS) (Nowitzki 1 AST),Made Shot,Jump Shot,0,5
+20600830,5,PT11M14.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,-29,79,8,Made,1,2.0,2.0,4,v,Anthony 8' Jump Shot (2 PTS),Made Shot,Jump Shot,0,6
+20600830,6,PT10M58.00S,1,1610612742,DAL,2572,Howard,J. Howard,146,133,20,Missed,1,0.0,0.0,0,h,MISS Howard 20' Jump Shot,Missed Shot,Jump Shot,0,7
+20600830,7,PT10M57.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony REBOUND (Off:0 Def:1),Rebound,Unknown,0,8
+20600830,8,PT10M49.00S,1,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,Missed,1,0.0,0.0,0,v,MISS Iverson  Driving Layup,Missed Shot,Driving Layup Shot,0,9
+20600830,10,PT10M45.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:1 Def:0),Rebound,Unknown,0,10
+20600830,9,PT10M45.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,Missed,1,0.0,0.0,0,v,MISS Camby  Tip Shot,Missed Shot,Tip Shot,0,11
+20600830,11,PT10M44.00S,1,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson REBOUND (Off:1 Def:0),Rebound,Unknown,0,12
+20600830,12,PT10M32.00S,1,1610612743,DEN,948,Camby,M. Camby,28,150,15,Missed,1,0.0,0.0,0,v,MISS Camby 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,13
+20600830,13,PT10M28.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki REBOUND (Off:0 Def:1),Rebound,Unknown,0,14
+20600830,14,PT10M25.00S,1,1610612742,DAL,1891,Terry,J. Terry,-126,133,18,Missed,1,0.0,0.0,0,h,MISS Terry 18' Jump Shot,Missed Shot,Jump Shot,0,15
+20600830,15,PT10M23.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:1 Def:1),Rebound,Unknown,0,16
+20600830,16,PT10M16.00S,1,1610612743,DEN,2403,Hilario,Nene,0,0,0,Made,1,2.0,4.0,6,v,Nene  Driving Layup (2 PTS) (Camby 1 AST),Made Shot,Driving Layup Shot,0,17
+20600830,17,PT10M01.00S,1,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,18
+20600830,18,PT09M50.00S,1,1610612743,DEN,947,Iverson,A. Iverson,-43,145,15,Made,1,2.0,6.0,8,v,Iverson 15' Jump Shot (2 PTS),Made Shot,Jump Shot,0,19
+20600830,19,PT09M27.00S,1,1610612742,DAL,2572,Howard,J. Howard,-125,133,18,Missed,1,0.0,0.0,0,h,MISS Howard 18' Jump Shot,Missed Shot,Jump Shot,0,20
+20600830,20,PT09M26.00S,1,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry REBOUND (Off:1 Def:0),Rebound,Unknown,0,21
+20600830,21,PT09M22.00S,1,1610612742,DAL,1891,Terry,J. Terry,-115,10,12,Made,1,4.0,6.0,10,h,Terry 12' Jump Shot (2 PTS),Made Shot,Jump Shot,0,22
+20600830,22,PT09M15.00S,1,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry P.FOUL (P1.T1),Foul,Personal,0,23
+20600830,23,PT09M04.00S,1,1610612743,DEN,2403,Hilario,Nene,0,0,0,Made,1,4.0,8.0,12,v,Nene  Slam Dunk (4 PTS) (Camby 2 AST),Made Shot,Slam Dunk Shot,0,24
+20600830,24,PT08M55.00S,1,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,25
+20600830,26,PT08M55.00S,1,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,SUB: Diop FOR Dampier,Substitution,,0,26
+20600830,28,PT08M49.00S,1,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,27
+20600830,28,PT08M49.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby STEAL (1 STL),,,0,28
+20600830,29,PT08M45.00S,1,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,0.0,0.0,0,h,Diop S.FOUL (P1.T2),Foul,Shooting,0,29
+20600830,30,PT08M45.00S,1,1610612743,DEN,200821,Diawara,Y. Diawara,0,0,0,,0,0.0,0.0,0,v,MISS Diawara Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,30
+20600830,31,PT08M45.00S,1,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,31
+20600830,32,PT08M45.00S,1,1610612743,DEN,200821,Diawara,Y. Diawara,0,0,0,,0,4.0,9.0,13,v,Diawara Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,32
+20600830,33,PT08M33.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-146,112,18,Missed,1,0.0,0.0,0,h,MISS Nowitzki 18' Jump Shot,Missed Shot,Jump Shot,0,33
+20600830,34,PT08M32.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony REBOUND (Off:0 Def:2),Rebound,Unknown,0,34
+20600830,35,PT08M15.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,158,56,17,Made,1,4.0,11.0,15,v,Anthony 17' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,0,35
+20600830,36,PT08M02.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-6,100,10,Missed,1,0.0,0.0,0,h,MISS Nowitzki 10' Jump Shot,Missed Shot,Jump Shot,0,36
+20600830,37,PT08M00.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki REBOUND (Off:1 Def:1),Rebound,Unknown,0,37
+20600830,38,PT07M57.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-84,137,16,Made,1,6.0,11.0,17,h,Nowitzki 16' Jump Shot (2 PTS),Made Shot,Jump Shot,0,38
+20600830,39,PT07M48.00S,1,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,39
+20600830,39,PT07M48.00S,1,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry STEAL (1 STL),,,0,40
+20600830,40,PT07M44.00S,1,1610612742,DAL,1891,Terry,J. Terry,0,0,0,Made,1,8.0,11.0,19,h,Terry  Layup (4 PTS),Made Shot,Layup Shot,0,41
+20600830,41,PT07M32.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,8.0,13.0,21,v,Anthony  Driving Layup (6 PTS) (Iverson 1 AST),Made Shot,Driving Layup Shot,0,42
+20600830,42,PT07M15.00S,1,1610612742,DAL,2572,Howard,J. Howard,0,0,0,Made,1,10.0,13.0,23,h,Howard  Driving Layup (4 PTS) (Nowitzki 2 AST),Made Shot,Driving Layup Shot,0,43
+20600830,43,PT06M59.00S,1,1610612743,DEN,947,Iverson,A. Iverson,110,87,14,Made,1,10.0,15.0,25,v,Iverson 14' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,0,44
+20600830,44,PT06M50.00S,1,1610612742,DAL,1891,Terry,J. Terry,11,89,9,Missed,1,0.0,0.0,0,h,MISS Terry 9' Running Jump Shot,Missed Shot,Running Jump Shot,0,45
+20600830,45,PT06M49.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:1 Def:2),Rebound,Unknown,0,46
+20600830,46,PT06M34.00S,1,1610612743,DEN,200821,Diawara,Y. Diawara,238,59,25,Missed,1,0.0,0.0,0,v,MISS Diawara 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,47
+20600830,47,PT06M33.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki REBOUND (Off:1 Def:2),Rebound,Unknown,0,48
+20600830,48,PT06M22.00S,1,1610612742,DAL,2572,Howard,J. Howard,0,0,0,Made,1,12.0,15.0,27,h,Howard  Driving Layup (6 PTS) (Nowitzki 3 AST),Made Shot,Driving Layup Shot,0,49
+20600830,49,PT06M22.00S,1,1610612743,DEN,200821,Diawara,Y. Diawara,0,0,0,,0,0.0,0.0,0,v,Diawara S.FOUL (P1.T1),Foul,Shooting,0,50
+20600830,50,PT06M22.00S,1,1610612742,DAL,1761,Buckner,G. Buckner,0,0,0,,0,0.0,0.0,0,h,SUB: Stackhouse FOR Buckner,Substitution,,0,51
+20600830,51,PT06M22.00S,1,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,SUB: Harris FOR Terry,Substitution,,0,52
+20600830,52,PT06M22.00S,1,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,13.0,15.0,28,h,Howard Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,53
+20600830,53,PT06M08.00S,1,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,54
+20600830,53,PT06M08.00S,1,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard STEAL (1 STL),,,0,55
+20600830,54,PT05M58.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,Made,1,15.0,15.0,30,h,Nowitzki  Running Layup (4 PTS) (Stackhouse 1 AST),Made Shot,Running Layup Shot,0,56
+20600830,55,PT05M39.00S,1,1610612743,DEN,947,Iverson,A. Iverson,-138,204,25,Made,1,15.0,18.0,33,v,Iverson 25' 3PT Jump Shot (7 PTS) (Camby 3 AST),Made Shot,Jump Shot,0,57
+20600830,56,PT05M21.00S,1,1610612742,DAL,2205,Diop,D. Diop,0,0,0,Made,1,17.0,18.0,35,h,Diop  Running Layup (2 PTS) (Stackhouse 2 AST),Made Shot,Running Layup Shot,0,58
+20600830,60,PT05M00.00S,1,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,0.0,0.0,0,h,Jump Ball Diop vs. Camby: Tip to Iverson,Jump Ball,,0,59
+20600830,62,PT04M48.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,-120,133,18,Missed,1,0.0,0.0,0,v,MISS Anthony 18' Jump Shot,Missed Shot,Jump Shot,0,60
+20600830,63,PT04M47.00S,1,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Rebound,Rebound,Unknown,0,61
+20600830,64,PT04M47.00S,1,1610612743,DEN,200821,Diawara,Y. Diawara,0,0,0,,0,0.0,0.0,0,v,SUB: Blake FOR Diawara,Substitution,,0,62
+20600830,65,PT04M47.00S,1,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,SUB: Najera FOR Nene,Substitution,,0,63
+20600830,66,PT04M37.00S,1,1610612742,DAL,2734,Harris,D. Harris,0,0,0,Missed,1,0.0,0.0,0,h,MISS Harris  Layup,Missed Shot,Layup Shot,0,64
+20600830,68,PT04M35.00S,1,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,0.0,0.0,0,h,Diop REBOUND (Off:1 Def:0),Rebound,Unknown,0,65
+20600830,67,PT04M35.00S,1,1610612742,DAL,2205,Diop,D. Diop,0,0,0,Made,1,19.0,18.0,37,h,Diop  Tip Shot (4 PTS),Made Shot,Tip Shot,0,66
+20600830,69,PT04M20.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Missed,1,0.0,0.0,0,v,MISS Anthony  Layup,Missed Shot,Layup Shot,0,67
+20600830,70,PT04M19.00S,1,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,0.0,0.0,0,h,Stackhouse REBOUND (Off:0 Def:1),Rebound,Unknown,0,68
+20600830,71,PT04M05.00S,1,1610612742,DAL,2734,Harris,D. Harris,0,0,0,Missed,1,0.0,0.0,0,h,MISS Harris  Driving Layup,Missed Shot,Driving Layup Shot,0,69
+20600830,73,PT04M03.00S,1,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,0.0,0.0,0,h,Diop REBOUND (Off:2 Def:0),Rebound,Unknown,0,70
+20600830,72,PT04M03.00S,1,1610612742,DAL,2205,Diop,D. Diop,0,0,0,Missed,1,0.0,0.0,0,h,MISS Diop  Tip Shot,Missed Shot,Tip Shot,0,71
+20600830,74,PT04M03.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:1 Def:3),Rebound,Unknown,0,72
+20600830,75,PT04M03.00S,1,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,0.0,0.0,0,h,Diop L.B.FOUL (P2.T3),Foul,Loose Ball,0,73
+20600830,76,PT04M03.00S,1,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,0.0,0.0,0,h,SUB: Dampier FOR Diop,Substitution,,0,74
+20600830,77,PT03M53.00S,1,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0.0,0.0,0,h,Harris S.FOUL (P1.T4),Foul,Shooting,0,75
+20600830,78,PT03M53.00S,1,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,19.0,19.0,38,v,Iverson Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,76
+20600830,79,PT03M53.00S,1,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,19.0,20.0,39,v,Iverson Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,77
+20600830,80,PT03M39.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,31,245,25,Missed,1,0.0,0.0,0,h,MISS Nowitzki 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,78
+20600830,81,PT03M38.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:1 Def:4),Rebound,Unknown,0,79
+20600830,82,PT03M33.00S,1,1610612743,DEN,947,Iverson,A. Iverson,-103,105,15,Made,1,19.0,22.0,41,v,Iverson 15' Jump Shot (11 PTS) (Camby 4 AST),Made Shot,Jump Shot,0,80
+20600830,83,PT03M17.00S,1,1610612742,DAL,711,Stackhouse,J. Stackhouse,179,-5,18,Made,1,21.0,22.0,43,h,Stackhouse 18' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,0,81
+20600830,84,PT03M12.00S,1,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0.0,0.0,0,h,Harris S.FOUL (P2.PN),Foul,Shooting,0,82
+20600830,85,PT03M12.00S,1,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,21.0,23.0,44,v,Iverson Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,83
+20600830,86,PT03M12.00S,1,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0.0,0.0,0,h,SUB: Terry FOR Harris,Substitution,,0,84
+20600830,87,PT03M12.00S,1,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,21.0,24.0,45,v,Iverson Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,85
+20600830,88,PT03M01.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,164,56,17,Missed,1,0.0,0.0,0,h,MISS Nowitzki 17' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,86
+20600830,89,PT02M57.00S,1,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson REBOUND (Off:1 Def:1),Rebound,Unknown,0,87
+20600830,90,PT02M54.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,21.0,26.0,47,v,Anthony  Running Layup (8 PTS) (Iverson 2 AST),Made Shot,Running Layup Shot,0,88
+20600830,91,PT02M37.00S,1,1610612742,DAL,711,Stackhouse,J. Stackhouse,-29,145,15,Missed,1,0.0,0.0,0,h,MISS Stackhouse 15' Jump Shot,Missed Shot,Jump Shot,0,89
+20600830,92,PT02M36.00S,1,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0.0,0.0,0,v,Najera REBOUND (Off:0 Def:1),Rebound,Unknown,0,90
+20600830,93,PT02M28.00S,1,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard S.FOUL (P1.PN),Foul,Shooting,0,91
+20600830,94,PT02M28.00S,1,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,92
+20600830,96,PT02M28.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,SUB: Croshere FOR Nowitzki,Substitution,,0,93
+20600830,97,PT02M28.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,SUB: Kleiza FOR Anthony,Substitution,,0,94
+20600830,98,PT02M28.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,21.0,27.0,48,v,Camby Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,95
+20600830,100,PT02M28.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,21.0,28.0,49,v,Camby Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,96
+20600830,101,PT02M17.00S,1,1610612742,DAL,2572,Howard,J. Howard,75,138,16,Made,1,23.0,28.0,51,h,Howard 16' Turnaround Jump Shot (9 PTS) (Croshere 1 AST),Made Shot,Turnaround Jump Shot,0,97
+20600830,103,PT01M52.00S,1,1610612743,DEN,947,Iverson,A. Iverson,181,178,25,Missed,1,0.0,0.0,0,v,MISS Iverson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,98
+20600830,104,PT01M50.00S,1,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,0.0,0.0,0,h,Stackhouse REBOUND (Off:0 Def:2),Rebound,Unknown,0,99
+20600830,105,PT01M41.00S,1,1610612742,DAL,2572,Howard,J. Howard,18,110,11,Made,1,25.0,28.0,53,h,Howard 11' Running Jump Shot (11 PTS),Made Shot,Running Jump Shot,0,100
+20600830,106,PT01M23.00S,1,1610612743,DEN,2059,Najera,E. Najera,0,0,0,Made,1,25.0,30.0,55,v,Najera  Layup (2 PTS) (Camby 5 AST),Made Shot,Layup Shot,0,101
+20600830,107,PT01M03.00S,1,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,102
+20600830,107,PT01M03.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby STEAL (2 STL),,,0,103
+20600830,108,PT00M49.90S,1,1610612743,DEN,2059,Najera,E. Najera,-33,61,7,Missed,1,0.0,0.0,0,v,MISS Najera 7' Running Jump Shot,Missed Shot,Running Jump Shot,0,104
+20600830,109,PT00M46.90S,1,1610612742,DAL,1506,Croshere,A. Croshere,0,0,0,,0,0.0,0.0,0,h,Croshere REBOUND (Off:0 Def:1),Rebound,Unknown,0,105
+20600830,110,PT00M33.50S,1,1610612743,DEN,2581,Blake,S. Blake,0,0,0,,0,0.0,0.0,0,v,Blake P.FOUL (P1.T2),Foul,Personal,0,106
+20600830,111,PT00M29.20S,1,1610612742,DAL,711,Stackhouse,J. Stackhouse,-192,10,19,Made,1,27.0,30.0,57,h,Stackhouse 19' Jump Shot (4 PTS) (Croshere 2 AST),Made Shot,Jump Shot,0,107
+20600830,112,PT00M20.60S,1,1610612743,DEN,101132,Kleiza,L. Kleiza,-164,191,25,Made,1,27.0,33.0,60,v,Kleiza 25' 3PT Jump Shot (3 PTS) (Blake 1 AST),Made Shot,Jump Shot,0,108
+20600830,114,PT00M00.30S,1,1610612742,DAL,1506,Croshere,A. Croshere,95,168,19,Made,1,29.0,33.0,62,h,Croshere 19' Jump Shot (2 PTS) (Stackhouse 3 AST),Made Shot,Jump Shot,0,109
+20600830,115,PT00M00.00S,1,0,,0,,,0,0,0,,0,29.0,33.0,62,,Instant Replay1st Period (9:33 PM EST),Instant Replay,Support Ruling,0,110
+20600830,116,PT00M00.00S,1,0,,0,,,0,0,0,,0,29.0,33.0,62,,End of 1st Period (9:34 PM EST),period,end,0,111
+20600830,118,PT12M00.00S,2,0,,0,,,0,0,0,,0,29.0,33.0,62,,Start of 2nd Period (9:36 PM EST),period,start,0,112
+20600830,119,PT11M46.00S,2,1610612742,DAL,711,Stackhouse,J. Stackhouse,167,8,17,Made,1,31.0,33.0,64,h,Stackhouse 17' Fadeaway Jumper (6 PTS),Made Shot,Fadeaway Jump Shot,0,113
+20600830,120,PT11M27.00S,2,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson Double Dribble Turnover (P3.T3),Turnover,Double Dribble,0,114
+20600830,121,PT11M14.00S,2,1610612742,DAL,1891,Terry,J. Terry,-2,92,9,Missed,1,0.0,0.0,0,h,MISS Terry 9' Running Jump Shot,Missed Shot,Running Jump Shot,0,115
+20600830,122,PT11M11.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,Nene REBOUND (Off:0 Def:1),Rebound,Unknown,0,116
+20600830,123,PT11M03.00S,2,1610612743,DEN,101132,Kleiza,L. Kleiza,-79,112,14,Missed,1,0.0,0.0,0,v,MISS Kleiza 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,117
+20600830,124,PT11M01.00S,2,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard REBOUND (Off:0 Def:1),Rebound,Unknown,0,118
+20600830,125,PT10M49.00S,2,1610612742,DAL,2572,Howard,J. Howard,-2,122,12,Made,1,33.0,33.0,66,h,Howard 12' Running Jump Shot (13 PTS),Made Shot,Running Jump Shot,0,119
+20600830,126,PT10M38.00S,2,1610612743,DEN,947,Iverson,A. Iverson,-100,143,17,Made,1,33.0,35.0,68,v,Iverson 17' Jump Shot (15 PTS),Made Shot,Jump Shot,0,120
+20600830,127,PT10M17.00S,2,1610612742,DAL,1506,Croshere,A. Croshere,77,118,14,Missed,1,0.0,0.0,0,h,MISS Croshere 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,121
+20600830,128,PT10M16.00S,2,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard REBOUND (Off:1 Def:1),Rebound,Unknown,0,122
+20600830,129,PT10M14.00S,2,1610612742,DAL,2572,Howard,J. Howard,0,0,0,Made,1,35.0,35.0,70,h,Howard  Layup (15 PTS),Made Shot,Layup Shot,0,123
+20600830,130,PT10M07.00S,2,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry S.FOUL (P2.T1),Foul,Shooting,0,124
+20600830,131,PT10M07.00S,2,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,35.0,36.0,71,v,Iverson Free Throw 1 of 3 (16 PTS),Free Throw,Free Throw 1 of 3,0,125
+20600830,132,PT10M07.00S,2,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,0.0,0.0,0,h,SUB: Buckner FOR Stackhouse,Substitution,,0,126
+20600830,133,PT10M07.00S,2,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,SUB: Harris FOR Terry,Substitution,,0,127
+20600830,134,PT10M07.00S,2,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,35.0,37.0,72,v,Iverson Free Throw 2 of 3 (17 PTS),Free Throw,Free Throw 2 of 3,0,128
+20600830,135,PT10M07.00S,2,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,35.0,38.0,73,v,Iverson Free Throw 3 of 3 (18 PTS),Free Throw,Free Throw 3 of 3,0,129
+20600830,136,PT09M54.00S,2,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,130
+20600830,136,PT09M54.00S,2,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0.0,0.0,0,v,Kleiza STEAL (1 STL),,,0,131
+20600830,137,PT09M39.00S,2,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0.0,0.0,0,v,Kleiza Traveling Turnover (P1.T4),Turnover,Traveling,0,132
+20600830,138,PT09M22.00S,2,1610612742,DAL,1761,Buckner,G. Buckner,0,0,0,Made,1,37.0,38.0,75,h,Buckner  Running Layup (2 PTS),Made Shot,Running Layup Shot,0,133
+20600830,139,PT09M04.00S,2,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,Missed,1,0.0,0.0,0,v,MISS Kleiza  Driving Layup,Missed Shot,Driving Layup Shot,0,134
+20600830,140,PT09M01.00S,2,1610612742,DAL,1506,Croshere,A. Croshere,0,0,0,,0,0.0,0.0,0,h,Croshere REBOUND (Off:0 Def:2),Rebound,Unknown,0,135
+20600830,141,PT08M58.00S,2,1610612742,DAL,2572,Howard,J. Howard,-141,89,17,Made,1,39.0,38.0,77,h,Howard 17' Jump Shot (17 PTS),Made Shot,Jump Shot,0,136
+20600830,142,PT08M55.00S,2,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,137
+20600830,145,PT08M55.00S,2,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,SUB: Anthony FOR Iverson,Substitution,,0,138
+20600830,146,PT08M43.00S,2,1610612743,DEN,2581,Blake,S. Blake,121,150,19,Missed,1,0.0,0.0,0,v,MISS Blake 19' Jump Shot,Missed Shot,Jump Shot,0,139
+20600830,147,PT08M42.00S,2,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Rebound,Rebound,Unknown,0,140
+20600830,148,PT08M24.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,Nene S.FOUL (P1.T1),Foul,Shooting,0,141
+20600830,149,PT08M24.00S,2,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,40.0,38.0,78,h,Howard Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,142
+20600830,150,PT08M24.00S,2,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,MISS Howard Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,143
+20600830,151,PT08M23.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,Nene REBOUND (Off:0 Def:2),Rebound,Unknown,0,144
+20600830,152,PT08M11.00S,2,1610612742,DAL,1506,Croshere,A. Croshere,0,0,0,,0,0.0,0.0,0,h,Croshere S.FOUL (P1.T2),Foul,Shooting,0,145
+20600830,153,PT08M11.00S,2,1610612742,DAL,1506,Croshere,A. Croshere,0,0,0,,0,0.0,0.0,0,h,SUB: Nowitzki FOR Croshere,Substitution,,0,146
+20600830,154,PT08M11.00S,2,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,SUB: Stackhouse FOR Howard,Substitution,,0,147
+20600830,155,PT08M11.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,MISS Anthony Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,148
+20600830,156,PT08M11.00S,2,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,149
+20600830,157,PT08M11.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,40.0,39.0,79,v,Anthony Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,150
+20600830,158,PT07M52.00S,2,1610612742,DAL,1761,Buckner,G. Buckner,-230,-9,0,Missed,1,0.0,0.0,0,h,MISS Buckner  3PT Jump Shot,Missed Shot,Jump Shot,0,151
+20600830,159,PT07M51.00S,2,1610612743,DEN,2581,Blake,S. Blake,0,0,0,,0,0.0,0.0,0,v,Blake REBOUND (Off:0 Def:1),Rebound,Unknown,0,152
+20600830,160,PT07M45.00S,2,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0.0,0.0,0,v,Najera Traveling Turnover (P1.T5),Turnover,Traveling,0,153
+20600830,161,PT07M34.00S,2,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0.0,0.0,0,v,Kleiza S.FOUL (P1.T2),Foul,Shooting,0,154
+20600830,162,PT07M34.00S,2,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,41.0,39.0,80,h,Stackhouse Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,155
+20600830,163,PT07M34.00S,2,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,42.0,39.0,81,h,Stackhouse Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,156
+20600830,164,PT07M22.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,-159,12,16,Made,1,42.0,41.0,83,v,Anthony 16' Jump Shot (11 PTS) (Blake 2 AST),Made Shot,Jump Shot,0,157
+20600830,165,PT07M09.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,158
+20600830,165,PT07M09.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony STEAL (1 STL),,,0,159
+20600830,166,PT07M04.00S,2,1610612743,DEN,2581,Blake,S. Blake,140,0,14,Missed,1,0.0,0.0,0,v,MISS Blake 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,160
+20600830,167,PT07M03.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki REBOUND (Off:1 Def:3),Rebound,Unknown,0,161
+20600830,168,PT06M54.00S,2,1610612742,DAL,1761,Buckner,G. Buckner,0,0,0,Made,1,44.0,41.0,85,h,Buckner  Driving Layup (4 PTS) (Nowitzki 4 AST),Made Shot,Driving Layup Shot,0,162
+20600830,169,PT06M35.00S,2,1610612743,DEN,2403,Hilario,Nene,75,40,9,Made,1,44.0,43.0,87,v,Nene 9' Turnaround Hook Shot (6 PTS) (Anthony 1 AST),Made Shot,Turnaround Hook Shot,0,163
+20600830,170,PT06M15.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-15,114,11,Made,1,46.0,43.0,89,h,Nowitzki 11' Fadeaway Jumper (6 PTS),Made Shot,Fadeaway Jump Shot,0,164
+20600830,171,PT06M15.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,Nene S.FOUL (P2.T3),Foul,Shooting,0,165
+20600830,172,PT06M15.00S,2,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,SUB: Diop FOR Dampier,Substitution,,0,166
+20600830,173,PT06M15.00S,2,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0.0,0.0,0,v,SUB: Camby FOR Najera,Substitution,,0,167
+20600830,174,PT06M15.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,47.0,43.0,90,h,Nowitzki Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,168
+20600830,175,PT06M01.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,138,91,17,Made,1,47.0,45.0,92,v,Anthony 17' Jump Shot (13 PTS) (Camby 6 AST),Made Shot,Jump Shot,0,169
+20600830,176,PT05M46.00S,2,1610612743,DEN,2581,Blake,S. Blake,0,0,0,,0,0.0,0.0,0,v,Blake S.FOUL (P2.T4),Foul,Shooting,0,170
+20600830,177,PT05M46.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,171
+20600830,180,PT05M46.00S,2,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0.0,0.0,0,v,SUB: Iverson FOR Kleiza,Substitution,,0,172
+20600830,181,PT05M46.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,48.0,45.0,93,h,Nowitzki Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,173
+20600830,182,PT05M46.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,49.0,45.0,94,h,Nowitzki Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,174
+20600830,183,PT05M35.00S,2,1610612742,DAL,1761,Buckner,G. Buckner,0,0,0,,0,0.0,0.0,0,h,Buckner P.FOUL (P1.T3),Foul,Personal,0,175
+20600830,184,PT05M25.00S,2,1610612743,DEN,2403,Hilario,Nene,20,43,5,Missed,1,0.0,0.0,0,v,MISS Nene 5' Jump Hook Shot,Missed Shot,Jump Hook Shot,0,176
+20600830,184,PT05M25.00S,2,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,0.0,0.0,0,h,Diop BLOCK (1 BLK),,,0,177
+20600830,185,PT05M23.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki REBOUND (Off:1 Def:4),Rebound,Unknown,0,178
+20600830,186,PT05M08.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,100,132,17,Missed,1,0.0,0.0,0,h,MISS Nowitzki 17' Jump Shot,Missed Shot,Jump Shot,0,179
+20600830,187,PT05M07.00S,2,1610612742,DAL,1761,Buckner,G. Buckner,0,0,0,,0,0.0,0.0,0,h,Buckner REBOUND (Off:1 Def:0),Rebound,Unknown,0,180
+20600830,188,PT05M06.00S,2,1610612742,DAL,1761,Buckner,G. Buckner,-67,15,7,Missed,1,0.0,0.0,0,h,MISS Buckner 7' Jump Shot,Missed Shot,Jump Shot,0,181
+20600830,188,PT05M06.00S,2,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson BLOCK (1 BLK),,,0,182
+20600830,189,PT05M06.00S,2,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Rebound,Rebound,Unknown,0,183
+20600830,190,PT04M59.00S,2,1610612742,DAL,711,Stackhouse,J. Stackhouse,143,-9,14,Made,1,51.0,45.0,96,h,Stackhouse 14' Jump Shot (10 PTS) (Nowitzki 5 AST),Made Shot,Jump Shot,0,184
+20600830,191,PT04M47.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,Nene OFF.Foul (P3),Foul,Offensive,0,185
+20600830,192,PT04M47.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,Nene Foul Turnover (P1.T6),Turnover,Foul,0,186
+20600830,193,PT04M47.00S,2,1610612743,DEN,2581,Blake,S. Blake,0,0,0,,0,0.0,0.0,0,v,SUB: Diawara FOR Blake,Substitution,,0,187
+20600830,194,PT04M47.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,SUB: Najera FOR Nene,Substitution,,0,188
+20600830,195,PT04M47.00S,2,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,0.0,0.0,0,h,SUB: Howard FOR Stackhouse,Substitution,,0,189
+20600830,197,PT04M31.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,Missed,1,0.0,0.0,0,h,MISS Nowitzki  Layup,Missed Shot,Layup Shot,0,190
+20600830,197,PT04M31.00S,2,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby BLOCK (1 BLK),,,0,191
+20600830,198,PT04M28.00S,2,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,0.0,0.0,0,h,Diop REBOUND (Off:3 Def:0),Rebound,Unknown,0,192
+20600830,199,PT04M26.00S,2,1610612742,DAL,2572,Howard,J. Howard,0,0,0,Missed,1,0.0,0.0,0,h,MISS Howard  Layup,Missed Shot,Layup Shot,0,193
+20600830,200,PT04M26.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki REBOUND (Off:2 Def:4),Rebound,Unknown,0,194
+20600830,201,PT04M26.00S,2,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0.0,0.0,0,v,Najera L.B.FOUL (P1.PN),Foul,Loose Ball,0,195
+20600830,202,PT04M26.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,52.0,45.0,97,h,Nowitzki Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,196
+20600830,203,PT04M26.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,53.0,45.0,98,h,Nowitzki Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,197
+20600830,204,PT04M09.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,140,35,14,Missed,1,0.0,0.0,0,v,MISS Anthony 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,198
+20600830,205,PT04M07.00S,2,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:2 Def:4),Rebound,Unknown,0,199
+20600830,206,PT04M05.00S,2,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard P.FOUL (P2.T4),Foul,Personal,0,200
+20600830,207,PT04M05.00S,2,1610612742,DAL,1761,Buckner,G. Buckner,0,0,0,,0,0.0,0.0,0,h,SUB: Terry FOR Buckner,Substitution,,0,201
+20600830,208,PT03M55.00S,2,1610612743,DEN,2059,Najera,E. Najera,0,163,16,Missed,1,0.0,0.0,0,v,MISS Najera 16' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,202
+20600830,209,PT03M53.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0.0,0.0,0,h,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,203
+20600830,210,PT03M43.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,90,148,17,Missed,1,0.0,0.0,0,h,MISS Nowitzki 17' Jump Shot,Missed Shot,Jump Shot,0,204
+20600830,211,PT03M41.00S,2,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson REBOUND (Off:1 Def:2),Rebound,Unknown,0,205
+20600830,212,PT03M36.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,53.0,47.0,100,v,Anthony  Layup (15 PTS) (Najera 1 AST),Made Shot,Layup Shot,0,206
+20600830,213,PT03M14.00S,2,1610612742,DAL,2572,Howard,J. Howard,0,0,0,Made,1,55.0,47.0,102,h,Howard  Reverse Layup (20 PTS) (Nowitzki 6 AST),Made Shot,Reverse Layup Shot,0,207
+20600830,214,PT03M05.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,146,36,15,Made,1,55.0,49.0,104,v,Anthony 15' Jump Shot (17 PTS) (Iverson 3 AST),Made Shot,Jump Shot,0,208
+20600830,215,PT02M50.00S,2,1610612742,DAL,2205,Diop,D. Diop,0,0,0,Missed,1,0.0,0.0,0,h,MISS Diop  Layup,Missed Shot,Layup Shot,0,209
+20600830,215,PT02M50.00S,2,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby BLOCK (2 BLK),,,0,210
+20600830,216,PT02M48.00S,2,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0.0,0.0,0,v,Najera REBOUND (Off:0 Def:2),Rebound,Unknown,0,211
+20600830,217,PT02M38.00S,2,1610612743,DEN,948,Camby,M. Camby,177,33,18,Made,1,55.0,51.0,106,v,Camby 18' Jump Shot (4 PTS) (Anthony 2 AST),Made Shot,Jump Shot,0,212
+20600830,218,PT02M23.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,154,20,16,Made,1,57.0,51.0,108,h,Nowitzki 16' Fadeaway Jumper (13 PTS) (Harris 1 AST),Made Shot,Fadeaway Jump Shot,0,213
+20600830,219,PT02M00.00S,2,1610612743,DEN,2059,Najera,E. Najera,0,0,0,Made,1,57.0,53.0,110,v,Najera  Reverse Layup (4 PTS) (Anthony 3 AST),Made Shot,Reverse Layup Shot,0,214
+20600830,220,PT01M53.00S,2,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,215
+20600830,222,PT01M53.00S,2,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,0.0,0.0,0,h,SUB: Dampier FOR Diop,Substitution,,0,216
+20600830,224,PT01M41.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,Made,1,59.0,53.0,112,h,Nowitzki  Driving Layup (15 PTS),Made Shot,Driving Layup Shot,0,217
+20600830,225,PT01M22.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,80,49,9,Missed,1,0.0,0.0,0,v,MISS Anthony 9' Jump Shot,Missed Shot,Jump Shot,0,218
+20600830,225,PT01M22.00S,2,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard BLOCK (1 BLK),,,0,219
+20600830,226,PT01M20.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0.0,0.0,0,h,Harris REBOUND (Off:0 Def:2),Rebound,Unknown,0,220
+20600830,227,PT01M17.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,Missed,1,0.0,0.0,0,h,MISS Nowitzki  Driving Layup,Missed Shot,Driving Layup Shot,0,221
+20600830,228,PT01M15.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0.0,0.0,0,h,Harris REBOUND (Off:1 Def:2),Rebound,Unknown,0,222
+20600830,229,PT01M15.00S,2,1610612743,DEN,200821,Diawara,Y. Diawara,0,0,0,,0,0.0,0.0,0,v,Diawara S.FOUL (P2.PN),Foul,Shooting,0,223
+20600830,230,PT01M15.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0.0,0.0,0,h,MISS Harris Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,224
+20600830,231,PT01M15.00S,2,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Rebound,Rebound,Normal Rebound,0,225
+20600830,232,PT01M15.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,60.0,53.0,113,h,Harris Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,226
+20600830,233,PT01M00.00S,2,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry P.FOUL (P3.PN),Foul,Personal,0,227
+20600830,234,PT01M00.00S,2,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,MISS Camby Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,228
+20600830,235,PT01M00.00S,2,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,229
+20600830,236,PT01M00.00S,2,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,SUB: Buckner FOR Terry,Substitution,,0,230
+20600830,237,PT01M00.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,SUB: Croshere FOR Nowitzki,Substitution,,0,231
+20600830,238,PT01M00.00S,2,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,60.0,54.0,114,v,Camby Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,232
+20600830,239,PT00M43.90S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,Missed,1,0.0,0.0,0,h,MISS Harris  Driving Layup,Missed Shot,Driving Layup Shot,0,233
+20600830,240,PT00M39.90S,2,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:2 Def:5),Rebound,Unknown,0,234
+20600830,241,PT00M32.90S,2,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,235
+20600830,241,PT00M32.90S,2,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard STEAL (2 STL),,,0,236
+20600830,242,PT00M17.90S,2,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard Bad Pass Turnover (P3.T6),Turnover,Bad Pass,0,237
+20600830,242,PT00M17.90S,2,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0.0,0.0,0,v,Najera STEAL (1 STL),,,0,238
+20600830,243,PT00M13.10S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,60.0,56.0,116,v,Anthony  Slam Dunk (19 PTS) (Iverson 4 AST),Made Shot,Slam Dunk Shot,0,239
+20600830,244,PT00M06.40S,2,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Timeout: Short (Full 2 Short 1),Timeout,Short,0,240
+20600830,245,PT00M06.40S,2,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,SUB: Nowitzki FOR Dampier,Substitution,,0,241
+20600830,247,PT00M01.90S,2,1610612742,DAL,2734,Harris,D. Harris,5,186,19,Missed,1,0.0,0.0,0,h,MISS Harris 19' Jump Shot,Missed Shot,Jump Shot,0,242
+20600830,248,PT00M00.20S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony REBOUND (Off:0 Def:3),Rebound,Unknown,0,243
+20600830,250,PT00M00.00S,2,0,,0,,,0,0,0,,0,60.0,56.0,116,,End of 2nd Period (10:07 PM EST),period,end,0,244
+20600830,252,PT12M00.00S,3,0,,0,,,0,0,0,,0,60.0,56.0,116,,Start of 3rd Period (10:24 PM EST),period,start,0,245
+20600830,253,PT11M46.00S,3,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,Made,1,62.0,56.0,118,h,Dampier  Slam Dunk (2 PTS) (Nowitzki 7 AST),Made Shot,Slam Dunk Shot,0,246
+20600830,254,PT11M24.00S,3,1610612743,DEN,2403,Hilario,Nene,52,2,5,Missed,1,0.0,0.0,0,v,MISS Nene 5' Hook Shot,Missed Shot,Hook Shot,0,247
+20600830,255,PT11M23.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki REBOUND (Off:2 Def:5),Rebound,Unknown,0,248
+20600830,256,PT11M23.00S,3,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,Nene L.B.FOUL (P4.T1),Foul,Loose Ball,0,249
+20600830,257,PT11M07.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-3,130,13,Made,1,64.0,56.0,120,h,Nowitzki 13' Jump Shot (17 PTS),Made Shot,Jump Shot,0,250
+20600830,258,PT10M52.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony Traveling Turnover (P1.T8),Turnover,Traveling,0,251
+20600830,259,PT10M39.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,84,150,17,Missed,1,0.0,0.0,0,h,MISS Nowitzki 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,252
+20600830,260,PT10M36.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:2 Def:6),Rebound,Unknown,0,253
+20600830,261,PT10M28.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,158,69,17,Made,1,64.0,58.0,122,v,Anthony 17' Jump Shot (21 PTS),Made Shot,Jump Shot,0,254
+20600830,262,PT10M28.00S,3,1610612742,DAL,1761,Buckner,G. Buckner,0,0,0,,0,0.0,0.0,0,h,Buckner S.FOUL (P2.T1),Foul,Shooting,0,255
+20600830,263,PT10M28.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,64.0,59.0,123,v,Anthony Free Throw 1 of 1 (22 PTS),Free Throw,Free Throw 1 of 1,0,256
+20600830,264,PT10M07.00S,3,1610612742,DAL,2572,Howard,J. Howard,195,158,25,Made,1,67.0,59.0,126,h,Howard 25' 3PT Jump Shot (23 PTS),Made Shot,Jump Shot,0,257
+20600830,265,PT09M49.00S,3,1610612743,DEN,200821,Diawara,Y. Diawara,26,59,6,Made,1,67.0,61.0,128,v,Diawara 6' Running Jump Shot (3 PTS),Made Shot,Running Jump Shot,0,258
+20600830,266,PT09M49.00S,3,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier S.FOUL (P1.T2),Foul,Shooting,0,259
+20600830,267,PT09M49.00S,3,1610612743,DEN,200821,Diawara,Y. Diawara,0,0,0,,0,0.0,0.0,0,v,MISS Diawara Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,260
+20600830,268,PT09M48.00S,3,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard REBOUND (Off:1 Def:2),Rebound,Unknown,0,261
+20600830,269,PT09M42.00S,3,1610612743,DEN,200821,Diawara,Y. Diawara,0,0,0,,0,0.0,0.0,0,v,Diawara P.FOUL (P3.T2),Foul,Personal,0,262
+20600830,270,PT09M42.00S,3,0,,1334,,,0,0,0,,0,0.0,0.0,0,,George Karl Foul:T.FOUL,Foul,Technical,0,263
+20600830,271,PT09M42.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,68.0,61.0,129,h,Nowitzki Free Throw Technical (18 PTS),Free Throw,Free Throw Technical,0,264
+20600830,272,PT09M33.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,Made,1,70.0,61.0,131,h,Nowitzki  Running Layup (20 PTS),Made Shot,Running Layup Shot,0,265
+20600830,273,PT09M25.00S,3,1610612743,DEN,947,Iverson,A. Iverson,144,-3,14,Missed,1,0.0,0.0,0,v,MISS Iverson 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,266
+20600830,274,PT09M23.00S,3,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier REBOUND (Off:0 Def:2),Rebound,Unknown,0,267
+20600830,275,PT09M06.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki Traveling Turnover (P2.T7),Turnover,Traveling,0,268
+20600830,276,PT09M06.00S,3,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,SUB: Najera FOR Nene,Substitution,,0,269
+20600830,277,PT08M50.00S,3,1610612743,DEN,200821,Diawara,Y. Diawara,149,199,25,Missed,1,0.0,0.0,0,v,MISS Diawara 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,270
+20600830,278,PT08M49.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki REBOUND (Off:2 Def:6),Rebound,Unknown,0,271
+20600830,279,PT08M42.00S,3,1610612742,DAL,2572,Howard,J. Howard,-2,132,13,Missed,1,0.0,0.0,0,h,MISS Howard 13' Jump Shot,Missed Shot,Jump Shot,0,272
+20600830,280,PT08M41.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:2 Def:7),Rebound,Unknown,0,273
+20600830,281,PT08M28.00S,3,1610612743,DEN,2059,Najera,E. Najera,-171,0,17,Missed,1,0.0,0.0,0,v,MISS Najera 17' Jump Shot,Missed Shot,Jump Shot,0,274
+20600830,282,PT08M27.00S,3,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier REBOUND (Off:0 Def:3),Rebound,Unknown,0,275
+20600830,283,PT08M12.00S,3,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,276
+20600830,283,PT08M12.00S,3,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson STEAL (1 STL),,,0,277
+20600830,284,PT07M57.00S,3,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson Bad Pass Turnover (P4.T9),Turnover,Bad Pass,0,278
+20600830,284,PT07M57.00S,3,1610612742,DAL,1761,Buckner,G. Buckner,0,0,0,,0,0.0,0.0,0,h,Buckner STEAL (1 STL),,,0,279
+20600830,285,PT07M51.00S,3,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,280
+20600830,285,PT07M51.00S,3,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0.0,0.0,0,v,Najera STEAL (2 STL),,,0,281
+20600830,286,PT07M45.00S,3,1610612743,DEN,948,Camby,M. Camby,-164,-11,16,Missed,1,0.0,0.0,0,v,MISS Camby 16' Jump Shot,Missed Shot,Jump Shot,0,282
+20600830,287,PT07M44.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki REBOUND (Off:2 Def:7),Rebound,Unknown,0,283
+20600830,288,PT07M20.00S,3,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,0,284
+20600830,290,PT07M10.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,70.0,63.0,133,v,Anthony  Alley Oop Dunk (24 PTS) (Camby 7 AST),Made Shot,Alley Oop Dunk Shot,0,285
+20600830,291,PT07M08.00S,3,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,286
+20600830,292,PT07M08.00S,3,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,SUB: Harris FOR Terry,Substitution,,0,287
+20600830,294,PT06M44.00S,3,1610612742,DAL,1761,Buckner,G. Buckner,102,43,11,Missed,1,0.0,0.0,0,h,MISS Buckner 11' Running Jump Shot,Missed Shot,Running Jump Shot,0,288
+20600830,295,PT06M42.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:2 Def:8),Rebound,Unknown,0,289
+20600830,296,PT06M34.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony OFF.Foul (P1),Foul,Offensive,0,290
+20600830,297,PT06M34.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony Foul Turnover (P2.T10),Turnover,Foul,0,291
+20600830,298,PT06M34.00S,3,1610612742,DAL,1761,Buckner,G. Buckner,0,0,0,,0,0.0,0.0,0,h,SUB: Stackhouse FOR Buckner,Substitution,,0,292
+20600830,299,PT06M26.00S,3,1610612742,DAL,2734,Harris,D. Harris,0,0,0,Made,1,72.0,63.0,135,h,Harris  Driving Layup (3 PTS),Made Shot,Driving Layup Shot,0,293
+20600830,300,PT06M08.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,167,72,18,Missed,1,0.0,0.0,0,v,MISS Anthony 18' Jump Shot,Missed Shot,Jump Shot,0,294
+20600830,301,PT06M07.00S,3,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier REBOUND (Off:0 Def:4),Rebound,Unknown,0,295
+20600830,302,PT06M03.00S,3,1610612742,DAL,2734,Harris,D. Harris,0,0,0,Made,1,74.0,63.0,137,h,Harris  Driving Layup (5 PTS),Made Shot,Driving Layup Shot,0,296
+20600830,303,PT06M03.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony S.FOUL (P2.T3),Foul,Shooting,0,297
+20600830,304,PT06M03.00S,3,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0.0,0.0,0,h,MISS Harris Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,298
+20600830,305,PT06M01.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:2 Def:9),Rebound,Unknown,0,299
+20600830,306,PT05M54.00S,3,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0.0,0.0,0,v,Najera OFF.Foul (P2),Foul,Offensive,0,300
+20600830,307,PT05M54.00S,3,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0.0,0.0,0,v,Najera Foul Turnover (P2.T11),Turnover,Foul,0,301
+20600830,308,PT05M33.00S,3,1610612742,DAL,711,Stackhouse,J. Stackhouse,181,163,24,Made,1,77.0,63.0,140,h,Stackhouse 24' 3PT Jump Shot (13 PTS) (Nowitzki 8 AST),Made Shot,Jump Shot,0,302
+20600830,309,PT05M29.00S,3,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,303
+20600830,310,PT05M29.00S,3,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson T.FOUL (P0.T3),Foul,Technical,0,304
+20600830,313,PT05M29.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,78.0,63.0,141,h,Nowitzki Free Throw Technical (21 PTS),Free Throw,Free Throw Technical,0,305
+20600830,314,PT05M16.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,78.0,65.0,143,v,Anthony  Driving Layup (26 PTS),Made Shot,Driving Layup Shot,0,306
+20600830,315,PT05M16.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki S.FOUL (P1.T3),Foul,Shooting,0,307
+20600830,316,PT05M16.00S,3,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,308
+20600830,319,PT05M16.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,78.0,66.0,144,v,Anthony Free Throw 1 of 1 (27 PTS),Free Throw,Free Throw 1 of 1,0,309
+20600830,320,PT05M06.00S,3,1610612742,DAL,711,Stackhouse,J. Stackhouse,-232,-3,0,Missed,1,0.0,0.0,0,h,MISS Stackhouse  3PT Jump Shot,Missed Shot,Jump Shot,0,310
+20600830,321,PT05M05.00S,3,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson REBOUND (Off:1 Def:3),Rebound,Unknown,0,311
+20600830,322,PT04M56.00S,3,1610612743,DEN,947,Iverson,A. Iverson,6,163,16,Made,1,78.0,68.0,146,v,Iverson 16' Jump Shot (20 PTS),Made Shot,Jump Shot,0,312
+20600830,323,PT04M45.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony P.FOUL (P3.T4),Foul,Personal,0,313
+20600830,324,PT04M34.00S,3,1610612742,DAL,2572,Howard,J. Howard,-126,209,24,Missed,1,0.0,0.0,0,h,MISS Howard 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,314
+20600830,325,PT04M33.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:2 Def:10),Rebound,Unknown,0,315
+20600830,326,PT04M25.00S,3,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson Bad Pass Turnover (P5.T12),Turnover,Bad Pass,0,316
+20600830,326,PT04M25.00S,3,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier STEAL (1 STL),,,0,317
+20600830,327,PT04M20.00S,3,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,Made,1,80.0,68.0,148,h,Stackhouse  Reverse Layup (15 PTS) (Harris 2 AST),Made Shot,Reverse Layup Shot,0,318
+20600830,328,PT04M05.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Missed,1,0.0,0.0,0,v,MISS Anthony  Running Layup,Missed Shot,Running Layup Shot,0,319
+20600830,328,PT04M05.00S,3,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier BLOCK (1 BLK),,,0,320
+20600830,329,PT04M02.00S,3,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0.0,0.0,0,h,Harris REBOUND (Off:1 Def:3),Rebound,Unknown,0,321
+20600830,330,PT03M59.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,Made,1,82.0,68.0,150,h,Nowitzki  Driving Layup (23 PTS) (Stackhouse 4 AST),Made Shot,Driving Layup Shot,0,322
+20600830,331,PT03M46.00S,3,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0.0,0.0,0,h,Harris P.FOUL (P3.T4),Foul,Personal,0,323
+20600830,332,PT03M46.00S,3,1610612743,DEN,200821,Diawara,Y. Diawara,0,0,0,,0,0.0,0.0,0,v,SUB: Blake FOR Diawara,Substitution,,0,324
+20600830,333,PT03M46.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,SUB: Kleiza FOR Camby,Substitution,,0,325
+20600830,334,PT03M33.00S,3,1610612743,DEN,2059,Najera,E. Najera,5,61,6,Made,1,82.0,70.0,152,v,Najera 6' Running Jump Shot (6 PTS) (Blake 3 AST),Made Shot,Running Jump Shot,0,326
+20600830,336,PT03M23.00S,3,1610612742,DAL,2734,Harris,D. Harris,39,20,4,Missed,1,0.0,0.0,0,h,MISS Harris 4' Jump Shot,Missed Shot,Jump Shot,0,327
+20600830,337,PT03M20.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony REBOUND (Off:0 Def:4),Rebound,Unknown,0,328
+20600830,338,PT03M15.00S,3,1610612743,DEN,947,Iverson,A. Iverson,117,215,24,Made,1,82.0,73.0,155,v,Iverson 24' 3PT Jump Shot (23 PTS),Made Shot,Jump Shot,0,329
+20600830,339,PT02M55.00S,3,1610612742,DAL,2572,Howard,J. Howard,0,0,0,Missed,1,0.0,0.0,0,h,MISS Howard  Driving Layup,Missed Shot,Driving Layup Shot,0,330
+20600830,340,PT02M53.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony REBOUND (Off:0 Def:5),Rebound,Unknown,0,331
+20600830,341,PT02M48.00S,3,1610612743,DEN,947,Iverson,A. Iverson,-166,22,17,Made,1,82.0,75.0,157,v,Iverson 17' Jump Shot (25 PTS) (Blake 4 AST),Made Shot,Jump Shot,0,332
+20600830,342,PT02M25.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-79,153,17,Missed,1,0.0,0.0,0,h,MISS Nowitzki 17' Jump Shot,Missed Shot,Jump Shot,0,333
+20600830,342,PT02M25.00S,3,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0.0,0.0,0,v,Najera BLOCK (1 BLK),,,0,334
+20600830,343,PT02M23.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony REBOUND (Off:0 Def:6),Rebound,Unknown,0,335
+20600830,344,PT02M12.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki S.FOUL (P2.PN),Foul,Shooting,0,336
+20600830,345,PT02M12.00S,3,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,SUB: Diop FOR Dampier,Substitution,,0,337
+20600830,346,PT02M12.00S,3,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,SUB: Terry FOR Howard,Substitution,,0,338
+20600830,347,PT02M12.00S,3,1610612743,DEN,2581,Blake,S. Blake,0,0,0,,0,0.0,0.0,0,v,MISS Blake Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,339
+20600830,348,PT02M12.00S,3,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,340
+20600830,349,PT02M12.00S,3,1610612743,DEN,2581,Blake,S. Blake,0,0,0,,0,82.0,76.0,158,v,Blake Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,341
+20600830,350,PT01M59.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,133,120,18,Missed,1,0.0,0.0,0,h,MISS Nowitzki 18' Jump Shot,Missed Shot,Jump Shot,0,342
+20600830,351,PT01M57.00S,3,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson REBOUND (Off:1 Def:4),Rebound,Unknown,0,343
+20600830,352,PT01M53.00S,3,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson OFF.Foul (P1),Foul,Offensive,0,344
+20600830,353,PT01M53.00S,3,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson Foul Turnover (P6.T13),Turnover,Foul,0,345
+20600830,354,PT01M42.00S,3,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0.0,0.0,0,v,Najera S.FOUL (P3.PN),Foul,Shooting,0,346
+20600830,355,PT01M42.00S,3,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,83.0,76.0,159,h,Diop Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,347
+20600830,356,PT01M42.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,SUB: Croshere FOR Nowitzki,Substitution,,0,348
+20600830,357,PT01M42.00S,3,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,0.0,0.0,0,h,MISS Diop Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,349
+20600830,358,PT01M40.00S,3,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0.0,0.0,0,v,Najera REBOUND (Off:0 Def:3),Rebound,Unknown,0,350
+20600830,359,PT01M30.00S,3,1610612743,DEN,947,Iverson,A. Iverson,80,102,13,Missed,1,0.0,0.0,0,v,MISS Iverson 13' Jump Shot,Missed Shot,Jump Shot,0,351
+20600830,360,PT01M29.00S,3,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,0.0,0.0,0,h,Stackhouse REBOUND (Off:0 Def:3),Rebound,Unknown,0,352
+20600830,361,PT01M11.00S,3,1610612742,DAL,1891,Terry,J. Terry,133,118,18,Made,1,85.0,76.0,161,h,Terry 18' Jump Shot (6 PTS),Made Shot,Jump Shot,0,353
+20600830,362,PT00M55.10S,3,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry P.FOUL (P4.PN),Foul,Personal,0,354
+20600830,363,PT00M55.10S,3,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0.0,0.0,0,v,SUB: Nene FOR Najera,Substitution,,0,355
+20600830,364,PT00M55.10S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,85.0,77.0,162,v,Anthony Free Throw 1 of 2 (28 PTS),Free Throw,Free Throw 1 of 2,0,356
+20600830,365,PT00M55.10S,3,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,SUB: Buckner FOR Terry,Substitution,,0,357
+20600830,366,PT00M55.10S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,MISS Anthony Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,358
+20600830,367,PT00M54.40S,3,1610612742,DAL,1506,Croshere,A. Croshere,0,0,0,,0,0.0,0.0,0,h,Croshere REBOUND (Off:0 Def:3),Rebound,Unknown,0,359
+20600830,368,PT00M54.40S,3,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0.0,0.0,0,v,Kleiza L.B.FOUL (P2.PN),Foul,Loose Ball,0,360
+20600830,369,PT00M54.40S,3,1610612742,DAL,1506,Croshere,A. Croshere,0,0,0,,0,86.0,77.0,163,h,Croshere Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,361
+20600830,370,PT00M54.40S,3,1610612742,DAL,1506,Croshere,A. Croshere,0,0,0,,0,87.0,77.0,164,h,Croshere Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,362
+20600830,371,PT00M39.60S,3,1610612743,DEN,2546,Anthony,C. Anthony,140,41,15,Made,1,87.0,79.0,166,v,Anthony 15' Turnaround Jump Shot (30 PTS),Made Shot,Turnaround Jump Shot,0,363
+20600830,372,PT00M29.80S,3,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,Nene S.FOUL (P5.PN),Foul,Shooting,0,364
+20600830,373,PT00M29.80S,3,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,88.0,79.0,167,h,Stackhouse Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,365
+20600830,374,PT00M29.80S,3,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,SUB: Najera FOR Nene,Substitution,,0,366
+20600830,375,PT00M29.80S,3,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,0.0,0.0,0,h,MISS Stackhouse Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,367
+20600830,376,PT00M28.90S,3,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0.0,0.0,0,v,Kleiza REBOUND (Off:0 Def:1),Rebound,Unknown,0,368
+20600830,377,PT00M10.80S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony Bad Pass Turnover (P3.T14),Turnover,Bad Pass,0,369
+20600830,377,PT00M10.80S,3,1610612742,DAL,1761,Buckner,G. Buckner,0,0,0,,0,0.0,0.0,0,h,Buckner STEAL (2 STL),,,0,370
+20600830,378,PT00M05.80S,3,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,0.0,0.0,0,h,Stackhouse Poss Lost Ball Turnover (P1.T11),Turnover,Poss Lost Ball Turnover,0,371
+20600830,379,PT00M05.80S,3,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,0.0,0.0,0,h,SUB: Howard FOR Stackhouse,Substitution,,0,372
+20600830,380,PT00M00.30S,3,1610612743,DEN,2546,Anthony,C. Anthony,-118,71,14,Missed,1,0.0,0.0,0,v,MISS Anthony 14' Jump Shot,Missed Shot,Jump Shot,0,373
+20600830,381,PT00M00.00S,3,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Rebound,Rebound,Unknown,0,374
+20600830,382,PT00M00.00S,3,0,,0,,,0,0,0,,0,88.0,79.0,167,,End of 3rd Period (10:54 PM EST),period,end,0,375
+20600830,384,PT12M00.00S,4,0,,0,,,0,0,0,,0,88.0,79.0,167,,Start of 4th Period (10:56 PM EST),period,start,0,376
+20600830,385,PT11M50.00S,4,1610612743,DEN,947,Iverson,A. Iverson,10,110,11,Missed,1,0.0,0.0,0,v,MISS Iverson 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,377
+20600830,385,PT11M50.00S,4,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,0.0,0.0,0,h,Stackhouse BLOCK (1 BLK),,,0,378
+20600830,386,PT11M48.00S,4,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,0.0,0.0,0,h,Diop REBOUND (Off:3 Def:1),Rebound,Unknown,0,379
+20600830,387,PT11M40.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,Missed,1,0.0,0.0,0,h,MISS Harris  Driving Layup,Missed Shot,Driving Layup Shot,0,380
+20600830,388,PT11M39.00S,4,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Rebound,Rebound,Unknown,0,381
+20600830,389,PT11M25.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony Bad Pass Turnover (P4.T15),Turnover,Bad Pass,0,382
+20600830,389,PT11M25.00S,4,1610612742,DAL,1506,Croshere,A. Croshere,0,0,0,,0,0.0,0.0,0,h,Croshere STEAL (1 STL),,,0,383
+20600830,390,PT11M19.00S,4,1610612742,DAL,1506,Croshere,A. Croshere,0,0,0,Made,1,90.0,79.0,169,h,Croshere  Running Layup (6 PTS) (Harris 3 AST),Made Shot,Running Layup Shot,0,384
+20600830,391,PT11M10.00S,4,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson Bad Pass Turnover (P7.T16),Turnover,Bad Pass,0,385
+20600830,391,PT11M10.00S,4,1610612742,DAL,1761,Buckner,G. Buckner,0,0,0,,0,0.0,0.0,0,h,Buckner STEAL (3 STL),,,0,386
+20600830,392,PT11M06.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,Made,1,92.0,79.0,171,h,Harris  Slam Dunk (7 PTS) (Stackhouse 5 AST),Made Shot,Slam Dunk Shot,0,387
+20600830,393,PT11M04.00S,4,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,388
+20600830,396,PT11M04.00S,4,1610612743,DEN,2059,Najera,E. Najera,0,0,0,,0,0.0,0.0,0,v,SUB: Camby FOR Najera,Substitution,,0,389
+20600830,397,PT10M46.00S,4,1610612743,DEN,948,Camby,M. Camby,-79,133,15,Missed,1,0.0,0.0,0,v,MISS Camby 15' Jump Shot,Missed Shot,Jump Shot,0,390
+20600830,398,PT10M45.00S,4,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,0.0,0.0,0,h,Diop REBOUND (Off:3 Def:2),Rebound,Unknown,0,391
+20600830,399,PT10M28.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0.0,0.0,0,h,Harris Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,392
+20600830,399,PT10M28.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony STEAL (2 STL),,,0,393
+20600830,400,PT10M23.00S,4,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,0.0,0.0,0,h,Stackhouse S.FOUL (P1.T1),Foul,Shooting,0,394
+20600830,401,PT10M23.00S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,92.0,80.0,172,v,Kleiza Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,395
+20600830,402,PT10M23.00S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,92.0,81.0,173,v,Kleiza Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,396
+20600830,403,PT10M10.00S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0.0,0.0,0,v,Kleiza S.FOUL (P3.T1),Foul,Shooting,0,397
+20600830,404,PT10M10.00S,4,1610612742,DAL,1761,Buckner,G. Buckner,0,0,0,,0,0.0,0.0,0,h,MISS Buckner Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,398
+20600830,405,PT10M10.00S,4,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Rebound,Rebound,Normal Rebound,0,399
+20600830,407,PT10M10.00S,4,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,0.0,0.0,0,h,SUB: Howard FOR Stackhouse,Substitution,,0,400
+20600830,408,PT10M10.00S,4,1610612742,DAL,1761,Buckner,G. Buckner,0,0,0,,0,93.0,81.0,174,h,Buckner Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,401
+20600830,409,PT09M57.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,135,68,15,Missed,1,0.0,0.0,0,v,MISS Anthony 15' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,402
+20600830,410,PT09M55.00S,4,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,0.0,0.0,0,h,Diop REBOUND (Off:3 Def:3),Rebound,Unknown,0,403
+20600830,411,PT09M40.00S,4,1610612742,DAL,2572,Howard,J. Howard,-61,204,21,Missed,1,0.0,0.0,0,h,MISS Howard 21' Jump Shot,Missed Shot,Jump Shot,0,404
+20600830,412,PT09M40.00S,4,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Rebound,Rebound,Unknown,0,405
+20600830,413,PT09M40.00S,4,1610612742,DAL,1761,Buckner,G. Buckner,0,0,0,,0,0.0,0.0,0,h,SUB: Terry FOR Buckner,Substitution,,0,406
+20600830,414,PT09M29.00S,4,1610612743,DEN,947,Iverson,A. Iverson,-105,53,12,Missed,1,0.0,0.0,0,v,MISS Iverson 12' Jump Shot,Missed Shot,Jump Shot,0,407
+20600830,415,PT09M28.00S,4,1610612742,DAL,1506,Croshere,A. Croshere,0,0,0,,0,0.0,0.0,0,h,Croshere REBOUND (Off:0 Def:4),Rebound,Unknown,0,408
+20600830,416,PT09M19.00S,4,1610612742,DAL,2572,Howard,J. Howard,164,13,16,Missed,1,0.0,0.0,0,h,MISS Howard 16' Jump Shot,Missed Shot,Jump Shot,0,409
+20600830,417,PT09M17.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:2 Def:11),Rebound,Unknown,0,410
+20600830,418,PT09M12.00S,4,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson OFF.Foul (P2),Foul,Offensive,0,411
+20600830,419,PT09M12.00S,4,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson Foul Turnover (P8.T17),Turnover,Foul,0,412
+20600830,420,PT08M57.00S,4,1610612742,DAL,1506,Croshere,A. Croshere,105,184,21,Missed,1,0.0,0.0,0,h,MISS Croshere 21' Jump Shot,Missed Shot,Jump Shot,0,413
+20600830,421,PT08M56.00S,4,1610612743,DEN,2581,Blake,S. Blake,0,0,0,,0,0.0,0.0,0,v,Blake REBOUND (Off:0 Def:2),Rebound,Unknown,0,414
+20600830,422,PT08M53.00S,4,1610612742,DAL,1506,Croshere,A. Croshere,0,0,0,,0,0.0,0.0,0,h,Croshere S.FOUL (P2.T2),Foul,Shooting,0,415
+20600830,423,PT08M53.00S,4,1610612742,DAL,1506,Croshere,A. Croshere,0,0,0,,0,0.0,0.0,0,h,SUB: Nowitzki FOR Croshere,Substitution,,0,416
+20600830,424,PT08M53.00S,4,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,0.0,0.0,0,h,SUB: Dampier FOR Diop,Substitution,,0,417
+20600830,425,PT08M53.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,93.0,82.0,175,v,Anthony Free Throw 1 of 2 (31 PTS),Free Throw,Free Throw 1 of 2,0,418
+20600830,426,PT08M53.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,93.0,83.0,176,v,Anthony Free Throw 2 of 2 (32 PTS),Free Throw,Free Throw 2 of 2,0,419
+20600830,427,PT08M39.00S,4,1610612742,DAL,2572,Howard,J. Howard,-10,49,5,Made,1,95.0,83.0,178,h,Howard 5' Running Hook Shot (25 PTS),Made Shot,Running Hook Shot,0,420
+20600830,428,PT08M29.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby Poss Lost Ball Turnover (P2.T18),Turnover,Poss Lost Ball Turnover,0,421
+20600830,429,PT08M13.00S,4,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier Bad Pass Turnover (P3.T13),Turnover,Bad Pass,0,422
+20600830,429,PT08M13.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby STEAL (3 STL),,,0,423
+20600830,430,PT08M05.00S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,235,82,25,Missed,1,0.0,0.0,0,v,MISS Kleiza 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,424
+20600830,431,PT08M04.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:3 Def:11),Rebound,Unknown,0,425
+20600830,432,PT08M04.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,Made,1,95.0,85.0,180,v,Camby  Layup (7 PTS),Made Shot,Layup Shot,0,426
+20600830,433,PT08M04.00S,4,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry S.FOUL (P5.T3),Foul,Shooting,0,427
+20600830,434,PT08M04.00S,4,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,SUB: Stackhouse FOR Terry,Substitution,,0,428
+20600830,435,PT08M04.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,95.0,86.0,181,v,Camby Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,429
+20600830,436,PT07M44.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-136,2,14,Missed,1,0.0,0.0,0,h,MISS Nowitzki 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,430
+20600830,437,PT07M42.00S,4,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier REBOUND (Off:1 Def:4),Rebound,Unknown,0,431
+20600830,438,PT07M31.00S,4,1610612742,DAL,711,Stackhouse,J. Stackhouse,-87,138,16,Missed,1,0.0,0.0,0,h,MISS Stackhouse 16' Jump Shot,Missed Shot,Jump Shot,0,432
+20600830,439,PT07M30.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0.0,0.0,0,h,Harris REBOUND (Off:2 Def:3),Rebound,Unknown,0,433
+20600830,440,PT07M20.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,Made,1,97.0,86.0,183,h,Harris  Driving Layup (9 PTS),Made Shot,Driving Layup Shot,0,434
+20600830,441,PT07M03.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony Bad Pass Turnover (P5.T19),Turnover,Bad Pass,0,435
+20600830,441,PT07M03.00S,4,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,0.0,0.0,0,h,Stackhouse STEAL (1 STL),,,0,436
+20600830,442,PT06M58.00S,4,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,0.0,0.0,0,h,Stackhouse Bad Pass Turnover (P2.T14),Turnover,Bad Pass,0,437
+20600830,442,PT06M58.00S,4,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson STEAL (2 STL),,,0,438
+20600830,443,PT06M54.00S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,Missed,1,0.0,0.0,0,v,MISS Kleiza  Running Layup,Missed Shot,Running Layup Shot,0,439
+20600830,443,PT06M54.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki BLOCK (1 BLK),,,0,440
+20600830,444,PT06M50.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0.0,0.0,0,h,Harris REBOUND (Off:2 Def:4),Rebound,Unknown,0,441
+20600830,445,PT06M36.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki Bad Pass Turnover (P3.T15),Turnover,Bad Pass,0,442
+20600830,445,PT06M36.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony STEAL (3 STL),,,0,443
+20600830,446,PT06M33.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0.0,0.0,0,h,Harris P.FOUL (P4.T4),Foul,Personal,0,444
+20600830,447,PT06M33.00S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0.0,0.0,0,v,Kleiza T.FOUL (P3.T1),Foul,Technical,0,445
+20600830,448,PT06M33.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,98.0,86.0,184,h,Nowitzki Free Throw Technical (24 PTS),Free Throw,Free Throw Technical,0,446
+20600830,455,PT06M33.00S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0.0,0.0,0,v,SUB: Nene FOR Kleiza,Substitution,,0,447
+20600830,449,PT06M25.00S,4,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson Bad Pass Turnover (P9.T20),Turnover,Bad Pass,0,448
+20600830,449,PT06M25.00S,4,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier STEAL (2 STL),,,0,449
+20600830,450,PT06M22.00S,4,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,Missed,1,0.0,0.0,0,h,MISS Stackhouse  Driving Layup,Missed Shot,Driving Layup Shot,0,450
+20600830,451,PT06M22.00S,4,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Rebound,Rebound,Unknown,0,451
+20600830,452,PT06M03.00S,4,1610612743,DEN,947,Iverson,A. Iverson,-149,207,26,Missed,1,0.0,0.0,0,v,MISS Iverson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,452
+20600830,453,PT06M03.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:4 Def:11),Rebound,Unknown,0,453
+20600830,454,PT06M03.00S,4,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier P.FOUL (P2.PN),Foul,Personal,0,454
+20600830,456,PT06M03.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,98.0,87.0,185,v,Camby Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,455
+20600830,457,PT06M03.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,98.0,88.0,186,v,Camby Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,456
+20600830,459,PT05M45.00S,4,1610612742,DAL,2572,Howard,J. Howard,46,171,18,Missed,1,0.0,0.0,0,h,MISS Howard 18' Jump Shot,Missed Shot,Jump Shot,0,457
+20600830,461,PT05M44.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:4 Def:12),Rebound,Unknown,0,458
+20600830,462,PT05M35.00S,4,1610612743,DEN,2403,Hilario,Nene,0,0,0,Missed,1,0.0,0.0,0,v,MISS Nene  Reverse Layup,Missed Shot,Reverse Layup Shot,0,459
+20600830,463,PT05M32.00S,4,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier REBOUND (Off:1 Def:5),Rebound,Unknown,0,460
+20600830,464,PT05M18.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby S.FOUL (P1.T2),Foul,Shooting,0,461
+20600830,465,PT05M18.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,462
+20600830,469,PT05M18.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,99.0,88.0,187,h,Nowitzki Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,0,463
+20600830,470,PT05M18.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,100.0,88.0,188,h,Nowitzki Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,0,464
+20600830,471,PT05M05.00S,4,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard P.FOUL (P3.PN),Foul,Personal,0,465
+20600830,472,PT05M05.00S,4,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,MISS Iverson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,466
+20600830,473,PT05M05.00S,4,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,467
+20600830,474,PT05M05.00S,4,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,100.0,89.0,189,v,Iverson Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,0,468
+20600830,475,PT04M45.00S,4,1610612742,DAL,2572,Howard,J. Howard,0,0,0,Made,1,102.0,89.0,191,h,Howard  Running Layup (27 PTS),Made Shot,Running Layup Shot,0,469
+20600830,476,PT04M34.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,153,107,19,Missed,1,0.0,0.0,0,v,MISS Anthony 19' Jump Shot,Missed Shot,Jump Shot,0,470
+20600830,477,PT04M32.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki REBOUND (Off:2 Def:8),Rebound,Unknown,0,471
+20600830,478,PT04M14.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,89,225,24,Made,1,105.0,89.0,194,h,Nowitzki 24' 3PT Jump Shot (29 PTS) (Stackhouse 6 AST),Made Shot,Jump Shot,0,472
+20600830,479,PT04M02.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,105.0,91.0,196,v,Anthony  Slam Dunk (34 PTS) (Nene 1 AST),Made Shot,Slam Dunk Shot,0,473
+20600830,480,PT03M43.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0.0,0.0,0,h,Harris OFF.Foul (P5),Foul,Offensive,0,474
+20600830,481,PT03M43.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0.0,0.0,0,h,Harris Foul Turnover (P2.T16),Turnover,Foul,0,475
+20600830,482,PT03M43.00S,4,1610612743,DEN,2581,Blake,S. Blake,0,0,0,,0,0.0,0.0,0,v,SUB: Kleiza FOR Blake,Substitution,,0,476
+20600830,483,PT03M43.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0.0,0.0,0,h,SUB: Terry FOR Harris,Substitution,,0,477
+20600830,484,PT03M28.00S,4,1610612743,DEN,947,Iverson,A. Iverson,8,86,9,Missed,1,0.0,0.0,0,v,MISS Iverson 9' Jump Shot,Missed Shot,Jump Shot,0,478
+20600830,484,PT03M28.00S,4,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier BLOCK (2 BLK),,,0,479
+20600830,485,PT03M26.00S,4,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier REBOUND (Off:1 Def:6),Rebound,Unknown,0,480
+20600830,486,PT03M21.00S,4,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard Bad Pass Turnover (P4.T17),Turnover,Bad Pass,0,481
+20600830,486,PT03M21.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby STEAL (4 STL),,,0,482
+20600830,487,PT03M16.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony Bad Pass Turnover (P6.T21),Turnover,Bad Pass,0,483
+20600830,487,PT03M16.00S,4,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,Terry STEAL (2 STL),,,0,484
+20600830,488,PT03M10.00S,4,1610612742,DAL,711,Stackhouse,J. Stackhouse,-230,-1,0,Missed,1,0.0,0.0,0,h,MISS Stackhouse  3PT Jump Shot,Missed Shot,Jump Shot,0,485
+20600830,489,PT03M09.00S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0.0,0.0,0,v,Kleiza REBOUND (Off:0 Def:2),Rebound,Unknown,0,486
+20600830,490,PT03M09.00S,4,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard P.FOUL (P4.PN),Foul,Personal,0,487
+20600830,491,PT03M09.00S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,105.0,92.0,197,v,Kleiza Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,488
+20600830,492,PT03M09.00S,4,1610612742,DAL,711,Stackhouse,J. Stackhouse,0,0,0,,0,0.0,0.0,0,h,SUB: Buckner FOR Stackhouse,Substitution,,0,489
+20600830,493,PT03M09.00S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,105.0,93.0,198,v,Kleiza Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,490
+20600830,495,PT02M53.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,136,95,17,Made,1,107.0,93.0,200,h,Nowitzki 17' Fadeaway Jumper (31 PTS) (Dampier 1 AST),Made Shot,Fadeaway Jump Shot,0,491
+20600830,496,PT02M37.00S,4,1610612743,DEN,2403,Hilario,Nene,0,0,0,Missed,1,0.0,0.0,0,v,MISS Nene  Layup,Missed Shot,Layup Shot,0,492
+20600830,496,PT02M37.00S,4,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,Dampier BLOCK (3 BLK),,,0,493
+20600830,497,PT02M36.00S,4,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Rebound,Rebound,Unknown,0,494
+20600830,498,PT02M36.00S,4,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,495
+20600830,500,PT02M36.00S,4,1610612742,DAL,1761,Buckner,G. Buckner,0,0,0,,0,0.0,0.0,0,h,SUB: Harris FOR Buckner,Substitution,,0,496
+20600830,502,PT02M29.00S,4,1610612743,DEN,947,Iverson,A. Iverson,51,138,15,Missed,1,0.0,0.0,0,v,MISS Iverson 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,497
+20600830,503,PT02M26.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki REBOUND (Off:2 Def:9),Rebound,Unknown,0,498
+20600830,504,PT02M13.00S,4,1610612742,DAL,2572,Howard,J. Howard,8,201,20,Missed,1,0.0,0.0,0,h,MISS Howard 20' Jump Shot,Missed Shot,Jump Shot,0,499
+20600830,505,PT02M12.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:4 Def:13),Rebound,Unknown,0,500
+20600830,506,PT02M01.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony Bad Pass Turnover (P7.T22),Turnover,Bad Pass,0,501
+20600830,506,PT02M01.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0.0,0.0,0,h,Harris STEAL (1 STL),,,0,502
+20600830,507,PT01M57.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki Bad Pass Turnover (P4.T18),Turnover,Bad Pass,0,503
+20600830,507,PT01M57.00S,4,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,Nene STEAL (1 STL),,,0,504
+20600830,508,PT01M49.00S,4,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,Missed,1,0.0,0.0,0,v,MISS Iverson  Reverse Layup,Missed Shot,Reverse Layup Shot,0,505
+20600830,509,PT01M47.00S,4,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,Nene REBOUND (Off:1 Def:2),Rebound,Unknown,0,506
+20600830,510,PT01M46.00S,4,1610612743,DEN,2403,Hilario,Nene,0,0,0,Made,1,107.0,95.0,202,v,Nene  Layup (8 PTS),Made Shot,Layup Shot,0,507
+20600830,511,PT01M36.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony P.FOUL (P4.T3),Foul,Personal,0,508
+20600830,512,PT01M36.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,SUB: Croshere FOR Nowitzki,Substitution,,0,509
+20600830,513,PT01M25.00S,4,1610612742,DAL,1891,Terry,J. Terry,-69,145,16,Made,1,109.0,95.0,204,h,Terry 16' Jump Shot (8 PTS),Made Shot,Jump Shot,0,510
+20600830,514,PT01M14.00S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,-230,-6,0,Missed,1,0.0,0.0,0,v,MISS Kleiza  3PT Jump Shot,Missed Shot,Jump Shot,0,511
+20600830,515,PT01M13.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0.0,0.0,0,h,Harris REBOUND (Off:2 Def:5),Rebound,Unknown,0,512
+20600830,516,PT01M10.00S,4,1610612742,DAL,1891,Terry,J. Terry,0,0,0,Made,1,111.0,95.0,206,h,Terry  Running Layup (10 PTS) (Harris 4 AST),Made Shot,Running Layup Shot,0,513
+20600830,517,PT01M10.00S,4,1610612743,DEN,101132,Kleiza,L. Kleiza,0,0,0,,0,0.0,0.0,0,v,Kleiza Bad Pass Turnover (P2.T23),Turnover,Bad Pass,0,514
+20600830,518,PT01M10.00S,4,1610612742,DAL,2572,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,SUB: Ager FOR Howard,Substitution,,0,515
+20600830,519,PT01M10.00S,4,1610612742,DAL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,h,SUB: Barea FOR Terry,Substitution,,0,516
+20600830,520,PT01M10.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,0.0,0.0,0,h,SUB: Diop FOR Harris,Substitution,,0,517
+20600830,521,PT01M10.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,SUB: Diawara FOR Anthony,Substitution,,0,518
+20600830,522,PT01M10.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,SUB: Najera FOR Camby,Substitution,,0,519
+20600830,523,PT01M10.00S,4,1610612743,DEN,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,SUB: Blake FOR Iverson,Substitution,,0,520
+20600830,525,PT00M55.30S,4,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,Nene P.FOUL (P6.PN),Foul,Personal,0,521
+20600830,527,PT00M55.30S,4,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,SUB: Johnson FOR Nene,Substitution,,0,522
+20600830,528,PT00M55.30S,4,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,h,MISS Dampier Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,523
+20600830,529,PT00M55.30S,4,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Rebound,Rebound,Normal Rebound,0,524
+20600830,531,PT00M55.30S,4,1610612742,DAL,956,Dampier,E. Dampier,0,0,0,,0,112.0,95.0,207,h,Dampier Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,525
+20600830,532,PT00M43.50S,4,1610612743,DEN,2059,Najera,E. Najera,-151,138,20,Missed,1,0.0,0.0,0,v,MISS Najera 20' Jump Shot,Missed Shot,Jump Shot,0,526
+20600830,533,PT00M42.50S,4,1610612742,DAL,1506,Croshere,A. Croshere,0,0,0,,0,0.0,0.0,0,h,Croshere REBOUND (Off:0 Def:5),Rebound,Unknown,0,527
+20600830,535,PT00M20.50S,4,1610612742,DAL,1506,Croshere,A. Croshere,-218,130,25,Made,1,115.0,95.0,210,h,Croshere 25' 3PT Jump Shot (9 PTS) (Barea 1 AST),Made Shot,Jump Shot,0,528
+20600830,536,PT00M09.90S,4,1610612743,DEN,200821,Diawara,Y. Diawara,85,13,9,Missed,1,0.0,0.0,0,v,MISS Diawara 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,0,529
+20600830,537,PT00M07.90S,4,1610612742,DAL,2205,Diop,D. Diop,0,0,0,,0,0.0,0.0,0,h,Diop REBOUND (Off:3 Def:4),Rebound,Unknown,0,530
+20600830,538,PT00M00.00S,4,0,,0,,,0,0,0,,0,115.0,95.0,210,,End of 4th Period (11:28 PM EST),period,end,0,531

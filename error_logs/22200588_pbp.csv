@@ -1,0 +1,496 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+22200588,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (9:12 PM EST),period,start,0,1
+22200588,4,PT12M00.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,h,Jump Ball Jokic vs. Allen: Tip to Okoro,Jump Ball,,1,2
+22200588,7,PT11M33.00S,1,1610612739,CLE,1629636,Garland,D. Garland,53,99,11,Missed,1,,,0,v,MISS Garland 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,3
+22200588,8,PT11M29.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,h,Gordon REBOUND (Off:0 Def:1),Rebound,Unknown,1,4
+22200588,9,PT11M20.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,26,3,Made,1,2.0,0.0,2,h,Jokic 3' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,1,5
+22200588,10,PT10M58.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,27,48,6,Missed,1,,,0,v,MISS Mobley 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,6
+22200588,11,PT10M56.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,h,Jokic REBOUND (Off:0 Def:1),Rebound,Unknown,1,7
+22200588,12,PT10M49.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-25,42,5,Missed,1,,,0,h,MISS Porter Jr. 5' Driving Layup,Missed Shot,Driving Layup Shot,1,8
+22200588,13,PT10M47.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,h,Gordon REBOUND (Off:1 Def:1),Rebound,Unknown,1,9
+22200588,14,PT10M42.00S,1,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,-2,70,7,Made,1,4.0,0.0,4,h,Caldwell-Pope 7' Pullup Jump Shot (2 PTS) (Jokic 1 AST),Made Shot,Pullup Jump shot,1,10
+22200588,16,PT10M33.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,-38,20,4,Made,1,4.0,2.0,6,v,Okoro 4' Driving Layup (2 PTS) (Garland 1 AST),Made Shot,Driving Layup Shot,1,11
+22200588,18,PT10M09.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley S.FOUL (P1.T1) (J.Orr),Foul,Shooting,1,12
+22200588,20,PT10M09.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,h,MISS Gordon Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,13
+22200588,21,PT10M09.00S,1,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Normal Rebound,0,14
+22200588,22,PT10M09.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,5.0,2.0,7,h,Gordon Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,15
+22200588,23,PT09M49.00S,1,1610612739,CLE,1629636,Garland,D. Garland,-33,40,5,Missed,1,,,0,v,MISS Garland 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,16
+22200588,24,PT09M48.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,h,Jokic REBOUND (Off:0 Def:2),Rebound,Unknown,1,17
+22200588,25,PT09M43.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,18,38,4,Missed,1,,,0,h,MISS Gordon 4' Driving Layup,Missed Shot,Driving Layup Shot,1,18
+22200588,25,PT09M43.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley BLOCK (1 BLK),,,1,19
+22200588,27,PT09M43.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,v,Okoro REBOUND (Off:0 Def:1),Rebound,Unknown,1,20
+22200588,28,PT09M33.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,18,59,6,Missed,1,,,0,v,MISS Okoro 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,21
+22200588,29,PT09M30.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,v,Okoro REBOUND (Off:1 Def:1),Rebound,Unknown,1,22
+22200588,30,PT09M27.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,h,Jump Ball Jokic vs. Okoro: Tip to Murray,Jump Ball,,1,23
+22200588,33,PT09M27.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,v,Okoro Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,24
+22200588,33,PT09M27.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,h,Jokic STEAL (1 STL),,,1,25
+22200588,35,PT09M20.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,1,86,9,Made,1,7.0,2.0,9,h,Jokic 9' Jump Bank Shot (4 PTS) (Murray 1 AST),Made Shot,Jump Bank Shot,1,26
+22200588,37,PT09M02.00S,1,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope S.FOUL (P1.T1) (J.Orr),Foul,Shooting,1,27
+22200588,39,PT09M02.00S,1,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,7.0,3.0,10,v,LeVert Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,1,28
+22200588,40,PT09M02.00S,1,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,v,MISS LeVert Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,1,29
+22200588,41,PT09M02.00S,1,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,30
+22200588,42,PT09M02.00S,1,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,v,MISS LeVert Free Throw 3 of 3,Free Throw,Free Throw 3 of 3,1,31
+22200588,43,PT09M00.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,h,Gordon REBOUND (Off:1 Def:2),Rebound,Unknown,1,32
+22200588,44,PT08M41.00S,1,1610612743,DEN,1627750,Murray,J. Murray,80,142,16,Missed,1,,,0,h,MISS Murray 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,33
+22200588,45,PT08M39.00S,1,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,v,LeVert REBOUND (Off:0 Def:1),Rebound,Unknown,1,34
+22200588,46,PT08M35.00S,1,1610612739,CLE,1627747,LeVert,C. LeVert,28,10,3,Made,1,7.0,5.0,12,v,LeVert 3' Running Layup (3 PTS),Made Shot,Running Layup Shot,1,35
+22200588,47,PT08M21.00S,1,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,-28,25,4,Made,1,9.0,5.0,14,h,Caldwell-Pope 4' Cutting Layup Shot (4 PTS) (Jokic 2 AST),Made Shot,Cutting Layup Shot,1,36
+22200588,49,PT08M21.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley Violation:Defensive Goaltending (Z.Zarba),Violation,Defensive Goaltending,1,37
+22200588,50,PT08M11.00S,1,1610612739,CLE,1627747,LeVert,C. LeVert,9,16,2,Made,1,9.0,7.0,16,v,LeVert 2' Cutting Dunk Shot (5 PTS) (Mobley 1 AST),Made Shot,Cutting Dunk Shot,1,38
+22200588,52,PT07M45.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,h,Jokic Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,39
+22200588,52,PT07M45.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,v,Okoro STEAL (1 STL),,,1,40
+22200588,54,PT07M39.00S,1,1610612739,CLE,1628386,Allen,J. Allen,-38,8,4,Made,1,9.0,9.0,18,v,Allen 4' Floating Jump Shot (2 PTS) (Garland 2 AST),Made Shot,Floating Jump shot,1,41
+22200588,56,PT07M24.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,-39,32,5,Missed,1,,,0,h,MISS Jokic 5' Layup,Missed Shot,Layup Shot,1,42
+22200588,58,PT07M23.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,h,Jokic REBOUND (Off:1 Def:2),Rebound,Unknown,1,43
+22200588,59,PT07M23.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,v,Okoro S.FOUL (P1.T2) (J.Orr),Foul,Shooting,1,44
+22200588,61,PT07M23.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,10.0,9.0,19,h,Jokic Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,45
+22200588,62,PT07M23.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,11.0,9.0,20,h,Jokic Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,46
+22200588,63,PT07M07.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,-152,199,25,Missed,1,,,0,v,MISS Mobley 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,47
+22200588,64,PT07M02.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:1 Def:0),Rebound,Unknown,1,48
+22200588,65,PT06M59.00S,1,1610612739,CLE,1628386,Allen,J. Allen,-233,-4,0,Missed,1,,,0,v,MISS Allen 3PT Jump Shot,Missed Shot,Jump Shot,1,49
+22200588,66,PT06M54.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:2 Def:0),Rebound,Unknown,1,50
+22200588,67,PT06M52.00S,1,1610612739,CLE,1629636,Garland,D. Garland,-17,247,25,Missed,1,,,0,v,MISS Garland 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,51
+22200588,68,PT06M50.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,v,Okoro REBOUND (Off:2 Def:1),Rebound,Unknown,1,52
+22200588,69,PT06M48.00S,1,1610612739,CLE,1629636,Garland,D. Garland,-228,101,25,Made,1,11.0,12.0,23,v,Garland 25' 3PT Jump Shot (3 PTS) (Okoro 1 AST),Made Shot,Jump Shot,1,53
+22200588,71,PT06M40.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-143,227,27,Missed,1,,,0,h,MISS Porter Jr. 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,54
+22200588,72,PT06M38.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:2 Def:1),Rebound,Unknown,1,55
+22200588,73,PT06M20.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,-1,37,4,Made,1,11.0,14.0,25,v,Mobley 4' Turnaround Hook Shot (2 PTS) (Garland 3 AST),Made Shot,Turnaround Hook Shot,1,56
+22200588,75,PT06M19.00S,1,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,57
+22200588,76,PT06M12.00S,1,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,Garland P.FOUL (P1.T3) (A.Moyer-Gleich),Foul,Personal,1,58
+22200588,78,PT06M05.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-230,11,0,Made,1,14.0,14.0,28,h,Porter Jr. 3PT Jump Shot (3 PTS) (Jokic 3 AST),Made Shot,Jump Shot,1,59
+22200588,80,PT05M44.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,32,14,3,Missed,1,,,0,v,MISS Okoro 3' Layup,Missed Shot,Layup Shot,1,60
+22200588,81,PT05M42.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley REBOUND (Off:1 Def:0),Rebound,Unknown,1,61
+22200588,82,PT05M42.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,5,34,3,Made,1,14.0,16.0,30,v,Mobley 3' Hook Shot (4 PTS),Made Shot,Hook Shot,1,62
+22200588,83,PT05M32.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,h,Jokic Out of Bounds - Bad Pass Turnover Turnover (P2.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,63
+22200588,84,PT05M32.00S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,SUB: Brown FOR Murray,Substitution,,0,64
+22200588,85,PT05M32.00S,1,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,v,SUB: Osman FOR LeVert,Substitution,,0,65
+22200588,88,PT05M14.00S,1,1610612739,CLE,1626224,Osman,C. Osman,102,229,25,Missed,1,,,0,v,MISS Osman 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,66
+22200588,89,PT05M11.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,h,Gordon REBOUND (Off:1 Def:3),Rebound,Unknown,1,67
+22200588,90,PT05M04.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,36,12,4,Missed,1,,,0,h,MISS Jokic 4' Layup,Missed Shot,Layup Shot,1,68
+22200588,91,PT05M03.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,69
+22200588,92,PT05M02.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-1,17,2,Made,1,16.0,16.0,32,h,Porter Jr. 2' Putback Layup (5 PTS),Made Shot,Putback Layup Shot,1,70
+22200588,93,PT04M44.00S,1,1610612739,CLE,1629636,Garland,D. Garland,-39,261,26,Missed,1,,,0,v,MISS Garland 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,71
+22200588,94,PT04M42.00S,1,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,1,72
+22200588,95,PT04M42.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,SUB: Love FOR Mobley,Substitution,,0,73
+22200588,97,PT04M32.00S,1,1610612739,CLE,1628386,Allen,J. Allen,-10,52,5,Missed,1,,,0,v,MISS Allen 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,74
+22200588,98,PT04M29.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,75
+22200588,99,PT04M20.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,-20,39,4,Made,1,18.0,16.0,34,h,Jokic 4' Turnaround Jump Shot (8 PTS) (Brown 1 AST),Made Shot,Turnaround Jump Shot,1,76
+22200588,101,PT04M07.00S,1,1610612739,CLE,1629636,Garland,D. Garland,-105,59,12,Missed,1,,,0,v,MISS Garland 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,77
+22200588,102,PT04M04.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,78
+22200588,103,PT04M00.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,-156,209,26,Made,1,21.0,16.0,37,h,Gordon 26' 3PT Running Pull-Up Jump Shot (4 PTS) (Porter Jr. 1 AST),Made Shot,Running Pull-Up Jump Shot,1,79
+22200588,104,PT03M58.00S,1,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,80
+22200588,106,PT03M58.00S,1,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,SUB: Hyland FOR Caldwell-Pope,Substitution,,0,81
+22200588,107,PT03M58.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,h,SUB: Cancar FOR Gordon,Substitution,,0,82
+22200588,108,PT03M58.00S,1,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,SUB: Neto FOR Garland,Substitution,,0,83
+22200588,109,PT03M58.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,v,SUB: Stevens FOR Okoro,Substitution,,0,84
+22200588,114,PT03M37.00S,1,1610612739,CLE,203526,Neto,R. Neto,-88,248,26,Made,1,21.0,19.0,40,v,Neto 26' 3PT Step Back Jump Shot (3 PTS) (Allen 1 AST),Made Shot,Step Back Jump shot,1,85
+22200588,116,PT03M10.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-208,144,25,Missed,1,,,0,h,MISS Porter Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,86
+22200588,117,PT03M08.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:0 Def:1),Rebound,Unknown,1,87
+22200588,118,PT02M58.00S,1,1610612739,CLE,1630205,Stevens,L. Stevens,42,99,11,Missed,1,,,0,v,MISS Stevens 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,88
+22200588,119,PT02M52.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:1 Def:1),Rebound,Unknown,1,89
+22200588,120,PT02M52.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,Made,1,21.0,21.0,42,v,Love Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,90
+22200588,121,PT02M39.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,37,21,4,Missed,1,,,0,h,MISS Jokic 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,91
+22200588,122,PT02M37.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,h,Jokic REBOUND (Off:2 Def:2),Rebound,Unknown,1,92
+22200588,123,PT02M37.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,Missed,1,,,0,h,MISS Jokic Tip Layup Shot,Missed Shot,Tip Layup Shot,1,93
+22200588,124,PT02M37.00S,1,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Unknown,0,94
+22200588,126,PT02M37.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,SUB: Murray FOR Porter Jr.,Substitution,,0,95
+22200588,128,PT02M30.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,23,16,3,Made,1,23.0,21.0,44,h,Jokic 3' Driving Finger Roll Layup (10 PTS),Made Shot,Driving Finger Roll Layup Shot,1,96
+22200588,129,PT02M30.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen S.FOUL (P1.T4) (Z.Zarba),Foul,Shooting,1,97
+22200588,131,PT02M30.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,24.0,21.0,45,h,Jokic Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,98
+22200588,132,PT02M26.00S,1,1610612743,DEN,1628427,Cancar,V. Cancar,0,0,0,,0,,,0,h,Cancar P.FOUL (P1.T2) (J.Orr),Foul,Personal,1,99
+22200588,134,PT02M19.00S,1,1610612739,CLE,203526,Neto,R. Neto,-88,246,26,Missed,1,,,0,v,MISS Neto 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,100
+22200588,135,PT02M15.00S,1,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,1,101
+22200588,136,PT02M10.00S,1,1610612743,DEN,1628427,Cancar,V. Cancar,-27,15,3,Made,1,26.0,21.0,47,h,Cancar 3' Reverse Layup (2 PTS) (Brown 2 AST),Made Shot,Reverse Layup Shot,1,102
+22200588,138,PT01M50.00S,1,1610612739,CLE,201567,Love,K. Love,100,21,10,Missed,1,,,0,v,MISS Love 10' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,103
+22200588,139,PT01M49.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,h,Jokic REBOUND (Off:2 Def:3),Rebound,Unknown,1,104
+22200588,140,PT01M40.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,h,Jokic Bad Pass Turnover (P3.T3),Turnover,Bad Pass,1,105
+22200588,140,PT01M40.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love STEAL (1 STL),,,1,106
+22200588,142,PT01M26.00S,1,1610612739,CLE,1630205,Stevens,L. Stevens,9,73,7,Made,1,26.0,23.0,49,v,Stevens 7' Driving Floating Jump Shot (2 PTS) (Neto 1 AST),Made Shot,Driving Floating Jump Shot,1,107
+22200588,144,PT01M12.00S,1,1610612743,DEN,1628971,Brown,B. Brown,-237,8,24,Missed,1,,,0,h,MISS Brown 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,108
+22200588,145,PT01M08.00S,1,1610612743,DEN,1628427,Cancar,V. Cancar,0,0,0,,0,,,0,h,Cancar REBOUND (Off:1 Def:0),Rebound,Unknown,1,109
+22200588,146,PT01M04.00S,1,1610612743,DEN,1630538,Hyland,B. Hyland,116,221,25,Missed,1,,,0,h,MISS Hyland 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,110
+22200588,146,PT01M04.00S,1,1610612739,CLE,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,Stevens BLOCK (1 BLK),,,1,111
+22200588,148,PT01M01.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,h,Jokic REBOUND (Off:3 Def:3),Rebound,Unknown,1,112
+22200588,149,PT01M01.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,28,5,3,Missed,1,,,0,h,MISS Jokic 3' Layup,Missed Shot,Layup Shot,1,113
+22200588,149,PT01M01.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen BLOCK (1 BLK),,,1,114
+22200588,151,PT01M01.00S,1,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,0,115
+22200588,152,PT01M01.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,h,Jokic L.B.FOUL (P1.T3) (J.Orr),Foul,Loose Ball,1,116
+22200588,154,PT01M01.00S,1,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,h,SUB: Nnaji FOR Jokic,Substitution,,0,117
+22200588,155,PT01M01.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,SUB: Mobley FOR Allen,Substitution,,0,118
+22200588,158,PT00M51.30S,1,1610612739,CLE,1626224,Osman,C. Osman,228,31,0,Made,1,26.0,26.0,52,v,Osman 3PT Jump Shot (3 PTS) (Neto 2 AST),Made Shot,Jump Shot,1,119
+22200588,161,PT00M29.30S,1,1610612743,DEN,1630538,Hyland,B. Hyland,0,0,0,,0,,,0,h,Hyland Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,1,120
+22200588,162,PT00M29.30S,1,1610612739,CLE,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,SUB: Garland FOR Stevens,Substitution,,0,121
+22200588,163,PT00M29.30S,1,1610612739,CLE,203526,Neto,R. Neto,0,0,0,,0,,,0,v,SUB: LeVert FOR Neto,Substitution,,0,122
+22200588,166,PT00M11.70S,1,1610612739,CLE,1629636,Garland,D. Garland,21,40,5,Made,1,26.0,28.0,54,v,Garland 5' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,1,123
+22200588,167,PT00M11.70S,1,1610612743,DEN,1628427,Cancar,V. Cancar,0,0,0,,0,,,0,h,Cancar S.FOUL (P2.PN) (A.Moyer-Gleich),Foul,Shooting,1,124
+22200588,169,PT00M11.70S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,SUB: Okoro FOR Love,Substitution,,0,125
+22200588,170,PT00M11.70S,1,1610612739,CLE,1626224,Osman,C. Osman,0,0,0,,0,,,0,v,SUB: Stevens FOR Osman,Substitution,,0,126
+22200588,173,PT00M11.70S,1,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,MISS Garland Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,127
+22200588,174,PT00M09.80S,1,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:0 Def:2),Rebound,Unknown,1,128
+22200588,175,PT00M02.70S,1,1610612743,DEN,1630538,Hyland,B. Hyland,31,274,28,Missed,1,,,0,h,MISS Hyland 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,129
+22200588,176,PT00M02.70S,1,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,v,LeVert REBOUND (Off:0 Def:2),Rebound,Unknown,1,130
+22200588,177,PT00M00.00S,1,0,,0,,,0,0,0,,0,26.0,28.0,54,,End of 1st Period (9:37 PM EST),period,end,1,131
+22200588,184,PT12M00.00S,2,0,,0,,,0,0,0,,0,26.0,28.0,54,,Start of 2nd Period (9:40 PM EST),period,start,0,132
+22200588,185,PT11M42.00S,2,1610612743,DEN,1627750,Murray,J. Murray,23,15,3,Missed,1,,,0,h,MISS Murray 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,133
+22200588,186,PT11M39.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley REBOUND (Off:1 Def:1),Rebound,Unknown,1,134
+22200588,187,PT11M36.00S,2,1610612739,CLE,1626224,Osman,C. Osman,167,199,26,Missed,1,,,0,v,MISS Osman 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,135
+22200588,188,PT11M32.00S,2,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:0 Def:3),Rebound,Unknown,1,136
+22200588,189,PT11M20.00S,2,1610612743,DEN,1628427,Cancar,V. Cancar,227,18,0,Missed,1,,,0,h,MISS Cancar 3PT Jump Shot,Missed Shot,Jump Shot,1,137
+22200588,190,PT11M19.00S,2,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Unknown,0,138
+22200588,191,PT11M19.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley L.B.FOUL (P2.T1) (J.Orr),Foul,Loose Ball,1,139
+22200588,193,PT11M16.00S,2,1610612743,DEN,1630192,Nnaji,Z. Nnaji,0,0,0,,0,,,0,h,Nnaji OFF.Foul (P1) (J.Orr),Foul,Offensive,1,140
+22200588,195,PT11M16.00S,2,1610612743,DEN,1630192,Nnaji,Z. Nnaji,0,0,0,,0,,,0,h,Nnaji Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,141
+22200588,196,PT11M02.00S,2,1610612739,CLE,201567,Love,K. Love,-37,-4,4,Missed,1,,,0,v,MISS Love 4' Reverse Layup,Missed Shot,Reverse Layup Shot,1,142
+22200588,197,PT11M01.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:2 Def:1),Rebound,Unknown,1,143
+22200588,198,PT11M00.00S,2,1610612739,CLE,201567,Love,K. Love,-21,6,2,Made,1,26.0,30.0,56,v,Love 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,144
+22200588,199,PT10M51.00S,2,1610612739,CLE,1626224,Osman,C. Osman,0,0,0,,0,,,0,v,Osman S.FOUL (P1.T2) (Z.Zarba),Foul,Shooting,1,145
+22200588,201,PT10M51.00S,2,1610612743,DEN,1630538,Hyland,B. Hyland,0,0,0,,0,27.0,30.0,57,h,Hyland Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,146
+22200588,202,PT10M51.00S,2,1610612743,DEN,1630538,Hyland,B. Hyland,0,0,0,,0,,,0,h,MISS Hyland Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,147
+22200588,203,PT10M48.00S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray REBOUND (Off:1 Def:0),Rebound,Unknown,1,148
+22200588,204,PT10M42.00S,2,1610612743,DEN,1627750,Murray,J. Murray,-153,137,21,Made,1,29.0,30.0,59,h,Murray 21' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,1,149
+22200588,205,PT10M18.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,-5,38,4,Made,1,29.0,32.0,61,v,Mobley 4' Turnaround Hook Shot (6 PTS) (Neto 3 AST),Made Shot,Turnaround Hook Shot,1,150
+22200588,207,PT10M15.00S,2,1610612743,DEN,1630538,Hyland,B. Hyland,0,0,0,,0,,,0,h,Hyland Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,151
+22200588,208,PT10M04.00S,2,1610612739,CLE,1626224,Osman,C. Osman,-22,6,2,Made,1,29.0,34.0,63,v,Osman 2' Cutting Layup Shot (5 PTS) (Mobley 2 AST),Made Shot,Cutting Layup Shot,1,152
+22200588,210,PT10M04.00S,2,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,153
+22200588,211,PT09M48.00S,2,1610612743,DEN,1628427,Cancar,V. Cancar,-235,4,24,Made,1,32.0,34.0,66,h,Cancar 24' 3PT Jump Shot (5 PTS) (Brown 3 AST),Made Shot,Jump Shot,1,154
+22200588,213,PT09M20.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,-11,82,8,Made,1,32.0,36.0,68,v,Mobley 8' Turnaround Fadeaway (8 PTS) (Stevens 1 AST),Made Shot,Turnaround Fadeaway shot,1,155
+22200588,215,PT09M02.00S,2,1610612743,DEN,1627750,Murray,J. Murray,16,253,25,Made,1,35.0,36.0,71,h,Murray 25' 3PT Pullup Jump Shot (5 PTS) (Hyland 1 AST),Made Shot,Pullup Jump shot,1,156
+22200588,217,PT08M43.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,157
+22200588,217,PT08M43.00S,2,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,h,Brown STEAL (1 STL),,,1,158
+22200588,219,PT08M36.00S,2,1610612743,DEN,1628971,Brown,B. Brown,7,264,26,Made,1,38.0,36.0,74,h,Brown 26' 3PT Jump Shot (3 PTS) (Cancar 1 AST),Made Shot,Jump Shot,1,159
+22200588,221,PT08M12.00S,2,1610612739,CLE,1626224,Osman,C. Osman,20,15,3,Made,1,38.0,38.0,76,v,Osman 3' Cutting Layup Shot (7 PTS) (Love 1 AST),Made Shot,Cutting Layup Shot,1,160
+22200588,223,PT07M53.00S,2,1610612743,DEN,1627750,Murray,J. Murray,-22,18,3,Missed,1,,,0,h,MISS Murray 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,161
+22200588,224,PT07M51.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley REBOUND (Off:1 Def:2),Rebound,Unknown,1,162
+22200588,225,PT07M49.00S,2,1610612739,CLE,1630205,Stevens,L. Stevens,-4,8,1,Made,1,38.0,40.0,78,v,Stevens 1' Running Dunk (4 PTS) (Osman 1 AST),Made Shot,Running Dunk Shot,1,163
+22200588,227,PT07M38.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Cavaliers T.Foul (Def. 3 Sec Mobley ) (J.Orr),Foul,Defense 3 Second,1,164
+22200588,228,PT07M38.00S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,39.0,40.0,79,h,Murray Free Throw Technical (6 PTS),Free Throw,Free Throw Technical,1,165
+22200588,229,PT07M38.00S,2,1610612743,DEN,1630538,Hyland,B. Hyland,0,0,0,,0,,,0,h,SUB: Jokic FOR Hyland,Substitution,,0,166
+22200588,230,PT07M38.00S,2,1610612743,DEN,1630192,Nnaji,Z. Nnaji,0,0,0,,0,,,0,h,SUB: Porter Jr. FOR Nnaji,Substitution,,0,167
+22200588,231,PT07M38.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,SUB: LeVert FOR Mobley,Substitution,,0,168
+22200588,232,PT07M38.00S,2,1610612739,CLE,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,SUB: Allen FOR Stevens,Substitution,,0,169
+22200588,237,PT07M31.00S,2,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-237,13,24,Made,1,42.0,40.0,82,h,Porter Jr. 24' 3PT Jump Shot (8 PTS) (Cancar 2 AST),Made Shot,Jump Shot,1,170
+22200588,239,PT07M19.00S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray S.FOUL (P1.T1) (A.Moyer-Gleich),Foul,Shooting,1,171
+22200588,241,PT07M19.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,42.0,41.0,83,v,Allen Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,172
+22200588,242,PT07M19.00S,2,1610612739,CLE,203526,Neto,R. Neto,0,0,0,,0,,,0,v,SUB: Garland FOR Neto,Substitution,,0,173
+22200588,244,PT07M19.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,MISS Allen Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,174
+22200588,245,PT07M16.00S,2,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,175
+22200588,246,PT07M06.00S,2,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,v,LeVert P.FOUL (P1.T3) (J.Orr),Foul,Personal,1,176
+22200588,248,PT07M06.00S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,SUB: Gordon FOR Murray,Substitution,,0,177
+22200588,249,PT07M06.00S,2,1610612743,DEN,1628427,Cancar,V. Cancar,0,0,0,,0,,,0,h,SUB: Caldwell-Pope FOR Cancar,Substitution,,0,178
+22200588,254,PT06M55.00S,2,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,4,176,18,Missed,1,,,0,h,MISS Caldwell-Pope 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,179
+22200588,255,PT06M51.00S,2,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,v,LeVert REBOUND (Off:0 Def:3),Rebound,Unknown,1,180
+22200588,256,PT06M40.00S,2,1610612739,CLE,1628386,Allen,J. Allen,-18,101,10,Made,1,42.0,43.0,85,v,Allen 10' Jump Shot (5 PTS) (Love 2 AST),Made Shot,Jump Shot,1,181
+22200588,258,PT06M29.00S,2,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,140,41,15,Missed,1,,,0,h,MISS Porter Jr. 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,182
+22200588,259,PT06M24.00S,2,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,h,Gordon REBOUND (Off:2 Def:3),Rebound,Unknown,1,183
+22200588,260,PT06M24.00S,2,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,Missed,1,,,0,h,MISS Gordon Tip Layup Shot,Missed Shot,Tip Layup Shot,1,184
+22200588,261,PT06M23.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:2 Def:2),Rebound,Unknown,1,185
+22200588,262,PT06M21.00S,2,1610612739,CLE,1627747,LeVert,C. LeVert,9,4,1,Made,1,42.0,45.0,87,v,LeVert 1' Running Dunk (7 PTS) (Love 3 AST),Made Shot,Running Dunk Shot,1,186
+22200588,263,PT06M14.00S,2,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,-235,8,24,Made,1,45.0,45.0,90,h,Caldwell-Pope 24' 3PT Jump Shot (7 PTS) (Brown 4 AST),Made Shot,Jump Shot,1,187
+22200588,266,PT05M56.00S,2,1610612739,CLE,1626224,Osman,C. Osman,-143,213,26,Made,1,45.0,48.0,93,v,Osman 26' 3PT Jump Shot (10 PTS) (Garland 4 AST),Made Shot,Jump Shot,1,188
+22200588,268,PT05M47.00S,2,1610612739,CLE,1626224,Osman,C. Osman,0,0,0,,0,,,0,v,Osman S.FOUL (P2.T4) (J.Orr),Foul,Shooting,1,189
+22200588,270,PT05M47.00S,2,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,h,MISS Gordon Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,190
+22200588,271,PT05M47.00S,2,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Normal Rebound,1,191
+22200588,272,PT05M47.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,SUB: Mobley FOR Love,Substitution,,0,192
+22200588,273,PT05M47.00S,2,1610612739,CLE,1626224,Osman,C. Osman,0,0,0,,0,,,0,v,SUB: Okoro FOR Osman,Substitution,,0,193
+22200588,276,PT05M47.00S,2,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,h,MISS Gordon Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,194
+22200588,277,PT05M44.00S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,Garland REBOUND (Off:0 Def:1),Rebound,Unknown,1,195
+22200588,279,PT05M30.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,36,36,5,Missed,1,,,0,v,MISS Mobley 5' Driving Layup,Missed Shot,Driving Layup Shot,1,196
+22200588,280,PT05M29.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:3 Def:1),Rebound,Unknown,1,197
+22200588,281,PT05M29.00S,2,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. S.FOUL (P1.T2) (Z.Zarba),Foul,Shooting,1,198
+22200588,283,PT05M29.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,45.0,49.0,94,v,Allen Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,199
+22200588,284,PT05M29.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,MISS Allen Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,200
+22200588,285,PT05M27.00S,2,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,h,Gordon REBOUND (Off:2 Def:4),Rebound,Unknown,1,201
+22200588,286,PT05M08.00S,2,1610612743,DEN,203999,Jokic,N. Jokic,42,18,5,Made,1,47.0,49.0,96,h,Jokic 5' Turnaround Hook Shot (13 PTS),Made Shot,Turnaround Hook Shot,1,202
+22200588,287,PT04M45.00S,2,1610612739,CLE,1628386,Allen,J. Allen,48,108,12,Made,1,47.0,51.0,98,v,Allen 12' Jump Shot (8 PTS) (Okoro 2 AST),Made Shot,Jump Shot,1,203
+22200588,290,PT04M20.00S,2,1610612743,DEN,203932,Gordon,A. Gordon,2,0,0,Made,1,49.0,51.0,100,h,Gordon Cutting Dunk Shot (6 PTS) (Jokic 4 AST),Made Shot,Cutting Dunk Shot,1,204
+22200588,293,PT03M59.00S,2,1610612739,CLE,1628386,Allen,J. Allen,16,125,13,Missed,1,,,0,v,MISS Allen 13' Jump Shot,Missed Shot,Jump Shot,1,205
+22200588,294,PT03M56.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:4 Def:1),Rebound,Unknown,1,206
+22200588,295,PT03M54.00S,2,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,h,Brown S.FOUL (P1.T3) (A.Moyer-Gleich),Foul,Shooting,1,207
+22200588,297,PT03M54.00S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,49.0,52.0,101,v,Garland Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,208
+22200588,298,PT03M54.00S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,MISS Garland Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,209
+22200588,299,PT03M52.00S,2,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,h,Gordon REBOUND (Off:2 Def:5),Rebound,Unknown,1,210
+22200588,300,PT03M39.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley P.FOUL (P3.PN) (A.Moyer-Gleich),Foul,Personal,1,211
+22200588,302,PT03M39.00S,2,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,50.0,52.0,102,h,Jokic Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,212
+22200588,303,PT03M39.00S,2,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,h,SUB: Murray FOR Brown,Substitution,,0,213
+22200588,304,PT03M39.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,SUB: Love FOR Mobley,Substitution,,0,214
+22200588,307,PT03M39.00S,2,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,51.0,52.0,103,h,Jokic Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,215
+22200588,308,PT03M30.00S,2,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,h,NUGGETS T.Foul (Def. 3 Sec Gordon ) (J.Orr),Foul,Defense 3 Second,1,216
+22200588,309,PT03M30.00S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,51.0,53.0,104,v,Garland Free Throw Technical (7 PTS),Free Throw,Free Throw Technical,1,217
+22200588,310,PT03M23.00S,2,1610612739,CLE,1628386,Allen,J. Allen,6,51,5,Missed,1,,,0,v,MISS Allen 5' Hook Shot,Missed Shot,Hook Shot,1,218
+22200588,311,PT03M19.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:5 Def:1),Rebound,Unknown,1,219
+22200588,312,PT03M17.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,220
+22200588,312,PT03M17.00S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray STEAL (1 STL),,,1,221
+22200588,314,PT03M10.00S,2,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,v,LeVert P.FOUL (P2.PN) (Z.Zarba),Foul,Personal,1,222
+22200588,316,PT03M10.00S,2,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,223
+22200588,317,PT03M10.00S,2,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,52.0,53.0,105,h,Caldwell-Pope Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,224
+22200588,318,PT03M10.00S,2,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,53.0,53.0,106,h,Caldwell-Pope Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,225
+22200588,319,PT02M52.00S,2,1610612739,CLE,201567,Love,K. Love,238,32,24,Missed,1,,,0,v,MISS Love 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,226
+22200588,320,PT02M50.00S,2,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,227
+22200588,321,PT02M42.00S,2,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. OFF.Foul (P2) (A.Moyer-Gleich),Foul,Offensive,1,228
+22200588,323,PT02M42.00S,2,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,1,229
+22200588,325,PT02M30.00S,2,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,v,SUB: Osman FOR Okoro,Substitution,,0,230
+22200588,327,PT02M21.00S,2,1610612739,CLE,1629636,Garland,D. Garland,66,116,13,Missed,1,,,0,v,MISS Garland 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,231
+22200588,327,PT02M21.00S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray BLOCK (1 BLK),,,1,232
+22200588,329,PT02M18.00S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,Garland REBOUND (Off:1 Def:1),Rebound,Unknown,1,233
+22200588,330,PT02M18.00S,2,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Turnover: Shot Clock (T#4),Turnover,Shot Clock Turnover,1,234
+22200588,331,PT02M13.00S,2,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,h,Jokic Bad Pass Turnover (P4.T8),Turnover,Bad Pass,0,235
+22200588,331,PT02M13.00S,2,1610612739,CLE,1626224,Osman,C. Osman,0,0,0,,0,,,0,v,Osman STEAL (1 STL),,,0,236
+22200588,333,PT02M08.00S,2,1610612739,CLE,201567,Love,K. Love,-113,225,25,Made,1,53.0,56.0,109,v,Love 25' 3PT Jump Shot (7 PTS) (Garland 5 AST),Made Shot,Jump Shot,1,237
+22200588,335,PT01M52.00S,2,1610612743,DEN,1627750,Murray,J. Murray,2,13,1,Made,1,55.0,56.0,111,h,Murray 1' Driving Dunk (8 PTS),Made Shot,Driving Dunk Shot,1,238
+22200588,336,PT01M30.00S,2,1610612739,CLE,1628386,Allen,J. Allen,44,72,8,Missed,1,,,0,v,MISS Allen 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,239
+22200588,337,PT01M28.00S,2,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,h,Gordon REBOUND (Off:2 Def:6),Rebound,Unknown,1,240
+22200588,338,PT01M20.00S,2,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-235,-9,24,Made,1,58.0,56.0,114,h,Porter Jr. 24' 3PT Jump Shot (11 PTS) (Jokic 5 AST),Made Shot,Jump Shot,1,241
+22200588,340,PT01M01.00S,2,1610612739,CLE,1627747,LeVert,C. LeVert,-1,57,6,Made,1,58.0,58.0,116,v,LeVert 6' Floating Jump Shot (9 PTS),Made Shot,Floating Jump shot,1,242
+22200588,341,PT00M47.70S,2,1610612743,DEN,1627750,Murray,J. Murray,-51,132,14,Made,1,60.0,58.0,118,h,Murray 14' Fadeaway Jumper (10 PTS),Made Shot,Fadeaway Jump Shot,1,243
+22200588,342,PT00M30.60S,2,1610612739,CLE,1627747,LeVert,C. LeVert,70,127,15,Missed,1,,,0,v,MISS LeVert 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,244
+22200588,343,PT00M28.10S,2,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,h,Jokic REBOUND (Off:3 Def:4),Rebound,Unknown,1,245
+22200588,344,PT00M08.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love S.FOUL (P1.PN) (Z.Zarba),Foul,Shooting,1,246
+22200588,346,PT00M08.00S,2,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,61.0,58.0,119,h,Gordon Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,247
+22200588,347,PT00M08.00S,2,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,SUB: Brown FOR Porter Jr.,Substitution,,0,248
+22200588,349,PT00M08.00S,2,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,62.0,58.0,120,h,Gordon Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,249
+22200588,350,PT00M03.70S,2,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,h,Gordon Personal Take Foul (P1.T4) (A.Moyer-Gleich),Foul,Personal Take,1,250
+22200588,352,PT00M00.30S,2,1610612739,CLE,1629636,Garland,D. Garland,10,273,27,Missed,1,,,0,v,MISS Garland 27' 3PT Floating Jump Shot,Missed Shot,Floating Jump shot,1,251
+22200588,353,PT00M00.10S,2,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,1,252
+22200588,354,PT00M00.00S,2,0,,0,,,0,0,0,,0,62.0,58.0,120,,End of 2nd Period (10:10 PM EST),period,end,1,253
+22200588,361,PT12M00.00S,3,0,,0,,,0,0,0,,0,62.0,58.0,120,,Start of 3rd Period (10:25 PM EST),period,start,0,254
+22200588,362,PT11M44.00S,3,1610612743,DEN,203999,Jokic,N. Jokic,229,36,0,Made,1,65.0,58.0,123,h,Jokic 3PT Jump Shot (18 PTS) (Murray 2 AST),Made Shot,Jump Shot,1,255
+22200588,364,PT11M25.00S,3,1610612739,CLE,1627747,LeVert,C. LeVert,-207,160,26,Made,1,65.0,61.0,126,v,LeVert 26' 3PT Jump Shot (12 PTS) (Mobley 3 AST),Made Shot,Jump Shot,1,256
+22200588,366,PT11M13.00S,3,1610612743,DEN,203999,Jokic,N. Jokic,70,263,27,Made,1,68.0,61.0,129,h,Jokic 27' 3PT Jump Shot (21 PTS),Made Shot,Jump Shot,1,257
+22200588,367,PT10M49.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,28,11,3,Missed,1,,,0,v,MISS Okoro 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,258
+22200588,368,PT10M48.00S,3,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,h,Jokic REBOUND (Off:3 Def:5),Rebound,Unknown,1,259
+22200588,369,PT10M45.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-234,-18,0,Missed,1,,,0,h,MISS Porter Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,260
+22200588,370,PT10M42.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,v,Okoro REBOUND (Off:2 Def:2),Rebound,Unknown,1,261
+22200588,371,PT10M40.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray S.FOUL (P2.T1) (A.Moyer-Gleich),Foul,Shooting,1,262
+22200588,373,PT10M40.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,v,MISS Okoro Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,263
+22200588,374,PT10M40.00S,3,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,264
+22200588,375,PT10M40.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,68.0,62.0,130,v,Okoro Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,265
+22200588,376,PT10M19.00S,3,1610612743,DEN,203932,Gordon,A. Gordon,-26,1,3,Missed,1,,,0,h,MISS Gordon 3' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,266
+22200588,377,PT10M18.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley REBOUND (Off:1 Def:3),Rebound,Unknown,1,267
+22200588,378,PT10M09.00S,3,1610612739,CLE,1629636,Garland,D. Garland,-12,59,6,Missed,1,,,0,v,MISS Garland 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,268
+22200588,379,PT10M07.00S,3,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,h,Jokic REBOUND (Off:3 Def:6),Rebound,Unknown,1,269
+22200588,380,PT10M03.00S,3,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,110,227,25,Missed,1,,,0,h,MISS Caldwell-Pope 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,270
+22200588,381,PT10M00.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray REBOUND (Off:2 Def:0),Rebound,Unknown,1,271
+22200588,382,PT10M00.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,Made,1,70.0,62.0,132,h,Murray Tip Layup Shot (12 PTS),Made Shot,Tip Layup Shot,1,272
+22200588,383,PT10M00.00S,3,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,273
+22200588,384,PT09M43.00S,3,1610612739,CLE,1628386,Allen,J. Allen,44,22,5,Missed,1,,,0,v,MISS Allen 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,274
+22200588,385,PT09M41.00S,3,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,h,Jokic REBOUND (Off:3 Def:7),Rebound,Unknown,1,275
+22200588,386,PT09M32.00S,3,1610612743,DEN,203932,Gordon,A. Gordon,1,5,1,Made,1,72.0,62.0,134,h,Gordon 1' Cutting Dunk Shot (10 PTS) (Caldwell-Pope 1 AST),Made Shot,Cutting Dunk Shot,1,276
+22200588,388,PT09M13.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,74,12,7,Missed,1,,,0,v,MISS Okoro 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,277
+22200588,389,PT09M11.00S,3,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope REBOUND (Off:0 Def:1),Rebound,Unknown,1,278
+22200588,390,PT08M56.00S,3,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,279
+22200588,390,PT08M56.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,v,Okoro STEAL (2 STL),,,1,280
+22200588,392,PT08M51.00S,3,1610612739,CLE,1629636,Garland,D. Garland,37,7,4,Missed,1,,,0,v,MISS Garland 4' Running Layup,Missed Shot,Running Layup Shot,1,281
+22200588,393,PT08M48.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,v,Okoro REBOUND (Off:3 Def:2),Rebound,Unknown,1,282
+22200588,394,PT08M47.00S,3,1610612739,CLE,1629636,Garland,D. Garland,-232,13,0,Missed,1,,,0,v,MISS Garland 3PT Jump Shot,Missed Shot,Jump Shot,1,283
+22200588,395,PT08M42.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:6 Def:1),Rebound,Unknown,1,284
+22200588,396,PT08M40.00S,3,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,h,Gordon S.FOUL (P2.T2) (J.Orr),Foul,Shooting,1,285
+22200588,398,PT08M40.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,MISS Mobley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,286
+22200588,399,PT08M40.00S,3,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,287
+22200588,400,PT08M40.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,MISS Mobley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,288
+22200588,401,PT08M38.00S,3,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,h,Gordon REBOUND (Off:2 Def:7),Rebound,Unknown,1,289
+22200588,402,PT08M25.00S,3,1610612743,DEN,1627750,Murray,J. Murray,-18,242,24,Made,1,75.0,62.0,137,h,Murray 24' 3PT Jump Shot (15 PTS) (Jokic 6 AST),Made Shot,Jump Shot,1,290
+22200588,404,PT08M08.00S,3,1610612739,CLE,1629636,Garland,D. Garland,-36,29,5,Made,1,75.0,64.0,139,v,Garland 5' Driving Finger Roll Layup (9 PTS) (LeVert 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,291
+22200588,406,PT07M44.00S,3,1610612743,DEN,1627750,Murray,J. Murray,168,190,25,Missed,1,,,0,h,MISS Murray 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,292
+22200588,406,PT07M44.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley BLOCK (2 BLK),,,1,293
+22200588,408,PT07M42.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,Garland REBOUND (Off:1 Def:2),Rebound,Unknown,1,294
+22200588,409,PT07M40.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,-6,4,1,Made,1,75.0,66.0,141,v,Mobley 1' Running Dunk (10 PTS) (Garland 6 AST),Made Shot,Running Dunk Shot,1,295
+22200588,410,PT07M24.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,Garland P.FOUL (P2.T1) (A.Moyer-Gleich),Foul,Personal,1,296
+22200588,412,PT07M24.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,,,0,v,SUB: Osman FOR Okoro,Substitution,,0,297
+22200588,414,PT07M24.00S,3,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Violation: Delay of game Violation,Violation,Delay Of Game,0,298
+22200588,415,PT07M14.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-146,214,26,Missed,1,,,0,h,MISS Porter Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,299
+22200588,416,PT07M09.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,Garland REBOUND (Off:1 Def:3),Rebound,Unknown,1,300
+22200588,417,PT07M05.00S,3,1610612739,CLE,1627747,LeVert,C. LeVert,31,37,5,Missed,1,,,0,v,MISS LeVert 5' Running Layup,Missed Shot,Running Layup Shot,1,301
+22200588,417,PT07M05.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray BLOCK (2 BLK),,,1,302
+22200588,419,PT07M03.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:1 Def:5),Rebound,Unknown,1,303
+22200588,420,PT07M00.00S,3,1610612743,DEN,203932,Gordon,A. Gordon,232,29,0,Missed,1,,,0,h,MISS Gordon 3PT Jump Shot,Missed Shot,Jump Shot,1,304
+22200588,421,PT06M56.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:2 Def:5),Rebound,Unknown,1,305
+22200588,422,PT06M47.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,306
+22200588,422,PT06M47.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley STEAL (1 STL),,,1,307
+22200588,424,PT06M38.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,-27,263,26,Missed,1,,,0,v,MISS Mobley 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,308
+22200588,425,PT06M35.00S,3,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,h,Gordon REBOUND (Off:2 Def:8),Rebound,Unknown,1,309
+22200588,426,PT06M25.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-172,187,25,Missed,1,,,0,h,MISS Porter Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,310
+22200588,427,PT06M22.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley REBOUND (Off:1 Def:4),Rebound,Unknown,1,311
+22200588,429,PT06M10.00S,3,1610612739,CLE,1627747,LeVert,C. LeVert,61,83,10,Made,1,75.0,68.0,143,v,LeVert 10' Pullup Jump Shot (14 PTS) (Osman 2 AST),Made Shot,Pullup Jump shot,1,312
+22200588,431,PT05M49.00S,3,1610612743,DEN,203999,Jokic,N. Jokic,2,158,16,Missed,1,,,0,h,MISS Jokic 16' Jump Shot,Missed Shot,Jump Shot,1,313
+22200588,432,PT05M47.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley REBOUND (Off:1 Def:5),Rebound,Unknown,1,314
+22200588,433,PT05M32.00S,3,1610612739,CLE,1627747,LeVert,C. LeVert,-157,211,26,Missed,1,,,0,v,MISS LeVert 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,315
+22200588,434,PT05M29.00S,3,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,h,Jokic REBOUND (Off:3 Def:8),Rebound,Unknown,1,316
+22200588,435,PT05M19.00S,3,1610612743,DEN,203932,Gordon,A. Gordon,2,14,1,Made,1,77.0,68.0,145,h,Gordon 1' Driving Dunk (12 PTS) (Jokic 7 AST),Made Shot,Driving Dunk Shot,1,317
+22200588,437,PT05M03.00S,3,1610612739,CLE,1629636,Garland,D. Garland,-36,22,4,Made,1,77.0,70.0,147,v,Garland 4' Driving Finger Roll Layup (11 PTS),Made Shot,Driving Finger Roll Layup Shot,1,318
+22200588,438,PT05M03.00S,3,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,319
+22200588,439,PT05M03.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,SUB: Brown FOR Murray,Substitution,,0,320
+22200588,440,PT05M03.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,SUB: Love FOR Mobley,Substitution,,0,321
+22200588,443,PT04M50.00S,3,1610612743,DEN,1628971,Brown,B. Brown,-7,50,5,Made,1,79.0,70.0,149,h,Brown 5' Floating Jump Shot (5 PTS) (Jokic 8 AST),Made Shot,Floating Jump shot,1,322
+22200588,445,PT04M31.00S,3,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love OFF.Foul (P2) (A.Moyer-Gleich),Foul,Offensive,1,323
+22200588,447,PT04M31.00S,3,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,324
+22200588,448,PT04M16.00S,3,1610612743,DEN,203999,Jokic,N. Jokic,-9,262,26,Made,1,82.0,70.0,152,h,Jokic 26' 3PT Jump Shot (24 PTS) (Brown 5 AST),Made Shot,Jump Shot,1,325
+22200588,450,PT03M55.00S,3,1610612739,CLE,1627747,LeVert,C. LeVert,-173,202,27,Made,1,82.0,73.0,155,v,LeVert 27' 3PT Jump Shot (17 PTS) (Love 4 AST),Made Shot,Jump Shot,1,326
+22200588,452,PT03M43.00S,3,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love Violation:Kicked Ball (A.Moyer-Gleich),Violation,Kicked Ball,0,327
+22200588,453,PT03M43.00S,3,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,h,SUB: Cancar FOR Gordon,Substitution,,0,328
+22200588,454,PT03M43.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,SUB: Neto FOR Garland,Substitution,,0,329
+22200588,457,PT03M36.00S,3,1610612743,DEN,1628971,Brown,B. Brown,21,258,26,Made,1,85.0,73.0,158,h,Brown 26' 3PT Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,1,330
+22200588,458,PT03M16.00S,3,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,h,Jokic S.FOUL (P2.T3) (A.Moyer-Gleich),Foul,Shooting,1,331
+22200588,460,PT03M16.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,85.0,74.0,159,v,Allen Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,332
+22200588,461,PT03M16.00S,3,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,SUB: Hyland FOR Caldwell-Pope,Substitution,,0,333
+22200588,463,PT03M16.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,85.0,75.0,160,v,Allen Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,334
+22200588,464,PT02M57.00S,3,1610612743,DEN,1628971,Brown,B. Brown,136,122,18,Missed,1,,,0,h,MISS Brown 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,335
+22200588,465,PT02M55.00S,3,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,h,Jokic REBOUND (Off:4 Def:8),Rebound,Unknown,1,336
+22200588,466,PT02M53.00S,3,1610612743,DEN,203999,Jokic,N. Jokic,50,71,9,Made,1,87.0,75.0,162,h,Jokic 9' Jump Shot (26 PTS),Made Shot,Jump Shot,1,337
+22200588,467,PT02M36.00S,3,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,h,Jokic P.FOUL (P3.T4) (J.Orr),Foul,Personal,1,338
+22200588,469,PT02M26.00S,3,1610612739,CLE,1626224,Osman,C. Osman,-109,158,19,Missed,1,,,0,v,MISS Osman 19' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,339
+22200588,470,PT02M22.00S,3,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:3 Def:2),Rebound,Unknown,1,340
+22200588,471,PT02M17.00S,3,1610612739,CLE,1626224,Osman,C. Osman,-157,218,27,Missed,1,,,0,v,MISS Osman 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,341
+22200588,472,PT02M11.00S,3,1610612743,DEN,1630538,Hyland,B. Hyland,0,0,0,,0,,,0,h,Hyland REBOUND (Off:0 Def:1),Rebound,Unknown,1,342
+22200588,473,PT02M03.00S,3,1610612743,DEN,1630538,Hyland,B. Hyland,0,0,0,,0,,,0,h,Hyland Bad Pass Turnover (P3.T11),Turnover,Bad Pass,1,343
+22200588,473,PT02M03.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen STEAL (1 STL),,,1,344
+22200588,475,PT01M59.00S,3,1610612739,CLE,1626224,Osman,C. Osman,-2,20,2,Made,1,87.0,77.0,164,v,Osman 2' Running Dunk (12 PTS) (LeVert 2 AST),Made Shot,Running Dunk Shot,1,345
+22200588,477,PT01M34.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen S.FOUL (P2.T2) (J.Orr),Foul,Shooting,1,346
+22200588,479,PT01M34.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,88.0,77.0,165,h,Porter Jr. Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,347
+22200588,480,PT01M34.00S,3,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,h,SUB: Jordan FOR Jokic,Substitution,,0,348
+22200588,482,PT01M34.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,SUB: Mobley FOR Allen,Substitution,,0,349
+22200588,484,PT01M34.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,MISS Porter Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,350
+22200588,485,PT01M32.00S,3,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,Love REBOUND (Off:3 Def:3),Rebound,Unknown,1,351
+22200588,486,PT01M22.00S,3,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,h,Brown P.FOUL (P2.PN) (A.Moyer-Gleich),Foul,Personal,1,352
+22200588,488,PT01M22.00S,3,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,88.0,78.0,166,v,LeVert Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,353
+22200588,489,PT01M22.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,SUB: Murray FOR Porter Jr.,Substitution,,0,354
+22200588,491,PT01M22.00S,3,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,88.0,79.0,167,v,LeVert Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,355
+22200588,492,PT01M05.00S,3,1610612743,DEN,1630538,Hyland,B. Hyland,-70,241,25,Made,1,91.0,79.0,170,h,Hyland 25' 3PT Jump Shot (4 PTS) (Jordan 1 AST),Made Shot,Jump Shot,1,356
+22200588,494,PT00M45.10S,3,1610612739,CLE,1630596,Mobley,E. Mobley,-20,38,4,Missed,1,,,0,v,MISS Mobley 4' Layup,Missed Shot,Layup Shot,1,357
+22200588,494,PT00M45.10S,3,1610612743,DEN,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jordan BLOCK (1 BLK),,,1,358
+22200588,496,PT00M44.80S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley REBOUND (Off:2 Def:5),Rebound,Unknown,1,359
+22200588,497,PT00M44.80S,3,1610612743,DEN,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jordan S.FOUL (P1.PN) (J.Orr),Foul,Shooting,1,360
+22200588,499,PT00M44.80S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,MISS Mobley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,361
+22200588,500,PT00M44.80S,3,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,362
+22200588,501,PT00M44.80S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,MISS Mobley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,363
+22200588,502,PT00M42.60S,3,1610612743,DEN,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jordan REBOUND (Off:0 Def:1),Rebound,Unknown,1,364
+22200588,503,PT00M31.10S,3,1610612743,DEN,1630538,Hyland,B. Hyland,17,250,25,Made,1,94.0,79.0,173,h,Hyland 25' 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,365
+22200588,504,PT00M19.70S,3,1610612739,CLE,1627747,LeVert,C. LeVert,33,5,3,Missed,1,,,0,v,MISS LeVert 3' Driving Layup,Missed Shot,Driving Layup Shot,1,366
+22200588,505,PT00M18.20S,3,1610612743,DEN,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jordan REBOUND (Off:0 Def:2),Rebound,Unknown,1,367
+22200588,506,PT00M16.10S,3,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,h,Brown Lost Ball Turnover (P1.T12),Turnover,Lost Ball,1,368
+22200588,506,PT00M16.10S,3,1610612739,CLE,1626224,Osman,C. Osman,0,0,0,,0,,,0,v,Osman STEAL (2 STL),,,1,369
+22200588,508,PT00M03.60S,3,1610612739,CLE,203526,Neto,R. Neto,-238,50,24,Made,1,94.0,82.0,176,v,Neto 24' 3PT Jump Shot (6 PTS) (LeVert 3 AST),Made Shot,Jump Shot,1,370
+22200588,510,PT00M00.20S,3,1610612743,DEN,1628971,Brown,B. Brown,9,486,49,Missed,1,,,0,h,MISS Brown 49' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,371
+22200588,511,PT00M00.10S,3,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Unknown,1,372
+22200588,512,PT00M00.00S,3,0,,0,,,0,0,0,,0,94.0,82.0,176,,End of 3rd Period (10:49 PM EST),period,end,1,373
+22200588,517,PT12M00.00S,4,0,,0,,,0,0,0,,0,94.0,82.0,176,,Start of 4th Period (10:52 PM EST),period,start,0,374
+22200588,518,PT11M41.00S,4,1610612739,CLE,1630205,Stevens,L. Stevens,59,244,25,Missed,1,,,0,v,MISS Stevens 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,375
+22200588,519,PT11M38.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray REBOUND (Off:2 Def:1),Rebound,Unknown,1,376
+22200588,520,PT11M30.00S,4,1610612743,DEN,1627750,Murray,J. Murray,-74,98,12,Made,1,96.0,82.0,178,h,Murray 12' Turnaround Fadeaway (17 PTS),Made Shot,Turnaround Fadeaway shot,1,377
+22200588,521,PT11M22.00S,4,1610612743,DEN,1628427,Cancar,V. Cancar,0,0,0,,0,,,0,h,Cancar S.FOUL (P3.T1) (A.Moyer-Gleich),Foul,Shooting,1,378
+22200588,523,PT11M22.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,MISS Mobley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,379
+22200588,524,PT11M22.00S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,380
+22200588,525,PT11M22.00S,4,1610612739,CLE,1626224,Osman,C. Osman,0,0,0,,0,,,0,v,SUB: Neto FOR Osman,Substitution,,0,381
+22200588,528,PT11M22.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,MISS Mobley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,382
+22200588,529,PT11M20.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray REBOUND (Off:2 Def:2),Rebound,Unknown,1,383
+22200588,530,PT10M57.00S,4,1610612743,DEN,1630538,Hyland,B. Hyland,38,27,5,Missed,1,,,0,h,MISS Hyland 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,384
+22200588,531,PT10M57.00S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Unknown,1,385
+22200588,532,PT10M57.00S,4,1610612743,DEN,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jordan L.B.FOUL (P2.T2) (A.Moyer-Gleich),Foul,Loose Ball,1,386
+22200588,534,PT10M44.00S,4,1610612739,CLE,203526,Neto,R. Neto,124,221,25,Missed,1,,,0,v,MISS Neto 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,387
+22200588,535,PT10M41.00S,4,1610612739,CLE,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,Stevens REBOUND (Off:1 Def:0),Rebound,Unknown,1,388
+22200588,536,PT10M41.00S,4,1610612743,DEN,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jordan FLAGRANT.FOUL.TYPE1 (P3.T3) (Z.Zarba),Foul,Flagrant Type 1,1,389
+22200588,538,PT10M41.00S,4,0,,536,,,0,0,0,,0,96.0,82.0,178,,Instant Replay4th Period (11:04 PM EST),Instant Replay,Overturn Ruling,0,390
+22200588,539,PT10M41.00S,4,1610612739,CLE,1630205,Stevens,L. Stevens,0,0,0,,0,96.0,83.0,179,v,Stevens Free Throw Flagrant 1 of 2 (5 PTS),Free Throw,Free Throw Flagrant 1 of 2,1,391
+22200588,540,PT10M41.00S,4,1610612739,CLE,1630205,Stevens,L. Stevens,0,0,0,,0,96.0,84.0,180,v,Stevens Free Throw Flagrant 2 of 2 (6 PTS),Free Throw,Free Throw Flagrant 2 of 2,1,392
+22200588,541,PT10M36.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,-2,16,2,Made,1,96.0,86.0,182,v,Mobley 2' Alley Oop Dunk (12 PTS) (Garland 7 AST),Made Shot,Alley Oop Dunk Shot,1,393
+22200588,543,PT10M13.00S,4,1610612743,DEN,1630538,Hyland,B. Hyland,16,1,2,Made,1,98.0,86.0,184,h,Hyland 2' Driving Finger Roll Layup (9 PTS),Made Shot,Driving Finger Roll Layup Shot,1,394
+22200588,544,PT09M58.00S,4,1610612739,CLE,1629636,Garland,D. Garland,38,23,4,Made,1,98.0,88.0,186,v,Garland 4' Driving Floating Bank Jump Shot (13 PTS) (Mobley 4 AST),Made Shot,Driving Floating Bank Jump Shot,1,395
+22200588,546,PT09M32.00S,4,1610612743,DEN,1627750,Murray,J. Murray,150,264,30,Missed,1,,,0,h,MISS Murray 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,396
+22200588,547,PT09M31.00S,4,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Rebound,Rebound,Unknown,1,397
+22200588,548,PT09M31.00S,4,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,1,398
+22200588,549,PT09M16.00S,4,1610612743,DEN,1628427,Cancar,V. Cancar,0,0,0,,0,,,0,h,Cancar P.FOUL (P4.T4) (A.Moyer-Gleich),Foul,Personal,1,399
+22200588,551,PT09M16.00S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,400
+22200588,553,PT09M01.00S,4,1610612739,CLE,1630205,Stevens,L. Stevens,-25,20,3,Missed,1,,,0,v,MISS Stevens 3' Driving Layup,Missed Shot,Driving Layup Shot,1,401
+22200588,553,PT09M01.00S,4,1610612743,DEN,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,Jordan BLOCK (2 BLK),,,1,402
+22200588,555,PT08M59.00S,4,1610612743,DEN,1630538,Hyland,B. Hyland,0,0,0,,0,,,0,h,Hyland REBOUND (Off:0 Def:2),Rebound,Unknown,1,403
+22200588,556,PT08M57.00S,4,1610612743,DEN,1630538,Hyland,B. Hyland,26,8,3,Made,1,100.0,88.0,188,h,Hyland 3' Running Finger Roll Layup (11 PTS),Made Shot,Running Finger Roll Layup Shot,1,404
+22200588,557,PT08M48.00S,4,1610612739,CLE,1629636,Garland,D. Garland,-31,11,3,Made,1,100.0,90.0,190,v,Garland 3' Driving Finger Roll Layup (15 PTS) (Neto 4 AST),Made Shot,Driving Finger Roll Layup Shot,1,405
+22200588,559,PT08M48.00S,4,1610612743,DEN,1628427,Cancar,V. Cancar,0,0,0,,0,,,0,h,Cancar S.FOUL (P5.PN) (Z.Zarba),Foul,Shooting,1,406
+22200588,561,PT08M48.00S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,100.0,91.0,191,v,Garland Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,0,407
+22200588,562,PT08M30.00S,4,1610612743,DEN,201599,Jordan,D. Jordan,-1,8,1,Made,1,102.0,91.0,193,h,Jordan 1' Alley Oop Dunk (2 PTS) (Hyland 2 AST),Made Shot,Alley Oop Dunk Shot,1,408
+22200588,564,PT08M17.00S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,Garland Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,409
+22200588,564,PT08M17.00S,4,1610612743,DEN,1628427,Cancar,V. Cancar,0,0,0,,0,,,0,h,Cancar STEAL (1 STL),,,1,410
+22200588,566,PT08M02.00S,4,1610612743,DEN,1630538,Hyland,B. Hyland,23,5,2,Made,1,104.0,91.0,195,h,Hyland 2' Driving Finger Roll Layup (13 PTS) (Cancar 3 AST),Made Shot,Driving Finger Roll Layup Shot,1,411
+22200588,568,PT07M50.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray P.FOUL (P3.PN) (A.Moyer-Gleich),Foul,Personal,1,412
+22200588,570,PT07M50.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,Murray T.FOUL (P3.PN) (J.Orr),Foul,Technical,1,413
+22200588,571,PT07M50.00S,4,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,104.0,92.0,196,v,Love Free Throw Technical (8 PTS),Free Throw,Free Throw Technical,1,414
+22200588,572,PT07M50.00S,4,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,104.0,93.0,197,v,Love Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,415
+22200588,573,PT07M50.00S,4,1610612739,CLE,1630205,Stevens,L. Stevens,0,0,0,,0,,,0,v,SUB: Allen FOR Stevens,Substitution,,0,416
+22200588,575,PT07M50.00S,4,1610612743,DEN,1628427,Cancar,V. Cancar,0,0,0,,0,,,0,h,SUB: Gordon FOR Cancar,Substitution,,0,417
+22200588,577,PT07M50.00S,4,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,104.0,94.0,198,v,Love Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,418
+22200588,578,PT07M38.00S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,Garland P.FOUL (P3.T1) (Z.Zarba),Foul,Personal,1,419
+22200588,580,PT07M38.00S,4,1610612743,DEN,201599,Jordan,D. Jordan,0,0,0,,0,,,0,h,SUB: Jokic FOR Jordan,Substitution,,0,420
+22200588,581,PT07M38.00S,4,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,,,0,v,SUB: LeVert FOR Love,Substitution,,0,421
+22200588,584,PT07M38.00S,4,0,,578,,,0,0,0,,0,104.0,94.0,198,,Instant Replay4th Period (11:15 PM EST),Instant Replay,Overturn Ruling,0,422
+22200588,585,PT07M38.00S,4,1610612743,DEN,1630538,Hyland,B. Hyland,0,0,0,,0,,,0,h,Hyland T.FOUL (P0.PN) (Z.Zarba),Foul,Technical,1,423
+22200588,586,PT07M38.00S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,104.0,95.0,199,v,Garland Free Throw Technical (17 PTS),Free Throw,Free Throw Technical,1,424
+22200588,587,PT07M38.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,v,LeVert AWAY.FROM.PLAY.FOUL (P3.T2) (J.Orr),Foul,Away From Play,1,425
+22200588,589,PT07M38.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,105.0,95.0,200,h,Murray Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,1,426
+22200588,590,PT07M34.00S,4,1610612743,DEN,1628971,Brown,B. Brown,-4,6,1,Made,1,107.0,95.0,202,h,Brown 1' Cutting Dunk Shot (10 PTS) (Jokic 9 AST),Made Shot,Cutting Dunk Shot,1,427
+22200588,592,PT07M20.00S,4,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,h,Jokic Violation:Kicked Ball (A.Moyer-Gleich),Violation,Kicked Ball,0,428
+22200588,593,PT07M20.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,SUB: Caldwell-Pope FOR Murray,Substitution,,0,429
+22200588,595,PT07M11.00S,4,1610612739,CLE,1629636,Garland,D. Garland,-1,95,10,Made,1,107.0,97.0,204,v,Garland 10' Floating Jump Shot (19 PTS),Made Shot,Floating Jump shot,1,430
+22200588,596,PT06M43.00S,4,1610612743,DEN,1628971,Brown,B. Brown,-49,80,9,Missed,1,,,0,h,MISS Brown 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,431
+22200588,597,PT06M41.00S,4,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:1 Def:3),Rebound,Unknown,1,432
+22200588,599,PT06M41.00S,4,1610612743,DEN,1630538,Hyland,B. Hyland,0,0,0,,0,,,0,h,SUB: Porter Jr. FOR Hyland,Substitution,,0,433
+22200588,601,PT06M36.00S,4,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,2,125,13,Made,1,109.0,97.0,206,h,Porter Jr. 13' Fadeaway Jumper (14 PTS) (Gordon 1 AST),Made Shot,Fadeaway Jump Shot,1,434
+22200588,604,PT06M10.00S,4,1610612739,CLE,1629636,Garland,D. Garland,-11,279,28,Missed,1,,,0,v,MISS Garland 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,435
+22200588,605,PT06M05.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,v,LeVert REBOUND (Off:1 Def:3),Rebound,Unknown,1,436
+22200588,606,PT06M03.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,v,LeVert Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,437
+22200588,606,PT06M03.00S,4,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,h,Jokic STEAL (2 STL),,,1,438
+22200588,608,PT05M59.00S,4,1610612739,CLE,203526,Neto,R. Neto,0,0,0,,0,,,0,v,Neto S.FOUL (P1.T3) (A.Moyer-Gleich),Foul,Shooting,1,439
+22200588,610,PT05M59.00S,4,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,110.0,97.0,207,h,Caldwell-Pope Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,440
+22200588,611,PT05M59.00S,4,1610612739,CLE,203526,Neto,R. Neto,0,0,0,,0,,,0,v,SUB: Osman FOR Neto,Substitution,,0,441
+22200588,613,PT05M59.00S,4,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,111.0,97.0,208,h,Caldwell-Pope Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,442
+22200588,614,PT05M40.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,31,22,4,Missed,1,,,0,v,MISS Mobley 4' Turnaround Bank Hook Shot,Missed Shot,Turnaround Bank Hook Shot,1,443
+22200588,615,PT05M39.00S,4,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,h,Jokic REBOUND (Off:4 Def:9),Rebound,Unknown,1,444
+22200588,616,PT05M35.00S,4,1610612743,DEN,203999,Jokic,N. Jokic,-71,240,25,Missed,1,,,0,h,MISS Jokic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,445
+22200588,617,PT05M32.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley REBOUND (Off:2 Def:6),Rebound,Unknown,1,446
+22200588,618,PT05M19.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,12,96,10,Missed,1,,,0,v,MISS LeVert 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,447
+22200588,619,PT05M14.00S,4,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,h,Jokic REBOUND (Off:4 Def:10),Rebound,Unknown,1,448
+22200588,620,PT05M04.00S,4,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,-234,30,24,Missed,1,,,0,h,MISS Caldwell-Pope 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,449
+22200588,621,PT05M01.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley REBOUND (Off:2 Def:7),Rebound,Unknown,1,450
+22200588,622,PT04M55.00S,4,1610612739,CLE,1629636,Garland,D. Garland,-27,18,3,Missed,1,,,0,v,MISS Garland 3' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,451
+22200588,624,PT04M52.00S,4,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:1 Def:4),Rebound,Unknown,1,452
+22200588,625,PT04M43.00S,4,1610612743,DEN,203999,Jokic,N. Jokic,13,22,3,Made,1,113.0,97.0,210,h,Jokic 3' Driving Layup (28 PTS) (Brown 6 AST),Made Shot,Driving Layup Shot,1,453
+22200588,627,PT04M17.00S,4,1610612739,CLE,1629636,Garland,D. Garland,32,1,3,Made,1,113.0,99.0,212,v,Garland 3' Driving Finger Roll Layup (21 PTS),Made Shot,Driving Finger Roll Layup Shot,1,454
+22200588,628,PT03M49.00S,4,1610612743,DEN,1628971,Brown,B. Brown,109,230,25,Made,1,116.0,99.0,215,h,Brown 25' 3PT Jump Shot (13 PTS) (Caldwell-Pope 2 AST),Made Shot,Jump Shot,1,455
+22200588,630,PT03M34.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,65,257,27,Made,1,116.0,102.0,218,v,LeVert 27' 3PT Step Back Jump Shot (22 PTS) (Garland 8 AST),Made Shot,Step Back Jump shot,1,456
+22200588,632,PT03M06.00S,4,1610612743,DEN,1628971,Brown,B. Brown,11,10,1,Missed,1,,,0,h,MISS Brown 1' Driving Dunk,Missed Shot,Driving Dunk Shot,1,457
+22200588,632,PT03M06.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley BLOCK (3 BLK),,,1,458
+22200588,633,PT03M04.00S,4,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,Porter Jr. REBOUND (Off:3 Def:5),Rebound,Unknown,1,459
+22200588,634,PT03M04.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,Mobley S.FOUL (P4.T4) (A.Moyer-Gleich),Foul,Shooting,1,460
+22200588,636,PT03M04.00S,4,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,117.0,102.0,219,h,Porter Jr. Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,461
+22200588,637,PT03M04.00S,4,1610612743,DEN,1628971,Brown,B. Brown,0,0,0,,0,,,0,h,SUB: Murray FOR Brown,Substitution,,0,462
+22200588,638,PT03M04.00S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,,,0,v,SUB: Neto FOR Garland,Substitution,,0,463
+22200588,641,PT03M04.00S,4,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,118.0,102.0,220,h,Porter Jr. Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,464
+22200588,663,PT02M53.00S,4,1610612739,CLE,1628386,Allen,J. Allen,-7,40,4,Missed,1,,,0,v,MISS Allen 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,465
+22200588,664,PT02M52.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:7 Def:1),Rebound,Unknown,1,466
+22200588,645,PT02M52.00S,4,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,h,Jokic S.FOUL (P4.PN) (A.Moyer-Gleich),Foul,Shooting,1,467
+22200588,647,PT02M52.00S,4,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,468
+22200588,648,PT02M52.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,MISS Allen Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,469
+22200588,649,PT02M52.00S,4,0,,1610612739,,,0,0,0,,0,,,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,470
+22200588,650,PT02M52.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,118.0,103.0,221,v,Allen Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,471
+22200588,651,PT02M35.00S,4,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,48,9,5,Missed,1,,,0,h,MISS Porter Jr. 5' Driving Layup,Missed Shot,Driving Layup Shot,1,472
+22200588,652,PT02M32.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:7 Def:2),Rebound,Unknown,1,473
+22200588,653,PT02M26.00S,4,1610612739,CLE,1626224,Osman,C. Osman,-195,163,25,Made,1,118.0,106.0,224,v,Osman 25' 3PT Jump Shot (15 PTS),Made Shot,Jump Shot,1,474
+22200588,655,PT02M02.00S,4,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,-233,1,0,Made,1,121.0,106.0,227,h,Caldwell-Pope 3PT Jump Shot (14 PTS) (Jokic 10 AST),Made Shot,Jump Shot,1,475
+22200588,657,PT01M37.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,-17,64,7,Missed,1,,,0,v,MISS Mobley 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,476
+22200588,658,PT01M36.00S,4,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,h,Jokic REBOUND (Off:4 Def:11),Rebound,Unknown,1,477
+22200588,659,PT01M23.00S,4,1610612743,DEN,1627750,Murray,J. Murray,-51,253,26,Missed,1,,,0,h,MISS Murray 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,478
+22200588,660,PT01M19.00S,4,1610612739,CLE,203526,Neto,R. Neto,0,0,0,,0,,,0,v,Neto REBOUND (Off:0 Def:1),Rebound,Unknown,1,479
+22200588,661,PT01M18.00S,4,1610612739,CLE,1628386,Allen,J. Allen,-4,29,3,Made,1,121.0,108.0,229,v,Allen 3' Running Dunk (13 PTS) (Neto 5 AST),Made Shot,Running Dunk Shot,1,480
+22200588,665,PT01M18.00S,4,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,481
+22200588,666,PT01M18.00S,4,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,,,0,h,SUB: Smith FOR Porter Jr.,Substitution,,0,482
+22200588,667,PT01M18.00S,4,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,SUB: Braun FOR Caldwell-Pope,Substitution,,0,483
+22200588,668,PT01M18.00S,4,1610612743,DEN,203999,Jokic,N. Jokic,0,0,0,,0,,,0,h,SUB: Nnaji FOR Jokic,Substitution,,0,484
+22200588,669,PT01M18.00S,4,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,,,0,h,SUB: Reed FOR Gordon,Substitution,,0,485
+22200588,670,PT01M18.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,h,SUB: Cancar FOR Murray,Substitution,,0,486
+22200588,671,PT01M18.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,,,0,v,SUB: Stevens FOR LeVert,Substitution,,0,487
+22200588,672,PT01M18.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,,,0,v,SUB: Lopez FOR Mobley,Substitution,,0,488
+22200588,673,PT01M18.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,,,0,v,SUB: Okoro FOR Allen,Substitution,,0,489
+22200588,682,PT01M01.00S,4,1610612743,DEN,1630192,Nnaji,Z. Nnaji,2,250,25,Missed,1,,,0,h,MISS Nnaji 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,490
+22200588,683,PT00M58.60S,4,1610612739,CLE,1626224,Osman,C. Osman,0,0,0,,0,,,0,v,Osman REBOUND (Off:0 Def:1),Rebound,Unknown,1,491
+22200588,684,PT00M39.00S,4,1610612739,CLE,1630205,Stevens,L. Stevens,26,168,17,Missed,1,,,0,v,MISS Stevens 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,492
+22200588,685,PT00M36.10S,4,1610612743,DEN,1628432,Reed,D. Reed,0,0,0,,0,,,0,h,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,1,493
+22200588,686,PT00M13.20S,4,0,,1610612743,,,0,0,0,,0,,,0,h,NUGGETS Turnover: Shot Clock (T#14),Turnover,Shot Clock Turnover,1,494
+22200588,687,PT00M00.00S,4,0,,0,,,0,0,0,,0,121.0,108.0,229,,End of 4th Period (11:35 PM EST),period,end,1,495

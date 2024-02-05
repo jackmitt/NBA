@@ -1,0 +1,510 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+21601000,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (7:41 PM EST),period,start,0,1
+21601000,1,PT12M00.00S,1,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0.0,0.0,0,h,Jump Ball Lopez vs. Adams: Tip to Adams,Jump Ball,,1,2
+21601000,2,PT11M38.00S,1,1610612760,OKC,201959,Gibson,T. Gibson,158,51,17,Missed,1,0.0,0.0,0,v,MISS Gibson 17' Jump Shot,Missed Shot,Jump Shot,1,3
+21601000,3,PT11M37.00S,1,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,h,NETS Rebound,Rebound,Unknown,0,4
+21601000,4,PT11M17.00S,1,1610612751,BKN,201572,Lopez,B. Lopez,-138,218,26,Made,1,3.0,0.0,3,h,Lopez 26' 3PT Jump Shot (3 PTS) (Lin 1 AST),Made Shot,Jump Shot,1,5
+21601000,5,PT11M04.00S,1,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0.0,0.0,0,h,Lopez P.FOUL (P1.T1) (D.Collins),Foul,Personal,1,6
+21601000,6,PT10M57.00S,1,1610612760,OKC,203500,Adams,S. Adams,0,1,0,Made,1,3.0,2.0,5,v,Adams  Cutting Dunk Shot (2 PTS) (Westbrook 1 AST),Made Shot,Cutting Dunk Shot,1,7
+21601000,7,PT10M36.00S,1,1610612751,BKN,202391,Lin,J. Lin,4,46,5,Made,1,5.0,2.0,7,h,Lin 5' Driving Layup (2 PTS) (LeVert 1 AST),Made Shot,Driving Layup Shot,1,8
+21601000,8,PT10M28.00S,1,1610612751,BKN,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,Lin S.FOUL (P1.T2) (S.Twardoski),Foul,Shooting,1,9
+21601000,9,PT10M28.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,MISS Westbrook Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,10
+21601000,10,PT10M28.00S,1,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,v,Thunder Rebound,Rebound,Normal Rebound,0,11
+21601000,11,PT10M28.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,MISS Westbrook Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,0,12
+21601000,12,PT10M28.00S,1,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,v,Thunder Rebound,Rebound,Normal Rebound,0,13
+21601000,13,PT10M28.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,5.0,3.0,8,v,Westbrook Free Throw 3 of 3 (1 PTS),Free Throw,Free Throw 3 of 3,0,14
+21601000,17,PT10M13.00S,1,1610612751,BKN,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,Lin Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,15
+21601000,17,PT10M13.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook STEAL (1 STL),,,1,16
+21601000,18,PT10M01.00S,1,1610612760,OKC,201959,Gibson,T. Gibson,38,21,4,Made,1,5.0,5.0,10,v,Gibson 4' Jump Shot (2 PTS) (Westbrook 2 AST),Made Shot,Jump Shot,1,17
+21601000,19,PT10M01.00S,1,1610612751,BKN,1626178,Hollis-Jefferson,R. Hollis-Jefferson,0,0,0,,0,0.0,0.0,0,h,Hollis-Jefferson S.FOUL (P1.T3) (D.Collins),Foul,Shooting,1,18
+21601000,20,PT10M01.00S,1,1610612760,OKC,201959,Gibson,T. Gibson,0,0,0,,0,5.0,6.0,11,v,Gibson Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,19
+21601000,23,PT09M47.00S,1,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,0.0,0.0,0,v,Roberson P.FOUL (P1.T1) (D.Collins),Foul,Personal,1,20
+21601000,24,PT09M35.00S,1,1610612751,BKN,200751,Foye,R. Foye,76,36,8,Missed,1,0.0,0.0,0,h,MISS Foye 8' Driving Bank Shot,Missed Shot,Driving Bank shot,1,21
+21601000,25,PT09M34.00S,1,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0.0,0.0,0,v,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,1,22
+21601000,26,PT09M30.00S,1,1610612760,OKC,201959,Gibson,T. Gibson,0,1,0,Made,1,5.0,8.0,13,v,Gibson  Dunk (5 PTS) (Westbrook 3 AST),Made Shot,Dunk Shot,1,23
+21601000,27,PT09M14.00S,1,1610612751,BKN,202391,Lin,J. Lin,-89,242,26,Missed,1,0.0,0.0,0,h,MISS Lin 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,24
+21601000,28,PT09M12.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook REBOUND (Off:0 Def:1),Rebound,Unknown,1,25
+21601000,29,PT09M07.00S,1,1610612760,OKC,201959,Gibson,T. Gibson,19,11,2,Made,1,5.0,10.0,15,v,Gibson 2' Alley Oop Dunk (7 PTS) (Westbrook 4 AST),Made Shot,Alley Oop Dunk Shot,1,26
+21601000,30,PT09M06.00S,1,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,h,NETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,27
+21601000,33,PT08M44.00S,1,1610612751,BKN,201572,Lopez,B. Lopez,71,3,7,Missed,1,0.0,0.0,0,h,MISS Lopez 7' Hook Shot,Missed Shot,Hook Shot,1,28
+21601000,34,PT08M43.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook REBOUND (Off:0 Def:2),Rebound,Unknown,1,29
+21601000,35,PT08M35.00S,1,1610612760,OKC,203460,Roberson,A. Roberson,0,1,0,Made,1,5.0,12.0,17,v,Roberson  Dunk (2 PTS) (Westbrook 5 AST),Made Shot,Dunk Shot,1,30
+21601000,36,PT08M32.00S,1,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,0.0,0.0,0,v,Roberson Personal Block Foul (P2.T2) (S.Wright),Foul,Personal Block,0,31
+21601000,37,PT08M18.00S,1,1610612751,BKN,202391,Lin,J. Lin,17,21,3,Made,1,7.0,12.0,19,h,Lin 3' Driving Layup (4 PTS) (Foye 1 AST),Made Shot,Driving Layup Shot,1,32
+21601000,38,PT08M03.00S,1,1610612760,OKC,203506,Oladipo,V. Oladipo,82,144,17,Made,1,7.0,14.0,21,v,Oladipo 17' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,33
+21601000,39,PT07M40.00S,1,1610612751,BKN,1627747,LeVert,C. LeVert,9,72,7,Made,1,9.0,14.0,23,h,LeVert 7' Pullup Jump Shot (2 PTS) (Foye 2 AST),Made Shot,Pullup Jump shot,1,34
+21601000,40,PT07M22.00S,1,1610612760,OKC,203506,Oladipo,V. Oladipo,0,0,0,,0,0.0,0.0,0,v,Oladipo Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,35
+21601000,40,PT07M22.00S,1,1610612751,BKN,1627747,LeVert,C. LeVert,0,0,0,,0,0.0,0.0,0,h,LeVert STEAL (1 STL),,,1,36
+21601000,41,PT07M16.00S,1,1610612751,BKN,201572,Lopez,B. Lopez,0,1,0,Made,1,11.0,14.0,25,h,Lopez  Dunk (5 PTS) (Lin 2 AST),Made Shot,Dunk Shot,1,37
+21601000,42,PT07M10.00S,1,1610612760,OKC,203500,Adams,S. Adams,0,1,0,Made,1,11.0,16.0,27,v,Adams  Dunk (4 PTS) (Westbrook 6 AST),Made Shot,Dunk Shot,1,38
+21601000,43,PT06M54.00S,1,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0.0,0.0,0,h,Lopez Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,39
+21601000,43,PT06M54.00S,1,1610612760,OKC,201959,Gibson,T. Gibson,0,0,0,,0,0.0,0.0,0,v,Gibson STEAL (1 STL),,,1,40
+21601000,44,PT06M50.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,-7,3,1,Missed,1,0.0,0.0,0,v,MISS Westbrook 1' Layup,Missed Shot,Layup Shot,1,41
+21601000,45,PT06M50.00S,1,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,h,NETS Rebound,Rebound,Unknown,0,42
+21601000,46,PT06M50.00S,1,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,0.0,0.0,0,v,Roberson P.FOUL (P3.T3) (D.Collins),Foul,Personal,1,43
+21601000,47,PT06M49.00S,1,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,0.0,0.0,0,v,SUB: Abrines FOR Roberson,Substitution,,0,44
+21601000,48,PT06M32.00S,1,1610612751,BKN,202391,Lin,J. Lin,-14,11,2,Made,1,13.0,16.0,29,h,Lin 2' Driving Reverse Layup (6 PTS),Made Shot,Driving Reverse Layup Shot,1,45
+21601000,49,PT06M16.00S,1,1610612760,OKC,201959,Gibson,T. Gibson,66,7,7,Made,1,13.0,18.0,31,v,Gibson 7' Turnaround Hook Shot (9 PTS),Made Shot,Turnaround Hook Shot,1,46
+21601000,50,PT05M59.00S,1,1610612751,BKN,201572,Lopez,B. Lopez,-73,87,11,Made,1,15.0,18.0,33,h,Lopez 11' Floating Jump Shot (7 PTS) (Foye 3 AST),Made Shot,Floating Jump shot,1,47
+21601000,51,PT05M40.00S,1,1610612760,OKC,203518,Abrines,A. Abrines,192,174,26,Missed,1,0.0,0.0,0,v,MISS Abrines 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,48
+21601000,52,PT05M39.00S,1,1610612751,BKN,1627747,LeVert,C. LeVert,0,0,0,,0,0.0,0.0,0,h,LeVert REBOUND (Off:0 Def:1),Rebound,Unknown,1,49
+21601000,54,PT05M36.00S,1,1610612760,OKC,203506,Oladipo,V. Oladipo,0,0,0,,0,0.0,0.0,0,v,Oladipo S.FOUL (P1.T4) (S.Twardoski),Foul,Shooting,1,50
+21601000,55,PT05M36.00S,1,1610612751,BKN,1627747,LeVert,C. LeVert,0,0,0,,0,16.0,18.0,34,h,LeVert Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,51
+21601000,57,PT05M36.00S,1,1610612751,BKN,200751,Foye,R. Foye,0,0,0,,0,0.0,0.0,0,h,SUB: Whitehead FOR Foye,Substitution,,0,52
+21601000,58,PT05M36.00S,1,1610612760,OKC,203506,Oladipo,V. Oladipo,0,0,0,,0,0.0,0.0,0,v,SUB: McDermott FOR Oladipo,Substitution,,0,53
+21601000,60,PT05M36.00S,1,1610612751,BKN,1627747,LeVert,C. LeVert,0,0,0,,0,17.0,18.0,35,h,LeVert Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,54
+21601000,63,PT05M24.00S,1,1610612760,OKC,203500,Adams,S. Adams,-2,14,1,Missed,1,0.0,0.0,0,v,MISS Adams 1' Layup,Missed Shot,Layup Shot,1,55
+21601000,63,PT05M24.00S,1,1610612751,BKN,1626178,Hollis-Jefferson,R. Hollis-Jefferson,0,0,0,,0,0.0,0.0,0,h,Hollis-Jefferson BLOCK (1 BLK),,,1,56
+21601000,594,PT05M24.00S,1,1610612751,BKN,1627785,Whitehead,I. Whitehead,0,0,0,,0,0.0,0.0,0,h,Whitehead REBOUND (Off:0 Def:1),Rebound,Unknown,0,57
+21601000,64,PT05M17.00S,1,1610612751,BKN,202391,Lin,J. Lin,2,77,8,Missed,1,0.0,0.0,0,h,MISS Lin 8' Jump Shot,Missed Shot,Jump Shot,1,58
+21601000,65,PT05M15.00S,1,1610612760,OKC,201959,Gibson,T. Gibson,0,0,0,,0,0.0,0.0,0,v,Gibson REBOUND (Off:0 Def:1),Rebound,Unknown,1,59
+21601000,67,PT05M07.00S,1,1610612760,OKC,201959,Gibson,T. Gibson,64,110,13,Made,1,17.0,20.0,37,v,Gibson 13' Jump Shot (11 PTS) (Westbrook 7 AST),Made Shot,Jump Shot,1,60
+21601000,69,PT04M53.00S,1,1610612751,BKN,1627747,LeVert,C. LeVert,32,11,3,Made,1,19.0,20.0,39,h,LeVert 3' Layup (6 PTS),Made Shot,Layup Shot,1,61
+21601000,70,PT04M45.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,161,213,27,Made,1,19.0,23.0,42,v,Westbrook 27' 3PT Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,62
+21601000,72,PT04M27.00S,1,1610612751,BKN,1627747,LeVert,C. LeVert,228,16,0,Made,1,22.0,23.0,45,h,LeVert  3PT Step Back Jump Shot (9 PTS) (Hollis-Jefferson 1 AST),Made Shot,Step Back Jump shot,1,63
+21601000,74,PT04M09.00S,1,1610612760,OKC,201959,Gibson,T. Gibson,0,200,20,Missed,1,0.0,0.0,0,v,MISS Gibson 20' Jump Shot,Missed Shot,Jump Shot,1,64
+21601000,75,PT04M09.00S,1,1610612751,BKN,1627747,LeVert,C. LeVert,0,0,0,,0,0.0,0.0,0,h,LeVert REBOUND (Off:0 Def:2),Rebound,Unknown,1,65
+21601000,77,PT03M58.00S,1,1610612751,BKN,1627747,LeVert,C. LeVert,0,0,0,,0,0.0,0.0,0,h,LeVert Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,66
+21601000,77,PT03M58.00S,1,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0.0,0.0,0,v,Adams STEAL (1 STL),,,1,67
+21601000,78,PT03M50.00S,1,1610612760,OKC,203518,Abrines,A. Abrines,20,16,3,Made,1,22.0,25.0,47,v,Abrines 3' Layup (2 PTS) (Westbrook 8 AST),Made Shot,Layup Shot,1,68
+21601000,79,PT03M39.00S,1,1610612751,BKN,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,Lin Lost Ball Turnover (P2.T4),Turnover,Lost Ball,1,69
+21601000,79,PT03M39.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook STEAL (2 STL),,,1,70
+21601000,80,PT03M36.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,1,0,Made,1,22.0,27.0,49,v,Westbrook  Dunk (6 PTS),Made Shot,Dunk Shot,1,71
+21601000,81,PT03M36.00S,1,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,h,NETS Timeout: Short (Full 1 Short 1),Timeout,Short,0,72
+21601000,82,PT03M36.00S,1,1610612751,BKN,1627747,LeVert,C. LeVert,0,0,0,,0,0.0,0.0,0,h,SUB: Kilpatrick FOR LeVert,Substitution,,0,73
+21601000,83,PT03M36.00S,1,1610612751,BKN,1626178,Hollis-Jefferson,R. Hollis-Jefferson,0,0,0,,0,0.0,0.0,0,h,SUB: Dinwiddie FOR Hollis-Jefferson,Substitution,,0,74
+21601000,85,PT03M36.00S,1,1610612751,BKN,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,SUB: Booker FOR Lin,Substitution,,0,75
+21601000,84,PT03M36.00S,1,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0.0,0.0,0,h,SUB: Acy FOR Lopez,Substitution,,0,76
+21601000,86,PT03M35.00S,1,1610612760,OKC,201959,Gibson,T. Gibson,0,0,0,,0,0.0,0.0,0,v,SUB: Kanter FOR Gibson,Substitution,,0,77
+21601000,87,PT03M35.00S,1,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0.0,0.0,0,v,SUB: Sabonis FOR Adams,Substitution,,0,78
+21601000,88,PT03M17.00S,1,1610612751,BKN,202344,Booker,T. Booker,82,252,27,Made,1,25.0,27.0,52,h,Booker 27' 3PT Jump Shot (3 PTS) (Kilpatrick 1 AST),Made Shot,Jump Shot,1,79
+21601000,90,PT02M57.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,-35,26,4,Made,1,25.0,29.0,54,v,Westbrook 4' Jump Shot (8 PTS),Made Shot,Jump Shot,1,80
+21601000,91,PT02M57.00S,1,1610612751,BKN,203112,Acy,Q. Acy,0,0,0,,0,0.0,0.0,0,h,Acy S.FOUL (P1.T4) (S.Twardoski),Foul,Shooting,1,81
+21601000,98,PT02M57.00S,1,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,v,Thunder Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,82
+21601000,95,PT02M57.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,25.0,30.0,55,v,Westbrook Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,83
+21601000,97,PT02M39.00S,1,1610612751,BKN,203930,Kilpatrick,S. Kilpatrick,68,11,7,Made,1,27.0,30.0,57,h,Kilpatrick 7' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,1,84
+21601000,99,PT02M28.00S,1,1610612760,OKC,202683,Freedom,E. Freedom,0,1,0,Missed,1,0.0,0.0,0,v,MISS Kanter  Dunk,Missed Shot,Dunk Shot,1,85
+21601000,99,PT02M28.00S,1,1610612751,BKN,1627785,Whitehead,I. Whitehead,0,0,0,,0,0.0,0.0,0,h,Whitehead BLOCK (1 BLK),,,1,86
+21601000,100,PT02M25.00S,1,1610612751,BKN,203112,Acy,Q. Acy,0,0,0,,0,0.0,0.0,0,h,Acy REBOUND (Off:0 Def:1),Rebound,Unknown,1,87
+21601000,101,PT02M10.00S,1,1610612751,BKN,202344,Booker,T. Booker,-20,90,9,Missed,1,0.0,0.0,0,h,MISS Booker 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,88
+21601000,102,PT02M09.00S,1,1610612760,OKC,1627734,Sabonis,D. Sabonis,0,0,0,,0,0.0,0.0,0,v,Sabonis REBOUND (Off:0 Def:1),Rebound,Unknown,1,89
+21601000,103,PT02M02.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,130,208,25,Missed,1,0.0,0.0,0,v,MISS Westbrook 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,90
+21601000,104,PT02M01.00S,1,1610612751,BKN,202344,Booker,T. Booker,0,0,0,,0,0.0,0.0,0,h,Booker REBOUND (Off:0 Def:1),Rebound,Unknown,1,91
+21601000,105,PT01M55.00S,1,1610612751,BKN,202344,Booker,T. Booker,0,0,0,,0,0.0,0.0,0,h,Booker Traveling Turnover (P1.T5),Turnover,Traveling,1,92
+21601000,106,PT01M55.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,SUB: Christon FOR Westbrook,Substitution,,0,93
+21601000,109,PT01M35.00S,1,1610612760,OKC,203518,Abrines,A. Abrines,55,110,12,Made,1,27.0,32.0,59,v,Abrines 12' Pullup Jump Shot (4 PTS) (Christon 1 AST),Made Shot,Pullup Jump shot,1,94
+21601000,110,PT01M09.00S,1,1610612751,BKN,202344,Booker,T. Booker,45,11,5,Made,1,29.0,32.0,61,h,Booker 5' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,95
+21601000,111,PT00M45.30S,1,1610612760,OKC,203926,McDermott,D. McDermott,-78,26,8,Missed,1,0.0,0.0,0,v,MISS McDermott 8' Jump Shot,Missed Shot,Jump Shot,1,96
+21601000,112,PT00M44.90S,1,1610612751,BKN,1627785,Whitehead,I. Whitehead,0,0,0,,0,0.0,0.0,0,h,Whitehead REBOUND (Off:0 Def:2),Rebound,Unknown,1,97
+21601000,113,PT00M32.50S,1,1610612751,BKN,202344,Booker,T. Booker,0,0,0,,0,0.0,0.0,0,h,Booker Lost Ball Turnover (P2.T6),Turnover,Lost Ball,1,98
+21601000,113,PT00M32.50S,1,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,0.0,0.0,0,v,Kanter STEAL (1 STL),,,1,99
+21601000,115,PT00M23.80S,1,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,v,Thunder Timeout: Short (Reg.1 Short 1),Timeout,Short,0,100
+21601000,117,PT00M21.60S,1,1610612760,OKC,202683,Freedom,E. Freedom,-86,149,17,Missed,1,0.0,0.0,0,v,MISS Kanter 17' Jump Shot,Missed Shot,Jump Shot,1,101
+21601000,118,PT00M18.90S,1,1610612751,BKN,203930,Kilpatrick,S. Kilpatrick,0,0,0,,0,0.0,0.0,0,h,Kilpatrick REBOUND (Off:0 Def:1),Rebound,Unknown,1,102
+21601000,119,PT00M03.80S,1,1610612751,BKN,203930,Kilpatrick,S. Kilpatrick,32,38,5,Missed,1,0.0,0.0,0,h,MISS Kilpatrick 5' Driving Layup,Missed Shot,Driving Layup Shot,1,103
+21601000,119,PT00M03.80S,1,1610612760,OKC,203518,Abrines,A. Abrines,0,0,0,,0,0.0,0.0,0,v,Abrines BLOCK (1 BLK),,,1,104
+21601000,120,PT00M03.80S,1,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,h,NETS Rebound,Rebound,Unknown,0,105
+21601000,121,PT00M02.20S,1,1610612751,BKN,202344,Booker,T. Booker,61,259,27,Made,1,32.0,32.0,64,h,Booker 27' 3PT Jump Shot (8 PTS) (Whitehead 1 AST),Made Shot,Jump Shot,1,106
+21601000,122,PT00M00.00S,1,0,,0,,,0,0,0,,0,32.0,32.0,64,,End of 1st Period (8:07 PM EST),period,end,0,107
+21601000,123,PT12M00.00S,2,0,,0,,,0,0,0,,0,32.0,32.0,64,,Start of 2nd Period (8:09 PM EST),period,start,0,108
+21601000,124,PT11M42.00S,2,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,0.0,0.0,0,v,Kanter Shooting Block Foul (P1.T1) (S.Wright),Foul,Shooting Block,1,109
+21601000,125,PT11M42.00S,2,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,0.0,0.0,0,h,MISS Dinwiddie Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,110
+21601000,126,PT11M42.00S,2,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,h,NETS Rebound,Rebound,Normal Rebound,0,111
+21601000,127,PT11M42.00S,2,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,33.0,32.0,65,h,Dinwiddie Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,112
+21601000,129,PT11M25.00S,2,1610612760,OKC,1627734,Sabonis,D. Sabonis,56,213,22,Made,1,33.0,34.0,67,v,Sabonis 22' Jump Shot (2 PTS) (Abrines 1 AST),Made Shot,Jump Shot,1,113
+21601000,130,PT11M14.00S,2,1610612751,BKN,1627785,Whitehead,I. Whitehead,-29,26,4,Made,1,35.0,34.0,69,h,Whitehead 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,114
+21601000,131,PT10M56.00S,2,1610612751,BKN,203112,Acy,Q. Acy,0,0,0,,0,0.0,0.0,0,h,Acy S.FOUL (P2.T1) (S.Twardoski),Foul,Shooting,1,115
+21601000,132,PT10M56.00S,2,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,35.0,35.0,70,v,Kanter Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,116
+21601000,134,PT10M56.00S,2,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,35.0,36.0,71,v,Kanter Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,117
+21601000,137,PT10M45.00S,2,1610612751,BKN,203930,Kilpatrick,S. Kilpatrick,0,0,0,,0,0.0,0.0,0,h,Kilpatrick Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,118
+21601000,137,PT10M45.00S,2,1610612760,OKC,203518,Abrines,A. Abrines,0,0,0,,0,0.0,0.0,0,v,Abrines STEAL (1 STL),,,1,119
+21601000,138,PT10M41.00S,2,1610612760,OKC,203518,Abrines,A. Abrines,-168,185,25,Missed,1,0.0,0.0,0,v,MISS Abrines 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,120
+21601000,139,PT10M39.00S,2,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,v,Thunder Rebound,Rebound,Unknown,0,121
+21601000,140,PT10M39.00S,2,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,0.0,0.0,0,h,Dinwiddie L.B.FOUL (P1.T2) (S.Wright),Foul,Loose Ball,1,122
+21601000,141,PT10M29.00S,2,1610612760,OKC,1627734,Sabonis,D. Sabonis,-42,46,6,Missed,1,0.0,0.0,0,v,MISS Sabonis 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,123
+21601000,142,PT10M26.00S,2,1610612751,BKN,1627785,Whitehead,I. Whitehead,0,0,0,,0,0.0,0.0,0,h,Whitehead REBOUND (Off:0 Def:3),Rebound,Unknown,1,124
+21601000,143,PT10M20.00S,2,1610612751,BKN,1627785,Whitehead,I. Whitehead,40,46,6,Missed,1,0.0,0.0,0,h,MISS Whitehead 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,125
+21601000,143,PT10M20.00S,2,1610612760,OKC,1627734,Sabonis,D. Sabonis,0,0,0,,0,0.0,0.0,0,v,Sabonis BLOCK (1 BLK),,,1,126
+21601000,144,PT10M17.00S,2,1610612760,OKC,203902,Christon,S. Christon,0,0,0,,0,0.0,0.0,0,v,Christon REBOUND (Off:0 Def:1),Rebound,Unknown,1,127
+21601000,145,PT10M05.00S,2,1610612760,OKC,203926,McDermott,D. McDermott,-184,170,25,Made,1,35.0,39.0,74,v,McDermott 25' 3PT Jump Shot (3 PTS) (Kanter 1 AST),Made Shot,Jump Shot,1,128
+21601000,146,PT09M50.00S,2,1610612751,BKN,203112,Acy,Q. Acy,64,254,26,Missed,1,0.0,0.0,0,h,MISS Acy 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,129
+21601000,147,PT09M48.00S,2,1610612760,OKC,203926,McDermott,D. McDermott,0,0,0,,0,0.0,0.0,0,v,McDermott REBOUND (Off:0 Def:1),Rebound,Unknown,1,130
+21601000,148,PT09M36.00S,2,1610612760,OKC,202683,Freedom,E. Freedom,19,56,6,Made,1,35.0,41.0,76,v,Kanter 6' Hook Shot (4 PTS),Made Shot,Hook Shot,1,131
+21601000,149,PT09M08.00S,2,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,-107,46,12,Missed,1,0.0,0.0,0,h,MISS Dinwiddie 12' Jump Shot,Missed Shot,Jump Shot,1,132
+21601000,150,PT09M07.00S,2,1610612760,OKC,203902,Christon,S. Christon,0,0,0,,0,0.0,0.0,0,v,Christon REBOUND (Off:0 Def:2),Rebound,Unknown,1,133
+21601000,151,PT09M02.00S,2,1610612751,BKN,203930,Kilpatrick,S. Kilpatrick,0,0,0,,0,0.0,0.0,0,h,Kilpatrick S.FOUL (P1.T3) (S.Twardoski),Foul,Shooting,1,134
+21601000,152,PT09M02.00S,2,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,h,NETS Timeout: Regular (Full 2 Short 1),Timeout,Regular,0,135
+21601000,153,PT09M02.00S,2,1610612760,OKC,203518,Abrines,A. Abrines,0,0,0,,0,0.0,0.0,0,v,SUB: Oladipo FOR Abrines,Substitution,,0,136
+21601000,155,PT09M02.00S,2,1610612751,BKN,203930,Kilpatrick,S. Kilpatrick,0,0,0,,0,0.0,0.0,0,h,SUB: Foye FOR Kilpatrick,Substitution,,0,137
+21601000,156,PT09M02.00S,2,1610612760,OKC,203926,McDermott,D. McDermott,0,0,0,,0,35.0,42.0,77,v,McDermott Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,138
+21601000,158,PT09M02.00S,2,1610612760,OKC,203926,McDermott,D. McDermott,0,0,0,,0,35.0,43.0,78,v,McDermott Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,139
+21601000,162,PT08M52.00S,2,1610612760,OKC,203902,Christon,S. Christon,0,0,0,,0,0.0,0.0,0,v,SUB: Westbrook FOR Christon,Substitution,,0,140
+21601000,164,PT08M41.00S,2,1610612751,BKN,200751,Foye,R. Foye,232,56,24,Made,1,38.0,43.0,81,h,Foye 24' 3PT Jump Shot (3 PTS) (Dinwiddie 1 AST),Made Shot,Jump Shot,1,141
+21601000,166,PT08M21.00S,2,1610612760,OKC,202683,Freedom,E. Freedom,32,2,3,Made,1,38.0,45.0,83,v,Kanter 3' Reverse Layup (6 PTS),Made Shot,Reverse Layup Shot,1,142
+21601000,167,PT08M07.00S,2,1610612751,BKN,1627785,Whitehead,I. Whitehead,27,57,6,Missed,1,0.0,0.0,0,h,MISS Whitehead 6' Jump Shot,Missed Shot,Jump Shot,1,143
+21601000,167,PT08M07.00S,2,1610612760,OKC,1627734,Sabonis,D. Sabonis,0,0,0,,0,0.0,0.0,0,v,Sabonis BLOCK (2 BLK),,,1,144
+21601000,168,PT08M05.00S,2,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,0.0,0.0,0,v,Kanter REBOUND (Off:0 Def:1),Rebound,Unknown,1,145
+21601000,169,PT07M56.00S,2,1610612760,OKC,203926,McDermott,D. McDermott,236,70,25,Missed,1,0.0,0.0,0,v,MISS McDermott 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,146
+21601000,170,PT07M55.00S,2,1610612751,BKN,203112,Acy,Q. Acy,0,0,0,,0,0.0,0.0,0,h,Acy REBOUND (Off:0 Def:2),Rebound,Unknown,1,147
+21601000,171,PT07M49.00S,2,1610612760,OKC,203926,McDermott,D. McDermott,0,0,0,,0,0.0,0.0,0,v,McDermott P.FOUL (P1.T2) (D.Collins),Foul,Personal,1,148
+21601000,172,PT07M35.00S,2,1610612751,BKN,203112,Acy,Q. Acy,-25,61,7,Missed,1,0.0,0.0,0,h,MISS Acy 7' Hook Shot,Missed Shot,Hook Shot,1,149
+21601000,173,PT07M33.00S,2,1610612751,BKN,203112,Acy,Q. Acy,0,0,0,,0,0.0,0.0,0,h,Acy REBOUND (Off:1 Def:2),Rebound,Unknown,1,150
+21601000,174,PT07M27.00S,2,1610612751,BKN,1627785,Whitehead,I. Whitehead,-78,247,26,Made,1,41.0,45.0,86,h,Whitehead 26' 3PT Jump Shot (5 PTS) (Acy 1 AST),Made Shot,Jump Shot,1,151
+21601000,175,PT07M15.00S,2,1610612760,OKC,203506,Oladipo,V. Oladipo,97,154,18,Missed,1,0.0,0.0,0,v,MISS Oladipo 18' Jump Shot,Missed Shot,Jump Shot,1,152
+21601000,176,PT07M14.00S,2,1610612760,OKC,203506,Oladipo,V. Oladipo,0,0,0,,0,0.0,0.0,0,v,Oladipo REBOUND (Off:1 Def:0),Rebound,Unknown,1,153
+21601000,177,PT07M11.00S,2,1610612760,OKC,203506,Oladipo,V. Oladipo,15,-4,2,Made,1,41.0,47.0,88,v,Oladipo 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,154
+21601000,178,PT06M56.00S,2,1610612751,BKN,202344,Booker,T. Booker,-20,36,4,Missed,1,0.0,0.0,0,h,MISS Booker 4' Layup,Missed Shot,Layup Shot,1,155
+21601000,179,PT06M54.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook REBOUND (Off:0 Def:3),Rebound,Unknown,1,156
+21601000,180,PT06M50.00S,2,1610612760,OKC,202683,Freedom,E. Freedom,27,11,3,Made,1,41.0,49.0,90,v,Kanter 3' Layup (8 PTS) (Westbrook 9 AST),Made Shot,Layup Shot,1,157
+21601000,181,PT06M23.00S,2,1610612751,BKN,202344,Booker,T. Booker,-17,31,4,Missed,1,0.0,0.0,0,h,MISS Booker 4' Hook Shot,Missed Shot,Hook Shot,1,158
+21601000,182,PT06M21.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook REBOUND (Off:0 Def:4),Rebound,Unknown,1,159
+21601000,183,PT06M19.00S,2,1610612751,BKN,1627785,Whitehead,I. Whitehead,0,0,0,,0,0.0,0.0,0,h,Whitehead S.FOUL (P1.T4) (D.Collins),Foul,Shooting,1,160
+21601000,184,PT06M19.00S,2,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,41.0,50.0,91,v,Kanter Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,161
+21601000,186,PT06M19.00S,2,1610612751,BKN,203112,Acy,Q. Acy,0,0,0,,0,0.0,0.0,0,h,SUB: Lopez FOR Acy,Substitution,,0,162
+21601000,187,PT06M19.00S,2,1610612760,OKC,1627734,Sabonis,D. Sabonis,0,0,0,,0,0.0,0.0,0,v,SUB: Gibson FOR Sabonis,Substitution,,0,163
+21601000,188,PT06M19.00S,2,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,0.0,0.0,0,h,SUB: Lin FOR Dinwiddie,Substitution,,0,164
+21601000,189,PT06M19.00S,2,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,0.0,0.0,0,v,MISS Kanter Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,165
+21601000,191,PT06M17.00S,2,1610612751,BKN,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,Lin REBOUND (Off:0 Def:1),Rebound,Unknown,1,166
+21601000,192,PT06M09.00S,2,1610612760,OKC,203506,Oladipo,V. Oladipo,0,0,0,,0,0.0,0.0,0,v,Oladipo Personal Block Foul (P2.T3) (S.Wright),Foul,Personal Block,1,167
+21601000,193,PT06M09.00S,2,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,0.0,0.0,0,v,SUB: Adams FOR Kanter,Substitution,,0,168
+21601000,194,PT06M04.00S,2,1610612760,OKC,201959,Gibson,T. Gibson,0,0,0,,0,0.0,0.0,0,v,Gibson S.FOUL (P1.T4) (S.Twardoski),Foul,Shooting,1,169
+21601000,195,PT06M04.00S,2,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,42.0,50.0,92,h,Lopez Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,170
+21601000,197,PT06M04.00S,2,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,43.0,50.0,93,h,Lopez Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,171
+21601000,200,PT05M53.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,1,172
+21601000,201,PT05M53.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,173
+21601000,203,PT05M53.00S,2,1610612751,BKN,1627785,Whitehead,I. Whitehead,0,0,0,,0,0.0,0.0,0,h,SUB: LeVert FOR Whitehead,Substitution,,0,174
+21601000,204,PT05M53.00S,2,1610612751,BKN,202344,Booker,T. Booker,0,0,0,,0,0.0,0.0,0,h,SUB: Hollis-Jefferson FOR Booker,Substitution,,0,175
+21601000,205,PT05M38.00S,2,1610612751,BKN,201572,Lopez,B. Lopez,-45,87,10,Missed,1,0.0,0.0,0,h,MISS Lopez 10' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,176
+21601000,206,PT05M37.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook REBOUND (Off:0 Def:5),Rebound,Unknown,1,177
+21601000,207,PT05M23.00S,2,1610612760,OKC,203506,Oladipo,V. Oladipo,-34,247,25,Made,1,43.0,53.0,96,v,Oladipo 25' 3PT Jump Shot (7 PTS) (Westbrook 10 AST),Made Shot,Jump Shot,1,178
+21601000,208,PT05M10.00S,2,1610612751,BKN,202391,Lin,J. Lin,64,41,8,Made,1,45.0,53.0,98,h,Lin 8' Jump Bank Shot (8 PTS),Made Shot,Jump Bank Shot,1,179
+21601000,209,PT04M57.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,-99,244,26,Missed,1,0.0,0.0,0,v,MISS Westbrook 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,180
+21601000,210,PT04M56.00S,2,1610612751,BKN,1627747,LeVert,C. LeVert,0,0,0,,0,0.0,0.0,0,h,LeVert REBOUND (Off:0 Def:3),Rebound,Unknown,1,181
+21601000,211,PT04M50.00S,2,1610612751,BKN,201572,Lopez,B. Lopez,-129,223,26,Made,1,48.0,53.0,101,h,Lopez 26' 3PT Jump Shot (12 PTS) (LeVert 2 AST),Made Shot,Jump Shot,1,182
+21601000,212,PT04M34.00S,2,1610612760,OKC,203506,Oladipo,V. Oladipo,0,1,0,Made,1,48.0,55.0,103,v,Oladipo  Dunk (9 PTS) (Westbrook 11 AST),Made Shot,Dunk Shot,1,183
+21601000,213,PT04M23.00S,2,1610612751,BKN,200751,Foye,R. Foye,0,0,0,,0,0.0,0.0,0,h,Foye Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,184
+21601000,213,PT04M23.00S,2,1610612760,OKC,203506,Oladipo,V. Oladipo,0,0,0,,0,0.0,0.0,0,v,Oladipo STEAL (1 STL),,,1,185
+21601000,214,PT04M14.00S,2,1610612760,OKC,203926,McDermott,D. McDermott,51,67,8,Missed,1,0.0,0.0,0,v,MISS McDermott 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,186
+21601000,215,PT04M12.00S,2,1610612751,BKN,1627747,LeVert,C. LeVert,0,0,0,,0,0.0,0.0,0,h,LeVert REBOUND (Off:0 Def:4),Rebound,Unknown,1,187
+21601000,216,PT03M59.00S,2,1610612751,BKN,202391,Lin,J. Lin,12,85,9,Made,1,50.0,55.0,105,h,Lin 9' Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,1,188
+21601000,217,PT03M39.00S,2,1610612760,OKC,201959,Gibson,T. Gibson,-47,31,6,Missed,1,0.0,0.0,0,v,MISS Gibson 6' Jump Shot,Missed Shot,Jump Shot,1,189
+21601000,217,PT03M39.00S,2,1610612751,BKN,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,Lin BLOCK (1 BLK),,,1,190
+21601000,218,PT03M39.00S,2,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,v,Thunder Rebound,Rebound,Unknown,0,191
+21601000,219,PT03M39.00S,2,1610612760,OKC,203926,McDermott,D. McDermott,0,0,0,,0,0.0,0.0,0,v,SUB: Christon FOR McDermott,Substitution,,0,192
+21601000,220,PT03M39.00S,2,1610612751,BKN,200751,Foye,R. Foye,0,0,0,,0,0.0,0.0,0,h,SUB: Whitehead FOR Foye,Substitution,,0,193
+21601000,221,PT03M31.00S,2,1610612760,OKC,203506,Oladipo,V. Oladipo,63,134,15,Missed,1,0.0,0.0,0,v,MISS Oladipo 15' Jump Shot,Missed Shot,Jump Shot,1,194
+21601000,222,PT03M30.00S,2,1610612751,BKN,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,Lin REBOUND (Off:0 Def:2),Rebound,Unknown,1,195
+21601000,224,PT03M14.00S,2,1610612751,BKN,201572,Lopez,B. Lopez,-127,218,25,Missed,1,0.0,0.0,0,h,MISS Lopez 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,196
+21601000,225,PT03M13.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook REBOUND (Off:0 Def:6),Rebound,Unknown,1,197
+21601000,226,PT03M06.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,-17,16,2,Made,1,50.0,57.0,107,v,Westbrook 2' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,1,198
+21601000,227,PT02M58.00S,2,1610612751,BKN,201572,Lopez,B. Lopez,50,21,5,Made,1,52.0,57.0,109,h,Lopez 5' Hook Shot (14 PTS) (Lin 3 AST),Made Shot,Hook Shot,1,199
+21601000,228,PT02M42.00S,2,1610612760,OKC,203500,Adams,S. Adams,-84,61,10,Missed,1,0.0,0.0,0,v,MISS Adams 10' Hook Shot,Missed Shot,Hook Shot,1,200
+21601000,229,PT02M40.00S,2,1610612751,BKN,1626178,Hollis-Jefferson,R. Hollis-Jefferson,0,0,0,,0,0.0,0.0,0,h,Hollis-Jefferson REBOUND (Off:0 Def:1),Rebound,Unknown,1,201
+21601000,230,PT02M31.00S,2,1610612760,OKC,201959,Gibson,T. Gibson,0,0,0,,0,0.0,0.0,0,v,Gibson S.FOUL (P2.PN) (D.Collins),Foul,Shooting,1,202
+21601000,231,PT02M31.00S,2,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,v,Thunder Timeout: Regular (Reg.2 Short 1),Timeout,Regular,0,203
+21601000,233,PT02M31.00S,2,1610612751,BKN,1626178,Hollis-Jefferson,R. Hollis-Jefferson,0,0,0,,0,53.0,57.0,110,h,Hollis-Jefferson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,204
+21601000,235,PT02M31.00S,2,1610612751,BKN,1626178,Hollis-Jefferson,R. Hollis-Jefferson,0,0,0,,0,54.0,57.0,111,h,Hollis-Jefferson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,205
+21601000,237,PT02M12.00S,2,1610612760,OKC,201959,Gibson,T. Gibson,0,0,0,,0,0.0,0.0,0,v,Gibson Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,206
+21601000,237,PT02M12.00S,2,1610612751,BKN,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,Lin STEAL (1 STL),,,1,207
+21601000,238,PT01M59.00S,2,1610612760,OKC,201959,Gibson,T. Gibson,0,0,0,,0,0.0,0.0,0,v,Gibson S.FOUL (P3.PN) (S.Twardoski),Foul,Shooting,1,208
+21601000,239,PT01M59.00S,2,1610612751,BKN,1627747,LeVert,C. LeVert,0,0,0,,0,0.0,0.0,0,h,MISS LeVert Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,209
+21601000,240,PT01M59.00S,2,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,h,NETS Rebound,Rebound,Normal Rebound,0,210
+21601000,241,PT01M59.00S,2,1610612760,OKC,201959,Gibson,T. Gibson,0,0,0,,0,0.0,0.0,0,v,SUB: Grant FOR Gibson,Substitution,,0,211
+21601000,242,PT01M59.00S,2,1610612751,BKN,1627747,LeVert,C. LeVert,0,0,0,,0,55.0,57.0,112,h,LeVert Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,212
+21601000,244,PT01M47.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,174,90,20,Missed,1,0.0,0.0,0,v,MISS Westbrook 20' Jump Shot,Missed Shot,Jump Shot,1,213
+21601000,245,PT01M45.00S,2,1610612751,BKN,1627747,LeVert,C. LeVert,0,0,0,,0,0.0,0.0,0,h,LeVert REBOUND (Off:0 Def:5),Rebound,Unknown,1,214
+21601000,246,PT01M40.00S,2,1610612751,BKN,201572,Lopez,B. Lopez,9,75,8,Made,1,57.0,57.0,114,h,Lopez 8' Driving Floating Bank Jump Shot (16 PTS),Made Shot,Driving Floating Bank Jump Shot,1,215
+21601000,247,PT01M40.00S,2,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0.0,0.0,0,v,Adams S.FOUL (P1.PN) (S.Wright),Foul,Shooting,1,216
+21601000,248,PT01M40.00S,2,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,58.0,57.0,115,h,Lopez Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,0,217
+21601000,250,PT01M32.00S,2,1610612760,OKC,203924,Grant,J. Grant,0,0,0,,0,0.0,0.0,0,v,Grant Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,218
+21601000,250,PT01M32.00S,2,1610612751,BKN,1627747,LeVert,C. LeVert,0,0,0,,0,0.0,0.0,0,h,LeVert STEAL (2 STL),,,1,219
+21601000,251,PT01M26.00S,2,1610612751,BKN,1627747,LeVert,C. LeVert,17,8,2,Made,1,60.0,57.0,117,h,LeVert 2' Running Dunk (12 PTS),Made Shot,Running Dunk Shot,1,220
+21601000,252,PT01M17.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,79,46,9,Missed,1,0.0,0.0,0,v,MISS Westbrook 9' Jump Shot,Missed Shot,Jump Shot,1,221
+21601000,253,PT01M17.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook REBOUND (Off:1 Def:6),Rebound,Unknown,1,222
+21601000,254,PT01M17.00S,2,1610612751,BKN,1627785,Whitehead,I. Whitehead,0,0,0,,0,0.0,0.0,0,h,Whitehead S.FOUL (P2.PN) (S.Wright),Foul,Shooting,1,223
+21601000,255,PT01M17.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,60.0,58.0,118,v,Westbrook Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,224
+21601000,257,PT01M17.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,60.0,59.0,119,v,Westbrook Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,225
+21601000,259,PT01M09.00S,2,1610612751,BKN,1627747,LeVert,C. LeVert,0,0,0,,0,0.0,0.0,0,h,Jump Ball LeVert vs. Grant: Tip to Christon,Jump Ball,,1,226
+21601000,260,PT01M09.00S,2,1610612751,BKN,1627747,LeVert,C. LeVert,0,0,0,,0,0.0,0.0,0,h,LeVert Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,227
+21601000,260,PT01M09.00S,2,1610612760,OKC,203924,Grant,J. Grant,0,0,0,,0,0.0,0.0,0,v,Grant STEAL (1 STL),,,0,228
+21601000,261,PT00M55.90S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,125,146,19,Missed,1,0.0,0.0,0,v,MISS Westbrook 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,229
+21601000,262,PT00M55.80S,2,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,v,Thunder Rebound,Rebound,Unknown,0,230
+21601000,263,PT00M55.80S,2,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0.0,0.0,0,h,Lopez L.B.FOUL (P2.PN) (D.Collins),Foul,Loose Ball,1,231
+21601000,264,PT00M55.80S,2,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,60.0,60.0,120,v,Adams Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,232
+21601000,266,PT00M55.80S,2,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0.0,0.0,0,v,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,233
+21601000,268,PT00M53.90S,2,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0.0,0.0,0,h,Lopez REBOUND (Off:0 Def:1),Rebound,Unknown,1,234
+21601000,270,PT00M42.80S,2,1610612751,BKN,202391,Lin,J. Lin,-27,26,4,Made,1,62.0,60.0,122,h,Lin 4' Driving Floating Bank Jump Shot (12 PTS),Made Shot,Driving Floating Bank Jump Shot,1,235
+21601000,271,PT00M38.40S,2,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0.0,0.0,0,v,Adams OFF.Foul (P2) (D.Collins),Foul,Offensive,1,236
+21601000,272,PT00M38.40S,2,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0.0,0.0,0,v,Adams Foul Turnover (P1.T5),Turnover,Foul,1,237
+21601000,273,PT00M29.90S,2,1610612751,BKN,202391,Lin,J. Lin,101,183,21,Missed,1,0.0,0.0,0,h,MISS Lin 21' Jump Shot,Missed Shot,Jump Shot,1,238
+21601000,274,PT00M28.90S,2,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0.0,0.0,0,v,Adams REBOUND (Off:0 Def:2),Rebound,Unknown,1,239
+21601000,275,PT00M26.30S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,51,259,26,Missed,1,0.0,0.0,0,v,MISS Westbrook 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,240
+21601000,276,PT00M24.30S,2,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,v,Thunder Rebound,Rebound,Unknown,0,241
+21601000,277,PT00M08.60S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,22,160,16,Missed,1,0.0,0.0,0,v,MISS Westbrook 16' Jump Shot,Missed Shot,Jump Shot,1,242
+21601000,278,PT00M06.90S,2,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0.0,0.0,0,v,Adams REBOUND (Off:1 Def:2),Rebound,Unknown,1,243
+21601000,279,PT00M06.10S,2,1610612760,OKC,203500,Adams,S. Adams,-16,18,2,Made,1,62.0,62.0,124,v,Adams 2' Hook Shot (7 PTS),Made Shot,Hook Shot,1,244
+21601000,280,PT00M01.00S,2,1610612751,BKN,1627785,Whitehead,I. Whitehead,120,11,12,Missed,1,0.0,0.0,0,h,MISS Whitehead 12' Jump Shot,Missed Shot,Jump Shot,1,245
+21601000,281,PT00M00.00S,2,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,v,Thunder Rebound,Rebound,Unknown,0,246
+21601000,283,PT00M00.00S,2,0,,0,,,0,0,0,,0,62.0,62.0,124,,End of 2nd Period (8:39 PM EST),period,end,0,247
+21601000,285,PT12M00.00S,3,0,,0,,,0,0,0,,0,62.0,62.0,124,,Start of 3rd Period (8:54 PM EST),period,start,0,248
+21601000,286,PT11M43.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,14,264,26,Missed,1,0.0,0.0,0,h,MISS Lopez 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,249
+21601000,287,PT11M42.00S,3,1610612760,OKC,201959,Gibson,T. Gibson,0,0,0,,0,0.0,0.0,0,v,Gibson REBOUND (Off:0 Def:2),Rebound,Unknown,1,250
+21601000,292,PT11M27.00S,3,1610612760,OKC,201959,Gibson,T. Gibson,22,9,2,Missed,1,0.0,0.0,0,v,MISS Gibson 2' Layup,Missed Shot,Layup Shot,1,251
+21601000,288,PT11M26.00S,3,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0.0,0.0,0,v,Adams REBOUND (Off:2 Def:2),Rebound,Unknown,1,252
+21601000,289,PT11M26.00S,3,1610612751,BKN,1627747,LeVert,C. LeVert,0,0,0,,0,0.0,0.0,0,h,LeVert S.FOUL (P1.T1) (S.Wright),Foul,Shooting,1,253
+21601000,290,PT11M26.00S,3,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,62.0,63.0,125,v,Adams Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,254
+21601000,293,PT11M26.00S,3,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,62.0,64.0,126,v,Adams Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,255
+21601000,295,PT11M18.00S,3,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0.0,0.0,0,v,Adams S.FOUL (P3.T1) (S.Wright),Foul,Shooting,1,256
+21601000,296,PT11M18.00S,3,1610612751,BKN,1626178,Hollis-Jefferson,R. Hollis-Jefferson,0,0,0,,0,63.0,64.0,127,h,Hollis-Jefferson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,257
+21601000,298,PT11M18.00S,3,1610612751,BKN,1626178,Hollis-Jefferson,R. Hollis-Jefferson,0,0,0,,0,64.0,64.0,128,h,Hollis-Jefferson Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,258
+21601000,301,PT11M06.00S,3,1610612760,OKC,203506,Oladipo,V. Oladipo,-47,95,11,Made,1,64.0,66.0,130,v,Oladipo 11' Driving Floating Jump Shot (11 PTS) (Westbrook 12 AST),Made Shot,Driving Floating Jump Shot,1,259
+21601000,302,PT10M50.00S,3,1610612751,BKN,202391,Lin,J. Lin,-106,232,26,Made,1,67.0,66.0,133,h,Lin 26' 3PT Jump Shot (15 PTS) (Foye 4 AST),Made Shot,Jump Shot,1,260
+21601000,304,PT10M30.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,-192,165,25,Missed,1,0.0,0.0,0,v,MISS Westbrook 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,261
+21601000,305,PT10M28.00S,3,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,0.0,0.0,0,v,Roberson REBOUND (Off:1 Def:0),Rebound,Unknown,1,262
+21601000,306,PT10M17.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,-125,134,18,Made,1,67.0,68.0,135,v,Westbrook 18' Jump Bank Shot (15 PTS),Made Shot,Jump Bank Shot,1,263
+21601000,308,PT10M00.00S,3,1610612751,BKN,202391,Lin,J. Lin,14,16,2,Missed,1,0.0,0.0,0,h,MISS Lin 2' Layup,Missed Shot,Layup Shot,1,264
+21601000,309,PT09M58.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook REBOUND (Off:1 Def:7),Rebound,Unknown,1,265
+21601000,310,PT09M55.00S,3,1610612751,BKN,1627747,LeVert,C. LeVert,0,0,0,,0,0.0,0.0,0,h,LeVert S.FOUL (P2.T2) (S.Wright),Foul,Shooting,1,266
+21601000,312,PT09M55.00S,3,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,67.0,69.0,136,v,Roberson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,267
+21601000,314,PT09M55.00S,3,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,0.0,0.0,0,v,MISS Roberson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,268
+21601000,316,PT09M54.00S,3,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,v,Thunder Rebound,Rebound,Unknown,0,269
+21601000,317,PT09M50.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,-199,174,26,Made,1,67.0,72.0,139,v,Westbrook 26' 3PT Step Back Jump Shot (18 PTS) (Adams 1 AST),Made Shot,Step Back Jump shot,1,270
+21601000,318,PT09M25.00S,3,1610612751,BKN,202391,Lin,J. Lin,20,77,8,Missed,1,0.0,0.0,0,h,MISS Lin 8' Jump Shot,Missed Shot,Jump Shot,1,271
+21601000,318,PT09M25.00S,3,1610612760,OKC,201959,Gibson,T. Gibson,0,0,0,,0,0.0,0.0,0,v,Gibson BLOCK (1 BLK),,,1,272
+21601000,319,PT09M24.00S,3,1610612751,BKN,1626178,Hollis-Jefferson,R. Hollis-Jefferson,0,0,0,,0,0.0,0.0,0,h,Hollis-Jefferson REBOUND (Off:1 Def:1),Rebound,Unknown,1,273
+21601000,320,PT09M24.00S,3,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,h,NETS Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,0,274
+21601000,321,PT09M14.00S,3,1610612760,OKC,201959,Gibson,T. Gibson,0,1,0,Missed,1,0.0,0.0,0,v,MISS Gibson  Dunk,Missed Shot,Dunk Shot,1,275
+21601000,322,PT09M10.00S,3,1610612760,OKC,203506,Oladipo,V. Oladipo,0,0,0,,0,0.0,0.0,0,v,Oladipo REBOUND (Off:2 Def:0),Rebound,Unknown,1,276
+21601000,323,PT08M59.00S,3,1610612760,OKC,203506,Oladipo,V. Oladipo,145,101,18,Missed,1,0.0,0.0,0,v,MISS Oladipo 18' Jump Shot,Missed Shot,Jump Shot,1,277
+21601000,324,PT08M58.00S,3,1610612760,OKC,201959,Gibson,T. Gibson,0,0,0,,0,0.0,0.0,0,v,Gibson REBOUND (Off:1 Def:2),Rebound,Unknown,1,278
+21601000,325,PT08M54.00S,3,1610612760,OKC,201959,Gibson,T. Gibson,2,16,2,Missed,1,0.0,0.0,0,v,MISS Gibson 2' Putback Layup,Missed Shot,Putback Layup Shot,1,279
+21601000,325,PT08M54.00S,3,1610612751,BKN,1627747,LeVert,C. LeVert,0,0,0,,0,0.0,0.0,0,h,LeVert BLOCK (1 BLK),,,1,280
+21601000,596,PT08M54.00S,3,1610612751,BKN,1627747,LeVert,C. LeVert,0,0,0,,0,0.0,0.0,0,h,LeVert REBOUND (Off:0 Def:6),Rebound,Unknown,0,281
+21601000,326,PT08M36.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,-125,-10,13,Made,1,69.0,72.0,141,h,Lopez 13' Fadeaway Jumper (19 PTS),Made Shot,Fadeaway Jump Shot,1,282
+21601000,328,PT08M21.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,283
+21601000,328,PT08M21.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0.0,0.0,0,h,Lopez STEAL (1 STL),,,1,284
+21601000,329,PT08M18.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook P.FOUL (P1.T2) (D.Collins),Foul,Personal,1,285
+21601000,330,PT08M18.00S,3,1610612751,BKN,1627747,LeVert,C. LeVert,0,0,0,,0,70.0,72.0,142,h,LeVert Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,286
+21601000,332,PT08M18.00S,3,1610612751,BKN,1627747,LeVert,C. LeVert,0,0,0,,0,71.0,72.0,143,h,LeVert Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,287
+21601000,334,PT07M59.00S,3,1610612760,OKC,203506,Oladipo,V. Oladipo,-30,38,5,Missed,1,0.0,0.0,0,v,MISS Oladipo 5' Layup,Missed Shot,Layup Shot,1,288
+21601000,334,PT07M59.00S,3,1610612751,BKN,1626178,Hollis-Jefferson,R. Hollis-Jefferson,0,0,0,,0,0.0,0.0,0,h,Hollis-Jefferson BLOCK (2 BLK),,,1,289
+21601000,335,PT07M57.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0.0,0.0,0,h,Lopez REBOUND (Off:0 Def:2),Rebound,Unknown,1,290
+21601000,336,PT07M51.00S,3,1610612751,BKN,202391,Lin,J. Lin,161,203,26,Missed,1,0.0,0.0,0,h,MISS Lin 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,291
+21601000,337,PT07M49.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook REBOUND (Off:1 Def:8),Rebound,Unknown,1,292
+21601000,338,PT07M43.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,68,244,25,Missed,1,0.0,0.0,0,v,MISS Westbrook 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,293
+21601000,339,PT07M42.00S,3,1610612751,BKN,200751,Foye,R. Foye,0,0,0,,0,0.0,0.0,0,h,Foye REBOUND (Off:0 Def:1),Rebound,Unknown,1,294
+21601000,340,PT07M35.00S,3,1610612751,BKN,1627747,LeVert,C. LeVert,-129,247,28,Missed,1,0.0,0.0,0,h,MISS LeVert 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,295
+21601000,341,PT07M34.00S,3,1610612760,OKC,201959,Gibson,T. Gibson,0,0,0,,0,0.0,0.0,0,v,Gibson REBOUND (Off:1 Def:3),Rebound,Unknown,1,296
+21601000,342,PT07M34.00S,3,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,v,Thunder Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,297
+21601000,345,PT07M34.00S,3,1610612751,BKN,200751,Foye,R. Foye,0,0,0,,0,0.0,0.0,0,h,SUB: Whitehead FOR Foye,Substitution,,0,298
+21601000,346,PT07M21.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,-9,80,8,Missed,1,0.0,0.0,0,v,MISS Westbrook 8' Jump Shot,Missed Shot,Jump Shot,1,299
+21601000,347,PT07M18.00S,3,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0.0,0.0,0,v,Adams REBOUND (Off:3 Def:2),Rebound,Unknown,1,300
+21601000,348,PT07M18.00S,3,1610612751,BKN,1626178,Hollis-Jefferson,R. Hollis-Jefferson,0,0,0,,0,0.0,0.0,0,h,Hollis-Jefferson S.FOUL (P2.T3) (S.Twardoski),Foul,Shooting,1,301
+21601000,349,PT07M18.00S,3,1610612760,OKC,201959,Gibson,T. Gibson,0,0,0,,0,0.0,0.0,0,v,MISS Gibson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,302
+21601000,350,PT07M18.00S,3,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,v,Thunder Rebound,Rebound,Normal Rebound,0,303
+21601000,351,PT07M18.00S,3,1610612760,OKC,201959,Gibson,T. Gibson,0,0,0,,0,0.0,0.0,0,v,MISS Gibson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,304
+21601000,353,PT07M15.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0.0,0.0,0,h,Lopez REBOUND (Off:0 Def:3),Rebound,Unknown,1,305
+21601000,354,PT06M55.00S,3,1610612760,OKC,201959,Gibson,T. Gibson,0,0,0,,0,0.0,0.0,0,v,Gibson S.FOUL (P4.T3) (S.Wright),Foul,Shooting,1,306
+21601000,355,PT06M55.00S,3,1610612751,BKN,1627747,LeVert,C. LeVert,0,0,0,,0,72.0,72.0,144,h,LeVert Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,307
+21601000,357,PT06M55.00S,3,1610612760,OKC,201959,Gibson,T. Gibson,0,0,0,,0,0.0,0.0,0,v,SUB: Sabonis FOR Gibson,Substitution,,0,308
+21601000,358,PT06M55.00S,3,1610612751,BKN,1627747,LeVert,C. LeVert,0,0,0,,0,73.0,72.0,145,h,LeVert Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,309
+21601000,360,PT06M43.00S,3,1610612760,OKC,203506,Oladipo,V. Oladipo,-71,146,16,Made,1,73.0,74.0,147,v,Oladipo 16' Pullup Jump Shot (13 PTS) (Sabonis 1 AST),Made Shot,Pullup Jump shot,1,310
+21601000,361,PT06M30.00S,3,1610612751,BKN,202391,Lin,J. Lin,37,21,4,Missed,1,0.0,0.0,0,h,MISS Lin 4' Driving Layup,Missed Shot,Driving Layup Shot,1,311
+21601000,362,PT06M28.00S,3,1610612751,BKN,1627747,LeVert,C. LeVert,0,0,0,,0,0.0,0.0,0,h,LeVert REBOUND (Off:1 Def:6),Rebound,Unknown,1,312
+21601000,363,PT06M21.00S,3,1610612751,BKN,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,Lin Bad Pass Turnover (P3.T11),Turnover,Bad Pass,1,313
+21601000,363,PT06M21.00S,3,1610612760,OKC,203506,Oladipo,V. Oladipo,0,0,0,,0,0.0,0.0,0,v,Oladipo STEAL (2 STL),,,1,314
+21601000,364,PT06M18.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook Offensive Charge Foul (P2.T4) (S.Twardoski),Foul,Offensive Charge,1,315
+21601000,365,PT06M18.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook Foul Turnover (P3.T7),Turnover,Foul,1,316
+21601000,366,PT06M18.00S,3,1610612751,BKN,1627747,LeVert,C. LeVert,0,0,0,,0,0.0,0.0,0,h,SUB: Dinwiddie FOR LeVert,Substitution,,0,317
+21601000,367,PT06M04.00S,3,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,0.0,0.0,0,h,Dinwiddie Traveling Turnover (P1.T12),Turnover,Traveling,1,318
+21601000,368,PT05M56.00S,3,1610612760,OKC,203506,Oladipo,V. Oladipo,0,0,0,,0,0.0,0.0,0,v,Oladipo Out of Bounds Lost Ball Turnover (P2.T8),Turnover,Out of Bounds Lost Ball Turnover,1,319
+21601000,369,PT05M33.00S,3,1610612751,BKN,1626178,Hollis-Jefferson,R. Hollis-Jefferson,-25,28,4,Missed,1,0.0,0.0,0,h,MISS Hollis-Jefferson 4' Jump Shot,Missed Shot,Jump Shot,1,320
+21601000,369,PT05M33.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook BLOCK (1 BLK),,,1,321
+21601000,370,PT05M32.00S,3,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,h,NETS Rebound,Rebound,Unknown,0,322
+21601000,371,PT05M32.00S,3,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,h,NETS Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,0,323
+21601000,372,PT05M32.00S,3,1610612760,OKC,203506,Oladipo,V. Oladipo,0,0,0,,0,0.0,0.0,0,v,SUB: Abrines FOR Oladipo,Substitution,,0,324
+21601000,373,PT05M32.00S,3,1610612751,BKN,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,SUB: Foye FOR Lin,Substitution,,0,325
+21601000,374,PT05M19.00S,3,1610612760,OKC,1627734,Sabonis,D. Sabonis,-11,198,20,Missed,1,0.0,0.0,0,v,MISS Sabonis 20' Jump Shot,Missed Shot,Jump Shot,1,326
+21601000,375,PT05M17.00S,3,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,0.0,0.0,0,v,Roberson REBOUND (Off:2 Def:0),Rebound,Unknown,1,327
+21601000,376,PT05M12.00S,3,1610612760,OKC,203460,Roberson,A. Roberson,-225,31,0,Made,1,73.0,77.0,150,v,Roberson  3PT Jump Shot (6 PTS) (Abrines 2 AST),Made Shot,Jump Shot,1,328
+21601000,377,PT04M54.00S,3,1610612751,BKN,1627785,Whitehead,I. Whitehead,-27,82,9,Missed,1,0.0,0.0,0,h,MISS Whitehead 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,329
+21601000,378,PT04M52.00S,3,1610612751,BKN,1626178,Hollis-Jefferson,R. Hollis-Jefferson,0,0,0,,0,0.0,0.0,0,h,Hollis-Jefferson REBOUND (Off:2 Def:1),Rebound,Unknown,1,330
+21601000,379,PT04M40.00S,3,1610612751,BKN,200751,Foye,R. Foye,9,247,25,Made,1,76.0,77.0,153,h,Foye 25' 3PT Jump Shot (6 PTS) (Dinwiddie 2 AST),Made Shot,Jump Shot,1,331
+21601000,381,PT04M27.00S,3,1610612751,BKN,1626178,Hollis-Jefferson,R. Hollis-Jefferson,0,0,0,,0,0.0,0.0,0,h,Hollis-Jefferson Shooting Block Foul (P3.T4) (S.Wright),Foul,Shooting Block,1,332
+21601000,383,PT04M27.00S,3,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,h,NETS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,333
+21601000,385,PT04M27.00S,3,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0.0,0.0,0,v,SUB: Kanter FOR Adams,Substitution,,0,334
+21601000,386,PT04M27.00S,3,1610612751,BKN,1626178,Hollis-Jefferson,R. Hollis-Jefferson,0,0,0,,0,0.0,0.0,0,h,SUB: Booker FOR Hollis-Jefferson,Substitution,,0,335
+21601000,387,PT04M27.00S,3,1610612760,OKC,1627734,Sabonis,D. Sabonis,0,0,0,,0,0.0,0.0,0,v,MISS Sabonis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,336
+21601000,388,PT04M27.00S,3,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,v,Thunder Rebound,Rebound,Normal Rebound,0,337
+21601000,389,PT04M27.00S,3,1610612760,OKC,1627734,Sabonis,D. Sabonis,0,0,0,,0,0.0,0.0,0,v,MISS Sabonis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,338
+21601000,391,PT04M25.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0.0,0.0,0,h,Lopez REBOUND (Off:0 Def:4),Rebound,Unknown,1,339
+21601000,392,PT04M00.00S,3,1610612751,BKN,202344,Booker,T. Booker,92,75,12,Missed,1,0.0,0.0,0,h,MISS Booker 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,340
+21601000,393,PT03M59.00S,3,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,v,Thunder Rebound,Rebound,Unknown,0,341
+21601000,394,PT03M59.00S,3,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0.0,0.0,0,h,SUB: Acy FOR Lopez,Substitution,,0,342
+21601000,395,PT03M47.00S,3,1610612760,OKC,203518,Abrines,A. Abrines,48,252,26,Made,1,76.0,80.0,156,v,Abrines 26' 3PT Step Back Jump Shot (7 PTS) (Westbrook 13 AST),Made Shot,Step Back Jump shot,1,343
+21601000,397,PT03M30.00S,3,1610612751,BKN,203112,Acy,Q. Acy,32,267,27,Missed,1,0.0,0.0,0,h,MISS Acy 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,344
+21601000,398,PT03M28.00S,3,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,0.0,0.0,0,v,Roberson REBOUND (Off:2 Def:1),Rebound,Unknown,1,345
+21601000,399,PT03M20.00S,3,1610612751,BKN,1627785,Whitehead,I. Whitehead,0,0,0,,0,0.0,0.0,0,h,Whitehead S.FOUL (P3.PN) (S.Twardoski),Foul,Shooting,1,346
+21601000,400,PT03M20.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,76.0,81.0,157,v,Westbrook Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,347
+21601000,402,PT03M20.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,76.0,82.0,158,v,Westbrook Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,348
+21601000,404,PT03M07.00S,3,1610612760,OKC,203518,Abrines,A. Abrines,0,0,0,,0,0.0,0.0,0,v,Abrines S.FOUL (P1.PN) (S.Twardoski),Foul,Shooting,1,349
+21601000,405,PT03M07.00S,3,1610612751,BKN,200751,Foye,R. Foye,0,0,0,,0,77.0,82.0,159,h,Foye Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,350
+21601000,407,PT03M07.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,SUB: Christon FOR Westbrook,Substitution,,0,351
+21601000,408,PT03M07.00S,3,1610612751,BKN,200751,Foye,R. Foye,0,0,0,,0,78.0,82.0,160,h,Foye Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,352
+21601000,410,PT02M48.00S,3,1610612760,OKC,203902,Christon,S. Christon,1,70,7,Made,1,78.0,84.0,162,v,Christon 7' Jump Shot (2 PTS) (Kanter 2 AST),Made Shot,Jump Shot,1,353
+21601000,411,PT02M23.00S,3,1610612751,BKN,202344,Booker,T. Booker,-88,41,10,Missed,1,0.0,0.0,0,h,MISS Booker 10' Driving Bank Shot,Missed Shot,Driving Bank shot,1,354
+21601000,412,PT02M20.00S,3,1610612760,OKC,203518,Abrines,A. Abrines,0,0,0,,0,0.0,0.0,0,v,Abrines REBOUND (Off:0 Def:1),Rebound,Unknown,1,355
+21601000,413,PT02M08.00S,3,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,0.0,0.0,0,v,Kanter Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,356
+21601000,413,PT02M08.00S,3,1610612751,BKN,203112,Acy,Q. Acy,0,0,0,,0,0.0,0.0,0,h,Acy STEAL (1 STL),,,1,357
+21601000,414,PT02M04.00S,3,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,-7,16,2,Missed,1,0.0,0.0,0,h,MISS Dinwiddie 2' Layup,Missed Shot,Layup Shot,1,358
+21601000,414,PT02M04.00S,3,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,0.0,0.0,0,v,Roberson BLOCK (1 BLK),,,1,359
+21601000,415,PT02M02.00S,3,1610612760,OKC,203902,Christon,S. Christon,0,0,0,,0,0.0,0.0,0,v,Christon REBOUND (Off:0 Def:3),Rebound,Unknown,1,360
+21601000,416,PT01M57.00S,3,1610612760,OKC,203518,Abrines,A. Abrines,-223,149,27,Made,1,78.0,87.0,165,v,Abrines 27' 3PT Jump Shot (10 PTS) (Christon 2 AST),Made Shot,Jump Shot,1,361
+21601000,417,PT01M50.00S,3,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,h,NETS Timeout: Short (Full 3 Short 2),Timeout,Short,0,362
+21601000,419,PT01M31.00S,3,1610612751,BKN,200751,Foye,R. Foye,25,16,3,Made,1,80.0,87.0,167,h,Foye 3' Driving Layup (10 PTS) (Acy 2 AST),Made Shot,Driving Layup Shot,1,363
+21601000,420,PT01M13.00S,3,1610612760,OKC,1627734,Sabonis,D. Sabonis,-117,165,20,Made,1,80.0,89.0,169,v,Sabonis 20' Jump Shot (4 PTS),Made Shot,Jump Shot,1,364
+21601000,421,PT00M46.00S,3,1610612751,BKN,200751,Foye,R. Foye,225,110,25,Made,1,83.0,89.0,172,h,Foye 25' 3PT Jump Shot (13 PTS) (Booker 1 AST),Made Shot,Jump Shot,1,365
+21601000,422,PT00M32.90S,3,1610612760,OKC,1627734,Sabonis,D. Sabonis,-38,183,19,Missed,1,0.0,0.0,0,v,MISS Sabonis 19' Jump Shot,Missed Shot,Jump Shot,1,366
+21601000,423,PT00M31.80S,3,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,0.0,0.0,0,v,Kanter REBOUND (Off:1 Def:1),Rebound,Unknown,1,367
+21601000,424,PT00M14.50S,3,1610612760,OKC,202683,Freedom,E. Freedom,-130,115,17,Made,1,83.0,91.0,174,v,Kanter 17' Jump Shot (11 PTS),Made Shot,Jump Shot,1,368
+21601000,425,PT00M04.70S,3,1610612751,BKN,202344,Booker,T. Booker,0,0,0,,0,0.0,0.0,0,h,Booker OFF.Foul (P1) (S.Wright),Foul,Offensive,1,369
+21601000,426,PT00M04.70S,3,1610612751,BKN,202344,Booker,T. Booker,0,0,0,,0,0.0,0.0,0,h,Booker Foul Turnover (P3.T14),Turnover,Foul,1,370
+21601000,427,PT00M04.70S,3,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,0.0,0.0,0,v,SUB: McDermott FOR Roberson,Substitution,,0,371
+21601000,428,PT00M01.10S,3,1610612760,OKC,202683,Freedom,E. Freedom,-1,247,25,Missed,1,0.0,0.0,0,v,MISS Kanter 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,372
+21601000,429,PT00M00.00S,3,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,h,NETS Rebound,Rebound,Unknown,0,373
+21601000,430,PT00M00.00S,3,0,,0,,,0,0,0,,0,83.0,91.0,174,,End of 3rd Period (9:21 PM EST),period,end,0,374
+21601000,432,PT12M00.00S,4,0,,0,,,0,0,0,,0,83.0,91.0,174,,Start of 4th Period (9:24 PM EST),period,start,0,375
+21601000,433,PT11M50.00S,4,1610612760,OKC,1627734,Sabonis,D. Sabonis,0,0,0,,0,0.0,0.0,0,v,Sabonis Offensive Charge Foul (P1.T1) (S.Wright),Foul,Offensive Charge,1,376
+21601000,434,PT11M50.00S,4,1610612760,OKC,1627734,Sabonis,D. Sabonis,0,0,0,,0,0.0,0.0,0,v,Sabonis Foul Turnover (P1.T10),Turnover,Foul,1,377
+21601000,435,PT11M28.00S,4,1610612751,BKN,1627785,Whitehead,I. Whitehead,0,0,0,,0,0.0,0.0,0,h,Whitehead Bad Pass Turnover (P1.T15),Turnover,Bad Pass,1,378
+21601000,435,PT11M28.00S,4,1610612760,OKC,203518,Abrines,A. Abrines,0,0,0,,0,0.0,0.0,0,v,Abrines STEAL (2 STL),,,1,379
+21601000,436,PT11M22.00S,4,1610612751,BKN,203112,Acy,Q. Acy,0,0,0,,0,0.0,0.0,0,h,Acy P.FOUL (P3.T1) (S.Wright),Foul,Personal,1,380
+21601000,437,PT11M16.00S,4,1610612760,OKC,203506,Oladipo,V. Oladipo,-156,139,21,Missed,1,0.0,0.0,0,v,MISS Oladipo 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,381
+21601000,438,PT11M15.00S,4,1610612751,BKN,1627785,Whitehead,I. Whitehead,0,0,0,,0,0.0,0.0,0,h,Whitehead REBOUND (Off:0 Def:4),Rebound,Unknown,1,382
+21601000,439,PT11M01.00S,4,1610612751,BKN,1627785,Whitehead,I. Whitehead,64,244,25,Missed,1,0.0,0.0,0,h,MISS Whitehead 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,383
+21601000,440,PT10M59.00S,4,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,0.0,0.0,0,v,Kanter REBOUND (Off:1 Def:2),Rebound,Unknown,1,384
+21601000,441,PT10M51.00S,4,1610612760,OKC,1627734,Sabonis,D. Sabonis,0,0,0,,0,0.0,0.0,0,v,Sabonis OFF.Foul (P2) (D.Collins),Foul,Offensive,1,385
+21601000,442,PT10M51.00S,4,1610612760,OKC,1627734,Sabonis,D. Sabonis,0,0,0,,0,0.0,0.0,0,v,Sabonis Foul Turnover (P2.T11),Turnover,Foul,1,386
+21601000,443,PT10M34.00S,4,1610612751,BKN,203112,Acy,Q. Acy,230,41,0,Missed,1,0.0,0.0,0,h,MISS Acy  3PT Jump Shot,Missed Shot,Jump Shot,1,387
+21601000,444,PT10M33.00S,4,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,0.0,0.0,0,v,Kanter REBOUND (Off:1 Def:3),Rebound,Unknown,1,388
+21601000,445,PT10M20.00S,4,1610612751,BKN,202344,Booker,T. Booker,0,0,0,,0,0.0,0.0,0,h,Booker P.FOUL (P2.T2) (S.Wright),Foul,Personal,1,389
+21601000,446,PT10M09.00S,4,1610612760,OKC,1627734,Sabonis,D. Sabonis,-12,146,15,Missed,1,0.0,0.0,0,v,MISS Sabonis 15' Jump Shot,Missed Shot,Jump Shot,1,390
+21601000,447,PT10M08.00S,4,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,0.0,0.0,0,v,Kanter REBOUND (Off:2 Def:3),Rebound,Unknown,1,391
+21601000,448,PT09M55.00S,4,1610612760,OKC,203506,Oladipo,V. Oladipo,37,26,5,Missed,1,0.0,0.0,0,v,MISS Oladipo 5' Driving Layup,Missed Shot,Driving Layup Shot,1,392
+21601000,448,PT09M55.00S,4,1610612751,BKN,203112,Acy,Q. Acy,0,0,0,,0,0.0,0.0,0,h,Acy BLOCK (1 BLK),,,1,393
+21601000,449,PT09M53.00S,4,1610612751,BKN,202344,Booker,T. Booker,0,0,0,,0,0.0,0.0,0,h,Booker REBOUND (Off:0 Def:2),Rebound,Unknown,1,394
+21601000,450,PT09M47.00S,4,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,22,11,2,Missed,1,0.0,0.0,0,h,MISS Dinwiddie 2' Layup,Missed Shot,Layup Shot,1,395
+21601000,451,PT09M46.00S,4,1610612760,OKC,203518,Abrines,A. Abrines,0,0,0,,0,0.0,0.0,0,v,Abrines REBOUND (Off:0 Def:2),Rebound,Unknown,1,396
+21601000,452,PT09M39.00S,4,1610612760,OKC,202683,Freedom,E. Freedom,27,47,5,Missed,1,0.0,0.0,0,v,MISS Kanter 5' Hook Shot,Missed Shot,Hook Shot,1,397
+21601000,453,PT09M36.00S,4,1610612751,BKN,203112,Acy,Q. Acy,0,0,0,,0,0.0,0.0,0,h,Acy REBOUND (Off:1 Def:3),Rebound,Unknown,1,398
+21601000,455,PT09M23.00S,4,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,0.0,0.0,0,v,Kanter Shooting Block Foul (P2.T2) (S.Wright),Foul,Shooting Block,1,399
+21601000,456,PT09M23.00S,4,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,84.0,91.0,175,h,Dinwiddie Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,400
+21601000,458,PT09M23.00S,4,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,85.0,91.0,176,h,Dinwiddie Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,401
+21601000,460,PT09M09.00S,4,1610612760,OKC,203506,Oladipo,V. Oladipo,55,121,13,Made,1,85.0,93.0,178,v,Oladipo 13' Jump Shot (15 PTS),Made Shot,Jump Shot,1,402
+21601000,461,PT08M46.00S,4,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,146,262,30,Missed,1,0.0,0.0,0,h,MISS Dinwiddie 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,403
+21601000,462,PT08M44.00S,4,1610612760,OKC,203518,Abrines,A. Abrines,0,0,0,,0,0.0,0.0,0,v,Abrines REBOUND (Off:0 Def:3),Rebound,Unknown,1,404
+21601000,463,PT08M33.00S,4,1610612751,BKN,202344,Booker,T. Booker,0,0,0,,0,0.0,0.0,0,h,Booker S.FOUL (P3.T3) (S.Wright),Foul,Shooting,1,405
+21601000,464,PT08M33.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,406
+21601000,466,PT08M33.00S,4,1610612760,OKC,203902,Christon,S. Christon,0,0,0,,0,0.0,0.0,0,v,SUB: Westbrook FOR Christon,Substitution,,0,407
+21601000,467,PT08M33.00S,4,1610612751,BKN,202344,Booker,T. Booker,0,0,0,,0,0.0,0.0,0,h,SUB: Lopez FOR Booker,Substitution,,0,408
+21601000,468,PT08M33.00S,4,1610612751,BKN,203112,Acy,Q. Acy,0,0,0,,0,0.0,0.0,0,h,SUB: Hollis-Jefferson FOR Acy,Substitution,,0,409
+21601000,469,PT08M33.00S,4,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,85.0,94.0,179,v,Kanter Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,410
+21601000,471,PT08M33.00S,4,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,85.0,95.0,180,v,Kanter Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,411
+21601000,473,PT08M16.00S,4,1610612751,BKN,200751,Foye,R. Foye,-173,11,17,Missed,1,0.0,0.0,0,h,MISS Foye 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,412
+21601000,474,PT08M14.00S,4,1610612760,OKC,203506,Oladipo,V. Oladipo,0,0,0,,0,0.0,0.0,0,v,Oladipo REBOUND (Off:2 Def:1),Rebound,Unknown,1,413
+21601000,476,PT08M10.00S,4,1610612760,OKC,202683,Freedom,E. Freedom,91,100,14,Made,1,85.0,97.0,182,v,Kanter 14' Jump Shot (15 PTS) (Westbrook 14 AST),Made Shot,Jump Shot,1,414
+21601000,477,PT07M58.00S,4,1610612751,BKN,1626178,Hollis-Jefferson,R. Hollis-Jefferson,0,0,0,,0,0.0,0.0,0,h,Hollis-Jefferson Bad Pass Turnover (P1.T16),Turnover,Bad Pass,1,415
+21601000,477,PT07M58.00S,4,1610612760,OKC,203506,Oladipo,V. Oladipo,0,0,0,,0,0.0,0.0,0,v,Oladipo STEAL (3 STL),,,1,416
+21601000,478,PT07M54.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,0,1,0,Missed,1,0.0,0.0,0,v,MISS Westbrook  Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,1,417
+21601000,479,PT07M49.00S,4,1610612751,BKN,1627785,Whitehead,I. Whitehead,0,0,0,,0,0.0,0.0,0,h,Whitehead REBOUND (Off:0 Def:5),Rebound,Unknown,1,418
+21601000,480,PT07M47.00S,4,1610612751,BKN,1627785,Whitehead,I. Whitehead,0,0,0,,0,0.0,0.0,0,h,Whitehead Lost Ball Turnover (P2.T17),Turnover,Lost Ball,1,419
+21601000,480,PT07M47.00S,4,1610612760,OKC,203506,Oladipo,V. Oladipo,0,0,0,,0,0.0,0.0,0,v,Oladipo STEAL (4 STL),,,1,420
+21601000,481,PT07M46.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook Step Out of Bounds Turnover (P4.T12),Turnover,Step Out of Bounds Turnover,1,421
+21601000,482,PT07M32.00S,4,1610612751,BKN,201572,Lopez,B. Lopez,24,16,3,Made,1,87.0,97.0,184,h,Lopez 3' Reverse Layup (21 PTS),Made Shot,Reverse Layup Shot,1,422
+21601000,483,PT07M32.00S,4,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,0.0,0.0,0,v,Kanter S.FOUL (P3.T3) (D.Collins),Foul,Shooting,1,423
+21601000,484,PT07M32.00S,4,1610612760,OKC,203506,Oladipo,V. Oladipo,0,0,0,,0,0.0,0.0,0,v,SUB: Roberson FOR Oladipo,Substitution,,0,424
+21601000,485,PT07M32.00S,4,1610612751,BKN,1627785,Whitehead,I. Whitehead,0,0,0,,0,0.0,0.0,0,h,SUB: Lin FOR Whitehead,Substitution,,0,425
+21601000,486,PT07M32.00S,4,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,88.0,97.0,185,h,Lopez Free Throw 1 of 1 (22 PTS),Free Throw,Free Throw 1 of 1,0,426
+21601000,488,PT07M20.00S,4,1610612760,OKC,202683,Freedom,E. Freedom,-53,105,12,Made,1,88.0,99.0,187,v,Kanter 12' Step Back Jump Shot (17 PTS) (Westbrook 15 AST),Made Shot,Step Back Jump shot,1,427
+21601000,489,PT06M54.00S,4,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,0.0,0.0,0,h,Dinwiddie OFF.Foul (P2) (D.Collins),Foul,Offensive,1,428
+21601000,490,PT06M54.00S,4,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,0.0,0.0,0,h,Dinwiddie Foul Turnover (P2.T18),Turnover,Foul,1,429
+21601000,491,PT06M54.00S,4,1610612760,OKC,202683,Freedom,E. Freedom,0,0,0,,0,0.0,0.0,0,v,SUB: Adams FOR Kanter,Substitution,,0,430
+21601000,492,PT06M45.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook Lost Ball Turnover (P5.T13),Turnover,Lost Ball,1,431
+21601000,492,PT06M45.00S,4,1610612751,BKN,1626178,Hollis-Jefferson,R. Hollis-Jefferson,0,0,0,,0,0.0,0.0,0,h,Hollis-Jefferson STEAL (1 STL),,,1,432
+21601000,493,PT06M39.00S,4,1610612751,BKN,1626178,Hollis-Jefferson,R. Hollis-Jefferson,25,11,3,Made,1,90.0,99.0,189,h,Hollis-Jefferson 3' Layup (6 PTS) (Lin 4 AST),Made Shot,Layup Shot,1,433
+21601000,494,PT06M29.00S,4,1610612751,BKN,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,Lin S.FOUL (P2.T4) (S.Wright),Foul,Shooting,1,434
+21601000,495,PT06M29.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,90.0,100.0,190,v,Westbrook Free Throw 1 of 3 (21 PTS),Free Throw,Free Throw 1 of 3,0,435
+21601000,497,PT06M29.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,90.0,101.0,191,v,Westbrook Free Throw 2 of 3 (22 PTS),Free Throw,Free Throw 2 of 3,0,436
+21601000,499,PT06M29.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,90.0,102.0,192,v,Westbrook Free Throw 3 of 3 (23 PTS),Free Throw,Free Throw 3 of 3,0,437
+21601000,502,PT06M19.00S,4,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0.0,0.0,0,h,Lopez Bad Pass Turnover (P2.T19),Turnover,Bad Pass,1,438
+21601000,503,PT06M07.00S,4,1610612760,OKC,203460,Roberson,A. Roberson,222,7,0,Missed,1,0.0,0.0,0,v,MISS Roberson  3PT Jump Shot,Missed Shot,Jump Shot,1,439
+21601000,504,PT06M06.00S,4,1610612751,BKN,1626178,Hollis-Jefferson,R. Hollis-Jefferson,0,0,0,,0,0.0,0.0,0,h,Hollis-Jefferson REBOUND (Off:2 Def:2),Rebound,Unknown,1,440
+21601000,505,PT06M06.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook P.FOUL (P3.T4) (D.Collins),Foul,Personal,1,441
+21601000,506,PT06M06.00S,4,1610612760,OKC,1627734,Sabonis,D. Sabonis,0,0,0,,0,0.0,0.0,0,v,SUB: Gibson FOR Sabonis,Substitution,,0,442
+21601000,507,PT06M06.00S,4,1610612760,OKC,203518,Abrines,A. Abrines,0,0,0,,0,0.0,0.0,0,v,SUB: Oladipo FOR Abrines,Substitution,,0,443
+21601000,508,PT05M53.00S,4,1610612751,BKN,201572,Lopez,B. Lopez,135,232,27,Made,1,93.0,102.0,195,h,Lopez 27' 3PT Jump Shot (25 PTS) (Lin 5 AST),Made Shot,Jump Shot,1,444
+21601000,509,PT05M34.00S,4,1610612760,OKC,203506,Oladipo,V. Oladipo,-235,-1,24,Made,1,93.0,105.0,198,v,Oladipo 24' 3PT Jump Shot (18 PTS) (Roberson 1 AST),Made Shot,Jump Shot,1,445
+21601000,510,PT05M34.00S,4,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,h,NETS Timeout: Regular (Full 4 Short 2),Timeout,Regular,0,446
+21601000,514,PT05M34.00S,4,1610612751,BKN,200751,Foye,R. Foye,0,0,0,,0,0.0,0.0,0,h,SUB: LeVert FOR Foye,Substitution,,0,447
+21601000,515,PT05M34.00S,4,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,0.0,0.0,0,h,SUB: Whitehead FOR Dinwiddie,Substitution,,0,448
+21601000,516,PT05M15.00S,4,1610612760,OKC,203506,Oladipo,V. Oladipo,0,0,0,,0,0.0,0.0,0,v,Oladipo P.FOUL (P3.PN) (S.Wright),Foul,Personal,1,449
+21601000,517,PT05M12.00S,4,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,0.0,0.0,0,v,Roberson S.FOUL (P4.PN) (S.Wright),Foul,Shooting,1,450
+21601000,518,PT05M12.00S,4,1610612751,BKN,202391,Lin,J. Lin,0,0,0,,0,94.0,105.0,199,h,Lin Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,451
+21601000,520,PT05M12.00S,4,1610612751,BKN,202391,Lin,J. Lin,0,0,0,,0,95.0,105.0,200,h,Lin Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,452
+21601000,522,PT05M00.00S,4,1610612760,OKC,203460,Roberson,A. Roberson,227,21,0,Missed,1,0.0,0.0,0,v,MISS Roberson  3PT Jump Shot,Missed Shot,Jump Shot,1,453
+21601000,523,PT04M59.00S,4,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0.0,0.0,0,h,Lopez REBOUND (Off:0 Def:5),Rebound,Unknown,1,454
+21601000,524,PT04M51.00S,4,1610612751,BKN,201572,Lopez,B. Lopez,-89,244,26,Missed,1,0.0,0.0,0,h,MISS Lopez 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,455
+21601000,525,PT04M50.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook REBOUND (Off:1 Def:9),Rebound,Unknown,1,456
+21601000,526,PT04M43.00S,4,1610612760,OKC,203506,Oladipo,V. Oladipo,84,242,26,Missed,1,0.0,0.0,0,v,MISS Oladipo 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,457
+21601000,527,PT04M43.00S,4,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,v,Thunder Rebound,Rebound,Unknown,0,458
+21601000,528,PT04M43.00S,4,1610612751,BKN,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,Lin L.B.FOUL (P3.PN) (D.Collins),Foul,Loose Ball,1,459
+21601000,529,PT04M43.00S,4,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,0.0,0.0,0,v,MISS Roberson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,460
+21601000,530,PT04M43.00S,4,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,v,Thunder Rebound,Rebound,Normal Rebound,0,461
+21601000,531,PT04M43.00S,4,1610612751,BKN,1626178,Hollis-Jefferson,R. Hollis-Jefferson,0,0,0,,0,0.0,0.0,0,h,SUB: Acy FOR Hollis-Jefferson,Substitution,,0,462
+21601000,532,PT04M43.00S,4,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,95.0,106.0,201,v,Roberson Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,463
+21601000,534,PT04M41.00S,4,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,0.0,0.0,0,v,Roberson Personal Block Foul (P5.PN) (S.Twardoski),Foul,Personal Block,1,464
+21601000,535,PT04M41.00S,4,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,v,Thunder Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,465
+21601000,537,PT04M41.00S,4,1610612760,OKC,203460,Roberson,A. Roberson,0,0,0,,0,0.0,0.0,0,v,SUB: Abrines FOR Roberson,Substitution,,0,466
+21601000,538,PT04M41.00S,4,1610612751,BKN,202391,Lin,J. Lin,0,0,0,,0,96.0,106.0,202,h,Lin Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,467
+21601000,540,PT04M41.00S,4,1610612751,BKN,202391,Lin,J. Lin,0,0,0,,0,97.0,106.0,203,h,Lin Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,468
+21601000,542,PT04M26.00S,4,1610612751,BKN,1627785,Whitehead,I. Whitehead,0,0,0,,0,0.0,0.0,0,h,Whitehead S.FOUL (P4.PN) (S.Wright),Foul,Shooting,1,469
+21601000,543,PT04M26.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,97.0,107.0,204,v,Westbrook Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,0,470
+21601000,545,PT04M26.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,97.0,108.0,205,v,Westbrook Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,0,471
+21601000,547,PT04M13.00S,4,1610612751,BKN,1627747,LeVert,C. LeVert,-24,33,4,Missed,1,0.0,0.0,0,h,MISS LeVert 4' Jump Shot,Missed Shot,Jump Shot,1,472
+21601000,548,PT04M11.00S,4,1610612760,OKC,201959,Gibson,T. Gibson,0,0,0,,0,0.0,0.0,0,v,Gibson REBOUND (Off:1 Def:4),Rebound,Unknown,1,473
+21601000,549,PT03M55.00S,4,1610612760,OKC,203518,Abrines,A. Abrines,66,242,25,Made,1,97.0,111.0,208,v,Abrines 25' 3PT Jump Shot (13 PTS) (Westbrook 16 AST),Made Shot,Jump Shot,1,474
+21601000,550,PT03M43.00S,4,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0.0,0.0,0,v,Adams S.FOUL (P4.PN) (D.Collins),Foul,Shooting,1,475
+21601000,551,PT03M43.00S,4,1610612751,BKN,202391,Lin,J. Lin,0,0,0,,0,98.0,111.0,209,h,Lin Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,476
+21601000,553,PT03M43.00S,4,1610612751,BKN,202391,Lin,J. Lin,0,0,0,,0,99.0,111.0,210,h,Lin Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,477
+21601000,555,PT03M25.00S,4,1610612760,OKC,201959,Gibson,T. Gibson,-194,-1,19,Made,1,99.0,113.0,212,v,Gibson 19' Jump Shot (13 PTS) (Abrines 3 AST),Made Shot,Jump Shot,1,478
+21601000,556,PT03M17.00S,4,1610612751,BKN,202391,Lin,J. Lin,184,242,30,Made,1,102.0,113.0,215,h,Lin 30' 3PT Jump Shot (24 PTS),Made Shot,Jump Shot,1,479
+21601000,557,PT02M59.00S,4,1610612760,OKC,203500,Adams,S. Adams,25,70,7,Made,1,102.0,115.0,217,v,Adams 7' Floating Jump Shot (11 PTS) (Westbrook 17 AST),Made Shot,Floating Jump shot,1,480
+21601000,558,PT02M49.00S,4,1610612751,BKN,201572,Lopez,B. Lopez,42,87,10,Missed,1,0.0,0.0,0,h,MISS Lopez 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,481
+21601000,559,PT02M46.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook REBOUND (Off:1 Def:10),Rebound,Unknown,1,482
+21601000,560,PT02M29.00S,4,1610612760,OKC,201959,Gibson,T. Gibson,-74,165,18,Made,1,102.0,117.0,219,v,Gibson 18' Jump Shot (15 PTS) (Westbrook 18 AST),Made Shot,Jump Shot,1,483
+21601000,561,PT02M29.00S,4,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,h,NETS Timeout: Regular (Full 5 Short 2),Timeout,Regular,0,484
+21601000,563,PT02M29.00S,4,1610612751,BKN,1627747,LeVert,C. LeVert,0,0,0,,0,0.0,0.0,0,h,SUB: Dinwiddie FOR LeVert,Substitution,,0,485
+21601000,564,PT02M29.00S,4,1610612751,BKN,201572,Lopez,B. Lopez,0,0,0,,0,0.0,0.0,0,h,SUB: McDaniels FOR Lopez,Substitution,,0,486
+21601000,565,PT02M29.00S,4,1610612751,BKN,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,SUB: Nicholson FOR Lin,Substitution,,0,487
+21601000,566,PT02M29.00S,4,1610612751,BKN,203112,Acy,Q. Acy,0,0,0,,0,0.0,0.0,0,h,SUB: Hamilton FOR Acy,Substitution,,0,488
+21601000,567,PT02M16.00S,4,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0.0,0.0,0,v,Adams S.FOUL (P5.PN) (S.Wright),Foul,Shooting,1,489
+21601000,568,PT02M16.00S,4,1610612751,BKN,1627785,Whitehead,I. Whitehead,0,0,0,,0,0.0,0.0,0,h,MISS Whitehead Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,490
+21601000,569,PT02M16.00S,4,0,,1610612751,,,0,0,0,,0,0.0,0.0,0,h,NETS Rebound,Rebound,Normal Rebound,0,491
+21601000,570,PT02M16.00S,4,1610612751,BKN,1627785,Whitehead,I. Whitehead,0,0,0,,0,0.0,0.0,0,h,MISS Whitehead Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,492
+21601000,572,PT02M13.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook REBOUND (Off:1 Def:11),Rebound,Unknown,1,493
+21601000,574,PT01M59.00S,4,1610612760,OKC,203506,Oladipo,V. Oladipo,125,214,25,Made,1,102.0,120.0,222,v,Oladipo 25' 3PT Jump Shot (21 PTS) (Westbrook 19 AST),Made Shot,Jump Shot,1,494
+21601000,575,PT01M47.00S,4,1610612751,BKN,203094,Nicholson,A. Nicholson,-65,259,27,Missed,1,0.0,0.0,0,h,MISS Nicholson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,495
+21601000,576,PT01M46.00S,4,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0.0,0.0,0,v,Adams REBOUND (Off:3 Def:3),Rebound,Unknown,1,496
+21601000,577,PT01M41.00S,4,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,v,Thunder Timeout: Short (Reg.4 Short 2),Timeout,Short,0,497
+21601000,578,PT01M41.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,SUB: Christon FOR Westbrook,Substitution,,0,498
+21601000,580,PT01M28.00S,4,1610612760,OKC,201959,Gibson,T. Gibson,94,151,18,Missed,1,0.0,0.0,0,v,MISS Gibson 18' Jump Shot,Missed Shot,Jump Shot,1,499
+21601000,581,PT01M27.00S,4,1610612751,BKN,203094,Nicholson,A. Nicholson,0,0,0,,0,0.0,0.0,0,h,Nicholson REBOUND (Off:0 Def:1),Rebound,Unknown,1,500
+21601000,582,PT01M14.00S,4,1610612751,BKN,203094,Nicholson,A. Nicholson,30,11,3,Made,1,104.0,120.0,224,h,Nicholson 3' Alley Oop Layup (2 PTS) (Whitehead 2 AST),Made Shot,Alley Oop Layup shot,1,501
+21601000,584,PT00M58.90S,4,1610612760,OKC,201959,Gibson,T. Gibson,-68,75,10,Missed,1,0.0,0.0,0,v,MISS Gibson 10' Jump Shot,Missed Shot,Jump Shot,1,502
+21601000,585,PT00M56.90S,4,1610612760,OKC,201959,Gibson,T. Gibson,0,0,0,,0,0.0,0.0,0,v,Gibson REBOUND (Off:2 Def:4),Rebound,Unknown,1,503
+21601000,586,PT00M54.90S,4,1610612760,OKC,201959,Gibson,T. Gibson,25,13,3,Missed,1,0.0,0.0,0,v,MISS Gibson 3' Putback Layup,Missed Shot,Putback Layup Shot,1,504
+21601000,587,PT00M52.90S,4,1610612760,OKC,201959,Gibson,T. Gibson,0,0,0,,0,0.0,0.0,0,v,Gibson REBOUND (Off:3 Def:4),Rebound,Unknown,1,505
+21601000,588,PT00M37.70S,4,1610612760,OKC,201959,Gibson,T. Gibson,-102,170,20,Made,1,104.0,122.0,226,v,Gibson 20' Jump Shot (17 PTS) (Christon 3 AST),Made Shot,Jump Shot,1,506
+21601000,589,PT00M24.50S,4,1610612751,BKN,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,0.0,0.0,0,h,Dinwiddie Bad Pass Turnover (P3.T20),Turnover,Bad Pass,1,507
+21601000,589,PT00M24.50S,4,1610612760,OKC,203500,Adams,S. Adams,0,0,0,,0,0.0,0.0,0,v,Adams STEAL (2 STL),,,1,508
+21601000,590,PT00M00.00S,4,0,,0,,,0,0,0,,0,104.0,122.0,226,,End of 4th Period (9:57 PM EST),period,end,1,509

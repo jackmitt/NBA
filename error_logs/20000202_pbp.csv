@@ -1,0 +1,441 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+20000202,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (11:39 AM EST),period,start,0,1
+20000202,1,PT12M00.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,h,Jump Ball Ilgauskas vs. Potapenko: Tip to Harpring,Jump Ball,,0,2
+20000202,2,PT11M45.00S,1,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,h,Miller Palming Turnover (P1.T1),Turnover,Palming Turnover,0,3
+20000202,3,PT11M33.00S,1,1610612738,BOS,179,Stith,B. Stith,-10,13,2,Missed,1,0.0,0.0,0,v,MISS Stith 2' Layup,Missed Shot,Layup Shot,0,4
+20000202,3,PT11M33.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,h,Ilgauskas BLOCK (1 BLK),,,0,5
+20000202,4,PT11M31.00S,1,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Rebound,Rebound,Unknown,0,6
+20000202,5,PT11M20.00S,1,1610612739,CLE,441,Murray,L. Murray,106,116,16,Missed,1,0.0,0.0,0,h,MISS Murray 16' Jump Shot,Missed Shot,Jump Shot,0,7
+20000202,6,PT11M15.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,v,Pierce REBOUND (Off:0 Def:1),Rebound,Unknown,0,8
+20000202,7,PT11M09.00S,1,1610612738,BOS,952,Walker,A. Walker,-138,-29,14,Made,1,0.0,2.0,2,v,Walker 14' Jump Shot (2 PTS) (Pierce 1 AST),Made Shot,Jump Shot,0,9
+20000202,8,PT10M48.00S,1,1610612739,CLE,1723,Harpring,M. Harpring,184,-36,19,Made,1,2.0,2.0,4,h,Harpring 19' Jump Shot (2 PTS) (Murray 1 AST),Made Shot,Jump Shot,0,10
+20000202,9,PT10M32.00S,1,1610612738,BOS,677,Williams,E. Williams,0,0,0,,0,0.0,0.0,0,v,Williams OFF.Foul (P1),Foul,Offensive,0,11
+20000202,10,PT10M32.00S,1,1610612738,BOS,677,Williams,E. Williams,0,0,0,,0,0.0,0.0,0,v,Williams Foul Turnover (P1.T1),Turnover,Foul,0,12
+20000202,11,PT10M20.00S,1,1610612739,CLE,441,Murray,L. Murray,-1,160,16,Made,1,4.0,2.0,6,h,Murray 16' Jump Shot (2 PTS) (Miller 1 AST),Made Shot,Jump Shot,0,13
+20000202,12,PT10M03.00S,1,1610612738,BOS,179,Stith,B. Stith,228,-36,0,Missed,1,0.0,0.0,0,v,MISS Stith  3PT Jump Shot,Missed Shot,Jump Shot,0,14
+20000202,13,PT10M00.00S,1,1610612738,BOS,958,Potapenko,V. Potapenko,0,0,0,,0,0.0,0.0,0,v,Potapenko REBOUND (Off:1 Def:0),Rebound,Unknown,0,15
+20000202,14,PT09M55.00S,1,1610612738,BOS,179,Stith,B. Stith,3,-8,1,Made,1,4.0,4.0,8,v,Stith 1' Driving Layup (2 PTS) (Walker 1 AST),Made Shot,Driving Layup Shot,0,16
+20000202,15,PT09M41.00S,1,1610612738,BOS,958,Potapenko,V. Potapenko,0,0,0,,0,0.0,0.0,0,v,Potapenko P.FOUL (P1.T1),Foul,Personal,0,17
+20000202,16,PT09M36.00S,1,1610612739,CLE,441,Murray,L. Murray,-23,-2,2,Missed,1,0.0,0.0,0,h,MISS Murray 2' Driving Layup,Missed Shot,Driving Layup Shot,0,18
+20000202,17,PT09M34.00S,1,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,19
+20000202,18,PT09M27.00S,1,1610612738,BOS,952,Walker,A. Walker,24,243,24,Made,1,4.0,7.0,11,v,Walker 24' 3PT Jump Shot (5 PTS) (Potapenko 1 AST),Made Shot,Jump Shot,0,20
+20000202,19,PT09M11.00S,1,1610612739,CLE,221,Weatherspoon,C. Weatherspoon,11,17,2,Missed,1,0.0,0.0,0,h,MISS Weatherspoon 2' Driving Layup,Missed Shot,Driving Layup Shot,0,21
+20000202,21,PT09M07.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,h,Ilgauskas REBOUND (Off:1 Def:0),Rebound,Unknown,0,22
+20000202,20,PT09M07.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,3,7,1,Made,1,6.0,7.0,13,h,Ilgauskas 1' Layup (2 PTS),Made Shot,Layup Shot,0,23
+20000202,22,PT08M51.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,-88,116,15,Missed,1,0.0,0.0,0,v,MISS Pierce 15' Jump Shot,Missed Shot,Jump Shot,0,24
+20000202,23,PT08M49.00S,1,1610612739,CLE,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,Weatherspoon REBOUND (Off:0 Def:1),Rebound,Unknown,0,25
+20000202,24,PT08M33.00S,1,1610612739,CLE,1889,Miller,A. Miller,-94,112,15,Missed,1,0.0,0.0,0,h,MISS Miller 15' Jump Shot,Missed Shot,Jump Shot,0,26
+20000202,25,PT08M31.00S,1,1610612738,BOS,958,Potapenko,V. Potapenko,0,0,0,,0,0.0,0.0,0,v,Potapenko REBOUND (Off:1 Def:1),Rebound,Unknown,0,27
+20000202,26,PT08M22.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,18,0,2,Missed,1,0.0,0.0,0,v,MISS Pierce 2' Reverse Layup,Missed Shot,Reverse Layup Shot,0,28
+20000202,28,PT08M10.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,v,Pierce REBOUND (Off:1 Def:1),Rebound,Unknown,0,29
+20000202,27,PT08M10.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,-1,7,1,Made,1,6.0,9.0,15,v,Pierce 1' Layup (2 PTS),Made Shot,Layup Shot,0,30
+20000202,29,PT08M05.00S,1,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker S.FOUL (P1.T2),Foul,Shooting,0,31
+20000202,30,PT08M05.00S,1,1610612739,CLE,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,7.0,9.0,16,h,Weatherspoon Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,32
+20000202,31,PT08M05.00S,1,1610612739,CLE,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,8.0,9.0,17,h,Weatherspoon Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,33
+20000202,32,PT07M51.00S,1,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker Out Of Bounds Turnover (P1.T2),Turnover,Out Of Bounds,0,34
+20000202,33,PT07M31.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,h,Ilgauskas Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,35
+20000202,33,PT07M31.00S,1,1610612738,BOS,179,Stith,B. Stith,0,0,0,,0,0.0,0.0,0,v,Stith STEAL (1 STL),,,0,36
+20000202,34,PT07M27.00S,1,1610612738,BOS,179,Stith,B. Stith,-10,7,1,Made,1,8.0,11.0,19,v,Stith 1' Driving Layup (4 PTS) (Pierce 2 AST),Made Shot,Driving Layup Shot,0,37
+20000202,35,PT07M14.00S,1,1610612739,CLE,1723,Harpring,M. Harpring,3,154,15,Missed,1,0.0,0.0,0,h,MISS Harpring 15' Jump Shot,Missed Shot,Jump Shot,0,38
+20000202,37,PT07M11.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,h,Ilgauskas REBOUND (Off:2 Def:0),Rebound,Unknown,0,39
+20000202,36,PT07M11.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,70,122,14,Made,1,10.0,11.0,21,h,Ilgauskas 14' Jump Shot (4 PTS),Made Shot,Jump Shot,0,40
+20000202,38,PT06M53.00S,1,1610612738,BOS,958,Potapenko,V. Potapenko,18,133,13,Made,1,10.0,13.0,23,v,Potapenko 13' Jump Shot (2 PTS) (Stith 1 AST),Made Shot,Jump Shot,0,41
+20000202,39,PT06M33.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,3,55,6,Made,1,12.0,13.0,25,h,Ilgauskas 6' Jump Shot (6 PTS) (Miller 2 AST),Made Shot,Jump Shot,0,42
+20000202,40,PT06M15.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,v,Pierce Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,43
+20000202,40,PT06M15.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,h,Ilgauskas STEAL (1 STL),,,0,44
+20000202,41,PT06M07.00S,1,1610612739,CLE,441,Murray,L. Murray,-147,-19,15,Made,1,14.0,13.0,27,h,Murray 15' Jump Shot (4 PTS) (Miller 3 AST),Made Shot,Jump Shot,0,45
+20000202,42,PT06M00.00S,1,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,46
+20000202,46,PT05M48.00S,1,1610612738,BOS,952,Walker,A. Walker,228,-23,0,Missed,1,0.0,0.0,0,v,MISS Walker  3PT Jump Shot,Missed Shot,Jump Shot,0,47
+20000202,47,PT05M45.00S,1,1610612739,CLE,1723,Harpring,M. Harpring,0,0,0,,0,0.0,0.0,0,h,Harpring REBOUND (Off:0 Def:1),Rebound,Unknown,0,48
+20000202,48,PT05M32.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,-109,0,11,Missed,1,0.0,0.0,0,h,MISS Ilgauskas 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,49
+20000202,49,PT05M29.00S,1,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker REBOUND (Off:0 Def:2),Rebound,Unknown,0,50
+20000202,50,PT05M22.00S,1,1610612739,CLE,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,Weatherspoon S.FOUL (P1.T1),Foul,Shooting,0,51
+20000202,51,PT05M22.00S,1,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,14.0,14.0,28,v,Walker Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,52
+20000202,52,PT05M22.00S,1,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,MISS Walker Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,53
+20000202,53,PT05M21.00S,1,1610612739,CLE,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,Weatherspoon REBOUND (Off:0 Def:2),Rebound,Unknown,0,54
+20000202,54,PT05M03.00S,1,1610612739,CLE,221,Weatherspoon,C. Weatherspoon,3,-2,0,Made,1,16.0,14.0,30,h,Weatherspoon  Slam Dunk (4 PTS) (Miller 4 AST),Made Shot,Slam Dunk Shot,0,55
+20000202,55,PT04M40.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,-117,72,14,Missed,1,0.0,0.0,0,v,MISS Pierce 14' Jump Shot,Missed Shot,Jump Shot,0,56
+20000202,56,PT04M38.00S,1,1610612739,CLE,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,h,Murray REBOUND (Off:0 Def:1),Rebound,Unknown,0,57
+20000202,57,PT04M23.00S,1,1610612739,CLE,1889,Miller,A. Miller,-117,112,16,Made,1,18.0,14.0,32,h,Miller 16' Jump Shot (2 PTS) (Weatherspoon 1 AST),Made Shot,Jump Shot,0,58
+20000202,58,PT04M05.00S,1,1610612738,BOS,958,Potapenko,V. Potapenko,169,-23,17,Missed,1,0.0,0.0,0,v,MISS Potapenko 17' Jump Shot,Missed Shot,Jump Shot,0,59
+20000202,59,PT04M03.00S,1,1610612739,CLE,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,Weatherspoon REBOUND (Off:0 Def:3),Rebound,Unknown,0,60
+20000202,60,PT03M58.00S,1,1610612739,CLE,1723,Harpring,M. Harpring,169,-36,17,Made,1,20.0,14.0,34,h,Harpring 17' Jump Shot (4 PTS) (Miller 5 AST),Made Shot,Jump Shot,0,61
+20000202,61,PT03M37.00S,1,1610612738,BOS,952,Walker,A. Walker,18,28,3,Made,1,20.0,16.0,36,v,Walker 3' Jump Shot (8 PTS),Made Shot,Jump Shot,0,62
+20000202,62,PT03M23.00S,1,1610612739,CLE,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,h,Murray Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,63
+20000202,62,PT03M23.00S,1,1610612738,BOS,179,Stith,B. Stith,0,0,0,,0,0.0,0.0,0,v,Stith STEAL (2 STL),,,0,64
+20000202,63,PT03M11.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,-58,0,6,Missed,1,0.0,0.0,0,v,MISS Pierce 6' Jump Shot,Missed Shot,Jump Shot,0,65
+20000202,64,PT03M09.00S,1,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Rebound,Rebound,Unknown,0,66
+20000202,65,PT03M09.00S,1,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,67
+20000202,67,PT03M09.00S,1,1610612738,BOS,958,Potapenko,V. Potapenko,0,0,0,,0,0.0,0.0,0,v,SUB: Brown FOR Potapenko,Substitution,,0,68
+20000202,68,PT03M09.00S,1,1610612738,BOS,677,Williams,E. Williams,0,0,0,,0,0.0,0.0,0,v,SUB: Battie FOR Williams,Substitution,,0,69
+20000202,70,PT02M57.00S,1,1610612738,BOS,753,Brown,R. Brown,0,0,0,,0,0.0,0.0,0,v,Brown S.FOUL (P1.T3),Foul,Shooting,0,70
+20000202,71,PT02M57.00S,1,1610612739,CLE,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,MISS Weatherspoon Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,71
+20000202,72,PT02M57.00S,1,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Rebound,Rebound,Normal Rebound,0,72
+20000202,73,PT02M57.00S,1,1610612739,CLE,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,21.0,16.0,37,h,Weatherspoon Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,73
+20000202,74,PT02M44.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,144,4,14,Missed,1,0.0,0.0,0,v,MISS Pierce 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,74
+20000202,75,PT02M41.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,h,Ilgauskas REBOUND (Off:2 Def:1),Rebound,Unknown,0,75
+20000202,76,PT02M30.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,1,49,5,Made,1,23.0,16.0,39,h,Ilgauskas 5' Turnaround Hook Shot (8 PTS) (Harpring 1 AST),Made Shot,Turnaround Hook Shot,0,76
+20000202,77,PT02M09.00S,1,1610612738,BOS,753,Brown,R. Brown,-162,-15,16,Missed,1,0.0,0.0,0,v,MISS Brown 16' Jump Shot,Missed Shot,Jump Shot,0,77
+20000202,78,PT02M07.00S,1,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,h,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,78
+20000202,79,PT02M00.00S,1,1610612739,CLE,1723,Harpring,M. Harpring,-141,207,25,Missed,1,0.0,0.0,0,h,MISS Harpring 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,79
+20000202,80,PT01M58.00S,1,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker REBOUND (Off:0 Def:3),Rebound,Unknown,0,80
+20000202,81,PT01M55.00S,1,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker Lost Ball Turnover (P2.T4),Turnover,Lost Ball,0,81
+20000202,81,PT01M55.00S,1,1610612739,CLE,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,Weatherspoon STEAL (1 STL),,,0,82
+20000202,82,PT01M50.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,1,4,0,Made,1,25.0,16.0,41,h,Ilgauskas  Slam Dunk (10 PTS) (Weatherspoon 2 AST),Made Shot,Slam Dunk Shot,0,83
+20000202,83,PT01M36.00S,1,1610612738,BOS,1499,Battie,T. Battie,167,-42,17,Missed,1,0.0,0.0,0,v,MISS Battie 17' Jump Shot,Missed Shot,Jump Shot,0,84
+20000202,84,PT01M34.00S,1,1610612739,CLE,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,Weatherspoon REBOUND (Off:0 Def:4),Rebound,Unknown,0,85
+20000202,85,PT01M18.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,73,38,8,Missed,1,0.0,0.0,0,h,MISS Ilgauskas 8' Jump Shot,Missed Shot,Jump Shot,0,86
+20000202,86,PT01M13.00S,1,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker REBOUND (Off:0 Def:4),Rebound,Unknown,0,87
+20000202,87,PT01M02.00S,1,1610612739,CLE,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,h,Murray S.FOUL (P1.T2),Foul,Shooting,0,88
+20000202,88,PT01M02.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,h,SUB: Gatling FOR Ilgauskas,Substitution,,0,89
+20000202,89,PT01M02.00S,1,1610612739,CLE,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,h,SUB: Langdon FOR Murray,Substitution,,0,90
+20000202,90,PT01M02.00S,1,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,25.0,17.0,42,v,Walker Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,91
+20000202,91,PT01M02.00S,1,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,25.0,18.0,43,v,Walker Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,92
+20000202,93,PT00M45.90S,1,1610612739,CLE,423,Gatling,C. Gatling,-134,-25,14,Made,1,27.0,18.0,45,h,Gatling 14' Jump Shot (2 PTS) (Harpring 2 AST),Made Shot,Jump Shot,0,93
+20000202,94,PT00M36.80S,1,1610612738,BOS,1499,Battie,T. Battie,0,0,0,,0,0.0,0.0,0,v,Battie 3 Second Violation Turnover (P1.T5),Turnover,3 Second Violation,0,94
+20000202,95,PT00M19.90S,1,1610612739,CLE,1892,Langdon,T. Langdon,100,118,15,Missed,1,0.0,0.0,0,h,MISS Langdon 15' Jump Shot,Missed Shot,Jump Shot,0,95
+20000202,96,PT00M16.90S,1,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,v,Pierce REBOUND (Off:1 Def:2),Rebound,Unknown,0,96
+20000202,97,PT00M01.90S,1,1610612738,BOS,1718,Pierce,P. Pierce,7,211,21,Made,1,27.0,20.0,47,v,Pierce 21' Jump Shot (4 PTS),Made Shot,Jump Shot,0,97
+20000202,98,PT00M00.00S,1,1610612739,CLE,1889,Miller,A. Miller,-162,622,64,Missed,1,0.0,0.0,0,h,MISS Miller 64' 3PT Jump Shot,Missed Shot,Jump Shot,0,98
+20000202,99,PT00M00.00S,1,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Rebound,Rebound,Unknown,0,99
+20000202,100,PT00M00.00S,1,0,,0,,,0,0,0,,0,27.0,20.0,47,,End of 1st Period (12:02 PM EST),period,end,0,100
+20000202,102,PT12M00.00S,2,0,,0,,,0,0,0,,0,27.0,20.0,47,,Start of 2nd Period (12:04 PM EST),period,start,0,101
+20000202,103,PT11M39.00S,2,1610612738,BOS,753,Brown,R. Brown,58,125,14,Made,1,27.0,22.0,49,v,Brown 14' Jump Shot (2 PTS) (Stith 2 AST),Made Shot,Jump Shot,0,102
+20000202,104,PT11M16.00S,2,1610612739,CLE,423,Gatling,C. Gatling,-242,-21,24,Missed,1,0.0,0.0,0,h,MISS Gatling 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,103
+20000202,105,PT11M14.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,v,Pierce REBOUND (Off:1 Def:3),Rebound,Unknown,0,104
+20000202,106,PT11M09.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,-176,173,25,Missed,1,0.0,0.0,0,v,MISS Pierce 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,105
+20000202,107,PT11M07.00S,2,1610612738,BOS,1499,Battie,T. Battie,0,0,0,,0,0.0,0.0,0,v,Battie REBOUND (Off:1 Def:0),Rebound,Unknown,0,106
+20000202,108,PT10M57.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,174,-21,18,Missed,1,0.0,0.0,0,v,MISS Pierce 18' Jump Shot,Missed Shot,Jump Shot,0,107
+20000202,109,PT10M55.00S,2,1610612739,CLE,445,Person,W. Person,0,0,0,,0,0.0,0.0,0,h,Person REBOUND (Off:0 Def:1),Rebound,Unknown,0,108
+20000202,110,PT10M50.00S,2,1610612739,CLE,1892,Langdon,T. Langdon,0,0,0,,0,0.0,0.0,0,h,Langdon Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,109
+20000202,110,PT10M50.00S,2,1610612738,BOS,179,Stith,B. Stith,0,0,0,,0,0.0,0.0,0,v,Stith STEAL (3 STL),,,0,110
+20000202,111,PT10M47.00S,2,1610612738,BOS,952,Walker,A. Walker,1,11,1,Made,1,27.0,24.0,51,v,Walker 1' Driving Layup (12 PTS) (Stith 3 AST),Made Shot,Driving Layup Shot,0,111
+20000202,112,PT10M47.00S,2,1610612739,CLE,423,Gatling,C. Gatling,0,0,0,,0,0.0,0.0,0,h,Gatling S.FOUL (P1.T1),Foul,Shooting,0,112
+20000202,113,PT10M47.00S,2,1610612739,CLE,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,SUB: Traylor FOR Weatherspoon,Substitution,,0,113
+20000202,114,PT10M47.00S,2,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,27.0,25.0,52,v,Walker Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,114
+20000202,115,PT10M25.00S,2,1610612739,CLE,1889,Miller,A. Miller,-105,101,15,Missed,1,0.0,0.0,0,h,MISS Miller 15' Jump Shot,Missed Shot,Jump Shot,0,115
+20000202,116,PT10M22.00S,2,1610612738,BOS,1499,Battie,T. Battie,0,0,0,,0,0.0,0.0,0,v,Battie REBOUND (Off:1 Def:1),Rebound,Unknown,0,116
+20000202,117,PT10M10.00S,2,1610612738,BOS,179,Stith,B. Stith,-176,179,25,Missed,1,0.0,0.0,0,v,MISS Stith 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,117
+20000202,118,PT10M09.00S,2,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,v,Celtics Rebound,Rebound,Unknown,0,118
+20000202,119,PT10M09.00S,2,1610612739,CLE,1714,Traylor,R. Traylor,0,0,0,,0,0.0,0.0,0,h,Traylor P.FOUL (P1.T2),Foul,Personal,0,119
+20000202,120,PT10M09.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,v,SUB: Williams FOR Pierce,Substitution,,0,120
+20000202,121,PT10M02.00S,2,1610612738,BOS,179,Stith,B. Stith,22,21,3,Missed,1,0.0,0.0,0,v,MISS Stith 3' Hook Shot,Missed Shot,Hook Shot,0,121
+20000202,122,PT10M00.00S,2,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,h,Miller REBOUND (Off:0 Def:2),Rebound,Unknown,0,122
+20000202,123,PT09M55.00S,2,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,h,Miller OFF.Foul (P1),Foul,Offensive,0,123
+20000202,124,PT09M55.00S,2,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,h,Miller Foul Turnover (P2.T5),Turnover,Foul,0,124
+20000202,125,PT09M33.00S,2,1610612738,BOS,1499,Battie,T. Battie,1,4,0,Made,1,27.0,27.0,54,v,Battie  Slam Dunk (2 PTS) (Williams 1 AST),Made Shot,Slam Dunk Shot,0,125
+20000202,126,PT09M13.00S,2,1610612739,CLE,423,Gatling,C. Gatling,-4,11,1,Missed,1,0.0,0.0,0,h,MISS Gatling 1' Hook Shot,Missed Shot,Hook Shot,0,126
+20000202,127,PT09M13.00S,2,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Rebound,Rebound,Unknown,0,127
+20000202,128,PT09M03.00S,2,1610612739,CLE,1714,Traylor,R. Traylor,-46,34,6,Missed,1,0.0,0.0,0,h,MISS Traylor 6' Hook Shot,Missed Shot,Hook Shot,0,128
+20000202,129,PT08M59.00S,2,1610612738,BOS,677,Williams,E. Williams,0,0,0,,0,0.0,0.0,0,v,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,129
+20000202,130,PT08M44.00S,2,1610612738,BOS,677,Williams,E. Williams,1,28,3,Made,1,27.0,29.0,56,v,Williams 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,130
+20000202,133,PT08M39.00S,2,1610612739,CLE,423,Gatling,C. Gatling,0,0,0,,0,0.0,0.0,0,,"Double Technical - Gatling, Walker",Foul,Double Technical,0,131
+20000202,134,PT08M39.00S,2,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,132
+20000202,138,PT08M28.00S,2,1610612739,CLE,1889,Miller,A. Miller,-119,63,13,Missed,1,0.0,0.0,0,h,MISS Miller 13' Jump Shot,Missed Shot,Jump Shot,0,133
+20000202,139,PT08M25.00S,2,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,h,Miller REBOUND (Off:1 Def:2),Rebound,Unknown,0,134
+20000202,140,PT08M20.00S,2,1610612739,CLE,423,Gatling,C. Gatling,1,4,0,Made,1,29.0,29.0,58,h,Gatling  Layup (4 PTS) (Miller 6 AST),Made Shot,Layup Shot,0,135
+20000202,141,PT08M00.00S,2,1610612738,BOS,952,Walker,A. Walker,-141,15,14,Made,1,29.0,31.0,60,v,Walker 14' Jump Shot (15 PTS) (Brown 1 AST),Made Shot,Jump Shot,0,136
+20000202,142,PT07M49.00S,2,1610612739,CLE,445,Person,W. Person,0,0,0,,0,0.0,0.0,0,h,Person Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,137
+20000202,142,PT07M49.00S,2,1610612738,BOS,1499,Battie,T. Battie,0,0,0,,0,0.0,0.0,0,v,Battie STEAL (1 STL),,,0,138
+20000202,143,PT07M45.00S,2,1610612738,BOS,753,Brown,R. Brown,0,0,0,,0,0.0,0.0,0,v,Brown Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,139
+20000202,144,PT07M23.00S,2,1610612739,CLE,1889,Miller,A. Miller,94,129,16,Missed,1,0.0,0.0,0,h,MISS Miller 16' Jump Shot,Missed Shot,Jump Shot,0,140
+20000202,145,PT07M21.00S,2,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Rebound,Rebound,Unknown,0,141
+20000202,146,PT07M06.00S,2,1610612739,CLE,423,Gatling,C. Gatling,-98,118,15,Missed,1,0.0,0.0,0,h,MISS Gatling 15' Jump Shot,Missed Shot,Jump Shot,0,142
+20000202,147,PT07M04.00S,2,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker REBOUND (Off:0 Def:5),Rebound,Unknown,0,143
+20000202,148,PT06M50.00S,2,1610612738,BOS,952,Walker,A. Walker,-134,-25,14,Missed,1,0.0,0.0,0,v,MISS Walker 14' Jump Shot,Missed Shot,Jump Shot,0,144
+20000202,149,PT06M46.00S,2,1610612739,CLE,423,Gatling,C. Gatling,0,0,0,,0,0.0,0.0,0,h,Gatling REBOUND (Off:0 Def:1),Rebound,Unknown,0,145
+20000202,150,PT06M43.00S,2,1610612739,CLE,1714,Traylor,R. Traylor,16,15,2,Made,1,31.0,31.0,62,h,Traylor 2' Driving Layup (2 PTS) (Miller 7 AST),Made Shot,Driving Layup Shot,0,146
+20000202,151,PT06M24.00S,2,1610612738,BOS,677,Williams,E. Williams,231,-32,0,Made,1,31.0,34.0,65,v,Williams  3PT Jump Shot (5 PTS) (Brown 2 AST),Made Shot,Jump Shot,0,147
+20000202,152,PT06M00.00S,2,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,h,Miller OFF.Foul (P2),Foul,Offensive,0,148
+20000202,153,PT06M00.00S,2,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,h,Miller Foul Turnover (P3.T7),Turnover,Foul,0,149
+20000202,154,PT06M00.00S,2,1610612739,CLE,1892,Langdon,T. Langdon,0,0,0,,0,0.0,0.0,0,h,SUB: Murray FOR Langdon,Substitution,,0,150
+20000202,155,PT06M00.00S,2,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,h,SUB: Hawkins FOR Miller,Substitution,,0,151
+20000202,156,PT06M00.00S,2,1610612738,BOS,179,Stith,B. Stith,0,0,0,,0,0.0,0.0,0,v,SUB: Pierce FOR Stith,Substitution,,0,152
+20000202,157,PT06M00.00S,2,1610612738,BOS,1499,Battie,T. Battie,0,0,0,,0,0.0,0.0,0,v,SUB: Potapenko FOR Battie,Substitution,,0,153
+20000202,158,PT05M41.00S,2,1610612738,BOS,677,Williams,E. Williams,231,-32,0,Made,1,31.0,37.0,68,v,Williams  3PT Jump Shot (8 PTS) (Brown 3 AST),Made Shot,Jump Shot,0,154
+20000202,159,PT05M32.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,155
+20000202,161,PT05M32.00S,2,1610612739,CLE,445,Person,W. Person,0,0,0,,0,0.0,0.0,0,h,SUB: Harpring FOR Person,Substitution,,0,156
+20000202,163,PT05M24.00S,2,1610612739,CLE,1138,Hawkins,M. Hawkins,0,0,0,,0,0.0,0.0,0,h,Hawkins Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,157
+20000202,163,PT05M24.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,v,Pierce STEAL (1 STL),,,0,158
+20000202,164,PT05M24.00S,2,1610612739,CLE,1723,Harpring,M. Harpring,0,0,0,,0,0.0,0.0,0,h,Harpring P.FOUL (P1.T3),Foul,Personal,0,159
+20000202,165,PT05M16.00S,2,1610612739,CLE,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,h,Murray P.FOUL (P2.T4),Foul,Personal,0,160
+20000202,166,PT05M10.00S,2,1610612738,BOS,753,Brown,R. Brown,0,0,0,,0,0.0,0.0,0,v,Brown OFF.Foul (P2),Foul,Offensive,0,161
+20000202,167,PT05M10.00S,2,1610612738,BOS,753,Brown,R. Brown,0,0,0,,0,0.0,0.0,0,v,Brown Foul Turnover (P2.T7),Turnover,Foul,0,162
+20000202,168,PT04M55.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,v,Pierce P.FOUL (P1.T1),Foul,Personal,0,163
+20000202,169,PT04M49.00S,2,1610612739,CLE,1723,Harpring,M. Harpring,-242,-21,24,Missed,1,0.0,0.0,0,h,MISS Harpring 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,164
+20000202,170,PT04M46.00S,2,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,v,Celtics Rebound,Rebound,Unknown,0,165
+20000202,171,PT04M46.00S,2,1610612739,CLE,423,Gatling,C. Gatling,0,0,0,,0,0.0,0.0,0,h,SUB: Ilgauskas FOR Gatling,Substitution,,0,166
+20000202,172,PT04M46.00S,2,1610612739,CLE,1714,Traylor,R. Traylor,0,0,0,,0,0.0,0.0,0,h,SUB: Weatherspoon FOR Traylor,Substitution,,0,167
+20000202,173,PT04M31.00S,2,1610612738,BOS,958,Potapenko,V. Potapenko,167,0,17,Missed,1,0.0,0.0,0,v,MISS Potapenko 17' Jump Shot,Missed Shot,Jump Shot,0,168
+20000202,174,PT04M28.00S,2,1610612739,CLE,1723,Harpring,M. Harpring,0,0,0,,0,0.0,0.0,0,h,Harpring REBOUND (Off:0 Def:2),Rebound,Unknown,0,169
+20000202,175,PT04M18.00S,2,1610612739,CLE,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,h,Murray Traveling Turnover (P2.T9),Turnover,Traveling,0,170
+20000202,176,PT04M18.00S,2,1610612739,CLE,1138,Hawkins,M. Hawkins,0,0,0,,0,0.0,0.0,0,h,SUB: Miller FOR Hawkins,Substitution,,0,171
+20000202,177,PT04M03.00S,2,1610612738,BOS,677,Williams,E. Williams,64,-4,6,Missed,1,0.0,0.0,0,v,MISS Williams 6' Jump Shot,Missed Shot,Jump Shot,0,172
+20000202,178,PT04M02.00S,2,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,v,Celtics Rebound,Rebound,Unknown,0,173
+20000202,179,PT03M59.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,-105,97,14,Made,1,31.0,39.0,70,v,Pierce 14' Jump Shot (6 PTS) (Williams 2 AST),Made Shot,Jump Shot,0,174
+20000202,180,PT03M34.00S,2,1610612739,CLE,1723,Harpring,M. Harpring,1,125,13,Missed,1,0.0,0.0,0,h,MISS Harpring 13' Jump Shot,Missed Shot,Jump Shot,0,175
+20000202,181,PT03M30.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,v,Pierce REBOUND (Off:1 Def:4),Rebound,Unknown,0,176
+20000202,182,PT03M26.00S,2,1610612738,BOS,952,Walker,A. Walker,22,11,2,Missed,1,0.0,0.0,0,v,MISS Walker 2' Layup,Missed Shot,Layup Shot,0,177
+20000202,184,PT03M25.00S,2,1610612738,BOS,958,Potapenko,V. Potapenko,0,0,0,,0,0.0,0.0,0,v,Potapenko REBOUND (Off:2 Def:1),Rebound,Unknown,0,178
+20000202,183,PT03M25.00S,2,1610612738,BOS,958,Potapenko,V. Potapenko,7,4,1,Made,1,31.0,41.0,72,v,Potapenko 1' Tip Shot (4 PTS),Made Shot,Tip Shot,0,179
+20000202,185,PT03M25.00S,2,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,h,Ilgauskas S.FOUL (P1.PN),Foul,Shooting,0,180
+20000202,186,PT03M25.00S,2,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Timeout: Short (Full 2 Short 1),Timeout,Short,0,181
+20000202,190,PT03M25.00S,2,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,SUB: Battie FOR Walker,Substitution,,0,182
+20000202,191,PT03M25.00S,2,1610612738,BOS,958,Potapenko,V. Potapenko,0,0,0,,0,31.0,42.0,73,v,Potapenko Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,183
+20000202,192,PT03M10.00S,2,1610612739,CLE,1723,Harpring,M. Harpring,-92,125,16,Missed,1,0.0,0.0,0,h,MISS Harpring 16' Jump Shot,Missed Shot,Jump Shot,0,184
+20000202,194,PT03M06.00S,2,1610612739,CLE,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,h,Murray REBOUND (Off:1 Def:1),Rebound,Unknown,0,185
+20000202,193,PT03M06.00S,2,1610612739,CLE,441,Murray,L. Murray,7,21,2,Missed,1,0.0,0.0,0,h,MISS Murray 2' Hook Shot,Missed Shot,Hook Shot,0,186
+20000202,195,PT03M00.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,v,Pierce REBOUND (Off:1 Def:5),Rebound,Unknown,0,187
+20000202,196,PT02M57.00S,2,1610612738,BOS,677,Williams,E. Williams,-12,49,5,Missed,1,0.0,0.0,0,v,MISS Williams 5' Jump Shot,Missed Shot,Jump Shot,0,188
+20000202,196,PT02M57.00S,2,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,h,Ilgauskas BLOCK (2 BLK),,,0,189
+20000202,197,PT02M53.00S,2,1610612738,BOS,958,Potapenko,V. Potapenko,0,0,0,,0,0.0,0.0,0,v,Potapenko REBOUND (Off:3 Def:1),Rebound,Unknown,0,190
+20000202,208,PT02M53.00S,2,1610612738,BOS,1499,Battie,T. Battie,-23,18,3,Missed,1,0.0,0.0,0,v,MISS Battie 3' Jump Shot,Missed Shot,Jump Shot,0,191
+20000202,208,PT02M53.00S,2,1610612739,CLE,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,Weatherspoon BLOCK (1 BLK),,,0,192
+20000202,214,PT02M53.00S,2,1610612738,BOS,1499,Battie,T. Battie,0,0,0,,0,0.0,0.0,0,v,Battie REBOUND (Off:2 Def:1),Rebound,Unknown,0,193
+20000202,198,PT02M51.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,-242,-8,24,Made,1,31.0,45.0,76,v,Pierce 24' 3PT Jump Shot (9 PTS) (Battie 1 AST),Made Shot,Jump Shot,0,194
+20000202,199,PT02M35.00S,2,1610612739,CLE,221,Weatherspoon,C. Weatherspoon,-12,15,2,Missed,1,0.0,0.0,0,h,MISS Weatherspoon 2' Layup,Missed Shot,Layup Shot,0,195
+20000202,201,PT02M26.00S,2,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,h,Ilgauskas REBOUND (Off:3 Def:1),Rebound,Unknown,0,196
+20000202,200,PT02M26.00S,2,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,-18,11,2,Missed,1,0.0,0.0,0,h,MISS Ilgauskas 2' Layup,Missed Shot,Layup Shot,0,197
+20000202,202,PT02M22.00S,2,1610612738,BOS,1499,Battie,T. Battie,0,0,0,,0,0.0,0.0,0,v,Battie REBOUND (Off:2 Def:2),Rebound,Unknown,0,198
+20000202,203,PT02M16.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,-235,4,24,Missed,1,0.0,0.0,0,v,MISS Pierce 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,199
+20000202,204,PT02M16.00S,2,1610612739,CLE,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,Weatherspoon REBOUND (Off:0 Def:5),Rebound,Unknown,0,200
+20000202,205,PT02M16.00S,2,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,h,Miller Palming Turnover (P4.T10),Turnover,Palming Turnover,0,201
+20000202,206,PT02M16.00S,2,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,202
+20000202,211,PT02M16.00S,2,1610612738,BOS,958,Potapenko,V. Potapenko,0,0,0,,0,0.0,0.0,0,v,SUB: Herren FOR Potapenko,Substitution,,0,203
+20000202,212,PT02M16.00S,2,1610612738,BOS,753,Brown,R. Brown,0,0,0,,0,0.0,0.0,0,v,SUB: Walker FOR Brown,Substitution,,0,204
+20000202,213,PT02M00.00S,2,1610612738,BOS,952,Walker,A. Walker,-98,125,16,Made,1,31.0,47.0,78,v,Walker 16' Jump Shot (17 PTS),Made Shot,Jump Shot,0,205
+20000202,215,PT01M36.00S,2,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,-4,28,3,Missed,1,0.0,0.0,0,h,MISS Ilgauskas 3' Layup,Missed Shot,Layup Shot,0,206
+20000202,216,PT01M34.00S,2,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,h,Ilgauskas REBOUND (Off:4 Def:1),Rebound,Unknown,0,207
+20000202,218,PT01M34.00S,2,1610612738,BOS,677,Williams,E. Williams,0,0,0,,0,0.0,0.0,0,v,Williams P.FOUL (P2.T2),Foul,Personal,0,208
+20000202,220,PT01M34.00S,2,1610612738,BOS,677,Williams,E. Williams,0,0,0,,0,0.0,0.0,0,v,SUB: Stith FOR Williams,Substitution,,0,209
+20000202,222,PT01M22.00S,2,1610612739,CLE,441,Murray,L. Murray,43,21,5,Missed,1,0.0,0.0,0,h,MISS Murray 5' Jump Shot,Missed Shot,Jump Shot,0,210
+20000202,223,PT01M20.00S,2,1610612738,BOS,179,Stith,B. Stith,0,0,0,,0,0.0,0.0,0,v,Stith REBOUND (Off:0 Def:1),Rebound,Unknown,0,211
+20000202,224,PT01M03.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,174,184,25,Missed,1,0.0,0.0,0,v,MISS Pierce 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,212
+20000202,225,PT00M59.80S,2,1610612739,CLE,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,Weatherspoon REBOUND (Off:0 Def:6),Rebound,Unknown,0,213
+20000202,226,PT00M44.90S,2,1610612739,CLE,1723,Harpring,M. Harpring,-128,91,16,Missed,1,0.0,0.0,0,h,MISS Harpring 16' Jump Shot,Missed Shot,Jump Shot,0,214
+20000202,227,PT00M42.90S,2,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,v,Pierce REBOUND (Off:1 Def:6),Rebound,Unknown,0,215
+20000202,228,PT00M40.50S,2,1610612739,CLE,1723,Harpring,M. Harpring,0,0,0,,0,0.0,0.0,0,h,Harpring C.P.FOUL (P2.PN),Foul,Clear Path,0,216
+20000202,229,PT00M40.50S,2,1610612738,BOS,179,Stith,B. Stith,0,0,0,,0,31.0,48.0,79,v,Stith Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,217
+20000202,230,PT00M40.50S,2,1610612739,CLE,1723,Harpring,M. Harpring,0,0,0,,0,0.0,0.0,0,h,SUB: Langdon FOR Harpring,Substitution,,0,218
+20000202,231,PT00M40.50S,2,1610612738,BOS,179,Stith,B. Stith,0,0,0,,0,31.0,49.0,80,v,Stith Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,219
+20000202,233,PT00M23.90S,2,1610612739,CLE,441,Murray,L. Murray,-128,-15,13,Missed,1,0.0,0.0,0,h,MISS Murray 13' Jump Shot,Missed Shot,Jump Shot,0,220
+20000202,234,PT00M21.70S,2,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,v,Pierce REBOUND (Off:1 Def:7),Rebound,Unknown,0,221
+20000202,235,PT00M01.90S,2,1610612738,BOS,1718,Pierce,P. Pierce,1,118,12,Missed,1,0.0,0.0,0,v,MISS Pierce 12' Jump Shot,Missed Shot,Jump Shot,0,222
+20000202,236,PT00M00.00S,2,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,h,Ilgauskas REBOUND (Off:4 Def:2),Rebound,Unknown,0,223
+20000202,237,PT00M00.00S,2,0,,0,,,0,0,0,,0,31.0,49.0,80,,End of 2nd Period (12:31 PM EST),period,end,0,224
+20000202,239,PT12M00.00S,3,0,,0,,,0,0,0,,0,31.0,49.0,80,,Start of 3rd Period (12:47 PM EST),period,start,0,225
+20000202,240,PT11M49.00S,3,1610612738,BOS,958,Potapenko,V. Potapenko,159,-15,16,Missed,1,0.0,0.0,0,v,MISS Potapenko 16' Jump Shot,Missed Shot,Jump Shot,0,226
+20000202,241,PT11M47.00S,3,1610612739,CLE,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,Weatherspoon REBOUND (Off:0 Def:7),Rebound,Unknown,0,227
+20000202,242,PT11M38.00S,3,1610612738,BOS,958,Potapenko,V. Potapenko,0,0,0,,0,0.0,0.0,0,v,Potapenko P.FOUL (P2.T1),Foul,Personal,0,228
+20000202,243,PT11M24.00S,3,1610612739,CLE,221,Weatherspoon,C. Weatherspoon,73,129,15,Missed,1,0.0,0.0,0,h,MISS Weatherspoon 15' Jump Shot,Missed Shot,Jump Shot,0,229
+20000202,244,PT11M22.00S,3,1610612738,BOS,753,Brown,R. Brown,0,0,0,,0,0.0,0.0,0,v,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,230
+20000202,245,PT11M17.00S,3,1610612739,CLE,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,Weatherspoon P.FOUL (P2.T1),Foul,Personal,0,231
+20000202,246,PT11M00.00S,3,1610612738,BOS,958,Potapenko,V. Potapenko,7,38,4,Made,1,31.0,51.0,82,v,Potapenko 4' Hook Shot (7 PTS),Made Shot,Hook Shot,0,232
+20000202,247,PT10M55.00S,3,1610612739,CLE,423,Gatling,C. Gatling,0,0,0,,0,0.0,0.0,0,h,Gatling T.FOUL (P1.T1),Foul,Technical,0,233
+20000202,249,PT10M55.00S,3,1610612739,CLE,423,Gatling,C. Gatling,0,0,0,,0,0.0,0.0,0,h,Gatling Ejection:Second Technical,Ejection,Second Technical,0,234
+20000202,248,PT10M55.00S,3,1610612738,BOS,179,Stith,B. Stith,0,0,0,,0,31.0,52.0,83,v,Stith Free Throw Technical (7 PTS),Free Throw,Free Throw Technical,0,235
+20000202,250,PT10M33.00S,3,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Turnover: Shot Clock (T#11),Turnover,Shot Clock Turnover,0,236
+20000202,251,PT10M15.00S,3,1610612738,BOS,952,Walker,A. Walker,-235,-21,24,Missed,1,0.0,0.0,0,v,MISS Walker 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,237
+20000202,252,PT10M13.00S,3,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,h,Miller REBOUND (Off:1 Def:3),Rebound,Unknown,0,238
+20000202,253,PT10M08.00S,3,1610612739,CLE,221,Weatherspoon,C. Weatherspoon,1,32,3,Missed,1,0.0,0.0,0,h,MISS Weatherspoon 3' Jump Shot,Missed Shot,Jump Shot,0,239
+20000202,253,PT10M08.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,v,Pierce BLOCK (1 BLK),,,0,240
+20000202,254,PT10M04.00S,3,1610612738,BOS,753,Brown,R. Brown,0,0,0,,0,0.0,0.0,0,v,Brown REBOUND (Off:0 Def:2),Rebound,Unknown,0,241
+20000202,255,PT09M56.00S,3,1610612738,BOS,179,Stith,B. Stith,-134,-8,13,Made,1,31.0,54.0,85,v,Stith 13' Jump Shot (9 PTS) (Brown 4 AST),Made Shot,Jump Shot,0,242
+20000202,256,PT09M44.00S,3,1610612739,CLE,1889,Miller,A. Miller,159,-25,16,Made,1,33.0,54.0,87,h,Miller 16' Jump Shot (4 PTS) (Ilgauskas 1 AST),Made Shot,Jump Shot,0,243
+20000202,257,PT09M25.00S,3,1610612738,BOS,952,Walker,A. Walker,-4,32,3,Missed,1,0.0,0.0,0,v,MISS Walker 3' Jump Shot,Missed Shot,Jump Shot,0,244
+20000202,257,PT09M25.00S,3,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,h,Ilgauskas BLOCK (3 BLK),,,0,245
+20000202,258,PT09M24.00S,3,1610612738,BOS,958,Potapenko,V. Potapenko,0,0,0,,0,0.0,0.0,0,v,Potapenko REBOUND (Off:4 Def:1),Rebound,Unknown,0,246
+20000202,259,PT09M24.00S,3,1610612738,BOS,958,Potapenko,V. Potapenko,0,0,0,,0,0.0,0.0,0,v,Potapenko Traveling Turnover (P1.T8),Turnover,Traveling,0,247
+20000202,260,PT09M24.00S,3,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Timeout: Short (Full 2 Short 2),Timeout,Short,0,248
+20000202,262,PT09M09.00S,3,1610612739,CLE,1889,Miller,A. Miller,-56,42,7,Missed,1,0.0,0.0,0,h,MISS Miller 7' Jump Shot,Missed Shot,Jump Shot,0,249
+20000202,263,PT09M05.00S,3,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,h,Ilgauskas REBOUND (Off:5 Def:2),Rebound,Unknown,0,250
+20000202,264,PT08M52.00S,3,1610612739,CLE,441,Murray,L. Murray,-242,-21,24,Missed,1,0.0,0.0,0,h,MISS Murray 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,251
+20000202,265,PT08M49.00S,3,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker REBOUND (Off:0 Def:6),Rebound,Unknown,0,252
+20000202,266,PT08M47.00S,3,1610612739,CLE,1723,Harpring,M. Harpring,0,0,0,,0,0.0,0.0,0,h,Harpring S.FOUL (P3.T2),Foul,Shooting,0,253
+20000202,267,PT08M47.00S,3,1610612739,CLE,1723,Harpring,M. Harpring,0,0,0,,0,0.0,0.0,0,h,SUB: Person FOR Harpring,Substitution,,0,254
+20000202,268,PT08M47.00S,3,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,33.0,55.0,88,v,Walker Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,255
+20000202,269,PT08M47.00S,3,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,33.0,56.0,89,v,Walker Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,256
+20000202,270,PT08M29.00S,3,1610612739,CLE,1889,Miller,A. Miller,7,76,8,Made,1,35.0,56.0,91,h,Miller 8' Jump Shot (6 PTS),Made Shot,Jump Shot,0,257
+20000202,271,PT08M19.00S,3,1610612739,CLE,445,Person,W. Person,0,0,0,,0,0.0,0.0,0,h,Person P.FOUL (P1.T3),Foul,Personal,0,258
+20000202,272,PT08M04.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,85,125,15,Missed,1,0.0,0.0,0,v,MISS Pierce 15' Jump Shot,Missed Shot,Jump Shot,0,259
+20000202,273,PT08M03.00S,3,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,h,Ilgauskas REBOUND (Off:5 Def:3),Rebound,Unknown,0,260
+20000202,274,PT07M46.00S,3,1610612739,CLE,221,Weatherspoon,C. Weatherspoon,16,21,3,Made,1,37.0,56.0,93,h,Weatherspoon 3' Reverse Layup (7 PTS) (Miller 8 AST),Made Shot,Reverse Layup Shot,0,261
+20000202,275,PT07M27.00S,3,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker OFF.Foul (P2),Foul,Offensive,0,262
+20000202,276,PT07M27.00S,3,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker Foul Turnover (P3.T9),Turnover,Foul,0,263
+20000202,277,PT07M07.00S,3,1610612739,CLE,221,Weatherspoon,C. Weatherspoon,16,11,2,Made,1,39.0,56.0,95,h,Weatherspoon 2' Layup (9 PTS) (Murray 2 AST),Made Shot,Layup Shot,0,264
+20000202,278,PT06M39.00S,3,1610612738,BOS,179,Stith,B. Stith,-170,-25,17,Missed,1,0.0,0.0,0,v,MISS Stith 17' Jump Shot,Missed Shot,Jump Shot,0,265
+20000202,279,PT06M36.00S,3,1610612739,CLE,445,Person,W. Person,0,0,0,,0,0.0,0.0,0,h,Person REBOUND (Off:0 Def:2),Rebound,Unknown,0,266
+20000202,280,PT06M33.00S,3,1610612739,CLE,441,Murray,L. Murray,-4,4,1,Made,1,41.0,56.0,97,h,Murray 1' Slam Dunk (6 PTS) (Miller 9 AST),Made Shot,Slam Dunk Shot,0,267
+20000202,281,PT06M31.00S,3,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,268
+20000202,285,PT06M20.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,v,Pierce Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,269
+20000202,285,PT06M20.00S,3,1610612739,CLE,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,h,Murray STEAL (1 STL),,,0,270
+20000202,286,PT06M19.00S,3,1610612738,BOS,179,Stith,B. Stith,0,0,0,,0,0.0,0.0,0,v,Stith P.FOUL (P1.T2),Foul,Personal,0,271
+20000202,287,PT06M08.00S,3,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,h,Ilgauskas Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,272
+20000202,287,PT06M08.00S,3,1610612738,BOS,179,Stith,B. Stith,0,0,0,,0,0.0,0.0,0,v,Stith STEAL (4 STL),,,0,273
+20000202,288,PT06M00.00S,3,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Violation: Def. Goaltending Violation,Violation,Defensive Goaltending,0,274
+20000202,289,PT05M45.00S,3,1610612738,BOS,958,Potapenko,V. Potapenko,167,-15,17,Made,1,41.0,58.0,99,v,Potapenko 17' Jump Shot (9 PTS) (Stith 4 AST),Made Shot,Jump Shot,0,275
+20000202,290,PT05M26.00S,3,1610612739,CLE,445,Person,W. Person,64,238,25,Missed,1,0.0,0.0,0,h,MISS Person 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,276
+20000202,291,PT05M23.00S,3,1610612739,CLE,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,h,Murray REBOUND (Off:2 Def:1),Rebound,Unknown,0,277
+20000202,292,PT05M13.00S,3,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,h,Ilgauskas OFF.Foul (P2),Foul,Offensive,0,278
+20000202,293,PT05M13.00S,3,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,h,Ilgauskas Foul Turnover (P3.T13),Turnover,Foul,0,279
+20000202,294,PT04M55.00S,3,1610612738,BOS,952,Walker,A. Walker,16,28,3,Missed,1,0.0,0.0,0,v,MISS Walker 3' Jump Shot,Missed Shot,Jump Shot,0,280
+20000202,294,PT04M55.00S,3,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,h,Ilgauskas BLOCK (4 BLK),,,0,281
+20000202,295,PT04M51.00S,3,1610612739,CLE,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,Weatherspoon REBOUND (Off:0 Def:8),Rebound,Unknown,0,282
+20000202,296,PT04M36.00S,3,1610612739,CLE,441,Murray,L. Murray,174,0,17,Missed,1,0.0,0.0,0,h,MISS Murray 17' Jump Shot,Missed Shot,Jump Shot,0,283
+20000202,298,PT04M34.00S,3,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,h,Ilgauskas REBOUND (Off:6 Def:3),Rebound,Unknown,0,284
+20000202,297,PT04M34.00S,3,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,1,4,0,Made,1,43.0,58.0,101,h,Ilgauskas  Tip Shot (12 PTS),Made Shot,Tip Shot,0,285
+20000202,299,PT04M12.00S,3,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker OFF.Foul (P3),Foul,Offensive,0,286
+20000202,300,PT04M12.00S,3,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker Foul Turnover (P4.T11),Turnover,Foul,0,287
+20000202,301,PT04M12.00S,3,1610612738,BOS,958,Potapenko,V. Potapenko,0,0,0,,0,0.0,0.0,0,v,SUB: Battie FOR Potapenko,Substitution,,0,288
+20000202,302,PT04M12.00S,3,1610612738,BOS,179,Stith,B. Stith,0,0,0,,0,0.0,0.0,0,v,SUB: Williams FOR Stith,Substitution,,0,289
+20000202,303,PT03M54.00S,3,1610612739,CLE,1889,Miller,A. Miller,7,63,6,Missed,1,0.0,0.0,0,h,MISS Miller 6' Jump Shot,Missed Shot,Jump Shot,0,290
+20000202,304,PT03M51.00S,3,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker REBOUND (Off:0 Def:7),Rebound,Unknown,0,291
+20000202,305,PT03M46.00S,3,1610612739,CLE,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,Weatherspoon P.FOUL (P3.T4),Foul,Personal,0,292
+20000202,306,PT03M31.00S,3,1610612739,CLE,445,Person,W. Person,0,0,0,,0,0.0,0.0,0,h,Person S.FOUL (P2.PN),Foul,Shooting,0,293
+20000202,307,PT03M31.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,43.0,59.0,102,v,Pierce Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,294
+20000202,308,PT03M31.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,v,MISS Pierce Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,295
+20000202,309,PT03M31.00S,3,1610612739,CLE,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,h,Murray REBOUND (Off:2 Def:2),Rebound,Unknown,0,296
+20000202,310,PT03M21.00S,3,1610612739,CLE,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,Weatherspoon Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,297
+20000202,310,PT03M21.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,v,Pierce STEAL (2 STL),,,0,298
+20000202,311,PT03M17.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,1,4,0,Made,1,43.0,61.0,104,v,Pierce  Slam Dunk (12 PTS),Made Shot,Slam Dunk Shot,0,299
+20000202,312,PT02M51.00S,3,1610612739,CLE,1889,Miller,A. Miller,7,211,21,Missed,1,0.0,0.0,0,h,MISS Miller 21' Jump Shot,Missed Shot,Jump Shot,0,300
+20000202,313,PT02M48.00S,3,1610612738,BOS,677,Williams,E. Williams,0,0,0,,0,0.0,0.0,0,v,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,301
+20000202,314,PT02M30.00S,3,1610612738,BOS,952,Walker,A. Walker,7,245,25,Made,1,43.0,64.0,107,v,Walker 25' 3PT Jump Shot (22 PTS) (Williams 3 AST),Made Shot,Jump Shot,0,302
+20000202,315,PT02M26.00S,3,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Timeout: Regular (Full 3 Short 2),Timeout,Regular,0,303
+20000202,319,PT02M26.00S,3,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,h,SUB: Mihm FOR Ilgauskas,Substitution,,0,304
+20000202,320,PT02M26.00S,3,1610612739,CLE,445,Person,W. Person,0,0,0,,0,0.0,0.0,0,h,SUB: Langdon FOR Person,Substitution,,0,305
+20000202,321,PT02M09.00S,3,1610612739,CLE,221,Weatherspoon,C. Weatherspoon,7,4,1,Made,1,45.0,64.0,109,h,Weatherspoon 1' Layup (11 PTS) (Miller 10 AST),Made Shot,Layup Shot,0,306
+20000202,322,PT01M51.00S,3,1610612738,BOS,753,Brown,R. Brown,-92,118,15,Missed,1,0.0,0.0,0,v,MISS Brown 15' Jump Shot,Missed Shot,Jump Shot,0,307
+20000202,323,PT01M47.00S,3,1610612739,CLE,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,h,Murray REBOUND (Off:2 Def:3),Rebound,Unknown,0,308
+20000202,324,PT01M33.00S,3,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,h,Miller Bad Pass Turnover (P5.T15),Turnover,Bad Pass,0,309
+20000202,324,PT01M33.00S,3,1610612738,BOS,677,Williams,E. Williams,0,0,0,,0,0.0,0.0,0,v,Williams STEAL (1 STL),,,0,310
+20000202,325,PT01M28.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,22,4,2,Missed,1,0.0,0.0,0,v,MISS Pierce 2' Layup,Missed Shot,Layup Shot,0,311
+20000202,326,PT01M26.00S,3,1610612739,CLE,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,h,Murray REBOUND (Off:2 Def:4),Rebound,Unknown,0,312
+20000202,327,PT01M20.00S,3,1610612739,CLE,1889,Miller,A. Miller,1,55,6,Made,1,47.0,64.0,111,h,Miller 6' Jump Shot (8 PTS),Made Shot,Jump Shot,0,313
+20000202,328,PT00M57.90S,3,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,h,Miller P.FOUL (P3.PN),Foul,Personal,0,314
+20000202,329,PT00M57.90S,3,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,h,SUB: Hawkins FOR Miller,Substitution,,0,315
+20000202,330,PT00M57.90S,3,1610612738,BOS,1499,Battie,T. Battie,0,0,0,,0,0.0,0.0,0,v,MISS Battie Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,316
+20000202,331,PT00M57.90S,3,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,v,Celtics Rebound,Rebound,Normal Rebound,0,317
+20000202,332,PT00M57.90S,3,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,SUB: McCarty FOR Walker,Substitution,,0,318
+20000202,333,PT00M57.90S,3,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,v,SUB: Stith FOR Pierce,Substitution,,0,319
+20000202,334,PT00M57.90S,3,1610612738,BOS,1499,Battie,T. Battie,0,0,0,,0,47.0,65.0,112,v,Battie Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,320
+20000202,336,PT00M33.50S,3,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Turnover: Shot Clock (T#16),Turnover,Shot Clock Turnover,0,321
+20000202,337,PT00M33.50S,3,1610612738,BOS,753,Brown,R. Brown,0,0,0,,0,0.0,0.0,0,v,SUB: Herren FOR Brown,Substitution,,0,322
+20000202,338,PT00M16.70S,3,1610612738,BOS,1499,Battie,T. Battie,0,0,0,,0,0.0,0.0,0,v,Battie Traveling Turnover (P2.T12),Turnover,Traveling,0,323
+20000202,339,PT00M06.90S,3,1610612739,CLE,441,Murray,L. Murray,201,-25,20,Missed,1,0.0,0.0,0,h,MISS Murray 20' Jump Shot,Missed Shot,Jump Shot,0,324
+20000202,340,PT00M05.50S,3,1610612739,CLE,1138,Hawkins,M. Hawkins,0,0,0,,0,0.0,0.0,0,h,Hawkins REBOUND (Off:1 Def:0),Rebound,Unknown,0,325
+20000202,341,PT00M05.50S,3,1610612738,BOS,1914,Herren,C. Herren,0,0,0,,0,0.0,0.0,0,v,Herren P.FOUL (P1.T3),Foul,Personal,0,326
+20000202,342,PT00M00.30S,3,1610612739,CLE,2036,Mihm,C. Mihm,108,97,15,Made,1,49.0,65.0,114,h,Mihm 15' Jump Shot (2 PTS) (Hawkins 1 AST),Made Shot,Jump Shot,0,327
+20000202,343,PT00M00.00S,3,0,,0,,,0,0,0,,0,49.0,65.0,114,,End of 3rd Period (1:13 PM EST),period,end,0,328
+20000202,345,PT12M00.00S,4,0,,0,,,0,0,0,,0,49.0,65.0,114,,Start of 4th Period (1:16 PM EST),period,start,0,329
+20000202,346,PT11M47.00S,4,1610612739,CLE,2036,Mihm,C. Mihm,1,28,3,Missed,1,0.0,0.0,0,h,MISS Mihm 3' Layup,Missed Shot,Layup Shot,0,330
+20000202,347,PT11M43.00S,4,1610612738,BOS,677,Williams,E. Williams,0,0,0,,0,0.0,0.0,0,v,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,0,331
+20000202,348,PT11M24.00S,4,1610612738,BOS,1914,Herren,C. Herren,1,28,3,Missed,1,0.0,0.0,0,v,MISS Herren 3' Layup,Missed Shot,Layup Shot,0,332
+20000202,348,PT11M24.00S,4,1610612739,CLE,1892,Langdon,T. Langdon,0,0,0,,0,0.0,0.0,0,h,Langdon BLOCK (1 BLK),,,0,333
+20000202,349,PT11M18.00S,4,1610612739,CLE,1892,Langdon,T. Langdon,0,0,0,,0,0.0,0.0,0,h,Langdon REBOUND (Off:0 Def:1),Rebound,Unknown,0,334
+20000202,350,PT11M14.00S,4,1610612739,CLE,1892,Langdon,T. Langdon,0,0,0,,0,0.0,0.0,0,h,Langdon Lost Ball Turnover (P2.T17),Turnover,Lost Ball,0,335
+20000202,351,PT11M14.00S,4,1610612739,CLE,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,h,SUB: Henderson FOR Murray,Substitution,,0,336
+20000202,352,PT11M14.00S,4,1610612739,CLE,1138,Hawkins,M. Hawkins,0,0,0,,0,0.0,0.0,0,h,SUB: Miller FOR Hawkins,Substitution,,0,337
+20000202,353,PT10M51.00S,4,1610612738,BOS,1914,Herren,C. Herren,7,28,3,Missed,1,0.0,0.0,0,v,MISS Herren 3' Layup,Missed Shot,Layup Shot,0,338
+20000202,355,PT10M48.00S,4,1610612738,BOS,1499,Battie,T. Battie,0,0,0,,0,0.0,0.0,0,v,Battie REBOUND (Off:3 Def:2),Rebound,Unknown,0,339
+20000202,354,PT10M48.00S,4,1610612738,BOS,1499,Battie,T. Battie,7,4,1,Made,1,49.0,67.0,116,v,Battie 1' Slam Dunk (5 PTS),Made Shot,Slam Dunk Shot,0,340
+20000202,356,PT10M27.00S,4,1610612739,CLE,1538,Henderson,C. Henderson,16,21,3,Missed,1,0.0,0.0,0,h,MISS Henderson 3' Layup,Missed Shot,Layup Shot,0,341
+20000202,356,PT10M27.00S,4,1610612738,BOS,1499,Battie,T. Battie,0,0,0,,0,0.0,0.0,0,v,Battie BLOCK (1 BLK),,,0,342
+20000202,357,PT10M23.00S,4,1610612738,BOS,1499,Battie,T. Battie,0,0,0,,0,0.0,0.0,0,v,Battie REBOUND (Off:3 Def:3),Rebound,Unknown,0,343
+20000202,358,PT10M11.00S,4,1610612738,BOS,1914,Herren,C. Herren,7,32,3,Missed,1,0.0,0.0,0,v,MISS Herren 3' Jump Shot,Missed Shot,Jump Shot,0,344
+20000202,358,PT10M11.00S,4,1610612739,CLE,1714,Traylor,R. Traylor,0,0,0,,0,0.0,0.0,0,h,Traylor BLOCK (1 BLK),,,0,345
+20000202,359,PT10M07.00S,4,1610612739,CLE,2036,Mihm,C. Mihm,0,0,0,,0,0.0,0.0,0,h,Mihm REBOUND (Off:0 Def:1),Rebound,Unknown,0,346
+20000202,360,PT09M57.00S,4,1610612739,CLE,1714,Traylor,R. Traylor,43,0,4,Made,1,51.0,67.0,118,h,Traylor 4' Hook Shot (4 PTS) (Miller 11 AST),Made Shot,Hook Shot,0,347
+20000202,361,PT09M50.00S,4,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,v,Celtics Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,348
+20000202,364,PT09M50.00S,4,1610612738,BOS,1914,Herren,C. Herren,0,0,0,,0,0.0,0.0,0,v,SUB: Walker FOR Herren,Substitution,,0,349
+20000202,365,PT09M50.00S,4,1610612738,BOS,962,McCarty,W. McCarty,0,0,0,,0,0.0,0.0,0,v,SUB: Brown FOR McCarty,Substitution,,0,350
+20000202,366,PT09M31.00S,4,1610612738,BOS,677,Williams,E. Williams,22,15,3,Missed,1,0.0,0.0,0,v,MISS Williams 3' Driving Layup,Missed Shot,Driving Layup Shot,0,351
+20000202,367,PT09M28.00S,4,1610612739,CLE,1538,Henderson,C. Henderson,0,0,0,,0,0.0,0.0,0,h,Henderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,352
+20000202,368,PT09M13.00S,4,1610612739,CLE,2036,Mihm,C. Mihm,16,11,2,Made,1,53.0,67.0,120,h,Mihm 2' Hook Shot (4 PTS),Made Shot,Hook Shot,0,353
+20000202,369,PT08M50.00S,4,1610612738,BOS,677,Williams,E. Williams,231,-25,0,Made,1,53.0,70.0,123,v,Williams  3PT Jump Shot (11 PTS) (Brown 5 AST),Made Shot,Jump Shot,0,354
+20000202,370,PT08M34.00S,4,1610612739,CLE,1889,Miller,A. Miller,100,125,16,Made,1,55.0,70.0,125,h,Miller 16' Jump Shot (10 PTS),Made Shot,Jump Shot,0,355
+20000202,371,PT08M14.00S,4,1610612738,BOS,677,Williams,E. Williams,231,-4,0,Missed,1,0.0,0.0,0,v,MISS Williams  3PT Jump Shot,Missed Shot,Jump Shot,0,356
+20000202,372,PT08M12.00S,4,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Rebound,Rebound,Unknown,0,357
+20000202,373,PT08M12.00S,4,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker L.B.FOUL (P4.T1),Foul,Loose Ball,0,358
+20000202,374,PT08M12.00S,4,1610612738,BOS,179,Stith,B. Stith,0,0,0,,0,0.0,0.0,0,v,SUB: Pierce FOR Stith,Substitution,,0,359
+20000202,375,PT07M53.00S,4,1610612739,CLE,1889,Miller,A. Miller,115,101,15,Missed,1,0.0,0.0,0,h,MISS Miller 15' Jump Shot,Missed Shot,Jump Shot,0,360
+20000202,376,PT07M51.00S,4,1610612738,BOS,677,Williams,E. Williams,0,0,0,,0,0.0,0.0,0,v,Williams REBOUND (Off:0 Def:4),Rebound,Unknown,0,361
+20000202,377,PT07M51.00S,4,1610612739,CLE,1714,Traylor,R. Traylor,0,0,0,,0,0.0,0.0,0,h,Traylor P.FOUL (P2.T1),Foul,Personal,0,362
+20000202,378,PT07M36.00S,4,1610612738,BOS,677,Williams,E. Williams,231,-15,0,Made,1,55.0,73.0,128,v,Williams  3PT Jump Shot (14 PTS) (Pierce 3 AST),Made Shot,Jump Shot,0,363
+20000202,379,PT07M17.00S,4,1610612739,CLE,1889,Miller,A. Miller,-33,4,3,Missed,1,0.0,0.0,0,h,MISS Miller 3' Jump Shot,Missed Shot,Jump Shot,0,364
+20000202,380,PT07M14.00S,4,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,h,Miller REBOUND (Off:2 Def:3),Rebound,Unknown,0,365
+20000202,381,PT07M10.00S,4,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,h,Miller Lost Ball Turnover (P6.T18),Turnover,Lost Ball,0,366
+20000202,381,PT07M10.00S,4,1610612738,BOS,753,Brown,R. Brown,0,0,0,,0,0.0,0.0,0,v,Brown STEAL (1 STL),,,0,367
+20000202,382,PT07M02.00S,4,1610612738,BOS,952,Walker,A. Walker,16,245,25,Missed,1,0.0,0.0,0,v,MISS Walker 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,368
+20000202,383,PT06M59.00S,4,1610612739,CLE,1538,Henderson,C. Henderson,0,0,0,,0,0.0,0.0,0,h,Henderson REBOUND (Off:0 Def:2),Rebound,Unknown,0,369
+20000202,384,PT06M56.00S,4,1610612739,CLE,1714,Traylor,R. Traylor,1,21,2,Missed,1,0.0,0.0,0,h,MISS Traylor 2' Layup,Missed Shot,Layup Shot,0,370
+20000202,385,PT06M49.00S,4,1610612739,CLE,1714,Traylor,R. Traylor,0,0,0,,0,0.0,0.0,0,h,Traylor REBOUND (Off:1 Def:0),Rebound,Unknown,0,371
+20000202,386,PT06M47.00S,4,1610612739,CLE,2036,Mihm,C. Mihm,16,15,2,Made,1,57.0,73.0,130,h,Mihm 2' Layup (6 PTS) (Traylor 1 AST),Made Shot,Layup Shot,0,372
+20000202,387,PT06M34.00S,4,1610612738,BOS,1718,Pierce,P. Pierce,-141,11,14,Made,1,57.0,75.0,132,v,Pierce 14' Jump Shot (14 PTS),Made Shot,Jump Shot,0,373
+20000202,388,PT06M32.00S,4,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Timeout: Regular (Full 4 Short 2),Timeout,Regular,0,374
+20000202,391,PT06M32.00S,4,1610612738,BOS,1499,Battie,T. Battie,0,0,0,,0,0.0,0.0,0,v,SUB: Potapenko FOR Battie,Substitution,,0,375
+20000202,392,PT06M10.00S,4,1610612739,CLE,1889,Miller,A. Miller,7,42,4,Missed,1,0.0,0.0,0,h,MISS Miller 4' Jump Shot,Missed Shot,Jump Shot,0,376
+20000202,392,PT06M10.00S,4,1610612738,BOS,677,Williams,E. Williams,0,0,0,,0,0.0,0.0,0,v,Williams BLOCK (1 BLK),,,0,377
+20000202,393,PT06M07.00S,4,1610612739,CLE,1714,Traylor,R. Traylor,0,0,0,,0,0.0,0.0,0,h,Traylor REBOUND (Off:2 Def:0),Rebound,Unknown,0,378
+20000202,394,PT06M07.00S,4,1610612739,CLE,1714,Traylor,R. Traylor,231,-21,0,Missed,1,0.0,0.0,0,h,MISS Traylor  3PT Jump Shot,Missed Shot,Jump Shot,0,379
+20000202,395,PT06M07.00S,4,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Rebound,Rebound,Unknown,0,380
+20000202,396,PT06M07.00S,4,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Turnover: Shot Clock (T#19),Turnover,Shot Clock Turnover,0,381
+20000202,397,PT05M59.00S,4,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,v,Pierce Bad Pass Turnover (P3.T13),Turnover,Bad Pass,0,382
+20000202,397,PT05M59.00S,4,1610612739,CLE,1714,Traylor,R. Traylor,0,0,0,,0,0.0,0.0,0,h,Traylor STEAL (1 STL),,,0,383
+20000202,398,PT05M55.00S,4,1610612739,CLE,1714,Traylor,R. Traylor,1,4,0,Made,1,59.0,75.0,134,h,Traylor  Slam Dunk (6 PTS),Made Shot,Slam Dunk Shot,0,384
+20000202,399,PT05M38.00S,4,1610612739,CLE,1714,Traylor,R. Traylor,0,0,0,,0,0.0,0.0,0,h,Traylor P.FOUL (P3.T2),Foul,Personal,0,385
+20000202,400,PT05M38.00S,4,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,v,MISS Pierce Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,386
+20000202,401,PT05M38.00S,4,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,v,Celtics Rebound,Rebound,Normal Rebound,0,387
+20000202,402,PT05M38.00S,4,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,v,MISS Pierce Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,388
+20000202,403,PT05M37.00S,4,1610612739,CLE,1538,Henderson,C. Henderson,0,0,0,,0,0.0,0.0,0,h,Henderson REBOUND (Off:0 Def:3),Rebound,Unknown,0,389
+20000202,404,PT05M23.00S,4,1610612738,BOS,958,Potapenko,V. Potapenko,0,0,0,,0,0.0,0.0,0,v,Potapenko S.FOUL (P3.T2),Foul,Shooting,0,390
+20000202,405,PT05M23.00S,4,1610612739,CLE,2036,Mihm,C. Mihm,0,0,0,,0,60.0,75.0,135,h,Mihm Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,391
+20000202,406,PT05M23.00S,4,1610612739,CLE,2036,Mihm,C. Mihm,0,0,0,,0,61.0,75.0,136,h,Mihm Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,392
+20000202,407,PT05M00.00S,4,1610612738,BOS,677,Williams,E. Williams,-149,200,25,Missed,1,0.0,0.0,0,v,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,393
+20000202,408,PT04M56.00S,4,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,h,Miller REBOUND (Off:2 Def:4),Rebound,Unknown,0,394
+20000202,409,PT04M45.00S,4,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,h,Miller OFF.Foul (P4),Foul,Offensive,0,395
+20000202,410,PT04M45.00S,4,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,h,Miller Foul Turnover (P7.T20),Turnover,Foul,0,396
+20000202,411,PT04M45.00S,4,1610612738,BOS,677,Williams,E. Williams,0,0,0,,0,0.0,0.0,0,v,SUB: Stith FOR Williams,Substitution,,0,397
+20000202,412,PT04M41.00S,4,1610612739,CLE,1714,Traylor,R. Traylor,0,0,0,,0,0.0,0.0,0,h,Traylor P.FOUL (P4.T3),Foul,Personal,0,398
+20000202,413,PT04M33.00S,4,1610612739,CLE,1892,Langdon,T. Langdon,0,0,0,,0,0.0,0.0,0,h,Langdon P.FOUL (P1.T4),Foul,Personal,0,399
+20000202,414,PT04M23.00S,4,1610612738,BOS,952,Walker,A. Walker,-98,234,25,Made,1,61.0,78.0,139,v,Walker 25' 3PT Jump Shot (25 PTS) (Pierce 4 AST),Made Shot,Jump Shot,0,400
+20000202,415,PT04M09.00S,4,1610612739,CLE,2036,Mihm,C. Mihm,1,4,0,Made,1,63.0,78.0,141,h,Mihm  Slam Dunk (10 PTS) (Langdon 1 AST),Made Shot,Slam Dunk Shot,0,401
+20000202,416,PT03M49.00S,4,1610612738,BOS,1718,Pierce,P. Pierce,-105,101,15,Missed,1,0.0,0.0,0,v,MISS Pierce 15' Jump Shot,Missed Shot,Jump Shot,0,402
+20000202,417,PT03M47.00S,4,1610612739,CLE,2036,Mihm,C. Mihm,0,0,0,,0,0.0,0.0,0,h,Mihm REBOUND (Off:0 Def:2),Rebound,Unknown,0,403
+20000202,418,PT03M43.00S,4,1610612738,BOS,753,Brown,R. Brown,0,0,0,,0,0.0,0.0,0,v,Brown S.FOUL (P3.T3),Foul,Shooting,0,404
+20000202,419,PT03M43.00S,4,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,64.0,78.0,142,h,Miller Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,405
+20000202,420,PT03M43.00S,4,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,65.0,78.0,143,h,Miller Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,406
+20000202,421,PT03M39.00S,4,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker Bad Pass Turnover (P5.T14),Turnover,Bad Pass,0,407
+20000202,421,PT03M39.00S,4,1610612739,CLE,1538,Henderson,C. Henderson,0,0,0,,0,0.0,0.0,0,h,Henderson STEAL (1 STL),,,0,408
+20000202,422,PT03M32.00S,4,1610612739,CLE,1538,Henderson,C. Henderson,-119,101,16,Made,1,67.0,78.0,145,h,Henderson 16' Jump Shot (2 PTS) (Langdon 2 AST),Made Shot,Jump Shot,0,409
+20000202,423,PT03M32.00S,4,1610612739,CLE,1714,Traylor,R. Traylor,0,0,0,,0,0.0,0.0,0,h,Traylor P.FOUL (P5.PN),Foul,Personal,0,410
+20000202,424,PT03M32.00S,4,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,67.0,79.0,146,v,Walker Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,0,411
+20000202,425,PT03M32.00S,4,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,MISS Walker Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,412
+20000202,426,PT03M31.00S,4,1610612739,CLE,2036,Mihm,C. Mihm,0,0,0,,0,0.0,0.0,0,h,Mihm REBOUND (Off:0 Def:3),Rebound,Unknown,0,413
+20000202,427,PT03M22.00S,4,1610612739,CLE,1892,Langdon,T. Langdon,85,234,25,Missed,1,0.0,0.0,0,h,MISS Langdon 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,414
+20000202,428,PT03M19.00S,4,1610612738,BOS,958,Potapenko,V. Potapenko,0,0,0,,0,0.0,0.0,0,v,Potapenko REBOUND (Off:4 Def:2),Rebound,Unknown,0,415
+20000202,429,PT03M07.00S,4,1610612738,BOS,958,Potapenko,V. Potapenko,94,125,16,Missed,1,0.0,0.0,0,v,MISS Potapenko 16' Jump Shot,Missed Shot,Jump Shot,0,416
+20000202,430,PT03M04.00S,4,1610612738,BOS,179,Stith,B. Stith,0,0,0,,0,0.0,0.0,0,v,Stith REBOUND (Off:1 Def:1),Rebound,Unknown,0,417
+20000202,431,PT02M47.00S,4,1610612738,BOS,179,Stith,B. Stith,231,0,0,Missed,1,0.0,0.0,0,v,MISS Stith  3PT Jump Shot,Missed Shot,Jump Shot,0,418
+20000202,432,PT02M45.00S,4,1610612739,CLE,1538,Henderson,C. Henderson,0,0,0,,0,0.0,0.0,0,h,Henderson REBOUND (Off:0 Def:4),Rebound,Unknown,0,419
+20000202,433,PT02M39.00S,4,1610612739,CLE,1538,Henderson,C. Henderson,115,125,17,Missed,1,0.0,0.0,0,h,MISS Henderson 17' Jump Shot,Missed Shot,Jump Shot,0,420
+20000202,434,PT02M36.00S,4,1610612738,BOS,958,Potapenko,V. Potapenko,0,0,0,,0,0.0,0.0,0,v,Potapenko REBOUND (Off:4 Def:3),Rebound,Unknown,0,421
+20000202,435,PT02M12.00S,4,1610612738,BOS,1718,Pierce,P. Pierce,231,-8,0,Made,1,67.0,82.0,149,v,Pierce  3PT Jump Shot (17 PTS) (Potapenko 2 AST),Made Shot,Jump Shot,0,422
+20000202,436,PT02M11.00S,4,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Timeout: Regular (Full 5 Short 2),Timeout,Regular,0,423
+20000202,439,PT02M11.00S,4,1610612739,CLE,1714,Traylor,R. Traylor,0,0,0,,0,0.0,0.0,0,h,SUB: Murray FOR Traylor,Substitution,,0,424
+20000202,440,PT02M00.00S,4,1610612739,CLE,1889,Miller,A. Miller,-92,125,16,Missed,1,0.0,0.0,0,h,MISS Miller 16' Jump Shot,Missed Shot,Jump Shot,0,425
+20000202,441,PT01M58.00S,4,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker REBOUND (Off:0 Def:8),Rebound,Unknown,0,426
+20000202,442,PT01M37.00S,4,1610612738,BOS,1718,Pierce,P. Pierce,-235,4,24,Missed,1,0.0,0.0,0,v,MISS Pierce 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,427
+20000202,443,PT01M35.00S,4,1610612739,CLE,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,h,Murray REBOUND (Off:2 Def:5),Rebound,Unknown,0,428
+20000202,444,PT01M33.00S,4,1610612739,CLE,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,h,SUB: Hawkins FOR Miller,Substitution,,0,429
+20000202,445,PT01M33.00S,4,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Timeout: Short (Full 5 Short 3),Timeout,Short,0,430
+20000202,449,PT01M27.00S,4,1610612739,CLE,1538,Henderson,C. Henderson,16,4,2,Made,1,69.0,82.0,151,h,Henderson 2' Running Layup (4 PTS) (Langdon 3 AST),Made Shot,Running Layup Shot,0,431
+20000202,451,PT01M06.00S,4,1610612739,CLE,2036,Mihm,C. Mihm,0,0,0,,0,0.0,0.0,0,h,Mihm Violation:Lane,Violation,Lane,0,432
+20000202,450,PT01M06.00S,4,1610612738,BOS,1718,Pierce,P. Pierce,1,4,0,Made,1,69.0,84.0,153,v,Pierce  Driving Layup (19 PTS),Made Shot,Driving Layup Shot,0,433
+20000202,456,PT01M06.00S,4,1610612739,CLE,1138,Hawkins,M. Hawkins,0,0,0,,0,0.0,0.0,0,h,Hawkins S.FOUL (P1.PN),Foul,Shooting,0,434
+20000202,452,PT01M06.00S,4,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,69.0,85.0,154,v,Pierce Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,0,435
+20000202,460,PT00M54.00S,4,1610612739,CLE,1538,Henderson,C. Henderson,-110,160,19,Missed,1,0.0,0.0,0,h,MISS Henderson 19' Jump Shot,Missed Shot,Jump Shot,0,436
+20000202,453,PT00M50.90S,4,1610612738,BOS,753,Brown,R. Brown,0,0,0,,0,0.0,0.0,0,v,Brown REBOUND (Off:0 Def:3),Rebound,Unknown,0,437
+20000202,454,PT00M31.90S,4,1610612738,BOS,952,Walker,A. Walker,-105,108,15,Made,1,69.0,87.0,156,v,Walker 15' Jump Shot (28 PTS),Made Shot,Jump Shot,0,438
+20000202,455,PT00M21.90S,4,1610612739,CLE,1538,Henderson,C. Henderson,231,4,0,Made,1,72.0,87.0,159,h,Henderson  3PT Jump Shot (7 PTS) (Hawkins 2 AST),Made Shot,Jump Shot,0,439
+20000202,458,PT00M00.00S,4,0,,0,,,0,0,0,,0,72.0,87.0,159,,End of 4th Period (1:42 PM EST),period,end,0,440

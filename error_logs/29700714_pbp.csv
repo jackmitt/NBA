@@ -1,0 +1,520 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+29700714,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (2:31 PM EST),period,start,0,1
+29700714,1,PT12M00.00S,1,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,0.0,0.0,0,h,Jump Ball Wright vs. DeClercq: Tip to,Jump Ball,,0,2
+29700714,2,PT11M50.00S,1,1610612746,LAC,239,Martin,D. Martin,0,0,0,,0,0.0,0.0,0,h,Martin S.FOUL (P1.T1),Foul,Shooting,0,3
+29700714,3,PT11M50.00S,1,1610612738,BOS,244,Brown,D. Brown,0,0,0,,0,0.0,1.0,1,v,Brown Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,4
+29700714,4,PT11M50.00S,1,1610612738,BOS,244,Brown,D. Brown,0,0,0,,0,0.0,2.0,2,v,Brown Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,5
+29700714,5,PT11M38.00S,1,1610612746,LAC,15,Piatkowski,E. Piatkowski,0,0,0,,0,0.0,0.0,0,h,Piatkowski Traveling Turnover (P1.T1),Turnover,Traveling,0,6
+29700714,6,PT11M30.00S,1,1610612738,BOS,244,Brown,D. Brown,100,179,21,Missed,1,0.0,0.0,0,v,MISS Brown 21' Jump Shot,Missed Shot,Jump Shot,0,7
+29700714,7,PT11M29.00S,1,1610612738,BOS,1497,Billups,C. Billups,0,0,0,,0,0.0,0.0,0,v,Billups REBOUND (Off:1 Def:0),Rebound,Unknown,0,8
+29700714,8,PT11M18.00S,1,1610612738,BOS,952,Walker,A. Walker,0,0,0,Made,1,0.0,4.0,4,v,Walker  Layup (2 PTS),Made Shot,Layup Shot,0,9
+29700714,9,PT10M58.00S,1,1610612746,LAC,239,Martin,D. Martin,-212,134,25,Missed,1,0.0,0.0,0,h,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,10
+29700714,10,PT10M57.00S,1,1610612746,LAC,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,h,Rogers REBOUND (Off:1 Def:0),Rebound,Unknown,0,11
+29700714,11,PT10M38.00S,1,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,v,Celtics Violation: Def. Goaltending Violation,Violation,Defensive Goaltending,0,12
+29700714,12,PT10M18.00S,1,1610612746,LAC,441,Murray,L. Murray,-87,1,9,Missed,1,0.0,0.0,0,h,MISS Murray 9' Jump Shot,Missed Shot,Jump Shot,0,13
+29700714,13,PT10M16.00S,1,1610612738,BOS,692,DeClercq,A. DeClercq,0,0,0,,0,0.0,0.0,0,v,DeClercq REBOUND (Off:0 Def:1),Rebound,Unknown,0,14
+29700714,14,PT10M00.00S,1,1610612738,BOS,952,Walker,A. Walker,-51,21,6,Missed,1,0.0,0.0,0,v,MISS Walker 6' Jump Shot,Missed Shot,Jump Shot,0,15
+29700714,15,PT09M57.00S,1,1610612746,LAC,239,Martin,D. Martin,0,0,0,,0,0.0,0.0,0,h,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,16
+29700714,16,PT09M49.00S,1,1610612746,LAC,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,h,Rogers Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,17
+29700714,16,PT09M49.00S,1,1610612738,BOS,1500,Mercer,R. Mercer,0,0,0,,0,0.0,0.0,0,v,Mercer STEAL (1 STL),,,0,18
+29700714,17,PT09M47.00S,1,1610612738,BOS,1500,Mercer,R. Mercer,0,0,0,Made,1,0.0,6.0,6,v,Mercer  Slam Dunk (2 PTS),Made Shot,Slam Dunk Shot,0,19
+29700714,18,PT09M26.00S,1,1610612746,LAC,441,Murray,L. Murray,0,0,0,Made,1,2.0,6.0,8,h,Murray  Layup (2 PTS),Made Shot,Layup Shot,0,20
+29700714,19,PT09M05.00S,1,1610612738,BOS,952,Walker,A. Walker,-33,57,7,Missed,1,0.0,0.0,0,v,MISS Walker 7' Hook Shot,Missed Shot,Hook Shot,0,21
+29700714,20,PT09M02.00S,1,1610612738,BOS,692,DeClercq,A. DeClercq,0,0,0,,0,0.0,0.0,0,v,DeClercq REBOUND (Off:1 Def:1),Rebound,Unknown,0,22
+29700714,21,PT09M00.00S,1,1610612738,BOS,1500,Mercer,R. Mercer,0,0,0,Missed,1,0.0,0.0,0,v,MISS Mercer  Layup,Missed Shot,Layup Shot,0,23
+29700714,22,PT08M58.00S,1,1610612746,LAC,239,Martin,D. Martin,0,0,0,,0,0.0,0.0,0,h,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,24
+29700714,23,PT08M47.00S,1,1610612746,LAC,915,Rogers,R. Rogers,0,0,0,Made,1,4.0,6.0,10,h,Rogers  Layup (2 PTS) (Wright 1 AST),Made Shot,Layup Shot,0,25
+29700714,24,PT08M29.00S,1,1610612738,BOS,244,Brown,D. Brown,-109,190,22,Made,1,4.0,8.0,12,v,Brown 22' Jump Shot (4 PTS) (DeClercq 1 AST),Made Shot,Jump Shot,0,26
+29700714,25,PT08M21.00S,1,1610612738,BOS,1497,Billups,C. Billups,0,0,0,,0,0.0,0.0,0,v,Billups P.FOUL (P1.T1),Foul,Personal,0,27
+29700714,26,PT08M09.00S,1,1610612746,LAC,441,Murray,L. Murray,-194,171,26,Missed,1,0.0,0.0,0,h,MISS Murray 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,28
+29700714,27,PT08M07.00S,1,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,0.0,0.0,0,h,Wright REBOUND (Off:1 Def:0),Rebound,Unknown,0,29
+29700714,28,PT07M43.00S,1,1610612746,LAC,239,Martin,D. Martin,-188,192,27,Missed,1,0.0,0.0,0,h,MISS Martin 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,30
+29700714,29,PT07M41.00S,1,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,31
+29700714,30,PT07M32.00S,1,1610612738,BOS,692,DeClercq,A. DeClercq,0,0,0,Made,1,4.0,10.0,14,v,DeClercq  Layup (2 PTS) (Billups 1 AST),Made Shot,Layup Shot,0,32
+29700714,31,PT07M20.00S,1,1610612746,LAC,15,Piatkowski,E. Piatkowski,209,151,26,Missed,1,0.0,0.0,0,h,MISS Piatkowski 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,33
+29700714,32,PT07M16.00S,1,1610612738,BOS,692,DeClercq,A. DeClercq,0,0,0,,0,0.0,0.0,0,v,DeClercq REBOUND (Off:1 Def:2),Rebound,Unknown,0,34
+29700714,33,PT07M04.00S,1,1610612738,BOS,952,Walker,A. Walker,-121,0,12,Missed,1,0.0,0.0,0,v,MISS Walker 12' Jump Shot,Missed Shot,Jump Shot,0,35
+29700714,34,PT07M01.00S,1,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,0.0,0.0,0,h,Wright REBOUND (Off:1 Def:1),Rebound,Unknown,0,36
+29700714,35,PT06M56.00S,1,1610612746,LAC,915,Rogers,R. Rogers,237,1,24,Missed,1,0.0,0.0,0,h,MISS Rogers 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,37
+29700714,36,PT06M54.00S,1,1610612738,BOS,244,Brown,D. Brown,0,0,0,,0,0.0,0.0,0,v,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,38
+29700714,37,PT06M49.00S,1,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,0.0,0.0,0,h,Wright P.FOUL (P1.T2),Foul,Personal,0,39
+29700714,38,PT06M49.00S,1,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,h,CLIPPERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,40
+29700714,40,PT06M49.00S,1,1610612738,BOS,692,DeClercq,A. DeClercq,0,0,0,,0,0.0,0.0,0,v,SUB: Knight FOR DeClercq,Substitution,,0,41
+29700714,41,PT06M36.00S,1,1610612738,BOS,1500,Mercer,R. Mercer,57,184,19,Missed,1,0.0,0.0,0,v,MISS Mercer 19' Jump Shot,Missed Shot,Jump Shot,0,42
+29700714,42,PT06M34.00S,1,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,0.0,0.0,0,h,Wright REBOUND (Off:1 Def:2),Rebound,Unknown,0,43
+29700714,43,PT06M29.00S,1,1610612746,LAC,239,Martin,D. Martin,0,0,0,,0,0.0,0.0,0,h,Martin Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,44
+29700714,44,PT06M17.00S,1,1610612738,BOS,952,Walker,A. Walker,-48,38,6,Missed,1,0.0,0.0,0,v,MISS Walker 6' Jump Shot,Missed Shot,Jump Shot,0,45
+29700714,45,PT06M15.00S,1,1610612746,LAC,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,h,Murray REBOUND (Off:0 Def:1),Rebound,Unknown,0,46
+29700714,46,PT06M09.00S,1,1610612746,LAC,239,Martin,D. Martin,98,-1,10,Missed,1,0.0,0.0,0,h,MISS Martin 10' Jump Shot,Missed Shot,Jump Shot,0,47
+29700714,47,PT06M07.00S,1,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker REBOUND (Off:0 Def:2),Rebound,Unknown,0,48
+29700714,48,PT06M06.00S,1,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,49
+29700714,49,PT05M53.00S,1,1610612746,LAC,915,Rogers,R. Rogers,0,0,0,Made,1,6.0,10.0,16,h,Rogers  Layup (4 PTS),Made Shot,Layup Shot,0,50
+29700714,50,PT05M41.00S,1,1610612738,BOS,969,Knight,T. Knight,72,162,18,Missed,1,0.0,0.0,0,v,MISS Knight 18' Jump Shot,Missed Shot,Jump Shot,0,51
+29700714,51,PT05M38.00S,1,1610612746,LAC,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,h,Rogers REBOUND (Off:1 Def:1),Rebound,Unknown,0,52
+29700714,52,PT05M22.00S,1,1610612746,LAC,953,Wright,L. Wright,0,0,0,Made,1,8.0,10.0,18,h,Wright  Slam Dunk (2 PTS) (Murray 1 AST),Made Shot,Slam Dunk Shot,0,53
+29700714,53,PT04M56.00S,1,1610612746,LAC,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,h,Rogers S.FOUL (P1.T3),Foul,Shooting,0,54
+29700714,54,PT04M56.00S,1,1610612738,BOS,244,Brown,D. Brown,0,0,0,,0,0.0,0.0,0,v,SUB: McCarty FOR Brown,Substitution,,0,55
+29700714,55,PT04M56.00S,1,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,8.0,11.0,19,v,Walker Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,56
+29700714,56,PT04M56.00S,1,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,MISS Walker Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,57
+29700714,57,PT04M55.00S,1,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,0.0,0.0,0,h,Wright REBOUND (Off:1 Def:3),Rebound,Unknown,0,58
+29700714,58,PT04M50.00S,1,1610612746,LAC,15,Piatkowski,E. Piatkowski,0,0,0,Missed,1,0.0,0.0,0,h,MISS Piatkowski  Driving Layup,Missed Shot,Driving Layup Shot,0,59
+29700714,58,PT04M50.00S,1,1610612738,BOS,962,McCarty,W. McCarty,0,0,0,,0,0.0,0.0,0,v,McCarty BLOCK (1 BLK),,,0,60
+29700714,59,PT04M47.00S,1,1610612738,BOS,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,v,Knight REBOUND (Off:0 Def:1),Rebound,Unknown,0,61
+29700714,60,PT04M41.00S,1,1610612738,BOS,969,Knight,T. Knight,0,0,0,Missed,1,0.0,0.0,0,v,MISS Knight  Layup,Missed Shot,Layup Shot,0,62
+29700714,61,PT04M39.00S,1,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,0.0,0.0,0,h,Wright REBOUND (Off:1 Def:4),Rebound,Unknown,0,63
+29700714,62,PT04M31.00S,1,1610612738,BOS,1500,Mercer,R. Mercer,0,0,0,,0,0.0,0.0,0,v,Mercer S.FOUL (P1.T2),Foul,Shooting,0,64
+29700714,63,PT04M31.00S,1,1610612746,LAC,915,Rogers,R. Rogers,0,0,0,,0,9.0,11.0,20,h,Rogers Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,65
+29700714,64,PT04M31.00S,1,1610612746,LAC,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,h,MISS Rogers Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,66
+29700714,65,PT04M30.00S,1,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker REBOUND (Off:0 Def:3),Rebound,Unknown,0,67
+29700714,66,PT04M24.00S,1,1610612738,BOS,952,Walker,A. Walker,0,0,0,Made,1,9.0,13.0,22,v,Walker  Driving Layup (5 PTS),Made Shot,Driving Layup Shot,0,68
+29700714,67,PT04M09.00S,1,1610612746,LAC,15,Piatkowski,E. Piatkowski,-132,5,13,Missed,1,0.0,0.0,0,h,MISS Piatkowski 13' Jump Shot,Missed Shot,Jump Shot,0,69
+29700714,69,PT04M05.00S,1,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,0.0,0.0,0,h,Wright REBOUND (Off:2 Def:4),Rebound,Unknown,0,70
+29700714,68,PT04M05.00S,1,1610612746,LAC,953,Wright,L. Wright,0,0,0,Made,1,11.0,13.0,24,h,Wright  Tip Shot (4 PTS),Made Shot,Tip Shot,0,71
+29700714,70,PT03M56.00S,1,1610612738,BOS,1500,Mercer,R. Mercer,-44,70,8,Made,1,11.0,15.0,26,v,Mercer 8' Jump Shot (4 PTS),Made Shot,Jump Shot,0,72
+29700714,71,PT03M56.00S,1,1610612746,LAC,15,Piatkowski,E. Piatkowski,0,0,0,,0,0.0,0.0,0,h,Piatkowski S.FOUL (P1.T4),Foul,Shooting,0,73
+29700714,72,PT03M56.00S,1,1610612738,BOS,1500,Mercer,R. Mercer,0,0,0,,0,11.0,16.0,27,v,Mercer Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,74
+29700714,73,PT03M46.00S,1,1610612738,BOS,962,McCarty,W. McCarty,0,0,0,,0,0.0,0.0,0,v,McCarty P.FOUL (P1.T3),Foul,Personal,0,75
+29700714,75,PT03M30.00S,1,1610612746,LAC,953,Wright,L. Wright,0,0,0,Made,1,13.0,16.0,29,h,Wright  Slam Dunk (6 PTS) (Martin 1 AST),Made Shot,Slam Dunk Shot,0,76
+29700714,76,PT03M11.00S,1,1610612738,BOS,969,Knight,T. Knight,0,0,0,Missed,1,0.0,0.0,0,v,MISS Knight  Layup,Missed Shot,Layup Shot,0,77
+29700714,77,PT03M09.00S,1,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,0.0,0.0,0,h,Wright REBOUND (Off:2 Def:5),Rebound,Unknown,0,78
+29700714,78,PT03M04.00S,1,1610612746,LAC,239,Martin,D. Martin,0,0,0,Missed,1,0.0,0.0,0,h,MISS Martin  Driving Layup,Missed Shot,Driving Layup Shot,0,79
+29700714,78,PT03M04.00S,1,1610612738,BOS,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,v,Knight BLOCK (1 BLK),,,0,80
+29700714,79,PT03M01.00S,1,1610612738,BOS,1497,Billups,C. Billups,0,0,0,,0,0.0,0.0,0,v,Billups REBOUND (Off:1 Def:1),Rebound,Unknown,0,81
+29700714,80,PT02M55.00S,1,1610612738,BOS,1497,Billups,C. Billups,46,59,7,Missed,1,0.0,0.0,0,v,MISS Billups 7' Jump Shot,Missed Shot,Jump Shot,0,82
+29700714,81,PT02M53.00S,1,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,0.0,0.0,0,h,Wright REBOUND (Off:2 Def:6),Rebound,Unknown,0,83
+29700714,82,PT02M49.00S,1,1610612738,BOS,962,McCarty,W. McCarty,0,0,0,,0,0.0,0.0,0,v,McCarty S.FOUL (P2.T4),Foul,Shooting,0,84
+29700714,83,PT02M49.00S,1,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,85
+29700714,84,PT02M49.00S,1,1610612738,BOS,1500,Mercer,R. Mercer,0,0,0,,0,0.0,0.0,0,v,SUB: Brown FOR Mercer,Substitution,,0,86
+29700714,85,PT02M49.00S,1,1610612738,BOS,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,v,SUB: Bowen FOR Knight,Substitution,,0,87
+29700714,86,PT02M49.00S,1,1610612738,BOS,962,McCarty,W. McCarty,0,0,0,,0,0.0,0.0,0,v,SUB: DeClercq FOR McCarty,Substitution,,0,88
+29700714,87,PT02M49.00S,1,1610612746,LAC,15,Piatkowski,E. Piatkowski,0,0,0,,0,0.0,0.0,0,h,SUB: Barry FOR Piatkowski,Substitution,,0,89
+29700714,88,PT02M49.00S,1,1610612746,LAC,441,Murray,L. Murray,0,0,0,,0,14.0,16.0,30,h,Murray Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,90
+29700714,89,PT02M49.00S,1,1610612746,LAC,441,Murray,L. Murray,0,0,0,,0,15.0,16.0,31,h,Murray Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,91
+29700714,90,PT02M34.00S,1,1610612738,BOS,952,Walker,A. Walker,-46,-5,5,Missed,1,0.0,0.0,0,v,MISS Walker 5' Jump Shot,Missed Shot,Jump Shot,0,92
+29700714,91,PT02M32.00S,1,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker REBOUND (Off:1 Def:3),Rebound,Unknown,0,93
+29700714,92,PT02M31.00S,1,1610612738,BOS,952,Walker,A. Walker,0,0,0,Made,1,15.0,18.0,33,v,Walker  Layup (7 PTS),Made Shot,Layup Shot,0,94
+29700714,93,PT02M11.00S,1,1610612746,LAC,915,Rogers,R. Rogers,0,0,0,Made,1,17.0,18.0,35,h,Rogers  Layup (7 PTS) (Wright 2 AST),Made Shot,Layup Shot,0,95
+29700714,94,PT01M54.00S,1,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,96
+29700714,94,PT01M54.00S,1,1610612746,LAC,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,h,Rogers STEAL (1 STL),,,0,97
+29700714,95,PT01M36.00S,1,1610612746,LAC,953,Wright,L. Wright,-79,-12,8,Made,1,19.0,18.0,37,h,Wright 8' Jump Shot (8 PTS) (Rogers 1 AST),Made Shot,Jump Shot,0,98
+29700714,96,PT01M21.00S,1,1610612738,BOS,1497,Billups,C. Billups,158,212,26,Made,1,19.0,21.0,40,v,Billups 26' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,0,99
+29700714,97,PT00M57.00S,1,1610612746,LAC,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,h,Rogers Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,100
+29700714,97,PT00M57.00S,1,1610612738,BOS,244,Brown,D. Brown,0,0,0,,0,0.0,0.0,0,v,Brown STEAL (1 STL),,,0,101
+29700714,98,PT00M51.00S,1,1610612738,BOS,1497,Billups,C. Billups,0,0,0,Made,1,19.0,23.0,42,v,Billups  Driving Layup (5 PTS),Made Shot,Driving Layup Shot,0,102
+29700714,99,PT00M30.00S,1,1610612746,LAC,441,Murray,L. Murray,-6,61,6,Missed,1,0.0,0.0,0,h,MISS Murray 6' Jump Shot,Missed Shot,Jump Shot,0,103
+29700714,100,PT00M27.10S,1,1610612738,BOS,692,DeClercq,A. DeClercq,0,0,0,,0,0.0,0.0,0,v,DeClercq REBOUND (Off:1 Def:3),Rebound,Unknown,0,104
+29700714,101,PT00M21.40S,1,1610612746,LAC,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,h,Rogers S.FOUL (P2.PN),Foul,Shooting,0,105
+29700714,102,PT00M21.40S,1,1610612746,LAC,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,h,SUB: Taylor FOR Rogers,Substitution,,0,106
+29700714,103,PT00M21.40S,1,1610612738,BOS,1497,Billups,C. Billups,0,0,0,,0,0.0,0.0,0,v,SUB: Barros FOR Billups,Substitution,,0,107
+29700714,104,PT00M21.40S,1,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,19.0,24.0,43,v,Walker Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,108
+29700714,105,PT00M21.40S,1,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,19.0,25.0,44,v,Walker Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,109
+29700714,106,PT00M03.00S,1,1610612746,LAC,239,Martin,D. Martin,76,261,27,Made,1,22.0,25.0,47,h,Martin 27' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,0,110
+29700714,108,PT00M00.00S,1,0,,0,,,0,0,0,,0,22.0,25.0,47,,End of 1st Period (2:54 PM EST),period,end,0,111
+29700714,110,PT12M00.00S,2,0,,0,,,0,0,0,,0,22.0,25.0,47,,Start of 2nd Period (2:56 PM EST),period,start,0,112
+29700714,111,PT11M44.00S,2,1610612746,LAC,953,Wright,L. Wright,-23,42,5,Missed,1,0.0,0.0,0,h,MISS Wright 5' Jump Shot,Missed Shot,Jump Shot,0,113
+29700714,112,PT11M42.00S,2,1610612738,BOS,692,DeClercq,A. DeClercq,0,0,0,,0,0.0,0.0,0,v,DeClercq REBOUND (Off:1 Def:4),Rebound,Unknown,0,114
+29700714,113,PT11M38.00S,2,1610612738,BOS,1477,Bowen,B. Bowen,0,0,0,Missed,1,0.0,0.0,0,v,MISS Bowen  Driving Layup,Missed Shot,Driving Layup Shot,0,115
+29700714,113,PT11M38.00S,2,1610612746,LAC,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,h,Murray BLOCK (1 BLK),,,0,116
+29700714,114,PT11M37.00S,2,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,v,Celtics Rebound,Rebound,Unknown,0,117
+29700714,115,PT11M34.00S,2,1610612738,BOS,244,Brown,D. Brown,-124,259,29,Missed,1,0.0,0.0,0,v,MISS Brown 29' 3PT Jump Shot,Missed Shot,Jump Shot,0,118
+29700714,116,PT11M32.00S,2,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,h,Taylor REBOUND (Off:0 Def:1),Rebound,Unknown,0,119
+29700714,117,PT11M11.00S,2,1610612738,BOS,1477,Bowen,B. Bowen,0,0,0,,0,0.0,0.0,0,v,Bowen S.FOUL (P1.T1),Foul,Shooting,0,120
+29700714,118,PT11M11.00S,2,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,23.0,25.0,48,h,Wright Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,121
+29700714,119,PT11M11.00S,2,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,24.0,25.0,49,h,Wright Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,122
+29700714,120,PT10M55.00S,2,1610612746,LAC,699,Barry,B. Barry,0,0,0,,0,0.0,0.0,0,h,Barry S.FOUL (P1.T1),Foul,Shooting,0,123
+29700714,121,PT10M55.00S,2,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,24.0,26.0,50,v,Walker Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,124
+29700714,122,PT10M55.00S,2,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,24.0,27.0,51,v,Walker Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,125
+29700714,123,PT10M53.00S,2,1610612738,BOS,692,DeClercq,A. DeClercq,0,0,0,,0,0.0,0.0,0,v,DeClercq P.FOUL (P1.T2),Foul,Personal,0,126
+29700714,124,PT10M33.00S,2,1610612746,LAC,699,Barry,B. Barry,-113,216,24,Missed,1,0.0,0.0,0,h,MISS Barry 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,127
+29700714,125,PT10M29.00S,2,1610612738,BOS,344,Barros,D. Barros,0,0,0,,0,0.0,0.0,0,v,Barros REBOUND (Off:0 Def:1),Rebound,Unknown,0,128
+29700714,126,PT10M20.00S,2,1610612738,BOS,952,Walker,A. Walker,-23,48,5,Made,1,24.0,29.0,53,v,Walker 5' Jump Shot (13 PTS),Made Shot,Jump Shot,0,129
+29700714,127,PT10M10.00S,2,1610612746,LAC,239,Martin,D. Martin,0,0,0,Missed,1,0.0,0.0,0,h,MISS Martin  Driving Layup,Missed Shot,Driving Layup Shot,0,130
+29700714,128,PT10M10.00S,2,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,0.0,0.0,0,h,Wright REBOUND (Off:3 Def:6),Rebound,Unknown,0,131
+29700714,129,PT10M10.00S,2,1610612738,BOS,244,Brown,D. Brown,0,0,0,,0,0.0,0.0,0,v,Brown S.FOUL (P1.T3),Foul,Shooting,0,132
+29700714,130,PT10M10.00S,2,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,0.0,0.0,0,h,MISS Wright Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,133
+29700714,131,PT10M10.00S,2,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,134
+29700714,132,PT10M10.00S,2,1610612746,LAC,239,Martin,D. Martin,0,0,0,,0,0.0,0.0,0,h,SUB: Robinson FOR Martin,Substitution,,0,135
+29700714,133,PT10M10.00S,2,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,0.0,0.0,0,h,MISS Wright Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,136
+29700714,134,PT10M10.00S,2,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker REBOUND (Off:1 Def:4),Rebound,Unknown,0,137
+29700714,135,PT09M54.00S,2,1610612738,BOS,952,Walker,A. Walker,-197,-3,20,Missed,1,0.0,0.0,0,v,MISS Walker 20' Jump Shot,Missed Shot,Jump Shot,0,138
+29700714,136,PT09M52.00S,2,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,0.0,0.0,0,h,Wright REBOUND (Off:3 Def:7),Rebound,Unknown,0,139
+29700714,137,PT09M41.00S,2,1610612746,LAC,1508,Taylor,M. Taylor,177,57,19,Missed,1,0.0,0.0,0,h,MISS Taylor 19' Jump Shot,Missed Shot,Jump Shot,0,140
+29700714,138,PT09M39.00S,2,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,h,Taylor REBOUND (Off:1 Def:1),Rebound,Unknown,0,141
+29700714,139,PT09M37.00S,2,1610612746,LAC,953,Wright,L. Wright,29,53,6,Missed,1,0.0,0.0,0,h,MISS Wright 6' Jump Shot,Missed Shot,Jump Shot,0,142
+29700714,140,PT09M34.00S,2,1610612746,LAC,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,h,Murray REBOUND (Off:1 Def:1),Rebound,Unknown,0,143
+29700714,141,PT09M33.00S,2,1610612746,LAC,441,Murray,L. Murray,0,0,0,Made,1,26.0,29.0,55,h,Murray  Layup (6 PTS),Made Shot,Layup Shot,0,144
+29700714,142,PT09M13.00S,2,1610612738,BOS,244,Brown,D. Brown,-158,-5,16,Missed,1,0.0,0.0,0,v,MISS Brown 16' Jump Shot,Missed Shot,Jump Shot,0,145
+29700714,143,PT09M10.00S,2,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,0.0,0.0,0,h,Wright REBOUND (Off:3 Def:8),Rebound,Unknown,0,146
+29700714,144,PT09M04.00S,2,1610612738,BOS,244,Brown,D. Brown,0,0,0,,0,0.0,0.0,0,v,Brown S.FOUL (P2.T4),Foul,Shooting,0,147
+29700714,145,PT09M04.00S,2,1610612738,BOS,244,Brown,D. Brown,0,0,0,,0,0.0,0.0,0,v,SUB: Mercer FOR Brown,Substitution,,0,148
+29700714,146,PT09M04.00S,2,1610612746,LAC,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,h,SUB: Rogers FOR Murray,Substitution,,0,149
+29700714,147,PT09M04.00S,2,1610612746,LAC,699,Barry,B. Barry,0,0,0,,0,27.0,29.0,56,h,Barry Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,150
+29700714,148,PT09M04.00S,2,1610612738,BOS,1477,Bowen,B. Bowen,0,0,0,,0,0.0,0.0,0,v,SUB: Minor FOR Bowen,Substitution,,0,151
+29700714,149,PT09M04.00S,2,1610612746,LAC,699,Barry,B. Barry,0,0,0,,0,28.0,29.0,57,h,Barry Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,152
+29700714,150,PT08M46.00S,2,1610612738,BOS,344,Barros,D. Barros,70,91,11,Made,1,28.0,31.0,59,v,Barros 11' Jump Shot (2 PTS),Made Shot,Jump Shot,0,153
+29700714,151,PT08M20.00S,2,1610612738,BOS,692,DeClercq,A. DeClercq,0,0,0,,0,0.0,0.0,0,v,DeClercq S.FOUL (P2.PN),Foul,Shooting,0,154
+29700714,152,PT08M20.00S,2,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,,0,29.0,31.0,60,h,Taylor Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,155
+29700714,153,PT08M20.00S,2,1610612738,BOS,692,DeClercq,A. DeClercq,0,0,0,,0,0.0,0.0,0,v,SUB: Knight FOR DeClercq,Substitution,,0,156
+29700714,154,PT08M20.00S,2,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,h,MISS Taylor Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,157
+29700714,155,PT08M19.00S,2,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,158
+29700714,156,PT08M11.00S,2,1610612746,LAC,381,Robinson,J. Robinson,108,239,26,Missed,1,0.0,0.0,0,h,MISS Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,159
+29700714,157,PT08M09.00S,2,1610612738,BOS,1500,Mercer,R. Mercer,0,0,0,,0,0.0,0.0,0,v,Mercer REBOUND (Off:0 Def:1),Rebound,Unknown,0,160
+29700714,158,PT08M03.00S,2,1610612738,BOS,1500,Mercer,R. Mercer,0,0,0,Made,1,29.0,33.0,62,v,Mercer  Slam Dunk (7 PTS) (Barros 1 AST),Made Shot,Slam Dunk Shot,0,161
+29700714,159,PT07M50.00S,2,1610612738,BOS,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,v,Knight S.FOUL (P1.PN),Foul,Shooting,0,162
+29700714,160,PT07M50.00S,2,1610612746,LAC,699,Barry,B. Barry,0,0,0,,0,0.0,0.0,0,h,MISS Barry Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,163
+29700714,161,PT07M50.00S,2,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,164
+29700714,162,PT07M50.00S,2,1610612746,LAC,699,Barry,B. Barry,0,0,0,,0,30.0,33.0,63,h,Barry Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,165
+29700714,163,PT07M39.00S,2,1610612738,BOS,1500,Mercer,R. Mercer,-145,111,18,Missed,1,0.0,0.0,0,v,MISS Mercer 18' Jump Shot,Missed Shot,Jump Shot,0,166
+29700714,164,PT07M37.00S,2,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,h,Taylor REBOUND (Off:1 Def:2),Rebound,Unknown,0,167
+29700714,165,PT07M33.00S,2,1610612746,LAC,381,Robinson,J. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,168
+29700714,165,PT07M33.00S,2,1610612738,BOS,344,Barros,D. Barros,0,0,0,,0,0.0,0.0,0,v,Barros STEAL (1 STL),,,0,169
+29700714,167,PT07M29.00S,2,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,h,Taylor Violation:Lane,Violation,Lane,0,170
+29700714,166,PT07M29.00S,2,1610612738,BOS,344,Barros,D. Barros,0,0,0,Made,1,30.0,35.0,65,v,Barros  Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,171
+29700714,168,PT07M17.00S,2,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,Made,1,32.0,35.0,67,h,Taylor  Slam Dunk (3 PTS) (Robinson 1 AST),Made Shot,Slam Dunk Shot,0,172
+29700714,169,PT06M57.00S,2,1610612738,BOS,344,Barros,D. Barros,-91,205,22,Missed,1,0.0,0.0,0,v,MISS Barros 22' Jump Shot,Missed Shot,Jump Shot,0,173
+29700714,170,PT06M55.00S,2,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,174
+29700714,171,PT06M55.00S,2,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,h,CLIPPERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,175
+29700714,173,PT06M38.00S,2,1610612746,LAC,1508,Taylor,M. Taylor,83,126,15,Made,1,34.0,35.0,69,h,Taylor 15' Jump Shot (5 PTS) (Barry 1 AST),Made Shot,Jump Shot,0,176
+29700714,174,PT06M21.00S,2,1610612738,BOS,65,Minor,G. Minor,-74,81,11,Missed,1,0.0,0.0,0,v,MISS Minor 11' Jump Shot,Missed Shot,Jump Shot,0,177
+29700714,175,PT06M19.00S,2,1610612746,LAC,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,h,Rogers REBOUND (Off:1 Def:2),Rebound,Unknown,0,178
+29700714,176,PT06M19.00S,2,1610612738,BOS,65,Minor,G. Minor,0,0,0,,0,0.0,0.0,0,v,Minor P.FOUL (P1.PN),Foul,Personal,0,179
+29700714,177,PT06M19.00S,2,1610612746,LAC,915,Rogers,R. Rogers,0,0,0,,0,35.0,35.0,70,h,Rogers Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,180
+29700714,178,PT06M19.00S,2,1610612738,BOS,344,Barros,D. Barros,0,0,0,,0,0.0,0.0,0,v,SUB: Billups FOR Barros,Substitution,,0,181
+29700714,179,PT06M19.00S,2,1610612746,LAC,915,Rogers,R. Rogers,0,0,0,,0,36.0,35.0,71,h,Rogers Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,182
+29700714,180,PT06M05.00S,2,1610612746,LAC,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,h,Rogers S.FOUL (P3.T2),Foul,Shooting,0,183
+29700714,181,PT06M05.00S,2,1610612738,BOS,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,v,MISS Knight Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,184
+29700714,182,PT06M05.00S,2,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,v,Celtics Rebound,Rebound,Unknown,0,185
+29700714,183,PT06M05.00S,2,1610612746,LAC,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,h,SUB: Murray FOR Rogers,Substitution,,0,186
+29700714,184,PT06M05.00S,2,1610612738,BOS,969,Knight,T. Knight,0,0,0,,0,36.0,36.0,72,v,Knight Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,187
+29700714,185,PT05M51.00S,2,1610612746,LAC,953,Wright,L. Wright,156,61,17,Made,1,38.0,36.0,74,h,Wright 17' Jump Shot (12 PTS) (Robinson 2 AST),Made Shot,Jump Shot,0,188
+29700714,186,PT05M32.00S,2,1610612738,BOS,65,Minor,G. Minor,0,0,0,,0,0.0,0.0,0,v,Minor Traveling Turnover (P1.T3),Turnover,Traveling,0,189
+29700714,187,PT05M20.00S,2,1610612746,LAC,953,Wright,L. Wright,3,55,6,Missed,1,0.0,0.0,0,h,MISS Wright 6' Jump Shot,Missed Shot,Jump Shot,0,190
+29700714,187,PT05M20.00S,2,1610612738,BOS,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,v,Knight BLOCK (2 BLK),,,0,191
+29700714,188,PT05M18.00S,2,1610612738,BOS,1497,Billups,C. Billups,0,0,0,,0,0.0,0.0,0,v,Billups REBOUND (Off:1 Def:2),Rebound,Unknown,0,192
+29700714,189,PT05M14.00S,2,1610612738,BOS,1500,Mercer,R. Mercer,0,0,0,Made,1,38.0,38.0,76,v,Mercer  Layup (9 PTS) (Billups 2 AST),Made Shot,Layup Shot,0,193
+29700714,190,PT04M53.00S,2,1610612746,LAC,441,Murray,L. Murray,0,0,0,Made,1,40.0,38.0,78,h,Murray  Slam Dunk (8 PTS) (Taylor 1 AST),Made Shot,Slam Dunk Shot,0,194
+29700714,191,PT04M38.00S,2,1610612738,BOS,952,Walker,A. Walker,-14,63,6,Missed,1,0.0,0.0,0,v,MISS Walker 6' Jump Shot,Missed Shot,Jump Shot,0,195
+29700714,193,PT04M37.00S,2,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker REBOUND (Off:2 Def:4),Rebound,Unknown,0,196
+29700714,192,PT04M37.00S,2,1610612738,BOS,952,Walker,A. Walker,0,0,0,Missed,1,0.0,0.0,0,v,MISS Walker  Tip Shot,Missed Shot,Tip Shot,0,197
+29700714,194,PT04M34.00S,2,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,0.0,0.0,0,h,Wright REBOUND (Off:3 Def:9),Rebound,Unknown,0,198
+29700714,195,PT04M31.00S,2,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,0.0,0.0,0,h,Wright Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,199
+29700714,195,PT04M31.00S,2,1610612738,BOS,65,Minor,G. Minor,0,0,0,,0,0.0,0.0,0,v,Minor STEAL (1 STL),,,0,200
+29700714,196,PT04M30.00S,2,1610612738,BOS,65,Minor,G. Minor,0,0,0,Made,1,40.0,40.0,80,v,Minor  Layup (2 PTS),Made Shot,Layup Shot,0,201
+29700714,197,PT04M30.00S,2,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,h,CLIPPERS Timeout: Short (Full 2 Short 1),Timeout,Short,0,202
+29700714,198,PT04M30.00S,2,1610612746,LAC,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,h,SUB: Piatkowski FOR Murray,Substitution,,0,203
+29700714,199,PT04M19.00S,2,1610612746,LAC,699,Barry,B. Barry,8,158,16,Missed,1,0.0,0.0,0,h,MISS Barry 16' Jump Shot,Missed Shot,Jump Shot,0,204
+29700714,200,PT04M16.00S,2,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,0.0,0.0,0,h,Wright REBOUND (Off:4 Def:9),Rebound,Unknown,0,205
+29700714,201,PT04M14.00S,2,1610612746,LAC,1508,Taylor,M. Taylor,-111,102,15,Made,1,42.0,40.0,82,h,Taylor 15' Jump Shot (7 PTS) (Wright 3 AST),Made Shot,Jump Shot,0,206
+29700714,202,PT04M14.00S,2,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker S.FOUL (P1.PN),Foul,Shooting,0,207
+29700714,203,PT04M14.00S,2,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,,0,43.0,40.0,83,h,Taylor Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,208
+29700714,204,PT04M04.00S,2,1610612738,BOS,1500,Mercer,R. Mercer,0,0,0,,0,0.0,0.0,0,v,Mercer Traveling Turnover (P1.T4),Turnover,Traveling,0,209
+29700714,205,PT03M51.00S,2,1610612746,LAC,1508,Taylor,M. Taylor,104,74,13,Missed,1,0.0,0.0,0,h,MISS Taylor 13' Jump Shot,Missed Shot,Jump Shot,0,210
+29700714,206,PT03M49.00S,2,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,0.0,0.0,0,h,Wright REBOUND (Off:5 Def:9),Rebound,Unknown,0,211
+29700714,207,PT03M47.00S,2,1610612746,LAC,699,Barry,B. Barry,231,8,0,Missed,1,0.0,0.0,0,h,MISS Barry  3PT Jump Shot,Missed Shot,Jump Shot,0,212
+29700714,208,PT03M44.00S,2,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker REBOUND (Off:2 Def:5),Rebound,Unknown,0,213
+29700714,209,PT03M40.00S,2,1610612738,BOS,1497,Billups,C. Billups,113,235,26,Made,1,43.0,43.0,86,v,Billups 26' 3PT Jump Shot (8 PTS),Made Shot,Jump Shot,0,214
+29700714,210,PT03M21.00S,2,1610612746,LAC,953,Wright,L. Wright,-85,-3,9,Missed,1,0.0,0.0,0,h,MISS Wright 9' Jump Shot,Missed Shot,Jump Shot,0,215
+29700714,211,PT03M18.00S,2,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker REBOUND (Off:2 Def:6),Rebound,Unknown,0,216
+29700714,212,PT03M14.00S,2,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker Bad Pass Turnover (P3.T5),Turnover,Bad Pass,0,217
+29700714,212,PT03M14.00S,2,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,0.0,0.0,0,h,Wright STEAL (1 STL),,,0,218
+29700714,213,PT03M09.00S,2,1610612746,LAC,381,Robinson,J. Robinson,-18,274,27,Made,1,46.0,43.0,89,h,Robinson 27' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,0,219
+29700714,214,PT02M58.00S,2,1610612738,BOS,1497,Billups,C. Billups,0,0,0,Missed,1,0.0,0.0,0,v,MISS Billups  Driving Layup,Missed Shot,Driving Layup Shot,0,220
+29700714,215,PT02M56.00S,2,1610612738,BOS,65,Minor,G. Minor,0,0,0,,0,0.0,0.0,0,v,Minor REBOUND (Off:1 Def:0),Rebound,Unknown,0,221
+29700714,216,PT02M55.00S,2,1610612738,BOS,1497,Billups,C. Billups,0,0,0,,0,0.0,0.0,0,v,Billups Out Of Bounds Turnover (P1.T6),Turnover,Out Of Bounds,0,222
+29700714,217,PT02M55.00S,2,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,223
+29700714,219,PT02M55.00S,2,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,SUB: Thomas FOR Walker,Substitution,,0,224
+29700714,220,PT02M35.00S,2,1610612746,LAC,1508,Taylor,M. Taylor,-25,38,5,Missed,1,0.0,0.0,0,h,MISS Taylor 5' Layup,Missed Shot,Layup Shot,0,225
+29700714,221,PT02M33.00S,2,1610612738,BOS,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,v,Knight REBOUND (Off:0 Def:2),Rebound,Unknown,0,226
+29700714,222,PT02M28.00S,2,1610612738,BOS,1497,Billups,C. Billups,0,0,0,,0,0.0,0.0,0,v,Billups Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,227
+29700714,222,PT02M28.00S,2,1610612746,LAC,381,Robinson,J. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson STEAL (1 STL),,,0,228
+29700714,223,PT02M24.00S,2,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,Made,1,48.0,43.0,91,h,Taylor  Slam Dunk (10 PTS) (Piatkowski 1 AST),Made Shot,Slam Dunk Shot,0,229
+29700714,224,PT02M03.00S,2,1610612738,BOS,1497,Billups,C. Billups,113,224,25,Made,1,48.0,46.0,94,v,Billups 25' 3PT Jump Shot (11 PTS),Made Shot,Jump Shot,0,230
+29700714,225,PT01M42.00S,2,1610612738,BOS,1519,Thomas,J. Thomas,0,0,0,,0,0.0,0.0,0,v,Thomas P.FOUL (P1.PN),Foul,Personal,0,231
+29700714,226,PT01M42.00S,2,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,,0,49.0,46.0,95,h,Taylor Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,232
+29700714,227,PT01M42.00S,2,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,,0,50.0,46.0,96,h,Taylor Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,233
+29700714,228,PT01M24.00S,2,1610612738,BOS,1519,Thomas,J. Thomas,-83,16,8,Missed,1,0.0,0.0,0,v,MISS Thomas 8' Jump Shot,Missed Shot,Jump Shot,0,234
+29700714,229,PT01M24.00S,2,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,235
+29700714,230,PT01M24.00S,2,1610612738,BOS,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,v,Knight L.B.FOUL (P2.PN),Foul,Loose Ball,0,236
+29700714,231,PT01M24.00S,2,1610612738,BOS,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,v,SUB: Walker FOR Knight,Substitution,,0,237
+29700714,232,PT01M24.00S,2,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,0.0,0.0,0,h,MISS Wright Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,238
+29700714,233,PT01M24.00S,2,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,239
+29700714,234,PT01M24.00S,2,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,0.0,0.0,0,h,MISS Wright Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,240
+29700714,235,PT01M23.00S,2,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker REBOUND (Off:2 Def:7),Rebound,Unknown,0,241
+29700714,236,PT01M06.00S,2,1610612738,BOS,1500,Mercer,R. Mercer,-3,53,5,Missed,1,0.0,0.0,0,v,MISS Mercer 5' Jump Shot,Missed Shot,Jump Shot,0,242
+29700714,237,PT01M03.00S,2,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,h,Taylor REBOUND (Off:1 Def:3),Rebound,Unknown,0,243
+29700714,238,PT00M58.00S,2,1610612746,LAC,699,Barry,B. Barry,128,147,19,Missed,1,0.0,0.0,0,h,MISS Barry 19' Jump Shot,Missed Shot,Jump Shot,0,244
+29700714,239,PT00M52.70S,2,1610612738,BOS,1500,Mercer,R. Mercer,0,0,0,,0,0.0,0.0,0,v,Mercer REBOUND (Off:0 Def:2),Rebound,Unknown,0,245
+29700714,240,PT00M51.00S,2,1610612738,BOS,65,Minor,G. Minor,0,0,0,,0,0.0,0.0,0,v,Minor Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,246
+29700714,241,PT00M38.00S,2,1610612746,LAC,381,Robinson,J. Robinson,0,0,0,Missed,1,0.0,0.0,0,h,MISS Robinson  Layup,Missed Shot,Layup Shot,0,247
+29700714,242,PT00M35.60S,2,1610612738,BOS,1497,Billups,C. Billups,0,0,0,,0,0.0,0.0,0,v,Billups REBOUND (Off:1 Def:3),Rebound,Unknown,0,248
+29700714,243,PT00M28.00S,2,1610612738,BOS,1500,Mercer,R. Mercer,0,0,0,,0,0.0,0.0,0,v,Mercer Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,249
+29700714,243,PT00M28.00S,2,1610612746,LAC,699,Barry,B. Barry,0,0,0,,0,0.0,0.0,0,h,Barry STEAL (1 STL),,,0,250
+29700714,244,PT00M24.00S,2,1610612746,LAC,381,Robinson,J. Robinson,0,0,0,Made,1,52.0,46.0,98,h,Robinson  Driving Layup (5 PTS) (Barry 2 AST),Made Shot,Driving Layup Shot,0,251
+29700714,245,PT00M04.00S,2,1610612738,BOS,1500,Mercer,R. Mercer,-149,130,20,Missed,1,0.0,0.0,0,v,MISS Mercer 20' Jump Shot,Missed Shot,Jump Shot,0,252
+29700714,246,PT00M02.20S,2,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,v,Celtics Rebound,Rebound,Unknown,0,253
+29700714,247,PT00M01.50S,2,1610612738,BOS,1500,Mercer,R. Mercer,0,0,0,,0,0.0,0.0,0,v,SUB: Barros FOR Mercer,Substitution,,0,254
+29700714,248,PT00M00.20S,2,1610612738,BOS,65,Minor,G. Minor,0,0,0,,0,0.0,0.0,0,v,Minor Out Of Bounds Turnover (P3.T10),Turnover,Out Of Bounds,0,255
+29700714,250,PT00M00.00S,2,0,,0,,,0,0,0,,0,52.0,46.0,98,,End of 2nd Period (3:25 PM EST),period,end,0,256
+29700714,252,PT12M00.00S,3,0,,0,,,0,0,0,,0,52.0,46.0,98,,Start of 3rd Period (3:41 PM EST),period,start,0,257
+29700714,253,PT11M47.00S,3,1610612746,LAC,441,Murray,L. Murray,-216,151,26,Made,1,55.0,46.0,101,h,Murray 26' 3PT Jump Shot (11 PTS) (Martin 2 AST),Made Shot,Jump Shot,0,258
+29700714,254,PT11M28.00S,3,1610612738,BOS,952,Walker,A. Walker,-89,0,9,Made,1,55.0,48.0,103,v,Walker 9' Jump Shot (15 PTS),Made Shot,Jump Shot,0,259
+29700714,255,PT11M28.00S,3,1610612746,LAC,15,Piatkowski,E. Piatkowski,0,0,0,,0,0.0,0.0,0,h,Piatkowski S.FOUL (P2.T1),Foul,Shooting,0,260
+29700714,256,PT11M28.00S,3,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,55.0,49.0,104,v,Walker Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,0,261
+29700714,257,PT11M12.00S,3,1610612746,LAC,441,Murray,L. Murray,0,0,0,Missed,1,0.0,0.0,0,h,MISS Murray  Layup,Missed Shot,Layup Shot,0,262
+29700714,258,PT11M11.00S,3,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker REBOUND (Off:2 Def:8),Rebound,Unknown,0,263
+29700714,259,PT11M03.00S,3,1610612738,BOS,692,DeClercq,A. DeClercq,0,0,0,,0,0.0,0.0,0,v,DeClercq OFF.Foul (P3),Foul,Offensive,0,264
+29700714,260,PT11M03.00S,3,1610612738,BOS,692,DeClercq,A. DeClercq,0,0,0,,0,0.0,0.0,0,v,DeClercq Foul Turnover (P1.T11),Turnover,Foul,0,265
+29700714,261,PT10M46.00S,3,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,v,Celtics Foul,Foul,Defense 3 Second,0,266
+29700714,262,PT10M46.00S,3,1610612738,BOS,692,DeClercq,A. DeClercq,0,0,0,,0,0.0,0.0,0,v,SUB: Knight FOR DeClercq,Substitution,,0,267
+29700714,263,PT10M46.00S,3,1610612746,LAC,239,Martin,D. Martin,0,0,0,,0,56.0,49.0,105,h,Martin Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,0,268
+29700714,264,PT10M37.00S,3,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,v,Celtics Foul,Foul,Defense 3 Second,0,269
+29700714,265,PT10M37.00S,3,1610612746,LAC,239,Martin,D. Martin,0,0,0,,0,57.0,49.0,106,h,Martin Free Throw Technical (5 PTS),Free Throw,Free Throw Technical,0,270
+29700714,266,PT10M26.00S,3,1610612746,LAC,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,h,Murray Traveling Turnover (P1.T7),Turnover,Traveling,0,271
+29700714,267,PT10M15.00S,3,1610612738,BOS,962,McCarty,W. McCarty,0,0,0,Made,1,57.0,51.0,108,v,McCarty  Slam Dunk (2 PTS) (Knight 1 AST),Made Shot,Slam Dunk Shot,0,272
+29700714,268,PT09M57.00S,3,1610612746,LAC,15,Piatkowski,E. Piatkowski,196,194,28,Missed,1,0.0,0.0,0,h,MISS Piatkowski 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,273
+29700714,269,PT09M55.00S,3,1610612738,BOS,962,McCarty,W. McCarty,0,0,0,,0,0.0,0.0,0,v,McCarty REBOUND (Off:0 Def:1),Rebound,Unknown,0,274
+29700714,270,PT09M48.00S,3,1610612738,BOS,1497,Billups,C. Billups,0,0,0,,0,0.0,0.0,0,v,Billups Traveling Turnover (P3.T12),Turnover,Traveling,0,275
+29700714,271,PT09M35.00S,3,1610612746,LAC,915,Rogers,R. Rogers,233,66,24,Missed,1,0.0,0.0,0,h,MISS Rogers 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,276
+29700714,272,PT09M33.00S,3,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,v,Celtics Rebound,Rebound,Unknown,0,277
+29700714,273,PT09M22.00S,3,1610612738,BOS,962,McCarty,W. McCarty,61,104,12,Made,1,57.0,53.0,110,v,McCarty 12' Jump Shot (4 PTS),Made Shot,Jump Shot,0,278
+29700714,274,PT09M07.00S,3,1610612746,LAC,239,Martin,D. Martin,0,267,27,Made,1,60.0,53.0,113,h,Martin 27' 3PT Jump Shot (8 PTS) (Rogers 2 AST),Made Shot,Jump Shot,0,279
+29700714,275,PT08M47.00S,3,1610612738,BOS,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,v,Knight OFF.Foul (P3),Foul,Offensive,0,280
+29700714,276,PT08M47.00S,3,1610612738,BOS,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,v,Knight Foul Turnover (P1.T13),Turnover,Foul,0,281
+29700714,277,PT08M34.00S,3,1610612738,BOS,1500,Mercer,R. Mercer,0,0,0,,0,0.0,0.0,0,v,Mercer S.FOUL (P2.T1),Foul,Shooting,0,282
+29700714,278,PT08M34.00S,3,1610612746,LAC,15,Piatkowski,E. Piatkowski,0,0,0,,0,61.0,53.0,114,h,Piatkowski Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,283
+29700714,279,PT08M34.00S,3,1610612738,BOS,1500,Mercer,R. Mercer,0,0,0,,0,0.0,0.0,0,v,SUB: Brown FOR Mercer,Substitution,,0,284
+29700714,280,PT08M34.00S,3,1610612746,LAC,15,Piatkowski,E. Piatkowski,0,0,0,,0,62.0,53.0,115,h,Piatkowski Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,285
+29700714,281,PT08M12.00S,3,1610612738,BOS,962,McCarty,W. McCarty,-29,147,15,Missed,1,0.0,0.0,0,v,MISS McCarty 15' Jump Shot,Missed Shot,Jump Shot,0,286
+29700714,282,PT08M10.00S,3,1610612746,LAC,239,Martin,D. Martin,0,0,0,,0,0.0,0.0,0,h,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,287
+29700714,283,PT08M07.00S,3,1610612746,LAC,239,Martin,D. Martin,0,0,0,,0,0.0,0.0,0,h,Martin Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,288
+29700714,283,PT08M07.00S,3,1610612738,BOS,962,McCarty,W. McCarty,0,0,0,,0,0.0,0.0,0,v,McCarty STEAL (1 STL),,,0,289
+29700714,284,PT08M01.00S,3,1610612738,BOS,952,Walker,A. Walker,0,0,0,Made,1,62.0,55.0,117,v,Walker  Driving Layup (18 PTS),Made Shot,Driving Layup Shot,0,290
+29700714,285,PT07M42.00S,3,1610612746,LAC,441,Murray,L. Murray,-186,-8,19,Missed,1,0.0,0.0,0,h,MISS Murray 19' Jump Shot,Missed Shot,Jump Shot,0,291
+29700714,286,PT07M40.00S,3,1610612738,BOS,962,McCarty,W. McCarty,0,0,0,,0,0.0,0.0,0,v,McCarty REBOUND (Off:0 Def:2),Rebound,Unknown,0,292
+29700714,287,PT07M31.00S,3,1610612738,BOS,1497,Billups,C. Billups,0,0,0,Made,1,62.0,57.0,119,v,Billups  Layup (13 PTS) (Walker 1 AST),Made Shot,Layup Shot,0,293
+29700714,288,PT07M13.00S,3,1610612746,LAC,915,Rogers,R. Rogers,0,0,0,Made,1,64.0,57.0,121,h,Rogers  Layup (11 PTS),Made Shot,Layup Shot,0,294
+29700714,290,PT07M02.00S,3,1610612746,LAC,239,Martin,D. Martin,0,0,0,,0,0.0,0.0,0,h,Martin P.FOUL (P2.T2),Foul,Personal,0,295
+29700714,291,PT06M52.00S,3,1610612738,BOS,952,Walker,A. Walker,29,74,8,Missed,1,0.0,0.0,0,v,MISS Walker 8' Jump Shot,Missed Shot,Jump Shot,0,296
+29700714,292,PT06M49.00S,3,1610612746,LAC,15,Piatkowski,E. Piatkowski,0,0,0,,0,0.0,0.0,0,h,Piatkowski REBOUND (Off:0 Def:1),Rebound,Unknown,0,297
+29700714,293,PT06M42.00S,3,1610612746,LAC,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,h,Rogers Lost Ball Turnover (P3.T9),Turnover,Lost Ball,0,298
+29700714,294,PT06M42.00S,3,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,h,CLIPPERS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,299
+29700714,296,PT06M28.00S,3,1610612738,BOS,1497,Billups,C. Billups,-184,-16,18,Made,1,64.0,59.0,123,v,Billups 18' Jump Shot (15 PTS) (McCarty 1 AST),Made Shot,Jump Shot,0,300
+29700714,297,PT06M14.00S,3,1610612738,BOS,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,v,Knight S.FOUL (P4.T2),Foul,Shooting,0,301
+29700714,299,PT06M14.00S,3,1610612738,BOS,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,v,SUB: DeClercq FOR Knight,Substitution,,0,302
+29700714,300,PT06M14.00S,3,1610612746,LAC,441,Murray,L. Murray,0,0,0,,0,65.0,59.0,124,h,Murray Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,303
+29700714,301,PT06M14.00S,3,1610612746,LAC,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,h,MISS Murray Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,304
+29700714,302,PT06M14.00S,3,1610612746,LAC,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,h,Murray REBOUND (Off:2 Def:1),Rebound,Unknown,0,305
+29700714,303,PT06M01.00S,3,1610612746,LAC,239,Martin,D. Martin,0,0,0,,0,0.0,0.0,0,h,Martin Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,306
+29700714,303,PT06M01.00S,3,1610612738,BOS,1497,Billups,C. Billups,0,0,0,,0,0.0,0.0,0,v,Billups STEAL (1 STL),,,0,307
+29700714,304,PT05M51.00S,3,1610612738,BOS,1497,Billups,C. Billups,0,0,0,Made,1,65.0,61.0,126,v,Billups  Layup (17 PTS),Made Shot,Layup Shot,0,308
+29700714,305,PT05M39.00S,3,1610612746,LAC,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,h,Murray Traveling Turnover (P2.T11),Turnover,Traveling,0,309
+29700714,306,PT05M21.00S,3,1610612738,BOS,952,Walker,A. Walker,-57,5,6,Missed,1,0.0,0.0,0,v,MISS Walker 6' Jump Shot,Missed Shot,Jump Shot,0,310
+29700714,307,PT05M19.00S,3,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,0.0,0.0,0,h,Wright REBOUND (Off:5 Def:10),Rebound,Unknown,0,311
+29700714,308,PT05M15.00S,3,1610612746,LAC,239,Martin,D. Martin,0,0,0,Made,1,67.0,61.0,128,h,Martin  Driving Layup (10 PTS),Made Shot,Driving Layup Shot,0,312
+29700714,309,PT05M15.00S,3,1610612738,BOS,244,Brown,D. Brown,0,0,0,,0,0.0,0.0,0,v,Brown S.FOUL (P3.T3),Foul,Shooting,0,313
+29700714,310,PT05M15.00S,3,1610612746,LAC,239,Martin,D. Martin,0,0,0,,0,68.0,61.0,129,h,Martin Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,314
+29700714,311,PT05M15.00S,3,1610612738,BOS,962,McCarty,W. McCarty,0,0,0,,0,0.0,0.0,0,v,SUB: Bowen FOR McCarty,Substitution,,0,315
+29700714,316,PT05M15.00S,3,1610612738,BOS,1497,Billups,C. Billups,0,0,0,,0,0.0,0.0,0,v,SUB: Barros FOR Billups,Substitution,,0,316
+29700714,313,PT04M56.00S,3,1610612738,BOS,244,Brown,D. Brown,70,272,28,Missed,1,0.0,0.0,0,v,MISS Brown 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,317
+29700714,314,PT04M53.00S,3,1610612738,BOS,692,DeClercq,A. DeClercq,0,0,0,,0,0.0,0.0,0,v,DeClercq REBOUND (Off:2 Def:4),Rebound,Unknown,0,318
+29700714,315,PT04M37.00S,3,1610612738,BOS,952,Walker,A. Walker,98,100,14,Made,1,68.0,63.0,131,v,Walker 14' Jump Shot (20 PTS),Made Shot,Jump Shot,0,319
+29700714,317,PT04M13.00S,3,1610612746,LAC,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,h,Rogers Bad Pass Turnover (P4.T12),Turnover,Bad Pass,0,320
+29700714,318,PT04M13.00S,3,1610612746,LAC,239,Martin,D. Martin,0,0,0,,0,0.0,0.0,0,h,SUB: Barry FOR Martin,Substitution,,0,321
+29700714,320,PT03M52.00S,3,1610612738,BOS,344,Barros,D. Barros,35,212,21,Made,1,68.0,65.0,133,v,Barros 21' Jump Shot (6 PTS),Made Shot,Jump Shot,0,322
+29700714,321,PT03M20.00S,3,1610612746,LAC,15,Piatkowski,E. Piatkowski,0,0,0,,0,0.0,0.0,0,h,Piatkowski Lost Ball Turnover (P2.T13),Turnover,Lost Ball,0,323
+29700714,322,PT03M07.00S,3,1610612738,BOS,1477,Bowen,B. Bowen,126,212,25,Missed,1,0.0,0.0,0,v,MISS Bowen 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,324
+29700714,323,PT03M05.00S,3,1610612738,BOS,1477,Bowen,B. Bowen,0,0,0,,0,0.0,0.0,0,v,Bowen REBOUND (Off:1 Def:0),Rebound,Unknown,0,325
+29700714,324,PT02M54.00S,3,1610612738,BOS,952,Walker,A. Walker,0,0,0,Made,1,68.0,67.0,135,v,Walker  Layup (22 PTS),Made Shot,Layup Shot,0,326
+29700714,325,PT02M45.00S,3,1610612746,LAC,441,Murray,L. Murray,0,0,0,Made,1,70.0,67.0,137,h,Murray  Slam Dunk (14 PTS) (Barry 3 AST),Made Shot,Slam Dunk Shot,0,327
+29700714,326,PT02M39.00S,3,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,328
+29700714,327,PT02M39.00S,3,1610612746,LAC,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,h,SUB: Taylor FOR Rogers,Substitution,,0,329
+29700714,328,PT02M39.00S,3,1610612746,LAC,15,Piatkowski,E. Piatkowski,0,0,0,,0,0.0,0.0,0,h,SUB: Robinson FOR Piatkowski,Substitution,,0,330
+29700714,329,PT02M31.00S,3,1610612738,BOS,344,Barros,D. Barros,126,158,20,Missed,1,0.0,0.0,0,v,MISS Barros 20' Jump Shot,Missed Shot,Jump Shot,0,331
+29700714,330,PT02M29.00S,3,1610612746,LAC,699,Barry,B. Barry,0,0,0,,0,0.0,0.0,0,h,Barry REBOUND (Off:0 Def:1),Rebound,Unknown,0,332
+29700714,331,PT02M09.00S,3,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,0.0,0.0,0,h,Wright Bad Pass Turnover (P2.T14),Turnover,Bad Pass,0,333
+29700714,331,PT02M09.00S,3,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker STEAL (1 STL),,,0,334
+29700714,332,PT02M06.00S,3,1610612738,BOS,344,Barros,D. Barros,0,0,0,Made,1,70.0,69.0,139,v,Barros  Driving Layup (8 PTS) (Walker 2 AST),Made Shot,Driving Layup Shot,0,335
+29700714,333,PT01M34.00S,3,1610612746,LAC,1508,Taylor,M. Taylor,113,151,19,Missed,1,0.0,0.0,0,h,MISS Taylor 19' Jump Shot,Missed Shot,Jump Shot,0,336
+29700714,334,PT01M32.00S,3,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker REBOUND (Off:2 Def:9),Rebound,Unknown,0,337
+29700714,335,PT01M25.00S,3,1610612738,BOS,344,Barros,D. Barros,-100,239,26,Made,1,70.0,72.0,142,v,Barros 26' 3PT Jump Shot (11 PTS) (Bowen 1 AST),Made Shot,Jump Shot,0,338
+29700714,336,PT01M01.00S,3,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,h,Taylor Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,339
+29700714,336,PT01M01.00S,3,1610612738,BOS,692,DeClercq,A. DeClercq,0,0,0,,0,0.0,0.0,0,v,DeClercq STEAL (1 STL),,,0,340
+29700714,337,PT00M49.00S,3,1610612738,BOS,1477,Bowen,B. Bowen,211,21,21,Missed,1,0.0,0.0,0,v,MISS Bowen 21' Jump Shot,Missed Shot,Jump Shot,0,341
+29700714,338,PT00M46.40S,3,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,0.0,0.0,0,h,Wright REBOUND (Off:5 Def:11),Rebound,Unknown,0,342
+29700714,339,PT00M29.00S,3,1610612746,LAC,441,Murray,L. Murray,-59,31,7,Missed,1,0.0,0.0,0,h,MISS Murray 7' Hook Shot,Missed Shot,Hook Shot,0,343
+29700714,340,PT00M28.00S,3,1610612746,LAC,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,h,Murray REBOUND (Off:3 Def:1),Rebound,Unknown,0,344
+29700714,341,PT00M28.00S,3,1610612746,LAC,441,Murray,L. Murray,0,0,0,Made,1,72.0,72.0,144,h,Murray  Slam Dunk (16 PTS),Made Shot,Slam Dunk Shot,0,345
+29700714,342,PT00M05.00S,3,1610612738,BOS,244,Brown,D. Brown,-91,239,26,Made,1,72.0,75.0,147,v,Brown 26' 3PT Jump Shot (7 PTS) (Bowen 2 AST),Made Shot,Jump Shot,0,346
+29700714,343,PT00M01.00S,3,1610612746,LAC,441,Murray,L. Murray,-184,244,31,Missed,1,0.0,0.0,0,h,MISS Murray 31' 3PT Jump Shot,Missed Shot,Jump Shot,0,347
+29700714,344,PT00M00.00S,3,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,348
+29700714,346,PT00M00.00S,3,0,,0,,,0,0,0,,0,72.0,75.0,147,,End of 3rd Period (4:05 PM EST),period,end,0,349
+29700714,348,PT12M00.00S,4,0,,0,,,0,0,0,,0,72.0,75.0,147,,Start of 4th Period (4:07 PM EST),period,start,0,350
+29700714,349,PT11M48.00S,4,1610612738,BOS,952,Walker,A. Walker,-12,38,4,Missed,1,0.0,0.0,0,v,MISS Walker 4' Layup,Missed Shot,Layup Shot,0,351
+29700714,350,PT11M45.00S,4,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,v,Celtics Rebound,Rebound,Unknown,0,352
+29700714,351,PT11M45.00S,4,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,0.0,0.0,0,h,Wright L.B.FOUL (P2.T1),Foul,Loose Ball,0,353
+29700714,352,PT11M33.00S,4,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,h,Taylor S.FOUL (P1.T2),Foul,Shooting,0,354
+29700714,353,PT11M33.00S,4,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,72.0,76.0,148,v,Walker Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,355
+29700714,354,PT11M33.00S,4,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,72.0,77.0,149,v,Walker Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,356
+29700714,355,PT11M19.00S,4,1610612738,BOS,344,Barros,D. Barros,0,0,0,,0,0.0,0.0,0,v,Barros P.FOUL (P1.T1),Foul,Personal,0,357
+29700714,356,PT11M08.00S,4,1610612746,LAC,953,Wright,L. Wright,-98,160,19,Made,1,74.0,77.0,151,h,Wright 19' Jump Shot (14 PTS) (Robinson 3 AST),Made Shot,Jump Shot,0,358
+29700714,357,PT10M48.00S,4,1610612738,BOS,244,Brown,D. Brown,-173,100,20,Made,1,74.0,79.0,153,v,Brown 20' Jump Shot (9 PTS),Made Shot,Jump Shot,0,359
+29700714,358,PT10M24.00S,4,1610612746,LAC,699,Barry,B. Barry,0,0,0,,0,0.0,0.0,0,h,Barry Bad Pass Turnover (P1.T16),Turnover,Bad Pass,0,360
+29700714,358,PT10M24.00S,4,1610612738,BOS,244,Brown,D. Brown,0,0,0,,0,0.0,0.0,0,v,Brown STEAL (2 STL),,,0,361
+29700714,359,PT10M12.00S,4,1610612738,BOS,952,Walker,A. Walker,0,0,0,Made,1,74.0,81.0,155,v,Walker  Layup (26 PTS),Made Shot,Layup Shot,0,362
+29700714,360,PT10M12.00S,4,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,h,Taylor S.FOUL (P2.T3),Foul,Shooting,0,363
+29700714,361,PT10M12.00S,4,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,74.0,82.0,156,v,Walker Free Throw 1 of 1 (27 PTS),Free Throw,Free Throw 1 of 1,0,364
+29700714,362,PT09M52.00S,4,1610612746,LAC,441,Murray,L. Murray,237,46,24,Missed,1,0.0,0.0,0,h,MISS Murray 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,365
+29700714,363,PT09M50.00S,4,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,366
+29700714,364,PT09M49.00S,4,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,SUB: McCarty FOR Walker,Substitution,,0,367
+29700714,365,PT09M47.00S,4,0,,1265,,,0,0,0,,0,0.0,0.0,0,,Bill Fitch Foul:T.FOUL,Foul,Technical,0,368
+29700714,366,PT09M47.00S,4,1610612738,BOS,344,Barros,D. Barros,0,0,0,,0,0.0,0.0,0,v,MISS Barros Free Throw Technical,Free Throw,Free Throw Technical,0,369
+29700714,367,PT09M47.00S,4,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,370
+29700714,368,PT09M37.00S,4,1610612746,LAC,381,Robinson,J. Robinson,-169,130,21,Missed,1,0.0,0.0,0,h,MISS Robinson 21' Jump Shot,Missed Shot,Jump Shot,0,371
+29700714,369,PT09M35.00S,4,1610612738,BOS,244,Brown,D. Brown,0,0,0,,0,0.0,0.0,0,v,Brown REBOUND (Off:0 Def:2),Rebound,Unknown,0,372
+29700714,370,PT09M28.00S,4,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,v,Celtics Turnover: 3 Second Violation (T#14),Turnover,3 Second Violation,0,373
+29700714,371,PT09M13.00S,4,1610612746,LAC,699,Barry,B. Barry,74,-5,7,Missed,1,0.0,0.0,0,h,MISS Barry 7' Jump Shot,Missed Shot,Jump Shot,0,374
+29700714,373,PT09M10.00S,4,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,h,Taylor REBOUND (Off:2 Def:3),Rebound,Unknown,0,375
+29700714,372,PT09M10.00S,4,1610612746,LAC,1508,Taylor,M. Taylor,-38,10,4,Missed,1,0.0,0.0,0,h,MISS Taylor 4' Layup,Missed Shot,Layup Shot,0,376
+29700714,374,PT09M08.00S,4,1610612738,BOS,1477,Bowen,B. Bowen,0,0,0,,0,0.0,0.0,0,v,Bowen REBOUND (Off:1 Def:1),Rebound,Unknown,0,377
+29700714,375,PT08M47.00S,4,1610612738,BOS,344,Barros,D. Barros,-1,31,3,Missed,1,0.0,0.0,0,v,MISS Barros 3' Jump Shot,Missed Shot,Jump Shot,0,378
+29700714,375,PT08M47.00S,4,1610612746,LAC,699,Barry,B. Barry,0,0,0,,0,0.0,0.0,0,h,Barry BLOCK (1 BLK),,,0,379
+29700714,376,PT08M43.00S,4,1610612738,BOS,1477,Bowen,B. Bowen,0,0,0,,0,0.0,0.0,0,v,Bowen REBOUND (Off:2 Def:1),Rebound,Unknown,0,380
+29700714,377,PT08M42.00S,4,1610612738,BOS,1477,Bowen,B. Bowen,0,0,0,Made,1,74.0,84.0,158,v,Bowen  Layup (2 PTS),Made Shot,Layup Shot,0,381
+29700714,378,PT08M40.00S,4,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,h,CLIPPERS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,382
+29700714,381,PT08M40.00S,4,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,0.0,0.0,0,h,SUB: Rogers FOR Wright,Substitution,,0,383
+29700714,382,PT08M40.00S,4,1610612746,LAC,699,Barry,B. Barry,0,0,0,,0,0.0,0.0,0,h,SUB: Martin FOR Barry,Substitution,,0,384
+29700714,383,PT08M28.00S,4,1610612738,BOS,1477,Bowen,B. Bowen,0,0,0,,0,0.0,0.0,0,v,Bowen S.FOUL (P2.T2),Foul,Shooting,0,385
+29700714,384,PT08M28.00S,4,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,,0,75.0,84.0,159,h,Taylor Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,386
+29700714,385,PT08M28.00S,4,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,h,MISS Taylor Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,387
+29700714,386,PT08M27.00S,4,1610612746,LAC,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,h,Murray REBOUND (Off:4 Def:1),Rebound,Unknown,0,388
+29700714,387,PT08M05.00S,4,1610612746,LAC,239,Martin,D. Martin,78,252,26,Missed,1,0.0,0.0,0,h,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,389
+29700714,388,PT08M05.00S,4,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,390
+29700714,389,PT08M05.00S,4,1610612738,BOS,962,McCarty,W. McCarty,0,0,0,,0,0.0,0.0,0,v,McCarty L.B.FOUL (P3.T3),Foul,Loose Ball,0,391
+29700714,390,PT08M05.00S,4,1610612738,BOS,962,McCarty,W. McCarty,0,0,0,,0,0.0,0.0,0,v,SUB: Walker FOR McCarty,Substitution,,0,392
+29700714,391,PT08M05.00S,4,1610612738,BOS,244,Brown,D. Brown,0,0,0,,0,0.0,0.0,0,v,SUB: Mercer FOR Brown,Substitution,,0,393
+29700714,392,PT07M53.00S,4,1610612746,LAC,381,Robinson,J. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson Bad Pass Turnover (P2.T17),Turnover,Bad Pass,0,394
+29700714,392,PT07M53.00S,4,1610612738,BOS,344,Barros,D. Barros,0,0,0,,0,0.0,0.0,0,v,Barros STEAL (2 STL),,,0,395
+29700714,393,PT07M48.00S,4,1610612738,BOS,1500,Mercer,R. Mercer,-10,29,3,Missed,1,0.0,0.0,0,v,MISS Mercer 3' Layup,Missed Shot,Layup Shot,0,396
+29700714,394,PT07M46.00S,4,1610612738,BOS,692,DeClercq,A. DeClercq,0,0,0,,0,0.0,0.0,0,v,DeClercq REBOUND (Off:3 Def:4),Rebound,Unknown,0,397
+29700714,395,PT07M46.00S,4,1610612738,BOS,692,DeClercq,A. DeClercq,0,0,0,Made,1,75.0,86.0,161,v,DeClercq  Layup (4 PTS),Made Shot,Layup Shot,0,398
+29700714,396,PT07M46.00S,4,1610612746,LAC,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,h,Rogers S.FOUL (P4.T4),Foul,Shooting,0,399
+29700714,397,PT07M46.00S,4,1610612738,BOS,692,DeClercq,A. DeClercq,0,0,0,,0,75.0,87.0,162,v,DeClercq Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,400
+29700714,398,PT07M40.00S,4,1610612746,LAC,441,Murray,L. Murray,0,0,0,Made,1,77.0,87.0,164,h,Murray  Slam Dunk (18 PTS) (Robinson 4 AST),Made Shot,Slam Dunk Shot,0,401
+29700714,399,PT07M21.00S,4,1610612738,BOS,1477,Bowen,B. Bowen,-136,55,15,Missed,1,0.0,0.0,0,v,MISS Bowen 15' Jump Shot,Missed Shot,Jump Shot,0,402
+29700714,400,PT07M19.00S,4,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,h,Taylor REBOUND (Off:2 Def:4),Rebound,Unknown,0,403
+29700714,401,PT07M13.00S,4,1610612738,BOS,344,Barros,D. Barros,0,0,0,,0,0.0,0.0,0,v,Barros S.FOUL (P2.T4),Foul,Shooting,0,404
+29700714,402,PT07M13.00S,4,1610612746,LAC,239,Martin,D. Martin,0,0,0,,0,78.0,87.0,165,h,Martin Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,405
+29700714,403,PT07M13.00S,4,1610612738,BOS,344,Barros,D. Barros,0,0,0,,0,0.0,0.0,0,v,SUB: Brown FOR Barros,Substitution,,0,406
+29700714,404,PT07M13.00S,4,1610612738,BOS,1477,Bowen,B. Bowen,0,0,0,,0,0.0,0.0,0,v,SUB: Billups FOR Bowen,Substitution,,0,407
+29700714,405,PT07M13.00S,4,1610612746,LAC,239,Martin,D. Martin,0,0,0,,0,79.0,87.0,166,h,Martin Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,408
+29700714,407,PT06M54.00S,4,1610612738,BOS,1500,Mercer,R. Mercer,-46,149,16,Missed,1,0.0,0.0,0,v,MISS Mercer 16' Jump Shot,Missed Shot,Jump Shot,0,409
+29700714,408,PT06M52.00S,4,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,v,Celtics Rebound,Rebound,Unknown,0,410
+29700714,409,PT06M52.00S,4,1610612738,BOS,1500,Mercer,R. Mercer,0,0,0,,0,0.0,0.0,0,v,Mercer Bad Pass Turnover (P3.T15),Turnover,Bad Pass,0,411
+29700714,410,PT06M38.00S,4,1610612746,LAC,915,Rogers,R. Rogers,-46,16,5,Missed,1,0.0,0.0,0,h,MISS Rogers 5' Jump Shot,Missed Shot,Jump Shot,0,412
+29700714,411,PT06M38.00S,4,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,413
+29700714,412,PT06M38.00S,4,1610612738,BOS,692,DeClercq,A. DeClercq,0,0,0,,0,0.0,0.0,0,v,DeClercq L.B.FOUL (P4.PN),Foul,Loose Ball,0,414
+29700714,413,PT06M38.00S,4,1610612746,LAC,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,h,MISS Rogers Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,415
+29700714,414,PT06M38.00S,4,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,416
+29700714,415,PT06M38.00S,4,1610612738,BOS,692,DeClercq,A. DeClercq,0,0,0,,0,0.0,0.0,0,v,SUB: Knight FOR DeClercq,Substitution,,0,417
+29700714,416,PT06M38.00S,4,1610612746,LAC,915,Rogers,R. Rogers,0,0,0,,0,80.0,87.0,167,h,Rogers Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,418
+29700714,417,PT06M22.00S,4,1610612738,BOS,1500,Mercer,R. Mercer,115,179,21,Missed,1,0.0,0.0,0,v,MISS Mercer 21' Jump Shot,Missed Shot,Jump Shot,0,419
+29700714,418,PT06M20.00S,4,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,420
+29700714,419,PT06M14.00S,4,1610612746,LAC,915,Rogers,R. Rogers,244,42,25,Missed,1,0.0,0.0,0,h,MISS Rogers 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,421
+29700714,420,PT06M11.00S,4,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker REBOUND (Off:2 Def:10),Rebound,Unknown,0,422
+29700714,421,PT05M57.00S,4,1610612738,BOS,244,Brown,D. Brown,0,0,0,,0,0.0,0.0,0,v,Brown Traveling Turnover (P1.T16),Turnover,Traveling,0,423
+29700714,422,PT05M57.00S,4,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,v,Celtics Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,424
+29700714,424,PT05M34.00S,4,1610612746,LAC,381,Robinson,J. Robinson,0,0,0,Made,1,82.0,87.0,169,h,Robinson  Layup (7 PTS) (Murray 2 AST),Made Shot,Layup Shot,0,425
+29700714,425,PT05M16.00S,4,1610612738,BOS,1500,Mercer,R. Mercer,162,18,16,Missed,1,0.0,0.0,0,v,MISS Mercer 16' Jump Shot,Missed Shot,Jump Shot,0,426
+29700714,426,PT05M13.00S,4,1610612738,BOS,1497,Billups,C. Billups,0,0,0,,0,0.0,0.0,0,v,Billups REBOUND (Off:2 Def:3),Rebound,Unknown,0,427
+29700714,427,PT05M11.00S,4,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,h,Jump Ball Taylor vs. Knight: Tip to Brown,Jump Ball,,0,428
+29700714,428,PT05M07.00S,4,1610612738,BOS,244,Brown,D. Brown,-91,263,28,Made,1,82.0,90.0,172,v,Brown 28' 3PT Jump Shot (12 PTS),Made Shot,Jump Shot,0,429
+29700714,429,PT04M55.00S,4,1610612746,LAC,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,h,Murray Bad Pass Turnover (P3.T18),Turnover,Bad Pass,0,430
+29700714,429,PT04M55.00S,4,1610612738,BOS,1500,Mercer,R. Mercer,0,0,0,,0,0.0,0.0,0,v,Mercer STEAL (2 STL),,,0,431
+29700714,430,PT04M52.00S,4,1610612738,BOS,1500,Mercer,R. Mercer,0,0,0,Made,1,82.0,92.0,174,v,Mercer  Driving Layup (11 PTS),Made Shot,Driving Layup Shot,0,432
+29700714,431,PT04M49.00S,4,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,h,CLIPPERS Timeout: Short (Full 4 Short 2),Timeout,Short,0,433
+29700714,433,PT04M49.00S,4,1610612746,LAC,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,h,SUB: Wright FOR Rogers,Substitution,,0,434
+29700714,434,PT04M33.00S,4,1610612746,LAC,441,Murray,L. Murray,96,109,15,Missed,1,0.0,0.0,0,h,MISS Murray 15' Jump Shot,Missed Shot,Jump Shot,0,435
+29700714,435,PT04M31.00S,4,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,h,Taylor REBOUND (Off:3 Def:4),Rebound,Unknown,0,436
+29700714,436,PT04M28.00S,4,1610612746,LAC,1508,Taylor,M. Taylor,38,33,5,Missed,1,0.0,0.0,0,h,MISS Taylor 5' Jump Shot,Missed Shot,Jump Shot,0,437
+29700714,437,PT04M26.00S,4,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,0.0,0.0,0,h,Wright REBOUND (Off:6 Def:11),Rebound,Unknown,0,438
+29700714,438,PT04M24.00S,4,1610612738,BOS,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,v,Knight P.FOUL (P5.PN),Foul,Personal,0,439
+29700714,439,PT04M24.00S,4,1610612738,BOS,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,v,SUB: DeClercq FOR Knight,Substitution,,0,440
+29700714,440,PT04M24.00S,4,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,,0,83.0,92.0,175,h,Taylor Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,441
+29700714,441,PT04M24.00S,4,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,,0,84.0,92.0,176,h,Taylor Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,442
+29700714,442,PT04M10.00S,4,1610612738,BOS,244,Brown,D. Brown,115,239,27,Missed,1,0.0,0.0,0,v,MISS Brown 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,443
+29700714,443,PT04M10.00S,4,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,444
+29700714,444,PT04M10.00S,4,1610612738,BOS,244,Brown,D. Brown,0,0,0,,0,0.0,0.0,0,v,Brown IN.FOUL (P4.PN),Foul,Inbound,0,445
+29700714,445,PT04M10.00S,4,1610612746,LAC,381,Robinson,J. Robinson,0,0,0,,0,85.0,92.0,177,h,Robinson Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,446
+29700714,446,PT04M10.00S,4,1610612746,LAC,381,Robinson,J. Robinson,0,0,0,,0,86.0,92.0,178,h,Robinson Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,447
+29700714,447,PT03M57.00S,4,1610612746,LAC,239,Martin,D. Martin,0,0,0,,0,0.0,0.0,0,h,Martin P.FOUL (P3.PN),Foul,Personal,0,448
+29700714,448,PT03M57.00S,4,1610612738,BOS,1497,Billups,C. Billups,0,0,0,,0,86.0,93.0,179,v,Billups Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,449
+29700714,449,PT03M57.00S,4,1610612738,BOS,1497,Billups,C. Billups,0,0,0,,0,0.0,0.0,0,v,MISS Billups Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,450
+29700714,450,PT03M57.00S,4,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,h,Taylor REBOUND (Off:3 Def:5),Rebound,Unknown,0,451
+29700714,451,PT03M40.00S,4,1610612746,LAC,381,Robinson,J. Robinson,-31,23,4,Made,1,88.0,93.0,181,h,Robinson 4' Jump Shot (11 PTS),Made Shot,Jump Shot,0,452
+29700714,452,PT03M32.00S,4,1610612738,BOS,1497,Billups,C. Billups,117,250,28,Missed,1,0.0,0.0,0,v,MISS Billups 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,453
+29700714,453,PT03M29.00S,4,1610612738,BOS,692,DeClercq,A. DeClercq,0,0,0,,0,0.0,0.0,0,v,DeClercq REBOUND (Off:4 Def:4),Rebound,Unknown,0,454
+29700714,454,PT03M13.00S,4,1610612738,BOS,952,Walker,A. Walker,53,14,5,Missed,1,0.0,0.0,0,v,MISS Walker 5' Hook Shot,Missed Shot,Hook Shot,0,455
+29700714,455,PT03M10.00S,4,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,h,Taylor REBOUND (Off:3 Def:6),Rebound,Unknown,0,456
+29700714,456,PT03M00.00S,4,1610612746,LAC,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,h,Murray Bad Pass Turnover (P4.T19),Turnover,Bad Pass,0,457
+29700714,456,PT03M00.00S,4,1610612738,BOS,1500,Mercer,R. Mercer,0,0,0,,0,0.0,0.0,0,v,Mercer STEAL (3 STL),,,0,458
+29700714,457,PT02M44.00S,4,1610612738,BOS,244,Brown,D. Brown,-231,0,0,Missed,1,0.0,0.0,0,v,MISS Brown  3PT Jump Shot,Missed Shot,Jump Shot,0,459
+29700714,458,PT02M41.00S,4,1610612746,LAC,381,Robinson,J. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,460
+29700714,459,PT02M39.00S,4,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,Made,1,90.0,93.0,183,h,Taylor  Slam Dunk (17 PTS) (Robinson 5 AST),Made Shot,Slam Dunk Shot,0,461
+29700714,460,PT02M30.00S,4,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,v,Celtics Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,462
+29700714,462,PT02M30.00S,4,1610612738,BOS,244,Brown,D. Brown,0,0,0,,0,0.0,0.0,0,v,SUB: Bowen FOR Brown,Substitution,,0,463
+29700714,464,PT02M14.00S,4,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,h,Jump Ball Taylor vs. Walker: Tip to Wright,Jump Ball,,0,464
+29700714,465,PT02M14.00S,4,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker Lost Ball Turnover (P4.T17),Turnover,Lost Ball,0,465
+29700714,465,PT02M14.00S,4,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,h,Taylor STEAL (1 STL),,,0,466
+29700714,466,PT01M57.00S,4,1610612738,BOS,1477,Bowen,B. Bowen,0,0,0,,0,0.0,0.0,0,v,Bowen P.FOUL (P3.PN),Foul,Personal,0,467
+29700714,467,PT01M57.00S,4,1610612746,LAC,381,Robinson,J. Robinson,0,0,0,,0,91.0,93.0,184,h,Robinson Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,468
+29700714,469,PT01M57.00S,4,1610612738,BOS,1477,Bowen,B. Bowen,0,0,0,,0,0.0,0.0,0,v,SUB: Brown FOR Bowen,Substitution,,0,469
+29700714,470,PT01M57.00S,4,1610612746,LAC,381,Robinson,J. Robinson,0,0,0,,0,92.0,93.0,185,h,Robinson Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,470
+29700714,471,PT01M39.00S,4,1610612738,BOS,244,Brown,D. Brown,-201,21,20,Missed,1,0.0,0.0,0,v,MISS Brown 20' Jump Shot,Missed Shot,Jump Shot,0,471
+29700714,472,PT01M37.00S,4,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,h,Taylor REBOUND (Off:3 Def:7),Rebound,Unknown,0,472
+29700714,473,PT01M22.00S,4,1610612746,LAC,381,Robinson,J. Robinson,-18,53,6,Missed,1,0.0,0.0,0,h,MISS Robinson 6' Driving Layup,Missed Shot,Driving Layup Shot,0,473
+29700714,474,PT01M21.00S,4,1610612738,BOS,692,DeClercq,A. DeClercq,0,0,0,,0,0.0,0.0,0,v,DeClercq REBOUND (Off:4 Def:5),Rebound,Unknown,0,474
+29700714,475,PT01M18.00S,4,1610612746,LAC,239,Martin,D. Martin,0,0,0,,0,0.0,0.0,0,h,Martin S.FOUL (P4.PN),Foul,Shooting,0,475
+29700714,476,PT01M18.00S,4,1610612738,BOS,1497,Billups,C. Billups,0,0,0,,0,92.0,94.0,186,v,Billups Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,476
+29700714,477,PT01M18.00S,4,1610612738,BOS,1500,Mercer,R. Mercer,0,0,0,,0,0.0,0.0,0,v,SUB: Bowen FOR Mercer,Substitution,,0,477
+29700714,478,PT01M18.00S,4,1610612738,BOS,1497,Billups,C. Billups,0,0,0,,0,92.0,95.0,187,v,Billups Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,478
+29700714,479,PT01M00.00S,4,1610612746,LAC,239,Martin,D. Martin,5,33,3,Missed,1,0.0,0.0,0,h,MISS Martin 3' Driving Layup,Missed Shot,Driving Layup Shot,0,479
+29700714,480,PT01M00.00S,4,1610612746,LAC,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,h,Murray REBOUND (Off:5 Def:1),Rebound,Unknown,0,480
+29700714,481,PT01M00.00S,4,1610612746,LAC,441,Murray,L. Murray,0,0,0,Made,1,94.0,95.0,189,h,Murray  Layup (20 PTS),Made Shot,Layup Shot,0,481
+29700714,482,PT00M53.10S,4,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,v,Celtics Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,482
+29700714,483,PT00M53.10S,4,1610612738,BOS,1477,Bowen,B. Bowen,0,0,0,,0,0.0,0.0,0,v,SUB: Mercer FOR Bowen,Substitution,,0,483
+29700714,485,PT00M46.00S,4,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,h,Taylor S.FOUL (P3.PN),Foul,Shooting,0,484
+29700714,486,PT00M46.00S,4,1610612738,BOS,1497,Billups,C. Billups,0,0,0,,0,94.0,96.0,190,v,Billups Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,485
+29700714,487,PT00M46.00S,4,1610612738,BOS,1500,Mercer,R. Mercer,0,0,0,,0,0.0,0.0,0,v,SUB: Bowen FOR Mercer,Substitution,,0,486
+29700714,488,PT00M46.00S,4,1610612738,BOS,1497,Billups,C. Billups,0,0,0,,0,0.0,0.0,0,v,MISS Billups Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,487
+29700714,489,PT00M46.00S,4,1610612738,BOS,1497,Billups,C. Billups,0,0,0,,0,0.0,0.0,0,v,Billups REBOUND (Off:3 Def:3),Rebound,Unknown,0,488
+29700714,490,PT00M42.00S,4,1610612738,BOS,1497,Billups,C. Billups,0,0,0,Missed,1,0.0,0.0,0,v,MISS Billups  Layup,Missed Shot,Layup Shot,0,489
+29700714,491,PT00M39.60S,4,1610612746,LAC,441,Murray,L. Murray,0,0,0,,0,0.0,0.0,0,h,Murray REBOUND (Off:5 Def:2),Rebound,Unknown,0,490
+29700714,492,PT00M33.00S,4,1610612746,LAC,381,Robinson,J. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson Lost Ball Turnover (P3.T20),Turnover,Lost Ball,0,491
+29700714,492,PT00M33.00S,4,1610612738,BOS,1477,Bowen,B. Bowen,0,0,0,,0,0.0,0.0,0,v,Bowen STEAL (1 STL),,,0,492
+29700714,493,PT00M32.20S,4,1610612746,LAC,381,Robinson,J. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson P.FOUL (P1.PN),Foul,Personal,0,493
+29700714,495,PT00M32.20S,4,1610612738,BOS,244,Brown,D. Brown,0,0,0,,0,0.0,0.0,0,v,MISS Brown Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,494
+29700714,496,PT00M32.20S,4,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,v,Celtics Rebound,Rebound,Unknown,0,495
+29700714,497,PT00M32.20S,4,1610612738,BOS,244,Brown,D. Brown,0,0,0,,0,0.0,0.0,0,v,MISS Brown Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,496
+29700714,498,PT00M32.20S,4,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,497
+29700714,499,PT00M31.10S,4,1610612738,BOS,692,DeClercq,A. DeClercq,0,0,0,,0,0.0,0.0,0,v,DeClercq L.B.FOUL (P5.PN),Foul,Loose Ball,0,498
+29700714,500,PT00M31.10S,4,1610612738,BOS,1477,Bowen,B. Bowen,0,0,0,,0,0.0,0.0,0,v,SUB: Mercer FOR Bowen,Substitution,,0,499
+29700714,501,PT00M31.10S,4,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,95.0,96.0,191,h,Wright Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,500
+29700714,502,PT00M31.10S,4,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,96.0,96.0,192,h,Wright Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,501
+29700714,504,PT00M19.00S,4,1610612738,BOS,1497,Billups,C. Billups,42,201,21,Missed,1,0.0,0.0,0,v,MISS Billups 21' Jump Shot,Missed Shot,Jump Shot,0,502
+29700714,505,PT00M17.40S,4,1610612738,BOS,692,DeClercq,A. DeClercq,0,0,0,,0,0.0,0.0,0,v,DeClercq REBOUND (Off:5 Def:5),Rebound,Unknown,0,503
+29700714,506,PT00M17.00S,4,1610612738,BOS,692,DeClercq,A. DeClercq,0,0,0,Missed,1,0.0,0.0,0,v,MISS DeClercq  Layup,Missed Shot,Layup Shot,0,504
+29700714,507,PT00M17.00S,4,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,Walker REBOUND (Off:3 Def:10),Rebound,Unknown,0,505
+29700714,508,PT00M16.10S,4,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,h,Taylor S.FOUL (P4.PN),Foul,Shooting,0,506
+29700714,509,PT00M16.10S,4,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,0.0,0.0,0,v,MISS Walker Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,507
+29700714,510,PT00M16.10S,4,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,v,Celtics Rebound,Rebound,Unknown,0,508
+29700714,511,PT00M16.10S,4,1610612738,BOS,1500,Mercer,R. Mercer,0,0,0,,0,0.0,0.0,0,v,SUB: Bowen FOR Mercer,Substitution,,0,509
+29700714,512,PT00M16.10S,4,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,h,CLIPPERS Timeout: Regular (Full 5 Short 2),Timeout,Regular,0,510
+29700714,514,PT00M16.10S,4,1610612746,LAC,381,Robinson,J. Robinson,0,0,0,,0,0.0,0.0,0,h,SUB: Closs FOR Robinson,Substitution,,0,511
+29700714,515,PT00M16.10S,4,1610612738,BOS,952,Walker,A. Walker,0,0,0,,0,96.0,97.0,193,v,Walker Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,0,512
+29700714,516,PT00M16.10S,4,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,h,CLIPPERS Timeout: Regular (Full 6 Short 2),Timeout,Regular,0,513
+29700714,517,PT00M16.10S,4,1610612746,LAC,1569,Closs,K. Closs,0,0,0,,0,0.0,0.0,0,h,SUB: Robinson FOR Closs,Substitution,,0,514
+29700714,518,PT00M16.10S,4,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,h,CLIPPERS Timeout: Regular (Full 7 Short 2),Timeout,Regular,0,515
+29700714,520,PT00M16.10S,4,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,v,Celtics Timeout: Short (Reg.6 Short 1),Timeout,Short,0,516
+29700714,522,PT00M01.00S,4,1610612746,LAC,381,Robinson,J. Robinson,-10,61,6,Missed,1,0.0,0.0,0,h,MISS Robinson 6' Running Jump Shot,Missed Shot,Running Jump Shot,0,517
+29700714,523,PT00M00.00S,4,0,,1610612746,,,0,0,0,,0,0.0,0.0,0,h,CLIPPERS Rebound,Rebound,Unknown,0,518
+29700714,524,PT00M00.00S,4,0,,0,,,0,0,0,,0,96.0,97.0,193,,End of 4th Period (4:55 PM EST),period,end,0,519

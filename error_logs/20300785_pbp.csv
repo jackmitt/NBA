@@ -1,0 +1,509 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+20300785,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (7:20 PM EST),period,start,0,1
+20300785,1,PT12M00.00S,1,1610612753,ORL,2212,Hunter,S. Hunter,0,0,0,,0,0.0,0.0,0,h,Jump Ball Hunter vs. Camby: Tip to Miller,Jump Ball,,0,2
+20300785,2,PT11M44.00S,1,1610612743,DEN,1889,Miller,A. Miller,0,100,10,Missed,1,0.0,0.0,0,v,MISS Miller 10' Jump Shot,Missed Shot,Jump Shot,0,3
+20300785,3,PT11M42.00S,1,1610612753,ORL,2212,Hunter,S. Hunter,0,0,0,,0,0.0,0.0,0,h,Hunter REBOUND (Off:0 Def:1),Rebound,Unknown,0,4
+20300785,4,PT11M24.00S,1,1610612753,ORL,436,Howard,J. Howard,-80,127,15,Missed,1,0.0,0.0,0,h,MISS Howard 15' Jump Shot,Missed Shot,Jump Shot,0,5
+20300785,5,PT11M22.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:0 Def:1),Rebound,Unknown,0,6
+20300785,6,PT11M13.00S,1,1610612743,DEN,948,Camby,M. Camby,-31,199,20,Made,1,0.0,2.0,2,v,Camby 20' Jump Shot (2 PTS) (Anthony 1 AST),Made Shot,Jump Shot,0,7
+20300785,7,PT10M49.00S,1,1610612753,ORL,2586,Bogans,K. Bogans,230,61,24,Made,1,3.0,2.0,5,h,Bogans 24' 3PT Jump Shot (3 PTS) (Howard 1 AST),Made Shot,Jump Shot,0,8
+20300785,8,PT10M32.00S,1,1610612743,DEN,2403,Hilario,Nene,102,5,10,Made,1,3.0,4.0,7,v,Nene 10' Jump Shot (2 PTS) (Camby 1 AST),Made Shot,Jump Shot,0,9
+20300785,9,PT10M13.00S,1,1610612753,ORL,436,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,10
+20300785,9,PT10M13.00S,1,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,Nene STEAL (1 STL),,,0,11
+20300785,10,PT10M06.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,3.0,6.0,9,v,Anthony  Driving Layup (2 PTS) (Lenard 1 AST),Made Shot,Driving Layup Shot,0,12
+20300785,11,PT09M52.00S,1,1610612753,ORL,1503,McGrady,T. McGrady,-117,151,19,Missed,1,0.0,0.0,0,h,MISS McGrady 19' Jump Shot,Missed Shot,Jump Shot,0,13
+20300785,12,PT09M50.00S,1,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,v,Lenard REBOUND (Off:0 Def:1),Rebound,Unknown,0,14
+20300785,13,PT09M40.00S,1,1610612743,DEN,948,Camby,M. Camby,-82,-3,8,Missed,1,0.0,0.0,0,v,MISS Camby 8' Jump Shot,Missed Shot,Jump Shot,0,15
+20300785,13,PT09M40.00S,1,1610612753,ORL,2212,Hunter,S. Hunter,0,0,0,,0,0.0,0.0,0,h,Hunter BLOCK (1 BLK),,,0,16
+20300785,14,PT09M37.00S,1,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,Nene REBOUND (Off:1 Def:0),Rebound,Unknown,0,17
+20300785,15,PT09M35.00S,1,1610612743,DEN,2403,Hilario,Nene,0,0,0,Made,1,3.0,8.0,11,v,Nene  Layup (4 PTS),Made Shot,Layup Shot,0,18
+20300785,16,PT09M23.00S,1,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,Miller P.FOUL (P1.T1),Foul,Personal,0,19
+20300785,17,PT09M15.00S,1,1610612753,ORL,2586,Bogans,K. Bogans,-8,248,25,Missed,1,0.0,0.0,0,h,MISS Bogans 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,20
+20300785,18,PT09M14.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:0 Def:2),Rebound,Unknown,0,21
+20300785,19,PT09M02.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,123,176,21,Missed,1,0.0,0.0,0,v,MISS Anthony 21' Jump Shot,Missed Shot,Jump Shot,0,22
+20300785,20,PT09M00.00S,1,1610612753,ORL,2212,Hunter,S. Hunter,0,0,0,,0,0.0,0.0,0,h,Hunter REBOUND (Off:0 Def:2),Rebound,Unknown,0,23
+20300785,21,PT08M54.00S,1,1610612753,ORL,2586,Bogans,K. Bogans,0,0,0,,0,0.0,0.0,0,h,Bogans Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,24
+20300785,22,PT08M34.00S,1,1610612743,DEN,2403,Hilario,Nene,80,112,14,Made,1,3.0,10.0,13,v,Nene 14' Jump Shot (6 PTS),Made Shot,Jump Shot,0,25
+20300785,23,PT08M34.00S,1,1610612753,ORL,1503,McGrady,T. McGrady,0,0,0,,0,0.0,0.0,0,h,McGrady S.FOUL (P1.T1),Foul,Shooting,0,26
+20300785,24,PT08M34.00S,1,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,MISS Nene Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,27
+20300785,25,PT08M33.00S,1,1610612753,ORL,436,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard REBOUND (Off:0 Def:1),Rebound,Unknown,0,28
+20300785,26,PT08M24.00S,1,1610612753,ORL,1731,Lue,T. Lue,0,0,0,,0,0.0,0.0,0,h,Lue Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,29
+20300785,26,PT08M24.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby STEAL (1 STL),,,0,30
+20300785,27,PT08M20.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,Made,1,3.0,12.0,15,v,Camby  Driving Dunk (4 PTS),Made Shot,Driving Dunk Shot,0,31
+20300785,28,PT08M11.00S,1,1610612753,ORL,2212,Hunter,S. Hunter,-44,23,5,Missed,1,0.0,0.0,0,h,MISS Hunter 5' Jump Shot,Missed Shot,Jump Shot,0,32
+20300785,28,PT08M11.00S,1,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,Nene BLOCK (1 BLK),,,0,33
+20300785,29,PT08M08.00S,1,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,v,Lenard REBOUND (Off:0 Def:2),Rebound,Unknown,0,34
+20300785,30,PT08M02.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,184,179,26,Made,1,3.0,15.0,18,v,Anthony 26' 3PT Jump Bank Shot (5 PTS) (Lenard 2 AST),Made Shot,Jump Bank Shot,0,35
+20300785,31,PT08M01.00S,1,0,,1610612753,,,0,0,0,,0,0.0,0.0,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,36
+20300785,33,PT08M01.00S,1,1610612753,ORL,2586,Bogans,K. Bogans,0,0,0,,0,0.0,0.0,0,h,SUB: Stevenson FOR Bogans,Substitution,,0,37
+20300785,34,PT08M01.00S,1,1610612753,ORL,1731,Lue,T. Lue,0,0,0,,0,0.0,0.0,0,h,SUB: Strickland FOR Lue,Substitution,,0,38
+20300785,36,PT07M49.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony S.FOUL (P1.T2),Foul,Shooting,0,39
+20300785,37,PT07M49.00S,1,1610612753,ORL,1503,McGrady,T. McGrady,0,0,0,,0,0.0,0.0,0,h,MISS McGrady Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,40
+20300785,38,PT07M49.00S,1,0,,1610612753,,,0,0,0,,0,0.0,0.0,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,41
+20300785,39,PT07M49.00S,1,1610612753,ORL,1503,McGrady,T. McGrady,0,0,0,,0,4.0,15.0,19,h,McGrady Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,42
+20300785,40,PT07M34.00S,1,1610612743,DEN,948,Camby,M. Camby,-54,184,19,Made,1,4.0,17.0,21,v,Camby 19' Jump Shot (6 PTS) (Nene 1 AST),Made Shot,Jump Shot,0,43
+20300785,41,PT07M23.00S,1,1610612753,ORL,2212,Hunter,S. Hunter,0,0,0,Made,1,6.0,17.0,23,h,Hunter  Slam Dunk (2 PTS) (Strickland 1 AST),Made Shot,Slam Dunk Shot,0,44
+20300785,42,PT07M07.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,-5,61,6,Missed,1,0.0,0.0,0,v,MISS Anthony 6' Jump Shot,Missed Shot,Jump Shot,0,45
+20300785,42,PT07M07.00S,1,1610612753,ORL,2212,Hunter,S. Hunter,0,0,0,,0,0.0,0.0,0,h,Hunter BLOCK (2 BLK),,,0,46
+20300785,43,PT07M03.00S,1,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,Miller REBOUND (Off:1 Def:0),Rebound,Unknown,0,47
+20300785,44,PT06M58.00S,1,1610612743,DEN,702,Lenard,V. Lenard,164,187,25,Missed,1,0.0,0.0,0,v,MISS Lenard 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,48
+20300785,45,PT06M55.00S,1,1610612753,ORL,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,Strickland REBOUND (Off:0 Def:1),Rebound,Unknown,0,49
+20300785,46,PT06M52.00S,1,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,Made,1,8.0,17.0,25,h,Stevenson  Driving Layup (2 PTS) (Strickland 2 AST),Made Shot,Driving Layup Shot,0,50
+20300785,47,PT06M34.00S,1,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,Nene Discontinue Dribble Turnover (P1.T1),Turnover,Discontinue Dribble,0,51
+20300785,48,PT06M34.00S,1,0,,1610612753,,,0,0,0,,0,0.0,0.0,0,h,MAGIC Timeout: Short (Full 1 Short 1),Timeout,Short,0,52
+20300785,49,PT06M34.00S,1,1610612753,ORL,2212,Hunter,S. Hunter,0,0,0,,0,0.0,0.0,0,h,SUB: Pachulia FOR Hunter,Substitution,,0,53
+20300785,51,PT06M20.00S,1,1610612753,ORL,1503,McGrady,T. McGrady,0,0,0,Made,1,10.0,17.0,27,h,McGrady  Driving Layup (3 PTS),Made Shot,Driving Layup Shot,0,54
+20300785,52,PT06M08.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,10.0,19.0,29,v,Anthony  Driving Layup (7 PTS) (Camby 2 AST),Made Shot,Driving Layup Shot,0,55
+20300785,53,PT06M08.00S,1,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,Stevenson S.FOUL (P1.T2),Foul,Shooting,0,56
+20300785,54,PT06M08.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,10.0,20.0,30,v,Anthony Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,57
+20300785,55,PT05M48.00S,1,1610612753,ORL,436,Howard,J. Howard,0,0,0,Made,1,12.0,20.0,32,h,Howard  Slam Dunk (2 PTS) (McGrady 1 AST),Made Shot,Slam Dunk Shot,0,58
+20300785,56,PT05M36.00S,1,1610612753,ORL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,Pachulia P.FOUL (P1.T3),Foul,Personal,0,59
+20300785,60,PT05M32.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,12.0,22.0,34,v,Anthony  Slam Dunk (10 PTS) (Nene 2 AST),Made Shot,Slam Dunk Shot,0,60
+20300785,61,PT05M18.00S,1,1610612753,ORL,436,Howard,J. Howard,-126,102,16,Missed,1,0.0,0.0,0,h,MISS Howard 16' Jump Shot,Missed Shot,Jump Shot,0,61
+20300785,62,PT05M16.00S,1,1610612753,ORL,1503,McGrady,T. McGrady,0,0,0,,0,0.0,0.0,0,h,McGrady REBOUND (Off:1 Def:0),Rebound,Unknown,0,62
+20300785,63,PT05M12.00S,1,1610612753,ORL,393,Strickland,R. Strickland,-6,214,21,Made,1,14.0,22.0,36,h,Strickland 21' Jump Shot (2 PTS) (Stevenson 1 AST),Made Shot,Jump Shot,0,63
+20300785,64,PT04M46.00S,1,1610612743,DEN,1889,Miller,A. Miller,-133,5,13,Missed,1,0.0,0.0,0,v,MISS Miller 13' Jump Shot,Missed Shot,Jump Shot,0,64
+20300785,65,PT04M44.00S,1,1610612753,ORL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,Pachulia REBOUND (Off:0 Def:1),Rebound,Unknown,0,65
+20300785,66,PT04M34.00S,1,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,Nene S.FOUL (P1.T3),Foul,Shooting,0,66
+20300785,67,PT04M34.00S,1,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,MISS Stevenson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,67
+20300785,68,PT04M34.00S,1,0,,1610612753,,,0,0,0,,0,0.0,0.0,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,68
+20300785,69,PT04M34.00S,1,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,MISS Stevenson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,69
+20300785,70,PT04M33.00S,1,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,Miller REBOUND (Off:1 Def:1),Rebound,Unknown,0,70
+20300785,71,PT04M26.00S,1,1610612743,DEN,1889,Miller,A. Miller,0,0,0,Made,1,14.0,24.0,38,v,Miller  Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,71
+20300785,72,PT04M08.00S,1,1610612753,ORL,436,Howard,J. Howard,-123,13,12,Missed,1,0.0,0.0,0,h,MISS Howard 12' Jump Shot,Missed Shot,Jump Shot,0,72
+20300785,73,PT04M07.00S,1,1610612753,ORL,1503,McGrady,T. McGrady,0,0,0,,0,0.0,0.0,0,h,McGrady REBOUND (Off:2 Def:0),Rebound,Unknown,0,73
+20300785,74,PT04M05.00S,1,1610612753,ORL,1503,McGrady,T. McGrady,0,0,0,Made,1,16.0,24.0,40,h,McGrady  Layup (5 PTS),Made Shot,Layup Shot,0,74
+20300785,75,PT03M45.00S,1,1610612743,DEN,702,Lenard,V. Lenard,-130,171,21,Missed,1,0.0,0.0,0,v,MISS Lenard 21' Jump Shot,Missed Shot,Jump Shot,0,75
+20300785,76,PT03M43.00S,1,1610612753,ORL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,Pachulia REBOUND (Off:0 Def:2),Rebound,Unknown,0,76
+20300785,77,PT03M37.00S,1,1610612753,ORL,1503,McGrady,T. McGrady,0,0,0,Missed,1,0.0,0.0,0,h,MISS McGrady  Driving Finger Roll,Missed Shot,Driving Finger Roll Shot,0,77
+20300785,78,PT03M35.00S,1,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,Nene REBOUND (Off:1 Def:1),Rebound,Unknown,0,78
+20300785,79,PT03M14.00S,1,1610612743,DEN,2403,Hilario,Nene,0,0,0,Made,1,16.0,26.0,42,v,Nene  Layup (8 PTS) (Camby 3 AST),Made Shot,Layup Shot,0,79
+20300785,80,PT03M00.00S,1,1610612753,ORL,2585,Pachulia,Z. Pachulia,0,0,0,Missed,1,0.0,0.0,0,h,MISS Pachulia  Layup,Missed Shot,Layup Shot,0,80
+20300785,80,PT03M00.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby BLOCK (1 BLK),,,0,81
+20300785,81,PT02M59.00S,1,0,,1610612753,,,0,0,0,,0,0.0,0.0,0,h,MAGIC Rebound,Rebound,Unknown,0,82
+20300785,82,PT02M59.00S,1,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,83
+20300785,84,PT02M59.00S,1,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,SUB: Boykins FOR Miller,Substitution,,0,84
+20300785,86,PT02M57.00S,1,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,Nene P.FOUL (P2.T4),Foul,Personal,0,85
+20300785,87,PT02M57.00S,1,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,SUB: Andersen FOR Nene,Substitution,,0,86
+20300785,88,PT02M53.00S,1,1610612753,ORL,2585,Pachulia,Z. Pachulia,74,112,13,Missed,1,0.0,0.0,0,h,MISS Pachulia 13' Jump Shot,Missed Shot,Jump Shot,0,87
+20300785,89,PT02M51.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:0 Def:3),Rebound,Unknown,0,88
+20300785,90,PT02M36.00S,1,1610612753,ORL,436,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard P.FOUL (P1.T4),Foul,Personal,0,89
+20300785,91,PT02M25.00S,1,1610612743,DEN,702,Lenard,V. Lenard,110,181,21,Missed,1,0.0,0.0,0,v,MISS Lenard 21' Jump Shot,Missed Shot,Jump Shot,0,90
+20300785,92,PT02M24.00S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:1 Def:3),Rebound,Unknown,0,91
+20300785,93,PT02M19.00S,1,1610612743,DEN,702,Lenard,V. Lenard,125,138,19,Missed,1,0.0,0.0,0,v,MISS Lenard 19' Jump Shot,Missed Shot,Jump Shot,0,92
+20300785,94,PT02M17.00S,1,1610612753,ORL,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,Strickland REBOUND (Off:0 Def:2),Rebound,Unknown,0,93
+20300785,95,PT02M11.00S,1,1610612753,ORL,1503,McGrady,T. McGrady,-227,125,26,Missed,1,0.0,0.0,0,h,MISS McGrady 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,94
+20300785,97,PT02M08.00S,1,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Rebound,Rebound,Unknown,0,95
+20300785,98,PT02M08.00S,1,1610612753,ORL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,Pachulia L.B.FOUL (P2.PN),Foul,Loose Ball,0,96
+20300785,99,PT02M08.00S,1,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,v,SUB: Barry FOR Lenard,Substitution,,0,97
+20300785,100,PT02M08.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,16.0,27.0,43,v,Anthony Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,98
+20300785,101,PT02M08.00S,1,1610612753,ORL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,SUB: Gooden FOR Pachulia,Substitution,,0,99
+20300785,102,PT02M08.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,16.0,28.0,44,v,Anthony Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,100
+20300785,103,PT01M51.00S,1,1610612753,ORL,2400,Gooden,D. Gooden,13,140,14,Missed,1,0.0,0.0,0,h,MISS Gooden 14' Jump Shot,Missed Shot,Jump Shot,0,101
+20300785,104,PT01M48.00S,1,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,,0,0.0,0.0,0,v,Andersen REBOUND (Off:0 Def:1),Rebound,Unknown,0,102
+20300785,105,PT01M45.00S,1,1610612743,DEN,468,Barry,J. Barry,-186,166,25,Missed,1,0.0,0.0,0,v,MISS Barry 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,103
+20300785,106,PT01M43.00S,1,1610612753,ORL,1503,McGrady,T. McGrady,0,0,0,,0,0.0,0.0,0,h,McGrady REBOUND (Off:2 Def:1),Rebound,Unknown,0,104
+20300785,107,PT01M31.00S,1,1610612753,ORL,436,Howard,J. Howard,0,0,0,Made,1,18.0,28.0,46,h,Howard  Layup (4 PTS) (Strickland 3 AST),Made Shot,Layup Shot,0,105
+20300785,108,PT01M19.00S,1,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,Stevenson S.FOUL (P2.PN),Foul,Shooting,0,106
+20300785,109,PT01M19.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,18.0,29.0,47,v,Anthony Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,107
+20300785,110,PT01M19.00S,1,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,SUB: Penigar FOR Stevenson,Substitution,,0,108
+20300785,111,PT01M19.00S,1,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,18.0,30.0,48,v,Anthony Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,109
+20300785,112,PT00M59.90S,1,1610612753,ORL,436,Howard,J. Howard,8,117,12,Missed,1,0.0,0.0,0,h,MISS Howard 12' Jump Shot,Missed Shot,Jump Shot,0,110
+20300785,113,PT00M58.70S,1,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:1 Def:4),Rebound,Unknown,0,111
+20300785,114,PT00M38.90S,1,1610612743,DEN,948,Camby,M. Camby,43,196,20,Missed,1,0.0,0.0,0,v,MISS Camby 20' Jump Shot,Missed Shot,Jump Shot,0,112
+20300785,115,PT00M36.90S,1,1610612753,ORL,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,Strickland REBOUND (Off:0 Def:3),Rebound,Unknown,0,113
+20300785,116,PT00M31.90S,1,1610612753,ORL,436,Howard,J. Howard,0,61,6,Missed,1,0.0,0.0,0,h,MISS Howard 6' Jump Shot,Missed Shot,Jump Shot,0,114
+20300785,118,PT00M31.00S,1,1610612753,ORL,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,h,Gooden REBOUND (Off:1 Def:0),Rebound,Unknown,0,115
+20300785,117,PT00M31.00S,1,1610612753,ORL,2400,Gooden,D. Gooden,0,0,0,Made,1,20.0,30.0,50,h,Gooden  Layup (2 PTS),Made Shot,Layup Shot,0,116
+20300785,119,PT00M14.90S,1,1610612743,DEN,1863,Boykins,E. Boykins,151,201,25,Missed,1,0.0,0.0,0,v,MISS Boykins 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,117
+20300785,120,PT00M12.80S,1,1610612753,ORL,2667,Penigar,D. Penigar,0,0,0,,0,0.0,0.0,0,h,Penigar REBOUND (Off:0 Def:1),Rebound,Unknown,0,118
+20300785,121,PT00M03.40S,1,1610612753,ORL,393,Strickland,R. Strickland,10,141,14,Made,1,22.0,30.0,52,h,Strickland 14' Jump Shot (4 PTS),Made Shot,Jump Shot,0,119
+20300785,122,PT00M00.30S,1,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,Made,1,22.0,32.0,54,v,Andersen  Layup (2 PTS) (Boykins 1 AST),Made Shot,Layup Shot,0,120
+20300785,125,PT00M00.00S,1,0,,0,,,0,0,0,,0,22.0,32.0,54,,Instant Replay1st Period (7:46 PM EST),Instant Replay,Support Ruling,0,121
+20300785,126,PT00M00.00S,1,0,,0,,,0,0,0,,0,22.0,32.0,54,,End of 1st Period (7:47 PM EST),period,end,0,122
+20300785,127,PT12M00.00S,2,0,,0,,,0,0,0,,0,22.0,32.0,54,,Start of 2nd Period (7:49 PM EST),period,start,0,123
+20300785,128,PT11M44.00S,2,1610612743,DEN,2206,White,R. White,0,0,0,,0,0.0,0.0,0,v,White S.FOUL (P1.T1),Foul,Shooting,0,124
+20300785,129,PT11M44.00S,2,1610612753,ORL,1503,McGrady,T. McGrady,0,0,0,,0,23.0,32.0,55,h,McGrady Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,125
+20300785,130,PT11M44.00S,2,1610612753,ORL,1503,McGrady,T. McGrady,0,0,0,,0,24.0,32.0,56,h,McGrady Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,126
+20300785,131,PT11M28.00S,2,1610612743,DEN,468,Barry,J. Barry,0,0,0,,0,0.0,0.0,0,v,Barry Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,127
+20300785,131,PT11M28.00S,2,1610612753,ORL,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,h,Gooden STEAL (1 STL),,,0,128
+20300785,132,PT11M27.00S,2,1610612743,DEN,468,Barry,J. Barry,0,0,0,,0,0.0,0.0,0,v,Barry P.FOUL (P1.T2),Foul,Personal,0,129
+20300785,133,PT11M18.00S,2,1610612753,ORL,436,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,130
+20300785,134,PT10M58.00S,2,1610612743,DEN,2206,White,R. White,123,94,15,Missed,1,0.0,0.0,0,v,MISS White 15' Jump Shot,Missed Shot,Jump Shot,0,131
+20300785,135,PT10M56.00S,2,1610612753,ORL,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,Strickland REBOUND (Off:0 Def:4),Rebound,Unknown,0,132
+20300785,136,PT10M49.00S,2,1610612753,ORL,1503,McGrady,T. McGrady,0,0,0,Made,1,26.0,32.0,58,h,McGrady  Driving Layup (9 PTS),Made Shot,Driving Layup Shot,0,133
+20300785,137,PT10M35.00S,2,1610612743,DEN,2365,Andersen,C. Andersen,149,17,15,Made,1,26.0,34.0,60,v,Andersen 15' Jump Shot (4 PTS) (Boykins 2 AST),Made Shot,Jump Shot,0,134
+20300785,138,PT10M24.00S,2,1610612753,ORL,393,Strickland,R. Strickland,0,0,0,Made,1,28.0,34.0,62,h,Strickland  Layup (6 PTS),Made Shot,Layup Shot,0,135
+20300785,139,PT10M15.00S,2,1610612743,DEN,468,Barry,J. Barry,0,0,0,Missed,1,0.0,0.0,0,v,MISS Barry  Layup,Missed Shot,Layup Shot,0,136
+20300785,139,PT10M15.00S,2,1610612753,ORL,2667,Penigar,D. Penigar,0,0,0,,0,0.0,0.0,0,h,Penigar BLOCK (1 BLK),,,0,137
+20300785,140,PT10M13.00S,2,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,,0,0.0,0.0,0,v,Andersen REBOUND (Off:1 Def:1),Rebound,Unknown,0,138
+20300785,141,PT10M02.00S,2,1610612743,DEN,1863,Boykins,E. Boykins,-95,202,22,Made,1,28.0,36.0,64,v,Boykins 22' Jump Shot (2 PTS),Made Shot,Jump Shot,0,139
+20300785,142,PT09M42.00S,2,1610612753,ORL,2400,Gooden,D. Gooden,-18,145,15,Made,1,30.0,36.0,66,h,Gooden 15' Jump Shot (4 PTS) (Howard 2 AST),Made Shot,Jump Shot,0,140
+20300785,143,PT09M34.00S,2,1610612753,ORL,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,Strickland P.FOUL (P1.T1),Foul,Personal,0,141
+20300785,144,PT09M34.00S,2,1610612753,ORL,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,SUB: Lue FOR Strickland,Substitution,,0,142
+20300785,145,PT09M34.00S,2,1610612743,DEN,1763,Bowen,R. Bowen,0,0,0,,0,0.0,0.0,0,v,SUB: Nene FOR Bowen,Substitution,,0,143
+20300785,146,PT09M25.00S,2,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,Made,1,30.0,38.0,68,v,Andersen  Driving Dunk (6 PTS) (Nene 3 AST),Made Shot,Driving Dunk Shot,0,144
+20300785,147,PT08M59.00S,2,1610612753,ORL,1503,McGrady,T. McGrady,-166,192,25,Made,1,33.0,38.0,71,h,McGrady 25' 3PT Jump Shot (12 PTS) (Lue 1 AST),Made Shot,Jump Shot,0,145
+20300785,148,PT08M45.00S,2,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,Made,1,33.0,40.0,73,v,Andersen  Dunk (8 PTS) (Boykins 3 AST),Made Shot,Dunk Shot,0,146
+20300785,149,PT08M30.00S,2,1610612753,ORL,436,Howard,J. Howard,0,0,0,Made,1,35.0,40.0,75,h,Howard  Driving Dunk (6 PTS) (McGrady 2 AST),Made Shot,Driving Dunk Shot,0,147
+20300785,150,PT08M18.00S,2,1610612753,ORL,436,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard S.FOUL (P2.T2),Foul,Shooting,0,148
+20300785,151,PT08M18.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,149
+20300785,155,PT08M18.00S,2,1610612743,DEN,468,Barry,J. Barry,0,0,0,,0,0.0,0.0,0,v,SUB: Miller FOR Barry,Substitution,,0,150
+20300785,156,PT08M18.00S,2,1610612743,DEN,2206,White,R. White,0,0,0,,0,0.0,0.0,0,v,SUB: Anthony FOR White,Substitution,,0,151
+20300785,157,PT08M18.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,35.0,41.0,76,v,Nene Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,152
+20300785,158,PT08M18.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,35.0,42.0,77,v,Nene Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,153
+20300785,159,PT08M00.00S,2,1610612753,ORL,1503,McGrady,T. McGrady,136,59,15,Missed,1,0.0,0.0,0,h,MISS McGrady 15' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,154
+20300785,160,PT07M58.00S,2,1610612753,ORL,2667,Penigar,D. Penigar,0,0,0,,0,0.0,0.0,0,h,Penigar REBOUND (Off:1 Def:1),Rebound,Unknown,0,155
+20300785,161,PT07M57.00S,2,1610612753,ORL,2667,Penigar,D. Penigar,0,0,0,Made,1,37.0,42.0,79,h,Penigar  Layup (2 PTS),Made Shot,Layup Shot,0,156
+20300785,162,PT07M40.00S,2,1610612743,DEN,1863,Boykins,E. Boykins,33,243,25,Made,1,37.0,45.0,82,v,Boykins 25' 3PT Jump Shot (5 PTS) (Nene 4 AST),Made Shot,Jump Shot,0,157
+20300785,163,PT07M23.00S,2,1610612753,ORL,2667,Penigar,D. Penigar,0,0,0,,0,0.0,0.0,0,h,Penigar Out of Bounds Lost Ball Turnover (P1.T5),Turnover,Out of Bounds Lost Ball Turnover,0,158
+20300785,164,PT07M23.00S,2,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,,0,0.0,0.0,0,v,SUB: Camby FOR Andersen,Substitution,,0,159
+20300785,165,PT07M00.00S,2,1610612743,DEN,1889,Miller,A. Miller,15,54,6,Missed,1,0.0,0.0,0,v,MISS Miller 6' Hook Shot,Missed Shot,Hook Shot,0,160
+20300785,167,PT06M57.00S,2,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:2 Def:4),Rebound,Unknown,0,161
+20300785,166,PT06M57.00S,2,1610612743,DEN,948,Camby,M. Camby,0,0,0,Made,1,37.0,47.0,84,v,Camby  Follow Up Dunk (8 PTS),Made Shot,Follow Up Dunk Shot,0,162
+20300785,168,PT06M38.00S,2,1610612753,ORL,1731,Lue,T. Lue,-172,-1,17,Missed,1,0.0,0.0,0,h,MISS Lue 17' Jump Shot,Missed Shot,Jump Shot,0,163
+20300785,169,PT06M36.00S,2,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:2 Def:5),Rebound,Unknown,0,164
+20300785,170,PT06M31.00S,2,1610612743,DEN,1863,Boykins,E. Boykins,-192,168,26,Missed,1,0.0,0.0,0,v,MISS Boykins 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,165
+20300785,171,PT06M29.00S,2,1610612753,ORL,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,h,Gooden REBOUND (Off:1 Def:1),Rebound,Unknown,0,166
+20300785,172,PT06M24.00S,2,1610612753,ORL,1503,McGrady,T. McGrady,-182,187,26,Made,1,40.0,47.0,87,h,McGrady 26' 3PT Jump Shot (15 PTS),Made Shot,Jump Shot,0,167
+20300785,173,PT06M19.00S,2,1610612753,ORL,1731,Lue,T. Lue,0,0,0,,0,0.0,0.0,0,h,Lue P.FOUL (P1.T3),Foul,Personal,0,168
+20300785,174,PT06M19.00S,2,1610612753,ORL,1503,McGrady,T. McGrady,0,0,0,,0,0.0,0.0,0,h,SUB: Bogans FOR McGrady,Substitution,,0,169
+20300785,175,PT06M10.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,-153,160,22,Missed,1,0.0,0.0,0,v,MISS Anthony 22' Jump Shot,Missed Shot,Jump Shot,0,170
+20300785,176,PT06M08.00S,2,1610612753,ORL,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,h,Gooden REBOUND (Off:1 Def:2),Rebound,Unknown,0,171
+20300785,177,PT05M52.00S,2,1610612753,ORL,2586,Bogans,K. Bogans,-163,164,23,Made,1,42.0,47.0,89,h,Bogans 23' Jump Shot (5 PTS) (Howard 3 AST),Made Shot,Jump Shot,0,172
+20300785,178,PT05M31.00S,2,1610612753,ORL,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,h,Gooden P.FOUL (P1.T4),Foul,Personal,0,173
+20300785,179,PT05M31.00S,2,0,,1610612753,,,0,0,0,,0,0.0,0.0,0,h,MAGIC Timeout: Regular (Full 2 Short 1),Timeout,Regular,0,174
+20300785,182,PT05M31.00S,2,1610612753,ORL,2667,Penigar,D. Penigar,0,0,0,,0,0.0,0.0,0,h,SUB: Stevenson FOR Penigar,Substitution,,0,175
+20300785,183,PT05M22.00S,2,1610612743,DEN,1889,Miller,A. Miller,46,35,6,Made,1,42.0,49.0,91,v,Miller 6' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,0,176
+20300785,184,PT05M02.00S,2,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,Missed,1,0.0,0.0,0,h,MISS Stevenson  Layup,Missed Shot,Layup Shot,0,177
+20300785,184,PT05M02.00S,2,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby BLOCK (2 BLK),,,0,178
+20300785,185,PT04M59.00S,2,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,Stevenson REBOUND (Off:1 Def:0),Rebound,Unknown,0,179
+20300785,186,PT04M55.00S,2,0,,1610612753,,,0,0,0,,0,0.0,0.0,0,h,MAGIC Turnover: Shot Clock (T#6),Turnover,Shot Clock Turnover,0,180
+20300785,187,PT04M55.00S,2,1610612743,DEN,1863,Boykins,E. Boykins,0,0,0,,0,0.0,0.0,0,v,SUB: Lenard FOR Boykins,Substitution,,0,181
+20300785,188,PT04M38.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,182
+20300785,188,PT04M38.00S,2,1610612753,ORL,1731,Lue,T. Lue,0,0,0,,0,0.0,0.0,0,h,Lue STEAL (1 STL),,,0,183
+20300785,189,PT04M32.00S,2,1610612753,ORL,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,h,Gooden Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,184
+20300785,189,PT04M32.00S,2,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,Miller STEAL (1 STL),,,0,185
+20300785,190,PT04M29.00S,2,1610612753,ORL,1731,Lue,T. Lue,0,0,0,,0,0.0,0.0,0,h,Lue P.FOUL (P2.PN),Foul,Personal,0,186
+20300785,191,PT04M29.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,42.0,50.0,92,v,Anthony Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,187
+20300785,192,PT04M29.00S,2,1610612753,ORL,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,h,SUB: Pachulia FOR Gooden,Substitution,,0,188
+20300785,193,PT04M29.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,42.0,51.0,93,v,Anthony Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,189
+20300785,194,PT04M12.00S,2,1610612753,ORL,436,Howard,J. Howard,-26,66,7,Made,1,44.0,51.0,95,h,Howard 7' Hook Shot (8 PTS),Made Shot,Hook Shot,0,190
+20300785,195,PT03M45.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,44.0,53.0,97,v,Anthony  Slam Dunk (18 PTS) (Nene 5 AST),Made Shot,Slam Dunk Shot,0,191
+20300785,196,PT03M26.00S,2,1610612753,ORL,436,Howard,J. Howard,-141,97,17,Made,1,46.0,53.0,99,h,Howard 17' Jump Shot (10 PTS),Made Shot,Jump Shot,0,192
+20300785,197,PT03M13.00S,2,1610612743,DEN,948,Camby,M. Camby,10,143,14,Made,1,46.0,55.0,101,v,Camby 14' Jump Shot (10 PTS) (Anthony 2 AST),Made Shot,Jump Shot,0,193
+20300785,198,PT02M52.00S,2,1610612753,ORL,2585,Pachulia,Z. Pachulia,0,0,0,Made,1,48.0,55.0,103,h,Pachulia  Reverse Layup (2 PTS) (Stevenson 2 AST),Made Shot,Reverse Layup Shot,0,194
+20300785,199,PT02M36.00S,2,1610612743,DEN,702,Lenard,V. Lenard,-237,22,24,Missed,1,0.0,0.0,0,v,MISS Lenard 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,195
+20300785,200,PT02M34.00S,2,1610612753,ORL,436,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard REBOUND (Off:0 Def:2),Rebound,Unknown,0,196
+20300785,201,PT02M26.00S,2,1610612753,ORL,436,Howard,J. Howard,13,183,18,Made,1,50.0,55.0,105,h,Howard 18' Jump Shot (12 PTS) (Lue 2 AST),Made Shot,Jump Shot,0,197
+20300785,202,PT02M23.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,Nene T.FOUL (P2.T2),Foul,Technical,0,198
+20300785,203,PT02M23.00S,2,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,199
+20300785,205,PT02M23.00S,2,1610612753,ORL,2586,Bogans,K. Bogans,0,0,0,,0,0.0,0.0,0,h,SUB: McGrady FOR Bogans,Substitution,,0,200
+20300785,207,PT02M23.00S,2,1610612753,ORL,1731,Lue,T. Lue,0,0,0,,0,51.0,55.0,106,h,Lue Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,201
+20300785,209,PT02M15.00S,2,1610612753,ORL,1503,McGrady,T. McGrady,0,0,0,,0,0.0,0.0,0,h,McGrady S.FOUL (P2.PN),Foul,Shooting,0,202
+20300785,210,PT02M15.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,MISS Anthony Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,203
+20300785,211,PT02M15.00S,2,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,204
+20300785,212,PT02M15.00S,2,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,SUB: Andersen FOR Nene,Substitution,,0,205
+20300785,213,PT02M15.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,MISS Anthony Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,206
+20300785,214,PT02M14.00S,2,1610612753,ORL,436,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard REBOUND (Off:0 Def:3),Rebound,Unknown,0,207
+20300785,215,PT02M00.00S,2,1610612753,ORL,1503,McGrady,T. McGrady,-194,161,25,Missed,1,0.0,0.0,0,h,MISS McGrady 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,208
+20300785,216,PT01M59.00S,2,0,,1610612753,,,0,0,0,,0,0.0,0.0,0,h,MAGIC Rebound,Rebound,Unknown,0,209
+20300785,217,PT01M53.00S,2,1610612753,ORL,1503,McGrady,T. McGrady,-28,252,25,Missed,1,0.0,0.0,0,h,MISS McGrady 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,210
+20300785,218,PT01M52.00S,2,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:2 Def:6),Rebound,Unknown,0,211
+20300785,219,PT01M41.00S,2,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,Missed,1,0.0,0.0,0,v,MISS Lenard  Layup,Missed Shot,Layup Shot,0,212
+20300785,221,PT01M39.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony REBOUND (Off:1 Def:0),Rebound,Unknown,0,213
+20300785,220,PT01M39.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Missed,1,0.0,0.0,0,v,MISS Anthony  Tip Shot,Missed Shot,Tip Shot,0,214
+20300785,222,PT01M37.00S,2,1610612753,ORL,1503,McGrady,T. McGrady,0,0,0,,0,0.0,0.0,0,h,McGrady REBOUND (Off:2 Def:2),Rebound,Unknown,0,215
+20300785,223,PT01M33.00S,2,1610612753,ORL,1503,McGrady,T. McGrady,0,0,0,Missed,1,0.0,0.0,0,h,MISS McGrady  Driving Layup,Missed Shot,Driving Layup Shot,0,216
+20300785,224,PT01M31.00S,2,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,,0,0.0,0.0,0,v,Andersen REBOUND (Off:1 Def:2),Rebound,Unknown,0,217
+20300785,225,PT01M29.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,51.0,57.0,108,v,Anthony  Layup (20 PTS) (Miller 1 AST),Made Shot,Layup Shot,0,218
+20300785,226,PT01M29.00S,2,1610612753,ORL,1731,Lue,T. Lue,0,0,0,,0,0.0,0.0,0,h,Lue S.FOUL (P3.PN),Foul,Shooting,0,219
+20300785,227,PT01M29.00S,2,1610612753,ORL,1731,Lue,T. Lue,0,0,0,,0,0.0,0.0,0,h,SUB: Strickland FOR Lue,Substitution,,0,220
+20300785,228,PT01M29.00S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,51.0,58.0,109,v,Anthony Free Throw 1 of 1 (21 PTS),Free Throw,Free Throw 1 of 1,0,221
+20300785,229,PT01M16.00S,2,1610612753,ORL,393,Strickland,R. Strickland,-89,168,19,Made,1,53.0,58.0,111,h,Strickland 19' Jump Shot (8 PTS),Made Shot,Jump Shot,0,222
+20300785,230,PT01M00.00S,2,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,Miller Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,0,223
+20300785,231,PT00M53.90S,2,1610612753,ORL,1503,McGrady,T. McGrady,0,0,0,Missed,1,0.0,0.0,0,h,MISS McGrady  Alley Oop Layup,Missed Shot,Alley Oop Layup shot,0,224
+20300785,232,PT00M51.90S,2,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,,0,0.0,0.0,0,v,Andersen REBOUND (Off:1 Def:3),Rebound,Unknown,0,225
+20300785,233,PT00M32.90S,2,1610612743,DEN,948,Camby,M. Camby,-141,13,14,Missed,1,0.0,0.0,0,v,MISS Camby 14' Jump Shot,Missed Shot,Jump Shot,0,226
+20300785,234,PT00M30.90S,2,1610612753,ORL,436,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard REBOUND (Off:0 Def:4),Rebound,Unknown,0,227
+20300785,235,PT00M25.40S,2,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,Made,1,55.0,58.0,113,h,Stevenson  Running Layup (4 PTS),Made Shot,Running Layup Shot,0,228
+20300785,236,PT00M04.90S,2,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony Lost Ball Turnover (P2.T5),Turnover,Lost Ball,0,229
+20300785,236,PT00M04.90S,2,1610612753,ORL,1503,McGrady,T. McGrady,0,0,0,,0,0.0,0.0,0,h,McGrady STEAL (1 STL),,,0,230
+20300785,237,PT00M00.00S,2,1610612753,ORL,1503,McGrady,T. McGrady,0,0,0,Missed,1,0.0,0.0,0,h,MISS McGrady  Layup,Missed Shot,Layup Shot,0,231
+20300785,237,PT00M00.00S,2,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,,0,0.0,0.0,0,v,Andersen BLOCK (1 BLK),,,0,232
+20300785,238,PT00M00.00S,2,0,,1610612753,,,0,0,0,,0,0.0,0.0,0,h,MAGIC Rebound,Rebound,Unknown,0,233
+20300785,243,PT00M00.00S,2,0,,0,,,0,0,0,,0,55.0,58.0,113,,End of 2nd Period (8:16 PM EST),period,end,0,234
+20300785,250,PT12M00.00S,3,0,,0,,,0,0,0,,0,55.0,58.0,113,,Start of 3rd Period (8:16 PM EST),period,start,0,235
+20300785,239,PT12M00.00S,3,1610612753,ORL,1503,McGrady,T. McGrady,0,0,0,,0,0.0,0.0,0,h,McGrady T.FOUL (P2.T0),Foul,Technical,0,236
+20300785,240,PT12M00.00S,3,1610612753,ORL,1503,McGrady,T. McGrady,0,0,0,,0,0.0,0.0,0,h,McGrady T.FOUL (P2.T0),Foul,Technical,0,237
+20300785,241,PT12M00.00S,3,1610612753,ORL,1503,McGrady,T. McGrady,0,0,0,,0,0.0,0.0,0,h,McGrady Ejection:Second Technical,Ejection,Second Technical,0,238
+20300785,246,PT12M00.00S,3,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,v,MISS Lenard Free Throw Technical,Free Throw,Free Throw Technical,0,239
+20300785,247,PT12M00.00S,3,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,240
+20300785,248,PT12M00.00S,3,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,v,MISS Lenard Free Throw Technical,Free Throw,Free Throw Technical,0,241
+20300785,249,PT12M00.00S,3,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,242
+20300785,251,PT11M45.00S,3,1610612753,ORL,436,Howard,J. Howard,-141,20,14,Made,1,57.0,58.0,115,h,Howard 14' Jump Shot (14 PTS) (Lue 3 AST),Made Shot,Jump Shot,0,243
+20300785,254,PT11M26.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby Offensive Goaltending Turnover (P1.T6),Turnover,Offensive Goaltending,0,244
+20300785,255,PT11M11.00S,3,1610612753,ORL,1731,Lue,T. Lue,13,61,6,Made,1,59.0,58.0,117,h,Lue 6' Running Jump Shot (3 PTS),Made Shot,Running Jump Shot,0,245
+20300785,256,PT11M08.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony Bad Pass Turnover (P3.T7),Turnover,Bad Pass,0,246
+20300785,257,PT10M54.00S,3,1610612753,ORL,436,Howard,J. Howard,-149,17,15,Missed,1,0.0,0.0,0,h,MISS Howard 15' Jump Shot,Missed Shot,Jump Shot,0,247
+20300785,258,PT10M53.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:2 Def:7),Rebound,Unknown,0,248
+20300785,259,PT10M38.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony Traveling Turnover (P4.T8),Turnover,Traveling,0,249
+20300785,260,PT10M27.00S,3,1610612753,ORL,1731,Lue,T. Lue,136,201,24,Missed,1,0.0,0.0,0,h,MISS Lue 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,250
+20300785,261,PT10M24.00S,3,1610612753,ORL,2586,Bogans,K. Bogans,0,0,0,,0,0.0,0.0,0,h,Bogans REBOUND (Off:1 Def:0),Rebound,Unknown,0,251
+20300785,262,PT10M20.00S,3,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,Stevenson Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,252
+20300785,262,PT10M20.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony STEAL (1 STL),,,0,253
+20300785,263,PT10M15.00S,3,1610612743,DEN,1889,Miller,A. Miller,0,0,0,Made,1,59.0,60.0,119,v,Miller  Driving Layup (6 PTS) (Anthony 3 AST),Made Shot,Driving Layup Shot,0,254
+20300785,264,PT10M01.00S,3,1610612753,ORL,2586,Bogans,K. Bogans,-29,201,20,Missed,1,0.0,0.0,0,h,MISS Bogans 20' Jump Shot,Missed Shot,Jump Shot,0,255
+20300785,265,PT10M01.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:2 Def:8),Rebound,Unknown,0,256
+20300785,266,PT09M59.00S,3,1610612753,ORL,2586,Bogans,K. Bogans,0,0,0,,0,0.0,0.0,0,h,Bogans S.FOUL (P1.T1),Foul,Shooting,0,257
+20300785,268,PT09M59.00S,3,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,MISS Nene Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,258
+20300785,270,PT09M59.00S,3,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,259
+20300785,271,PT09M59.00S,3,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,59.0,61.0,120,v,Nene Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,260
+20300785,273,PT09M41.00S,3,1610612753,ORL,2052,Stevenson,D. Stevenson,130,161,21,Missed,1,0.0,0.0,0,h,MISS Stevenson 21' Jump Shot,Missed Shot,Jump Shot,0,261
+20300785,275,PT09M39.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:2 Def:9),Rebound,Unknown,0,262
+20300785,276,PT09M29.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,59.0,63.0,122,v,Anthony  Driving Layup (23 PTS),Made Shot,Driving Layup Shot,0,263
+20300785,277,PT09M16.00S,3,1610612753,ORL,1731,Lue,T. Lue,-51,187,19,Made,1,61.0,63.0,124,h,Lue 19' Jump Shot (5 PTS),Made Shot,Jump Shot,0,264
+20300785,279,PT08M52.00S,3,1610612743,DEN,2403,Hilario,Nene,-90,7,9,Missed,1,0.0,0.0,0,v,MISS Nene 9' Jump Shot,Missed Shot,Jump Shot,0,265
+20300785,280,PT08M50.00S,3,1610612753,ORL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,Pachulia REBOUND (Off:0 Def:3),Rebound,Unknown,0,266
+20300785,281,PT08M50.00S,3,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,Nene P.FOUL (P3.T1),Foul,Personal,0,267
+20300785,282,PT08M50.00S,3,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,SUB: Andersen FOR Nene,Substitution,,0,268
+20300785,283,PT08M41.00S,3,1610612753,ORL,2585,Pachulia,Z. Pachulia,0,0,0,Missed,1,0.0,0.0,0,h,MISS Pachulia  Hook Shot,Missed Shot,Hook Shot,0,269
+20300785,284,PT08M40.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:2 Def:10),Rebound,Unknown,0,270
+20300785,285,PT08M24.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,Made,1,61.0,65.0,126,v,Camby  Driving Layup (12 PTS) (Miller 2 AST),Made Shot,Driving Layup Shot,0,271
+20300785,286,PT08M00.00S,3,1610612753,ORL,2586,Bogans,K. Bogans,174,179,25,Missed,1,0.0,0.0,0,h,MISS Bogans 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,272
+20300785,287,PT07M58.00S,3,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,Stevenson REBOUND (Off:2 Def:0),Rebound,Unknown,0,273
+20300785,288,PT07M56.00S,3,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,Made,1,63.0,65.0,128,h,Stevenson  Layup (6 PTS),Made Shot,Layup Shot,0,274
+20300785,289,PT07M40.00S,3,1610612743,DEN,1889,Miller,A. Miller,-90,117,15,Missed,1,0.0,0.0,0,v,MISS Miller 15' Jump Shot,Missed Shot,Jump Shot,0,275
+20300785,290,PT07M38.00S,3,1610612753,ORL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,Pachulia REBOUND (Off:0 Def:4),Rebound,Unknown,0,276
+20300785,291,PT07M28.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby S.FOUL (P1.T2),Foul,Shooting,0,277
+20300785,292,PT07M28.00S,3,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,278
+20300785,296,PT07M28.00S,3,1610612753,ORL,436,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,MISS Howard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,279
+20300785,297,PT07M28.00S,3,0,,1610612753,,,0,0,0,,0,0.0,0.0,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,280
+20300785,298,PT07M28.00S,3,1610612753,ORL,436,Howard,J. Howard,0,0,0,,0,64.0,65.0,129,h,Howard Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,281
+20300785,300,PT07M17.00S,3,1610612753,ORL,2586,Bogans,K. Bogans,0,0,0,,0,0.0,0.0,0,h,Bogans S.FOUL (P2.T2),Foul,Shooting,0,282
+20300785,302,PT07M17.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,64.0,66.0,130,v,Anthony Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,0,283
+20300785,303,PT07M17.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,64.0,67.0,131,v,Anthony Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,0,284
+20300785,304,PT07M15.00S,3,0,,1309,,,0,0,0,,0,0.0,0.0,0,,Johnny Davis Foul:T.FOUL,Foul,Technical,0,285
+20300785,306,PT07M15.00S,3,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,64.0,68.0,132,v,Miller Free Throw Technical (7 PTS),Free Throw,Free Throw Technical,0,286
+20300785,307,PT07M00.00S,3,1610612753,ORL,2052,Stevenson,D. Stevenson,20,171,17,Made,1,66.0,68.0,134,h,Stevenson 17' Jump Shot (8 PTS),Made Shot,Jump Shot,0,287
+20300785,308,PT06M42.00S,3,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,Miller Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,288
+20300785,308,PT06M42.00S,3,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,Stevenson STEAL (1 STL),,,0,289
+20300785,309,PT06M25.00S,3,1610612753,ORL,436,Howard,J. Howard,-8,54,5,Missed,1,0.0,0.0,0,h,MISS Howard 5' Hook Shot,Missed Shot,Hook Shot,0,290
+20300785,309,PT06M25.00S,3,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,,0,0.0,0.0,0,v,Andersen BLOCK (2 BLK),,,0,291
+20300785,310,PT06M22.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony REBOUND (Off:1 Def:1),Rebound,Unknown,0,292
+20300785,311,PT06M19.00S,3,1610612743,DEN,1889,Miller,A. Miller,0,0,0,Missed,1,0.0,0.0,0,v,MISS Miller  Layup,Missed Shot,Layup Shot,0,293
+20300785,312,PT06M18.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:3 Def:10),Rebound,Unknown,0,294
+20300785,313,PT06M16.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,66.0,70.0,136,v,Anthony  Layup (27 PTS) (Camby 4 AST),Made Shot,Layup Shot,0,295
+20300785,315,PT05M56.00S,3,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,,0,0.0,0.0,0,v,Andersen S.FOUL (P1.T3),Foul,Shooting,0,296
+20300785,316,PT05M56.00S,3,1610612753,ORL,436,Howard,J. Howard,0,0,0,,0,67.0,70.0,137,h,Howard Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,297
+20300785,317,PT05M56.00S,3,1610612753,ORL,436,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,MISS Howard Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,298
+20300785,318,PT05M55.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:3 Def:11),Rebound,Unknown,0,299
+20300785,319,PT05M41.00S,3,1610612743,DEN,1889,Miller,A. Miller,1,87,9,Made,1,67.0,72.0,139,v,Miller 9' Jump Shot (9 PTS),Made Shot,Jump Shot,0,300
+20300785,320,PT05M22.00S,3,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,v,Lenard P.FOUL (P1.T4),Foul,Personal,0,301
+20300785,321,PT05M22.00S,3,1610612753,ORL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,SUB: Gooden FOR Pachulia,Substitution,,0,302
+20300785,322,PT05M14.00S,3,1610612753,ORL,1731,Lue,T. Lue,0,0,0,,0,0.0,0.0,0,h,Lue Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,303
+20300785,323,PT04M54.00S,3,1610612743,DEN,1889,Miller,A. Miller,-126,115,17,Missed,1,0.0,0.0,0,v,MISS Miller 17' Jump Shot,Missed Shot,Jump Shot,0,304
+20300785,324,PT04M53.00S,3,1610612753,ORL,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,h,Gooden REBOUND (Off:1 Def:3),Rebound,Unknown,0,305
+20300785,325,PT04M42.00S,3,1610612753,ORL,1731,Lue,T. Lue,115,146,19,Made,1,69.0,72.0,141,h,Lue 19' Jump Shot (7 PTS),Made Shot,Jump Shot,0,306
+20300785,326,PT04M20.00S,3,1610612743,DEN,948,Camby,M. Camby,29,184,19,Missed,1,0.0,0.0,0,v,MISS Camby 19' Jump Shot,Missed Shot,Jump Shot,0,307
+20300785,327,PT04M19.00S,3,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Rebound,Rebound,Unknown,0,308
+20300785,328,PT04M19.00S,3,1610612753,ORL,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,h,Gooden L.B.FOUL (P2.T3),Foul,Loose Ball,0,309
+20300785,329,PT04M19.00S,3,1610612753,ORL,1731,Lue,T. Lue,0,0,0,,0,0.0,0.0,0,h,SUB: Strickland FOR Lue,Substitution,,0,310
+20300785,330,PT04M19.00S,3,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,SUB: Boykins FOR Miller,Substitution,,0,311
+20300785,331,PT04M13.00S,3,1610612743,DEN,702,Lenard,V. Lenard,159,184,24,Missed,1,0.0,0.0,0,v,MISS Lenard 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,312
+20300785,332,PT04M11.00S,3,1610612753,ORL,2586,Bogans,K. Bogans,0,0,0,,0,0.0,0.0,0,h,Bogans REBOUND (Off:1 Def:1),Rebound,Unknown,0,313
+20300785,333,PT04M01.00S,3,1610612753,ORL,436,Howard,J. Howard,0,0,0,Made,1,71.0,72.0,143,h,Howard  Dunk (18 PTS) (Strickland 4 AST),Made Shot,Dunk Shot,0,314
+20300785,334,PT03M43.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,-125,125,18,Missed,1,0.0,0.0,0,v,MISS Anthony 18' Jump Shot,Missed Shot,Jump Shot,0,315
+20300785,335,PT03M42.00S,3,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,Stevenson REBOUND (Off:2 Def:1),Rebound,Unknown,0,316
+20300785,336,PT03M35.00S,3,1610612753,ORL,2400,Gooden,D. Gooden,-158,12,16,Missed,1,0.0,0.0,0,h,MISS Gooden 16' Jump Shot,Missed Shot,Jump Shot,0,317
+20300785,337,PT03M33.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony REBOUND (Off:1 Def:2),Rebound,Unknown,0,318
+20300785,338,PT03M29.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,71.0,74.0,145,v,Anthony  Driving Layup (29 PTS),Made Shot,Driving Layup Shot,0,319
+20300785,339,PT03M13.00S,3,1610612753,ORL,2586,Bogans,K. Bogans,-128,171,21,Missed,1,0.0,0.0,0,h,MISS Bogans 21' Jump Shot,Missed Shot,Jump Shot,0,320
+20300785,340,PT03M11.00S,3,1610612753,ORL,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,h,Gooden REBOUND (Off:2 Def:3),Rebound,Unknown,0,321
+20300785,341,PT03M10.00S,3,1610612753,ORL,2400,Gooden,D. Gooden,0,0,0,Missed,1,0.0,0.0,0,h,MISS Gooden  Layup,Missed Shot,Layup Shot,0,322
+20300785,341,PT03M10.00S,3,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,,0,0.0,0.0,0,v,Andersen BLOCK (3 BLK),,,0,323
+20300785,342,PT03M07.00S,3,1610612753,ORL,436,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard REBOUND (Off:1 Def:4),Rebound,Unknown,0,324
+20300785,343,PT02M56.00S,3,1610612753,ORL,393,Strickland,R. Strickland,108,145,18,Made,1,73.0,74.0,147,h,Strickland 18' Jump Shot (10 PTS),Made Shot,Jump Shot,0,325
+20300785,344,PT02M41.00S,3,1610612743,DEN,1863,Boykins,E. Boykins,-186,186,26,Missed,1,0.0,0.0,0,v,MISS Boykins 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,326
+20300785,345,PT02M40.00S,3,1610612753,ORL,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,h,Gooden REBOUND (Off:2 Def:4),Rebound,Unknown,0,327
+20300785,346,PT02M35.00S,3,1610612753,ORL,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,h,Gooden Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,328
+20300785,346,PT02M35.00S,3,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,v,Lenard STEAL (1 STL),,,0,329
+20300785,347,PT02M29.00S,3,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,Made,1,73.0,76.0,149,v,Andersen  Driving Dunk (10 PTS) (Lenard 3 AST),Made Shot,Driving Dunk Shot,0,330
+20300785,348,PT02M11.00S,3,1610612753,ORL,2400,Gooden,D. Gooden,-113,160,20,Made,1,75.0,76.0,151,h,Gooden 20' Jump Shot (6 PTS) (Strickland 5 AST),Made Shot,Jump Shot,0,331
+20300785,349,PT01M56.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,75.0,78.0,153,v,Anthony  Alley Oop Dunk (31 PTS) (Boykins 4 AST),Made Shot,Alley Oop Dunk Shot,0,332
+20300785,350,PT01M25.00S,3,1610612753,ORL,2586,Bogans,K. Bogans,0,0,0,Made,1,77.0,78.0,155,h,Bogans  Driving Layup (7 PTS) (Gooden 1 AST),Made Shot,Driving Layup Shot,0,333
+20300785,351,PT01M16.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony Traveling Turnover (P5.T10),Turnover,Traveling,0,334
+20300785,352,PT01M16.00S,3,0,,1610612753,,,0,0,0,,0,0.0,0.0,0,h,MAGIC Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,335
+20300785,355,PT01M16.00S,3,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,SUB: Barry FOR Anthony,Substitution,,0,336
+20300785,356,PT01M16.00S,3,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,SUB: White FOR Camby,Substitution,,0,337
+20300785,357,PT01M16.00S,3,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,v,SUB: Nene FOR Lenard,Substitution,,0,338
+20300785,358,PT01M16.00S,3,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,SUB: Penigar FOR Stevenson,Substitution,,0,339
+20300785,359,PT00M57.90S,3,1610612753,ORL,393,Strickland,R. Strickland,-82,7,8,Missed,1,0.0,0.0,0,h,MISS Strickland 8' Jump Shot,Missed Shot,Jump Shot,0,340
+20300785,360,PT00M55.90S,3,1610612753,ORL,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,Strickland REBOUND (Off:1 Def:4),Rebound,Unknown,0,341
+20300785,361,PT00M52.70S,3,1610612753,ORL,2667,Penigar,D. Penigar,0,0,0,Made,1,79.0,78.0,157,h,Penigar  Layup (4 PTS) (Strickland 6 AST),Made Shot,Layup Shot,0,342
+20300785,363,PT00M37.50S,3,1610612743,DEN,1863,Boykins,E. Boykins,-3,58,6,Made,1,79.0,80.0,159,v,Boykins 6' Jump Shot (7 PTS),Made Shot,Jump Shot,0,343
+20300785,364,PT00M24.50S,3,1610612753,ORL,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,Strickland Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,344
+20300785,365,PT00M00.30S,3,1610612743,DEN,468,Barry,J. Barry,82,163,18,Missed,1,0.0,0.0,0,v,MISS Barry 18' Jump Shot,Missed Shot,Jump Shot,0,345
+20300785,366,PT00M00.00S,3,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Rebound,Rebound,Unknown,0,346
+20300785,367,PT00M00.00S,3,0,,0,,,0,0,0,,0,79.0,80.0,159,,End of 3rd Period (8:58 PM EST),period,end,0,347
+20300785,369,PT12M00.00S,4,0,,0,,,0,0,0,,0,79.0,80.0,159,,Start of 4th Period (9:01 PM EST),period,start,0,348
+20300785,370,PT11M39.00S,4,1610612753,ORL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,Pachulia P.FOUL (P3.T1),Foul,Personal,0,349
+20300785,371,PT11M35.00S,4,1610612743,DEN,1863,Boykins,E. Boykins,-57,169,18,Missed,1,0.0,0.0,0,v,MISS Boykins 18' Jump Shot,Missed Shot,Jump Shot,0,350
+20300785,372,PT11M34.00S,4,1610612753,ORL,2586,Bogans,K. Bogans,0,0,0,,0,0.0,0.0,0,h,Bogans REBOUND (Off:1 Def:2),Rebound,Unknown,0,351
+20300785,373,PT11M29.00S,4,1610612753,ORL,2400,Gooden,D. Gooden,0,0,0,Made,1,81.0,80.0,161,h,Gooden  Layup (8 PTS) (Bogans 1 AST),Made Shot,Layup Shot,0,352
+20300785,374,PT11M15.00S,4,1610612743,DEN,2365,Andersen,C. Andersen,-82,94,12,Missed,1,0.0,0.0,0,v,MISS Andersen 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,353
+20300785,375,PT11M13.00S,4,1610612753,ORL,2667,Penigar,D. Penigar,0,0,0,,0,0.0,0.0,0,h,Penigar REBOUND (Off:1 Def:2),Rebound,Unknown,0,354
+20300785,376,PT11M01.00S,4,1610612753,ORL,2400,Gooden,D. Gooden,-3,36,4,Made,1,83.0,80.0,163,h,Gooden 4' Hook Shot (10 PTS) (Strickland 7 AST),Made Shot,Hook Shot,0,355
+20300785,377,PT10M45.00S,4,1610612743,DEN,2206,White,R. White,-115,169,20,Missed,1,0.0,0.0,0,v,MISS White 20' Jump Shot,Missed Shot,Jump Shot,0,356
+20300785,378,PT10M43.00S,4,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Rebound,Rebound,Unknown,0,357
+20300785,379,PT10M42.00S,4,1610612743,DEN,2365,Andersen,C. Andersen,0,0,0,,0,0.0,0.0,0,v,SUB: Camby FOR Andersen,Substitution,,0,358
+20300785,380,PT10M42.00S,4,1610612743,DEN,2206,White,R. White,0,0,0,,0,0.0,0.0,0,v,SUB: Anthony FOR White,Substitution,,0,359
+20300785,382,PT10M28.00S,4,1610612743,DEN,2403,Hilario,Nene,0,0,0,Made,1,83.0,82.0,165,v,Nene  Layup (13 PTS) (Anthony 4 AST),Made Shot,Layup Shot,0,360
+20300785,383,PT10M07.00S,4,1610612753,ORL,2400,Gooden,D. Gooden,-95,184,21,Made,1,85.0,82.0,167,h,Gooden 21' Jump Shot (12 PTS) (Strickland 8 AST),Made Shot,Jump Shot,0,361
+20300785,384,PT09M56.00S,4,1610612743,DEN,2403,Hilario,Nene,0,0,0,Missed,1,0.0,0.0,0,v,MISS Nene  Layup,Missed Shot,Layup Shot,0,362
+20300785,385,PT09M54.00S,4,1610612753,ORL,2667,Penigar,D. Penigar,0,0,0,,0,0.0,0.0,0,h,Penigar REBOUND (Off:1 Def:3),Rebound,Unknown,0,363
+20300785,386,PT09M49.00S,4,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,Nene P.FOUL (P4.T1),Foul,Personal,0,364
+20300785,389,PT09M49.00S,4,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,365
+20300785,567,PT09M49.00S,4,1610612753,ORL,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,h,MISS Gooden Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,366
+20300785,569,PT09M49.00S,4,0,,1610612753,,,0,0,0,,0,0.0,0.0,0,h,MAGIC Rebound,Rebound,Unknown,0,367
+20300785,396,PT09M49.00S,4,1610612753,ORL,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,h,Gooden Violation:Lane,Violation,Lane,0,368
+20300785,397,PT09M49.00S,4,1610612753,ORL,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,h,MISS Gooden Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,369
+20300785,399,PT09M43.00S,4,1610612753,ORL,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,h,Gooden REBOUND (Off:3 Def:4),Rebound,Unknown,0,370
+20300785,400,PT09M40.00S,4,1610612753,ORL,2667,Penigar,D. Penigar,-164,97,19,Missed,1,0.0,0.0,0,h,MISS Penigar 19' Jump Shot,Missed Shot,Jump Shot,0,371
+20300785,401,PT09M38.00S,4,1610612753,ORL,2586,Bogans,K. Bogans,0,0,0,,0,0.0,0.0,0,h,Bogans REBOUND (Off:2 Def:2),Rebound,Unknown,0,372
+20300785,402,PT09M36.00S,4,1610612753,ORL,2586,Bogans,K. Bogans,0,0,0,Missed,1,0.0,0.0,0,h,MISS Bogans  Layup,Missed Shot,Layup Shot,0,373
+20300785,503,PT09M36.00S,4,1610612753,ORL,2586,Bogans,K. Bogans,0,0,0,,0,0.0,0.0,0,h,Bogans REBOUND (Off:3 Def:2),Rebound,Unknown,0,374
+20300785,403,PT09M34.00S,4,1610612753,ORL,2667,Penigar,D. Penigar,0,0,0,Missed,1,0.0,0.0,0,h,MISS Penigar  Layup,Missed Shot,Layup Shot,0,375
+20300785,404,PT09M32.00S,4,1610612753,ORL,2667,Penigar,D. Penigar,0,0,0,,0,0.0,0.0,0,h,Penigar REBOUND (Off:2 Def:3),Rebound,Unknown,0,376
+20300785,405,PT09M31.00S,4,1610612753,ORL,2667,Penigar,D. Penigar,0,0,0,Missed,1,0.0,0.0,0,h,MISS Penigar  Layup,Missed Shot,Layup Shot,0,377
+20300785,405,PT09M31.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby BLOCK (3 BLK),,,0,378
+20300785,406,PT09M29.00S,4,1610612753,ORL,2586,Bogans,K. Bogans,0,0,0,,0,0.0,0.0,0,h,Bogans REBOUND (Off:4 Def:2),Rebound,Unknown,0,379
+20300785,407,PT09M25.00S,4,1610612753,ORL,2400,Gooden,D. Gooden,0,0,0,Made,1,87.0,82.0,169,h,Gooden  Layup (14 PTS) (Penigar 1 AST),Made Shot,Layup Shot,0,380
+20300785,408,PT09M03.00S,4,1610612743,DEN,948,Camby,M. Camby,43,186,19,Missed,1,0.0,0.0,0,v,MISS Camby 19' Jump Shot,Missed Shot,Jump Shot,0,381
+20300785,409,PT09M01.00S,4,1610612753,ORL,2586,Bogans,K. Bogans,0,0,0,,0,0.0,0.0,0,h,Bogans REBOUND (Off:4 Def:3),Rebound,Unknown,0,382
+20300785,410,PT08M42.00S,4,1610612753,ORL,393,Strickland,R. Strickland,-115,25,12,Missed,1,0.0,0.0,0,h,MISS Strickland 12' Jump Shot,Missed Shot,Jump Shot,0,383
+20300785,411,PT08M41.00S,4,0,,1610612753,,,0,0,0,,0,0.0,0.0,0,h,MAGIC Rebound,Rebound,Unknown,0,384
+20300785,412,PT08M41.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby L.B.FOUL (P2.T2),Foul,Loose Ball,0,385
+20300785,413,PT08M41.00S,4,1610612743,DEN,468,Barry,J. Barry,0,0,0,,0,0.0,0.0,0,v,SUB: Miller FOR Barry,Substitution,,0,386
+20300785,414,PT08M41.00S,4,1610612743,DEN,1863,Boykins,E. Boykins,0,0,0,,0,0.0,0.0,0,v,SUB: Lenard FOR Boykins,Substitution,,0,387
+20300785,415,PT08M27.00S,4,1610612753,ORL,393,Strickland,R. Strickland,-48,68,8,Missed,1,0.0,0.0,0,h,MISS Strickland 8' Jump Shot,Missed Shot,Jump Shot,0,388
+20300785,417,PT08M25.00S,4,1610612753,ORL,2667,Penigar,D. Penigar,0,0,0,,0,0.0,0.0,0,h,Penigar REBOUND (Off:3 Def:3),Rebound,Unknown,0,389
+20300785,416,PT08M25.00S,4,1610612753,ORL,2667,Penigar,D. Penigar,0,0,0,Missed,1,0.0,0.0,0,h,MISS Penigar  Tip Shot,Missed Shot,Tip Shot,0,390
+20300785,418,PT08M23.00S,4,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,Nene REBOUND (Off:1 Def:2),Rebound,Unknown,0,391
+20300785,419,PT08M15.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,Missed,1,0.0,0.0,0,v,MISS Camby  Layup,Missed Shot,Layup Shot,0,392
+20300785,420,PT08M13.00S,4,1610612753,ORL,2667,Penigar,D. Penigar,0,0,0,,0,0.0,0.0,0,h,Penigar REBOUND (Off:3 Def:4),Rebound,Unknown,0,393
+20300785,421,PT08M06.00S,4,1610612753,ORL,2400,Gooden,D. Gooden,98,151,18,Missed,1,0.0,0.0,0,h,MISS Gooden 18' Jump Shot,Missed Shot,Jump Shot,0,394
+20300785,422,PT08M05.00S,4,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Rebound,Rebound,Unknown,0,395
+20300785,423,PT08M05.00S,4,1610612753,ORL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,Pachulia L.B.FOUL (P4.T2),Foul,Loose Ball,0,396
+20300785,425,PT08M05.00S,4,1610612753,ORL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,SUB: Howard FOR Pachulia,Substitution,,0,397
+20300785,426,PT07M46.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony Lost Ball Turnover (P6.T11),Turnover,Lost Ball,0,398
+20300785,426,PT07M46.00S,4,1610612753,ORL,2586,Bogans,K. Bogans,0,0,0,,0,0.0,0.0,0,h,Bogans STEAL (1 STL),,,0,399
+20300785,427,PT07M40.00S,4,1610612753,ORL,436,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard OFF.Foul (P3),Foul,Offensive,0,400
+20300785,428,PT07M40.00S,4,1610612753,ORL,436,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard Foul Turnover (P3.T12),Turnover,Foul,0,401
+20300785,429,PT07M16.00S,4,1610612743,DEN,2403,Hilario,Nene,0,0,0,Missed,1,0.0,0.0,0,v,MISS Nene  Layup,Missed Shot,Layup Shot,0,402
+20300785,430,PT07M14.00S,4,1610612753,ORL,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,h,Gooden REBOUND (Off:3 Def:5),Rebound,Unknown,0,403
+20300785,431,PT07M07.00S,4,1610612753,ORL,2667,Penigar,D. Penigar,144,137,20,Missed,1,0.0,0.0,0,h,MISS Penigar 20' Jump Shot,Missed Shot,Jump Shot,0,404
+20300785,432,PT07M05.00S,4,1610612753,ORL,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,Strickland REBOUND (Off:2 Def:4),Rebound,Unknown,0,405
+20300785,433,PT06M50.00S,4,1610612753,ORL,2586,Bogans,K. Bogans,181,179,25,Missed,1,0.0,0.0,0,h,MISS Bogans 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,406
+20300785,434,PT06M48.00S,4,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,Nene REBOUND (Off:1 Def:3),Rebound,Unknown,0,407
+20300785,435,PT06M43.00S,4,1610612743,DEN,702,Lenard,V. Lenard,118,186,22,Missed,1,0.0,0.0,0,v,MISS Lenard 22' Jump Shot,Missed Shot,Jump Shot,0,408
+20300785,436,PT06M40.00S,4,1610612753,ORL,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,h,Gooden REBOUND (Off:3 Def:6),Rebound,Unknown,0,409
+20300785,437,PT06M31.00S,4,0,,1610612753,,,0,0,0,,0,0.0,0.0,0,h,MAGIC Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,410
+20300785,440,PT06M31.00S,4,1610612753,ORL,2586,Bogans,K. Bogans,0,0,0,,0,0.0,0.0,0,h,SUB: Stevenson FOR Bogans,Substitution,,0,411
+20300785,443,PT06M23.00S,4,1610612753,ORL,393,Strickland,R. Strickland,-122,160,20,Missed,1,0.0,0.0,0,h,MISS Strickland 20' Jump Shot,Missed Shot,Jump Shot,0,412
+20300785,444,PT06M21.00S,4,1610612753,ORL,2667,Penigar,D. Penigar,0,0,0,,0,0.0,0.0,0,h,Penigar REBOUND (Off:4 Def:4),Rebound,Unknown,0,413
+20300785,445,PT06M08.00S,4,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,Nene S.FOUL (P5.T3),Foul,Shooting,0,414
+20300785,446,PT06M08.00S,4,1610612753,ORL,436,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,MISS Howard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,415
+20300785,447,PT06M08.00S,4,0,,1610612753,,,0,0,0,,0,0.0,0.0,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,416
+20300785,448,PT06M08.00S,4,1610612753,ORL,436,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,MISS Howard Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,417
+20300785,450,PT06M07.00S,4,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,Miller REBOUND (Off:1 Def:2),Rebound,Unknown,0,418
+20300785,451,PT06M02.00S,4,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,Made,1,87.0,84.0,171,v,Lenard  Layup (2 PTS) (Miller 3 AST),Made Shot,Layup Shot,0,419
+20300785,453,PT05M37.00S,4,1610612753,ORL,436,Howard,J. Howard,0,0,0,Made,1,89.0,84.0,173,h,Howard  Layup (20 PTS),Made Shot,Layup Shot,0,420
+20300785,454,PT05M22.00S,4,1610612743,DEN,2403,Hilario,Nene,0,0,0,Made,1,89.0,86.0,175,v,Nene  Slam Dunk (15 PTS) (Anthony 5 AST),Made Shot,Slam Dunk Shot,0,421
+20300785,455,PT05M03.00S,4,1610612753,ORL,2667,Penigar,D. Penigar,24,36,4,Missed,1,0.0,0.0,0,h,MISS Penigar 4' Jump Shot,Missed Shot,Jump Shot,0,422
+20300785,455,PT05M03.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby BLOCK (4 BLK),,,0,423
+20300785,456,PT05M03.00S,4,0,,1610612753,,,0,0,0,,0,0.0,0.0,0,h,MAGIC Rebound,Rebound,Unknown,0,424
+20300785,458,PT05M00.00S,4,1610612753,ORL,2052,Stevenson,D. Stevenson,190,33,19,Made,1,91.0,86.0,177,h,Stevenson 19' Jump Shot (10 PTS) (Penigar 2 AST),Made Shot,Jump Shot,0,425
+20300785,459,PT04M43.00S,4,1610612743,DEN,1889,Miller,A. Miller,-51,97,11,Made,1,91.0,88.0,179,v,Miller 11' Running Jump Shot (11 PTS),Made Shot,Running Jump Shot,0,426
+20300785,460,PT04M26.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony S.FOUL (P2.T4),Foul,Shooting,0,427
+20300785,461,PT04M26.00S,4,1610612753,ORL,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,h,MISS Gooden Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,428
+20300785,462,PT04M26.00S,4,0,,1610612753,,,0,0,0,,0,0.0,0.0,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,429
+20300785,463,PT04M26.00S,4,1610612753,ORL,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,h,MISS Gooden Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,430
+20300785,464,PT04M25.00S,4,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,Miller REBOUND (Off:1 Def:3),Rebound,Unknown,0,431
+20300785,465,PT04M21.00S,4,1610612743,DEN,2403,Hilario,Nene,0,0,0,Missed,1,0.0,0.0,0,v,MISS Nene  Layup,Missed Shot,Layup Shot,0,432
+20300785,466,PT04M19.00S,4,1610612753,ORL,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,h,Gooden REBOUND (Off:3 Def:7),Rebound,Unknown,0,433
+20300785,467,PT04M11.00S,4,1610612753,ORL,436,Howard,J. Howard,69,117,14,Missed,1,0.0,0.0,0,h,MISS Howard 14' Jump Shot,Missed Shot,Jump Shot,0,434
+20300785,468,PT04M10.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:3 Def:12),Rebound,Unknown,0,435
+20300785,470,PT03M57.00S,4,1610612743,DEN,702,Lenard,V. Lenard,44,196,20,Missed,1,0.0,0.0,0,v,MISS Lenard 20' Jump Shot,Missed Shot,Jump Shot,0,436
+20300785,471,PT03M55.00S,4,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,Stevenson REBOUND (Off:2 Def:2),Rebound,Unknown,0,437
+20300785,472,PT03M51.00S,4,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,Missed,1,0.0,0.0,0,h,MISS Stevenson  Layup,Missed Shot,Layup Shot,0,438
+20300785,474,PT03M50.00S,4,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,Stevenson REBOUND (Off:3 Def:2),Rebound,Unknown,0,439
+20300785,473,PT03M50.00S,4,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,Missed,1,0.0,0.0,0,h,MISS Stevenson  Tip Shot,Missed Shot,Tip Shot,0,440
+20300785,475,PT03M48.00S,4,1610612753,ORL,436,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard REBOUND (Off:2 Def:4),Rebound,Unknown,0,441
+20300785,476,PT03M47.00S,4,1610612753,ORL,436,Howard,J. Howard,0,0,0,Made,1,93.0,88.0,181,h,Howard  Layup (22 PTS),Made Shot,Layup Shot,0,442
+20300785,477,PT03M33.00S,4,1610612743,DEN,1889,Miller,A. Miller,33,123,13,Missed,1,0.0,0.0,0,v,MISS Miller 13' Jump Shot,Missed Shot,Jump Shot,0,443
+20300785,478,PT03M31.00S,4,1610612753,ORL,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,h,Gooden REBOUND (Off:3 Def:8),Rebound,Unknown,0,444
+20300785,480,PT03M11.00S,4,1610612753,ORL,2052,Stevenson,D. Stevenson,-11,95,10,Missed,1,0.0,0.0,0,h,MISS Stevenson 10' Jump Shot,Missed Shot,Jump Shot,0,445
+20300785,481,PT03M09.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:3 Def:13),Rebound,Unknown,0,446
+20300785,483,PT02M53.00S,4,1610612743,DEN,1889,Miller,A. Miller,-6,64,6,Made,1,93.0,90.0,183,v,Miller 6' Jump Bank Shot (13 PTS),Made Shot,Jump Bank Shot,0,447
+20300785,485,PT02M31.00S,4,1610612753,ORL,2400,Gooden,D. Gooden,11,95,10,Missed,1,0.0,0.0,0,h,MISS Gooden 10' Hook Shot,Missed Shot,Hook Shot,0,448
+20300785,487,PT02M29.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:3 Def:14),Rebound,Unknown,0,449
+20300785,489,PT02M21.00S,4,1610612753,ORL,2667,Penigar,D. Penigar,0,0,0,,0,0.0,0.0,0,h,Penigar P.FOUL (P1.T3),Foul,Personal,0,450
+20300785,490,PT02M21.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,451
+20300785,493,PT02M21.00S,4,1610612753,ORL,2667,Penigar,D. Penigar,0,0,0,,0,0.0,0.0,0,h,SUB: Bogans FOR Penigar,Substitution,,0,452
+20300785,495,PT02M08.00S,4,1610612743,DEN,1889,Miller,A. Miller,56,140,15,Missed,1,0.0,0.0,0,v,MISS Miller 15' Jump Shot,Missed Shot,Jump Shot,0,453
+20300785,496,PT02M06.00S,4,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,Nene REBOUND (Off:2 Def:3),Rebound,Unknown,0,454
+20300785,497,PT02M03.00S,4,1610612743,DEN,1889,Miller,A. Miller,0,0,0,Missed,1,0.0,0.0,0,v,MISS Miller  Driving Layup,Missed Shot,Driving Layup Shot,0,455
+20300785,499,PT02M01.00S,4,1610612753,ORL,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,h,Gooden REBOUND (Off:3 Def:9),Rebound,Unknown,0,456
+20300785,501,PT01M45.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony P.FOUL (P3.PN),Foul,Personal,0,457
+20300785,502,PT01M45.00S,4,1610612753,ORL,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,h,MISS Gooden Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,458
+20300785,504,PT01M45.00S,4,0,,1610612753,,,0,0,0,,0,0.0,0.0,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,459
+20300785,505,PT01M45.00S,4,1610612753,ORL,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,h,MISS Gooden Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,460
+20300785,506,PT01M45.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:3 Def:15),Rebound,Unknown,0,461
+20300785,508,PT01M30.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,126,220,25,Missed,1,0.0,0.0,0,v,MISS Anthony 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,462
+20300785,509,PT01M28.00S,4,1610612753,ORL,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,Strickland REBOUND (Off:2 Def:5),Rebound,Unknown,0,463
+20300785,511,PT01M09.00S,4,1610612753,ORL,436,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard Bad Pass Turnover (P4.T13),Turnover,Bad Pass,0,464
+20300785,511,PT01M09.00S,4,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,v,Lenard STEAL (2 STL),,,0,465
+20300785,512,PT01M05.00S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,93.0,92.0,185,v,Anthony  Driving Dunk (33 PTS) (Lenard 4 AST),Made Shot,Driving Dunk Shot,0,466
+20300785,514,PT00M45.60S,4,1610612753,ORL,2400,Gooden,D. Gooden,90,20,9,Made,1,95.0,92.0,187,h,Gooden 9' Hook Shot (16 PTS),Made Shot,Hook Shot,0,467
+20300785,515,PT00M41.50S,4,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,468
+20300785,521,PT00M35.90S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Missed,1,0.0,0.0,0,v,MISS Anthony  Layup,Missed Shot,Layup Shot,0,469
+20300785,521,PT00M35.90S,4,1610612753,ORL,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,h,Gooden BLOCK (1 BLK),,,0,470
+20300785,522,PT00M33.90S,4,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,Nene REBOUND (Off:3 Def:3),Rebound,Unknown,0,471
+20300785,523,PT00M29.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,472
+20300785,523,PT00M29.00S,4,1610612753,ORL,436,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard STEAL (1 STL),,,0,473
+20300785,524,PT00M29.00S,4,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,v,Lenard P.FOUL (P2.PN),Foul,Personal,0,474
+20300785,526,PT00M29.00S,4,1610612753,ORL,436,Howard,J. Howard,0,0,0,,0,96.0,92.0,188,h,Howard Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,475
+20300785,527,PT00M29.00S,4,1610612753,ORL,436,Howard,J. Howard,0,0,0,,0,97.0,92.0,189,h,Howard Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,476
+20300785,528,PT00M29.00S,4,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Timeout: Short (Reg.5 Short 1),Timeout,Short,0,477
+20300785,531,PT00M22.70S,4,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,Stevenson S.FOUL (P3.T4),Foul,Shooting,0,478
+20300785,532,PT00M22.70S,4,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,97.0,93.0,190,v,Lenard Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,479
+20300785,533,PT00M22.70S,4,1610612753,ORL,2586,Bogans,K. Bogans,0,0,0,,0,0.0,0.0,0,h,SUB: Lue FOR Bogans,Substitution,,0,480
+20300785,534,PT00M22.70S,4,1610612743,DEN,2403,Hilario,Nene,0,0,0,,0,0.0,0.0,0,v,SUB: Boykins FOR Nene,Substitution,,0,481
+20300785,535,PT00M22.70S,4,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,97.0,94.0,191,v,Lenard Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,482
+20300785,536,PT00M22.10S,4,1610612743,DEN,1863,Boykins,E. Boykins,0,0,0,,0,0.0,0.0,0,v,Boykins P.FOUL (P1.PN),Foul,Personal,0,483
+20300785,537,PT00M22.10S,4,1610612753,ORL,393,Strickland,R. Strickland,0,0,0,,0,98.0,94.0,192,h,Strickland Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,484
+20300785,538,PT00M22.10S,4,1610612753,ORL,2400,Gooden,D. Gooden,0,0,0,,0,0.0,0.0,0,h,SUB: Bogans FOR Gooden,Substitution,,0,485
+20300785,539,PT00M22.10S,4,1610612753,ORL,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,MISS Strickland Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,486
+20300785,540,PT00M21.90S,4,1610612753,ORL,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,Strickland REBOUND (Off:3 Def:5),Rebound,Unknown,0,487
+20300785,541,PT00M17.10S,4,1610612743,DEN,1889,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,v,Miller P.FOUL (P2.PN),Foul,Personal,0,488
+20300785,542,PT00M17.10S,4,1610612753,ORL,393,Strickland,R. Strickland,0,0,0,,0,99.0,94.0,193,h,Strickland Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,489
+20300785,543,PT00M17.10S,4,1610612753,ORL,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,MISS Strickland Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,490
+20300785,544,PT00M16.90S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:3 Def:16),Rebound,Unknown,0,491
+20300785,545,PT00M08.30S,4,1610612753,ORL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,Stevenson S.FOUL (P4.PN),Foul,Shooting,0,492
+20300785,546,PT00M08.30S,4,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,99.0,95.0,194,v,Lenard Free Throw 1 of 3 (5 PTS),Free Throw,Free Throw 1 of 3,0,493
+20300785,547,PT00M08.30S,4,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,99.0,96.0,195,v,Lenard Free Throw 2 of 3 (6 PTS),Free Throw,Free Throw 2 of 3,0,494
+20300785,548,PT00M08.30S,4,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,v,MISS Lenard Free Throw 3 of 3,Free Throw,Free Throw 3 of 3,0,495
+20300785,549,PT00M07.70S,4,1610612753,ORL,2586,Bogans,K. Bogans,0,0,0,,0,0.0,0.0,0,h,Bogans REBOUND (Off:4 Def:4),Rebound,Unknown,0,496
+20300785,550,PT00M06.20S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby P.FOUL (P3.PN),Foul,Personal,0,497
+20300785,551,PT00M06.20S,4,1610612753,ORL,2586,Bogans,K. Bogans,0,0,0,,0,100.0,96.0,196,h,Bogans Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,498
+20300785,552,PT00M06.20S,4,1610612753,ORL,2586,Bogans,K. Bogans,0,0,0,,0,101.0,96.0,197,h,Bogans Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,499
+20300785,553,PT00M06.20S,4,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,v,Nuggets Timeout: Regular (Reg.6 Short 1),Timeout,Regular,0,500
+20300785,557,PT00M03.90S,4,1610612743,DEN,702,Lenard,V. Lenard,100,240,26,Missed,1,0.0,0.0,0,v,MISS Lenard 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,501
+20300785,558,PT00M02.40S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony REBOUND (Off:2 Def:2),Rebound,Unknown,0,502
+20300785,559,PT00M01.20S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,Made,1,101.0,98.0,199,v,Anthony  Layup (35 PTS),Made Shot,Layup Shot,0,503
+20300785,560,PT00M00.70S,4,1610612743,DEN,2546,Anthony,C. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony P.FOUL (P4.PN),Foul,Personal,0,504
+20300785,561,PT00M00.70S,4,1610612753,ORL,1731,Lue,T. Lue,0,0,0,,0,102.0,98.0,200,h,Lue Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,505
+20300785,562,PT00M00.70S,4,1610612753,ORL,1731,Lue,T. Lue,0,0,0,,0,0.0,0.0,0,h,MISS Lue Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,506
+20300785,563,PT00M00.00S,4,1610612743,DEN,948,Camby,M. Camby,0,0,0,,0,0.0,0.0,0,v,Camby REBOUND (Off:3 Def:17),Rebound,Unknown,0,507
+20300785,564,PT00M00.00S,4,0,,0,,,0,0,0,,0,102.0,98.0,200,,End of 4th Period (9:40 PM EST),period,end,0,508

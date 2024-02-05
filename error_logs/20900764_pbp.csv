@@ -1,0 +1,430 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+20900764,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (8:13 PM EST),period,start,0,1
+20900764,1,PT12M00.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Jump Ball Gasol vs. Jos. Smith: Tip to Bibby,Jump Ball,,0,2
+20900764,2,PT11M44.00S,1,1610612737,ATL,2207,Johnson,J. Johnson,-146,118,19,Made,1,0.0,2.0,2,v,Johnson 19' Jump Shot (2 PTS) (Bibby 1 AST),Made Shot,Jump Shot,0,3
+20900764,3,PT11M25.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,4
+20900764,3,PT11M25.00S,1,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford STEAL (1 STL),,,0,5
+20900764,4,PT11M16.00S,1,1610612737,ATL,2207,Johnson,J. Johnson,-237,3,24,Made,1,0.0,5.0,5,v,Johnson 24' 3PT Jump Shot (5 PTS) (Jos. Smith 1 AST),Made Shot,Jump Shot,0,6
+20900764,5,PT10M51.00S,1,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Conley Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,7
+20900764,5,PT10M51.00S,1,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford STEAL (2 STL),,,0,8
+20900764,6,PT10M44.00S,1,1610612737,ATL,2746,Smith,J. Smith,-205,-17,21,Missed,1,,,0,v,MISS Jos. Smith 21' Jump Shot,Missed Shot,Jump Shot,0,9
+20900764,7,PT10M43.00S,1,1610612763,MEM,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,Mayo REBOUND (Off:0 Def:1),Rebound,Unknown,0,10
+20900764,8,PT10M38.00S,1,1610612763,MEM,201564,Mayo,O. Mayo,0,0,0,Made,1,2.0,5.0,7,h,Mayo Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,11
+20900764,9,PT10M16.00S,1,1610612737,ATL,1710,Bibby,M. Bibby,-109,145,18,Made,1,2.0,7.0,9,v,Bibby 18' Jump Shot (2 PTS) (Jos. Smith 2 AST),Made Shot,Jump Shot,0,12
+20900764,10,PT09M57.00S,1,1610612763,MEM,201144,Conley,M. Conley,84,233,25,Made,1,5.0,7.0,12,h,Conley 25' 3PT Jump Shot (3 PTS) (Randolph 1 AST),Made Shot,Jump Shot,0,13
+20900764,11,PT09M33.00S,1,1610612737,ATL,2207,Johnson,J. Johnson,10,75,8,Missed,1,,,0,v,MISS Johnson 8' Floating Jump Shot,Missed Shot,Floating Jump shot,0,14
+20900764,12,PT09M32.00S,1,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford REBOUND (Off:1 Def:0),Rebound,Unknown,0,15
+20900764,13,PT09M26.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol S.FOUL (P1.T1),Foul,Shooting,0,16
+20900764,14,PT09M26.00S,1,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,v,MISS Jos. Smith Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,17
+20900764,16,PT09M26.00S,1,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Unknown,0,18
+20900764,15,PT09M26.00S,1,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,5.0,8.0,13,v,Jos. Smith Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,19
+20900764,18,PT09M05.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,1,85,9,Made,1,7.0,8.0,15,h,Gasol 9' Running Hook Shot (2 PTS),Made Shot,Running Hook Shot,0,20
+20900764,19,PT08M50.00S,1,1610612737,ATL,1710,Bibby,M. Bibby,0,0,0,,0,,,0,v,Bibby Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,21
+20900764,19,PT08M50.00S,1,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Conley STEAL (1 STL),,,0,22
+20900764,20,PT08M45.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,Made,1,9.0,8.0,17,h,Randolph Layup (2 PTS) (Mayo 1 AST),Made Shot,Layup Shot,0,23
+20900764,21,PT08M22.00S,1,1610612737,ATL,201143,Horford,A. Horford,127,115,17,Made,1,9.0,10.0,19,v,Horford 17' Jump Shot (2 PTS) (Jos. Smith 3 AST),Made Shot,Jump Shot,0,24
+20900764,22,PT08M09.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,25
+20900764,22,PT08M09.00S,1,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,,,0,v,Williams STEAL (1 STL),,,0,26
+20900764,23,PT08M04.00S,1,1610612737,ATL,101107,Williams,M. Williams,0,0,0,Made,1,9.0,12.0,21,v,Williams Alley Oop Dunk (2 PTS) (Johnson 1 AST),Made Shot,Alley Oop Dunk Shot,0,27
+20900764,24,PT07M44.00S,1,1610612763,MEM,201564,Mayo,O. Mayo,67,69,10,Missed,1,,,0,h,MISS Mayo 10' Jump Shot,Missed Shot,Jump Shot,0,28
+20900764,25,PT07M44.00S,1,1610612737,ATL,1710,Bibby,M. Bibby,0,0,0,,0,,,0,v,Bibby REBOUND (Off:0 Def:1),Rebound,Unknown,0,29
+20900764,26,PT07M34.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,GRIZZLIES T.Foul (Def. 3 Sec Gasol ),Foul,Defense 3 Second,0,30
+20900764,27,PT07M34.00S,1,1610612737,ATL,1710,Bibby,M. Bibby,0,0,0,,0,9.0,13.0,22,v,Bibby Free Throw Technical (3 PTS),Free Throw,Free Throw Technical,0,31
+20900764,29,PT07M21.00S,1,1610612737,ATL,2746,Smith,J. Smith,0,0,0,Missed,1,,,0,v,MISS Jos. Smith Layup,Missed Shot,Layup Shot,0,32
+20900764,30,PT07M20.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:0 Def:1),Rebound,Unknown,0,33
+20900764,31,PT07M12.00S,1,1610612763,MEM,201564,Mayo,O. Mayo,-194,124,23,Missed,1,,,0,h,MISS Mayo 23' Jump Shot,Missed Shot,Jump Shot,0,34
+20900764,32,PT07M12.00S,1,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,35
+20900764,33,PT07M06.00S,1,1610612737,ATL,1710,Bibby,M. Bibby,0,0,0,,0,,,0,v,Bibby Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,36
+20900764,33,PT07M06.00S,1,1610612763,MEM,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,Mayo STEAL (1 STL),,,0,37
+20900764,34,PT07M02.00S,1,1610612763,MEM,201564,Mayo,O. Mayo,0,0,0,Made,1,11.0,13.0,24,h,Mayo Layup (4 PTS) (Conley 1 AST),Made Shot,Layup Shot,0,38
+20900764,35,PT06M37.00S,1,1610612737,ATL,101107,Williams,M. Williams,152,61,16,Missed,1,,,0,v,MISS Williams 16' Jump Shot,Missed Shot,Jump Shot,0,39
+20900764,36,PT06M36.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:0 Def:1),Rebound,Unknown,0,40
+20900764,37,PT06M27.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,Made,1,13.0,13.0,26,h,Gasol Dunk (4 PTS) (Mayo 2 AST),Made Shot,Dunk Shot,0,41
+20900764,38,PT06M05.00S,1,1610612737,ATL,2207,Johnson,J. Johnson,-109,135,17,Missed,1,,,0,v,MISS Johnson 17' Jump Shot,Missed Shot,Jump Shot,0,42
+20900764,39,PT06M05.00S,1,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford REBOUND (Off:2 Def:0),Rebound,Unknown,0,43
+20900764,40,PT06M03.00S,1,1610612737,ATL,101107,Williams,M. Williams,0,0,0,Made,1,13.0,15.0,28,v,Williams Dunk (4 PTS) (Horford 1 AST),Made Shot,Dunk Shot,0,44
+20900764,41,PT05M54.00S,1,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,45
+20900764,44,PT05M40.00S,1,1610612763,MEM,200752,Gay,R. Gay,50,176,18,Made,1,15.0,15.0,30,h,Gay 18' Jump Shot (2 PTS) (Conley 2 AST),Made Shot,Jump Shot,0,46
+20900764,45,PT05M18.00S,1,1610612763,MEM,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,GRIZZLIES T.Foul (Def. 3 Sec Mayo ),Foul,Defense 3 Second,0,47
+20900764,46,PT05M18.00S,1,1610612737,ATL,1710,Bibby,M. Bibby,0,0,0,,0,15.0,16.0,31,v,Bibby Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,0,48
+20900764,48,PT05M09.00S,1,1610612737,ATL,1710,Bibby,M. Bibby,-182,48,19,Made,1,15.0,18.0,33,v,Bibby 19' Jump Shot (6 PTS),Made Shot,Jump Shot,0,49
+20900764,49,PT04M49.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,-112,52,12,Missed,1,,,0,h,MISS Gasol 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,50
+20900764,50,PT04M46.00S,1,1610612737,ATL,1710,Bibby,M. Bibby,0,0,0,,0,,,0,v,Bibby REBOUND (Off:0 Def:2),Rebound,Unknown,0,51
+20900764,51,PT04M45.00S,1,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,,,0,h,Gay S.FOUL (P1.T2),Foul,Shooting,0,52
+20900764,52,PT04M45.00S,1,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,v,MISS Jos. Smith Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,53
+20900764,53,PT04M45.00S,1,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Normal Rebound,0,54
+20900764,54,PT04M45.00S,1,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,,,0,v,SUB: Crawford FOR Williams,Substitution,,0,55
+20900764,55,PT04M45.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,SUB: Arthur FOR Randolph,Substitution,,0,56
+20900764,56,PT04M45.00S,1,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,15.0,19.0,34,v,Jos. Smith Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,57
+20900764,58,PT04M19.00S,1,1610612763,MEM,200752,Gay,R. Gay,-23,195,20,Made,1,17.0,19.0,36,h,Gay 20' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,0,58
+20900764,59,PT04M08.00S,1,1610612737,ATL,2746,Smith,J. Smith,0,0,0,Made,1,17.0,21.0,38,v,Jos. Smith Finger Roll Layup (4 PTS) (Bibby 2 AST),Made Shot,Finger Roll Layup Shot,0,59
+20900764,60,PT03M59.00S,1,1610612737,ATL,2207,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson P.FOUL (P1.T1),Foul,Personal,0,60
+20900764,61,PT03M59.00S,1,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,v,SUB: Joe. Smith FOR Jos. Smith,Substitution,,0,61
+20900764,62,PT03M53.00S,1,1610612763,MEM,200752,Gay,R. Gay,108,42,12,Made,1,19.0,21.0,40,h,Gay 12' Jump Shot (6 PTS),Made Shot,Jump Shot,0,62
+20900764,63,PT03M25.00S,1,1610612737,ATL,1710,Bibby,M. Bibby,-73,236,25,Missed,1,,,0,v,MISS Bibby 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,63
+20900764,64,PT03M24.00S,1,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,,0,,,0,h,Arthur REBOUND (Off:0 Def:1),Rebound,Unknown,0,64
+20900764,65,PT03M07.00S,1,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,,0,,,0,h,Arthur Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,65
+20900764,65,PT03M07.00S,1,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford STEAL (3 STL),,,0,66
+20900764,66,PT02M57.00S,1,1610612737,ATL,2037,Crawford,J. Crawford,0,0,0,,0,,,0,v,Crawford Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,67
+20900764,66,PT02M57.00S,1,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,,,0,h,Gay STEAL (1 STL),,,0,68
+20900764,67,PT02M55.00S,1,1610612737,ATL,2207,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson P.FOUL (P2.T2),Foul,Personal,0,69
+20900764,68,PT02M55.00S,1,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,70
+20900764,70,PT02M55.00S,1,1610612737,ATL,1710,Bibby,M. Bibby,0,0,0,,0,,,0,v,Bibby T.FOUL (P0.T2),Foul,Technical,0,71
+20900764,71,PT02M55.00S,1,1610612737,ATL,2207,Johnson,J. Johnson,0,0,0,,0,,,0,v,SUB: Evans FOR Johnson,Substitution,,0,72
+20900764,72,PT02M55.00S,1,1610612763,MEM,201564,Mayo,O. Mayo,0,0,0,,0,20.0,21.0,41,h,Mayo Free Throw Technical (5 PTS),Free Throw,Free Throw Technical,0,73
+20900764,74,PT02M44.00S,1,1610612763,MEM,200752,Gay,R. Gay,2,124,12,Missed,1,,,0,h,MISS Gay 12' Jump Shot,Missed Shot,Jump Shot,0,74
+20900764,75,PT02M44.00S,1,1610612737,ATL,1710,Bibby,M. Bibby,0,0,0,,0,,,0,v,Bibby REBOUND (Off:0 Def:3),Rebound,Unknown,0,75
+20900764,76,PT02M34.00S,1,1610612737,ATL,693,Smith,J. Smith,0,0,0,Made,1,20.0,23.0,43,v,Joe. Smith Layup (2 PTS) (Horford 2 AST),Made Shot,Layup Shot,0,76
+20900764,77,PT02M16.00S,1,1610612737,ATL,693,Smith,J. Smith,0,0,0,,0,,,0,v,Joe. Smith S.FOUL (P1.T3),Foul,Shooting,0,77
+20900764,78,PT02M16.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,21.0,23.0,44,h,Gasol Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,78
+20900764,80,PT02M16.00S,1,1610612737,ATL,1710,Bibby,M. Bibby,0,0,0,,0,,,0,v,SUB: Teague FOR Bibby,Substitution,,0,79
+20900764,81,PT02M16.00S,1,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,,,0,h,SUB: Williams FOR Conley,Substitution,,0,80
+20900764,82,PT02M16.00S,1,1610612763,MEM,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,SUB: Young FOR Mayo,Substitution,,0,81
+20900764,83,PT02M16.00S,1,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,,,0,v,SUB: Collins FOR Horford,Substitution,,0,82
+20900764,84,PT02M16.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,22.0,23.0,45,h,Gasol Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,83
+20900764,86,PT01M57.00S,1,1610612763,MEM,201970,Young,S. Young,0,0,0,,0,,,0,h,Young S.FOUL (P1.T3),Foul,Shooting,0,84
+20900764,87,PT01M57.00S,1,1610612737,ATL,2037,Crawford,J. Crawford,0,0,0,,0,22.0,24.0,46,v,Crawford Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,0,85
+20900764,89,PT01M57.00S,1,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,SUB: Randolph FOR Gasol,Substitution,,0,86
+20900764,90,PT01M57.00S,1,1610612737,ATL,2037,Crawford,J. Crawford,0,0,0,,0,22.0,25.0,47,v,Crawford Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,0,87
+20900764,92,PT01M57.00S,1,1610612737,ATL,2037,Crawford,J. Crawford,0,0,0,,0,22.0,26.0,48,v,Crawford Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,0,88
+20900764,94,PT01M40.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,Made,1,24.0,26.0,50,h,Randolph Layup (4 PTS) (Young 1 AST),Made Shot,Layup Shot,0,89
+20900764,95,PT01M23.00S,1,1610612737,ATL,2037,Crawford,J. Crawford,0,0,0,,0,,,0,v,Crawford Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,90
+20900764,96,PT01M06.00S,1,1610612763,MEM,201970,Young,S. Young,138,9,14,Made,1,26.0,26.0,52,h,Young 14' Jump Shot (2 PTS),Made Shot,Jump Shot,0,91
+20900764,97,PT00M50.90S,1,1610612737,ATL,2037,Crawford,J. Crawford,113,132,17,Missed,1,,,0,v,MISS Crawford 17' Jump Shot,Missed Shot,Jump Shot,0,92
+20900764,98,PT00M49.90S,1,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,,0,,,0,h,Arthur REBOUND (Off:0 Def:2),Rebound,Unknown,0,93
+20900764,99,PT00M42.20S,1,1610612763,MEM,200752,Gay,R. Gay,143,6,14,Made,1,28.0,26.0,54,h,Gay 14' Turnaround Fadeaway (8 PTS),Made Shot,Turnaround Fadeaway shot,0,94
+20900764,100,PT00M26.90S,1,1610612737,ATL,693,Smith,J. Smith,-89,175,20,Missed,1,,,0,v,MISS Joe. Smith 20' Jump Shot,Missed Shot,Jump Shot,0,95
+20900764,101,PT00M26.30S,1,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,,0,,,0,h,Arthur REBOUND (Off:0 Def:3),Rebound,Unknown,0,96
+20900764,102,PT00M26.30S,1,1610612737,ATL,2215,Collins,J. Collins,0,0,0,,0,,,0,v,Collins L.B.FOUL (P1.T4),Foul,Loose Ball,0,97
+20900764,103,PT00M09.90S,1,1610612763,MEM,200752,Gay,R. Gay,62,107,12,Made,1,30.0,26.0,56,h,Gay 12' Floating Jump Shot (10 PTS),Made Shot,Floating Jump shot,0,98
+20900764,104,PT00M03.00S,1,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,,0,,,0,h,Arthur S.FOUL (P1.PN),Foul,Shooting,0,99
+20900764,105,PT00M03.00S,1,1610612737,ATL,2037,Crawford,J. Crawford,0,0,0,,0,,,0,v,MISS Crawford Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,100
+20900764,106,PT00M03.00S,1,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Normal Rebound,0,101
+20900764,107,PT00M03.00S,1,1610612737,ATL,2037,Crawford,J. Crawford,0,0,0,,0,30.0,27.0,57,v,Crawford Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,102
+20900764,109,PT00M00.00S,1,0,,0,,,0,0,0,,0,30.0,27.0,57,,End of 1st Period (8:40 PM EST),period,end,0,103
+20900764,111,PT12M00.00S,2,0,,0,,,0,0,0,,0,30.0,27.0,57,,Start of 2nd Period (8:43 PM EST),period,start,0,104
+20900764,112,PT11M44.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,-128,132,18,Made,1,32.0,27.0,59,h,Randolph 18' Jump Shot (6 PTS) (Williams 1 AST),Made Shot,Jump Shot,0,105
+20900764,113,PT11M21.00S,2,1610612737,ATL,2037,Crawford,J. Crawford,0,0,0,Made,1,32.0,29.0,61,v,Crawford Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,106
+20900764,114,PT11M01.00S,2,1610612737,ATL,693,Smith,J. Smith,0,0,0,,0,,,0,v,Joe. Smith P.FOUL (P2.T1),Foul,Personal,0,107
+20900764,115,PT11M01.00S,2,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,,,0,h,SUB: Mayo FOR Gay,Substitution,,0,108
+20900764,116,PT10M52.00S,2,1610612763,MEM,200766,Williams,M. Williams,138,160,21,Missed,1,,,0,h,MISS Williams 21' Jump Shot,Missed Shot,Jump Shot,0,109
+20900764,117,PT10M51.00S,2,1610612737,ATL,2215,Collins,J. Collins,0,0,0,,0,,,0,v,Collins REBOUND (Off:0 Def:1),Rebound,Unknown,0,110
+20900764,118,PT10M43.00S,2,1610612737,ATL,2037,Crawford,J. Crawford,119,168,21,Missed,1,,,0,v,MISS Crawford 21' Jump Shot,Missed Shot,Jump Shot,0,111
+20900764,119,PT10M42.00S,2,1610612737,ATL,693,Smith,J. Smith,0,0,0,,0,,,0,v,Joe. Smith REBOUND (Off:1 Def:0),Rebound,Unknown,0,112
+20900764,120,PT10M41.00S,2,1610612737,ATL,693,Smith,J. Smith,0,0,0,Made,1,32.0,31.0,63,v,Joe. Smith Dunk (4 PTS),Made Shot,Dunk Shot,0,113
+20900764,121,PT10M33.00S,2,1610612737,ATL,2037,Crawford,J. Crawford,0,0,0,,0,,,0,v,Crawford P.FOUL (P1.T2),Foul,Personal,0,114
+20900764,122,PT10M28.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,Made,1,34.0,31.0,65,h,Randolph Layup (8 PTS) (Young 2 AST),Made Shot,Layup Shot,0,115
+20900764,123,PT10M16.00S,2,1610612737,ATL,201952,Teague,J. Teague,143,162,22,Made,1,34.0,33.0,67,v,Teague 22' Jump Shot (2 PTS),Made Shot,Jump Shot,0,116
+20900764,124,PT09M51.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,18,116,12,Missed,1,,,0,h,MISS Randolph 12' Jump Shot,Missed Shot,Jump Shot,0,117
+20900764,125,PT09M50.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:1 Def:1),Rebound,Unknown,0,118
+20900764,126,PT09M48.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,Missed,1,,,0,h,MISS Randolph Layup,Missed Shot,Layup Shot,0,119
+20900764,127,PT09M46.00S,2,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Unknown,0,120
+20900764,128,PT09M46.00S,2,1610612737,ATL,693,Smith,J. Smith,0,0,0,,0,,,0,v,SUB: Jos. Smith FOR Joe. Smith,Substitution,,0,121
+20900764,129,PT09M46.00S,2,1610612737,ATL,2215,Collins,J. Collins,0,0,0,,0,,,0,v,SUB: Horford FOR Collins,Substitution,,0,122
+20900764,130,PT09M46.00S,2,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,,0,,,0,h,SUB: Gasol FOR Arthur,Substitution,,0,123
+20900764,131,PT09M33.00S,2,1610612737,ATL,201952,Teague,J. Teague,89,173,19,Missed,1,,,0,v,MISS Teague 19' Jump Shot,Missed Shot,Jump Shot,0,124
+20900764,133,PT09M31.00S,2,1610612737,ATL,2230,Evans,M. Evans,0,0,0,,0,,,0,v,Evans REBOUND (Off:1 Def:0),Rebound,Unknown,0,125
+20900764,132,PT09M31.00S,2,1610612737,ATL,2230,Evans,M. Evans,0,0,0,Missed,1,,,0,v,MISS Evans Tip Shot,Missed Shot,Tip Shot,0,126
+20900764,134,PT09M27.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:1 Def:2),Rebound,Unknown,0,127
+20900764,135,PT09M14.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,Made,1,36.0,33.0,69,h,Randolph Layup (10 PTS) (Mayo 3 AST),Made Shot,Layup Shot,0,128
+20900764,136,PT09M14.00S,2,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,v,Jos. Smith S.FOUL (P1.T3),Foul,Shooting,0,129
+20900764,137,PT09M14.00S,2,1610612737,ATL,2230,Evans,M. Evans,0,0,0,,0,,,0,v,SUB: Williams FOR Evans,Substitution,,0,130
+20900764,138,PT09M14.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,MISS Randolph Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,131
+20900764,140,PT09M13.00S,2,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford REBOUND (Off:2 Def:1),Rebound,Unknown,0,132
+20900764,141,PT08M55.00S,2,1610612737,ATL,2746,Smith,J. Smith,-8,69,7,Missed,1,,,0,v,MISS Jos. Smith 7' Jump Shot,Missed Shot,Jump Shot,0,133
+20900764,142,PT08M54.00S,2,1610612763,MEM,200766,Williams,M. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,134
+20900764,143,PT08M47.00S,2,1610612763,MEM,201970,Young,S. Young,0,0,0,Made,1,38.0,33.0,71,h,Young Alley Oop Dunk (4 PTS) (Williams 2 AST),Made Shot,Alley Oop Dunk Shot,0,135
+20900764,144,PT08M22.00S,2,1610612737,ATL,2037,Crawford,J. Crawford,-201,149,25,Made,1,38.0,36.0,74,v,Crawford 25' 3PT Jump Shot (9 PTS) (Horford 3 AST),Made Shot,Jump Shot,0,136
+20900764,145,PT08M02.00S,2,1610612763,MEM,201564,Mayo,O. Mayo,78,78,11,Missed,1,,,0,h,MISS Mayo 11' Jump Shot,Missed Shot,Jump Shot,0,137
+20900764,146,PT08M02.00S,2,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,138
+20900764,147,PT07M56.00S,2,1610612737,ATL,101107,Williams,M. Williams,0,0,0,Made,1,38.0,38.0,76,v,Williams Dunk (6 PTS),Made Shot,Dunk Shot,0,139
+20900764,148,PT07M37.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,21,101,10,Made,1,40.0,38.0,78,h,Randolph 10' Step Back Jump Shot (12 PTS),Made Shot,Step Back Jump shot,0,140
+20900764,149,PT07M27.00S,2,1610612737,ATL,201952,Teague,J. Teague,0,0,0,,0,,,0,v,Teague Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,141
+20900764,149,PT07M27.00S,2,1610612763,MEM,200766,Williams,M. Williams,0,0,0,,0,,,0,h,Williams STEAL (1 STL),,,0,142
+20900764,150,PT07M21.00S,2,1610612763,MEM,201564,Mayo,O. Mayo,10,91,9,Made,1,42.0,38.0,80,h,Mayo 9' Jump Shot (7 PTS) (Williams 3 AST),Made Shot,Jump Shot,0,143
+20900764,151,PT07M15.00S,2,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,144
+20900764,153,PT07M15.00S,2,1610612737,ATL,201952,Teague,J. Teague,0,0,0,,0,,,0,v,SUB: Johnson FOR Teague,Substitution,,0,145
+20900764,154,PT07M15.00S,2,1610612763,MEM,200766,Williams,M. Williams,0,0,0,,0,,,0,h,SUB: Conley FOR Williams,Substitution,,0,146
+20900764,155,PT07M01.00S,2,1610612737,ATL,201143,Horford,A. Horford,-13,72,7,Missed,1,,,0,v,MISS Horford 7' Jump Shot,Missed Shot,Jump Shot,0,147
+20900764,156,PT07M00.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:1 Def:3),Rebound,Unknown,0,148
+20900764,157,PT07M00.00S,2,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,v,Jos. Smith L.B.FOUL (P2.T4),Foul,Loose Ball,0,149
+20900764,158,PT06M37.00S,2,1610612763,MEM,201188,Gasol,M. Gasol,100,58,12,Missed,1,,,0,h,MISS Gasol 12' Jump Shot,Missed Shot,Jump Shot,0,150
+20900764,159,PT06M37.00S,2,1610612737,ATL,2037,Crawford,J. Crawford,0,0,0,,0,,,0,v,Crawford REBOUND (Off:0 Def:1),Rebound,Unknown,0,151
+20900764,160,PT06M26.00S,2,1610612737,ATL,101107,Williams,M. Williams,-237,11,24,Missed,1,,,0,v,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,152
+20900764,161,PT06M25.00S,2,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:0 Def:2),Rebound,Unknown,0,153
+20900764,162,PT06M07.00S,2,1610612763,MEM,201564,Mayo,O. Mayo,-234,56,24,Missed,1,,,0,h,MISS Mayo 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,154
+20900764,163,PT06M07.00S,2,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,v,Jos. Smith REBOUND (Off:0 Def:1),Rebound,Unknown,0,155
+20900764,164,PT06M03.00S,2,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,v,Jos. Smith Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,156
+20900764,166,PT06M03.00S,2,1610612763,MEM,201970,Young,S. Young,0,0,0,,0,,,0,h,SUB: Gay FOR Young,Substitution,,0,157
+20900764,167,PT05M51.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,Missed,1,,,0,h,MISS Randolph Layup,Missed Shot,Layup Shot,0,158
+20900764,168,PT05M50.00S,2,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford REBOUND (Off:2 Def:2),Rebound,Unknown,0,159
+20900764,169,PT05M45.00S,2,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Conley P.FOUL (P1.T1),Foul,Personal,0,160
+20900764,170,PT05M45.00S,2,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,161
+20900764,172,PT05M45.00S,2,1610612737,ATL,2037,Crawford,J. Crawford,0,0,0,,0,,,0,v,SUB: Bibby FOR Crawford,Substitution,,0,162
+20900764,174,PT05M38.00S,2,1610612737,ATL,2207,Johnson,J. Johnson,45,60,8,Made,1,42.0,40.0,82,v,Johnson 8' Jump Shot (7 PTS),Made Shot,Jump Shot,0,163
+20900764,175,PT05M23.00S,2,1610612763,MEM,201564,Mayo,O. Mayo,-144,208,25,Made,1,45.0,40.0,85,h,Mayo 25' 3PT Jump Shot (10 PTS) (Conley 3 AST),Made Shot,Jump Shot,0,164
+20900764,176,PT05M01.00S,2,1610612737,ATL,201143,Horford,A. Horford,0,0,0,Made,1,45.0,42.0,87,v,Horford Layup (4 PTS) (Johnson 2 AST),Made Shot,Layup Shot,0,165
+20900764,177,PT04M35.00S,2,1610612763,MEM,201564,Mayo,O. Mayo,206,148,25,Missed,1,,,0,h,MISS Mayo 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,166
+20900764,178,PT04M34.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:2 Def:3),Rebound,Unknown,0,167
+20900764,179,PT04M31.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,Made,1,47.0,42.0,89,h,Randolph Layup (14 PTS),Made Shot,Layup Shot,0,168
+20900764,180,PT04M25.00S,2,1610612763,MEM,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,Mayo P.FOUL (P1.T2),Foul,Personal,0,169
+20900764,181,PT04M21.00S,2,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,,,0,h,Gay P.FOUL (P2.T3),Foul,Personal,0,170
+20900764,182,PT04M14.00S,2,1610612737,ATL,1710,Bibby,M. Bibby,-81,134,16,Missed,1,,,0,v,MISS Bibby 16' Jump Shot,Missed Shot,Jump Shot,0,171
+20900764,183,PT04M13.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:2 Def:4),Rebound,Unknown,0,172
+20900764,184,PT03M59.00S,2,1610612763,MEM,201188,Gasol,M. Gasol,40,26,5,Made,1,49.0,42.0,91,h,Gasol 5' Hook Bank Shot (8 PTS) (Randolph 2 AST),Made Shot,Hook Bank Shot,0,173
+20900764,185,PT03M39.00S,2,1610612737,ATL,201143,Horford,A. Horford,0,0,0,Made,1,49.0,44.0,93,v,Horford Dunk (6 PTS) (Jos. Smith 4 AST),Made Shot,Dunk Shot,0,174
+20900764,186,PT03M13.00S,2,1610612763,MEM,201564,Mayo,O. Mayo,233,11,0,Missed,1,,,0,h,MISS Mayo 3PT Jump Shot,Missed Shot,Jump Shot,0,175
+20900764,187,PT03M12.00S,2,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:1 Def:2),Rebound,Unknown,0,176
+20900764,188,PT03M07.00S,2,1610612763,MEM,201144,Conley,M. Conley,-207,135,25,Missed,1,,,0,h,MISS Conley 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,177
+20900764,189,PT03M07.00S,2,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford REBOUND (Off:2 Def:3),Rebound,Unknown,0,178
+20900764,190,PT02M59.00S,2,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,179
+20900764,191,PT02M59.00S,2,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,180
+20900764,193,PT02M59.00S,2,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,v,SUB: Joe. Smith FOR Jos. Smith,Substitution,,0,181
+20900764,194,PT02M48.00S,2,1610612763,MEM,201564,Mayo,O. Mayo,0,0,0,Made,1,51.0,44.0,95,h,Mayo Reverse Layup (12 PTS) (Gasol 1 AST),Made Shot,Reverse Layup Shot,0,182
+20900764,195,PT02M24.00S,2,1610612737,ATL,2207,Johnson,J. Johnson,-56,72,9,Missed,1,,,0,v,MISS Johnson 9' Jump Shot,Missed Shot,Jump Shot,0,183
+20900764,196,PT02M23.00S,2,1610612737,ATL,693,Smith,J. Smith,0,0,0,,0,,,0,v,Joe. Smith REBOUND (Off:2 Def:0),Rebound,Unknown,0,184
+20900764,197,PT02M20.00S,2,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,185
+20900764,197,PT02M20.00S,2,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,,,0,h,Gay STEAL (2 STL),,,0,186
+20900764,198,PT02M19.00S,2,1610612737,ATL,2207,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson P.FOUL (P3.PN),Foul,Personal,0,187
+20900764,199,PT02M19.00S,2,1610612737,ATL,2207,Johnson,J. Johnson,0,0,0,,0,,,0,v,SUB: Crawford FOR Johnson,Substitution,,0,188
+20900764,200,PT02M19.00S,2,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,52.0,44.0,96,h,Gay Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,189
+20900764,202,PT02M19.00S,2,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,53.0,44.0,97,h,Gay Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,190
+20900764,204,PT02M02.00S,2,1610612737,ATL,1710,Bibby,M. Bibby,165,186,25,Missed,1,,,0,v,MISS Bibby 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,191
+20900764,205,PT02M02.00S,2,1610612737,ATL,693,Smith,J. Smith,0,0,0,,0,,,0,v,Joe. Smith REBOUND (Off:3 Def:0),Rebound,Unknown,0,192
+20900764,206,PT01M59.00S,2,1610612737,ATL,101107,Williams,M. Williams,0,0,0,Made,1,53.0,46.0,99,v,Williams Layup (8 PTS) (Joe. Smith 1 AST),Made Shot,Layup Shot,0,193
+20900764,207,PT01M42.00S,2,1610612763,MEM,200752,Gay,R. Gay,-5,200,20,Missed,1,,,0,h,MISS Gay 20' Jump Shot,Missed Shot,Jump Shot,0,194
+20900764,208,PT01M41.00S,2,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,0,195
+20900764,209,PT01M40.00S,2,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,,,0,h,Gay P.FOUL (P3.T4),Foul,Personal,0,196
+20900764,210,PT01M40.00S,2,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,,,0,h,SUB: Young FOR Gay,Substitution,,0,197
+20900764,211,PT01M25.00S,2,1610612737,ATL,101107,Williams,M. Williams,0,0,0,Made,1,53.0,48.0,101,v,Williams Driving Layup (10 PTS),Made Shot,Driving Layup Shot,0,198
+20900764,212,PT01M25.00S,2,1610612763,MEM,201970,Young,S. Young,0,0,0,,0,,,0,h,Young S.FOUL (P2.PN),Foul,Shooting,0,199
+20900764,213,PT01M25.00S,2,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,53.0,49.0,102,v,Williams Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,200
+20900764,215,PT01M11.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph Bad Pass Turnover (P3.T5),Turnover,Bad Pass,0,201
+20900764,215,PT01M11.00S,2,1610612737,ATL,1710,Bibby,M. Bibby,0,0,0,,0,,,0,v,Bibby STEAL (1 STL),,,0,202
+20900764,216,PT01M00.00S,2,1610612737,ATL,201143,Horford,A. Horford,170,25,17,Made,1,53.0,51.0,104,v,Horford 17' Jump Shot (8 PTS) (Joe. Smith 2 AST),Made Shot,Jump Shot,0,203
+20900764,217,PT00M45.90S,2,1610612763,MEM,201970,Young,S. Young,-231,7,0,Missed,1,,,0,h,MISS Young 3PT Jump Shot,Missed Shot,Jump Shot,0,204
+20900764,218,PT00M44.90S,2,1610612737,ATL,693,Smith,J. Smith,0,0,0,,0,,,0,v,Joe. Smith REBOUND (Off:3 Def:1),Rebound,Unknown,0,205
+20900764,219,PT00M36.10S,2,1610612737,ATL,201143,Horford,A. Horford,32,143,15,Made,1,53.0,53.0,106,v,Horford 15' Jump Shot (10 PTS) (Bibby 3 AST),Made Shot,Jump Shot,0,206
+20900764,220,PT00M25.10S,2,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford S.FOUL (P1.PN),Foul,Shooting,0,207
+20900764,221,PT00M25.10S,2,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,54.0,53.0,107,h,Gasol Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,208
+20900764,223,PT00M25.10S,2,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,55.0,53.0,108,h,Gasol Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,209
+20900764,225,PT00M08.60S,2,1610612737,ATL,2037,Crawford,J. Crawford,0,0,0,,0,,,0,v,Crawford Out of Bounds Lost Ball Turnover (P3.T9),Turnover,Out of Bounds Lost Ball Turnover,0,210
+20900764,226,PT00M08.60S,2,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Timeout: Short (Full 2 Short 1),Timeout,Short,0,211
+20900764,227,PT00M08.60S,2,1610612737,ATL,1710,Bibby,M. Bibby,0,0,0,,0,,,0,v,SUB: West FOR Bibby,Substitution,,0,212
+20900764,229,PT00M01.90S,2,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Conley Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,213
+20900764,229,PT00M01.90S,2,1610612737,ATL,2037,Crawford,J. Crawford,0,0,0,,0,,,0,v,Crawford STEAL (1 STL),,,0,214
+20900764,230,PT00M00.30S,2,1610612737,ATL,101107,Williams,M. Williams,47,489,49,Missed,1,,,0,v,MISS Williams 49' 3PT Jump Shot,Missed Shot,Jump Shot,0,215
+20900764,232,PT00M00.00S,2,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Unknown,0,216
+20900764,231,PT00M00.00S,2,0,,0,,,0,0,0,,0,55.0,53.0,108,,End of 2nd Period (9:12 PM EST),period,end,0,217
+20900764,234,PT12M00.00S,3,0,,0,,,0,0,0,,0,55.0,53.0,108,,Start of 3rd Period (9:29 PM EST),period,start,0,218
+20900764,235,PT11M48.00S,3,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,,,0,h,Gay Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,219
+20900764,235,PT11M48.00S,3,1610612737,ATL,1710,Bibby,M. Bibby,0,0,0,,0,,,0,v,Bibby STEAL (2 STL),,,0,220
+20900764,236,PT11M43.00S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,Made,1,55.0,55.0,110,v,Jos. Smith Layup (6 PTS) (Bibby 4 AST),Made Shot,Layup Shot,0,221
+20900764,237,PT11M16.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,88,9,Missed,1,,,0,h,MISS Gasol 9' Jump Shot,Missed Shot,Jump Shot,0,222
+20900764,238,PT11M16.00S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,v,Jos. Smith REBOUND (Off:0 Def:2),Rebound,Unknown,0,223
+20900764,239,PT10M54.00S,3,1610612737,ATL,2207,Johnson,J. Johnson,1,53,5,Made,1,55.0,57.0,112,v,Johnson 5' Jump Shot (9 PTS) (Bibby 5 AST),Made Shot,Jump Shot,0,224
+20900764,240,PT10M33.00S,3,1610612763,MEM,201144,Conley,M. Conley,152,201,25,Made,1,58.0,57.0,115,h,Conley 25' 3PT Jump Shot (6 PTS) (Gasol 2 AST),Made Shot,Jump Shot,0,225
+20900764,241,PT10M04.00S,3,1610612737,ATL,1710,Bibby,M. Bibby,-15,194,19,Made,1,58.0,59.0,117,v,Bibby 19' Jump Shot (8 PTS),Made Shot,Jump Shot,0,226
+20900764,242,PT09M38.00S,3,1610612763,MEM,201564,Mayo,O. Mayo,106,198,22,Made,1,60.0,59.0,119,h,Mayo 22' Jump Shot (14 PTS),Made Shot,Jump Shot,0,227
+20900764,243,PT09M17.00S,3,1610612737,ATL,1710,Bibby,M. Bibby,65,238,25,Missed,1,,,0,v,MISS Bibby 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,228
+20900764,244,PT09M16.00S,3,1610612763,MEM,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,Mayo REBOUND (Off:0 Def:2),Rebound,Unknown,0,229
+20900764,245,PT09M10.00S,3,1610612763,MEM,201564,Mayo,O. Mayo,-119,214,24,Missed,1,,,0,h,MISS Mayo 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,230
+20900764,246,PT09M09.00S,3,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:4),Rebound,Unknown,0,231
+20900764,247,PT09M02.00S,3,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,,,0,v,Williams Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,232
+20900764,247,PT09M02.00S,3,1610612763,MEM,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,Mayo STEAL (2 STL),,,0,233
+20900764,248,PT09M02.00S,3,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,,,0,v,Williams L.B.FOUL (P1.T1),Foul,Loose Ball,0,234
+20900764,249,PT08M37.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,45,261,26,Missed,1,,,0,h,MISS Randolph 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,235
+20900764,251,PT08M37.00S,3,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Rebound,Rebound,Unknown,0,236
+20900764,250,PT08M37.00S,3,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,0,237
+20900764,252,PT08M14.00S,3,1610612737,ATL,2207,Johnson,J. Johnson,-109,153,19,Missed,1,,,0,v,MISS Johnson 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,238
+20900764,253,PT08M13.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:1 Def:3),Rebound,Unknown,0,239
+20900764,254,PT08M10.00S,3,1610612763,MEM,200752,Gay,R. Gay,0,0,0,Made,1,62.0,59.0,121,h,Gay Alley Oop Dunk (14 PTS) (Conley 4 AST),Made Shot,Alley Oop Dunk Shot,0,240
+20900764,255,PT07M43.00S,3,1610612737,ATL,2207,Johnson,J. Johnson,13,105,11,Made,1,62.0,61.0,123,v,Johnson 11' Running Jump Shot (11 PTS),Made Shot,Running Jump Shot,0,241
+20900764,256,PT07M39.00S,3,1610612763,MEM,201564,Mayo,O. Mayo,0,0,0,Missed,1,,,0,h,MISS Mayo Layup,Missed Shot,Layup Shot,0,242
+20900764,256,PT07M39.00S,3,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,,,0,v,Williams BLOCK (1 BLK),,,0,243
+20900764,257,PT07M36.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:3 Def:4),Rebound,Unknown,0,244
+20900764,258,PT07M35.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,Missed,1,,,0,h,MISS Randolph Putback Layup,Missed Shot,Putback Layup Shot,0,245
+20900764,258,PT07M35.00S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,v,Jos. Smith BLOCK (1 BLK),,,0,246
+20900764,259,PT07M33.00S,3,1610612763,MEM,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,Mayo REBOUND (Off:1 Def:2),Rebound,Unknown,0,247
+20900764,260,PT07M20.00S,3,1610612763,MEM,200752,Gay,R. Gay,-215,112,24,Missed,1,,,0,h,MISS Gay 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,248
+20900764,261,PT07M19.00S,3,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Unknown,0,249
+20900764,262,PT07M06.00S,3,1610612737,ATL,101107,Williams,M. Williams,-164,97,19,Missed,1,,,0,v,MISS Williams 19' Jump Shot,Missed Shot,Jump Shot,0,250
+20900764,263,PT07M06.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:3 Def:5),Rebound,Unknown,0,251
+20900764,264,PT07M00.00S,3,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford P.FOUL (P2.T2),Foul,Personal,0,252
+20900764,265,PT06M59.00S,3,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,,,0,h,Gay Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,253
+20900764,265,PT06M59.00S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,v,Jos. Smith STEAL (1 STL),,,0,254
+20900764,266,PT06M56.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph S.FOUL (P1.T1),Foul,Shooting,0,255
+20900764,267,PT06M56.00S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,62.0,62.0,124,v,Jos. Smith Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,256
+20900764,269,PT06M56.00S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,v,MISS Jos. Smith Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,257
+20900764,271,PT06M54.00S,3,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,,,0,h,Gay REBOUND (Off:0 Def:1),Rebound,Unknown,0,258
+20900764,272,PT06M43.00S,3,1610612763,MEM,201144,Conley,M. Conley,-133,137,19,Missed,1,,,0,h,MISS Conley 19' Jump Shot,Missed Shot,Jump Shot,0,259
+20900764,273,PT06M43.00S,3,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:5),Rebound,Unknown,0,260
+20900764,274,PT06M35.00S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,Made,1,62.0,64.0,126,v,Jos. Smith Reverse Slam Dunk (9 PTS) (Bibby 6 AST),Made Shot,Reverse Slam Dunk Shot,0,261
+20900764,275,PT06M35.00S,3,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,262
+20900764,278,PT06M24.00S,3,1610612763,MEM,201144,Conley,M. Conley,0,0,0,Made,1,64.0,64.0,128,h,Conley Driving Layup (8 PTS),Made Shot,Driving Layup Shot,0,263
+20900764,279,PT05M56.00S,3,1610612737,ATL,1710,Bibby,M. Bibby,-67,206,22,Made,1,64.0,66.0,130,v,Bibby 22' Jump Shot (10 PTS),Made Shot,Jump Shot,0,264
+20900764,280,PT05M56.00S,3,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Conley S.FOUL (P2.T2),Foul,Shooting,0,265
+20900764,281,PT05M56.00S,3,1610612737,ATL,1710,Bibby,M. Bibby,0,0,0,,0,64.0,67.0,131,v,Bibby Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,266
+20900764,283,PT05M44.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,-24,58,6,Missed,1,,,0,h,MISS Gasol 6' Jump Shot,Missed Shot,Jump Shot,0,267
+20900764,284,PT05M43.00S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,v,Jos. Smith REBOUND (Off:0 Def:3),Rebound,Unknown,0,268
+20900764,285,PT05M38.00S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,v,Jos. Smith Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,269
+20900764,285,PT05M38.00S,3,1610612763,MEM,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,Mayo STEAL (3 STL),,,0,270
+20900764,286,PT05M34.00S,3,1610612763,MEM,200752,Gay,R. Gay,0,0,0,Made,1,66.0,67.0,133,h,Gay Slam Dunk (16 PTS) (Conley 5 AST),Made Shot,Slam Dunk Shot,0,271
+20900764,287,PT05M14.00S,3,1610612737,ATL,1710,Bibby,M. Bibby,-16,246,25,Missed,1,,,0,v,MISS Bibby 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,272
+20900764,288,PT05M14.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:1 Def:4),Rebound,Unknown,0,273
+20900764,289,PT05M09.00S,3,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford P.FOUL (P3.T3),Foul,Personal,0,274
+20900764,290,PT05M09.00S,3,1610612737,ATL,1710,Bibby,M. Bibby,0,0,0,,0,,,0,v,SUB: Crawford FOR Bibby,Substitution,,0,275
+20900764,291,PT05M09.00S,3,1610612763,MEM,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,SUB: Young FOR Mayo,Substitution,,0,276
+20900764,292,PT05M09.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,SUB: Arthur FOR Gasol,Substitution,,0,277
+20900764,293,PT05M02.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,62,189,20,Missed,1,,,0,h,MISS Randolph 20' Jump Shot,Missed Shot,Jump Shot,0,278
+20900764,294,PT05M01.00S,3,1610612737,ATL,2037,Crawford,J. Crawford,0,0,0,,0,,,0,v,Crawford REBOUND (Off:0 Def:2),Rebound,Unknown,0,279
+20900764,295,PT04M58.00S,3,1610612737,ATL,2037,Crawford,J. Crawford,0,0,0,,0,,,0,v,Crawford Bad Pass Turnover (P4.T12),Turnover,Bad Pass,0,280
+20900764,295,PT04M58.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph STEAL (1 STL),,,0,281
+20900764,296,PT04M53.00S,3,1610612763,MEM,201144,Conley,M. Conley,0,0,0,Missed,1,,,0,h,MISS Conley Layup,Missed Shot,Layup Shot,0,282
+20900764,298,PT04M50.00S,3,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,,0,,,0,h,Arthur REBOUND (Off:1 Def:3),Rebound,Unknown,0,283
+20900764,297,PT04M50.00S,3,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,Made,1,68.0,67.0,135,h,Arthur Layup (2 PTS),Made Shot,Layup Shot,0,284
+20900764,299,PT04M35.00S,3,1610612763,MEM,201970,Young,S. Young,0,0,0,,0,,,0,h,Young S.FOUL (P3.T3),Foul,Shooting,0,285
+20900764,300,PT04M35.00S,3,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,68.0,68.0,136,v,Horford Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,286
+20900764,302,PT04M35.00S,3,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,68.0,69.0,137,v,Horford Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,287
+20900764,304,PT04M24.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,Missed,1,,,0,h,MISS Randolph Layup,Missed Shot,Layup Shot,0,288
+20900764,305,PT04M23.00S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,v,Jos. Smith REBOUND (Off:0 Def:4),Rebound,Unknown,0,289
+20900764,306,PT04M22.00S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,v,Jos. Smith Bad Pass Turnover (P3.T13),Turnover,Bad Pass,0,290
+20900764,307,PT04M09.00S,3,1610612763,MEM,201970,Young,S. Young,233,25,0,Missed,1,,,0,h,MISS Young 3PT Jump Shot,Missed Shot,Jump Shot,0,291
+20900764,308,PT04M08.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:4 Def:5),Rebound,Unknown,0,292
+20900764,309,PT04M07.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,Missed,1,,,0,h,MISS Randolph Layup,Missed Shot,Layup Shot,0,293
+20900764,310,PT04M05.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:5 Def:5),Rebound,Unknown,0,294
+20900764,311,PT04M02.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph Lost Ball Turnover (P4.T10),Turnover,Lost Ball,0,295
+20900764,311,PT04M02.00S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,v,Jos. Smith STEAL (2 STL),,,0,296
+20900764,312,PT03M47.00S,3,1610612737,ATL,2037,Crawford,J. Crawford,129,33,13,Made,1,68.0,71.0,139,v,Crawford 13' Step Back Jump Shot (11 PTS),Made Shot,Step Back Jump shot,0,297
+20900764,313,PT03M28.00S,3,1610612763,MEM,200752,Gay,R. Gay,-37,200,20,Missed,1,,,0,h,MISS Gay 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,298
+20900764,315,PT03M26.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:6 Def:5),Rebound,Unknown,0,299
+20900764,314,PT03M26.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,Made,1,70.0,71.0,141,h,Randolph Layup (16 PTS),Made Shot,Layup Shot,0,300
+20900764,316,PT03M05.00S,3,1610612737,ATL,2746,Smith,J. Smith,100,184,21,Made,1,70.0,73.0,143,v,Jos. Smith 21' Jump Shot (11 PTS) (Johnson 3 AST),Made Shot,Jump Shot,0,301
+20900764,317,PT02M48.00S,3,1610612737,ATL,2207,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson P.FOUL (P4.T4),Foul,Personal,0,302
+20900764,318,PT02M48.00S,3,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,303
+20900764,320,PT02M48.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,SUB: Gasol FOR Randolph,Substitution,,0,304
+20900764,321,PT02M48.00S,3,1610612737,ATL,2207,Johnson,J. Johnson,0,0,0,,0,,,0,v,SUB: Evans FOR Johnson,Substitution,,0,305
+20900764,322,PT02M35.00S,3,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,,,0,v,Williams P.FOUL (P2.PN),Foul,Personal,0,306
+20900764,323,PT02M35.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,MISS Gasol Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,307
+20900764,324,PT02M35.00S,3,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Rebound,Rebound,Normal Rebound,0,308
+20900764,326,PT02M35.00S,3,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,,,0,h,SUB: Williams FOR Conley,Substitution,,0,309
+20900764,327,PT02M35.00S,3,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,71.0,73.0,144,h,Gasol Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,310
+20900764,329,PT02M23.00S,3,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,,,0,h,Gay S.FOUL (P4.T4),Foul,Shooting,0,311
+20900764,330,PT02M23.00S,3,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,71.0,74.0,145,v,Williams Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,312
+20900764,332,PT02M23.00S,3,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,,,0,h,SUB: Mayo FOR Gay,Substitution,,0,313
+20900764,333,PT02M23.00S,3,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,,,0,v,SUB: Joe. Smith FOR Horford,Substitution,,0,314
+20900764,334,PT02M23.00S,3,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,71.0,75.0,146,v,Williams Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,315
+20900764,336,PT02M09.00S,3,1610612763,MEM,201589,Arthur,D. Arthur,-161,12,16,Missed,1,,,0,h,MISS Arthur 16' Jump Shot,Missed Shot,Jump Shot,0,316
+20900764,337,PT02M08.00S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,v,Jos. Smith REBOUND (Off:0 Def:5),Rebound,Unknown,0,317
+20900764,338,PT01M49.00S,3,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Timeout: Short (Reg.3 Short 1),Timeout,Short,0,318
+20900764,341,PT01M44.00S,3,1610612737,ATL,2037,Crawford,J. Crawford,56,63,8,Missed,1,,,0,v,MISS Crawford 8' Jump Shot,Missed Shot,Jump Shot,0,319
+20900764,342,PT01M43.00S,3,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:1 Def:5),Rebound,Unknown,0,320
+20900764,343,PT01M41.00S,3,1610612737,ATL,101107,Williams,M. Williams,0,0,0,Made,1,71.0,77.0,148,v,Williams Layup (15 PTS),Made Shot,Layup Shot,0,321
+20900764,344,PT01M24.00S,3,1610612763,MEM,201564,Mayo,O. Mayo,-95,138,17,Made,1,73.0,77.0,150,h,Mayo 17' Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,0,322
+20900764,345,PT01M07.00S,3,1610612737,ATL,2037,Crawford,J. Crawford,62,74,10,Made,1,73.0,79.0,152,v,Crawford 10' Step Back Jump Shot (13 PTS),Made Shot,Step Back Jump shot,0,323
+20900764,346,PT00M53.90S,3,1610612763,MEM,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,Mayo Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,324
+20900764,346,PT00M53.90S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,v,Jos. Smith STEAL (3 STL),,,0,325
+20900764,347,PT00M46.80S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,Made,1,73.0,81.0,154,v,Jos. Smith Layup (13 PTS) (Crawford 1 AST),Made Shot,Layup Shot,0,326
+20900764,348,PT00M25.60S,3,1610612763,MEM,201970,Young,S. Young,0,0,0,Made,1,75.0,81.0,156,h,Young Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,327
+20900764,349,PT00M03.00S,3,1610612763,MEM,201970,Young,S. Young,0,0,0,,0,,,0,h,Young P.FOUL (P4.PN),Foul,Personal,0,328
+20900764,350,PT00M03.00S,3,1610612737,ATL,2037,Crawford,J. Crawford,0,0,0,,0,75.0,82.0,157,v,Crawford Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,329
+20900764,352,PT00M03.00S,3,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,,,0,v,SUB: West FOR Williams,Substitution,,0,330
+20900764,353,PT00M03.00S,3,1610612737,ATL,2037,Crawford,J. Crawford,0,0,0,,0,,,0,v,MISS Crawford Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,331
+20900764,355,PT00M01.90S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,v,Jos. Smith REBOUND (Off:1 Def:5),Rebound,Unknown,0,332
+20900764,356,PT00M00.00S,3,0,,0,,,0,0,0,,0,75.0,82.0,157,,End of 3rd Period (9:55 PM EST),period,end,0,333
+20900764,358,PT12M00.00S,4,0,,0,,,0,0,0,,0,75.0,82.0,157,,Start of 4th Period (9:59 PM EST),period,start,0,334
+20900764,359,PT11M34.00S,4,1610612737,ATL,2230,Evans,M. Evans,203,64,21,Missed,1,,,0,v,MISS Evans 21' Jump Shot,Missed Shot,Jump Shot,0,335
+20900764,359,PT11M34.00S,4,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol BLOCK (1 BLK),,,0,336
+20900764,360,PT11M33.00S,4,1610612763,MEM,200766,Williams,M. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,337
+20900764,361,PT11M19.00S,4,1610612763,MEM,201564,Mayo,O. Mayo,65,178,19,Missed,1,,,0,h,MISS Mayo 19' Jump Shot,Missed Shot,Jump Shot,0,338
+20900764,362,PT11M18.00S,4,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford REBOUND (Off:2 Def:4),Rebound,Unknown,0,339
+20900764,363,PT11M03.00S,4,1610612737,ATL,2037,Crawford,J. Crawford,-19,255,26,Made,1,75.0,85.0,160,v,Crawford 26' 3PT Jump Shot (17 PTS) (Horford 4 AST),Made Shot,Jump Shot,0,340
+20900764,364,PT10M41.00S,4,1610612763,MEM,201970,Young,S. Young,-51,173,18,Made,1,77.0,85.0,162,h,Young 18' Jump Shot (8 PTS),Made Shot,Jump Shot,0,341
+20900764,365,PT10M19.00S,4,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol S.FOUL (P2.T1),Foul,Shooting,0,342
+20900764,366,PT10M19.00S,4,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,77.0,86.0,163,v,Horford Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,343
+20900764,368,PT10M19.00S,4,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,77.0,87.0,164,v,Horford Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,344
+20900764,372,PT10M01.00S,4,1610612763,MEM,201970,Young,S. Young,69,39,8,Missed,1,,,0,h,MISS Young 8' Jump Shot,Missed Shot,Jump Shot,0,345
+20900764,373,PT10M00.00S,4,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:1 Def:6),Rebound,Unknown,0,346
+20900764,374,PT09M35.00S,4,1610612737,ATL,201143,Horford,A. Horford,81,145,17,Missed,1,,,0,v,MISS Horford 17' Jump Shot,Missed Shot,Jump Shot,0,347
+20900764,375,PT09M35.00S,4,1610612763,MEM,200766,Williams,M. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,0,348
+20900764,376,PT09M30.00S,4,1610612763,MEM,201970,Young,S. Young,0,0,0,Missed,1,,,0,h,MISS Young Layup,Missed Shot,Layup Shot,0,349
+20900764,376,PT09M30.00S,4,1610612737,ATL,2230,Evans,M. Evans,0,0,0,,0,,,0,v,Evans BLOCK (1 BLK),,,0,350
+20900764,377,PT09M25.00S,4,1610612737,ATL,2230,Evans,M. Evans,0,0,0,,0,,,0,v,Evans REBOUND (Off:1 Def:1),Rebound,Unknown,0,351
+20900764,378,PT09M19.00S,4,1610612737,ATL,2230,Evans,M. Evans,-226,14,0,Made,1,77.0,90.0,167,v,Evans 3PT Jump Shot (3 PTS) (Crawford 2 AST),Made Shot,Jump Shot,0,352
+20900764,379,PT09M04.00S,4,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford Violation:Kicked Ball,Violation,Kicked Ball,0,353
+20900764,380,PT09M04.00S,4,1610612763,MEM,201589,Arthur,D. Arthur,0,0,0,,0,,,0,h,SUB: Randolph FOR Arthur,Substitution,,0,354
+20900764,381,PT09M04.00S,4,1610612763,MEM,201970,Young,S. Young,0,0,0,,0,,,0,h,SUB: Gay FOR Young,Substitution,,0,355
+20900764,382,PT08M58.00S,4,1610612763,MEM,200766,Williams,M. Williams,-204,142,25,Made,1,80.0,90.0,170,h,Williams 25' 3PT Jump Shot (3 PTS) (Randolph 3 AST),Made Shot,Jump Shot,0,356
+20900764,383,PT08M41.00S,4,1610612737,ATL,2037,Crawford,J. Crawford,-144,213,26,Made,1,80.0,93.0,173,v,Crawford 26' 3PT Jump Shot (20 PTS),Made Shot,Jump Shot,0,357
+20900764,384,PT08M23.00S,4,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford P.FOUL (P4.T1),Foul,Personal,0,358
+20900764,385,PT08M23.00S,4,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,359
+20900764,387,PT08M23.00S,4,1610612737,ATL,101107,Williams,M. Williams,0,0,0,,0,,,0,v,SUB: Johnson FOR Williams,Substitution,,0,360
+20900764,389,PT08M13.00S,4,1610612763,MEM,201564,Mayo,O. Mayo,95,230,25,Missed,1,,,0,h,MISS Mayo 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,361
+20900764,390,PT08M13.00S,4,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford REBOUND (Off:2 Def:5),Rebound,Unknown,0,362
+20900764,391,PT07M54.00S,4,1610612737,ATL,2037,Crawford,J. Crawford,-237,57,24,Made,1,80.0,96.0,176,v,Crawford 24' 3PT Jump Shot (23 PTS) (Johnson 4 AST),Made Shot,Jump Shot,0,363
+20900764,392,PT07M35.00S,4,1610612763,MEM,200766,Williams,M. Williams,-141,119,18,Missed,1,,,0,h,MISS Williams 18' Jump Shot,Missed Shot,Jump Shot,0,364
+20900764,393,PT07M35.00S,4,1610612737,ATL,2037,Crawford,J. Crawford,0,0,0,,0,,,0,v,Crawford REBOUND (Off:0 Def:3),Rebound,Unknown,0,365
+20900764,394,PT07M13.00S,4,1610612737,ATL,2037,Crawford,J. Crawford,-221,48,0,Missed,1,,,0,v,MISS Crawford 3PT Jump Shot,Missed Shot,Jump Shot,0,366
+20900764,395,PT07M12.00S,4,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,,,0,v,Horford REBOUND (Off:3 Def:5),Rebound,Unknown,0,367
+20900764,396,PT07M11.00S,4,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,,,0,h,Gay S.FOUL (P5.T2),Foul,Shooting,0,368
+20900764,397,PT07M11.00S,4,1610612763,MEM,200766,Williams,M. Williams,0,0,0,,0,,,0,h,SUB: Conley FOR Williams,Substitution,,0,369
+20900764,398,PT07M11.00S,4,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,,,0,v,MISS Horford Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,370
+20900764,399,PT07M11.00S,4,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Normal Rebound,0,371
+20900764,400,PT07M11.00S,4,1610612737,ATL,693,Smith,J. Smith,0,0,0,,0,,,0,v,SUB: Jos. Smith FOR Joe. Smith,Substitution,,0,372
+20900764,401,PT07M11.00S,4,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,80.0,97.0,177,v,Horford Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,373
+20900764,403,PT06M59.00S,4,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,v,Jos. Smith S.FOUL (P3.T2),Foul,Shooting,0,374
+20900764,404,PT06M59.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,81.0,97.0,178,h,Randolph Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,375
+20900764,406,PT06M59.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,82.0,97.0,179,h,Randolph Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,376
+20900764,408,PT06M41.00S,4,1610612737,ATL,2746,Smith,J. Smith,0,0,0,Made,1,82.0,99.0,181,v,Jos. Smith Reverse Layup (15 PTS),Made Shot,Reverse Layup Shot,0,377
+20900764,409,PT06M25.00S,4,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Conley Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,378
+20900764,410,PT06M08.00S,4,1610612737,ATL,2037,Crawford,J. Crawford,-235,14,24,Made,1,82.0,102.0,184,v,Crawford 24' 3PT Jump Shot (26 PTS) (Johnson 5 AST),Made Shot,Jump Shot,0,379
+20900764,411,PT05M42.00S,4,1610612763,MEM,201564,Mayo,O. Mayo,-116,148,19,Missed,1,,,0,h,MISS Mayo 19' Jump Shot,Missed Shot,Jump Shot,0,380
+20900764,412,PT05M41.00S,4,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,Gasol REBOUND (Off:2 Def:4),Rebound,Unknown,0,381
+20900764,413,PT05M35.00S,4,1610612763,MEM,200752,Gay,R. Gay,136,140,20,Missed,1,,,0,h,MISS Gay 20' Jump Shot,Missed Shot,Jump Shot,0,382
+20900764,414,PT05M34.00S,4,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Unknown,0,383
+20900764,415,PT05M33.00S,4,0,,1610612763,,,0,0,0,,0,,,0,h,GRIZZLIES Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,384
+20900764,417,PT05M33.00S,4,1610612737,ATL,2207,Johnson,J. Johnson,0,0,0,,0,,,0,v,SUB: Teague FOR Johnson,Substitution,,0,385
+20900764,419,PT05M15.00S,4,1610612737,ATL,201952,Teague,J. Teague,53,63,8,Missed,1,,,0,v,MISS Teague 8' Jump Shot,Missed Shot,Jump Shot,0,386
+20900764,419,PT05M15.00S,4,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Conley BLOCK (1 BLK),,,0,387
+20900764,420,PT05M13.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:6 Def:6),Rebound,Unknown,0,388
+20900764,421,PT05M06.00S,4,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Conley Out of Bounds Lost Ball Turnover (P4.T13),Turnover,Out of Bounds Lost Ball Turnover,0,389
+20900764,422,PT04M47.00S,4,1610612737,ATL,2037,Crawford,J. Crawford,220,112,25,Missed,1,,,0,v,MISS Crawford 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,390
+20900764,422,PT04M47.00S,4,1610612763,MEM,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,Mayo BLOCK (1 BLK),,,0,391
+20900764,423,PT04M46.00S,4,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Unknown,0,392
+20900764,424,PT04M42.00S,4,1610612737,ATL,2037,Crawford,J. Crawford,-116,102,15,Made,1,82.0,104.0,186,v,Crawford 15' Jump Shot (28 PTS),Made Shot,Jump Shot,0,393
+20900764,425,PT04M26.00S,4,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,,,0,v,SUB: Morris FOR Horford,Substitution,,0,394
+20900764,426,PT04M21.00S,4,1610612763,MEM,201144,Conley,M. Conley,-11,211,21,Made,1,84.0,104.0,188,h,Conley 21' Jump Shot (10 PTS),Made Shot,Jump Shot,0,395
+20900764,427,PT04M04.00S,4,1610612737,ATL,2746,Smith,J. Smith,122,189,22,Made,1,84.0,106.0,190,v,Jos. Smith 22' Jump Shot (17 PTS) (Teague 1 AST),Made Shot,Jump Shot,0,396
+20900764,428,PT03M49.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,129,172,22,Made,1,86.0,106.0,192,h,Randolph 22' Jump Shot (20 PTS) (Conley 6 AST),Made Shot,Jump Shot,0,397
+20900764,429,PT03M42.00S,4,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,398
+20900764,431,PT03M42.00S,4,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,,,0,v,SUB: West FOR Jos. Smith,Substitution,,0,399
+20900764,432,PT03M42.00S,4,1610612737,ATL,2037,Crawford,J. Crawford,0,0,0,,0,,,0,v,SUB: Collins FOR Crawford,Substitution,,0,400
+20900764,435,PT03M42.00S,4,1610612763,MEM,201188,Gasol,M. Gasol,0,0,0,,0,,,0,h,SUB: Arthur FOR Gasol,Substitution,,0,401
+20900764,436,PT03M24.00S,4,1610612737,ATL,201952,Teague,J. Teague,2,52,5,Missed,1,,,0,v,MISS Teague 5' Jump Shot,Missed Shot,Jump Shot,0,402
+20900764,437,PT03M23.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:6 Def:7),Rebound,Unknown,0,403
+20900764,438,PT03M09.00S,4,1610612763,MEM,201589,Arthur,D. Arthur,-114,140,18,Made,1,88.0,106.0,194,h,Arthur 18' Jump Shot (4 PTS) (Conley 7 AST),Made Shot,Jump Shot,0,404
+20900764,439,PT02M50.00S,4,1610612737,ATL,201043,Morris,R. Morris,0,0,0,,0,,,0,v,Morris Lost Ball Turnover (P1.T14),Turnover,Lost Ball,0,405
+20900764,439,PT02M50.00S,4,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,,,0,h,Conley STEAL (2 STL),,,0,406
+20900764,440,PT02M44.00S,4,1610612763,MEM,200752,Gay,R. Gay,0,0,0,Made,1,90.0,106.0,196,h,Gay Reverse Dunk (18 PTS) (Mayo 4 AST),Made Shot,Reverse Dunk Shot,0,407
+20900764,441,PT02M26.00S,4,1610612737,ATL,201238,West,M. West,0,0,0,Made,1,90.0,108.0,198,v,West Dunk (2 PTS) (Morris 1 AST),Made Shot,Dunk Shot,0,408
+20900764,442,PT02M11.00S,4,1610612763,MEM,201144,Conley,M. Conley,-105,121,16,Made,1,92.0,108.0,200,h,Conley 16' Step Back Jump Shot (12 PTS),Made Shot,Step Back Jump shot,0,409
+20900764,443,PT01M52.00S,4,1610612737,ATL,2230,Evans,M. Evans,0,0,0,Missed,1,,,0,v,MISS Evans Driving Layup,Missed Shot,Driving Layup Shot,0,410
+20900764,444,PT01M51.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph REBOUND (Off:6 Def:8),Rebound,Unknown,0,411
+20900764,445,PT01M40.00S,4,1610612763,MEM,201144,Conley,M. Conley,-122,135,18,Missed,1,,,0,h,MISS Conley 18' Jump Shot,Missed Shot,Jump Shot,0,412
+20900764,446,PT01M40.00S,4,1610612737,ATL,201952,Teague,J. Teague,0,0,0,,0,,,0,v,Teague REBOUND (Off:0 Def:1),Rebound,Unknown,0,413
+20900764,447,PT01M35.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,Randolph P.FOUL (P2.T3),Foul,Personal,0,414
+20900764,448,PT01M35.00S,4,1610612763,MEM,200752,Gay,R. Gay,0,0,0,,0,,,0,h,SUB: Hudson FOR Gay,Substitution,,0,415
+20900764,449,PT01M35.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,h,SUB: Young FOR Randolph,Substitution,,0,416
+20900764,450,PT01M35.00S,4,1610612763,MEM,201564,Mayo,O. Mayo,0,0,0,,0,,,0,h,SUB: Carroll FOR Mayo,Substitution,,0,417
+20900764,451,PT01M35.00S,4,1610612763,MEM,201144,Conley,M. Conley,0,0,0,,0,,,0,h,SUB: Thabeet FOR Conley,Substitution,,0,418
+20900764,452,PT01M23.00S,4,1610612737,ATL,201952,Teague,J. Teague,0,0,0,,0,,,0,v,Teague Traveling Turnover (P2.T15),Turnover,Traveling,0,419
+20900764,453,PT01M13.00S,4,1610612763,MEM,201991,Hudson,L. Hudson,-150,138,20,Missed,1,,,0,h,MISS Hudson 20' Jump Shot,Missed Shot,Jump Shot,0,420
+20900764,454,PT01M13.00S,4,1610612737,ATL,201238,West,M. West,0,0,0,,0,,,0,v,West REBOUND (Off:0 Def:1),Rebound,Unknown,0,421
+20900764,455,PT00M51.90S,4,1610612737,ATL,2215,Collins,J. Collins,168,116,20,Missed,1,,,0,v,MISS Collins 20' Jump Shot,Missed Shot,Jump Shot,0,422
+20900764,456,PT00M50.90S,4,1610612737,ATL,2230,Evans,M. Evans,0,0,0,,0,,,0,v,Evans REBOUND (Off:2 Def:1),Rebound,Unknown,0,423
+20900764,457,PT00M40.80S,4,1610612737,ATL,2230,Evans,M. Evans,-229,48,0,Missed,1,,,0,v,MISS Evans 3PT Jump Shot,Missed Shot,Jump Shot,0,424
+20900764,458,PT00M40.40S,4,1610612763,MEM,201970,Young,S. Young,0,0,0,,0,,,0,h,Young REBOUND (Off:0 Def:1),Rebound,Unknown,0,425
+20900764,459,PT00M35.90S,4,1610612763,MEM,201991,Hudson,L. Hudson,0,0,0,Made,1,94.0,108.0,202,h,Hudson Layup (2 PTS) (Young 3 AST),Made Shot,Layup Shot,0,426
+20900764,460,PT00M11.90S,4,1610612737,ATL,2230,Evans,M. Evans,174,86,19,Missed,1,,,0,v,MISS Evans 19' Jump Shot,Missed Shot,Jump Shot,0,427
+20900764,461,PT00M10.10S,4,0,,1610612737,,,0,0,0,,0,,,0,v,Hawks Rebound,Rebound,Unknown,0,428
+20900764,462,PT00M00.00S,4,0,,0,,,0,0,0,,0,94.0,108.0,202,,End of 4th Period (10:24 PM EST),period,end,0,429

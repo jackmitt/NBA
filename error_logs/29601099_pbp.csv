@@ -1,0 +1,464 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+29601099,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (11:43 PM EST),period,start,0,1
+29601099,1,PT12M00.00S,1,1610612744,GSW,280,Spencer,F. Spencer,0,0,0,,0,0.0,0.0,0,h,Jump Ball Spencer vs. Campbell: Tip to Horry,Jump Ball,,0,2
+29601099,2,PT11M42.00S,1,1610612747,LAL,922,Campbell,E. Campbell,3,73,7,Missed,1,0.0,0.0,0,v,MISS Campbell 7' Layup,Missed Shot,Layup Shot,0,3
+29601099,3,PT11M41.00S,1,1610612747,LAL,965,Fisher,D. Fisher,0,0,0,,0,0.0,0.0,0,v,Fisher REBOUND (Off:1 Def:0),Rebound,Unknown,0,4
+29601099,4,PT11M40.00S,1,1610612747,LAL,965,Fisher,D. Fisher,0,0,0,,0,0.0,0.0,0,v,Fisher Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,5
+29601099,4,PT11M40.00S,1,1610612744,GSW,84,Sprewell,L. Sprewell,0,0,0,,0,0.0,0.0,0,h,Sprewell STEAL (1 STL),,,0,6
+29601099,5,PT11M22.00S,1,1610612744,GSW,280,Spencer,F. Spencer,0,0,0,Missed,1,0.0,0.0,0,h,MISS Spencer  Layup,Missed Shot,Layup Shot,0,7
+29601099,6,PT11M21.00S,1,1610612744,GSW,280,Spencer,F. Spencer,0,0,0,,0,0.0,0.0,0,h,Spencer REBOUND (Off:1 Def:0),Rebound,Unknown,0,8
+29601099,7,PT11M18.00S,1,0,,1610612744,,,0,0,0,,0,0.0,0.0,0,h,WARRIORS Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,0,9
+29601099,8,PT11M10.00S,1,1610612747,LAL,922,Campbell,E. Campbell,0,0,0,Missed,1,0.0,0.0,0,v,MISS Campbell  Layup,Missed Shot,Layup Shot,0,10
+29601099,9,PT11M09.00S,1,1610612744,GSW,923,Marshall,D. Marshall,0,0,0,,0,0.0,0.0,0,h,Marshall REBOUND (Off:0 Def:1),Rebound,Unknown,0,11
+29601099,10,PT10M53.00S,1,1610612744,GSW,899,Price,M. Price,0,0,0,Missed,1,0.0,0.0,0,h,MISS Price  Layup,Missed Shot,Layup Shot,0,12
+29601099,11,PT10M52.00S,1,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0.0,0.0,0,v,Horry REBOUND (Off:0 Def:1),Rebound,Unknown,0,13
+29601099,12,PT10M41.00S,1,1610612744,GSW,280,Spencer,F. Spencer,0,0,0,,0,0.0,0.0,0,h,Spencer S.FOUL (P1.T1),Foul,Shooting,0,14
+29601099,13,PT10M41.00S,1,1610612747,LAL,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,v,MISS Campbell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,15
+29601099,14,PT10M41.00S,1,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Rebound,Rebound,Unknown,0,16
+29601099,15,PT10M41.00S,1,1610612747,LAL,922,Campbell,E. Campbell,0,0,0,,0,0.0,1.0,1,v,Campbell Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,17
+29601099,16,PT10M19.00S,1,1610612744,GSW,693,Smith,J. Smith,-57,86,10,Made,1,2.0,1.0,3,h,Smith 10' Jump Shot (2 PTS) (Price 1 AST),Made Shot,Jump Shot,0,18
+29601099,17,PT10M03.00S,1,1610612747,LAL,916,Blount,C. Blount,0,0,0,Made,1,2.0,3.0,5,v,Blount  Layup (2 PTS) (Horry 1 AST),Made Shot,Layup Shot,0,19
+29601099,18,PT09M47.00S,1,1610612744,GSW,84,Sprewell,L. Sprewell,6,21,2,Missed,1,0.0,0.0,0,h,MISS Sprewell 2' Layup,Missed Shot,Layup Shot,0,20
+29601099,20,PT09M45.00S,1,1610612744,GSW,280,Spencer,F. Spencer,0,0,0,,0,0.0,0.0,0,h,Spencer REBOUND (Off:2 Def:0),Rebound,Unknown,0,21
+29601099,19,PT09M45.00S,1,1610612744,GSW,280,Spencer,F. Spencer,0,0,0,Missed,1,0.0,0.0,0,h,MISS Spencer  Tip Shot,Missed Shot,Tip Shot,0,22
+29601099,21,PT09M44.00S,1,1610612747,LAL,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,v,Campbell REBOUND (Off:0 Def:1),Rebound,Unknown,0,23
+29601099,22,PT09M40.00S,1,1610612747,LAL,965,Fisher,D. Fisher,0,0,0,Made,1,2.0,5.0,7,v,Fisher  Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,24
+29601099,23,PT09M25.00S,1,1610612744,GSW,693,Smith,J. Smith,-155,110,19,Missed,1,0.0,0.0,0,h,MISS Smith 19' Jump Shot,Missed Shot,Jump Shot,0,25
+29601099,24,PT09M24.00S,1,1610612744,GSW,693,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:1 Def:0),Rebound,Unknown,0,26
+29601099,25,PT09M21.00S,1,1610612744,GSW,280,Spencer,F. Spencer,101,4,10,Missed,1,0.0,0.0,0,h,MISS Spencer 10' Jump Shot,Missed Shot,Jump Shot,0,27
+29601099,26,PT09M20.00S,1,1610612747,LAL,916,Blount,C. Blount,0,0,0,,0,0.0,0.0,0,v,Blount REBOUND (Off:0 Def:1),Rebound,Unknown,0,28
+29601099,27,PT09M10.00S,1,1610612747,LAL,916,Blount,C. Blount,0,0,0,Made,1,2.0,7.0,9,v,Blount  Slam Dunk (4 PTS) (Campbell 1 AST),Made Shot,Slam Dunk Shot,0,29
+29601099,28,PT08M53.00S,1,1610612744,GSW,923,Marshall,D. Marshall,-1,84,8,Made,1,4.0,7.0,11,h,Marshall 8' Jump Shot (2 PTS) (Price 2 AST),Made Shot,Jump Shot,0,30
+29601099,29,PT08M41.00S,1,1610612747,LAL,109,Horry,R. Horry,-192,138,24,Missed,1,0.0,0.0,0,v,MISS Horry 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,31
+29601099,30,PT08M40.00S,1,1610612744,GSW,84,Sprewell,L. Sprewell,0,0,0,,0,0.0,0.0,0,h,Sprewell REBOUND (Off:0 Def:1),Rebound,Unknown,0,32
+29601099,31,PT08M32.00S,1,1610612744,GSW,84,Sprewell,L. Sprewell,0,0,0,,0,0.0,0.0,0,h,Sprewell Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,33
+29601099,31,PT08M32.00S,1,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0.0,0.0,0,v,Horry STEAL (1 STL),,,0,34
+29601099,32,PT08M19.00S,1,1610612747,LAL,916,Blount,C. Blount,0,0,0,,0,0.0,0.0,0,v,Blount Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,35
+29601099,32,PT08M19.00S,1,1610612744,GSW,923,Marshall,D. Marshall,0,0,0,,0,0.0,0.0,0,h,Marshall STEAL (1 STL),,,0,36
+29601099,33,PT08M02.00S,1,1610612744,GSW,693,Smith,J. Smith,0,0,0,Missed,1,0.0,0.0,0,h,MISS Smith  Layup,Missed Shot,Layup Shot,0,37
+29601099,34,PT08M01.00S,1,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0.0,0.0,0,v,Horry REBOUND (Off:0 Def:2),Rebound,Unknown,0,38
+29601099,35,PT07M39.00S,1,1610612747,LAL,965,Fisher,D. Fisher,0,0,0,Missed,1,0.0,0.0,0,v,MISS Fisher  Driving Layup,Missed Shot,Driving Layup Shot,0,39
+29601099,36,PT07M38.00S,1,1610612744,GSW,280,Spencer,F. Spencer,0,0,0,,0,0.0,0.0,0,h,Spencer REBOUND (Off:2 Def:1),Rebound,Unknown,0,40
+29601099,37,PT07M31.00S,1,1610612744,GSW,899,Price,M. Price,0,0,0,Made,1,6.0,7.0,13,h,Price  Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,41
+29601099,38,PT07M20.00S,1,1610612747,LAL,109,Horry,R. Horry,-190,132,0,Missed,1,0.0,0.0,0,v,MISS Horry  3PT Jump Shot,Missed Shot,Jump Shot,0,42
+29601099,39,PT07M18.00S,1,1610612747,LAL,916,Blount,C. Blount,0,0,0,,0,0.0,0.0,0,v,Blount REBOUND (Off:1 Def:1),Rebound,Unknown,0,43
+29601099,40,PT07M15.00S,1,1610612744,GSW,84,Sprewell,L. Sprewell,0,0,0,,0,0.0,0.0,0,h,Sprewell S.FOUL (P1.T2),Foul,Shooting,0,44
+29601099,41,PT07M15.00S,1,1610612747,LAL,922,Campbell,E. Campbell,0,0,0,,0,6.0,8.0,14,v,Campbell Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,45
+29601099,42,PT07M15.00S,1,1610612747,LAL,922,Campbell,E. Campbell,0,0,0,,0,6.0,9.0,15,v,Campbell Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,46
+29601099,43,PT07M05.00S,1,1610612744,GSW,84,Sprewell,L. Sprewell,0,0,0,Made,1,8.0,9.0,17,h,Sprewell  Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,47
+29601099,44,PT06M43.00S,1,1610612747,LAL,922,Campbell,E. Campbell,0,0,0,Missed,1,0.0,0.0,0,v,MISS Campbell  Layup,Missed Shot,Layup Shot,0,48
+29601099,45,PT06M42.00S,1,1610612744,GSW,280,Spencer,F. Spencer,0,0,0,,0,0.0,0.0,0,h,Spencer REBOUND (Off:2 Def:2),Rebound,Unknown,0,49
+29601099,46,PT06M33.00S,1,1610612744,GSW,923,Marshall,D. Marshall,0,0,0,Missed,1,0.0,0.0,0,h,MISS Marshall  Layup,Missed Shot,Layup Shot,0,50
+29601099,47,PT06M32.00S,1,1610612747,LAL,916,Blount,C. Blount,0,0,0,,0,0.0,0.0,0,v,Blount REBOUND (Off:1 Def:2),Rebound,Unknown,0,51
+29601099,48,PT06M27.00S,1,1610612747,LAL,109,Horry,R. Horry,0,0,0,Made,1,8.0,11.0,19,v,Horry  Driving Layup (2 PTS) (Fisher 1 AST),Made Shot,Driving Layup Shot,0,52
+29601099,49,PT06M05.00S,1,0,,1610612744,,,0,0,0,,0,0.0,0.0,0,h,WARRIORS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,53
+29601099,50,PT06M05.00S,1,1610612744,GSW,84,Sprewell,L. Sprewell,0,0,0,,0,0.0,0.0,0,h,Jump Ball Sprewell vs. Jones: Tip to Blount,Jump Ball,,0,54
+29601099,51,PT06M05.00S,1,1610612744,GSW,899,Price,M. Price,0,0,0,,0,0.0,0.0,0,h,Price Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,55
+29601099,51,PT06M05.00S,1,1610612747,LAL,224,Jones,E. Jones,0,0,0,,0,0.0,0.0,0,v,Jones STEAL (1 STL),,,0,56
+29601099,52,PT05M49.00S,1,1610612747,LAL,922,Campbell,E. Campbell,-3,43,4,Made,1,8.0,13.0,21,v,Campbell 4' Hook Shot (5 PTS) (Jones 1 AST),Made Shot,Hook Shot,0,57
+29601099,53,PT05M32.00S,1,1610612744,GSW,693,Smith,J. Smith,-168,62,18,Missed,1,0.0,0.0,0,h,MISS Smith 18' Jump Shot,Missed Shot,Jump Shot,0,58
+29601099,54,PT05M31.00S,1,1610612744,GSW,280,Spencer,F. Spencer,0,0,0,,0,0.0,0.0,0,h,Spencer REBOUND (Off:3 Def:2),Rebound,Unknown,0,59
+29601099,55,PT05M29.00S,1,1610612744,GSW,280,Spencer,F. Spencer,0,0,0,Missed,1,0.0,0.0,0,h,MISS Spencer  Layup,Missed Shot,Layup Shot,0,60
+29601099,57,PT05M28.00S,1,1610612744,GSW,693,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:2 Def:0),Rebound,Unknown,0,61
+29601099,56,PT05M27.00S,1,1610612744,GSW,693,Smith,J. Smith,0,0,0,Made,1,10.0,13.0,23,h,Smith  Dunk (4 PTS),Made Shot,Dunk Shot,0,62
+29601099,58,PT05M08.00S,1,1610612747,LAL,916,Blount,C. Blount,0,0,0,,0,0.0,0.0,0,v,Blount Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,63
+29601099,58,PT05M08.00S,1,1610612744,GSW,280,Spencer,F. Spencer,0,0,0,,0,0.0,0.0,0,h,Spencer STEAL (1 STL),,,0,64
+29601099,59,PT05M03.00S,1,1610612744,GSW,899,Price,M. Price,129,199,24,Missed,1,0.0,0.0,0,h,MISS Price 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,65
+29601099,60,PT05M02.00S,1,1610612744,GSW,923,Marshall,D. Marshall,0,0,0,,0,0.0,0.0,0,h,Marshall REBOUND (Off:1 Def:1),Rebound,Unknown,0,66
+29601099,61,PT05M01.00S,1,1610612744,GSW,923,Marshall,D. Marshall,0,0,0,Made,1,12.0,13.0,25,h,Marshall  Layup (4 PTS),Made Shot,Layup Shot,0,67
+29601099,62,PT04M46.00S,1,1610612744,GSW,693,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,68
+29601099,63,PT04M32.00S,1,1610612747,LAL,109,Horry,R. Horry,-118,-7,12,Made,1,12.0,15.0,27,v,Horry 12' Jump Shot (4 PTS) (Jones 2 AST),Made Shot,Jump Shot,0,69
+29601099,64,PT04M08.00S,1,1610612747,LAL,965,Fisher,D. Fisher,0,0,0,,0,0.0,0.0,0,v,Fisher P.FOUL (P1.T1),Foul,Personal,0,70
+29601099,65,PT03M58.00S,1,1610612744,GSW,923,Marshall,D. Marshall,0,0,0,Missed,1,0.0,0.0,0,h,MISS Marshall  Layup,Missed Shot,Layup Shot,0,71
+29601099,66,PT03M57.00S,1,1610612744,GSW,693,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:3 Def:0),Rebound,Unknown,0,72
+29601099,67,PT03M57.00S,1,1610612744,GSW,693,Smith,J. Smith,0,0,0,Missed,1,0.0,0.0,0,h,MISS Smith  Layup,Missed Shot,Layup Shot,0,73
+29601099,67,PT03M57.00S,1,1610612747,LAL,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,v,Campbell BLOCK (1 BLK),,,0,74
+29601099,68,PT03M53.00S,1,1610612744,GSW,693,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:4 Def:0),Rebound,Unknown,0,75
+29601099,69,PT03M52.00S,1,1610612744,GSW,693,Smith,J. Smith,0,0,0,Missed,1,0.0,0.0,0,h,MISS Smith  Layup,Missed Shot,Layup Shot,0,76
+29601099,70,PT03M51.00S,1,1610612744,GSW,923,Marshall,D. Marshall,0,0,0,,0,0.0,0.0,0,h,Marshall REBOUND (Off:2 Def:1),Rebound,Unknown,0,77
+29601099,71,PT03M51.00S,1,1610612744,GSW,693,Smith,J. Smith,0,0,0,Missed,1,0.0,0.0,0,h,MISS Smith  Layup,Missed Shot,Layup Shot,0,78
+29601099,71,PT03M51.00S,1,1610612747,LAL,224,Jones,E. Jones,0,0,0,,0,0.0,0.0,0,v,Jones BLOCK (1 BLK),,,0,79
+29601099,72,PT03M51.00S,1,0,,1610612744,,,0,0,0,,0,0.0,0.0,0,h,WARRIORS Rebound,Rebound,Unknown,0,80
+29601099,73,PT03M51.00S,1,1610612747,LAL,916,Blount,C. Blount,0,0,0,,0,0.0,0.0,0,v,SUB: Knight FOR Blount,Substitution,,0,81
+29601099,74,PT03M43.00S,1,1610612744,GSW,84,Sprewell,L. Sprewell,0,0,0,Made,1,14.0,15.0,29,h,Sprewell  Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,82
+29601099,75,PT03M30.00S,1,1610612747,LAL,922,Campbell,E. Campbell,29,71,8,Missed,1,0.0,0.0,0,v,MISS Campbell 8' Jump Shot,Missed Shot,Jump Shot,0,83
+29601099,76,PT03M28.00S,1,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Rebound,Rebound,Unknown,0,84
+29601099,77,PT03M28.00S,1,1610612744,GSW,899,Price,M. Price,0,0,0,,0,0.0,0.0,0,h,Jump Ball Price vs. Jones: Tip to Campbell,Jump Ball,,0,85
+29601099,78,PT03M20.00S,1,1610612747,LAL,224,Jones,E. Jones,129,192,0,Made,1,14.0,18.0,32,v,Jones  3PT Jump Shot (3 PTS),Made Shot,Jump Shot,0,86
+29601099,79,PT03M05.00S,1,1610612747,LAL,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,v,Campbell S.FOUL (P1.T2),Foul,Shooting,0,87
+29601099,80,PT03M05.00S,1,1610612744,GSW,923,Marshall,D. Marshall,0,0,0,,0,0.0,0.0,0,h,SUB: Mullin FOR Marshall,Substitution,,0,88
+29601099,81,PT03M05.00S,1,1610612744,GSW,280,Spencer,F. Spencer,0,0,0,,0,0.0,0.0,0,h,MISS Spencer Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,89
+29601099,82,PT03M05.00S,1,0,,1610612744,,,0,0,0,,0,0.0,0.0,0,h,WARRIORS Rebound,Rebound,Unknown,0,90
+29601099,83,PT03M05.00S,1,1610612747,LAL,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,v,SUB: Rooks FOR Campbell,Substitution,,0,91
+29601099,84,PT03M05.00S,1,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0.0,0.0,0,v,SUB: Kersey FOR Horry,Substitution,,0,92
+29601099,85,PT03M05.00S,1,1610612744,GSW,280,Spencer,F. Spencer,0,0,0,,0,15.0,18.0,33,h,Spencer Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,93
+29601099,86,PT02M52.00S,1,1610612747,LAL,224,Jones,E. Jones,-133,86,16,Made,1,15.0,20.0,35,v,Jones 16' Running Jump Shot (5 PTS),Made Shot,Running Jump Shot,0,94
+29601099,87,PT02M42.00S,1,1610612744,GSW,84,Sprewell,L. Sprewell,0,0,0,,0,0.0,0.0,0,h,Sprewell Lost Ball Turnover (P2.T4),Turnover,Lost Ball,0,95
+29601099,87,PT02M42.00S,1,1610612747,LAL,224,Jones,E. Jones,0,0,0,,0,0.0,0.0,0,v,Jones STEAL (2 STL),,,0,96
+29601099,88,PT02M36.00S,1,1610612747,LAL,224,Jones,E. Jones,131,194,0,Made,1,15.0,23.0,38,v,Jones  3PT Jump Shot (8 PTS),Made Shot,Jump Shot,0,97
+29601099,89,PT02M19.00S,1,1610612744,GSW,280,Spencer,F. Spencer,53,88,10,Missed,1,0.0,0.0,0,h,MISS Spencer 10' Jump Shot,Missed Shot,Jump Shot,0,98
+29601099,90,PT02M18.00S,1,1610612747,LAL,399,Rooks,S. Rooks,0,0,0,,0,0.0,0.0,0,v,Rooks REBOUND (Off:0 Def:1),Rebound,Unknown,0,99
+29601099,91,PT02M04.00S,1,1610612747,LAL,965,Fisher,D. Fisher,-18,149,15,Made,1,15.0,25.0,40,v,Fisher 15' Jump Shot (4 PTS) (Knight 1 AST),Made Shot,Jump Shot,0,100
+29601099,92,PT01M43.00S,1,1610612744,GSW,84,Sprewell,L. Sprewell,0,0,0,,0,0.0,0.0,0,h,Sprewell Bad Pass Turnover (P3.T5),Turnover,Bad Pass,0,101
+29601099,92,PT01M43.00S,1,1610612747,LAL,965,Fisher,D. Fisher,0,0,0,,0,0.0,0.0,0,v,Fisher STEAL (1 STL),,,0,102
+29601099,93,PT01M38.00S,1,1610612747,LAL,224,Jones,E. Jones,153,179,24,Made,1,15.0,28.0,43,v,Jones 24' 3PT Jump Shot (11 PTS) (Fisher 2 AST),Made Shot,Jump Shot,0,103
+29601099,94,PT01M35.00S,1,0,,1610612744,,,0,0,0,,0,0.0,0.0,0,h,WARRIORS Timeout: Short (Full 1 Short 1),Timeout,Short,0,104
+29601099,95,PT01M35.00S,1,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,105
+29601099,96,PT01M19.00S,1,1610612747,LAL,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,v,Knight S.FOUL (P1.T3),Foul,Shooting,0,106
+29601099,97,PT01M19.00S,1,1610612744,GSW,899,Price,M. Price,0,0,0,,0,0.0,0.0,0,h,SUB: Booker FOR Price,Substitution,,0,107
+29601099,98,PT01M19.00S,1,1610612744,GSW,693,Smith,J. Smith,0,0,0,,0,16.0,28.0,44,h,Smith Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,108
+29601099,99,PT01M19.00S,1,1610612744,GSW,280,Spencer,F. Spencer,0,0,0,,0,0.0,0.0,0,h,SUB: DeClercq FOR Spencer,Substitution,,0,109
+29601099,100,PT01M19.00S,1,1610612744,GSW,693,Smith,J. Smith,0,0,0,,0,17.0,28.0,45,h,Smith Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,110
+29601099,101,PT01M06.00S,1,1610612747,LAL,224,Jones,E. Jones,-44,229,0,Missed,1,0.0,0.0,0,v,MISS Jones  3PT Jump Shot,Missed Shot,Jump Shot,0,111
+29601099,102,PT01M04.00S,1,1610612744,GSW,904,Mullin,C. Mullin,0,0,0,,0,0.0,0.0,0,h,Mullin REBOUND (Off:0 Def:1),Rebound,Unknown,0,112
+29601099,103,PT00M53.90S,1,1610612744,GSW,84,Sprewell,L. Sprewell,-153,97,18,Missed,1,0.0,0.0,0,h,MISS Sprewell 18' Jump Shot,Missed Shot,Jump Shot,0,113
+29601099,104,PT00M52.90S,1,1610612747,LAL,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,v,Knight REBOUND (Off:0 Def:1),Rebound,Unknown,0,114
+29601099,105,PT00M39.90S,1,1610612747,LAL,399,Rooks,S. Rooks,0,0,0,Made,1,17.0,30.0,47,v,Rooks  Slam Dunk (2 PTS) (Knight 2 AST),Made Shot,Slam Dunk Shot,0,115
+29601099,106,PT00M18.90S,1,1610612744,GSW,775,,,140,123,19,Missed,1,0.0,0.0,0,h,MISS Booker 19' Jump Shot,Missed Shot,Jump Shot,0,116
+29601099,107,PT00M18.40S,1,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Rebound,Rebound,Unknown,0,117
+29601099,108,PT00M06.00S,1,1610612744,GSW,775,,,0,0,0,,0,0.0,0.0,0,h,Booker P.FOUL (P1.T3),Foul,Personal,0,118
+29601099,109,PT00M03.90S,1,1610612747,LAL,224,Jones,E. Jones,0,0,0,,0,0.0,0.0,0,v,Jones Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,119
+29601099,109,PT00M03.90S,1,1610612744,GSW,84,Sprewell,L. Sprewell,0,0,0,,0,0.0,0.0,0,h,Sprewell STEAL (2 STL),,,0,120
+29601099,110,PT00M00.80S,1,1610612744,GSW,84,Sprewell,L. Sprewell,0,0,0,Made,1,19.0,30.0,49,h,Sprewell  Slam Dunk (6 PTS),Made Shot,Slam Dunk Shot,0,121
+29601099,111,PT00M00.00S,1,0,,0,,,0,0,0,,0,19.0,30.0,49,,End of 1st Period (12:06 PM EST),period,end,0,122
+29601099,112,PT12M00.00S,2,0,,0,,,0,0,0,,0,19.0,30.0,49,,Start of 2nd Period (12:08 PM EST),period,start,0,123
+29601099,113,PT11M45.00S,2,1610612744,GSW,775,,,0,0,0,,0,0.0,0.0,0,h,Booker Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,124
+29601099,113,PT11M45.00S,2,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,Bryant STEAL (1 STL),,,0,125
+29601099,114,PT11M40.00S,2,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,Made,1,19.0,32.0,51,v,Bryant  Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,126
+29601099,115,PT11M18.00S,2,1610612744,GSW,1077,Owes,R. Owes,-96,123,16,Missed,1,0.0,0.0,0,h,MISS Owes 16' Jump Shot,Missed Shot,Jump Shot,0,127
+29601099,116,PT11M17.00S,2,1610612747,LAL,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,v,Knight REBOUND (Off:0 Def:2),Rebound,Unknown,0,128
+29601099,117,PT11M06.00S,2,1610612747,LAL,399,Rooks,S. Rooks,0,0,0,,0,0.0,0.0,0,v,Rooks OFF.Foul (P1),Foul,Offensive,0,129
+29601099,118,PT11M06.00S,2,1610612747,LAL,399,Rooks,S. Rooks,0,0,0,,0,0.0,0.0,0,v,Rooks Foul Turnover (P1.T5),Turnover,Foul,0,130
+29601099,119,PT10M56.00S,2,1610612744,GSW,904,Mullin,C. Mullin,42,88,10,Made,1,21.0,32.0,53,h,Mullin 10' Running Jump Shot (2 PTS) (Sprewell 1 AST),Made Shot,Running Jump Shot,0,131
+29601099,120,PT10M56.00S,2,1610612747,LAL,2,Scott,B. Scott,0,0,0,,0,0.0,0.0,0,v,Scott S.FOUL (P1.T1),Foul,Shooting,0,132
+29601099,121,PT10M56.00S,2,1610612744,GSW,84,Sprewell,L. Sprewell,0,0,0,,0,0.0,0.0,0,h,SUB: Burrell FOR Sprewell,Substitution,,0,133
+29601099,122,PT10M56.00S,2,1610612744,GSW,904,Mullin,C. Mullin,0,0,0,,0,22.0,32.0,54,h,Mullin Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,134
+29601099,123,PT10M36.00S,2,1610612747,LAL,760,Kersey,J. Kersey,114,201,0,Made,1,22.0,35.0,57,v,Kersey  3PT Jump Shot (3 PTS),Made Shot,Jump Shot,0,135
+29601099,124,PT10M24.00S,2,1610612744,GSW,1077,Owes,R. Owes,0,0,0,,0,0.0,0.0,0,h,Owes Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,136
+29601099,125,PT10M02.00S,2,1610612747,LAL,2,Scott,B. Scott,194,121,0,Made,1,22.0,38.0,60,v,Scott  3PT Jump Shot (3 PTS) (Kersey 1 AST),Made Shot,Jump Shot,0,137
+29601099,126,PT09M48.00S,2,1610612744,GSW,197,Burrell,S. Burrell,-131,138,19,Made,1,24.0,38.0,62,h,Burrell 19' Jump Shot (2 PTS) (Booker 1 AST),Made Shot,Jump Shot,0,138
+29601099,127,PT09M37.00S,2,1610612744,GSW,692,DeClercq,A. DeClercq,0,0,0,,0,0.0,0.0,0,h,DeClercq S.FOUL (P1.T1),Foul,Shooting,0,139
+29601099,128,PT09M37.00S,2,1610612747,LAL,399,Rooks,S. Rooks,0,0,0,,0,24.0,39.0,63,v,Rooks Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,140
+29601099,129,PT09M37.00S,2,1610612747,LAL,399,Rooks,S. Rooks,0,0,0,,0,24.0,40.0,64,v,Rooks Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,141
+29601099,130,PT09M28.00S,2,1610612744,GSW,775,,,0,0,0,,0,0.0,0.0,0,h,Booker Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,142
+29601099,130,PT09M28.00S,2,1610612747,LAL,2,Scott,B. Scott,0,0,0,,0,0.0,0.0,0,v,Scott STEAL (1 STL),,,0,143
+29601099,131,PT09M25.00S,2,1610612744,GSW,197,Burrell,S. Burrell,0,0,0,,0,0.0,0.0,0,h,Burrell S.FOUL (P1.T2),Foul,Shooting,0,144
+29601099,132,PT09M25.00S,2,0,,1610612744,,,0,0,0,,0,0.0,0.0,0,h,WARRIORS Timeout: Regular (Full 2 Short 1),Timeout,Regular,0,145
+29601099,133,PT09M25.00S,2,1610612744,GSW,775,,,0,0,0,,0,0.0,0.0,0,h,SUB: Sprewell FOR Booker,Substitution,,0,146
+29601099,134,PT09M25.00S,2,1610612744,GSW,1077,Owes,R. Owes,0,0,0,,0,0.0,0.0,0,h,SUB: Smith FOR Owes,Substitution,,0,147
+29601099,135,PT09M25.00S,2,1610612747,LAL,760,Kersey,J. Kersey,0,0,0,,0,24.0,41.0,65,v,Kersey Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,148
+29601099,136,PT09M25.00S,2,1610612747,LAL,760,Kersey,J. Kersey,0,0,0,,0,24.0,42.0,66,v,Kersey Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,149
+29601099,137,PT09M05.00S,2,1610612744,GSW,693,Smith,J. Smith,0,0,0,Missed,1,0.0,0.0,0,h,MISS Smith  Layup,Missed Shot,Layup Shot,0,150
+29601099,137,PT09M05.00S,2,1610612747,LAL,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,v,Knight BLOCK (1 BLK),,,0,151
+29601099,138,PT09M04.00S,2,1610612747,LAL,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,v,Knight REBOUND (Off:0 Def:3),Rebound,Unknown,0,152
+29601099,139,PT08M48.00S,2,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,Bryant Traveling Turnover (P1.T6),Turnover,Traveling,0,153
+29601099,140,PT08M27.00S,2,1610612744,GSW,693,Smith,J. Smith,105,147,18,Missed,1,0.0,0.0,0,h,MISS Smith 18' Jump Shot,Missed Shot,Jump Shot,0,154
+29601099,141,PT08M26.00S,2,1610612747,LAL,399,Rooks,S. Rooks,0,0,0,,0,0.0,0.0,0,v,Rooks REBOUND (Off:0 Def:2),Rebound,Unknown,0,155
+29601099,142,PT08M08.00S,2,1610612747,LAL,2,Scott,B. Scott,86,218,0,Made,1,24.0,45.0,69,v,Scott  3PT Jump Shot (6 PTS),Made Shot,Jump Shot,0,156
+29601099,143,PT07M50.00S,2,1610612744,GSW,904,Mullin,C. Mullin,146,-3,15,Made,1,26.0,45.0,71,h,Mullin 15' Jump Shot (5 PTS) (Burrell 1 AST),Made Shot,Jump Shot,0,157
+29601099,144,PT07M29.00S,2,1610612747,LAL,969,Knight,T. Knight,99,-1,10,Missed,1,0.0,0.0,0,v,MISS Knight 10' Hook Shot,Missed Shot,Hook Shot,0,158
+29601099,145,PT07M28.00S,2,1610612744,GSW,693,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:4 Def:1),Rebound,Unknown,0,159
+29601099,146,PT07M27.00S,2,1610612747,LAL,399,Rooks,S. Rooks,0,0,0,,0,0.0,0.0,0,v,Rooks L.B.FOUL (P2.T2),Foul,Loose Ball,0,160
+29601099,147,PT07M15.00S,2,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,Bryant Violation:Double Lane,Violation,Double Lane,0,161
+29601099,148,PT07M03.00S,2,1610612744,GSW,197,Burrell,S. Burrell,231,58,24,Missed,1,0.0,0.0,0,h,MISS Burrell 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,162
+29601099,149,PT07M02.00S,2,1610612747,LAL,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,v,Knight REBOUND (Off:0 Def:4),Rebound,Unknown,0,163
+29601099,150,PT06M48.00S,2,1610612744,GSW,692,DeClercq,A. DeClercq,0,0,0,,0,0.0,0.0,0,h,DeClercq S.FOUL (P2.T3),Foul,Shooting,0,164
+29601099,151,PT06M48.00S,2,1610612747,LAL,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,v,SUB: Horry FOR Knight,Substitution,,0,165
+29601099,152,PT06M48.00S,2,1610612747,LAL,399,Rooks,S. Rooks,0,0,0,,0,26.0,46.0,72,v,Rooks Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,166
+29601099,153,PT06M48.00S,2,1610612747,LAL,399,Rooks,S. Rooks,0,0,0,,0,26.0,47.0,73,v,Rooks Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,167
+29601099,154,PT06M34.00S,2,1610612747,LAL,760,Kersey,J. Kersey,0,0,0,,0,0.0,0.0,0,v,Kersey Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,168
+29601099,155,PT06M34.00S,2,1610612744,GSW,197,Burrell,S. Burrell,0,0,0,,0,0.0,0.0,0,h,SUB: Price FOR Burrell,Substitution,,0,169
+29601099,156,PT06M27.00S,2,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0.0,0.0,0,v,Horry S.FOUL (P1.T3),Foul,Shooting,0,170
+29601099,157,PT06M27.00S,2,1610612744,GSW,692,DeClercq,A. DeClercq,0,0,0,,0,27.0,47.0,74,h,DeClercq Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,171
+29601099,158,PT06M27.00S,2,1610612744,GSW,692,DeClercq,A. DeClercq,0,0,0,,0,0.0,0.0,0,h,MISS DeClercq Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,172
+29601099,159,PT06M26.00S,2,1610612747,LAL,760,Kersey,J. Kersey,0,0,0,,0,0.0,0.0,0,v,Kersey REBOUND (Off:0 Def:1),Rebound,Unknown,0,173
+29601099,160,PT06M19.00S,2,1610612747,LAL,977,Bryant,K. Bryant,8,132,13,Made,1,27.0,49.0,76,v,Bryant 13' Running Jump Shot (4 PTS),Made Shot,Running Jump Shot,0,174
+29601099,161,PT06M03.00S,2,1610612744,GSW,904,Mullin,C. Mullin,-47,153,16,Missed,1,0.0,0.0,0,h,MISS Mullin 16' Jump Shot,Missed Shot,Jump Shot,0,175
+29601099,162,PT06M02.00S,2,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,Bryant REBOUND (Off:0 Def:1),Rebound,Unknown,0,176
+29601099,163,PT05M53.00S,2,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0.0,0.0,0,v,Horry OFF.Foul (P2),Foul,Offensive,0,177
+29601099,164,PT05M53.00S,2,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0.0,0.0,0,v,Horry Foul Turnover (P1.T7),Turnover,Foul,0,178
+29601099,165,PT05M44.00S,2,1610612744,GSW,904,Mullin,C. Mullin,0,0,0,,0,0.0,0.0,0,h,Mullin Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,179
+29601099,165,PT05M44.00S,2,1610612747,LAL,2,Scott,B. Scott,0,0,0,,0,0.0,0.0,0,v,Scott STEAL (2 STL),,,0,180
+29601099,166,PT05M27.00S,2,1610612747,LAL,2,Scott,B. Scott,-42,56,7,Missed,1,0.0,0.0,0,v,MISS Scott 7' Running Jump Shot,Missed Shot,Running Jump Shot,0,181
+29601099,167,PT05M26.00S,2,1610612744,GSW,693,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:4 Def:2),Rebound,Unknown,0,182
+29601099,168,PT05M15.00S,2,1610612747,LAL,2,Scott,B. Scott,0,0,0,,0,0.0,0.0,0,v,Scott P.FOUL (P2.T4),Foul,Personal,0,183
+29601099,169,PT05M12.00S,2,1610612744,GSW,693,Smith,J. Smith,0,0,0,Missed,1,0.0,0.0,0,h,MISS Smith  Slam Dunk,Missed Shot,Slam Dunk Shot,0,184
+29601099,170,PT05M11.00S,2,1610612744,GSW,904,Mullin,C. Mullin,0,0,0,,0,0.0,0.0,0,h,Mullin REBOUND (Off:1 Def:1),Rebound,Unknown,0,185
+29601099,171,PT05M05.00S,2,1610612744,GSW,692,DeClercq,A. DeClercq,0,0,0,Missed,1,0.0,0.0,0,h,MISS DeClercq  Layup,Missed Shot,Layup Shot,0,186
+29601099,172,PT05M04.00S,2,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0.0,0.0,0,v,Horry REBOUND (Off:0 Def:3),Rebound,Unknown,0,187
+29601099,173,PT04M55.00S,2,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,Bryant Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,188
+29601099,173,PT04M55.00S,2,1610612744,GSW,692,DeClercq,A. DeClercq,0,0,0,,0,0.0,0.0,0,h,DeClercq STEAL (1 STL),,,0,189
+29601099,174,PT04M49.00S,2,1610612744,GSW,904,Mullin,C. Mullin,0,0,0,Made,1,29.0,49.0,78,h,Mullin  Driving Layup (7 PTS) (Sprewell 2 AST),Made Shot,Driving Layup Shot,0,190
+29601099,175,PT04M31.00S,2,1610612747,LAL,399,Rooks,S. Rooks,-122,4,12,Missed,1,0.0,0.0,0,v,MISS Rooks 12' Jump Shot,Missed Shot,Jump Shot,0,191
+29601099,176,PT04M30.00S,2,1610612744,GSW,904,Mullin,C. Mullin,0,0,0,,0,0.0,0.0,0,h,Mullin REBOUND (Off:1 Def:2),Rebound,Unknown,0,192
+29601099,177,PT04M22.00S,2,1610612744,GSW,84,Sprewell,L. Sprewell,66,19,7,Missed,1,0.0,0.0,0,h,MISS Sprewell 7' Hook Shot,Missed Shot,Hook Shot,0,193
+29601099,178,PT04M21.00S,2,1610612747,LAL,760,Kersey,J. Kersey,0,0,0,,0,0.0,0.0,0,v,Kersey REBOUND (Off:0 Def:2),Rebound,Unknown,0,194
+29601099,179,PT04M14.00S,2,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,195
+29601099,180,PT04M06.00S,2,1610612744,GSW,899,Price,M. Price,0,0,0,,0,0.0,0.0,0,h,Jump Ball Price vs. Bryant: Tip to Kersey,Jump Ball,,0,196
+29601099,181,PT03M58.00S,2,1610612747,LAL,760,Kersey,J. Kersey,179,-12,18,Missed,1,0.0,0.0,0,v,MISS Kersey 18' Jump Shot,Missed Shot,Jump Shot,0,197
+29601099,183,PT03M57.00S,2,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,Bryant REBOUND (Off:1 Def:1),Rebound,Unknown,0,198
+29601099,182,PT03M56.00S,2,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,Made,1,29.0,51.0,80,v,Bryant  Layup (6 PTS),Made Shot,Layup Shot,0,199
+29601099,184,PT03M41.00S,2,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,Bryant S.FOUL (P1.PN),Foul,Shooting,0,200
+29601099,185,PT03M41.00S,2,1610612744,GSW,84,Sprewell,L. Sprewell,0,0,0,,0,0.0,0.0,0,h,MISS Sprewell Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,201
+29601099,186,PT03M41.00S,2,0,,1610612744,,,0,0,0,,0,0.0,0.0,0,h,WARRIORS Rebound,Rebound,Unknown,0,202
+29601099,187,PT03M41.00S,2,1610612744,GSW,84,Sprewell,L. Sprewell,0,0,0,,0,30.0,51.0,81,h,Sprewell Free Throw 2 of 3 (7 PTS),Free Throw,Free Throw 2 of 3,0,203
+29601099,189,PT03M41.00S,2,1610612747,LAL,760,Kersey,J. Kersey,0,0,0,,0,0.0,0.0,0,v,SUB: McCloud FOR Kersey,Substitution,,0,204
+29601099,190,PT03M41.00S,2,1610612744,GSW,84,Sprewell,L. Sprewell,0,0,0,,0,31.0,51.0,82,h,Sprewell Free Throw 3 of 3 (8 PTS),Free Throw,Free Throw 3 of 3,0,205
+29601099,191,PT03M30.00S,2,1610612744,GSW,899,Price,M. Price,0,0,0,,0,0.0,0.0,0,h,Price P.FOUL (P1.T4),Foul,Personal,0,206
+29601099,192,PT03M19.00S,2,1610612747,LAL,399,Rooks,S. Rooks,-107,10,11,Made,1,31.0,53.0,84,v,Rooks 11' Hook Shot (8 PTS),Made Shot,Hook Shot,0,207
+29601099,193,PT03M03.00S,2,1610612744,GSW,693,Smith,J. Smith,-92,-1,9,Missed,1,0.0,0.0,0,h,MISS Smith 9' Hook Shot,Missed Shot,Hook Shot,0,208
+29601099,194,PT03M02.00S,2,1610612747,LAL,399,Rooks,S. Rooks,0,0,0,,0,0.0,0.0,0,v,Rooks REBOUND (Off:0 Def:3),Rebound,Unknown,0,209
+29601099,195,PT02M41.00S,2,1610612747,LAL,977,Bryant,K. Bryant,99,10,10,Made,1,31.0,55.0,86,v,Bryant 10' Running Jump Shot (8 PTS) (Rooks 1 AST),Made Shot,Running Jump Shot,0,210
+29601099,196,PT02M25.00S,2,1610612744,GSW,84,Sprewell,L. Sprewell,-18,231,0,Missed,1,0.0,0.0,0,h,MISS Sprewell  3PT Jump Shot,Missed Shot,Jump Shot,0,211
+29601099,197,PT02M24.00S,2,1610612747,LAL,45,McCloud,G. McCloud,0,0,0,,0,0.0,0.0,0,v,McCloud REBOUND (Off:0 Def:1),Rebound,Unknown,0,212
+29601099,198,PT02M18.00S,2,1610612747,LAL,45,McCloud,G. McCloud,-138,153,21,Missed,1,0.0,0.0,0,v,MISS McCloud 21' Jump Shot,Missed Shot,Jump Shot,0,213
+29601099,199,PT02M17.00S,2,1610612744,GSW,693,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:4 Def:3),Rebound,Unknown,0,214
+29601099,200,PT02M09.00S,2,1610612744,GSW,84,Sprewell,L. Sprewell,0,0,0,,0,0.0,0.0,0,h,Sprewell Bad Pass Turnover (P4.T10),Turnover,Bad Pass,0,215
+29601099,200,PT02M09.00S,2,1610612747,LAL,2,Scott,B. Scott,0,0,0,,0,0.0,0.0,0,v,Scott STEAL (3 STL),,,0,216
+29601099,201,PT01M57.00S,2,1610612747,LAL,2,Scott,B. Scott,207,112,24,Made,1,31.0,58.0,89,v,Scott 24' 3PT Jump Shot (9 PTS) (Bryant 1 AST),Made Shot,Jump Shot,0,217
+29601099,202,PT01M46.00S,2,1610612744,GSW,84,Sprewell,L. Sprewell,0,0,0,Missed,1,0.0,0.0,0,h,MISS Sprewell  Layup,Missed Shot,Layup Shot,0,218
+29601099,202,PT01M46.00S,2,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0.0,0.0,0,v,Horry BLOCK (1 BLK),,,0,219
+29601099,203,PT01M45.00S,2,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0.0,0.0,0,v,Horry REBOUND (Off:0 Def:4),Rebound,Unknown,0,220
+29601099,204,PT01M37.00S,2,1610612747,LAL,2,Scott,B. Scott,-231,-29,0,Missed,1,0.0,0.0,0,v,MISS Scott  3PT Jump Shot,Missed Shot,Jump Shot,0,221
+29601099,205,PT01M36.00S,2,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0.0,0.0,0,v,Horry REBOUND (Off:1 Def:4),Rebound,Unknown,0,222
+29601099,206,PT01M25.00S,2,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Timeout: Short (Reg.2 Short 1),Timeout,Short,0,223
+29601099,207,PT01M16.00S,2,1610612744,GSW,692,DeClercq,A. DeClercq,0,0,0,,0,0.0,0.0,0,h,DeClercq S.FOUL (P3.PN),Foul,Shooting,0,224
+29601099,208,PT01M16.00S,2,1610612744,GSW,692,DeClercq,A. DeClercq,0,0,0,,0,0.0,0.0,0,h,SUB: Spencer FOR DeClercq,Substitution,,0,225
+29601099,209,PT01M16.00S,2,1610612747,LAL,399,Rooks,S. Rooks,0,0,0,,0,31.0,59.0,90,v,Rooks Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,226
+29601099,210,PT01M16.00S,2,1610612747,LAL,399,Rooks,S. Rooks,0,0,0,,0,31.0,60.0,91,v,Rooks Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,227
+29601099,211,PT01M05.00S,2,1610612744,GSW,693,Smith,J. Smith,0,0,0,Made,1,33.0,60.0,93,h,Smith  Slam Dunk (8 PTS) (Mullin 1 AST),Made Shot,Slam Dunk Shot,0,228
+29601099,212,PT00M53.90S,2,1610612747,LAL,45,McCloud,G. McCloud,-16,227,0,Made,1,33.0,63.0,96,v,McCloud  3PT Jump Shot (3 PTS) (Bryant 2 AST),Made Shot,Jump Shot,0,229
+29601099,213,PT00M30.90S,2,1610612744,GSW,693,Smith,J. Smith,-138,-7,14,Missed,1,0.0,0.0,0,h,MISS Smith 14' Jump Shot,Missed Shot,Jump Shot,0,230
+29601099,214,PT00M29.90S,2,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0.0,0.0,0,v,Horry REBOUND (Off:1 Def:5),Rebound,Unknown,0,231
+29601099,215,PT00M22.50S,2,1610612747,LAL,977,Bryant,K. Bryant,45,52,7,Made,1,33.0,65.0,98,v,Bryant 7' Jump Shot (10 PTS) (Scott 1 AST),Made Shot,Jump Shot,0,232
+29601099,216,PT00M04.90S,2,1610612744,GSW,899,Price,M. Price,114,205,0,Missed,1,0.0,0.0,0,h,MISS Price  3PT Jump Shot,Missed Shot,Jump Shot,0,233
+29601099,217,PT00M03.50S,2,1610612744,GSW,904,Mullin,C. Mullin,0,0,0,,0,0.0,0.0,0,h,Mullin REBOUND (Off:2 Def:2),Rebound,Unknown,0,234
+29601099,218,PT00M00.80S,2,1610612744,GSW,904,Mullin,C. Mullin,0,0,0,Made,1,35.0,65.0,100,h,Mullin  Driving Layup (9 PTS),Made Shot,Driving Layup Shot,0,235
+29601099,219,PT00M00.00S,2,0,,0,,,0,0,0,,0,35.0,65.0,100,,End of 2nd Period (12:35 PM EST),period,end,0,236
+29601099,220,PT12M00.00S,3,0,,0,,,0,0,0,,0,35.0,65.0,100,,Start of 3rd Period (12:51 PM EST),period,start,0,237
+29601099,221,PT11M47.00S,3,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0.0,0.0,0,v,Horry Violation:Double Lane,Violation,Double Lane,0,238
+29601099,222,PT11M36.00S,3,1610612747,LAL,224,Jones,E. Jones,0,0,0,,0,0.0,0.0,0,v,Jones P.FOUL (P1.T1),Foul,Personal,0,239
+29601099,223,PT11M27.00S,3,1610612744,GSW,923,Marshall,D. Marshall,-118,-3,12,Missed,1,0.0,0.0,0,h,MISS Marshall 12' Jump Shot,Missed Shot,Jump Shot,0,240
+29601099,224,PT11M26.00S,3,1610612747,LAL,965,Fisher,D. Fisher,0,0,0,,0,0.0,0.0,0,v,Fisher REBOUND (Off:1 Def:1),Rebound,Unknown,0,241
+29601099,225,PT11M20.00S,3,1610612747,LAL,965,Fisher,D. Fisher,0,0,0,,0,0.0,0.0,0,v,Fisher OFF.Foul (P2),Foul,Offensive,0,242
+29601099,226,PT11M20.00S,3,1610612747,LAL,965,Fisher,D. Fisher,0,0,0,,0,0.0,0.0,0,v,Fisher Foul Turnover (P2.T9),Turnover,Foul,0,243
+29601099,227,PT10M57.00S,3,1610612744,GSW,693,Smith,J. Smith,151,-12,15,Made,1,37.0,65.0,102,h,Smith 15' Jump Shot (10 PTS) (Price 3 AST),Made Shot,Jump Shot,0,244
+29601099,228,PT10M43.00S,3,1610612747,LAL,109,Horry,R. Horry,-198,123,0,Missed,1,0.0,0.0,0,v,MISS Horry  3PT Jump Shot,Missed Shot,Jump Shot,0,245
+29601099,229,PT10M42.00S,3,1610612744,GSW,693,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:4 Def:4),Rebound,Unknown,0,246
+29601099,230,PT10M36.00S,3,1610612744,GSW,899,Price,M. Price,110,134,17,Missed,1,0.0,0.0,0,h,MISS Price 17' Jump Shot,Missed Shot,Jump Shot,0,247
+29601099,230,PT10M36.00S,3,1610612747,LAL,965,Fisher,D. Fisher,0,0,0,,0,0.0,0.0,0,v,Fisher BLOCK (1 BLK),,,0,248
+29601099,231,PT10M35.00S,3,1610612744,GSW,280,Spencer,F. Spencer,0,0,0,,0,0.0,0.0,0,h,Spencer REBOUND (Off:4 Def:2),Rebound,Unknown,0,249
+29601099,232,PT10M32.00S,3,1610612744,GSW,280,Spencer,F. Spencer,42,39,6,Made,1,39.0,65.0,104,h,Spencer 6' Jump Shot (3 PTS),Made Shot,Jump Shot,0,250
+29601099,233,PT10M14.00S,3,1610612747,LAL,916,Blount,C. Blount,-181,84,20,Missed,1,0.0,0.0,0,v,MISS Blount 20' Jump Shot,Missed Shot,Jump Shot,0,251
+29601099,234,PT10M12.00S,3,1610612747,LAL,224,Jones,E. Jones,0,0,0,,0,0.0,0.0,0,v,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,252
+29601099,235,PT09M59.00S,3,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0.0,0.0,0,v,Horry Lost Ball Turnover (P2.T10),Turnover,Lost Ball,0,253
+29601099,235,PT09M59.00S,3,1610612744,GSW,693,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith STEAL (1 STL),,,0,254
+29601099,236,PT09M59.00S,3,0,,1610612744,,,0,0,0,,0,0.0,0.0,0,h,WARRIORS Timeout: Short (Full 2 Short 2),Timeout,Short,0,255
+29601099,237,PT09M49.00S,3,1610612744,GSW,923,Marshall,D. Marshall,0,0,0,Made,1,41.0,65.0,106,h,Marshall  Slam Dunk (6 PTS) (Price 4 AST),Made Shot,Slam Dunk Shot,0,256
+29601099,238,PT09M37.00S,3,1610612747,LAL,916,Blount,C. Blount,0,0,0,,0,0.0,0.0,0,v,Blount Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,257
+29601099,238,PT09M37.00S,3,1610612744,GSW,923,Marshall,D. Marshall,0,0,0,,0,0.0,0.0,0,h,Marshall STEAL (2 STL),,,0,258
+29601099,239,PT09M31.00S,3,1610612744,GSW,899,Price,M. Price,0,0,0,,0,0.0,0.0,0,h,Price Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,259
+29601099,239,PT09M31.00S,3,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0.0,0.0,0,v,Horry STEAL (2 STL),,,0,260
+29601099,240,PT09M15.00S,3,1610612747,LAL,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,v,Campbell Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,261
+29601099,240,PT09M15.00S,3,1610612744,GSW,693,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith STEAL (2 STL),,,0,262
+29601099,241,PT09M07.00S,3,1610612744,GSW,84,Sprewell,L. Sprewell,0,0,0,,0,0.0,0.0,0,h,Sprewell Bad Pass Turnover (P5.T12),Turnover,Bad Pass,0,263
+29601099,241,PT09M07.00S,3,1610612747,LAL,916,Blount,C. Blount,0,0,0,,0,0.0,0.0,0,v,Blount STEAL (1 STL),,,0,264
+29601099,242,PT08M49.00S,3,1610612744,GSW,280,Spencer,F. Spencer,0,0,0,,0,0.0,0.0,0,h,Spencer S.FOUL (P2.T1),Foul,Shooting,0,265
+29601099,243,PT08M49.00S,3,1610612747,LAL,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,v,MISS Campbell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,266
+29601099,244,PT08M49.00S,3,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Rebound,Rebound,Unknown,0,267
+29601099,245,PT08M49.00S,3,1610612747,LAL,922,Campbell,E. Campbell,0,0,0,,0,41.0,66.0,107,v,Campbell Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,268
+29601099,246,PT08M35.00S,3,1610612744,GSW,280,Spencer,F. Spencer,-60,45,8,Made,1,43.0,66.0,109,h,Spencer 8' Jump Shot (5 PTS) (Price 5 AST),Made Shot,Jump Shot,0,269
+29601099,247,PT08M25.00S,3,1610612747,LAL,922,Campbell,E. Campbell,-164,-1,16,Missed,1,0.0,0.0,0,v,MISS Campbell 16' Jump Shot,Missed Shot,Jump Shot,0,270
+29601099,249,PT08M24.00S,3,1610612747,LAL,916,Blount,C. Blount,0,0,0,,0,0.0,0.0,0,v,Blount REBOUND (Off:2 Def:2),Rebound,Unknown,0,271
+29601099,248,PT08M23.00S,3,1610612747,LAL,916,Blount,C. Blount,0,0,0,Made,1,43.0,68.0,111,v,Blount  Tip Shot (6 PTS),Made Shot,Tip Shot,0,272
+29601099,250,PT08M04.00S,3,1610612744,GSW,693,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith OFF.Foul (P1),Foul,Offensive,0,273
+29601099,251,PT08M04.00S,3,1610612744,GSW,693,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith Foul Turnover (P1.T13),Turnover,Foul,0,274
+29601099,252,PT07M42.00S,3,1610612747,LAL,965,Fisher,D. Fisher,214,62,0,Missed,1,0.0,0.0,0,v,MISS Fisher  3PT Jump Shot,Missed Shot,Jump Shot,0,275
+29601099,253,PT07M41.00S,3,1610612744,GSW,899,Price,M. Price,0,0,0,,0,0.0,0.0,0,h,Price REBOUND (Off:0 Def:1),Rebound,Unknown,0,276
+29601099,254,PT07M34.00S,3,1610612747,LAL,965,Fisher,D. Fisher,0,0,0,,0,0.0,0.0,0,v,Fisher P.FOUL (P3.T2),Foul,Personal,0,277
+29601099,255,PT07M27.00S,3,1610612744,GSW,923,Marshall,D. Marshall,-36,145,15,Made,1,45.0,68.0,113,h,Marshall 15' Jump Shot (8 PTS) (Sprewell 3 AST),Made Shot,Jump Shot,0,278
+29601099,256,PT07M11.00S,3,1610612747,LAL,922,Campbell,E. Campbell,-64,21,7,Missed,1,0.0,0.0,0,v,MISS Campbell 7' Hook Shot,Missed Shot,Hook Shot,0,279
+29601099,257,PT07M10.00S,3,1610612744,GSW,923,Marshall,D. Marshall,0,0,0,,0,0.0,0.0,0,h,Marshall REBOUND (Off:2 Def:2),Rebound,Unknown,0,280
+29601099,258,PT06M59.00S,3,1610612744,GSW,84,Sprewell,L. Sprewell,-55,88,10,Made,1,47.0,68.0,115,h,Sprewell 10' Running Jump Shot (10 PTS) (Price 6 AST),Made Shot,Running Jump Shot,0,281
+29601099,259,PT06M57.00S,3,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,282
+29601099,260,PT06M57.00S,3,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0.0,0.0,0,v,SUB: Kersey FOR Horry,Substitution,,0,283
+29601099,261,PT06M57.00S,3,1610612747,LAL,916,Blount,C. Blount,0,0,0,,0,0.0,0.0,0,v,SUB: Knight FOR Blount,Substitution,,0,284
+29601099,262,PT06M47.00S,3,1610612747,LAL,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,v,SUB: Rooks FOR Campbell,Substitution,,0,285
+29601099,263,PT06M43.00S,3,1610612747,LAL,224,Jones,E. Jones,136,188,0,Missed,1,0.0,0.0,0,v,MISS Jones  3PT Jump Shot,Missed Shot,Jump Shot,0,286
+29601099,264,PT06M43.00S,3,1610612744,GSW,693,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:4 Def:5),Rebound,Unknown,0,287
+29601099,265,PT06M41.00S,3,1610612747,LAL,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,v,Knight L.B.FOUL (P2.T3),Foul,Loose Ball,0,288
+29601099,266,PT06M26.00S,3,1610612744,GSW,899,Price,M. Price,118,205,24,Made,1,50.0,68.0,118,h,Price 24' 3PT Jump Shot (5 PTS) (Smith 1 AST),Made Shot,Jump Shot,0,289
+29601099,267,PT06M13.00S,3,1610612747,LAL,399,Rooks,S. Rooks,3,67,7,Made,1,50.0,70.0,120,v,Rooks 7' Hook Shot (12 PTS),Made Shot,Hook Shot,0,290
+29601099,268,PT05M57.00S,3,1610612744,GSW,280,Spencer,F. Spencer,-14,123,12,Made,1,52.0,70.0,122,h,Spencer 12' Jump Shot (7 PTS) (Price 7 AST),Made Shot,Jump Shot,0,291
+29601099,269,PT05M33.00S,3,1610612747,LAL,224,Jones,E. Jones,233,2,0,Missed,1,0.0,0.0,0,v,MISS Jones  3PT Jump Shot,Missed Shot,Jump Shot,0,292
+29601099,270,PT05M33.00S,3,0,,1610612744,,,0,0,0,,0,0.0,0.0,0,h,WARRIORS Rebound,Rebound,Unknown,0,293
+29601099,271,PT05M33.00S,3,1610612747,LAL,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,v,Knight L.B.FOUL (P3.T4),Foul,Loose Ball,0,294
+29601099,272,PT05M20.00S,3,1610612747,LAL,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,v,Knight P.FOUL (P4.PN),Foul,Personal,0,295
+29601099,273,PT05M20.00S,3,1610612744,GSW,693,Smith,J. Smith,0,0,0,,0,53.0,70.0,123,h,Smith Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,296
+29601099,274,PT05M20.00S,3,1610612744,GSW,693,Smith,J. Smith,0,0,0,,0,54.0,70.0,124,h,Smith Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,297
+29601099,275,PT05M04.00S,3,1610612747,LAL,399,Rooks,S. Rooks,16,56,6,Made,1,54.0,72.0,126,v,Rooks 6' Hook Shot (14 PTS) (Fisher 3 AST),Made Shot,Hook Shot,0,298
+29601099,276,PT04M41.00S,3,1610612744,GSW,899,Price,M. Price,105,207,0,Missed,1,0.0,0.0,0,h,MISS Price  3PT Jump Shot,Missed Shot,Jump Shot,0,299
+29601099,277,PT04M37.00S,3,1610612744,GSW,923,Marshall,D. Marshall,0,0,0,,0,0.0,0.0,0,h,Marshall REBOUND (Off:3 Def:2),Rebound,Unknown,0,300
+29601099,278,PT04M36.00S,3,1610612744,GSW,899,Price,M. Price,0,0,0,,0,0.0,0.0,0,h,Price Lost Ball Turnover (P3.T14),Turnover,Lost Ball,0,301
+29601099,279,PT04M14.00S,3,1610612747,LAL,399,Rooks,S. Rooks,-159,-5,16,Missed,1,0.0,0.0,0,v,MISS Rooks 16' Jump Shot,Missed Shot,Jump Shot,0,302
+29601099,279,PT04M14.00S,3,1610612744,GSW,693,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith BLOCK (1 BLK),,,0,303
+29601099,280,PT04M13.00S,3,1610612747,LAL,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,v,Knight REBOUND (Off:1 Def:4),Rebound,Unknown,0,304
+29601099,281,PT04M12.00S,3,1610612747,LAL,969,Knight,T. Knight,0,0,0,Missed,1,0.0,0.0,0,v,MISS Knight  Layup,Missed Shot,Layup Shot,0,305
+29601099,282,PT04M11.00S,3,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Rebound,Rebound,Unknown,0,306
+29601099,283,PT04M11.00S,3,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,0,307
+29601099,284,PT03M54.00S,3,1610612744,GSW,693,Smith,J. Smith,-101,2,10,Made,1,56.0,72.0,128,h,Smith 10' Jump Shot (14 PTS) (Sprewell 4 AST),Made Shot,Jump Shot,0,308
+29601099,285,PT03M35.00S,3,1610612747,LAL,399,Rooks,S. Rooks,0,0,0,Made,1,56.0,74.0,130,v,Rooks  Driving Layup (16 PTS) (Jones 3 AST),Made Shot,Driving Layup Shot,0,309
+29601099,286,PT03M20.00S,3,0,,1610612744,,,0,0,0,,0,0.0,0.0,0,h,WARRIORS Timeout: Regular (Full 3 Short 2),Timeout,Regular,0,310
+29601099,287,PT03M20.00S,3,1610612747,LAL,965,Fisher,D. Fisher,0,0,0,,0,0.0,0.0,0,v,SUB: Bryant FOR Fisher,Substitution,,0,311
+29601099,288,PT03M06.00S,3,1610612744,GSW,84,Sprewell,L. Sprewell,0,0,0,,0,0.0,0.0,0,h,Sprewell Bad Pass Turnover (P6.T15),Turnover,Bad Pass,0,312
+29601099,288,PT03M06.00S,3,1610612747,LAL,399,Rooks,S. Rooks,0,0,0,,0,0.0,0.0,0,v,Rooks STEAL (1 STL),,,0,313
+29601099,289,PT03M03.00S,3,1610612747,LAL,969,Knight,T. Knight,0,0,0,Missed,1,0.0,0.0,0,v,MISS Knight  Layup,Missed Shot,Layup Shot,0,314
+29601099,289,PT03M03.00S,3,1610612744,GSW,693,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith BLOCK (2 BLK),,,0,315
+29601099,290,PT03M02.00S,3,1610612747,LAL,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,v,Knight REBOUND (Off:2 Def:4),Rebound,Unknown,0,316
+29601099,291,PT03M01.00S,3,1610612744,GSW,693,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Jump Ball Smith vs. Knight: Tip to Kersey,Jump Ball,,0,317
+29601099,292,PT02M43.00S,3,1610612747,LAL,224,Jones,E. Jones,0,0,0,,0,0.0,0.0,0,v,Jones Bad Pass Turnover (P2.T14),Turnover,Bad Pass,0,318
+29601099,293,PT02M28.00S,3,1610612744,GSW,923,Marshall,D. Marshall,-21,45,5,Missed,1,0.0,0.0,0,h,MISS Marshall 5' Jump Shot,Missed Shot,Jump Shot,0,319
+29601099,294,PT02M27.00S,3,1610612747,LAL,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,v,Knight REBOUND (Off:2 Def:5),Rebound,Unknown,0,320
+29601099,295,PT02M05.00S,3,1610612747,LAL,977,Bryant,K. Bryant,-42,229,0,Made,1,56.0,77.0,133,v,Bryant  3PT Jump Shot (13 PTS),Made Shot,Jump Shot,0,321
+29601099,296,PT01M47.00S,3,1610612744,GSW,899,Price,M. Price,0,0,0,,0,0.0,0.0,0,h,Price Bad Pass Turnover (P4.T16),Turnover,Bad Pass,0,322
+29601099,296,PT01M47.00S,3,1610612747,LAL,224,Jones,E. Jones,0,0,0,,0,0.0,0.0,0,v,Jones STEAL (3 STL),,,0,323
+29601099,297,PT01M43.00S,3,1610612747,LAL,224,Jones,E. Jones,0,0,0,Made,1,56.0,79.0,135,v,Jones  Driving Layup (13 PTS),Made Shot,Driving Layup Shot,0,324
+29601099,298,PT01M29.00S,3,1610612744,GSW,899,Price,M. Price,0,0,0,,0,0.0,0.0,0,h,Price Lost Ball Turnover (P5.T17),Turnover,Lost Ball,0,325
+29601099,298,PT01M29.00S,3,1610612747,LAL,224,Jones,E. Jones,0,0,0,,0,0.0,0.0,0,v,Jones STEAL (4 STL),,,0,326
+29601099,299,PT01M24.00S,3,1610612744,GSW,280,Spencer,F. Spencer,0,0,0,,0,0.0,0.0,0,h,Spencer S.FOUL (P3.T2),Foul,Shooting,0,327
+29601099,300,PT01M24.00S,3,1610612744,GSW,899,Price,M. Price,0,0,0,,0,0.0,0.0,0,h,SUB: Booker FOR Price,Substitution,,0,328
+29601099,301,PT01M24.00S,3,1610612744,GSW,280,Spencer,F. Spencer,0,0,0,,0,0.0,0.0,0,h,SUB: Mullin FOR Spencer,Substitution,,0,329
+29601099,302,PT01M24.00S,3,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,56.0,80.0,136,v,Bryant Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,330
+29601099,303,PT01M24.00S,3,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,56.0,81.0,137,v,Bryant Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,331
+29601099,304,PT01M12.00S,3,1610612747,LAL,760,Kersey,J. Kersey,0,0,0,,0,0.0,0.0,0,v,Kersey P.FOUL (P1.PN),Foul,Personal,0,332
+29601099,305,PT01M12.00S,3,1610612747,LAL,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,v,SUB: Blount FOR Knight,Substitution,,0,333
+29601099,306,PT01M12.00S,3,1610612744,GSW,923,Marshall,D. Marshall,0,0,0,,0,57.0,81.0,138,h,Marshall Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,334
+29601099,307,PT01M12.00S,3,1610612744,GSW,923,Marshall,D. Marshall,0,0,0,,0,0.0,0.0,0,h,MISS Marshall Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,335
+29601099,308,PT01M11.00S,3,1610612747,LAL,760,Kersey,J. Kersey,0,0,0,,0,0.0,0.0,0,v,Kersey REBOUND (Off:0 Def:3),Rebound,Unknown,0,336
+29601099,309,PT00M55.90S,3,1610612747,LAL,224,Jones,E. Jones,185,145,24,Missed,1,0.0,0.0,0,v,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,337
+29601099,310,PT00M54.90S,3,1610612744,GSW,923,Marshall,D. Marshall,0,0,0,,0,0.0,0.0,0,h,Marshall REBOUND (Off:3 Def:3),Rebound,Unknown,0,338
+29601099,311,PT00M48.20S,3,1610612747,LAL,760,Kersey,J. Kersey,0,0,0,,0,0.0,0.0,0,v,Kersey Violation:Double Lane,Violation,Double Lane,0,339
+29601099,312,PT00M37.60S,3,1610612747,LAL,760,Kersey,J. Kersey,0,0,0,,0,0.0,0.0,0,v,Kersey Violation:Double Lane,Violation,Double Lane,0,340
+29601099,313,PT00M29.00S,3,1610612747,LAL,916,Blount,C. Blount,0,0,0,,0,0.0,0.0,0,v,Blount P.FOUL (P1.PN),Foul,Personal,0,341
+29601099,314,PT00M29.00S,3,1610612744,GSW,693,Smith,J. Smith,0,0,0,,0,58.0,81.0,139,h,Smith Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,342
+29601099,315,PT00M29.00S,3,1610612744,GSW,693,Smith,J. Smith,0,0,0,,0,59.0,81.0,140,h,Smith Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,343
+29601099,316,PT00M08.30S,3,1610612747,LAL,977,Bryant,K. Bryant,-133,129,19,Made,1,59.0,83.0,142,v,Bryant 19' Jump Shot (17 PTS),Made Shot,Jump Shot,0,344
+29601099,317,PT00M00.20S,3,1610612744,GSW,923,Marshall,D. Marshall,103,207,0,Missed,1,0.0,0.0,0,h,MISS Marshall  3PT Jump Shot,Missed Shot,Jump Shot,0,345
+29601099,318,PT00M00.10S,3,1610612747,LAL,399,Rooks,S. Rooks,0,0,0,,0,0.0,0.0,0,v,Rooks REBOUND (Off:0 Def:4),Rebound,Unknown,0,346
+29601099,319,PT00M00.00S,3,0,,0,,,0,0,0,,0,59.0,83.0,142,,End of 3rd Period (13:16 PM EST),period,end,0,347
+29601099,320,PT12M00.00S,4,0,,0,,,0,0,0,,0,59.0,83.0,142,,Start of 4th Period (13:18 PM EST),period,start,0,348
+29601099,321,PT11M40.00S,4,1610612747,LAL,977,Bryant,K. Bryant,36,21,4,Missed,1,0.0,0.0,0,v,MISS Bryant 4' Jump Shot,Missed Shot,Jump Shot,0,349
+29601099,322,PT11M39.00S,4,1610612747,LAL,399,Rooks,S. Rooks,0,0,0,,0,0.0,0.0,0,v,Rooks REBOUND (Off:1 Def:4),Rebound,Unknown,0,350
+29601099,323,PT11M37.00S,4,1610612744,GSW,693,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Jump Ball Smith vs. Rooks: Tip to Marshall,Jump Ball,,0,351
+29601099,324,PT11M37.00S,4,1610612747,LAL,399,Rooks,S. Rooks,0,0,0,,0,0.0,0.0,0,v,Rooks Lost Ball Turnover (P2.T15),Turnover,Lost Ball,0,352
+29601099,324,PT11M37.00S,4,1610612744,GSW,693,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith STEAL (3 STL),,,0,353
+29601099,325,PT11M15.00S,4,1610612744,GSW,904,Mullin,C. Mullin,177,-3,18,Made,1,61.0,83.0,144,h,Mullin 18' Jump Shot (11 PTS) (Marshall 1 AST),Made Shot,Jump Shot,0,354
+29601099,326,PT10M58.00S,4,1610612744,GSW,923,Marshall,D. Marshall,0,0,0,,0,0.0,0.0,0,h,Marshall S.FOUL (P1.T1),Foul,Shooting,0,355
+29601099,327,PT10M58.00S,4,1610612747,LAL,399,Rooks,S. Rooks,0,0,0,,0,61.0,84.0,145,v,Rooks Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,356
+29601099,328,PT10M58.00S,4,1610612747,LAL,399,Rooks,S. Rooks,0,0,0,,0,61.0,85.0,146,v,Rooks Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,357
+29601099,329,PT10M41.00S,4,1610612744,GSW,693,Smith,J. Smith,-112,116,16,Made,1,63.0,85.0,148,h,Smith 16' Jump Shot (18 PTS) (Sprewell 5 AST),Made Shot,Jump Shot,0,358
+29601099,330,PT10M32.00S,4,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,Bryant OFF.Foul (P2),Foul,Offensive,0,359
+29601099,331,PT10M32.00S,4,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,Bryant Foul Turnover (P3.T16),Turnover,Foul,0,360
+29601099,332,PT10M22.00S,4,1610612744,GSW,904,Mullin,C. Mullin,0,0,0,,0,0.0,0.0,0,h,Mullin Bad Pass Turnover (P2.T18),Turnover,Bad Pass,0,361
+29601099,332,PT10M22.00S,4,1610612747,LAL,2,Scott,B. Scott,0,0,0,,0,0.0,0.0,0,v,Scott STEAL (4 STL),,,0,362
+29601099,333,PT10M18.00S,4,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,Made,1,63.0,87.0,150,v,Bryant  Driving Layup (19 PTS) (Jones 4 AST),Made Shot,Driving Layup Shot,0,363
+29601099,334,PT10M18.00S,4,1610612744,GSW,904,Mullin,C. Mullin,0,0,0,,0,0.0,0.0,0,h,Mullin S.FOUL (P1.T2),Foul,Shooting,0,364
+29601099,335,PT10M18.00S,4,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,MISS Bryant Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,365
+29601099,336,PT10M17.00S,4,1610612744,GSW,923,Marshall,D. Marshall,0,0,0,,0,0.0,0.0,0,h,Marshall REBOUND (Off:3 Def:4),Rebound,Unknown,0,366
+29601099,337,PT09M57.00S,4,1610612744,GSW,84,Sprewell,L. Sprewell,-8,155,16,Missed,1,0.0,0.0,0,h,MISS Sprewell 16' Jump Shot,Missed Shot,Jump Shot,0,367
+29601099,339,PT09M56.00S,4,1610612744,GSW,923,Marshall,D. Marshall,0,0,0,,0,0.0,0.0,0,h,Marshall REBOUND (Off:4 Def:4),Rebound,Unknown,0,368
+29601099,338,PT09M55.00S,4,1610612744,GSW,923,Marshall,D. Marshall,0,0,0,Missed,1,0.0,0.0,0,h,MISS Marshall  Layup,Missed Shot,Layup Shot,0,369
+29601099,340,PT09M54.00S,4,1610612744,GSW,693,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:5 Def:5),Rebound,Unknown,0,370
+29601099,341,PT09M31.00S,4,1610612744,GSW,775,,,-109,288,31,Missed,1,0.0,0.0,0,h,MISS Booker 31' 3PT Jump Shot,Missed Shot,Jump Shot,0,371
+29601099,342,PT09M30.00S,4,1610612747,LAL,2,Scott,B. Scott,0,0,0,,0,0.0,0.0,0,v,Scott REBOUND (Off:0 Def:1),Rebound,Unknown,0,372
+29601099,343,PT09M13.00S,4,1610612747,LAL,224,Jones,E. Jones,-140,0,14,Missed,1,0.0,0.0,0,v,MISS Jones 14' Jump Shot,Missed Shot,Jump Shot,0,373
+29601099,344,PT09M12.00S,4,1610612747,LAL,916,Blount,C. Blount,0,0,0,,0,0.0,0.0,0,v,Blount REBOUND (Off:3 Def:2),Rebound,Unknown,0,374
+29601099,347,PT09M11.00S,4,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,Bryant Offensive Goaltending Turnover (P4.T17),Turnover,Offensive Goaltending,0,375
+29601099,348,PT08M55.00S,4,1610612744,GSW,923,Marshall,D. Marshall,0,0,0,,0,0.0,0.0,0,h,Marshall Lost Ball Turnover (P1.T19),Turnover,Lost Ball,0,376
+29601099,348,PT08M55.00S,4,1610612747,LAL,2,Scott,B. Scott,0,0,0,,0,0.0,0.0,0,v,Scott STEAL (5 STL),,,0,377
+29601099,349,PT08M49.00S,4,1610612744,GSW,693,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith S.FOUL (P2.T3),Foul,Shooting,0,378
+29601099,351,PT08M49.00S,4,1610612744,GSW,923,Marshall,D. Marshall,0,0,0,,0,0.0,0.0,0,h,SUB: Owes FOR Marshall,Substitution,,0,379
+29601099,350,PT08M49.00S,4,1610612747,LAL,224,Jones,E. Jones,0,0,0,,0,63.0,88.0,151,v,Jones Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,380
+29601099,352,PT08M49.00S,4,1610612747,LAL,224,Jones,E. Jones,0,0,0,,0,63.0,89.0,152,v,Jones Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,381
+29601099,353,PT08M31.00S,4,1610612744,GSW,1077,Owes,R. Owes,-47,41,6,Missed,1,0.0,0.0,0,h,MISS Owes 6' Jump Shot,Missed Shot,Jump Shot,0,382
+29601099,354,PT08M30.00S,4,1610612744,GSW,693,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:6 Def:5),Rebound,Unknown,0,383
+29601099,355,PT08M30.00S,4,1610612747,LAL,224,Jones,E. Jones,0,0,0,,0,0.0,0.0,0,v,Jones S.FOUL (P2.T1),Foul,Shooting,0,384
+29601099,356,PT08M30.00S,4,1610612744,GSW,693,Smith,J. Smith,0,0,0,,0,64.0,89.0,153,h,Smith Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,385
+29601099,357,PT08M30.00S,4,1610612744,GSW,693,Smith,J. Smith,0,0,0,,0,65.0,89.0,154,h,Smith Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,386
+29601099,358,PT08M29.00S,4,1610612747,LAL,399,Rooks,S. Rooks,0,0,0,,0,0.0,0.0,0,v,Rooks Bad Pass Turnover (P3.T18),Turnover,Bad Pass,0,387
+29601099,358,PT08M29.00S,4,1610612744,GSW,1077,Owes,R. Owes,0,0,0,,0,0.0,0.0,0,h,Owes STEAL (1 STL),,,0,388
+29601099,359,PT08M21.00S,4,1610612744,GSW,1077,Owes,R. Owes,105,121,16,Missed,1,0.0,0.0,0,h,MISS Owes 16' Jump Shot,Missed Shot,Jump Shot,0,389
+29601099,360,PT08M20.00S,4,1610612747,LAL,916,Blount,C. Blount,0,0,0,,0,0.0,0.0,0,v,Blount REBOUND (Off:3 Def:3),Rebound,Unknown,0,390
+29601099,361,PT08M13.00S,4,1610612747,LAL,224,Jones,E. Jones,0,0,0,Made,1,65.0,91.0,156,v,Jones  Slam Dunk (17 PTS) (Bryant 3 AST),Made Shot,Slam Dunk Shot,0,391
+29601099,362,PT07M56.00S,4,1610612744,GSW,693,Smith,J. Smith,0,0,0,Missed,1,0.0,0.0,0,h,MISS Smith  Layup,Missed Shot,Layup Shot,0,392
+29601099,363,PT07M55.00S,4,1610612747,LAL,399,Rooks,S. Rooks,0,0,0,,0,0.0,0.0,0,v,Rooks REBOUND (Off:1 Def:5),Rebound,Unknown,0,393
+29601099,364,PT07M49.00S,4,1610612747,LAL,2,Scott,B. Scott,-196,-18,20,Missed,1,0.0,0.0,0,v,MISS Scott 20' Jump Shot,Missed Shot,Jump Shot,0,394
+29601099,365,PT07M48.00S,4,1610612744,GSW,775,,,0,0,0,,0,0.0,0.0,0,h,Booker REBOUND (Off:0 Def:1),Rebound,Unknown,0,395
+29601099,366,PT07M43.00S,4,1610612744,GSW,904,Mullin,C. Mullin,-185,-16,19,Missed,1,0.0,0.0,0,h,MISS Mullin 19' Jump Shot,Missed Shot,Jump Shot,0,396
+29601099,368,PT07M42.00S,4,1610612744,GSW,1077,Owes,R. Owes,0,0,0,,0,0.0,0.0,0,h,Owes REBOUND (Off:1 Def:0),Rebound,Unknown,0,397
+29601099,367,PT07M40.00S,4,1610612744,GSW,1077,Owes,R. Owes,0,0,0,Made,1,67.0,91.0,158,h,Owes  Slam Dunk (2 PTS),Made Shot,Slam Dunk Shot,0,398
+29601099,369,PT07M13.00S,4,1610612747,LAL,224,Jones,E. Jones,0,0,0,,0,0.0,0.0,0,v,Jones OFF.Foul (P3),Foul,Offensive,0,399
+29601099,370,PT07M13.00S,4,1610612747,LAL,224,Jones,E. Jones,0,0,0,,0,0.0,0.0,0,v,Jones Foul Turnover (P3.T19),Turnover,Foul,0,400
+29601099,371,PT07M13.00S,4,1610612747,LAL,916,Blount,C. Blount,0,0,0,,0,0.0,0.0,0,v,SUB: Kersey FOR Blount,Substitution,,0,401
+29601099,372,PT07M00.00S,4,1610612744,GSW,693,Smith,J. Smith,-153,97,18,Made,1,69.0,91.0,160,h,Smith 18' Jump Shot (22 PTS) (Booker 2 AST),Made Shot,Jump Shot,0,402
+29601099,373,PT06M50.00S,4,1610612747,LAL,399,Rooks,S. Rooks,0,0,0,Missed,1,0.0,0.0,0,v,MISS Rooks  Layup,Missed Shot,Layup Shot,0,403
+29601099,373,PT06M50.00S,4,1610612744,GSW,1077,Owes,R. Owes,0,0,0,,0,0.0,0.0,0,h,Owes BLOCK (1 BLK),,,0,404
+29601099,374,PT06M49.00S,4,1610612747,LAL,399,Rooks,S. Rooks,0,0,0,,0,0.0,0.0,0,v,Rooks REBOUND (Off:2 Def:5),Rebound,Unknown,0,405
+29601099,375,PT06M41.00S,4,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,Bryant Bad Pass Turnover (P5.T20),Turnover,Bad Pass,0,406
+29601099,375,PT06M41.00S,4,1610612744,GSW,1077,Owes,R. Owes,0,0,0,,0,0.0,0.0,0,h,Owes STEAL (2 STL),,,0,407
+29601099,376,PT06M35.00S,4,1610612744,GSW,693,Smith,J. Smith,0,0,0,Made,1,71.0,91.0,162,h,Smith  Slam Dunk (24 PTS) (Sprewell 6 AST),Made Shot,Slam Dunk Shot,0,408
+29601099,377,PT06M13.00S,4,1610612747,LAL,399,Rooks,S. Rooks,0,0,0,Made,1,71.0,93.0,164,v,Rooks  Driving Layup (20 PTS),Made Shot,Driving Layup Shot,0,409
+29601099,378,PT05M57.00S,4,1610612744,GSW,693,Smith,J. Smith,125,95,16,Made,1,73.0,93.0,166,h,Smith 16' Jump Shot (26 PTS) (Mullin 2 AST),Made Shot,Jump Shot,0,410
+29601099,379,PT05M44.00S,4,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,411
+29601099,380,PT05M44.00S,4,1610612747,LAL,399,Rooks,S. Rooks,0,0,0,,0,0.0,0.0,0,v,SUB: Campbell FOR Rooks,Substitution,,0,412
+29601099,381,PT05M44.00S,4,1610612744,GSW,693,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,SUB: Fuller FOR Smith,Substitution,,0,413
+29601099,382,PT05M44.00S,4,1610612744,GSW,84,Sprewell,L. Sprewell,0,0,0,,0,0.0,0.0,0,h,SUB: Burrell FOR Sprewell,Substitution,,0,414
+29601099,383,PT05M44.00S,4,1610612747,LAL,224,Jones,E. Jones,0,0,0,,0,0.0,0.0,0,v,SUB: Fisher FOR Jones,Substitution,,0,415
+29601099,384,PT05M34.00S,4,1610612744,GSW,197,Burrell,S. Burrell,0,0,0,,0,0.0,0.0,0,h,Burrell S.FOUL (P2.T4),Foul,Shooting,0,416
+29601099,385,PT05M34.00S,4,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,MISS Bryant Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,417
+29601099,386,PT05M34.00S,4,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Rebound,Rebound,Unknown,0,418
+29601099,387,PT05M34.00S,4,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,73.0,94.0,167,v,Bryant Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,419
+29601099,388,PT05M17.00S,4,1610612744,GSW,957,Fuller,T. Fuller,-62,99,12,Missed,1,0.0,0.0,0,h,MISS Fuller 12' Jump Shot,Missed Shot,Jump Shot,0,420
+29601099,389,PT05M15.00S,4,1610612747,LAL,965,Fisher,D. Fisher,0,0,0,,0,0.0,0.0,0,v,Fisher REBOUND (Off:1 Def:2),Rebound,Unknown,0,421
+29601099,390,PT05M10.00S,4,1610612747,LAL,2,Scott,B. Scott,142,136,20,Made,1,73.0,96.0,169,v,Scott 20' Jump Shot (11 PTS) (Fisher 4 AST),Made Shot,Jump Shot,0,422
+29601099,391,PT05M01.00S,4,1610612744,GSW,904,Mullin,C. Mullin,-155,114,19,Missed,1,0.0,0.0,0,h,MISS Mullin 19' Jump Shot,Missed Shot,Jump Shot,0,423
+29601099,392,PT05M00.00S,4,1610612744,GSW,197,Burrell,S. Burrell,0,0,0,,0,0.0,0.0,0,h,Burrell REBOUND (Off:1 Def:0),Rebound,Unknown,0,424
+29601099,393,PT04M55.00S,4,1610612744,GSW,775,,,-187,134,0,Made,1,76.0,96.0,172,h,Booker  3PT Jump Shot (3 PTS) (Burrell 2 AST),Made Shot,Jump Shot,0,425
+29601099,394,PT04M39.00S,4,1610612747,LAL,977,Bryant,K. Bryant,194,134,24,Made,1,76.0,99.0,175,v,Bryant 24' 3PT Jump Shot (23 PTS) (Fisher 5 AST),Made Shot,Jump Shot,0,426
+29601099,395,PT04M17.00S,4,1610612744,GSW,197,Burrell,S. Burrell,-192,142,24,Missed,1,0.0,0.0,0,h,MISS Burrell 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,427
+29601099,397,PT04M16.00S,4,1610612744,GSW,1077,Owes,R. Owes,0,0,0,,0,0.0,0.0,0,h,Owes REBOUND (Off:2 Def:0),Rebound,Unknown,0,428
+29601099,396,PT04M15.00S,4,1610612744,GSW,1077,Owes,R. Owes,0,0,0,Missed,1,0.0,0.0,0,h,MISS Owes  Tip Shot,Missed Shot,Tip Shot,0,429
+29601099,398,PT04M14.00S,4,1610612747,LAL,965,Fisher,D. Fisher,0,0,0,,0,0.0,0.0,0,v,Fisher REBOUND (Off:1 Def:3),Rebound,Unknown,0,430
+29601099,399,PT04M01.00S,4,1610612744,GSW,1077,Owes,R. Owes,0,0,0,,0,0.0,0.0,0,h,Owes S.FOUL (P1.PN),Foul,Shooting,0,431
+29601099,400,PT04M01.00S,4,1610612744,GSW,904,Mullin,C. Mullin,0,0,0,,0,0.0,0.0,0,h,SUB: DeClercq FOR Mullin,Substitution,,0,432
+29601099,401,PT04M01.00S,4,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,76.0,100.0,176,v,Bryant Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,0,433
+29601099,402,PT04M01.00S,4,1610612747,LAL,760,Kersey,J. Kersey,0,0,0,,0,0.0,0.0,0,v,SUB: McCloud FOR Kersey,Substitution,,0,434
+29601099,403,PT04M01.00S,4,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,MISS Bryant Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,435
+29601099,404,PT04M00.00S,4,1610612744,GSW,957,Fuller,T. Fuller,0,0,0,,0,0.0,0.0,0,h,Fuller REBOUND (Off:0 Def:1),Rebound,Unknown,0,436
+29601099,405,PT03M36.00S,4,1610612744,GSW,775,,,-174,97,20,Made,1,78.0,100.0,178,h,Booker 20' Jump Shot (5 PTS) (DeClercq 1 AST),Made Shot,Jump Shot,0,437
+29601099,406,PT03M28.00S,4,1610612747,LAL,977,Bryant,K. Bryant,136,186,0,Missed,1,0.0,0.0,0,v,MISS Bryant  3PT Jump Shot,Missed Shot,Jump Shot,0,438
+29601099,407,PT03M27.00S,4,1610612744,GSW,1077,Owes,R. Owes,0,0,0,,0,0.0,0.0,0,h,Owes REBOUND (Off:2 Def:1),Rebound,Unknown,0,439
+29601099,408,PT03M22.00S,4,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,Bryant P.FOUL (P3.T2),Foul,Personal,0,440
+29601099,409,PT03M13.00S,4,1610612744,GSW,692,DeClercq,A. DeClercq,0,0,0,Made,1,80.0,100.0,180,h,DeClercq  Layup (3 PTS) (Burrell 3 AST),Made Shot,Layup Shot,0,441
+29601099,410,PT02M52.00S,4,1610612747,LAL,922,Campbell,E. Campbell,-27,39,5,Made,1,80.0,102.0,182,v,Campbell 5' Hook Shot (8 PTS) (Scott 2 AST),Made Shot,Hook Shot,0,442
+29601099,411,PT02M38.00S,4,0,,1610612744,,,0,0,0,,0,0.0,0.0,0,h,WARRIORS Timeout: Regular (Full 4 Short 2),Timeout,Regular,0,443
+29601099,412,PT02M38.00S,4,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,SUB: Kersey FOR Bryant,Substitution,,0,444
+29601099,413,PT02M38.00S,4,1610612744,GSW,957,Fuller,T. Fuller,0,0,0,,0,0.0,0.0,0,h,Jump Ball Fuller vs. Scott: Tip to DeClercq,Jump Ball,,0,445
+29601099,414,PT02M36.00S,4,1610612747,LAL,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,v,Campbell S.FOUL (P2.T3),Foul,Shooting,0,446
+29601099,415,PT02M36.00S,4,1610612744,GSW,692,DeClercq,A. DeClercq,0,0,0,,0,81.0,102.0,183,h,DeClercq Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,447
+29601099,416,PT02M36.00S,4,1610612744,GSW,692,DeClercq,A. DeClercq,0,0,0,,0,0.0,0.0,0,h,MISS DeClercq Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,448
+29601099,417,PT02M33.00S,4,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Rebound,Rebound,Unknown,0,449
+29601099,418,PT02M09.00S,4,1610612747,LAL,760,Kersey,J. Kersey,233,43,24,Missed,1,0.0,0.0,0,v,MISS Kersey 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,450
+29601099,419,PT02M07.00S,4,1610612744,GSW,197,Burrell,S. Burrell,0,0,0,,0,0.0,0.0,0,h,Burrell REBOUND (Off:1 Def:1),Rebound,Unknown,0,451
+29601099,420,PT01M52.00S,4,1610612744,GSW,692,DeClercq,A. DeClercq,0,0,0,Made,1,83.0,102.0,185,h,DeClercq  Layup (6 PTS) (Burrell 4 AST),Made Shot,Layup Shot,0,452
+29601099,421,PT01M39.00S,4,1610612747,LAL,45,McCloud,G. McCloud,157,129,20,Made,1,83.0,104.0,187,v,McCloud 20' Jump Shot (5 PTS) (Fisher 6 AST),Made Shot,Jump Shot,0,453
+29601099,422,PT01M29.00S,4,1610612744,GSW,197,Burrell,S. Burrell,-170,168,24,Missed,1,0.0,0.0,0,h,MISS Burrell 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,454
+29601099,423,PT01M28.00S,4,1610612747,LAL,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,v,Campbell REBOUND (Off:0 Def:2),Rebound,Unknown,0,455
+29601099,424,PT01M08.00S,4,1610612747,LAL,45,McCloud,G. McCloud,-220,75,0,Made,1,83.0,107.0,190,v,McCloud  3PT Jump Shot (8 PTS) (Scott 3 AST),Made Shot,Jump Shot,0,456
+29601099,425,PT00M57.90S,4,1610612744,GSW,1077,Owes,R. Owes,-142,8,14,Missed,1,0.0,0.0,0,h,MISS Owes 14' Jump Shot,Missed Shot,Jump Shot,0,457
+29601099,426,PT00M54.90S,4,1610612744,GSW,957,Fuller,T. Fuller,0,0,0,,0,0.0,0.0,0,h,Fuller REBOUND (Off:1 Def:1),Rebound,Unknown,0,458
+29601099,427,PT00M52.40S,4,1610612744,GSW,957,Fuller,T. Fuller,-73,127,15,Missed,1,0.0,0.0,0,h,MISS Fuller 15' Jump Shot,Missed Shot,Jump Shot,0,459
+29601099,428,PT00M50.90S,4,1610612747,LAL,2,Scott,B. Scott,0,0,0,,0,0.0,0.0,0,v,Scott REBOUND (Off:0 Def:2),Rebound,Unknown,0,460
+29601099,429,PT00M31.70S,4,1610612747,LAL,760,Kersey,J. Kersey,0,0,0,Made,1,83.0,109.0,192,v,Kersey  Layup (7 PTS),Made Shot,Layup Shot,0,461
+29601099,430,PT00M22.10S,4,1610612744,GSW,1077,Owes,R. Owes,-196,23,20,Made,1,85.0,109.0,194,h,Owes 20' Jump Shot (4 PTS) (Burrell 5 AST),Made Shot,Jump Shot,0,462
+29601099,431,PT00M00.00S,4,0,,0,,,0,0,0,,0,85.0,109.0,194,,End of 4th Period (13:42 PM EST),period,end,0,463

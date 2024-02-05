@@ -1,0 +1,437 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+21200206,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (8:10 PM EST),period,start,0,1
+21200206,1,PT12M00.00S,1,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Jump Ball Asik vs. Valanciunas: Tip to Bargnani,Jump Ball,,0,2
+21200206,2,PT11M45.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,Lowry Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,3
+21200206,2,PT11M45.00S,1,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,Lin STEAL (1 STL),,,0,4
+21200206,4,PT11M25.00S,1,1610612745,HOU,201600,Asik,O. Asik,24,3,2,Made,1,2.0,0.0,2,h,Asik 2' Layup (2 PTS) (Lin 1 AST),Made Shot,Layup Shot,0,5
+21200206,5,PT11M08.00S,1,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,h,Patterson Violation:Kicked Ball,Violation,Kicked Ball,0,6
+21200206,6,PT10M59.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,181,108,21,Made,1,2.0,2.0,4,v,DeRozan 21' Jump Shot (2 PTS) (Lowry 1 AST),Made Shot,Jump Shot,0,7
+21200206,7,PT10M50.00S,1,1610612745,HOU,202718,Parsons,C. Parsons,34,0,3,Missed,1,0.0,0.0,0,h,MISS Parsons 3' Driving Layup,Missed Shot,Driving Layup Shot,0,8
+21200206,8,PT10M48.00S,1,1610612761,TOR,200745,Bargnani,A. Bargnani,0,0,0,,0,0.0,0.0,0,v,Bargnani REBOUND (Off:0 Def:1),Rebound,Unknown,0,9
+21200206,9,PT10M42.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,-79,165,18,Missed,1,0.0,0.0,0,v,MISS DeRozan 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,10
+21200206,10,PT10M39.00S,1,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik REBOUND (Off:0 Def:1),Rebound,Unknown,0,11
+21200206,11,PT10M32.00S,1,1610612745,HOU,201935,Harden,J. Harden,47,246,25,Missed,1,0.0,0.0,0,h,MISS Harden 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,12
+21200206,12,PT10M30.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,Lowry REBOUND (Off:0 Def:1),Rebound,Unknown,0,13
+21200206,13,PT10M21.00S,1,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,h,Patterson P.FOUL (P1.T1),Foul,Personal,0,14
+21200206,14,PT10M12.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0.0,0.0,0,v,DeRozan Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,15
+21200206,14,PT10M12.00S,1,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik STEAL (1 STL),,,0,16
+21200206,15,PT10M07.00S,1,1610612745,HOU,202391,Lin,J. Lin,15,-5,2,Made,1,4.0,2.0,6,h,Lin 2' Layup (2 PTS) (Asik 1 AST),Made Shot,Layup Shot,0,17
+21200206,16,PT09M47.00S,1,1610612761,TOR,200745,Bargnani,A. Bargnani,-117,7,12,Missed,1,0.0,0.0,0,v,MISS Bargnani 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,18
+21200206,17,PT09M45.00S,1,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,Lin REBOUND (Off:0 Def:1),Rebound,Unknown,0,19
+21200206,18,PT09M39.00S,1,1610612745,HOU,202391,Lin,J. Lin,-2,0,0,Missed,1,0.0,0.0,0,h,MISS Lin  Driving Layup,Missed Shot,Driving Layup Shot,0,20
+21200206,19,PT09M37.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,Lowry REBOUND (Off:0 Def:2),Rebound,Unknown,0,21
+21200206,20,PT09M29.00S,1,1610612761,TOR,200745,Bargnani,A. Bargnani,-7,1,1,Made,1,4.0,4.0,8,v,Bargnani 1' Driving Reverse Layup (2 PTS) (Lowry 2 AST),Made Shot,Driving Reverse Layup Shot,0,22
+21200206,21,PT09M20.00S,1,1610612745,HOU,201935,Harden,J. Harden,-19,17,3,Made,1,6.0,4.0,10,h,Harden 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,23
+21200206,22,PT09M20.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,Lowry S.FOUL (P1.T1),Foul,Shooting,0,24
+21200206,23,PT09M20.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,MISS Harden Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,25
+21200206,25,PT09M20.00S,1,1610612761,TOR,200745,Bargnani,A. Bargnani,0,0,0,,0,0.0,0.0,0,v,Bargnani REBOUND (Off:0 Def:2),Rebound,Unknown,0,26
+21200206,26,PT09M02.00S,1,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,h,Patterson S.FOUL (P2.T2),Foul,Shooting,0,27
+21200206,27,PT09M02.00S,1,1610612761,TOR,200745,Bargnani,A. Bargnani,0,0,0,,0,6.0,5.0,11,v,Bargnani Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,28
+21200206,29,PT09M02.00S,1,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,h,SUB: Morris FOR Patterson,Substitution,,0,29
+21200206,30,PT09M02.00S,1,1610612761,TOR,200745,Bargnani,A. Bargnani,0,0,0,,0,6.0,6.0,12,v,Bargnani Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,30
+21200206,32,PT08M45.00S,1,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,125,118,17,Missed,1,0.0,0.0,0,h,MISS Morris 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,31
+21200206,33,PT08M44.00S,1,0,,1610612761,,,0,0,0,,0,0.0,0.0,0,v,Raptors Rebound,Rebound,Unknown,0,32
+21200206,34,PT08M44.00S,1,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik L.B.FOUL (P1.T3),Foul,Loose Ball,0,33
+21200206,35,PT08M40.00S,1,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0.0,0.0,0,h,Morris P.FOUL (P1.T4),Foul,Personal,0,34
+21200206,36,PT08M23.00S,1,1610612761,TOR,201187,McGuire,D. McGuire,-87,39,10,Missed,1,0.0,0.0,0,v,MISS McGuire 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,0,35
+21200206,37,PT08M21.00S,1,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik REBOUND (Off:0 Def:2),Rebound,Unknown,0,36
+21200206,38,PT08M10.00S,1,1610612745,HOU,202391,Lin,J. Lin,119,181,22,Made,1,8.0,6.0,14,h,Lin 22' Jump Shot (4 PTS) (Harden 1 AST),Made Shot,Jump Shot,0,37
+21200206,39,PT07M54.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,10,1,1,Missed,1,0.0,0.0,0,v,MISS DeRozan 1' Driving Layup,Missed Shot,Driving Layup Shot,0,38
+21200206,40,PT07M52.00S,1,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik REBOUND (Off:0 Def:3),Rebound,Unknown,0,39
+21200206,41,PT07M31.00S,1,1610612745,HOU,201600,Asik,O. Asik,-16,33,4,Missed,1,0.0,0.0,0,h,MISS Asik 4' Hook Shot,Missed Shot,Hook Shot,0,40
+21200206,42,PT07M29.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0.0,0.0,0,v,Valanciunas REBOUND (Off:0 Def:1),Rebound,Unknown,0,41
+21200206,43,PT07M24.00S,1,1610612761,TOR,200745,Bargnani,A. Bargnani,-86,235,25,Made,1,8.0,9.0,17,v,Bargnani 25' 3PT Jump Shot (7 PTS) (Lowry 3 AST),Made Shot,Jump Shot,0,42
+21200206,44,PT07M09.00S,1,1610612745,HOU,201935,Harden,J. Harden,-78,241,25,Missed,1,0.0,0.0,0,h,MISS Harden 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,43
+21200206,45,PT07M08.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,Lowry REBOUND (Off:0 Def:3),Rebound,Unknown,0,44
+21200206,46,PT07M01.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,73,263,27,Missed,1,0.0,0.0,0,v,MISS Lowry 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,45
+21200206,47,PT07M00.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden REBOUND (Off:0 Def:1),Rebound,Unknown,0,46
+21200206,48,PT06M55.00S,1,1610612745,HOU,202391,Lin,J. Lin,185,34,19,Made,1,10.0,9.0,19,h,Lin 19' Jump Shot (6 PTS) (Harden 2 AST),Made Shot,Jump Shot,0,47
+21200206,50,PT06M34.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,118,104,16,Missed,1,0.0,0.0,0,v,MISS Valanciunas 16' Jump Shot,Missed Shot,Jump Shot,0,48
+21200206,51,PT06M33.00S,1,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik REBOUND (Off:0 Def:4),Rebound,Unknown,0,49
+21200206,52,PT06M20.00S,1,1610612745,HOU,201935,Harden,J. Harden,-23,25,3,Missed,1,0.0,0.0,0,h,MISS Harden 3' Jump Shot,Missed Shot,Jump Shot,0,50
+21200206,54,PT06M19.00S,1,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik REBOUND (Off:1 Def:4),Rebound,Unknown,0,51
+21200206,53,PT06M19.00S,1,1610612745,HOU,201600,Asik,O. Asik,-7,-5,1,Missed,1,0.0,0.0,0,h,MISS Asik 1' Tip Shot,Missed Shot,Tip Shot,0,52
+21200206,55,PT06M17.00S,1,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik REBOUND (Off:2 Def:4),Rebound,Unknown,0,53
+21200206,56,PT06M16.00S,1,1610612745,HOU,201600,Asik,O. Asik,-2,7,1,Missed,1,0.0,0.0,0,h,MISS Asik 1' Reverse Layup,Missed Shot,Reverse Layup Shot,0,54
+21200206,56,PT06M16.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0.0,0.0,0,v,Valanciunas BLOCK (1 BLK),,,0,55
+21200206,57,PT06M13.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0.0,0.0,0,v,Valanciunas REBOUND (Off:0 Def:2),Rebound,Unknown,0,56
+21200206,58,PT06M03.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0.0,0.0,0,v,Valanciunas Traveling Turnover (P1.T3),Turnover,Traveling,0,57
+21200206,59,PT05M42.00S,1,1610612745,HOU,201935,Harden,J. Harden,23,162,16,Made,1,12.0,9.0,21,h,Harden 16' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,0,58
+21200206,60,PT05M22.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,-11,3,1,Made,1,12.0,11.0,23,v,DeRozan 1' Driving Layup (4 PTS) (Bargnani 1 AST),Made Shot,Driving Layup Shot,0,59
+21200206,61,PT05M03.00S,1,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,201,146,25,Made,1,15.0,11.0,26,h,Morris 25' 3PT Jump Shot (3 PTS) (Lin 2 AST),Made Shot,Jump Shot,0,60
+21200206,62,PT04M47.00S,1,1610612761,TOR,200745,Bargnani,A. Bargnani,17,89,9,Missed,1,0.0,0.0,0,v,MISS Bargnani 9' Jump Shot,Missed Shot,Jump Shot,0,61
+21200206,63,PT04M46.00S,1,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik REBOUND (Off:2 Def:5),Rebound,Unknown,0,62
+21200206,64,PT04M33.00S,1,1610612745,HOU,201600,Asik,O. Asik,18,-3,2,Made,1,17.0,11.0,28,h,Asik 2' Reverse Layup (4 PTS) (Harden 3 AST),Made Shot,Reverse Layup Shot,0,63
+21200206,65,PT04M27.00S,1,0,,1610612761,,,0,0,0,,0,0.0,0.0,0,v,Raptors Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,64
+21200206,67,PT04M27.00S,1,1610612761,TOR,201187,McGuire,D. McGuire,0,0,0,,0,0.0,0.0,0,v,SUB: Ross FOR McGuire,Substitution,,0,65
+21200206,69,PT04M08.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,6,1,1,Made,1,17.0,13.0,30,v,Lowry 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,66
+21200206,70,PT03M52.00S,1,1610612745,HOU,202718,Parsons,C. Parsons,1,209,21,Missed,1,0.0,0.0,0,h,MISS Parsons 21' Jump Shot,Missed Shot,Jump Shot,0,67
+21200206,71,PT03M52.00S,1,0,,1610612761,,,0,0,0,,0,0.0,0.0,0,v,Raptors Rebound,Rebound,Unknown,0,68
+21200206,72,PT03M39.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,-139,108,18,Missed,1,0.0,0.0,0,v,MISS DeRozan 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,69
+21200206,73,PT03M37.00S,1,0,,1610612761,,,0,0,0,,0,0.0,0.0,0,v,Raptors Rebound,Rebound,Unknown,0,70
+21200206,74,PT03M37.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,SUB: Calderon FOR Lowry,Substitution,,0,71
+21200206,75,PT03M22.00S,1,1610612761,TOR,200745,Bargnani,A. Bargnani,13,-2,1,Made,1,17.0,15.0,32,v,Bargnani 1' Driving Reverse Layup (9 PTS),Made Shot,Driving Reverse Layup Shot,0,72
+21200206,76,PT03M16.00S,1,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,10,52,5,Made,1,19.0,15.0,34,h,Morris 5' Jump Shot (5 PTS) (Lin 3 AST),Made Shot,Jump Shot,0,73
+21200206,77,PT03M16.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0.0,0.0,0,v,DeRozan S.FOUL (P1.T2),Foul,Shooting,0,74
+21200206,78,PT03M16.00S,1,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,SUB: Smith FOR Asik,Substitution,,0,75
+21200206,79,PT03M16.00S,1,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,20.0,15.0,35,h,Morris Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,76
+21200206,81,PT03M01.00S,1,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0.0,0.0,0,h,Smith S.FOUL (P1.PN),Foul,Shooting,0,77
+21200206,82,PT03M01.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,20.0,16.0,36,v,Valanciunas Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,78
+21200206,84,PT03M01.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0.0,0.0,0,v,MISS Valanciunas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,79
+21200206,86,PT03M00.00S,1,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,0.0,0.0,0,v,Ross REBOUND (Off:1 Def:0),Rebound,Unknown,0,80
+21200206,87,PT02M43.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0.0,0.0,0,v,DeRozan Lost Ball Turnover (P2.T4),Turnover,Lost Ball,0,81
+21200206,87,PT02M43.00S,1,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0.0,0.0,0,h,Morris STEAL (1 STL),,,0,82
+21200206,88,PT02M39.00S,1,1610612745,HOU,201935,Harden,J. Harden,-15,4,2,Made,1,22.0,16.0,38,h,Harden 2' Layup (6 PTS) (Parsons 1 AST),Made Shot,Layup Shot,0,83
+21200206,89,PT02M28.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0.0,0.0,0,v,DeRozan Lost Ball Turnover (P3.T5),Turnover,Lost Ball,0,84
+21200206,89,PT02M28.00S,1,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,Lin STEAL (2 STL),,,0,85
+21200206,90,PT02M18.00S,1,1610612745,HOU,202962,Smith,G. Smith,-10,7,1,Missed,1,0.0,0.0,0,h,MISS Smith 1' Layup,Missed Shot,Layup Shot,0,86
+21200206,92,PT02M17.00S,1,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0.0,0.0,0,h,Morris REBOUND (Off:1 Def:0),Rebound,Unknown,0,87
+21200206,91,PT02M17.00S,1,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,-8,3,1,Made,1,24.0,16.0,40,h,Morris 1' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,0,88
+21200206,93,PT02M00.00S,1,1610612761,TOR,203082,Ross,T. Ross,89,6,9,Made,1,24.0,18.0,42,v,Ross 9' Turnaround Hook Shot (2 PTS) (Bargnani 2 AST),Made Shot,Turnaround Hook Shot,0,89
+21200206,94,PT01M38.00S,1,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,230,14,0,Made,1,27.0,18.0,45,h,Morris  3PT Jump Shot (11 PTS) (Parsons 2 AST),Made Shot,Jump Shot,0,90
+21200206,95,PT01M26.00S,1,1610612761,TOR,200745,Bargnani,A. Bargnani,43,241,24,Made,1,27.0,21.0,48,v,Bargnani 24' 3PT Jump Shot (12 PTS) (Calderon 1 AST),Made Shot,Jump Shot,0,91
+21200206,96,PT01M13.00S,1,1610612745,HOU,201935,Harden,J. Harden,-7,7,1,Missed,1,0.0,0.0,0,h,MISS Harden 1' Driving Layup,Missed Shot,Driving Layup Shot,0,92
+21200206,97,PT01M12.00S,1,0,,1610612761,,,0,0,0,,0,0.0,0.0,0,v,Raptors Rebound,Rebound,Unknown,0,93
+21200206,98,PT01M12.00S,1,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,94
+21200206,100,PT01M12.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0.0,0.0,0,v,SUB: Davis FOR Valanciunas,Substitution,,0,95
+21200206,101,PT01M12.00S,1,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,SUB: Douglas FOR Lin,Substitution,,0,96
+21200206,102,PT00M58.90S,1,1610612761,TOR,101181,Calderon,J. Calderon,-174,178,25,Missed,1,0.0,0.0,0,v,MISS Calderon 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,97
+21200206,103,PT00M57.50S,1,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,h,Parsons REBOUND (Off:0 Def:1),Rebound,Unknown,0,98
+21200206,104,PT00M43.90S,1,1610612745,HOU,202718,Parsons,C. Parsons,-8,6,1,Missed,1,0.0,0.0,0,h,MISS Parsons 1' Layup,Missed Shot,Layup Shot,0,99
+21200206,104,PT00M43.90S,1,1610612761,TOR,202334,Davis,E. Davis,0,0,0,,0,0.0,0.0,0,v,Davis BLOCK (1 BLK),,,0,100
+21200206,105,PT00M41.90S,1,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:1 Def:0),Rebound,Unknown,0,101
+21200206,106,PT00M40.00S,1,1610612745,HOU,202962,Smith,G. Smith,-10,-5,1,Missed,1,0.0,0.0,0,h,MISS Smith 1' Layup,Missed Shot,Layup Shot,0,102
+21200206,108,PT00M40.00S,1,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:2 Def:0),Rebound,Unknown,0,103
+21200206,107,PT00M40.00S,1,1610612745,HOU,202962,Smith,G. Smith,-7,7,1,Made,1,29.0,21.0,50,h,Smith 1' Tip Shot (2 PTS),Made Shot,Tip Shot,0,104
+21200206,109,PT00M26.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,-8,6,1,Made,1,29.0,23.0,52,v,DeRozan 1' Driving Reverse Layup (6 PTS),Made Shot,Driving Reverse Layup Shot,0,105
+21200206,110,PT00M26.00S,1,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0.0,0.0,0,h,Smith S.FOUL (P2.PN),Foul,Shooting,0,106
+21200206,111,PT00M26.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0.0,0.0,0,v,MISS DeRozan Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,107
+21200206,113,PT00M26.00S,1,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,h,Parsons REBOUND (Off:0 Def:2),Rebound,Unknown,0,108
+21200206,115,PT00M03.80S,1,1610612745,HOU,202962,Smith,G. Smith,69,30,8,Missed,1,0.0,0.0,0,h,MISS Smith 8' Jump Shot,Missed Shot,Jump Shot,0,109
+21200206,116,PT00M02.90S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0.0,0.0,0,v,DeRozan REBOUND (Off:0 Def:1),Rebound,Unknown,0,110
+21200206,117,PT00M00.00S,1,0,,0,,,0,0,0,,0,29.0,23.0,52,,End of 1st Period (8:34 PM EST),period,end,0,111
+21200206,119,PT12M00.00S,2,0,,0,,,0,0,0,,0,29.0,23.0,52,,Start of 2nd Period (8:37 PM EST),period,start,0,112
+21200206,120,PT11M40.00S,2,1610612745,HOU,201935,Harden,J. Harden,-112,138,18,Missed,1,0.0,0.0,0,h,MISS Harden 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,113
+21200206,121,PT11M38.00S,2,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,h,Parsons REBOUND (Off:1 Def:2),Rebound,Unknown,0,114
+21200206,122,PT11M32.00S,2,1610612745,HOU,201962,Douglas,T. Douglas,231,102,25,Made,1,32.0,23.0,55,h,Douglas 25' 3PT Jump Shot (3 PTS) (Harden 4 AST),Made Shot,Jump Shot,0,115
+21200206,123,PT11M13.00S,2,1610612761,TOR,101181,Calderon,J. Calderon,-125,213,25,Made,1,32.0,26.0,58,v,Calderon 25' 3PT Jump Shot (3 PTS) (Ross 1 AST),Made Shot,Jump Shot,0,116
+21200206,124,PT10M51.00S,2,1610612745,HOU,201935,Harden,J. Harden,4,47,5,Missed,1,0.0,0.0,0,h,MISS Harden 5' Running Jump Shot,Missed Shot,Running Jump Shot,0,117
+21200206,125,PT10M49.00S,2,1610612761,TOR,202334,Davis,E. Davis,0,0,0,,0,0.0,0.0,0,v,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,118
+21200206,126,PT10M39.00S,2,1610612761,TOR,202334,Davis,E. Davis,15,1,2,Made,1,32.0,28.0,60,v,Davis 2' Dunk (2 PTS) (Johnson 1 AST),Made Shot,Dunk Shot,0,119
+21200206,127,PT10M24.00S,2,1610612745,HOU,201962,Douglas,T. Douglas,-223,110,25,Missed,1,0.0,0.0,0,h,MISS Douglas 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,120
+21200206,128,PT10M22.00S,2,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,0,121
+21200206,129,PT10M02.00S,2,1610612761,TOR,203082,Ross,T. Ross,0,250,25,Missed,1,0.0,0.0,0,v,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,122
+21200206,129,PT10M02.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden BLOCK (1 BLK),,,0,123
+21200206,130,PT10M01.00S,2,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson REBOUND (Off:1 Def:1),Rebound,Unknown,0,124
+21200206,131,PT10M01.00S,2,1610612761,TOR,101161,Johnson,A. Johnson,10,52,5,Made,1,32.0,30.0,62,v,Johnson 5' Jump Shot (2 PTS),Made Shot,Jump Shot,0,125
+21200206,132,PT10M01.00S,2,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0.0,0.0,0,h,Morris S.FOUL (P2.T1),Foul,Shooting,0,126
+21200206,133,PT10M01.00S,2,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0.0,0.0,0,h,SUB: Asik FOR Smith,Substitution,,0,127
+21200206,134,PT10M01.00S,2,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0.0,0.0,0,h,SUB: Patterson FOR Morris,Substitution,,0,128
+21200206,135,PT10M01.00S,2,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,0.0,0.0,0,v,MISS Johnson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,129
+21200206,137,PT10M00.00S,2,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Rebound,Rebound,Unknown,0,130
+21200206,138,PT09M49.00S,2,1610612745,HOU,202335,Patterson,P. Patterson,-193,0,19,Missed,1,0.0,0.0,0,h,MISS Patterson 19' Jump Shot,Missed Shot,Jump Shot,0,131
+21200206,139,PT09M47.00S,2,1610612745,HOU,201962,Douglas,T. Douglas,0,0,0,,0,0.0,0.0,0,h,Douglas REBOUND (Off:1 Def:0),Rebound,Unknown,0,132
+21200206,140,PT09M44.00S,2,1610612745,HOU,201962,Douglas,T. Douglas,-86,19,9,Missed,1,0.0,0.0,0,h,MISS Douglas 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,133
+21200206,142,PT09M43.00S,2,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,h,Patterson REBOUND (Off:1 Def:0),Rebound,Unknown,0,134
+21200206,141,PT09M43.00S,2,1610612745,HOU,202335,Patterson,P. Patterson,-2,1,0,Made,1,34.0,30.0,64,h,Patterson  Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,0,135
+21200206,143,PT09M26.00S,2,1610612761,TOR,101132,Kleiza,L. Kleiza,155,34,16,Missed,1,0.0,0.0,0,v,MISS Kleiza 16' Jump Shot,Missed Shot,Jump Shot,0,136
+21200206,144,PT09M25.00S,2,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,h,Patterson REBOUND (Off:1 Def:1),Rebound,Unknown,0,137
+21200206,145,PT09M15.00S,2,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson S.FOUL (P1.T1),Foul,Shooting,0,138
+21200206,146,PT09M15.00S,2,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,h,MISS Patterson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,139
+21200206,147,PT09M15.00S,2,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Rebound,Rebound,Normal Rebound,0,140
+21200206,148,PT09M15.00S,2,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,35.0,30.0,65,h,Patterson Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,141
+21200206,150,PT09M03.00S,2,1610612761,TOR,202334,Davis,E. Davis,-15,7,2,Made,1,35.0,32.0,67,v,Davis 2' Layup (4 PTS) (Calderon 2 AST),Made Shot,Layup Shot,0,142
+21200206,151,PT08M50.00S,2,1610612745,HOU,202718,Parsons,C. Parsons,-11,6,1,Made,1,37.0,32.0,69,h,Parsons 1' Driving Layup (2 PTS) (Harden 5 AST),Made Shot,Driving Layup Shot,0,143
+21200206,152,PT08M37.00S,2,1610612761,TOR,101132,Kleiza,L. Kleiza,0,0,0,,0,0.0,0.0,0,v,Kleiza OFF.Foul (P1),Foul,Offensive,0,144
+21200206,153,PT08M37.00S,2,1610612761,TOR,101132,Kleiza,L. Kleiza,0,0,0,,0,0.0,0.0,0,v,Kleiza Foul Turnover (P1.T6),Turnover,Foul,0,145
+21200206,154,PT08M37.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Regular,Timeout,Regular,0,146
+21200206,156,PT08M37.00S,2,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,0.0,0.0,0,v,SUB: Valanciunas FOR Johnson,Substitution,,0,147
+21200206,157,PT08M37.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,SUB: Cook FOR Harden,Substitution,,0,148
+21200206,158,PT08M19.00S,2,1610612761,TOR,101132,Kleiza,L. Kleiza,0,0,0,,0,0.0,0.0,0,v,Kleiza S.FOUL (P2.T2),Foul,Shooting,0,149
+21200206,159,PT08M19.00S,2,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,38.0,32.0,70,h,Parsons Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,150
+21200206,161,PT08M19.00S,2,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,39.0,32.0,71,h,Parsons Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,151
+21200206,163,PT08M08.00S,2,1610612761,TOR,203082,Ross,T. Ross,-183,78,20,Made,1,39.0,34.0,73,v,Ross 20' Jump Shot (4 PTS) (Calderon 3 AST),Made Shot,Jump Shot,0,152
+21200206,164,PT07M45.00S,2,1610612745,HOU,201161,Cook,D. Cook,-142,149,21,Made,1,41.0,34.0,75,h,Cook 21' Jump Shot (2 PTS) (Patterson 1 AST),Made Shot,Jump Shot,0,153
+21200206,165,PT07M21.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,-67,7,7,Made,1,41.0,36.0,77,v,Valanciunas 7' Turnaround Jump Shot (3 PTS),Made Shot,Turnaround Jump Shot,0,154
+21200206,166,PT07M06.00S,2,1610612745,HOU,201600,Asik,O. Asik,28,0,3,Made,1,43.0,36.0,79,h,Asik 3' Layup (6 PTS),Made Shot,Layup Shot,0,155
+21200206,167,PT06M47.00S,2,1610612761,TOR,203082,Ross,T. Ross,-67,124,14,Made,1,43.0,38.0,81,v,Ross 14' Jump Shot (6 PTS),Made Shot,Jump Shot,0,156
+21200206,168,PT06M42.00S,2,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Timeout: Short (Full 1 Short 1),Timeout,Short,0,157
+21200206,170,PT06M42.00S,2,1610612761,TOR,101132,Kleiza,L. Kleiza,0,0,0,,0,0.0,0.0,0,v,SUB: Lowry FOR Kleiza,Substitution,,0,158
+21200206,172,PT06M31.00S,2,1610612745,HOU,201962,Douglas,T. Douglas,0,0,0,,0,0.0,0.0,0,h,SUB: Lin FOR Douglas,Substitution,,0,159
+21200206,173,PT06M22.00S,2,1610612745,HOU,202718,Parsons,C. Parsons,-158,105,19,Made,1,45.0,38.0,83,h,Parsons 19' Jump Shot (6 PTS),Made Shot,Jump Shot,0,160
+21200206,174,PT06M00.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,-8,183,18,Missed,1,0.0,0.0,0,v,MISS Valanciunas 18' Jump Shot,Missed Shot,Jump Shot,0,161
+21200206,175,PT05M58.00S,2,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,h,Parsons REBOUND (Off:1 Def:3),Rebound,Unknown,0,162
+21200206,176,PT05M50.00S,2,1610612745,HOU,202335,Patterson,P. Patterson,184,71,20,Made,1,47.0,38.0,85,h,Patterson 20' Jump Shot (5 PTS) (Parsons 3 AST),Made Shot,Jump Shot,0,163
+21200206,177,PT05M32.00S,2,1610612761,TOR,203082,Ross,T. Ross,217,126,25,Missed,1,0.0,0.0,0,v,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,164
+21200206,178,PT05M31.00S,2,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,h,Patterson REBOUND (Off:1 Def:2),Rebound,Unknown,0,165
+21200206,179,PT05M16.00S,2,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik OFF.Foul (P2),Foul,Offensive,0,166
+21200206,180,PT05M16.00S,2,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik Foul Turnover (P1.T1),Turnover,Foul,0,167
+21200206,181,PT05M16.00S,2,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Timeout: Regular (Full 2 Short 1),Timeout,Regular,0,168
+21200206,183,PT05M16.00S,2,1610612761,TOR,202334,Davis,E. Davis,0,0,0,,0,0.0,0.0,0,v,SUB: Bargnani FOR Davis,Substitution,,0,169
+21200206,184,PT05M16.00S,2,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,h,SUB: Harden FOR Parsons,Substitution,,0,170
+21200206,185,PT05M03.00S,2,1610612761,TOR,101181,Calderon,J. Calderon,234,1,0,Missed,1,0.0,0.0,0,v,MISS Calderon  3PT Jump Shot,Missed Shot,Jump Shot,0,171
+21200206,186,PT05M01.00S,2,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik REBOUND (Off:2 Def:6),Rebound,Unknown,0,172
+21200206,187,PT04M47.00S,2,1610612745,HOU,201161,Cook,D. Cook,157,154,22,Missed,1,0.0,0.0,0,h,MISS Cook 22' Jump Shot,Missed Shot,Jump Shot,0,173
+21200206,188,PT04M45.00S,2,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,0.0,0.0,0,v,Ross REBOUND (Off:1 Def:1),Rebound,Unknown,0,174
+21200206,189,PT04M38.00S,2,1610612761,TOR,200745,Bargnani,A. Bargnani,-101,12,10,Made,1,47.0,40.0,87,v,Bargnani 10' Jump Shot (14 PTS) (Calderon 4 AST),Made Shot,Jump Shot,0,175
+21200206,190,PT04M21.00S,2,1610612745,HOU,202391,Lin,J. Lin,192,159,25,Made,1,50.0,40.0,90,h,Lin 25' 3PT Jump Shot (9 PTS) (Harden 6 AST),Made Shot,Jump Shot,0,176
+21200206,191,PT04M03.00S,2,1610612761,TOR,203082,Ross,T. Ross,2,9,1,Made,1,50.0,42.0,92,v,Ross 1' Driving Slam Dunk (8 PTS),Made Shot,Driving Slam Dunk Shot,0,177
+21200206,192,PT03M46.00S,2,1610612745,HOU,201161,Cook,D. Cook,207,145,25,Missed,1,0.0,0.0,0,h,MISS Cook 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,178
+21200206,193,PT03M45.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden REBOUND (Off:1 Def:1),Rebound,Unknown,0,179
+21200206,194,PT03M36.00S,2,1610612745,HOU,201935,Harden,J. Harden,-26,44,5,Missed,1,0.0,0.0,0,h,MISS Harden 5' Jump Shot,Missed Shot,Jump Shot,0,180
+21200206,195,PT03M35.00S,2,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,0.0,0.0,0,v,Ross REBOUND (Off:1 Def:2),Rebound,Unknown,0,181
+21200206,196,PT03M32.00S,2,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,0.0,0.0,0,v,Ross Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,182
+21200206,196,PT03M32.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden STEAL (1 STL),,,0,183
+21200206,197,PT03M26.00S,2,1610612745,HOU,201935,Harden,J. Harden,147,201,25,Missed,1,0.0,0.0,0,h,MISS Harden 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,184
+21200206,198,PT03M24.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0.0,0.0,0,v,Valanciunas REBOUND (Off:0 Def:3),Rebound,Unknown,0,185
+21200206,199,PT03M09.00S,2,1610612761,TOR,101181,Calderon,J. Calderon,-226,112,25,Missed,1,0.0,0.0,0,v,MISS Calderon 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,186
+21200206,200,PT03M07.00S,2,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik REBOUND (Off:2 Def:7),Rebound,Unknown,0,187
+21200206,201,PT02M56.00S,2,1610612745,HOU,201600,Asik,O. Asik,-13,1,1,Made,1,52.0,42.0,94,h,Asik 1' Reverse Layup (8 PTS) (Lin 4 AST),Made Shot,Reverse Layup Shot,0,188
+21200206,202,PT02M51.00S,2,0,,1610612761,,,0,0,0,,0,0.0,0.0,0,v,Raptors Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,189
+21200206,204,PT02M51.00S,2,1610612761,TOR,101181,Calderon,J. Calderon,0,0,0,,0,0.0,0.0,0,v,SUB: DeRozan FOR Calderon,Substitution,,0,190
+21200206,205,PT02M51.00S,2,1610612745,HOU,201161,Cook,D. Cook,0,0,0,,0,0.0,0.0,0,h,SUB: Parsons FOR Cook,Substitution,,0,191
+21200206,206,PT02M38.00S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,-108,44,12,Made,1,52.0,44.0,96,v,DeRozan 12' Turnaround Jump Shot (8 PTS),Made Shot,Turnaround Jump Shot,0,192
+21200206,207,PT02M24.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,193
+21200206,207,PT02M24.00S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0.0,0.0,0,v,DeRozan STEAL (1 STL),,,0,194
+21200206,208,PT02M16.00S,2,1610612761,TOR,200745,Bargnani,A. Bargnani,0,0,0,,0,0.0,0.0,0,v,Bargnani Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,195
+21200206,208,PT02M16.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden STEAL (2 STL),,,0,196
+21200206,209,PT02M11.00S,2,1610612745,HOU,202718,Parsons,C. Parsons,26,7,3,Made,1,54.0,44.0,98,h,Parsons 3' Layup (8 PTS) (Harden 7 AST),Made Shot,Layup Shot,0,197
+21200206,210,PT01M48.00S,2,1610612761,TOR,200745,Bargnani,A. Bargnani,-21,255,26,Made,1,54.0,47.0,101,v,Bargnani 26' 3PT Jump Shot (17 PTS) (DeRozan 1 AST),Made Shot,Jump Shot,0,198
+21200206,211,PT01M34.00S,2,1610612745,HOU,202335,Patterson,P. Patterson,-149,77,17,Made,1,56.0,47.0,103,h,Patterson 17' Jump Shot (7 PTS) (Harden 8 AST),Made Shot,Jump Shot,0,199
+21200206,212,PT01M24.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,-8,194,19,Missed,1,0.0,0.0,0,v,MISS Lowry 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,200
+21200206,214,PT01M15.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,Lowry REBOUND (Off:1 Def:3),Rebound,Unknown,0,201
+21200206,213,PT01M15.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,-4,1,0,Made,1,56.0,49.0,105,v,Valanciunas  Tip Shot (5 PTS),Made Shot,Tip Shot,0,202
+21200206,215,PT01M06.00S,2,1610612745,HOU,202335,Patterson,P. Patterson,-231,11,0,Missed,1,0.0,0.0,0,h,MISS Patterson  3PT Jump Shot,Missed Shot,Jump Shot,0,203
+21200206,216,PT01M05.00S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0.0,0.0,0,v,DeRozan REBOUND (Off:0 Def:2),Rebound,Unknown,0,204
+21200206,217,PT00M47.90S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,-128,11,13,Missed,1,0.0,0.0,0,v,MISS Valanciunas 13' Jump Shot,Missed Shot,Jump Shot,0,205
+21200206,218,PT00M45.90S,2,1610612761,TOR,200745,Bargnani,A. Bargnani,0,0,0,,0,0.0,0.0,0,v,Bargnani REBOUND (Off:1 Def:2),Rebound,Unknown,0,206
+21200206,219,PT00M44.80S,2,1610612761,TOR,200745,Bargnani,A. Bargnani,53,15,6,Made,1,56.0,51.0,107,v,Bargnani 6' Turnaround Jump Shot (19 PTS),Made Shot,Turnaround Jump Shot,0,207
+21200206,220,PT00M32.60S,2,1610612745,HOU,201935,Harden,J. Harden,-144,214,26,Made,1,59.0,51.0,110,h,Harden 26' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,0,208
+21200206,221,PT00M28.10S,2,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,Lowry Discontinue Dribble Turnover (P2.T9),Turnover,Discontinue Dribble,0,209
+21200206,222,PT00M06.70S,2,1610612745,HOU,201600,Asik,O. Asik,1,1,0,Made,1,61.0,51.0,112,h,Asik  Dunk (10 PTS) (Harden 9 AST),Made Shot,Dunk Shot,0,210
+21200206,223,PT00M00.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,0,6,1,Missed,1,0.0,0.0,0,v,MISS Lowry 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,0,211
+21200206,224,PT00M00.00S,2,0,,1610612761,,,0,0,0,,0,0.0,0.0,0,v,Raptors Rebound,Rebound,Unknown,0,212
+21200206,225,PT00M00.00S,2,0,,0,,,0,0,0,,0,61.0,51.0,112,,End of 2nd Period (9:02 PM EST),period,end,0,213
+21200206,227,PT12M00.00S,3,0,,0,,,0,0,0,,0,61.0,51.0,112,,Start of 3rd Period (9:17 PM EST),period,start,0,214
+21200206,228,PT11M46.00S,3,1610612745,HOU,201935,Harden,J. Harden,179,179,25,Made,1,64.0,51.0,115,h,Harden 25' 3PT Jump Shot (12 PTS) (Lin 5 AST),Made Shot,Jump Shot,0,215
+21200206,229,PT11M30.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,31,190,19,Missed,1,0.0,0.0,0,v,MISS DeRozan 19' Jump Shot,Missed Shot,Jump Shot,0,216
+21200206,230,PT11M29.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik REBOUND (Off:2 Def:8),Rebound,Unknown,0,217
+21200206,231,PT11M18.00S,3,1610612745,HOU,201600,Asik,O. Asik,7,0,1,Made,1,66.0,51.0,117,h,Asik 1' Dunk (12 PTS) (Lin 6 AST),Made Shot,Dunk Shot,0,218
+21200206,232,PT10M57.00S,3,1610612761,TOR,200745,Bargnani,A. Bargnani,-2,39,4,Made,1,66.0,53.0,119,v,Bargnani 4' Driving Layup (21 PTS),Made Shot,Driving Layup Shot,0,219
+21200206,233,PT10M41.00S,3,1610612745,HOU,202335,Patterson,P. Patterson,88,4,9,Made,1,68.0,53.0,121,h,Patterson 9' Turnaround Hook Shot (9 PTS),Made Shot,Turnaround Hook Shot,0,220
+21200206,234,PT10M29.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,-109,37,12,Missed,1,0.0,0.0,0,v,MISS Lowry 12' Jump Shot,Missed Shot,Jump Shot,0,221
+21200206,235,PT10M27.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,h,Parsons REBOUND (Off:1 Def:4),Rebound,Unknown,0,222
+21200206,236,PT10M10.00S,3,1610612745,HOU,202335,Patterson,P. Patterson,108,162,19,Missed,1,0.0,0.0,0,h,MISS Patterson 19' Jump Shot,Missed Shot,Jump Shot,0,223
+21200206,237,PT10M09.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,Lowry REBOUND (Off:1 Def:4),Rebound,Unknown,0,224
+21200206,238,PT10M04.00S,3,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,h,Patterson S.FOUL (P3.T1),Foul,Shooting,0,225
+21200206,239,PT10M04.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,68.0,54.0,122,v,DeRozan Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,226
+21200206,241,PT10M04.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,68.0,55.0,123,v,DeRozan Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,227
+21200206,243,PT09M49.00S,3,1610612745,HOU,202335,Patterson,P. Patterson,-98,15,10,Missed,1,0.0,0.0,0,h,MISS Patterson 10' Jump Shot,Missed Shot,Jump Shot,0,228
+21200206,244,PT09M48.00S,3,1610612761,TOR,201187,McGuire,D. McGuire,0,0,0,,0,0.0,0.0,0,v,McGuire REBOUND (Off:0 Def:1),Rebound,Unknown,0,229
+21200206,245,PT09M28.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0.0,0.0,0,v,DeRozan Lost Ball Turnover (P4.T10),Turnover,Lost Ball,0,230
+21200206,245,PT09M28.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,h,Parsons STEAL (1 STL),,,0,231
+21200206,246,PT09M24.00S,3,1610612745,HOU,201935,Harden,J. Harden,12,-5,1,Made,1,70.0,55.0,125,h,Harden 1' Dunk (14 PTS) (Lin 7 AST),Made Shot,Dunk Shot,0,232
+21200206,247,PT09M18.00S,3,0,,1610612761,,,0,0,0,,0,0.0,0.0,0,v,Raptors Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,233
+21200206,250,PT09M18.00S,3,1610612761,TOR,201187,McGuire,D. McGuire,0,0,0,,0,0.0,0.0,0,v,SUB: Ross FOR McGuire,Substitution,,0,234
+21200206,251,PT09M07.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,-141,137,20,Missed,1,0.0,0.0,0,v,MISS DeRozan 20' Jump Shot,Missed Shot,Jump Shot,0,235
+21200206,252,PT09M06.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik REBOUND (Off:2 Def:9),Rebound,Unknown,0,236
+21200206,253,PT08M58.00S,3,1610612745,HOU,201935,Harden,J. Harden,-32,246,25,Made,1,73.0,55.0,128,h,Harden 25' 3PT Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,0,237
+21200206,254,PT08M36.00S,3,1610612761,TOR,200745,Bargnani,A. Bargnani,-41,58,7,Missed,1,0.0,0.0,0,v,MISS Bargnani 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,238
+21200206,255,PT08M34.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden REBOUND (Off:1 Def:2),Rebound,Unknown,0,239
+21200206,256,PT08M24.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,h,Parsons Traveling Turnover (P1.T3),Turnover,Traveling,0,240
+21200206,257,PT08M14.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,Lowry Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,241
+21200206,257,PT08M14.00S,3,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,h,Patterson STEAL (1 STL),,,0,242
+21200206,258,PT08M10.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,Lowry S.FOUL (P2.T1),Foul,Shooting,0,243
+21200206,259,PT08M10.00S,3,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,74.0,55.0,129,h,Patterson Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,244
+21200206,261,PT08M10.00S,3,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,75.0,55.0,130,h,Patterson Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,245
+21200206,263,PT07M55.00S,3,1610612761,TOR,203082,Ross,T. Ross,103,173,20,Missed,1,0.0,0.0,0,v,MISS Ross 20' Jump Shot,Missed Shot,Jump Shot,0,246
+21200206,264,PT07M54.00S,3,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,h,Patterson REBOUND (Off:1 Def:3),Rebound,Unknown,0,247
+21200206,265,PT07M48.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,-220,123,25,Missed,1,0.0,0.0,0,h,MISS Parsons 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,248
+21200206,266,PT07M46.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik REBOUND (Off:3 Def:9),Rebound,Unknown,0,249
+21200206,267,PT07M41.00S,3,1610612745,HOU,201935,Harden,J. Harden,-16,252,25,Made,1,78.0,55.0,133,h,Harden 25' 3PT Jump Shot (20 PTS) (Lin 8 AST),Made Shot,Jump Shot,0,250
+21200206,268,PT07M25.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,23,-2,2,Made,1,78.0,57.0,135,v,Lowry 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,251
+21200206,269,PT07M25.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik S.FOUL (P3.T2),Foul,Shooting,0,252
+21200206,270,PT07M25.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,78.0,58.0,136,v,Lowry Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,253
+21200206,272,PT07M06.00S,3,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,Lin Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,254
+21200206,272,PT07M06.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,Lowry STEAL (1 STL),,,0,255
+21200206,273,PT07M01.00S,3,1610612761,TOR,203082,Ross,T. Ross,10,0,1,Made,1,78.0,60.0,138,v,Ross 1' Driving Slam Dunk (10 PTS) (Lowry 4 AST),Made Shot,Driving Slam Dunk Shot,0,256
+21200206,274,PT06M50.00S,3,1610612745,HOU,202335,Patterson,P. Patterson,233,7,0,Made,1,81.0,60.0,141,h,Patterson  3PT Jump Shot (14 PTS) (Harden 10 AST),Made Shot,Jump Shot,0,257
+21200206,275,PT06M34.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,-2,3,0,Made,1,81.0,62.0,143,v,Lowry  Layup (7 PTS) (Valanciunas 1 AST),Made Shot,Layup Shot,0,258
+21200206,276,PT06M23.00S,3,1610612745,HOU,202391,Lin,J. Lin,192,168,26,Missed,1,0.0,0.0,0,h,MISS Lin 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,259
+21200206,277,PT06M21.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0.0,0.0,0,v,DeRozan REBOUND (Off:0 Def:3),Rebound,Unknown,0,260
+21200206,278,PT06M12.00S,3,1610612761,TOR,203082,Ross,T. Ross,218,126,25,Missed,1,0.0,0.0,0,v,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,261
+21200206,279,PT06M11.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik REBOUND (Off:3 Def:10),Rebound,Unknown,0,262
+21200206,280,PT06M01.00S,3,1610612745,HOU,202335,Patterson,P. Patterson,17,-2,2,Missed,1,0.0,0.0,0,h,MISS Patterson 2' Reverse Layup,Missed Shot,Reverse Layup Shot,0,263
+21200206,281,PT06M01.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,h,Parsons REBOUND (Off:2 Def:4),Rebound,Unknown,0,264
+21200206,282,PT06M01.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0.0,0.0,0,v,DeRozan P.FOUL (P2.T2),Foul,Personal,0,265
+21200206,283,PT06M01.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0.0,0.0,0,v,SUB: Davis FOR Valanciunas,Substitution,,0,266
+21200206,284,PT06M01.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,SUB: Calderon FOR Lowry,Substitution,,0,267
+21200206,285,PT05M53.00S,3,1610612745,HOU,201935,Harden,J. Harden,231,110,26,Missed,1,0.0,0.0,0,h,MISS Harden 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,268
+21200206,286,PT05M52.00S,3,1610612761,TOR,202334,Davis,E. Davis,0,0,0,,0,0.0,0.0,0,v,Davis REBOUND (Off:0 Def:2),Rebound,Unknown,0,269
+21200206,288,PT05M37.00S,3,1610612761,TOR,202334,Davis,E. Davis,0,0,0,,0,0.0,0.0,0,v,Davis Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,270
+21200206,290,PT05M34.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,SUB: Smith FOR Asik,Substitution,,0,271
+21200206,291,PT05M24.00S,3,1610612745,HOU,202962,Smith,G. Smith,13,11,2,Missed,1,0.0,0.0,0,h,MISS Smith 2' Layup,Missed Shot,Layup Shot,0,272
+21200206,292,PT05M23.00S,3,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,h,Patterson REBOUND (Off:2 Def:3),Rebound,Unknown,0,273
+21200206,293,PT05M22.00S,3,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,0.0,0.0,0,v,Ross S.FOUL (P1.T3),Foul,Shooting,0,274
+21200206,294,PT05M22.00S,3,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,82.0,62.0,144,h,Patterson Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,275
+21200206,296,PT05M22.00S,3,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,83.0,62.0,145,h,Patterson Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,276
+21200206,299,PT05M08.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,-30,14,3,Made,1,83.0,64.0,147,v,DeRozan 3' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,0,277
+21200206,300,PT04M55.00S,3,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,Lin Out of Bounds Lost Ball Turnover (P2.T5),Turnover,Out of Bounds Lost Ball Turnover,0,278
+21200206,301,PT04M34.00S,3,1610612761,TOR,203082,Ross,T. Ross,193,63,20,Missed,1,0.0,0.0,0,v,MISS Ross 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,279
+21200206,302,PT04M32.00S,3,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,Lin REBOUND (Off:0 Def:2),Rebound,Unknown,0,280
+21200206,303,PT04M25.00S,3,1610612745,HOU,202335,Patterson,P. Patterson,12,7,1,Made,1,85.0,64.0,149,h,Patterson 1' Dunk (18 PTS) (Parsons 4 AST),Made Shot,Dunk Shot,0,281
+21200206,304,PT04M25.00S,3,1610612761,TOR,202334,Davis,E. Davis,0,0,0,,0,0.0,0.0,0,v,Davis S.FOUL (P1.T4),Foul,Shooting,0,282
+21200206,305,PT04M25.00S,3,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,86.0,64.0,150,h,Patterson Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,0,283
+21200206,308,PT04M13.00S,3,1610612761,TOR,200745,Bargnani,A. Bargnani,0,0,0,,0,0.0,0.0,0,v,Bargnani Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,284
+21200206,309,PT04M08.00S,3,1610612745,HOU,202335,Patterson,P. Patterson,230,-8,0,Made,1,89.0,64.0,153,h,Patterson  3PT Jump Shot (22 PTS) (Parsons 5 AST),Made Shot,Jump Shot,0,285
+21200206,310,PT03M51.00S,3,1610612761,TOR,200745,Bargnani,A. Bargnani,47,249,25,Missed,1,0.0,0.0,0,v,MISS Bargnani 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,286
+21200206,311,PT03M49.00S,3,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,Lin REBOUND (Off:0 Def:3),Rebound,Unknown,0,287
+21200206,312,PT03M44.00S,3,1610612761,TOR,202334,Davis,E. Davis,0,0,0,,0,0.0,0.0,0,v,Davis S.FOUL (P2.PN),Foul,Shooting,0,288
+21200206,313,PT03M44.00S,3,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,90.0,64.0,154,h,Smith Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,289
+21200206,315,PT03M44.00S,3,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,h,SUB: Morris FOR Patterson,Substitution,,0,290
+21200206,316,PT03M44.00S,3,1610612761,TOR,200745,Bargnani,A. Bargnani,0,0,0,,0,0.0,0.0,0,v,SUB: Johnson FOR Bargnani,Substitution,,0,291
+21200206,319,PT03M44.00S,3,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson Violation:Lane,Violation,Lane,0,292
+21200206,321,PT03M44.00S,3,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,91.0,64.0,155,h,Smith Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,293
+21200206,326,PT03M22.00S,3,1610612761,TOR,202334,Davis,E. Davis,-122,14,12,Made,1,91.0,66.0,157,v,Davis 12' Jump Bank Shot (6 PTS),Made Shot,Jump Bank Shot,0,294
+21200206,327,PT03M04.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden Out of Bounds Lost Ball Turnover (P2.T6),Turnover,Out of Bounds Lost Ball Turnover,0,295
+21200206,328,PT02M53.00S,3,1610612761,TOR,203082,Ross,T. Ross,-201,145,25,Made,1,91.0,69.0,160,v,Ross 25' 3PT Jump Shot (13 PTS) (Calderon 5 AST),Made Shot,Jump Shot,0,296
+21200206,329,PT02M35.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,-231,39,0,Made,1,94.0,69.0,163,h,Parsons  3PT Jump Shot (11 PTS) (Lin 9 AST),Made Shot,Jump Shot,0,297
+21200206,330,PT02M21.00S,3,1610612761,TOR,101161,Johnson,A. Johnson,-95,153,18,Missed,1,0.0,0.0,0,v,MISS Johnson 18' Jump Shot,Missed Shot,Jump Shot,0,298
+21200206,331,PT02M19.00S,3,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,Lin REBOUND (Off:0 Def:4),Rebound,Unknown,0,299
+21200206,332,PT02M01.00S,3,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,0.0,0.0,0,v,Ross S.FOUL (P2.PN),Foul,Shooting,0,300
+21200206,333,PT02M01.00S,3,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,301
+21200206,335,PT02M01.00S,3,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,0.0,0.0,0,v,SUB: Lucas III FOR Ross,Substitution,,0,302
+21200206,336,PT02M01.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,h,SUB: Cook FOR Parsons,Substitution,,0,303
+21200206,337,PT02M01.00S,3,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,SUB: Douglas FOR Lin,Substitution,,0,304
+21200206,338,PT02M01.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,95.0,69.0,164,h,Harden Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,305
+21200206,340,PT02M01.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,96.0,69.0,165,h,Harden Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,306
+21200206,343,PT01M43.00S,3,1610612761,TOR,101181,Calderon,J. Calderon,196,6,20,Missed,1,0.0,0.0,0,v,MISS Calderon 20' Jump Shot,Missed Shot,Jump Shot,0,307
+21200206,344,PT01M42.00S,3,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson REBOUND (Off:2 Def:1),Rebound,Unknown,0,308
+21200206,345,PT01M38.00S,3,1610612761,TOR,101181,Calderon,J. Calderon,56,242,25,Made,1,96.0,72.0,168,v,Calderon 25' 3PT Jump Shot (6 PTS) (Johnson 2 AST),Made Shot,Jump Shot,0,309
+21200206,346,PT01M17.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden Lost Ball Turnover (P3.T7),Turnover,Lost Ball,0,310
+21200206,346,PT01M17.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0.0,0.0,0,v,DeRozan STEAL (2 STL),,,0,311
+21200206,347,PT01M14.00S,3,1610612745,HOU,201161,Cook,D. Cook,0,0,0,,0,0.0,0.0,0,h,Cook S.FOUL (P1.T3),Foul,Shooting,0,312
+21200206,348,PT01M14.00S,3,1610612761,TOR,202334,Davis,E. Davis,0,0,0,,0,96.0,73.0,169,v,Davis Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,313
+21200206,350,PT01M14.00S,3,1610612761,TOR,202334,Davis,E. Davis,0,0,0,,0,96.0,74.0,170,v,Davis Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,314
+21200206,352,PT01M05.00S,3,1610612745,HOU,201962,Douglas,T. Douglas,0,0,0,,0,0.0,0.0,0,h,Douglas Traveling Turnover (P1.T8),Turnover,Traveling,0,315
+21200206,353,PT00M48.00S,3,1610612761,TOR,101181,Calderon,J. Calderon,-103,225,25,Made,1,96.0,77.0,173,v,Calderon 25' 3PT Jump Shot (9 PTS) (Lucas III 1 AST),Made Shot,Jump Shot,0,316
+21200206,354,PT00M34.90S,3,1610612745,HOU,201962,Douglas,T. Douglas,185,173,25,Missed,1,0.0,0.0,0,h,MISS Douglas 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,317
+21200206,355,PT00M32.90S,3,1610612761,TOR,101249,Lucas III,J. Lucas III,0,0,0,,0,0.0,0.0,0,v,Lucas III REBOUND (Off:0 Def:1),Rebound,Unknown,0,318
+21200206,356,PT00M13.80S,3,1610612761,TOR,202334,Davis,E. Davis,37,97,10,Made,1,96.0,79.0,175,v,Davis 10' Jump Shot (10 PTS) (Johnson 3 AST),Made Shot,Jump Shot,0,319
+21200206,357,PT00M00.00S,3,1610612745,HOU,201161,Cook,D. Cook,203,173,27,Made,1,99.0,79.0,178,h,Cook 27' 3PT Jump Shot (5 PTS) (Harden 11 AST),Made Shot,Jump Shot,0,320
+21200206,358,PT00M00.00S,3,0,,357,Sutton,G. Sutton,0,0,0,,0,0.0,0.0,0,,Support Ruling,Instant Replay,Support Ruling,0,321
+21200206,359,PT00M00.00S,3,0,,0,,,0,0,0,,0,99.0,79.0,178,,End of 3rd Period (9:45 PM EST),period,end,0,322
+21200206,361,PT12M00.00S,4,0,,0,,,0,0,0,,0,99.0,79.0,178,,Start of 4th Period (9:46 PM EST),period,start,0,323
+21200206,362,PT11M50.00S,4,1610612761,TOR,101249,Lucas III,J. Lucas III,-153,148,21,Made,1,99.0,81.0,180,v,Lucas III 21' Jump Shot (2 PTS) (Calderon 6 AST),Made Shot,Jump Shot,0,324
+21200206,363,PT11M37.00S,4,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,231,-2,0,Missed,1,0.0,0.0,0,h,MISS Morris  3PT Jump Shot,Missed Shot,Jump Shot,0,325
+21200206,364,PT11M35.00S,4,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson REBOUND (Off:2 Def:2),Rebound,Unknown,0,326
+21200206,365,PT11M23.00S,4,1610612761,TOR,101161,Johnson,A. Johnson,73,19,8,Made,1,99.0,83.0,182,v,Johnson 8' Turnaround Hook Shot (4 PTS) (Calderon 7 AST),Made Shot,Turnaround Hook Shot,0,327
+21200206,366,PT10M59.00S,4,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson S.FOUL (P2.T1),Foul,Shooting,0,328
+21200206,367,PT10M59.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,100.0,83.0,183,h,Asik Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,329
+21200206,369,PT10M59.00S,4,1610612745,HOU,201161,Cook,D. Cook,0,0,0,,0,0.0,0.0,0,h,SUB: Parsons FOR Cook,Substitution,,0,330
+21200206,370,PT10M59.00S,4,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0.0,0.0,0,h,SUB: Patterson FOR Morris,Substitution,,0,331
+21200206,371,PT10M59.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,MISS Asik Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,332
+21200206,373,PT10M59.00S,4,1610612761,TOR,202334,Davis,E. Davis,0,0,0,,0,0.0,0.0,0,v,Davis REBOUND (Off:0 Def:3),Rebound,Unknown,0,333
+21200206,374,PT10M37.00S,4,1610612761,TOR,101161,Johnson,A. Johnson,45,239,24,Missed,1,0.0,0.0,0,v,MISS Johnson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,334
+21200206,375,PT10M36.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik REBOUND (Off:3 Def:11),Rebound,Unknown,0,335
+21200206,376,PT10M31.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden Bad Pass Turnover (P4.T9),Turnover,Bad Pass,0,336
+21200206,377,PT10M16.00S,4,1610612761,TOR,203082,Ross,T. Ross,111,172,20,Missed,1,0.0,0.0,0,v,MISS Ross 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,337
+21200206,378,PT10M13.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden REBOUND (Off:1 Def:3),Rebound,Unknown,0,338
+21200206,379,PT09M59.00S,4,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,Lin Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,339
+21200206,379,PT09M59.00S,4,1610612761,TOR,202334,Davis,E. Davis,0,0,0,,0,0.0,0.0,0,v,Davis STEAL (1 STL),,,0,340
+21200206,380,PT09M55.00S,4,1610612761,TOR,203082,Ross,T. Ross,7,9,1,Made,1,100.0,85.0,185,v,Ross 1' Dunk (15 PTS),Made Shot,Dunk Shot,0,341
+21200206,382,PT09M55.00S,4,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,342
+21200206,386,PT09M37.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,h,Parsons Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,343
+21200206,386,PT09M37.00S,4,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson STEAL (1 STL),,,0,344
+21200206,387,PT09M18.00S,4,1610612761,TOR,101249,Lucas III,J. Lucas III,-71,176,19,Missed,1,0.0,0.0,0,v,MISS Lucas III 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,345
+21200206,388,PT09M15.00S,4,1610612761,TOR,202334,Davis,E. Davis,0,0,0,,0,0.0,0.0,0,v,Davis REBOUND (Off:1 Def:3),Rebound,Unknown,0,346
+21200206,389,PT09M04.00S,4,1610612761,TOR,101249,Lucas III,J. Lucas III,-232,-6,0,Missed,1,0.0,0.0,0,v,MISS Lucas III  3PT Jump Shot,Missed Shot,Jump Shot,0,347
+21200206,390,PT09M03.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,h,Parsons REBOUND (Off:2 Def:5),Rebound,Unknown,0,348
+21200206,391,PT08M54.00S,4,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Timeout: Short (Full 4 Short 2),Timeout,Short,0,349
+21200206,393,PT08M45.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,162,194,25,Made,1,103.0,85.0,188,h,Parsons 25' 3PT Jump Shot (14 PTS) (Lin 10 AST),Made Shot,Jump Shot,0,350
+21200206,394,PT08M22.00S,4,1610612761,TOR,101181,Calderon,J. Calderon,-202,142,25,Missed,1,0.0,0.0,0,v,MISS Calderon 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,351
+21200206,395,PT08M20.00S,4,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson REBOUND (Off:3 Def:2),Rebound,Unknown,0,352
+21200206,396,PT08M15.00S,4,1610612761,TOR,202334,Davis,E. Davis,0,0,0,,0,0.0,0.0,0,v,Davis Lost Ball Turnover (P2.T14),Turnover,Lost Ball,0,353
+21200206,396,PT08M15.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik STEAL (2 STL),,,0,354
+21200206,397,PT08M10.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,17,22,3,Missed,1,0.0,0.0,0,h,MISS Parsons 3' Layup,Missed Shot,Layup Shot,0,355
+21200206,398,PT08M06.00S,4,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,0.0,0.0,0,v,Ross REBOUND (Off:1 Def:3),Rebound,Unknown,0,356
+21200206,399,PT07M57.00S,4,1610612761,TOR,101161,Johnson,A. Johnson,-199,151,25,Missed,1,0.0,0.0,0,v,MISS Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,357
+21200206,400,PT07M56.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik REBOUND (Off:3 Def:12),Rebound,Unknown,0,358
+21200206,401,PT07M46.00S,4,1610612745,HOU,201935,Harden,J. Harden,6,4,1,Made,1,105.0,85.0,190,h,Harden 1' Driving Layup (24 PTS),Made Shot,Driving Layup Shot,0,359
+21200206,404,PT07M30.00S,4,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,0.0,0.0,0,v,SUB: Valanciunas FOR Johnson,Substitution,,0,360
+21200206,405,PT07M23.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,72,160,18,Missed,1,0.0,0.0,0,v,MISS Valanciunas 18' Jump Shot,Missed Shot,Jump Shot,0,361
+21200206,406,PT07M22.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik REBOUND (Off:3 Def:13),Rebound,Unknown,0,362
+21200206,407,PT07M16.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik OFF.Foul (P4),Foul,Offensive,0,363
+21200206,408,PT07M16.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik Foul Turnover (P2.T12),Turnover,Foul,0,364
+21200206,409,PT06M53.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,-134,1,13,Made,1,105.0,87.0,192,v,Valanciunas 13' Jump Shot (7 PTS) (Lucas III 2 AST),Made Shot,Jump Shot,0,365
+21200206,410,PT06M46.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,26,4,3,Made,1,107.0,87.0,194,h,Parsons 3' Driving Layup (16 PTS) (Harden 12 AST),Made Shot,Driving Layup Shot,0,366
+21200206,411,PT06M45.00S,4,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Violation: Delay of game Violation,Violation,Delay Of Game,0,367
+21200206,412,PT06M31.00S,4,1610612761,TOR,101181,Calderon,J. Calderon,59,250,26,Made,1,107.0,90.0,197,v,Calderon 26' 3PT Jump Shot (12 PTS) (Lucas III 3 AST),Made Shot,Jump Shot,0,368
+21200206,413,PT06M18.00S,4,1610612761,TOR,202334,Davis,E. Davis,0,0,0,,0,0.0,0.0,0,v,Davis P.FOUL (P3.T2),Foul,Personal,0,369
+21200206,414,PT06M18.00S,4,1610612761,TOR,101181,Calderon,J. Calderon,0,0,0,,0,0.0,0.0,0,v,SUB: Lowry FOR Calderon,Substitution,,0,370
+21200206,415,PT06M18.00S,4,1610612761,TOR,202334,Davis,E. Davis,0,0,0,,0,0.0,0.0,0,v,SUB: Bargnani FOR Davis,Substitution,,0,371
+21200206,416,PT06M05.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,h,Parsons Lost Ball Turnover (P3.T13),Turnover,Lost Ball,0,372
+21200206,416,PT06M05.00S,4,1610612761,TOR,200745,Bargnani,A. Bargnani,0,0,0,,0,0.0,0.0,0,v,Bargnani STEAL (1 STL),,,0,373
+21200206,417,PT06M01.00S,4,1610612761,TOR,203082,Ross,T. Ross,6,-6,1,Made,1,107.0,92.0,199,v,Ross 1' Dunk (17 PTS) (Lucas III 4 AST),Made Shot,Dunk Shot,0,374
+21200206,418,PT05M31.00S,4,1610612745,HOU,202335,Patterson,P. Patterson,61,1,6,Missed,1,0.0,0.0,0,h,MISS Patterson 6' Jump Shot,Missed Shot,Jump Shot,0,375
+21200206,419,PT05M29.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,Lowry REBOUND (Off:1 Def:5),Rebound,Unknown,0,376
+21200206,420,PT05M19.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,64,6,6,Missed,1,0.0,0.0,0,v,MISS Lowry 6' Running Jump Shot,Missed Shot,Running Jump Shot,0,377
+21200206,421,PT05M16.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0.0,0.0,0,v,Valanciunas REBOUND (Off:1 Def:3),Rebound,Unknown,0,378
+21200206,422,PT05M14.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,-18,26,3,Made,1,107.0,94.0,201,v,Valanciunas 3' Turnaround Hook Shot (9 PTS),Made Shot,Turnaround Hook Shot,0,379
+21200206,424,PT04M47.00S,4,1610612745,HOU,202391,Lin,J. Lin,37,12,4,Made,1,109.0,94.0,203,h,Lin 4' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,0,380
+21200206,425,PT04M41.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0.0,0.0,0,v,Valanciunas Bad Pass Turnover (P2.T15),Turnover,Bad Pass,0,381
+21200206,425,PT04M41.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden STEAL (3 STL),,,0,382
+21200206,426,PT04M27.00S,4,1610612745,HOU,201935,Harden,J. Harden,170,93,19,Missed,1,0.0,0.0,0,h,MISS Harden 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,383
+21200206,427,PT04M25.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,Lowry REBOUND (Off:1 Def:6),Rebound,Unknown,0,384
+21200206,428,PT04M19.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,20,20,3,Made,1,109.0,96.0,205,v,Valanciunas 3' Layup (11 PTS) (Lowry 5 AST),Made Shot,Layup Shot,0,385
+21200206,429,PT04M19.00S,4,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,Lin S.FOUL (P1.T1),Foul,Shooting,0,386
+21200206,430,PT04M19.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Regular,Timeout,Regular,0,387
+21200206,433,PT04M19.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,109.0,97.0,206,v,Valanciunas Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,388
+21200206,435,PT04M09.00S,4,1610612745,HOU,202391,Lin,J. Lin,-13,12,2,Made,1,111.0,97.0,208,h,Lin 2' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,0,389
+21200206,436,PT03M54.00S,4,1610612761,TOR,203082,Ross,T. Ross,170,140,22,Made,1,111.0,99.0,210,v,Ross 22' Jump Shot (19 PTS),Made Shot,Jump Shot,0,390
+21200206,437,PT03M31.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,Lowry Shooting Block Foul (P3.T3),Foul,Shooting Block,0,391
+21200206,438,PT03M31.00S,4,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,112.0,99.0,211,h,Lin Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,392
+21200206,440,PT03M31.00S,4,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,MISS Lin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,393
+21200206,442,PT03M31.00S,4,1610612761,TOR,200745,Bargnani,A. Bargnani,0,0,0,,0,0.0,0.0,0,v,Bargnani REBOUND (Off:1 Def:3),Rebound,Unknown,0,394
+21200206,443,PT03M15.00S,4,1610612761,TOR,203082,Ross,T. Ross,179,52,19,Missed,1,0.0,0.0,0,v,MISS Ross 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,395
+21200206,444,PT03M13.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0.0,0.0,0,v,Valanciunas REBOUND (Off:2 Def:3),Rebound,Unknown,0,396
+21200206,445,PT03M10.00S,4,1610612761,TOR,101249,Lucas III,J. Lucas III,-201,146,25,Missed,1,0.0,0.0,0,v,MISS Lucas III 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,397
+21200206,446,PT03M09.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden REBOUND (Off:1 Def:4),Rebound,Unknown,0,398
+21200206,447,PT03M01.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0.0,0.0,0,v,Valanciunas Violation:Kicked Ball,Violation,Kicked Ball,0,399
+21200206,448,PT02M55.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,171,189,25,Missed,1,0.0,0.0,0,h,MISS Parsons 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,400
+21200206,449,PT02M54.00S,4,1610612761,TOR,101249,Lucas III,J. Lucas III,0,0,0,,0,0.0,0.0,0,v,Lucas III REBOUND (Off:0 Def:2),Rebound,Unknown,0,401
+21200206,450,PT02M46.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,-205,138,25,Missed,1,0.0,0.0,0,v,MISS Lowry 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,402
+21200206,451,PT02M45.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden REBOUND (Off:1 Def:5),Rebound,Unknown,0,403
+21200206,452,PT02M27.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,h,Parsons OFF.Foul (P1),Foul,Offensive,0,404
+21200206,453,PT02M27.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,h,Parsons Foul Turnover (P4.T14),Turnover,Foul,0,405
+21200206,454,PT02M27.00S,4,0,,1610612761,,,0,0,0,,0,0.0,0.0,0,v,Raptors Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,406
+21200206,458,PT02M17.00S,4,1610612761,TOR,200745,Bargnani,A. Bargnani,0,0,0,,0,0.0,0.0,0,v,Bargnani Lost Ball Turnover (P3.T16),Turnover,Lost Ball,0,407
+21200206,458,PT02M17.00S,4,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,Lin STEAL (3 STL),,,0,408
+21200206,459,PT02M13.00S,4,1610612745,HOU,202391,Lin,J. Lin,9,4,1,Made,1,114.0,99.0,213,h,Lin 1' Dunk (16 PTS),Made Shot,Dunk Shot,0,409
+21200206,460,PT01M55.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,7,37,4,Missed,1,0.0,0.0,0,v,MISS Valanciunas 4' Hook Shot,Missed Shot,Hook Shot,0,410
+21200206,461,PT01M53.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik REBOUND (Off:3 Def:14),Rebound,Unknown,0,411
+21200206,463,PT01M35.00S,4,1610612745,HOU,202335,Patterson,P. Patterson,230,93,25,Missed,1,0.0,0.0,0,h,MISS Patterson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,412
+21200206,464,PT01M34.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,Lowry REBOUND (Off:1 Def:7),Rebound,Unknown,0,413
+21200206,465,PT01M28.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,-125,235,27,Missed,1,0.0,0.0,0,v,MISS Lowry 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,414
+21200206,466,PT01M26.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik REBOUND (Off:3 Def:15),Rebound,Unknown,0,415
+21200206,467,PT01M04.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,4,6,1,Made,1,116.0,99.0,215,h,Parsons 1' Dunk (18 PTS) (Asik 2 AST),Made Shot,Dunk Shot,0,416
+21200206,468,PT01M03.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden Personal Take Foul (P1.T2),Foul,Personal Take,0,417
+21200206,469,PT01M03.00S,4,1610612761,TOR,200745,Bargnani,A. Bargnani,0,0,0,,0,0.0,0.0,0,v,SUB: Gray FOR Bargnani,Substitution,,0,418
+21200206,470,PT01M03.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0.0,0.0,0,v,SUB: Davis FOR Valanciunas,Substitution,,0,419
+21200206,471,PT01M03.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,h,SUB: Jones FOR Parsons,Substitution,,0,420
+21200206,472,PT01M03.00S,4,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,h,SUB: Smith FOR Patterson,Substitution,,0,421
+21200206,473,PT01M03.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,SUB: Cook FOR Asik,Substitution,,0,422
+21200206,474,PT01M03.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,SUB: Douglas FOR Harden,Substitution,,0,423
+21200206,475,PT01M03.00S,4,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,SUB: Motiejunas FOR Lin,Substitution,,0,424
+21200206,476,PT00M47.10S,4,1610612761,TOR,202334,Davis,E. Davis,-141,97,17,Made,1,116.0,101.0,217,v,Davis 17' Jump Shot (12 PTS) (Lucas III 5 AST),Made Shot,Jump Shot,0,425
+21200206,477,PT00M39.10S,4,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,v,Lowry S.FOUL (P4.T4),Foul,Shooting,0,426
+21200206,478,PT00M39.10S,4,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,117.0,101.0,218,h,Smith Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,427
+21200206,480,PT00M39.10S,4,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0.0,0.0,0,h,MISS Smith Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,428
+21200206,482,PT00M39.10S,4,1610612761,TOR,201189,Gray,A. Gray,0,0,0,,0,0.0,0.0,0,v,Gray REBOUND (Off:0 Def:1),Rebound,Unknown,0,429
+21200206,483,PT00M15.90S,4,1610612761,TOR,101249,Lucas III,J. Lucas III,-188,50,19,Missed,1,0.0,0.0,0,v,MISS Lucas III 19' Jump Shot,Missed Shot,Jump Shot,0,430
+21200206,484,PT00M14.90S,4,1610612761,TOR,201189,Gray,A. Gray,0,0,0,,0,0.0,0.0,0,v,Gray REBOUND (Off:1 Def:1),Rebound,Unknown,0,431
+21200206,485,PT00M11.90S,4,1610612761,TOR,202334,Davis,E. Davis,144,42,15,Missed,1,0.0,0.0,0,v,MISS Davis 15' Jump Shot,Missed Shot,Jump Shot,0,432
+21200206,487,PT00M10.90S,4,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,0.0,0.0,0,v,Ross REBOUND (Off:2 Def:3),Rebound,Unknown,0,433
+21200206,486,PT00M10.90S,4,1610612761,TOR,203082,Ross,T. Ross,-4,9,1,Missed,1,0.0,0.0,0,v,MISS Ross 1' Putback Dunk,Missed Shot,Putback Dunk Shot,0,434
+21200206,488,PT00M06.90S,4,1610612745,HOU,201161,Cook,D. Cook,0,0,0,,0,0.0,0.0,0,h,Cook REBOUND (Off:0 Def:1),Rebound,Unknown,0,435
+21200206,489,PT00M00.00S,4,0,,0,,,0,0,0,,0,117.0,101.0,218,,End of 4th Period (10:13 PM EST),period,end,0,436

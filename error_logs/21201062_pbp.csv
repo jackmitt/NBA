@@ -1,0 +1,471 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+21201062,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (8:06 PM EST),period,start,0,1
+21201062,1,PT12M00.00S,1,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,0.0,0.0,0,h,Jump Ball Mohammed vs. Bosh: Tip to James,Jump Ball,,0,2
+21201062,2,PT11M42.00S,1,1610612748,MIA,2548,Wade,D. Wade,113,-16,11,Missed,1,0.0,0.0,0,v,MISS Wade 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,0,3
+21201062,3,PT11M42.00S,1,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Rebound,Rebound,Unknown,0,4
+21201062,4,PT11M31.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,5
+21201062,4,PT11M31.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,Boozer STEAL (1 STL),,,0,6
+21201062,5,PT11M12.00S,1,1610612741,CHI,202710,Butler,J. Butler,-239,23,24,Made,1,3.0,0.0,3,h,Butler 24' 3PT Jump Shot (3 PTS) (Deng 1 AST),Made Shot,Jump Shot,0,7
+21201062,6,PT11M00.00S,1,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,8
+21201062,6,PT11M00.00S,1,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,0.0,0.0,0,h,Mohammed STEAL (1 STL),,,0,9
+21201062,7,PT10M55.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,-15,7,2,Made,1,5.0,0.0,5,h,Hinrich 2' Running Reverse Layup (2 PTS),Made Shot,Running Reverse Layup Shot,0,10
+21201062,8,PT10M34.00S,1,1610612748,MIA,201596,Chalmers,M. Chalmers,0,44,4,Made,1,5.0,2.0,7,v,Chalmers 4' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,0,11
+21201062,9,PT10M20.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,13,9,2,Made,1,7.0,2.0,9,h,Boozer 2' Layup (2 PTS) (Butler 1 AST),Made Shot,Layup Shot,0,12
+21201062,10,PT10M03.00S,1,1610612748,MIA,2617,Haslem,U. Haslem,-75,134,15,Missed,1,0.0,0.0,0,v,MISS Haslem 15' Jump Shot,Missed Shot,Jump Shot,0,13
+21201062,11,PT10M02.00S,1,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0.0,0.0,0,h,Deng REBOUND (Off:0 Def:1),Rebound,Unknown,0,14
+21201062,12,PT09M47.00S,1,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0.0,0.0,0,v,Haslem Personal Block Foul (P1.T1),Foul,Personal Block,0,15
+21201062,15,PT09M36.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,146,15,Made,1,9.0,2.0,11,h,Boozer 15' Pullup Jump Shot (4 PTS) (Butler 2 AST),Made Shot,Pullup Jump shot,0,16
+21201062,16,PT09M21.00S,1,1610612748,MIA,2547,Bosh,C. Bosh,111,183,21,Missed,1,0.0,0.0,0,v,MISS Bosh 21' Jump Shot,Missed Shot,Jump Shot,0,17
+21201062,17,PT09M20.00S,1,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0.0,0.0,0,h,Deng REBOUND (Off:0 Def:2),Rebound,Unknown,0,18
+21201062,18,PT09M09.00S,1,1610612741,CHI,202710,Butler,J. Butler,152,3,15,Missed,1,0.0,0.0,0,h,MISS Butler 15' Jump Shot,Missed Shot,Jump Shot,0,19
+21201062,19,PT09M09.00S,1,0,,1610612741,,,0,0,0,,0,0.0,0.0,0,h,BULLS Rebound,Rebound,Unknown,0,20
+21201062,20,PT09M02.00S,1,1610612741,CHI,2736,Deng,L. Deng,67,170,18,Made,1,11.0,2.0,13,h,Deng 18' Jump Shot (2 PTS) (Hinrich 1 AST),Made Shot,Jump Shot,0,21
+21201062,21,PT09M02.00S,1,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,22
+21201062,22,PT08M52.00S,1,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0.0,0.0,0,v,Haslem OFF.Foul (P2),Foul,Offensive,0,23
+21201062,23,PT08M52.00S,1,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0.0,0.0,0,v,Haslem Foul Turnover (P1.T3),Turnover,Foul,0,24
+21201062,24,PT08M39.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,26,12,3,Missed,1,0.0,0.0,0,h,MISS Boozer 3' Layup,Missed Shot,Layup Shot,0,25
+21201062,24,PT08M39.00S,1,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,0.0,0.0,0,v,Bosh BLOCK (1 BLK),,,0,26
+21201062,25,PT08M37.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,Boozer REBOUND (Off:1 Def:0),Rebound,Unknown,0,27
+21201062,26,PT08M36.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,-27,1,3,Made,1,13.0,2.0,15,h,Boozer 3' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,0,28
+21201062,27,PT08M20.00S,1,1610612748,MIA,2544,James,L. James,-182,165,25,Made,1,13.0,5.0,18,v,James 25' 3PT Jump Shot (3 PTS) (Haslem 1 AST),Made Shot,Jump Shot,0,29
+21201062,29,PT08M02.00S,1,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0.0,0.0,0,h,Butler Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,30
+21201062,29,PT08M02.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade STEAL (1 STL),,,0,31
+21201062,30,PT07M58.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0.0,0.0,0,h,Hinrich S.FOUL (P1.T1),Foul,Shooting,0,32
+21201062,31,PT07M58.00S,1,1610612748,MIA,2544,James,L. James,0,0,0,,0,13.0,6.0,19,v,James Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,33
+21201062,33,PT07M58.00S,1,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,MISS James Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,34
+21201062,35,PT07M58.00S,1,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Rebound,Rebound,Unknown,0,35
+21201062,36,PT07M43.00S,1,1610612748,MIA,2544,James,L. James,-163,190,25,Made,1,13.0,9.0,22,v,James 25' 3PT Jump Shot (7 PTS),Made Shot,Jump Shot,0,36
+21201062,37,PT07M18.00S,1,1610612741,CHI,2736,Deng,L. Deng,-16,17,2,Made,1,15.0,9.0,24,h,Deng 2' Finger Roll Layup (4 PTS),Made Shot,Finger Roll Layup Shot,0,37
+21201062,39,PT07M11.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,Boozer S.FOUL (P1.T2),Foul,Shooting,0,38
+21201062,40,PT07M11.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,MISS Wade Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,39
+21201062,41,PT07M11.00S,1,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Rebound,Rebound,Normal Rebound,0,40
+21201062,42,PT07M11.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,15.0,10.0,25,v,Wade Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,41
+21201062,44,PT06M56.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,-180,192,26,Missed,1,0.0,0.0,0,h,MISS Hinrich 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,42
+21201062,45,PT06M55.00S,1,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James REBOUND (Off:0 Def:1),Rebound,Unknown,0,43
+21201062,46,PT06M52.00S,1,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James Lost Ball Turnover (P2.T4),Turnover,Lost Ball,0,44
+21201062,46,PT06M52.00S,1,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0.0,0.0,0,h,Butler STEAL (1 STL),,,0,45
+21201062,47,PT06M45.00S,1,1610612741,CHI,2736,Deng,L. Deng,-172,181,25,Missed,1,0.0,0.0,0,h,MISS Deng 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,46
+21201062,48,PT06M45.00S,1,0,,1610612741,,,0,0,0,,0,0.0,0.0,0,h,BULLS Rebound,Rebound,Unknown,0,47
+21201062,49,PT06M45.00S,1,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0.0,0.0,0,v,Haslem L.B.FOUL (P3.T2),Foul,Loose Ball,0,48
+21201062,50,PT06M45.00S,1,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0.0,0.0,0,v,SUB: Battier FOR Haslem,Substitution,,0,49
+21201062,51,PT06M23.00S,1,1610612741,CHI,202710,Butler,J. Butler,-171,175,24,Missed,1,0.0,0.0,0,h,MISS Butler 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,50
+21201062,53,PT06M22.00S,1,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0.0,0.0,0,h,Deng REBOUND (Off:1 Def:2),Rebound,Unknown,0,51
+21201062,52,PT06M22.00S,1,1610612741,CHI,2736,Deng,L. Deng,-7,23,2,Missed,1,0.0,0.0,0,h,MISS Deng 2' Putback Layup,Missed Shot,Putback Layup Shot,0,52
+21201062,54,PT06M21.00S,1,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James REBOUND (Off:0 Def:2),Rebound,Unknown,0,53
+21201062,55,PT06M15.00S,1,1610612748,MIA,2544,James,L. James,-187,176,26,Missed,1,0.0,0.0,0,v,MISS James 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,54
+21201062,56,PT06M14.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,Boozer REBOUND (Off:1 Def:1),Rebound,Unknown,0,55
+21201062,60,PT05M51.00S,1,1610612741,CHI,1737,Mohammed,N. Mohammed,0,20,2,Made,1,17.0,10.0,27,h,Mohammed 2' Reverse Layup (2 PTS) (Deng 2 AST),Made Shot,Reverse Layup Shot,0,56
+21201062,61,PT05M31.00S,1,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,0.0,0.0,0,v,Battier Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,57
+21201062,61,PT05M31.00S,1,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,0.0,0.0,0,h,Mohammed STEAL (2 STL),,,0,58
+21201062,62,PT05M14.00S,1,1610612741,CHI,202710,Butler,J. Butler,162,3,16,Made,1,19.0,10.0,29,h,Butler 16' Jump Shot (5 PTS),Made Shot,Jump Shot,0,59
+21201062,63,PT04M50.00S,1,1610612748,MIA,2547,Bosh,C. Bosh,4,31,3,Missed,1,0.0,0.0,0,v,MISS Bosh 3' Driving Layup,Missed Shot,Driving Layup Shot,0,60
+21201062,63,PT04M50.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,Boozer BLOCK (1 BLK),,,0,61
+21201062,64,PT04M49.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,Boozer REBOUND (Off:1 Def:2),Rebound,Unknown,0,62
+21201062,66,PT04M40.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,63
+21201062,65,PT04M40.00S,1,1610612741,CHI,1737,Mohammed,N. Mohammed,20,12,2,Made,1,21.0,10.0,31,h,Mohammed 2' Layup (4 PTS) (Butler 3 AST),Made Shot,Layup Shot,0,64
+21201062,67,PT04M40.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade HANGING.TECH.FOUL (P0.T2),Foul,Hanging Technical,0,65
+21201062,68,PT04M40.00S,1,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,22.0,10.0,32,h,Butler Free Throw Technical (6 PTS),Free Throw,Free Throw Technical,0,66
+21201062,70,PT04M22.00S,1,1610612748,MIA,2547,Bosh,C. Bosh,9,7,1,Made,1,22.0,12.0,34,v,Bosh 1' Dunk (2 PTS) (James 1 AST),Made Shot,Dunk Shot,0,67
+21201062,71,PT04M06.00S,1,1610612741,CHI,2736,Deng,L. Deng,187,186,26,Made,1,25.0,12.0,37,h,Deng 26' 3PT Jump Shot (7 PTS) (Hinrich 2 AST),Made Shot,Jump Shot,0,68
+21201062,73,PT03M54.00S,1,1610612748,MIA,2547,Bosh,C. Bosh,-8,250,25,Missed,1,0.0,0.0,0,v,MISS Bosh 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,69
+21201062,74,PT03M52.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,Boozer REBOUND (Off:1 Def:3),Rebound,Unknown,0,70
+21201062,75,PT03M42.00S,1,1610612741,CHI,2736,Deng,L. Deng,13,19,2,Missed,1,0.0,0.0,0,h,MISS Deng 2' Layup,Missed Shot,Layup Shot,0,71
+21201062,75,PT03M42.00S,1,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,0.0,0.0,0,v,Bosh BLOCK (2 BLK),,,0,72
+21201062,76,PT03M40.00S,1,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0.0,0.0,0,v,Chalmers REBOUND (Off:0 Def:1),Rebound,Unknown,0,73
+21201062,77,PT03M39.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0.0,0.0,0,h,Hinrich S.FOUL (P2.T3),Foul,Shooting,0,74
+21201062,78,PT03M39.00S,1,1610612748,MIA,2544,James,L. James,0,0,0,,0,25.0,13.0,38,v,James Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,75
+21201062,80,PT03M39.00S,1,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0.0,0.0,0,h,SUB: Robinson FOR Hinrich,Substitution,,0,76
+21201062,81,PT03M39.00S,1,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,0.0,0.0,0,h,SUB: Gibson FOR Mohammed,Substitution,,0,77
+21201062,82,PT03M39.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,SUB: Allen FOR Wade,Substitution,,0,78
+21201062,83,PT03M39.00S,1,1610612748,MIA,2544,James,L. James,0,0,0,,0,25.0,14.0,39,v,James Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,79
+21201062,86,PT03M16.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,-93,104,14,Missed,1,0.0,0.0,0,h,MISS Boozer 14' Jump Shot,Missed Shot,Jump Shot,0,80
+21201062,87,PT03M15.00S,1,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James REBOUND (Off:0 Def:3),Rebound,Unknown,0,81
+21201062,88,PT03M09.00S,1,1610612748,MIA,201596,Chalmers,M. Chalmers,228,-3,0,Missed,1,0.0,0.0,0,v,MISS Chalmers  3PT Jump Shot,Missed Shot,Jump Shot,0,82
+21201062,89,PT03M08.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0.0,0.0,0,h,Gibson REBOUND (Off:0 Def:1),Rebound,Unknown,0,83
+21201062,90,PT02M55.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,-16,0,2,Missed,1,0.0,0.0,0,h,MISS Boozer 2' Reverse Layup,Missed Shot,Reverse Layup Shot,0,84
+21201062,91,PT02M54.00S,1,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James REBOUND (Off:0 Def:4),Rebound,Unknown,0,85
+21201062,92,PT02M37.00S,1,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0.0,0.0,0,h,Gibson S.FOUL (P1.T4),Foul,Shooting,0,86
+21201062,93,PT02M37.00S,1,0,,1610612741,,,0,0,0,,0,0.0,0.0,0,h,BULLS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,87
+21201062,95,PT02M37.00S,1,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,SUB: Cook FOR Boozer,Substitution,,0,88
+21201062,96,PT02M37.00S,1,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,0.0,0.0,0,v,SUB: Andersen FOR Bosh,Substitution,,0,89
+21201062,97,PT02M37.00S,1,1610612748,MIA,2544,James,L. James,0,0,0,,0,25.0,15.0,40,v,James Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,90
+21201062,99,PT02M37.00S,1,1610612748,MIA,2544,James,L. James,0,0,0,,0,25.0,16.0,41,v,James Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,91
+21201062,101,PT02M20.00S,1,1610612741,CHI,2736,Deng,L. Deng,-11,74,7,Missed,1,0.0,0.0,0,h,MISS Deng 7' Jump Shot,Missed Shot,Jump Shot,0,92
+21201062,101,PT02M20.00S,1,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,0.0,0.0,0,v,Battier BLOCK (1 BLK),,,0,93
+21201062,103,PT02M18.00S,1,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0.0,0.0,0,h,Deng REBOUND (Off:2 Def:2),Rebound,Unknown,0,94
+21201062,102,PT02M18.00S,1,1610612741,CHI,2736,Deng,L. Deng,0,17,2,Made,1,27.0,16.0,43,h,Deng 2' Putback Layup (9 PTS),Made Shot,Putback Layup Shot,0,95
+21201062,104,PT01M58.00S,1,1610612748,MIA,2365,Andersen,C. Andersen,-13,4,1,Made,1,27.0,18.0,45,v,Andersen 1' Reverse Layup (2 PTS) (James 2 AST),Made Shot,Reverse Layup Shot,0,96
+21201062,105,PT01M38.00S,1,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0.0,0.0,0,v,Andersen S.FOUL (P1.T3),Foul,Shooting,0,97
+21201062,106,PT01M38.00S,1,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0.0,0.0,0,h,MISS Butler Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,98
+21201062,107,PT01M38.00S,1,0,,1610612741,,,0,0,0,,0,0.0,0.0,0,h,BULLS Rebound,Rebound,Normal Rebound,0,99
+21201062,108,PT01M38.00S,1,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0.0,0.0,0,v,SUB: Cole FOR Chalmers,Substitution,,0,100
+21201062,109,PT01M38.00S,1,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,28.0,18.0,46,h,Butler Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,101
+21201062,111,PT01M20.00S,1,1610612748,MIA,2544,James,L. James,45,11,5,Made,1,28.0,20.0,48,v,James 5' Jump Bank Shot (13 PTS),Made Shot,Jump Bank Shot,0,102
+21201062,112,PT01M02.00S,1,1610612741,CHI,101126,Robinson,N. Robinson,23,1,2,Made,1,30.0,20.0,50,h,Robinson 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,0,103
+21201062,113,PT00M52.40S,1,1610612748,MIA,2365,Andersen,C. Andersen,-19,192,19,Missed,1,0.0,0.0,0,v,MISS Andersen 19' Jump Shot,Missed Shot,Jump Shot,0,104
+21201062,114,PT00M51.50S,1,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0.0,0.0,0,h,Butler REBOUND (Off:0 Def:1),Rebound,Unknown,0,105
+21201062,115,PT00M41.90S,1,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0.0,0.0,0,h,Butler Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,106
+21201062,115,PT00M41.90S,1,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James STEAL (1 STL),,,0,107
+21201062,116,PT00M41.90S,1,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James Step Out of Bounds Turnover (P3.T6),Turnover,Step Out of Bounds Turnover,0,108
+21201062,117,PT00M28.20S,1,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson OFF.Foul (P1),Foul,Offensive,0,109
+21201062,118,PT00M28.20S,1,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson Foul Turnover (P1.T3),Turnover,Foul,0,110
+21201062,120,PT00M06.90S,1,1610612748,MIA,2544,James,L. James,4,11,1,Missed,1,0.0,0.0,0,v,MISS James 1' Driving Layup,Missed Shot,Driving Layup Shot,0,111
+21201062,122,PT00M06.00S,1,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0.0,0.0,0,v,Andersen REBOUND (Off:1 Def:0),Rebound,Unknown,0,112
+21201062,121,PT00M06.00S,1,1610612748,MIA,2365,Andersen,C. Andersen,-13,11,2,Made,1,30.0,22.0,52,v,Andersen 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,0,113
+21201062,123,PT00M00.90S,1,1610612741,CHI,101126,Robinson,N. Robinson,6,44,4,Made,1,32.0,22.0,54,h,Robinson 4' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,0,114
+21201062,124,PT00M00.00S,1,0,,0,,,0,0,0,,0,32.0,22.0,54,,End of 1st Period (8:35 PM EST),period,end,0,115
+21201062,126,PT12M00.00S,2,0,,0,,,0,0,0,,0,32.0,22.0,54,,Start of 2nd Period (8:38 PM EST),period,start,0,116
+21201062,127,PT11M45.00S,2,1610612741,CHI,2736,Deng,L. Deng,157,205,26,Made,1,35.0,22.0,57,h,Deng 26' 3PT Jump Shot (12 PTS) (Robinson 1 AST),Made Shot,Jump Shot,0,117
+21201062,128,PT11M19.00S,2,1610612748,MIA,2548,Wade,D. Wade,-193,64,20,Missed,1,0.0,0.0,0,v,MISS Wade 20' Jump Shot,Missed Shot,Jump Shot,0,118
+21201062,129,PT11M18.00S,2,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0.0,0.0,0,h,Deng REBOUND (Off:2 Def:3),Rebound,Unknown,0,119
+21201062,131,PT10M59.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,141,0,14,Missed,1,0.0,0.0,0,h,MISS Gibson 14' Jump Shot,Missed Shot,Jump Shot,0,120
+21201062,132,PT10M57.00S,2,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,0.0,0.0,0,v,Battier REBOUND (Off:0 Def:1),Rebound,Unknown,0,121
+21201062,133,PT10M48.00S,2,1610612748,MIA,951,Allen,R. Allen,53,124,13,Made,1,35.0,24.0,59,v,Allen 13' Jump Shot (2 PTS),Made Shot,Jump Shot,0,122
+21201062,134,PT10M28.00S,2,1610612741,CHI,101126,Robinson,N. Robinson,-11,247,25,Missed,1,0.0,0.0,0,h,MISS Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,123
+21201062,135,PT10M27.00S,2,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,0.0,0.0,0,v,Battier REBOUND (Off:0 Def:2),Rebound,Unknown,0,124
+21201062,137,PT10M25.00S,2,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0.0,0.0,0,h,SUB: Boozer FOR Deng,Substitution,,0,125
+21201062,138,PT10M12.00S,2,1610612748,MIA,202708,Cole,N. Cole,211,-8,21,Missed,1,0.0,0.0,0,v,MISS Cole 21' Jump Shot,Missed Shot,Jump Shot,0,126
+21201062,139,PT10M11.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,Boozer REBOUND (Off:1 Def:4),Rebound,Unknown,0,127
+21201062,140,PT09M47.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,-130,12,13,Made,1,37.0,24.0,61,h,Gibson 13' Jump Bank Shot (2 PTS),Made Shot,Jump Bank Shot,0,128
+21201062,141,PT09M22.00S,2,1610612748,MIA,951,Allen,R. Allen,239,-13,24,Made,1,37.0,27.0,64,v,Allen 24' 3PT Jump Shot (5 PTS) (Battier 1 AST),Made Shot,Jump Shot,0,129
+21201062,142,PT09M03.00S,2,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson Lost Ball Turnover (P2.T4),Turnover,Lost Ball,0,130
+21201062,142,PT09M03.00S,2,1610612748,MIA,202708,Cole,N. Cole,0,0,0,,0,0.0,0.0,0,v,Cole STEAL (1 STL),,,0,131
+21201062,143,PT09M00.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade Lost Ball Turnover (P2.T7),Turnover,Lost Ball,0,132
+21201062,143,PT09M00.00S,2,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson STEAL (1 STL),,,0,133
+21201062,144,PT08M54.00S,2,1610612741,CHI,101126,Robinson,N. Robinson,217,124,25,Made,1,40.0,27.0,67,h,Robinson 25' 3PT Jump Shot (7 PTS) (Gibson 1 AST),Made Shot,Jump Shot,0,134
+21201062,146,PT08M44.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade Out of Bounds Lost Ball Turnover (P3.T8),Turnover,Out of Bounds Lost Ball Turnover,0,135
+21201062,147,PT08M44.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Regular,Timeout,Regular,0,136
+21201062,148,PT08M44.00S,2,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0.0,0.0,0,v,SUB: Bosh FOR Andersen,Substitution,,0,137
+21201062,149,PT08M32.00S,2,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0.0,0.0,0,h,Butler Bad Pass Turnover (P3.T5),Turnover,Bad Pass,0,138
+21201062,150,PT08M32.00S,2,0,,1610612741,,,0,0,0,,0,0.0,0.0,0,h,BULLS Violation: Delay of game Violation,Violation,Delay Of Game,0,139
+21201062,151,PT08M21.00S,2,1610612748,MIA,2548,Wade,D. Wade,1,17,2,Made,1,40.0,29.0,69,v,Wade 2' Driving Reverse Layup (3 PTS),Made Shot,Driving Reverse Layup Shot,0,140
+21201062,152,PT07M58.00S,2,1610612741,CHI,201161,Cook,D. Cook,119,209,24,Missed,1,0.0,0.0,0,h,MISS Cook 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,141
+21201062,153,PT07M57.00S,2,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,0.0,0.0,0,v,Bosh REBOUND (Off:0 Def:1),Rebound,Unknown,0,142
+21201062,154,PT07M41.00S,2,1610612748,MIA,2547,Bosh,C. Bosh,-32,88,9,Missed,1,0.0,0.0,0,v,MISS Bosh 9' Jump Shot,Missed Shot,Jump Shot,0,143
+21201062,155,PT07M40.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,Boozer REBOUND (Off:1 Def:5),Rebound,Unknown,0,144
+21201062,156,PT07M26.00S,2,1610612741,CHI,101126,Robinson,N. Robinson,-52,186,19,Made,1,42.0,29.0,71,h,Robinson 19' Jump Shot (9 PTS) (Gibson 2 AST),Made Shot,Jump Shot,0,145
+21201062,157,PT07M13.00S,2,1610612748,MIA,2548,Wade,D. Wade,166,20,17,Made,1,42.0,31.0,73,v,Wade 17' Jump Shot (5 PTS),Made Shot,Jump Shot,0,146
+21201062,160,PT06M52.00S,2,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,0.0,0.0,0,v,SUB: James FOR Battier,Substitution,,0,147
+21201062,161,PT06M52.00S,2,1610612741,CHI,201161,Cook,D. Cook,0,0,0,,0,0.0,0.0,0,h,SUB: Deng FOR Cook,Substitution,,0,148
+21201062,162,PT06M45.00S,2,1610612741,CHI,202710,Butler,J. Butler,-166,74,18,Made,1,44.0,31.0,75,h,Butler 18' Jump Shot (9 PTS) (Boozer 1 AST),Made Shot,Jump Shot,0,149
+21201062,163,PT06M20.00S,2,1610612748,MIA,2544,James,L. James,21,3,2,Made,1,44.0,33.0,77,v,James 2' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,0,150
+21201062,164,PT05M59.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,15,3,2,Missed,1,0.0,0.0,0,h,MISS Boozer 2' Layup,Missed Shot,Layup Shot,0,151
+21201062,165,PT05M57.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,152
+21201062,166,PT05M45.00S,2,1610612748,MIA,2548,Wade,D. Wade,21,19,3,Made,1,44.0,35.0,79,v,Wade 3' Running Layup (7 PTS) (Cole 1 AST),Made Shot,Running Layup Shot,0,153
+21201062,167,PT05M32.00S,2,0,,1610612741,,,0,0,0,,0,0.0,0.0,0,h,BULLS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,154
+21201062,169,PT05M32.00S,2,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0.0,0.0,0,h,SUB: Hinrich FOR Butler,Substitution,,0,155
+21201062,170,PT05M32.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,SUB: Chalmers FOR Wade,Substitution,,0,156
+21201062,171,PT05M32.00S,2,1610612748,MIA,202708,Cole,N. Cole,0,0,0,,0,0.0,0.0,0,v,SUB: Battier FOR Cole,Substitution,,0,157
+21201062,172,PT05M20.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,13,25,3,Missed,1,0.0,0.0,0,h,MISS Boozer 3' Layup,Missed Shot,Layup Shot,0,158
+21201062,172,PT05M20.00S,2,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,0.0,0.0,0,v,Bosh BLOCK (3 BLK),,,0,159
+21201062,174,PT05M18.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,Boozer REBOUND (Off:2 Def:5),Rebound,Unknown,0,160
+21201062,173,PT05M18.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,7,6,1,Made,1,46.0,35.0,81,h,Boozer 1' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,0,161
+21201062,175,PT05M10.00S,2,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson P.FOUL (P2.T1),Foul,Personal,0,162
+21201062,176,PT05M00.00S,2,1610612748,MIA,201596,Chalmers,M. Chalmers,6,22,2,Made,1,46.0,37.0,83,v,Chalmers 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,0,163
+21201062,177,PT04M39.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,-119,47,13,Missed,1,0.0,0.0,0,h,MISS Gibson 13' Jump Shot,Missed Shot,Jump Shot,0,164
+21201062,178,PT04M38.00S,2,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James REBOUND (Off:0 Def:5),Rebound,Unknown,0,165
+21201062,179,PT04M30.00S,2,1610612748,MIA,951,Allen,R. Allen,110,219,25,Missed,1,0.0,0.0,0,v,MISS Allen 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,166
+21201062,180,PT04M29.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,Boozer REBOUND (Off:2 Def:6),Rebound,Unknown,0,167
+21201062,181,PT04M07.00S,2,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson Bad Pass Turnover (P3.T6),Turnover,Bad Pass,0,168
+21201062,181,PT04M07.00S,2,1610612748,MIA,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,v,Allen STEAL (1 STL),,,0,169
+21201062,182,PT03M55.00S,2,1610612748,MIA,2547,Bosh,C. Bosh,91,181,20,Missed,1,0.0,0.0,0,v,MISS Bosh 20' Jump Shot,Missed Shot,Jump Shot,0,170
+21201062,183,PT03M54.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,Boozer REBOUND (Off:2 Def:7),Rebound,Unknown,0,171
+21201062,184,PT03M38.00S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,-234,7,0,Made,1,49.0,37.0,86,h,Hinrich  3PT Jump Shot (5 PTS) (Boozer 2 AST),Made Shot,Jump Shot,0,172
+21201062,185,PT03M11.00S,2,1610612748,MIA,2544,James,L. James,24,14,3,Made,1,49.0,39.0,88,v,James 3' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,0,173
+21201062,186,PT02M45.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,118,153,19,Missed,1,0.0,0.0,0,h,MISS Gibson 19' Jump Shot,Missed Shot,Jump Shot,0,174
+21201062,187,PT02M44.00S,2,1610612748,MIA,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,v,Allen REBOUND (Off:0 Def:1),Rebound,Unknown,0,175
+21201062,188,PT02M33.00S,2,1610612748,MIA,2547,Bosh,C. Bosh,9,17,2,Made,1,49.0,41.0,90,v,Bosh 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,176
+21201062,190,PT02M08.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,17,3,2,Made,1,51.0,41.0,92,h,Boozer 2' Layup (10 PTS) (Deng 3 AST),Made Shot,Layup Shot,0,177
+21201062,191,PT02M05.00S,2,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,178
+21201062,193,PT02M05.00S,2,1610612748,MIA,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,v,SUB: Wade FOR Allen,Substitution,,0,179
+21201062,194,PT01M54.00S,2,1610612748,MIA,2547,Bosh,C. Bosh,166,34,17,Made,1,51.0,43.0,94,v,Bosh 17' Jump Bank Shot (6 PTS),Made Shot,Jump Bank Shot,0,180
+21201062,195,PT01M37.00S,2,1610612741,CHI,2736,Deng,L. Deng,-18,6,2,Made,1,53.0,43.0,96,h,Deng 2' Dunk (14 PTS) (Gibson 3 AST),Made Shot,Dunk Shot,0,181
+21201062,196,PT01M22.00S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0.0,0.0,0,h,Gibson S.FOUL (P2.T2),Foul,Shooting,0,182
+21201062,197,PT01M22.00S,2,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,53.0,44.0,97,v,Bosh Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,183
+21201062,199,PT01M22.00S,2,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,53.0,45.0,98,v,Bosh Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,184
+21201062,201,PT01M10.00S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,Boozer Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,185
+21201062,201,PT01M10.00S,2,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,0.0,0.0,0,v,Battier STEAL (1 STL),,,0,186
+21201062,202,PT00M54.70S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0.0,0.0,0,h,Hinrich S.FOUL (P3.PN),Foul,Shooting,0,187
+21201062,203,PT00M54.70S,2,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,MISS James Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,188
+21201062,204,PT00M54.70S,2,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Rebound,Rebound,Normal Rebound,0,189
+21201062,205,PT00M54.70S,2,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0.0,0.0,0,h,SUB: Butler FOR Hinrich,Substitution,,0,190
+21201062,206,PT00M54.70S,2,1610612748,MIA,2544,James,L. James,0,0,0,,0,53.0,46.0,99,v,James Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,191
+21201062,209,PT00M39.90S,2,1610612741,CHI,2736,Deng,L. Deng,-157,0,16,Missed,1,0.0,0.0,0,h,MISS Deng 16' Jump Shot,Missed Shot,Jump Shot,0,192
+21201062,209,PT00M39.90S,2,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James BLOCK (1 BLK),,,0,193
+21201062,210,PT00M37.90S,2,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson REBOUND (Off:1 Def:0),Rebound,Unknown,0,194
+21201062,211,PT00M36.70S,2,1610612741,CHI,101126,Robinson,N. Robinson,-7,20,2,Missed,1,0.0,0.0,0,h,MISS Robinson 2' Layup,Missed Shot,Layup Shot,0,195
+21201062,212,PT00M36.70S,2,0,,1610612741,,,0,0,0,,0,0.0,0.0,0,h,BULLS Rebound,Rebound,Unknown,0,196
+21201062,213,PT00M36.70S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade L.B.FOUL (P1.T1),Foul,Loose Ball,0,197
+21201062,214,PT00M28.00S,2,1610612741,CHI,2736,Deng,L. Deng,-21,66,7,Missed,1,0.0,0.0,0,h,MISS Deng 7' Jump Shot,Missed Shot,Jump Shot,0,198
+21201062,214,PT00M28.00S,2,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James BLOCK (2 BLK),,,0,199
+21201062,215,PT00M28.00S,2,0,,1610612741,,,0,0,0,,0,0.0,0.0,0,h,BULLS Rebound,Rebound,Unknown,0,200
+21201062,217,PT00M25.90S,2,1610612741,CHI,101126,Robinson,N. Robinson,-150,4,15,Made,1,55.0,46.0,101,h,Robinson 15' Jump Shot (11 PTS) (Deng 4 AST),Made Shot,Jump Shot,0,201
+21201062,218,PT00M20.60S,2,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Timeout: Short (Reg.2 Short 1),Timeout,Short,0,202
+21201062,220,PT00M20.60S,2,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,SUB: Thomas FOR Boozer,Substitution,,0,203
+21201062,221,PT00M20.60S,2,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,0.0,0.0,0,h,SUB: Teague FOR Robinson,Substitution,,0,204
+21201062,222,PT00M20.60S,2,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,0.0,0.0,0,v,SUB: Allen FOR Battier,Substitution,,0,205
+21201062,223,PT00M01.90S,2,1610612748,MIA,2547,Bosh,C. Bosh,-11,9,1,Missed,1,0.0,0.0,0,v,MISS Bosh 1' Layup,Missed Shot,Layup Shot,0,206
+21201062,223,PT00M01.90S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0.0,0.0,0,h,Gibson BLOCK (1 BLK),,,0,207
+21201062,224,PT00M00.10S,2,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0.0,0.0,0,h,Gibson REBOUND (Off:0 Def:2),Rebound,Unknown,0,208
+21201062,225,PT00M00.00S,2,0,,0,,,0,0,0,,0,55.0,46.0,101,,End of 2nd Period (9:07 PM EST),period,end,0,209
+21201062,227,PT12M00.00S,3,0,,0,,,0,0,0,,0,55.0,46.0,101,,Start of 3rd Period (9:25 PM EST),period,start,0,210
+21201062,228,PT11M42.00S,3,1610612741,CHI,2736,Deng,L. Deng,-204,56,21,Missed,1,0.0,0.0,0,h,MISS Deng 21' Jump Shot,Missed Shot,Jump Shot,0,211
+21201062,229,PT11M41.00S,3,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,0.0,0.0,0,h,Mohammed REBOUND (Off:1 Def:0),Rebound,Unknown,0,212
+21201062,230,PT11M36.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,47,30,6,Missed,1,0.0,0.0,0,h,MISS Hinrich 6' Floating Jump Shot,Missed Shot,Floating Jump shot,0,213
+21201062,231,PT11M34.00S,3,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0.0,0.0,0,v,Chalmers REBOUND (Off:0 Def:2),Rebound,Unknown,0,214
+21201062,232,PT11M30.00S,3,1610612748,MIA,2544,James,L. James,17,9,2,Made,1,55.0,48.0,103,v,James 2' Alley Oop Dunk (20 PTS) (Wade 1 AST),Made Shot,Alley Oop Dunk Shot,0,215
+21201062,233,PT11M06.00S,3,1610612741,CHI,2736,Deng,L. Deng,-232,-3,0,Missed,1,0.0,0.0,0,h,MISS Deng  3PT Jump Shot,Missed Shot,Jump Shot,0,216
+21201062,234,PT11M04.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,0,217
+21201062,235,PT10M43.00S,3,1610612748,MIA,201596,Chalmers,M. Chalmers,9,22,2,Missed,1,0.0,0.0,0,v,MISS Chalmers 2' Layup,Missed Shot,Layup Shot,0,218
+21201062,236,PT10M43.00S,3,0,,1610612741,,,0,0,0,,0,0.0,0.0,0,h,BULLS Rebound,Rebound,Unknown,0,219
+21201062,237,PT10M26.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0.0,0.0,0,h,Hinrich Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,220
+21201062,237,PT10M26.00S,3,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0.0,0.0,0,v,Chalmers STEAL (1 STL),,,0,221
+21201062,238,PT10M22.00S,3,1610612748,MIA,2544,James,L. James,6,11,1,Made,1,55.0,50.0,105,v,James 1' Running Slam Dunk (22 PTS) (Chalmers 1 AST),Made Shot,Running Slam Dunk Shot,0,222
+21201062,239,PT10M17.00S,3,0,,1610612741,,,0,0,0,,0,0.0,0.0,0,h,BULLS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,223
+21201062,241,PT09M58.00S,3,1610612741,CHI,1737,Mohammed,N. Mohammed,151,33,15,Made,1,57.0,50.0,107,h,Mohammed 15' Jump Shot (6 PTS) (Butler 4 AST),Made Shot,Jump Shot,0,224
+21201062,310,PT09M34.00S,3,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0.0,0.0,0,v,Haslem Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,225
+21201062,310,PT09M34.00S,3,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0.0,0.0,0,h,Butler STEAL (2 STL),,,0,226
+21201062,309,PT09M32.00S,3,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0.0,0.0,0,h,Butler Bad Pass Turnover (P4.T9),Turnover,Bad Pass,0,227
+21201062,309,PT09M32.00S,3,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,0.0,0.0,0,v,Bosh STEAL (1 STL),,,0,228
+21201062,243,PT09M30.00S,3,1610612748,MIA,2547,Bosh,C. Bosh,20,9,2,Made,1,57.0,52.0,109,v,Bosh 2' Layup (10 PTS) (Chalmers 2 AST),Made Shot,Layup Shot,0,229
+21201062,244,PT09M08.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,10,52,5,Missed,1,0.0,0.0,0,h,MISS Boozer 5' Jump Shot,Missed Shot,Jump Shot,0,230
+21201062,245,PT09M07.00S,3,0,,1610612741,,,0,0,0,,0,0.0,0.0,0,h,BULLS Rebound,Rebound,Unknown,0,231
+21201062,246,PT08M54.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,Boozer Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,232
+21201062,246,PT08M54.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade STEAL (2 STL),,,0,233
+21201062,247,PT08M43.00S,3,1610612748,MIA,2548,Wade,D. Wade,111,156,19,Missed,1,0.0,0.0,0,v,MISS Wade 19' Jump Shot,Missed Shot,Jump Shot,0,234
+21201062,248,PT08M42.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,Boozer REBOUND (Off:2 Def:8),Rebound,Unknown,0,235
+21201062,249,PT08M25.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0.0,0.0,0,h,Hinrich Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,236
+21201062,250,PT08M05.00S,3,1610612748,MIA,2547,Bosh,C. Bosh,-158,22,16,Missed,1,0.0,0.0,0,v,MISS Bosh 16' Jump Shot,Missed Shot,Jump Shot,0,237
+21201062,251,PT08M05.00S,3,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,0.0,0.0,0,h,Mohammed REBOUND (Off:1 Def:1),Rebound,Unknown,0,238
+21201062,252,PT08M05.00S,3,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0.0,0.0,0,v,Haslem P.FOUL (P4.T1),Foul,Personal,0,239
+21201062,253,PT07M45.00S,3,1610612741,CHI,2736,Deng,L. Deng,15,20,3,Missed,1,0.0,0.0,0,h,MISS Deng 3' Layup,Missed Shot,Layup Shot,0,240
+21201062,254,PT07M44.00S,3,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0.0,0.0,0,v,Chalmers REBOUND (Off:0 Def:3),Rebound,Unknown,0,241
+21201062,255,PT07M42.00S,3,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0.0,0.0,0,h,Butler S.FOUL (P1.T1),Foul,Shooting,0,242
+21201062,256,PT07M42.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,MISS Wade Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,243
+21201062,257,PT07M42.00S,3,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Rebound,Rebound,Normal Rebound,0,244
+21201062,258,PT07M42.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,57.0,53.0,110,v,Wade Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,245
+21201062,261,PT07M22.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,65,205,22,Missed,1,0.0,0.0,0,h,MISS Hinrich 22' Jump Shot,Missed Shot,Jump Shot,0,246
+21201062,262,PT07M21.00S,3,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,0.0,0.0,0,h,Mohammed REBOUND (Off:2 Def:1),Rebound,Unknown,0,247
+21201062,263,PT07M18.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,-81,151,17,Missed,1,0.0,0.0,0,h,MISS Boozer 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,248
+21201062,264,PT07M17.00S,3,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0.0,0.0,0,v,Haslem REBOUND (Off:0 Def:1),Rebound,Unknown,0,249
+21201062,265,PT07M05.00S,3,1610612748,MIA,2547,Bosh,C. Bosh,4,209,21,Missed,1,0.0,0.0,0,v,MISS Bosh 21' Jump Shot,Missed Shot,Jump Shot,0,250
+21201062,266,PT07M04.00S,3,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0.0,0.0,0,h,Deng REBOUND (Off:2 Def:4),Rebound,Unknown,0,251
+21201062,267,PT06M46.00S,3,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0.0,0.0,0,v,Haslem S.FOUL (P5.T2),Foul,Shooting,0,252
+21201062,268,PT06M46.00S,3,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0.0,0.0,0,h,MISS Butler Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,253
+21201062,269,PT06M46.00S,3,0,,1610612741,,,0,0,0,,0,0.0,0.0,0,h,BULLS Rebound,Rebound,Normal Rebound,0,254
+21201062,270,PT06M46.00S,3,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0.0,0.0,0,v,SUB: Battier FOR Haslem,Substitution,,0,255
+21201062,271,PT06M46.00S,3,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,58.0,53.0,111,h,Butler Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,256
+21201062,273,PT06M31.00S,3,1610612748,MIA,2544,James,L. James,-177,170,25,Missed,1,0.0,0.0,0,v,MISS James 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,257
+21201062,274,PT06M30.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade REBOUND (Off:1 Def:2),Rebound,Unknown,0,258
+21201062,275,PT06M26.00S,3,1610612748,MIA,2548,Wade,D. Wade,-24,4,2,Missed,1,0.0,0.0,0,v,MISS Wade 2' Layup,Missed Shot,Layup Shot,0,259
+21201062,276,PT06M25.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,Boozer REBOUND (Off:2 Def:9),Rebound,Unknown,0,260
+21201062,277,PT06M16.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,Boozer OFF.Foul (P2),Foul,Offensive,0,261
+21201062,278,PT06M16.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,Boozer Foul Turnover (P3.T12),Turnover,Foul,0,262
+21201062,279,PT06M04.00S,3,1610612748,MIA,2547,Bosh,C. Bosh,70,151,17,Missed,1,0.0,0.0,0,v,MISS Bosh 17' Jump Shot,Missed Shot,Jump Shot,0,263
+21201062,280,PT06M03.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,Boozer REBOUND (Off:2 Def:10),Rebound,Unknown,0,264
+21201062,281,PT05M43.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,-125,236,27,Missed,1,0.0,0.0,0,h,MISS Hinrich 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,265
+21201062,282,PT05M41.00S,3,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James REBOUND (Off:0 Def:6),Rebound,Unknown,0,266
+21201062,283,PT05M32.00S,3,1610612748,MIA,201596,Chalmers,M. Chalmers,230,9,0,Made,1,58.0,56.0,114,v,Chalmers  3PT Jump Shot (7 PTS) (Battier 2 AST),Made Shot,Jump Shot,0,267
+21201062,284,PT05M10.00S,3,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0.0,0.0,0,v,Chalmers P.FOUL (P1.T3),Foul,Personal,0,268
+21201062,285,PT04M56.00S,3,1610612741,CHI,1737,Mohammed,N. Mohammed,78,26,8,Missed,1,0.0,0.0,0,h,MISS Mohammed 8' Jump Shot,Missed Shot,Jump Shot,0,269
+21201062,285,PT04M56.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade BLOCK (1 BLK),,,0,270
+21201062,286,PT04M56.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0.0,0.0,0,h,Hinrich REBOUND (Off:1 Def:0),Rebound,Unknown,0,271
+21201062,287,PT04M56.00S,3,0,,1610612741,,,0,0,0,,0,0.0,0.0,0,h,BULLS Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,0,272
+21201062,289,PT04M38.00S,3,1610612748,MIA,201596,Chalmers,M. Chalmers,165,-2,17,Missed,1,0.0,0.0,0,v,MISS Chalmers 17' Jump Shot,Missed Shot,Jump Shot,0,273
+21201062,290,PT04M37.00S,3,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,0.0,0.0,0,v,Bosh REBOUND (Off:1 Def:1),Rebound,Unknown,0,274
+21201062,291,PT04M34.00S,3,1610612748,MIA,201596,Chalmers,M. Chalmers,230,-13,0,Missed,1,0.0,0.0,0,v,MISS Chalmers  3PT Jump Shot,Missed Shot,Jump Shot,0,275
+21201062,292,PT04M33.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade REBOUND (Off:2 Def:2),Rebound,Unknown,0,276
+21201062,293,PT04M30.00S,3,1610612748,MIA,2203,Battier,S. Battier,124,214,25,Made,1,58.0,59.0,117,v,Battier 25' 3PT Jump Shot (3 PTS) (Wade 2 AST),Made Shot,Jump Shot,0,277
+21201062,294,PT04M28.00S,3,0,,1610612741,,,0,0,0,,0,0.0,0.0,0,h,BULLS Timeout: Short (Full 3 Short 1),Timeout,Short,0,278
+21201062,295,PT04M28.00S,3,1610612741,CHI,1737,Mohammed,N. Mohammed,0,0,0,,0,0.0,0.0,0,h,SUB: Gibson FOR Mohammed,Substitution,,0,279
+21201062,296,PT04M28.00S,3,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0.0,0.0,0,h,SUB: Robinson FOR Hinrich,Substitution,,0,280
+21201062,297,PT04M15.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,-21,4,2,Made,1,60.0,59.0,119,h,Boozer 2' Layup (12 PTS) (Robinson 2 AST),Made Shot,Layup Shot,0,281
+21201062,298,PT03M55.00S,3,1610612748,MIA,2547,Bosh,C. Bosh,9,0,1,Made,1,60.0,61.0,121,v,Bosh 1' Dunk (12 PTS) (Chalmers 3 AST),Made Shot,Dunk Shot,0,282
+21201062,299,PT03M27.00S,3,1610612741,CHI,2736,Deng,L. Deng,-182,170,25,Missed,1,0.0,0.0,0,h,MISS Deng 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,283
+21201062,300,PT03M25.00S,3,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,0.0,0.0,0,v,Bosh REBOUND (Off:1 Def:2),Rebound,Unknown,0,284
+21201062,301,PT03M10.00S,3,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,0.0,0.0,0,v,Bosh 3 Second Violation Turnover (P1.T10),Turnover,3 Second Violation,0,285
+21201062,302,PT03M10.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,SUB: Allen FOR Wade,Substitution,,0,286
+21201062,303,PT02M52.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,-187,4,19,Made,1,62.0,61.0,123,h,Boozer 19' Jump Shot (14 PTS) (Robinson 3 AST),Made Shot,Jump Shot,0,287
+21201062,304,PT02M32.00S,3,1610612748,MIA,2544,James,L. James,-183,20,18,Missed,1,0.0,0.0,0,v,MISS James 18' Jump Shot,Missed Shot,Jump Shot,0,288
+21201062,305,PT02M31.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,Boozer REBOUND (Off:2 Def:11),Rebound,Unknown,0,289
+21201062,306,PT02M27.00S,3,1610612741,CHI,202710,Butler,J. Butler,-10,9,1,Made,1,64.0,61.0,125,h,Butler 1' Alley Oop Dunk (12 PTS) (Deng 5 AST),Made Shot,Alley Oop Dunk Shot,0,290
+21201062,307,PT02M25.00S,3,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,291
+21201062,311,PT02M25.00S,3,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,0.0,0.0,0,v,SUB: Andersen FOR Bosh,Substitution,,0,292
+21201062,312,PT02M25.00S,3,1610612748,MIA,2203,Battier,S. Battier,135,227,26,Made,1,64.0,64.0,128,v,Battier 26' 3PT Jump Shot (6 PTS) (Chalmers 4 AST),Made Shot,Jump Shot,0,293
+21201062,313,PT01M44.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,-114,142,18,Missed,1,0.0,0.0,0,h,MISS Boozer 18' Jump Shot,Missed Shot,Jump Shot,0,294
+21201062,315,PT01M43.00S,3,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0.0,0.0,0,h,Deng REBOUND (Off:3 Def:4),Rebound,Unknown,0,295
+21201062,314,PT01M43.00S,3,1610612741,CHI,2736,Deng,L. Deng,18,0,2,Made,1,66.0,64.0,130,h,Deng 2' Layup (16 PTS),Made Shot,Layup Shot,0,296
+21201062,316,PT01M25.00S,3,1610612748,MIA,951,Allen,R. Allen,10,4,1,Missed,1,0.0,0.0,0,v,MISS Allen 1' Running Layup,Missed Shot,Running Layup Shot,0,297
+21201062,317,PT01M24.00S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,Boozer REBOUND (Off:2 Def:12),Rebound,Unknown,0,298
+21201062,318,PT01M14.00S,3,1610612741,CHI,202710,Butler,J. Butler,171,176,25,Missed,1,0.0,0.0,0,h,MISS Butler 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,299
+21201062,319,PT01M13.00S,3,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0.0,0.0,0,v,Andersen REBOUND (Off:1 Def:1),Rebound,Unknown,0,300
+21201062,320,PT00M53.20S,3,1610612748,MIA,2544,James,L. James,0,14,1,Made,1,66.0,66.0,132,v,James 1' Driving Layup (24 PTS),Made Shot,Driving Layup Shot,0,301
+21201062,321,PT00M38.00S,3,1610612741,CHI,101126,Robinson,N. Robinson,110,216,24,Missed,1,0.0,0.0,0,h,MISS Robinson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,302
+21201062,322,PT00M37.50S,3,1610612748,MIA,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,v,Allen REBOUND (Off:0 Def:2),Rebound,Unknown,0,303
+21201062,323,PT00M16.40S,3,1610612748,MIA,201596,Chalmers,M. Chalmers,-13,-2,1,Made,1,66.0,68.0,134,v,Chalmers 1' Running Layup (9 PTS),Made Shot,Running Layup Shot,0,304
+21201062,324,PT00M04.30S,3,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0.0,0.0,0,v,Chalmers Personal Take Foul (P2.T4),Foul,Personal Take,0,305
+21201062,325,PT00M04.30S,3,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0.0,0.0,0,v,SUB: Cole FOR Chalmers,Substitution,,0,306
+21201062,326,PT00M01.10S,3,1610612741,CHI,2430,Boozer,C. Boozer,-4,17,2,Made,1,68.0,68.0,136,h,Boozer 2' Dunk (16 PTS) (Gibson 4 AST),Made Shot,Dunk Shot,0,307
+21201062,327,PT00M01.10S,3,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,0.0,0.0,0,v,Battier S.FOUL (P1.PN),Foul,Shooting,0,308
+21201062,328,PT00M01.10S,3,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,69.0,68.0,137,h,Boozer Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,0,309
+21201062,331,PT00M00.00S,3,0,,0,,,0,0,0,,0,69.0,68.0,137,,End of 3rd Period (9:51 PM EST),period,end,0,310
+21201062,332,PT12M00.00S,4,0,,0,,,0,0,0,,0,69.0,68.0,137,,Start of 4th Period (9:56 PM EST),period,start,0,311
+21201062,333,PT11M45.00S,4,1610612748,MIA,2203,Battier,S. Battier,239,22,24,Missed,1,0.0,0.0,0,v,MISS Battier 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,312
+21201062,334,PT11M44.00S,4,0,,1610612741,,,0,0,0,,0,0.0,0.0,0,h,BULLS Rebound,Rebound,Unknown,0,313
+21201062,335,PT11M31.00S,4,1610612748,MIA,202708,Cole,N. Cole,0,0,0,,0,0.0,0.0,0,v,Cole P.FOUL (P1.T1),Foul,Personal,0,314
+21201062,336,PT11M31.00S,4,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,0.0,0.0,0,h,SUB: Hinrich FOR Robinson,Substitution,,0,315
+21201062,337,PT11M19.00S,4,1610612741,CHI,201161,Cook,D. Cook,-177,170,25,Missed,1,0.0,0.0,0,h,MISS Cook 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,316
+21201062,338,PT11M18.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade REBOUND (Off:2 Def:3),Rebound,Unknown,0,317
+21201062,339,PT11M12.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0.0,0.0,0,h,Gibson S.FOUL (P3.T1),Foul,Shooting,0,318
+21201062,340,PT11M12.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,69.0,69.0,138,v,Wade Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,319
+21201062,343,PT11M12.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,MISS Wade Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,320
+21201062,346,PT11M10.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0.0,0.0,0,h,Gibson REBOUND (Off:0 Def:3),Rebound,Unknown,0,321
+21201062,347,PT10M59.00S,4,1610612741,CHI,2736,Deng,L. Deng,-7,45,5,Missed,1,0.0,0.0,0,h,MISS Deng 5' Driving Jump Shot,Missed Shot,Driving Jump shot,0,322
+21201062,347,PT10M59.00S,4,1610612748,MIA,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,v,Allen BLOCK (1 BLK),,,0,323
+21201062,348,PT10M59.00S,4,0,,1610612741,,,0,0,0,,0,0.0,0.0,0,h,BULLS Rebound,Rebound,Unknown,0,324
+21201062,349,PT10M56.00S,4,1610612741,CHI,201161,Cook,D. Cook,-172,63,18,Made,1,71.0,69.0,140,h,Cook 18' Jump Shot (2 PTS) (Hinrich 3 AST),Made Shot,Jump Shot,0,325
+21201062,350,PT10M39.00S,4,1610612748,MIA,202708,Cole,N. Cole,0,0,0,,0,0.0,0.0,0,v,Cole Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,326
+21201062,350,PT10M39.00S,4,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0.0,0.0,0,h,Deng STEAL (1 STL),,,0,327
+21201062,351,PT10M32.00S,4,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0.0,0.0,0,h,Deng Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,328
+21201062,351,PT10M32.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade STEAL (3 STL),,,0,329
+21201062,352,PT10M27.00S,4,1610612748,MIA,202708,Cole,N. Cole,24,11,3,Missed,1,0.0,0.0,0,v,MISS Cole 3' Driving Layup,Missed Shot,Driving Layup Shot,0,330
+21201062,352,PT10M27.00S,4,1610612741,CHI,201161,Cook,D. Cook,0,0,0,,0,0.0,0.0,0,h,Cook BLOCK (1 BLK),,,0,331
+21201062,353,PT10M27.00S,4,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Rebound,Rebound,Unknown,0,332
+21201062,354,PT10M23.00S,4,1610612748,MIA,951,Allen,R. Allen,129,9,13,Missed,1,0.0,0.0,0,v,MISS Allen 13' Jump Shot,Missed Shot,Jump Shot,0,333
+21201062,355,PT10M22.00S,4,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0.0,0.0,0,h,Butler REBOUND (Off:0 Def:2),Rebound,Unknown,0,334
+21201062,356,PT10M03.00S,4,1610612741,CHI,201161,Cook,D. Cook,7,25,3,Missed,1,0.0,0.0,0,h,MISS Cook 3' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,0,335
+21201062,357,PT10M02.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade REBOUND (Off:2 Def:4),Rebound,Unknown,0,336
+21201062,358,PT09M50.00S,4,1610612748,MIA,951,Allen,R. Allen,-141,206,25,Missed,1,0.0,0.0,0,v,MISS Allen 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,337
+21201062,359,PT09M49.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0.0,0.0,0,h,Hinrich REBOUND (Off:1 Def:1),Rebound,Unknown,0,338
+21201062,360,PT09M46.00S,4,1610612741,CHI,202710,Butler,J. Butler,50,15,5,Missed,1,0.0,0.0,0,h,MISS Butler 5' Running Jump Shot,Missed Shot,Running Jump Shot,0,339
+21201062,360,PT09M46.00S,4,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,0.0,0.0,0,v,Battier BLOCK (2 BLK),,,0,340
+21201062,361,PT09M44.00S,4,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0.0,0.0,0,h,Butler REBOUND (Off:1 Def:2),Rebound,Unknown,0,341
+21201062,362,PT09M43.00S,4,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0.0,0.0,0,v,Andersen S.FOUL (P2.T2),Foul,Shooting,0,342
+21201062,363,PT09M43.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,72.0,69.0,141,h,Gibson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,343
+21201062,365,PT09M43.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,73.0,69.0,142,h,Gibson Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,344
+21201062,367,PT09M27.00S,4,1610612748,MIA,2365,Andersen,C. Andersen,-10,11,1,Missed,1,0.0,0.0,0,v,MISS Andersen 1' Dunk,Missed Shot,Dunk Shot,0,345
+21201062,368,PT09M26.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0.0,0.0,0,h,Hinrich REBOUND (Off:1 Def:2),Rebound,Unknown,0,346
+21201062,369,PT09M20.00S,4,1610612741,CHI,2736,Deng,L. Deng,159,190,25,Missed,1,0.0,0.0,0,h,MISS Deng 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,347
+21201062,370,PT09M19.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0.0,0.0,0,h,Gibson REBOUND (Off:1 Def:3),Rebound,Unknown,0,348
+21201062,371,PT09M04.00S,4,1610612741,CHI,202710,Butler,J. Butler,130,3,13,Made,1,75.0,69.0,144,h,Butler 13' Jump Shot (14 PTS) (Gibson 5 AST),Made Shot,Jump Shot,0,349
+21201062,372,PT09M04.00S,4,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,350
+21201062,374,PT09M04.00S,4,1610612748,MIA,202708,Cole,N. Cole,0,0,0,,0,0.0,0.0,0,v,SUB: James FOR Cole,Substitution,,0,351
+21201062,375,PT08M54.00S,4,1610612748,MIA,2548,Wade,D. Wade,-13,-2,1,Made,1,75.0,71.0,146,v,Wade 1' Layup (11 PTS),Made Shot,Layup Shot,0,352
+21201062,376,PT08M36.00S,4,1610612741,CHI,201161,Cook,D. Cook,171,203,27,Missed,1,0.0,0.0,0,h,MISS Cook 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,353
+21201062,377,PT08M34.00S,4,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,0.0,0.0,0,v,Battier REBOUND (Off:0 Def:3),Rebound,Unknown,0,354
+21201062,378,PT08M25.00S,4,1610612748,MIA,2544,James,L. James,-108,6,11,Missed,1,0.0,0.0,0,v,MISS James 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,355
+21201062,379,PT08M24.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0.0,0.0,0,h,Gibson REBOUND (Off:1 Def:4),Rebound,Unknown,0,356
+21201062,383,PT08M02.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,-133,142,19,Missed,1,0.0,0.0,0,h,MISS Gibson 19' Jump Shot,Missed Shot,Jump Shot,0,357
+21201062,384,PT08M00.00S,4,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James REBOUND (Off:0 Def:7),Rebound,Unknown,0,358
+21201062,385,PT07M52.00S,4,1610612748,MIA,2548,Wade,D. Wade,-106,20,11,Missed,1,0.0,0.0,0,v,MISS Wade 11' Jump Shot,Missed Shot,Jump Shot,0,359
+21201062,387,PT07M50.00S,4,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0.0,0.0,0,v,Andersen REBOUND (Off:2 Def:1),Rebound,Unknown,0,360
+21201062,386,PT07M50.00S,4,1610612748,MIA,2365,Andersen,C. Andersen,2,17,2,Missed,1,0.0,0.0,0,v,MISS Andersen 2' Tip Shot,Missed Shot,Tip Shot,0,361
+21201062,388,PT07M49.00S,4,1610612741,CHI,201161,Cook,D. Cook,0,0,0,,0,0.0,0.0,0,h,Cook REBOUND (Off:0 Def:1),Rebound,Unknown,0,362
+21201062,389,PT07M44.00S,4,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0.0,0.0,0,h,Deng Offensive Charge Foul (P1.T2),Foul,Offensive Charge,0,363
+21201062,390,PT07M44.00S,4,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0.0,0.0,0,h,Deng Foul Turnover (P2.T15),Turnover,Foul,0,364
+21201062,391,PT07M44.00S,4,1610612748,MIA,2365,Andersen,C. Andersen,0,0,0,,0,0.0,0.0,0,v,SUB: Bosh FOR Andersen,Substitution,,0,365
+21201062,392,PT07M44.00S,4,1610612741,CHI,201161,Cook,D. Cook,0,0,0,,0,0.0,0.0,0,h,SUB: Boozer FOR Cook,Substitution,,0,366
+21201062,393,PT07M24.00S,4,1610612748,MIA,2548,Wade,D. Wade,125,28,13,Made,1,75.0,73.0,148,v,Wade 13' Jump Shot (13 PTS),Made Shot,Jump Shot,0,367
+21201062,394,PT07M03.00S,4,1610612741,CHI,2736,Deng,L. Deng,168,184,25,Made,1,78.0,73.0,151,h,Deng 25' 3PT Jump Shot (19 PTS) (Hinrich 4 AST),Made Shot,Jump Shot,0,368
+21201062,395,PT06M46.00S,4,1610612748,MIA,2203,Battier,S. Battier,118,230,26,Missed,1,0.0,0.0,0,v,MISS Battier 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,369
+21201062,396,PT06M45.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0.0,0.0,0,h,Hinrich REBOUND (Off:1 Def:3),Rebound,Unknown,0,370
+21201062,397,PT06M39.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,43,26,5,Made,1,80.0,73.0,153,h,Hinrich 5' Running Jump Shot (7 PTS),Made Shot,Running Jump Shot,0,371
+21201062,398,PT06M37.00S,4,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Timeout: Short (Reg.4 Short 2),Timeout,Short,0,372
+21201062,400,PT06M26.00S,4,1610612748,MIA,2544,James,L. James,15,-2,2,Made,1,80.0,75.0,155,v,James 2' Layup (26 PTS) (Bosh 1 AST),Made Shot,Layup Shot,0,373
+21201062,401,PT06M08.00S,4,1610612741,CHI,2736,Deng,L. Deng,212,137,25,Made,1,83.0,75.0,158,h,Deng 25' 3PT Jump Shot (22 PTS) (Hinrich 5 AST),Made Shot,Jump Shot,0,374
+21201062,402,PT05M53.00S,4,1610612748,MIA,2548,Wade,D. Wade,-24,58,6,Made,1,83.0,77.0,160,v,Wade 6' Jump Shot (15 PTS),Made Shot,Jump Shot,0,375
+21201062,403,PT05M53.00S,4,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0.0,0.0,0,h,Butler S.FOUL (P2.T3),Foul,Shooting,0,376
+21201062,404,PT05M53.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Regular,Timeout,Regular,0,377
+21201062,406,PT05M53.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,83.0,78.0,161,v,Wade Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,0,378
+21201062,408,PT05M34.00S,4,1610612741,CHI,202710,Butler,J. Butler,-234,-21,0,Made,1,86.0,78.0,164,h,Butler  3PT Jump Shot (17 PTS) (Hinrich 6 AST),Made Shot,Jump Shot,0,379
+21201062,409,PT05M14.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,Boozer S.FOUL (P3.T4),Foul,Shooting,0,380
+21201062,410,PT05M14.00S,4,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,86.0,79.0,165,v,Bosh Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,381
+21201062,412,PT05M14.00S,4,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,0.0,0.0,0,v,MISS Bosh Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,382
+21201062,414,PT05M13.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0.0,0.0,0,h,Hinrich REBOUND (Off:1 Def:4),Rebound,Unknown,0,383
+21201062,415,PT05M06.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,Boozer OFF.Foul (P4),Foul,Offensive,0,384
+21201062,416,PT05M06.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,Boozer Foul Turnover (P4.T16),Turnover,Foul,0,385
+21201062,417,PT04M56.00S,4,1610612748,MIA,2548,Wade,D. Wade,-134,17,14,Missed,1,0.0,0.0,0,v,MISS Wade 14' Jump Shot,Missed Shot,Jump Shot,0,386
+21201062,418,PT04M54.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,Boozer REBOUND (Off:2 Def:13),Rebound,Unknown,0,387
+21201062,419,PT04M52.00S,4,1610612741,CHI,2736,Deng,L. Deng,12,11,2,Made,1,88.0,79.0,167,h,Deng 2' Running Layup (24 PTS) (Boozer 3 AST),Made Shot,Running Layup Shot,0,388
+21201062,420,PT04M32.00S,4,1610612748,MIA,2547,Bosh,C. Bosh,-10,41,4,Made,1,88.0,81.0,169,v,Bosh 4' Jump Shot (15 PTS) (Battier 3 AST),Made Shot,Jump Shot,0,389
+21201062,421,PT04M11.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,-16,7,2,Missed,1,0.0,0.0,0,h,MISS Hinrich 2' Running Layup,Missed Shot,Running Layup Shot,0,390
+21201062,421,PT04M11.00S,4,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James BLOCK (3 BLK),,,0,391
+21201062,422,PT04M11.00S,4,0,,1610612741,,,0,0,0,,0,0.0,0.0,0,h,BULLS Rebound,Rebound,Unknown,0,392
+21201062,423,PT04M11.00S,4,1610612748,MIA,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,v,SUB: Chalmers FOR Allen,Substitution,,0,393
+21201062,424,PT04M11.00S,4,0,,1610612741,,,0,0,0,,0,0.0,0.0,0,h,BULLS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,394
+21201062,425,PT04M10.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade S.FOUL (P2.T3),Foul,Shooting,0,395
+21201062,426,PT04M10.00S,4,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,89.0,81.0,170,h,Deng Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,0,396
+21201062,428,PT04M10.00S,4,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,90.0,81.0,171,h,Deng Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,0,397
+21201062,430,PT04M02.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0.0,0.0,0,h,Gibson S.FOUL (P4.PN),Foul,Shooting,0,398
+21201062,431,PT04M02.00S,4,0,,430,,,0,0,0,,0,0.0,0.0,0,,Support Ruling,Instant Replay,Support Ruling,0,399
+21201062,433,PT04M02.00S,4,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,MISS James Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,400
+21201062,434,PT04M02.00S,4,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Rebound,Rebound,Normal Rebound,0,401
+21201062,435,PT04M02.00S,4,1610612748,MIA,2544,James,L. James,0,0,0,,0,90.0,82.0,172,v,James Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,0,402
+21201062,438,PT03M52.00S,4,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James FLAGRANT.FOUL.TYPE1 (P1.T4),Foul,Flagrant Type 1,0,403
+21201062,439,PT03M52.00S,4,0,,0,,,0,0,0,,0,90.0,82.0,172,,Instant Replay4th Period (10:26 PM EST),Instant Replay,Support Ruling,0,404
+21201062,440,PT03M52.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,91.0,82.0,173,h,Boozer Free Throw Flagrant 1 of 2 (18 PTS),Free Throw,Free Throw Flagrant 1 of 2,0,405
+21201062,442,PT03M52.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,MISS Boozer Free Throw Flagrant 2 of 2,Free Throw,Free Throw Flagrant 2 of 2,0,406
+21201062,443,PT03M52.00S,4,0,,1610612741,,,0,0,0,,0,0.0,0.0,0,h,BULLS Rebound,Rebound,Normal Rebound,0,407
+21201062,444,PT03M43.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,23,3,2,Missed,1,0.0,0.0,0,h,MISS Hinrich 2' Layup,Missed Shot,Layup Shot,0,408
+21201062,444,PT03M43.00S,4,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James BLOCK (4 BLK),,,0,409
+21201062,445,PT03M41.00S,4,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,0.0,0.0,0,v,Battier REBOUND (Off:0 Def:4),Rebound,Unknown,0,410
+21201062,446,PT03M32.00S,4,1610612748,MIA,2547,Bosh,C. Bosh,12,17,2,Made,1,91.0,84.0,175,v,Bosh 2' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,0,411
+21201062,447,PT03M32.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0.0,0.0,0,h,Gibson S.FOUL (P5.PN),Foul,Shooting,0,412
+21201062,448,PT03M32.00S,4,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,91.0,85.0,176,v,Bosh Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,0,413
+21201062,450,PT03M15.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,-16,9,2,Missed,1,0.0,0.0,0,h,MISS Hinrich 2' Driving Layup,Missed Shot,Driving Layup Shot,0,414
+21201062,450,PT03M15.00S,4,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,0.0,0.0,0,v,Bosh BLOCK (4 BLK),,,0,415
+21201062,451,PT03M13.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade REBOUND (Off:2 Def:5),Rebound,Unknown,0,416
+21201062,452,PT03M07.00S,4,1610612748,MIA,201596,Chalmers,M. Chalmers,-149,206,25,Missed,1,0.0,0.0,0,v,MISS Chalmers 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,417
+21201062,453,PT03M07.00S,4,0,,1610612741,,,0,0,0,,0,0.0,0.0,0,h,BULLS Rebound,Rebound,Unknown,0,418
+21201062,454,PT03M07.00S,4,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,0.0,0.0,0,v,Battier L.B.FOUL (P2.PN),Foul,Loose Ball,0,419
+21201062,455,PT03M07.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,MISS Boozer Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,420
+21201062,457,PT03M07.00S,4,0,,1610612741,,,0,0,0,,0,0.0,0.0,0,h,BULLS Rebound,Rebound,Unknown,0,421
+21201062,456,PT03M07.00S,4,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0.0,0.0,0,v,SUB: Allen FOR Chalmers,Substitution,,0,422
+21201062,458,PT03M07.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,92.0,85.0,177,h,Boozer Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,423
+21201062,460,PT02M45.00S,4,1610612748,MIA,2544,James,L. James,165,187,25,Missed,1,0.0,0.0,0,v,MISS James 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,424
+21201062,461,PT02M43.00S,4,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,0.0,0.0,0,v,Bosh REBOUND (Off:2 Def:2),Rebound,Unknown,0,425
+21201062,462,PT02M41.00S,4,1610612748,MIA,2547,Bosh,C. Bosh,0,0,0,,0,0.0,0.0,0,v,Bosh Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,426
+21201062,462,PT02M41.00S,4,1610612741,CHI,2550,Hinrich,K. Hinrich,0,0,0,,0,0.0,0.0,0,h,Hinrich STEAL (1 STL),,,0,427
+21201062,463,PT02M19.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,-160,7,16,Made,1,94.0,85.0,179,h,Gibson 16' Jump Shot (6 PTS) (Hinrich 7 AST),Made Shot,Jump Shot,0,428
+21201062,464,PT02M18.00S,4,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Timeout: Regular (Reg.5 Short 2),Timeout,Regular,0,429
+21201062,466,PT02M05.00S,4,1610612748,MIA,951,Allen,R. Allen,-185,197,27,Missed,1,0.0,0.0,0,v,MISS Allen 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,430
+21201062,467,PT02M04.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,Boozer REBOUND (Off:2 Def:14),Rebound,Unknown,0,431
+21201062,468,PT02M01.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,Boozer Bad Pass Turnover (P5.T17),Turnover,Bad Pass,0,432
+21201062,468,PT02M01.00S,4,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James STEAL (2 STL),,,0,433
+21201062,469,PT01M58.00S,4,1610612748,MIA,2544,James,L. James,2,11,1,Made,1,94.0,87.0,181,v,James 1' Driving Slam Dunk (29 PTS),Made Shot,Driving Slam Dunk Shot,0,434
+21201062,471,PT01M34.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,-193,0,19,Missed,1,0.0,0.0,0,h,MISS Gibson 19' Jump Shot,Missed Shot,Jump Shot,0,435
+21201062,472,PT01M34.00S,4,0,,1610612741,,,0,0,0,,0,0.0,0.0,0,h,BULLS Rebound,Rebound,Unknown,0,436
+21201062,473,PT01M34.00S,4,0,,1610612741,,,0,0,0,,0,0.0,0.0,0,h,BULLS Turnover: Shot Clock (T#18),Turnover,Shot Clock Turnover,0,437
+21201062,474,PT01M22.00S,4,1610612748,MIA,951,Allen,R. Allen,-17,3,2,Made,1,94.0,89.0,183,v,Allen 2' Layup (7 PTS),Made Shot,Layup Shot,0,438
+21201062,476,PT01M15.00S,4,0,,1610612741,,,0,0,0,,0,0.0,0.0,0,h,BULLS Timeout: Regular (Full 5 Short 1),Timeout,Regular,0,439
+21201062,478,PT01M15.00S,4,0,,1610612741,,,0,0,0,,0,0.0,0.0,0,h,BULLS Timeout: Short (Full 5 Short 2),Timeout,Short,0,440
+21201062,479,PT01M15.00S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0.0,0.0,0,h,SUB: Robinson FOR Gibson,Substitution,,0,441
+21201062,480,PT00M59.90S,4,1610612741,CHI,101126,Robinson,N. Robinson,155,211,26,Missed,1,0.0,0.0,0,h,MISS Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,442
+21201062,481,PT00M57.80S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,Boozer REBOUND (Off:3 Def:14),Rebound,Unknown,0,443
+21201062,482,PT00M57.00S,4,1610612741,CHI,2430,Boozer,C. Boozer,-19,6,2,Made,1,96.0,89.0,185,h,Boozer 2' Putback Layup (21 PTS),Made Shot,Putback Layup Shot,0,444
+21201062,483,PT00M51.90S,4,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James Lost Ball Turnover (P4.T13),Turnover,Lost Ball,0,445
+21201062,483,PT00M51.90S,4,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,0.0,0.0,0,h,Deng STEAL (2 STL),,,0,446
+21201062,484,PT00M30.20S,4,1610612741,CHI,101126,Robinson,N. Robinson,-13,12,2,Made,1,98.0,89.0,187,h,Robinson 2' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,0,447
+21201062,485,PT00M30.20S,4,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Timeout: Regular (Reg.6 Short 2),Timeout,Regular,0,448
+21201062,487,PT00M30.20S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,SUB: Gibson FOR Boozer,Substitution,,0,449
+21201062,488,PT00M27.10S,4,1610612748,MIA,2544,James,L. James,-19,0,2,Made,1,98.0,91.0,189,v,James 2' Driving Layup (31 PTS),Made Shot,Driving Layup Shot,0,450
+21201062,489,PT00M27.10S,4,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0.0,0.0,0,h,Butler S.FOUL (P3.PN),Foul,Shooting,0,451
+21201062,492,PT00M27.10S,4,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,0.0,0.0,0,h,SUB: Boozer FOR Robinson,Substitution,,0,452
+21201062,493,PT00M27.10S,4,1610612748,MIA,2544,James,L. James,0,0,0,,0,98.0,92.0,190,v,James Free Throw 1 of 1 (32 PTS),Free Throw,Free Throw 1 of 1,0,453
+21201062,496,PT00M26.50S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade Personal Take Foul (P3.PN),Foul,Personal Take,0,454
+21201062,497,PT00M26.50S,4,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,99.0,92.0,191,h,Deng Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,0,455
+21201062,499,PT00M26.50S,4,1610612741,CHI,2430,Boozer,C. Boozer,0,0,0,,0,0.0,0.0,0,h,SUB: Robinson FOR Boozer,Substitution,,0,456
+21201062,500,PT00M26.50S,4,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,0.0,0.0,0,v,SUB: Chalmers FOR Battier,Substitution,,0,457
+21201062,501,PT00M26.50S,4,1610612741,CHI,2736,Deng,L. Deng,0,0,0,,0,100.0,92.0,192,h,Deng Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,0,458
+21201062,503,PT00M15.90S,4,1610612748,MIA,201596,Chalmers,M. Chalmers,171,186,25,Missed,1,0.0,0.0,0,v,MISS Chalmers 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,459
+21201062,504,PT00M14.30S,4,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0.0,0.0,0,h,Butler REBOUND (Off:1 Def:3),Rebound,Unknown,0,460
+21201062,508,PT00M14.30S,4,1610612741,CHI,202710,Butler,J. Butler,0,0,0,,0,0.0,0.0,0,h,Butler Bad Pass Turnover (P5.T19),Turnover,Bad Pass,0,461
+21201062,508,PT00M14.30S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade STEAL (4 STL),,,0,462
+21201062,505,PT00M14.30S,4,1610612748,MIA,2548,Wade,D. Wade,17,19,3,Made,1,100.0,94.0,194,v,Wade 3' Layup (18 PTS),Made Shot,Layup Shot,0,463
+21201062,506,PT00M13.50S,4,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0.0,0.0,0,v,Chalmers Personal Take Foul (P3.PN),Foul,Personal Take,0,464
+21201062,507,PT00M13.50S,4,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,0.0,0.0,0,h,MISS Robinson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,465
+21201062,509,PT00M13.50S,4,0,,1610612741,,,0,0,0,,0,0.0,0.0,0,h,BULLS Rebound,Rebound,Normal Rebound,0,466
+21201062,510,PT00M13.50S,4,1610612741,CHI,101126,Robinson,N. Robinson,0,0,0,,0,101.0,94.0,195,h,Robinson Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,467
+21201062,513,PT00M05.50S,4,1610612748,MIA,2547,Bosh,C. Bosh,10,255,26,Made,1,101.0,97.0,198,v,Bosh 26' 3PT Jump Shot (21 PTS) (James 3 AST),Made Shot,Jump Shot,0,468
+21201062,515,PT00M00.20S,4,1610612741,CHI,201959,Gibson,T. Gibson,0,0,0,,0,0.0,0.0,0,h,Gibson Out of Bounds Lost Ball Turnover (P1.T20),Turnover,Out of Bounds Lost Ball Turnover,0,469
+21201062,517,PT00M00.00S,4,0,,0,,,0,0,0,,0,101.0,97.0,198,,End of 4th Period (10:46 PM EST),period,end,0,470

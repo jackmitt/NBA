@@ -1,0 +1,535 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+42100211,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (1:11 PM EST),period,start,0,1
+42100211,4,PT12M00.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,Jump Ball Williams III vs. Lopez: Tip to G. Antetokounmpo,Jump Ball,,1,2
+42100211,7,PT11M40.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,G. Antetokounmpo Step Out of Bounds Turnover (P1.T1),Turnover,Step Out of Bounds Turnover,1,3
+42100211,9,PT11M23.00S,1,1610612738,BOS,201143,Horford,A. Horford,-161,174,24,Made,1,3.0,0.0,3,h,Horford 24' 3PT Jump Shot (3 PTS) (Tatum 1 AST),Made Shot,Jump Shot,1,4
+42100211,11,PT11M12.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-12,34,4,Made,1,3.0,2.0,5,v,G. Antetokounmpo 4' Cutting Dunk Shot (2 PTS) (Holiday 1 AST),Made Shot,Cutting Dunk Shot,1,5
+42100211,13,PT10M57.00S,1,1610612738,BOS,1627759,Brown,J. Brown,-169,187,25,Missed,1,,,0,h,MISS Brown 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,6
+42100211,14,PT10M55.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:0 Def:1),Rebound,Unknown,1,7
+42100211,15,PT10M46.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,-7,68,7,Missed,1,,,0,v,MISS Lopez 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,8
+42100211,16,PT10M43.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,1,9
+42100211,17,PT10M36.00S,1,1610612738,BOS,203935,Smart,M. Smart,-218,109,24,Made,1,6.0,2.0,8,h,Smart 24' 3PT Jump Shot (3 PTS) (Brown 1 AST),Made Shot,Jump Shot,1,10
+42100211,20,PT10M18.00S,1,1610612749,MIL,202083,Matthews,W. Matthews,87,256,27,Missed,1,,,0,v,MISS Matthews 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,11
+42100211,21,PT10M15.00S,1,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford REBOUND (Off:0 Def:1),Rebound,Unknown,1,12
+42100211,22,PT10M07.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,13
+42100211,22,PT10M07.00S,1,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday STEAL (1 STL),,,1,14
+42100211,24,PT10M04.00S,1,1610612749,MIL,201950,Holiday,J. Holiday,38,263,27,Made,1,6.0,5.0,11,v,Holiday 27' 3PT Running Pull-Up Jump Shot (3 PTS),Made Shot,Running Pull-Up Jump Shot,1,15
+42100211,25,PT09M51.00S,1,1610612738,BOS,201143,Horford,A. Horford,26,3,3,Missed,1,,,0,h,MISS Horford 3' Driving Layup,Missed Shot,Driving Layup Shot,1,16
+42100211,26,PT09M50.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,Williams III REBOUND (Off:1 Def:0),Rebound,Unknown,1,17
+42100211,27,PT09M50.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,Made,1,8.0,5.0,13,h,Williams III Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,1,18
+42100211,28,PT09M39.00S,1,1610612749,MIL,201950,Holiday,J. Holiday,191,164,25,Made,1,8.0,8.0,16,v,Holiday 25' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,19
+42100211,29,PT09M24.00S,1,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday P.FOUL (P1.T1) (S.Foster),Foul,Personal,1,20
+42100211,31,PT09M16.00S,1,1610612738,BOS,201143,Horford,A. Horford,-239,-8,24,Missed,1,,,0,h,MISS Horford 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,21
+42100211,32,PT09M12.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,G. Antetokounmpo REBOUND (Off:0 Def:1),Rebound,Unknown,1,22
+42100211,34,PT09M00.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum P.FOUL (P1.T1) (S.Foster),Foul,Personal,1,23
+42100211,36,PT08M51.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,G. Antetokounmpo Bad Pass Turnover (P2.T2),Turnover,Bad Pass,1,24
+42100211,36,PT08M51.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum STEAL (1 STL),,,1,25
+42100211,38,PT08M46.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,18,0,2,Missed,1,,,0,h,MISS Tatum 2' Running Layup,Missed Shot,Running Layup Shot,1,26
+42100211,39,PT08M43.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:0 Def:1),Rebound,Unknown,1,27
+42100211,40,PT08M40.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,-183,186,26,Missed,1,,,0,v,MISS Lopez 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,28
+42100211,41,PT08M38.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,Williams III REBOUND (Off:1 Def:1),Rebound,Unknown,1,29
+42100211,42,PT08M28.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,234,95,25,Missed,1,,,0,h,MISS Tatum 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,30
+42100211,43,PT08M25.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,G. Antetokounmpo REBOUND (Off:0 Def:2),Rebound,Unknown,1,31
+42100211,44,PT08M16.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,G. Antetokounmpo Lost Ball Turnover (P3.T3),Turnover,Lost Ball,1,32
+42100211,44,PT08M16.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown STEAL (1 STL),,,1,33
+42100211,46,PT08M04.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis S.FOUL (P1.T2) (E.Malloy),Foul,Shooting,1,34
+42100211,48,PT08M04.00S,1,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,9.0,8.0,17,h,Smart Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,35
+42100211,49,PT08M04.00S,1,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,10.0,8.0,18,h,Smart Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,36
+42100211,50,PT07M52.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-18,166,17,Made,1,10.0,10.0,20,v,G. Antetokounmpo 17' Pullup Jump Shot (4 PTS) (Holiday 2 AST),Made Shot,Pullup Jump shot,1,37
+42100211,52,PT07M39.00S,1,1610612738,BOS,203935,Smart,M. Smart,178,209,27,Missed,1,,,0,h,MISS Smart 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,38
+42100211,53,PT07M36.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,G. Antetokounmpo REBOUND (Off:0 Def:3),Rebound,Unknown,1,39
+42100211,54,PT07M29.00S,1,1610612749,MIL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,v,Matthews Step Out of Bounds Turnover (P1.T4),Turnover,Step Out of Bounds Turnover,1,40
+42100211,55,PT07M29.00S,1,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Allen FOR Holiday,Substitution,,0,41
+42100211,57,PT07M12.00S,1,1610612738,BOS,201143,Horford,A. Horford,16,73,7,Missed,1,,,0,h,MISS Horford 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,42
+42100211,58,PT07M09.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:0 Def:2),Rebound,Unknown,1,43
+42100211,59,PT07M04.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,157,65,17,Missed,1,,,0,v,MISS G. Antetokounmpo 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,44
+42100211,60,PT07M02.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,Williams III REBOUND (Off:1 Def:2),Rebound,Unknown,1,45
+42100211,63,PT06M56.00S,1,1610612749,MIL,1628960,Allen,G. Allen,0,0,0,,0,,,0,v,Allen S.FOUL (P1.T3) (C.Blair),Foul,Shooting,1,46
+42100211,65,PT06M56.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,47
+42100211,66,PT06M56.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,SUB: Holiday FOR Portis,Substitution,,0,48
+42100211,68,PT06M56.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,MISS Tatum Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,49
+42100211,69,PT06M56.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,50
+42100211,70,PT06M56.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,11.0,10.0,21,h,Tatum Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,51
+42100211,71,PT06M43.00S,1,1610612749,MIL,201950,Holiday,J. Holiday,17,53,6,Missed,1,,,0,v,MISS Holiday 6' Driving Layup,Missed Shot,Driving Layup Shot,1,52
+42100211,71,PT06M43.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,Williams III BLOCK (1 BLK),,,1,53
+42100211,73,PT06M42.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:1 Def:1),Rebound,Unknown,1,54
+42100211,74,PT06M40.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,-1,13,1,Made,1,11.0,12.0,23,v,Lopez 1' Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,1,55
+42100211,75,PT06M23.00S,1,1610612738,BOS,201143,Horford,A. Horford,234,66,24,Made,1,14.0,12.0,26,h,Horford 24' 3PT Jump Shot (6 PTS) (Smart 1 AST),Made Shot,Jump Shot,1,56
+42100211,77,PT06M11.00S,1,1610612749,MIL,202083,Matthews,W. Matthews,-1,259,26,Missed,1,,,0,v,MISS Matthews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,57
+42100211,78,PT06M08.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:1),Rebound,Unknown,1,58
+42100211,79,PT05M51.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,-1,38,4,Missed,1,,,0,h,MISS Tatum 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,59
+42100211,80,PT05M50.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,Williams III REBOUND (Off:2 Def:2),Rebound,Unknown,1,60
+42100211,81,PT05M50.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,Missed,1,,,0,h,MISS Williams III Tip Layup Shot,Missed Shot,Tip Layup Shot,1,61
+42100211,82,PT05M49.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,Williams III REBOUND (Off:3 Def:2),Rebound,Unknown,1,62
+42100211,83,PT05M49.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,Made,1,16.0,12.0,28,h,Williams III Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,63
+42100211,84,PT05M28.00S,1,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,64
+42100211,84,PT05M28.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum STEAL (2 STL),,,1,65
+42100211,86,PT05M20.00S,1,1610612738,BOS,1627759,Brown,J. Brown,33,251,25,Missed,1,,,0,h,MISS Brown 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,66
+42100211,87,PT05M18.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,G. Antetokounmpo REBOUND (Off:0 Def:4),Rebound,Unknown,1,67
+42100211,88,PT05M11.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,13,36,4,Missed,1,,,0,v,MISS G. Antetokounmpo 4' Running Layup,Missed Shot,Running Layup Shot,1,68
+42100211,89,PT05M09.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:0 Def:2),Rebound,Unknown,1,69
+42100211,90,PT05M01.00S,1,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday P.FOUL (P2.T4) (S.Foster),Foul,Personal,1,70
+42100211,92,PT05M01.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,SUB: Williams FOR Tatum,Substitution,,0,71
+42100211,93,PT05M01.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,SUB: White FOR Williams III,Substitution,,0,72
+42100211,94,PT05M01.00S,1,1610612749,MIL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,v,SUB: Connaughton FOR Matthews,Substitution,,0,73
+42100211,95,PT05M01.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,SUB: Portis FOR G. Antetokounmpo,Substitution,,0,74
+42100211,100,PT04M50.00S,1,1610612738,BOS,203935,Smart,M. Smart,-5,15,2,Made,1,18.0,12.0,30,h,Smart 2' Cutting Layup Shot (7 PTS) (Horford 1 AST),Made Shot,Cutting Layup Shot,1,75
+42100211,102,PT04M42.00S,1,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,76
+42100211,103,PT04M42.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,SUB: Carter FOR Lopez,Substitution,,0,77
+42100211,104,PT04M42.00S,1,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: G. Antetokounmpo FOR Holiday,Substitution,,0,78
+42100211,107,PT04M31.00S,1,1610612749,MIL,1628960,Allen,G. Allen,0,0,0,,0,,,0,v,Allen Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,79
+42100211,107,PT04M31.00S,1,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart STEAL (1 STL),,,1,80
+42100211,109,PT04M28.00S,1,1610612738,BOS,1628401,White,D. White,71,88,11,Missed,1,,,0,h,MISS White 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,81
+42100211,110,PT04M25.00S,1,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,v,Connaughton REBOUND (Off:0 Def:1),Rebound,Unknown,1,82
+42100211,111,PT04M15.00S,1,1610612749,MIL,1626171,Portis,B. Portis,141,214,26,Missed,1,,,0,v,MISS Portis 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,83
+42100211,112,PT04M13.00S,1,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,84
+42100211,113,PT03M59.00S,1,1610612738,BOS,1628401,White,D. White,0,69,7,Missed,1,,,0,h,MISS White 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,85
+42100211,114,PT03M56.00S,1,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,v,Connaughton REBOUND (Off:0 Def:2),Rebound,Unknown,1,86
+42100211,115,PT03M50.00S,1,1610612749,MIL,1628975,Carter,J. Carter,0,0,0,,0,,,0,v,Carter Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,87
+42100211,115,PT03M50.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown STEAL (2 STL),,,1,88
+42100211,117,PT03M50.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,G. Antetokounmpo Personal Take Foul (P1.PN) (C.Blair),Foul,Personal Take,1,89
+42100211,119,PT03M50.00S,1,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Pritchard FOR Smart,Substitution,,0,90
+42100211,121,PT03M50.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,MISS Brown Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,91
+42100211,122,PT03M50.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,92
+42100211,123,PT03M50.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,19.0,12.0,31,h,Brown Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,93
+42100211,124,PT03M35.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,52,5,Made,1,19.0,14.0,33,v,G. Antetokounmpo 5' Driving Floating Bank Jump Shot (6 PTS) (Connaughton 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,94
+42100211,127,PT03M13.00S,1,1610612738,BOS,1629684,Williams,G. Williams,-119,216,25,Made,1,22.0,14.0,36,h,Williams 25' 3PT Jump Shot (3 PTS) (Horford 2 AST),Made Shot,Jump Shot,1,95
+42100211,129,PT02M54.00S,1,1610612749,MIL,1628975,Carter,J. Carter,-55,64,8,Missed,1,,,0,v,MISS Carter 8' Driving Layup,Missed Shot,Driving Layup Shot,1,96
+42100211,129,PT02M54.00S,1,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford BLOCK (1 BLK),,,1,97
+42100211,131,PT02M52.00S,1,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Rebound,Rebound,Unknown,0,98
+42100211,133,PT02M47.00S,1,1610612749,MIL,1626192,Connaughton,P. Connaughton,116,264,29,Made,1,22.0,17.0,39,v,Connaughton 29' 3PT Jump Shot (3 PTS) (G. Antetokounmpo 1 AST),Made Shot,Jump Shot,1,99
+42100211,135,PT02M27.00S,1,1610612738,BOS,1629684,Williams,G. Williams,233,80,25,Missed,1,,,0,h,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,100
+42100211,136,PT02M25.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:1 Def:2),Rebound,Unknown,1,101
+42100211,137,PT02M25.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,Made,1,24.0,17.0,41,h,Brown Tip Dunk Shot (3 PTS),Made Shot,Tip Dunk Shot,1,102
+42100211,138,PT02M08.00S,1,1610612749,MIL,1626171,Portis,B. Portis,-54,273,28,Made,1,24.0,20.0,44,v,Portis 28' 3PT Jump Shot (3 PTS) (G. Antetokounmpo 2 AST),Made Shot,Jump Shot,1,103
+42100211,141,PT01M56.00S,1,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,104
+42100211,141,PT01M56.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis STEAL (1 STL),,,1,105
+42100211,143,PT01M51.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,15,2,Made,1,24.0,22.0,46,v,Portis 2' Running Layup (5 PTS),Made Shot,Running Layup Shot,1,106
+42100211,144,PT01M47.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,107
+42100211,145,PT01M47.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,SUB: Theis FOR Brown,Substitution,,0,108
+42100211,146,PT01M47.00S,1,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,SUB: Tatum FOR Horford,Substitution,,0,109
+42100211,147,PT01M47.00S,1,1610612749,MIL,1628960,Allen,G. Allen,0,0,0,,0,,,0,v,SUB: Lopez FOR Allen,Substitution,,0,110
+42100211,148,PT01M47.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,SUB: Matthews FOR Portis,Substitution,,0,111
+42100211,153,PT01M29.00S,1,1610612738,BOS,1629684,Williams,G. Williams,-1,77,8,Missed,1,,,0,h,MISS Williams 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,112
+42100211,153,PT01M29.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez BLOCK (1 BLK),,,1,113
+42100211,155,PT01M26.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,G. Antetokounmpo REBOUND (Off:0 Def:5),Rebound,Unknown,1,114
+42100211,156,PT01M25.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,15,5,2,Missed,1,,,0,v,MISS G. Antetokounmpo 2' Running Layup,Missed Shot,Running Layup Shot,1,115
+42100211,157,PT01M23.00S,1,1610612738,BOS,1628464,Theis,D. Theis,0,0,0,,0,,,0,h,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,1,116
+42100211,159,PT01M11.00S,1,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,117
+42100211,159,PT01M11.00S,1,1610612749,MIL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,v,Matthews STEAL (1 STL),,,1,118
+42100211,161,PT01M07.00S,1,1610612749,MIL,1628975,Carter,J. Carter,-201,170,26,Made,1,24.0,25.0,49,v,Carter 26' 3PT Running Jump Shot (3 PTS) (G. Antetokounmpo 3 AST),Made Shot,Running Jump Shot,1,119
+42100211,163,PT00M45.80S,1,1610612738,BOS,1630202,Pritchard,P. Pritchard,97,252,27,Missed,1,,,0,h,MISS Pritchard 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,120
+42100211,164,PT00M43.10S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:1 Def:2),Rebound,Unknown,1,121
+42100211,165,PT00M32.10S,1,1610612738,BOS,1628464,Theis,D. Theis,0,0,0,,0,,,0,h,Theis P.FOUL (P1.T2) (E.Malloy),Foul,Personal,1,122
+42100211,167,PT00M31.40S,1,1610612749,MIL,202083,Matthews,W. Matthews,-36,21,4,Made,1,24.0,27.0,51,v,Matthews 4' Alley Oop Layup (2 PTS) (G. Antetokounmpo 4 AST),Made Shot,Alley Oop Layup shot,1,123
+42100211,169,PT00M11.30S,1,1610612738,BOS,1628369,Tatum,J. Tatum,29,20,4,Missed,1,,,0,h,MISS Tatum 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,124
+42100211,170,PT00M09.90S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:1 Def:3),Rebound,Unknown,1,125
+42100211,171,PT00M00.70S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-40,22,5,Missed,1,,,0,v,MISS G. Antetokounmpo 5' Driving Layup,Missed Shot,Driving Layup Shot,1,126
+42100211,171,PT00M00.70S,1,1610612738,BOS,1628464,Theis,D. Theis,0,0,0,,0,,,0,h,Theis BLOCK (1 BLK),,,1,127
+42100211,172,PT00M00.50S,1,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Rebound,Rebound,Unknown,0,128
+42100211,175,PT00M00.20S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-31,133,14,Missed,1,,,0,v,MISS G. Antetokounmpo 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,129
+42100211,176,PT00M00.10S,1,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Rebound,Rebound,Unknown,0,130
+42100211,177,PT00M00.00S,1,0,,0,,,0,0,0,,0,24.0,27.0,51,,End of 1st Period (1:39 PM EST),period,end,1,131
+42100211,182,PT12M00.00S,2,0,,0,,,0,0,0,,0,24.0,27.0,51,,Start of 2nd Period (1:43 PM EST),period,start,0,132
+42100211,183,PT11M40.00S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,-210,155,26,Made,1,27.0,27.0,54,h,Pritchard 26' 3PT Jump Shot (3 PTS) (White 1 AST),Made Shot,Jump Shot,0,133
+42100211,185,PT11M18.00S,2,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White S.FOUL (P1.T1) (C.Blair),Foul,Shooting,1,134
+42100211,187,PT11M18.00S,2,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,27.0,28.0,55,v,Holiday Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,135
+42100211,188,PT11M18.00S,2,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,27.0,29.0,56,v,Holiday Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,136
+42100211,192,PT11M08.00S,2,1610612738,BOS,1628401,White,D. White,-2,62,6,Missed,1,,,0,h,MISS White 6' Driving Layup,Missed Shot,Driving Layup Shot,1,137
+42100211,193,PT11M06.00S,2,1610612738,BOS,1628464,Theis,D. Theis,0,0,0,,0,,,0,h,Theis REBOUND (Off:1 Def:1),Rebound,Unknown,1,138
+42100211,191,PT11M06.00S,2,1610612738,BOS,1628464,Theis,D. Theis,-37,-4,4,Made,1,29.0,29.0,58,h,Theis 4' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,139
+42100211,266,PT11M00.00S,2,1610612749,MIL,201950,Holiday,J. Holiday,-11,18,2,Missed,1,,,0,v,MISS Holiday 2' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,140
+42100211,267,PT10M58.00S,2,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White REBOUND (Off:0 Def:1),Rebound,Unknown,1,141
+42100211,194,PT10M50.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez P.FOUL (P1.T1) (E.Malloy),Foul,Personal,1,142
+42100211,196,PT10M42.00S,2,1610612738,BOS,1629684,Williams,G. Williams,99,242,26,Missed,1,,,0,h,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,143
+42100211,197,PT10M39.00S,2,1610612749,MIL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,v,Matthews REBOUND (Off:0 Def:1),Rebound,Unknown,1,144
+42100211,198,PT10M28.00S,2,1610612749,MIL,1626171,Portis,B. Portis,-2,92,9,Missed,1,,,0,v,MISS Portis 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,145
+42100211,199,PT10M27.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:2 Def:3),Rebound,Unknown,1,146
+42100211,200,PT10M27.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,Made,1,29.0,31.0,60,v,Lopez Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,147
+42100211,201,PT10M11.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,217,111,24,Missed,1,,,0,h,MISS Tatum 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,148
+42100211,202,PT10M07.00S,2,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,149
+42100211,203,PT09M51.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,-153,228,27,Missed,1,,,0,v,MISS Lopez 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,150
+42100211,204,PT09M49.00S,2,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White REBOUND (Off:0 Def:2),Rebound,Unknown,1,151
+42100211,205,PT09M44.00S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,232,8,0,Made,1,32.0,31.0,63,h,Pritchard 3PT Jump Shot (6 PTS) (Tatum 2 AST),Made Shot,Jump Shot,1,152
+42100211,207,PT09M26.00S,2,1610612749,MIL,1626171,Portis,B. Portis,-188,34,19,Made,1,32.0,33.0,65,v,Portis 19' Turnaround Jump Shot (7 PTS) (Holiday 3 AST),Made Shot,Turnaround Jump Shot,1,153
+42100211,209,PT09M21.00S,2,1610612738,BOS,1628464,Theis,D. Theis,0,0,0,,0,,,0,h,Theis OFF.Foul (P2) (E.Malloy),Foul,Offensive,1,154
+42100211,211,PT09M21.00S,2,1610612738,BOS,1628464,Theis,D. Theis,0,0,0,,0,,,0,h,Theis Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,155
+42100211,212,PT09M21.00S,2,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,SUB: Smart FOR White,Substitution,,0,156
+42100211,213,PT09M21.00S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,h,SUB: Brown FOR Pritchard,Substitution,,0,157
+42100211,214,PT09M21.00S,2,1610612738,BOS,1628464,Theis,D. Theis,0,0,0,,0,,,0,h,SUB: Williams III FOR Theis,Substitution,,0,158
+42100211,215,PT09M21.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,SUB: Allen FOR Lopez,Substitution,,0,159
+42100211,216,PT09M21.00S,2,1610612749,MIL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,v,SUB: G. Antetokounmpo FOR Matthews,Substitution,,0,160
+42100211,222,PT09M09.00S,2,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,Williams III P.FOUL (P1.T2) (C.Blair),Foul,Personal,1,161
+42100211,224,PT08M57.00S,2,1610612749,MIL,1626171,Portis,B. Portis,-230,-3,0,Missed,1,,,0,v,MISS Portis 3PT Jump Shot,Missed Shot,Jump Shot,1,162
+42100211,225,PT08M54.00S,2,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,Williams III REBOUND (Off:3 Def:3),Rebound,Unknown,1,163
+42100211,227,PT08M42.00S,2,1610612738,BOS,1627759,Brown,J. Brown,218,137,26,Missed,1,,,0,h,MISS Brown 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,164
+42100211,228,PT08M39.00S,2,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,1,165
+42100211,229,PT08M32.00S,2,1610612749,MIL,201950,Holiday,J. Holiday,28,-10,3,Missed,1,,,0,v,MISS Holiday 3' Driving Layup,Missed Shot,Driving Layup Shot,1,166
+42100211,229,PT08M32.00S,2,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,Williams III BLOCK (2 BLK),,,1,167
+42100211,231,PT08M30.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:2),Rebound,Unknown,1,168
+42100211,232,PT08M27.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,169
+42100211,232,PT08M27.00S,2,1610612749,MIL,1628960,Allen,G. Allen,0,0,0,,0,,,0,v,Allen STEAL (1 STL),,,1,170
+42100211,234,PT08M20.00S,2,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,v,Connaughton Traveling Turnover (P1.T8),Turnover,Traveling,1,171
+42100211,235,PT08M10.00S,2,1610612738,BOS,203935,Smart,M. Smart,-28,15,3,Missed,1,,,0,h,MISS Smart 3' Driving Layup,Missed Shot,Driving Layup Shot,1,172
+42100211,236,PT08M08.00S,2,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:0 Def:3),Rebound,Unknown,1,173
+42100211,237,PT07M51.00S,2,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis Offensive Charge Foul (P2) (C.Blair),Foul,Offensive Charge,1,174
+42100211,239,PT07M51.00S,2,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,1,175
+42100211,240,PT07M51.00S,2,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,,0,,,0,h,SUB: Horford FOR Williams,Substitution,,0,176
+42100211,242,PT07M41.00S,2,1610612738,BOS,1627759,Brown,J. Brown,-201,141,25,Missed,1,,,0,h,MISS Brown 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,177
+42100211,243,PT07M39.00S,2,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:0 Def:4),Rebound,Unknown,1,178
+42100211,244,PT07M26.00S,2,1610612749,MIL,1626192,Connaughton,P. Connaughton,-227,1,0,Made,1,32.0,36.0,68,v,Connaughton 3PT Jump Shot (6 PTS) (Portis 1 AST),Made Shot,Jump Shot,1,179
+42100211,247,PT07M09.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown OFF.Foul (P1) (S.Foster),Foul,Offensive,1,180
+42100211,249,PT07M09.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,1,181
+42100211,250,PT07M09.00S,2,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Lopez FOR Holiday,Substitution,,0,182
+42100211,252,PT07M04.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-50,280,28,Missed,1,,,0,v,MISS G. Antetokounmpo 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,183
+42100211,253,PT07M00.00S,2,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford REBOUND (Off:0 Def:2),Rebound,Unknown,1,184
+42100211,254,PT06M54.00S,2,1610612738,BOS,201143,Horford,A. Horford,145,219,26,Missed,1,,,0,h,MISS Horford 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,185
+42100211,255,PT06M52.00S,2,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,v,Connaughton REBOUND (Off:0 Def:3),Rebound,Unknown,1,186
+42100211,256,PT06M46.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-49,49,7,Missed,1,,,0,v,MISS G. Antetokounmpo 7' Running Layup,Missed Shot,Running Layup Shot,1,187
+42100211,257,PT06M44.00S,2,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart REBOUND (Off:0 Def:1),Rebound,Unknown,1,188
+42100211,258,PT06M40.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,15,21,3,Made,1,34.0,36.0,70,h,Tatum 3' Running Layup (3 PTS) (Smart 2 AST),Made Shot,Running Layup Shot,1,189
+42100211,261,PT06M38.00S,2,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,190
+42100211,262,PT06M38.00S,2,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,SUB: Matthews FOR Portis,Substitution,,0,191
+42100211,263,PT06M38.00S,2,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,v,SUB: Carter FOR Connaughton,Substitution,,0,192
+42100211,268,PT06M24.00S,2,1610612749,MIL,1628960,Allen,G. Allen,-130,238,27,Made,1,34.0,39.0,73,v,Allen 27' 3PT Jump Shot (3 PTS) (G. Antetokounmpo 5 AST),Made Shot,Jump Shot,1,193
+42100211,270,PT06M05.00S,2,1610612738,BOS,201143,Horford,A. Horford,11,253,25,Missed,1,,,0,h,MISS Horford 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,194
+42100211,271,PT06M02.00S,2,1610612749,MIL,1628975,Carter,J. Carter,0,0,0,,0,,,0,v,Carter REBOUND (Off:0 Def:1),Rebound,Unknown,1,195
+42100211,272,PT05M53.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-32,23,4,Missed,1,,,0,v,MISS G. Antetokounmpo 4' Driving Layup,Missed Shot,Driving Layup Shot,1,196
+42100211,273,PT05M50.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:3),Rebound,Unknown,1,197
+42100211,274,PT05M48.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,198
+42100211,274,PT05M48.00S,2,1610612749,MIL,1628960,Allen,G. Allen,0,0,0,,0,,,0,v,Allen STEAL (2 STL),,,1,199
+42100211,276,PT05M46.00S,2,1610612749,MIL,1628960,Allen,G. Allen,150,217,26,Missed,1,,,0,v,MISS Allen 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,200
+42100211,277,PT05M43.00S,2,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,Williams III REBOUND (Off:3 Def:4),Rebound,Unknown,1,201
+42100211,278,PT05M36.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown Lost Ball Turnover (P3.T8),Turnover,Lost Ball,1,202
+42100211,278,PT05M36.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez STEAL (1 STL),,,1,203
+42100211,280,PT05M32.00S,2,1610612749,MIL,202083,Matthews,W. Matthews,225,42,0,Made,1,34.0,42.0,76,v,Matthews 3PT Running Jump Shot (5 PTS) (G. Antetokounmpo 6 AST),Made Shot,Running Jump Shot,1,204
+42100211,282,PT05M31.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,205
+42100211,283,PT05M12.00S,2,1610612738,BOS,203935,Smart,M. Smart,89,241,26,Missed,1,,,0,h,MISS Smart 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,206
+42100211,284,PT05M08.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:2 Def:2),Rebound,Unknown,1,207
+42100211,285,PT05M02.00S,2,1610612738,BOS,1627759,Brown,J. Brown,-2,251,25,Made,1,37.0,42.0,79,h,Brown 25' 3PT Jump Shot (6 PTS) (Smart 3 AST),Made Shot,Jump Shot,1,208
+42100211,287,PT04M42.00S,2,1610612749,MIL,1628975,Carter,J. Carter,-222,122,25,Missed,1,,,0,v,MISS Carter 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,209
+42100211,288,PT04M40.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:2 Def:3),Rebound,Unknown,1,210
+42100211,289,PT04M32.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown Bad Pass Turnover (P4.T9),Turnover,Bad Pass,1,211
+42100211,289,PT04M32.00S,2,1610612749,MIL,1628975,Carter,J. Carter,0,0,0,,0,,,0,v,Carter STEAL (1 STL),,,1,212
+42100211,291,PT04M27.00S,2,1610612749,MIL,1628960,Allen,G. Allen,156,207,26,Made,1,37.0,45.0,82,v,Allen 26' 3PT Jump Shot (6 PTS) (Matthews 1 AST),Made Shot,Jump Shot,1,213
+42100211,293,PT04M10.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,12,256,26,Made,1,40.0,45.0,85,h,Tatum 26' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,214
+42100211,294,PT03M53.00S,2,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart P.FOUL (P1.T3) (C.Blair),Foul,Personal,1,215
+42100211,296,PT03M53.00S,2,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,SUB: Williams FOR Williams III,Substitution,,0,216
+42100211,297,PT03M53.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,SUB: Holiday FOR G. Antetokounmpo,Substitution,,0,217
+42100211,300,PT03M43.00S,2,1610612749,MIL,201950,Holiday,J. Holiday,-18,167,17,Missed,1,,,0,v,MISS Holiday 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,218
+42100211,301,PT03M41.00S,2,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford REBOUND (Off:0 Def:3),Rebound,Unknown,1,219
+42100211,302,PT03M34.00S,2,1610612738,BOS,201143,Horford,A. Horford,172,192,26,Made,1,43.0,45.0,88,h,Horford 26' 3PT Jump Shot (9 PTS) (Smart 4 AST),Made Shot,Jump Shot,1,220
+42100211,304,PT03M12.00S,2,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,,0,,,0,h,Williams P.FOUL (P1.T4) (C.Blair),Foul,Personal,1,221
+42100211,307,PT03M12.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,SUB: Portis FOR Lopez,Substitution,,0,222
+42100211,310,PT03M12.00S,2,1610612749,MIL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,v,SUB: G. Antetokounmpo FOR Matthews,Substitution,,0,223
+42100211,311,PT03M03.00S,2,1610612749,MIL,1628960,Allen,G. Allen,-151,286,32,Made,1,43.0,48.0,91,v,Allen 32' 3PT Jump Shot (9 PTS) (G. Antetokounmpo 7 AST),Made Shot,Jump Shot,1,224
+42100211,313,PT02M39.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,10,260,26,Missed,1,,,0,h,MISS Tatum 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,225
+42100211,314,PT02M36.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,G. Antetokounmpo REBOUND (Off:0 Def:6),Rebound,Unknown,1,226
+42100211,315,PT02M30.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-27,31,4,Made,1,43.0,50.0,93,v,G. Antetokounmpo 4' Cutting Finger Roll Layup Shot (8 PTS) (Holiday 4 AST),Made Shot,Cutting Finger Roll Layup Shot,1,227
+42100211,317,PT02M15.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,-142,204,25,Made,1,46.0,50.0,96,h,Tatum 25' 3PT Jump Shot (9 PTS) (Brown 2 AST),Made Shot,Jump Shot,1,228
+42100211,319,PT01M56.00S,2,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford S.FOUL (P1.PN) (C.Blair),Foul,Shooting,1,229
+42100211,321,PT01M56.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,46.0,51.0,97,v,G. Antetokounmpo Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,230
+42100211,322,PT01M56.00S,2,1610612749,MIL,1628960,Allen,G. Allen,0,0,0,,0,,,0,v,SUB: Connaughton FOR Allen,Substitution,,0,231
+42100211,324,PT01M56.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,46.0,52.0,98,v,G. Antetokounmpo Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,232
+42100211,325,PT01M43.00S,2,1610612738,BOS,203935,Smart,M. Smart,-188,164,25,Missed,1,,,0,h,MISS Smart 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,233
+42100211,326,PT01M41.00S,2,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:0 Def:5),Rebound,Unknown,1,234
+42100211,327,PT01M28.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-70,164,18,Made,1,46.0,54.0,100,v,G. Antetokounmpo 18' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,235
+42100211,328,PT01M12.00S,2,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,v,Connaughton P.FOUL (P1.T2) (S.Foster),Foul,Personal,1,236
+42100211,330,PT01M12.00S,2,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Pritchard FOR Smart,Substitution,,0,237
+42100211,331,PT01M12.00S,2,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Allen FOR Holiday,Substitution,,0,238
+42100211,332,PT01M12.00S,2,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,v,SUB: Matthews FOR Connaughton,Substitution,,0,239
+42100211,336,PT01M02.00S,2,1610612738,BOS,1627759,Brown,J. Brown,71,143,16,Missed,1,,,0,h,MISS Brown 16' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,240
+42100211,337,PT00M59.30S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,h,Pritchard REBOUND (Off:1 Def:0),Rebound,Unknown,1,241
+42100211,338,PT00M48.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,11,57,6,Missed,1,,,0,h,MISS Tatum 6' Driving Layup,Missed Shot,Driving Layup Shot,1,242
+42100211,338,PT00M48.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,G. Antetokounmpo BLOCK (1 BLK),,,1,243
+42100211,340,PT00M46.20S,2,1610612749,MIL,1628960,Allen,G. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:0 Def:1),Rebound,Unknown,1,244
+42100211,341,PT00M43.70S,2,1610612749,MIL,202083,Matthews,W. Matthews,228,-1,0,Missed,1,,,0,v,MISS Matthews 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,245
+42100211,342,PT00M40.90S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,h,Pritchard REBOUND (Off:1 Def:1),Rebound,Unknown,1,246
+42100211,343,PT00M39.20S,2,1610612738,BOS,1627759,Brown,J. Brown,-89,235,25,Missed,1,,,0,h,MISS Brown 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,247
+42100211,344,PT00M37.20S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,G. Antetokounmpo REBOUND (Off:0 Def:7),Rebound,Unknown,1,248
+42100211,345,PT00M28.30S,2,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,,0,,,0,h,Williams S.FOUL (P2.PN) (S.Foster),Foul,Shooting,1,249
+42100211,347,PT00M28.30S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,46.0,55.0,101,v,G. Antetokounmpo Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,250
+42100211,348,PT00M28.30S,2,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,SUB: Connaughton FOR Portis,Substitution,,0,251
+42100211,349,PT00M28.30S,2,1610612749,MIL,1628960,Allen,G. Allen,0,0,0,,0,,,0,v,SUB: Lopez FOR Allen,Substitution,,0,252
+42100211,352,PT00M28.30S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,46.0,56.0,102,v,G. Antetokounmpo Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,253
+42100211,353,PT00M07.20S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,105,227,25,Missed,1,,,0,h,MISS Pritchard 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,254
+42100211,354,PT00M04.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,G. Antetokounmpo REBOUND (Off:0 Def:8),Rebound,Unknown,1,255
+42100211,356,PT00M01.00S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,h,SUB: Williams III FOR Pritchard,Substitution,,0,256
+42100211,357,PT00M01.00S,2,1610612749,MIL,1628975,Carter,J. Carter,0,0,0,,0,,,0,v,SUB: Holiday FOR Carter,Substitution,,0,257
+42100211,358,PT00M01.00S,2,1610612749,MIL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,v,SUB: Portis FOR Matthews,Substitution,,0,258
+42100211,359,PT00M01.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,SUB: Allen FOR Lopez,Substitution,,0,259
+42100211,364,PT00M00.00S,2,0,,0,,,0,0,0,,0,46.0,56.0,102,,End of 2nd Period (2:11 PM EST),period,end,1,260
+42100211,371,PT12M00.00S,3,0,,0,,,0,0,0,,0,46.0,56.0,102,,Start of 3rd Period (2:26 PM EST),period,start,0,261
+42100211,372,PT11M43.00S,3,1610612738,BOS,1627759,Brown,J. Brown,93,241,26,Missed,1,,,0,h,MISS Brown 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,262
+42100211,373,PT11M40.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:2 Def:4),Rebound,Unknown,1,263
+42100211,374,PT11M31.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,G. Antetokounmpo Bad Pass Turnover (P4.T10),Turnover,Bad Pass,1,264
+42100211,374,PT11M31.00S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford STEAL (1 STL),,,1,265
+42100211,376,PT11M22.00S,3,1610612738,BOS,203935,Smart,M. Smart,-126,235,27,Missed,1,,,0,h,MISS Smart 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,266
+42100211,377,PT11M19.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:2 Def:5),Rebound,Unknown,1,267
+42100211,378,PT11M10.00S,3,1610612749,MIL,201950,Holiday,J. Holiday,-51,239,24,Missed,1,,,0,v,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,268
+42100211,379,PT11M05.00S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford REBOUND (Off:0 Def:4),Rebound,Unknown,1,269
+42100211,380,PT10M59.00S,3,1610612738,BOS,203935,Smart,M. Smart,31,10,3,Missed,1,,,0,h,MISS Smart 3' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,270
+42100211,381,PT10M57.00S,3,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:0 Def:6),Rebound,Unknown,1,271
+42100211,382,PT10M47.00S,3,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,272
+42100211,382,PT10M47.00S,3,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,Williams III STEAL (1 STL),,,1,273
+42100211,384,PT10M36.00S,3,1610612738,BOS,1629057,Williams III,R. Williams III,10,2,1,Missed,1,,,0,h,MISS Williams III 1' Dunk,Missed Shot,Dunk Shot,1,274
+42100211,384,PT10M36.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez BLOCK (2 BLK),,,1,275
+42100211,386,PT10M33.00S,3,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:0 Def:7),Rebound,Unknown,1,276
+42100211,387,PT10M26.00S,3,1610612749,MIL,1626171,Portis,B. Portis,-7,63,6,Made,1,46.0,58.0,104,v,Portis 6' Turnaround Hook Shot (9 PTS),Made Shot,Turnaround Hook Shot,1,277
+42100211,389,PT10M00.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,-104,241,26,Made,1,49.0,58.0,107,h,Tatum 26' 3PT Step Back Jump Shot (12 PTS) (Smart 5 AST),Made Shot,Step Back Jump shot,1,278
+42100211,391,PT09M48.00S,3,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart P.FOUL (P2.T1) (S.Foster),Foul,Personal,1,279
+42100211,393,PT09M42.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,87,9,Missed,1,,,0,v,MISS G. Antetokounmpo 9' Hook Shot,Missed Shot,Hook Shot,1,280
+42100211,394,PT09M39.00S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford REBOUND (Off:0 Def:5),Rebound,Unknown,1,281
+42100211,395,PT09M36.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,G. Antetokounmpo P.FOUL (P2.T1) (E.Malloy),Foul,Personal,1,282
+42100211,397,PT09M32.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,-70,256,27,Made,1,52.0,58.0,110,h,Tatum 27' 3PT Jump Shot (15 PTS),Made Shot,Jump Shot,1,283
+42100211,398,PT09M16.00S,3,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,Williams III S.FOUL (P2.T2) (E.Malloy),Foul,Shooting,1,284
+42100211,400,PT09M16.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,MISS G. Antetokounmpo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,285
+42100211,401,PT09M16.00S,3,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Rebound,Rebound,Normal Rebound,0,286
+42100211,402,PT09M16.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,52.0,59.0,111,v,G. Antetokounmpo Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,287
+42100211,403,PT09M07.00S,3,1610612738,BOS,1629057,Williams III,R. Williams III,-7,16,2,Made,1,54.0,59.0,113,h,Williams III 2' Alley Oop Dunk (6 PTS) (Tatum 3 AST),Made Shot,Alley Oop Dunk Shot,1,288
+42100211,405,PT08M55.00S,3,1610612749,MIL,201950,Holiday,J. Holiday,102,195,22,Made,1,54.0,61.0,115,v,Holiday 22' Jump Shot (10 PTS) (G. Antetokounmpo 8 AST),Made Shot,Jump Shot,1,289
+42100211,425,PT08M55.00S,3,0,,405,,,0,0,0,,0,54.0,61.0,115,,Instant Replay3rd Period (2:32 PM EST),Instant Replay,Overturn Ruling,0,290
+42100211,407,PT08M39.00S,3,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart Lost Ball Turnover (P1.T10),Turnover,Lost Ball,1,291
+42100211,407,PT08M39.00S,3,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday STEAL (2 STL),,,1,292
+42100211,409,PT08M35.00S,3,1610612749,MIL,1626171,Portis,B. Portis,169,131,21,Made,1,54.0,63.0,117,v,Portis 21' Jump Shot (11 PTS) (Matthews 2 AST),Made Shot,Jump Shot,1,293
+42100211,410,PT08M24.00S,3,1610612749,MIL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,v,Matthews P.FOUL (P1.T2) (E.Malloy),Foul,Personal,1,294
+42100211,413,PT08M14.00S,3,1610612738,BOS,203935,Smart,M. Smart,-16,267,27,Missed,1,,,0,h,MISS Smart 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,295
+42100211,414,PT08M11.00S,3,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Rebound,Rebound,Unknown,0,296
+42100211,415,PT07M58.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown S.FOUL (P2.T3) (E.Malloy),Foul,Shooting,1,297
+42100211,417,PT07M58.00S,3,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,MISS Portis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,298
+42100211,418,PT07M58.00S,3,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Rebound,Rebound,Normal Rebound,0,299
+42100211,419,PT07M58.00S,3,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,54.0,64.0,118,v,Portis Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,300
+42100211,420,PT07M53.00S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford OFF.Foul (P2) (S.Foster),Foul,Offensive,1,301
+42100211,422,PT07M53.00S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,1,302
+42100211,423,PT07M38.00S,3,1610612749,MIL,202083,Matthews,W. Matthews,230,62,24,Missed,1,,,0,v,MISS Matthews 24' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,303
+42100211,424,PT07M36.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:3 Def:5),Rebound,Unknown,1,304
+42100211,426,PT07M31.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-31,6,3,Missed,1,,,0,v,MISS G. Antetokounmpo 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,305
+42100211,427,PT07M28.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:2 Def:4),Rebound,Unknown,1,306
+42100211,428,PT07M25.00S,3,1610612738,BOS,203935,Smart,M. Smart,-20,21,3,Made,1,56.0,64.0,120,h,Smart 3' Running Reverse Layup (9 PTS) (Brown 3 AST),Made Shot,Running Reverse Layup Shot,1,307
+42100211,430,PT07M12.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-109,226,25,Missed,1,,,0,v,MISS G. Antetokounmpo 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,308
+42100211,431,PT07M10.00S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford REBOUND (Off:0 Def:6),Rebound,Unknown,1,309
+42100211,432,PT07M02.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,310
+42100211,435,PT07M02.00S,3,1610612749,MIL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,v,SUB: Allen FOR Matthews,Substitution,,0,311
+42100211,437,PT06M52.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown Lost Ball Turnover (P5.T12),Turnover,Lost Ball,1,312
+42100211,437,PT06M52.00S,3,1610612749,MIL,1628960,Allen,G. Allen,0,0,0,,0,,,0,v,Allen STEAL (3 STL),,,1,313
+42100211,439,PT06M41.00S,3,1610612749,MIL,1628960,Allen,G. Allen,48,109,12,Made,1,56.0,66.0,122,v,Allen 12' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,1,314
+42100211,440,PT06M33.00S,3,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart OFF.Foul (P3) (S.Foster),Foul,Offensive,1,315
+42100211,442,PT06M33.00S,3,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart Offensive Foul Turnover (P2.T13),Turnover,Offensive Foul Turnover,1,316
+42100211,443,PT06M21.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-31,5,3,Missed,1,,,0,v,MISS G. Antetokounmpo 3' Driving Layup,Missed Shot,Driving Layup Shot,1,317
+42100211,443,PT06M21.00S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford BLOCK (2 BLK),,,1,318
+42100211,445,PT06M18.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,G. Antetokounmpo REBOUND (Off:1 Def:8),Rebound,Unknown,1,319
+42100211,446,PT06M16.00S,3,1610612749,MIL,1626171,Portis,B. Portis,163,198,26,Missed,1,,,0,v,MISS Portis 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,320
+42100211,447,PT06M13.00S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford REBOUND (Off:0 Def:7),Rebound,Unknown,1,321
+42100211,448,PT06M06.00S,3,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis P.FOUL (P3.T3) (E.Malloy),Foul,Personal,1,322
+42100211,450,PT06M06.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,SUB: Connaughton FOR G. Antetokounmpo,Substitution,,0,323
+42100211,452,PT06M01.00S,3,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,v,Connaughton S.FOUL (P2.T4) (C.Blair),Foul,Shooting,1,324
+42100211,454,PT06M01.00S,3,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,57.0,66.0,123,h,Smart Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,325
+42100211,455,PT06M01.00S,3,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,h,MISS Smart Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,326
+42100211,456,PT06M01.00S,3,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:0 Def:8),Rebound,Unknown,1,327
+42100211,457,PT05M48.00S,3,1610612749,MIL,1628960,Allen,G. Allen,-39,8,4,Missed,1,,,0,v,MISS Allen 4' Driving Layup,Missed Shot,Driving Layup Shot,1,328
+42100211,457,PT05M48.00S,3,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,Williams III BLOCK (3 BLK),,,1,329
+42100211,459,PT05M45.00S,3,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Rebound,Rebound,Unknown,0,330
+42100211,461,PT05M45.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,SUB: Williams FOR Brown,Substitution,,0,331
+42100211,462,PT05M45.00S,3,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,SUB: White FOR Williams III,Substitution,,0,332
+42100211,465,PT05M42.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,-16,-5,2,Made,1,57.0,68.0,125,v,Lopez 2' Layup (6 PTS) (Holiday 5 AST),Made Shot,Layup Shot,1,333
+42100211,467,PT05M29.00S,3,1610612738,BOS,1628401,White,D. White,229,12,0,Made,1,60.0,68.0,128,h,White 3PT Jump Shot (3 PTS) (Horford 3 AST),Made Shot,Jump Shot,1,334
+42100211,470,PT05M16.00S,3,1610612749,MIL,201950,Holiday,J. Holiday,15,72,7,Missed,1,,,0,v,MISS Holiday 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,335
+42100211,471,PT05M14.00S,3,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,1,336
+42100211,472,PT05M08.00S,3,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis S.FOUL (P4.PN) (S.Foster),Foul,Shooting,1,337
+42100211,474,PT05M08.00S,3,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,,0,61.0,68.0,129,h,Williams Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,338
+42100211,475,PT05M08.00S,3,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,SUB: G. Antetokounmpo FOR Portis,Substitution,,0,339
+42100211,477,PT05M08.00S,3,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,,0,62.0,68.0,130,h,Williams Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,340
+42100211,478,PT04M48.00S,3,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,v,Connaughton Offensive Charge Foul (P3) (E.Malloy),Foul,Offensive Charge,1,341
+42100211,480,PT04M48.00S,3,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,v,Connaughton Offensive Foul Turnover (P2.T12),Turnover,Offensive Foul Turnover,1,342
+42100211,481,PT04M38.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,-9,64,6,Missed,1,,,0,h,MISS Tatum 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,343
+42100211,481,PT04M38.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,G. Antetokounmpo BLOCK (2 BLK),,,1,344
+42100211,483,PT04M36.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,345
+42100211,485,PT04M31.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,-12,272,27,Missed,1,,,0,h,MISS Tatum 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,346
+42100211,486,PT04M28.00S,3,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:3),Rebound,Unknown,1,347
+42100211,487,PT04M19.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,13,104,10,Missed,1,,,0,v,MISS G. Antetokounmpo 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,348
+42100211,488,PT04M17.00S,3,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Rebound,Rebound,Unknown,1,349
+42100211,489,PT04M17.00S,3,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White L.B.FOUL (P2.T4) (C.Blair),Foul,Loose Ball,1,350
+42100211,492,PT04M17.00S,3,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,351
+42100211,493,PT04M04.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,19,31,4,Made,1,62.0,70.0,132,v,G. Antetokounmpo 4' Driving Finger Roll Layup (17 PTS) (Allen 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,352
+42100211,494,PT04M04.00S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford S.FOUL (P3.PN) (E.Malloy),Foul,Shooting,1,353
+42100211,496,PT04M04.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,MISS G. Antetokounmpo Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,354
+42100211,497,PT04M03.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,355
+42100211,498,PT04M03.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,G. Antetokounmpo L.B.FOUL (P3.PN) (E.Malloy),Foul,Loose Ball,1,356
+42100211,500,PT04M03.00S,3,1610612738,BOS,1628401,White,D. White,0,0,0,,0,63.0,70.0,133,h,White Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,357
+42100211,501,PT04M03.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,SUB: Carter FOR Lopez,Substitution,,0,358
+42100211,503,PT04M03.00S,3,1610612738,BOS,1628401,White,D. White,0,0,0,,0,64.0,70.0,134,h,White Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,359
+42100211,504,PT03M52.00S,3,1610612749,MIL,201950,Holiday,J. Holiday,104,1,10,Made,1,64.0,72.0,136,v,Holiday 10' Jump Shot (12 PTS) (G. Antetokounmpo 9 AST),Made Shot,Jump Shot,1,360
+42100211,506,PT03M37.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,G. Antetokounmpo P.FOUL (P4.PN) (S.Foster),Foul,Personal,1,361
+42100211,509,PT03M37.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,65.0,72.0,137,h,Tatum Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,362
+42100211,510,PT03M37.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,SUB: Lopez FOR G. Antetokounmpo,Substitution,,0,363
+42100211,512,PT03M37.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,66.0,72.0,138,h,Tatum Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,364
+42100211,513,PT03M20.00S,3,1610612749,MIL,1628960,Allen,G. Allen,-183,167,25,Missed,1,,,0,v,MISS Allen 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,365
+42100211,514,PT03M17.00S,3,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White REBOUND (Off:0 Def:3),Rebound,Unknown,1,366
+42100211,515,PT03M07.00S,3,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart Bad Pass Turnover (P3.T14),Turnover,Bad Pass,1,367
+42100211,515,PT03M07.00S,3,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,v,Connaughton STEAL (1 STL),,,1,368
+42100211,517,PT03M01.00S,3,1610612749,MIL,201950,Holiday,J. Holiday,-39,146,15,Made,1,66.0,74.0,140,v,Holiday 15' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,369
+42100211,518,PT02M36.00S,3,1610612738,BOS,201143,Horford,A. Horford,-48,260,26,Missed,1,,,0,h,MISS Horford 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,370
+42100211,519,PT02M33.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:3 Def:6),Rebound,Unknown,1,371
+42100211,520,PT02M26.00S,3,1610612749,MIL,1626192,Connaughton,P. Connaughton,-89,235,25,Missed,1,,,0,v,MISS Connaughton 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,372
+42100211,521,PT02M24.00S,3,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,White REBOUND (Off:0 Def:4),Rebound,Unknown,1,373
+42100211,522,PT02M16.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,-31,25,4,Missed,1,,,0,h,MISS Tatum 4' Running Layup,Missed Shot,Running Layup Shot,1,374
+42100211,522,PT02M16.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez BLOCK (3 BLK),,,1,375
+42100211,523,PT02M14.00S,3,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:4),Rebound,Unknown,1,376
+42100211,551,PT02M12.00S,3,1610612749,MIL,1628960,Allen,G. Allen,234,24,24,Missed,1,,,0,v,MISS Allen 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,377
+42100211,560,PT02M10.00S,3,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Rebound,Rebound,Unknown,0,378
+42100211,526,PT02M10.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Coach Challenge (Full 4 Short 0),Timeout,Coach Challenge,0,379
+42100211,527,PT02M10.00S,3,0,,524,,,0,0,0,,0,66.0,74.0,140,,Instant Replay3rd Period (2:55 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,380
+42100211,529,PT02M10.00S,3,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Brown FOR Smart,Substitution,,0,381
+42100211,531,PT02M10.00S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Jump Ball (CC) Horford vs. Lopez: Tip to Holiday,Jump Ball,Coach Challenge,1,382
+42100211,534,PT01M58.00S,3,1610612749,MIL,201950,Holiday,J. Holiday,141,103,17,Missed,1,,,0,v,MISS Holiday 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,383
+42100211,535,PT01M55.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:4 Def:6),Rebound,Unknown,1,384
+42100211,536,PT01M53.00S,3,1610612749,MIL,1626192,Connaughton,P. Connaughton,148,236,28,Missed,1,,,0,v,MISS Connaughton 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,385
+42100211,537,PT01M48.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:0 Def:4),Rebound,Unknown,1,386
+42100211,538,PT01M29.00S,3,1610612738,BOS,1627759,Brown,J. Brown,32,115,12,Missed,1,,,0,h,MISS Brown 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,387
+42100211,539,PT01M27.00S,3,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,v,Connaughton REBOUND (Off:0 Def:4),Rebound,Unknown,1,388
+42100211,540,PT01M10.00S,3,1610612749,MIL,1626192,Connaughton,P. Connaughton,71,15,7,Missed,1,,,0,v,MISS Connaughton 7' Driving Layup,Missed Shot,Driving Layup Shot,1,389
+42100211,541,PT01M07.00S,3,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,v,Connaughton REBOUND (Off:1 Def:4),Rebound,Unknown,1,390
+42100211,542,PT01M07.00S,3,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,Made,1,66.0,76.0,142,v,Connaughton Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,391
+42100211,543,PT00M48.20S,3,1610612738,BOS,1628401,White,D. White,137,226,26,Made,1,69.0,76.0,145,h,White 26' 3PT Jump Shot (8 PTS) (Tatum 4 AST),Made Shot,Jump Shot,1,392
+42100211,545,PT00M33.10S,3,1610612749,MIL,201950,Holiday,J. Holiday,9,6,1,Made,1,69.0,78.0,147,v,Holiday 1' Driving Layup (16 PTS),Made Shot,Driving Layup Shot,1,393
+42100211,546,PT00M27.00S,3,1610612738,BOS,1628401,White,D. White,-169,207,27,Missed,1,,,0,h,MISS White 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,394
+42100211,547,PT00M25.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:1 Def:4),Rebound,Unknown,1,395
+42100211,548,PT00M21.80S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,Missed,1,,,0,h,MISS Tatum Tip Dunk Shot,Missed Shot,Tip Dunk Shot,1,396
+42100211,549,PT00M20.60S,3,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:1 Def:2),Rebound,Unknown,1,397
+42100211,550,PT00M19.60S,3,1610612738,BOS,1629684,Williams,G. Williams,-15,36,4,Missed,1,,,0,h,MISS Williams 4' Driving Layup,Missed Shot,Driving Layup Shot,1,398
+42100211,552,PT00M18.60S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,399
+42100211,553,PT00M18.60S,3,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,v,Connaughton S.FOUL (P4.PN) (S.Foster),Foul,Shooting,1,400
+42100211,555,PT00M18.60S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,70.0,78.0,148,h,Tatum Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,401
+42100211,561,PT00M18.60S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,MISS Tatum Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,402
+42100211,562,PT00M18.60S,3,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:5),Rebound,Unknown,1,403
+42100211,556,PT00M18.60S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,SUB: Williams III FOR Horford,Substitution,,0,404
+42100211,557,PT00M18.60S,3,1610612749,MIL,1628975,Carter,J. Carter,0,0,0,,0,,,0,v,SUB: Portis FOR Carter,Substitution,,0,405
+42100211,563,PT00M03.30S,3,1610612749,MIL,201572,Lopez,B. Lopez,17,35,4,Missed,1,,,0,v,MISS Lopez 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,406
+42100211,563,PT00M03.30S,3,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,,0,,,0,h,Williams BLOCK (1 BLK),,,1,407
+42100211,564,PT00M02.30S,3,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,Williams III REBOUND (Off:3 Def:5),Rebound,Unknown,1,408
+42100211,565,PT00M01.00S,3,1610612738,BOS,1629057,Williams III,R. Williams III,-146,551,57,Missed,1,,,0,h,MISS Williams III 57' 3PT Jump Shot,Missed Shot,Jump Shot,1,409
+42100211,566,PT00M00.70S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,410
+42100211,567,PT00M00.00S,3,0,,0,,,0,0,0,,0,70.0,78.0,148,,End of 3rd Period (3:02 PM EST),period,end,1,411
+42100211,574,PT12M00.00S,4,0,,0,,,0,0,0,,0,70.0,78.0,148,,Start of 4th Period (3:05 PM EST),period,start,0,412
+42100211,575,PT11M46.00S,4,1610612749,MIL,201950,Holiday,J. Holiday,-65,101,12,Made,1,70.0,80.0,150,v,Holiday 12' Driving Floating Jump Shot (18 PTS) (G. Antetokounmpo 10 AST),Made Shot,Driving Floating Jump Shot,0,413
+42100211,576,PT11M23.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,-194,185,27,Missed,1,,,0,h,MISS Pritchard 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,414
+42100211,577,PT11M21.00S,4,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:6),Rebound,Unknown,1,415
+42100211,579,PT11M07.00S,4,1610612749,MIL,201950,Holiday,J. Holiday,-43,27,5,Missed,1,,,0,v,MISS Holiday 5' Driving Layup,Missed Shot,Driving Layup Shot,1,416
+42100211,580,PT11M04.00S,4,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:1 Def:6),Rebound,Unknown,1,417
+42100211,581,PT11M03.00S,4,1610612749,MIL,201950,Holiday,J. Holiday,-11,11,2,Missed,1,,,0,v,MISS Holiday 2' Putback Layup,Missed Shot,Putback Layup Shot,1,418
+42100211,582,PT11M02.00S,4,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:1 Def:3),Rebound,Unknown,1,419
+42100211,583,PT10M54.00S,4,1610612738,BOS,1627759,Brown,J. Brown,-134,38,14,Missed,1,,,0,h,MISS Brown 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,420
+42100211,584,PT10M51.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,G. Antetokounmpo REBOUND (Off:1 Def:9),Rebound,Unknown,1,421
+42100211,585,PT10M41.00S,4,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,Williams III S.FOUL (P3.T1) (S.Foster),Foul,Shooting,1,422
+42100211,587,PT10M41.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,MISS G. Antetokounmpo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,423
+42100211,588,PT10M41.00S,4,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Rebound,Rebound,Normal Rebound,0,424
+42100211,589,PT10M41.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,MISS G. Antetokounmpo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,425
+42100211,590,PT10M41.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:2 Def:5),Rebound,Unknown,1,426
+42100211,591,PT10M28.00S,4,1610612749,MIL,1628960,Allen,G. Allen,0,0,0,,0,,,0,v,Allen S.FOUL (P2.T1) (E.Malloy),Foul,Shooting,1,427
+42100211,593,PT10M28.00S,4,1610612738,BOS,1628401,White,D. White,0,0,0,,0,71.0,80.0,151,h,White Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,428
+42100211,594,PT10M28.00S,4,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Portis FOR Holiday,Substitution,,0,429
+42100211,596,PT10M28.00S,4,1610612738,BOS,1628401,White,D. White,0,0,0,,0,72.0,80.0,152,h,White Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,430
+42100211,597,PT10M15.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,114,167,20,Missed,1,,,0,v,MISS G. Antetokounmpo 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,431
+42100211,598,PT10M11.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:2 Def:6),Rebound,Unknown,1,432
+42100211,599,PT10M03.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,-203,168,26,Missed,1,,,0,h,MISS Pritchard 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,433
+42100211,600,PT10M01.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,G. Antetokounmpo REBOUND (Off:1 Def:10),Rebound,Unknown,1,434
+42100211,601,PT09M56.00S,4,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,Williams III P.FOUL (P4.T2) (E.Malloy),Foul,Personal,1,435
+42100211,605,PT09M43.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,55,137,15,Made,1,72.0,82.0,154,v,G. Antetokounmpo 15' Fadeaway Jumper (19 PTS),Made Shot,Fadeaway Jump Shot,1,436
+42100211,607,PT09M17.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,-22,272,27,Missed,1,,,0,h,MISS Pritchard 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,437
+42100211,608,PT09M13.00S,4,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:0 Def:9),Rebound,Unknown,1,438
+42100211,609,PT08M58.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,h,Pritchard S.FOUL (P1.T3) (C.Blair),Foul,Shooting,1,439
+42100211,611,PT08M58.00S,4,1610612749,MIL,1628975,Carter,J. Carter,0,0,0,,0,72.0,83.0,155,v,Carter Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,440
+42100211,612,PT08M58.00S,4,1610612738,BOS,1628401,White,D. White,0,0,0,,0,,,0,h,SUB: Tatum FOR White,Substitution,,0,441
+42100211,613,PT08M58.00S,4,1610612749,MIL,1628960,Allen,G. Allen,0,0,0,,0,,,0,v,SUB: Holiday FOR Allen,Substitution,,0,442
+42100211,614,PT08M58.00S,4,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,v,SUB: Matthews FOR Connaughton,Substitution,,0,443
+42100211,618,PT08M58.00S,4,1610612749,MIL,1628975,Carter,J. Carter,0,0,0,,0,72.0,84.0,156,v,Carter Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,444
+42100211,619,PT08M46.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,-173,220,28,Missed,1,,,0,h,MISS Pritchard 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,445
+42100211,620,PT08M43.00S,4,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:1 Def:7),Rebound,Unknown,1,446
+42100211,621,PT08M37.00S,4,1610612749,MIL,1626171,Portis,B. Portis,-227,-5,0,Made,1,72.0,87.0,159,v,Portis 3PT Running Jump Shot (15 PTS) (G. Antetokounmpo 11 AST),Made Shot,Running Jump Shot,1,447
+42100211,623,PT08M37.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,448
+42100211,624,PT08M37.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,,,0,h,SUB: Smart FOR Pritchard,Substitution,,0,449
+42100211,625,PT08M37.00S,4,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,,,0,h,SUB: Horford FOR Williams III,Substitution,,0,450
+42100211,628,PT08M16.00S,4,1610612738,BOS,201143,Horford,A. Horford,-132,237,27,Made,1,75.0,87.0,162,h,Horford 27' 3PT Jump Shot (12 PTS) (Tatum 5 AST),Made Shot,Jump Shot,1,451
+42100211,630,PT07M54.00S,4,1610612749,MIL,1628975,Carter,J. Carter,-113,167,20,Made,1,75.0,89.0,164,v,Carter 20' Fadeaway Jumper (7 PTS) (G. Antetokounmpo 12 AST),Made Shot,Fadeaway Jump Shot,1,452
+42100211,632,PT07M42.00S,4,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford Bad Pass Turnover (P2.T15),Turnover,Bad Pass,1,453
+42100211,632,PT07M42.00S,4,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday STEAL (3 STL),,,1,454
+42100211,634,PT07M38.00S,4,1610612749,MIL,201950,Holiday,J. Holiday,6,255,26,Made,1,75.0,92.0,167,v,Holiday 26' 3PT Running Pull-Up Jump Shot (21 PTS),Made Shot,Running Pull-Up Jump Shot,1,455
+42100211,635,PT07M19.00S,4,1610612738,BOS,1627759,Brown,J. Brown,224,49,0,Made,1,78.0,92.0,170,h,Brown 3PT Jump Shot (9 PTS) (Tatum 6 AST),Made Shot,Jump Shot,1,456
+42100211,637,PT07M04.00S,4,1610612749,MIL,201950,Holiday,J. Holiday,36,256,26,Missed,1,,,0,v,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,457
+42100211,638,PT07M01.00S,4,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford REBOUND (Off:0 Def:8),Rebound,Unknown,1,458
+42100211,650,PT06M50.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum Lost Ball Turnover (P3.T16),Turnover,Lost Ball,0,459
+42100211,641,PT06M48.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum L.B.FOUL (P2.T4) (S.Foster),Foul,Loose Ball,1,460
+42100211,644,PT06M25.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-49,53,7,Missed,1,,,0,v,MISS G. Antetokounmpo 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,461
+42100211,645,PT06M22.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,G. Antetokounmpo REBOUND (Off:2 Def:10),Rebound,Unknown,1,462
+42100211,646,PT06M18.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,Made,1,78.0,94.0,172,v,G. Antetokounmpo Tip Dunk Shot (21 PTS),Made Shot,Tip Dunk Shot,1,463
+42100211,647,PT06M07.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown Offensive Charge Foul (P3) (E.Malloy),Foul,Offensive Charge,1,464
+42100211,649,PT06M07.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown Offensive Foul Turnover (P6.T17),Turnover,Offensive Foul Turnover,1,465
+42100211,651,PT06M07.00S,4,1610612749,MIL,1628975,Carter,J. Carter,0,0,0,,0,,,0,v,SUB: Allen FOR Carter,Substitution,,0,466
+42100211,653,PT05M50.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,G. Antetokounmpo Lost Ball Turnover (P5.T13),Turnover,Lost Ball,1,467
+42100211,653,PT05M50.00S,4,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart STEAL (2 STL),,,1,468
+42100211,655,PT05M43.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,-218,147,26,Missed,1,,,0,h,MISS Tatum 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,469
+42100211,656,PT05M41.00S,4,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:0 Def:10),Rebound,Unknown,1,470
+42100211,657,PT05M36.00S,4,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,471
+42100211,658,PT05M26.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-96,17,10,Missed,1,,,0,v,MISS G. Antetokounmpo 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,472
+42100211,659,PT05M23.00S,4,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford REBOUND (Off:0 Def:9),Rebound,Unknown,1,473
+42100211,660,PT05M04.00S,4,1610612738,BOS,1627759,Brown,J. Brown,-241,4,24,Made,1,81.0,94.0,175,h,Brown 24' 3PT Jump Shot (12 PTS) (Smart 6 AST),Made Shot,Jump Shot,1,474
+42100211,662,PT04M41.00S,4,1610612749,MIL,201950,Holiday,J. Holiday,-26,6,3,Missed,1,,,0,v,MISS Holiday 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,475
+42100211,663,PT04M39.00S,4,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,Horford REBOUND (Off:0 Def:10),Rebound,Unknown,1,476
+42100211,664,PT04M31.00S,4,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday P.FOUL (P3.T2) (E.Malloy),Foul,Personal,1,477
+42100211,666,PT04M22.00S,4,1610612738,BOS,201143,Horford,A. Horford,227,5,0,Missed,1,,,0,h,MISS Horford 3PT Jump Shot,Missed Shot,Jump Shot,1,478
+42100211,667,PT04M19.00S,4,1610612749,MIL,1628960,Allen,G. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:0 Def:2),Rebound,Unknown,1,479
+42100211,668,PT04M05.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum S.FOUL (P3.PN) (C.Blair),Foul,Shooting,1,480
+42100211,670,PT04M05.00S,4,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,81.0,95.0,176,v,Holiday Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,1,481
+42100211,671,PT04M05.00S,4,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,SUB: Lopez FOR Portis,Substitution,,0,482
+42100211,673,PT04M05.00S,4,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,81.0,96.0,177,v,Holiday Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,1,483
+42100211,674,PT03M50.00S,4,1610612738,BOS,1629684,Williams,G. Williams,-224,87,24,Made,1,84.0,96.0,180,h,Williams 24' 3PT Jump Shot (8 PTS) (Brown 4 AST),Made Shot,Jump Shot,1,484
+42100211,676,PT03M42.00S,4,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,485
+42100211,677,PT03M42.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,SUB: Portis FOR Lopez,Substitution,,0,486
+42100211,679,PT03M32.00S,4,1610612749,MIL,1626171,Portis,B. Portis,-219,16,0,Missed,1,,,0,v,MISS Portis 3PT Jump Shot,Missed Shot,Jump Shot,1,487
+42100211,680,PT03M30.00S,4,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:2 Def:7),Rebound,Unknown,1,488
+42100211,681,PT03M28.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum P.FOUL (P4.PN) (E.Malloy),Foul,Personal,1,489
+42100211,683,PT03M28.00S,4,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,84.0,97.0,181,v,Holiday Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,490
+42100211,684,PT03M28.00S,4,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,84.0,98.0,182,v,Holiday Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,491
+42100211,685,PT03M12.00S,4,1610612749,MIL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,v,Matthews S.FOUL (P2.T3) (E.Malloy),Foul,Shooting,1,492
+42100211,687,PT03M12.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,85.0,98.0,183,h,Tatum Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,493
+42100211,688,PT03M12.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,MISS Tatum Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,494
+42100211,689,PT03M12.00S,4,1610612749,MIL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,v,Matthews REBOUND (Off:0 Def:2),Rebound,Unknown,1,495
+42100211,691,PT02M56.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown P.FOUL (P4.PN) (S.Foster),Foul,Personal,1,496
+42100211,693,PT02M56.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,MISS G. Antetokounmpo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,497
+42100211,694,PT02M56.00S,4,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Rebound,Rebound,Normal Rebound,0,498
+42100211,695,PT02M56.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,85.0,99.0,184,v,G. Antetokounmpo Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,499
+42100211,696,PT02M47.00S,4,1610612738,BOS,203935,Smart,M. Smart,20,8,2,Missed,1,,,0,h,MISS Smart 2' Driving Layup,Missed Shot,Driving Layup Shot,1,500
+42100211,697,PT02M44.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,Tatum REBOUND (Off:2 Def:4),Rebound,Unknown,1,501
+42100211,698,PT02M44.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,Made,1,87.0,99.0,186,h,Tatum Tip Dunk Shot (21 PTS),Made Shot,Tip Dunk Shot,1,502
+42100211,699,PT02M36.00S,4,1610612749,MIL,202083,Matthews,W. Matthews,-234,-22,24,Missed,1,,,0,v,MISS Matthews 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,503
+42100211,700,PT02M34.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown REBOUND (Off:2 Def:7),Rebound,Unknown,1,504
+42100211,701,PT02M34.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,Brown Out of Bounds - Bad Pass Turnover Turnover (P7.T18),Turnover,Out of Bounds - Bad Pass Turnover,1,505
+42100211,702,PT02M15.00S,4,1610612749,MIL,201950,Holiday,J. Holiday,-120,-8,12,Missed,1,,,0,v,MISS Holiday 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,506
+42100211,703,PT02M11.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,G. Antetokounmpo REBOUND (Off:3 Def:10),Rebound,Unknown,1,507
+42100211,704,PT02M10.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,2,9,1,Made,1,87.0,101.0,188,v,G. Antetokounmpo 1' Putback Dunk (24 PTS),Made Shot,Putback Dunk Shot,1,508
+42100211,705,PT01M59.00S,4,1610612749,MIL,1628960,Allen,G. Allen,0,0,0,,0,,,0,v,Allen P.FOUL (P3.T4) (S.Foster),Foul,Personal,1,509
+42100211,707,PT01M59.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,,,0,h,SUB: Hauser FOR Tatum,Substitution,,0,510
+42100211,708,PT01M59.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,,,0,h,SUB: Kornet FOR Brown,Substitution,,0,511
+42100211,709,PT01M59.00S,4,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,,0,,,0,h,SUB: Nesmith FOR Williams,Substitution,,0,512
+42100211,710,PT01M59.00S,4,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Stauskas FOR Smart,Substitution,,0,513
+42100211,711,PT01M59.00S,4,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,,,0,h,SUB: Fitts FOR Horford,Substitution,,0,514
+42100211,717,PT01M59.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,v,SUB: Carter FOR G. Antetokounmpo,Substitution,,0,515
+42100211,719,PT01M45.00S,4,1610612738,BOS,1630238,Fitts,M. Fitts,2,15,2,Made,1,89.0,101.0,190,h,Fitts 2' Driving Dunk (2 PTS) (Nesmith 1 AST),Made Shot,Driving Dunk Shot,1,516
+42100211,721,PT01M28.00S,4,1610612749,MIL,1626171,Portis,B. Portis,234,40,24,Missed,1,,,0,v,MISS Portis 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,517
+42100211,722,PT01M25.00S,4,1610612738,BOS,1630238,Fitts,M. Fitts,0,0,0,,0,,,0,h,Fitts REBOUND (Off:0 Def:1),Rebound,Unknown,1,518
+42100211,723,PT01M19.00S,4,1610612738,BOS,1630174,Nesmith,A. Nesmith,-43,20,5,Missed,1,,,0,h,MISS Nesmith 5' Running Layup,Missed Shot,Running Layup Shot,1,519
+42100211,724,PT01M17.00S,4,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:0 Def:11),Rebound,Unknown,1,520
+42100211,725,PT01M12.00S,4,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,521
+42100211,726,PT01M12.00S,4,1610612749,MIL,1628960,Allen,G. Allen,0,0,0,,0,,,0,v,SUB: Tucker FOR Allen,Substitution,,0,522
+42100211,727,PT01M12.00S,4,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,SUB: T. Antetokounmpo FOR Portis,Substitution,,0,523
+42100211,728,PT01M12.00S,4,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Ibaka FOR Holiday,Substitution,,0,524
+42100211,729,PT01M12.00S,4,1610612749,MIL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,v,SUB: Nwora FOR Matthews,Substitution,,0,525
+42100211,730,PT01M12.00S,4,1610612749,MIL,1628975,Carter,J. Carter,0,0,0,,0,,,0,v,SUB: Vildoza FOR Carter,Substitution,,0,526
+42100211,736,PT01M04.00S,4,1610612749,MIL,201586,Ibaka,S. Ibaka,-4,58,6,Missed,1,,,0,v,MISS Ibaka 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,527
+42100211,737,PT01M02.00S,4,1610612738,BOS,1630174,Nesmith,A. Nesmith,0,0,0,,0,,,0,h,Nesmith REBOUND (Off:0 Def:1),Rebound,Unknown,1,528
+42100211,739,PT00M46.70S,4,1610612738,BOS,203917,Stauskas,N. Stauskas,-33,269,27,Missed,1,,,0,h,MISS Stauskas 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,529
+42100211,740,PT00M44.00S,4,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Rebound,Rebound,Unknown,0,530
+42100211,742,PT00M19.20S,4,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Turnover: Shot Clock (T#14),Turnover,Shot Clock Turnover,0,531
+42100211,743,PT00M08.40S,4,1610612738,BOS,203917,Stauskas,N. Stauskas,-61,183,19,Missed,1,,,0,h,MISS Stauskas 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,532
+42100211,744,PT00M04.90S,4,1610612749,MIL,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,533
+42100211,745,PT00M00.00S,4,0,,0,,,0,0,0,,0,89.0,101.0,190,,End of 4th Period (3:39 PM EST),period,end,1,534

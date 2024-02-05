@@ -1,0 +1,509 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+21200718,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (8:09 PM EST),period,start,0,1
+21200718,1,PT12M00.00S,1,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Jump Ball Asik vs. Bogut: Tip to Lin,Jump Ball,,0,2
+21200718,2,PT11M41.00S,1,1610612745,HOU,202335,Patterson,P. Patterson,111,19,11,Missed,1,0.0,0.0,0,h,MISS Patterson 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,3
+21200718,3,PT11M39.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0.0,0.0,0,v,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,0,4
+21200718,4,PT11M22.00S,1,1610612744,GSW,101106,Bogut,A. Bogut,-38,41,6,Missed,1,0.0,0.0,0,v,MISS Bogut 6' Jump Shot,Missed Shot,Jump Shot,0,5
+21200718,5,PT11M21.00S,1,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0.0,0.0,0,v,Lee REBOUND (Off:1 Def:0),Rebound,Unknown,0,6
+21200718,6,PT11M21.00S,1,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik S.FOUL (P1.T1),Foul,Shooting,0,7
+21200718,7,PT11M21.00S,1,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0.0,1.0,1,v,Lee Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,8
+21200718,9,PT11M21.00S,1,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0.0,2.0,2,v,Lee Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,9
+21200718,12,PT11M12.00S,1,1610612745,HOU,201935,Harden,J. Harden,168,179,25,Made,1,3.0,2.0,5,h,Harden 25' 3PT Jump Shot (3 PTS) (Patterson 1 AST),Made Shot,Jump Shot,0,10
+21200718,13,PT10M55.00S,1,1610612744,GSW,101106,Bogut,A. Bogut,0,-5,1,Made,1,3.0,4.0,7,v,Bogut 1' Reverse Layup (2 PTS) (Thompson 1 AST),Made Shot,Reverse Layup Shot,0,11
+21200718,15,PT10M38.00S,1,1610612745,HOU,202391,Lin,J. Lin,-147,142,20,Missed,1,0.0,0.0,0,h,MISS Lin 20' Jump Shot,Missed Shot,Jump Shot,0,12
+21200718,16,PT10M36.00S,1,0,,1610612744,,,0,0,0,,0,0.0,0.0,0,v,Warriors Rebound,Rebound,Unknown,0,13
+21200718,18,PT10M22.00S,1,1610612744,GSW,203084,Barnes,H. Barnes,144,66,16,Made,1,3.0,6.0,9,v,Barnes 16' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,0,14
+21200718,19,PT10M08.00S,1,1610612745,HOU,202391,Lin,J. Lin,-2,12,1,Made,1,5.0,6.0,11,h,Lin 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,15
+21200718,20,PT09M53.00S,1,1610612744,GSW,203084,Barnes,H. Barnes,0,0,0,,0,0.0,0.0,0,v,Barnes Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,16
+21200718,20,PT09M53.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden STEAL (1 STL),,,0,17
+21200718,21,PT09M47.00S,1,1610612745,HOU,202718,Parsons,C. Parsons,4,12,1,Missed,1,0.0,0.0,0,h,MISS Parsons 1' Layup,Missed Shot,Layup Shot,0,18
+21200718,22,PT09M45.00S,1,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,h,Patterson REBOUND (Off:1 Def:0),Rebound,Unknown,0,19
+21200718,23,PT09M40.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0.0,0.0,0,v,Curry S.FOUL (P1.T1),Foul,Shooting,0,20
+21200718,24,PT09M40.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,6.0,6.0,12,h,Harden Free Throw 1 of 3 (4 PTS),Free Throw,Free Throw 1 of 3,0,21
+21200718,26,PT09M40.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,7.0,6.0,13,h,Harden Free Throw 2 of 3 (5 PTS),Free Throw,Free Throw 2 of 3,0,22
+21200718,29,PT09M40.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,8.0,6.0,14,h,Harden Free Throw 3 of 3 (6 PTS),Free Throw,Free Throw 3 of 3,0,23
+21200718,34,PT09M26.00S,1,1610612744,GSW,201939,Curry,S. Curry,-193,164,25,Missed,1,0.0,0.0,0,v,MISS Curry 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,24
+21200718,32,PT09M24.00S,1,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,h,Patterson REBOUND (Off:1 Def:1),Rebound,Unknown,0,25
+21200718,35,PT08M59.00S,1,1610612745,HOU,202718,Parsons,C. Parsons,-171,184,25,Made,1,11.0,6.0,17,h,Parsons 25' 3PT Jump Shot (3 PTS) (Harden 1 AST),Made Shot,Jump Shot,0,26
+21200718,36,PT08M43.00S,1,1610612744,GSW,101106,Bogut,A. Bogut,1,3,0,Made,1,11.0,8.0,19,v,Bogut  Layup (4 PTS) (Curry 1 AST),Made Shot,Layup Shot,0,27
+21200718,39,PT08M30.00S,1,1610612745,HOU,202335,Patterson,P. Patterson,231,30,0,Missed,1,0.0,0.0,0,h,MISS Patterson  3PT Jump Shot,Missed Shot,Jump Shot,0,28
+21200718,40,PT08M29.00S,1,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik REBOUND (Off:1 Def:0),Rebound,Unknown,0,29
+21200718,41,PT08M27.00S,1,1610612745,HOU,201600,Asik,O. Asik,-10,6,1,Missed,1,0.0,0.0,0,h,MISS Asik 1' Layup,Missed Shot,Layup Shot,0,30
+21200718,42,PT08M25.00S,1,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,h,Patterson REBOUND (Off:2 Def:1),Rebound,Unknown,0,31
+21200718,43,PT08M24.00S,1,1610612745,HOU,202335,Patterson,P. Patterson,-13,30,3,Missed,1,0.0,0.0,0,h,MISS Patterson 3' Layup,Missed Shot,Layup Shot,0,32
+21200718,44,PT08M22.00S,1,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0.0,0.0,0,v,Lee REBOUND (Off:1 Def:1),Rebound,Unknown,0,33
+21200718,45,PT08M17.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,173,176,25,Missed,1,0.0,0.0,0,v,MISS Thompson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,34
+21200718,46,PT08M15.00S,1,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,h,Parsons REBOUND (Off:0 Def:1),Rebound,Unknown,0,35
+21200718,47,PT08M12.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0.0,0.0,0,v,Thompson Shooting Block Foul (P1.T2),Foul,Shooting Block,0,36
+21200718,48,PT08M12.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,12.0,8.0,20,h,Harden Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,37
+21200718,50,PT08M12.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,MISS Harden Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,38
+21200718,52,PT08M11.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0.0,0.0,0,v,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,0,39
+21200718,55,PT07M50.00S,1,1610612744,GSW,203084,Barnes,H. Barnes,7,0,1,Made,1,12.0,10.0,22,v,Barnes 1' Reverse Layup (4 PTS) (Bogut 1 AST),Made Shot,Reverse Layup Shot,0,40
+21200718,56,PT07M40.00S,1,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,Lin Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,41
+21200718,56,PT07M40.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0.0,0.0,0,v,Thompson STEAL (1 STL),,,0,42
+21200718,57,PT07M34.00S,1,1610612744,GSW,101135,Lee,D. Lee,-2,-6,1,Made,1,12.0,12.0,24,v,Lee 1' Layup (4 PTS) (Curry 2 AST),Made Shot,Layup Shot,0,43
+21200718,59,PT07M19.00S,1,1610612745,HOU,201600,Asik,O. Asik,1,1,0,Made,1,14.0,12.0,26,h,Asik  Dunk (2 PTS) (Lin 1 AST),Made Shot,Dunk Shot,0,44
+21200718,60,PT06M56.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,-146,44,15,Missed,1,0.0,0.0,0,v,MISS Thompson 15' Jump Shot,Missed Shot,Jump Shot,0,45
+21200718,61,PT06M55.00S,1,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,h,Patterson REBOUND (Off:2 Def:2),Rebound,Unknown,0,46
+21200718,62,PT06M46.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,9,1,Missed,1,0.0,0.0,0,h,MISS Harden 1' Layup,Missed Shot,Layup Shot,0,47
+21200718,62,PT06M46.00S,1,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0.0,0.0,0,v,Bogut BLOCK (1 BLK),,,0,48
+21200718,63,PT06M45.00S,1,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Rebound,Rebound,Unknown,0,49
+21200718,66,PT06M39.00S,1,1610612745,HOU,201600,Asik,O. Asik,23,28,4,Made,1,16.0,12.0,28,h,Asik 4' Jump Shot (4 PTS) (Parsons 1 AST),Made Shot,Jump Shot,0,50
+21200718,67,PT06M39.00S,1,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0.0,0.0,0,v,Bogut S.FOUL (P1.T3),Foul,Shooting,0,51
+21200718,68,PT06M39.00S,1,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,MISS Asik Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,52
+21200718,70,PT06M38.00S,1,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,h,Patterson REBOUND (Off:3 Def:2),Rebound,Unknown,0,53
+21200718,71,PT06M33.00S,1,1610612745,HOU,201935,Harden,J. Harden,-65,249,26,Made,1,19.0,12.0,31,h,Harden 26' 3PT Jump Shot (10 PTS) (Lin 2 AST),Made Shot,Jump Shot,0,54
+21200718,73,PT06M16.00S,1,1610612744,GSW,101135,Lee,D. Lee,-125,124,18,Missed,1,0.0,0.0,0,v,MISS Lee 18' Jump Shot,Missed Shot,Jump Shot,0,55
+21200718,74,PT06M14.00S,1,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik REBOUND (Off:1 Def:1),Rebound,Unknown,0,56
+21200718,75,PT06M04.00S,1,1610612745,HOU,202391,Lin,J. Lin,125,213,25,Made,1,22.0,12.0,34,h,Lin 25' 3PT Jump Shot (5 PTS) (Harden 2 AST),Made Shot,Jump Shot,0,57
+21200718,76,PT05M50.00S,1,1610612744,GSW,201939,Curry,S. Curry,-131,82,15,Missed,1,0.0,0.0,0,v,MISS Curry 15' Running Jump Shot,Missed Shot,Running Jump Shot,0,58
+21200718,78,PT05M49.00S,1,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0.0,0.0,0,v,Lee REBOUND (Off:2 Def:1),Rebound,Unknown,0,59
+21200718,77,PT05M49.00S,1,1610612744,GSW,101135,Lee,D. Lee,0,4,0,Made,1,22.0,14.0,36,v,Lee  Tip Shot (6 PTS),Made Shot,Tip Shot,0,60
+21200718,79,PT05M35.00S,1,1610612745,HOU,202391,Lin,J. Lin,-46,61,8,Missed,1,0.0,0.0,0,h,MISS Lin 8' Jump Shot,Missed Shot,Jump Shot,0,61
+21200718,80,PT05M34.00S,1,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0.0,0.0,0,v,Bogut REBOUND (Off:0 Def:1),Rebound,Unknown,0,62
+21200718,81,PT05M19.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,140,149,20,Made,1,22.0,16.0,38,v,Thompson 20' Jump Shot (2 PTS) (Bogut 2 AST),Made Shot,Jump Shot,0,63
+21200718,82,PT05M12.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0.0,0.0,0,v,Thompson P.FOUL (P2.T4),Foul,Personal,0,64
+21200718,83,PT05M12.00S,1,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,65
+21200718,85,PT05M12.00S,1,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,h,SUB: Morris FOR Patterson,Substitution,,0,66
+21200718,86,PT05M12.00S,1,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0.0,0.0,0,v,SUB: Landry FOR Bogut,Substitution,,0,67
+21200718,87,PT04M55.00S,1,1610612745,HOU,202718,Parsons,C. Parsons,110,227,25,Missed,1,0.0,0.0,0,h,MISS Parsons 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,68
+21200718,88,PT04M54.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0.0,0.0,0,v,Curry REBOUND (Off:0 Def:2),Rebound,Unknown,0,69
+21200718,89,PT04M49.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0.0,0.0,0,v,Curry Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,70
+21200718,89,PT04M49.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden STEAL (2 STL),,,0,71
+21200718,90,PT04M45.00S,1,1610612745,HOU,202391,Lin,J. Lin,4,-6,1,Made,1,24.0,16.0,40,h,Lin 1' Layup (7 PTS) (Parsons 2 AST),Made Shot,Layup Shot,0,72
+21200718,91,PT04M23.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden S.FOUL (P1.T2),Foul,Shooting,0,73
+21200718,92,PT04M23.00S,1,1610612744,GSW,203084,Barnes,H. Barnes,0,0,0,,0,0.0,0.0,0,v,MISS Barnes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,74
+21200718,93,PT04M23.00S,1,0,,1610612744,,,0,0,0,,0,0.0,0.0,0,v,Warriors Rebound,Rebound,Normal Rebound,0,75
+21200718,94,PT04M23.00S,1,1610612744,GSW,203084,Barnes,H. Barnes,0,0,0,,0,24.0,17.0,41,v,Barnes Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,76
+21200718,97,PT04M11.00S,1,1610612745,HOU,202718,Parsons,C. Parsons,-229,0,0,Made,1,27.0,17.0,44,h,Parsons  3PT Jump Shot (6 PTS) (Lin 3 AST),Made Shot,Jump Shot,0,77
+21200718,98,PT03M59.00S,1,1610612744,GSW,101135,Lee,D. Lee,-16,6,2,Made,1,27.0,19.0,46,v,Lee 2' Layup (8 PTS) (Curry 3 AST),Made Shot,Layup Shot,0,78
+21200718,99,PT03M49.00S,1,1610612745,HOU,202391,Lin,J. Lin,0,15,2,Missed,1,0.0,0.0,0,h,MISS Lin 2' Layup,Missed Shot,Layup Shot,0,79
+21200718,100,PT03M47.00S,1,1610612744,GSW,201171,Landry,C. Landry,0,0,0,,0,0.0,0.0,0,v,Landry REBOUND (Off:0 Def:1),Rebound,Unknown,0,80
+21200718,101,PT03M36.00S,1,1610612744,GSW,201171,Landry,C. Landry,-117,134,18,Missed,1,0.0,0.0,0,v,MISS Landry 18' Jump Shot,Missed Shot,Jump Shot,0,81
+21200718,102,PT03M35.00S,1,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik REBOUND (Off:1 Def:2),Rebound,Unknown,0,82
+21200718,103,PT03M30.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden Offensive Charge Foul (P2.T3),Foul,Offensive Charge,0,83
+21200718,104,PT03M30.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden Foul Turnover (P1.T2),Turnover,Foul,0,84
+21200718,105,PT03M30.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0.0,0.0,0,v,SUB: Jack FOR Thompson,Substitution,,0,85
+21200718,106,PT03M30.00S,1,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,SUB: Anderson FOR Lin,Substitution,,0,86
+21200718,107,PT03M30.00S,1,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,SUB: Douglas FOR Harden,Substitution,,0,87
+21200718,108,PT03M30.00S,1,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,SUB: Smith FOR Asik,Substitution,,0,88
+21200718,109,PT03M15.00S,1,1610612744,GSW,101135,Lee,D. Lee,-24,33,4,Missed,1,0.0,0.0,0,v,MISS Lee 4' Jump Shot,Missed Shot,Jump Shot,0,89
+21200718,109,PT03M15.00S,1,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0.0,0.0,0,h,Morris BLOCK (1 BLK),,,0,90
+21200718,110,PT03M12.00S,1,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0.0,0.0,0,v,Lee REBOUND (Off:3 Def:1),Rebound,Unknown,0,91
+21200718,111,PT03M08.00S,1,1610612744,GSW,101127,Jack,J. Jack,-7,192,19,Missed,1,0.0,0.0,0,v,MISS Jack 19' Jump Shot,Missed Shot,Jump Shot,0,92
+21200718,112,PT03M07.00S,1,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,0,93
+21200718,113,PT02M59.00S,1,1610612745,HOU,202341,Anderson,J. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson Double Dribble Turnover (P1.T3),Turnover,Double Dribble,0,94
+21200718,114,PT02M59.00S,1,0,,1610612744,,,0,0,0,,0,0.0,0.0,0,v,Warriors Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,95
+21200718,117,PT02M59.00S,1,1610612744,GSW,203084,Barnes,H. Barnes,0,0,0,,0,0.0,0.0,0,v,SUB: Jefferson FOR Barnes,Substitution,,0,96
+21200718,118,PT02M59.00S,1,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0.0,0.0,0,v,SUB: Green FOR Lee,Substitution,,0,97
+21200718,119,PT02M43.00S,1,1610612744,GSW,101127,Jack,J. Jack,21,17,3,Missed,1,0.0,0.0,0,v,MISS Jack 3' Layup,Missed Shot,Layup Shot,0,98
+21200718,120,PT02M42.00S,1,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:0 Def:2),Rebound,Unknown,0,99
+21200718,121,PT02M33.00S,1,1610612745,HOU,202962,Smith,G. Smith,0,11,1,Made,1,29.0,19.0,48,h,Smith 1' Layup (2 PTS) (Douglas 1 AST),Made Shot,Layup Shot,0,100
+21200718,123,PT02M15.00S,1,1610612744,GSW,201171,Landry,C. Landry,116,126,17,Made,1,29.0,21.0,50,v,Landry 17' Jump Shot (2 PTS),Made Shot,Jump Shot,0,101
+21200718,124,PT02M15.00S,1,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0.0,0.0,0,h,Smith S.FOUL (P1.T4),Foul,Shooting,0,102
+21200718,663,PT02M15.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0.0,0.0,0,v,SUB: Bazemore FOR Curry,Substitution,,0,103
+21200718,125,PT02M15.00S,1,1610612744,GSW,201171,Landry,C. Landry,0,0,0,,0,29.0,22.0,51,v,Landry Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,104
+21200718,128,PT01M51.00S,1,1610612745,HOU,202341,Anderson,J. Anderson,-136,1,14,Made,1,31.0,22.0,53,h,Anderson 14' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,0,105
+21200718,131,PT01M32.00S,1,1610612744,GSW,101127,Jack,J. Jack,2,244,24,Made,1,31.0,25.0,56,v,Jack 24' 3PT Jump Shot (3 PTS) (Landry 1 AST),Made Shot,Jump Shot,0,106
+21200718,132,PT01M19.00S,1,1610612745,HOU,202718,Parsons,C. Parsons,-229,11,0,Missed,1,0.0,0.0,0,h,MISS Parsons  3PT Jump Shot,Missed Shot,Jump Shot,0,107
+21200718,133,PT01M18.00S,1,1610612744,GSW,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,Jefferson REBOUND (Off:0 Def:1),Rebound,Unknown,0,108
+21200718,134,PT01M13.00S,1,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0.0,0.0,0,h,Smith S.FOUL (P2.PN),Foul,Shooting,0,109
+21200718,135,PT01M13.00S,1,1610612744,GSW,201171,Landry,C. Landry,0,0,0,,0,31.0,26.0,57,v,Landry Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,110
+21200718,137,PT01M13.00S,1,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0.0,0.0,0,h,SUB: Patterson FOR Smith,Substitution,,0,111
+21200718,138,PT01M13.00S,1,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,h,SUB: Lin FOR Parsons,Substitution,,0,112
+21200718,139,PT01M13.00S,1,1610612744,GSW,201171,Landry,C. Landry,0,0,0,,0,31.0,27.0,58,v,Landry Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,113
+21200718,141,PT01M06.00S,1,1610612745,HOU,202341,Anderson,J. Anderson,40,11,4,Missed,1,0.0,0.0,0,h,MISS Anderson 4' Jump Shot,Missed Shot,Jump Shot,0,114
+21200718,142,PT01M04.00S,1,1610612744,GSW,201171,Landry,C. Landry,0,0,0,,0,0.0,0.0,0,v,Landry REBOUND (Off:0 Def:2),Rebound,Unknown,0,115
+21200718,143,PT00M54.00S,1,1610612744,GSW,203110,Green,D. Green,-194,48,20,Made,1,31.0,29.0,60,v,Green 20' Jump Shot (2 PTS) (Jack 1 AST),Made Shot,Jump Shot,0,116
+21200718,145,PT00M47.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0.0,0.0,0,v,Green S.FOUL (P1.PN),Foul,Shooting,0,117
+21200718,146,PT00M47.00S,1,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,h,MISS Patterson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,118
+21200718,147,PT00M47.00S,1,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Rebound,Rebound,Normal Rebound,0,119
+21200718,148,PT00M47.00S,1,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,32.0,29.0,61,h,Patterson Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,120
+21200718,150,PT00M38.30S,1,1610612744,GSW,101127,Jack,J. Jack,129,135,19,Made,1,32.0,31.0,63,v,Jack 19' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,0,121
+21200718,151,PT00M28.30S,1,1610612745,HOU,202341,Anderson,J. Anderson,226,110,25,Made,1,35.0,31.0,66,h,Anderson 25' 3PT Jump Shot (5 PTS) (Patterson 2 AST),Made Shot,Jump Shot,0,122
+21200718,153,PT00M09.50S,1,1610612744,GSW,201171,Landry,C. Landry,0,4,0,Made,1,35.0,33.0,68,v,Landry  Layup (7 PTS) (Jack 2 AST),Made Shot,Layup Shot,0,123
+21200718,154,PT00M09.50S,1,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0.0,0.0,0,h,Morris S.FOUL (P1.PN),Foul,Shooting,0,124
+21200718,156,PT00M09.50S,1,1610612744,GSW,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,SUB: Biedrins FOR Jefferson,Substitution,,0,125
+21200718,157,PT00M09.50S,1,1610612744,GSW,201171,Landry,C. Landry,0,0,0,,0,35.0,34.0,69,v,Landry Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,126
+21200718,159,PT00M04.60S,1,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,-226,-6,0,Made,1,38.0,34.0,72,h,Morris  3PT Jump Shot (3 PTS) (Douglas 2 AST),Made Shot,Jump Shot,0,127
+21200718,160,PT00M00.00S,1,1610612744,GSW,101127,Jack,J. Jack,95,220,24,Made,1,38.0,37.0,75,v,Jack 24' 3PT Jump Shot (8 PTS),Made Shot,Jump Shot,0,128
+21200718,161,PT00M00.00S,1,0,,160,Breaux,T. Breaux,0,0,0,,0,0.0,0.0,0,,Support Ruling,Instant Replay,Support Ruling,0,129
+21200718,163,PT00M00.00S,1,0,,0,,,0,0,0,,0,38.0,37.0,75,,End of 1st Period (8:37 PM EST),period,end,0,130
+21200718,165,PT12M00.00S,2,0,,0,,,0,0,0,,0,38.0,37.0,75,,Start of 2nd Period (8:39 PM EST),period,start,0,131
+21200718,166,PT11M43.00S,2,1610612744,GSW,203110,Green,D. Green,-19,244,24,Missed,1,0.0,0.0,0,v,MISS Green 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,132
+21200718,167,PT11M42.00S,2,1610612745,HOU,202341,Anderson,J. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,133
+21200718,168,PT11M27.00S,2,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,-7,0,1,Made,1,40.0,37.0,77,h,Morris 1' Layup (5 PTS) (Anderson 1 AST),Made Shot,Layup Shot,0,134
+21200718,169,PT11M06.00S,2,1610612744,GSW,203145,Bazemore,K. Bazemore,133,121,18,Missed,1,0.0,0.0,0,v,MISS Bazemore 18' Jump Shot,Missed Shot,Jump Shot,0,135
+21200718,170,PT11M05.00S,2,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,Lin REBOUND (Off:0 Def:1),Rebound,Unknown,0,136
+21200718,171,PT10M54.00S,2,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,0.0,0.0,0,v,Bazemore S.FOUL (P1.T1),Foul,Shooting,0,137
+21200718,172,PT10M54.00S,2,1610612745,HOU,201962,Douglas,T. Douglas,0,0,0,,0,41.0,37.0,78,h,Douglas Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,138
+21200718,173,PT10M54.00S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0.0,0.0,0,v,SUB: Curry FOR Green,Substitution,,0,139
+21200718,174,PT10M54.00S,2,1610612744,GSW,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,SUB: Thompson FOR Jefferson,Substitution,,0,140
+21200718,175,PT10M54.00S,2,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,0.0,0.0,0,v,SUB: Lee FOR Bazemore,Substitution,,0,141
+21200718,176,PT10M54.00S,2,1610612745,HOU,201962,Douglas,T. Douglas,0,0,0,,0,42.0,37.0,79,h,Douglas Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,142
+21200718,178,PT10M43.00S,2,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik P.FOUL (P2.T1),Foul,Personal,0,143
+21200718,179,PT10M38.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0.0,0.0,0,v,Thompson Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,144
+21200718,179,PT10M38.00S,2,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0.0,0.0,0,h,Morris STEAL (1 STL),,,0,145
+21200718,180,PT10M22.00S,2,1610612745,HOU,202391,Lin,J. Lin,-117,216,25,Made,1,45.0,37.0,82,h,Lin 25' 3PT Jump Shot (10 PTS) (Anderson 2 AST),Made Shot,Jump Shot,0,146
+21200718,181,PT10M09.00S,2,1610612744,GSW,101127,Jack,J. Jack,0,0,0,,0,0.0,0.0,0,v,Jack Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,147
+21200718,181,PT10M09.00S,2,1610612745,HOU,201962,Douglas,T. Douglas,0,0,0,,0,0.0,0.0,0,h,Douglas STEAL (1 STL),,,0,148
+21200718,182,PT10M09.00S,2,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0.0,0.0,0,v,Lee Personal Take Foul (P1.T2),Foul,Personal Take,0,149
+21200718,183,PT09M54.00S,2,1610612745,HOU,201962,Douglas,T. Douglas,-213,17,21,Missed,1,0.0,0.0,0,h,MISS Douglas 21' Jump Shot,Missed Shot,Jump Shot,0,150
+21200718,184,PT09M53.00S,2,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0.0,0.0,0,v,Lee REBOUND (Off:3 Def:2),Rebound,Unknown,0,151
+21200718,185,PT09M44.00S,2,1610612744,GSW,101127,Jack,J. Jack,6,67,7,Made,1,45.0,39.0,84,v,Jack 7' Running Jump Shot (10 PTS),Made Shot,Running Jump Shot,0,152
+21200718,186,PT09M22.00S,2,1610612745,HOU,202341,Anderson,J. Anderson,228,25,0,Made,1,48.0,39.0,87,h,Anderson  3PT Jump Shot (8 PTS) (Lin 4 AST),Made Shot,Jump Shot,0,153
+21200718,188,PT09M05.00S,2,1610612744,GSW,201171,Landry,C. Landry,2,0,0,Made,1,48.0,41.0,89,v,Landry  Layup (10 PTS) (Lee 1 AST),Made Shot,Layup Shot,0,154
+21200718,189,PT08M49.00S,2,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,-106,50,12,Missed,1,0.0,0.0,0,h,MISS Morris 12' Jump Shot,Missed Shot,Jump Shot,0,155
+21200718,190,PT08M48.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0.0,0.0,0,v,Curry REBOUND (Off:0 Def:3),Rebound,Unknown,0,156
+21200718,191,PT08M45.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,0,1,0,Made,1,48.0,43.0,91,v,Thompson  Layup (4 PTS) (Curry 4 AST),Made Shot,Layup Shot,0,157
+21200718,192,PT08M36.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0.0,0.0,0,v,Curry S.FOUL (P2.T3),Foul,Shooting,0,158
+21200718,193,PT08M36.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Regular,Timeout,Regular,0,159
+21200718,195,PT08M36.00S,2,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,SUB: Smith FOR Asik,Substitution,,0,160
+21200718,196,PT08M36.00S,2,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,SUB: Harden FOR Lin,Substitution,,0,161
+21200718,197,PT08M36.00S,2,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0.0,0.0,0,h,SUB: Patterson FOR Morris,Substitution,,0,162
+21200718,199,PT08M36.00S,2,1610612745,HOU,201962,Douglas,T. Douglas,0,0,0,,0,49.0,43.0,92,h,Douglas Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,163
+21200718,201,PT08M36.00S,2,1610612745,HOU,201962,Douglas,T. Douglas,0,0,0,,0,50.0,43.0,93,h,Douglas Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,164
+21200718,204,PT08M13.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,160,25,16,Made,1,50.0,45.0,95,v,Thompson 16' Jump Shot (6 PTS) (Curry 5 AST),Made Shot,Jump Shot,0,165
+21200718,205,PT07M58.00S,2,1610612745,HOU,202335,Patterson,P. Patterson,-187,66,20,Made,1,52.0,45.0,97,h,Patterson 20' Jump Shot (3 PTS) (Douglas 3 AST),Made Shot,Jump Shot,0,166
+21200718,207,PT07M39.00S,2,1610612744,GSW,101135,Lee,D. Lee,1,3,0,Made,1,52.0,47.0,99,v,Lee  Driving Layup (10 PTS),Made Shot,Driving Layup Shot,0,167
+21200718,208,PT07M18.00S,2,1610612745,HOU,202335,Patterson,P. Patterson,43,74,9,Missed,1,0.0,0.0,0,h,MISS Patterson 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,168
+21200718,209,PT07M17.00S,2,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0.0,0.0,0,v,Lee REBOUND (Off:3 Def:3),Rebound,Unknown,0,169
+21200718,210,PT07M11.00S,2,1610612744,GSW,101127,Jack,J. Jack,103,159,19,Made,1,52.0,49.0,101,v,Jack 19' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,0,170
+21200718,211,PT06M47.00S,2,1610612745,HOU,201962,Douglas,T. Douglas,-166,172,24,Made,1,55.0,49.0,104,h,Douglas 24' 3PT Jump Shot (7 PTS) (Harden 3 AST),Made Shot,Jump Shot,0,171
+21200718,212,PT06M38.00S,2,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,h,Patterson Violation:Kicked Ball,Violation,Kicked Ball,0,172
+21200718,213,PT06M38.00S,2,1610612744,GSW,201171,Landry,C. Landry,0,0,0,,0,0.0,0.0,0,v,SUB: Bogut FOR Landry,Substitution,,0,173
+21200718,214,PT06M38.00S,2,1610612745,HOU,202341,Anderson,J. Anderson,0,0,0,,0,0.0,0.0,0,h,SUB: Parsons FOR Anderson,Substitution,,0,174
+21200718,215,PT06M38.00S,2,1610612745,HOU,201962,Douglas,T. Douglas,0,0,0,,0,0.0,0.0,0,h,SUB: Lin FOR Douglas,Substitution,,0,175
+21200718,216,PT06M38.00S,2,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0.0,0.0,0,h,SUB: Asik FOR Smith,Substitution,,0,176
+21200718,217,PT06M27.00S,2,1610612744,GSW,101127,Jack,J. Jack,-125,148,19,Missed,1,0.0,0.0,0,v,MISS Jack 19' Jump Shot,Missed Shot,Jump Shot,0,177
+21200718,218,PT06M26.00S,2,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0.0,0.0,0,v,Bogut REBOUND (Off:1 Def:1),Rebound,Unknown,0,178
+21200718,219,PT06M22.00S,2,1610612744,GSW,101127,Jack,J. Jack,1,-14,1,Missed,1,0.0,0.0,0,v,MISS Jack 1' Layup,Missed Shot,Layup Shot,0,179
+21200718,220,PT06M20.00S,2,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik REBOUND (Off:1 Def:3),Rebound,Unknown,0,180
+21200718,221,PT06M14.00S,2,1610612745,HOU,201935,Harden,J. Harden,133,219,26,Made,1,58.0,49.0,107,h,Harden 26' 3PT Jump Shot (13 PTS) (Lin 5 AST),Made Shot,Jump Shot,0,181
+21200718,223,PT05M57.00S,2,1610612744,GSW,201939,Curry,S. Curry,-234,0,0,Missed,1,0.0,0.0,0,v,MISS Curry  3PT Jump Shot,Missed Shot,Jump Shot,0,182
+21200718,224,PT05M55.00S,2,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,h,Patterson REBOUND (Off:3 Def:3),Rebound,Unknown,0,183
+21200718,225,PT05M35.00S,2,1610612745,HOU,202335,Patterson,P. Patterson,-229,12,0,Made,1,61.0,49.0,110,h,Patterson  3PT Jump Shot (6 PTS) (Parsons 3 AST),Made Shot,Jump Shot,0,184
+21200718,226,PT05M17.00S,2,1610612744,GSW,201939,Curry,S. Curry,106,83,13,Made,1,61.0,51.0,112,v,Curry 13' Jump Shot (2 PTS) (Jack 3 AST),Made Shot,Jump Shot,0,185
+21200718,227,PT04M54.00S,2,1610612745,HOU,201935,Harden,J. Harden,32,61,7,Missed,1,0.0,0.0,0,h,MISS Harden 7' Jump Shot,Missed Shot,Jump Shot,0,186
+21200718,227,PT04M54.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0.0,0.0,0,v,Curry BLOCK (1 BLK),,,0,187
+21200718,228,PT04M52.00S,2,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0.0,0.0,0,v,Bogut REBOUND (Off:1 Def:2),Rebound,Unknown,0,188
+21200718,229,PT04M42.00S,2,1610612744,GSW,101135,Lee,D. Lee,-4,-2,0,Made,1,61.0,53.0,114,v,Lee  Layup (12 PTS) (Curry 6 AST),Made Shot,Layup Shot,0,189
+21200718,230,PT04M34.00S,2,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,190
+21200718,234,PT04M24.00S,2,1610612745,HOU,202391,Lin,J. Lin,-235,-5,24,Made,1,64.0,53.0,117,h,Lin 24' 3PT Jump Shot (13 PTS) (Harden 4 AST),Made Shot,Jump Shot,0,191
+21200718,235,PT04M04.00S,2,1610612744,GSW,101135,Lee,D. Lee,-86,121,15,Made,1,64.0,55.0,119,v,Lee 15' Jump Shot (14 PTS) (Curry 7 AST),Made Shot,Jump Shot,0,192
+21200718,236,PT03M57.00S,2,1610612745,HOU,202718,Parsons,C. Parsons,0,-6,1,Made,1,66.0,55.0,121,h,Parsons 1' Layup (8 PTS) (Lin 6 AST),Made Shot,Layup Shot,0,193
+21200718,238,PT03M40.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,7,1,Made,1,66.0,57.0,123,v,Curry 1' Layup (4 PTS) (Lee 2 AST),Made Shot,Layup Shot,0,194
+21200718,239,PT03M24.00S,2,1610612745,HOU,202391,Lin,J. Lin,165,194,25,Missed,1,0.0,0.0,0,h,MISS Lin 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,195
+21200718,240,PT03M23.00S,2,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,h,Parsons REBOUND (Off:1 Def:1),Rebound,Unknown,0,196
+21200718,241,PT03M12.00S,2,1610612745,HOU,201935,Harden,J. Harden,-65,36,7,Missed,1,0.0,0.0,0,h,MISS Harden 7' Jump Shot,Missed Shot,Jump Shot,0,197
+21200718,243,PT03M12.00S,2,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik REBOUND (Off:2 Def:3),Rebound,Unknown,0,198
+21200718,242,PT03M12.00S,2,1610612745,HOU,201600,Asik,O. Asik,7,14,2,Missed,1,0.0,0.0,0,h,MISS Asik 2' Tip Shot,Missed Shot,Tip Shot,0,199
+21200718,244,PT03M12.00S,2,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Rebound,Rebound,Unknown,0,200
+21200718,245,PT03M00.00S,2,1610612745,HOU,202718,Parsons,C. Parsons,-2,19,2,Made,1,68.0,57.0,125,h,Parsons 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,0,201
+21200718,246,PT02M49.00S,2,1610612744,GSW,101106,Bogut,A. Bogut,-2,7,1,Made,1,68.0,59.0,127,v,Bogut 1' Layup (6 PTS) (Curry 8 AST),Made Shot,Layup Shot,0,202
+21200718,248,PT02M29.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0.0,0.0,0,v,Thompson S.FOUL (P3.T4),Foul,Shooting,0,203
+21200718,249,PT02M29.00S,2,0,,1610612744,,,0,0,0,,0,0.0,0.0,0,v,Warriors Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,204
+21200718,252,PT02M29.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0.0,0.0,0,v,SUB: Barnes FOR Thompson,Substitution,,0,205
+21200718,253,PT02M29.00S,2,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,69.0,59.0,128,h,Asik Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,206
+21200718,255,PT02M29.00S,2,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,70.0,59.0,129,h,Asik Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,207
+21200718,257,PT02M09.00S,2,1610612744,GSW,101106,Bogut,A. Bogut,-26,104,11,Missed,1,0.0,0.0,0,v,MISS Bogut 11' Jump Shot,Missed Shot,Jump Shot,0,208
+21200718,258,PT02M08.00S,2,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik REBOUND (Off:2 Def:4),Rebound,Unknown,0,209
+21200718,259,PT01M57.00S,2,1610612745,HOU,201935,Harden,J. Harden,-160,194,25,Made,1,73.0,59.0,132,h,Harden 25' 3PT Jump Shot (16 PTS) (Parsons 4 AST),Made Shot,Jump Shot,0,210
+21200718,261,PT01M42.00S,2,1610612744,GSW,201939,Curry,S. Curry,114,123,17,Missed,1,0.0,0.0,0,v,MISS Curry 17' Jump Shot,Missed Shot,Jump Shot,0,211
+21200718,262,PT01M41.00S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden REBOUND (Off:0 Def:1),Rebound,Unknown,0,212
+21200718,263,PT01M24.00S,2,1610612745,HOU,202335,Patterson,P. Patterson,132,129,18,Missed,1,0.0,0.0,0,h,MISS Patterson 18' Jump Shot,Missed Shot,Jump Shot,0,213
+21200718,264,PT01M23.00S,2,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0.0,0.0,0,v,Bogut REBOUND (Off:1 Def:3),Rebound,Unknown,0,214
+21200718,265,PT01M17.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0.0,0.0,0,v,Curry Step Out of Bounds Turnover (P2.T5),Turnover,Step Out of Bounds Turnover,0,215
+21200718,267,PT00M56.90S,2,1610612745,HOU,202718,Parsons,C. Parsons,-185,86,20,Missed,1,0.0,0.0,0,h,MISS Parsons 20' Jump Shot,Missed Shot,Jump Shot,0,216
+21200718,268,PT00M55.90S,2,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,h,Patterson REBOUND (Off:4 Def:3),Rebound,Unknown,0,217
+21200718,269,PT00M52.00S,2,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,h,Parsons Traveling Turnover (P1.T4),Turnover,Traveling,0,218
+21200718,271,PT00M43.90S,2,1610612744,GSW,201939,Curry,S. Curry,1,7,1,Missed,1,0.0,0.0,0,v,MISS Curry 1' Layup,Missed Shot,Layup Shot,0,219
+21200718,272,PT00M42.30S,2,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,h,Patterson REBOUND (Off:4 Def:4),Rebound,Unknown,0,220
+21200718,273,PT00M36.60S,2,1610612745,HOU,202335,Patterson,P. Patterson,0,63,6,Made,1,75.0,59.0,134,h,Patterson 6' Jump Shot (8 PTS) (Harden 5 AST),Made Shot,Jump Shot,0,221
+21200718,274,PT00M17.90S,2,1610612744,GSW,101127,Jack,J. Jack,21,151,15,Missed,1,0.0,0.0,0,v,MISS Jack 15' Jump Shot,Missed Shot,Jump Shot,0,222
+21200718,275,PT00M16.90S,2,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden REBOUND (Off:0 Def:2),Rebound,Unknown,0,223
+21200718,276,PT00M03.30S,2,1610612745,HOU,201935,Harden,J. Harden,0,11,1,Made,1,77.0,59.0,136,h,Harden 1' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,0,224
+21200718,278,PT00M00.00S,2,1610612744,GSW,201939,Curry,S. Curry,192,389,43,Made,1,77.0,62.0,139,v,Curry 43' 3PT Jump Shot (7 PTS),Made Shot,Jump Shot,0,225
+21200718,279,PT00M00.00S,2,0,,278,Augmon,S. Augmon,0,0,0,,0,0.0,0.0,0,,Support Ruling,Instant Replay,Support Ruling,0,226
+21200718,280,PT00M00.00S,2,0,,0,,,0,0,0,,0,77.0,62.0,139,,End of 2nd Period (9:04 PM EST),period,end,0,227
+21200718,283,PT12M00.00S,3,0,,0,,,0,0,0,,0,77.0,62.0,139,,Start of 3rd Period (9:19 PM EST),period,start,0,228
+21200718,284,PT11M41.00S,3,1610612744,GSW,101135,Lee,D. Lee,-71,15,7,Made,1,77.0,64.0,141,v,Lee 7' Turnaround Bank Shot (16 PTS),Made Shot,Turnaround Bank shot,0,229
+21200718,285,PT11M24.00S,3,1610612745,HOU,202335,Patterson,P. Patterson,-4,77,8,Missed,1,0.0,0.0,0,h,MISS Patterson 8' Jump Shot,Missed Shot,Jump Shot,0,230
+21200718,286,PT11M23.00S,3,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0.0,0.0,0,v,Bogut REBOUND (Off:1 Def:4),Rebound,Unknown,0,231
+21200718,287,PT11M03.00S,3,1610612744,GSW,203084,Barnes,H. Barnes,122,214,25,Missed,1,0.0,0.0,0,v,MISS Barnes 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,232
+21200718,288,PT11M02.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik REBOUND (Off:2 Def:5),Rebound,Unknown,0,233
+21200718,289,PT10M54.00S,3,1610612745,HOU,201600,Asik,O. Asik,15,15,2,Missed,1,0.0,0.0,0,h,MISS Asik 2' Layup,Missed Shot,Layup Shot,0,234
+21200718,290,PT10M53.00S,3,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0.0,0.0,0,v,Bogut REBOUND (Off:1 Def:5),Rebound,Unknown,0,235
+21200718,291,PT10M48.00S,3,1610612744,GSW,201939,Curry,S. Curry,113,219,25,Missed,1,0.0,0.0,0,v,MISS Curry 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,236
+21200718,292,PT10M46.00S,3,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,h,Patterson REBOUND (Off:4 Def:5),Rebound,Unknown,0,237
+21200718,294,PT10M28.00S,3,1610612745,HOU,202391,Lin,J. Lin,2,-6,1,Made,1,79.0,64.0,143,h,Lin 1' Layup (15 PTS) (Parsons 5 AST),Made Shot,Layup Shot,0,238
+21200718,295,PT10M12.00S,3,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0.0,0.0,0,v,Lee Traveling Turnover (P1.T6),Turnover,Traveling,0,239
+21200718,297,PT10M03.00S,3,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0.0,0.0,0,v,Lee P.FOUL (P2.T1),Foul,Personal,0,240
+21200718,299,PT09M47.00S,3,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,0,241
+21200718,300,PT09M36.00S,3,1610612744,GSW,201939,Curry,S. Curry,43,236,24,Missed,1,0.0,0.0,0,v,MISS Curry 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,242
+21200718,301,PT09M35.00S,3,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0.0,0.0,0,v,Lee REBOUND (Off:4 Def:3),Rebound,Unknown,0,243
+21200718,302,PT09M32.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0.0,0.0,0,v,Thompson OFF.Foul (P4),Foul,Offensive,0,244
+21200718,303,PT09M32.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0.0,0.0,0,v,Thompson Foul Turnover (P2.T7),Turnover,Foul,0,245
+21200718,305,PT09M25.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,125,214,25,Made,1,82.0,64.0,146,h,Parsons 25' 3PT Jump Shot (13 PTS) (Patterson 3 AST),Made Shot,Jump Shot,0,246
+21200718,306,PT09M06.00S,3,1610612744,GSW,101106,Bogut,A. Bogut,47,30,6,Missed,1,0.0,0.0,0,v,MISS Bogut 6' Jump Shot,Missed Shot,Jump Shot,0,247
+21200718,307,PT09M04.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik REBOUND (Off:2 Def:6),Rebound,Unknown,0,248
+21200718,308,PT08M58.00S,3,1610612745,HOU,202391,Lin,J. Lin,129,216,25,Made,1,85.0,64.0,149,h,Lin 25' 3PT Jump Shot (18 PTS) (Parsons 6 AST),Made Shot,Jump Shot,0,249
+21200718,309,PT08M56.00S,3,0,,1610612744,,,0,0,0,,0,0.0,0.0,0,v,Warriors Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,250
+21200718,312,PT08M56.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,0.0,0.0,0,v,SUB: Bazemore FOR Thompson,Substitution,,0,251
+21200718,313,PT08M41.00S,3,1610612744,GSW,101106,Bogut,A. Bogut,-75,45,9,Missed,1,0.0,0.0,0,v,MISS Bogut 9' Jump Shot,Missed Shot,Jump Shot,0,252
+21200718,314,PT08M40.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik REBOUND (Off:2 Def:7),Rebound,Unknown,0,253
+21200718,315,PT08M38.00S,3,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,0.0,0.0,0,v,Bazemore P.FOUL (P2.T2),Foul,Personal,0,254
+21200718,316,PT08M31.00S,3,1610612745,HOU,202391,Lin,J. Lin,4,0,0,Made,1,87.0,64.0,151,h,Lin  Driving Layup (20 PTS),Made Shot,Driving Layup Shot,0,255
+21200718,318,PT08M16.00S,3,1610612744,GSW,201939,Curry,S. Curry,-37,153,16,Missed,1,0.0,0.0,0,v,MISS Curry 16' Jump Shot,Missed Shot,Jump Shot,0,256
+21200718,319,PT08M16.00S,3,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Rebound,Rebound,Unknown,0,257
+21200718,320,PT08M16.00S,3,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0.0,0.0,0,v,Bogut L.B.FOUL (P2.T3),Foul,Loose Ball,0,258
+21200718,322,PT08M00.00S,3,1610612745,HOU,202391,Lin,J. Lin,237,30,24,Missed,1,0.0,0.0,0,h,MISS Lin 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,259
+21200718,323,PT07M59.00S,3,0,,1610612744,,,0,0,0,,0,0.0,0.0,0,v,Warriors Rebound,Rebound,Unknown,0,260
+21200718,324,PT07M59.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik L.B.FOUL (P3.T1),Foul,Loose Ball,0,261
+21200718,334,PT07M50.00S,3,1610612744,GSW,203084,Barnes,H. Barnes,-153,149,21,Missed,1,0.0,0.0,0,v,MISS Barnes 21' Jump Shot,Missed Shot,Jump Shot,0,262
+21200718,327,PT07M48.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik REBOUND (Off:2 Def:8),Rebound,Unknown,0,263
+21200718,328,PT07M45.00S,3,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,Lin Poss Lost Ball Turnover (P2.T6),Turnover,Poss Lost Ball Turnover,0,264
+21200718,329,PT07M35.00S,3,1610612744,GSW,203084,Barnes,H. Barnes,18,4,2,Made,1,87.0,66.0,153,v,Barnes 2' Layup (7 PTS) (Curry 9 AST),Made Shot,Layup Shot,0,265
+21200718,330,PT07M24.00S,3,1610612744,GSW,203084,Barnes,H. Barnes,0,0,0,,0,0.0,0.0,0,v,Barnes S.FOUL (P1.T4),Foul,Shooting,0,266
+21200718,331,PT07M24.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,88.0,66.0,154,h,Asik Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,267
+21200718,333,PT07M24.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,MISS Asik Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,268
+21200718,336,PT07M23.00S,3,1610612744,GSW,203084,Barnes,H. Barnes,0,0,0,,0,0.0,0.0,0,v,Barnes REBOUND (Off:0 Def:1),Rebound,Unknown,0,269
+21200718,337,PT07M12.00S,3,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,0.0,0.0,0,v,Bazemore Traveling Turnover (P1.T8),Turnover,Traveling,0,270
+21200718,338,PT07M07.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,-240,3,24,Made,1,91.0,66.0,157,h,Parsons 24' 3PT Jump Shot (16 PTS) (Lin 7 AST),Made Shot,Jump Shot,0,271
+21200718,340,PT06M50.00S,3,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0.0,0.0,0,v,Lee OFF.Foul (P3),Foul,Offensive,0,272
+21200718,341,PT06M50.00S,3,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0.0,0.0,0,v,Lee Foul Turnover (P2.T9),Turnover,Foul,0,273
+21200718,343,PT06M50.00S,3,1610612744,GSW,203084,Barnes,H. Barnes,0,0,0,,0,0.0,0.0,0,v,SUB: Jack FOR Barnes,Substitution,,0,274
+21200718,344,PT06M39.00S,3,1610612745,HOU,202335,Patterson,P. Patterson,95,160,19,Made,1,93.0,66.0,159,h,Patterson 19' Jump Shot (10 PTS) (Parsons 7 AST),Made Shot,Jump Shot,0,275
+21200718,345,PT06M31.00S,3,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,Lin P.FOUL (P1.T2),Foul,Personal,0,276
+21200718,347,PT06M24.00S,3,1610612744,GSW,101135,Lee,D. Lee,-23,7,2,Made,1,93.0,68.0,161,v,Lee 2' Layup (18 PTS),Made Shot,Layup Shot,0,277
+21200718,348,PT06M03.00S,3,1610612745,HOU,202335,Patterson,P. Patterson,-23,23,3,Made,1,95.0,68.0,163,h,Patterson 3' Jump Shot (12 PTS) (Harden 6 AST),Made Shot,Jump Shot,0,278
+21200718,349,PT05M39.00S,3,1610612744,GSW,203145,Bazemore,K. Bazemore,-11,28,3,Missed,1,0.0,0.0,0,v,MISS Bazemore 3' Layup,Missed Shot,Layup Shot,0,279
+21200718,351,PT05M37.00S,3,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0.0,0.0,0,v,Bogut REBOUND (Off:2 Def:5),Rebound,Unknown,0,280
+21200718,350,PT05M37.00S,3,1610612744,GSW,101106,Bogut,A. Bogut,-10,12,2,Made,1,95.0,70.0,165,v,Bogut 2' Tip Shot (8 PTS),Made Shot,Tip Shot,0,281
+21200718,353,PT05M26.00S,3,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,0.0,0.0,0,v,Bazemore S.FOUL (P3.PN),Foul,Shooting,0,282
+21200718,354,PT05M26.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,96.0,70.0,166,h,Asik Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,283
+21200718,356,PT05M26.00S,3,1610612744,GSW,101135,Lee,D. Lee,0,0,0,,0,0.0,0.0,0,v,SUB: Landry FOR Lee,Substitution,,0,284
+21200718,357,PT05M26.00S,3,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,SUB: Douglas FOR Lin,Substitution,,0,285
+21200718,358,PT05M26.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,97.0,70.0,167,h,Asik Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,286
+21200718,360,PT05M17.00S,3,1610612744,GSW,101127,Jack,J. Jack,-37,45,6,Made,1,97.0,72.0,169,v,Jack 6' Running Jump Shot (14 PTS),Made Shot,Running Jump Shot,0,287
+21200718,361,PT05M00.00S,3,1610612745,HOU,201935,Harden,J. Harden,10,173,17,Missed,1,0.0,0.0,0,h,MISS Harden 17' Jump Shot,Missed Shot,Jump Shot,0,288
+21200718,362,PT04M59.00S,3,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0.0,0.0,0,v,Bogut REBOUND (Off:2 Def:6),Rebound,Unknown,0,289
+21200718,363,PT04M47.00S,3,1610612744,GSW,201171,Landry,C. Landry,0,0,0,,0,0.0,0.0,0,v,Landry Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,290
+21200718,363,PT04M47.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,Harden STEAL (3 STL),,,0,291
+21200718,364,PT04M43.00S,3,1610612745,HOU,201962,Douglas,T. Douglas,-234,37,24,Missed,1,0.0,0.0,0,h,MISS Douglas 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,292
+21200718,365,PT04M39.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0.0,0.0,0,v,Curry REBOUND (Off:0 Def:4),Rebound,Unknown,0,293
+21200718,366,PT04M32.00S,3,1610612744,GSW,201939,Curry,S. Curry,9,12,2,Missed,1,0.0,0.0,0,v,MISS Curry 2' Layup,Missed Shot,Layup Shot,0,294
+21200718,367,PT04M29.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik REBOUND (Off:2 Def:9),Rebound,Unknown,0,295
+21200718,368,PT04M29.00S,3,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0.0,0.0,0,v,Bogut P.FOUL (P3.PN),Foul,Personal,0,296
+21200718,369,PT04M29.00S,3,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,SUB: Smith FOR Asik,Substitution,,0,297
+21200718,413,PT04M29.00S,3,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0.0,0.0,0,v,SUB: Green FOR Bogut,Substitution,,0,298
+21200718,370,PT04M29.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,MISS Harden Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,299
+21200718,371,PT04M29.00S,3,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Rebound,Rebound,Normal Rebound,0,300
+21200718,372,PT04M29.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,0.0,0.0,0,v,SUB: Jefferson FOR Curry,Substitution,,0,301
+21200718,373,PT04M29.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,MISS Harden Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,302
+21200718,375,PT04M26.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0.0,0.0,0,v,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,303
+21200718,376,PT04M05.00S,3,1610612744,GSW,2210,Jefferson,R. Jefferson,-153,271,31,Missed,1,0.0,0.0,0,v,MISS Jefferson 31' 3PT Jump Shot,Missed Shot,Jump Shot,0,304
+21200718,377,PT04M04.00S,3,1610612744,GSW,201171,Landry,C. Landry,0,0,0,,0,0.0,0.0,0,v,Landry REBOUND (Off:1 Def:2),Rebound,Unknown,0,305
+21200718,378,PT03M59.00S,3,1610612744,GSW,2210,Jefferson,R. Jefferson,-8,45,5,Made,1,97.0,74.0,171,v,Jefferson 5' Jump Shot (2 PTS),Made Shot,Jump Shot,0,306
+21200718,442,PT03M44.00S,3,1610612745,HOU,202335,Patterson,P. Patterson,-21,74,8,Missed,1,0.0,0.0,0,h,MISS Patterson 8' Jump Shot,Missed Shot,Jump Shot,0,307
+21200718,443,PT03M43.00S,3,1610612744,GSW,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,Jefferson REBOUND (Off:0 Def:2),Rebound,Unknown,0,308
+21200718,381,PT03M42.00S,3,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0.0,0.0,0,h,Smith P.FOUL (P3.T3),Foul,Personal,0,309
+21200718,383,PT03M26.00S,3,1610612745,HOU,201962,Douglas,T. Douglas,0,0,0,,0,0.0,0.0,0,h,Douglas P.FOUL (P1.T4),Foul,Personal,0,310
+21200718,384,PT03M21.00S,3,1610612744,GSW,101127,Jack,J. Jack,-64,9,6,Made,1,97.0,76.0,173,v,Jack 6' Jump Bank Shot (16 PTS),Made Shot,Jump Bank Shot,0,311
+21200718,385,PT03M11.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,159,178,24,Missed,1,0.0,0.0,0,h,MISS Parsons 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,312
+21200718,386,PT03M10.00S,3,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,h,Patterson REBOUND (Off:5 Def:5),Rebound,Unknown,0,313
+21200718,387,PT03M08.00S,3,1610612745,HOU,202335,Patterson,P. Patterson,1,-2,0,Missed,1,0.0,0.0,0,h,MISS Patterson  Layup,Missed Shot,Layup Shot,0,314
+21200718,388,PT03M07.00S,3,1610612744,GSW,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,Jefferson REBOUND (Off:0 Def:3),Rebound,Unknown,0,315
+21200718,389,PT02M59.00S,3,1610612744,GSW,203110,Green,D. Green,2,12,1,Made,1,97.0,78.0,175,v,Green 1' Layup (4 PTS),Made Shot,Layup Shot,0,316
+21200718,390,PT02M57.00S,3,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,317
+21200718,392,PT02M57.00S,3,1610612745,HOU,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,h,SUB: Morris FOR Patterson,Substitution,,0,318
+21200718,395,PT02M33.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0.0,0.0,0,v,Green S.FOUL (P2.PN),Foul,Shooting,0,319
+21200718,396,PT02M33.00S,3,0,,395,,,0,0,0,,0,0.0,0.0,0,,Support Ruling,Instant Replay,Support Ruling,0,320
+21200718,397,PT02M33.00S,3,1610612745,HOU,201962,Douglas,T. Douglas,0,0,0,,0,98.0,78.0,176,h,Douglas Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,321
+21200718,399,PT02M33.00S,3,1610612745,HOU,201962,Douglas,T. Douglas,0,0,0,,0,99.0,78.0,177,h,Douglas Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,322
+21200718,402,PT02M17.00S,3,1610612744,GSW,203145,Bazemore,K. Bazemore,234,1,0,Missed,1,0.0,0.0,0,v,MISS Bazemore  3PT Jump Shot,Missed Shot,Jump Shot,0,323
+21200718,403,PT02M15.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,h,Parsons REBOUND (Off:1 Def:2),Rebound,Unknown,0,324
+21200718,404,PT02M11.00S,3,1610612745,HOU,201935,Harden,J. Harden,0,4,0,Missed,1,0.0,0.0,0,h,MISS Harden  Layup,Missed Shot,Layup Shot,0,325
+21200718,404,PT02M11.00S,3,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,0.0,0.0,0,v,Bazemore BLOCK (1 BLK),,,0,326
+21200718,405,PT02M11.00S,3,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Rebound,Rebound,Unknown,0,327
+21200718,406,PT02M11.00S,3,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,h,SUB: Anderson FOR Parsons,Substitution,,0,328
+21200718,407,PT02M06.00S,3,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0.0,0.0,0,h,Smith Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,329
+21200718,408,PT01M52.00S,3,1610612744,GSW,203110,Green,D. Green,-8,224,22,Missed,1,0.0,0.0,0,v,MISS Green 22' Jump Shot,Missed Shot,Jump Shot,0,330
+21200718,409,PT01M46.00S,3,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0.0,0.0,0,h,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,0,331
+21200718,410,PT01M38.00S,3,1610612745,HOU,201962,Douglas,T. Douglas,236,12,24,Made,1,102.0,78.0,180,h,Douglas 24' 3PT Jump Shot (12 PTS),Made Shot,Jump Shot,0,332
+21200718,411,PT01M23.00S,3,1610612744,GSW,203110,Green,D. Green,-11,4,1,Made,1,102.0,80.0,182,v,Green 1' Layup (6 PTS),Made Shot,Layup Shot,0,333
+21200718,412,PT01M23.00S,3,1610612745,HOU,201962,Douglas,T. Douglas,0,0,0,,0,0.0,0.0,0,h,Douglas S.FOUL (P2.PN),Foul,Shooting,0,334
+21200718,415,PT01M23.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0.0,0.0,0,v,MISS Green Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,335
+21200718,417,PT01M20.00S,3,1610612745,HOU,201962,Douglas,T. Douglas,0,0,0,,0,0.0,0.0,0,h,Douglas REBOUND (Off:0 Def:1),Rebound,Unknown,0,336
+21200718,419,PT01M15.00S,3,1610612745,HOU,202341,Anderson,J. Anderson,42,63,8,Missed,1,0.0,0.0,0,h,MISS Anderson 8' Jump Shot,Missed Shot,Jump Shot,0,337
+21200718,420,PT01M14.00S,3,1610612744,GSW,201171,Landry,C. Landry,0,0,0,,0,0.0,0.0,0,v,Landry REBOUND (Off:1 Def:3),Rebound,Unknown,0,338
+21200718,422,PT01M08.00S,3,1610612745,HOU,201962,Douglas,T. Douglas,0,0,0,,0,0.0,0.0,0,h,Douglas P.FOUL (P3.PN),Foul,Personal,0,339
+21200718,423,PT01M08.00S,3,1610612744,GSW,101127,Jack,J. Jack,0,0,0,,0,102.0,81.0,183,v,Jack Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,340
+21200718,426,PT01M08.00S,3,1610612744,GSW,101127,Jack,J. Jack,0,0,0,,0,102.0,82.0,184,v,Jack Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,341
+21200718,428,PT00M47.70S,3,1610612745,HOU,201962,Douglas,T. Douglas,1,-3,0,Made,1,104.0,82.0,186,h,Douglas  Layup (14 PTS) (Harden 7 AST),Made Shot,Layup Shot,0,342
+21200718,429,PT00M32.90S,3,1610612744,GSW,203145,Bazemore,K. Bazemore,-179,3,18,Made,1,104.0,84.0,188,v,Bazemore 18' Jump Shot (2 PTS) (Jack 4 AST),Made Shot,Jump Shot,0,343
+21200718,430,PT00M10.90S,3,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,-234,0,0,Missed,1,0.0,0.0,0,h,MISS Morris  3PT Jump Shot,Missed Shot,Jump Shot,0,344
+21200718,431,PT00M09.90S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0.0,0.0,0,v,Green REBOUND (Off:0 Def:2),Rebound,Unknown,0,345
+21200718,432,PT00M05.40S,3,1610612745,HOU,201962,Douglas,T. Douglas,0,0,0,,0,0.0,0.0,0,h,Douglas P.FOUL (P4.PN),Foul,Personal,0,346
+21200718,433,PT00M05.40S,3,1610612744,GSW,101127,Jack,J. Jack,0,0,0,,0,104.0,85.0,189,v,Jack Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,347
+21200718,435,PT00M05.40S,3,1610612744,GSW,201171,Landry,C. Landry,0,0,0,,0,0.0,0.0,0,v,SUB: Jenkins FOR Landry,Substitution,,0,348
+21200718,436,PT00M05.40S,3,1610612744,GSW,101127,Jack,J. Jack,0,0,0,,0,104.0,86.0,190,v,Jack Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,349
+21200718,438,PT00M00.00S,3,1610612745,HOU,201962,Douglas,T. Douglas,147,254,29,Missed,1,0.0,0.0,0,h,MISS Douglas 29' 3PT Jump Shot,Missed Shot,Jump Shot,0,350
+21200718,440,PT00M00.00S,3,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Rebound,Rebound,Unknown,0,351
+21200718,439,PT00M00.00S,3,0,,0,,,0,0,0,,0,104.0,86.0,190,,End of 3rd Period (9:46 PM EST),period,end,0,352
+21200718,444,PT12M00.00S,4,0,,0,,,0,0,0,,0,104.0,86.0,190,,Start of 4th Period (9:48 PM EST),period,start,0,353
+21200718,446,PT11M38.00S,4,1610612745,HOU,202391,Lin,J. Lin,-164,211,27,Missed,1,0.0,0.0,0,h,MISS Lin 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,354
+21200718,447,PT11M37.00S,4,1610612745,HOU,202341,Anderson,J. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson REBOUND (Off:1 Def:1),Rebound,Unknown,0,355
+21200718,450,PT11M15.00S,4,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,13,195,20,Missed,1,0.0,0.0,0,h,MISS Morris 20' Jump Shot,Missed Shot,Jump Shot,0,356
+21200718,451,PT11M13.00S,4,1610612744,GSW,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,Jefferson REBOUND (Off:0 Def:4),Rebound,Unknown,0,357
+21200718,452,PT11M01.00S,4,1610612744,GSW,203145,Bazemore,K. Bazemore,154,75,17,Made,1,104.0,88.0,192,v,Bazemore 17' Jump Shot (4 PTS),Made Shot,Jump Shot,0,358
+21200718,453,PT10M38.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,228,0,0,Missed,1,0.0,0.0,0,h,MISS Parsons  3PT Jump Shot,Missed Shot,Jump Shot,0,359
+21200718,454,PT10M37.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik REBOUND (Off:3 Def:9),Rebound,Unknown,0,360
+21200718,455,PT10M34.00S,4,1610612745,HOU,202341,Anderson,J. Anderson,-38,242,24,Missed,1,0.0,0.0,0,h,MISS Anderson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,361
+21200718,456,PT10M31.00S,4,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0.0,0.0,0,h,Morris REBOUND (Off:1 Def:1),Rebound,Unknown,0,362
+21200718,458,PT10M18.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0.0,0.0,0,v,Green P.FOUL (P3.T1),Foul,Personal,0,363
+21200718,459,PT10M14.00S,4,1610612744,GSW,201171,Landry,C. Landry,0,0,0,,0,0.0,0.0,0,v,Landry P.FOUL (P1.T2),Foul,Personal,0,364
+21200718,460,PT10M05.00S,4,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,-237,9,24,Made,1,107.0,88.0,195,h,Morris 24' 3PT Jump Shot (8 PTS) (Anderson 3 AST),Made Shot,Jump Shot,0,365
+21200718,461,PT09M44.00S,4,1610612744,GSW,101127,Jack,J. Jack,-90,233,25,Missed,1,0.0,0.0,0,v,MISS Jack 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,366
+21200718,462,PT09M43.00S,4,1610612745,HOU,202341,Anderson,J. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson REBOUND (Off:1 Def:2),Rebound,Unknown,0,367
+21200718,463,PT09M36.00S,4,1610612745,HOU,201600,Asik,O. Asik,1,-2,0,Made,1,109.0,88.0,197,h,Asik  Dunk (11 PTS) (Lin 8 AST),Made Shot,Dunk Shot,0,368
+21200718,465,PT09M23.00S,4,1610612745,HOU,202341,Anderson,J. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson S.FOUL (P1.T1),Foul,Shooting,0,369
+21200718,466,PT09M23.00S,4,1610612744,GSW,2210,Jefferson,R. Jefferson,0,0,0,,0,109.0,89.0,198,v,Jefferson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,370
+21200718,468,PT09M23.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0.0,0.0,0,v,SUB: Bogut FOR Green,Substitution,,0,371
+21200718,469,PT09M23.00S,4,1610612744,GSW,2210,Jefferson,R. Jefferson,0,0,0,,0,109.0,90.0,199,v,Jefferson Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,372
+21200718,471,PT09M07.00S,4,1610612745,HOU,202391,Lin,J. Lin,231,-13,0,Made,1,112.0,90.0,202,h,Lin  3PT Jump Shot (23 PTS) (Parsons 8 AST),Made Shot,Jump Shot,0,373
+21200718,472,PT08M51.00S,4,1610612744,GSW,201171,Landry,C. Landry,0,0,0,,0,0.0,0.0,0,v,Landry Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,374
+21200718,472,PT08M51.00S,4,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,Lin STEAL (1 STL),,,0,375
+21200718,473,PT08M49.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,376
+21200718,474,PT08M49.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Regular,Timeout,Regular,0,377
+21200718,478,PT08M38.00S,4,1610612744,GSW,203145,Bazemore,K. Bazemore,92,173,20,Missed,1,0.0,0.0,0,v,MISS Bazemore 20' Jump Shot,Missed Shot,Jump Shot,0,378
+21200718,479,PT08M37.00S,4,1610612745,HOU,202341,Anderson,J. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson REBOUND (Off:1 Def:3),Rebound,Unknown,0,379
+21200718,480,PT08M31.00S,4,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,-146,192,24,Made,1,115.0,90.0,205,h,Morris 24' 3PT Jump Shot (11 PTS) (Lin 9 AST),Made Shot,Jump Shot,0,380
+21200718,481,PT08M12.00S,4,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,Lin P.FOUL (P2.T2),Foul,Personal,0,381
+21200718,482,PT08M06.00S,4,1610612744,GSW,101106,Bogut,A. Bogut,-19,71,7,Made,1,115.0,92.0,207,v,Bogut 7' Jump Shot (10 PTS) (Jack 5 AST),Made Shot,Jump Shot,0,382
+21200718,483,PT07M55.00S,4,1610612745,HOU,202341,Anderson,J. Anderson,165,183,25,Missed,1,0.0,0.0,0,h,MISS Anderson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,383
+21200718,484,PT07M54.00S,4,1610612744,GSW,101127,Jack,J. Jack,0,0,0,,0,0.0,0.0,0,v,Jack REBOUND (Off:0 Def:1),Rebound,Unknown,0,384
+21200718,485,PT07M38.00S,4,1610612744,GSW,201171,Landry,C. Landry,-142,-5,14,Made,1,115.0,94.0,209,v,Landry 14' Jump Shot (12 PTS),Made Shot,Jump Shot,0,385
+21200718,486,PT07M25.00S,4,1610612745,HOU,201600,Asik,O. Asik,45,30,5,Missed,1,0.0,0.0,0,h,MISS Asik 5' Jump Shot,Missed Shot,Jump Shot,0,386
+21200718,487,PT07M23.00S,4,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0.0,0.0,0,v,Bogut REBOUND (Off:2 Def:7),Rebound,Unknown,0,387
+21200718,488,PT07M22.00S,4,1610612744,GSW,2210,Jefferson,R. Jefferson,4,3,1,Made,1,115.0,96.0,211,v,Jefferson 1' Layup (6 PTS) (Bogut 3 AST),Made Shot,Layup Shot,0,388
+21200718,489,PT07M22.00S,4,1610612745,HOU,202341,Anderson,J. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson S.FOUL (P2.T3),Foul,Shooting,0,389
+21200718,490,PT07M22.00S,4,1610612744,GSW,2210,Jefferson,R. Jefferson,0,0,0,,0,115.0,97.0,212,v,Jefferson Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,390
+21200718,493,PT07M03.00S,4,1610612745,HOU,202391,Lin,J. Lin,122,108,16,Made,1,117.0,97.0,214,h,Lin 16' Pullup Jump Shot (25 PTS),Made Shot,Pullup Jump shot,0,391
+21200718,494,PT06M56.00S,4,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0.0,0.0,0,h,Morris P.FOUL (P2.T4),Foul,Personal,0,392
+21200718,495,PT06M56.00S,4,1610612745,HOU,202341,Anderson,J. Anderson,0,0,0,,0,0.0,0.0,0,h,SUB: Harden FOR Anderson,Substitution,,0,393
+21200718,496,PT06M46.00S,4,1610612744,GSW,203145,Bazemore,K. Bazemore,-149,102,18,Missed,1,0.0,0.0,0,v,MISS Bazemore 18' Jump Shot,Missed Shot,Jump Shot,0,394
+21200718,497,PT06M45.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik REBOUND (Off:3 Def:10),Rebound,Unknown,0,395
+21200718,498,PT06M36.00S,4,1610612744,GSW,101127,Jack,J. Jack,0,0,0,,0,0.0,0.0,0,v,Jack S.FOUL (P1.T3),Foul,Shooting,0,396
+21200718,499,PT06M36.00S,4,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0.0,0.0,0,v,Bogut T.FOUL (P3.T3),Foul,Technical,0,397
+21200718,500,PT06M36.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,MISS Harden Free Throw Technical,Free Throw,Free Throw Technical,0,398
+21200718,501,PT06M36.00S,4,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Rebound,Rebound,Normal Rebound,0,399
+21200718,504,PT06M36.00S,4,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,118.0,97.0,215,h,Lin Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,0,400
+21200718,506,PT06M36.00S,4,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,MISS Lin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,401
+21200718,508,PT06M34.00S,4,1610612744,GSW,201171,Landry,C. Landry,0,0,0,,0,0.0,0.0,0,v,Landry REBOUND (Off:1 Def:4),Rebound,Unknown,0,402
+21200718,509,PT06M25.00S,4,1610612744,GSW,101127,Jack,J. Jack,77,156,17,Missed,1,0.0,0.0,0,v,MISS Jack 17' Jump Shot,Missed Shot,Jump Shot,0,403
+21200718,510,PT06M24.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,h,Parsons REBOUND (Off:1 Def:3),Rebound,Unknown,0,404
+21200718,511,PT06M22.00S,4,1610612744,GSW,101127,Jack,J. Jack,0,0,0,,0,0.0,0.0,0,v,Jack S.FOUL (P2.T4),Foul,Shooting,0,405
+21200718,512,PT06M22.00S,4,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,119.0,97.0,216,h,Lin Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,0,406
+21200718,514,PT06M22.00S,4,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,120.0,97.0,217,h,Lin Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,0,407
+21200718,517,PT06M07.00S,4,1610612744,GSW,2210,Jefferson,R. Jefferson,226,23,0,Missed,1,0.0,0.0,0,v,MISS Jefferson  3PT Jump Shot,Missed Shot,Jump Shot,0,408
+21200718,518,PT06M06.00S,4,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0.0,0.0,0,h,Morris REBOUND (Off:1 Def:2),Rebound,Unknown,0,409
+21200718,519,PT06M01.00S,4,1610612745,HOU,201935,Harden,J. Harden,-119,224,25,Missed,1,0.0,0.0,0,h,MISS Harden 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,410
+21200718,520,PT06M00.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik REBOUND (Off:4 Def:10),Rebound,Unknown,0,411
+21200718,521,PT05M57.00S,4,1610612745,HOU,201600,Asik,O. Asik,-7,9,1,Missed,1,0.0,0.0,0,h,MISS Asik 1' Layup,Missed Shot,Layup Shot,0,412
+21200718,522,PT05M55.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik REBOUND (Off:5 Def:10),Rebound,Unknown,0,413
+21200718,523,PT05M54.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,Asik Poss Lost Ball Turnover (P2.T9),Turnover,Poss Lost Ball Turnover,0,414
+21200718,523,PT05M54.00S,4,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,0.0,0.0,0,v,Bazemore STEAL (1 STL),,,0,415
+21200718,525,PT05M49.00S,4,1610612744,GSW,101127,Jack,J. Jack,0,0,0,,0,0.0,0.0,0,v,Jack Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,416
+21200718,526,PT05M49.00S,4,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,417
+21200718,528,PT05M49.00S,4,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,0.0,0.0,0,v,SUB: Green FOR Bogut,Substitution,,0,418
+21200718,529,PT05M49.00S,4,1610612744,GSW,201171,Landry,C. Landry,0,0,0,,0,0.0,0.0,0,v,SUB: Jenkins FOR Landry,Substitution,,0,419
+21200718,530,PT05M49.00S,4,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,0.0,0.0,0,v,SUB: Ezeli FOR Bazemore,Substitution,,0,420
+21200718,531,PT05M49.00S,4,1610612745,HOU,202718,Parsons,C. Parsons,0,0,0,,0,0.0,0.0,0,h,SUB: Smith FOR Parsons,Substitution,,0,421
+21200718,532,PT05M49.00S,4,1610612745,HOU,201600,Asik,O. Asik,0,0,0,,0,0.0,0.0,0,h,SUB: Anderson FOR Asik,Substitution,,0,422
+21200718,533,PT05M49.00S,4,1610612745,HOU,201935,Harden,J. Harden,0,0,0,,0,0.0,0.0,0,h,SUB: Beverley FOR Harden,Substitution,,0,423
+21200718,534,PT05M49.00S,4,1610612745,HOU,202391,Lin,J. Lin,0,0,0,,0,0.0,0.0,0,h,SUB: Motiejunas FOR Lin,Substitution,,0,424
+21200718,537,PT05M49.00S,4,1610612744,GSW,101127,Jack,J. Jack,0,0,0,,0,0.0,0.0,0,v,SUB: Bazemore FOR Jack,Substitution,,0,425
+21200718,536,PT05M28.00S,4,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,-142,28,14,Made,1,122.0,97.0,219,h,Morris 14' Jump Shot (13 PTS),Made Shot,Jump Shot,0,426
+21200718,538,PT05M05.00S,4,1610612744,GSW,202724,Jenkins,C. Jenkins,1,178,18,Missed,1,0.0,0.0,0,v,MISS Jenkins 18' Jump Shot,Missed Shot,Jump Shot,0,427
+21200718,539,PT05M02.00S,4,1610612745,HOU,202341,Anderson,J. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson REBOUND (Off:1 Def:4),Rebound,Unknown,0,428
+21200718,540,PT05M01.00S,4,1610612745,HOU,202700,Motiejunas,D. Motiejunas,15,3,2,Made,1,124.0,97.0,221,h,Motiejunas 2' Layup (2 PTS),Made Shot,Layup Shot,0,429
+21200718,542,PT04M44.00S,4,1610612744,GSW,2210,Jefferson,R. Jefferson,80,238,25,Missed,1,0.0,0.0,0,v,MISS Jefferson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,430
+21200718,544,PT04M42.00S,4,1610612744,GSW,203105,Ezeli,F. Ezeli,0,0,0,,0,0.0,0.0,0,v,Ezeli REBOUND (Off:1 Def:0),Rebound,Unknown,0,431
+21200718,543,PT04M42.00S,4,1610612744,GSW,203105,Ezeli,F. Ezeli,0,14,1,Missed,1,0.0,0.0,0,v,MISS Ezeli 1' Tip Shot,Missed Shot,Tip Shot,0,432
+21200718,545,PT04M41.00S,4,0,,1610612744,,,0,0,0,,0,0.0,0.0,0,v,Warriors Rebound,Rebound,Unknown,0,433
+21200718,546,PT04M36.00S,4,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0.0,0.0,0,h,Motiejunas S.FOUL (P1.PN),Foul,Shooting,0,434
+21200718,547,PT04M36.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,124.0,98.0,222,v,Green Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,435
+21200718,549,PT04M36.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,124.0,99.0,223,v,Green Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,436
+21200718,552,PT04M20.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,-243,20,24,Made,1,127.0,99.0,226,h,Beverley 24' 3PT Jump Shot (3 PTS) (Anderson 4 AST),Made Shot,Jump Shot,0,437
+21200718,554,PT04M03.00S,4,1610612744,GSW,203110,Green,D. Green,-175,41,18,Missed,1,0.0,0.0,0,v,MISS Green 18' Jump Shot,Missed Shot,Jump Shot,0,438
+21200718,555,PT04M03.00S,4,0,,1610612744,,,0,0,0,,0,0.0,0.0,0,v,Warriors Rebound,Rebound,Unknown,0,439
+21200718,556,PT04M03.00S,4,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0.0,0.0,0,h,Smith P.FOUL (P4.PN),Foul,Personal,0,440
+21200718,557,PT04M03.00S,4,1610612744,GSW,203105,Ezeli,F. Ezeli,0,0,0,,0,127.0,100.0,227,v,Ezeli Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,441
+21200718,559,PT04M03.00S,4,1610612744,GSW,203105,Ezeli,F. Ezeli,0,0,0,,0,127.0,101.0,228,v,Ezeli Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,442
+21200718,562,PT03M41.00S,4,1610612745,HOU,202700,Motiejunas,D. Motiejunas,239,-10,24,Made,1,130.0,101.0,231,h,Motiejunas 24' 3PT Jump Shot (5 PTS) (Beverley 1 AST),Made Shot,Jump Shot,0,443
+21200718,564,PT03M16.00S,4,1610612744,GSW,203110,Green,D. Green,177,17,18,Missed,1,0.0,0.0,0,v,MISS Green 18' Jump Shot,Missed Shot,Jump Shot,0,444
+21200718,566,PT03M13.00S,4,1610612744,GSW,203105,Ezeli,F. Ezeli,0,0,0,,0,0.0,0.0,0,v,Ezeli REBOUND (Off:2 Def:0),Rebound,Unknown,0,445
+21200718,565,PT03M13.00S,4,1610612744,GSW,203105,Ezeli,F. Ezeli,2,6,1,Made,1,130.0,103.0,233,v,Ezeli 1' Tip Shot (4 PTS),Made Shot,Tip Shot,0,446
+21200718,567,PT03M03.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,116,220,25,Missed,1,0.0,0.0,0,h,MISS Beverley 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,447
+21200718,568,PT03M01.00S,4,1610612745,HOU,202341,Anderson,J. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson REBOUND (Off:2 Def:4),Rebound,Unknown,0,448
+21200718,569,PT02M57.00S,4,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,-68,236,25,Missed,1,0.0,0.0,0,h,MISS Morris 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,449
+21200718,570,PT02M56.00S,4,1610612744,GSW,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,Jefferson REBOUND (Off:0 Def:5),Rebound,Unknown,0,450
+21200718,571,PT02M56.00S,4,1610612745,HOU,202341,Anderson,J. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson P.FOUL (P3.PN),Foul,Personal,0,451
+21200718,572,PT02M56.00S,4,0,,1610612744,,,0,0,0,,0,0.0,0.0,0,v,Warriors Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,452
+21200718,576,PT02M56.00S,4,1610612744,GSW,2210,Jefferson,R. Jefferson,0,0,0,,0,130.0,104.0,234,v,Jefferson Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,453
+21200718,578,PT02M56.00S,4,1610612744,GSW,2210,Jefferson,R. Jefferson,0,0,0,,0,130.0,105.0,235,v,Jefferson Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,454
+21200718,580,PT02M40.00S,4,1610612745,HOU,202962,Smith,G. Smith,83,15,8,Made,1,132.0,105.0,237,h,Smith 8' Jump Hook Shot (4 PTS),Made Shot,Jump Hook Shot,0,455
+21200718,583,PT02M15.00S,4,1610612744,GSW,203145,Bazemore,K. Bazemore,-105,137,17,Missed,1,0.0,0.0,0,v,MISS Bazemore 17' Jump Shot,Missed Shot,Jump Shot,0,456
+21200718,584,PT02M13.00S,4,1610612745,HOU,202341,Anderson,J. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson REBOUND (Off:2 Def:5),Rebound,Unknown,0,457
+21200718,585,PT01M58.00S,4,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,-114,219,25,Missed,1,0.0,0.0,0,h,MISS Morris 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,458
+21200718,585,PT01M58.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0.0,0.0,0,v,Green BLOCK (1 BLK),,,0,459
+21200718,586,PT01M56.00S,4,1610612744,GSW,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,Jefferson REBOUND (Off:0 Def:6),Rebound,Unknown,0,460
+21200718,587,PT01M53.00S,4,1610612744,GSW,2210,Jefferson,R. Jefferson,-19,25,3,Missed,1,0.0,0.0,0,v,MISS Jefferson 3' Layup,Missed Shot,Layup Shot,0,461
+21200718,587,PT01M53.00S,4,1610612745,HOU,202962,Smith,G. Smith,0,0,0,,0,0.0,0.0,0,h,Smith BLOCK (1 BLK),,,0,462
+21200718,588,PT01M51.00S,4,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0.0,0.0,0,h,Morris REBOUND (Off:1 Def:3),Rebound,Unknown,0,463
+21200718,589,PT01M49.00S,4,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,0.0,0.0,0,v,Bazemore S.FOUL (P4.PN),Foul,Shooting,0,464
+21200718,591,PT01M49.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,133.0,105.0,238,h,Beverley Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,465
+21200718,593,PT01M49.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,134.0,105.0,239,h,Beverley Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,466
+21200718,596,PT01M36.00S,4,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0.0,0.0,0,h,Motiejunas S.FOUL (P2.PN),Foul,Shooting,0,467
+21200718,597,PT01M36.00S,4,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,0.0,0.0,0,v,MISS Bazemore Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,468
+21200718,598,PT01M36.00S,4,0,,1610612744,,,0,0,0,,0,0.0,0.0,0,v,Warriors Rebound,Rebound,Normal Rebound,0,469
+21200718,599,PT01M36.00S,4,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,0.0,0.0,0,v,MISS Bazemore Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,470
+21200718,601,PT01M35.00S,4,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,0.0,0.0,0,v,Bazemore REBOUND (Off:1 Def:0),Rebound,Unknown,0,471
+21200718,602,PT01M34.00S,4,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0.0,0.0,0,h,Motiejunas P.FOUL (P3.PN),Foul,Personal,0,472
+21200718,603,PT01M34.00S,4,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,0.0,0.0,0,v,MISS Bazemore Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,473
+21200718,607,PT01M34.00S,4,0,,1610612744,,,0,0,0,,0,0.0,0.0,0,v,Warriors Rebound,Rebound,Unknown,0,474
+21200718,606,PT01M34.00S,4,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,0.0,0.0,0,v,MISS Bazemore Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,475
+21200718,609,PT01M32.00S,4,1610612744,GSW,203105,Ezeli,F. Ezeli,0,0,0,,0,0.0,0.0,0,v,Ezeli REBOUND (Off:3 Def:0),Rebound,Unknown,0,476
+21200718,610,PT01M15.00S,4,1610612744,GSW,202724,Jenkins,C. Jenkins,-201,23,20,Missed,1,0.0,0.0,0,v,MISS Jenkins 20' Jump Shot,Missed Shot,Jump Shot,0,477
+21200718,611,PT01M14.00S,4,1610612745,HOU,202341,Anderson,J. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson REBOUND (Off:2 Def:6),Rebound,Unknown,0,478
+21200718,612,PT01M04.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,4,-3,1,Made,1,136.0,105.0,241,h,Beverley 1' Driving Dunk (7 PTS),Made Shot,Driving Dunk Shot,0,479
+21200718,613,PT01M04.00S,4,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0.0,0.0,0,h,Beverley Taunting (P0.PN),Foul,Taunting Technical,0,480
+21200718,614,PT01M04.00S,4,1610612744,GSW,202724,Jenkins,C. Jenkins,0,0,0,,0,136.0,106.0,242,v,Jenkins Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,481
+21200718,617,PT00M50.90S,4,1610612744,GSW,203105,Ezeli,F. Ezeli,67,6,7,Missed,1,0.0,0.0,0,v,MISS Ezeli 7' Jump Shot,Missed Shot,Jump Shot,0,482
+21200718,619,PT00M48.90S,4,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0.0,0.0,0,h,Motiejunas REBOUND (Off:0 Def:1),Rebound,Unknown,0,483
+21200718,620,PT00M35.10S,4,1610612745,HOU,202962,Smith,G. Smith,4,17,2,Missed,1,0.0,0.0,0,h,MISS Smith 2' Layup,Missed Shot,Layup Shot,0,484
+21200718,620,PT00M35.10S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0.0,0.0,0,v,Green BLOCK (2 BLK),,,0,485
+21200718,621,PT00M35.10S,4,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Rebound,Rebound,Unknown,0,486
+21200718,622,PT00M34.10S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0.0,0.0,0,v,Green FLAGRANT.FOUL.TYPE2 (P4.PN),Foul,Flagrant Type 2,0,487
+21200718,623,PT00M34.10S,4,0,,622,,,0,0,0,,0,0.0,0.0,0,,Support Ruling,Instant Replay,Support Ruling,0,488
+21200718,624,PT00M34.10S,4,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0.0,0.0,0,h,Morris T.FOUL (P2.PN),Foul,Technical,0,489
+21200718,625,PT00M34.10S,4,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0.0,0.0,0,h,Morris Ejection:Other,Ejection,Other,0,490
+21200718,626,PT00M34.10S,4,1610612745,HOU,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,0.0,0.0,0,h,SUB: Douglas FOR Morris,Substitution,,0,491
+21200718,627,PT00M34.10S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0.0,0.0,0,v,Green Ejection:First Flagrant Type 2,Ejection,First Flagrant Type 2,0,492
+21200718,628,PT00M34.10S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,0.0,0.0,0,v,SUB: Barnes FOR Green,Substitution,,0,493
+21200718,631,PT00M34.10S,4,1610612744,GSW,2210,Jefferson,R. Jefferson,0,0,0,,0,136.0,107.0,243,v,Jefferson Free Throw Technical (10 PTS),Free Throw,Free Throw Technical,0,494
+21200718,633,PT00M34.10S,4,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,137.0,107.0,244,h,Beverley Free Throw Flagrant 1 of 2 (8 PTS),Free Throw,Free Throw Flagrant 1 of 2,0,495
+21200718,635,PT00M34.10S,4,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,138.0,107.0,245,h,Beverley Free Throw Flagrant 2 of 2 (9 PTS),Free Throw,Free Throw Flagrant 2 of 2,0,496
+21200718,638,PT00M33.20S,4,1610612744,GSW,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,v,Jefferson Personal Take Foul (P1.PN),Foul,Personal Take,0,497
+21200718,639,PT00M33.20S,4,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0.0,0.0,0,h,MISS Beverley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,498
+21200718,640,PT00M33.20S,4,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Rebound,Rebound,Normal Rebound,0,499
+21200718,641,PT00M33.20S,4,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,139.0,107.0,246,h,Beverley Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,500
+21200718,644,PT00M15.70S,4,1610612745,HOU,202700,Motiejunas,D. Motiejunas,0,0,0,,0,0.0,0.0,0,h,Motiejunas P.FOUL (P4.PN),Foul,Personal,0,501
+21200718,647,PT00M15.70S,4,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,139.0,108.0,247,v,Bazemore Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,502
+21200718,650,PT00M15.70S,4,1610612744,GSW,203145,Bazemore,K. Bazemore,0,0,0,,0,139.0,109.0,248,v,Bazemore Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,503
+21200718,653,PT00M14.20S,4,1610612744,GSW,202724,Jenkins,C. Jenkins,0,0,0,,0,0.0,0.0,0,v,Jenkins Personal Take Foul (P1.PN),Foul,Personal Take,0,504
+21200718,655,PT00M14.20S,4,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,0.0,0.0,0,h,MISS Beverley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,505
+21200718,657,PT00M14.20S,4,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Rebound,Rebound,Normal Rebound,0,506
+21200718,658,PT00M14.20S,4,1610612745,HOU,201976,Beverley,P. Beverley,0,0,0,,0,140.0,109.0,249,h,Beverley Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,507
+21200718,661,PT00M00.00S,4,0,,0,,,0,0,0,,0,140.0,109.0,249,,End of 4th Period (10:26 PM EST),period,end,0,508

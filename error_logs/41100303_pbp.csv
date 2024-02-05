@@ -1,0 +1,460 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+41100303,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (8:40 PM EST),period,start,0,1
+41100303,1,PT12M00.00S,1,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0.0,0.0,0,h,Jump Ball Garnett vs. Turiaf: Tip to Rondo,Jump Ball,,0,2
+41100303,2,PT11M43.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,182,97,21,Missed,1,0.0,0.0,0,h,MISS Pierce 21' Jump Shot,Missed Shot,Jump Shot,0,3
+41100303,3,PT11M42.00S,1,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James REBOUND (Off:0 Def:1),Rebound,Unknown,0,4
+41100303,4,PT11M32.00S,1,1610612748,MIA,201596,Chalmers,M. Chalmers,-13,6,1,Missed,1,0.0,0.0,0,v,MISS Chalmers 1' Running Layup,Missed Shot,Running Layup Shot,0,5
+41100303,5,PT11M31.00S,1,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0.0,0.0,0,h,Bass REBOUND (Off:0 Def:1),Rebound,Unknown,0,6
+41100303,6,PT11M28.00S,1,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James S.FOUL (P1.T1),Foul,Shooting,0,7
+41100303,7,PT11M28.00S,1,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,1.0,0.0,1,h,Rondo Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,8
+41100303,9,PT11M28.00S,1,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,2.0,0.0,2,h,Rondo Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,9
+41100303,11,PT11M06.00S,1,1610612748,MIA,101142,Turiaf,R. Turiaf,13,15,2,Made,1,2.0,2.0,4,v,Turiaf 2' Dunk (2 PTS) (James 1 AST),Made Shot,Dunk Shot,0,10
+41100303,12,PT10M50.00S,1,1610612738,BOS,708,Garnett,K. Garnett,-13,3,1,Made,1,4.0,2.0,6,h,Garnett 1' Layup (2 PTS) (Rondo 1 AST),Made Shot,Layup Shot,0,11
+41100303,13,PT10M44.00S,1,1610612748,MIA,201596,Chalmers,M. Chalmers,6,11,1,Made,1,4.0,4.0,8,v,Chalmers 1' Driving Dunk (2 PTS),Made Shot,Driving Dunk Shot,0,12
+41100303,14,PT10M26.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,65,126,14,Missed,1,0.0,0.0,0,h,MISS Pierce 14' Jump Shot,Missed Shot,Jump Shot,0,13
+41100303,15,PT10M26.00S,1,1610612748,MIA,101142,Turiaf,R. Turiaf,0,0,0,,0,0.0,0.0,0,v,Turiaf REBOUND (Off:0 Def:1),Rebound,Unknown,0,14
+41100303,16,PT10M14.00S,1,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0.0,0.0,0,h,CELTICS T.Foul (Def. 3 Sec Garnett ),Foul,Defense 3 Second,0,15
+41100303,17,PT10M14.00S,1,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0.0,0.0,0,v,MISS Chalmers Free Throw Technical,Free Throw,Free Throw Technical,0,16
+41100303,18,PT10M14.00S,1,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Rebound,Rebound,Normal Rebound,0,17
+41100303,20,PT10M03.00S,1,1610612748,MIA,201596,Chalmers,M. Chalmers,12,14,2,Missed,1,0.0,0.0,0,v,MISS Chalmers 2' Layup,Missed Shot,Layup Shot,0,18
+41100303,20,PT10M03.00S,1,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0.0,0.0,0,h,Garnett BLOCK (1 BLK),,,0,19
+41100303,21,PT10M02.00S,1,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0.0,0.0,0,h,Bass REBOUND (Off:0 Def:2),Rebound,Unknown,0,20
+41100303,22,PT09M54.00S,1,1610612738,BOS,200765,Rondo,R. Rondo,12,14,2,Missed,1,0.0,0.0,0,h,MISS Rondo 2' Layup,Missed Shot,Layup Shot,0,21
+41100303,23,PT09M53.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,22
+41100303,24,PT09M49.00S,1,1610612748,MIA,2544,James,L. James,20,11,2,Missed,1,0.0,0.0,0,v,MISS James 2' Layup,Missed Shot,Layup Shot,0,23
+41100303,24,PT09M49.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,h,Pierce BLOCK (1 BLK),,,0,24
+41100303,25,PT09M49.00S,1,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Rebound,Rebound,Unknown,0,25
+41100303,26,PT09M44.00S,1,1610612748,MIA,101142,Turiaf,R. Turiaf,0,0,0,,0,0.0,0.0,0,v,Turiaf OFF.Foul (P1),Foul,Offensive,0,26
+41100303,27,PT09M44.00S,1,1610612748,MIA,101142,Turiaf,R. Turiaf,0,0,0,,0,0.0,0.0,0,v,Turiaf Foul Turnover (P1.T1),Turnover,Foul,0,27
+41100303,29,PT09M22.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,0,-2,0,Made,1,6.0,4.0,10,h,Pierce  Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,0,28
+41100303,30,PT09M17.00S,1,1610612748,MIA,2544,James,L. James,21,4,2,Made,1,6.0,6.0,12,v,James 2' Layup (2 PTS) (Chalmers 1 AST),Made Shot,Layup Shot,0,29
+41100303,31,PT09M17.00S,1,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0.0,0.0,0,h,Bass S.FOUL (P1.T1),Foul,Shooting,0,30
+41100303,32,PT09M17.00S,1,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,MISS James Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,31
+41100303,34,PT09M16.00S,1,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0.0,0.0,0,h,Bass REBOUND (Off:0 Def:3),Rebound,Unknown,0,32
+41100303,35,PT08M54.00S,1,1610612738,BOS,708,Garnett,K. Garnett,78,30,8,Made,1,8.0,6.0,14,h,Garnett 8' Turnaround Fadeaway (4 PTS),Made Shot,Turnaround Fadeaway shot,0,33
+41100303,36,PT08M42.00S,1,1610612738,BOS,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,h,Allen S.FOUL (P1.T2),Foul,Shooting,0,34
+41100303,37,PT08M42.00S,1,1610612748,MIA,101142,Turiaf,R. Turiaf,0,0,0,,0,0.0,0.0,0,v,MISS Turiaf Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,35
+41100303,38,PT08M42.00S,1,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Rebound,Rebound,Normal Rebound,0,36
+41100303,39,PT08M42.00S,1,1610612748,MIA,101142,Turiaf,R. Turiaf,0,0,0,,0,8.0,7.0,15,v,Turiaf Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,37
+41100303,41,PT08M28.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,0,138,14,Made,1,10.0,7.0,17,h,Pierce 14' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,0,38
+41100303,42,PT08M11.00S,1,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0.0,0.0,0,h,Bass P.FOUL (P2.T3),Foul,Personal,0,39
+41100303,43,PT07M59.00S,1,1610612748,MIA,201596,Chalmers,M. Chalmers,119,224,25,Made,1,10.0,10.0,20,v,Chalmers 25' 3PT Jump Shot (5 PTS) (James 2 AST),Made Shot,Jump Shot,0,40
+41100303,44,PT07M45.00S,1,1610612738,BOS,951,Allen,R. Allen,230,55,24,Made,1,13.0,10.0,23,h,Allen 24' 3PT Jump Shot (3 PTS) (Rondo 2 AST),Made Shot,Jump Shot,0,41
+41100303,45,PT07M26.00S,1,1610612748,MIA,2544,James,L. James,59,211,22,Made,1,13.0,12.0,25,v,James 22' Jump Shot (4 PTS) (Wade 1 AST),Made Shot,Jump Shot,0,42
+41100303,47,PT07M07.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,-153,198,25,Missed,1,0.0,0.0,0,h,MISS Pierce 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,43
+41100303,48,PT07M07.00S,1,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0.0,0.0,0,v,Chalmers REBOUND (Off:0 Def:1),Rebound,Unknown,0,44
+41100303,49,PT06M59.00S,1,1610612748,MIA,2544,James,L. James,77,206,22,Made,1,13.0,14.0,27,v,James 22' Jump Shot (6 PTS) (Chalmers 2 AST),Made Shot,Jump Shot,0,45
+41100303,50,PT06M48.00S,1,1610612748,MIA,101142,Turiaf,R. Turiaf,0,0,0,,0,0.0,0.0,0,v,Turiaf P.FOUL (P2.T2),Foul,Personal,0,46
+41100303,51,PT06M48.00S,1,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0.0,0.0,0,h,SUB: Pietrus FOR Bass,Substitution,,0,47
+41100303,52,PT06M48.00S,1,1610612748,MIA,101142,Turiaf,R. Turiaf,0,0,0,,0,0.0,0.0,0,v,SUB: Anthony FOR Turiaf,Substitution,,0,48
+41100303,53,PT06M36.00S,1,1610612738,BOS,708,Garnett,K. Garnett,0,15,2,Made,1,15.0,14.0,29,h,Garnett 2' Dunk (6 PTS) (Rondo 3 AST),Made Shot,Dunk Shot,0,49
+41100303,54,PT06M21.00S,1,1610612748,MIA,2544,James,L. James,118,250,28,Missed,1,0.0,0.0,0,v,MISS James 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,50
+41100303,55,PT06M20.00S,1,1610612738,BOS,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,h,Allen REBOUND (Off:0 Def:1),Rebound,Unknown,0,51
+41100303,56,PT06M15.00S,1,1610612738,BOS,200765,Rondo,R. Rondo,-19,11,2,Made,1,17.0,14.0,31,h,Rondo 2' Finger Roll Layup (4 PTS),Made Shot,Finger Roll Layup Shot,0,52
+41100303,57,PT06M09.00S,1,1610612748,MIA,2548,Wade,D. Wade,4,0,0,Made,1,17.0,16.0,33,v,Wade  Layup (2 PTS),Made Shot,Layup Shot,0,53
+41100303,58,PT05M53.00S,1,1610612738,BOS,200765,Rondo,R. Rondo,-8,6,1,Missed,1,0.0,0.0,0,h,MISS Rondo 1' Layup,Missed Shot,Layup Shot,0,54
+41100303,59,PT05M52.00S,1,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James REBOUND (Off:0 Def:2),Rebound,Unknown,0,55
+41100303,60,PT05M48.00S,1,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0.0,0.0,0,h,Garnett S.FOUL (P1.T4),Foul,Shooting,0,56
+41100303,61,PT05M48.00S,1,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,57
+41100303,63,PT05M48.00S,1,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0.0,0.0,0,h,SUB: Stiemsma FOR Garnett,Substitution,,0,58
+41100303,64,PT05M48.00S,1,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,MISS James Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,59
+41100303,65,PT05M48.00S,1,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Rebound,Rebound,Normal Rebound,0,60
+41100303,68,PT05M48.00S,1,1610612748,MIA,2544,James,L. James,0,0,0,,0,17.0,17.0,34,v,James Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,61
+41100303,70,PT05M35.00S,1,1610612748,MIA,201202,Anthony,J. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony S.FOUL (P1.T3),Foul,Shooting,0,62
+41100303,71,PT05M35.00S,1,1610612738,BOS,201880,Stiemsma,G. Stiemsma,0,0,0,,0,0.0,0.0,0,h,MISS Stiemsma Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,63
+41100303,72,PT05M35.00S,1,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,64
+41100303,73,PT05M35.00S,1,1610612738,BOS,201880,Stiemsma,G. Stiemsma,0,0,0,,0,18.0,17.0,35,h,Stiemsma Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,65
+41100303,75,PT05M19.00S,1,1610612748,MIA,2544,James,L. James,18,0,2,Made,1,18.0,19.0,37,v,James 2' Layup (9 PTS),Made Shot,Layup Shot,0,66
+41100303,76,PT05M05.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,54,108,12,Made,1,20.0,19.0,39,h,Pierce 12' Fadeaway Jumper (6 PTS),Made Shot,Fadeaway Jump Shot,0,67
+41100303,77,PT04M50.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,68
+41100303,78,PT04M26.00S,1,1610612738,BOS,200765,Rondo,R. Rondo,-32,244,25,Missed,1,0.0,0.0,0,h,MISS Rondo 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,69
+41100303,79,PT04M26.00S,1,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Rebound,Rebound,Unknown,0,70
+41100303,80,PT04M23.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,h,Pierce Violation:Kicked Ball,Violation,Kicked Ball,0,71
+41100303,81,PT04M23.00S,1,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,SUB: Miller FOR Wade,Substitution,,0,72
+41100303,82,PT04M10.00S,1,1610612748,MIA,2544,James,L. James,-2,1,0,Made,1,20.0,21.0,41,v,James  Layup (11 PTS) (Chalmers 3 AST),Made Shot,Layup Shot,0,73
+41100303,83,PT04M10.00S,1,1610612738,BOS,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,h,Allen S.FOUL (P2.PN),Foul,Shooting,0,74
+41100303,85,PT04M10.00S,1,1610612738,BOS,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,h,SUB: Dooling FOR Allen,Substitution,,0,75
+41100303,86,PT04M10.00S,1,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,MISS James Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,76
+41100303,88,PT04M09.00S,1,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Rebound,Rebound,Unknown,0,77
+41100303,89,PT04M09.00S,1,1610612738,BOS,201880,Stiemsma,G. Stiemsma,0,0,0,,0,0.0,0.0,0,h,Stiemsma L.B.FOUL (P1.PN),Foul,Loose Ball,0,78
+41100303,90,PT04M09.00S,1,1610612748,MIA,201202,Anthony,J. Anthony,0,0,0,,0,20.0,22.0,42,v,Anthony Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,79
+41100303,92,PT04M09.00S,1,1610612748,MIA,201202,Anthony,J. Anthony,0,0,0,,0,20.0,23.0,43,v,Anthony Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,80
+41100303,94,PT03M47.00S,1,1610612738,BOS,2039,Dooling,K. Dooling,0,0,0,,0,0.0,0.0,0,h,Dooling Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,81
+41100303,94,PT03M47.00S,1,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James STEAL (1 STL),,,0,82
+41100303,97,PT03M34.00S,1,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,0.0,0.0,0,v,Battier OFF.Foul (P1),Foul,Offensive,0,83
+41100303,98,PT03M34.00S,1,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,0.0,0.0,0,v,Battier Foul Turnover (P1.T3),Turnover,Foul,0,84
+41100303,99,PT03M23.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,-5,9,1,Made,1,22.0,23.0,45,h,Pierce 1' Running Layup (8 PTS),Made Shot,Running Layup Shot,0,85
+41100303,100,PT03M07.00S,1,1610612748,MIA,2544,James,L. James,135,216,25,Made,1,22.0,26.0,48,v,James 25' 3PT Jump Shot (14 PTS),Made Shot,Jump Shot,0,86
+41100303,101,PT02M46.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,165,42,17,Missed,1,0.0,0.0,0,h,MISS Pierce 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,87
+41100303,102,PT02M45.00S,1,1610612748,MIA,2034,Miller,M. Miller,0,0,0,,0,0.0,0.0,0,v,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,88
+41100303,103,PT02M38.00S,1,1610612748,MIA,2544,James,L. James,-101,124,16,Made,1,22.0,28.0,50,v,James 16' Jump Shot (16 PTS),Made Shot,Jump Shot,0,89
+41100303,104,PT02M15.00S,1,1610612738,BOS,2039,Dooling,K. Dooling,-224,71,0,Made,1,25.0,28.0,53,h,Dooling  3PT Jump Shot (3 PTS) (Rondo 4 AST),Made Shot,Jump Shot,0,90
+41100303,105,PT02M05.00S,1,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,91
+41100303,107,PT02M05.00S,1,1610612738,BOS,201880,Stiemsma,G. Stiemsma,0,0,0,,0,0.0,0.0,0,h,SUB: Garnett FOR Stiemsma,Substitution,,0,92
+41100303,108,PT02M05.00S,1,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0.0,0.0,0,v,SUB: Cole FOR Chalmers,Substitution,,0,93
+41100303,109,PT01M49.00S,1,1610612748,MIA,2544,James,L. James,-87,151,17,Missed,1,0.0,0.0,0,v,MISS James 17' Jump Shot,Missed Shot,Jump Shot,0,94
+41100303,110,PT01M49.00S,1,1610612738,BOS,2554,Pietrus,M. Pietrus,0,0,0,,0,0.0,0.0,0,h,Pietrus REBOUND (Off:0 Def:1),Rebound,Unknown,0,95
+41100303,111,PT01M45.00S,1,1610612748,MIA,2034,Miller,M. Miller,0,0,0,,0,0.0,0.0,0,v,Miller Violation:Kicked Ball,Violation,Kicked Ball,0,96
+41100303,112,PT01M36.00S,1,1610612748,MIA,202708,Cole,N. Cole,0,0,0,,0,0.0,0.0,0,v,Cole P.FOUL (P1.T4),Foul,Personal,0,97
+41100303,113,PT01M36.00S,1,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0.0,0.0,0,h,SUB: Daniels FOR Rondo,Substitution,,0,98
+41100303,114,PT01M30.00S,1,1610612738,BOS,2605,Daniels,M. Daniels,7,7,1,Made,1,27.0,28.0,55,h,Daniels 1' Layup (2 PTS) (Pierce 1 AST),Made Shot,Layup Shot,0,99
+41100303,115,PT01M04.00S,1,1610612748,MIA,2544,James,L. James,-108,175,21,Missed,1,0.0,0.0,0,v,MISS James 21' Jump Shot,Missed Shot,Jump Shot,0,100
+41100303,115,PT01M04.00S,1,1610612738,BOS,2039,Dooling,K. Dooling,0,0,0,,0,0.0,0.0,0,h,Dooling BLOCK (1 BLK),,,0,101
+41100303,116,PT01M03.00S,1,1610612738,BOS,2039,Dooling,K. Dooling,0,0,0,,0,0.0,0.0,0,h,Dooling REBOUND (Off:0 Def:1),Rebound,Unknown,0,102
+41100303,117,PT01M00.00S,1,1610612738,BOS,2039,Dooling,K. Dooling,-13,0,1,Made,1,29.0,28.0,57,h,Dooling 1' Layup (5 PTS),Made Shot,Layup Shot,0,103
+41100303,118,PT00M37.90S,1,1610612748,MIA,2544,James,L. James,-8,148,15,Missed,1,0.0,0.0,0,v,MISS James 15' Jump Shot,Missed Shot,Jump Shot,0,104
+41100303,119,PT00M37.80S,1,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0.0,0.0,0,h,Garnett REBOUND (Off:0 Def:1),Rebound,Unknown,0,105
+41100303,120,PT00M25.00S,1,1610612748,MIA,201202,Anthony,J. Anthony,0,0,0,,0,0.0,0.0,0,v,Anthony S.FOUL (P2.PN),Foul,Shooting,0,106
+41100303,121,PT00M25.00S,1,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0.0,0.0,0,h,MISS Garnett Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,107
+41100303,122,PT00M25.00S,1,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,108
+41100303,123,PT00M25.00S,1,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,0.0,0.0,0,v,SUB: Jones FOR Battier,Substitution,,0,109
+41100303,124,PT00M25.00S,1,1610612748,MIA,201202,Anthony,J. Anthony,0,0,0,,0,0.0,0.0,0,v,SUB: Haslem FOR Anthony,Substitution,,0,110
+41100303,125,PT00M25.00S,1,1610612748,MIA,202708,Cole,N. Cole,0,0,0,,0,0.0,0.0,0,v,SUB: Chalmers FOR Cole,Substitution,,0,111
+41100303,126,PT00M25.00S,1,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,30.0,28.0,58,h,Garnett Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,112
+41100303,128,PT00M03.90S,1,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Turnover: Backcourt (T#4),Turnover,Backcourt Turnover,0,113
+41100303,129,PT00M03.90S,1,1610612738,BOS,2554,Pietrus,M. Pietrus,0,0,0,,0,0.0,0.0,0,h,SUB: Rondo FOR Pietrus,Substitution,,0,114
+41100303,130,PT00M03.90S,1,1610612738,BOS,2605,Daniels,M. Daniels,0,0,0,,0,0.0,0.0,0,h,SUB: Allen FOR Daniels,Substitution,,0,115
+41100303,132,PT00M00.00S,1,1610612738,BOS,1718,Pierce,P. Pierce,-146,247,29,Missed,1,0.0,0.0,0,h,MISS Pierce 29' 3PT Jump Shot,Missed Shot,Jump Shot,0,116
+41100303,133,PT00M00.00S,1,1610612738,BOS,2039,Dooling,K. Dooling,0,0,0,,0,0.0,0.0,0,h,Dooling REBOUND (Off:1 Def:1),Rebound,Unknown,0,117
+41100303,134,PT00M00.00S,1,0,,0,,,0,0,0,,0,30.0,28.0,58,,End of 1st Period (9:12 PM EST),period,end,0,118
+41100303,136,PT12M00.00S,2,0,,0,,,0,0,0,,0,30.0,28.0,58,,Start of 2nd Period (9:16 PM EST),period,start,0,119
+41100303,138,PT11M36.00S,2,1610612748,MIA,2548,Wade,D. Wade,-182,30,18,Missed,1,0.0,0.0,0,v,MISS Wade 18' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,0,120
+41100303,139,PT11M34.00S,2,1610612738,BOS,2039,Dooling,K. Dooling,0,0,0,,0,0.0,0.0,0,h,Dooling REBOUND (Off:1 Def:2),Rebound,Unknown,0,121
+41100303,140,PT11M24.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,17,69,7,Missed,1,0.0,0.0,0,h,MISS Pierce 7' Jump Shot,Missed Shot,Jump Shot,0,122
+41100303,140,PT11M24.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade BLOCK (1 BLK),,,0,123
+41100303,141,PT11M22.00S,2,1610612748,MIA,2592,Jones,J. Jones,0,0,0,,0,0.0,0.0,0,v,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,124
+41100303,144,PT11M22.00S,2,1610612738,BOS,2039,Dooling,K. Dooling,0,0,0,,0,0.0,0.0,0,h,Dooling P.FOUL (P1.T1),Foul,Personal,0,125
+41100303,145,PT11M08.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,163,67,18,Missed,1,0.0,0.0,0,v,MISS Haslem 18' Jump Shot,Missed Shot,Jump Shot,0,126
+41100303,146,PT11M07.00S,2,1610612738,BOS,2605,Daniels,M. Daniels,0,0,0,,0,0.0,0.0,0,h,Daniels REBOUND (Off:0 Def:1),Rebound,Unknown,0,127
+41100303,147,PT11M01.00S,2,1610612738,BOS,2554,Pietrus,M. Pietrus,206,88,22,Missed,1,0.0,0.0,0,h,MISS Pietrus 22' Jump Shot,Missed Shot,Jump Shot,0,128
+41100303,148,PT11M00.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0.0,0.0,0,v,Haslem REBOUND (Off:0 Def:1),Rebound,Unknown,0,129
+41100303,149,PT10M49.00S,2,1610612748,MIA,201596,Chalmers,M. Chalmers,56,17,6,Missed,1,0.0,0.0,0,v,MISS Chalmers 6' Jump Shot,Missed Shot,Jump Shot,0,130
+41100303,150,PT10M48.00S,2,1610612738,BOS,2554,Pietrus,M. Pietrus,0,0,0,,0,0.0,0.0,0,h,Pietrus REBOUND (Off:0 Def:2),Rebound,Unknown,0,131
+41100303,151,PT10M35.00S,2,1610612738,BOS,2039,Dooling,K. Dooling,-175,187,26,Missed,1,0.0,0.0,0,h,MISS Dooling 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,132
+41100303,152,PT10M33.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0.0,0.0,0,v,Haslem REBOUND (Off:0 Def:2),Rebound,Unknown,0,133
+41100303,153,PT10M24.00S,2,1610612748,MIA,2034,Miller,M. Miller,97,246,26,Missed,1,0.0,0.0,0,v,MISS Miller 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,134
+41100303,154,PT10M24.00S,2,1610612738,BOS,2039,Dooling,K. Dooling,0,0,0,,0,0.0,0.0,0,h,Dooling REBOUND (Off:1 Def:3),Rebound,Unknown,0,135
+41100303,155,PT10M09.00S,2,1610612738,BOS,708,Garnett,K. Garnett,-5,11,1,Made,1,32.0,28.0,60,h,Garnett 1' Alley Oop Layup (9 PTS) (Daniels 1 AST),Made Shot,Alley Oop Layup shot,0,136
+41100303,156,PT09M52.00S,2,1610612748,MIA,2592,Jones,J. Jones,0,0,0,,0,0.0,0.0,0,v,Jones Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,137
+41100303,156,PT09M52.00S,2,1610612738,BOS,2554,Pietrus,M. Pietrus,0,0,0,,0,0.0,0.0,0,h,Pietrus STEAL (1 STL),,,0,138
+41100303,157,PT09M34.00S,2,1610612738,BOS,2554,Pietrus,M. Pietrus,231,42,0,Missed,1,0.0,0.0,0,h,MISS Pietrus  3PT Jump Shot,Missed Shot,Jump Shot,0,139
+41100303,158,PT09M34.00S,2,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0.0,0.0,0,h,Garnett REBOUND (Off:1 Def:1),Rebound,Unknown,0,140
+41100303,159,PT09M32.00S,2,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0.0,0.0,0,h,Garnett Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,141
+41100303,160,PT09M32.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,h,SUB: Allen FOR Pierce,Substitution,,0,142
+41100303,161,PT09M10.00S,2,1610612748,MIA,2548,Wade,D. Wade,95,39,10,Missed,1,0.0,0.0,0,v,MISS Wade 10' Jump Shot,Missed Shot,Jump Shot,0,143
+41100303,162,PT09M09.00S,2,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,h,CELTICS Rebound,Rebound,Unknown,0,144
+41100303,163,PT09M09.00S,2,1610612738,BOS,2554,Pietrus,M. Pietrus,0,0,0,,0,0.0,0.0,0,h,SUB: Rondo FOR Pietrus,Substitution,,0,145
+41100303,164,PT08M58.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0.0,0.0,0,v,Haslem S.FOUL (P1.T1),Foul,Shooting,0,146
+41100303,165,PT08M58.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,147
+41100303,167,PT08M58.00S,2,1610612748,MIA,2034,Miller,M. Miller,0,0,0,,0,0.0,0.0,0,v,SUB: James FOR Miller,Substitution,,0,148
+41100303,168,PT08M58.00S,2,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,33.0,28.0,61,h,Garnett Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,149
+41100303,169,PT08M58.00S,2,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0.0,0.0,0,h,MISS Garnett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,150
+41100303,171,PT08M56.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0.0,0.0,0,v,Haslem REBOUND (Off:0 Def:3),Rebound,Unknown,0,151
+41100303,172,PT08M47.00S,2,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0.0,0.0,0,v,Chalmers Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,152
+41100303,173,PT08M31.00S,2,1610612738,BOS,200765,Rondo,R. Rondo,2,6,1,Made,1,35.0,28.0,63,h,Rondo 1' Driving Finger Roll Layup (6 PTS),Made Shot,Driving Finger Roll Layup Shot,0,153
+41100303,174,PT08M10.00S,2,1610612748,MIA,2548,Wade,D. Wade,64,211,22,Missed,1,0.0,0.0,0,v,MISS Wade 22' Jump Shot,Missed Shot,Jump Shot,0,154
+41100303,175,PT08M09.00S,2,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0.0,0.0,0,h,Rondo REBOUND (Off:0 Def:1),Rebound,Unknown,0,155
+41100303,176,PT08M01.00S,2,1610612738,BOS,708,Garnett,K. Garnett,1,17,2,Missed,1,0.0,0.0,0,h,MISS Garnett 2' Layup,Missed Shot,Layup Shot,0,156
+41100303,176,PT08M01.00S,2,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James BLOCK (1 BLK),,,0,157
+41100303,177,PT07M58.00S,2,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,h,CELTICS Rebound,Rebound,Unknown,0,158
+41100303,178,PT07M47.00S,2,1610612738,BOS,708,Garnett,K. Garnett,0,4,0,Made,1,37.0,28.0,65,h,Garnett  Layup (12 PTS) (Rondo 5 AST),Made Shot,Layup Shot,0,159
+41100303,179,PT07M44.00S,2,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,160
+41100303,181,PT07M44.00S,2,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0.0,0.0,0,h,SUB: Bass FOR Garnett,Substitution,,0,161
+41100303,182,PT07M28.00S,2,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0.0,0.0,0,h,Bass S.FOUL (P3.T2),Foul,Shooting,0,162
+41100303,183,PT07M28.00S,2,1610612748,MIA,2592,Jones,J. Jones,0,0,0,,0,37.0,29.0,66,v,Jones Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,163
+41100303,185,PT07M28.00S,2,1610612748,MIA,2592,Jones,J. Jones,0,0,0,,0,37.0,30.0,67,v,Jones Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,164
+41100303,187,PT07M06.00S,2,1610612738,BOS,951,Allen,R. Allen,6,11,1,Missed,1,0.0,0.0,0,h,MISS Allen 1' Layup,Missed Shot,Layup Shot,0,165
+41100303,188,PT07M05.00S,2,1610612738,BOS,2605,Daniels,M. Daniels,0,0,0,,0,0.0,0.0,0,h,Daniels REBOUND (Off:1 Def:1),Rebound,Unknown,0,166
+41100303,189,PT07M04.00S,2,1610612738,BOS,2605,Daniels,M. Daniels,7,-8,1,Made,1,39.0,30.0,69,h,Daniels 1' Layup (4 PTS),Made Shot,Layup Shot,0,167
+41100303,190,PT07M04.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade S.FOUL (P1.T2),Foul,Shooting,0,168
+41100303,191,PT07M04.00S,2,0,,189,Tyler,B. Tyler,0,0,0,,0,0.0,0.0,0,,Support Ruling,Instant Replay,Support Ruling,0,169
+41100303,212,PT07M04.00S,2,1610612748,MIA,2592,Jones,J. Jones,0,0,0,,0,0.0,0.0,0,v,SUB: Battier FOR Jones,Substitution,,0,170
+41100303,192,PT07M04.00S,2,1610612738,BOS,2605,Daniels,M. Daniels,0,0,0,,0,0.0,0.0,0,h,MISS Daniels Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,171
+41100303,194,PT07M03.00S,2,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James REBOUND (Off:0 Def:3),Rebound,Unknown,0,172
+41100303,196,PT06M45.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade Offensive Goaltending Turnover (P2.T7),Turnover,Offensive Goaltending,0,173
+41100303,197,PT06M32.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade P.FOUL (P2.T3),Foul,Personal,0,174
+41100303,200,PT06M17.00S,2,1610612738,BOS,200765,Rondo,R. Rondo,177,30,18,Missed,1,0.0,0.0,0,h,MISS Rondo 18' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,175
+41100303,201,PT06M16.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0.0,0.0,0,v,Haslem REBOUND (Off:0 Def:4),Rebound,Unknown,0,176
+41100303,203,PT06M08.00S,2,1610612738,BOS,2605,Daniels,M. Daniels,0,0,0,,0,0.0,0.0,0,h,Daniels P.FOUL (P1.T3),Foul,Personal,0,177
+41100303,204,PT06M08.00S,2,1610612738,BOS,2605,Daniels,M. Daniels,0,0,0,,0,0.0,0.0,0,h,SUB: Pierce FOR Daniels,Substitution,,0,178
+41100303,206,PT05M57.00S,2,1610612748,MIA,2544,James,L. James,75,42,9,Made,1,39.0,32.0,71,v,James 9' Turnaround Bank Shot (18 PTS),Made Shot,Turnaround Bank shot,0,179
+41100303,208,PT05M39.00S,2,1610612738,BOS,2039,Dooling,K. Dooling,-11,11,2,Made,1,41.0,32.0,73,h,Dooling 2' Driving Reverse Layup (7 PTS) (Bass 1 AST),Made Shot,Driving Reverse Layup Shot,0,180
+41100303,209,PT05M33.00S,2,1610612748,MIA,2548,Wade,D. Wade,-4,14,1,Made,1,41.0,34.0,75,v,Wade 1' Driving Dunk (4 PTS) (Chalmers 4 AST),Made Shot,Driving Dunk Shot,0,181
+41100303,210,PT05M16.00S,2,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,182
+41100303,214,PT05M16.00S,2,1610612738,BOS,2039,Dooling,K. Dooling,0,0,0,,0,0.0,0.0,0,h,SUB: Garnett FOR Dooling,Substitution,,0,183
+41100303,215,PT05M16.00S,2,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0.0,0.0,0,v,SUB: Miller FOR Chalmers,Substitution,,0,184
+41100303,216,PT05M16.00S,2,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0.0,0.0,0,v,SUB: Anthony FOR Haslem,Substitution,,0,185
+41100303,217,PT05M06.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,18,91,9,Missed,1,0.0,0.0,0,h,MISS Pierce 9' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,0,186
+41100303,218,PT05M05.00S,2,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James REBOUND (Off:0 Def:4),Rebound,Unknown,0,187
+41100303,219,PT04M54.00S,2,1610612748,MIA,2034,Miller,M. Miller,230,31,0,Missed,1,0.0,0.0,0,v,MISS Miller  3PT Jump Shot,Missed Shot,Jump Shot,0,188
+41100303,220,PT04M53.00S,2,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade REBOUND (Off:1 Def:1),Rebound,Unknown,0,189
+41100303,221,PT04M51.00S,2,1610612748,MIA,2548,Wade,D. Wade,1,22,2,Missed,1,0.0,0.0,0,v,MISS Wade 2' Layup,Missed Shot,Layup Shot,0,190
+41100303,221,PT04M51.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,h,Pierce BLOCK (2 BLK),,,0,191
+41100303,222,PT04M48.00S,2,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0.0,0.0,0,h,Garnett REBOUND (Off:1 Def:2),Rebound,Unknown,0,192
+41100303,223,PT04M40.00S,2,1610612738,BOS,101138,Bass,B. Bass,12,4,1,Missed,1,0.0,0.0,0,h,MISS Bass 1' Layup,Missed Shot,Layup Shot,0,193
+41100303,223,PT04M40.00S,2,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James BLOCK (2 BLK),,,0,194
+41100303,224,PT04M38.00S,2,1610612748,MIA,2034,Miller,M. Miller,0,0,0,,0,0.0,0.0,0,v,Miller REBOUND (Off:0 Def:2),Rebound,Unknown,0,195
+41100303,225,PT04M37.00S,2,1610612738,BOS,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,h,Jump Ball Allen vs. Wade: Tip to,Jump Ball,,0,196
+41100303,226,PT04M19.00S,2,1610612748,MIA,2544,James,L. James,226,30,0,Missed,1,0.0,0.0,0,v,MISS James  3PT Jump Shot,Missed Shot,Jump Shot,0,197
+41100303,227,PT04M18.00S,2,1610612738,BOS,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,h,Allen REBOUND (Off:0 Def:2),Rebound,Unknown,0,198
+41100303,228,PT04M11.00S,2,1610612748,MIA,2034,Miller,M. Miller,0,0,0,,0,0.0,0.0,0,v,Miller S.FOUL (P1.T4),Foul,Shooting,0,199
+41100303,229,PT04M11.00S,2,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,42.0,34.0,76,h,Bass Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,200
+41100303,231,PT04M11.00S,2,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,43.0,34.0,77,h,Bass Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,201
+41100303,233,PT03M48.00S,2,1610612748,MIA,2544,James,L. James,162,58,17,Missed,1,0.0,0.0,0,v,MISS James 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,202
+41100303,234,PT03M46.00S,2,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0.0,0.0,0,h,Garnett REBOUND (Off:1 Def:3),Rebound,Unknown,0,203
+41100303,235,PT03M40.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,81,246,26,Made,1,46.0,34.0,80,h,Pierce 26' 3PT Jump Shot (11 PTS) (Rondo 6 AST),Made Shot,Jump Shot,0,204
+41100303,236,PT03M34.00S,2,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Timeout: Short (Reg.2 Short 1),Timeout,Short,0,205
+41100303,238,PT03M34.00S,2,1610612748,MIA,2034,Miller,M. Miller,0,0,0,,0,0.0,0.0,0,v,SUB: Chalmers FOR Miller,Substitution,,0,206
+41100303,239,PT03M23.00S,2,1610612748,MIA,2544,James,L. James,-5,0,1,Made,1,46.0,36.0,82,v,James 1' Layup (20 PTS) (Battier 1 AST),Made Shot,Layup Shot,0,207
+41100303,240,PT03M08.00S,2,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0.0,0.0,0,h,Garnett OFF.Foul (P2),Foul,Offensive,0,208
+41100303,241,PT03M08.00S,2,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0.0,0.0,0,h,Garnett Foul Turnover (P2.T3),Turnover,Foul,0,209
+41100303,242,PT02M56.00S,2,1610612748,MIA,2548,Wade,D. Wade,4,4,1,Made,1,46.0,38.0,84,v,Wade 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,210
+41100303,243,PT02M33.00S,2,1610612738,BOS,101138,Bass,B. Bass,7,1,1,Made,1,48.0,38.0,86,h,Bass 1' Layup (4 PTS),Made Shot,Layup Shot,0,211
+41100303,245,PT02M12.00S,2,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0.0,0.0,0,h,Garnett Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,212
+41100303,244,PT02M12.00S,2,1610612748,MIA,201202,Anthony,J. Anthony,-26,0,3,Made,1,48.0,40.0,88,v,Anthony 3' Layup (4 PTS) (Wade 2 AST),Made Shot,Layup Shot,0,213
+41100303,246,PT01M53.00S,2,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James P.FOUL (P2.PN),Foul,Personal,0,214
+41100303,247,PT01M53.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,49.0,40.0,89,h,Pierce Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,215
+41100303,249,PT01M53.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,50.0,40.0,90,h,Pierce Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,216
+41100303,251,PT01M30.00S,2,1610612748,MIA,2548,Wade,D. Wade,-10,83,8,Missed,1,0.0,0.0,0,v,MISS Wade 8' Jump Shot,Missed Shot,Jump Shot,0,217
+41100303,252,PT01M28.00S,2,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0.0,0.0,0,h,Rondo REBOUND (Off:0 Def:2),Rebound,Unknown,0,218
+41100303,253,PT01M23.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,-161,198,26,Missed,1,0.0,0.0,0,h,MISS Pierce 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,219
+41100303,254,PT01M22.00S,2,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0.0,0.0,0,h,Bass REBOUND (Off:1 Def:3),Rebound,Unknown,0,220
+41100303,255,PT01M22.00S,2,1610612738,BOS,101138,Bass,B. Bass,-16,1,2,Missed,1,0.0,0.0,0,h,MISS Bass 2' Tip Shot,Missed Shot,Tip Shot,0,221
+41100303,256,PT01M20.00S,2,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James REBOUND (Off:0 Def:5),Rebound,Unknown,0,222
+41100303,257,PT01M20.00S,2,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0.0,0.0,0,h,Rondo P.FOUL (P1.T4),Foul,Personal,0,223
+41100303,258,PT01M00.00S,2,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,h,Pierce S.FOUL (P1.PN),Foul,Shooting,0,224
+41100303,259,PT01M00.00S,2,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,50.0,41.0,91,v,Chalmers Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,225
+41100303,261,PT01M00.00S,2,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,50.0,42.0,92,v,Chalmers Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,226
+41100303,263,PT00M43.50S,2,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James S.FOUL (P3.PN),Foul,Shooting,0,227
+41100303,264,PT00M43.50S,2,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,51.0,42.0,93,h,Pierce Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,228
+41100303,266,PT00M43.50S,2,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,SUB: Haslem FOR James,Substitution,,0,229
+41100303,267,PT00M43.50S,2,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0.0,0.0,0,h,SUB: Hollins FOR Bass,Substitution,,0,230
+41100303,268,PT00M43.50S,2,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,52.0,42.0,94,h,Pierce Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,231
+41100303,270,PT00M35.90S,2,1610612748,MIA,2548,Wade,D. Wade,59,135,15,Missed,1,0.0,0.0,0,v,MISS Wade 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,232
+41100303,271,PT00M33.90S,2,1610612738,BOS,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,h,Allen REBOUND (Off:0 Def:3),Rebound,Unknown,0,233
+41100303,272,PT00M26.80S,2,1610612738,BOS,951,Allen,R. Allen,-235,39,24,Made,1,55.0,42.0,97,h,Allen 24' 3PT Jump Shot (6 PTS) (Rondo 7 AST),Made Shot,Jump Shot,0,234
+41100303,273,PT00M03.90S,2,1610612748,MIA,2203,Battier,S. Battier,-240,44,24,Missed,1,0.0,0.0,0,v,MISS Battier 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,235
+41100303,274,PT00M03.50S,2,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0.0,0.0,0,h,Garnett REBOUND (Off:1 Def:4),Rebound,Unknown,0,236
+41100303,275,PT00M00.00S,2,0,,0,,,0,0,0,,0,55.0,42.0,97,,End of 2nd Period (9:53 PM EST),period,end,0,237
+41100303,277,PT12M00.00S,3,0,,0,,,0,0,0,,0,55.0,42.0,97,,Start of 3rd Period (10:11 PM EST),period,start,0,238
+41100303,278,PT11M38.00S,3,1610612748,MIA,2544,James,L. James,-120,131,18,Missed,1,0.0,0.0,0,v,MISS James 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,239
+41100303,279,PT11M38.00S,3,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0.0,0.0,0,h,Garnett REBOUND (Off:1 Def:5),Rebound,Unknown,0,240
+41100303,280,PT11M21.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,111,233,26,Missed,1,0.0,0.0,0,h,MISS Pierce 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,241
+41100303,281,PT11M20.00S,3,1610612748,MIA,101142,Turiaf,R. Turiaf,0,0,0,,0,0.0,0.0,0,v,Turiaf REBOUND (Off:0 Def:2),Rebound,Unknown,0,242
+41100303,282,PT11M09.00S,3,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,243
+41100303,282,PT11M09.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,h,Pierce STEAL (1 STL),,,0,244
+41100303,283,PT11M01.00S,3,1610612738,BOS,708,Garnett,K. Garnett,4,6,1,Made,1,57.0,42.0,99,h,Garnett 1' Layup (14 PTS) (Rondo 8 AST),Made Shot,Layup Shot,0,245
+41100303,284,PT10M35.00S,3,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0.0,0.0,0,h,Bass P.FOUL (P4.T1),Foul,Personal,0,246
+41100303,285,PT10M24.00S,3,1610612748,MIA,2548,Wade,D. Wade,92,41,10,Made,1,57.0,44.0,101,v,Wade 10' Running Jump Shot (8 PTS) (Battier 2 AST),Made Shot,Running Jump Shot,0,247
+41100303,286,PT10M06.00S,3,1610612738,BOS,708,Garnett,K. Garnett,-87,58,10,Missed,1,0.0,0.0,0,h,MISS Garnett 10' Jump Bank Shot,Missed Shot,Jump Bank Shot,0,248
+41100303,287,PT10M04.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,h,Pierce REBOUND (Off:1 Def:0),Rebound,Unknown,0,249
+41100303,288,PT10M04.00S,3,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0.0,0.0,0,h,Bass Offensive Charge Foul (P5.T2),Foul,Offensive Charge,0,250
+41100303,289,PT10M04.00S,3,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0.0,0.0,0,h,Bass Foul Turnover (P1.T4),Turnover,Foul,0,251
+41100303,290,PT10M04.00S,3,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0.0,0.0,0,h,SUB: Daniels FOR Bass,Substitution,,0,252
+41100303,291,PT09M54.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,h,Pierce S.FOUL (P2.T3),Foul,Shooting,0,253
+41100303,292,PT09M54.00S,3,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0.0,0.0,0,v,MISS Chalmers Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,254
+41100303,293,PT09M54.00S,3,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Rebound,Rebound,Normal Rebound,0,255
+41100303,294,PT09M54.00S,3,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0.0,0.0,0,v,MISS Chalmers Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,256
+41100303,296,PT09M53.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,h,Pierce REBOUND (Off:1 Def:1),Rebound,Unknown,0,257
+41100303,297,PT09M35.00S,3,1610612738,BOS,708,Garnett,K. Garnett,-13,14,2,Made,1,59.0,44.0,103,h,Garnett 2' Alley Oop Dunk (16 PTS) (Pierce 2 AST),Made Shot,Alley Oop Dunk Shot,0,258
+41100303,298,PT09M16.00S,3,1610612738,BOS,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,h,Allen P.FOUL (P3.T4),Foul,Personal,0,259
+41100303,299,PT09M02.00S,3,1610612748,MIA,2203,Battier,S. Battier,226,33,0,Missed,1,0.0,0.0,0,v,MISS Battier  3PT Jump Shot,Missed Shot,Jump Shot,0,260
+41100303,300,PT09M02.00S,3,1610612748,MIA,101142,Turiaf,R. Turiaf,0,0,0,,0,0.0,0.0,0,v,Turiaf REBOUND (Off:1 Def:2),Rebound,Unknown,0,261
+41100303,301,PT08M58.00S,3,1610612748,MIA,201596,Chalmers,M. Chalmers,-210,131,25,Missed,1,0.0,0.0,0,v,MISS Chalmers 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,262
+41100303,302,PT08M57.00S,3,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0.0,0.0,0,h,Garnett REBOUND (Off:1 Def:6),Rebound,Unknown,0,263
+41100303,303,PT08M49.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,-24,140,14,Missed,1,0.0,0.0,0,h,MISS Pierce 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,264
+41100303,304,PT08M46.00S,3,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,0.0,0.0,0,v,Battier REBOUND (Off:0 Def:1),Rebound,Unknown,0,265
+41100303,305,PT08M26.00S,3,1610612748,MIA,2203,Battier,S. Battier,47,12,5,Missed,1,0.0,0.0,0,v,MISS Battier 5' Jump Shot,Missed Shot,Jump Shot,0,266
+41100303,306,PT08M25.00S,3,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0.0,0.0,0,h,Garnett REBOUND (Off:1 Def:7),Rebound,Unknown,0,267
+41100303,307,PT08M14.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,-8,3,1,Made,1,61.0,44.0,105,h,Pierce 1' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,0,268
+41100303,308,PT08M14.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade S.FOUL (P3.T1),Foul,Shooting,0,269
+41100303,309,PT08M14.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,62.0,44.0,106,h,Pierce Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,0,270
+41100303,311,PT08M14.00S,3,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,271
+41100303,313,PT08M14.00S,3,1610612748,MIA,101142,Turiaf,R. Turiaf,0,0,0,,0,0.0,0.0,0,v,SUB: Haslem FOR Turiaf,Substitution,,0,272
+41100303,314,PT08M00.00S,3,1610612748,MIA,2544,James,L. James,-89,72,11,Made,1,62.0,46.0,108,v,James 11' Turnaround Fadeaway (22 PTS),Made Shot,Turnaround Fadeaway shot,0,273
+41100303,315,PT07M42.00S,3,1610612738,BOS,708,Garnett,K. Garnett,-131,36,14,Made,1,64.0,46.0,110,h,Garnett 14' Turnaround Fadeaway (18 PTS),Made Shot,Turnaround Fadeaway shot,0,274
+41100303,316,PT07M24.00S,3,1610612748,MIA,2548,Wade,D. Wade,-73,157,17,Missed,1,0.0,0.0,0,v,MISS Wade 17' Jump Shot,Missed Shot,Jump Shot,0,275
+41100303,317,PT07M24.00S,3,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0.0,0.0,0,v,Haslem REBOUND (Off:1 Def:4),Rebound,Unknown,0,276
+41100303,318,PT07M17.00S,3,1610612748,MIA,201596,Chalmers,M. Chalmers,-10,12,2,Missed,1,0.0,0.0,0,v,MISS Chalmers 2' Layup,Missed Shot,Layup Shot,0,277
+41100303,319,PT07M16.00S,3,1610612738,BOS,2605,Daniels,M. Daniels,0,0,0,,0,0.0,0.0,0,h,Daniels REBOUND (Off:1 Def:2),Rebound,Unknown,0,278
+41100303,320,PT07M09.00S,3,1610612738,BOS,2605,Daniels,M. Daniels,6,4,1,Made,1,66.0,46.0,112,h,Daniels 1' Layup (6 PTS) (Rondo 9 AST),Made Shot,Layup Shot,0,279
+41100303,321,PT07M09.00S,3,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,0.0,0.0,0,v,Battier S.FOUL (P2.T2),Foul,Shooting,0,280
+41100303,322,PT07M09.00S,3,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0.0,0.0,0,h,SUB: Hollins FOR Garnett,Substitution,,0,281
+41100303,323,PT07M09.00S,3,1610612738,BOS,2605,Daniels,M. Daniels,0,0,0,,0,67.0,46.0,113,h,Daniels Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,282
+41100303,325,PT06M53.00S,3,1610612748,MIA,2617,Haslem,U. Haslem,-95,45,11,Made,1,67.0,48.0,115,v,Haslem 11' Jump Shot (2 PTS) (Battier 3 AST),Made Shot,Jump Shot,0,283
+41100303,326,PT06M36.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,-18,25,3,Missed,1,0.0,0.0,0,h,MISS Pierce 3' Jump Shot,Missed Shot,Jump Shot,0,284
+41100303,327,PT06M35.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,h,Pierce REBOUND (Off:2 Def:1),Rebound,Unknown,0,285
+41100303,328,PT06M34.00S,3,1610612738,BOS,951,Allen,R. Allen,231,61,24,Missed,1,0.0,0.0,0,h,MISS Allen 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,286
+41100303,329,PT06M33.00S,3,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,h,CELTICS Rebound,Rebound,Unknown,0,287
+41100303,330,PT06M33.00S,3,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0.0,0.0,0,v,Haslem L.B.FOUL (P2.T3),Foul,Loose Ball,0,288
+41100303,331,PT06M25.00S,3,1610612738,BOS,200765,Rondo,R. Rondo,141,55,15,Made,1,69.0,48.0,117,h,Rondo 15' Jump Shot (8 PTS),Made Shot,Jump Shot,0,289
+41100303,333,PT06M09.00S,3,1610612748,MIA,2544,James,L. James,-27,69,7,Made,1,69.0,50.0,119,v,James 7' Jump Shot (24 PTS),Made Shot,Jump Shot,0,290
+41100303,334,PT06M09.00S,3,1610612738,BOS,200797,Hollins,R. Hollins,0,0,0,,0,0.0,0.0,0,h,Hollins S.FOUL (P1.PN),Foul,Shooting,0,291
+41100303,335,PT06M09.00S,3,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,MISS James Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,292
+41100303,337,PT06M08.00S,3,1610612738,BOS,2605,Daniels,M. Daniels,0,0,0,,0,0.0,0.0,0,h,Daniels REBOUND (Off:1 Def:3),Rebound,Unknown,0,293
+41100303,338,PT05M54.00S,3,1610612738,BOS,2605,Daniels,M. Daniels,0,1,0,Made,1,71.0,50.0,121,h,Daniels  Layup (9 PTS) (Rondo 10 AST),Made Shot,Layup Shot,0,294
+41100303,339,PT05M40.00S,3,1610612748,MIA,2544,James,L. James,64,149,16,Made,1,71.0,52.0,123,v,James 16' Pullup Jump Shot (26 PTS),Made Shot,Pullup Jump shot,0,295
+41100303,340,PT05M13.00S,3,1610612738,BOS,951,Allen,R. Allen,4,41,4,Made,1,73.0,52.0,125,h,Allen 4' Running Hook Shot (8 PTS),Made Shot,Running Hook Shot,0,296
+41100303,341,PT04M54.00S,3,1610612748,MIA,2544,James,L. James,47,228,23,Made,1,73.0,54.0,127,v,James 23' Jump Shot (28 PTS) (Battier 4 AST),Made Shot,Jump Shot,0,297
+41100303,342,PT04M28.00S,3,1610612738,BOS,200765,Rondo,R. Rondo,89,126,15,Made,1,75.0,54.0,129,h,Rondo 15' Fadeaway Jumper (10 PTS),Made Shot,Fadeaway Jump Shot,0,298
+41100303,343,PT04M13.00S,3,1610612748,MIA,2548,Wade,D. Wade,-7,0,1,Made,1,75.0,56.0,131,v,Wade 1' Layup (10 PTS),Made Shot,Layup Shot,0,299
+41100303,344,PT03M46.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,121,93,15,Missed,1,0.0,0.0,0,h,MISS Pierce 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,300
+41100303,345,PT03M44.00S,3,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James REBOUND (Off:0 Def:6),Rebound,Unknown,0,301
+41100303,346,PT03M33.00S,3,1610612748,MIA,2203,Battier,S. Battier,-81,249,26,Missed,1,0.0,0.0,0,v,MISS Battier 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,302
+41100303,347,PT03M33.00S,3,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Rebound,Rebound,Unknown,0,303
+41100303,348,PT03M33.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,h,Pierce P.FOUL (P3.PN),Foul,Personal,0,304
+41100303,349,PT03M33.00S,3,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0.0,0.0,0,v,MISS Haslem Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,305
+41100303,350,PT03M33.00S,3,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Rebound,Rebound,Normal Rebound,0,306
+41100303,351,PT03M33.00S,3,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,0.0,0.0,0,v,SUB: Jones FOR Battier,Substitution,,0,307
+41100303,352,PT03M33.00S,3,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,75.0,57.0,132,v,Haslem Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,308
+41100303,354,PT03M18.00S,3,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,h,Pierce Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,309
+41100303,354,PT03M18.00S,3,1610612748,MIA,2592,Jones,J. Jones,0,0,0,,0,0.0,0.0,0,v,Jones STEAL (1 STL),,,0,310
+41100303,355,PT03M14.00S,3,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,311
+41100303,355,PT03M14.00S,3,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0.0,0.0,0,h,Rondo STEAL (1 STL),,,0,312
+41100303,356,PT03M13.00S,3,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0.0,0.0,0,v,Chalmers S.FOUL (P1.T4),Foul,Shooting,0,313
+41100303,357,PT03M13.00S,3,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,76.0,57.0,133,h,Rondo Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,314
+41100303,359,PT03M13.00S,3,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0.0,0.0,0,h,MISS Rondo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,315
+41100303,361,PT03M12.00S,3,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James REBOUND (Off:0 Def:7),Rebound,Unknown,0,316
+41100303,362,PT02M53.00S,3,1610612748,MIA,2592,Jones,J. Jones,230,39,0,Missed,1,0.0,0.0,0,v,MISS Jones  3PT Jump Shot,Missed Shot,Jump Shot,0,317
+41100303,363,PT02M53.00S,3,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0.0,0.0,0,v,Haslem REBOUND (Off:2 Def:4),Rebound,Unknown,0,318
+41100303,364,PT02M48.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,319
+41100303,364,PT02M48.00S,3,1610612738,BOS,2605,Daniels,M. Daniels,0,0,0,,0,0.0,0.0,0,h,Daniels STEAL (1 STL),,,0,320
+41100303,366,PT02M42.00S,3,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,321
+41100303,368,PT02M42.00S,3,1610612738,BOS,200797,Hollins,R. Hollins,0,0,0,,0,0.0,0.0,0,h,SUB: Garnett FOR Hollins,Substitution,,0,322
+41100303,369,PT02M35.00S,3,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0.0,0.0,0,h,Garnett Offensive Charge Foul (P3.PN),Foul,Offensive Charge,0,323
+41100303,370,PT02M35.00S,3,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0.0,0.0,0,h,Garnett Foul Turnover (P3.T6),Turnover,Foul,0,324
+41100303,371,PT02M35.00S,3,1610612738,BOS,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,h,SUB: Dooling FOR Allen,Substitution,,0,325
+41100303,372,PT02M16.00S,3,1610612748,MIA,2544,James,L. James,-7,116,12,Made,1,76.0,59.0,135,v,James 12' Jump Shot (30 PTS),Made Shot,Jump Shot,0,326
+41100303,373,PT02M00.00S,3,1610612738,BOS,200765,Rondo,R. Rondo,10,6,1,Made,1,78.0,59.0,137,h,Rondo 1' Finger Roll Layup (13 PTS),Made Shot,Finger Roll Layup Shot,0,327
+41100303,374,PT01M43.00S,3,1610612748,MIA,2548,Wade,D. Wade,-4,47,5,Made,1,78.0,61.0,139,v,Wade 5' Jump Shot (12 PTS) (James 3 AST),Made Shot,Jump Shot,0,328
+41100303,375,PT01M26.00S,3,1610612738,BOS,708,Garnett,K. Garnett,-18,14,2,Missed,1,0.0,0.0,0,h,MISS Garnett 2' Layup,Missed Shot,Layup Shot,0,329
+41100303,375,PT01M26.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade BLOCK (2 BLK),,,0,330
+41100303,376,PT01M26.00S,3,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,h,CELTICS Rebound,Rebound,Unknown,0,331
+41100303,377,PT01M26.00S,3,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0.0,0.0,0,h,Jump Ball Garnett vs. Wade: Tip to Rondo,Jump Ball,,0,332
+41100303,378,PT01M17.00S,3,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0.0,0.0,0,h,Rondo Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,333
+41100303,378,PT01M17.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade STEAL (1 STL),,,0,334
+41100303,379,PT01M14.00S,3,1610612748,MIA,2548,Wade,D. Wade,140,104,17,Missed,1,0.0,0.0,0,v,MISS Wade 17' Jump Shot,Missed Shot,Jump Shot,0,335
+41100303,380,PT01M13.00S,3,1610612738,BOS,2605,Daniels,M. Daniels,0,0,0,,0,0.0,0.0,0,h,Daniels REBOUND (Off:1 Def:4),Rebound,Unknown,0,336
+41100303,381,PT01M05.00S,3,1610612738,BOS,2605,Daniels,M. Daniels,-11,15,2,Missed,1,0.0,0.0,0,h,MISS Daniels 2' Layup,Missed Shot,Layup Shot,0,337
+41100303,381,PT01M05.00S,3,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0.0,0.0,0,v,Haslem BLOCK (1 BLK),,,0,338
+41100303,382,PT01M05.00S,3,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,h,CELTICS Rebound,Rebound,Unknown,0,339
+41100303,383,PT01M05.00S,3,1610612738,BOS,2605,Daniels,M. Daniels,0,0,0,,0,0.0,0.0,0,h,SUB: Pietrus FOR Daniels,Substitution,,0,340
+41100303,384,PT01M05.00S,3,1610612748,MIA,2592,Jones,J. Jones,0,0,0,,0,0.0,0.0,0,v,Jones IN.FOUL (P1.PN),Foul,Inbound,0,341
+41100303,385,PT01M05.00S,3,0,,384,Cheaney,C. Cheaney,0,0,0,,0,0.0,0.0,0,,Support Ruling,Instant Replay,Support Ruling,0,342
+41100303,386,PT01M05.00S,3,1610612738,BOS,2554,Pietrus,M. Pietrus,0,0,0,,0,79.0,61.0,140,h,Pietrus Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,343
+41100303,388,PT01M05.00S,3,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,SUB: Miller FOR Wade,Substitution,,0,344
+41100303,389,PT01M05.00S,3,1610612738,BOS,2554,Pietrus,M. Pietrus,0,0,0,,0,80.0,61.0,141,h,Pietrus Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,345
+41100303,391,PT00M48.70S,3,1610612748,MIA,2034,Miller,M. Miller,-18,7,2,Made,1,80.0,63.0,143,v,Miller 2' Driving Layup (2 PTS) (James 4 AST),Made Shot,Driving Layup Shot,0,346
+41100303,392,PT00M34.70S,3,1610612748,MIA,2034,Miller,M. Miller,0,0,0,,0,0.0,0.0,0,v,Miller S.FOUL (P2.PN),Foul,Shooting,0,347
+41100303,393,PT00M34.70S,3,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,81.0,63.0,144,h,Garnett Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,348
+41100303,395,PT00M34.70S,3,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,82.0,63.0,145,h,Garnett Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,349
+41100303,398,PT00M24.90S,3,1610612748,MIA,2034,Miller,M. Miller,-209,71,22,Missed,1,0.0,0.0,0,v,MISS Miller 22' Jump Shot,Missed Shot,Jump Shot,0,350
+41100303,399,PT00M23.70S,3,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,h,Pierce REBOUND (Off:2 Def:2),Rebound,Unknown,0,351
+41100303,400,PT00M04.20S,3,1610612738,BOS,1718,Pierce,P. Pierce,-108,227,25,Made,1,85.0,63.0,148,h,Pierce 25' 3PT Jump Shot (21 PTS),Made Shot,Jump Shot,0,352
+41100303,401,PT00M00.00S,3,1610612748,MIA,201596,Chalmers,M. Chalmers,62,179,19,Missed,1,0.0,0.0,0,v,MISS Chalmers 19' Jump Shot,Missed Shot,Jump Shot,0,353
+41100303,402,PT00M00.00S,3,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Rebound,Rebound,Unknown,0,354
+41100303,403,PT00M00.00S,3,0,,0,,,0,0,0,,0,85.0,63.0,148,,End of 3rd Period (10:42 PM EST),period,end,0,355
+41100303,405,PT12M00.00S,4,0,,0,,,0,0,0,,0,85.0,63.0,148,,Start of 4th Period (10:46 PM EST),period,start,0,356
+41100303,406,PT11M45.00S,4,1610612738,BOS,708,Garnett,K. Garnett,2,7,1,Missed,1,0.0,0.0,0,h,MISS Garnett 1' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,0,357
+41100303,407,PT11M44.00S,4,1610612738,BOS,2554,Pietrus,M. Pietrus,0,0,0,,0,0.0,0.0,0,h,Pietrus REBOUND (Off:1 Def:2),Rebound,Unknown,0,358
+41100303,408,PT11M41.00S,4,1610612738,BOS,951,Allen,R. Allen,2,1,0,Made,1,87.0,63.0,150,h,Allen  Slam Dunk (10 PTS),Made Shot,Slam Dunk Shot,0,359
+41100303,409,PT11M29.00S,4,1610612738,BOS,2039,Dooling,K. Dooling,0,0,0,,0,0.0,0.0,0,h,Dooling P.FOUL (P2.T1),Foul,Personal,0,360
+41100303,410,PT11M19.00S,4,1610612748,MIA,2034,Miller,M. Miller,105,241,26,Made,1,87.0,66.0,153,v,Miller 26' 3PT Jump Shot (5 PTS) (Wade 3 AST),Made Shot,Jump Shot,0,361
+41100303,411,PT10M58.00S,4,1610612738,BOS,200765,Rondo,R. Rondo,0,7,1,Made,1,89.0,66.0,155,h,Rondo 1' Driving Finger Roll Layup (15 PTS),Made Shot,Driving Finger Roll Layup Shot,0,362
+41100303,412,PT10M36.00S,4,1610612748,MIA,2544,James,L. James,1,0,0,Made,1,89.0,68.0,157,v,James  Layup (32 PTS) (Chalmers 5 AST),Made Shot,Layup Shot,0,363
+41100303,413,PT10M15.00S,4,1610612738,BOS,951,Allen,R. Allen,149,203,25,Missed,1,0.0,0.0,0,h,MISS Allen 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,364
+41100303,414,PT10M15.00S,4,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0.0,0.0,0,h,Rondo REBOUND (Off:1 Def:2),Rebound,Unknown,0,365
+41100303,415,PT10M00.00S,4,1610612738,BOS,200765,Rondo,R. Rondo,73,168,18,Missed,1,0.0,0.0,0,h,MISS Rondo 18' Jump Shot,Missed Shot,Jump Shot,0,366
+41100303,416,PT10M00.00S,4,1610612748,MIA,2034,Miller,M. Miller,0,0,0,,0,0.0,0.0,0,v,Miller REBOUND (Off:0 Def:3),Rebound,Unknown,0,367
+41100303,417,PT09M47.00S,4,1610612748,MIA,2203,Battier,S. Battier,-232,56,24,Missed,1,0.0,0.0,0,v,MISS Battier 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,368
+41100303,418,PT09M46.00S,4,1610612738,BOS,2554,Pietrus,M. Pietrus,0,0,0,,0,0.0,0.0,0,h,Pietrus REBOUND (Off:1 Def:3),Rebound,Unknown,0,369
+41100303,419,PT09M34.00S,4,1610612738,BOS,708,Garnett,K. Garnett,4,14,1,Missed,1,0.0,0.0,0,h,MISS Garnett 1' Layup,Missed Shot,Layup Shot,0,370
+41100303,420,PT09M32.00S,4,1610612748,MIA,2034,Miller,M. Miller,0,0,0,,0,0.0,0.0,0,v,Miller REBOUND (Off:0 Def:4),Rebound,Unknown,0,371
+41100303,421,PT09M19.00S,4,1610612748,MIA,2548,Wade,D. Wade,-112,23,11,Made,1,89.0,70.0,159,v,Wade 11' Fadeaway Jumper (14 PTS),Made Shot,Fadeaway Jump Shot,0,372
+41100303,422,PT08M53.00S,4,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0.0,0.0,0,h,Rondo Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,373
+41100303,422,PT08M53.00S,4,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James STEAL (2 STL),,,0,374
+41100303,423,PT08M51.00S,4,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0.0,0.0,0,h,Rondo P.FOUL (P2.T2),Foul,Personal,0,375
+41100303,424,PT08M51.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,376
+41100303,426,PT08M51.00S,4,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0.0,0.0,0,h,SUB: Bass FOR Garnett,Substitution,,0,377
+41100303,427,PT08M51.00S,4,1610612738,BOS,2039,Dooling,K. Dooling,0,0,0,,0,0.0,0.0,0,h,SUB: Pierce FOR Dooling,Substitution,,0,378
+41100303,428,PT08M37.00S,4,1610612748,MIA,201596,Chalmers,M. Chalmers,-5,1,1,Made,1,89.0,72.0,161,v,Chalmers 1' Layup (9 PTS) (James 5 AST),Made Shot,Layup Shot,0,379
+41100303,429,PT08M17.00S,4,1610612738,BOS,200765,Rondo,R. Rondo,-4,11,1,Missed,1,0.0,0.0,0,h,MISS Rondo 1' Layup,Missed Shot,Layup Shot,0,380
+41100303,430,PT08M16.00S,4,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James REBOUND (Off:0 Def:8),Rebound,Unknown,0,381
+41100303,431,PT08M13.00S,4,1610612748,MIA,2544,James,L. James,2,3,0,Made,1,89.0,74.0,163,v,James  Driving Layup (34 PTS),Made Shot,Driving Layup Shot,0,382
+41100303,432,PT07M49.00S,4,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,h,Pierce Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,383
+41100303,432,PT07M49.00S,4,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0.0,0.0,0,v,Chalmers STEAL (1 STL),,,0,384
+41100303,433,PT07M43.00S,4,1610612748,MIA,2034,Miller,M. Miller,-196,156,25,Made,1,89.0,77.0,166,v,Miller 25' 3PT Jump Shot (8 PTS) (Chalmers 6 AST),Made Shot,Jump Shot,0,385
+41100303,434,PT07M22.00S,4,1610612738,BOS,200765,Rondo,R. Rondo,42,17,5,Made,1,91.0,77.0,168,h,Rondo 5' Running Bank Shot (17 PTS),Made Shot,Running Bank shot,0,386
+41100303,435,PT07M00.00S,4,1610612748,MIA,2034,Miller,M. Miller,89,244,26,Made,1,91.0,80.0,171,v,Miller 26' 3PT Jump Shot (11 PTS) (Wade 4 AST),Made Shot,Jump Shot,0,387
+41100303,436,PT06M35.00S,4,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,h,Pierce Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,388
+41100303,437,PT06M18.00S,4,1610612748,MIA,2034,Miller,M. Miller,53,246,25,Missed,1,0.0,0.0,0,v,MISS Miller 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,389
+41100303,438,PT06M18.00S,4,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0.0,0.0,0,h,Rondo REBOUND (Off:1 Def:3),Rebound,Unknown,0,390
+41100303,439,PT06M14.00S,4,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0.0,0.0,0,v,Chalmers P.FOUL (P2.T1),Foul,Personal,0,391
+41100303,440,PT06M14.00S,4,1610612738,BOS,101138,Bass,B. Bass,0,0,0,,0,0.0,0.0,0,h,SUB: Garnett FOR Bass,Substitution,,0,392
+41100303,441,PT06M06.00S,4,1610612738,BOS,951,Allen,R. Allen,-125,235,27,Missed,1,0.0,0.0,0,h,MISS Allen 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,393
+41100303,442,PT06M05.00S,4,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0.0,0.0,0,h,Garnett REBOUND (Off:2 Def:7),Rebound,Unknown,0,394
+41100303,445,PT06M04.00S,4,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0.0,0.0,0,v,Chalmers P.FOUL (P3.T2),Foul,Personal,0,395
+41100303,450,PT06M04.00S,4,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0.0,0.0,0,h,Garnett T.FOUL (P3.T2),Foul,Technical,0,396
+41100303,451,PT06M04.00S,4,1610612748,MIA,2034,Miller,M. Miller,0,0,0,,0,0.0,0.0,0,v,MISS Miller Free Throw Technical,Free Throw,Free Throw Technical,0,397
+41100303,453,PT05M47.00S,4,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0.0,0.0,0,h,Rondo REBOUND (Off:2 Def:3),Rebound,Unknown,0,398
+41100303,452,PT05M47.00S,4,1610612738,BOS,200765,Rondo,R. Rondo,-35,250,25,Missed,1,0.0,0.0,0,h,MISS Rondo 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,399
+41100303,454,PT05M47.00S,4,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,0.0,0.0,0,v,Battier REBOUND (Off:0 Def:2),Rebound,Unknown,0,400
+41100303,455,PT05M41.00S,4,1610612748,MIA,2548,Wade,D. Wade,-8,12,1,Made,1,91.0,82.0,173,v,Wade 1' Driving Dunk (16 PTS),Made Shot,Driving Dunk Shot,0,401
+41100303,456,PT05M29.00S,4,1610612738,BOS,708,Garnett,K. Garnett,-4,1,0,Made,1,93.0,82.0,175,h,Garnett  Dunk (22 PTS) (Pierce 3 AST),Made Shot,Dunk Shot,0,402
+41100303,457,PT05M17.00S,4,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,403
+41100303,459,PT05M08.00S,4,1610612748,MIA,2548,Wade,D. Wade,-73,41,8,Missed,1,0.0,0.0,0,v,MISS Wade 8' Jump Shot,Missed Shot,Jump Shot,0,404
+41100303,460,PT05M06.00S,4,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0.0,0.0,0,h,Garnett REBOUND (Off:2 Def:8),Rebound,Unknown,0,405
+41100303,462,PT04M59.00S,4,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0.0,0.0,0,h,Garnett OFF.Foul (P4),Foul,Offensive,0,406
+41100303,463,PT04M59.00S,4,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0.0,0.0,0,h,Garnett Foul Turnover (P4.T11),Turnover,Foul,0,407
+41100303,464,PT04M51.00S,4,1610612738,BOS,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,h,Allen P.FOUL (P4.T3),Foul,Personal,0,408
+41100303,465,PT04M34.00S,4,1610612748,MIA,2544,James,L. James,100,88,13,Missed,1,0.0,0.0,0,v,MISS James 13' Jump Shot,Missed Shot,Jump Shot,0,409
+41100303,466,PT04M33.00S,4,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0.0,0.0,0,h,Rondo REBOUND (Off:2 Def:4),Rebound,Unknown,0,410
+41100303,467,PT04M29.00S,4,1610612738,BOS,200765,Rondo,R. Rondo,29,26,4,Made,1,95.0,82.0,177,h,Rondo 4' Jump Shot (19 PTS),Made Shot,Jump Shot,0,411
+41100303,468,PT04M29.00S,4,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,0.0,0.0,0,v,Battier Shooting Block Foul (P3.T3),Foul,Shooting Block,0,412
+41100303,469,PT04M29.00S,4,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0.0,0.0,0,h,MISS Rondo Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,413
+41100303,471,PT04M28.00S,4,1610612748,MIA,2034,Miller,M. Miller,0,0,0,,0,0.0,0.0,0,v,Miller REBOUND (Off:0 Def:5),Rebound,Unknown,0,414
+41100303,472,PT04M02.00S,4,1610612748,MIA,2548,Wade,D. Wade,-155,31,16,Missed,1,0.0,0.0,0,v,MISS Wade 16' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,415
+41100303,473,PT04M00.00S,4,1610612748,MIA,2034,Miller,M. Miller,0,0,0,,0,0.0,0.0,0,v,Miller REBOUND (Off:1 Def:5),Rebound,Unknown,0,416
+41100303,474,PT03M56.00S,4,1610612748,MIA,201596,Chalmers,M. Chalmers,-16,7,2,Made,1,95.0,84.0,179,v,Chalmers 2' Reverse Layup (11 PTS),Made Shot,Reverse Layup Shot,0,417
+41100303,475,PT03M30.00S,4,1610612738,BOS,708,Garnett,K. Garnett,92,41,10,Missed,1,0.0,0.0,0,h,MISS Garnett 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,0,418
+41100303,476,PT03M26.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade REBOUND (Off:1 Def:2),Rebound,Unknown,0,419
+41100303,477,PT03M09.00S,4,1610612748,MIA,201596,Chalmers,M. Chalmers,-78,12,8,Made,1,95.0,86.0,181,v,Chalmers 8' Running Jump Shot (13 PTS),Made Shot,Running Jump Shot,0,420
+41100303,478,PT03M09.00S,4,1610612738,BOS,2554,Pietrus,M. Pietrus,0,0,0,,0,0.0,0.0,0,h,Pietrus S.FOUL (P1.T4),Foul,Shooting,0,421
+41100303,479,PT03M09.00S,4,1610612738,BOS,2554,Pietrus,M. Pietrus,0,0,0,,0,0.0,0.0,0,h,SUB: Dooling FOR Pietrus,Substitution,,0,422
+41100303,480,PT03M09.00S,4,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,95.0,87.0,182,v,Chalmers Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,423
+41100303,482,PT02M56.00S,4,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James P.FOUL (P4.T4),Foul,Personal,0,424
+41100303,485,PT02M56.00S,4,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,425
+41100303,486,PT02M44.00S,4,1610612738,BOS,1718,Pierce,P. Pierce,-157,44,16,Missed,1,0.0,0.0,0,h,MISS Pierce 16' Jump Shot,Missed Shot,Jump Shot,0,426
+41100303,487,PT02M43.00S,4,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0.0,0.0,0,h,Garnett REBOUND (Off:3 Def:8),Rebound,Unknown,0,427
+41100303,488,PT02M40.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade S.FOUL (P4.PN),Foul,Shooting,0,428
+41100303,489,PT02M40.00S,4,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,96.0,87.0,183,h,Pierce Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,0,429
+41100303,491,PT02M40.00S,4,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,97.0,87.0,184,h,Pierce Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,430
+41100303,493,PT02M25.00S,4,1610612748,MIA,2203,Battier,S. Battier,29,30,4,Missed,1,0.0,0.0,0,v,MISS Battier 4' Jump Shot,Missed Shot,Jump Shot,0,431
+41100303,494,PT02M24.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,Wade REBOUND (Off:2 Def:2),Rebound,Unknown,0,432
+41100303,495,PT02M24.00S,4,1610612748,MIA,2548,Wade,D. Wade,-4,0,0,Made,1,97.0,89.0,186,v,Wade  Putback Dunk (18 PTS),Made Shot,Putback Dunk Shot,0,433
+41100303,497,PT01M58.00S,4,1610612738,BOS,1718,Pierce,P. Pierce,-100,181,21,Missed,1,0.0,0.0,0,h,MISS Pierce 21' Jump Shot,Missed Shot,Jump Shot,0,434
+41100303,498,PT01M57.00S,4,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,0.0,0.0,0,v,Battier REBOUND (Off:0 Def:3),Rebound,Unknown,0,435
+41100303,499,PT01M45.00S,4,1610612748,MIA,2548,Wade,D. Wade,59,165,18,Missed,1,0.0,0.0,0,v,MISS Wade 18' Jump Shot,Missed Shot,Jump Shot,0,436
+41100303,500,PT01M44.00S,4,1610612738,BOS,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,h,Allen REBOUND (Off:0 Def:4),Rebound,Unknown,0,437
+41100303,501,PT01M39.00S,4,1610612738,BOS,200765,Rondo,R. Rondo,-8,1,1,Made,1,99.0,89.0,188,h,Rondo 1' Driving Finger Roll Layup (21 PTS),Made Shot,Driving Finger Roll Layup Shot,0,438
+41100303,502,PT01M39.00S,4,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Timeout: Regular (Reg.5 Short 1),Timeout,Regular,0,439
+41100303,504,PT01M39.00S,4,1610612748,MIA,2034,Miller,M. Miller,0,0,0,,0,0.0,0.0,0,v,SUB: Haslem FOR Miller,Substitution,,0,440
+41100303,505,PT01M32.00S,4,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,James Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,441
+41100303,506,PT01M21.00S,4,1610612738,BOS,2039,Dooling,K. Dooling,0,0,0,,0,0.0,0.0,0,h,Dooling Traveling Turnover (P2.T12),Turnover,Traveling,0,442
+41100303,507,PT01M21.00S,4,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,0.0,0.0,0,v,SUB: Jones FOR Haslem,Substitution,,0,443
+41100303,508,PT01M13.00S,4,1610612748,MIA,2544,James,L. James,-220,149,27,Missed,1,0.0,0.0,0,v,MISS James 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,444
+41100303,509,PT01M12.00S,4,1610612738,BOS,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,h,Allen REBOUND (Off:0 Def:5),Rebound,Unknown,0,445
+41100303,510,PT00M56.10S,4,1610612738,BOS,708,Garnett,K. Garnett,160,115,20,Made,1,101.0,89.0,190,h,Garnett 20' Jump Shot (24 PTS) (Pierce 4 AST),Made Shot,Jump Shot,0,446
+41100303,511,PT00M56.10S,4,0,,1610612748,,,0,0,0,,0,0.0,0.0,0,v,Heat Timeout: Short (Reg.5 Short 2),Timeout,Short,0,447
+41100303,513,PT00M56.10S,4,1610612748,MIA,2544,James,L. James,0,0,0,,0,0.0,0.0,0,v,SUB: Harris FOR James,Substitution,,0,448
+41100303,514,PT00M56.10S,4,1610612748,MIA,2203,Battier,S. Battier,0,0,0,,0,0.0,0.0,0,v,SUB: Cole FOR Battier,Substitution,,0,449
+41100303,515,PT00M56.10S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,0.0,0.0,0,v,SUB: Howard FOR Wade,Substitution,,0,450
+41100303,516,PT00M56.10S,4,1610612748,MIA,201596,Chalmers,M. Chalmers,0,0,0,,0,0.0,0.0,0,v,SUB: Pittman FOR Chalmers,Substitution,,0,451
+41100303,517,PT00M56.10S,4,1610612738,BOS,708,Garnett,K. Garnett,0,0,0,,0,0.0,0.0,0,h,SUB: Daniels FOR Garnett,Substitution,,0,452
+41100303,518,PT00M56.10S,4,1610612738,BOS,1718,Pierce,P. Pierce,0,0,0,,0,0.0,0.0,0,h,SUB: Pavlovic FOR Pierce,Substitution,,0,453
+41100303,519,PT00M56.10S,4,1610612738,BOS,200765,Rondo,R. Rondo,0,0,0,,0,0.0,0.0,0,h,SUB: Hollins FOR Rondo,Substitution,,0,454
+41100303,520,PT00M56.10S,4,1610612738,BOS,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,h,SUB: Moore FOR Allen,Substitution,,0,455
+41100303,521,PT00M45.60S,4,1610612748,MIA,2592,Jones,J. Jones,97,187,21,Made,1,101.0,91.0,192,v,Jones 21' Jump Shot (4 PTS) (Cole 1 AST),Made Shot,Jump Shot,0,456
+41100303,522,PT00M20.90S,4,1610612738,BOS,2605,Daniels,M. Daniels,204,156,26,Missed,1,0.0,0.0,0,h,MISS Daniels 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,457
+41100303,523,PT00M20.20S,4,1610612738,BOS,2562,Pavlovic,S. Pavlovic,0,0,0,,0,0.0,0.0,0,h,Pavlovic REBOUND (Off:1 Def:0),Rebound,Unknown,0,458
+41100303,525,PT00M00.00S,4,0,,0,,,0,0,0,,0,101.0,91.0,192,,End of 4th Period (11:21 PM EST),period,end,0,459

@@ -1,0 +1,514 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+42000306,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (8:35 PM EST),period,start,0,1
+42000306,4,PT12M00.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Jump Ball Capela vs. Lopez: Tip to Portis,Jump Ball,,1,2
+42000306,7,PT11M44.00S,1,1610612749,MIL,200782,Tucker,P. Tucker,237,-22,24,Missed,1,,,0,v,MISS Tucker 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3
+42000306,8,PT11M39.00S,1,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins REBOUND (Off:0 Def:1),Rebound,Unknown,1,4
+42000306,126,PT11M31.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,5
+42000306,126,PT11M31.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,v,Middleton STEAL (1 STL),,,1,6
+42000306,138,PT11M28.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,v,Middleton Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,7
+42000306,138,PT11M28.00S,1,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,Huerter STEAL (1 STL),,,1,8
+42000306,128,PT11M26.00S,1,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,Huerter Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,9
+42000306,128,PT11M26.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,v,Middleton STEAL (2 STL),,,1,10
+42000306,11,PT11M21.00S,1,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,h,Bogdanovic S.FOUL (P1.T1) (S.Wright),Foul,Shooting,1,11
+42000306,13,PT11M21.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,0.0,1.0,1,v,Portis Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,12
+42000306,14,PT11M21.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,0.0,2.0,2,v,Portis Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,13
+42000306,15,PT11M01.00S,1,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,14
+42000306,15,PT11M01.00S,1,1610612749,MIL,200782,Tucker,P. Tucker,0,0,0,,0,,,0,v,Tucker STEAL (1 STL),,,1,15
+42000306,17,PT10M57.00S,1,1610612749,MIL,201950,Holiday,J. Holiday,-138,202,24,Missed,1,,,0,v,MISS Holiday 24' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,16
+42000306,18,PT10M53.00S,1,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins REBOUND (Off:0 Def:2),Rebound,Unknown,1,17
+42000306,19,PT10M46.00S,1,1610612737,ATL,1629027,Young,T. Young,9,337,34,Missed,1,,,0,h,MISS Young 34' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,18
+42000306,20,PT10M45.00S,1,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,0,19
+42000306,21,PT10M45.00S,1,1610612749,MIL,200782,Tucker,P. Tucker,0,0,0,,0,,,0,v,Tucker L.B.FOUL (P1.T1) (S.Wright),Foul,Loose Ball,1,20
+42000306,23,PT10M34.00S,1,1610612737,ATL,203991,Capela,C. Capela,-6,10,1,Missed,1,,,0,h,MISS Capela 1' Layup,Missed Shot,Layup Shot,1,21
+42000306,24,PT10M34.00S,1,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Rebound,Rebound,Unknown,0,22
+42000306,26,PT10M21.00S,1,1610612749,MIL,201950,Holiday,J. Holiday,-7,16,2,Made,1,0.0,4.0,4,v,Holiday 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,23
+42000306,27,PT10M08.00S,1,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,235,95,25,Missed,1,,,0,h,MISS Bogdanovic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,24
+42000306,28,PT10M04.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:0 Def:1),Rebound,Unknown,1,25
+42000306,29,PT09M59.00S,1,1610612749,MIL,201950,Holiday,J. Holiday,-177,188,26,Made,1,0.0,7.0,7,v,Holiday 26' 3PT Running Jump Shot (5 PTS) (Middleton 1 AST),Made Shot,Running Jump Shot,1,26
+42000306,32,PT09M38.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez P.FOUL (P1.T2) (S.Wright),Foul,Personal,1,27
+42000306,34,PT09M31.00S,1,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,-54,119,13,Made,1,2.0,7.0,9,h,Bogdanovic 13' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,28
+42000306,35,PT09M20.00S,1,1610612749,MIL,1626171,Portis,B. Portis,-117,216,25,Missed,1,,,0,v,MISS Portis 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,29
+42000306,36,PT09M17.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:0 Def:1),Rebound,Unknown,1,30
+42000306,37,PT09M11.00S,1,1610612737,ATL,203991,Capela,C. Capela,-9,15,2,Missed,1,,,0,h,MISS Capela 2' Hook Shot,Missed Shot,Hook Shot,1,31
+42000306,38,PT09M06.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:1 Def:1),Rebound,Unknown,1,32
+42000306,39,PT09M06.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,Made,1,4.0,7.0,11,h,Capela Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,33
+42000306,40,PT08M50.00S,1,1610612749,MIL,200782,Tucker,P. Tucker,36,13,4,Made,1,4.0,9.0,13,v,Tucker 4' Floating Jump Shot (2 PTS) (Holiday 1 AST),Made Shot,Floating Jump shot,1,34
+42000306,42,PT08M41.00S,1,1610612737,ATL,1628989,Huerter,K. Huerter,225,126,26,Missed,1,,,0,h,MISS Huerter 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,35
+42000306,43,PT08M39.00S,1,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,36
+42000306,44,PT08M37.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young S.FOUL (P1.T2) (S.Wright),Foul,Shooting,1,37
+42000306,46,PT08M37.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,4.0,10.0,14,v,Portis Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,38
+42000306,47,PT08M37.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,4.0,11.0,15,v,Portis Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,39
+42000306,48,PT08M22.00S,1,1610612737,ATL,1628989,Huerter,K. Huerter,-119,222,25,Missed,1,,,0,h,MISS Huerter 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,40
+42000306,49,PT08M18.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:0 Def:2),Rebound,Unknown,1,41
+42000306,50,PT08M12.00S,1,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,Huerter S.FOUL (P1.T3) (E.Lewis),Foul,Shooting,1,42
+42000306,52,PT08M12.00S,1,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,MISS Holiday Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,43
+42000306,53,PT08M12.00S,1,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Rebound,Rebound,Normal Rebound,0,44
+42000306,54,PT08M12.00S,1,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,MISS Holiday Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,45
+42000306,55,PT08M10.00S,1,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,0,46
+42000306,57,PT08M00.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,47
+42000306,57,PT08M00.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,v,Middleton STEAL (3 STL),,,1,48
+42000306,59,PT07M55.00S,1,1610612749,MIL,200782,Tucker,P. Tucker,4,13,1,Missed,1,,,0,v,MISS Tucker 1' Running Layup,Missed Shot,Running Layup Shot,1,49
+42000306,60,PT07M55.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,v,Middleton REBOUND (Off:1 Def:0),Rebound,Unknown,1,50
+42000306,61,PT07M55.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,Made,1,4.0,13.0,17,v,Middleton Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,51
+42000306,62,PT07M55.00S,1,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,52
+42000306,65,PT07M40.00S,1,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,-8,10,1,Missed,1,,,0,h,MISS Bogdanovic 1' Driving Layup,Missed Shot,Driving Layup Shot,1,53
+42000306,65,PT07M40.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez BLOCK (1 BLK),,,1,54
+42000306,66,PT07M36.00S,1,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,1,55
+42000306,68,PT07M28.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,Made,1,4.0,15.0,19,v,Lopez Alley Oop Dunk (2 PTS) (Portis 1 AST),Made Shot,Alley Oop Dunk Shot,1,56
+42000306,70,PT07M18.00S,1,1610612737,ATL,1629027,Young,T. Young,100,245,26,Missed,1,,,0,h,MISS Young 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,57
+42000306,71,PT07M14.00S,1,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:3),Rebound,Unknown,1,58
+42000306,72,PT07M10.00S,1,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,59
+42000306,72,PT07M10.00S,1,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins STEAL (1 STL),,,1,60
+42000306,74,PT07M02.00S,1,1610612737,ATL,203991,Capela,C. Capela,7,6,1,Made,1,6.0,15.0,21,h,Capela 1' Alley Oop Dunk (4 PTS) (Young 1 AST),Made Shot,Alley Oop Dunk Shot,1,61
+42000306,76,PT06M45.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,-8,4,1,Missed,1,,,0,v,MISS Lopez 1' Driving Layup,Missed Shot,Driving Layup Shot,1,62
+42000306,76,PT06M45.00S,1,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins BLOCK (1 BLK),,,1,63
+42000306,83,PT06M45.00S,1,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,1,64
+42000306,78,PT06M45.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,SUB: Forbes FOR Portis,Substitution,,0,65
+42000306,80,PT06M45.00S,1,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Jump Ball Collins vs. Lopez: Tip to Capela,Jump Ball,,1,66
+42000306,84,PT06M28.00S,1,1610612737,ATL,1628381,Collins,J. Collins,95,103,14,Made,1,8.0,15.0,23,h,Collins 14' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,1,67
+42000306,85,PT06M16.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,29,84,9,Missed,1,,,0,v,MISS Middleton 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,68
+42000306,86,PT06M11.00S,1,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,Huerter REBOUND (Off:0 Def:1),Rebound,Unknown,1,69
+42000306,87,PT06M04.00S,1,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,2,5,1,Made,1,10.0,15.0,25,h,Bogdanovic 1' Driving Layup (4 PTS) (Huerter 1 AST),Made Shot,Driving Layup Shot,1,70
+42000306,88,PT05M42.00S,1,1610612749,MIL,201950,Holiday,J. Holiday,-7,6,1,Made,1,10.0,17.0,27,v,Holiday 1' Driving Layup (7 PTS) (Forbes 1 AST),Made Shot,Driving Layup Shot,1,71
+42000306,89,PT05M42.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young S.FOUL (P2.T4) (S.Wright),Foul,Shooting,1,72
+42000306,91,PT05M42.00S,1,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,SUB: Reddish FOR Huerter,Substitution,,0,73
+42000306,92,PT05M42.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,SUB: Portis FOR Lopez,Substitution,,0,74
+42000306,95,PT05M42.00S,1,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,10.0,18.0,28,v,Holiday Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,1,75
+42000306,96,PT05M29.00S,1,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,-103,234,26,Made,1,13.0,18.0,31,h,Bogdanovic 26' 3PT Jump Shot (7 PTS) (Young 2 AST),Made Shot,Jump Shot,1,76
+42000306,98,PT05M12.00S,1,1610612749,MIL,1627854,Forbes,B. Forbes,53,246,25,Missed,1,,,0,v,MISS Forbes 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,77
+42000306,99,PT05M07.00S,1,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins REBOUND (Off:0 Def:3),Rebound,Unknown,1,78
+42000306,100,PT04M56.00S,1,1610612737,ATL,1629027,Young,T. Young,14,29,3,Made,1,15.0,18.0,33,h,Young 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,79
+42000306,101,PT04M56.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis S.FOUL (P1.T3) (S.Wright),Foul,Shooting,1,80
+42000306,103,PT04M56.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,SUB: Gallinari FOR Capela,Substitution,,0,81
+42000306,105,PT04M56.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,16.0,18.0,34,h,Young Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,82
+42000306,106,PT04M42.00S,1,1610612749,MIL,201950,Holiday,J. Holiday,100,231,25,Missed,1,,,0,v,MISS Holiday 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,83
+42000306,107,PT04M38.00S,1,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,Gallinari REBOUND (Off:0 Def:1),Rebound,Unknown,1,84
+42000306,109,PT04M31.00S,1,1610612749,MIL,200782,Tucker,P. Tucker,0,0,0,,0,,,0,v,SUB: Antetokounmpo FOR Tucker,Substitution,,0,85
+42000306,111,PT04M19.00S,1,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,-3,14,1,Missed,1,,,0,h,MISS Bogdanovic 1' Driving Layup,Missed Shot,Driving Layup Shot,1,86
+42000306,112,PT04M19.00S,1,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,0,87
+42000306,113,PT04M19.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,v,Middleton L.B.FOUL (P1.T4) (Z.Zarba),Foul,Loose Ball,1,88
+42000306,115,PT04M09.00S,1,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,199,151,25,Missed,1,,,0,h,MISS Bogdanovic 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,89
+42000306,116,PT04M04.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:0 Def:3),Rebound,Unknown,1,90
+42000306,117,PT03M58.00S,1,1610612749,MIL,201950,Holiday,J. Holiday,-229,-19,0,Missed,1,,,0,v,MISS Holiday 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,91
+42000306,118,PT03M56.00S,1,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins REBOUND (Off:0 Def:4),Rebound,Unknown,1,92
+42000306,119,PT03M48.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young Bad Pass Turnover (P3.T5),Turnover,Bad Pass,1,93
+42000306,119,PT03M48.00S,1,1610612749,MIL,203648,Antetokounmpo,T. Antetokounmpo,0,0,0,,0,,,0,v,Antetokounmpo STEAL (1 STL),,,1,94
+42000306,121,PT03M44.00S,1,1610612749,MIL,1627854,Forbes,B. Forbes,196,158,25,Missed,1,,,0,v,MISS Forbes 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,95
+42000306,122,PT03M42.00S,1,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Rebound,Rebound,Unknown,0,96
+42000306,124,PT03M42.00S,1,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,97
+42000306,130,PT03M42.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,SUB: Okongwu FOR Young,Substitution,,0,98
+42000306,131,PT03M42.00S,1,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,SUB: Williams FOR Collins,Substitution,,0,99
+42000306,132,PT03M42.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,v,SUB: Lopez FOR Middleton,Substitution,,0,100
+42000306,133,PT03M42.00S,1,1610612749,MIL,203648,Antetokounmpo,T. Antetokounmpo,0,0,0,,0,,,0,v,SUB: Connaughton FOR Antetokounmpo,Substitution,,0,101
+42000306,140,PT03M29.00S,1,1610612749,MIL,201950,Holiday,J. Holiday,-9,6,1,Missed,1,,,0,v,MISS Holiday 1' Driving Layup,Missed Shot,Driving Layup Shot,1,102
+42000306,141,PT03M28.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:1 Def:0),Rebound,Unknown,1,103
+42000306,142,PT03M28.00S,1,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,Gallinari S.FOUL (P1.PN) (S.Wright),Foul,Shooting,1,104
+42000306,261,PT03M28.00S,1,0,,142,,,0,0,0,,0,16.0,18.0,34,,Instant Replay1st Period (8:59 PM EST),Instant Replay,Ruling Stands,0,105
+42000306,144,PT03M28.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,16.0,19.0,35,v,Lopez Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,106
+42000306,145,PT03M28.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,16.0,20.0,36,v,Lopez Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,107
+42000306,146,PT03M11.00S,1,1610612737,ATL,201568,Gallinari,D. Gallinari,153,142,21,Missed,1,,,0,h,MISS Gallinari 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,108
+42000306,147,PT03M09.00S,1,1610612749,MIL,1627854,Forbes,B. Forbes,0,0,0,,0,,,0,v,Forbes REBOUND (Off:0 Def:1),Rebound,Unknown,1,109
+42000306,148,PT02M57.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,136,147,20,Made,1,16.0,22.0,38,v,Lopez 20' Jump Shot (6 PTS) (Forbes 2 AST),Made Shot,Jump Shot,1,110
+42000306,150,PT02M42.00S,1,1610612737,ATL,1629629,Reddish,C. Reddish,0,0,0,,0,,,0,h,Reddish Step Out of Bounds Turnover (P1.T6),Turnover,Step Out of Bounds Turnover,1,111
+42000306,151,PT02M42.00S,1,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,h,SUB: Huerter FOR Bogdanovic,Substitution,,0,112
+42000306,153,PT02M32.00S,1,1610612749,MIL,201950,Holiday,J. Holiday,-16,11,2,Missed,1,,,0,v,MISS Holiday 2' Driving Layup,Missed Shot,Driving Layup Shot,1,113
+42000306,154,PT02M28.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:2 Def:0),Rebound,Unknown,1,114
+42000306,155,PT02M28.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,Made,1,16.0,24.0,40,v,Lopez Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,115
+42000306,156,PT02M21.00S,1,1610612737,ATL,101150,Williams,L. Williams,154,134,20,Missed,1,,,0,h,MISS Williams 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,116
+42000306,157,PT02M19.00S,1,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,v,Connaughton REBOUND (Off:0 Def:1),Rebound,Unknown,1,117
+42000306,158,PT02M13.00S,1,1610612749,MIL,1627854,Forbes,B. Forbes,-70,39,8,Made,1,16.0,26.0,42,v,Forbes 8' Driving Floating Jump Shot (2 PTS) (Holiday 2 AST),Made Shot,Driving Floating Jump Shot,1,118
+42000306,160,PT01M49.00S,1,1610612737,ATL,101150,Williams,L. Williams,63,268,28,Missed,1,,,0,h,MISS Williams 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,119
+42000306,161,PT01M44.00S,1,1610612749,MIL,1627854,Forbes,B. Forbes,0,0,0,,0,,,0,v,Forbes REBOUND (Off:0 Def:2),Rebound,Unknown,1,120
+42000306,162,PT01M36.00S,1,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,121
+42000306,162,PT01M36.00S,1,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,Huerter STEAL (2 STL),,,1,122
+42000306,165,PT01M29.00S,1,1610612749,MIL,1627854,Forbes,B. Forbes,0,0,0,,0,,,0,v,SUB: Tucker FOR Forbes,Substitution,,0,123
+42000306,166,PT01M29.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,SUB: Teague FOR Portis,Substitution,,0,124
+42000306,167,PT01M29.00S,1,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Middleton FOR Holiday,Substitution,,0,125
+42000306,171,PT01M18.00S,1,1610612737,ATL,201568,Gallinari,D. Gallinari,-25,257,26,Made,1,19.0,26.0,45,h,Gallinari 26' 3PT Jump Shot (3 PTS) (Huerter 2 AST),Made Shot,Jump Shot,1,126
+42000306,173,PT01M05.00S,1,1610612749,MIL,200782,Tucker,P. Tucker,-100,33,11,Missed,1,,,0,v,MISS Tucker 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,127
+42000306,174,PT01M01.00S,1,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,Huerter REBOUND (Off:0 Def:2),Rebound,Unknown,1,128
+42000306,175,PT00M58.30S,1,1610612737,ATL,1628989,Huerter,K. Huerter,70,130,15,Missed,1,,,0,h,MISS Huerter 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,129
+42000306,176,PT00M56.10S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,v,Middleton REBOUND (Off:1 Def:1),Rebound,Unknown,1,130
+42000306,177,PT00M47.90S,1,1610612749,MIL,203114,Middleton,K. Middleton,127,42,13,Made,1,19.0,28.0,47,v,Middleton 13' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,1,131
+42000306,178,PT00M35.90S,1,1610612737,ATL,201568,Gallinari,D. Gallinari,-102,240,26,Made,1,22.0,28.0,50,h,Gallinari 26' 3PT Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,1,132
+42000306,179,PT00M30.10S,1,1610612749,MIL,200782,Tucker,P. Tucker,-229,-8,0,Missed,1,,,0,v,MISS Tucker 3PT Jump Shot,Missed Shot,Jump Shot,1,133
+42000306,180,PT00M26.40S,1,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,Gallinari REBOUND (Off:0 Def:2),Rebound,Unknown,1,134
+42000306,181,PT00M09.50S,1,1610612737,ATL,201568,Gallinari,D. Gallinari,41,209,21,Missed,1,,,0,h,MISS Gallinari 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,135
+42000306,182,PT00M05.70S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:1 Def:0),Rebound,Unknown,1,136
+42000306,183,PT00M03.30S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,v,Middleton S.FOUL (P2.PN) (S.Wright),Foul,Shooting,1,137
+42000306,185,PT00M03.30S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,23.0,28.0,51,h,Okongwu Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,138
+42000306,186,PT00M03.30S,1,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,SUB: S. Hill FOR Gallinari,Substitution,,0,139
+42000306,187,PT00M03.30S,1,1610612749,MIL,200782,Tucker,P. Tucker,0,0,0,,0,,,0,v,SUB: Portis FOR Tucker,Substitution,,0,140
+42000306,190,PT00M03.30S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,24.0,28.0,52,h,Okongwu Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,141
+42000306,194,PT00M01.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,v,Middleton Lost Ball Turnover (P2.T4),Turnover,Lost Ball,0,142
+42000306,194,PT00M01.00S,1,1610612737,ATL,1629629,Reddish,C. Reddish,0,0,0,,0,,,0,h,Reddish STEAL (1 STL),,,0,143
+42000306,193,PT00M00.00S,1,0,,0,,,0,0,0,,0,24.0,28.0,52,,End of 1st Period (9:05 PM EST),period,end,1,144
+42000306,200,PT12M00.00S,2,0,,0,,,0,0,0,,0,24.0,28.0,52,,Start of 2nd Period (9:09 PM EST),period,start,0,145
+42000306,201,PT11M44.00S,2,1610612737,ATL,1628989,Huerter,K. Huerter,29,88,9,Missed,1,,,0,h,MISS Huerter 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,146
+42000306,202,PT11M40.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:2 Def:1),Rebound,Unknown,1,147
+42000306,203,PT11M23.00S,2,1610612749,MIL,1626192,Connaughton,P. Connaughton,-154,228,28,Missed,1,,,0,v,MISS Connaughton 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,148
+42000306,204,PT11M18.00S,2,1610612749,MIL,200782,Tucker,P. Tucker,0,0,0,,0,,,0,v,Tucker REBOUND (Off:1 Def:0),Rebound,Unknown,1,149
+42000306,205,PT11M13.00S,2,1610612749,MIL,201952,Teague,J. Teague,-166,189,25,Made,1,24.0,31.0,55,v,Teague 25' 3PT Jump Shot (3 PTS) (Middleton 2 AST),Made Shot,Jump Shot,1,150
+42000306,207,PT10M53.00S,2,1610612737,ATL,101150,Williams,L. Williams,18,50,5,Missed,1,,,0,h,MISS Williams 5' Driving Layup,Missed Shot,Driving Layup Shot,1,151
+42000306,208,PT10M51.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,v,Middleton REBOUND (Off:1 Def:2),Rebound,Unknown,1,152
+42000306,260,PT10M47.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,v,Middleton Out of Bounds Lost Ball Turnover (P3.T5),Turnover,Out of Bounds Lost Ball Turnover,1,153
+42000306,213,PT10M36.00S,2,1610612737,ATL,1629629,Reddish,C. Reddish,-95,92,13,Missed,1,,,0,h,MISS Reddish 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,154
+42000306,214,PT10M33.00S,2,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,v,Connaughton REBOUND (Off:0 Def:2),Rebound,Unknown,1,155
+42000306,215,PT10M23.00S,2,1610612749,MIL,1626192,Connaughton,P. Connaughton,-9,41,4,Made,1,24.0,33.0,57,v,Connaughton 4' Driving Layup (2 PTS) (Middleton 3 AST),Made Shot,Driving Layup Shot,1,156
+42000306,217,PT10M06.00S,2,1610612737,ATL,201568,Gallinari,D. Gallinari,-157,113,19,Missed,1,,,0,h,MISS Gallinari 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,157
+42000306,218,PT10M03.00S,2,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,v,Connaughton REBOUND (Off:0 Def:3),Rebound,Unknown,1,158
+42000306,219,PT09M45.00S,2,1610612749,MIL,200782,Tucker,P. Tucker,228,-13,0,Missed,1,,,0,v,MISS Tucker 3PT Jump Shot,Missed Shot,Jump Shot,1,159
+42000306,220,PT09M41.00S,2,1610612737,ATL,1629629,Reddish,C. Reddish,0,0,0,,0,,,0,h,Reddish REBOUND (Off:0 Def:1),Rebound,Unknown,1,160
+42000306,221,PT09M35.00S,2,1610612737,ATL,1629629,Reddish,C. Reddish,85,248,26,Made,1,27.0,33.0,60,h,Reddish 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,161
+42000306,223,PT09M16.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,-35,248,25,Missed,1,,,0,v,MISS Middleton 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,162
+42000306,224,PT09M14.00S,2,1610612737,ATL,101150,Williams,L. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,163
+42000306,225,PT09M11.00S,2,1610612749,MIL,201952,Teague,J. Teague,0,0,0,,0,,,0,v,Teague Personal Take Foul (P1.T1) (S.Wright),Foul,Personal Take,1,164
+42000306,227,PT09M11.00S,2,1610612737,ATL,101150,Williams,L. Williams,0,0,0,,0,,,0,h,SUB: Young FOR Williams,Substitution,,0,165
+42000306,228,PT09M11.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,SUB: Capela FOR Okongwu,Substitution,,0,166
+42000306,229,PT09M11.00S,2,1610612749,MIL,200782,Tucker,P. Tucker,0,0,0,,0,,,0,v,SUB: Holiday FOR Tucker,Substitution,,0,167
+42000306,233,PT09M05.00S,2,1610612737,ATL,1629027,Young,T. Young,-18,360,36,Missed,1,,,0,h,MISS Young 36' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,168
+42000306,234,PT09M00.00S,2,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,v,Connaughton REBOUND (Off:0 Def:4),Rebound,Unknown,1,169
+42000306,235,PT08M46.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,-6,121,12,Missed,1,,,0,v,MISS Lopez 12' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,170
+42000306,236,PT08M42.00S,2,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,Gallinari REBOUND (Off:0 Def:3),Rebound,Unknown,1,171
+42000306,237,PT08M32.00S,2,1610612737,ATL,1629629,Reddish,C. Reddish,-78,242,25,Missed,1,,,0,h,MISS Reddish 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,172
+42000306,238,PT08M29.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:2 Def:2),Rebound,Unknown,1,173
+42000306,239,PT08M13.00S,2,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday Lost Ball Turnover (P3.T6),Turnover,Lost Ball,1,174
+42000306,239,PT08M13.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela STEAL (1 STL),,,1,175
+42000306,241,PT08M00.00S,2,1610612737,ATL,1628989,Huerter,K. Huerter,22,164,17,Missed,1,,,0,h,MISS Huerter 17' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,176
+42000306,242,PT07M57.00S,2,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:4),Rebound,Unknown,1,177
+42000306,243,PT07M44.00S,2,1610612749,MIL,201952,Teague,J. Teague,-231,36,0,Made,1,27.0,36.0,63,v,Teague 3PT Jump Shot (6 PTS) (Connaughton 1 AST),Made Shot,Jump Shot,1,178
+42000306,245,PT07M21.00S,2,1610612737,ATL,201568,Gallinari,D. Gallinari,-11,120,12,Missed,1,,,0,h,MISS Gallinari 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,179
+42000306,246,PT07M18.00S,2,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:5),Rebound,Unknown,1,180
+42000306,248,PT07M17.00S,2,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,Gallinari Personal Take Foul (P2.T1) (Z.Zarba),Foul,Personal Take,1,181
+42000306,250,PT07M17.00S,2,1610612737,ATL,1629629,Reddish,C. Reddish,0,0,0,,0,,,0,h,SUB: Bogdanovic FOR Reddish,Substitution,,0,182
+42000306,251,PT07M17.00S,2,1610612749,MIL,201952,Teague,J. Teague,0,0,0,,0,,,0,v,SUB: Portis FOR Teague,Substitution,,0,183
+42000306,254,PT07M11.00S,2,1610612749,MIL,1626171,Portis,B. Portis,-16,155,16,Missed,1,,,0,v,MISS Portis 16' Jump Shot,Missed Shot,Jump Shot,1,184
+42000306,255,PT07M06.00S,2,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,Gallinari REBOUND (Off:0 Def:4),Rebound,Unknown,1,185
+42000306,256,PT07M00.00S,2,1610612737,ATL,201568,Gallinari,D. Gallinari,-73,174,19,Missed,1,,,0,h,MISS Gallinari 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,186
+42000306,257,PT06M56.00S,2,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,v,Connaughton REBOUND (Off:0 Def:5),Rebound,Unknown,1,187
+42000306,258,PT06M53.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,v,Middleton Out of Bounds - Bad Pass Turnover Turnover (P4.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,188
+42000306,259,PT06M53.00S,2,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,189
+42000306,263,PT06M53.00S,2,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,SUB: Collins FOR Gallinari,Substitution,,0,190
+42000306,264,PT06M53.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,SUB: Tucker FOR Lopez,Substitution,,0,191
+42000306,265,PT06M53.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,v,SUB: Forbes FOR Middleton,Substitution,,0,192
+42000306,269,PT06M35.00S,2,1610612737,ATL,203991,Capela,C. Capela,5,13,1,Made,1,29.0,36.0,65,h,Capela 1' Cutting Layup Shot (6 PTS) (Huerter 3 AST),Made Shot,Cutting Layup Shot,1,193
+42000306,271,PT06M25.00S,2,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday Bad Pass Turnover (P4.T8),Turnover,Bad Pass,1,194
+42000306,271,PT06M25.00S,2,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,h,Bogdanovic STEAL (1 STL),,,1,195
+42000306,273,PT06M25.00S,2,1610612749,MIL,1627854,Forbes,B. Forbes,0,0,0,,0,,,0,v,Forbes C.P.FOUL (P1.T2) (E.Lewis),Foul,Clear Path,1,196
+42000306,276,PT06M25.00S,2,0,,273,Ferrell,D. Ferrell,0,0,0,,0,29.0,36.0,65,,Instant Replay2nd Period (9:21 PM EST),Instant Replay,Support Ruling,0,197
+42000306,277,PT06M25.00S,2,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,0,0,0,,0,30.0,36.0,66,h,Bogdanovic Free Throw Clear Path 1 of 2 (8 PTS),Free Throw,Free Throw Clear Path 1 of 2,1,198
+42000306,278,PT06M25.00S,2,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,0,0,0,,0,31.0,36.0,67,h,Bogdanovic Free Throw Clear Path 2 of 2 (9 PTS),Free Throw,Free Throw Clear Path 2 of 2,1,199
+42000306,279,PT06M25.00S,2,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,v,SUB: Middleton FOR Connaughton,Substitution,,0,200
+42000306,281,PT06M09.00S,2,1610612737,ATL,1629027,Young,T. Young,-118,183,22,Missed,1,,,0,h,MISS Young 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,201
+42000306,282,PT06M06.00S,2,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,Huerter REBOUND (Off:1 Def:2),Rebound,Unknown,1,202
+42000306,283,PT06M04.00S,2,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,h,Bogdanovic OFF.Foul (P2) (S.Wright),Foul,Offensive,1,203
+42000306,285,PT06M04.00S,2,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,h,Bogdanovic Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,1,204
+42000306,286,PT05M51.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,-13,112,11,Missed,1,,,0,v,MISS Middleton 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,205
+42000306,287,PT05M49.00S,2,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins REBOUND (Off:0 Def:5),Rebound,Unknown,1,206
+42000306,288,PT05M35.00S,2,1610612737,ATL,1628381,Collins,J. Collins,-46,38,6,Made,1,33.0,36.0,69,h,Collins 6' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,1,207
+42000306,289,PT05M21.00S,2,1610612749,MIL,1627854,Forbes,B. Forbes,0,252,25,Made,1,33.0,39.0,72,v,Forbes 25' 3PT Jump Shot (5 PTS) (Holiday 3 AST),Made Shot,Jump Shot,1,208
+42000306,291,PT05M09.00S,2,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday P.FOUL (P1.T3) (E.Lewis),Foul,Personal,1,209
+42000306,293,PT05M09.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young T.FOUL (P2.T1) (E.Lewis),Foul,Technical,1,210
+42000306,294,PT05M09.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,33.0,40.0,73,v,Middleton Free Throw Technical (5 PTS),Free Throw,Free Throw Technical,1,211
+42000306,295,PT05M01.00S,2,1610612737,ATL,1628989,Huerter,K. Huerter,90,109,14,Made,1,35.0,40.0,75,h,Huerter 14' Pullup Jump Shot (2 PTS) (Bogdanovic 1 AST),Made Shot,Pullup Jump shot,1,212
+42000306,370,PT04M48.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,v,Middleton Bad Pass Turnover (P5.T9),Turnover,Bad Pass,1,213
+42000306,370,PT04M48.00S,2,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,Huerter STEAL (3 STL),,,1,214
+42000306,300,PT04M40.00S,2,1610612737,ATL,1629027,Young,T. Young,8,9,1,Made,1,37.0,40.0,77,h,Young 1' Running Layup (5 PTS),Made Shot,Running Layup Shot,1,215
+42000306,301,PT04M25.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,-166,147,22,Missed,1,,,0,v,MISS Middleton 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,216
+42000306,302,PT04M25.00S,2,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:1 Def:3),Rebound,Unknown,1,217
+42000306,303,PT04M12.00S,2,1610612749,MIL,201950,Holiday,J. Holiday,10,249,25,Missed,1,,,0,v,MISS Holiday 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,218
+42000306,304,PT04M11.00S,2,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Rebound,Rebound,Unknown,0,219
+42000306,305,PT04M11.00S,2,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,0,220
+42000306,306,PT03M59.00S,2,1610612737,ATL,1629027,Young,T. Young,20,25,3,Missed,1,,,0,h,MISS Young 3' Driving Layup,Missed Shot,Driving Layup Shot,1,221
+42000306,307,PT03M57.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:2 Def:1),Rebound,Unknown,1,222
+42000306,310,PT03M57.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,Missed,1,,,0,h,MISS Capela Tip Layup Shot,Missed Shot,Tip Layup Shot,1,223
+42000306,311,PT03M56.00S,2,1610612749,MIL,200782,Tucker,P. Tucker,0,0,0,,0,,,0,v,Tucker REBOUND (Off:1 Def:1),Rebound,Unknown,1,224
+42000306,312,PT03M51.00S,2,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,225
+42000306,313,PT03M51.00S,2,1610612749,MIL,1627854,Forbes,B. Forbes,0,0,0,,0,,,0,v,SUB: Lopez FOR Forbes,Substitution,,0,226
+42000306,314,PT03M51.00S,2,1610612749,MIL,200782,Tucker,P. Tucker,0,0,0,,0,,,0,v,SUB: Connaughton FOR Tucker,Substitution,,0,227
+42000306,317,PT03M38.00S,2,1610612749,MIL,201950,Holiday,J. Holiday,82,55,10,Missed,1,,,0,v,MISS Holiday 10' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,228
+42000306,318,PT03M35.00S,2,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,h,Bogdanovic REBOUND (Off:0 Def:1),Rebound,Unknown,1,229
+42000306,319,PT03M34.00S,2,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,h,Bogdanovic Lost Ball Turnover (P2.T8),Turnover,Lost Ball,1,230
+42000306,319,PT03M34.00S,2,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday STEAL (1 STL),,,1,231
+42000306,321,PT03M30.00S,2,1610612749,MIL,1626192,Connaughton,P. Connaughton,-101,241,26,Made,1,37.0,43.0,80,v,Connaughton 26' 3PT Jump Shot (5 PTS) (Holiday 4 AST),Made Shot,Jump Shot,1,232
+42000306,323,PT03M04.00S,2,1610612737,ATL,1628989,Huerter,K. Huerter,213,195,29,Missed,1,,,0,h,MISS Huerter 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,233
+42000306,324,PT02M59.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:3 Def:1),Rebound,Unknown,1,234
+42000306,325,PT02M59.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,Made,1,39.0,43.0,82,h,Capela Putback Layup (8 PTS),Made Shot,Putback Layup Shot,1,235
+42000306,326,PT02M49.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,v,Middleton Bad Pass Turnover (P6.T11),Turnover,Bad Pass,1,236
+42000306,326,PT02M49.00S,2,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,h,Bogdanovic STEAL (2 STL),,,1,237
+42000306,328,PT02M43.00S,2,1610612737,ATL,1629027,Young,T. Young,-25,146,15,Missed,1,,,0,h,MISS Young 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,238
+42000306,329,PT02M42.00S,2,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,0,239
+42000306,368,PT02M33.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,240
+42000306,368,PT02M33.00S,2,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,v,Connaughton STEAL (1 STL),,,1,241
+42000306,334,PT02M25.00S,2,1610612749,MIL,201950,Holiday,J. Holiday,-8,11,1,Made,1,39.0,45.0,84,v,Holiday 1' Running Layup (10 PTS),Made Shot,Running Layup Shot,1,242
+42000306,335,PT02M12.00S,2,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,-74,246,26,Missed,1,,,0,h,MISS Bogdanovic 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,243
+42000306,336,PT02M07.00S,2,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:6),Rebound,Unknown,1,244
+42000306,337,PT02M00.00S,2,1610612749,MIL,1626171,Portis,B. Portis,-2,63,6,Missed,1,,,0,v,MISS Portis 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,245
+42000306,338,PT01M58.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young REBOUND (Off:0 Def:1),Rebound,Unknown,1,246
+42000306,339,PT01M51.00S,2,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,h,Bogdanovic Lost Ball Turnover (P3.T10),Turnover,Lost Ball,1,247
+42000306,339,PT01M51.00S,2,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday STEAL (2 STL),,,1,248
+42000306,341,PT01M48.00S,2,1610612749,MIL,1626192,Connaughton,P. Connaughton,2,4,0,Made,1,39.0,47.0,86,v,Connaughton Running Dunk (7 PTS) (Holiday 5 AST),Made Shot,Running Dunk Shot,1,249
+42000306,343,PT01M31.00S,2,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis P.FOUL (P2.T4) (S.Wright),Foul,Personal,1,250
+42000306,345,PT01M31.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,SUB: Williams FOR Young,Substitution,,0,251
+42000306,347,PT01M26.00S,2,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday P.FOUL (P2.PN) (E.Lewis),Foul,Personal,1,252
+42000306,349,PT01M26.00S,2,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,0,0,0,,0,40.0,47.0,87,h,Bogdanovic Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,253
+42000306,350,PT01M26.00S,2,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,0,0,0,,0,41.0,47.0,88,h,Bogdanovic Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,254
+42000306,351,PT01M12.00S,2,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday Bad Pass Turnover (P5.T12),Turnover,Bad Pass,1,255
+42000306,351,PT01M12.00S,2,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,Huerter STEAL (4 STL),,,1,256
+42000306,353,PT01M04.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,v,Middleton S.FOUL (P3.PN) (S.Wright),Foul,Shooting,1,257
+42000306,355,PT01M04.00S,2,1610612737,ATL,101150,Williams,L. Williams,0,0,0,,0,42.0,47.0,89,h,Williams Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,258
+42000306,356,PT01M04.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,v,SUB: Tucker FOR Middleton,Substitution,,0,259
+42000306,358,PT01M04.00S,2,1610612737,ATL,101150,Williams,L. Williams,0,0,0,,0,43.0,47.0,90,h,Williams Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,260
+42000306,359,PT00M47.90S,2,1610612749,MIL,1626192,Connaughton,P. Connaughton,2,258,26,Missed,1,,,0,v,MISS Connaughton 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,261
+42000306,360,PT00M44.40S,2,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins REBOUND (Off:0 Def:6),Rebound,Unknown,1,262
+42000306,361,PT00M35.00S,2,1610612737,ATL,1628381,Collins,J. Collins,235,50,24,Missed,1,,,0,h,MISS Collins 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,263
+42000306,362,PT00M31.20S,2,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,v,Connaughton REBOUND (Off:0 Def:6),Rebound,Unknown,1,264
+42000306,363,PT00M13.70S,2,1610612749,MIL,1626171,Portis,B. Portis,-158,199,25,Missed,1,,,0,v,MISS Portis 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,265
+42000306,364,PT00M10.30S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:3 Def:2),Rebound,Unknown,1,266
+42000306,365,PT00M01.00S,2,1610612737,ATL,203991,Capela,C. Capela,6,42,4,Missed,1,,,0,h,MISS Capela 4' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,267
+42000306,366,PT00M01.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:2 Def:3),Rebound,Unknown,1,268
+42000306,367,PT00M00.00S,2,0,,0,,,0,0,0,,0,43.0,47.0,90,,End of 2nd Period (9:35 PM EST),period,end,1,269
+42000306,376,PT12M00.00S,3,0,,0,,,0,0,0,,0,43.0,47.0,90,,Start of 3rd Period (9:52 PM EST),period,start,0,270
+42000306,377,PT11M43.00S,3,1610612737,ATL,1629027,Young,T. Young,22,62,7,Missed,1,,,0,h,MISS Young 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,271
+42000306,378,PT11M37.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:4 Def:2),Rebound,Unknown,1,272
+42000306,379,PT11M37.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,Made,1,45.0,47.0,92,h,Capela Putback Layup (10 PTS),Made Shot,Putback Layup Shot,1,273
+42000306,380,PT11M28.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,-147,209,26,Missed,1,,,0,v,MISS Middleton 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,274
+42000306,381,PT11M25.00S,3,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins REBOUND (Off:0 Def:7),Rebound,Unknown,1,275
+42000306,382,PT11M16.00S,3,1610612737,ATL,1628989,Huerter,K. Huerter,-220,121,25,Missed,1,,,0,h,MISS Huerter 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,276
+42000306,383,PT11M12.00S,3,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:1 Def:4),Rebound,Unknown,1,277
+42000306,384,PT11M07.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,3,5,1,Made,1,45.0,49.0,94,v,Middleton 1' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,278
+42000306,385,PT10M45.00S,3,1610612737,ATL,1628381,Collins,J. Collins,-30,15,3,Missed,1,,,0,h,MISS Collins 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,279
+42000306,386,PT10M44.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:5 Def:2),Rebound,Unknown,1,280
+42000306,396,PT10M44.00S,3,1610612737,ATL,203991,Capela,C. Capela,-2,43,4,Missed,1,,,0,h,MISS Capela 4' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,281
+42000306,397,PT10M43.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:6 Def:2),Rebound,Unknown,1,282
+42000306,387,PT10M40.00S,3,1610612737,ATL,203991,Capela,C. Capela,-8,47,5,Missed,1,,,0,h,MISS Capela 5' Hook Shot,Missed Shot,Hook Shot,1,283
+42000306,388,PT10M38.00S,3,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:7),Rebound,Unknown,1,284
+42000306,389,PT10M24.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,-222,22,0,Made,1,45.0,52.0,97,v,Middleton 3PT Jump Shot (10 PTS) (Holiday 6 AST),Made Shot,Jump Shot,1,285
+42000306,391,PT10M11.00S,3,1610612737,ATL,1628989,Huerter,K. Huerter,228,68,24,Missed,1,,,0,h,MISS Huerter 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,286
+42000306,392,PT10M07.00S,3,1610612749,MIL,200782,Tucker,P. Tucker,0,0,0,,0,,,0,v,Tucker REBOUND (Off:1 Def:2),Rebound,Unknown,1,287
+42000306,393,PT09M57.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,13,255,26,Made,1,45.0,55.0,100,v,Middleton 26' 3PT Jump Shot (13 PTS) (Portis 2 AST),Made Shot,Jump Shot,1,288
+42000306,395,PT09M50.00S,3,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,289
+42000306,398,PT09M46.00S,3,1610612749,MIL,200782,Tucker,P. Tucker,0,0,0,,0,,,0,v,Tucker P.FOUL (P2.T1) (E.Lewis),Foul,Personal,1,290
+42000306,400,PT09M40.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young Out of Bounds - Bad Pass Turnover Turnover (P4.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,291
+42000306,401,PT09M29.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,-3,122,12,Made,1,45.0,57.0,102,v,Middleton 12' Driving Floating Bank Jump Shot (15 PTS),Made Shot,Driving Floating Bank Jump Shot,1,292
+42000306,402,PT09M29.00S,3,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,Huerter S.FOUL (P2.T1) (Z.Zarba),Foul,Shooting,1,293
+42000306,404,PT09M29.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,45.0,58.0,103,v,Middleton Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,1,294
+42000306,405,PT09M16.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young Bad Pass Turnover (P5.T12),Turnover,Bad Pass,1,295
+42000306,405,PT09M16.00S,3,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday STEAL (3 STL),,,1,296
+42000306,407,PT09M08.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,40,168,17,Made,1,45.0,60.0,105,v,Middleton 17' Pullup Jump Shot (18 PTS) (Holiday 7 AST),Made Shot,Pullup Jump shot,1,297
+42000306,409,PT08M56.00S,3,1610612737,ATL,1629027,Young,T. Young,0,248,25,Missed,1,,,0,h,MISS Young 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,298
+42000306,410,PT08M54.00S,3,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:8),Rebound,Unknown,1,299
+42000306,412,PT08M51.00S,3,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,SUB: Reddish FOR Huerter,Substitution,,0,300
+42000306,414,PT08M50.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez OFF.Foul (P2) (E.Lewis),Foul,Offensive,1,301
+42000306,416,PT08M50.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez Offensive Foul Turnover (P1.T13),Turnover,Offensive Foul Turnover,1,302
+42000306,417,PT08M41.00S,3,1610612737,ATL,1629027,Young,T. Young,8,8,1,Made,1,47.0,60.0,107,h,Young 1' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,303
+42000306,418,PT08M33.00S,3,1610612749,MIL,201950,Holiday,J. Holiday,232,63,24,Missed,1,,,0,v,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,304
+42000306,419,PT08M31.00S,3,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins REBOUND (Off:0 Def:8),Rebound,Unknown,1,305
+42000306,420,PT08M31.00S,3,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins Traveling Turnover (P2.T13),Turnover,Traveling,1,306
+42000306,421,PT08M23.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,159,195,25,Made,1,47.0,63.0,110,v,Middleton 25' 3PT Pullup Jump Shot (21 PTS),Made Shot,Pullup Jump shot,1,307
+42000306,422,PT08M11.00S,3,1610612737,ATL,1629027,Young,T. Young,-159,270,31,Missed,1,,,0,h,MISS Young 31' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,308
+42000306,423,PT08M08.00S,3,1610612737,ATL,1629629,Reddish,C. Reddish,0,0,0,,0,,,0,h,Reddish REBOUND (Off:1 Def:1),Rebound,Unknown,1,309
+42000306,424,PT08M06.00S,3,1610612737,ATL,1629629,Reddish,C. Reddish,-231,-22,0,Made,1,50.0,63.0,113,h,Reddish 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,310
+42000306,425,PT07M44.00S,3,1610612749,MIL,201950,Holiday,J. Holiday,-125,225,26,Made,1,50.0,66.0,116,v,Holiday 26' 3PT Jump Shot (13 PTS) (Tucker 1 AST),Made Shot,Jump Shot,1,311
+42000306,427,PT07M26.00S,3,1610612737,ATL,203991,Capela,C. Capela,5,0,1,Made,1,52.0,66.0,118,h,Capela 1' Cutting Dunk Shot (12 PTS) (Collins 1 AST),Made Shot,Cutting Dunk Shot,1,312
+42000306,429,PT07M17.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,-154,197,25,Missed,1,,,0,v,MISS Middleton 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,313
+42000306,430,PT07M12.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young REBOUND (Off:0 Def:2),Rebound,Unknown,1,314
+42000306,431,PT07M09.00S,3,1610612737,ATL,1629629,Reddish,C. Reddish,232,-34,0,Made,1,55.0,66.0,121,h,Reddish 3PT Running Jump Shot (9 PTS) (Young 3 AST),Made Shot,Running Jump Shot,1,315
+42000306,433,PT06M53.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,-227,46,0,Made,1,55.0,69.0,124,v,Lopez 3PT Jump Shot (11 PTS) (Middleton 4 AST),Made Shot,Jump Shot,1,316
+42000306,435,PT06M26.00S,3,1610612737,ATL,1628381,Collins,J. Collins,103,-3,10,Missed,1,,,0,h,MISS Collins 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,317
+42000306,436,PT06M23.00S,3,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:1 Def:5),Rebound,Unknown,1,318
+42000306,437,PT06M20.00S,3,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,319
+42000306,438,PT06M20.00S,3,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,SUB: Connaughton FOR Portis,Substitution,,0,320
+42000306,441,PT06M05.00S,3,1610612749,MIL,201950,Holiday,J. Holiday,25,38,5,Made,1,55.0,71.0,126,v,Holiday 5' Driving Floating Jump Shot (15 PTS),Made Shot,Driving Floating Jump Shot,1,321
+42000306,442,PT05M48.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela Out of Bounds - Bad Pass Turnover Turnover (P2.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,322
+42000306,443,PT05M34.00S,3,1610612749,MIL,200782,Tucker,P. Tucker,-231,55,24,Missed,1,,,0,v,MISS Tucker 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,323
+42000306,444,PT05M29.00S,3,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,h,Bogdanovic REBOUND (Off:0 Def:2),Rebound,Unknown,1,324
+42000306,445,PT05M22.00S,3,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,-14,101,10,Made,1,57.0,71.0,128,h,Bogdanovic 10' Driving Floating Jump Shot (13 PTS) (Young 4 AST),Made Shot,Driving Floating Jump Shot,1,325
+42000306,447,PT05M22.00S,3,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,v,Connaughton S.FOUL (P1.T2) (S.Wright),Foul,Shooting,1,326
+42000306,449,PT05M22.00S,3,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,h,MISS Bogdanovic Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,327
+42000306,450,PT05M18.00S,3,1610612749,MIL,200782,Tucker,P. Tucker,0,0,0,,0,,,0,v,Tucker REBOUND (Off:1 Def:3),Rebound,Unknown,1,328
+42000306,451,PT05M11.00S,3,1610612749,MIL,200782,Tucker,P. Tucker,234,31,24,Missed,1,,,0,v,MISS Tucker 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,329
+42000306,452,PT05M07.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young REBOUND (Off:0 Def:3),Rebound,Unknown,1,330
+42000306,453,PT04M56.00S,3,1610612737,ATL,1628381,Collins,J. Collins,-155,69,17,Made,1,59.0,71.0,130,h,Collins 17' Jump Shot (6 PTS) (Reddish 1 AST),Made Shot,Jump Shot,1,331
+42000306,456,PT04M43.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,SUB: Okongwu FOR Capela,Substitution,,0,332
+42000306,457,PT04M43.00S,3,1610612749,MIL,200782,Tucker,P. Tucker,0,0,0,,0,,,0,v,SUB: Forbes FOR Tucker,Substitution,,0,333
+42000306,460,PT04M39.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,-120,19,12,Made,1,59.0,73.0,132,v,Middleton 12' Step Back Jump Shot (23 PTS) (Holiday 8 AST),Made Shot,Step Back Jump shot,1,334
+42000306,462,PT04M27.00S,3,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,5,17,2,Made,1,61.0,73.0,134,h,Bogdanovic 2' Driving Layup (15 PTS) (Young 5 AST),Made Shot,Driving Layup Shot,1,335
+42000306,464,PT04M16.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,-47,26,5,Missed,1,,,0,v,MISS Middleton 5' Driving Layup,Missed Shot,Driving Layup Shot,1,336
+42000306,466,PT04M16.00S,3,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Rebound,Rebound,Unknown,0,337
+42000306,468,PT04M08.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,-226,66,24,Missed,1,,,0,v,MISS Middleton 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,338
+42000306,469,PT04M06.00S,3,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,v,Connaughton REBOUND (Off:1 Def:6),Rebound,Unknown,1,339
+42000306,470,PT03M59.00S,3,1610612749,MIL,201950,Holiday,J. Holiday,5,263,26,Made,1,61.0,76.0,137,v,Holiday 26' 3PT Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,1,340
+42000306,471,PT03M44.00S,3,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins Lost Ball Turnover (P3.T15),Turnover,Lost Ball,1,341
+42000306,471,PT03M44.00S,3,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday STEAL (4 STL),,,1,342
+42000306,473,PT03M24.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,120,8,12,Missed,1,,,0,v,MISS Lopez 12' Jump Shot,Missed Shot,Jump Shot,1,343
+42000306,474,PT03M24.00S,3,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,0,344
+42000306,475,PT03M24.00S,3,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday L.B.FOUL (P3.T3) (Z.Zarba),Foul,Loose Ball,1,345
+42000306,477,PT03M24.00S,3,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,h,SUB: Gallinari FOR Bogdanovic,Substitution,,0,346
+42000306,478,PT03M24.00S,3,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,SUB: Huerter FOR Collins,Substitution,,0,347
+42000306,479,PT03M24.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,SUB: Portis FOR Lopez,Substitution,,0,348
+42000306,483,PT03M12.00S,3,1610612737,ATL,1629629,Reddish,C. Reddish,118,226,25,Made,1,64.0,76.0,140,h,Reddish 25' 3PT Jump Shot (12 PTS) (Young 6 AST),Made Shot,Jump Shot,1,349
+42000306,485,PT02M57.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu S.FOUL (P1.T2) (Z.Zarba),Foul,Shooting,1,350
+42000306,487,PT02M57.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,64.0,77.0,141,v,Middleton Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,351
+42000306,488,PT02M57.00S,3,1610612749,MIL,1627854,Forbes,B. Forbes,0,0,0,,0,,,0,v,SUB: Teague FOR Forbes,Substitution,,0,352
+42000306,489,PT02M57.00S,3,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Tucker FOR Holiday,Substitution,,0,353
+42000306,492,PT02M57.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,64.0,78.0,142,v,Middleton Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,354
+42000306,493,PT02M42.00S,3,1610612737,ATL,1629629,Reddish,C. Reddish,-115,183,22,Made,1,66.0,78.0,144,h,Reddish 22' Step Back Jump Shot (14 PTS),Made Shot,Step Back Jump shot,1,355
+42000306,494,PT02M30.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,-51,247,25,Made,1,66.0,81.0,147,v,Middleton 25' 3PT Pullup Jump Shot (28 PTS),Made Shot,Pullup Jump shot,1,356
+42000306,495,PT02M18.00S,3,1610612737,ATL,1629629,Reddish,C. Reddish,0,5,1,Missed,1,,,0,h,MISS Reddish 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,357
+42000306,496,PT02M15.00S,3,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:1 Def:6),Rebound,Unknown,1,358
+42000306,497,PT02M08.00S,3,1610612749,MIL,1626192,Connaughton,P. Connaughton,169,195,26,Missed,1,,,0,v,MISS Connaughton 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,359
+42000306,498,PT02M03.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young REBOUND (Off:0 Def:4),Rebound,Unknown,1,360
+42000306,499,PT02M00.00S,3,1610612749,MIL,201952,Teague,J. Teague,0,0,0,,0,,,0,v,Teague S.FOUL (P2.T4) (Z.Zarba),Foul,Shooting,1,361
+42000306,501,PT02M00.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,MISS Okongwu Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,362
+42000306,502,PT02M00.00S,3,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Normal Rebound,0,363
+42000306,503,PT02M00.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,SUB: Williams FOR Young,Substitution,,0,364
+42000306,505,PT02M00.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,67.0,81.0,148,h,Okongwu Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,365
+42000306,506,PT01M49.00S,3,1610612749,MIL,200782,Tucker,P. Tucker,231,25,0,Missed,1,,,0,v,MISS Tucker 3PT Jump Shot,Missed Shot,Jump Shot,1,366
+42000306,507,PT01M45.00S,3,1610612749,MIL,200782,Tucker,P. Tucker,0,0,0,,0,,,0,v,Tucker REBOUND (Off:2 Def:3),Rebound,Unknown,1,367
+42000306,508,PT01M44.00S,3,1610612749,MIL,201952,Teague,J. Teague,110,225,25,Made,1,67.0,84.0,151,v,Teague 25' 3PT Jump Shot (9 PTS) (Tucker 2 AST),Made Shot,Jump Shot,1,368
+42000306,510,PT01M28.00S,3,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis S.FOUL (P3.PN) (S.Wright),Foul,Shooting,1,369
+42000306,512,PT01M28.00S,3,1610612737,ATL,1629629,Reddish,C. Reddish,0,0,0,,0,,,0,h,MISS Reddish Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,370
+42000306,513,PT01M28.00S,3,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Normal Rebound,0,371
+42000306,514,PT01M28.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,v,SUB: Holiday FOR Middleton,Substitution,,0,372
+42000306,516,PT01M28.00S,3,1610612737,ATL,1629629,Reddish,C. Reddish,0,0,0,,0,68.0,84.0,152,h,Reddish Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,373
+42000306,517,PT01M13.00S,3,1610612749,MIL,201952,Teague,J. Teague,-24,51,6,Missed,1,,,0,v,MISS Teague 6' Driving Layup,Missed Shot,Driving Layup Shot,1,374
+42000306,517,PT01M13.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu BLOCK (1 BLK),,,1,375
+42000306,519,PT01M07.00S,3,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:2 Def:6),Rebound,Unknown,1,376
+42000306,520,PT01M07.00S,3,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,Made,1,68.0,86.0,154,v,Portis Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,377
+42000306,521,PT01M01.00S,3,1610612749,MIL,201952,Teague,J. Teague,0,0,0,,0,,,0,v,Teague S.FOUL (P3.PN) (E.Lewis),Foul,Shooting,1,378
+42000306,523,PT01M01.00S,3,1610612737,ATL,101150,Williams,L. Williams,0,0,0,,0,69.0,86.0,155,h,Williams Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,379
+42000306,524,PT01M01.00S,3,1610612737,ATL,101150,Williams,L. Williams,0,0,0,,0,70.0,86.0,156,h,Williams Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,380
+42000306,525,PT00M48.20S,3,1610612749,MIL,201950,Holiday,J. Holiday,-155,200,25,Made,1,70.0,89.0,159,v,Holiday 25' 3PT Step Back Jump Shot (21 PTS),Made Shot,Step Back Jump shot,1,381
+42000306,526,PT00M40.20S,3,1610612737,ATL,201568,Gallinari,D. Gallinari,-182,190,26,Missed,1,,,0,h,MISS Gallinari 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,382
+42000306,527,PT00M37.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:2 Def:0),Rebound,Unknown,1,383
+42000306,528,PT00M35.10S,3,1610612737,ATL,201568,Gallinari,D. Gallinari,-5,4,1,Made,1,72.0,89.0,161,h,Gallinari 1' Layup (8 PTS) (Huerter 4 AST),Made Shot,Layup Shot,1,384
+42000306,530,PT00M16.70S,3,1610612749,MIL,1626171,Portis,B. Portis,1,257,26,Missed,1,,,0,v,MISS Portis 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,385
+42000306,531,PT00M11.70S,3,1610612749,MIL,200782,Tucker,P. Tucker,0,0,0,,0,,,0,v,Tucker REBOUND (Off:3 Def:3),Rebound,Unknown,1,386
+42000306,532,PT00M01.50S,3,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,Gallinari S.FOUL (P3.T3) (E.Lewis),Foul,Shooting,1,387
+42000306,534,PT00M01.50S,3,1610612749,MIL,201952,Teague,J. Teague,0,0,0,,0,72.0,90.0,162,v,Teague Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,388
+42000306,535,PT00M01.50S,3,1610612749,MIL,200782,Tucker,P. Tucker,0,0,0,,0,,,0,v,SUB: Antetokounmpo FOR Tucker,Substitution,,0,389
+42000306,536,PT00M01.50S,3,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Lopez FOR Holiday,Substitution,,0,390
+42000306,539,PT00M01.50S,3,1610612749,MIL,201952,Teague,J. Teague,0,0,0,,0,72.0,91.0,163,v,Teague Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,391
+42000306,540,PT00M00.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,-14,604,60,Missed,1,,,0,h,MISS Okongwu 60' 3PT Jump Shot,Missed Shot,Jump Shot,1,392
+42000306,541,PT00M00.00S,3,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,0,393
+42000306,542,PT00M00.00S,3,0,,0,,,0,0,0,,0,72.0,91.0,163,,End of 3rd Period (10:21 PM EST),period,end,1,394
+42000306,549,PT12M00.00S,4,0,,0,,,0,0,0,,0,72.0,91.0,163,,Start of 4th Period (10:24 PM EST),period,start,0,395
+42000306,550,PT11M37.00S,4,1610612749,MIL,1626192,Connaughton,P. Connaughton,230,35,0,Made,1,72.0,94.0,166,v,Connaughton 3PT Jump Shot (10 PTS) (Teague 1 AST),Made Shot,Jump Shot,1,396
+42000306,552,PT11M21.00S,4,1610612737,ATL,201568,Gallinari,D. Gallinari,62,243,25,Made,1,75.0,94.0,169,h,Gallinari 25' 3PT Jump Shot (11 PTS) (Williams 1 AST),Made Shot,Jump Shot,1,397
+42000306,554,PT11M15.00S,4,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,h,Bogdanovic P.FOUL (P3.T1) (Z.Zarba),Foul,Personal,1,398
+42000306,556,PT10M58.00S,4,1610612749,MIL,201952,Teague,J. Teague,19,17,3,Missed,1,,,0,v,MISS Teague 3' Driving Layup,Missed Shot,Driving Layup Shot,1,399
+42000306,557,PT10M56.00S,4,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,Gallinari REBOUND (Off:0 Def:5),Rebound,Unknown,1,400
+42000306,558,PT10M39.00S,4,1610612737,ATL,1628989,Huerter,K. Huerter,-196,157,25,Made,1,78.0,94.0,172,h,Huerter 25' 3PT Jump Shot (5 PTS) (Bogdanovic 2 AST),Made Shot,Jump Shot,1,401
+42000306,560,PT10M22.00S,4,1610612749,MIL,201950,Holiday,J. Holiday,11,37,4,Made,1,78.0,96.0,174,v,Holiday 4' Driving Floating Jump Shot (23 PTS),Made Shot,Driving Floating Jump Shot,1,402
+42000306,562,PT10M09.00S,4,1610612737,ATL,101150,Williams,L. Williams,0,0,0,,0,,,0,h,Williams Lost Ball Turnover (P1.T16),Turnover,Lost Ball,1,403
+42000306,562,PT10M09.00S,4,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,v,Connaughton STEAL (2 STL),,,1,404
+42000306,565,PT10M09.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela S.FOUL (P1.T2) (E.Lewis),Foul,Shooting,1,405
+42000306,567,PT10M09.00S,4,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,78.0,97.0,175,v,Portis Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,406
+42000306,568,PT10M09.00S,4,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,SUB: Reddish FOR Huerter,Substitution,,0,407
+42000306,569,PT10M09.00S,4,1610612737,ATL,101150,Williams,L. Williams,0,0,0,,0,,,0,h,SUB: Young FOR Williams,Substitution,,0,408
+42000306,570,PT10M09.00S,4,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,v,SUB: Middleton FOR Connaughton,Substitution,,0,409
+42000306,574,PT10M09.00S,4,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,78.0,98.0,176,v,Portis Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,410
+42000306,575,PT09M53.00S,4,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,-19,172,17,Made,1,80.0,98.0,178,h,Bogdanovic 17' Pullup Jump Shot (17 PTS) (Capela 1 AST),Made Shot,Pullup Jump shot,1,411
+42000306,577,PT09M31.00S,4,1610612749,MIL,1626171,Portis,B. Portis,-26,62,7,Made,1,80.0,100.0,180,v,Portis 7' Driving Floating Jump Shot (10 PTS) (Middleton 5 AST),Made Shot,Driving Floating Jump Shot,1,412
+42000306,579,PT09M12.00S,4,1610612737,ATL,201568,Gallinari,D. Gallinari,150,190,24,Missed,1,,,0,h,MISS Gallinari 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,413
+42000306,579,PT09M12.00S,4,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday BLOCK (1 BLK),,,1,414
+42000306,581,PT09M09.00S,4,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,Gallinari REBOUND (Off:1 Def:5),Rebound,Unknown,1,415
+42000306,582,PT09M07.00S,4,1610612737,ATL,201568,Gallinari,D. Gallinari,9,31,3,Made,1,82.0,100.0,182,h,Gallinari 3' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,416
+42000306,583,PT08M55.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,-29,30,4,Missed,1,,,0,v,MISS Middleton 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,417
+42000306,584,PT08M52.00S,4,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,Gallinari REBOUND (Off:1 Def:6),Rebound,Unknown,1,418
+42000306,585,PT08M46.00S,4,1610612749,MIL,201952,Teague,J. Teague,0,0,0,,0,,,0,v,Teague S.FOUL (P4.T1) (Z.Zarba),Foul,Shooting,1,419
+42000306,587,PT08M46.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,83.0,100.0,183,h,Young Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,420
+42000306,588,PT08M46.00S,4,1610612749,MIL,201952,Teague,J. Teague,0,0,0,,0,,,0,v,SUB: Connaughton FOR Teague,Substitution,,0,421
+42000306,590,PT08M46.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,84.0,100.0,184,h,Young Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,422
+42000306,591,PT08M23.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,-100,84,13,Missed,1,,,0,v,MISS Lopez 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,423
+42000306,592,PT08M17.00S,4,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:3 Def:6),Rebound,Unknown,1,424
+42000306,593,PT08M17.00S,4,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,Made,1,84.0,102.0,186,v,Portis Putback Layup (12 PTS),Made Shot,Putback Layup Shot,1,425
+42000306,594,PT08M02.00S,4,1610612737,ATL,1629027,Young,T. Young,6,16,2,Missed,1,,,0,h,MISS Young 2' Driving Layup,Missed Shot,Driving Layup Shot,1,426
+42000306,595,PT08M00.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:7 Def:2),Rebound,Unknown,1,427
+42000306,642,PT07M59.00S,4,1610612737,ATL,1629629,Reddish,C. Reddish,0,46,5,Missed,1,,,0,h,MISS Reddish 5' Driving Layup,Missed Shot,Driving Layup Shot,1,428
+42000306,642,PT07M59.00S,4,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday BLOCK (2 BLK),,,1,429
+42000306,644,PT07M58.00S,4,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,0,430
+42000306,597,PT07M58.00S,4,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,SUB: Collins FOR Gallinari,Substitution,,0,431
+42000306,599,PT07M53.00S,4,1610612737,ATL,1628381,Collins,J. Collins,75,32,8,Made,1,86.0,102.0,188,h,Collins 8' Floating Jump Shot (8 PTS) (Reddish 2 AST),Made Shot,Floating Jump shot,1,432
+42000306,601,PT07M30.00S,4,1610612749,MIL,201950,Holiday,J. Holiday,-220,21,0,Missed,1,,,0,v,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,1,433
+42000306,602,PT07M28.00S,4,1610612737,ATL,1629629,Reddish,C. Reddish,0,0,0,,0,,,0,h,Reddish REBOUND (Off:1 Def:2),Rebound,Unknown,1,434
+42000306,603,PT07M22.00S,4,1610612737,ATL,1629629,Reddish,C. Reddish,14,12,2,Missed,1,,,0,h,MISS Reddish 2' Driving Layup,Missed Shot,Driving Layup Shot,1,435
+42000306,603,PT07M22.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez BLOCK (2 BLK),,,1,436
+42000306,605,PT07M21.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,v,Middleton REBOUND (Off:1 Def:3),Rebound,Unknown,1,437
+42000306,606,PT07M21.00S,4,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins Personal Take Foul (P1.T3) (S.Wright),Foul,Personal Take,1,438
+42000306,608,PT07M21.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,SUB: Gallinari FOR Capela,Substitution,,0,439
+42000306,609,PT07M21.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,SUB: Tucker FOR Lopez,Substitution,,0,440
+42000306,612,PT07M08.00S,4,1610612749,MIL,201950,Holiday,J. Holiday,-226,38,0,Missed,1,,,0,v,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,1,441
+42000306,613,PT07M04.00S,4,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins REBOUND (Off:0 Def:9),Rebound,Unknown,1,442
+42000306,614,PT06M56.00S,4,1610612737,ATL,1629629,Reddish,C. Reddish,-132,228,26,Made,1,89.0,102.0,191,h,Reddish 26' 3PT Jump Shot (18 PTS) (Young 7 AST),Made Shot,Jump Shot,1,443
+42000306,616,PT06M35.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,2,11,1,Missed,1,,,0,v,MISS Middleton 1' Driving Layup,Missed Shot,Driving Layup Shot,1,444
+42000306,617,PT06M31.00S,4,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins REBOUND (Off:0 Def:10),Rebound,Unknown,1,445
+42000306,618,PT06M23.00S,4,1610612737,ATL,1628381,Collins,J. Collins,101,99,14,Made,1,91.0,102.0,193,h,Collins 14' Turnaround Jump Shot (10 PTS) (Young 8 AST),Made Shot,Turnaround Jump Shot,1,446
+42000306,620,PT06M23.00S,4,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday S.FOUL (P4.T2) (Z.Zarba),Foul,Shooting,1,447
+42000306,622,PT06M23.00S,4,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,448
+42000306,623,PT06M23.00S,4,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,SUB: Lopez FOR Portis,Substitution,,0,449
+42000306,625,PT06M23.00S,4,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,92.0,102.0,194,h,Collins Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,450
+42000306,626,PT06M01.00S,4,1610612749,MIL,1626192,Connaughton,P. Connaughton,235,38,24,Made,1,92.0,105.0,197,v,Connaughton 24' 3PT Jump Shot (13 PTS) (Middleton 6 AST),Made Shot,Jump Shot,1,451
+42000306,628,PT05M42.00S,4,1610612737,ATL,1629027,Young,T. Young,3,10,1,Made,1,94.0,105.0,199,h,Young 1' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,1,452
+42000306,629,PT05M25.00S,4,1610612749,MIL,201950,Holiday,J. Holiday,2,13,1,Made,1,94.0,107.0,201,v,Holiday 1' Driving Layup (25 PTS),Made Shot,Driving Layup Shot,1,453
+42000306,630,PT05M10.00S,4,1610612737,ATL,1629629,Reddish,C. Reddish,-139,210,25,Made,1,97.0,107.0,204,h,Reddish 25' 3PT Jump Shot (21 PTS) (Young 9 AST),Made Shot,Jump Shot,1,454
+42000306,632,PT04M45.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,-194,145,24,Missed,1,,,0,v,MISS Middleton 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,455
+42000306,633,PT04M40.00S,4,1610612749,MIL,200782,Tucker,P. Tucker,0,0,0,,0,,,0,v,Tucker REBOUND (Off:4 Def:3),Rebound,Unknown,1,456
+42000306,634,PT04M31.00S,4,1610612749,MIL,201950,Holiday,J. Holiday,188,172,25,Missed,1,,,0,v,MISS Holiday 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,457
+42000306,635,PT04M27.00S,4,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins REBOUND (Off:0 Def:11),Rebound,Unknown,1,458
+42000306,636,PT04M12.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,v,Middleton S.FOUL (P4.T3) (S.Wright),Foul,Shooting,1,459
+42000306,638,PT04M12.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,98.0,107.0,205,h,Young Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,460
+42000306,639,PT04M12.00S,4,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,SUB: Capela FOR Gallinari,Substitution,,0,461
+42000306,645,PT04M12.00S,4,1610612749,MIL,200782,Tucker,P. Tucker,0,0,0,,0,,,0,v,SUB: Portis FOR Tucker,Substitution,,0,462
+42000306,641,PT04M12.00S,4,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,463
+42000306,647,PT04M12.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,99.0,107.0,206,h,Young Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,464
+42000306,648,PT03M57.00S,4,1610612737,ATL,1629629,Reddish,C. Reddish,0,0,0,,0,,,0,h,Reddish P.FOUL (P1.T4) (S.Wright),Foul,Personal,1,465
+42000306,650,PT03M45.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,v,Middleton Bad Pass Turnover (P7.T14),Turnover,Bad Pass,1,466
+42000306,650,PT03M45.00S,4,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,h,Bogdanovic STEAL (3 STL),,,1,467
+42000306,652,PT03M41.00S,4,1610612737,ATL,203991,Capela,C. Capela,-2,5,1,Made,1,101.0,107.0,208,h,Capela 1' Running Dunk (14 PTS) (Reddish 3 AST),Made Shot,Running Dunk Shot,1,468
+42000306,654,PT03M23.00S,4,1610612749,MIL,201950,Holiday,J. Holiday,5,9,1,Made,1,101.0,109.0,210,v,Holiday 1' Driving Layup (27 PTS),Made Shot,Driving Layup Shot,1,469
+42000306,655,PT03M16.00S,4,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,470
+42000306,656,PT03M16.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,SUB: Gallinari FOR Capela,Substitution,,0,471
+42000306,657,PT03M16.00S,4,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,SUB: Tucker FOR Portis,Substitution,,0,472
+42000306,660,PT03M10.00S,4,1610612737,ATL,1629027,Young,T. Young,40,252,26,Missed,1,,,0,h,MISS Young 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,473
+42000306,661,PT03M08.00S,4,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,Gallinari REBOUND (Off:2 Def:6),Rebound,Unknown,1,474
+42000306,662,PT02M59.00S,4,1610612737,ATL,201568,Gallinari,D. Gallinari,129,126,18,Missed,1,,,0,h,MISS Gallinari 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,475
+42000306,663,PT02M57.00S,4,0,,1610612749,,,0,0,0,,0,,,0,v,Bucks Rebound,Rebound,Unknown,0,476
+42000306,664,PT02M57.00S,4,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins L.B.FOUL (P2.PN) (S.Wright),Foul,Loose Ball,1,477
+42000306,666,PT02M57.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,101.0,110.0,211,v,Middleton Free Throw 1 of 2 (29 PTS),Free Throw,Free Throw 1 of 2,1,478
+42000306,667,PT02M57.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,101.0,111.0,212,v,Middleton Free Throw 2 of 2 (30 PTS),Free Throw,Free Throw 2 of 2,1,479
+42000306,668,PT02M45.00S,4,1610612737,ATL,1629027,Young,T. Young,31,43,5,Missed,1,,,0,h,MISS Young 5' Driving Layup,Missed Shot,Driving Layup Shot,1,480
+42000306,669,PT02M40.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:2 Def:4),Rebound,Unknown,1,481
+42000306,670,PT02M31.00S,4,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday Bad Pass Turnover (P6.T15),Turnover,Bad Pass,1,482
+42000306,670,PT02M31.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young STEAL (1 STL),,,1,483
+42000306,672,PT02M11.00S,4,1610612737,ATL,1628381,Collins,J. Collins,-6,8,1,Made,1,103.0,111.0,214,h,Collins 1' Cutting Layup Shot (13 PTS) (Bogdanovic 3 AST),Made Shot,Cutting Layup Shot,1,484
+42000306,674,PT01M51.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,-222,122,25,Missed,1,,,0,v,MISS Middleton 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,485
+42000306,675,PT01M50.00S,4,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,0,486
+42000306,676,PT01M50.00S,4,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,v,Connaughton L.B.FOUL (P2.T4) (E.Lewis),Foul,Loose Ball,1,487
+42000306,678,PT01M38.00S,4,1610612737,ATL,1629027,Young,T. Young,32,22,4,Missed,1,,,0,h,MISS Young 4' Driving Layup,Missed Shot,Driving Layup Shot,1,488
+42000306,679,PT01M33.00S,4,1610612749,MIL,200782,Tucker,P. Tucker,0,0,0,,0,,,0,v,Tucker REBOUND (Off:4 Def:4),Rebound,Unknown,1,489
+42000306,680,PT01M29.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,-3,-2,0,Made,1,103.0,113.0,216,v,Lopez Alley Oop Dunk (13 PTS) (Holiday 9 AST),Made Shot,Alley Oop Dunk Shot,1,490
+42000306,682,PT01M29.00S,4,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,491
+42000306,683,PT01M20.00S,4,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,79,232,25,Made,1,106.0,113.0,219,h,Bogdanovic 25' 3PT Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,1,492
+42000306,684,PT01M02.00S,4,1610612749,MIL,200782,Tucker,P. Tucker,-223,32,0,Made,1,106.0,116.0,222,v,Tucker 3PT Jump Shot (5 PTS) (Middleton 7 AST),Made Shot,Jump Shot,1,493
+42000306,686,PT00M54.00S,4,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday P.FOUL (P5.PN) (S.Wright),Foul,Personal,1,494
+42000306,688,PT00M54.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,MISS Young Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,495
+42000306,689,PT00M54.00S,4,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Normal Rebound,0,496
+42000306,690,PT00M54.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,107.0,116.0,223,h,Young Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,497
+42000306,691,PT00M45.60S,4,1610612749,MIL,201950,Holiday,J. Holiday,-2,16,2,Missed,1,,,0,v,MISS Holiday 2' Driving Layup,Missed Shot,Driving Layup Shot,1,498
+42000306,692,PT00M42.50S,4,1610612749,MIL,201950,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:1 Def:8),Rebound,Unknown,1,499
+42000306,693,PT00M39.10S,4,1610612737,ATL,1629629,Reddish,C. Reddish,0,0,0,,0,,,0,h,Reddish Personal Take Foul (P2.PN) (Z.Zarba),Foul,Personal Take,1,500
+42000306,695,PT00M39.10S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,107.0,117.0,224,v,Middleton Free Throw 1 of 2 (31 PTS),Free Throw,Free Throw 1 of 2,1,501
+42000306,696,PT00M39.10S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,SUB: Knight FOR Young,Substitution,,0,502
+42000306,697,PT00M39.10S,4,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,h,SUB: Dunn FOR Bogdanovic,Substitution,,0,503
+42000306,698,PT00M39.10S,4,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,SUB: Okongwu FOR Collins,Substitution,,0,504
+42000306,699,PT00M39.10S,4,1610612737,ATL,1629629,Reddish,C. Reddish,0,0,0,,0,,,0,h,SUB: Mays FOR Reddish,Substitution,,0,505
+42000306,700,PT00M39.10S,4,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,SUB: Fernando FOR Gallinari,Substitution,,0,506
+42000306,706,PT00M39.10S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,107.0,118.0,225,v,Middleton Free Throw 2 of 2 (32 PTS),Free Throw,Free Throw 2 of 2,1,507
+42000306,707,PT00M25.20S,4,1610612737,ATL,1630233,Knight,N. Knight,5,11,1,Missed,1,,,0,h,MISS Knight 1' Driving Layup,Missed Shot,Driving Layup Shot,1,508
+42000306,707,PT00M25.20S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,v,Lopez BLOCK (3 BLK),,,1,509
+42000306,709,PT00M24.60S,4,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,0,510
+42000306,711,PT00M20.90S,4,1610612737,ATL,1628981,Fernando,B. Fernando,139,159,21,Missed,1,,,0,h,MISS Fernando 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,511
+42000306,712,PT00M17.60S,4,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,,,0,v,Connaughton REBOUND (Off:1 Def:7),Rebound,Unknown,1,512
+42000306,714,PT00M00.00S,4,0,,0,,,0,0,0,,0,107.0,118.0,225,,End of 4th Period (10:56 PM EST),period,end,1,513

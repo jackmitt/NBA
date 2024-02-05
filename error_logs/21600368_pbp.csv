@@ -1,0 +1,478 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+21600368,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (7:12 PM EST),period,start,0,1
+21600368,1,PT12M00.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,h,Jump Ball Thompson vs. Green: Tip to Love,Jump Ball,,1,2
+21600368,2,PT11M48.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,Love Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,3
+21600368,2,PT11M48.00S,1,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,0.0,0.0,0,v,Green STEAL (1 STL),,,1,4
+21600368,3,PT11M36.00S,1,1610612763,MEM,1627786,Williams,T. Williams,0,0,0,,0,0.0,0.0,0,v,Williams Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,5
+21600368,4,PT11M22.00S,1,1610612739,CLE,2747,Smith,J. Smith,-237,85,25,Missed,1,0.0,0.0,0,h,MISS Smith 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,6
+21600368,5,PT11M22.00S,1,1610612763,MEM,1626150,Harrison,A. Harrison,0,0,0,,0,0.0,0.0,0,v,Harrison REBOUND (Off:0 Def:1),Rebound,Unknown,1,7
+21600368,6,PT11M12.00S,1,1610612763,MEM,1626150,Harrison,A. Harrison,-127,159,20,Made,1,0.0,2.0,2,v,Harrison 20' Jump Shot (2 PTS),Made Shot,Jump Shot,1,8
+21600368,7,PT10M54.00S,1,1610612739,CLE,201567,Love,K. Love,-240,80,25,Missed,1,0.0,0.0,0,h,MISS Love 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,9
+21600368,8,PT10M53.00S,1,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0.0,0.0,0,v,Allen REBOUND (Off:0 Def:1),Rebound,Unknown,1,10
+21600368,9,PT10M44.00S,1,1610612763,MEM,203210,Green,J. Green,-153,203,25,Missed,1,0.0,0.0,0,v,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,11
+21600368,10,PT10M44.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,h,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,12
+21600368,11,PT10M40.00S,1,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,James Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,13
+21600368,11,PT10M40.00S,1,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,0.0,0.0,0,v,Green STEAL (2 STL),,,1,14
+21600368,12,PT10M24.00S,1,1610612763,MEM,1627786,Williams,T. Williams,192,92,21,Missed,1,0.0,0.0,0,v,MISS Williams 21' Jump Shot,Missed Shot,Jump Shot,1,15
+21600368,13,PT10M23.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,Love REBOUND (Off:0 Def:1),Rebound,Unknown,1,16
+21600368,14,PT10M08.00S,1,1610612739,CLE,2544,James,L. James,51,31,6,Missed,1,0.0,0.0,0,h,MISS James 6' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,17
+21600368,16,PT10M06.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,h,Thompson REBOUND (Off:1 Def:1),Rebound,Unknown,1,18
+21600368,15,PT10M06.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,11,1,Made,1,2.0,2.0,4,h,Thompson 1' Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,19
+21600368,17,PT09M50.00S,1,1610612763,MEM,2754,Allen,T. Allen,-58,208,22,Missed,1,0.0,0.0,0,v,MISS Allen 22' Jump Shot,Missed Shot,Jump Shot,1,20
+21600368,18,PT09M50.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,Randolph REBOUND (Off:1 Def:0),Rebound,Unknown,1,21
+21600368,19,PT09M41.00S,1,1610612763,MEM,1626150,Harrison,A. Harrison,0,0,0,,0,0.0,0.0,0,v,Harrison Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,22
+21600368,20,PT09M29.00S,1,1610612739,CLE,201567,Love,K. Love,-1,70,7,Missed,1,0.0,0.0,0,h,MISS Love 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,23
+21600368,21,PT09M25.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,Randolph REBOUND (Off:1 Def:1),Rebound,Unknown,1,24
+21600368,22,PT09M14.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,-155,105,19,Missed,1,0.0,0.0,0,v,MISS Randolph 19' Jump Shot,Missed Shot,Jump Shot,1,25
+21600368,23,PT09M14.00S,1,1610612739,CLE,202732,Liggins,D. Liggins,0,0,0,,0,0.0,0.0,0,h,Liggins REBOUND (Off:0 Def:1),Rebound,Unknown,1,26
+21600368,24,PT09M06.00S,1,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0.0,0.0,0,v,Allen P.FOUL (P1.T1) (S.Twardoski),Foul,Personal,1,27
+21600368,25,PT08M59.00S,1,1610612763,MEM,1627786,Williams,T. Williams,0,0,0,,0,0.0,0.0,0,v,Williams S.FOUL (P1.T2) (K.Scott),Foul,Shooting,1,28
+21600368,26,PT08M59.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,3.0,2.0,5,h,Love Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,29
+21600368,28,PT08M59.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,4.0,2.0,6,h,Love Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,30
+21600368,31,PT08M41.00S,1,1610612763,MEM,2754,Allen,T. Allen,-17,-1,2,Made,1,4.0,4.0,8,v,Allen 2' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,1,31
+21600368,32,PT08M23.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,Love Lost Ball Turnover (P2.T3),Turnover,Lost Ball,1,32
+21600368,32,PT08M23.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,Randolph STEAL (1 STL),,,1,33
+21600368,33,PT08M19.00S,1,1610612763,MEM,1627786,Williams,T. Williams,0,0,0,,0,0.0,0.0,0,v,Williams Lost Ball Turnover (P2.T3),Turnover,Lost Ball,1,34
+21600368,33,PT08M19.00S,1,1610612739,CLE,202732,Liggins,D. Liggins,0,0,0,,0,0.0,0.0,0,h,Liggins STEAL (1 STL),,,1,35
+21600368,34,PT08M10.00S,1,1610612739,CLE,2747,Smith,J. Smith,-241,7,24,Made,1,7.0,4.0,11,h,Smith 24' 3PT Jump Shot (3 PTS) (James 1 AST),Made Shot,Jump Shot,1,36
+21600368,35,PT07M49.00S,1,1610612763,MEM,1627786,Williams,T. Williams,-9,-6,1,Made,1,7.0,6.0,13,v,Williams 1' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,1,37
+21600368,36,PT07M37.00S,1,1610612739,CLE,2544,James,L. James,20,-11,2,Made,1,9.0,6.0,15,h,James 2' Cutting Layup Shot (2 PTS) (Love 1 AST),Made Shot,Cutting Layup Shot,1,38
+21600368,37,PT07M18.00S,1,1610612763,MEM,2754,Allen,T. Allen,4,111,11,Made,1,9.0,8.0,17,v,Allen 11' Driving Floating Jump Shot (4 PTS) (Green 1 AST),Made Shot,Driving Floating Jump Shot,1,39
+21600368,39,PT07M02.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,Jump Ball Love vs. Harrison: Tip to Smith,Jump Ball,,1,40
+21600368,40,PT06M51.00S,1,1610612739,CLE,2747,Smith,J. Smith,-199,51,21,Made,1,11.0,8.0,19,h,Smith 21' Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,41
+21600368,41,PT06M29.00S,1,1610612763,MEM,1626150,Harrison,A. Harrison,-40,180,18,Missed,1,0.0,0.0,0,v,MISS Harrison 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,42
+21600368,42,PT06M29.00S,1,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,James REBOUND (Off:0 Def:1),Rebound,Unknown,1,43
+21600368,43,PT06M10.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,-29,72,8,Missed,1,0.0,0.0,0,h,MISS Thompson 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,44
+21600368,45,PT06M09.00S,1,1610612739,CLE,2747,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:1 Def:0),Rebound,Unknown,1,45
+21600368,44,PT06M09.00S,1,1610612739,CLE,2747,Smith,J. Smith,30,18,3,Missed,1,0.0,0.0,0,h,MISS Smith 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,46
+21600368,47,PT06M08.00S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,Love REBOUND (Off:1 Def:1),Rebound,Unknown,1,47
+21600368,46,PT06M07.00S,1,1610612739,CLE,201567,Love,K. Love,0,8,1,Made,1,13.0,8.0,21,h,Love 1' Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,48
+21600368,48,PT06M00.00S,1,0,,1610612763,,,0,0,0,,0,0.0,0.0,0,v,Grizzlies Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,49
+21600368,52,PT05M51.00S,1,1610612763,MEM,203210,Green,J. Green,66,7,7,Missed,1,0.0,0.0,0,v,MISS Green 7' Hook Shot,Missed Shot,Hook Shot,1,50
+21600368,53,PT05M49.00S,1,1610612739,CLE,202732,Liggins,D. Liggins,0,0,0,,0,0.0,0.0,0,h,Liggins REBOUND (Off:0 Def:2),Rebound,Unknown,1,51
+21600368,54,PT05M47.00S,1,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0.0,0.0,0,v,Allen S.FOUL (P2.T3) (S.Twardoski),Foul,Shooting,1,52
+21600368,55,PT05M47.00S,1,1610612739,CLE,2544,James,L. James,0,0,0,,0,14.0,8.0,22,h,James Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,53
+21600368,57,PT05M47.00S,1,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0.0,0.0,0,v,SUB: Carter FOR Allen,Substitution,,0,54
+21600368,58,PT05M47.00S,1,1610612739,CLE,2544,James,L. James,0,0,0,,0,15.0,8.0,23,h,James Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,55
+21600368,60,PT05M38.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,h,Thompson P.FOUL (P1.T1) (M.Davis),Foul,Personal,1,56
+21600368,61,PT05M29.00S,1,1610612763,MEM,1713,Carter,V. Carter,-153,185,24,Made,1,15.0,11.0,26,v,Carter 24' 3PT Jump Shot (3 PTS) (Harrison 1 AST),Made Shot,Jump Shot,1,57
+21600368,63,PT05M10.00S,1,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,James Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,58
+21600368,64,PT04M58.00S,1,1610612763,MEM,1626150,Harrison,A. Harrison,76,232,24,Made,1,15.0,14.0,29,v,Harrison 24' 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,1,59
+21600368,65,PT04M43.00S,1,1610612739,CLE,202732,Liggins,D. Liggins,0,0,0,,0,0.0,0.0,0,h,Liggins Out of Bounds Lost Ball Turnover (P1.T5),Turnover,Out of Bounds Lost Ball Turnover,1,60
+21600368,66,PT04M27.00S,1,1610612763,MEM,203210,Green,J. Green,-1,85,9,Missed,1,0.0,0.0,0,v,MISS Green 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,61
+21600368,66,PT04M27.00S,1,1610612739,CLE,2747,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith BLOCK (1 BLK),,,1,62
+21600368,67,PT04M24.00S,1,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,0.0,0.0,0,v,Green REBOUND (Off:1 Def:0),Rebound,Unknown,1,63
+21600368,68,PT04M22.00S,1,1610612763,MEM,1627786,Williams,T. Williams,-2,-6,1,Made,1,15.0,16.0,31,v,Williams 1' Cutting Layup Shot (4 PTS) (Green 2 AST),Made Shot,Cutting Layup Shot,1,64
+21600368,69,PT04M03.00S,1,1610612739,CLE,2747,Smith,J. Smith,71,169,18,Made,1,17.0,16.0,33,h,Smith 18' Jump Shot (7 PTS),Made Shot,Jump Shot,1,65
+21600368,70,PT03M38.00S,1,1610612763,MEM,1626150,Harrison,A. Harrison,146,203,25,Missed,1,0.0,0.0,0,v,MISS Harrison 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,66
+21600368,71,PT03M38.00S,1,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,James REBOUND (Off:0 Def:2),Rebound,Unknown,1,67
+21600368,73,PT03M28.00S,1,1610612739,CLE,2747,Smith,J. Smith,230,18,0,Made,1,20.0,16.0,36,h,Smith  3PT Jump Shot (10 PTS) (James 2 AST),Made Shot,Jump Shot,1,68
+21600368,74,PT03M12.00S,1,1610612763,MEM,1713,Carter,V. Carter,148,228,27,Missed,1,0.0,0.0,0,v,MISS Carter 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,69
+21600368,75,PT03M11.00S,1,1610612739,CLE,202732,Liggins,D. Liggins,0,0,0,,0,0.0,0.0,0,h,Liggins REBOUND (Off:0 Def:3),Rebound,Unknown,1,70
+21600368,76,PT03M04.00S,1,1610612739,CLE,202732,Liggins,D. Liggins,15,26,3,Missed,1,0.0,0.0,0,h,MISS Liggins 3' Driving Layup,Missed Shot,Driving Layup Shot,1,71
+21600368,76,PT03M04.00S,1,1610612763,MEM,1626150,Harrison,A. Harrison,0,0,0,,0,0.0,0.0,0,v,Harrison BLOCK (1 BLK),,,1,72
+21600368,77,PT03M04.00S,1,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Rebound,Rebound,Unknown,0,73
+21600368,79,PT03M04.00S,1,1610612739,CLE,202732,Liggins,D. Liggins,0,0,0,,0,0.0,0.0,0,h,SUB: Shumpert FOR Liggins,Substitution,,0,74
+21600368,80,PT03M04.00S,1,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,0.0,0.0,0,v,SUB: Martin FOR Green,Substitution,,0,75
+21600368,81,PT03M04.00S,1,1610612763,MEM,1626150,Harrison,A. Harrison,0,0,0,,0,0.0,0.0,0,v,SUB: Douglas FOR Harrison,Substitution,,0,76
+21600368,82,PT02M51.00S,1,1610612739,CLE,2544,James,L. James,15,-6,2,Made,1,22.0,16.0,38,h,James 2' Layup (6 PTS),Made Shot,Layup Shot,1,77
+21600368,83,PT02M37.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,73,0,7,Made,1,22.0,18.0,40,v,Randolph 7' Floating Jump Shot (2 PTS) (Carter 1 AST),Made Shot,Floating Jump shot,1,78
+21600368,84,PT02M23.00S,1,1610612739,CLE,201567,Love,K. Love,92,257,27,Made,1,25.0,18.0,43,h,Love 27' 3PT Jump Shot (7 PTS) (James 3 AST),Made Shot,Jump Shot,1,79
+21600368,86,PT02M12.00S,1,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,80
+21600368,88,PT02M12.00S,1,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,SUB: Jefferson FOR James,Substitution,,0,81
+21600368,90,PT02M01.00S,1,1610612763,MEM,1713,Carter,V. Carter,232,26,0,Missed,1,0.0,0.0,0,v,MISS Carter  3PT Jump Shot,Missed Shot,Jump Shot,1,82
+21600368,91,PT02M00.00S,1,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,0.0,0.0,0,v,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,1,83
+21600368,92,PT01M43.00S,1,1610612763,MEM,201962,Douglas,T. Douglas,-9,16,2,Missed,1,0.0,0.0,0,v,MISS Douglas 2' Driving Layup,Missed Shot,Driving Layup Shot,1,84
+21600368,93,PT01M41.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,h,Thompson REBOUND (Off:1 Def:2),Rebound,Unknown,1,85
+21600368,94,PT01M23.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,-122,21,12,Made,1,27.0,18.0,45,h,Thompson 12' Jump Shot (4 PTS) (Smith 1 AST),Made Shot,Jump Shot,1,86
+21600368,95,PT01M06.00S,1,1610612763,MEM,2216,Randolph,Z. Randolph,-70,13,7,Made,1,27.0,20.0,47,v,Randolph 7' Turnaround Bank Shot (4 PTS),Made Shot,Turnaround Bank shot,1,87
+21600368,96,PT00M52.30S,1,1610612739,CLE,201567,Love,K. Love,-73,43,8,Made,1,29.0,20.0,49,h,Love 8' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,1,88
+21600368,97,PT00M37.90S,1,1610612763,MEM,2216,Randolph,Z. Randolph,159,-16,16,Missed,1,0.0,0.0,0,v,MISS Randolph 16' Jump Shot,Missed Shot,Jump Shot,1,89
+21600368,98,PT00M37.60S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,Love REBOUND (Off:1 Def:2),Rebound,Unknown,1,90
+21600368,99,PT00M30.70S,1,1610612739,CLE,202697,Shumpert,I. Shumpert,-202,229,31,Made,1,32.0,20.0,52,h,Shumpert 31' 3PT Jump Shot (3 PTS) (Smith 2 AST),Made Shot,Jump Shot,1,91
+21600368,100,PT00M17.90S,1,1610612763,MEM,201962,Douglas,T. Douglas,58,31,7,Missed,1,0.0,0.0,0,v,MISS Douglas 7' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,92
+21600368,101,PT00M15.90S,1,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,Love REBOUND (Off:1 Def:3),Rebound,Unknown,1,93
+21600368,102,PT00M00.00S,1,1610612739,CLE,201567,Love,K. Love,156,80,18,Missed,1,0.0,0.0,0,h,MISS Love 18' Jump Shot,Missed Shot,Jump Shot,1,94
+21600368,103,PT00M00.00S,1,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Rebound,Rebound,Unknown,0,95
+21600368,104,PT00M00.00S,1,0,,0,,,0,0,0,,0,32.0,20.0,52,,End of 1st Period (7:34 PM EST),period,end,0,96
+21600368,106,PT12M00.00S,2,0,,0,,,0,0,0,,0,32.0,20.0,52,,Start of 2nd Period (7:37 PM EST),period,start,0,97
+21600368,107,PT11M39.00S,2,1610612763,MEM,203584,Daniels,T. Daniels,-99,154,18,Missed,1,0.0,0.0,0,v,MISS Daniels 18' Jump Shot,Missed Shot,Jump Shot,1,98
+21600368,108,PT11M39.00S,2,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,0.0,0.0,0,v,Green REBOUND (Off:2 Def:0),Rebound,Unknown,1,99
+21600368,109,PT11M39.00S,2,1610612763,MEM,203210,Green,J. Green,25,16,3,Missed,1,0.0,0.0,0,v,MISS Green 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,100
+21600368,111,PT11M37.00S,2,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,0.0,0.0,0,v,Green REBOUND (Off:3 Def:0),Rebound,Unknown,1,101
+21600368,110,PT11M37.00S,2,1610612763,MEM,203210,Green,J. Green,-4,-1,0,Missed,1,0.0,0.0,0,v,MISS Green  Putback Layup,Missed Shot,Putback Layup Shot,1,102
+21600368,110,PT11M37.00S,2,1610612739,CLE,202697,Shumpert,I. Shumpert,0,0,0,,0,0.0,0.0,0,h,Shumpert BLOCK (1 BLK),,,1,103
+21600368,112,PT11M36.00S,2,1610612739,CLE,1627770,Felder,K. Felder,0,0,0,,0,0.0,0.0,0,h,Felder REBOUND (Off:0 Def:1),Rebound,Unknown,1,104
+21600368,113,PT11M34.00S,2,1610612763,MEM,201962,Douglas,T. Douglas,0,0,0,,0,0.0,0.0,0,v,Douglas P.FOUL (P1.T1) (M.Davis),Foul,Personal,1,105
+21600368,114,PT11M25.00S,2,1610612763,MEM,1627738,Davis,D. Davis,0,0,0,,0,0.0,0.0,0,v,Davis S.FOUL (P1.T2) (K.Scott),Foul,Shooting,1,106
+21600368,115,PT11M25.00S,2,1610612739,CLE,101112,Frye,C. Frye,0,0,0,,0,33.0,20.0,53,h,Frye Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,107
+21600368,117,PT11M25.00S,2,1610612739,CLE,101112,Frye,C. Frye,0,0,0,,0,34.0,20.0,54,h,Frye Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,108
+21600368,119,PT11M06.00S,2,1610612763,MEM,203584,Daniels,T. Daniels,0,0,0,,0,0.0,0.0,0,v,Daniels Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,109
+21600368,119,PT11M06.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,James STEAL (1 STL),,,1,110
+21600368,120,PT11M04.00S,2,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,0.0,0.0,0,v,Martin S.FOUL (P1.T3) (S.Twardoski),Foul,Shooting,1,111
+21600368,121,PT11M04.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,MISS James Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,112
+21600368,122,PT11M04.00S,2,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Rebound,Rebound,Normal Rebound,0,113
+21600368,123,PT11M04.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,MISS James Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,114
+21600368,125,PT11M03.00S,2,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,0.0,0.0,0,v,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,1,115
+21600368,127,PT10M54.00S,2,1610612763,MEM,201962,Douglas,T. Douglas,0,0,0,,0,0.0,0.0,0,v,Douglas Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,116
+21600368,127,PT10M54.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,James STEAL (2 STL),,,1,117
+21600368,128,PT10M46.00S,2,1610612739,CLE,2544,James,L. James,159,205,26,Missed,1,0.0,0.0,0,h,MISS James 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,118
+21600368,129,PT10M43.00S,2,1610612763,MEM,201962,Douglas,T. Douglas,0,0,0,,0,0.0,0.0,0,v,Douglas REBOUND (Off:0 Def:1),Rebound,Unknown,1,119
+21600368,130,PT10M32.00S,2,1610612763,MEM,201962,Douglas,T. Douglas,0,0,0,,0,0.0,0.0,0,v,Douglas Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,120
+21600368,131,PT10M10.00S,2,1610612739,CLE,2544,James,L. James,-243,65,25,Missed,1,0.0,0.0,0,h,MISS James 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,121
+21600368,132,PT10M09.00S,2,1610612763,MEM,203584,Daniels,T. Daniels,0,0,0,,0,0.0,0.0,0,v,Daniels REBOUND (Off:0 Def:1),Rebound,Unknown,1,122
+21600368,133,PT10M03.00S,2,1610612739,CLE,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,h,Frye S.FOUL (P1.T1) (K.Scott),Foul,Shooting,1,123
+21600368,134,PT10M03.00S,2,1610612763,MEM,203584,Daniels,T. Daniels,0,0,0,,0,34.0,21.0,55,v,Daniels Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,124
+21600368,136,PT10M03.00S,2,1610612763,MEM,201962,Douglas,T. Douglas,0,0,0,,0,0.0,0.0,0,v,SUB: Harrison FOR Douglas,Substitution,,0,125
+21600368,137,PT10M03.00S,2,1610612763,MEM,203584,Daniels,T. Daniels,0,0,0,,0,34.0,22.0,56,v,Daniels Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,126
+21600368,140,PT09M53.00S,2,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,0.0,0.0,0,v,Martin S.FOUL (P2.T4) (S.Twardoski),Foul,Shooting,1,127
+21600368,141,PT09M53.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,35.0,22.0,57,h,James Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,128
+21600368,143,PT09M53.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,36.0,22.0,58,h,James Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,129
+21600368,146,PT09M33.00S,2,1610612763,MEM,1626150,Harrison,A. Harrison,42,46,6,Missed,1,0.0,0.0,0,v,MISS Harrison 6' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,130
+21600368,147,PT09M32.00S,2,1610612739,CLE,1627770,Felder,K. Felder,0,0,0,,0,0.0,0.0,0,h,Felder REBOUND (Off:0 Def:2),Rebound,Unknown,1,131
+21600368,148,PT09M30.00S,2,1610612739,CLE,2544,James,L. James,-65,31,7,Made,1,38.0,22.0,60,h,James 7' Driving Bank Shot (10 PTS),Made Shot,Driving Bank shot,1,132
+21600368,149,PT09M30.00S,2,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,0.0,0.0,0,v,Martin S.FOUL (P3.PN) (M.Davis),Foul,Shooting,1,133
+21600368,150,PT09M30.00S,2,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,0.0,0.0,0,v,SUB: Williams FOR Martin,Substitution,,0,134
+21600368,151,PT09M30.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,39.0,22.0,61,h,James Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,135
+21600368,154,PT09M21.00S,2,1610612739,CLE,1627770,Felder,K. Felder,0,0,0,,0,0.0,0.0,0,h,Felder P.FOUL (P1.T2) (K.Scott),Foul,Personal,1,136
+21600368,155,PT09M05.00S,2,1610612763,MEM,1627786,Williams,T. Williams,174,242,30,Made,1,39.0,25.0,64,v,Williams 30' 3PT Jump Shot (7 PTS) (Harrison 2 AST),Made Shot,Jump Shot,1,137
+21600368,156,PT08M45.00S,2,1610612739,CLE,2210,Jefferson,R. Jefferson,119,224,25,Missed,1,0.0,0.0,0,h,MISS Jefferson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,138
+21600368,157,PT08M45.00S,2,1610612763,MEM,1627738,Davis,D. Davis,0,0,0,,0,0.0,0.0,0,v,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,1,139
+21600368,158,PT08M39.00S,2,1610612763,MEM,1627786,Williams,T. Williams,1,18,2,Missed,1,0.0,0.0,0,v,MISS Williams 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,140
+21600368,159,PT08M38.00S,2,1610612739,CLE,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,h,Frye REBOUND (Off:0 Def:1),Rebound,Unknown,1,141
+21600368,160,PT08M25.00S,2,1610612739,CLE,101112,Frye,C. Frye,-163,208,26,Missed,1,0.0,0.0,0,h,MISS Frye 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,142
+21600368,161,PT08M24.00S,2,1610612763,MEM,1627786,Williams,T. Williams,0,0,0,,0,0.0,0.0,0,v,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,143
+21600368,162,PT08M09.00S,2,1610612763,MEM,203210,Green,J. Green,-11,156,16,Missed,1,0.0,0.0,0,v,MISS Green 16' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,144
+21600368,163,PT08M08.00S,2,1610612739,CLE,1627770,Felder,K. Felder,0,0,0,,0,0.0,0.0,0,h,Felder REBOUND (Off:0 Def:3),Rebound,Unknown,1,145
+21600368,164,PT07M57.00S,2,1610612739,CLE,202697,Shumpert,I. Shumpert,155,210,26,Missed,1,0.0,0.0,0,h,MISS Shumpert 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,146
+21600368,165,PT07M56.00S,2,1610612763,MEM,1626150,Harrison,A. Harrison,0,0,0,,0,0.0,0.0,0,v,Harrison REBOUND (Off:0 Def:2),Rebound,Unknown,1,147
+21600368,166,PT07M55.00S,2,1610612763,MEM,1626150,Harrison,A. Harrison,33,36,5,Made,1,39.0,27.0,66,v,Harrison 5' Floating Jump Shot (7 PTS),Made Shot,Floating Jump shot,1,148
+21600368,167,PT07M55.00S,2,1610612739,CLE,1627770,Felder,K. Felder,0,0,0,,0,0.0,0.0,0,h,Felder S.FOUL (P2.T3) (M.Davis),Foul,Shooting,1,149
+21600368,169,PT07M55.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,150
+21600368,172,PT07M55.00S,2,1610612763,MEM,1627738,Davis,D. Davis,0,0,0,,0,0.0,0.0,0,v,SUB: Randolph FOR Davis,Substitution,,0,151
+21600368,173,PT07M55.00S,2,1610612763,MEM,1626150,Harrison,A. Harrison,0,0,0,,0,39.0,28.0,67,v,Harrison Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,152
+21600368,176,PT07M37.00S,2,1610612739,CLE,101112,Frye,C. Frye,104,124,16,Missed,1,0.0,0.0,0,h,MISS Frye 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,153
+21600368,177,PT07M34.00S,2,1610612763,MEM,1627786,Williams,T. Williams,0,0,0,,0,0.0,0.0,0,v,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,1,154
+21600368,179,PT07M11.00S,2,0,,1610612763,,,0,0,0,,0,0.0,0.0,0,v,Grizzlies Turnover: Shot Clock (T#7),Turnover,Shot Clock Turnover,0,155
+21600368,180,PT07M11.00S,2,1610612739,CLE,1627770,Felder,K. Felder,0,0,0,,0,0.0,0.0,0,h,SUB: Smith FOR Felder,Substitution,,0,156
+21600368,181,PT06M51.00S,2,1610612739,CLE,2544,James,L. James,1,46,5,Missed,1,0.0,0.0,0,h,MISS James 5' Jump Shot,Missed Shot,Jump Shot,1,157
+21600368,182,PT06M50.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,Randolph REBOUND (Off:1 Def:2),Rebound,Unknown,1,158
+21600368,183,PT06M39.00S,2,1610612763,MEM,1627786,Williams,T. Williams,-233,61,24,Missed,1,0.0,0.0,0,v,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,159
+21600368,184,PT06M39.00S,2,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Rebound,Rebound,Unknown,0,160
+21600368,185,PT06M39.00S,2,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,0.0,0.0,0,v,Green L.B.FOUL (P1.PN) (S.Twardoski),Foul,Loose Ball,1,161
+21600368,186,PT06M39.00S,2,1610612739,CLE,2747,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,MISS Smith Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,162
+21600368,187,PT06M39.00S,2,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Rebound,Rebound,Normal Rebound,0,163
+21600368,188,PT06M39.00S,2,1610612739,CLE,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,h,SUB: Love FOR Jefferson,Substitution,,0,164
+21600368,189,PT06M39.00S,2,1610612739,CLE,2747,Smith,J. Smith,0,0,0,,0,40.0,28.0,68,h,Smith Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,165
+21600368,192,PT06M19.00S,2,1610612763,MEM,1627786,Williams,T. Williams,232,75,24,Missed,1,0.0,0.0,0,v,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,166
+21600368,193,PT06M18.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,Love REBOUND (Off:1 Def:4),Rebound,Unknown,1,167
+21600368,194,PT06M03.00S,2,1610612739,CLE,2544,James,L. James,9,33,3,Made,1,42.0,28.0,70,h,James 3' Layup (13 PTS),Made Shot,Layup Shot,1,168
+21600368,195,PT05M40.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,9,47,5,Missed,1,0.0,0.0,0,v,MISS Randolph 5' Jump Shot,Missed Shot,Jump Shot,1,169
+21600368,196,PT05M40.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,James REBOUND (Off:0 Def:3),Rebound,Unknown,1,170
+21600368,197,PT05M29.00S,2,1610612739,CLE,2544,James,L. James,-212,134,25,Missed,1,0.0,0.0,0,h,MISS James 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,171
+21600368,198,PT05M27.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,Love REBOUND (Off:2 Def:4),Rebound,Unknown,1,172
+21600368,199,PT05M26.00S,2,1610612739,CLE,201567,Love,K. Love,14,31,3,Missed,1,0.0,0.0,0,h,MISS Love 3' Putback Layup,Missed Shot,Putback Layup Shot,1,173
+21600368,199,PT05M26.00S,2,1610612763,MEM,1626150,Harrison,A. Harrison,0,0,0,,0,0.0,0.0,0,v,Harrison BLOCK (2 BLK),,,1,174
+21600368,200,PT05M26.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,James REBOUND (Off:1 Def:3),Rebound,Unknown,1,175
+21600368,201,PT05M25.00S,2,1610612739,CLE,2544,James,L. James,-42,31,5,Made,1,44.0,28.0,72,h,James 5' Jump Bank Shot (15 PTS),Made Shot,Jump Bank Shot,1,176
+21600368,202,PT05M25.00S,2,1610612763,MEM,1626150,Harrison,A. Harrison,0,0,0,,0,0.0,0.0,0,v,Harrison S.FOUL (P1.PN) (M.Davis),Foul,Shooting,1,177
+21600368,203,PT05M25.00S,2,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,178
+21600368,205,PT05M25.00S,2,1610612763,MEM,1627786,Williams,T. Williams,0,0,0,,0,0.0,0.0,0,v,SUB: Allen FOR Williams,Substitution,,0,179
+21600368,206,PT05M25.00S,2,1610612763,MEM,203584,Daniels,T. Daniels,0,0,0,,0,0.0,0.0,0,v,SUB: Carter FOR Daniels,Substitution,,0,180
+21600368,207,PT05M25.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,MISS James Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,181
+21600368,209,PT05M24.00S,2,1610612763,MEM,1713,Carter,V. Carter,0,0,0,,0,0.0,0.0,0,v,Carter REBOUND (Off:0 Def:1),Rebound,Unknown,1,182
+21600368,210,PT05M08.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,96,3,10,Made,1,44.0,30.0,74,v,Randolph 10' Turnaround Bank Shot (6 PTS) (Carter 2 AST),Made Shot,Turnaround Bank shot,1,183
+21600368,211,PT04M47.00S,2,1610612739,CLE,201567,Love,K. Love,-122,31,13,Made,1,46.0,30.0,76,h,Love 13' Turnaround Bank Hook Shot (11 PTS),Made Shot,Turnaround Bank Hook Shot,1,184
+21600368,212,PT04M47.00S,2,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,0.0,0.0,0,v,Green S.FOUL (P2.PN) (S.Twardoski),Foul,Shooting,1,185
+21600368,213,PT04M47.00S,2,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,SUB: Thompson FOR James,Substitution,,0,186
+21600368,214,PT04M47.00S,2,1610612739,CLE,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,h,SUB: Liggins FOR Frye,Substitution,,0,187
+21600368,216,PT04M47.00S,2,0,,2614,,,0,0,0,,0,0.0,0.0,0,,David Fizdale Foul:T.FOUL (S.Twardoski),Foul,Technical,0,188
+21600368,217,PT04M47.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,47.0,30.0,77,h,Love Free Throw Technical (12 PTS),Free Throw,Free Throw Technical,0,189
+21600368,219,PT04M47.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,48.0,30.0,78,h,Love Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,190
+21600368,222,PT04M31.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,-16,-1,2,Made,1,48.0,32.0,80,v,Randolph 2' Driving Layup (8 PTS) (Carter 3 AST),Made Shot,Driving Layup Shot,1,191
+21600368,223,PT04M15.00S,2,1610612739,CLE,202732,Liggins,D. Liggins,-56,46,7,Missed,1,0.0,0.0,0,h,MISS Liggins 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,192
+21600368,223,PT04M15.00S,2,1610612763,MEM,1626150,Harrison,A. Harrison,0,0,0,,0,0.0,0.0,0,v,Harrison BLOCK (3 BLK),,,1,193
+21600368,224,PT04M14.00S,2,1610612739,CLE,202732,Liggins,D. Liggins,0,0,0,,0,0.0,0.0,0,h,Liggins REBOUND (Off:1 Def:3),Rebound,Unknown,1,194
+21600368,225,PT04M07.00S,2,1610612739,CLE,202697,Shumpert,I. Shumpert,0,0,0,,0,0.0,0.0,0,h,Shumpert Double Dribble Turnover (P1.T6),Turnover,Double Dribble,1,195
+21600368,227,PT03M53.00S,2,1610612763,MEM,1626150,Harrison,A. Harrison,115,229,26,Missed,1,0.0,0.0,0,v,MISS Harrison 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,196
+21600368,228,PT03M53.00S,2,0,,1610612763,,,0,0,0,,0,0.0,0.0,0,v,Grizzlies Rebound,Rebound,Unknown,0,197
+21600368,230,PT03M40.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,146,7,15,Missed,1,0.0,0.0,0,v,MISS Randolph 15' Jump Shot,Missed Shot,Jump Shot,1,198
+21600368,231,PT03M40.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,Love REBOUND (Off:2 Def:5),Rebound,Unknown,1,199
+21600368,232,PT03M24.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,Randolph Violation:Kicked Ball (S.Twardoski),Violation,Kicked Ball,0,200
+21600368,233,PT03M20.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,-7,21,2,Missed,1,0.0,0.0,0,h,MISS Thompson 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,201
+21600368,233,PT03M20.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,Randolph BLOCK (1 BLK),,,1,202
+21600368,238,PT03M19.00S,2,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Rebound,Rebound,Unknown,0,203
+21600368,240,PT03M17.00S,2,1610612739,CLE,2747,Smith,J. Smith,-232,-1,0,Made,1,51.0,32.0,83,h,Smith  3PT Jump Shot (14 PTS) (Liggins 1 AST),Made Shot,Jump Shot,1,204
+21600368,235,PT02M58.00S,2,1610612763,MEM,203210,Green,J. Green,18,197,20,Missed,1,0.0,0.0,0,v,MISS Green 20' Jump Shot,Missed Shot,Jump Shot,1,205
+21600368,237,PT02M58.00S,2,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Rebound,Rebound,Unknown,0,206
+21600368,241,PT02M58.00S,2,0,,1610612763,,,0,0,0,,0,0.0,0.0,0,v,Grizzlies Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,207
+21600368,247,PT02M45.00S,2,1610612739,CLE,201567,Love,K. Love,-12,8,1,Made,1,53.0,32.0,85,h,Love 1' Layup (15 PTS) (Shumpert 1 AST),Made Shot,Layup Shot,1,208
+21600368,249,PT02M29.00S,2,1610612763,MEM,2754,Allen,T. Allen,-30,36,5,Made,1,53.0,34.0,87,v,Allen 5' Driving Floating Jump Shot (6 PTS) (Randolph 1 AST),Made Shot,Driving Floating Jump Shot,1,209
+21600368,250,PT02M29.00S,2,1610612739,CLE,202697,Shumpert,I. Shumpert,0,0,0,,0,0.0,0.0,0,h,Shumpert S.FOUL (P1.T4) (S.Twardoski),Foul,Shooting,1,210
+21600368,251,PT02M29.00S,2,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,0.0,0.0,0,v,SUB: Martin FOR Green,Substitution,,0,211
+21600368,252,PT02M29.00S,2,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0.0,0.0,0,v,MISS Allen Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,212
+21600368,254,PT02M28.00S,2,1610612739,CLE,2747,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:1 Def:1),Rebound,Unknown,1,213
+21600368,255,PT02M13.00S,2,1610612739,CLE,2747,Smith,J. Smith,-179,214,28,Made,1,56.0,34.0,90,h,Smith 28' 3PT Jump Shot (17 PTS) (Liggins 2 AST),Made Shot,Jump Shot,1,214
+21600368,257,PT02M00.00S,2,1610612763,MEM,2754,Allen,T. Allen,-20,16,3,Missed,1,0.0,0.0,0,v,MISS Allen 3' Driving Layup,Missed Shot,Driving Layup Shot,1,215
+21600368,257,PT02M00.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,h,Thompson BLOCK (1 BLK),,,1,216
+21600368,258,PT01M58.00S,2,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,0.0,0.0,0,v,Martin REBOUND (Off:2 Def:1),Rebound,Unknown,1,217
+21600368,259,PT01M58.00S,2,1610612763,MEM,1626185,Martin,J. Martin,4,21,2,Made,1,56.0,36.0,92,v,Martin 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,218
+21600368,260,PT01M46.00S,2,1610612739,CLE,202732,Liggins,D. Liggins,87,213,23,Missed,1,0.0,0.0,0,h,MISS Liggins 23' Jump Shot,Missed Shot,Jump Shot,1,219
+21600368,261,PT01M45.00S,2,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,Love REBOUND (Off:3 Def:5),Rebound,Unknown,1,220
+21600368,262,PT01M45.00S,2,1610612739,CLE,201567,Love,K. Love,-1,-6,1,Made,1,58.0,36.0,94,h,Love 1' Tip Layup Shot (17 PTS),Made Shot,Tip Layup Shot,1,221
+21600368,263,PT01M36.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,h,Thompson S.FOUL (P2.PN) (K.Scott),Foul,Shooting,1,222
+21600368,264,PT01M36.00S,2,1610612763,MEM,1626150,Harrison,A. Harrison,0,0,0,,0,0.0,0.0,0,v,MISS Harrison Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,223
+21600368,265,PT01M36.00S,2,0,,1610612763,,,0,0,0,,0,0.0,0.0,0,v,Grizzlies Rebound,Rebound,Normal Rebound,0,224
+21600368,266,PT01M36.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,h,SUB: Frye FOR Thompson,Substitution,,0,225
+21600368,267,PT01M36.00S,2,1610612739,CLE,202732,Liggins,D. Liggins,0,0,0,,0,0.0,0.0,0,h,SUB: James FOR Liggins,Substitution,,0,226
+21600368,268,PT01M36.00S,2,1610612763,MEM,1626150,Harrison,A. Harrison,0,0,0,,0,58.0,37.0,95,v,Harrison Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,227
+21600368,270,PT01M21.00S,2,1610612739,CLE,101112,Frye,C. Frye,-12,257,26,Missed,1,0.0,0.0,0,h,MISS Frye 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,228
+21600368,271,PT01M20.00S,2,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,Randolph REBOUND (Off:1 Def:3),Rebound,Unknown,1,229
+21600368,273,PT01M06.00S,2,1610612763,MEM,1626185,Martin,J. Martin,-197,8,20,Made,1,58.0,39.0,97,v,Martin 20' Jump Shot (4 PTS) (Harrison 3 AST),Made Shot,Jump Shot,1,230
+21600368,275,PT00M50.60S,2,1610612739,CLE,201567,Love,K. Love,-222,-5,0,Missed,1,0.0,0.0,0,h,MISS Love  3PT Jump Shot,Missed Shot,Jump Shot,1,231
+21600368,276,PT00M50.60S,2,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,0.0,0.0,0,v,Martin REBOUND (Off:2 Def:2),Rebound,Unknown,1,232
+21600368,277,PT00M41.70S,2,1610612763,MEM,1626150,Harrison,A. Harrison,-9,2,1,Made,1,58.0,41.0,99,v,Harrison 1' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,1,233
+21600368,278,PT00M22.90S,2,1610612739,CLE,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,h,Frye Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,234
+21600368,278,PT00M22.90S,2,1610612763,MEM,1626150,Harrison,A. Harrison,0,0,0,,0,0.0,0.0,0,v,Harrison STEAL (1 STL),,,1,235
+21600368,279,PT00M18.70S,2,1610612763,MEM,2754,Allen,T. Allen,-7,-5,1,Made,1,58.0,43.0,101,v,Allen 1' Running Layup (8 PTS) (Harrison 4 AST),Made Shot,Running Layup Shot,1,236
+21600368,283,PT00M00.00S,2,0,,0,,,0,0,0,,0,58.0,43.0,101,,Instant Replay2nd Period (8:09 PM EST),Instant Replay,Support Ruling,0,237
+21600368,281,PT00M00.00S,2,0,,0,,,0,0,0,,0,58.0,43.0,101,,End of 2nd Period (8:09 PM EST),period,end,0,238
+21600368,284,PT12M00.00S,3,0,,0,,,0,0,0,,0,58.0,43.0,101,,Start of 3rd Period (8:25 PM EST),period,start,0,239
+21600368,285,PT11M35.00S,3,1610612763,MEM,1626150,Harrison,A. Harrison,-143,247,29,Missed,1,0.0,0.0,0,v,MISS Harrison 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,240
+21600368,286,PT11M35.00S,3,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,Love REBOUND (Off:3 Def:6),Rebound,Unknown,1,241
+21600368,287,PT11M23.00S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,James Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,242
+21600368,287,PT11M23.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,Randolph STEAL (2 STL),,,1,243
+21600368,288,PT11M01.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,189,52,20,Made,1,58.0,45.0,103,v,Randolph 20' Jump Shot (10 PTS) (Allen 1 AST),Made Shot,Jump Shot,1,244
+21600368,290,PT10M36.00S,3,1610612739,CLE,202732,Liggins,D. Liggins,-135,214,25,Missed,1,0.0,0.0,0,h,MISS Liggins 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,245
+21600368,291,PT10M36.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,h,Thompson REBOUND (Off:2 Def:2),Rebound,Unknown,1,246
+21600368,292,PT10M32.00S,3,1610612739,CLE,2747,Smith,J. Smith,164,224,28,Missed,1,0.0,0.0,0,h,MISS Smith 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,247
+21600368,293,PT10M31.00S,3,1610612763,MEM,1627786,Williams,T. Williams,0,0,0,,0,0.0,0.0,0,v,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,1,248
+21600368,294,PT10M16.00S,3,1610612763,MEM,2754,Allen,T. Allen,-17,28,3,Missed,1,0.0,0.0,0,v,MISS Allen 3' Jump Shot,Missed Shot,Jump Shot,1,249
+21600368,294,PT10M16.00S,3,1610612739,CLE,202732,Liggins,D. Liggins,0,0,0,,0,0.0,0.0,0,h,Liggins BLOCK (1 BLK),,,1,250
+21600368,295,PT10M16.00S,3,0,,1610612763,,,0,0,0,,0,0.0,0.0,0,v,Grizzlies Rebound,Rebound,Unknown,0,251
+21600368,297,PT10M13.00S,3,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,0.0,0.0,0,v,Green Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,252
+21600368,297,PT10M13.00S,3,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,Love STEAL (1 STL),,,1,253
+21600368,298,PT10M01.00S,3,1610612763,MEM,1627786,Williams,T. Williams,0,0,0,,0,0.0,0.0,0,v,Williams S.FOUL (P2.T1) (M.Davis),Foul,Shooting,1,254
+21600368,299,PT10M01.00S,3,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,59.0,45.0,104,h,Love Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,255
+21600368,301,PT10M01.00S,3,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,60.0,45.0,105,h,Love Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,256
+21600368,303,PT09M39.00S,3,1610612763,MEM,203210,Green,J. Green,79,193,21,Missed,1,0.0,0.0,0,v,MISS Green 21' Jump Shot,Missed Shot,Jump Shot,1,257
+21600368,304,PT09M39.00S,3,1610612763,MEM,1627786,Williams,T. Williams,0,0,0,,0,0.0,0.0,0,v,Williams REBOUND (Off:1 Def:3),Rebound,Unknown,1,258
+21600368,305,PT09M35.00S,3,1610612763,MEM,1627786,Williams,T. Williams,-6,0,1,Missed,1,0.0,0.0,0,v,MISS Williams 1' Layup,Missed Shot,Layup Shot,1,259
+21600368,306,PT09M32.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,h,Thompson REBOUND (Off:2 Def:3),Rebound,Unknown,1,260
+21600368,307,PT09M27.00S,3,1610612739,CLE,2747,Smith,J. Smith,11,19,2,Missed,1,0.0,0.0,0,h,MISS Smith 2' Layup,Missed Shot,Layup Shot,1,261
+21600368,308,PT09M27.00S,3,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,0.0,0.0,0,v,Green REBOUND (Off:3 Def:1),Rebound,Unknown,1,262
+21600368,309,PT09M15.00S,3,1610612763,MEM,2754,Allen,T. Allen,-2,7,1,Missed,1,0.0,0.0,0,v,MISS Allen 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,263
+21600368,310,PT09M14.00S,3,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,0.0,0.0,0,v,Green REBOUND (Off:4 Def:1),Rebound,Unknown,1,264
+21600368,311,PT09M14.00S,3,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,0.0,0.0,0,v,Green Step Out of Bounds Turnover (P2.T9),Turnover,Step Out of Bounds Turnover,1,265
+21600368,313,PT09M02.00S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,James Out of Bounds - Bad Pass Turnover Turnover (P4.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,266
+21600368,314,PT09M02.00S,3,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,0.0,0.0,0,v,SUB: Martin FOR Green,Substitution,,0,267
+21600368,315,PT08M53.00S,3,1610612763,MEM,1627786,Williams,T. Williams,0,1,0,Made,1,60.0,47.0,107,v,Williams  Cutting Dunk Shot (9 PTS) (Randolph 2 AST),Made Shot,Cutting Dunk Shot,1,268
+21600368,317,PT08M35.00S,3,1610612739,CLE,2544,James,L. James,30,188,19,Made,1,62.0,47.0,109,h,James 19' Jump Shot (17 PTS),Made Shot,Jump Shot,1,269
+21600368,318,PT08M14.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,133,85,16,Missed,1,0.0,0.0,0,v,MISS Randolph 16' Jump Shot,Missed Shot,Jump Shot,1,270
+21600368,319,PT08M14.00S,3,1610612739,CLE,202732,Liggins,D. Liggins,0,0,0,,0,0.0,0.0,0,h,Liggins REBOUND (Off:1 Def:4),Rebound,Unknown,1,271
+21600368,320,PT08M01.00S,3,1610612739,CLE,201567,Love,K. Love,-133,57,14,Missed,1,0.0,0.0,0,h,MISS Love 14' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,272
+21600368,321,PT07M59.00S,3,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,0.0,0.0,0,v,Martin REBOUND (Off:2 Def:3),Rebound,Unknown,1,273
+21600368,322,PT07M54.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,h,Thompson S.FOUL (P3.T1) (M.Davis),Foul,Shooting,1,274
+21600368,323,PT07M54.00S,3,1610612763,MEM,1626150,Harrison,A. Harrison,0,0,0,,0,62.0,48.0,110,v,Harrison Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,275
+21600368,325,PT07M54.00S,3,1610612763,MEM,1626150,Harrison,A. Harrison,0,0,0,,0,62.0,49.0,111,v,Harrison Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,276
+21600368,328,PT07M33.00S,3,1610612739,CLE,2544,James,L. James,79,169,19,Made,1,64.0,49.0,113,h,James 19' Jump Shot (19 PTS),Made Shot,Jump Shot,1,277
+21600368,329,PT07M16.00S,3,1610612763,MEM,2754,Allen,T. Allen,28,41,5,Missed,1,0.0,0.0,0,v,MISS Allen 5' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,278
+21600368,330,PT07M14.00S,3,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,Love REBOUND (Off:3 Def:7),Rebound,Unknown,1,279
+21600368,331,PT07M05.00S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,James Lost Ball Turnover (P5.T10),Turnover,Lost Ball,1,280
+21600368,331,PT07M05.00S,3,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0.0,0.0,0,v,Allen STEAL (1 STL),,,1,281
+21600368,332,PT07M00.00S,3,1610612763,MEM,1627786,Williams,T. Williams,0,1,0,Made,1,64.0,51.0,115,v,Williams  Running Dunk (11 PTS),Made Shot,Running Dunk Shot,1,282
+21600368,333,PT06M37.00S,3,1610612739,CLE,2747,Smith,J. Smith,1,47,5,Missed,1,0.0,0.0,0,h,MISS Smith 5' Jump Shot,Missed Shot,Jump Shot,1,283
+21600368,334,PT06M37.00S,3,1610612739,CLE,2747,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:2 Def:1),Rebound,Unknown,1,284
+21600368,335,PT06M30.00S,3,1610612739,CLE,2747,Smith,J. Smith,209,154,26,Missed,1,0.0,0.0,0,h,MISS Smith 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,285
+21600368,336,PT06M30.00S,3,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,0.0,0.0,0,v,Martin REBOUND (Off:2 Def:4),Rebound,Unknown,1,286
+21600368,337,PT06M19.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,140,237,28,Missed,1,0.0,0.0,0,v,MISS Randolph 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,287
+21600368,338,PT06M19.00S,3,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,Love REBOUND (Off:3 Def:8),Rebound,Unknown,1,288
+21600368,339,PT06M09.00S,3,1610612739,CLE,201567,Love,K. Love,-71,247,26,Made,1,67.0,51.0,118,h,Love 26' 3PT Jump Shot (22 PTS) (James 4 AST),Made Shot,Jump Shot,1,289
+21600368,340,PT06M08.00S,3,0,,1610612763,,,0,0,0,,0,0.0,0.0,0,v,Grizzlies Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,290
+21600368,343,PT06M08.00S,3,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,SUB: Green FOR Randolph,Substitution,,0,291
+21600368,344,PT05M59.00S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,James P.FOUL (P1.T2) (K.Scott),Foul,Personal,1,292
+21600368,345,PT05M46.00S,3,1610612763,MEM,1627786,Williams,T. Williams,1,7,1,Missed,1,0.0,0.0,0,v,MISS Williams 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,293
+21600368,346,PT05M44.00S,3,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,Love REBOUND (Off:3 Def:9),Rebound,Unknown,1,294
+21600368,347,PT05M39.00S,3,1610612739,CLE,202732,Liggins,D. Liggins,227,28,0,Missed,1,0.0,0.0,0,h,MISS Liggins  3PT Jump Shot,Missed Shot,Jump Shot,1,295
+21600368,348,PT05M38.00S,3,0,,1610612763,,,0,0,0,,0,0.0,0.0,0,v,Grizzlies Rebound,Rebound,Unknown,0,296
+21600368,349,PT05M19.00S,3,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,0.0,0.0,0,v,Martin Lost Ball Turnover (P1.T10),Turnover,Lost Ball,1,297
+21600368,349,PT05M19.00S,3,1610612739,CLE,202732,Liggins,D. Liggins,0,0,0,,0,0.0,0.0,0,h,Liggins STEAL (2 STL),,,1,298
+21600368,350,PT05M04.00S,3,1610612739,CLE,2747,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,299
+21600368,350,PT05M04.00S,3,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0.0,0.0,0,v,Allen STEAL (2 STL),,,1,300
+21600368,351,PT05M00.00S,3,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,0.0,0.0,0,v,Martin OFF.Foul (P4) (S.Twardoski),Foul,Offensive,1,301
+21600368,352,PT05M00.00S,3,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,0.0,0.0,0,v,Martin Foul Turnover (P2.T11),Turnover,Foul,1,302
+21600368,354,PT04M36.00S,3,1610612739,CLE,2544,James,L. James,66,85,11,Missed,1,0.0,0.0,0,h,MISS James 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,303
+21600368,355,PT04M35.00S,3,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,0.0,0.0,0,v,Martin REBOUND (Off:2 Def:5),Rebound,Unknown,1,304
+21600368,356,PT04M22.00S,3,1610612763,MEM,1626185,Martin,J. Martin,-156,2,16,Made,1,67.0,53.0,120,v,Martin 16' Jump Shot (6 PTS) (Williams 1 AST),Made Shot,Jump Shot,1,305
+21600368,357,PT04M02.00S,3,1610612739,CLE,2544,James,L. James,-142,7,14,Missed,1,0.0,0.0,0,h,MISS James 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,306
+21600368,358,PT03M59.00S,3,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,0.0,0.0,0,v,Martin REBOUND (Off:2 Def:6),Rebound,Unknown,1,307
+21600368,359,PT03M52.00S,3,1610612763,MEM,1627786,Williams,T. Williams,117,228,26,Missed,1,0.0,0.0,0,v,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,308
+21600368,360,PT03M51.00S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,James REBOUND (Off:1 Def:4),Rebound,Unknown,1,309
+21600368,361,PT03M48.00S,3,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,0.0,0.0,0,v,Martin P.FOUL (P5.T2) (S.Twardoski),Foul,Personal,1,310
+21600368,362,PT03M48.00S,3,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0.0,0.0,0,v,SUB: Davis FOR Allen,Substitution,,0,311
+21600368,363,PT03M48.00S,3,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,0.0,0.0,0,v,SUB: Carter FOR Martin,Substitution,,0,312
+21600368,364,PT03M48.00S,3,1610612739,CLE,202732,Liggins,D. Liggins,0,0,0,,0,0.0,0.0,0,h,SUB: Shumpert FOR Liggins,Substitution,,0,313
+21600368,365,PT03M32.00S,3,1610612739,CLE,2747,Smith,J. Smith,150,208,26,Missed,1,0.0,0.0,0,h,MISS Smith 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,314
+21600368,366,PT03M32.00S,3,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,0.0,0.0,0,v,Green REBOUND (Off:4 Def:2),Rebound,Unknown,1,315
+21600368,367,PT03M20.00S,3,1610612763,MEM,1713,Carter,V. Carter,-237,-1,24,Missed,1,0.0,0.0,0,v,MISS Carter 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,316
+21600368,368,PT03M20.00S,3,1610612739,CLE,2747,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:2 Def:2),Rebound,Unknown,1,317
+21600368,369,PT02M59.00S,3,1610612739,CLE,201567,Love,K. Love,-241,2,24,Missed,1,0.0,0.0,0,h,MISS Love 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,318
+21600368,370,PT02M59.00S,3,1610612763,MEM,1626150,Harrison,A. Harrison,0,0,0,,0,0.0,0.0,0,v,Harrison REBOUND (Off:0 Def:3),Rebound,Unknown,1,319
+21600368,371,PT02M51.00S,3,1610612763,MEM,1626150,Harrison,A. Harrison,-135,223,26,Missed,1,0.0,0.0,0,v,MISS Harrison 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,320
+21600368,372,PT02M50.00S,3,1610612739,CLE,202697,Shumpert,I. Shumpert,0,0,0,,0,0.0,0.0,0,h,Shumpert REBOUND (Off:0 Def:1),Rebound,Unknown,1,321
+21600368,373,PT02M46.00S,3,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,322
+21600368,375,PT02M46.00S,3,1610612763,MEM,1627786,Williams,T. Williams,0,0,0,,0,0.0,0.0,0,v,SUB: Daniels FOR Williams,Substitution,,0,323
+21600368,376,PT02M46.00S,3,1610612763,MEM,1626150,Harrison,A. Harrison,0,0,0,,0,0.0,0.0,0,v,SUB: Douglas FOR Harrison,Substitution,,0,324
+21600368,378,PT02M46.00S,3,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,SUB: Jefferson FOR James,Substitution,,0,325
+21600368,379,PT02M27.00S,3,1610612739,CLE,2210,Jefferson,R. Jefferson,37,21,4,Missed,1,0.0,0.0,0,h,MISS Jefferson 4' Driving Bank Shot,Missed Shot,Driving Bank shot,1,326
+21600368,380,PT02M27.00S,3,1610612739,CLE,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,h,Jefferson REBOUND (Off:1 Def:0),Rebound,Unknown,1,327
+21600368,381,PT02M24.00S,3,1610612739,CLE,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,h,Jefferson Lost Ball Turnover (P1.T12),Turnover,Lost Ball,1,328
+21600368,381,PT02M24.00S,3,1610612763,MEM,201962,Douglas,T. Douglas,0,0,0,,0,0.0,0.0,0,v,Douglas STEAL (1 STL),,,1,329
+21600368,382,PT02M05.00S,3,1610612763,MEM,1627738,Davis,D. Davis,0,1,0,Made,1,67.0,55.0,122,v,Davis  Dunk (2 PTS) (Carter 4 AST),Made Shot,Dunk Shot,1,330
+21600368,383,PT01M48.00S,3,1610612763,MEM,201962,Douglas,T. Douglas,0,0,0,,0,0.0,0.0,0,v,Douglas P.FOUL (P2.T3) (S.Twardoski),Foul,Personal,1,331
+21600368,384,PT01M41.00S,3,1610612739,CLE,2747,Smith,J. Smith,-83,129,15,Missed,1,0.0,0.0,0,h,MISS Smith 15' Jump Shot,Missed Shot,Jump Shot,1,332
+21600368,385,PT01M41.00S,3,1610612763,MEM,1627738,Davis,D. Davis,0,0,0,,0,0.0,0.0,0,v,Davis REBOUND (Off:0 Def:2),Rebound,Unknown,1,333
+21600368,386,PT01M23.00S,3,1610612763,MEM,203210,Green,J. Green,64,169,18,Missed,1,0.0,0.0,0,v,MISS Green 18' Jump Shot,Missed Shot,Jump Shot,1,334
+21600368,387,PT01M22.00S,3,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Rebound,Rebound,Unknown,0,335
+21600368,388,PT01M04.00S,3,1610612739,CLE,201567,Love,K. Love,117,-24,12,Missed,1,0.0,0.0,0,h,MISS Love 12' Jump Shot,Missed Shot,Jump Shot,1,336
+21600368,388,PT01M04.00S,3,1610612763,MEM,201962,Douglas,T. Douglas,0,0,0,,0,0.0,0.0,0,v,Douglas BLOCK (1 BLK),,,1,337
+21600368,389,PT01M04.00S,3,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Rebound,Rebound,Unknown,0,338
+21600368,391,PT01M00.00S,3,1610612739,CLE,2747,Smith,J. Smith,227,-21,0,Made,1,70.0,55.0,125,h,Smith  3PT Jump Shot (20 PTS) (Jefferson 1 AST),Made Shot,Jump Shot,0,339
+21600368,393,PT00M46.20S,3,1610612763,MEM,203584,Daniels,T. Daniels,-233,120,26,Made,1,70.0,58.0,128,v,Daniels 26' 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,1,340
+21600368,394,PT00M32.90S,3,1610612739,CLE,201567,Love,K. Love,140,208,25,Made,1,73.0,58.0,131,h,Love 25' 3PT Jump Shot (25 PTS) (Shumpert 2 AST),Made Shot,Jump Shot,1,341
+21600368,395,PT00M14.90S,3,1610612763,MEM,201962,Douglas,T. Douglas,-122,237,27,Missed,1,0.0,0.0,0,v,MISS Douglas 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,342
+21600368,396,PT00M14.60S,3,1610612739,CLE,2747,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:2 Def:3),Rebound,Unknown,1,343
+21600368,398,PT00M01.20S,3,1610612739,CLE,2747,Smith,J. Smith,-94,174,20,Missed,1,0.0,0.0,0,h,MISS Smith 20' Jump Shot,Missed Shot,Jump Shot,1,344
+21600368,399,PT00M00.90S,3,1610612763,MEM,201962,Douglas,T. Douglas,0,0,0,,0,0.0,0.0,0,v,Douglas REBOUND (Off:0 Def:2),Rebound,Unknown,1,345
+21600368,400,PT00M00.00S,3,1610612763,MEM,201962,Douglas,T. Douglas,-114,575,59,Missed,1,0.0,0.0,0,v,MISS Douglas 59' 3PT Jump Shot,Missed Shot,Jump Shot,1,346
+21600368,401,PT00M00.00S,3,0,,1610612763,,,0,0,0,,0,0.0,0.0,0,v,Grizzlies Rebound,Rebound,Unknown,0,347
+21600368,402,PT00M00.00S,3,0,,0,,,0,0,0,,0,73.0,58.0,131,,End of 3rd Period (8:47 PM EST),period,end,0,348
+21600368,404,PT12M00.00S,4,0,,0,,,0,0,0,,0,73.0,58.0,131,,Start of 4th Period (8:50 PM EST),period,start,0,349
+21600368,405,PT11M47.00S,4,1610612739,CLE,101112,Frye,C. Frye,-240,26,24,Missed,1,0.0,0.0,0,h,MISS Frye 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,350
+21600368,406,PT11M47.00S,4,1610612763,MEM,1713,Carter,V. Carter,0,0,0,,0,0.0,0.0,0,v,Carter REBOUND (Off:0 Def:2),Rebound,Unknown,1,351
+21600368,407,PT11M33.00S,4,1610612763,MEM,203584,Daniels,T. Daniels,-171,247,30,Missed,1,0.0,0.0,0,v,MISS Daniels 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,352
+21600368,408,PT11M32.00S,4,1610612763,MEM,1627738,Davis,D. Davis,0,0,0,,0,0.0,0.0,0,v,Davis REBOUND (Off:1 Def:2),Rebound,Unknown,1,353
+21600368,409,PT11M32.00S,4,1610612763,MEM,1627738,Davis,D. Davis,0,7,1,Made,1,73.0,60.0,133,v,Davis 1' Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,354
+21600368,410,PT11M17.00S,4,1610612739,CLE,202697,Shumpert,I. Shumpert,96,21,10,Missed,1,0.0,0.0,0,h,MISS Shumpert 10' Driving Bank Shot,Missed Shot,Driving Bank shot,1,355
+21600368,411,PT11M14.00S,4,1610612763,MEM,1627738,Davis,D. Davis,0,0,0,,0,0.0,0.0,0,v,Davis REBOUND (Off:1 Def:3),Rebound,Unknown,1,356
+21600368,412,PT11M12.00S,4,1610612739,CLE,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,h,Jefferson P.FOUL (P1.T1) (S.Twardoski),Foul,Personal,1,357
+21600368,413,PT11M06.00S,4,1610612763,MEM,1627738,Davis,D. Davis,0,1,0,Made,1,73.0,62.0,135,v,Davis  Cutting Dunk Shot (6 PTS) (Douglas 1 AST),Made Shot,Cutting Dunk Shot,1,358
+21600368,414,PT11M06.00S,4,1610612739,CLE,202732,Liggins,D. Liggins,0,0,0,,0,0.0,0.0,0,h,Liggins S.FOUL (P1.T2) (M.Davis),Foul,Shooting,1,359
+21600368,415,PT11M06.00S,4,1610612763,MEM,1627738,Davis,D. Davis,0,0,0,,0,0.0,0.0,0,v,MISS Davis Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,360
+21600368,417,PT11M05.00S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,James REBOUND (Off:1 Def:5),Rebound,Unknown,1,361
+21600368,418,PT10M44.00S,4,1610612739,CLE,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,h,Jefferson Traveling Turnover (P2.T13),Turnover,Traveling,1,362
+21600368,419,PT10M34.00S,4,1610612763,MEM,201962,Douglas,T. Douglas,-102,61,12,Made,1,73.0,64.0,137,v,Douglas 12' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,1,363
+21600368,420,PT10M34.00S,4,0,,1610612763,,,0,0,0,,0,0.0,0.0,0,v,Grizzlies Violation: Delay of game Violation,Violation,Delay Of Game,0,364
+21600368,421,PT10M22.00S,4,1610612739,CLE,2210,Jefferson,R. Jefferson,0,1,0,Made,1,75.0,64.0,139,h,Jefferson  Cutting Dunk Shot (2 PTS) (Frye 1 AST),Made Shot,Cutting Dunk Shot,1,365
+21600368,422,PT10M04.00S,4,1610612763,MEM,201962,Douglas,T. Douglas,151,31,15,Made,1,75.0,66.0,141,v,Douglas 15' Jump Shot (4 PTS),Made Shot,Jump Shot,1,366
+21600368,423,PT09M41.00S,4,1610612739,CLE,202697,Shumpert,I. Shumpert,0,0,0,,0,0.0,0.0,0,h,Shumpert Offensive Charge Foul (P2.T3) (M.Davis),Foul,Offensive Charge,1,367
+21600368,424,PT09M41.00S,4,1610612739,CLE,202697,Shumpert,I. Shumpert,0,0,0,,0,0.0,0.0,0,h,Shumpert Foul Turnover (P2.T14),Turnover,Foul,1,368
+21600368,425,PT09M24.00S,4,1610612763,MEM,203584,Daniels,T. Daniels,-178,252,31,Missed,1,0.0,0.0,0,v,MISS Daniels 31' 3PT Jump Shot,Missed Shot,Jump Shot,1,369
+21600368,426,PT09M23.00S,4,1610612739,CLE,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,h,Jefferson REBOUND (Off:1 Def:1),Rebound,Unknown,1,370
+21600368,427,PT09M15.00S,4,1610612739,CLE,101112,Frye,C. Frye,132,223,26,Made,1,78.0,66.0,144,h,Frye 26' 3PT Jump Shot (5 PTS) (James 5 AST),Made Shot,Jump Shot,1,371
+21600368,428,PT08M54.00S,4,1610612763,MEM,201962,Douglas,T. Douglas,-2,159,16,Missed,1,0.0,0.0,0,v,MISS Douglas 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,372
+21600368,429,PT08M52.00S,4,1610612739,CLE,202697,Shumpert,I. Shumpert,0,0,0,,0,0.0,0.0,0,h,Shumpert REBOUND (Off:0 Def:2),Rebound,Unknown,1,373
+21600368,430,PT08M50.00S,4,1610612763,MEM,1627786,Williams,T. Williams,0,0,0,,0,0.0,0.0,0,v,Williams P.FOUL (P3.T1) (K.Scott),Foul,Personal,1,374
+21600368,431,PT08M50.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,375
+21600368,434,PT08M50.00S,4,1610612763,MEM,1713,Carter,V. Carter,0,0,0,,0,0.0,0.0,0,v,SUB: Allen FOR Carter,Substitution,,0,376
+21600368,435,PT08M50.00S,4,1610612763,MEM,1627738,Davis,D. Davis,0,0,0,,0,0.0,0.0,0,v,SUB: Randolph FOR Davis,Substitution,,0,377
+21600368,436,PT08M39.00S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,James Lost Ball Turnover (P6.T15),Turnover,Lost Ball,1,378
+21600368,436,PT08M39.00S,4,1610612763,MEM,201962,Douglas,T. Douglas,0,0,0,,0,0.0,0.0,0,v,Douglas STEAL (2 STL),,,1,379
+21600368,437,PT08M33.00S,4,1610612763,MEM,1627786,Williams,T. Williams,9,2,1,Made,1,78.0,68.0,146,v,Williams 1' Running Reverse Layup (13 PTS) (Douglas 2 AST),Made Shot,Running Reverse Layup Shot,1,380
+21600368,438,PT08M21.00S,4,1610612739,CLE,202697,Shumpert,I. Shumpert,-2,2,0,Made,1,80.0,68.0,148,h,Shumpert  Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,381
+21600368,440,PT07M57.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,-68,47,8,Made,1,80.0,70.0,150,v,Randolph 8' Driving Floating Jump Shot (12 PTS) (Daniels 1 AST),Made Shot,Driving Floating Jump Shot,1,382
+21600368,441,PT07M45.00S,4,1610612739,CLE,202732,Liggins,D. Liggins,230,-10,0,Made,1,83.0,70.0,153,h,Liggins  3PT Jump Shot (3 PTS) (James 6 AST),Made Shot,Jump Shot,1,383
+21600368,442,PT07M20.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,132,11,13,Made,1,83.0,72.0,155,v,Randolph 13' Step Back Jump Shot (14 PTS),Made Shot,Step Back Jump shot,1,384
+21600368,443,PT07M06.00S,4,1610612739,CLE,202697,Shumpert,I. Shumpert,159,254,30,Missed,1,0.0,0.0,0,h,MISS Shumpert 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,385
+21600368,444,PT07M06.00S,4,1610612763,MEM,1627786,Williams,T. Williams,0,0,0,,0,0.0,0.0,0,v,Williams REBOUND (Off:1 Def:4),Rebound,Unknown,1,386
+21600368,445,PT06M56.00S,4,1610612739,CLE,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,h,Frye P.FOUL (P2.T4) (M.Davis),Foul,Personal,1,387
+21600368,446,PT06M56.00S,4,1610612739,CLE,202697,Shumpert,I. Shumpert,0,0,0,,0,0.0,0.0,0,h,SUB: Love FOR Shumpert,Substitution,,0,388
+21600368,447,PT06M47.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,-56,26,6,Made,1,83.0,74.0,157,v,Randolph 6' Driving Hook Shot (16 PTS) (Douglas 3 AST),Made Shot,Driving Hook Shot,1,389
+21600368,448,PT06M37.00S,4,1610612763,MEM,201962,Douglas,T. Douglas,0,0,0,,0,0.0,0.0,0,v,Douglas P.FOUL (P3.T2) (K.Scott),Foul,Personal,1,390
+21600368,449,PT06M37.00S,4,1610612763,MEM,201962,Douglas,T. Douglas,0,0,0,,0,0.0,0.0,0,v,SUB: Harrison FOR Douglas,Substitution,,0,391
+21600368,450,PT06M26.00S,4,1610612739,CLE,101112,Frye,C. Frye,73,13,7,Made,1,85.0,74.0,159,h,Frye 7' Jump Shot (7 PTS) (James 7 AST),Made Shot,Jump Shot,1,392
+21600368,451,PT06M26.00S,4,1610612763,MEM,1627786,Williams,T. Williams,0,0,0,,0,0.0,0.0,0,v,Williams S.FOUL (P4.T3) (K.Scott),Foul,Shooting,1,393
+21600368,452,PT06M26.00S,4,1610612739,CLE,101112,Frye,C. Frye,0,0,0,,0,86.0,74.0,160,h,Frye Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,394
+21600368,454,PT06M11.00S,4,1610612763,MEM,203584,Daniels,T. Daniels,0,0,0,,0,0.0,0.0,0,v,Daniels Lost Ball Turnover (P2.T12),Turnover,Lost Ball,1,395
+21600368,454,PT06M11.00S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,James STEAL (3 STL),,,1,396
+21600368,455,PT06M11.00S,4,1610612763,MEM,203584,Daniels,T. Daniels,0,0,0,,0,0.0,0.0,0,v,Daniels P.FOUL (P1.T4) (S.Twardoski),Foul,Personal,1,397
+21600368,456,PT06M11.00S,4,1610612739,CLE,101112,Frye,C. Frye,0,0,0,,0,0.0,0.0,0,h,SUB: Thompson FOR Frye,Substitution,,0,398
+21600368,457,PT06M11.00S,4,1610612763,MEM,203584,Daniels,T. Daniels,0,0,0,,0,0.0,0.0,0,v,SUB: Martin FOR Daniels,Substitution,,0,399
+21600368,459,PT05M56.00S,4,1610612739,CLE,2544,James,L. James,171,185,25,Missed,1,0.0,0.0,0,h,MISS James 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,400
+21600368,460,PT05M54.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,Randolph REBOUND (Off:1 Def:4),Rebound,Unknown,1,401
+21600368,461,PT05M51.00S,4,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0.0,0.0,0,v,Allen Offensive Charge Foul (P3.PN) (K.Scott),Foul,Offensive Charge,1,402
+21600368,462,PT05M51.00S,4,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0.0,0.0,0,v,Allen Foul Turnover (P1.T13),Turnover,Foul,1,403
+21600368,463,PT05M51.00S,4,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,404
+21600368,467,PT05M41.00S,4,1610612739,CLE,2544,James,L. James,-9,-6,1,Made,1,88.0,74.0,162,h,James 1' Layup (21 PTS) (Love 2 AST),Made Shot,Layup Shot,1,405
+21600368,469,PT05M37.00S,4,1610612739,CLE,2210,Jefferson,R. Jefferson,0,0,0,,0,0.0,0.0,0,h,SUB: Smith FOR Jefferson,Substitution,,0,406
+21600368,470,PT05M20.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,Randolph Bad Pass Turnover (P1.T14),Turnover,Bad Pass,1,407
+21600368,470,PT05M20.00S,4,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,Love STEAL (2 STL),,,1,408
+21600368,471,PT05M12.00S,4,1610612739,CLE,201567,Love,K. Love,-1,2,0,Made,1,90.0,74.0,164,h,Love  Cutting Layup Shot (27 PTS) (James 8 AST),Made Shot,Cutting Layup Shot,1,409
+21600368,472,PT05M12.00S,4,0,,1610612763,,,0,0,0,,0,0.0,0.0,0,v,Grizzlies Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,410
+21600368,475,PT05M12.00S,4,1610612763,MEM,1627786,Williams,T. Williams,0,0,0,,0,0.0,0.0,0,v,SUB: Daniels FOR Williams,Substitution,,0,411
+21600368,476,PT04M56.00S,4,1610612763,MEM,1626150,Harrison,A. Harrison,-166,61,18,Missed,1,0.0,0.0,0,v,MISS Harrison 18' Jump Shot,Missed Shot,Jump Shot,1,412
+21600368,477,PT04M55.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,h,Thompson REBOUND (Off:2 Def:4),Rebound,Unknown,1,413
+21600368,480,PT04M55.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,h,Thompson Poss Lost Ball Turnover (P1.T16),Turnover,Poss Lost Ball Turnover,1,414
+21600368,480,PT04M55.00S,4,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0.0,0.0,0,v,Allen STEAL (3 STL),,,1,415
+21600368,478,PT04M55.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,h,Jump Ball Thompson vs. Allen: Tip to Martin,Jump Ball,,1,416
+21600368,479,PT04M47.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,-2,7,1,Made,1,90.0,76.0,166,v,Randolph 1' Layup (18 PTS) (Martin 1 AST),Made Shot,Layup Shot,1,417
+21600368,481,PT04M34.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,Randolph P.FOUL (P1.PN) (S.Twardoski),Foul,Personal,1,418
+21600368,482,PT04M34.00S,4,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,91.0,76.0,167,h,Love Free Throw 1 of 2 (28 PTS),Free Throw,Free Throw 1 of 2,0,419
+21600368,484,PT04M34.00S,4,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,92.0,76.0,168,h,Love Free Throw 2 of 2 (29 PTS),Free Throw,Free Throw 2 of 2,0,420
+21600368,487,PT04M20.00S,4,1610612763,MEM,203584,Daniels,T. Daniels,153,262,30,Missed,1,0.0,0.0,0,v,MISS Daniels 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,421
+21600368,488,PT04M20.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,h,Thompson REBOUND (Off:2 Def:5),Rebound,Unknown,1,422
+21600368,489,PT04M01.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,-4,3,1,Made,1,94.0,76.0,170,h,Thompson 1' Reverse Layup (6 PTS) (Liggins 3 AST),Made Shot,Reverse Layup Shot,1,423
+21600368,490,PT03M59.00S,4,1610612763,MEM,1626150,Harrison,A. Harrison,0,0,0,,0,0.0,0.0,0,v,Harrison OFF.Foul (P2) (K.Scott),Foul,Offensive,1,424
+21600368,491,PT03M59.00S,4,1610612763,MEM,1626150,Harrison,A. Harrison,0,0,0,,0,0.0,0.0,0,v,Harrison Foul Turnover (P2.T15),Turnover,Foul,1,425
+21600368,492,PT03M59.00S,4,1610612763,MEM,2754,Allen,T. Allen,0,0,0,,0,0.0,0.0,0,v,SUB: Williams FOR Allen,Substitution,,0,426
+21600368,494,PT03M59.00S,4,1610612763,MEM,1626150,Harrison,A. Harrison,0,0,0,,0,0.0,0.0,0,v,SUB: Baldwin FOR Harrison,Substitution,,0,427
+21600368,495,PT03M47.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,28,46,5,Missed,1,0.0,0.0,0,h,MISS Thompson 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,428
+21600368,495,PT03M47.00S,4,1610612763,MEM,1627735,Baldwin,W. Baldwin IV,0,0,0,,0,0.0,0.0,0,v,Baldwin BLOCK (1 BLK),,,1,429
+21600368,496,PT03M45.00S,4,1610612763,MEM,203584,Daniels,T. Daniels,0,0,0,,0,0.0,0.0,0,v,Daniels REBOUND (Off:0 Def:2),Rebound,Unknown,1,430
+21600368,497,PT03M41.00S,4,1610612763,MEM,1627786,Williams,T. Williams,20,11,2,Missed,1,0.0,0.0,0,v,MISS Williams 2' Running Layup,Missed Shot,Running Layup Shot,1,431
+21600368,498,PT03M39.00S,4,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,Love REBOUND (Off:3 Def:10),Rebound,Unknown,1,432
+21600368,499,PT03M34.00S,4,1610612739,CLE,2544,James,L. James,-4,-6,1,Made,1,96.0,76.0,172,h,James 1' Driving Layup (23 PTS) (Love 3 AST),Made Shot,Driving Layup Shot,1,433
+21600368,500,PT03M22.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,h,Thompson S.FOUL (P4.PN) (S.Twardoski),Foul,Shooting,1,434
+21600368,501,PT03M22.00S,4,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,96.0,77.0,173,v,Martin Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,435
+21600368,503,PT03M22.00S,4,1610612739,CLE,2544,James,L. James,0,0,0,,0,0.0,0.0,0,h,SUB: McRae FOR James,Substitution,,0,436
+21600368,504,PT03M22.00S,4,1610612763,MEM,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,v,SUB: Green FOR Randolph,Substitution,,0,437
+21600368,505,PT03M22.00S,4,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,96.0,78.0,174,v,Martin Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,438
+21600368,508,PT03M04.00S,4,1610612739,CLE,2747,Smith,J. Smith,137,218,26,Made,1,99.0,78.0,177,h,Smith 26' 3PT Jump Shot (23 PTS) (Liggins 4 AST),Made Shot,Jump Shot,1,439
+21600368,509,PT02M56.00S,4,1610612739,CLE,202732,Liggins,D. Liggins,0,0,0,,0,0.0,0.0,0,h,Liggins P.FOUL (P2.PN) (S.Twardoski),Foul,Personal,1,440
+21600368,510,PT02M56.00S,4,1610612763,MEM,1627735,Baldwin,W. Baldwin IV,0,0,0,,0,99.0,79.0,178,v,Baldwin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,441
+21600368,512,PT02M56.00S,4,1610612739,CLE,201567,Love,K. Love,0,0,0,,0,0.0,0.0,0,h,SUB: Andersen FOR Love,Substitution,,0,442
+21600368,513,PT02M56.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,h,SUB: Jones FOR Thompson,Substitution,,0,443
+21600368,514,PT02M56.00S,4,1610612739,CLE,2747,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,SUB: Felder FOR Smith,Substitution,,0,444
+21600368,515,PT02M56.00S,4,1610612763,MEM,1627735,Baldwin,W. Baldwin IV,0,0,0,,0,99.0,80.0,179,v,Baldwin Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,445
+21600368,519,PT02M32.00S,4,1610612739,CLE,1627770,Felder,K. Felder,141,52,15,Missed,1,0.0,0.0,0,h,MISS Felder 15' Jump Shot,Missed Shot,Jump Shot,1,446
+21600368,520,PT02M32.00S,4,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,0.0,0.0,0,v,Martin REBOUND (Off:2 Def:7),Rebound,Unknown,1,447
+21600368,521,PT02M22.00S,4,1610612763,MEM,1626185,Martin,J. Martin,-52,61,8,Missed,1,0.0,0.0,0,v,MISS Martin 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,448
+21600368,522,PT02M21.00S,4,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,0.0,0.0,0,v,Green REBOUND (Off:5 Def:2),Rebound,Unknown,1,449
+21600368,523,PT02M17.00S,4,1610612763,MEM,203210,Green,J. Green,0,1,0,Made,1,99.0,82.0,181,v,Green  Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,1,450
+21600368,524,PT01M52.00S,4,1610612739,CLE,202732,Liggins,D. Liggins,-4,11,1,Missed,1,0.0,0.0,0,h,MISS Liggins 1' Driving Layup,Missed Shot,Driving Layup Shot,1,451
+21600368,525,PT01M51.00S,4,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,0.0,0.0,0,v,Green REBOUND (Off:5 Def:3),Rebound,Unknown,1,452
+21600368,526,PT01M41.00S,4,1610612763,MEM,1627786,Williams,T. Williams,0,0,0,,0,0.0,0.0,0,v,Williams Lost Ball Turnover (P3.T16),Turnover,Lost Ball,1,453
+21600368,526,PT01M41.00S,4,1610612739,CLE,203895,McRae,J. McRae,0,0,0,,0,0.0,0.0,0,h,McRae STEAL (1 STL),,,1,454
+21600368,527,PT01M38.00S,4,1610612763,MEM,1627786,Williams,T. Williams,0,0,0,,0,0.0,0.0,0,v,Williams P.FOUL (P5.PN) (K.Scott),Foul,Personal,1,455
+21600368,528,PT01M38.00S,4,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Timeout: Short (Full 4 Short 1),Timeout,Short,0,456
+21600368,531,PT01M38.00S,4,1610612763,MEM,203210,Green,J. Green,0,0,0,,0,0.0,0.0,0,v,SUB: Douglas FOR Green,Substitution,,0,457
+21600368,532,PT01M38.00S,4,1610612739,CLE,202732,Liggins,D. Liggins,0,0,0,,0,0.0,0.0,0,h,MISS Liggins Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,458
+21600368,533,PT01M38.00S,4,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Rebound,Rebound,Normal Rebound,0,459
+21600368,534,PT01M38.00S,4,1610612739,CLE,202732,Liggins,D. Liggins,0,0,0,,0,0.0,0.0,0,h,MISS Liggins Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,460
+21600368,536,PT01M37.00S,4,1610612763,MEM,1626185,Martin,J. Martin,0,0,0,,0,0.0,0.0,0,v,Martin REBOUND (Off:2 Def:8),Rebound,Unknown,1,461
+21600368,537,PT01M23.00S,4,1610612763,MEM,203584,Daniels,T. Daniels,166,203,26,Missed,1,0.0,0.0,0,v,MISS Daniels 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,462
+21600368,538,PT01M23.00S,4,1610612763,MEM,1627786,Williams,T. Williams,0,0,0,,0,0.0,0.0,0,v,Williams REBOUND (Off:2 Def:4),Rebound,Unknown,1,463
+21600368,539,PT01M19.00S,4,1610612763,MEM,1627786,Williams,T. Williams,84,0,8,Missed,1,0.0,0.0,0,v,MISS Williams 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,464
+21600368,540,PT01M17.00S,4,1610612739,CLE,203895,McRae,J. McRae,0,0,0,,0,0.0,0.0,0,h,McRae REBOUND (Off:0 Def:1),Rebound,Unknown,1,465
+21600368,541,PT01M11.00S,4,1610612739,CLE,203895,McRae,J. McRae,-4,-1,0,Made,1,101.0,82.0,183,h,McRae  Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,466
+21600368,542,PT01M01.00S,4,1610612739,CLE,1627770,Felder,K. Felder,0,0,0,,0,0.0,0.0,0,h,Felder S.FOUL (P3.PN) (S.Twardoski),Foul,Shooting,1,467
+21600368,543,PT01M01.00S,4,1610612763,MEM,1627735,Baldwin,W. Baldwin IV,0,0,0,,0,101.0,83.0,184,v,Baldwin Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,468
+21600368,545,PT01M01.00S,4,1610612763,MEM,1627735,Baldwin,W. Baldwin IV,0,0,0,,0,101.0,84.0,185,v,Baldwin Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,469
+21600368,548,PT00M54.50S,4,1610612739,CLE,203895,McRae,J. McRae,0,0,0,,0,0.0,0.0,0,h,McRae OFF.Foul (P1) (M.Davis),Foul,Offensive,1,470
+21600368,549,PT00M54.50S,4,1610612739,CLE,203895,McRae,J. McRae,0,0,0,,0,0.0,0.0,0,h,McRae Foul Turnover (P1.T17),Turnover,Foul,1,471
+21600368,550,PT00M48.30S,4,1610612763,MEM,1627735,Baldwin,W. Baldwin IV,-1,169,17,Made,1,101.0,86.0,187,v,Baldwin 17' Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,1,472
+21600368,552,PT00M34.00S,4,1610612739,CLE,1627770,Felder,K. Felder,155,28,16,Made,1,103.0,86.0,189,h,Felder 16' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,473
+21600368,553,PT00M27.80S,4,1610612763,MEM,1627786,Williams,T. Williams,12,11,2,Missed,1,0.0,0.0,0,v,MISS Williams 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,474
+21600368,554,PT00M26.20S,4,1610612739,CLE,1627770,Felder,K. Felder,0,0,0,,0,0.0,0.0,0,h,Felder REBOUND (Off:0 Def:4),Rebound,Unknown,1,475
+21600368,556,PT00M05.20S,4,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Turnover: Shot Clock (T#18),Turnover,Shot Clock Turnover,0,476
+21600368,558,PT00M00.00S,4,0,,0,,,0,0,0,,0,103.0,86.0,189,,End of 4th Period (9:22 PM EST),period,end,1,477
