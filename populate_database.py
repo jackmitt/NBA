@@ -489,9 +489,18 @@ def lineups_on_court():
                 if (game_pbp.at[index,'teamId'] == h_team and game_pbp.at[index,'personId'] not in h_players_found and game_pbp.at[index,'personId'] in unaccounted_game_time['home']):
                     h_players_found.append(game_pbp.at[index,'personId'])
                     dict['h_player_'+str(len(h_players_found))] = game_pbp.at[index,'personId']
+                    if (len(h_players_found) > 5):
+                        print ("ERROR: 6 Players Thought to be on court", gid)
+                        bad_gids.append(gid)
+                        log_error = True
+                        
                 if (game_pbp.at[index,'teamId'] == a_team and game_pbp.at[index,'personId'] not in a_players_found and game_pbp.at[index,'personId'] in unaccounted_game_time['away']):
                     a_players_found.append(game_pbp.at[index,'personId'])
                     dict['a_player_'+str(len(a_players_found))] = game_pbp.at[index,'personId']
+                    if (len(a_players_found) > 5):
+                        print ("ERROR: 6 Players Thought to be on court", gid)
+                        bad_gids.append(gid)
+                        log_error = True
                 if (len(a_players_found) == 5 and len(h_players_found) == 5):
                     new_lineup = False
 
@@ -527,9 +536,17 @@ def lineups_on_court():
                             if (game_pbp.at[j,'teamId'] == h_team and game_pbp.at[j,'personId'] not in h_players_found and game_pbp.at[j,'personId'] not in h_subbed_on and game_pbp.at[j,'personId'] in unaccounted_game_time['home']):
                                 h_players_found.append(game_pbp.at[j,'personId'])
                                 dict['h_player_'+str(len(h_players_found))] = game_pbp.at[j,'personId']
+                                if (len(h_players_found) > 5):
+                                    print ("ERROR: 6 Players Thought to be on court", gid)
+                                    bad_gids.append(gid)
+                                    log_error = True
                             if (game_pbp.at[j,'teamId'] == a_team and game_pbp.at[j,'personId'] not in a_players_found and game_pbp.at[j,'personId'] not in a_subbed_on and game_pbp.at[j,'personId'] in unaccounted_game_time['away']):
                                 a_players_found.append(game_pbp.at[j,'personId'])
                                 dict['a_player_'+str(len(a_players_found))] = game_pbp.at[j,'personId']
+                                if (len(a_players_found) > 5):
+                                    print ("ERROR: 6 Players Thought to be on court", gid)
+                                    bad_gids.append(gid)
+                                    log_error = True
                             if (len(a_players_found) == 5 and len(h_players_found) == 5):
                                 new_lineup = False
                                 break
