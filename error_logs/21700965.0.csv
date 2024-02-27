@@ -1,0 +1,31 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId,clock_sec
+21700965,185,PT08M31.00S,2,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,,,0,h,Stephenson REBOUND (Off:1 Def:0),Rebound,Unknown,1,136,929.0
+21700965,186,PT08M31.00S,2,1610612762,UTA,203109,Crowder,J. Crowder,0,0,0,,0,,,0,v,Crowder P.FOUL (P2.T3) (D.Taylor),Foul,Personal,1,137,929.0
+21700965,188,PT08M31.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,138,929.0
+21700965,189,PT08M31.00S,2,1610612754,IND,202362,Stephenson,L. Stephenson,0,0,0,,0,,,0,h,SUB: Oladipo FOR Stephenson,Substitution,,0,139,929.0
+21700965,190,PT08M31.00S,2,1610612754,IND,1626202,Young,J. Young,0,0,0,,0,,,0,h,SUB: Joseph FOR J. Young,Substitution,,0,140,929.0
+21700965,191,PT08M31.00S,2,1610612762,UTA,201973,Jerebko,J. Jerebko,0,0,0,,0,,,0,v,SUB: Gobert FOR Jerebko,Substitution,,0,141,929.0
+21700965,192,PT08M31.00S,2,1610612762,UTA,203526,Neto,R. Neto,0,0,0,,0,,,0,v,SUB: Ingles FOR Neto,Substitution,,0,142,929.0
+21700965,193,PT08M31.00S,2,1610612762,UTA,203109,Crowder,J. Crowder,0,0,0,,0,,,0,v,SUB: Rubio FOR Crowder,Substitution,,0,143,929.0
+21700965,200,PT08M08.00S,2,1610612754,IND,1627734,Sabonis,D. Sabonis,6,16,2,Made,1,26.0,38.0,64,h,Sabonis 2' Driving Dunk (2 PTS) (Oladipo 3 AST),Made Shot,Driving Dunk Shot,1,144,952.0
+21700965,202,PT07M51.00S,2,1610612762,UTA,201937,Rubio,R. Rubio,0,193,19,Made,1,26.0,40.0,66,v,Rubio 19' Jump Shot (5 PTS) (Ingles 3 AST),Made Shot,Jump Shot,1,145,969.0
+21700965,204,PT07M35.00S,2,1610612754,IND,203506,Oladipo,V. Oladipo,0,0,0,,0,,,0,h,Oladipo Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,146,985.0
+21700965,204,PT07M35.00S,2,1610612762,UTA,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,v,O'Neale STEAL (1 STL),,,1,147,985.0
+21700965,206,PT07M20.00S,2,1610612762,UTA,201937,Rubio,R. Rubio,-29,194,20,Made,1,26.0,42.0,68,v,Rubio 20' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,148,1000.0
+21700965,207,PT07M00.00S,2,1610612754,IND,1627734,Sabonis,D. Sabonis,-53,1,5,Made,1,28.0,42.0,70,h,Sabonis 5' Hook Shot (4 PTS) (Oladipo 4 AST),Made Shot,Hook Shot,1,149,1020.0
+21700965,209,PT06M49.00S,2,1610612762,UTA,201937,Rubio,R. Rubio,-9,10,1,Missed,1,,,0,v,MISS Rubio 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,150,1031.0
+21700965,210,PT06M47.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert REBOUND (Off:1 Def:2),Rebound,Unknown,1,151,1033.0
+21700965,211,PT06M47.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,-3,-4,1,Made,1,28.0,44.0,72,v,Gobert 1' Putback Dunk (8 PTS),Made Shot,Putback Dunk Shot,1,152,1033.0
+21700965,212,PT06M33.00S,2,1610612754,IND,203506,Oladipo,V. Oladipo,-46,264,27,Missed,1,,,0,h,MISS Oladipo 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,153,1047.0
+21700965,213,PT06M31.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert REBOUND (Off:1 Def:3),Rebound,Unknown,1,154,1049.0
+21700965,214,PT06M09.00S,2,1610612762,UTA,202324,Favors,D. Favors,-9,264,26,Missed,1,,,0,v,MISS Favors 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,155,1071.0
+21700965,215,PT06M06.00S,2,1610612754,IND,203506,Oladipo,V. Oladipo,0,0,0,,0,,,0,h,Oladipo REBOUND (Off:0 Def:1),Rebound,Unknown,1,156,1074.0
+21700965,216,PT05M58.00S,2,1610612754,IND,203506,Oladipo,V. Oladipo,46,197,20,Missed,1,,,0,h,MISS Oladipo 20' Jump Shot,Missed Shot,Jump Shot,1,157,1082.0
+21700965,217,PT05M56.00S,2,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,v,Favors REBOUND (Off:1 Def:4),Rebound,Unknown,1,158,1084.0
+21700965,218,PT05M38.00S,2,1610612762,UTA,201937,Rubio,R. Rubio,-161,43,17,Missed,1,,,0,v,MISS Rubio 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,159,1102.0
+21700965,219,PT05M35.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert REBOUND (Off:2 Def:3),Rebound,Unknown,1,160,1105.0
+21700965,220,PT05M32.00S,2,1610612762,UTA,201937,Rubio,R. Rubio,-3,6,1,Missed,1,,,0,v,MISS Rubio 1' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,1,161,1108.0
+21700965,221,PT05M30.00S,2,1610612754,IND,202709,Joseph,C. Joseph,0,0,0,,0,,,0,h,Joseph REBOUND (Off:0 Def:3),Rebound,Unknown,1,162,1110.0
+21700965,222,PT05M28.00S,2,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,,,0,v,Ingles Personal Take Foul (P1.T4) (D.Taylor),Foul,Personal Take,1,163,1112.0
+21700965,224,PT05M28.00S,2,1610612754,IND,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,h,SUB: Turner FOR Sabonis,Substitution,,0,164,1112.0
+21700965,225,PT05M28.00S,2,1610612762,UTA,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,v,SUB: Mitchell FOR O'Neale,Substitution,,0,165,1112.0

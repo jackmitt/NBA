@@ -1,0 +1,502 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+42000204,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (7:46 PM EST),period,start,0,1
+42000204,4,PT12M00.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Jump Ball Capela vs. Embiid: Tip to Young,Jump Ball,,1,2
+42000204,7,PT11M47.00S,1,1610612737,ATL,1628989,Huerter,K. Huerter,3,117,12,Missed,1,,,0,h,MISS Huerter 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,3
+42000204,8,PT11M44.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:0 Def:1),Rebound,Unknown,1,4
+42000204,9,PT11M31.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,133,32,14,Missed,1,,,0,v,MISS Embiid 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,5
+42000204,10,PT11M26.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:0 Def:1),Rebound,Unknown,1,6
+42000204,11,PT11M19.00S,1,1610612737,ATL,1628381,Collins,J. Collins,78,238,25,Missed,1,,,0,h,MISS Collins 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,7
+42000204,12,PT11M16.00S,1,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons REBOUND (Off:0 Def:1),Rebound,Unknown,1,8
+42000204,13,PT11M12.00S,1,1610612755,PHI,1627732,Simmons,B. Simmons,28,35,4,Missed,1,,,0,v,MISS Simmons 4' Running Layup,Missed Shot,Running Layup Shot,1,9
+42000204,14,PT11M08.00S,1,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,h,Bogdanovic REBOUND (Off:0 Def:1),Rebound,Unknown,1,10
+42000204,15,PT11M03.00S,1,1610612737,ATL,203991,Capela,C. Capela,-1,2,0,Made,1,2.0,0.0,2,h,Capela Running Layup (2 PTS) (Young 1 AST),Made Shot,Running Layup Shot,1,11
+42000204,17,PT10M41.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,-26,167,17,Missed,1,,,0,v,MISS Embiid 17' Jump Shot,Missed Shot,Jump Shot,1,12
+42000204,18,PT10M38.00S,1,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins REBOUND (Off:0 Def:1),Rebound,Unknown,1,13
+42000204,19,PT10M30.00S,1,1610612737,ATL,1629027,Young,T. Young,-43,248,25,Missed,1,,,0,h,MISS Young 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,14
+42000204,20,PT10M24.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:0 Def:2),Rebound,Unknown,1,15
+42000204,21,PT10M20.00S,1,1610612755,PHI,1627732,Simmons,B. Simmons,12,14,2,Missed,1,,,0,v,MISS Simmons 2' Running Layup,Missed Shot,Running Layup Shot,1,16
+42000204,22,PT10M16.00S,1,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins REBOUND (Off:0 Def:2),Rebound,Unknown,1,17
+42000204,23,PT10M10.00S,1,1610612737,ATL,1629027,Young,T. Young,-6,104,10,Missed,1,,,0,h,MISS Young 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,18
+42000204,23,PT10M10.00S,1,1610612755,PHI,1627788,Korkmaz,F. Korkmaz,0,0,0,,0,,,0,v,Korkmaz BLOCK (1 BLK),,,1,19
+42000204,25,PT10M07.00S,1,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons REBOUND (Off:0 Def:2),Rebound,Unknown,1,20
+42000204,26,PT10M04.00S,1,1610612755,PHI,202699,Harris,T. Harris,2,15,2,Missed,1,,,0,v,MISS Harris 2' Driving Layup,Missed Shot,Driving Layup Shot,1,21
+42000204,27,PT10M02.00S,1,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons REBOUND (Off:1 Def:2),Rebound,Unknown,1,22
+42000204,28,PT10M02.00S,1,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,Made,1,2.0,2.0,4,v,Simmons Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,1,23
+42000204,30,PT09M52.00S,1,1610612737,ATL,1628989,Huerter,K. Huerter,-234,47,24,Missed,1,,,0,h,MISS Huerter 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,24
+42000204,31,PT09M50.00S,1,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins REBOUND (Off:1 Def:2),Rebound,Unknown,1,25
+42000204,32,PT09M50.00S,1,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,Missed,1,,,0,h,MISS Collins Tip Layup Shot,Missed Shot,Tip Layup Shot,1,26
+42000204,33,PT09M49.00S,1,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins REBOUND (Off:2 Def:2),Rebound,Unknown,1,27
+42000204,86,PT09M49.00S,1,1610612737,ATL,1628381,Collins,J. Collins,-5,25,3,Missed,1,,,0,h,MISS Collins 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,28
+42000204,87,PT09M48.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:0 Def:3),Rebound,Unknown,1,29
+42000204,34,PT09M39.00S,1,1610612755,PHI,1627788,Korkmaz,F. Korkmaz,20,121,12,Missed,1,,,0,v,MISS Korkmaz 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,30
+42000204,35,PT09M37.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young REBOUND (Off:0 Def:1),Rebound,Unknown,1,31
+42000204,36,PT09M34.00S,1,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,-192,160,25,Made,1,5.0,2.0,7,h,Bogdanovic 25' 3PT Running Jump Shot (3 PTS) (Young 2 AST),Made Shot,Running Jump Shot,1,32
+42000204,38,PT09M32.00S,1,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,33
+42000204,39,PT09M07.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,-86,96,13,Missed,1,,,0,v,MISS Embiid 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,34
+42000204,40,PT09M05.00S,1,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,h,Bogdanovic REBOUND (Off:0 Def:2),Rebound,Unknown,1,35
+42000204,41,PT09M00.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,8,1,Made,1,7.0,2.0,9,h,Capela 1' Alley Oop Layup (4 PTS) (Young 3 AST),Made Shot,Alley Oop Layup shot,1,36
+42000204,43,PT08M52.00S,1,1610612755,PHI,1627788,Korkmaz,F. Korkmaz,1,10,1,Made,1,7.0,4.0,11,v,Korkmaz 1' Cutting Layup Shot (2 PTS) (Simmons 1 AST),Made Shot,Cutting Layup Shot,1,37
+42000204,45,PT08M36.00S,1,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,-224,75,24,Made,1,10.0,4.0,14,h,Bogdanovic 24' 3PT Jump Shot (6 PTS) (Young 4 AST),Made Shot,Jump Shot,1,38
+42000204,47,PT08M16.00S,1,1610612755,PHI,202699,Harris,T. Harris,5,13,1,Missed,1,,,0,v,MISS Harris 1' Driving Layup,Missed Shot,Driving Layup Shot,1,39
+42000204,48,PT08M14.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:0 Def:2),Rebound,Unknown,1,40
+42000204,49,PT08M08.00S,1,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,-155,207,26,Missed,1,,,0,h,MISS Bogdanovic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,41
+42000204,50,PT08M01.00S,1,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons REBOUND (Off:1 Def:3),Rebound,Unknown,1,42
+42000204,51,PT08M01.00S,1,1610612755,PHI,1627732,Simmons,B. Simmons,3,9,1,Made,1,10.0,6.0,16,v,Simmons 1' Running Dunk (4 PTS),Made Shot,Running Dunk Shot,1,43
+42000204,52,PT07M43.00S,1,1610612737,ATL,1629027,Young,T. Young,-47,252,26,Missed,1,,,0,h,MISS Young 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,44
+42000204,53,PT07M40.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:0 Def:4),Rebound,Unknown,1,45
+42000204,54,PT07M38.00S,1,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,Huerter P.FOUL (P1.T1) (C.Blair),Foul,Personal,1,46
+42000204,56,PT07M33.00S,1,1610612755,PHI,202699,Harris,T. Harris,6,11,1,Made,1,10.0,8.0,18,v,Harris 1' Cutting Dunk Shot (2 PTS) (Simmons 2 AST),Made Shot,Cutting Dunk Shot,1,47
+42000204,58,PT07M12.00S,1,1610612737,ATL,1628989,Huerter,K. Huerter,82,13,8,Made,1,12.0,8.0,20,h,Huerter 8' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,48
+42000204,59,PT06M59.00S,1,1610612755,PHI,202699,Harris,T. Harris,5,31,3,Made,1,12.0,10.0,22,v,Harris 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,49
+42000204,60,PT06M43.00S,1,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,-28,85,9,Missed,1,,,0,h,MISS Bogdanovic 9' Driving Layup,Missed Shot,Driving Layup Shot,1,50
+42000204,61,PT06M39.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:0 Def:5),Rebound,Unknown,1,51
+42000204,62,PT06M27.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,52
+42000204,62,PT06M27.00S,1,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins STEAL (1 STL),,,1,53
+42000204,64,PT06M17.00S,1,1610612737,ATL,203991,Capela,C. Capela,-17,32,4,Missed,1,,,0,h,MISS Capela 4' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,54
+42000204,65,PT06M13.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:0 Def:6),Rebound,Unknown,1,55
+42000204,66,PT06M06.00S,1,1610612755,PHI,203552,Curry,S. Curry,0,0,0,,0,,,0,v,Curry Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,56
+42000204,66,PT06M06.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young STEAL (1 STL),,,1,57
+42000204,68,PT06M02.00S,1,1610612737,ATL,1629027,Young,T. Young,101,233,25,Missed,1,,,0,h,MISS Young 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,58
+42000204,69,PT05M59.00S,1,1610612755,PHI,203552,Curry,S. Curry,0,0,0,,0,,,0,v,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,1,59
+42000204,70,PT05M54.00S,1,1610612755,PHI,203552,Curry,S. Curry,223,131,26,Missed,1,,,0,v,MISS Curry 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,60
+42000204,71,PT05M52.00S,1,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,0,61
+42000204,73,PT05M33.00S,1,1610612737,ATL,1628381,Collins,J. Collins,55,21,6,Missed,1,,,0,h,MISS Collins 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,62
+42000204,74,PT05M28.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:0 Def:7),Rebound,Unknown,1,63
+42000204,75,PT05M22.00S,1,1610612755,PHI,202699,Harris,T. Harris,111,67,13,Made,1,12.0,12.0,24,v,Harris 13' Jump Shot (6 PTS) (Korkmaz 1 AST),Made Shot,Jump Shot,1,64
+42000204,77,PT05M05.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid S.FOUL (P1.T1) (C.Blair),Foul,Shooting,1,65
+42000204,79,PT05M05.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,MISS Young Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,66
+42000204,80,PT05M05.00S,1,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Normal Rebound,0,67
+42000204,81,PT05M05.00S,1,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,SUB: Snell FOR Huerter,Substitution,,0,68
+42000204,82,PT05M05.00S,1,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,,,0,v,SUB: Thybulle FOR Harris,Substitution,,0,69
+42000204,85,PT05M05.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,MISS Young Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,70
+42000204,88,PT05M02.00S,1,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons REBOUND (Off:1 Def:4),Rebound,Unknown,1,71
+42000204,89,PT04M49.00S,1,1610612755,PHI,1627788,Korkmaz,F. Korkmaz,-14,6,2,Missed,1,,,0,v,MISS Korkmaz 2' Driving Layup,Missed Shot,Driving Layup Shot,1,72
+42000204,90,PT04M46.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:0 Def:3),Rebound,Unknown,1,73
+42000204,91,PT04M40.00S,1,1610612737,ATL,1628381,Collins,J. Collins,3,5,1,Missed,1,,,0,h,MISS Collins 1' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,1,74
+42000204,92,PT04M37.00S,1,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons REBOUND (Off:1 Def:5),Rebound,Unknown,1,75
+42000204,93,PT04M28.00S,1,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins S.FOUL (P1.T2) (J.Goble),Foul,Shooting,1,76
+42000204,95,PT04M28.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,12.0,13.0,25,v,Embiid Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,77
+42000204,96,PT04M28.00S,1,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,78
+42000204,97,PT04M28.00S,1,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,SUB: Gallinari FOR Collins,Substitution,,0,79
+42000204,99,PT04M28.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,12.0,14.0,26,v,Embiid Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,80
+42000204,100,PT04M13.00S,1,1610612737,ATL,203991,Capela,C. Capela,5,7,1,Missed,1,,,0,h,MISS Capela 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,81
+42000204,101,PT04M10.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:0 Def:8),Rebound,Unknown,1,82
+42000204,102,PT04M10.00S,1,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,Gallinari Personal Take Foul (P1.T3) (C.Blair),Foul,Personal Take,1,83
+42000204,116,PT04M10.00S,1,1610612755,PHI,1627788,Korkmaz,F. Korkmaz,0,0,0,,0,,,0,v,SUB: G. Hill FOR Korkmaz,Substitution,,0,84
+42000204,104,PT03M56.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,-14,158,16,Missed,1,,,0,v,MISS Embiid 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,85
+42000204,105,PT03M53.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:0 Def:4),Rebound,Unknown,1,86
+42000204,106,PT03M43.00S,1,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,102,36,11,Missed,1,,,0,h,MISS Bogdanovic 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,87
+42000204,107,PT03M37.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:1 Def:4),Rebound,Unknown,1,88
+42000204,108,PT03M36.00S,1,1610612737,ATL,203991,Capela,C. Capela,-5,5,1,Missed,1,,,0,h,MISS Capela 1' Layup,Missed Shot,Layup Shot,1,89
+42000204,109,PT03M33.00S,1,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons REBOUND (Off:1 Def:6),Rebound,Unknown,1,90
+42000204,110,PT03M30.00S,1,1610612755,PHI,1627732,Simmons,B. Simmons,1,11,1,Missed,1,,,0,v,MISS Simmons 1' Driving Layup,Missed Shot,Driving Layup Shot,1,91
+42000204,111,PT03M27.00S,1,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,Gallinari REBOUND (Off:0 Def:1),Rebound,Unknown,1,92
+42000204,112,PT03M21.00S,1,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,h,Bogdanovic Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,93
+42000204,112,PT03M21.00S,1,1610612755,PHI,201588,Hill,G. Hill,0,0,0,,0,,,0,v,G. Hill STEAL (1 STL),,,1,94
+42000204,114,PT03M15.00S,1,1610612755,PHI,203552,Curry,S. Curry,88,250,27,Made,1,12.0,17.0,29,v,Curry 27' 3PT Jump Shot (3 PTS) (Simmons 3 AST),Made Shot,Jump Shot,1,95
+42000204,118,PT03M01.00S,1,1610612737,ATL,1629027,Young,T. Young,-1,18,2,Missed,1,,,0,h,MISS Young 2' Driving Layup,Missed Shot,Driving Layup Shot,1,96
+42000204,119,PT02M58.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:0 Def:9),Rebound,Unknown,1,97
+42000204,120,PT02M49.00S,1,1610612755,PHI,1629680,Thybulle,M. Thybulle,7,13,1,Made,1,12.0,19.0,31,v,Thybulle 1' Cutting Dunk Shot (2 PTS) (Simmons 4 AST),Made Shot,Cutting Dunk Shot,1,98
+42000204,122,PT02M30.00S,1,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,70,168,18,Made,1,14.0,19.0,33,h,Bogdanovic 18' Fadeaway Jumper (8 PTS) (Young 5 AST),Made Shot,Fadeaway Jump Shot,1,99
+42000204,124,PT02M06.00S,1,1610612755,PHI,203552,Curry,S. Curry,-218,35,0,Made,1,14.0,22.0,36,v,Curry 3PT Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,1,100
+42000204,125,PT01M52.00S,1,1610612737,ATL,203503,Snell,T. Snell,-87,237,25,Missed,1,,,0,h,MISS Snell 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,101
+42000204,126,PT01M49.00S,1,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons REBOUND (Off:1 Def:7),Rebound,Unknown,1,102
+42000204,127,PT01M37.00S,1,1610612755,PHI,203552,Curry,S. Curry,6,13,1,Made,1,14.0,24.0,38,v,Curry 1' Driving Layup (8 PTS) (Embiid 1 AST),Made Shot,Driving Layup Shot,1,103
+42000204,129,PT01M22.00S,1,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,79,18,8,Made,1,16.0,24.0,40,h,Bogdanovic 8' Driving Floating Jump Shot (10 PTS) (Snell 1 AST),Made Shot,Driving Floating Jump Shot,1,104
+42000204,131,PT01M22.00S,1,1610612755,PHI,201588,Hill,G. Hill,0,0,0,,0,,,0,v,G. Hill S.FOUL (P1.T2) (J.Goble),Foul,Shooting,1,105
+42000204,133,PT01M22.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,SUB: Williams FOR Young,Substitution,,0,106
+42000204,134,PT01M22.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,SUB: Okongwu FOR Capela,Substitution,,0,107
+42000204,135,PT01M22.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,SUB: Howard FOR Embiid,Substitution,,0,108
+42000204,136,PT01M22.00S,1,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,SUB: Milton FOR Simmons,Substitution,,0,109
+42000204,141,PT01M22.00S,1,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,h,MISS Bogdanovic Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,110
+42000204,142,PT01M19.00S,1,1610612755,PHI,201588,Hill,G. Hill,0,0,0,,0,,,0,v,G. Hill REBOUND (Off:0 Def:1),Rebound,Unknown,1,111
+42000204,143,PT01M03.00S,1,1610612755,PHI,201588,Hill,G. Hill,103,6,10,Made,1,16.0,26.0,42,v,G. Hill 10' Pullup Jump Shot (2 PTS) (Milton 1 AST),Made Shot,Pullup Jump shot,1,112
+42000204,145,PT00M53.40S,1,1610612737,ATL,203503,Snell,T. Snell,228,-10,0,Missed,1,,,0,h,MISS Snell 3PT Jump Shot,Missed Shot,Jump Shot,1,113
+42000204,146,PT00M49.10S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:1 Def:0),Rebound,Unknown,1,114
+42000204,147,PT00M47.70S,1,1610612755,PHI,2730,Howard,D. Howard,0,0,0,,0,,,0,v,Howard S.FOUL (P1.PN) (J.Tiven),Foul,Shooting,1,115
+42000204,149,PT00M47.70S,1,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,17.0,26.0,43,h,Gallinari Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,116
+42000204,150,PT00M47.70S,1,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,h,SUB: Huerter FOR Bogdanovic,Substitution,,0,117
+42000204,151,PT00M47.70S,1,1610612755,PHI,203552,Curry,S. Curry,0,0,0,,0,,,0,v,SUB: Harris FOR Curry,Substitution,,0,118
+42000204,154,PT00M47.70S,1,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,18.0,26.0,44,h,Gallinari Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,119
+42000204,155,PT00M39.10S,1,1610612755,PHI,1629003,Milton,S. Milton,-3,10,1,Missed,1,,,0,v,MISS Milton 1' Driving Layup,Missed Shot,Driving Layup Shot,1,120
+42000204,156,PT00M38.70S,1,1610612755,PHI,2730,Howard,D. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:1 Def:0),Rebound,Unknown,1,121
+42000204,157,PT00M38.70S,1,1610612755,PHI,2730,Howard,D. Howard,0,0,0,Made,1,18.0,28.0,46,v,Howard Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,1,122
+42000204,158,PT00M30.10S,1,1610612755,PHI,201588,Hill,G. Hill,0,0,0,,0,,,0,v,G. Hill P.FOUL (P2.PN) (C.Blair),Foul,Personal,1,123
+42000204,160,PT00M30.10S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,19.0,28.0,47,h,Okongwu Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,124
+42000204,161,PT00M30.10S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,20.0,28.0,48,h,Okongwu Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,125
+42000204,162,PT00M06.80S,1,1610612755,PHI,1629680,Thybulle,M. Thybulle,0,11,1,Missed,1,,,0,v,MISS Thybulle 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,126
+42000204,162,PT00M06.80S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu BLOCK (1 BLK),,,1,127
+42000204,164,PT00M01.90S,1,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:1 Def:1),Rebound,Unknown,1,128
+42000204,165,PT00M00.00S,1,1610612737,ATL,101150,Williams,L. Williams,-2,158,16,Missed,1,,,0,h,MISS Williams 16' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,129
+42000204,166,PT00M00.00S,1,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,0,130
+42000204,167,PT00M00.00S,1,0,,0,,,0,0,0,,0,20.0,28.0,48,,End of 1st Period (8:12 PM EST),period,end,1,131
+42000204,168,PT12M00.00S,2,0,,0,,,0,0,0,,0,20.0,28.0,48,,Start of 2nd Period (8:15 PM EST),period,start,0,132
+42000204,169,PT11M49.00S,2,1610612755,PHI,201588,Hill,G. Hill,0,0,0,,0,,,0,v,G. Hill Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,133
+42000204,170,PT11M31.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,-6,52,5,Missed,1,,,0,h,MISS Okongwu 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,134
+42000204,171,PT11M28.00S,2,1610612755,PHI,2730,Howard,D. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:1 Def:1),Rebound,Unknown,1,135
+42000204,172,PT11M14.00S,2,1610612755,PHI,2730,Howard,D. Howard,0,0,0,,0,,,0,v,Howard Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,136
+42000204,172,PT11M14.00S,2,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,Huerter STEAL (1 STL),,,1,137
+42000204,174,PT11M07.00S,2,1610612737,ATL,203503,Snell,T. Snell,231,-30,0,Missed,1,,,0,h,MISS Snell 3PT Jump Shot,Missed Shot,Jump Shot,1,138
+42000204,175,PT11M05.00S,2,1610612755,PHI,2730,Howard,D. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:1 Def:2),Rebound,Unknown,1,139
+42000204,176,PT10M53.00S,2,1610612755,PHI,201588,Hill,G. Hill,11,9,1,Missed,1,,,0,v,MISS G. Hill 1' Driving Layup,Missed Shot,Driving Layup Shot,1,140
+42000204,176,PT10M53.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu BLOCK (2 BLK),,,1,141
+42000204,178,PT10M52.00S,2,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,0,142
+42000204,180,PT10M52.00S,2,1610612737,ATL,203503,Snell,T. Snell,0,0,0,,0,,,0,h,SUB: Bogdanovic FOR Snell,Substitution,,0,143
+42000204,182,PT10M46.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,2,0,0,Missed,1,,,0,h,MISS Okongwu Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,144
+42000204,182,PT10M46.00S,2,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,,,0,v,Harris BLOCK (1 BLK),,,1,145
+42000204,184,PT10M46.00S,2,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,0,146
+42000204,186,PT10M44.00S,2,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,-174,134,22,Missed,1,,,0,h,MISS Bogdanovic 22' Jump Shot,Missed Shot,Jump Shot,1,147
+42000204,187,PT10M39.00S,2,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,Gallinari REBOUND (Off:1 Def:1),Rebound,Unknown,1,148
+42000204,188,PT10M37.00S,2,1610612737,ATL,201568,Gallinari,D. Gallinari,-5,134,13,Missed,1,,,0,h,MISS Gallinari 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,149
+42000204,189,PT10M34.00S,2,1610612755,PHI,2730,Howard,D. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:1 Def:3),Rebound,Unknown,1,150
+42000204,190,PT10M26.00S,2,1610612755,PHI,2730,Howard,D. Howard,8,1,1,Made,1,20.0,30.0,50,v,Howard 1' Alley Oop Dunk (4 PTS) (Milton 2 AST),Made Shot,Alley Oop Dunk Shot,1,151
+42000204,192,PT10M19.00S,2,1610612755,PHI,2730,Howard,D. Howard,0,0,0,,0,,,0,v,Howard S.FOUL (P2.T1) (J.Tiven),Foul,Shooting,1,152
+42000204,194,PT10M19.00S,2,1610612737,ATL,101150,Williams,L. Williams,0,0,0,,0,21.0,30.0,51,h,Williams Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,153
+42000204,195,PT10M19.00S,2,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,SUB: Collins FOR Okongwu,Substitution,,0,154
+42000204,197,PT10M19.00S,2,1610612737,ATL,101150,Williams,L. Williams,0,0,0,,0,22.0,30.0,52,h,Williams Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,155
+42000204,198,PT10M04.00S,2,1610612755,PHI,202699,Harris,T. Harris,-48,51,7,Made,1,22.0,32.0,54,v,Harris 7' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,1,156
+42000204,199,PT09M56.00S,2,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,157
+42000204,200,PT09M52.00S,2,1610612737,ATL,101150,Williams,L. Williams,-103,162,19,Missed,1,,,0,h,MISS Williams 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,158
+42000204,201,PT09M48.00S,2,1610612755,PHI,2730,Howard,D. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:1 Def:4),Rebound,Unknown,1,159
+42000204,202,PT09M31.00S,2,1610612755,PHI,202699,Harris,T. Harris,-112,45,12,Missed,1,,,0,v,MISS Harris 12' Jump Shot,Missed Shot,Jump Shot,1,160
+42000204,203,PT09M26.00S,2,1610612755,PHI,2730,Howard,D. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:2 Def:4),Rebound,Unknown,1,161
+42000204,204,PT09M25.00S,2,1610612755,PHI,2730,Howard,D. Howard,0,0,0,,0,,,0,v,Howard Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,162
+42000204,204,PT09M25.00S,2,1610612737,ATL,101150,Williams,L. Williams,0,0,0,,0,,,0,h,Williams STEAL (1 STL),,,1,163
+42000204,207,PT09M23.00S,2,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,SUB: Young FOR Huerter,Substitution,,0,164
+42000204,209,PT09M15.00S,2,1610612737,ATL,1628381,Collins,J. Collins,0,-4,0,Made,1,24.0,32.0,56,h,Collins Cutting Layup Shot (2 PTS) (Young 6 AST),Made Shot,Cutting Layup Shot,1,165
+42000204,211,PT08M53.00S,2,1610612755,PHI,202699,Harris,T. Harris,-91,10,9,Missed,1,,,0,v,MISS Harris 9' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,166
+42000204,212,PT08M47.00S,2,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,Gallinari REBOUND (Off:1 Def:2),Rebound,Unknown,1,167
+42000204,213,PT08M35.00S,2,1610612755,PHI,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton S.FOUL (P1.T2) (J.Tiven),Foul,Shooting,1,168
+42000204,215,PT08M35.00S,2,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,25.0,32.0,57,h,Gallinari Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,169
+42000204,216,PT08M35.00S,2,1610612755,PHI,201588,Hill,G. Hill,0,0,0,,0,,,0,v,SUB: Simmons FOR G. Hill,Substitution,,0,170
+42000204,218,PT08M35.00S,2,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,26.0,32.0,58,h,Gallinari Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,171
+42000204,219,PT08M16.00S,2,1610612755,PHI,1629680,Thybulle,M. Thybulle,104,240,26,Missed,1,,,0,v,MISS Thybulle 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,172
+42000204,220,PT08M13.00S,2,1610612755,PHI,2730,Howard,D. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:3 Def:4),Rebound,Unknown,1,173
+42000204,221,PT08M13.00S,2,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,h,Bogdanovic S.FOUL (P1.T1) (C.Blair),Foul,Shooting,1,174
+42000204,223,PT08M13.00S,2,1610612755,PHI,2730,Howard,D. Howard,0,0,0,,0,,,0,v,MISS Howard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,175
+42000204,224,PT08M13.00S,2,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Normal Rebound,0,176
+42000204,225,PT08M13.00S,2,1610612755,PHI,2730,Howard,D. Howard,0,0,0,,0,26.0,33.0,59,v,Howard Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,177
+42000204,226,PT08M03.00S,2,1610612737,ATL,1629027,Young,T. Young,19,94,10,Made,1,28.0,33.0,61,h,Young 10' Driving Floating Jump Shot (2 PTS) (Collins 1 AST),Made Shot,Driving Floating Jump Shot,1,178
+42000204,228,PT07M48.00S,2,1610612755,PHI,1629003,Milton,S. Milton,90,52,10,Missed,1,,,0,v,MISS Milton 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,179
+42000204,229,PT07M43.00S,2,1610612737,ATL,101150,Williams,L. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,180
+42000204,230,PT07M43.00S,2,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons P.FOUL (P1.T3) (J.Tiven),Foul,Personal,1,181
+42000204,232,PT07M43.00S,2,1610612755,PHI,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,SUB: Curry FOR Thybulle,Substitution,,0,182
+42000204,233,PT07M43.00S,2,1610612755,PHI,2730,Howard,D. Howard,0,0,0,,0,,,0,v,SUB: Embiid FOR Howard,Substitution,,0,183
+42000204,236,PT07M43.00S,2,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,SUB: Capela FOR Collins,Substitution,,0,184
+42000204,238,PT07M36.00S,2,1610612737,ATL,1629027,Young,T. Young,-40,73,8,Missed,1,,,0,h,MISS Young 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,185
+42000204,239,PT07M30.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:2 Def:4),Rebound,Unknown,1,186
+42000204,240,PT07M30.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,Made,1,30.0,33.0,63,h,Capela Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,187
+42000204,241,PT07M09.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,-111,231,26,Made,1,30.0,36.0,66,v,Embiid 26' 3PT Jump Shot (5 PTS) (Curry 1 AST),Made Shot,Jump Shot,1,188
+42000204,243,PT06M50.00S,2,1610612737,ATL,1629027,Young,T. Young,33,41,5,Missed,1,,,0,h,MISS Young 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,189
+42000204,244,PT06M50.00S,2,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,0,190
+42000204,246,PT06M50.00S,2,1610612755,PHI,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Maxey FOR Milton,Substitution,,0,191
+42000204,248,PT06M50.00S,2,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,h,SUB: Huerter FOR Bogdanovic,Substitution,,0,192
+42000204,250,PT06M42.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey S.FOUL (P1.T4) (J.Tiven),Foul,Shooting,1,193
+42000204,252,PT06M42.00S,2,1610612737,ATL,101150,Williams,L. Williams,0,0,0,,0,31.0,36.0,67,h,Williams Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,194
+42000204,253,PT06M42.00S,2,1610612737,ATL,101150,Williams,L. Williams,0,0,0,,0,32.0,36.0,68,h,Williams Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,195
+42000204,254,PT06M35.00S,2,1610612755,PHI,1627732,Simmons,B. Simmons,1,14,1,Made,1,32.0,38.0,70,v,Simmons 1' Cutting Layup Shot (6 PTS) (Embiid 2 AST),Made Shot,Cutting Layup Shot,1,196
+42000204,256,PT06M35.00S,2,1610612737,ATL,101150,Williams,L. Williams,0,0,0,,0,,,0,h,Williams S.FOUL (P1.T2) (J.Tiven),Foul,Shooting,1,197
+42000204,258,PT06M35.00S,2,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,MISS Simmons Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,198
+42000204,259,PT06M31.00S,2,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,Gallinari REBOUND (Off:1 Def:3),Rebound,Unknown,1,199
+42000204,260,PT06M19.00S,2,1610612737,ATL,1629027,Young,T. Young,70,237,25,Made,1,35.0,38.0,73,h,Young 25' 3PT Pullup Jump Shot (5 PTS) (Gallinari 1 AST),Made Shot,Pullup Jump shot,1,200
+42000204,262,PT05M57.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,5,30,3,Made,1,35.0,40.0,75,v,Embiid 3' Driving Hook Shot (7 PTS),Made Shot,Driving Hook Shot,1,201
+42000204,303,PT05M42.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,202
+42000204,263,PT05M42.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela L.B.FOUL (P1.T3) (J.Goble),Foul,Loose Ball,1,203
+42000204,266,PT05M42.00S,2,1610612737,ATL,101150,Williams,L. Williams,0,0,0,,0,,,0,h,SUB: Bogdanovic FOR Williams,Substitution,,0,204
+42000204,267,PT05M42.00S,2,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,SUB: Collins FOR Gallinari,Substitution,,0,205
+42000204,270,PT05M35.00S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela P.FOUL (P2.T4) (C.Blair),Foul,Personal,1,206
+42000204,273,PT05M24.00S,2,1610612755,PHI,202699,Harris,T. Harris,-220,29,0,Made,1,35.0,43.0,78,v,Harris 3PT Jump Shot (11 PTS) (Curry 2 AST),Made Shot,Jump Shot,1,207
+42000204,275,PT05M12.00S,2,1610612737,ATL,1629027,Young,T. Young,-94,237,25,Made,1,38.0,43.0,81,h,Young 25' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,208
+42000204,276,PT04M56.00S,2,1610612755,PHI,202699,Harris,T. Harris,92,234,25,Made,1,38.0,46.0,84,v,Harris 25' 3PT Jump Shot (14 PTS) (Simmons 5 AST),Made Shot,Jump Shot,1,209
+42000204,278,PT04M46.00S,2,1610612737,ATL,1629027,Young,T. Young,5,95,10,Missed,1,,,0,h,MISS Young 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,210
+42000204,279,PT04M43.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:0 Def:10),Rebound,Unknown,1,211
+42000204,280,PT04M39.00S,2,1610612755,PHI,1627732,Simmons,B. Simmons,9,42,4,Missed,1,,,0,v,MISS Simmons 4' Running Layup,Missed Shot,Running Layup Shot,1,212
+42000204,281,PT04M36.00S,2,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons REBOUND (Off:2 Def:7),Rebound,Unknown,1,213
+42000204,282,PT04M36.00S,2,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,Missed,1,,,0,v,MISS Simmons Tip Layup Shot,Missed Shot,Tip Layup Shot,1,214
+42000204,283,PT04M35.00S,2,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons REBOUND (Off:3 Def:7),Rebound,Unknown,1,215
+42000204,284,PT04M25.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,110,10,11,Made,1,38.0,48.0,86,v,Embiid 11' Turnaround Fadeaway (9 PTS),Made Shot,Turnaround Fadeaway shot,1,216
+42000204,285,PT04M08.00S,2,1610612737,ATL,1628381,Collins,J. Collins,-120,227,26,Missed,1,,,0,h,MISS Collins 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,217
+42000204,286,PT04M05.00S,2,1610612755,PHI,203552,Curry,S. Curry,0,0,0,,0,,,0,v,Curry REBOUND (Off:0 Def:2),Rebound,Unknown,1,218
+42000204,287,PT03M57.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young S.FOUL (P1.PN) (C.Blair),Foul,Shooting,1,219
+42000204,289,PT03M57.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young T.FOUL (P1.PN) (J.Goble),Foul,Technical,1,220
+42000204,290,PT03M57.00S,2,1610612755,PHI,203552,Curry,S. Curry,0,0,0,,0,,,0,v,MISS Curry Free Throw Technical,Free Throw,Free Throw Technical,1,221
+42000204,291,PT03M57.00S,2,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Normal Rebound,0,222
+42000204,292,PT03M57.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,38.0,49.0,87,v,Embiid Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,223
+42000204,293,PT03M57.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,38.0,50.0,88,v,Embiid Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,224
+42000204,294,PT03M42.00S,2,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,-228,-11,0,Missed,1,,,0,h,MISS Bogdanovic 3PT Jump Shot,Missed Shot,Jump Shot,1,225
+42000204,295,PT03M37.00S,2,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,,,0,v,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,1,226
+42000204,296,PT03M34.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,235,21,24,Made,1,38.0,53.0,91,v,Maxey 24' 3PT Running Jump Shot (3 PTS) (Curry 3 AST),Made Shot,Running Jump Shot,1,227
+42000204,298,PT03M17.00S,2,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,211,137,25,Missed,1,,,0,h,MISS Bogdanovic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,228
+42000204,299,PT03M14.00S,2,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,,,0,v,Harris REBOUND (Off:0 Def:2),Rebound,Unknown,1,229
+42000204,300,PT03M06.00S,2,1610612755,PHI,1627732,Simmons,B. Simmons,24,27,4,Made,1,38.0,55.0,93,v,Simmons 4' Turnaround Fadeaway Bank Jump Shot (8 PTS) (Harris 1 AST),Made Shot,Turnaround Fadeaway Bank Jump Shot,1,230
+42000204,302,PT02M57.00S,2,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,231
+42000204,304,PT02M51.00S,2,1610612737,ATL,203991,Capela,C. Capela,-8,5,1,Made,1,40.0,55.0,95,h,Capela 1' Alley Oop Dunk (8 PTS) (Young 7 AST),Made Shot,Alley Oop Dunk Shot,1,232
+42000204,307,PT02M27.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,-85,79,12,Made,1,40.0,57.0,97,v,Embiid 12' Jump Shot (13 PTS) (Simmons 6 AST),Made Shot,Jump Shot,1,233
+42000204,309,PT02M16.00S,2,1610612755,PHI,203552,Curry,S. Curry,0,0,0,,0,,,0,v,Curry Violation:Kicked Ball (J.Goble),Violation,Kicked Ball,0,234
+42000204,310,PT02M16.00S,2,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,,,0,v,SUB: Korkmaz FOR Harris,Substitution,,0,235
+42000204,312,PT02M16.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,SUB: Thybulle FOR Maxey,Substitution,,0,236
+42000204,314,PT02M08.00S,2,1610612737,ATL,1628381,Collins,J. Collins,3,6,1,Made,1,42.0,57.0,99,h,Collins 1' Driving Layup (4 PTS) (Young 8 AST),Made Shot,Driving Layup Shot,1,237
+42000204,316,PT01M43.00S,2,1610612755,PHI,203552,Curry,S. Curry,-124,222,25,Made,1,42.0,60.0,102,v,Curry 25' 3PT Jump Shot (11 PTS),Made Shot,Jump Shot,1,238
+42000204,317,PT01M31.00S,2,1610612737,ATL,1629027,Young,T. Young,-54,22,6,Missed,1,,,0,h,MISS Young 6' Driving Layup,Missed Shot,Driving Layup Shot,1,239
+42000204,317,PT01M31.00S,2,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons BLOCK (1 BLK),,,1,240
+42000204,318,PT01M26.00S,2,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons REBOUND (Off:3 Def:8),Rebound,Unknown,1,241
+42000204,319,PT01M22.00S,2,1610612755,PHI,1629680,Thybulle,M. Thybulle,153,210,26,Missed,1,,,0,v,MISS Thybulle 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,242
+42000204,320,PT01M17.00S,2,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,h,Bogdanovic REBOUND (Off:0 Def:3),Rebound,Unknown,1,243
+42000204,321,PT01M12.00S,2,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,-114,139,18,Made,1,44.0,60.0,104,h,Bogdanovic 18' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,244
+42000204,322,PT00M52.20S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young S.FOUL (P2.PN) (J.Goble),Foul,Shooting,1,245
+42000204,325,PT00M52.20S,2,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,MISS Simmons Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,246
+42000204,326,PT00M52.20S,2,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Normal Rebound,0,247
+42000204,327,PT00M52.20S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,SUB: Gallinari FOR Capela,Substitution,,0,248
+42000204,329,PT00M52.20S,2,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,MISS Simmons Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,249
+42000204,330,PT00M49.20S,2,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins REBOUND (Off:2 Def:3),Rebound,Unknown,1,250
+42000204,331,PT00M35.20S,2,1610612737,ATL,1628989,Huerter,K. Huerter,8,16,2,Made,1,46.0,60.0,106,h,Huerter 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,251
+42000204,332,PT00M35.20S,2,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,252
+42000204,333,PT00M35.20S,2,1610612755,PHI,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,SUB: Harris FOR Thybulle,Substitution,,0,253
+42000204,335,PT00M27.50S,2,1610612755,PHI,203552,Curry,S. Curry,136,21,14,Made,1,46.0,62.0,108,v,Curry 14' Step Back Jump Shot (13 PTS) (Simmons 7 AST),Made Shot,Step Back Jump shot,1,254
+42000204,337,PT00M07.80S,2,1610612737,ATL,1628989,Huerter,K. Huerter,156,190,25,Made,1,49.0,62.0,111,h,Huerter 25' 3PT Jump Shot (7 PTS) (Young 9 AST),Made Shot,Jump Shot,1,255
+42000204,339,PT00M02.80S,2,1610612755,PHI,203552,Curry,S. Curry,160,204,26,Missed,1,,,0,v,MISS Curry 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,256
+42000204,340,PT00M02.80S,2,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,Huerter REBOUND (Off:0 Def:1),Rebound,Unknown,1,257
+42000204,343,PT00M00.00S,2,0,,0,,,0,0,0,,0,49.0,62.0,111,,End of 2nd Period (8:48 PM EST),period,end,1,258
+42000204,347,PT12M00.00S,3,0,,0,,,0,0,0,,0,49.0,62.0,111,,Start of 3rd Period (9:05 PM EST),period,start,0,259
+42000204,348,PT11M48.00S,3,1610612755,PHI,1627788,Korkmaz,F. Korkmaz,-231,22,0,Missed,1,,,0,v,MISS Korkmaz 3PT Jump Shot,Missed Shot,Jump Shot,1,260
+42000204,349,PT11M44.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:2 Def:5),Rebound,Unknown,1,261
+42000204,350,PT11M33.00S,3,1610612755,PHI,1627788,Korkmaz,F. Korkmaz,0,0,0,,0,,,0,v,Korkmaz P.FOUL (P1.T1) (J.Tiven),Foul,Personal,1,262
+42000204,352,PT11M26.00S,3,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,-157,206,26,Made,1,52.0,62.0,114,h,Bogdanovic 26' 3PT Jump Shot (15 PTS) (Young 10 AST),Made Shot,Jump Shot,1,263
+42000204,354,PT11M06.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,-65,33,7,Missed,1,,,0,v,MISS Embiid 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,264
+42000204,355,PT11M02.00S,3,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins REBOUND (Off:2 Def:4),Rebound,Unknown,1,265
+42000204,356,PT10M55.00S,3,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,-127,224,26,Missed,1,,,0,h,MISS Bogdanovic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,266
+42000204,357,PT10M51.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:0 Def:11),Rebound,Unknown,1,267
+42000204,358,PT10M46.00S,3,1610612755,PHI,202699,Harris,T. Harris,-106,143,18,Made,1,52.0,64.0,116,v,Harris 18' Pullup Jump Shot (16 PTS) (Simmons 8 AST),Made Shot,Pullup Jump shot,1,268
+42000204,360,PT10M28.00S,3,1610612737,ATL,1629027,Young,T. Young,115,240,27,Missed,1,,,0,h,MISS Young 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,269
+42000204,361,PT10M25.00S,3,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,,,0,v,Harris REBOUND (Off:0 Def:3),Rebound,Unknown,1,270
+42000204,362,PT10M14.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,-17,252,25,Missed,1,,,0,v,MISS Embiid 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,271
+42000204,363,PT10M10.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:1 Def:11),Rebound,Unknown,1,272
+42000204,364,PT10M06.00S,3,1610612755,PHI,202699,Harris,T. Harris,-28,248,25,Missed,1,,,0,v,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,273
+42000204,365,PT10M02.00S,3,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins REBOUND (Off:2 Def:5),Rebound,Unknown,1,274
+42000204,366,PT09M59.00S,3,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,,,0,v,Harris P.FOUL (P1.T2) (J.Goble),Foul,Personal,1,275
+42000204,368,PT09M50.00S,3,1610612737,ATL,1629027,Young,T. Young,6,104,10,Made,1,54.0,64.0,118,h,Young 10' Driving Floating Jump Shot (10 PTS) (Capela 1 AST),Made Shot,Driving Floating Jump Shot,1,276
+42000204,370,PT09M24.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,-57,116,13,Missed,1,,,0,v,MISS Embiid 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,277
+42000204,371,PT09M22.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:2 Def:6),Rebound,Unknown,1,278
+42000204,372,PT09M01.00S,3,1610612737,ATL,1628989,Huerter,K. Huerter,77,252,26,Missed,1,,,0,h,MISS Huerter 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,279
+42000204,373,PT08M57.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:1 Def:12),Rebound,Unknown,1,280
+42000204,374,PT08M51.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,-2,248,25,Missed,1,,,0,v,MISS Embiid 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,281
+42000204,375,PT08M47.00S,3,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins REBOUND (Off:2 Def:6),Rebound,Unknown,1,282
+42000204,376,PT08M43.00S,3,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons P.FOUL (P2.T3) (J.Tiven),Foul,Personal,1,283
+42000204,378,PT08M34.00S,3,1610612737,ATL,203991,Capela,C. Capela,7,8,1,Made,1,56.0,64.0,120,h,Capela 1' Layup (10 PTS) (Young 11 AST),Made Shot,Layup Shot,1,284
+42000204,380,PT08M09.00S,3,1610612755,PHI,203552,Curry,S. Curry,112,159,19,Made,1,56.0,66.0,122,v,Curry 19' Step Back Jump Shot (15 PTS),Made Shot,Step Back Jump shot,1,285
+42000204,381,PT07M52.00S,3,1610612737,ATL,1629027,Young,T. Young,-35,339,34,Missed,1,,,0,h,MISS Young 34' 3PT Jump Shot,Missed Shot,Jump Shot,1,286
+42000204,382,PT07M49.00S,3,1610612755,PHI,1627788,Korkmaz,F. Korkmaz,0,0,0,,0,,,0,v,Korkmaz REBOUND (Off:0 Def:1),Rebound,Unknown,1,287
+42000204,383,PT07M48.00S,3,1610612755,PHI,1627788,Korkmaz,F. Korkmaz,0,0,0,,0,,,0,v,Korkmaz Out of Bounds Lost Ball Turnover (P1.T6),Turnover,Out of Bounds Lost Ball Turnover,1,288
+42000204,384,PT07M38.00S,3,1610612737,ATL,1628381,Collins,J. Collins,-4,10,1,Made,1,58.0,66.0,124,h,Collins 1' Cutting Dunk Shot (6 PTS) (Young 12 AST),Made Shot,Cutting Dunk Shot,1,289
+42000204,386,PT07M17.00S,3,1610612755,PHI,1627788,Korkmaz,F. Korkmaz,-191,165,25,Made,1,58.0,69.0,127,v,Korkmaz 25' 3PT Jump Shot (5 PTS) (Embiid 3 AST),Made Shot,Jump Shot,1,290
+42000204,388,PT06M58.00S,3,1610612737,ATL,1629027,Young,T. Young,-60,19,6,Missed,1,,,0,h,MISS Young 6' Driving Layup,Missed Shot,Driving Layup Shot,1,291
+42000204,388,PT06M58.00S,3,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons BLOCK (2 BLK),,,1,292
+42000204,390,PT06M56.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young REBOUND (Off:1 Def:1),Rebound,Unknown,1,293
+42000204,391,PT06M54.00S,3,1610612737,ATL,1628989,Huerter,K. Huerter,-93,242,26,Made,1,61.0,69.0,130,h,Huerter 26' 3PT Jump Shot (10 PTS) (Young 13 AST),Made Shot,Jump Shot,1,294
+42000204,393,PT06M37.00S,3,1610612755,PHI,202699,Harris,T. Harris,35,122,13,Made,1,61.0,71.0,132,v,Harris 13' Turnaround Fadeaway (18 PTS),Made Shot,Turnaround Fadeaway shot,1,295
+42000204,394,PT06M30.00S,3,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,245,41,25,Missed,1,,,0,h,MISS Bogdanovic 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,296
+42000204,395,PT06M26.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:1 Def:13),Rebound,Unknown,1,297
+42000204,396,PT06M26.00S,3,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,Huerter Personal Take Foul (P2.T1) (C.Blair),Foul,Personal Take,1,298
+42000204,398,PT06M26.00S,3,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,299
+42000204,399,PT06M26.00S,3,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,SUB: Gallinari FOR Huerter,Substitution,,0,300
+42000204,401,PT06M09.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,-19,71,7,Missed,1,,,0,v,MISS Embiid 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,301
+42000204,402,PT06M04.00S,3,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,h,Bogdanovic REBOUND (Off:0 Def:4),Rebound,Unknown,1,302
+42000204,403,PT06M00.00S,3,1610612737,ATL,201568,Gallinari,D. Gallinari,-60,257,26,Missed,1,,,0,h,MISS Gallinari 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,303
+42000204,404,PT05M58.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:1 Def:14),Rebound,Unknown,1,304
+42000204,405,PT05M51.00S,3,1610612755,PHI,203552,Curry,S. Curry,0,0,0,,0,,,0,v,Curry OFF.Foul (P1) (J.Goble),Foul,Offensive,1,305
+42000204,407,PT05M51.00S,3,1610612755,PHI,203552,Curry,S. Curry,0,0,0,,0,,,0,v,Curry Offensive Foul Turnover (P2.T7),Turnover,Offensive Foul Turnover,1,306
+42000204,408,PT05M35.00S,3,1610612737,ATL,201568,Gallinari,D. Gallinari,123,106,16,Missed,1,,,0,h,MISS Gallinari 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,307
+42000204,409,PT05M34.00S,3,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins REBOUND (Off:3 Def:6),Rebound,Unknown,1,308
+42000204,410,PT05M34.00S,3,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,Made,1,63.0,71.0,134,h,Collins Tip Dunk Shot (8 PTS),Made Shot,Tip Dunk Shot,1,309
+42000204,411,PT05M16.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid Out of Bounds - Bad Pass Turnover Turnover (P2.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,310
+42000204,412,PT05M03.00S,3,1610612737,ATL,201568,Gallinari,D. Gallinari,41,66,8,Missed,1,,,0,h,MISS Gallinari 8' Driving Layup,Missed Shot,Driving Layup Shot,1,311
+42000204,412,PT05M03.00S,3,1610612755,PHI,1627788,Korkmaz,F. Korkmaz,0,0,0,,0,,,0,v,Korkmaz BLOCK (2 BLK),,,1,312
+42000204,414,PT04M58.00S,3,1610612755,PHI,1627788,Korkmaz,F. Korkmaz,0,0,0,,0,,,0,v,Korkmaz REBOUND (Off:0 Def:2),Rebound,Unknown,1,313
+42000204,415,PT04M50.00S,3,1610612755,PHI,1627732,Simmons,B. Simmons,-3,6,1,Made,1,63.0,73.0,136,v,Simmons 1' Alley Oop Layup (10 PTS) (Embiid 4 AST),Made Shot,Alley Oop Layup shot,1,314
+42000204,417,PT04M38.00S,3,1610612737,ATL,1629027,Young,T. Young,38,105,11,Made,1,65.0,73.0,138,h,Young 11' Driving Floating Jump Shot (12 PTS),Made Shot,Driving Floating Jump Shot,1,315
+42000204,418,PT04M28.00S,3,1610612755,PHI,1627788,Korkmaz,F. Korkmaz,-154,7,15,Made,1,65.0,75.0,140,v,Korkmaz 15' Jump Shot (7 PTS) (Harris 2 AST),Made Shot,Jump Shot,1,316
+42000204,420,PT04M12.00S,3,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,73,142,16,Made,1,67.0,75.0,142,h,Bogdanovic 16' Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,1,317
+42000204,421,PT03M58.00S,3,1610612755,PHI,1627788,Korkmaz,F. Korkmaz,95,239,26,Missed,1,,,0,v,MISS Korkmaz 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,318
+42000204,422,PT03M58.00S,3,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,0,319
+42000204,424,PT03M58.00S,3,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,,,0,v,SUB: Thybulle FOR Harris,Substitution,,0,320
+42000204,426,PT03M45.00S,3,1610612737,ATL,1629027,Young,T. Young,-3,264,26,Missed,1,,,0,h,MISS Young 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,321
+42000204,427,PT03M42.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:1 Def:15),Rebound,Unknown,1,322
+42000204,428,PT03M28.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,-6,69,7,Missed,1,,,0,v,MISS Embiid 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,323
+42000204,430,PT03M24.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:2 Def:7),Rebound,Unknown,1,324
+42000204,431,PT03M24.00S,3,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons FLAGRANT.FOUL.TYPE1 (P3.T4) (C.Blair),Foul,Flagrant Type 1,1,325
+42000204,433,PT03M24.00S,3,0,,431,Kemp,S. Kemp,0,0,0,,0,67.0,75.0,142,,Instant Replay3rd Period (9:20 PM EST),Instant Replay,Support Ruling,0,326
+42000204,434,PT03M24.00S,3,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,MISS Collins Free Throw Flagrant 1 of 2,Free Throw,Free Throw Flagrant 1 of 2,1,327
+42000204,435,PT03M24.00S,3,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Normal Rebound,0,328
+42000204,436,PT03M24.00S,3,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,68.0,75.0,143,h,Collins Free Throw Flagrant 2 of 2 (9 PTS),Free Throw,Free Throw Flagrant 2 of 2,1,329
+42000204,437,PT03M10.00S,3,1610612737,ATL,1629027,Young,T. Young,36,135,14,Missed,1,,,0,h,MISS Young 14' Driving Layup,Missed Shot,Driving Layup Shot,1,330
+42000204,437,PT03M10.00S,3,1610612755,PHI,203552,Curry,S. Curry,0,0,0,,0,,,0,v,Curry BLOCK (1 BLK),,,1,331
+42000204,439,PT03M10.00S,3,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,0,332
+42000204,441,PT03M08.00S,3,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,-227,55,0,Missed,1,,,0,h,MISS Bogdanovic 3PT Jump Shot,Missed Shot,Jump Shot,1,333
+42000204,442,PT03M02.00S,3,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins REBOUND (Off:4 Def:6),Rebound,Unknown,1,334
+42000204,443,PT03M02.00S,3,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,Made,1,70.0,75.0,145,h,Collins Tip Dunk Shot (11 PTS),Made Shot,Tip Dunk Shot,1,335
+42000204,444,PT02M47.00S,3,1610612755,PHI,203552,Curry,S. Curry,154,85,18,Made,1,70.0,77.0,147,v,Curry 18' Step Back Jump Shot (17 PTS),Made Shot,Step Back Jump shot,1,336
+42000204,446,PT02M38.00S,3,1610612755,PHI,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,Thybulle P.FOUL (P1.PN) (J.Goble),Foul,Personal,1,337
+42000204,448,PT02M38.00S,3,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,338
+42000204,449,PT02M38.00S,3,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,h,SUB: Huerter FOR Bogdanovic,Substitution,,0,339
+42000204,450,PT02M38.00S,3,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,SUB: Harris FOR Simmons,Substitution,,0,340
+42000204,451,PT02M38.00S,3,1610612755,PHI,1627788,Korkmaz,F. Korkmaz,0,0,0,,0,,,0,v,SUB: Milton FOR Korkmaz,Substitution,,0,341
+42000204,455,PT02M38.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,71.0,77.0,148,h,Young Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,342
+42000204,456,PT02M38.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,72.0,77.0,149,h,Young Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,343
+42000204,457,PT02M23.00S,3,1610612755,PHI,1629680,Thybulle,M. Thybulle,225,-19,0,Missed,1,,,0,v,MISS Thybulle 3PT Jump Shot,Missed Shot,Jump Shot,1,344
+42000204,458,PT02M21.00S,3,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,Gallinari REBOUND (Off:1 Def:4),Rebound,Unknown,1,345
+42000204,459,PT02M16.00S,3,1610612737,ATL,201568,Gallinari,D. Gallinari,-109,229,25,Made,1,75.0,77.0,152,h,Gallinari 25' 3PT Jump Shot (7 PTS) (Young 14 AST),Made Shot,Jump Shot,1,346
+42000204,461,PT01M46.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,-58,201,21,Missed,1,,,0,v,MISS Embiid 21' Jump Shot,Missed Shot,Jump Shot,1,347
+42000204,462,PT01M44.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:2 Def:8),Rebound,Unknown,1,348
+42000204,463,PT01M34.00S,3,1610612737,ATL,1628989,Huerter,K. Huerter,20,13,2,Missed,1,,,0,h,MISS Huerter 2' Driving Layup,Missed Shot,Driving Layup Shot,1,349
+42000204,464,PT01M30.00S,3,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,,,0,v,Harris REBOUND (Off:0 Def:4),Rebound,Unknown,1,350
+42000204,465,PT01M30.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young S.FOUL (P3.T2) (J.Goble),Foul,Shooting,1,351
+42000204,467,PT01M30.00S,3,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,75.0,78.0,153,v,Harris Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,352
+42000204,468,PT01M30.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,SUB: Okongwu FOR Capela,Substitution,,0,353
+42000204,469,PT01M30.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,SUB: Howard FOR Embiid,Substitution,,0,354
+42000204,470,PT01M30.00S,3,1610612755,PHI,203552,Curry,S. Curry,0,0,0,,0,,,0,v,SUB: G. Hill FOR Curry,Substitution,,0,355
+42000204,474,PT01M30.00S,3,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,SUB: Snell FOR Collins,Substitution,,0,356
+42000204,476,PT01M30.00S,3,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,75.0,79.0,154,v,Harris Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,357
+42000204,477,PT01M19.00S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,1,10,1,Made,1,77.0,79.0,156,h,Okongwu 1' Cutting Dunk Shot (4 PTS) (Young 15 AST),Made Shot,Cutting Dunk Shot,1,358
+42000204,479,PT00M52.30S,3,1610612755,PHI,1629003,Milton,S. Milton,-154,211,26,Missed,1,,,0,v,MISS Milton 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,359
+42000204,480,PT00M50.00S,3,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,Huerter REBOUND (Off:0 Def:2),Rebound,Unknown,1,360
+42000204,481,PT00M48.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young Lost Ball Turnover (P2.T3),Turnover,Lost Ball,1,361
+42000204,481,PT00M48.00S,3,1610612755,PHI,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,Thybulle STEAL (1 STL),,,1,362
+42000204,483,PT00M40.90S,3,1610612755,PHI,1629680,Thybulle,M. Thybulle,-137,225,26,Made,1,77.0,82.0,159,v,Thybulle 26' 3PT Jump Shot (5 PTS) (Milton 3 AST),Made Shot,Jump Shot,1,363
+42000204,485,PT00M29.70S,3,1610612737,ATL,1629027,Young,T. Young,-134,241,28,Made,1,80.0,82.0,162,h,Young 28' 3PT Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,1,364
+42000204,486,PT00M09.60S,3,1610612755,PHI,1629680,Thybulle,M. Thybulle,-230,-9,0,Missed,1,,,0,v,MISS Thybulle 3PT Jump Shot,Missed Shot,Jump Shot,1,365
+42000204,487,PT00M05.60S,3,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu REBOUND (Off:1 Def:2),Rebound,Unknown,1,366
+42000204,488,PT00M00.00S,3,1610612737,ATL,1629027,Young,T. Young,0,10,1,Missed,1,,,0,h,MISS Young 1' Driving Layup,Missed Shot,Driving Layup Shot,1,367
+42000204,489,PT00M00.00S,3,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,0,368
+42000204,490,PT00M00.00S,3,0,,0,,,0,0,0,,0,80.0,82.0,162,,End of 3rd Period (9:31 PM EST),period,end,1,369
+42000204,495,PT12M00.00S,4,0,,0,,,0,0,0,,0,80.0,82.0,162,,Start of 4th Period (9:35 PM EST),period,start,0,370
+42000204,496,PT11M45.00S,4,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,-136,215,25,Made,1,83.0,82.0,165,h,Bogdanovic 25' 3PT Jump Shot (20 PTS) (Huerter 1 AST),Made Shot,Jump Shot,1,371
+42000204,498,PT11M25.00S,4,1610612755,PHI,201588,Hill,G. Hill,218,94,24,Missed,1,,,0,v,MISS G. Hill 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,372
+42000204,499,PT11M25.00S,4,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,0,373
+42000204,500,PT11M25.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,Okongwu L.B.FOUL (P1.T1) (C.Blair),Foul,Loose Ball,1,374
+42000204,502,PT11M12.00S,4,1610612755,PHI,2730,Howard,D. Howard,2,5,1,Made,1,83.0,84.0,167,v,Howard 1' Alley Oop Dunk (7 PTS) (G. Hill 1 AST),Made Shot,Alley Oop Dunk Shot,1,375
+42000204,504,PT10M48.00S,4,1610612737,ATL,101150,Williams,L. Williams,149,145,21,Made,1,85.0,84.0,169,h,Williams 21' Jump Shot (6 PTS),Made Shot,Jump Shot,1,376
+42000204,506,PT10M33.00S,4,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,Gallinari S.FOUL (P2.T2) (J.Goble),Foul,Shooting,1,377
+42000204,508,PT10M33.00S,4,1610612755,PHI,1629003,Milton,S. Milton,0,0,0,,0,85.0,85.0,170,v,Milton Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,378
+42000204,509,PT10M33.00S,4,1610612755,PHI,1629003,Milton,S. Milton,0,0,0,,0,85.0,86.0,171,v,Milton Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,379
+42000204,510,PT10M22.00S,4,1610612737,ATL,1628989,Huerter,K. Huerter,-43,84,9,Missed,1,,,0,h,MISS Huerter 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,380
+42000204,511,PT10M18.00S,4,1610612755,PHI,2730,Howard,D. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:3 Def:5),Rebound,Unknown,1,381
+42000204,512,PT10M12.00S,4,1610612755,PHI,1629003,Milton,S. Milton,-7,96,10,Made,1,85.0,88.0,173,v,Milton 10' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,382
+42000204,513,PT10M12.00S,4,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,Huerter S.FOUL (P3.T3) (C.Blair),Foul,Shooting,1,383
+42000204,515,PT10M12.00S,4,1610612737,ATL,1630168,Okongwu,O. Okongwu,0,0,0,,0,,,0,h,SUB: Collins FOR Okongwu,Substitution,,0,384
+42000204,517,PT10M12.00S,4,1610612755,PHI,1629003,Milton,S. Milton,0,0,0,,0,85.0,89.0,174,v,Milton Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,385
+42000204,518,PT09M49.00S,4,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,126,237,27,Missed,1,,,0,h,MISS Bogdanovic 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,386
+42000204,519,PT09M47.00S,4,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,0,387
+42000204,520,PT09M47.00S,4,1610612755,PHI,2730,Howard,D. Howard,0,0,0,,0,,,0,v,Howard L.B.FOUL (P3.T1) (C.Blair),Foul,Loose Ball,1,388
+42000204,540,PT09M47.00S,4,0,,0,,,0,0,0,,0,85.0,89.0,174,,Instant Replay4th Period (9:42 PM EST),Instant Replay,Altercation Ruling,0,389
+42000204,522,PT09M41.00S,4,1610612737,ATL,1628989,Huerter,K. Huerter,29,290,29,Missed,1,,,0,h,MISS Huerter 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,390
+42000204,523,PT09M38.00S,4,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,Huerter REBOUND (Off:1 Def:2),Rebound,Unknown,1,391
+42000204,524,PT09M35.00S,4,1610612737,ATL,101150,Williams,L. Williams,-225,64,0,Made,1,88.0,89.0,177,h,Williams 3PT Jump Shot (9 PTS) (Huerter 2 AST),Made Shot,Jump Shot,1,392
+42000204,526,PT09M16.00S,4,1610612755,PHI,1629003,Milton,S. Milton,-119,217,25,Made,1,88.0,92.0,180,v,Milton 25' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,393
+42000204,528,PT08M58.00S,4,1610612737,ATL,1628381,Collins,J. Collins,16,66,7,Missed,1,,,0,h,MISS Collins 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,394
+42000204,529,PT08M55.00S,4,1610612755,PHI,2730,Howard,D. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:3 Def:6),Rebound,Unknown,1,395
+42000204,530,PT08M38.00S,4,1610612755,PHI,1629003,Milton,S. Milton,-7,2,1,Missed,1,,,0,v,MISS Milton 1' Driving Layup,Missed Shot,Driving Layup Shot,1,396
+42000204,531,PT08M36.00S,4,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,Gallinari REBOUND (Off:1 Def:5),Rebound,Unknown,1,397
+42000204,532,PT08M32.00S,4,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,236,16,24,Missed,1,,,0,h,MISS Bogdanovic 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,398
+42000204,533,PT08M27.00S,4,1610612755,PHI,201588,Hill,G. Hill,0,0,0,,0,,,0,v,G. Hill REBOUND (Off:0 Def:2),Rebound,Unknown,1,399
+42000204,534,PT08M12.00S,4,1610612755,PHI,202699,Harris,T. Harris,-20,16,3,Missed,1,,,0,v,MISS Harris 3' Layup,Missed Shot,Layup Shot,1,400
+42000204,534,PT08M12.00S,4,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins BLOCK (1 BLK),,,1,401
+42000204,536,PT08M08.00S,4,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,h,Bogdanovic REBOUND (Off:0 Def:5),Rebound,Unknown,1,402
+42000204,537,PT08M02.00S,4,1610612737,ATL,201568,Gallinari,D. Gallinari,236,85,25,Missed,1,,,0,h,MISS Gallinari 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,403
+42000204,538,PT08M00.00S,4,1610612755,PHI,2730,Howard,D. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:3 Def:7),Rebound,Unknown,1,404
+42000204,539,PT08M00.00S,4,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,405
+42000204,541,PT08M00.00S,4,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,SUB: Young FOR Huerter,Substitution,,0,406
+42000204,542,PT08M00.00S,4,1610612755,PHI,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,SUB: Simmons FOR Thybulle,Substitution,,0,407
+42000204,543,PT08M00.00S,4,1610612755,PHI,201588,Hill,G. Hill,0,0,0,,0,,,0,v,SUB: Maxey FOR G. Hill,Substitution,,0,408
+42000204,547,PT07M48.00S,4,1610612755,PHI,1629003,Milton,S. Milton,44,27,5,Missed,1,,,0,v,MISS Milton 5' Driving Layup,Missed Shot,Driving Layup Shot,1,409
+42000204,548,PT07M41.00S,4,1610612737,ATL,101150,Williams,L. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,1,410
+42000204,549,PT07M30.00S,4,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,-8,-10,1,Missed,1,,,0,h,MISS Bogdanovic 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,411
+42000204,550,PT07M28.00S,4,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,,,0,v,Harris REBOUND (Off:0 Def:5),Rebound,Unknown,1,412
+42000204,551,PT07M24.00S,4,1610612755,PHI,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton Traveling Turnover (P1.T9),Turnover,Traveling,1,413
+42000204,552,PT07M24.00S,4,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,SUB: Capela FOR Gallinari,Substitution,,0,414
+42000204,553,PT07M24.00S,4,1610612755,PHI,2730,Howard,D. Howard,0,0,0,,0,,,0,v,SUB: Embiid FOR Howard,Substitution,,0,415
+42000204,556,PT07M07.00S,4,1610612737,ATL,101150,Williams,L. Williams,-167,197,26,Missed,1,,,0,h,MISS Williams 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,416
+42000204,557,PT07M04.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,Maxey REBOUND (Off:0 Def:1),Rebound,Unknown,1,417
+42000204,558,PT06M45.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,-19,159,16,Missed,1,,,0,v,MISS Embiid 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,418
+42000204,559,PT06M40.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young REBOUND (Off:1 Def:2),Rebound,Unknown,1,419
+42000204,560,PT06M26.00S,4,1610612737,ATL,1629027,Young,T. Young,1,108,11,Made,1,90.0,92.0,182,h,Young 11' Driving Floating Jump Shot (19 PTS),Made Shot,Driving Floating Jump Shot,1,420
+42000204,561,PT06M05.00S,4,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,,,0,v,Harris Out of Bounds Lost Ball Turnover (P1.T10),Turnover,Out of Bounds Lost Ball Turnover,1,421
+42000204,562,PT06M05.00S,4,1610612737,ATL,101150,Williams,L. Williams,0,0,0,,0,,,0,h,SUB: Huerter FOR Williams,Substitution,,0,422
+42000204,563,PT06M05.00S,4,1610612755,PHI,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Curry FOR Milton,Substitution,,0,423
+42000204,566,PT05M54.00S,4,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,5,22,2,Made,1,92.0,92.0,184,h,Bogdanovic 2' Driving Layup (22 PTS) (Young 16 AST),Made Shot,Driving Layup Shot,1,424
+42000204,568,PT05M54.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid Violation:Defensive Goaltending (J.Goble),Violation,Defensive Goaltending,1,425
+42000204,569,PT05M38.00S,4,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,Huerter P.FOUL (P4.T4) (J.Goble),Foul,Personal,1,426
+42000204,571,PT05M38.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,,,0,v,SUB: Korkmaz FOR Maxey,Substitution,,0,427
+42000204,573,PT05M33.00S,4,1610612755,PHI,202699,Harris,T. Harris,-95,147,18,Missed,1,,,0,v,MISS Harris 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,428
+42000204,574,PT05M30.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:2 Def:9),Rebound,Unknown,1,429
+42000204,575,PT05M25.00S,4,1610612737,ATL,1629027,Young,T. Young,57,258,26,Missed,1,,,0,h,MISS Young 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,430
+42000204,576,PT05M20.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:3 Def:9),Rebound,Unknown,1,431
+42000204,577,PT05M15.00S,4,1610612737,ATL,203991,Capela,C. Capela,6,8,1,Made,1,94.0,92.0,186,h,Capela 1' Alley Oop Dunk (12 PTS) (Young 17 AST),Made Shot,Alley Oop Dunk Shot,1,432
+42000204,579,PT05M15.00S,4,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,433
+42000204,580,PT05M15.00S,4,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,,,0,v,SUB: Thybulle FOR Harris,Substitution,,0,434
+42000204,582,PT05M04.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid Offensive Charge Foul (P2.T2) (J.Tiven),Foul,Offensive Charge,1,435
+42000204,584,PT05M04.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid Offensive Foul Turnover (P3.T11),Turnover,Offensive Foul Turnover,1,436
+42000204,585,PT04M49.00S,4,1610612737,ATL,1629027,Young,T. Young,16,22,3,Missed,1,,,0,h,MISS Young 3' Driving Layup,Missed Shot,Driving Layup Shot,1,437
+42000204,586,PT04M46.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:1 Def:16),Rebound,Unknown,1,438
+42000204,587,PT04M33.00S,4,1610612755,PHI,203552,Curry,S. Curry,222,102,24,Missed,1,,,0,v,MISS Curry 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,439
+42000204,588,PT04M30.00S,4,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,Huerter REBOUND (Off:1 Def:3),Rebound,Unknown,1,440
+42000204,589,PT04M11.00S,4,1610612737,ATL,1628381,Collins,J. Collins,-112,57,13,Missed,1,,,0,h,MISS Collins 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,441
+42000204,590,PT04M11.00S,4,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Unknown,0,442
+42000204,591,PT04M11.00S,4,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins L.B.FOUL (P2.PN) (J.Goble),Foul,Loose Ball,1,443
+42000204,593,PT04M11.00S,4,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,MISS Simmons Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,444
+42000204,594,PT04M11.00S,4,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Rebound,Rebound,Normal Rebound,0,445
+42000204,595,PT04M11.00S,4,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,94.0,93.0,187,v,Simmons Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,446
+42000204,596,PT03M52.00S,4,1610612737,ATL,1629027,Young,T. Young,-20,283,28,Missed,1,,,0,h,MISS Young 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,447
+42000204,597,PT03M49.00S,4,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,Simmons REBOUND (Off:3 Def:9),Rebound,Unknown,1,448
+42000204,598,PT03M35.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,32,26,4,Missed,1,,,0,v,MISS Embiid 4' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,449
+42000204,598,PT03M35.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela BLOCK (1 BLK),,,1,450
+42000204,599,PT03M32.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:2 Def:16),Rebound,Unknown,1,451
+42000204,600,PT03M32.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid Lost Ball Turnover (P4.T12),Turnover,Lost Ball,1,452
+42000204,600,PT03M32.00S,4,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,Huerter STEAL (2 STL),,,1,453
+42000204,602,PT03M26.00S,4,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,-62,245,25,Missed,1,,,0,h,MISS Bogdanovic 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,454
+42000204,603,PT03M23.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:2 Def:17),Rebound,Unknown,1,455
+42000204,604,PT03M23.00S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela P.FOUL (P3.PN) (J.Goble),Foul,Personal,1,456
+42000204,606,PT03M23.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,94.0,94.0,188,v,Embiid Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,457
+42000204,607,PT03M23.00S,4,1610612755,PHI,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,SUB: Harris FOR Thybulle,Substitution,,0,458
+42000204,609,PT03M23.00S,4,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,459
+42000204,611,PT03M23.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,94.0,95.0,189,v,Embiid Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,460
+42000204,612,PT03M06.00S,4,1610612737,ATL,1628381,Collins,J. Collins,24,29,4,Missed,1,,,0,h,MISS Collins 4' Driving Layup,Missed Shot,Driving Layup Shot,1,461
+42000204,613,PT03M03.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:2 Def:18),Rebound,Unknown,1,462
+42000204,614,PT02M44.00S,4,1610612755,PHI,1627788,Korkmaz,F. Korkmaz,32,246,25,Made,1,94.0,98.0,192,v,Korkmaz 25' 3PT Jump Shot (10 PTS) (Simmons 9 AST),Made Shot,Jump Shot,1,463
+42000204,616,PT02M25.00S,4,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,7,167,17,Missed,1,,,0,h,MISS Bogdanovic 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,464
+42000204,617,PT02M22.00S,4,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins REBOUND (Off:5 Def:6),Rebound,Unknown,1,465
+42000204,618,PT02M15.00S,4,1610612737,ATL,1628381,Collins,J. Collins,-220,34,0,Made,1,97.0,98.0,195,h,Collins 3PT Jump Shot (14 PTS) (Young 18 AST),Made Shot,Jump Shot,1,466
+42000204,620,PT01M53.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,19,252,25,Missed,1,,,0,v,MISS Embiid 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,467
+42000204,621,PT01M51.00S,4,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins REBOUND (Off:5 Def:7),Rebound,Unknown,1,468
+42000204,622,PT01M47.00S,4,1610612737,ATL,203992,Bogdanovic,B. Bogdanovic,-190,58,20,Missed,1,,,0,h,MISS Bogdanovic 20' Jump Shot,Missed Shot,Jump Shot,1,469
+42000204,623,PT01M42.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid REBOUND (Off:2 Def:19),Rebound,Unknown,1,470
+42000204,624,PT01M26.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,-106,84,14,Missed,1,,,0,v,MISS Embiid 14' Jump Shot,Missed Shot,Jump Shot,1,471
+42000204,625,PT01M22.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,,,0,h,Young REBOUND (Off:1 Def:3),Rebound,Unknown,1,472
+42000204,626,PT01M17.00S,4,1610612737,ATL,1629027,Young,T. Young,-24,71,7,Made,1,99.0,98.0,197,h,Young 7' Driving Floating Jump Shot (21 PTS),Made Shot,Driving Floating Jump Shot,1,473
+42000204,627,PT00M58.60S,4,1610612755,PHI,1627788,Korkmaz,F. Korkmaz,-152,211,26,Missed,1,,,0,v,MISS Korkmaz 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,474
+42000204,628,PT00M55.50S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,Capela REBOUND (Off:3 Def:10),Rebound,Unknown,1,475
+42000204,631,PT00M49.60S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,,,0,v,Embiid S.FOUL (P3.T3) (C.Blair),Foul,Shooting,1,476
+42000204,633,PT00M49.60S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,100.0,98.0,198,h,Young Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,1,477
+42000204,634,PT00M49.60S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,101.0,98.0,199,h,Young Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,1,478
+42000204,635,PT00M49.60S,4,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,479
+42000204,636,PT00M40.30S,4,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins S.FOUL (P3.PN) (J.Tiven),Foul,Shooting,1,480
+42000204,638,PT00M40.30S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,101.0,99.0,200,v,Embiid Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,481
+42000204,639,PT00M40.30S,4,1610612755,PHI,203552,Curry,S. Curry,0,0,0,,0,,,0,v,SUB: Thybulle FOR Curry,Substitution,,0,482
+42000204,641,PT00M40.30S,4,1610612737,ATL,1628989,Huerter,K. Huerter,0,0,0,,0,,,0,h,SUB: Gallinari FOR Huerter,Substitution,,0,483
+42000204,643,PT00M40.30S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,101.0,100.0,201,v,Embiid Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,484
+42000204,644,PT00M40.30S,4,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,485
+42000204,645,PT00M40.30S,4,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,SUB: Huerter FOR Gallinari,Substitution,,0,486
+42000204,647,PT00M16.60S,4,1610612737,ATL,1628381,Collins,J. Collins,0,0,0,,0,,,0,h,Collins Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,487
+42000204,648,PT00M16.60S,4,0,,1610612755,,,0,0,0,,0,,,0,v,76ers Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,488
+42000204,649,PT00M16.60S,4,1610612755,PHI,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,SUB: Curry FOR Thybulle,Substitution,,0,489
+42000204,651,PT00M08.80S,4,1610612755,PHI,203954,Embiid,J. Embiid,-7,-4,1,Missed,1,,,0,v,MISS Embiid 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,490
+42000204,652,PT00M08.20S,4,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Rebound,Rebound,Unknown,0,491
+42000204,654,PT00M08.20S,4,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,,,0,h,SUB: Gallinari FOR Capela,Substitution,,0,492
+42000204,655,PT00M08.20S,4,1610612755,PHI,203552,Curry,S. Curry,0,0,0,,0,,,0,v,SUB: Thybulle FOR Curry,Substitution,,0,493
+42000204,658,PT00M08.20S,4,0,,1610612737,,,0,0,0,,0,,,0,h,HAWKS Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,494
+42000204,659,PT00M06.60S,4,1610612755,PHI,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,Thybulle Personal Take Foul (P2.PN) (J.Tiven),Foul,Personal Take,1,495
+42000204,661,PT00M06.60S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,102.0,100.0,202,h,Young Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,496
+42000204,662,PT00M06.60S,4,1610612737,ATL,201568,Gallinari,D. Gallinari,0,0,0,,0,,,0,h,SUB: Capela FOR Gallinari,Substitution,,0,497
+42000204,663,PT00M06.60S,4,1610612755,PHI,1627732,Simmons,B. Simmons,0,0,0,,0,,,0,v,SUB: Curry FOR Simmons,Substitution,,0,498
+42000204,664,PT00M06.60S,4,1610612755,PHI,1629680,Thybulle,M. Thybulle,0,0,0,,0,,,0,v,SUB: Milton FOR Thybulle,Substitution,,0,499
+42000204,668,PT00M06.60S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,103.0,100.0,203,h,Young Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,500
+42000204,671,PT00M00.00S,4,0,,0,,,0,0,0,,0,103.0,100.0,203,,End of 4th Period (10:18 PM EST),period,end,1,501

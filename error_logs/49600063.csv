@@ -1,0 +1,494 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+49600063,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (4:00 AM EST),period,start,0,1
+49600063,2,PT12M00.00S,1,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,Jump Ball Kemp vs. Olajuwon: Tip to Maloney,Jump Ball,,0,2
+49600063,3,PT11M39.00S,1,1610612745,HOU,17,Drexler,C. Drexler,-79,151,17,Missed,1,0.0,0.0,0,v,MISS Drexler 17' Jump Shot,Missed Shot,Jump Shot,0,3
+49600063,4,PT11M36.00S,1,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,Kemp REBOUND (Off:6 Def:5),Rebound,Unknown,0,4
+49600063,5,PT11M15.00S,1,1610612760,SEA,431,Kemp,S. Kemp,-205,110,0,Missed,1,0.0,0.0,0,h,MISS Kemp  3PT Jump Shot,Missed Shot,Jump Shot,0,5
+49600063,6,PT11M14.00S,1,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,,0,0.0,0.0,0,v,Barkley REBOUND (Off:4 Def:8),Rebound,Unknown,0,6
+49600063,7,PT11M07.00S,1,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,Olajuwon Traveling Turnover (P4.T21),Turnover,Traveling,0,7
+49600063,8,PT10M55.00S,1,1610612760,SEA,431,Kemp,S. Kemp,-114,6,11,Made,1,99.0,96.0,195,h,Kemp 11' Jump Shot (22 PTS) (Schrempf 2 AST),Made Shot,Jump Shot,0,8
+49600063,9,PT10M31.00S,1,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,Missed,1,0.0,0.0,0,v,MISS Barkley  Layup,Missed Shot,Layup Shot,0,9
+49600063,10,PT10M29.00S,1,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,Kemp REBOUND (Off:6 Def:4),Rebound,Unknown,0,10
+49600063,11,PT10M25.00S,1,1610612760,SEA,56,Payton,G. Payton,138,207,25,Made,1,97.0,96.0,193,h,Payton 25' 3PT Jump Shot (19 PTS) (Hawkins 4 AST),Made Shot,Jump Shot,0,11
+49600063,12,PT10M06.00S,1,1610612745,HOU,17,Drexler,C. Drexler,-99,197,0,Missed,1,0.0,0.0,0,v,MISS Drexler  3PT Jump Shot,Missed Shot,Jump Shot,0,12
+49600063,13,PT10M03.00S,1,1610612745,HOU,53,Elie,M. Elie,0,0,0,,0,0.0,0.0,0,v,Elie REBOUND (Off:3 Def:0),Rebound,Unknown,0,13
+49600063,14,PT09M57.00S,1,1610612745,HOU,787,Barkley,C. Barkley,-114,-12,11,Missed,1,0.0,0.0,0,v,MISS Barkley 11' Jump Shot,Missed Shot,Jump Shot,0,14
+49600063,15,PT09M55.00S,1,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,Kemp REBOUND (Off:6 Def:3),Rebound,Unknown,0,15
+49600063,16,PT09M46.00S,1,1610612760,SEA,765,Hawkins,H. Hawkins,101,-12,10,Made,1,94.0,96.0,190,h,Hawkins 10' Running Jump Shot (16 PTS),Made Shot,Running Jump Shot,0,16
+49600063,17,PT09M43.00S,1,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Timeout: Regular (Reg.7 Short 1),Timeout,Regular,0,17
+49600063,18,PT09M25.00S,1,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,Made,1,92.0,96.0,188,v,Barkley  Layup (20 PTS) (Drexler 6 AST),Made Shot,Layup Shot,0,18
+49600063,19,PT09M01.00S,1,1610612760,SEA,765,Hawkins,H. Hawkins,-129,136,19,Made,1,92.0,94.0,186,h,Hawkins 19' Jump Shot (14 PTS) (Payton 13 AST),Made Shot,Jump Shot,0,19
+49600063,20,PT08M44.00S,1,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,Missed,1,0.0,0.0,0,v,MISS Olajuwon  Layup,Missed Shot,Layup Shot,0,20
+49600063,21,PT08M42.00S,1,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,Kemp REBOUND (Off:6 Def:2),Rebound,Unknown,0,21
+49600063,22,PT08M28.00S,1,1610612760,SEA,56,Payton,G. Payton,-92,6,9,Missed,1,0.0,0.0,0,h,MISS Payton 9' Jump Shot,Missed Shot,Jump Shot,0,22
+49600063,23,PT08M26.00S,1,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,Olajuwon REBOUND (Off:3 Def:8),Rebound,Unknown,0,23
+49600063,24,PT08M22.00S,1,1610612745,HOU,1074,Maloney,M. Maloney,101,160,19,Missed,1,0.0,0.0,0,v,MISS Maloney 19' Jump Shot,Missed Shot,Jump Shot,0,24
+49600063,25,PT08M21.00S,1,1610612745,HOU,53,Elie,M. Elie,0,0,0,,0,0.0,0.0,0,v,Elie REBOUND (Off:2 Def:0),Rebound,Unknown,0,25
+49600063,26,PT08M17.00S,1,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,Missed,1,0.0,0.0,0,v,MISS Barkley  Layup,Missed Shot,Layup Shot,0,26
+49600063,27,PT08M15.00S,1,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,,0,0.0,0.0,0,h,Schrempf REBOUND (Off:1 Def:3),Rebound,Unknown,0,27
+49600063,28,PT08M10.00S,1,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,Missed,1,0.0,0.0,0,h,MISS Schrempf  Hook Shot,Missed Shot,Hook Shot,0,28
+49600063,29,PT08M08.00S,1,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,Kemp REBOUND (Off:6 Def:1),Rebound,Unknown,0,29
+49600063,32,PT08M05.00S,1,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,89.0,94.0,183,h,Kemp Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,30
+49600063,31,PT08M05.00S,1,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,90.0,94.0,184,h,Kemp Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,31
+49600063,30,PT08M05.00S,1,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,Olajuwon S.FOUL (P5.T3),Foul,Shooting,0,32
+49600063,33,PT07M49.00S,1,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,,0,0.0,0.0,0,v,Barkley Lost Ball Turnover (P4.T20),Turnover,Lost Ball,0,33
+49600063,33,PT07M49.00S,1,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,,0,0.0,0.0,0,h,Perkins STEAL (1 STL),,,0,34
+49600063,34,PT07M47.00S,1,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,,0,0.0,0.0,0,v,Barkley Violation:Double Lane,Violation,Double Lane,0,35
+49600063,35,PT07M34.00S,1,1610612760,SEA,56,Payton,G. Payton,-122,69,14,Made,1,88.0,94.0,182,h,Payton 14' Jump Shot (16 PTS),Made Shot,Jump Shot,0,36
+49600063,36,PT07M10.00S,1,1610612745,HOU,165,Olajuwon,H. Olajuwon,-112,203,0,Missed,1,0.0,0.0,0,v,MISS Olajuwon  3PT Jump Shot,Missed Shot,Jump Shot,0,37
+49600063,37,PT07M08.00S,1,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,,0,0.0,0.0,0,h,Perkins REBOUND (Off:0 Def:4),Rebound,Unknown,0,38
+49600063,38,PT07M01.00S,1,1610612760,SEA,765,Hawkins,H. Hawkins,125,214,25,Made,1,86.0,94.0,180,h,Hawkins 25' 3PT Jump Shot (12 PTS) (Kemp 3 AST),Made Shot,Jump Shot,0,39
+49600063,39,PT07M00.00S,1,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Timeout: Short (Reg.6 Short 1),Timeout,Short,0,40
+49600063,40,PT06M49.00S,1,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,Missed,1,0.0,0.0,0,v,MISS Olajuwon  Layup,Missed Shot,Layup Shot,0,41
+49600063,41,PT06M47.00S,1,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,Made,1,83.0,94.0,177,v,Barkley  Tip Shot (18 PTS),Made Shot,Tip Shot,0,42
+49600063,42,PT06M47.00S,1,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,,0,0.0,0.0,0,v,Barkley REBOUND (Off:4 Def:7),Rebound,Unknown,0,43
+49600063,43,PT06M33.00S,1,1610612760,SEA,96,Schrempf,D. Schrempf,-47,71,9,Made,1,83.0,92.0,175,h,Schrempf 9' Jump Shot (14 PTS),Made Shot,Jump Shot,0,44
+49600063,44,PT06M16.00S,1,1610612745,HOU,53,Elie,M. Elie,144,186,24,Missed,1,0.0,0.0,0,v,MISS Elie 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,45
+49600063,45,PT06M13.00S,1,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,Olajuwon REBOUND (Off:3 Def:7),Rebound,Unknown,0,46
+49600063,46,PT06M11.00S,1,1610612745,HOU,17,Drexler,C. Drexler,0,0,0,Missed,1,0.0,0.0,0,v,MISS Drexler  Layup,Missed Shot,Layup Shot,0,47
+49600063,46,PT06M11.00S,1,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,,0,0.0,0.0,0,h,Perkins BLOCK (2 BLK),,,0,48
+49600063,49,PT06M08.00S,1,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Unknown,0,49
+49600063,48,PT06M08.00S,1,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,Missed,1,0.0,0.0,0,v,MISS Barkley  Layup,Missed Shot,Layup Shot,0,50
+49600063,48,PT06M08.00S,1,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,Kemp BLOCK (2 BLK),,,0,51
+49600063,47,PT06M08.00S,1,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,,0,0.0,0.0,0,v,Barkley REBOUND (Off:3 Def:7),Rebound,Unknown,0,52
+49600063,50,PT06M06.00S,1,1610612745,HOU,53,Elie,M. Elie,38,-3,4,Missed,1,0.0,0.0,0,v,MISS Elie 4' Jump Shot,Missed Shot,Jump Shot,0,53
+49600063,52,PT06M04.00S,1,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,,0,0.0,0.0,0,v,Barkley L.B.FOUL (P4.T2),Foul,Loose Ball,0,54
+49600063,51,PT06M04.00S,1,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Rebound,Rebound,Unknown,0,55
+49600063,53,PT05M50.00S,1,1610612760,SEA,64,Perkins,S. Perkins,53,199,21,Missed,1,0.0,0.0,0,h,MISS Perkins 21' Jump Shot,Missed Shot,Jump Shot,0,56
+49600063,54,PT05M48.00S,1,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,Olajuwon REBOUND (Off:2 Def:7),Rebound,Unknown,0,57
+49600063,55,PT05M35.00S,1,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,Made,1,81.0,92.0,173,v,Olajuwon  Driving Layup (30 PTS),Made Shot,Driving Layup Shot,0,58
+49600063,56,PT05M17.00S,1,1610612760,SEA,431,Kemp,S. Kemp,-155,2,16,Made,1,81.0,90.0,171,h,Kemp 16' Jump Shot (18 PTS) (Payton 12 AST),Made Shot,Jump Shot,0,59
+49600063,58,PT04M56.00S,1,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,,0,0.0,0.0,0,h,SUB: Cummings FOR Perkins,Substitution,,0,60
+49600063,57,PT04M56.00S,1,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,Olajuwon Lost Ball Turnover (P3.T19),Turnover,Lost Ball,0,61
+49600063,59,PT04M46.00S,1,1610612760,SEA,56,Payton,G. Payton,-142,177,0,Missed,1,0.0,0.0,0,h,MISS Payton  3PT Jump Shot,Missed Shot,Jump Shot,0,62
+49600063,60,PT04M45.00S,1,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,Kemp REBOUND (Off:5 Def:1),Rebound,Unknown,0,63
+49600063,61,PT04M42.00S,1,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,Kemp Bad Pass Turnover (P4.T13),Turnover,Bad Pass,0,64
+49600063,61,PT04M42.00S,1,1610612745,HOU,1074,Maloney,M. Maloney,0,0,0,,0,0.0,0.0,0,v,Maloney STEAL (1 STL),,,0,65
+49600063,62,PT04M28.00S,1,1610612745,HOU,165,Olajuwon,H. Olajuwon,92,62,11,Missed,1,0.0,0.0,0,v,MISS Olajuwon 11' Jump Shot,Missed Shot,Jump Shot,0,66
+49600063,63,PT04M27.00S,1,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0.0,0.0,0,h,Payton REBOUND (Off:2 Def:6),Rebound,Unknown,0,67
+49600063,64,PT04M20.00S,1,1610612760,SEA,187,Cummings,T. Cummings,-122,52,13,Made,1,79.0,90.0,169,h,Cummings 13' Jump Shot (14 PTS) (Payton 11 AST),Made Shot,Jump Shot,0,68
+49600063,65,PT04M05.00S,1,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,69
+49600063,66,PT03M56.00S,1,1610612745,HOU,17,Drexler,C. Drexler,0,0,0,,0,0.0,0.0,0,v,Drexler Bad Pass Turnover (P2.T18),Turnover,Bad Pass,0,70
+49600063,66,PT03M56.00S,1,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,,0,0.0,0.0,0,h,Schrempf STEAL (1 STL),,,0,71
+49600063,67,PT03M52.00S,1,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,Made,1,77.0,90.0,167,h,Kemp  Slam Dunk (16 PTS) (Payton 10 AST),Made Shot,Slam Dunk Shot,0,72
+49600063,68,PT03M30.00S,1,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,Missed,1,0.0,0.0,0,v,MISS Olajuwon  Layup,Missed Shot,Layup Shot,0,73
+49600063,69,PT03M29.00S,1,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0.0,0.0,0,h,Cummings REBOUND (Off:3 Def:2),Rebound,Unknown,0,74
+49600063,70,PT03M18.00S,1,1610612760,SEA,187,Cummings,T. Cummings,-29,136,14,Missed,1,0.0,0.0,0,h,MISS Cummings 14' Jump Shot,Missed Shot,Jump Shot,0,75
+49600063,71,PT03M15.00S,1,1610612745,HOU,17,Drexler,C. Drexler,0,0,0,,0,0.0,0.0,0,v,Drexler REBOUND (Off:3 Def:6),Rebound,Unknown,0,76
+49600063,72,PT03M05.00S,1,1610612745,HOU,1074,Maloney,M. Maloney,0,0,0,,0,0.0,0.0,0,v,Maloney Lost Ball Turnover (P3.T17),Turnover,Lost Ball,0,77
+49600063,72,PT03M05.00S,1,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0.0,0.0,0,h,Payton STEAL (5 STL),,,0,78
+49600063,73,PT03M00.00S,1,1610612760,SEA,56,Payton,G. Payton,0,0,0,Missed,1,0.0,0.0,0,h,MISS Payton  Layup,Missed Shot,Layup Shot,0,79
+49600063,77,PT02M59.00S,1,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,SUB: Threatt FOR Olajuwon,Substitution,,0,80
+49600063,78,PT02M59.00S,1,1610612745,HOU,1074,Maloney,M. Maloney,0,0,0,,0,0.0,0.0,0,v,SUB: Willis FOR Maloney,Substitution,,0,81
+49600063,76,PT02M59.00S,1,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,,0,0.0,0.0,0,h,SUB: Wingate FOR Schrempf,Substitution,,0,82
+49600063,75,PT02M59.00S,1,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0.0,0.0,0,h,Cummings L.B.FOUL (P6.PN),Foul,Loose Ball,0,83
+49600063,74,PT02M59.00S,1,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Unknown,0,84
+49600063,80,PT02M43.00S,1,1610612745,HOU,53,Elie,M. Elie,0,0,0,Made,1,75.0,90.0,165,v,Elie  Driving Layup (18 PTS) (Barkley 5 AST),Made Shot,Driving Layup Shot,0,85
+49600063,81,PT02M22.00S,1,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,Made,1,75.0,88.0,163,h,Kemp  Layup (14 PTS) (Payton 9 AST),Made Shot,Layup Shot,0,86
+49600063,82,PT02M09.00S,1,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Violation: Def. Goaltending Violation,Violation,Defensive Goaltending,0,87
+49600063,86,PT01M57.00S,1,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,,0,73.0,88.0,161,v,Barkley Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,88
+49600063,85,PT01M57.00S,1,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Unknown,0,89
+49600063,84,PT01M57.00S,1,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,,0,0.0,0.0,0,v,MISS Barkley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,90
+49600063,83,PT01M57.00S,1,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0.0,0.0,0,h,Cummings S.FOUL (P5.PN),Foul,Shooting,0,91
+49600063,87,PT01M41.00S,1,1610612760,SEA,765,Hawkins,H. Hawkins,0,0,0,Made,1,73.0,87.0,160,h,Hawkins  Layup (9 PTS) (Payton 8 AST),Made Shot,Layup Shot,0,92
+49600063,90,PT01M23.00S,1,1610612745,HOU,17,Drexler,C. Drexler,0,0,0,,0,71.0,86.0,157,v,Drexler Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,93
+49600063,89,PT01M23.00S,1,1610612745,HOU,17,Drexler,C. Drexler,0,0,0,,0,71.0,87.0,158,v,Drexler Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,94
+49600063,88,PT01M23.00S,1,1610612760,SEA,766,Wingate,D. Wingate,0,0,0,,0,0.0,0.0,0,h,Wingate P.FOUL (P1.T1),Foul,Personal,0,95
+49600063,94,PT01M06.00S,1,1610612745,HOU,788,Willis,K. Willis,0,0,0,,0,0.0,0.0,0,v,Willis REBOUND (Off:2 Def:1),Rebound,Unknown,0,96
+49600063,93,PT01M06.00S,1,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0.0,0.0,0,h,MISS Payton Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,97
+49600063,92,PT01M06.00S,1,1610612745,HOU,53,Elie,M. Elie,0,0,0,,0,0.0,0.0,0,v,Elie S.FOUL (P6.T1),Foul,Shooting,0,98
+49600063,91,PT01M06.00S,1,1610612760,SEA,56,Payton,G. Payton,0,0,0,Made,1,71.0,85.0,156,h,Payton  Driving Layup (14 PTS),Made Shot,Driving Layup Shot,0,99
+49600063,95,PT00M53.30S,1,1610612745,HOU,788,Willis,K. Willis,0,0,0,,0,0.0,0.0,0,v,Willis Lost Ball Turnover (P3.T16),Turnover,Lost Ball,0,100
+49600063,96,PT00M42.20S,1,1610612760,SEA,56,Payton,G. Payton,-183,125,0,Missed,1,0.0,0.0,0,h,MISS Payton  3PT Jump Shot,Missed Shot,Jump Shot,0,101
+49600063,97,PT00M39.50S,1,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,,0,0.0,0.0,0,v,Barkley REBOUND (Off:2 Def:7),Rebound,Unknown,0,102
+49600063,98,PT00M36.40S,1,1610612745,HOU,9,Threatt,S. Threatt,-112,142,18,Made,1,69.0,85.0,154,v,Threatt 18' Jump Shot (7 PTS) (Barkley 4 AST),Made Shot,Jump Shot,0,103
+49600063,99,PT00M17.20S,1,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,Missed,1,0.0,0.0,0,h,MISS Kemp  Layup,Missed Shot,Layup Shot,0,104
+49600063,100,PT00M14.90S,1,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,Missed,1,0.0,0.0,0,h,MISS Cummings  Tip Shot,Missed Shot,Tip Shot,0,105
+49600063,101,PT00M14.90S,1,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0.0,0.0,0,h,Cummings REBOUND (Off:3 Def:1),Rebound,Unknown,0,106
+49600063,105,PT00M14.60S,1,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0.0,0.0,0,h,SUB: Stewart FOR Cummings,Substitution,,0,107
+49600063,104,PT00M14.60S,1,1610612760,SEA,765,Hawkins,H. Hawkins,0,0,0,,0,0.0,0.0,0,h,SUB: Snow FOR Hawkins,Substitution,,0,108
+49600063,103,PT00M14.60S,1,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,SUB: Perkins FOR Kemp,Substitution,,0,109
+49600063,102,PT00M14.60S,1,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Unknown,0,110
+49600063,106,PT00M02.50S,1,1610612745,HOU,787,Barkley,C. Barkley,-187,127,0,Missed,1,0.0,0.0,0,v,MISS Barkley  3PT Jump Shot,Missed Shot,Jump Shot,0,111
+49600063,108,PT00M00.00S,1,0,,0,,,0,0,0,,0,69.0,83.0,152,,End of 1st Period (9:24 AM EST),period,end,0,112
+49600063,107,PT00M00.00S,1,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0.0,0.0,0,h,Payton REBOUND (Off:2 Def:5),Rebound,Unknown,0,113
+49600063,109,PT12M00.00S,2,0,,0,,,0,0,0,,0,69.0,83.0,152,,Start of 2nd Period (9:22 AM EST),period,start,0,114
+49600063,110,PT11M37.00S,2,1610612760,SEA,56,Payton,G. Payton,-34,8,3,Missed,1,0.0,0.0,0,h,MISS Payton 3' Jump Shot,Missed Shot,Jump Shot,0,115
+49600063,111,PT11M35.00S,2,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,Missed,1,0.0,0.0,0,h,MISS Cummings  Tip Shot,Missed Shot,Tip Shot,0,116
+49600063,112,PT11M35.00S,2,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0.0,0.0,0,h,Cummings REBOUND (Off:2 Def:1),Rebound,Unknown,0,117
+49600063,113,PT11M33.00S,2,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0.0,0.0,0,h,Payton REBOUND (Off:2 Def:4),Rebound,Unknown,0,118
+49600063,114,PT11M28.00S,2,1610612760,SEA,64,Perkins,S. Perkins,125,210,24,Made,1,69.0,83.0,152,h,Perkins 24' 3PT Jump Shot (6 PTS) (Payton 7 AST),Made Shot,Jump Shot,0,119
+49600063,115,PT11M07.00S,2,1610612745,HOU,788,Willis,K. Willis,0,0,0,Made,1,66.0,83.0,149,v,Willis  Layup (8 PTS) (Barkley 3 AST),Made Shot,Layup Shot,0,120
+49600063,116,PT10M49.00S,2,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,Missed,1,0.0,0.0,0,h,MISS Perkins  Driving Layup,Missed Shot,Driving Layup Shot,0,121
+49600063,117,PT10M47.00S,2,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,,0,0.0,0.0,0,v,Barkley REBOUND (Off:2 Def:6),Rebound,Unknown,0,122
+49600063,120,PT10M43.00S,2,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,,0,0.0,0.0,0,v,SUB: Olajuwon FOR Barkley,Substitution,,0,123
+49600063,119,PT10M43.00S,2,1610612745,HOU,9,Threatt,S. Threatt,0,0,0,,0,0.0,0.0,0,v,Threatt Foul Turnover (P2.T15),Turnover,Foul,0,124
+49600063,118,PT10M43.00S,2,1610612745,HOU,9,Threatt,S. Threatt,0,0,0,,0,0.0,0.0,0,v,Threatt OFF.Foul (P4),Foul,Offensive,0,125
+49600063,121,PT10M30.00S,2,1610612760,SEA,766,Wingate,D. Wingate,138,127,19,Made,1,66.0,81.0,147,h,Wingate 19' Jump Shot (6 PTS) (Payton 6 AST),Made Shot,Jump Shot,0,126
+49600063,122,PT10M16.00S,2,1610612745,HOU,17,Drexler,C. Drexler,133,188,0,Missed,1,0.0,0.0,0,v,MISS Drexler  3PT Jump Shot,Missed Shot,Jump Shot,0,127
+49600063,123,PT10M14.00S,2,1610612745,HOU,698,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson REBOUND (Off:2 Def:2),Rebound,Unknown,0,128
+49600063,124,PT10M12.00S,2,1610612745,HOU,9,Threatt,S. Threatt,-55,225,0,Missed,1,0.0,0.0,0,v,MISS Threatt  3PT Jump Shot,Missed Shot,Jump Shot,0,129
+49600063,125,PT10M10.00S,2,1610612760,SEA,727,Snow,E. Snow,0,0,0,,0,0.0,0.0,0,h,Snow REBOUND (Off:0 Def:1),Rebound,Unknown,0,130
+49600063,126,PT10M06.00S,2,1610612760,SEA,766,Wingate,D. Wingate,0,0,0,Made,1,64.0,81.0,145,h,Wingate  Slam Dunk (4 PTS) (Snow 1 AST),Made Shot,Slam Dunk Shot,0,131
+49600063,128,PT09M55.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official TV,Timeout,Official TV,0,132
+49600063,127,PT09M55.00S,2,1610612745,HOU,698,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson Lost Ball Turnover (P1.T14),Turnover,Lost Ball,0,133
+49600063,131,PT09M45.00S,2,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0.0,0.0,0,h,Payton Lost Ball Turnover (P3.T12),Turnover,Lost Ball,0,134
+49600063,131,PT09M45.00S,2,1610612745,HOU,788,Willis,K. Willis,0,0,0,,0,0.0,0.0,0,v,Willis STEAL (1 STL),,,0,135
+49600063,135,PT09M43.00S,2,1610612745,HOU,788,Willis,K. Willis,0,0,0,,0,62.0,80.0,142,v,Willis Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,136
+49600063,134,PT09M43.00S,2,1610612745,HOU,788,Willis,K. Willis,0,0,0,,0,62.0,81.0,143,v,Willis Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,137
+49600063,133,PT09M43.00S,2,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0.0,0.0,0,h,SUB: Schrempf FOR Payton,Substitution,,0,138
+49600063,132,PT09M43.00S,2,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,,0,0.0,0.0,0,h,Perkins S.FOUL (P2.PN),Foul,Shooting,0,139
+49600063,136,PT09M33.00S,2,1610612760,SEA,766,Wingate,D. Wingate,0,0,0,,0,0.0,0.0,0,h,Wingate Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,140
+49600063,136,PT09M33.00S,2,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,Olajuwon STEAL (1 STL),,,0,141
+49600063,137,PT09M14.00S,2,1610612745,HOU,788,Willis,K. Willis,0,0,0,,0,0.0,0.0,0,v,Willis Lost Ball Turnover (P2.T13),Turnover,Lost Ball,0,142
+49600063,137,PT09M14.00S,2,1610612760,SEA,727,Snow,E. Snow,0,0,0,,0,0.0,0.0,0,h,Snow STEAL (2 STL),,,0,143
+49600063,138,PT08M55.00S,2,1610612760,SEA,187,Cummings,T. Cummings,-131,-7,13,Made,1,62.0,79.0,141,h,Cummings 13' Jump Shot (12 PTS),Made Shot,Jump Shot,0,144
+49600063,139,PT08M36.00S,2,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,Made,1,60.0,79.0,139,v,Olajuwon  Driving Layup (28 PTS),Made Shot,Driving Layup Shot,0,145
+49600063,140,PT08M28.00S,2,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,Missed,1,0.0,0.0,0,h,MISS Cummings  Driving Layup,Missed Shot,Driving Layup Shot,0,146
+49600063,140,PT08M28.00S,2,1610612745,HOU,788,Willis,K. Willis,0,0,0,,0,0.0,0.0,0,v,Willis BLOCK (1 BLK),,,0,147
+49600063,141,PT08M26.00S,2,1610612745,HOU,698,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson REBOUND (Off:1 Def:2),Rebound,Unknown,0,148
+49600063,142,PT08M21.00S,2,1610612745,HOU,788,Willis,K. Willis,-47,103,11,Missed,1,0.0,0.0,0,v,MISS Willis 11' Jump Shot,Missed Shot,Jump Shot,0,149
+49600063,143,PT08M19.00S,2,1610612745,HOU,698,Johnson,E. Johnson,0,0,0,Missed,1,0.0,0.0,0,v,MISS Johnson  Tip Shot,Missed Shot,Tip Shot,0,150
+49600063,144,PT08M19.00S,2,1610612745,HOU,698,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson REBOUND (Off:1 Def:1),Rebound,Unknown,0,151
+49600063,149,PT08M17.00S,2,1610612745,HOU,17,Drexler,C. Drexler,0,0,0,,0,0.0,0.0,0,v,SUB: Elie FOR Drexler,Substitution,,0,152
+49600063,148,PT08M17.00S,2,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0.0,0.0,0,h,SUB: Kemp FOR Cummings,Substitution,,0,153
+49600063,147,PT08M17.00S,2,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Unknown,0,154
+49600063,145,PT08M17.00S,2,1610612745,HOU,788,Willis,K. Willis,0,0,0,Missed,1,0.0,0.0,0,v,MISS Willis  Tip Shot,Missed Shot,Tip Shot,0,155
+49600063,146,PT08M17.00S,2,1610612745,HOU,788,Willis,K. Willis,0,0,0,,0,0.0,0.0,0,v,Willis REBOUND (Off:2 Def:0),Rebound,Unknown,0,156
+49600063,150,PT08M09.00S,2,1610612745,HOU,53,Elie,M. Elie,0,0,0,Made,1,60.0,77.0,137,v,Elie  Driving Layup (16 PTS),Made Shot,Driving Layup Shot,0,157
+49600063,153,PT07M50.00S,2,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,59.0,75.0,134,h,Kemp Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,158
+49600063,152,PT07M50.00S,2,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,60.0,75.0,135,h,Kemp Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,159
+49600063,151,PT07M50.00S,2,1610612745,HOU,788,Willis,K. Willis,0,0,0,,0,0.0,0.0,0,v,Willis S.FOUL (P4.T3),Foul,Shooting,0,160
+49600063,154,PT07M39.00S,2,1610612745,HOU,165,Olajuwon,H. Olajuwon,-118,45,13,Made,1,58.0,75.0,133,v,Olajuwon 13' Jump Shot (26 PTS),Made Shot,Jump Shot,0,161
+49600063,155,PT07M30.00S,2,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,Missed,1,0.0,0.0,0,h,MISS Kemp  Layup,Missed Shot,Layup Shot,0,162
+49600063,156,PT07M27.00S,2,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,Olajuwon REBOUND (Off:2 Def:6),Rebound,Unknown,0,163
+49600063,157,PT07M22.00S,2,1610612745,HOU,9,Threatt,S. Threatt,0,0,0,Missed,1,0.0,0.0,0,v,MISS Threatt  Layup,Missed Shot,Layup Shot,0,164
+49600063,158,PT07M18.00S,2,1610612745,HOU,788,Willis,K. Willis,0,0,0,,0,0.0,0.0,0,v,Willis REBOUND (Off:1 Def:0),Rebound,Unknown,0,165
+49600063,159,PT07M13.00S,2,1610612745,HOU,165,Olajuwon,H. Olajuwon,-23,123,13,Made,1,58.0,73.0,131,v,Olajuwon 13' Jump Shot (24 PTS) (Willis 1 AST),Made Shot,Jump Shot,0,166
+49600063,160,PT06M51.00S,2,1610612760,SEA,727,Snow,E. Snow,-129,153,20,Made,1,58.0,71.0,129,h,Snow 20' Jump Shot (2 PTS) (Schrempf 1 AST),Made Shot,Jump Shot,0,167
+49600063,166,PT06M22.00S,2,1610612760,SEA,766,Wingate,D. Wingate,0,0,0,,0,0.0,0.0,0,h,SUB: Hawkins FOR Wingate,Substitution,,0,168
+49600063,165,PT06M22.00S,2,1610612745,HOU,788,Willis,K. Willis,0,0,0,,0,0.0,0.0,0,v,SUB: Barkley FOR Willis,Substitution,,0,169
+49600063,164,PT06M22.00S,2,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,170
+49600063,163,PT06M22.00S,2,1610612745,HOU,788,Willis,K. Willis,0,0,0,,0,0.0,0.0,0,v,Willis L.B.FOUL (P3.T2),Foul,Loose Ball,0,171
+49600063,161,PT06M22.00S,2,1610612745,HOU,53,Elie,M. Elie,0,0,0,,0,0.0,0.0,0,v,Elie Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,172
+49600063,161,PT06M22.00S,2,1610612760,SEA,727,Snow,E. Snow,0,0,0,,0,0.0,0.0,0,h,Snow STEAL (1 STL),,,0,173
+49600063,167,PT06M05.00S,2,1610612760,SEA,727,Snow,E. Snow,-38,49,6,Missed,1,0.0,0.0,0,h,MISS Snow 6' Jump Shot,Missed Shot,Jump Shot,0,174
+49600063,168,PT06M04.00S,2,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,Kemp REBOUND (Off:4 Def:1),Rebound,Unknown,0,175
+49600063,169,PT06M03.00S,2,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,Missed,1,0.0,0.0,0,h,MISS Kemp  Layup,Missed Shot,Layup Shot,0,176
+49600063,169,PT06M03.00S,2,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,Olajuwon BLOCK (4 BLK),,,0,177
+49600063,171,PT05M58.00S,2,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Rebound,Rebound,Unknown,0,178
+49600063,170,PT05M58.00S,2,1610612760,SEA,727,Snow,E. Snow,0,0,0,,0,0.0,0.0,0,h,Jump Ball Snow vs. Threatt: Tip to Snow,Jump Ball,,0,179
+49600063,172,PT05M47.00S,2,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,Missed,1,0.0,0.0,0,h,MISS Kemp  Driving Layup,Missed Shot,Driving Layup Shot,0,180
+49600063,173,PT05M44.00S,2,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,,0,0.0,0.0,0,v,Barkley REBOUND (Off:2 Def:5),Rebound,Unknown,0,181
+49600063,174,PT05M33.00S,2,1610612745,HOU,698,Johnson,E. Johnson,-125,192,0,Missed,1,0.0,0.0,0,v,MISS Johnson  3PT Jump Shot,Missed Shot,Jump Shot,0,182
+49600063,175,PT05M32.00S,2,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,,0,0.0,0.0,0,h,Schrempf REBOUND (Off:1 Def:2),Rebound,Unknown,0,183
+49600063,176,PT05M28.00S,2,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,Missed,1,0.0,0.0,0,h,MISS Perkins  Driving Layup,Missed Shot,Driving Layup Shot,0,184
+49600063,177,PT05M25.00S,2,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,Olajuwon REBOUND (Off:2 Def:5),Rebound,Unknown,0,185
+49600063,181,PT05M20.00S,2,1610612745,HOU,9,Threatt,S. Threatt,0,0,0,,0,56.0,70.0,126,v,Threatt Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,186
+49600063,180,PT05M20.00S,2,1610612745,HOU,9,Threatt,S. Threatt,0,0,0,,0,56.0,71.0,127,v,Threatt Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,187
+49600063,179,PT05M20.00S,2,1610612760,SEA,727,Snow,E. Snow,0,0,0,,0,0.0,0.0,0,h,SUB: Payton FOR Snow,Substitution,,0,188
+49600063,178,PT05M20.00S,2,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,,0,0.0,0.0,0,h,Schrempf S.FOUL (P3.PN),Foul,Shooting,0,189
+49600063,182,PT05M04.00S,2,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,Kemp Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,190
+49600063,182,PT05M04.00S,2,1610612745,HOU,53,Elie,M. Elie,0,0,0,,0,0.0,0.0,0,v,Elie STEAL (1 STL),,,0,191
+49600063,183,PT04M50.00S,2,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,Kemp P.FOUL (P3.T4),Foul,Personal,0,192
+49600063,184,PT04M35.00S,2,1610612745,HOU,165,Olajuwon,H. Olajuwon,-92,153,18,Missed,1,0.0,0.0,0,v,MISS Olajuwon 18' Jump Shot,Missed Shot,Jump Shot,0,193
+49600063,185,PT04M33.00S,2,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,,0,0.0,0.0,0,v,Barkley REBOUND (Off:2 Def:4),Rebound,Unknown,0,194
+49600063,186,PT04M32.00S,2,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,Missed,1,0.0,0.0,0,v,MISS Barkley  Layup,Missed Shot,Layup Shot,0,195
+49600063,187,PT04M29.00S,2,1610612745,HOU,53,Elie,M. Elie,0,0,0,,0,0.0,0.0,0,v,Elie REBOUND (Off:1 Def:0),Rebound,Unknown,0,196
+49600063,188,PT04M27.00S,2,1610612745,HOU,53,Elie,M. Elie,116,23,12,Made,1,56.0,69.0,125,v,Elie 12' Jump Shot (14 PTS),Made Shot,Jump Shot,0,197
+49600063,189,PT04M07.00S,2,1610612760,SEA,56,Payton,G. Payton,-101,19,10,Made,1,56.0,67.0,123,h,Payton 10' Jump Shot (12 PTS),Made Shot,Jump Shot,0,198
+49600063,194,PT03M51.00S,2,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Rebound,Rebound,Unknown,0,199
+49600063,193,PT03M51.00S,2,1610612760,SEA,765,Hawkins,H. Hawkins,0,0,0,,0,0.0,0.0,0,h,MISS Hawkins Free Throw Technical,Free Throw,Free Throw Technical,0,200
+49600063,192,PT03M51.00S,2,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,,0,0.0,0.0,0,h,SUB: Cummings FOR Perkins,Substitution,,0,201
+49600063,191,PT03M51.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Technical,Foul,Technical,0,202
+49600063,190,PT03M51.00S,2,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,,0,0.0,0.0,0,v,Barkley Lost Ball Turnover (P3.T11),Turnover,Lost Ball,0,203
+49600063,190,PT03M51.00S,2,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0.0,0.0,0,h,Payton STEAL (4 STL),,,0,204
+49600063,195,PT03M37.00S,2,1610612760,SEA,96,Schrempf,D. Schrempf,-112,75,13,Missed,1,0.0,0.0,0,h,MISS Schrempf 13' Jump Shot,Missed Shot,Jump Shot,0,205
+49600063,196,PT03M34.00S,2,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,Olajuwon REBOUND (Off:2 Def:4),Rebound,Unknown,0,206
+49600063,197,PT03M22.00S,2,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,Missed,1,0.0,0.0,0,v,MISS Barkley  Layup,Missed Shot,Layup Shot,0,207
+49600063,198,PT03M19.00S,2,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0.0,0.0,0,h,Payton REBOUND (Off:1 Def:4),Rebound,Unknown,0,208
+49600063,199,PT03M11.00S,2,1610612760,SEA,765,Hawkins,H. Hawkins,175,151,0,Missed,1,0.0,0.0,0,h,MISS Hawkins  3PT Jump Shot,Missed Shot,Jump Shot,0,209
+49600063,200,PT03M10.00S,2,1610612745,HOU,698,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,0,210
+49600063,201,PT03M02.00S,2,1610612745,HOU,698,Johnson,E. Johnson,201,101,0,Missed,1,0.0,0.0,0,v,MISS Johnson  3PT Jump Shot,Missed Shot,Jump Shot,0,211
+49600063,202,PT03M01.00S,2,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,,0,0.0,0.0,0,h,Schrempf REBOUND (Off:1 Def:1),Rebound,Unknown,0,212
+49600063,204,PT02M56.00S,2,1610612745,HOU,9,Threatt,S. Threatt,0,0,0,,0,0.0,0.0,0,v,SUB: Maloney FOR Threatt,Substitution,,0,213
+49600063,205,PT02M56.00S,2,1610612745,HOU,698,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,v,SUB: Drexler FOR Johnson,Substitution,,0,214
+49600063,203,PT02M56.00S,2,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,215
+49600063,207,PT02M43.00S,2,1610612760,SEA,765,Hawkins,H. Hawkins,-101,212,0,Missed,1,0.0,0.0,0,h,MISS Hawkins  3PT Jump Shot,Missed Shot,Jump Shot,0,216
+49600063,210,PT02M42.00S,2,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0.0,0.0,0,,"Double Technical - Payton, Drexler",Foul,Double Technical,0,217
+49600063,209,PT02M42.00S,2,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0.0,0.0,0,h,Payton L.B.FOUL (P2.T3),Foul,Loose Ball,0,218
+49600063,208,PT02M42.00S,2,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Unknown,0,219
+49600063,211,PT02M31.00S,2,1610612745,HOU,17,Drexler,C. Drexler,0,0,0,,0,0.0,0.0,0,v,Drexler Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,220
+49600063,212,PT02M16.00S,2,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,Made,1,54.0,67.0,121,h,Cummings  Jump Shot (10 PTS) (Kemp 2 AST),Made Shot,Jump Shot,0,221
+49600063,218,PT02M10.00S,2,1610612745,HOU,1074,Maloney,M. Maloney,0,0,0,,0,52.0,67.0,119,v,Maloney Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,222
+49600063,217,PT02M10.00S,2,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Unknown,0,223
+49600063,216,PT02M10.00S,2,1610612745,HOU,1074,Maloney,M. Maloney,0,0,0,,0,0.0,0.0,0,v,MISS Maloney Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,224
+49600063,215,PT02M10.00S,2,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,SUB: Perkins FOR Kemp,Substitution,,0,225
+49600063,214,PT02M10.00S,2,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Timeout: Short (Full 2 Short 1),Timeout,Short,0,226
+49600063,213,PT02M10.00S,2,1610612760,SEA,765,Hawkins,H. Hawkins,0,0,0,,0,0.0,0.0,0,h,Hawkins P.FOUL (P1.T2),Foul,Personal,0,227
+49600063,219,PT01M59.00S,2,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,Made,1,52.0,66.0,118,h,Cummings  Layup (8 PTS) (Payton 5 AST),Made Shot,Layup Shot,0,228
+49600063,220,PT01M33.00S,2,1610612745,HOU,53,Elie,M. Elie,0,0,0,,0,0.0,0.0,0,v,Elie 3 Second Violation Turnover (P1.T9),Turnover,3 Second Violation,0,229
+49600063,221,PT01M21.00S,2,1610612760,SEA,56,Payton,G. Payton,55,223,0,Missed,1,0.0,0.0,0,h,MISS Payton  3PT Jump Shot,Missed Shot,Jump Shot,0,230
+49600063,222,PT01M20.00S,2,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Unknown,0,231
+49600063,223,PT01M12.00S,2,1610612745,HOU,1074,Maloney,M. Maloney,-66,266,27,Made,1,50.0,66.0,116,v,Maloney 27' 3PT Jump Shot (3 PTS) (Drexler 5 AST),Made Shot,Jump Shot,0,232
+49600063,227,PT00M47.60S,2,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,49.0,63.0,112,h,Payton Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,233
+49600063,226,PT00M47.60S,2,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0.0,0.0,0,h,SUB: Stewart FOR Cummings,Substitution,,0,234
+49600063,225,PT00M47.60S,2,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,50.0,63.0,113,h,Payton Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,235
+49600063,224,PT00M47.60S,2,1610612745,HOU,53,Elie,M. Elie,0,0,0,,0,0.0,0.0,0,v,Elie S.FOUL (P5.T1),Foul,Shooting,0,236
+49600063,228,PT00M35.90S,2,1610612745,HOU,1074,Maloney,M. Maloney,-21,236,24,Missed,1,0.0,0.0,0,v,MISS Maloney 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,237
+49600063,233,PT00M34.60S,2,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,,0,48.0,62.0,110,v,Barkley Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,238
+49600063,232,PT00M34.60S,2,1610612745,HOU,53,Elie,M. Elie,0,0,0,,0,0.0,0.0,0,v,SUB: Johnson FOR Elie,Substitution,,0,239
+49600063,231,PT00M34.60S,2,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,,0,48.0,63.0,111,v,Barkley Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,240
+49600063,230,PT00M34.60S,2,1610612760,SEA,1125,Stewart,L. Stewart,0,0,0,,0,0.0,0.0,0,h,Stewart L.B.FOUL (P1.T1),Foul,Loose Ball,0,241
+49600063,229,PT00M34.60S,2,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Unknown,0,242
+49600063,234,PT00M16.00S,2,1610612760,SEA,56,Payton,G. Payton,0,0,0,Missed,1,0.0,0.0,0,h,MISS Payton  Layup,Missed Shot,Layup Shot,0,243
+49600063,235,PT00M13.80S,2,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,,0,0.0,0.0,0,v,Barkley REBOUND (Off:1 Def:4),Rebound,Unknown,0,244
+49600063,236,PT00M03.20S,2,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,Made,1,48.0,61.0,109,v,Olajuwon  Layup (22 PTS) (Barkley 2 AST),Made Shot,Layup Shot,0,245
+49600063,237,PT00M00.10S,2,1610612760,SEA,765,Hawkins,H. Hawkins,60,446,45,Missed,1,0.0,0.0,0,h,MISS Hawkins 45' 3PT Jump Shot,Missed Shot,Jump Shot,0,246
+49600063,239,PT00M00.00S,2,0,,0,,,0,0,0,,0,48.0,59.0,107,,End of 2nd Period (8:51 AM EST),period,end,0,247
+49600063,238,PT00M00.00S,2,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Rebound,Rebound,Unknown,0,248
+49600063,240,PT12M00.00S,3,0,,0,,,0,0,0,,0,48.0,59.0,107,,Start of 3rd Period (8:35 AM EST),period,start,0,249
+49600063,241,PT11M40.00S,3,1610612760,SEA,56,Payton,G. Payton,185,2,19,Missed,1,0.0,0.0,0,h,MISS Payton 19' Jump Shot,Missed Shot,Jump Shot,0,250
+49600063,242,PT11M39.00S,3,1610612745,HOU,17,Drexler,C. Drexler,0,0,0,,0,0.0,0.0,0,v,Drexler REBOUND (Off:3 Def:5),Rebound,Unknown,0,251
+49600063,243,PT11M25.00S,3,1610612745,HOU,1074,Maloney,M. Maloney,-187,140,0,Missed,1,0.0,0.0,0,v,MISS Maloney  3PT Jump Shot,Missed Shot,Jump Shot,0,252
+49600063,244,PT11M22.00S,3,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,,0,0.0,0.0,0,h,Perkins REBOUND (Off:0 Def:3),Rebound,Unknown,0,253
+49600063,245,PT11M16.00S,3,1610612760,SEA,765,Hawkins,H. Hawkins,0,0,0,,0,0.0,0.0,0,h,Hawkins Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,254
+49600063,246,PT10M59.00S,3,1610612745,HOU,1074,Maloney,M. Maloney,103,207,0,Missed,1,0.0,0.0,0,v,MISS Maloney  3PT Jump Shot,Missed Shot,Jump Shot,0,255
+49600063,247,PT10M56.00S,3,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,,0,0.0,0.0,0,v,Barkley REBOUND (Off:1 Def:3),Rebound,Unknown,0,256
+49600063,248,PT10M50.00S,3,1610612745,HOU,165,Olajuwon,H. Olajuwon,27,-5,3,Missed,1,0.0,0.0,0,v,MISS Olajuwon 3' Jump Shot,Missed Shot,Jump Shot,0,257
+49600063,249,PT10M46.00S,3,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,,0,0.0,0.0,0,h,Perkins REBOUND (Off:0 Def:2),Rebound,Unknown,0,258
+49600063,250,PT10M42.00S,3,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,Made,1,48.0,59.0,107,h,Schrempf  Driving Layup (12 PTS) (Payton 4 AST),Made Shot,Driving Layup Shot,0,259
+49600063,251,PT10M16.00S,3,1610612745,HOU,787,Barkley,C. Barkley,-146,-12,15,Made,1,46.0,59.0,105,v,Barkley 15' Jump Shot (13 PTS),Made Shot,Jump Shot,0,260
+49600063,253,PT10M01.00S,3,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Violation: Def. Goaltending Violation,Violation,Defensive Goaltending,0,261
+49600063,254,PT09M50.00S,3,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,Kemp Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,262
+49600063,254,PT09M50.00S,3,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,,0,0.0,0.0,0,v,Barkley STEAL (2 STL),,,0,263
+49600063,255,PT09M41.00S,3,1610612745,HOU,17,Drexler,C. Drexler,172,93,20,Made,1,46.0,57.0,103,v,Drexler 20' Jump Shot (7 PTS),Made Shot,Jump Shot,0,264
+49600063,256,PT09M24.00S,3,1610612760,SEA,431,Kemp,S. Kemp,-131,19,13,Missed,1,0.0,0.0,0,h,MISS Kemp 13' Jump Shot,Missed Shot,Jump Shot,0,265
+49600063,256,PT09M24.00S,3,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,Olajuwon BLOCK (3 BLK),,,0,266
+49600063,257,PT09M21.00S,3,1610612745,HOU,17,Drexler,C. Drexler,0,0,0,,0,0.0,0.0,0,v,Drexler REBOUND (Off:3 Def:4),Rebound,Unknown,0,267
+49600063,258,PT09M13.00S,3,1610612745,HOU,17,Drexler,C. Drexler,-153,166,0,Missed,1,0.0,0.0,0,v,MISS Drexler  3PT Jump Shot,Missed Shot,Jump Shot,0,268
+49600063,259,PT09M11.00S,3,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,Kemp REBOUND (Off:3 Def:1),Rebound,Unknown,0,269
+49600063,262,PT09M04.00S,3,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,,0,44.0,55.0,99,h,Schrempf Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,270
+49600063,261,PT09M04.00S,3,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,,0,0.0,0.0,0,v,Barkley S.FOUL (P3.PN),Foul,Shooting,0,271
+49600063,260,PT09M04.00S,3,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,Made,1,46.0,55.0,101,h,Schrempf  Layup (10 PTS) (Hawkins 3 AST),Made Shot,Layup Shot,0,272
+49600063,263,PT08M53.00S,3,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,Made,1,43.0,55.0,98,v,Olajuwon  Layup (20 PTS) (Drexler 4 AST),Made Shot,Layup Shot,0,273
+49600063,264,PT08M30.00S,3,1610612745,HOU,53,Elie,M. Elie,0,0,0,,0,0.0,0.0,0,v,Elie P.FOUL (P4.PN),Foul,Personal,0,274
+49600063,265,PT08M18.00S,3,1610612760,SEA,64,Perkins,S. Perkins,-118,210,24,Made,1,43.0,53.0,96,h,Perkins 24' 3PT Jump Shot (3 PTS) (Payton 3 AST),Made Shot,Jump Shot,0,275
+49600063,268,PT08M03.00S,3,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Unknown,0,276
+49600063,267,PT08M03.00S,3,1610612745,HOU,53,Elie,M. Elie,0,0,0,,0,0.0,0.0,0,v,MISS Elie Free Throw Technical,Free Throw,Free Throw Technical,0,277
+49600063,266,PT08M03.00S,3,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Foul,Foul,Defense 3 Second,0,278
+49600063,269,PT07M51.00S,3,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,,0,0.0,0.0,0,v,Barkley Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,279
+49600063,269,PT07M51.00S,3,1610612760,SEA,765,Hawkins,H. Hawkins,0,0,0,,0,0.0,0.0,0,h,Hawkins STEAL (1 STL),,,0,280
+49600063,270,PT07M46.00S,3,1610612760,SEA,56,Payton,G. Payton,0,0,0,Made,1,40.0,53.0,93,h,Payton  Driving Layup (8 PTS) (Hawkins 2 AST),Made Shot,Driving Layup Shot,0,281
+49600063,271,PT07M42.00S,3,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,282
+49600063,277,PT07M30.00S,3,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0.0,0.0,0,h,Payton REBOUND (Off:1 Def:3),Rebound,Unknown,0,283
+49600063,276,PT07M30.00S,3,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,,0,0.0,0.0,0,v,MISS Barkley Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,284
+49600063,275,PT07M30.00S,3,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,Kemp S.FOUL (P2.T3),Foul,Shooting,0,285
+49600063,274,PT07M30.00S,3,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,Made,1,38.0,53.0,91,v,Barkley  Layup (11 PTS),Made Shot,Layup Shot,0,286
+49600063,278,PT07M13.00S,3,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,Missed,1,0.0,0.0,0,h,MISS Kemp  Layup,Missed Shot,Layup Shot,0,287
+49600063,278,PT07M13.00S,3,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,Olajuwon BLOCK (2 BLK),,,0,288
+49600063,279,PT07M12.00S,3,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,Olajuwon REBOUND (Off:2 Def:3),Rebound,Unknown,0,289
+49600063,280,PT07M03.00S,3,1610612745,HOU,787,Barkley,C. Barkley,-187,155,24,Made,1,38.0,51.0,89,v,Barkley 24' 3PT Jump Shot (9 PTS) (Maloney 2 AST),Made Shot,Jump Shot,0,290
+49600063,281,PT06M43.00S,3,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,Made,1,38.0,48.0,86,h,Schrempf  Layup (7 PTS) (Kemp 1 AST),Made Shot,Layup Shot,0,291
+49600063,283,PT06M24.00S,3,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,,0,0.0,0.0,0,h,SUB: Cummings FOR Perkins,Substitution,,0,292
+49600063,282,PT06M24.00S,3,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,,0,0.0,0.0,0,h,Schrempf P.FOUL (P2.T2),Foul,Personal,0,293
+49600063,284,PT06M12.00S,3,1610612745,HOU,787,Barkley,C. Barkley,-101,54,11,Missed,1,0.0,0.0,0,v,MISS Barkley 11' Jump Shot,Missed Shot,Jump Shot,0,294
+49600063,285,PT06M11.00S,3,1610612745,HOU,17,Drexler,C. Drexler,0,0,0,,0,0.0,0.0,0,v,Drexler REBOUND (Off:3 Def:3),Rebound,Unknown,0,295
+49600063,286,PT06M06.00S,3,1610612745,HOU,53,Elie,M. Elie,-190,166,25,Made,1,36.0,48.0,84,v,Elie 25' 3PT Jump Shot (12 PTS) (Drexler 3 AST),Made Shot,Jump Shot,0,296
+49600063,287,PT05M50.00S,3,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,Missed,1,0.0,0.0,0,h,MISS Cummings  Layup,Missed Shot,Layup Shot,0,297
+49600063,287,PT05M50.00S,3,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,Olajuwon BLOCK (1 BLK),,,0,298
+49600063,288,PT05M46.00S,3,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,Kemp REBOUND (Off:3 Def:0),Rebound,Unknown,0,299
+49600063,289,PT05M41.00S,3,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,,0,0.0,0.0,0,v,Barkley P.FOUL (P2.PN),Foul,Personal,0,300
+49600063,290,PT05M36.00S,3,1610612745,HOU,17,Drexler,C. Drexler,0,0,0,,0,0.0,0.0,0,v,Drexler P.FOUL (P2.T4),Foul,Personal,0,301
+49600063,291,PT05M27.00S,3,1610612760,SEA,765,Hawkins,H. Hawkins,-23,43,5,Missed,1,0.0,0.0,0,h,MISS Hawkins 5' Jump Shot,Missed Shot,Jump Shot,0,302
+49600063,292,PT05M24.00S,3,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0.0,0.0,0,h,Cummings REBOUND (Off:1 Def:1),Rebound,Unknown,0,303
+49600063,293,PT05M13.00S,3,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0.0,0.0,0,h,Payton Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,304
+49600063,293,PT05M13.00S,3,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,,0,0.0,0.0,0,v,Barkley STEAL (1 STL),,,0,305
+49600063,298,PT04M59.00S,3,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,35.0,44.0,79,v,Olajuwon Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,306
+49600063,297,PT04M59.00S,3,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,35.0,45.0,80,v,Olajuwon Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,307
+49600063,296,PT04M59.00S,3,1610612760,SEA,765,Hawkins,H. Hawkins,0,0,0,,0,36.0,45.0,81,h,Hawkins Free Throw Technical (7 PTS),Free Throw,Free Throw Technical,0,308
+49600063,295,PT04M59.00S,3,0,,0,,,0,0,0,,0,0.0,0.0,0,,Technical,Foul,Technical,0,309
+49600063,294,PT04M59.00S,3,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0.0,0.0,0,h,Cummings S.FOUL (P4.T1),Foul,Shooting,0,310
+49600063,299,PT04M43.00S,3,1610612760,SEA,96,Schrempf,D. Schrempf,123,-14,12,Missed,1,0.0,0.0,0,h,MISS Schrempf 12' Jump Shot,Missed Shot,Jump Shot,0,311
+49600063,300,PT04M41.00S,3,1610612745,HOU,17,Drexler,C. Drexler,0,0,0,,0,0.0,0.0,0,v,Drexler REBOUND (Off:2 Def:3),Rebound,Unknown,0,312
+49600063,301,PT04M25.00S,3,1610612745,HOU,17,Drexler,C. Drexler,0,0,0,Made,1,35.0,43.0,78,v,Drexler  Layup (5 PTS),Made Shot,Layup Shot,0,313
+49600063,304,PT04M04.00S,3,1610612760,SEA,765,Hawkins,H. Hawkins,0,0,0,,0,34.0,41.0,75,h,Hawkins Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,314
+49600063,303,PT04M04.00S,3,1610612760,SEA,765,Hawkins,H. Hawkins,0,0,0,,0,35.0,41.0,76,h,Hawkins Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,315
+49600063,302,PT04M04.00S,3,1610612745,HOU,1074,Maloney,M. Maloney,0,0,0,,0,0.0,0.0,0,v,Maloney P.FOUL (P1.T3),Foul,Personal,0,316
+49600063,305,PT03M42.00S,3,1610612745,HOU,53,Elie,M. Elie,8,158,16,Made,1,33.0,41.0,74,v,Elie 16' Jump Shot (9 PTS) (Barkley 1 AST),Made Shot,Jump Shot,0,317
+49600063,306,PT03M24.00S,3,1610612760,SEA,56,Payton,G. Payton,-142,88,17,Made,1,33.0,39.0,72,h,Payton 17' Jump Shot (6 PTS),Made Shot,Jump Shot,0,318
+49600063,307,PT03M10.00S,3,1610612745,HOU,1074,Maloney,M. Maloney,0,0,0,,0,0.0,0.0,0,v,Maloney Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,319
+49600063,307,PT03M10.00S,3,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,Kemp STEAL (1 STL),,,0,320
+49600063,308,PT03M01.00S,3,1610612760,SEA,187,Cummings,T. Cummings,146,-7,15,Made,1,31.0,39.0,70,h,Cummings 15' Jump Shot (6 PTS) (Hawkins 1 AST),Made Shot,Jump Shot,0,321
+49600063,309,PT02M43.00S,3,1610612745,HOU,1074,Maloney,M. Maloney,0,0,0,,0,0.0,0.0,0,v,Maloney Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,322
+49600063,309,PT02M43.00S,3,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0.0,0.0,0,h,Cummings STEAL (1 STL),,,0,323
+49600063,316,PT02M41.00S,3,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,28.0,39.0,67,h,Cummings Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,324
+49600063,315,PT02M41.00S,3,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,29.0,39.0,68,h,Cummings Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,325
+49600063,314,PT02M41.00S,3,1610612760,SEA,765,Hawkins,H. Hawkins,0,0,0,,0,0.0,0.0,0,h,SUB: Wingate FOR Hawkins,Substitution,,0,326
+49600063,312,PT02M41.00S,3,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,SUB: Threatt FOR Olajuwon,Substitution,,0,327
+49600063,313,PT02M41.00S,3,1610612745,HOU,1074,Maloney,M. Maloney,0,0,0,,0,0.0,0.0,0,v,SUB: Willis FOR Maloney,Substitution,,0,328
+49600063,311,PT02M41.00S,3,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,329
+49600063,310,PT02M41.00S,3,1610612745,HOU,17,Drexler,C. Drexler,0,0,0,,0,0.0,0.0,0,v,Drexler P.FOUL (P1.T2),Foul,Personal,0,330
+49600063,317,PT02M24.00S,3,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,,0,0.0,0.0,0,v,Barkley Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,331
+49600063,317,PT02M24.00S,3,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0.0,0.0,0,h,Payton STEAL (3 STL),,,0,332
+49600063,320,PT02M19.00S,3,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,MISS Kemp Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,333
+49600063,319,PT02M19.00S,3,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,27.0,39.0,66,h,Kemp Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,334
+49600063,318,PT02M19.00S,3,1610612745,HOU,9,Threatt,S. Threatt,0,0,0,,0,0.0,0.0,0,v,Threatt S.FOUL (P3.T1),Foul,Shooting,0,335
+49600063,321,PT02M16.00S,3,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,Kemp REBOUND (Off:2 Def:0),Rebound,Unknown,0,336
+49600063,322,PT02M12.00S,3,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,Made,1,26.0,39.0,65,h,Kemp  Driving Layup (9 PTS),Made Shot,Driving Layup Shot,0,337
+49600063,323,PT02M07.00S,3,1610612745,HOU,9,Threatt,S. Threatt,0,0,0,,0,0.0,0.0,0,v,Threatt Traveling Turnover (P1.T4),Turnover,Traveling,0,338
+49600063,324,PT01M57.00S,3,1610612760,SEA,96,Schrempf,D. Schrempf,114,95,15,Missed,1,0.0,0.0,0,h,MISS Schrempf 15' Jump Shot,Missed Shot,Jump Shot,0,339
+49600063,325,PT01M53.00S,3,1610612745,HOU,9,Threatt,S. Threatt,0,0,0,,0,0.0,0.0,0,v,Threatt REBOUND (Off:0 Def:1),Rebound,Unknown,0,340
+49600063,326,PT01M48.00S,3,1610612745,HOU,17,Drexler,C. Drexler,-196,125,0,Missed,1,0.0,0.0,0,v,MISS Drexler  3PT Jump Shot,Missed Shot,Jump Shot,0,341
+49600063,327,PT01M46.00S,3,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0.0,0.0,0,h,Cummings REBOUND (Off:0 Def:1),Rebound,Unknown,0,342
+49600063,328,PT01M32.00S,3,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,Made,1,24.0,39.0,63,h,Schrempf  Driving Layup (5 PTS) (Payton 2 AST),Made Shot,Driving Layup Shot,0,343
+49600063,329,PT01M27.00S,3,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,344
+49600063,333,PT01M13.00S,3,1610612745,HOU,53,Elie,M. Elie,0,0,0,,0,22.0,39.0,61,v,Elie Free Throw Technical (7 PTS),Free Throw,Free Throw Technical,0,345
+49600063,332,PT01M13.00S,3,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Foul,Foul,Defense 3 Second,0,346
+49600063,335,PT01M07.00S,3,1610612745,HOU,53,Elie,M. Elie,0,0,0,,0,22.0,38.0,60,v,Elie Free Throw Technical (6 PTS),Free Throw,Free Throw Technical,0,347
+49600063,334,PT01M07.00S,3,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Foul,Foul,Defense 3 Second,0,348
+49600063,337,PT00M57.10S,3,1610612745,HOU,788,Willis,K. Willis,0,0,0,,0,0.0,0.0,0,v,Willis Foul Turnover (P1.T3),Turnover,Foul,0,349
+49600063,336,PT00M57.10S,3,1610612745,HOU,788,Willis,K. Willis,0,0,0,,0,0.0,0.0,0,v,Willis OFF.Foul (P2),Foul,Offensive,0,350
+49600063,338,PT00M42.90S,3,1610612760,SEA,766,Wingate,D. Wingate,0,0,0,,0,0.0,0.0,0,h,Wingate Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,351
+49600063,339,PT00M32.70S,3,1610612745,HOU,53,Elie,M. Elie,-3,56,6,Made,1,22.0,37.0,59,v,Elie 6' Running Jump Shot (5 PTS),Made Shot,Running Jump Shot,0,352
+49600063,340,PT00M11.20S,3,1610612760,SEA,766,Wingate,D. Wingate,0,0,0,Missed,1,0.0,0.0,0,h,MISS Wingate  Jump Shot,Missed Shot,Jump Shot,0,353
+49600063,341,PT00M05.60S,3,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,,0,0.0,0.0,0,v,Barkley REBOUND (Off:0 Def:3),Rebound,Unknown,0,354
+49600063,344,PT00M03.00S,3,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,SUB: Perkins FOR Kemp,Substitution,,0,355
+49600063,343,PT00M03.00S,3,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,,0,22.0,35.0,57,h,Schrempf Free Throw Technical (3 PTS),Free Throw,Free Throw Technical,0,356
+49600063,342,PT00M03.00S,3,0,,0,,,0,0,0,,0,0.0,0.0,0,,Technical,Foul,Technical,0,357
+49600063,347,PT00M00.10S,3,1610612745,HOU,787,Barkley,C. Barkley,-226,56,0,Missed,1,0.0,0.0,0,v,MISS Barkley  3PT Jump Shot,Missed Shot,Jump Shot,0,358
+49600063,349,PT00M00.00S,3,0,,0,,,0,0,0,,0,21.0,35.0,56,,End of 3rd Period (8:04 AM EST),period,end,0,359
+49600063,348,PT00M00.00S,3,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Unknown,0,360
+49600063,350,PT12M00.00S,4,0,,0,,,0,0,0,,0,21.0,35.0,56,,Start of 4th Period (8:02 AM EST),period,start,0,361
+49600063,351,PT11M50.00S,4,1610612745,HOU,788,Willis,K. Willis,90,82,12,Missed,1,0.0,0.0,0,v,MISS Willis 12' Jump Shot,Missed Shot,Jump Shot,0,362
+49600063,352,PT11M47.00S,4,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,,0,0.0,0.0,0,h,Perkins REBOUND (Off:0 Def:1),Rebound,Unknown,0,363
+49600063,353,PT11M38.00S,4,1610612760,SEA,187,Cummings,T. Cummings,-3,151,15,Made,1,21.0,35.0,56,h,Cummings 15' Jump Shot (2 PTS),Made Shot,Jump Shot,0,364
+49600063,359,PT11M20.00S,4,1610612745,HOU,788,Willis,K. Willis,0,0,0,,0,0.0,0.0,0,v,Willis L.B.FOUL (P1.PN),Foul,Loose Ball,0,365
+49600063,358,PT11M20.00S,4,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Rebound,Rebound,Unknown,0,366
+49600063,357,PT11M20.00S,4,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,MISS Olajuwon Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,367
+49600063,356,PT11M20.00S,4,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,,0,0.0,0.0,0,h,SUB: Hawkins FOR Schrempf,Substitution,,0,368
+49600063,355,PT11M20.00S,4,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0.0,0.0,0,h,Cummings S.FOUL (P3.PN),Foul,Shooting,0,369
+49600063,354,PT11M20.00S,4,1610612745,HOU,165,Olajuwon,H. Olajuwon,-36,54,6,Made,1,19.0,35.0,54,v,Olajuwon 6' Jump Shot (16 PTS) (Threatt 3 AST),Made Shot,Jump Shot,0,370
+49600063,360,PT11M08.00S,4,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,,0,0.0,0.0,0,h,Perkins Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,371
+49600063,360,PT11M08.00S,4,1610612745,HOU,17,Drexler,C. Drexler,0,0,0,,0,0.0,0.0,0,v,Drexler STEAL (1 STL),,,0,372
+49600063,361,PT11M03.00S,4,1610612745,HOU,788,Willis,K. Willis,0,0,0,Made,1,19.0,33.0,52,v,Willis  Layup (4 PTS) (Elie 3 AST),Made Shot,Layup Shot,0,373
+49600063,362,PT10M40.00S,4,1610612760,SEA,765,Hawkins,H. Hawkins,0,0,0,,0,0.0,0.0,0,h,Hawkins Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,374
+49600063,363,PT10M31.00S,4,1610612745,HOU,17,Drexler,C. Drexler,90,207,0,Missed,1,0.0,0.0,0,v,MISS Drexler  3PT Jump Shot,Missed Shot,Jump Shot,0,375
+49600063,365,PT10M29.00S,4,1610612745,HOU,53,Elie,M. Elie,0,0,0,Made,1,19.0,31.0,50,v,Elie  3PT Jump Shot (3 PTS) (Olajuwon 1 AST),Made Shot,Jump Shot,0,376
+49600063,364,PT10M29.00S,4,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,Olajuwon REBOUND (Off:2 Def:2),Rebound,Unknown,0,377
+49600063,366,PT10M25.00S,4,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,378
+49600063,369,PT10M22.00S,4,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0.0,0.0,0,h,Cummings Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,379
+49600063,370,PT10M11.00S,4,1610612745,HOU,788,Willis,K. Willis,-47,0,5,Missed,1,0.0,0.0,0,v,MISS Willis 5' Hook Shot,Missed Shot,Hook Shot,0,380
+49600063,371,PT10M07.00S,4,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0.0,0.0,0,h,Payton REBOUND (Off:1 Def:2),Rebound,Unknown,0,381
+49600063,372,PT10M05.00S,4,1610612760,SEA,766,Wingate,D. Wingate,0,0,0,Made,1,19.0,28.0,47,h,Wingate  Layup (2 PTS) (Payton 1 AST),Made Shot,Layup Shot,0,382
+49600063,373,PT09M45.00S,4,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0.0,0.0,0,h,Cummings P.FOUL (P2.PN),Foul,Personal,0,383
+49600063,374,PT09M32.00S,4,1610612745,HOU,17,Drexler,C. Drexler,116,203,0,Missed,1,0.0,0.0,0,v,MISS Drexler  3PT Jump Shot,Missed Shot,Jump Shot,0,384
+49600063,375,PT09M30.00S,4,1610612745,HOU,17,Drexler,C. Drexler,0,0,0,,0,0.0,0.0,0,v,Drexler REBOUND (Off:2 Def:2),Rebound,Unknown,0,385
+49600063,377,PT09M22.00S,4,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0.0,0.0,0,h,SUB: Kemp FOR Cummings,Substitution,,0,386
+49600063,376,PT09M22.00S,4,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,,0,0.0,0.0,0,h,Perkins P.FOUL (P1.PN),Foul,Personal,0,387
+49600063,380,PT09M12.00S,4,1610612745,HOU,788,Willis,K. Willis,0,0,0,,0,17.0,27.0,44,v,Willis Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,388
+49600063,379,PT09M12.00S,4,1610612745,HOU,788,Willis,K. Willis,0,0,0,,0,17.0,28.0,45,v,Willis Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,389
+49600063,378,PT09M12.00S,4,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0.0,0.0,0,h,Payton S.FOUL (P1.T4),Foul,Shooting,0,390
+49600063,381,PT08M52.00S,4,1610612760,SEA,765,Hawkins,H. Hawkins,0,0,0,Missed,1,0.0,0.0,0,h,MISS Hawkins  Driving Layup,Missed Shot,Driving Layup Shot,0,391
+49600063,382,PT08M51.00S,4,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,Olajuwon REBOUND (Off:1 Def:2),Rebound,Unknown,0,392
+49600063,383,PT08M37.00S,4,1610612745,HOU,788,Willis,K. Willis,-53,32,6,Missed,1,0.0,0.0,0,v,MISS Willis 6' Hook Shot,Missed Shot,Hook Shot,0,393
+49600063,384,PT08M34.00S,4,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Unknown,0,394
+49600063,385,PT08M26.00S,4,1610612745,HOU,165,Olajuwon,H. Olajuwon,-112,-7,11,Made,1,17.0,26.0,43,v,Olajuwon 11' Jump Shot (14 PTS) (Threatt 2 AST),Made Shot,Jump Shot,0,395
+49600063,387,PT08M14.00S,4,1610612760,SEA,766,Wingate,D. Wingate,0,0,0,,0,0.0,0.0,0,h,SUB: Schrempf FOR Wingate,Substitution,,0,396
+49600063,386,PT08M14.00S,4,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,Olajuwon P.FOUL (P4.PN),Foul,Personal,0,397
+49600063,388,PT08M09.00S,4,1610612760,SEA,431,Kemp,S. Kemp,-5,49,5,Made,1,17.0,24.0,41,h,Kemp 5' Running Jump Shot (7 PTS),Made Shot,Running Jump Shot,0,398
+49600063,389,PT07M52.00S,4,1610612745,HOU,17,Drexler,C. Drexler,133,-22,13,Missed,1,0.0,0.0,0,v,MISS Drexler 13' Jump Shot,Missed Shot,Jump Shot,0,399
+49600063,390,PT07M49.00S,4,1610612760,SEA,765,Hawkins,H. Hawkins,0,0,0,,0,0.0,0.0,0,h,Hawkins REBOUND (Off:0 Def:2),Rebound,Unknown,0,400
+49600063,392,PT07M48.00S,4,1610612745,HOU,788,Willis,K. Willis,0,0,0,,0,0.0,0.0,0,v,SUB: Barkley FOR Willis,Substitution,,0,401
+49600063,391,PT07M48.00S,4,1610612745,HOU,53,Elie,M. Elie,0,0,0,,0,0.0,0.0,0,v,Elie P.FOUL (P3.PN),Foul,Personal,0,402
+49600063,396,PT07M39.00S,4,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,MISS Kemp Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,403
+49600063,395,PT07M39.00S,4,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Rebound,Rebound,Unknown,0,404
+49600063,394,PT07M39.00S,4,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,MISS Kemp Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,405
+49600063,393,PT07M39.00S,4,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,Olajuwon S.FOUL (P3.PN),Foul,Shooting,0,406
+49600063,397,PT07M38.00S,4,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,,0,0.0,0.0,0,v,Barkley REBOUND (Off:0 Def:2),Rebound,Unknown,0,407
+49600063,398,PT07M25.00S,4,1610612745,HOU,9,Threatt,S. Threatt,179,-18,18,Missed,1,0.0,0.0,0,v,MISS Threatt 18' Jump Shot,Missed Shot,Jump Shot,0,408
+49600063,400,PT07M22.00S,4,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,,0,0.0,0.0,0,h,SUB: Cummings FOR Perkins,Substitution,,0,409
+49600063,399,PT07M22.00S,4,1610612745,HOU,17,Drexler,C. Drexler,0,0,0,,0,0.0,0.0,0,v,Drexler REBOUND (Off:1 Def:2),Rebound,Unknown,0,410
+49600063,401,PT07M17.00S,4,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,Made,1,15.0,24.0,39,v,Olajuwon  Slam Dunk (12 PTS),Made Shot,Slam Dunk Shot,0,411
+49600063,402,PT06M52.00S,4,1610612760,SEA,187,Cummings,T. Cummings,181,8,18,Missed,1,0.0,0.0,0,h,MISS Cummings 18' Jump Shot,Missed Shot,Jump Shot,0,412
+49600063,403,PT06M51.00S,4,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0.0,0.0,0,h,Payton REBOUND (Off:1 Def:1),Rebound,Unknown,0,413
+49600063,407,PT06M41.00S,4,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,14.0,22.0,36,h,Kemp Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,414
+49600063,406,PT06M41.00S,4,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,15.0,22.0,37,h,Kemp Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,415
+49600063,405,PT06M41.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official TV,Timeout,Official TV,0,416
+49600063,404,PT06M41.00S,4,1610612745,HOU,9,Threatt,S. Threatt,0,0,0,,0,0.0,0.0,0,v,Threatt P.FOUL (P2.PN),Foul,Personal,0,417
+49600063,408,PT06M31.00S,4,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,Made,1,13.0,22.0,35,v,Olajuwon  Slam Dunk (10 PTS) (Elie 2 AST),Made Shot,Slam Dunk Shot,0,418
+49600063,409,PT06M10.00S,4,1610612760,SEA,56,Payton,G. Payton,-157,13,16,Missed,1,0.0,0.0,0,h,MISS Payton 16' Jump Shot,Missed Shot,Jump Shot,0,419
+49600063,410,PT06M07.00S,4,1610612745,HOU,17,Drexler,C. Drexler,0,0,0,,0,0.0,0.0,0,v,Drexler REBOUND (Off:0 Def:2),Rebound,Unknown,0,420
+49600063,411,PT05M51.00S,4,1610612745,HOU,165,Olajuwon,H. Olajuwon,-49,41,6,Missed,1,0.0,0.0,0,v,MISS Olajuwon 6' Jump Shot,Missed Shot,Jump Shot,0,421
+49600063,411,PT05M51.00S,4,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,Kemp BLOCK (1 BLK),,,0,422
+49600063,412,PT05M50.00S,4,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,Olajuwon REBOUND (Off:1 Def:1),Rebound,Unknown,0,423
+49600063,413,PT05M47.00S,4,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,Olajuwon Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,424
+49600063,413,PT05M47.00S,4,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0.0,0.0,0,h,Payton STEAL (2 STL),,,0,425
+49600063,417,PT05M43.00S,4,1610612760,SEA,765,Hawkins,H. Hawkins,0,0,0,,0,12.0,20.0,32,h,Hawkins Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,426
+49600063,416,PT05M43.00S,4,1610612745,HOU,9,Threatt,S. Threatt,0,0,0,,0,0.0,0.0,0,v,SUB: Maloney FOR Threatt,Substitution,,0,427
+49600063,415,PT05M43.00S,4,1610612760,SEA,765,Hawkins,H. Hawkins,0,0,0,,0,13.0,20.0,33,h,Hawkins Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,428
+49600063,414,PT05M43.00S,4,1610612745,HOU,9,Threatt,S. Threatt,0,0,0,,0,0.0,0.0,0,v,Threatt S.FOUL (P1.PN),Foul,Shooting,0,429
+49600063,418,PT05M31.00S,4,1610612745,HOU,787,Barkley,C. Barkley,131,54,14,Made,1,11.0,20.0,31,v,Barkley 14' Jump Shot (6 PTS) (Drexler 2 AST),Made Shot,Jump Shot,0,430
+49600063,419,PT05M08.00S,4,1610612760,SEA,187,Cummings,T. Cummings,23,162,16,Missed,1,0.0,0.0,0,h,MISS Cummings 16' Jump Shot,Missed Shot,Jump Shot,0,431
+49600063,425,PT05M07.00S,4,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,10.0,18.0,28,h,Kemp Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,432
+49600063,424,PT05M07.00S,4,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,11.0,18.0,29,h,Kemp Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,433
+49600063,423,PT05M07.00S,4,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,,0,0.0,0.0,0,v,Barkley L.B.FOUL (P1.PN),Foul,Loose Ball,0,434
+49600063,422,PT05M07.00S,4,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Rebound,Rebound,Unknown,0,435
+49600063,420,PT05M07.00S,4,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,Missed,1,0.0,0.0,0,h,MISS Schrempf  Tip Shot,Missed Shot,Tip Shot,0,436
+49600063,421,PT05M07.00S,4,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,,0,0.0,0.0,0,h,Schrempf REBOUND (Off:1 Def:0),Rebound,Unknown,0,437
+49600063,429,PT04M55.00S,4,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,,0,9.0,17.0,26,v,Barkley Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,438
+49600063,428,PT04M55.00S,4,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,,0,9.0,18.0,27,v,Barkley Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,439
+49600063,427,PT04M55.00S,4,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0.0,0.0,0,h,SUB: Perkins FOR Cummings,Substitution,,0,440
+49600063,426,PT04M55.00S,4,1610612760,SEA,187,Cummings,T. Cummings,0,0,0,,0,0.0,0.0,0,h,Cummings P.FOUL (P1.T3),Foul,Personal,0,441
+49600063,432,PT04M42.00S,4,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,8.0,16.0,24,h,Payton Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,442
+49600063,431,PT04M42.00S,4,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,9.0,16.0,25,h,Payton Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,443
+49600063,430,PT04M42.00S,4,1610612745,HOU,53,Elie,M. Elie,0,0,0,,0,0.0,0.0,0,v,Elie S.FOUL (P2.PN),Foul,Shooting,0,444
+49600063,435,PT04M32.00S,4,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,7.0,15.0,22,v,Olajuwon Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,445
+49600063,434,PT04M32.00S,4,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,7.0,16.0,23,v,Olajuwon Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,446
+49600063,433,PT04M32.00S,4,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,,0,0.0,0.0,0,h,Schrempf P.FOUL (P1.T2),Foul,Personal,0,447
+49600063,436,PT04M13.00S,4,1610612760,SEA,96,Schrempf,D. Schrempf,-138,10,14,Missed,1,0.0,0.0,0,h,MISS Schrempf 14' Jump Shot,Missed Shot,Jump Shot,0,448
+49600063,437,PT04M09.00S,4,1610612745,HOU,17,Drexler,C. Drexler,0,0,0,,0,0.0,0.0,0,v,Drexler REBOUND (Off:0 Def:1),Rebound,Unknown,0,449
+49600063,438,PT04M05.00S,4,1610612745,HOU,17,Drexler,C. Drexler,21,2,2,Missed,1,0.0,0.0,0,v,MISS Drexler 2' Jump Shot,Missed Shot,Jump Shot,0,450
+49600063,438,PT04M05.00S,4,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,,0,0.0,0.0,0,h,Perkins BLOCK (1 BLK),,,0,451
+49600063,439,PT04M00.00S,4,1610612745,HOU,1074,Maloney,M. Maloney,0,0,0,,0,0.0,0.0,0,v,Maloney REBOUND (Off:1 Def:0),Rebound,Unknown,0,452
+49600063,442,PT03M53.00S,4,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,7.0,13.0,20,v,Olajuwon Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,453
+49600063,441,PT03M53.00S,4,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,7.0,14.0,21,v,Olajuwon Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,454
+49600063,440,PT03M53.00S,4,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,Kemp S.FOUL (P1.T1),Foul,Shooting,0,455
+49600063,443,PT03M30.00S,4,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0.0,0.0,0,h,Payton Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,456
+49600063,444,PT03M27.00S,4,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,457
+49600063,445,PT03M16.00S,4,1610612745,HOU,165,Olajuwon,H. Olajuwon,-75,21,8,Missed,1,0.0,0.0,0,v,MISS Olajuwon 8' Jump Shot,Missed Shot,Jump Shot,0,458
+49600063,446,PT03M13.00S,4,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Unknown,0,459
+49600063,447,PT03M08.00S,4,1610612745,HOU,165,Olajuwon,H. Olajuwon,-3,65,7,Made,1,7.0,12.0,19,v,Olajuwon 7' Jump Shot (4 PTS) (Elie 1 AST),Made Shot,Jump Shot,0,460
+49600063,448,PT02M45.00S,4,1610612760,SEA,96,Schrempf,D. Schrempf,66,58,9,Missed,1,0.0,0.0,0,h,MISS Schrempf 9' Jump Shot,Missed Shot,Jump Shot,0,461
+49600063,449,PT02M42.00S,4,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,,0,0.0,0.0,0,v,Barkley REBOUND (Off:0 Def:1),Rebound,Unknown,0,462
+49600063,450,PT02M33.00S,4,1610612745,HOU,165,Olajuwon,H. Olajuwon,-10,114,11,Made,1,7.0,10.0,17,v,Olajuwon 11' Jump Shot (2 PTS) (Maloney 1 AST),Made Shot,Jump Shot,0,463
+49600063,454,PT02M14.00S,4,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,,0,6.0,8.0,14,h,Schrempf Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,464
+49600063,453,PT02M14.00S,4,1610612760,SEA,96,Schrempf,D. Schrempf,0,0,0,,0,7.0,8.0,15,h,Schrempf Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,465
+49600063,452,PT02M14.00S,4,1610612745,HOU,53,Elie,M. Elie,0,0,0,,0,0.0,0.0,0,v,SUB: Threatt FOR Elie,Substitution,,0,466
+49600063,451,PT02M14.00S,4,1610612745,HOU,53,Elie,M. Elie,0,0,0,,0,0.0,0.0,0,v,Elie P.FOUL (P1.PN),Foul,Personal,0,467
+49600063,455,PT01M58.00S,4,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,Olajuwon Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,468
+49600063,455,PT01M58.00S,4,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0.0,0.0,0,h,Payton STEAL (1 STL),,,0,469
+49600063,456,PT01M49.00S,4,1610612760,SEA,765,Hawkins,H. Hawkins,216,93,24,Missed,1,0.0,0.0,0,h,MISS Hawkins 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,470
+49600063,457,PT01M45.00S,4,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,Kemp REBOUND (Off:1 Def:0),Rebound,Unknown,0,471
+49600063,461,PT01M40.00S,4,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,5.0,8.0,13,h,Kemp Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,472
+49600063,460,PT01M40.00S,4,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,h,SUPERSONICS Rebound,Rebound,Unknown,0,473
+49600063,459,PT01M40.00S,4,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,MISS Kemp Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,474
+49600063,458,PT01M40.00S,4,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,Olajuwon L.B.FOUL (P2.PN),Foul,Loose Ball,0,475
+49600063,463,PT01M28.00S,4,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,Made,1,4.0,8.0,12,v,Barkley  Jump Shot (2 PTS),Made Shot,Jump Shot,0,476
+49600063,465,PT01M06.00S,4,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,477
+49600063,464,PT01M06.00S,4,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,Kemp Traveling Turnover (P1.T1),Turnover,Traveling,0,478
+49600063,466,PT00M56.90S,4,1610612745,HOU,787,Barkley,C. Barkley,-70,2,7,Missed,1,0.0,0.0,0,v,MISS Barkley 7' Jump Shot,Missed Shot,Jump Shot,0,479
+49600063,467,PT00M54.30S,4,1610612760,SEA,56,Payton,G. Payton,0,0,0,,0,0.0,0.0,0,h,Payton REBOUND (Off:0 Def:1),Rebound,Unknown,0,480
+49600063,468,PT00M42.10S,4,1610612760,SEA,431,Kemp,S. Kemp,0,0,0,Missed,1,0.0,0.0,0,h,MISS Kemp  Layup,Missed Shot,Layup Shot,0,481
+49600063,469,PT00M39.90S,4,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,Olajuwon REBOUND (Off:0 Def:1),Rebound,Unknown,0,482
+49600063,470,PT00M31.00S,4,1610612745,HOU,17,Drexler,C. Drexler,0,0,0,Made,1,4.0,6.0,10,v,Drexler  3PT Jump Shot (3 PTS) (Threatt 1 AST),Made Shot,Jump Shot,0,483
+49600063,471,PT00M12.30S,4,1610612760,SEA,56,Payton,G. Payton,0,0,0,Made,1,4.0,3.0,7,h,Payton  Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,484
+49600063,472,PT00M12.10S,4,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,485
+49600063,473,PT00M07.60S,4,1610612745,HOU,17,Drexler,C. Drexler,-1,225,0,Missed,1,0.0,0.0,0,v,MISS Drexler  3PT Jump Shot,Missed Shot,Jump Shot,0,486
+49600063,479,PT00M05.80S,4,1610612760,SEA,765,Hawkins,H. Hawkins,0,0,0,,0,1.0,3.0,4,h,Hawkins Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,487
+49600063,478,PT00M05.80S,4,1610612760,SEA,765,Hawkins,H. Hawkins,0,0,0,,0,2.0,3.0,5,h,Hawkins Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,488
+49600063,477,PT00M05.80S,4,1610612760,SEA,64,Perkins,S. Perkins,0,0,0,,0,0.0,0.0,0,h,SUB: Wingate FOR Perkins,Substitution,,0,489
+49600063,475,PT00M05.80S,4,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,Olajuwon P.FOUL (P1.T1),Foul,Personal,0,490
+49600063,474,PT00M05.80S,4,1610612760,SEA,765,Hawkins,H. Hawkins,0,0,0,,0,0.0,0.0,0,h,Hawkins REBOUND (Off:0 Def:1),Rebound,Unknown,0,491
+49600063,480,PT00M00.70S,4,1610612745,HOU,9,Threatt,S. Threatt,-222,103,24,Made,1,0.0,3.0,3,v,Threatt 24' 3PT Jump Shot (3 PTS) (Drexler 1 AST),Made Shot,Jump Shot,0,492
+49600063,481,PT00M00.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,End of 4th Period (7:22 AM EST),period,end,0,493

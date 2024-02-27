@@ -1,0 +1,61 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId,clock_sec
+20100780,409,PT04M47.00S,4,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0.0,0.0,0,v,Foyle REBOUND (Off:1 Def:1),Rebound,Unknown,0,424,2593.0
+20100780,408,PT04M47.00S,4,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,Missed,1,0.0,0.0,0,v,MISS Foyle  Tip Shot,Missed Shot,Tip Shot,0,425,2593.0
+20100780,410,PT04M47.00S,4,0,,1610612744,,,0,0,0,,0,0.0,0.0,0,v,Warriors Rebound,Rebound,Unknown,0,426,2593.0
+20100780,411,PT04M47.00S,4,1610612749,MIL,2072,Redd,M. Redd,0,0,0,,0,0.0,0.0,0,h,SUB: Johnson FOR Redd,Substitution,,0,427,2593.0
+20100780,412,PT04M47.00S,4,1610612744,GSW,1502,Foyle,A. Foyle,0,0,0,,0,0.0,0.0,0,v,SUB: Dampier FOR Foyle,Substitution,,0,428,2593.0
+20100780,413,PT04M30.00S,4,1610612744,GSW,2240,Arenas,G. Arenas,0,0,0,Missed,1,0.0,0.0,0,v,MISS Arenas  Layup,Missed Shot,Layup Shot,0,429,2610.0
+20100780,414,PT04M28.00S,4,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Rebound,Rebound,Unknown,0,430,2612.0
+20100780,415,PT04M10.00S,4,1610612749,MIL,193,Mason,A. Mason,138,-13,14,Made,1,103.0,105.0,208,h,Mason 14' Jump Shot (14 PTS) (Allen 7 AST),Made Shot,Jump Shot,0,431,2630.0
+20100780,416,PT04M00.00S,4,0,,1610612744,,,0,0,0,,0,0.0,0.0,0,v,Warriors Timeout: Short (Reg.4 Short 2),Timeout,Short,0,432,2640.0
+20100780,417,PT03M52.00S,4,1610612744,GSW,1712,Jamison,A. Jamison,0,0,0,,0,0.0,0.0,0,v,Jamison Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,433,2648.0
+20100780,418,PT03M38.00S,4,1610612749,MIL,208,Cassell,S. Cassell,174,23,18,Missed,1,0.0,0.0,0,h,MISS Cassell 18' Jump Shot,Missed Shot,Jump Shot,0,434,2662.0
+20100780,419,PT03M36.00S,4,1610612749,MIL,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,h,Mason REBOUND (Off:3 Def:9),Rebound,Unknown,0,435,2664.0
+20100780,420,PT03M30.00S,4,1610612749,MIL,1501,Thomas,T. Thomas,-18,264,26,Missed,1,0.0,0.0,0,h,MISS Thomas 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,436,2670.0
+20100780,421,PT03M27.00S,4,1610612749,MIL,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,h,Allen REBOUND (Off:6 Def:6),Rebound,Unknown,0,437,2673.0
+20100780,422,PT03M24.00S,4,1610612749,MIL,208,Cassell,S. Cassell,-221,34,0,Missed,1,0.0,0.0,0,h,MISS Cassell  3PT Jump Shot,Missed Shot,Jump Shot,0,438,2676.0
+20100780,423,PT03M21.00S,4,1610612744,GSW,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,v,Dampier REBOUND (Off:0 Def:6),Rebound,Unknown,0,439,2679.0
+20100780,424,PT03M15.00S,4,0,,1610612744,,,0,0,0,,0,0.0,0.0,0,v,Warriors Turnover: 8 Second Violation (T#11),Turnover,8 Second Violation,0,440,2685.0
+20100780,425,PT03M00.00S,4,1610612744,GSW,1712,Jamison,A. Jamison,0,0,0,,0,0.0,0.0,0,v,Jamison P.FOUL (P3.PN),Foul,Personal,0,441,2700.0
+20100780,426,PT03M00.00S,4,1610612749,MIL,208,Cassell,S. Cassell,0,0,0,,0,104.0,105.0,209,h,Cassell Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,442,2700.0
+20100780,427,PT03M00.00S,4,1610612749,MIL,208,Cassell,S. Cassell,0,0,0,,0,105.0,105.0,210,h,Cassell Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,443,2700.0
+20100780,428,PT02M46.00S,4,1610612749,MIL,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,h,Mason S.FOUL (P2.PN),Foul,Shooting,0,444,2714.0
+20100780,429,PT02M46.00S,4,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,445,2714.0
+20100780,430,PT02M46.00S,4,1610612744,GSW,1712,Jamison,A. Jamison,0,0,0,,0,105.0,106.0,211,v,Jamison Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,446,2714.0
+20100780,431,PT02M46.00S,4,1610612744,GSW,1712,Jamison,A. Jamison,0,0,0,,0,105.0,107.0,212,v,Jamison Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,447,2714.0
+20100780,432,PT02M25.00S,4,1610612749,MIL,1501,Thomas,T. Thomas,-84,253,27,Missed,1,0.0,0.0,0,h,MISS Thomas 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,448,2735.0
+20100780,433,PT02M24.00S,4,1610612744,GSW,2240,Arenas,G. Arenas,0,0,0,,0,0.0,0.0,0,v,Arenas REBOUND (Off:2 Def:2),Rebound,Unknown,0,449,2736.0
+20100780,434,PT02M00.00S,4,1610612744,GSW,956,Dampier,E. Dampier,94,30,10,Missed,1,0.0,0.0,0,v,MISS Dampier 10' Jump Shot,Missed Shot,Jump Shot,0,450,2760.0
+20100780,434,PT02M00.00S,4,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,h,Johnson BLOCK (1 BLK),,,0,451,2760.0
+20100780,435,PT02M00.00S,4,0,,1610612744,,,0,0,0,,0,0.0,0.0,0,v,Warriors Rebound,Rebound,Unknown,0,452,2760.0
+20100780,436,PT02M00.00S,4,0,,1610612744,,,0,0,0,,0,0.0,0.0,0,v,Warriors Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,0,453,2760.0
+20100780,437,PT01M43.00S,4,1610612749,MIL,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,h,Mason Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,454,2777.0
+20100780,438,PT01M28.00S,4,1610612749,MIL,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,h,Mason P.FOUL (P3.PN),Foul,Personal,0,455,2792.0
+20100780,439,PT01M28.00S,4,1610612744,GSW,1712,Jamison,A. Jamison,0,0,0,,0,0.0,0.0,0,v,MISS Jamison Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,456,2792.0
+20100780,440,PT01M28.00S,4,0,,1610612744,,,0,0,0,,0,0.0,0.0,0,v,Warriors Rebound,Rebound,Normal Rebound,0,457,2792.0
+20100780,441,PT01M28.00S,4,1610612744,GSW,1712,Jamison,A. Jamison,0,0,0,,0,105.0,108.0,213,v,Jamison Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,458,2792.0
+20100780,442,PT01M15.00S,4,1610612744,GSW,2240,Arenas,G. Arenas,0,0,0,,0,0.0,0.0,0,v,Arenas P.FOUL (P4.PN),Foul,Personal,0,459,2805.0
+20100780,443,PT01M15.00S,4,1610612749,MIL,951,Allen,R. Allen,0,0,0,,0,106.0,108.0,214,h,Allen Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,460,2805.0
+20100780,444,PT01M15.00S,4,1610612749,MIL,951,Allen,R. Allen,0,0,0,,0,107.0,108.0,215,h,Allen Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,461,2805.0
+20100780,445,PT00M58.30S,4,1610612744,GSW,1712,Jamison,A. Jamison,0,0,0,,0,0.0,0.0,0,v,Jamison Bad Pass Turnover (P3.T13),Turnover,Bad Pass,0,462,2821.7
+20100780,445,PT00M58.30S,4,1610612749,MIL,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,h,Allen STEAL (1 STL),,,0,463,2821.7
+20100780,446,PT00M49.50S,4,1610612749,MIL,208,Cassell,S. Cassell,-214,129,25,Made,1,110.0,108.0,218,h,Cassell 25' 3PT Jump Shot (25 PTS) (Allen 8 AST),Made Shot,Jump Shot,0,464,2830.5
+20100780,447,PT00M49.50S,4,0,,1610612744,,,0,0,0,,0,0.0,0.0,0,v,Warriors Timeout: Regular (Reg.5 Short 2),Timeout,Regular,0,465,2830.5
+20100780,448,PT00M45.00S,4,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,Made,1,110.0,110.0,220,v,Richardson  Layup (35 PTS),Made Shot,Layup Shot,0,466,2835.0
+20100780,449,PT00M28.10S,4,1610612749,MIL,911,Johnson,E. Johnson,64,-13,7,Made,1,112.0,110.0,222,h,Johnson 7' Jump Shot (5 PTS) (Mason 3 AST),Made Shot,Jump Shot,0,467,2851.9
+20100780,450,PT00M15.50S,4,1610612744,GSW,2240,Arenas,G. Arenas,0,0,0,Missed,1,0.0,0.0,0,v,MISS Arenas  Layup,Missed Shot,Layup Shot,0,468,2864.5
+20100780,450,PT00M15.50S,4,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,h,Johnson BLOCK (2 BLK),,,0,469,2864.5
+20100780,451,PT00M14.30S,4,0,,1610612744,,,0,0,0,,0,0.0,0.0,0,v,Warriors Rebound,Rebound,Unknown,0,470,2865.7
+20100780,452,PT00M14.30S,4,0,,1610612744,,,0,0,0,,0,0.0,0.0,0,v,Warriors Timeout: Regular (Reg.6 Short 2),Timeout,Regular,0,471,2865.7
+20100780,453,PT00M11.80S,4,1610612744,GSW,2202,Richardson,J. Richardson,153,-2,15,Missed,1,0.0,0.0,0,v,MISS Richardson 15' Jump Shot,Missed Shot,Jump Shot,0,472,2868.2
+20100780,454,PT00M11.10S,4,1610612749,MIL,951,Allen,R. Allen,0,0,0,,0,0.0,0.0,0,h,Allen REBOUND (Off:6 Def:7),Rebound,Unknown,0,473,2868.9
+20100780,455,PT00M11.10S,4,1610612744,GSW,1712,Jamison,A. Jamison,0,0,0,,0,0.0,0.0,0,v,Jamison P.FOUL (P4.PN),Foul,Personal,0,474,2868.9
+20100780,456,PT00M11.10S,4,1610612749,MIL,951,Allen,R. Allen,0,0,0,,0,113.0,110.0,223,h,Allen Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,0,475,2868.9
+20100780,457,PT00M11.10S,4,1610612749,MIL,951,Allen,R. Allen,0,0,0,,0,114.0,110.0,224,h,Allen Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,0,476,2868.9
+20100780,458,PT00M02.10S,4,1610612744,GSW,1712,Jamison,A. Jamison,0,0,0,Made,1,114.0,112.0,226,v,Jamison  Layup (23 PTS),Made Shot,Layup Shot,0,477,2877.9
+20100780,459,PT00M01.10S,4,1610612744,GSW,2202,Richardson,J. Richardson,0,0,0,,0,0.0,0.0,0,v,Richardson P.FOUL (P2.PN),Foul,Personal,0,478,2878.9
+20100780,460,PT00M01.10S,4,1610612749,MIL,951,Allen,R. Allen,0,0,0,,0,115.0,112.0,227,h,Allen Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,0,479,2878.9
+20100780,461,PT00M01.10S,4,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,480,2878.9
+20100780,462,PT00M01.10S,4,1610612744,GSW,956,Dampier,E. Dampier,0,0,0,,0,0.0,0.0,0,v,SUB: Murphy FOR Dampier,Substitution,,0,481,2878.9
+20100780,463,PT00M01.10S,4,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,h,SUB: Ham FOR Johnson,Substitution,,0,482,2878.9
+20100780,464,PT00M01.10S,4,1610612749,MIL,951,Allen,R. Allen,0,0,0,,0,116.0,112.0,228,h,Allen Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,0,483,2878.9

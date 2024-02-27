@@ -161,6 +161,19 @@ V8 - V2 but when a player joins a new team, their sigma is set to the max of 1 o
 I'll stick with V2 for now. To actually use PyMC I will need the play-by-play data. Will come back to this.
 
 
+The following are for unique lineups that occur in games.
+
+V1 - start_mu 47.5, start_sigma 3, max_sigma 6, per_game_fatten_base 0.05, obs_sigma 1, rest 
+<img src="./figures/pace/V1_BHM_player_lu.png" alt="okc_pace" width="1300"/>
+
+V2 - per_game_fatten_base 0.02
+<img src="./figures/pace/V2_BHM_player_lu.png" alt="okc_pace" width="1300"/>
+
+V2 - per_game_fatten_base 0
+<img src="./figures/pace/V3_BHM_player_lu.png" alt="okc_pace" width="1300"/>
+
+V3 - per_game_fatten_base 0.005
+<img src="./figures/pace/V4_BHM_player_lu.png" alt="okc_pace" width="1300"/>
 
 
 
@@ -168,3 +181,46 @@ At the present and until further notice, the data will be split up as follows:
 * Training Set: 1998-99 through 2013-14 *note: 3 games missing data in the two preceding seasons where we have boxscore data
 * Test Set: 2013-14 through 2018-19
 * Validation Set: 2019-20 through 2022-23
+
+## Efficiency
+
+The base efficiency model is just the average of a team's efficiency for the current season. Paired with the best pace model, the arma 0.1, we get the following results:
+
+**Mean Absolute Error of 8.56 for this method of predicting efficiency**
+
+<img src="./figures/betting/placeholder/open_spread_bankroll.png" width="500"/>
+<img src="./figures/betting/placeholder/open_spread_calibration_curve.png" width="500"/>
+<img src="./figures/betting/placeholder/open_total_bankroll.png" width="500"/>
+<img src="./figures/betting/placeholder/open_total_calibration_curve.png" width="500"/>
+
+To get a base efficiency model that is player-based, I will work with a basic BHM. start_sigma = 6, max_sigma = 20, obs_sigma = 1, per_game_fatten varies for the models below:
+
+It seems like this is about as good as you can estimate efficiency using only efficiency, obviously no homecourt factored in. Slight improvement over naive team models
+<img src="./figures/eff/player_eff_bhm_table.png" width="500"/>
+
+There is a solid improvement in the backtests.
+
+<img src="./figures/betting/base_player_eff_bhm/open_spread_bankroll.png" width="500"/>
+<img src="./figures/betting/base_player_eff_bhm/open_spread_calibration_curve.png" width="500"/>
+<img src="./figures/betting/base_player_eff_bhm/open_total_bankroll.png" width="500"/>
+<img src="./figures/betting/base_player_eff_bhm/open_total_calibration_curve.png" width="500"/>
+
+Factoring in homecourt, we subtracted the advantage from the observation and added it to the prediction prediction for the home team and vice versa for away. This is almost identical to just using 2x the quantity in the situations for just the home team. Another slight improvement.
+
+<img src="./figures/eff/player_eff_bhm_table_home_adv_app_twice.png" width="500"/>
+
+Interestingly, the betting gets worse. Maybe adjusting the observed efficiencies based on homecourt is bad. 
+<img src="./figures/betting/player_eff_bhm_home_app_twice/open_spread_bankroll.png" width="500"/>
+<img src="./figures/betting/player_eff_bhm_home_app_twice/open_spread_calibration_curve.png" width="500"/>
+<img src="./figures/betting/player_eff_bhm_home_app_twice/open_total_bankroll.png" width="500"/>
+<img src="./figures/betting/player_eff_bhm_home_app_twice/open_total_calibration_curve.png" width="500"/> 
+
+
+No improvement really in terms of MSE or MAE by adding/subtracting a constant if a team is playing the 2nd game of a back to back. Since homecourt wasn't even useful, maybe we shouldn't be accounting for this in the latent variables
+
+<img src="./figures/eff/player_eff_bhm_table_b2b.png" width="500"/>
+
+<img src="./figures/betting/player_eff_bhm_b2b/open_spread_bankroll.png" width="500"/>
+<img src="./figures/betting/player_eff_bhm_b2b/open_spread_calibration_curve.png" width="500"/>
+<img src="./figures/betting/player_eff_bhm_b2b/open_total_bankroll.png" width="500"/>
+<img src="./figures/betting/player_eff_bhm_b2b/open_total_calibration_curve.png" width="500"/> 

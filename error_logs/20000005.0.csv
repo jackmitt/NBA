@@ -1,0 +1,49 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId,clock_sec
+20000005,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (12:10 AM EST),period,start,0,1,0.0
+20000005,1,PT12M00.00S,1,1610612761,TOR,213,Davis,A. Davis,0,0,0,,0,,,0,h,Jump Ball Davis vs. B. Wallace: Tip to Atkins,Jump Ball,,0,2,0.0
+20000005,3,PT11M51.00S,1,1610612765,DET,1088,Atkins,C. Atkins,201,30,20,Missed,1,,,0,v,MISS Atkins 20' Jump Shot,Missed Shot,Jump Shot,0,3,9.0
+20000005,4,PT11M49.00S,1,1610612761,TOR,213,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,4,11.0
+20000005,5,PT11M38.00S,1,1610612761,TOR,1713,Carter,V. Carter,-176,42,18,Missed,1,,,0,h,MISS Carter 18' Jump Shot,Missed Shot,Jump Shot,0,5,22.0
+20000005,6,PT11M36.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,B. Wallace REBOUND (Off:0 Def:1),Rebound,Unknown,0,6,24.0
+20000005,7,PT11M32.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,B. Wallace Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,7,28.0
+20000005,7,PT11M32.00S,1,1610612761,TOR,1713,Carter,V. Carter,0,0,0,,0,,,0,h,Carter STEAL (1 STL),,,0,8,28.0
+20000005,8,PT11M28.00S,1,1610612761,TOR,722,Williamson,C. Williamson,0,0,0,,0,,,0,h,Williamson Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,9,32.0
+20000005,8,PT11M28.00S,1,1610612765,DET,1088,Atkins,C. Atkins,0,0,0,,0,,,0,v,Atkins STEAL (1 STL),,,0,10,32.0
+20000005,9,PT11M23.00S,1,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,Made,1,0.0,2.0,2,v,Stackhouse Reverse Layup (2 PTS) (Atkins 1 AST),Made Shot,Reverse Layup Shot,0,11,37.0
+20000005,10,PT10M59.00S,1,1610612761,TOR,1713,Carter,V. Carter,195,158,25,Missed,1,,,0,h,MISS Carter 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,12,61.0
+20000005,11,PT10M57.00S,1,1610612761,TOR,722,Williamson,C. Williamson,0,0,0,,0,,,0,h,Williamson REBOUND (Off:1 Def:0),Rebound,Unknown,0,13,63.0
+20000005,12,PT10M54.00S,1,1610612761,TOR,891,Oakley,C. Oakley,-130,89,16,Missed,1,,,0,h,MISS Oakley 16' Jump Shot,Missed Shot,Jump Shot,0,14,66.0
+20000005,13,PT10M51.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,B. Wallace REBOUND (Off:0 Def:2),Rebound,Unknown,0,15,69.0
+20000005,15,PT10M47.00S,1,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,Missed,1,,,0,v,MISS Stackhouse Driving Layup,Missed Shot,Driving Layup Shot,0,16,73.0
+20000005,15,PT10M47.00S,1,1610612761,TOR,349,Jackson,M. Jackson,0,0,0,,0,,,0,h,Jackson BLOCK (1 BLK),,,0,17,73.0
+20000005,16,PT10M47.00S,1,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Rebound,Rebound,Unknown,0,18,73.0
+20000005,18,PT10M37.00S,1,1610612765,DET,711,Stackhouse,J. Stackhouse,159,0,16,Missed,1,,,0,v,MISS Stackhouse 16' Jump Shot,Missed Shot,Jump Shot,0,19,83.0
+20000005,19,PT10M35.00S,1,1610612761,TOR,349,Jackson,M. Jackson,0,0,0,,0,,,0,h,Jackson REBOUND (Off:0 Def:1),Rebound,Unknown,0,20,85.0
+20000005,20,PT10M33.00S,1,1610612765,DET,182,Owens,B. Owens,0,0,0,,0,,,0,v,Owens S.FOUL (P1.T1),Foul,Shooting,0,21,87.0
+20000005,21,PT10M33.00S,1,1610612761,TOR,1713,Carter,V. Carter,0,0,0,,0,1.0,2.0,3,h,Carter Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,22,87.0
+20000005,22,PT10M33.00S,1,1610612761,TOR,1713,Carter,V. Carter,0,0,0,,0,2.0,2.0,4,h,Carter Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,23,87.0
+20000005,23,PT10M23.00S,1,1610612765,DET,182,Owens,B. Owens,0,0,0,Made,1,2.0,4.0,6,v,Owens Reverse Layup (2 PTS) (B. Wallace 1 AST),Made Shot,Reverse Layup Shot,0,24,97.0
+20000005,24,PT10M05.00S,1,1610612761,TOR,722,Williamson,C. Williamson,0,0,0,Missed,1,,,0,h,MISS Williamson Layup,Missed Shot,Layup Shot,0,25,115.0
+20000005,25,PT10M03.00S,1,0,,1610612765,,,0,0,0,,0,,,0,v,Pistons Rebound,Rebound,Unknown,0,26,117.0
+20000005,26,PT09M46.00S,1,1610612765,DET,711,Stackhouse,J. Stackhouse,167,4,17,Missed,1,,,0,v,MISS Stackhouse 17' Jump Shot,Missed Shot,Jump Shot,0,27,134.0
+20000005,27,PT09M44.00S,1,1610612761,TOR,213,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:0 Def:2),Rebound,Unknown,0,28,136.0
+20000005,28,PT09M39.00S,1,1610612761,TOR,722,Williamson,C. Williamson,0,0,0,Missed,1,,,0,h,MISS Williamson Driving Layup,Missed Shot,Driving Layup Shot,0,29,141.0
+20000005,29,PT09M37.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,B. Wallace REBOUND (Off:0 Def:3),Rebound,Unknown,0,30,143.0
+20000005,30,PT09M31.00S,1,1610612765,DET,711,Stackhouse,J. Stackhouse,188,0,19,Missed,1,,,0,v,MISS Stackhouse 19' Jump Shot,Missed Shot,Jump Shot,0,31,149.0
+20000005,31,PT09M29.00S,1,1610612761,TOR,349,Jackson,M. Jackson,0,0,0,,0,,,0,h,Jackson REBOUND (Off:0 Def:2),Rebound,Unknown,0,32,151.0
+20000005,32,PT09M25.00S,1,1610612761,TOR,213,Davis,A. Davis,-92,108,14,Missed,1,,,0,h,MISS Davis 14' Jump Shot,Missed Shot,Jump Shot,0,33,155.0
+20000005,34,PT09M21.00S,1,1610612765,DET,182,Owens,B. Owens,0,0,0,,0,,,0,v,Owens REBOUND (Off:0 Def:1),Rebound,Unknown,0,34,159.0
+20000005,35,PT09M16.00S,1,1610612765,DET,1088,Atkins,C. Atkins,0,0,0,Missed,1,,,0,v,MISS Atkins Driving Layup,Missed Shot,Driving Layup Shot,0,35,164.0
+20000005,35,PT09M16.00S,1,1610612761,TOR,213,Davis,A. Davis,0,0,0,,0,,,0,h,Davis BLOCK (1 BLK),,,0,36,164.0
+20000005,36,PT09M12.00S,1,1610612761,TOR,349,Jackson,M. Jackson,0,0,0,,0,,,0,h,Jackson REBOUND (Off:0 Def:3),Rebound,Unknown,0,37,168.0
+20000005,37,PT09M06.00S,1,1610612761,TOR,891,Oakley,C. Oakley,180,36,18,Made,1,4.0,4.0,8,h,Oakley 18' Jump Shot (2 PTS) (Jackson 1 AST),Made Shot,Jump Shot,0,38,174.0
+20000005,38,PT08M53.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,,,0,v,B. Wallace Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,39,187.0
+20000005,38,PT08M53.00S,1,1610612761,TOR,1713,Carter,V. Carter,0,0,0,,0,,,0,h,Carter STEAL (2 STL),,,0,40,187.0
+20000005,39,PT08M46.00S,1,1610612761,TOR,349,Jackson,M. Jackson,0,0,0,Made,1,6.0,4.0,10,h,Jackson Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,41,194.0
+20000005,40,PT08M36.00S,1,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,Missed,1,,,0,v,MISS Stackhouse Driving Layup,Missed Shot,Driving Layup Shot,0,42,204.0
+20000005,41,PT08M33.00S,1,1610612761,TOR,213,Davis,A. Davis,0,0,0,,0,,,0,h,Davis REBOUND (Off:0 Def:3),Rebound,Unknown,0,43,207.0
+20000005,42,PT08M28.00S,1,1610612765,DET,376,Montross,E. Montross,0,0,0,,0,,,0,v,Montross S.FOUL (P1.T2),Foul,Shooting,0,44,212.0
+20000005,43,PT08M28.00S,1,1610612761,TOR,891,Oakley,C. Oakley,0,0,0,,0,7.0,4.0,11,h,Oakley Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,45,212.0
+20000005,44,PT08M28.00S,1,1610612765,DET,376,Montross,E. Montross,0,0,0,,0,,,0,v,SUB: Williams FOR Montross,Substitution,,0,46,212.0
+20000005,45,PT08M28.00S,1,1610612761,TOR,891,Oakley,C. Oakley,0,0,0,,0,,,0,h,MISS Oakley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,47,212.0
+20000005,46,PT08M28.00S,1,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,48,212.0

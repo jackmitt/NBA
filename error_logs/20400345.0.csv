@@ -1,0 +1,16 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId,clock_sec
+20400345,317,PT06M22.00S,3,1610612755,PHI,2584,Green,W. Green,0,0,0,Missed,1,0.0,0.0,0,v,MISS Green  Layup,Missed Shot,Layup Shot,0,315,1778.0
+20400345,318,PT06M22.00S,3,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0.0,0.0,0,v,Dalembert REBOUND (Off:3 Def:2),Rebound,Unknown,0,316,1778.0
+20400345,319,PT06M22.00S,3,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,,0,0.0,0.0,0,h,Gadzuric P.FOUL (P2.T3),Foul,Personal,0,317,1778.0
+20400345,320,PT06M22.00S,3,1610612755,PHI,2223,Dalembert,S. Dalembert,0,0,0,,0,0.0,0.0,0,v,SUB: Jackson FOR Dalembert,Substitution,,0,318,1778.0
+20400345,321,PT06M18.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,Missed,1,0.0,0.0,0,v,MISS Iverson  Layup,Missed Shot,Layup Shot,0,319,1782.0
+20400345,322,PT06M16.00S,3,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,,0,0.0,0.0,0,h,Gadzuric REBOUND (Off:1 Def:6),Rebound,Unknown,0,320,1784.0
+20400345,323,PT06M08.00S,3,1610612749,MIL,2072,Redd,M. Redd,0,0,0,Made,1,56.0,64.0,120,h,Redd  Driving Layup (10 PTS) (Williams 6 AST),Made Shot,Driving Layup Shot,0,321,1792.0
+20400345,324,PT05M51.00S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,241,-3,24,Missed,1,0.0,0.0,0,v,MISS Iguodala 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,322,1809.0
+20400345,325,PT05M51.00S,3,0,,1610612755,,,0,0,0,,0,0.0,0.0,0,v,76ers Rebound,Rebound,Unknown,0,323,1809.0
+20400345,326,PT05M51.00S,3,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Violation: Delay of game Violation,Violation,Delay Of Game,0,324,1809.0
+20400345,327,PT05M42.00S,3,1610612755,PHI,2738,Iguodala,A. Iguodala,0,0,0,,0,0.0,0.0,0,v,Iguodala Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,325,1818.0
+20400345,327,PT05M42.00S,3,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,,0,0.0,0.0,0,h,Gadzuric STEAL (1 STL),,,0,326,1818.0
+20400345,328,PT05M39.00S,3,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,Made,1,58.0,64.0,122,h,Gadzuric  Dunk (4 PTS),Made Shot,Dunk Shot,0,327,1821.0
+20400345,329,PT05M39.00S,3,0,,1610612755,,,0,0,0,,0,0.0,0.0,0,v,76ers Timeout: Short (Reg.3 Short 1),Timeout,Short,0,328,1821.0
+20400345,330,PT05M39.00S,3,1610612755,PHI,2584,Green,W. Green,0,0,0,,0,0.0,0.0,0,v,SUB: Korver FOR Green,Substitution,,0,329,1821.0

@@ -1,0 +1,33 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId,clock_sec
+21000459,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (8:42 PM EST),period,start,0,1,0.0
+21000459,1,PT12M00.00S,1,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0.0,0.0,0,h,Jump Ball Chandler vs. Johnson: Tip to Stevenson,Jump Ball,,0,2,0.0
+21000459,2,PT11M36.00S,1,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,3,24.0
+21000459,2,PT11M36.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0.0,0.0,0,v,DeRozan STEAL (1 STL),,,0,4,24.0
+21000459,3,PT11M15.00S,1,1610612761,TOR,201595,Dorsey,J. Dorsey,0,0,0,,0,0.0,0.0,0,v,Dorsey Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,5,45.0
+21000459,3,PT11M15.00S,1,1610612742,DAL,2199,Chandler,T. Chandler,0,0,0,,0,0.0,0.0,0,h,Chandler STEAL (1 STL),,,0,6,45.0
+21000459,4,PT11M09.00S,1,1610612761,TOR,201595,Dorsey,J. Dorsey,0,0,0,,0,0.0,0.0,0,v,Dorsey S.FOUL (P1.T1),Foul,Shooting,0,7,51.0
+21000459,5,PT11M09.00S,1,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,1.0,0.0,1,h,Butler Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,8,51.0
+21000459,7,PT11M09.00S,1,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,0.0,0.0,0,h,MISS Butler Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,9,51.0
+21000459,9,PT11M08.00S,1,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,0.0,0.0,0,v,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,0,10,52.0
+21000459,10,PT10M55.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,-106,189,22,Made,1,1.0,2.0,3,v,DeRozan 22' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,0,11,65.0
+21000459,11,PT10M42.00S,1,1610612742,DAL,2406,Butler,C. Butler,174,101,20,Missed,1,0.0,0.0,0,h,MISS Butler 20' Jump Shot,Missed Shot,Jump Shot,0,12,78.0
+21000459,12,PT10M41.00S,1,1610612761,TOR,201573,Bayless,J. Bayless,0,0,0,,0,0.0,0.0,0,v,Bayless REBOUND (Off:0 Def:1),Rebound,Unknown,0,13,79.0
+21000459,13,PT10M36.00S,1,1610612761,TOR,101132,Kleiza,L. Kleiza,1,1,0,Made,1,1.0,4.0,5,v,Kleiza  Slam Dunk (2 PTS) (Bayless 1 AST),Made Shot,Slam Dunk Shot,0,14,84.0
+21000459,14,PT10M20.00S,1,1610612742,DAL,2052,Stevenson,D. Stevenson,-158,44,16,Made,1,3.0,4.0,7,h,Stevenson 16' Jump Shot (2 PTS),Made Shot,Jump Shot,0,15,100.0
+21000459,15,PT10M04.00S,1,1610612761,TOR,101132,Kleiza,L. Kleiza,51,61,8,Made,1,3.0,6.0,9,v,Kleiza 8' Driving Jump Shot (4 PTS),Made Shot,Driving Jump shot,0,16,116.0
+21000459,16,PT09M46.00S,1,1610612742,DAL,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,17,134.0
+21000459,16,PT09M46.00S,1,1610612761,TOR,201573,Bayless,J. Bayless,0,0,0,,0,0.0,0.0,0,v,Bayless STEAL (1 STL),,,0,18,134.0
+21000459,17,PT09M41.00S,1,1610612761,TOR,201595,Dorsey,J. Dorsey,0,7,1,Made,1,3.0,8.0,11,v,Dorsey 1' Running Dunk (2 PTS) (Bayless 2 AST),Made Shot,Running Dunk Shot,0,19,139.0
+21000459,18,PT09M30.00S,1,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,0.0,0.0,0,h,Butler OFF.Foul (P1),Foul,Offensive,0,20,150.0
+21000459,19,PT09M30.00S,1,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,0.0,0.0,0,h,Butler Foul Turnover (P1.T3),Turnover,Foul,0,21,150.0
+21000459,20,PT09M13.00S,1,1610612761,TOR,101132,Kleiza,L. Kleiza,162,89,18,Missed,1,0.0,0.0,0,v,MISS Kleiza 18' Jump Shot,Missed Shot,Jump Shot,0,22,167.0
+21000459,21,PT09M12.00S,1,1610612761,TOR,201573,Bayless,J. Bayless,0,0,0,,0,0.0,0.0,0,v,Bayless REBOUND (Off:1 Def:1),Rebound,Unknown,0,23,168.0
+21000459,22,PT08M57.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,174,101,20,Missed,1,0.0,0.0,0,v,MISS DeRozan 20' Jump Shot,Missed Shot,Jump Shot,0,24,183.0
+21000459,23,PT08M57.00S,1,1610612742,DAL,2406,Butler,C. Butler,0,0,0,,0,0.0,0.0,0,h,Butler REBOUND (Off:0 Def:1),Rebound,Unknown,0,25,183.0
+21000459,24,PT08M52.00S,1,1610612761,TOR,201595,Dorsey,J. Dorsey,0,0,0,,0,0.0,0.0,0,v,Dorsey S.FOUL (P2.T2),Foul,Shooting,0,26,188.0
+21000459,25,PT08M52.00S,1,1610612761,TOR,201595,Dorsey,J. Dorsey,0,0,0,,0,0.0,0.0,0,v,Dorsey T.FOUL (P2.T2),Foul,Technical,0,27,188.0
+21000459,26,PT08M52.00S,1,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,4.0,8.0,12,h,Marion Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,28,188.0
+21000459,28,PT08M52.00S,1,1610612761,TOR,201595,Dorsey,J. Dorsey,0,0,0,,0,0.0,0.0,0,v,SUB: Davis FOR Dorsey,Substitution,,0,29,188.0
+21000459,29,PT08M52.00S,1,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,5.0,8.0,13,h,Marion Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,30,188.0
+21000459,31,PT08M52.00S,1,1610612742,DAL,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,MISS Marion Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,31,188.0
+21000459,33,PT08M52.00S,1,1610612761,TOR,202334,Davis,E. Davis,0,0,0,,0,0.0,0.0,0,v,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,32,188.0

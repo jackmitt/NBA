@@ -1,0 +1,443 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+41600125,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (7:11 PM EST),period,start,0,1
+41600125,1,PT12M00.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,Jump Ball Ibaka vs. Maker: Tip to Lowry,Jump Ball,,1,2
+41600125,2,PT11M42.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,-217,131,25,Made,1,3.0,0.0,3,h,Ibaka 25' 3PT Jump Shot (3 PTS) (DeRozan 1 AST),Made Shot,Jump Shot,1,3
+41600125,3,PT11M13.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,159,65,17,Made,1,3.0,2.0,5,v,Middleton 17' Pullup Jump Shot (2 PTS) (Snell 1 AST),Made Shot,Pullup Jump shot,1,4
+41600125,4,PT11M03.00S,1,1610612749,MIL,1627748,Maker,T. Maker,0,0,0,,0,0.0,0.0,0,v,Maker S.FOUL (P1.T1) (C.Kirkland),Foul,Shooting,1,5
+41600125,5,PT11M03.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,4.0,2.0,6,h,DeRozan Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,6
+41600125,7,PT11M03.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,5.0,2.0,7,h,DeRozan Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,7
+41600125,9,PT10M51.00S,1,1610612749,MIL,1627763,Brogdon,M. Brogdon,-74,232,24,Missed,1,0.0,0.0,0,v,MISS Brogdon 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,8
+41600125,10,PT10M50.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,Ibaka REBOUND (Off:0 Def:1),Rebound,Unknown,1,9
+41600125,11,PT10M37.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,0,1,0,Made,1,7.0,2.0,9,h,Ibaka  Driving Dunk (5 PTS) (Powell 1 AST),Made Shot,Driving Dunk Shot,1,10
+41600125,12,PT10M21.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,4,16,2,Missed,1,0.0,0.0,0,v,MISS Antetokounmpo 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,11
+41600125,13,PT10M20.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,Ibaka REBOUND (Off:0 Def:2),Rebound,Unknown,1,12
+41600125,14,PT10M17.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,Ibaka Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,13
+41600125,14,PT10M17.00S,1,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,0.0,0.0,0,v,Brogdon STEAL (1 STL),,,1,14
+41600125,15,PT10M12.00S,1,1610612749,MIL,1627763,Brogdon,M. Brogdon,-223,-1,0,Made,1,7.0,5.0,12,v,Brogdon  3PT Jump Shot (3 PTS) (Maker 1 AST),Made Shot,Jump Shot,1,15
+41600125,16,PT09M54.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,-74,188,20,Missed,1,0.0,0.0,0,h,MISS Lowry 20' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,16
+41600125,17,PT09M53.00S,1,1610612749,MIL,1627748,Maker,T. Maker,0,0,0,,0,0.0,0.0,0,v,Maker REBOUND (Off:0 Def:1),Rebound,Unknown,1,17
+41600125,19,PT09M42.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,h,Lowry P.FOUL (P1.T1) (J.Capers),Foul,Personal,1,18
+41600125,20,PT09M28.00S,1,1610612749,MIL,1627763,Brogdon,M. Brogdon,-227,-6,0,Made,1,7.0,8.0,15,v,Brogdon  3PT Jump Shot (6 PTS) (Middleton 1 AST),Made Shot,Jump Shot,1,19
+41600125,21,PT09M17.00S,1,1610612761,TOR,1626181,Powell,N. Powell,2,21,2,Missed,1,0.0,0.0,0,h,MISS Powell 2' Driving Layup,Missed Shot,Driving Layup Shot,1,20
+41600125,21,PT09M17.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,v,Antetokounmpo BLOCK (1 BLK),,,1,21
+41600125,22,PT09M17.00S,1,0,,1610612761,,,0,0,0,,0,0.0,0.0,0,h,RAPTORS Rebound,Rebound,Unknown,0,22
+41600125,23,PT09M09.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,-161,121,20,Made,1,9.0,8.0,17,h,Ibaka 20' Jump Shot (7 PTS) (Lowry 1 AST),Made Shot,Jump Shot,1,23
+41600125,24,PT09M00.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,1,0,Made,1,9.0,10.0,19,v,Antetokounmpo  Running Dunk (2 PTS),Made Shot,Running Dunk Shot,1,24
+41600125,25,PT08M45.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,-228,-6,0,Missed,1,0.0,0.0,0,h,MISS DeRozan  3PT Jump Shot,Missed Shot,Jump Shot,1,25
+41600125,26,PT08M45.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,v,Antetokounmpo REBOUND (Off:0 Def:1),Rebound,Unknown,1,26
+41600125,27,PT08M35.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,15,47,5,Missed,1,0.0,0.0,0,v,MISS Antetokounmpo 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,27
+41600125,30,PT08M31.00S,1,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,0.0,0.0,0,h,Carroll REBOUND (Off:0 Def:1),Rebound,Unknown,1,28
+41600125,31,PT08M29.00S,1,1610612749,MIL,203503,Snell,T. Snell,0,0,0,,0,0.0,0.0,0,v,Snell P.FOUL (P1.T2) (P.Fraher),Foul,Personal,1,29
+41600125,32,PT08M18.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,Ibaka Lost Ball Turnover (P2.T2),Turnover,Lost Ball,1,30
+41600125,32,PT08M18.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,v,Middleton STEAL (1 STL),,,1,31
+41600125,33,PT08M16.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0.0,0.0,0,h,DeRozan P.FOUL (P1.T2) (P.Fraher),Foul,Personal,1,32
+41600125,34,PT08M01.00S,1,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,0.0,0.0,0,h,Carroll S.FOUL (P1.T3) (J.Capers),Foul,Shooting,1,33
+41600125,35,PT08M01.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,9.0,11.0,20,v,Antetokounmpo Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,34
+41600125,37,PT08M01.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,v,MISS Antetokounmpo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,35
+41600125,39,PT08M00.00S,1,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,0.0,0.0,0,h,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,36
+41600125,40,PT07M39.00S,1,1610612761,TOR,1626181,Powell,N. Powell,46,13,5,Missed,1,0.0,0.0,0,h,MISS Powell 5' No Shot,Missed Shot                             , ,1,37
+41600125,40,PT07M39.00S,1,1610612749,MIL,1627748,Maker,T. Maker,0,0,0,,0,0.0,0.0,0,v,Maker BLOCK (1 BLK),,,1,38
+41600125,41,PT07M39.00S,1,0,,1610612761,,,0,0,0,,0,0.0,0.0,0,h,RAPTORS Rebound,Rebound,Unknown,0,39
+41600125,42,PT07M35.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,130,2,13,Missed,1,0.0,0.0,0,h,MISS DeRozan 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,40
+41600125,43,PT07M34.00S,1,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,0.0,0.0,0,h,Carroll REBOUND (Off:1 Def:1),Rebound,Unknown,1,41
+41600125,44,PT07M32.00S,1,1610612761,TOR,201960,Carroll,D. Carroll,2,13,1,Made,1,11.0,11.0,22,h,Carroll 1' No Shot (2 PTS),Made Shot                               , ,1,42
+41600125,45,PT07M24.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,v,Antetokounmpo Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,43
+41600125,45,PT07M24.00S,1,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,0.0,0.0,0,h,Powell STEAL (1 STL),,,1,44
+41600125,46,PT07M22.00S,1,1610612761,TOR,1626181,Powell,N. Powell,-16,7,2,Made,1,13.0,11.0,24,h,Powell 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,45
+41600125,47,PT07M22.00S,1,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,0.0,0.0,0,v,Brogdon S.FOUL (P1.T3) (J.Capers),Foul,Shooting,1,46
+41600125,48,PT07M22.00S,1,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,14.0,11.0,25,h,Powell Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,47
+41600125,50,PT07M11.00S,1,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,0.0,0.0,0,v,Brogdon Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,48
+41600125,50,PT07M11.00S,1,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,0.0,0.0,0,h,Carroll STEAL (1 STL),,,1,49
+41600125,51,PT07M04.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,-156,183,24,Missed,1,0.0,0.0,0,h,MISS Ibaka 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,50
+41600125,52,PT07M03.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,v,Antetokounmpo REBOUND (Off:0 Def:2),Rebound,Unknown,1,51
+41600125,53,PT06M48.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,20,3,2,Missed,1,0.0,0.0,0,v,MISS Antetokounmpo 2' No Shot,Missed Shot                             , ,1,52
+41600125,53,PT06M48.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,Ibaka BLOCK (1 BLK),,,1,53
+41600125,54,PT06M46.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,Ibaka REBOUND (Off:0 Def:3),Rebound,Unknown,1,54
+41600125,55,PT06M37.00S,1,1610612761,TOR,1626181,Powell,N. Powell,186,0,19,Missed,1,0.0,0.0,0,h,MISS Powell 19' Jump Shot,Missed Shot,Jump Shot,1,55
+41600125,56,PT06M36.00S,1,1610612749,MIL,1627748,Maker,T. Maker,0,0,0,,0,0.0,0.0,0,v,Maker REBOUND (Off:0 Def:2),Rebound,Unknown,1,56
+41600125,57,PT06M22.00S,1,1610612749,MIL,1627748,Maker,T. Maker,0,0,0,,0,0.0,0.0,0,v,Maker Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,57
+41600125,57,PT06M22.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,Ibaka STEAL (1 STL),,,1,58
+41600125,58,PT06M14.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,-65,239,25,Missed,1,0.0,0.0,0,h,MISS Lowry 25' 3PT No Shot,Missed Shot                             , ,1,59
+41600125,59,PT06M13.00S,1,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,0.0,0.0,0,h,Carroll REBOUND (Off:2 Def:1),Rebound,Unknown,1,60
+41600125,60,PT06M08.00S,1,0,,1610612761,,,0,0,0,,0,0.0,0.0,0,h,RAPTORS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,61
+41600125,62,PT06M08.00S,1,1610612749,MIL,1627748,Maker,T. Maker,0,0,0,,0,0.0,0.0,0,v,SUB: Monroe FOR Maker,Substitution,,0,62
+41600125,63,PT06M08.00S,1,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,0.0,0.0,0,v,SUB: Dellavedova FOR Brogdon,Substitution,,0,63
+41600125,64,PT05M55.00S,1,1610612761,TOR,201960,Carroll,D. Carroll,-222,3,0,Made,1,17.0,11.0,28,h,Carroll  3PT Jump Shot (5 PTS) (DeRozan 2 AST),Made Shot,Jump Shot,1,64
+41600125,65,PT05M31.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,2,52,5,Missed,1,0.0,0.0,0,v,MISS Antetokounmpo 5' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,65
+41600125,66,PT05M30.00S,1,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,0.0,0.0,0,h,Carroll REBOUND (Off:2 Def:2),Rebound,Unknown,1,66
+41600125,67,PT05M19.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,0,1,0,Made,1,19.0,11.0,30,h,Ibaka  No Shot (9 PTS) (Powell 2 AST),Made Shot                               , ,1,67
+41600125,68,PT05M04.00S,1,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,v,Monroe Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,68
+41600125,68,PT05M04.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,h,Lowry STEAL (1 STL),,,1,69
+41600125,69,PT04M58.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,27,7,3,Missed,1,0.0,0.0,0,h,MISS DeRozan 3' No Shot,Missed Shot                             , ,1,70
+41600125,69,PT04M58.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,v,Antetokounmpo BLOCK (2 BLK),,,1,71
+41600125,70,PT04M58.00S,1,0,,1610612761,,,0,0,0,,0,0.0,0.0,0,h,RAPTORS Rebound,Rebound,Unknown,0,72
+41600125,71,PT04M48.00S,1,1610612761,TOR,201960,Carroll,D. Carroll,19,51,5,Made,1,21.0,11.0,32,h,Carroll 5' No Shot (7 PTS) (Ibaka 1 AST),Made Shot                               , ,1,73
+41600125,72,PT04M34.00S,1,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,v,Monroe Offensive Charge Foul (P1.T4) (J.Capers),Foul,Offensive Charge,1,74
+41600125,73,PT04M34.00S,1,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,v,Monroe Foul Turnover (P2.T5),Turnover,Foul,1,75
+41600125,74,PT04M27.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,1,0,Made,1,23.0,11.0,34,h,DeRozan  Running Dunk (4 PTS),Made Shot,Running Dunk Shot,1,76
+41600125,75,PT04M27.00S,1,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,v,Bucks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,77
+41600125,77,PT04M27.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,v,SUB: Beasley FOR Antetokounmpo,Substitution,,0,78
+41600125,78,PT04M10.00S,1,1610612749,MIL,201563,Beasley,M. Beasley,-4,8,1,Missed,1,0.0,0.0,0,v,MISS Beasley 1' Driving Layup,Missed Shot,Driving Layup Shot,1,79
+41600125,78,PT04M10.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,Ibaka BLOCK (2 BLK),,,1,80
+41600125,79,PT04M09.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0.0,0.0,0,h,DeRozan REBOUND (Off:0 Def:1),Rebound,Unknown,1,81
+41600125,80,PT03M58.00S,1,1610612761,TOR,1626181,Powell,N. Powell,238,2,24,Made,1,26.0,11.0,37,h,Powell 24' 3PT Jump Shot (6 PTS) (Ibaka 2 AST),Made Shot,Jump Shot,1,82
+41600125,81,PT03M32.00S,1,1610612749,MIL,202328,Monroe,G. Monroe,0,46,5,Made,1,26.0,13.0,39,v,Monroe 5' Driving Hook Shot (2 PTS),Made Shot,Driving Hook Shot,1,83
+41600125,82,PT03M16.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,-7,16,2,Missed,1,0.0,0.0,0,h,MISS Lowry 2' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,84
+41600125,83,PT03M15.00S,1,1610612749,MIL,203521,Dellavedova,M. Dellavedova,0,0,0,,0,0.0,0.0,0,v,Dellavedova REBOUND (Off:0 Def:1),Rebound,Unknown,1,85
+41600125,84,PT03M07.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,h,Lowry S.FOUL (P2.T4) (J.Capers),Foul,Shooting,1,86
+41600125,85,PT03M07.00S,1,1610612749,MIL,201563,Beasley,M. Beasley,0,0,0,,0,0.0,0.0,0,v,MISS Beasley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,87
+41600125,86,PT03M07.00S,1,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,v,Bucks Rebound,Rebound,Normal Rebound,0,88
+41600125,87,PT03M07.00S,1,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,0.0,0.0,0,h,SUB: Tucker FOR Carroll,Substitution,,0,89
+41600125,88,PT03M07.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,h,SUB: Joseph FOR Lowry,Substitution,,0,90
+41600125,89,PT03M07.00S,1,1610612749,MIL,201563,Beasley,M. Beasley,0,0,0,,0,0.0,0.0,0,v,MISS Beasley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,91
+41600125,91,PT03M06.00S,1,1610612761,TOR,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,h,Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,1,92
+41600125,93,PT02M52.00S,1,1610612761,TOR,200782,Tucker,P. Tucker,-225,0,0,Missed,1,0.0,0.0,0,h,MISS Tucker  3PT Jump Shot,Missed Shot,Jump Shot,1,93
+41600125,94,PT02M51.00S,1,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,v,Monroe REBOUND (Off:0 Def:1),Rebound,Unknown,1,94
+41600125,95,PT02M35.00S,1,1610612749,MIL,202328,Monroe,G. Monroe,33,8,3,Made,1,26.0,15.0,41,v,Monroe 3' Driving Hook Shot (4 PTS),Made Shot,Driving Hook Shot,1,95
+41600125,96,PT02M17.00S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,240,7,24,Missed,1,0.0,0.0,0,h,MISS DeRozan 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,96
+41600125,97,PT02M17.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,v,Middleton REBOUND (Off:0 Def:1),Rebound,Unknown,1,97
+41600125,98,PT02M04.00S,1,1610612749,MIL,202328,Monroe,G. Monroe,1,31,3,Made,1,26.0,17.0,43,v,Monroe 3' Driving Hook Shot (6 PTS) (Middleton 2 AST),Made Shot,Driving Hook Shot,1,98
+41600125,99,PT01M42.00S,1,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,0.0,0.0,0,h,Powell Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,99
+41600125,99,PT01M42.00S,1,1610612749,MIL,201563,Beasley,M. Beasley,0,0,0,,0,0.0,0.0,0,v,Beasley STEAL (1 STL),,,1,100
+41600125,100,PT01M29.00S,1,1610612749,MIL,203503,Snell,T. Snell,-232,3,0,Made,1,26.0,20.0,46,v,Snell  3PT Jump Shot (3 PTS) (Dellavedova 1 AST),Made Shot,Jump Shot,1,101
+41600125,101,PT01M28.00S,1,0,,1610612761,,,0,0,0,,0,0.0,0.0,0,h,RAPTORS Timeout: Short (Full 1 Short 1),Timeout,Short,0,102
+41600125,103,PT01M28.00S,1,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,SUB: Valanciunas FOR Ibaka,Substitution,,0,103
+41600125,104,PT01M14.00S,1,1610612761,TOR,1626181,Powell,N. Powell,238,-1,24,Made,1,29.0,20.0,49,h,Powell 24' 3PT Jump Shot (9 PTS) (Joseph 1 AST),Made Shot,Jump Shot,1,104
+41600125,105,PT00M52.90S,1,1610612749,MIL,201563,Beasley,M. Beasley,9,110,11,Missed,1,0.0,0.0,0,v,MISS Beasley 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,105
+41600125,106,PT00M52.70S,1,1610612761,TOR,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,h,Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,1,106
+41600125,107,PT00M42.80S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0.0,0.0,0,h,DeRozan Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,107
+41600125,107,PT00M42.80S,1,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,v,Monroe STEAL (1 STL),,,1,108
+41600125,108,PT00M38.80S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0.0,0.0,0,h,Jump Ball DeRozan vs. Monroe: Tip to Middleton,Jump Ball,,1,109
+41600125,109,PT00M28.90S,1,1610612749,MIL,203114,Middleton,K. Middleton,155,85,18,Missed,1,0.0,0.0,0,v,MISS Middleton 18' Jump Shot,Missed Shot,Jump Shot,1,110
+41600125,109,PT00M28.90S,1,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,0.0,0.0,0,h,Powell BLOCK (1 BLK),,,1,111
+41600125,110,PT00M28.30S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0.0,0.0,0,h,Valanciunas REBOUND (Off:0 Def:1),Rebound,Unknown,1,112
+41600125,112,PT00M06.20S,1,1610612761,TOR,201942,DeRozan,D. DeRozan,161,7,16,Made,1,31.0,20.0,51,h,DeRozan 16' No Shot (6 PTS),Made Shot                               , ,1,113
+41600125,113,PT00M00.80S,1,1610612749,MIL,203114,Middleton,K. Middleton,197,159,25,Missed,1,0.0,0.0,0,v,MISS Middleton 25' 3PT No Shot,Missed Shot                             , ,1,114
+41600125,114,PT00M00.10S,1,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,0.0,0.0,0,h,Joseph REBOUND (Off:0 Def:1),Rebound,Unknown,1,115
+41600125,115,PT00M00.00S,1,0,,100,Legler,T. Legler,0,0,0,,0,0.0,0.0,0,,Support Ruling,Instant Replay,Support Ruling,0,116
+41600125,116,PT00M00.00S,1,0,,0,,,0,0,0,,0,31.0,20.0,51,,End of 1st Period (7:39 PM EST),period,end,0,117
+41600125,118,PT12M00.00S,2,0,,0,,,0,0,0,,0,31.0,20.0,51,,Start of 2nd Period (7:42 PM EST),period,start,0,118
+41600125,119,PT11M47.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0.0,0.0,0,h,Valanciunas P.FOUL (P1.T1) (C.Kirkland),Foul,Personal,1,119
+41600125,120,PT11M41.00S,2,1610612749,MIL,203141,Teletovic,M. Teletovic,-133,203,24,Made,1,31.0,23.0,54,v,Teletovic 24' 3PT Pullup Jump Shot (3 PTS) (Terry 1 AST),Made Shot,Pullup Jump shot,1,120
+41600125,121,PT11M21.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,22,62,7,Made,1,33.0,23.0,56,h,Lowry 7' No Shot (2 PTS),Made Shot                               , ,1,121
+41600125,122,PT10M59.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,17,11,2,Made,1,33.0,25.0,58,v,Antetokounmpo 2' Finger Roll Layup (5 PTS),Made Shot,Finger Roll Layup Shot,1,122
+41600125,123,PT10M50.00S,2,1610612761,TOR,202709,Joseph,C. Joseph,46,242,25,Missed,1,0.0,0.0,0,h,MISS Joseph 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,123
+41600125,124,PT10M49.00S,2,1610612749,MIL,203141,Teletovic,M. Teletovic,0,0,0,,0,0.0,0.0,0,v,Teletovic REBOUND (Off:0 Def:1),Rebound,Unknown,1,124
+41600125,125,PT10M34.00S,2,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,v,Monroe Lost Ball Turnover (P3.T6),Turnover,Lost Ball,1,125
+41600125,125,PT10M34.00S,2,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,0.0,0.0,0,h,Joseph STEAL (1 STL),,,1,126
+41600125,126,PT10M18.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,h,Lowry Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,127
+41600125,126,PT10M18.00S,2,1610612749,MIL,203141,Teletovic,M. Teletovic,0,0,0,,0,0.0,0.0,0,v,Teletovic STEAL (1 STL),,,1,128
+41600125,127,PT10M04.00S,2,1610612749,MIL,1891,Terry,J. Terry,236,-1,24,Missed,1,0.0,0.0,0,v,MISS Terry 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,129
+41600125,128,PT10M04.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,h,Lowry REBOUND (Off:0 Def:1),Rebound,Unknown,1,130
+41600125,129,PT09M48.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,161,183,24,Made,1,36.0,25.0,61,h,Lowry 24' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,131
+41600125,130,PT09M32.00S,2,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,0.0,0.0,0,h,Joseph P.FOUL (P1.T2) (P.Fraher),Foul,Personal,1,132
+41600125,131,PT09M27.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,1,0,Made,1,36.0,27.0,63,v,Antetokounmpo  No Shot (7 PTS) (Monroe 1 AST),Made Shot                               , ,1,133
+41600125,132,PT09M15.00S,2,1610612761,TOR,202709,Joseph,C. Joseph,163,141,22,Made,1,38.0,27.0,65,h,Joseph 22' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,134
+41600125,133,PT09M06.00S,2,1610612749,MIL,203141,Teletovic,M. Teletovic,-138,203,25,Missed,1,0.0,0.0,0,v,MISS Teletovic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,135
+41600125,134,PT09M05.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0.0,0.0,0,h,Valanciunas REBOUND (Off:0 Def:2),Rebound,Unknown,1,136
+41600125,135,PT08M53.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,0,95,10,Made,1,40.0,27.0,67,h,Lowry 10' Turnaround Jump Shot (7 PTS),Made Shot,Turnaround Jump Shot,1,137
+41600125,139,PT08M37.00S,2,1610612749,MIL,203521,Dellavedova,M. Dellavedova,-125,205,24,Made,1,40.0,30.0,70,v,Dellavedova 24' 3PT Jump Shot (3 PTS) (Terry 2 AST),Made Shot,Jump Shot,1,138
+41600125,140,PT08M19.00S,2,1610612761,TOR,202335,Patterson,P. Patterson,241,0,24,Made,1,43.0,30.0,73,h,Patterson 24' 3PT Jump Shot (3 PTS) (Tucker 1 AST),Made Shot,Jump Shot,1,139
+41600125,141,PT08M01.00S,2,1610612749,MIL,203141,Teletovic,M. Teletovic,0,0,0,,0,0.0,0.0,0,v,Teletovic Step Out of Bounds Turnover (P1.T7),Turnover,Step Out of Bounds Turnover,1,140
+41600125,142,PT08M01.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,141
+41600125,143,PT08M01.00S,2,1610612749,MIL,203521,Dellavedova,M. Dellavedova,0,0,0,,0,0.0,0.0,0,v,SUB: Brogdon FOR Dellavedova,Substitution,,0,142
+41600125,145,PT07M41.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,122,219,25,Made,1,46.0,30.0,76,h,Lowry 25' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,143
+41600125,147,PT07M23.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,68,11,7,Made,1,46.0,32.0,78,v,Antetokounmpo 7' Pullup Jump Shot (9 PTS) (Brogdon 1 AST),Made Shot,Pullup Jump shot,1,144
+41600125,149,PT07M10.00S,2,1610612761,TOR,202709,Joseph,C. Joseph,115,2,12,Made,1,48.0,32.0,80,h,Joseph 12' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,145
+41600125,150,PT07M10.00S,2,1610612749,MIL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,v,Terry S.FOUL (P1.T1) (P.Fraher),Foul,Shooting,1,146
+41600125,151,PT07M10.00S,2,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,49.0,32.0,81,h,Joseph Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,147
+41600125,153,PT07M01.00S,2,1610612749,MIL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,v,Terry OFF.Foul (P2) (J.Capers),Foul,Offensive,1,148
+41600125,154,PT07M01.00S,2,1610612749,MIL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,v,Terry Foul Turnover (P1.T8),Turnover,Foul,1,149
+41600125,156,PT06M52.00S,2,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,v,SUB: Maker FOR Monroe,Substitution,,0,150
+41600125,157,PT06M52.00S,2,1610612749,MIL,1891,Terry,J. Terry,0,0,0,,0,0.0,0.0,0,v,SUB: Snell FOR Terry,Substitution,,0,151
+41600125,158,PT06M36.00S,2,1610612761,TOR,202335,Patterson,P. Patterson,-135,38,14,Made,1,51.0,32.0,83,h,Patterson 14' Jump Shot (5 PTS) (Valanciunas 1 AST),Made Shot,Jump Shot,1,152
+41600125,159,PT06M11.00S,2,1610612749,MIL,1627748,Maker,T. Maker,17,28,3,Missed,1,0.0,0.0,0,v,MISS Maker 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,153
+41600125,160,PT06M11.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0.0,0.0,0,h,Valanciunas REBOUND (Off:0 Def:3),Rebound,Unknown,1,154
+41600125,162,PT06M03.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,h,Lowry Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,155
+41600125,162,PT06M03.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,v,Antetokounmpo STEAL (1 STL),,,1,156
+41600125,163,PT06M01.00S,2,1610612761,TOR,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,h,Tucker P.FOUL (P1.T3) (C.Kirkland),Foul,Personal,1,157
+41600125,164,PT06M01.00S,2,1610612749,MIL,203141,Teletovic,M. Teletovic,0,0,0,,0,0.0,0.0,0,v,SUB: Middleton FOR Teletovic,Substitution,,0,158
+41600125,165,PT05M51.00S,2,1610612749,MIL,203503,Snell,T. Snell,-14,11,2,Missed,1,0.0,0.0,0,v,MISS Snell 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,159
+41600125,166,PT05M50.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,h,Lowry REBOUND (Off:0 Def:2),Rebound,Unknown,1,160
+41600125,167,PT05M38.00S,2,1610612761,TOR,202709,Joseph,C. Joseph,238,2,24,Missed,1,0.0,0.0,0,h,MISS Joseph 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,161
+41600125,168,PT05M37.00S,2,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,0.0,0.0,0,v,Brogdon REBOUND (Off:0 Def:1),Rebound,Unknown,1,162
+41600125,169,PT05M31.00S,2,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,0.0,0.0,0,v,Brogdon Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,163
+41600125,169,PT05M31.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,h,Lowry STEAL (2 STL),,,1,164
+41600125,170,PT05M23.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,1,18,2,Missed,1,0.0,0.0,0,h,MISS Lowry 2' Running Layup,Missed Shot,Running Layup Shot,1,165
+41600125,171,PT05M23.00S,2,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,0.0,0.0,0,h,Joseph REBOUND (Off:1 Def:1),Rebound,Unknown,1,166
+41600125,172,PT05M12.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0.0,0.0,0,h,Valanciunas Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,167
+41600125,172,PT05M12.00S,2,1610612749,MIL,1627748,Maker,T. Maker,0,0,0,,0,0.0,0.0,0,v,Maker STEAL (1 STL),,,1,168
+41600125,173,PT05M05.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,22,3,2,Made,1,51.0,34.0,85,v,Antetokounmpo 2' No Shot (11 PTS),Made Shot                               , ,1,169
+41600125,174,PT05M05.00S,2,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,0.0,0.0,0,h,Joseph S.FOUL (P2.T4) (P.Fraher),Foul,Shooting,1,170
+41600125,175,PT05M05.00S,2,0,,1610612761,,,0,0,0,,0,0.0,0.0,0,h,RAPTORS Timeout: Regular (Full 2 Short 1),Timeout,Regular,0,171
+41600125,176,PT05M05.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,h,SUB: DeRozan FOR Lowry,Substitution,,0,172
+41600125,177,PT05M05.00S,2,1610612761,TOR,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,h,SUB: Ibaka FOR Tucker,Substitution,,0,173
+41600125,178,PT05M05.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0.0,0.0,0,h,SUB: Carroll FOR Valanciunas,Substitution,,0,174
+41600125,180,PT05M05.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,v,MISS Antetokounmpo Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,175
+41600125,182,PT05M03.00S,2,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,Ibaka REBOUND (Off:0 Def:4),Rebound,Unknown,1,176
+41600125,183,PT04M39.00S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,-163,105,19,Missed,1,0.0,0.0,0,h,MISS DeRozan 19' Jump Shot,Missed Shot,Jump Shot,1,177
+41600125,184,PT04M38.00S,2,1610612749,MIL,1627748,Maker,T. Maker,0,0,0,,0,0.0,0.0,0,v,Maker REBOUND (Off:0 Def:3),Rebound,Unknown,1,178
+41600125,185,PT04M20.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-11,21,2,Made,1,51.0,36.0,87,v,Antetokounmpo 2' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,179
+41600125,186,PT03M55.00S,2,1610612761,TOR,202709,Joseph,C. Joseph,35,80,9,Missed,1,0.0,0.0,0,h,MISS Joseph 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,180
+41600125,187,PT03M54.00S,2,1610612749,MIL,1627748,Maker,T. Maker,0,0,0,,0,0.0,0.0,0,v,Maker REBOUND (Off:0 Def:4),Rebound,Unknown,1,181
+41600125,188,PT03M32.00S,2,1610612749,MIL,203503,Snell,T. Snell,238,2,24,Made,1,51.0,39.0,90,v,Snell 24' 3PT Jump Shot (6 PTS) (Antetokounmpo 1 AST),Made Shot,Jump Shot,1,182
+41600125,189,PT03M10.00S,2,1610612761,TOR,202335,Patterson,P. Patterson,-233,-11,0,Missed,1,0.0,0.0,0,h,MISS Patterson  3PT Jump Shot,Missed Shot,Jump Shot,1,183
+41600125,190,PT03M09.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,v,Middleton REBOUND (Off:0 Def:2),Rebound,Unknown,1,184
+41600125,191,PT02M59.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,14,75,8,Made,1,51.0,41.0,92,v,Middleton 8' Turnaround Fadeaway (4 PTS),Made Shot,Turnaround Fadeaway shot,1,185
+41600125,192,PT02M57.00S,2,0,,1610612761,,,0,0,0,,0,0.0,0.0,0,h,RAPTORS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,186
+41600125,194,PT02M57.00S,2,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,0.0,0.0,0,h,SUB: Lowry FOR Joseph,Substitution,,0,187
+41600125,195,PT02M57.00S,2,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,h,SUB: Powell FOR Patterson,Substitution,,0,188
+41600125,197,PT02M35.00S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,104,174,20,Made,1,53.0,41.0,94,h,DeRozan 20' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,189
+41600125,198,PT02M14.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-16,13,2,Made,1,53.0,43.0,96,v,Antetokounmpo 2' Finger Roll Layup (15 PTS) (Maker 2 AST),Made Shot,Finger Roll Layup Shot,1,190
+41600125,199,PT02M02.00S,2,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,0.0,0.0,0,h,Powell Lost Ball Turnover (P2.T8),Turnover,Lost Ball,1,191
+41600125,199,PT02M02.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,v,Middleton STEAL (2 STL),,,1,192
+41600125,200,PT01M58.00S,2,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,Ibaka Shooting Block Foul (P1.PN) (J.Capers),Foul,Shooting Block,1,193
+41600125,201,PT01M58.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,53.0,44.0,97,v,Antetokounmpo Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,194
+41600125,203,PT01M58.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,v,MISS Antetokounmpo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,195
+41600125,205,PT01M57.00S,2,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,Ibaka REBOUND (Off:0 Def:5),Rebound,Unknown,1,196
+41600125,206,PT01M41.00S,2,1610612761,TOR,201586,Ibaka,S. Ibaka,20,47,5,Made,1,55.0,44.0,99,h,Ibaka 5' Turnaround Hook Shot (11 PTS) (Lowry 2 AST),Made Shot,Turnaround Hook Shot,1,197
+41600125,207,PT01M27.00S,2,1610612749,MIL,1627748,Maker,T. Maker,0,1,0,Made,1,55.0,46.0,101,v,Maker  Dunk (2 PTS),Made Shot,Dunk Shot,1,198
+41600125,208,PT01M11.00S,2,1610612761,TOR,201586,Ibaka,S. Ibaka,46,244,25,Missed,1,0.0,0.0,0,h,MISS Ibaka 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,199
+41600125,209,PT01M10.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,v,Antetokounmpo REBOUND (Off:0 Def:3),Rebound,Unknown,1,200
+41600125,210,PT00M58.90S,2,1610612749,MIL,203114,Middleton,K. Middleton,-174,174,25,Missed,1,0.0,0.0,0,v,MISS Middleton 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,201
+41600125,211,PT00M56.80S,2,0,,1610612761,,,0,0,0,,0,0.0,0.0,0,h,RAPTORS Rebound,Rebound,Unknown,0,202
+41600125,212,PT00M39.90S,2,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0.0,0.0,0,h,DeRozan Lost Ball Turnover (P2.T9),Turnover,Lost Ball,1,203
+41600125,212,PT00M39.90S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,v,Middleton STEAL (3 STL),,,1,204
+41600125,213,PT00M27.50S,2,1610612749,MIL,1627748,Maker,T. Maker,0,1,0,Made,1,55.0,48.0,103,v,Maker  No Shot (4 PTS) (Antetokounmpo 2 AST),Made Shot                               , ,1,205
+41600125,215,PT00M04.60S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,v,Middleton Shooting Block Foul (P1.T2) (J.Capers),Foul,Shooting Block,1,206
+41600125,216,PT00M04.60S,2,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,56.0,48.0,104,h,Lowry Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,207
+41600125,218,PT00M04.60S,2,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,57.0,48.0,105,h,Lowry Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,208
+41600125,220,PT00M00.00S,2,1610612749,MIL,1627748,Maker,T. Maker,179,208,27,Missed,1,0.0,0.0,0,v,MISS Maker 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,209
+41600125,221,PT00M00.00S,2,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,v,Bucks Rebound,Rebound,Unknown,0,210
+41600125,222,PT00M00.00S,2,0,,0,,,0,0,0,,0,57.0,48.0,105,,End of 2nd Period (8:10 PM EST),period,end,0,211
+41600125,224,PT12M00.00S,3,0,,0,,,0,0,0,,0,57.0,48.0,105,,Start of 3rd Period (8:26 PM EST),period,start,0,212
+41600125,225,PT11M46.00S,3,1610612749,MIL,1627748,Maker,T. Maker,74,234,25,Missed,1,0.0,0.0,0,v,MISS Maker 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,213
+41600125,226,PT11M46.00S,3,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,0.0,0.0,0,h,Carroll REBOUND (Off:2 Def:3),Rebound,Unknown,1,214
+41600125,227,PT11M42.00S,3,1610612761,TOR,201586,Ibaka,S. Ibaka,0,1,0,Made,1,59.0,48.0,107,h,Ibaka  Running Dunk (13 PTS) (Lowry 3 AST),Made Shot,Running Dunk Shot,1,215
+41600125,228,PT11M42.00S,3,1610612749,MIL,1627748,Maker,T. Maker,0,0,0,,0,0.0,0.0,0,v,Maker S.FOUL (P2.T1) (P.Fraher),Foul,Shooting,1,216
+41600125,229,PT11M42.00S,3,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,60.0,48.0,108,h,Ibaka Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,217
+41600125,231,PT11M23.00S,3,1610612749,MIL,1627763,Brogdon,M. Brogdon,-106,228,25,Made,1,60.0,51.0,111,v,Brogdon 25' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,218
+41600125,232,PT11M02.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,-189,31,19,Missed,1,0.0,0.0,0,h,MISS DeRozan 19' Jump Shot,Missed Shot,Jump Shot,1,219
+41600125,233,PT11M01.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,v,Antetokounmpo REBOUND (Off:0 Def:4),Rebound,Unknown,1,220
+41600125,234,PT10M48.00S,3,1610612749,MIL,203503,Snell,T. Snell,209,141,25,Missed,1,0.0,0.0,0,v,MISS Snell 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,221
+41600125,235,PT10M47.00S,3,1610612749,MIL,1627748,Maker,T. Maker,0,0,0,,0,0.0,0.0,0,v,Maker REBOUND (Off:1 Def:4),Rebound,Unknown,1,222
+41600125,236,PT10M45.00S,3,1610612749,MIL,1627748,Maker,T. Maker,0,0,0,,0,0.0,0.0,0,v,Maker Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,223
+41600125,236,PT10M45.00S,3,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,0.0,0.0,0,h,Carroll STEAL (2 STL),,,1,224
+41600125,237,PT10M29.00S,3,1610612761,TOR,201960,Carroll,D. Carroll,89,164,19,Made,1,62.0,51.0,113,h,Carroll 19' No Shot (9 PTS) (Lowry 4 AST),Made Shot                               , ,1,225
+41600125,238,PT10M29.00S,3,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,0.0,0.0,0,v,Brogdon S.FOUL (P2.T2) (P.Fraher),Foul,Shooting,1,226
+41600125,239,PT10M29.00S,3,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,63.0,51.0,114,h,Carroll Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,227
+41600125,241,PT10M11.00S,3,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,Ibaka S.FOUL (P2.T1) (P.Fraher),Foul,Shooting,1,228
+41600125,243,PT10M11.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,63.0,52.0,115,v,Antetokounmpo Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,229
+41600125,245,PT10M11.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,63.0,53.0,116,v,Antetokounmpo Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,230
+41600125,250,PT09M51.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,v,Middleton P.FOUL (P2.T3) (P.Fraher),Foul,Personal,1,231
+41600125,251,PT09M39.00S,3,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,0.0,0.0,0,h,Carroll 3 Second Violation Turnover (P1.T10),Turnover,3 Second Violation,1,232
+41600125,252,PT09M21.00S,3,1610612749,MIL,1627748,Maker,T. Maker,55,21,6,Missed,1,0.0,0.0,0,v,MISS Maker 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,233
+41600125,252,PT09M21.00S,3,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,Ibaka BLOCK (3 BLK),,,1,234
+41600125,253,PT09M20.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0.0,0.0,0,h,DeRozan REBOUND (Off:0 Def:2),Rebound,Unknown,1,235
+41600125,254,PT09M14.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,v,Antetokounmpo S.FOUL (P1.T4) (C.Kirkland),Foul,Shooting,1,236
+41600125,255,PT09M14.00S,3,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,64.0,53.0,117,h,Carroll Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,237
+41600125,257,PT09M14.00S,3,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,65.0,53.0,118,h,Carroll Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,238
+41600125,261,PT08M53.00S,3,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,0.0,0.0,0,h,Carroll S.FOUL (P2.T2) (P.Fraher),Foul,Shooting,1,239
+41600125,262,PT08M53.00S,3,1610612749,MIL,1627748,Maker,T. Maker,0,0,0,,0,65.0,54.0,119,v,Maker Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,240
+41600125,264,PT08M53.00S,3,1610612749,MIL,1627748,Maker,T. Maker,0,0,0,,0,65.0,55.0,120,v,Maker Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,241
+41600125,266,PT08M30.00S,3,1610612761,TOR,201960,Carroll,D. Carroll,-227,-5,0,Missed,1,0.0,0.0,0,h,MISS Carroll  3PT Jump Shot,Missed Shot,Jump Shot,1,242
+41600125,267,PT08M29.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,v,Antetokounmpo REBOUND (Off:0 Def:5),Rebound,Unknown,1,243
+41600125,268,PT08M22.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,-101,70,12,Missed,1,0.0,0.0,0,v,MISS Middleton 12' No Shot,Missed Shot                             , ,1,244
+41600125,269,PT08M21.00S,3,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,0.0,0.0,0,h,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,1,245
+41600125,270,PT08M21.00S,3,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,0.0,0.0,0,v,Brogdon P.FOUL (P3.PN) (P.Fraher),Foul,Personal,1,246
+41600125,271,PT08M21.00S,3,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,66.0,55.0,121,h,Powell Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,247
+41600125,273,PT08M21.00S,3,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,67.0,55.0,122,h,Powell Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,248
+41600125,276,PT08M11.00S,3,1610612749,MIL,1627763,Brogdon,M. Brogdon,133,213,25,Missed,1,0.0,0.0,0,v,MISS Brogdon 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,249
+41600125,277,PT08M10.00S,3,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,0.0,0.0,0,h,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,1,250
+41600125,279,PT07M59.00S,3,1610612761,TOR,1626181,Powell,N. Powell,-232,2,0,Made,1,70.0,55.0,125,h,Powell  3PT Jump Shot (14 PTS) (Lowry 5 AST),Made Shot,Jump Shot,1,251
+41600125,280,PT07M59.00S,3,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,v,Bucks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,252
+41600125,282,PT07M59.00S,3,1610612749,MIL,1627748,Maker,T. Maker,0,0,0,,0,0.0,0.0,0,v,SUB: Monroe FOR Maker,Substitution,,0,253
+41600125,284,PT07M49.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,h,Lowry P.FOUL (P3.T3) (J.Capers),Foul,Personal,1,254
+41600125,285,PT07M38.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,1,0,Made,1,70.0,57.0,127,v,Antetokounmpo  No Shot (20 PTS) (Monroe 2 AST),Made Shot                               , ,1,255
+41600125,286,PT07M15.00S,3,1610612761,TOR,201960,Carroll,D. Carroll,240,2,24,Missed,1,0.0,0.0,0,h,MISS Carroll 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,256
+41600125,287,PT07M15.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,v,Antetokounmpo REBOUND (Off:0 Def:6),Rebound,Unknown,1,257
+41600125,288,PT07M00.00S,3,1610612749,MIL,202328,Monroe,G. Monroe,-2,16,2,Missed,1,0.0,0.0,0,v,MISS Monroe 2' Layup,Missed Shot,Layup Shot,1,258
+41600125,289,PT06M57.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,h,Lowry REBOUND (Off:0 Def:3),Rebound,Unknown,1,259
+41600125,290,PT06M40.00S,3,1610612761,TOR,201586,Ibaka,S. Ibaka,38,47,6,Made,1,72.0,57.0,129,h,Ibaka 6' Turnaround Hook Shot (16 PTS) (DeRozan 3 AST),Made Shot,Turnaround Hook Shot,1,260
+41600125,291,PT06M18.00S,3,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,Ibaka S.FOUL (P3.T4) (C.Kirkland),Foul,Shooting,1,261
+41600125,292,PT06M18.00S,3,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,v,MISS Monroe Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,262
+41600125,293,PT06M18.00S,3,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,v,Bucks Rebound,Rebound,Normal Rebound,0,263
+41600125,294,PT06M18.00S,3,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,SUB: Valanciunas FOR Ibaka,Substitution,,0,264
+41600125,295,PT06M18.00S,3,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,72.0,58.0,130,v,Monroe Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,265
+41600125,297,PT05M56.00S,3,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,0.0,0.0,0,h,Powell Bad Pass Turnover (P3.T11),Turnover,Bad Pass,1,266
+41600125,297,PT05M56.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,v,Antetokounmpo STEAL (2 STL),,,1,267
+41600125,298,PT05M50.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,1,0,Made,1,72.0,60.0,132,v,Antetokounmpo  Running Dunk (22 PTS),Made Shot,Running Dunk Shot,1,268
+41600125,299,PT05M25.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,2,31,3,Made,1,74.0,60.0,134,h,Valanciunas 3' Turnaround Hook Shot (2 PTS) (Lowry 6 AST),Made Shot,Turnaround Hook Shot,1,269
+41600125,300,PT05M09.00S,3,1610612749,MIL,203503,Snell,T. Snell,230,3,0,Made,1,74.0,63.0,137,v,Snell  3PT Jump Shot (9 PTS) (Antetokounmpo 3 AST),Made Shot,Jump Shot,1,270
+41600125,301,PT05M07.00S,3,0,,1610612761,,,0,0,0,,0,0.0,0.0,0,h,RAPTORS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,271
+41600125,304,PT04M41.00S,3,1610612761,TOR,1626181,Powell,N. Powell,177,213,28,Made,1,77.0,63.0,140,h,Powell 28' 3PT Jump Shot (17 PTS) (DeRozan 4 AST),Made Shot,Jump Shot,1,272
+41600125,306,PT04M18.00S,3,1610612749,MIL,202328,Monroe,G. Monroe,-1,16,2,Missed,1,0.0,0.0,0,v,MISS Monroe 2' Layup,Missed Shot,Layup Shot,1,273
+41600125,306,PT04M18.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0.0,0.0,0,h,Valanciunas BLOCK (1 BLK),,,1,274
+41600125,307,PT04M17.00S,3,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,0.0,0.0,0,h,Carroll REBOUND (Off:2 Def:4),Rebound,Unknown,1,275
+41600125,308,PT04M11.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,v,Middleton S.FOUL (P3.PN) (C.Kirkland),Foul,Shooting,1,276
+41600125,309,PT04M11.00S,3,0,,308,Alston,D. Alston,0,0,0,,0,0.0,0.0,0,,Altercation Ruling,Instant Replay,Altercation Ruling,0,277
+41600125,310,PT04M11.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0.0,0.0,0,,"Double Technical - Valanciunas, Monroe (J.Capers)",Foul,Double Technical,0,278
+41600125,311,PT04M11.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0.0,0.0,0,h,MISS Valanciunas Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,279
+41600125,312,PT04M11.00S,3,0,,1610612761,,,0,0,0,,0,0.0,0.0,0,h,RAPTORS Rebound,Rebound,Normal Rebound,0,280
+41600125,313,PT04M11.00S,3,1610612761,TOR,201960,Carroll,D. Carroll,0,0,0,,0,0.0,0.0,0,h,SUB: Tucker FOR Carroll,Substitution,,0,281
+41600125,314,PT04M11.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,78.0,63.0,141,h,Valanciunas Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,282
+41600125,316,PT03M54.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0.0,0.0,0,h,Valanciunas S.FOUL (P2.PN) (C.Kirkland),Foul,Shooting,1,283
+41600125,317,PT03M54.00S,3,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,78.0,64.0,142,v,Monroe Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,284
+41600125,319,PT03M54.00S,3,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,78.0,65.0,143,v,Monroe Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,285
+41600125,321,PT03M31.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,37,11,4,Made,1,80.0,65.0,145,h,DeRozan 4' No Shot (10 PTS) (Lowry 7 AST),Made Shot                               , ,1,286
+41600125,322,PT03M22.00S,3,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,0.0,0.0,0,h,Powell S.FOUL (P1.PN) (P.Fraher),Foul,Shooting,1,287
+41600125,323,PT03M22.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,80.0,66.0,146,v,Middleton Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,288
+41600125,325,PT03M22.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,80.0,67.0,147,v,Middleton Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,289
+41600125,328,PT03M03.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,1,0,Missed,1,0.0,0.0,0,h,MISS Valanciunas  No Shot,Missed Shot                             , ,1,290
+41600125,328,PT03M03.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,v,Antetokounmpo BLOCK (3 BLK),,,1,291
+41600125,329,PT03M02.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,v,Middleton REBOUND (Off:0 Def:3),Rebound,Unknown,1,292
+41600125,330,PT02M57.00S,3,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,7,1,Made,1,80.0,69.0,149,v,Brogdon 1' Running Layup (11 PTS) (Middleton 3 AST),Made Shot,Running Layup Shot,1,293
+41600125,331,PT02M46.00S,3,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,0.0,0.0,0,v,Brogdon S.FOUL (P4.PN) (J.Capers),Foul,Shooting,1,294
+41600125,332,PT02M46.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0.0,0.0,0,h,MISS DeRozan Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,295
+41600125,333,PT02M46.00S,3,0,,1610612761,,,0,0,0,,0,0.0,0.0,0,h,RAPTORS Rebound,Rebound,Normal Rebound,0,296
+41600125,334,PT02M46.00S,3,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,0.0,0.0,0,v,SUB: Dellavedova FOR Brogdon,Substitution,,0,297
+41600125,335,PT02M46.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,h,SUB: Joseph FOR Lowry,Substitution,,0,298
+41600125,336,PT02M46.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,81.0,69.0,150,h,DeRozan Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,299
+41600125,338,PT02M32.00S,3,1610612749,MIL,203521,Dellavedova,M. Dellavedova,-189,160,25,Missed,1,0.0,0.0,0,v,MISS Dellavedova 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,300
+41600125,339,PT02M32.00S,3,1610612761,TOR,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,h,Tucker REBOUND (Off:0 Def:3),Rebound,Unknown,1,301
+41600125,340,PT02M15.00S,3,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,0.0,0.0,0,h,Powell No Turnover (P4.T12),Turnover                                , ,1,302
+41600125,341,PT02M06.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,63,18,7,Missed,1,0.0,0.0,0,v,MISS Antetokounmpo 7' No Shot,Missed Shot                             , ,1,303
+41600125,341,PT02M06.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0.0,0.0,0,h,Valanciunas BLOCK (2 BLK),,,1,304
+41600125,342,PT02M06.00S,3,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,v,Bucks Rebound,Rebound,Unknown,0,305
+41600125,343,PT02M04.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,v,Antetokounmpo OFF.Foul (P2) (C.Kirkland),Foul,Offensive,1,306
+41600125,344,PT02M04.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,v,Antetokounmpo Foul Turnover (P2.T11),Turnover,Foul,1,307
+41600125,345,PT01M52.00S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,19,21,3,Made,1,83.0,69.0,152,h,DeRozan 3' Driving Finger Roll Layup (13 PTS),Made Shot,Driving Finger Roll Layup Shot,1,308
+41600125,346,PT01M34.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,v,Middleton Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,309
+41600125,346,PT01M34.00S,3,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,0.0,0.0,0,h,Powell STEAL (2 STL),,,1,310
+41600125,347,PT01M31.00S,3,1610612749,MIL,203503,Snell,T. Snell,0,0,0,,0,0.0,0.0,0,v,Snell S.FOUL (P2.PN) (J.Capers),Foul,Shooting,1,311
+41600125,348,PT01M31.00S,3,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,84.0,69.0,153,h,Powell Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,312
+41600125,350,PT01M31.00S,3,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,85.0,69.0,154,h,Powell Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,313
+41600125,352,PT01M16.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-119,183,22,Missed,1,0.0,0.0,0,v,MISS Antetokounmpo 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,314
+41600125,353,PT01M16.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0.0,0.0,0,h,Valanciunas REBOUND (Off:0 Def:4),Rebound,Unknown,1,315
+41600125,354,PT01M09.00S,3,1610612761,TOR,1626181,Powell,N. Powell,-27,51,6,Made,1,87.0,69.0,156,h,Powell 6' No Shot (21 PTS) (DeRozan 5 AST),Made Shot                               , ,1,316
+41600125,355,PT01M09.00S,3,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,v,Bucks Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,317
+41600125,358,PT00M51.60S,3,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,v,Monroe Lost Ball Turnover (P4.T13),Turnover,Lost Ball,1,318
+41600125,358,PT00M51.60S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0.0,0.0,0,h,DeRozan STEAL (1 STL),,,1,319
+41600125,359,PT00M43.60S,3,1610612761,TOR,202709,Joseph,C. Joseph,-129,208,24,Made,1,90.0,69.0,159,h,Joseph 24' 3PT Jump Shot (8 PTS) (Powell 3 AST),Made Shot,Jump Shot,1,320
+41600125,360,PT00M29.40S,3,1610612749,MIL,202328,Monroe,G. Monroe,10,51,5,Made,1,90.0,71.0,161,v,Monroe 5' Turnaround Hook Shot (11 PTS) (Dellavedova 2 AST),Made Shot,Turnaround Hook Shot,1,321
+41600125,361,PT00M09.40S,3,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0.0,0.0,0,h,DeRozan Bad Pass Turnover (P3.T13),Turnover,Bad Pass,1,322
+41600125,361,PT00M09.40S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,v,Middleton STEAL (4 STL),,,1,323
+41600125,362,PT00M05.40S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,1,0,Made,1,90.0,73.0,163,v,Middleton  Running Dunk (8 PTS),Made Shot,Running Dunk Shot,1,324
+41600125,363,PT00M00.00S,3,1610612761,TOR,202709,Joseph,C. Joseph,125,228,26,Missed,1,0.0,0.0,0,h,MISS Joseph 26' 3PT No Shot,Missed Shot                             , ,1,325
+41600125,364,PT00M00.00S,3,0,,1610612761,,,0,0,0,,0,0.0,0.0,0,h,RAPTORS Rebound,Rebound,Unknown,0,326
+41600125,365,PT00M00.00S,3,0,,0,,,0,0,0,,0,90.0,73.0,163,,End of 3rd Period (9:00 PM EST),period,end,0,327
+41600125,367,PT12M00.00S,4,0,,0,,,0,0,0,,0,90.0,73.0,163,,Start of 4th Period (9:04 PM EST),period,start,0,328
+41600125,368,PT11M38.00S,4,1610612761,TOR,202709,Joseph,C. Joseph,209,56,22,Made,1,92.0,73.0,165,h,Joseph 22' Step Back Jump Shot (10 PTS) (Lowry 8 AST),Made Shot,Step Back Jump shot,1,329
+41600125,369,PT11M14.00S,4,1610612749,MIL,203521,Dellavedova,M. Dellavedova,-107,223,25,Missed,1,0.0,0.0,0,v,MISS Dellavedova 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,330
+41600125,370,PT11M14.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0.0,0.0,0,h,Valanciunas REBOUND (Off:0 Def:5),Rebound,Unknown,1,331
+41600125,371,PT11M03.00S,4,1610612761,TOR,200782,Tucker,P. Tucker,-89,224,24,Missed,1,0.0,0.0,0,h,MISS Tucker 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,332
+41600125,372,PT11M02.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,v,Antetokounmpo REBOUND (Off:0 Def:7),Rebound,Unknown,1,333
+41600125,373,PT10M46.00S,4,1610612749,MIL,1627763,Brogdon,M. Brogdon,-223,7,0,Made,1,92.0,76.0,168,v,Brogdon  3PT Jump Shot (14 PTS) (Middleton 4 AST),Made Shot,Jump Shot,1,334
+41600125,374,PT10M26.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,155,198,25,Missed,1,0.0,0.0,0,h,MISS Lowry 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,335
+41600125,375,PT10M26.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,v,Antetokounmpo REBOUND (Off:0 Def:8),Rebound,Unknown,1,336
+41600125,376,PT10M24.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,h,Lowry P.FOUL (P4.T1) (C.Kirkland),Foul,Personal,1,337
+41600125,377,PT10M24.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,h,SUB: Powell FOR Lowry,Substitution,,0,338
+41600125,378,PT10M11.00S,4,1610612749,MIL,1627763,Brogdon,M. Brogdon,-135,136,19,Made,1,92.0,78.0,170,v,Brogdon 19' Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,1,339
+41600125,379,PT09M45.00S,4,1610612761,TOR,202335,Patterson,P. Patterson,232,-16,0,Missed,1,0.0,0.0,0,h,MISS Patterson  3PT Jump Shot,Missed Shot,Jump Shot,1,340
+41600125,380,PT09M45.00S,4,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,v,Monroe REBOUND (Off:0 Def:2),Rebound,Unknown,1,341
+41600125,381,PT09M36.00S,4,1610612749,MIL,1627763,Brogdon,M. Brogdon,-27,17,3,Missed,1,0.0,0.0,0,v,MISS Brogdon 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,342
+41600125,382,PT09M36.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0.0,0.0,0,h,Valanciunas REBOUND (Off:0 Def:6),Rebound,Unknown,1,343
+41600125,383,PT09M36.00S,4,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,v,Monroe P.FOUL (P2.T1) (J.Capers),Foul,Personal,1,344
+41600125,384,PT09M36.00S,4,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,0.0,0.0,0,h,SUB: Lowry FOR Powell,Substitution,,0,345
+41600125,386,PT09M19.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,v,Antetokounmpo S.FOUL (P3.T2) (C.Kirkland),Foul,Shooting,1,346
+41600125,387,PT09M19.00S,4,1610612761,TOR,200782,Tucker,P. Tucker,0,0,0,,0,93.0,78.0,171,h,Tucker Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,347
+41600125,389,PT09M19.00S,4,1610612761,TOR,200782,Tucker,P. Tucker,0,0,0,,0,94.0,78.0,172,h,Tucker Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,348
+41600125,391,PT09M07.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,1,0,Made,1,94.0,80.0,174,v,Antetokounmpo  No Shot (24 PTS) (Brogdon 2 AST),Made Shot                               , ,1,349
+41600125,392,PT08M57.00S,4,1610612749,MIL,203521,Dellavedova,M. Dellavedova,0,0,0,,0,0.0,0.0,0,v,Dellavedova P.FOUL (P1.T3) (C.Kirkland),Foul,Personal,1,350
+41600125,393,PT08M57.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,351
+41600125,395,PT08M57.00S,4,1610612749,MIL,202328,Monroe,G. Monroe,0,0,0,,0,0.0,0.0,0,v,SUB: Maker FOR Monroe,Substitution,,0,352
+41600125,396,PT08M46.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,27,2,3,Made,1,96.0,80.0,176,h,Valanciunas 3' No Shot (5 PTS) (Lowry 9 AST),Made Shot                               , ,1,353
+41600125,397,PT08M46.00S,4,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,0.0,0.0,0,v,Brogdon S.FOUL (P5.T4) (J.Capers),Foul,Shooting,1,354
+41600125,398,PT08M46.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,97.0,80.0,177,h,Valanciunas Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,355
+41600125,400,PT08M25.00S,4,1610612749,MIL,1627763,Brogdon,M. Brogdon,230,-1,0,Made,1,97.0,83.0,180,v,Brogdon  3PT Jump Shot (19 PTS) (Middleton 5 AST),Made Shot,Jump Shot,1,356
+41600125,401,PT08M00.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,1,0,Made,1,99.0,83.0,182,h,Valanciunas  Driving Dunk (8 PTS) (Tucker 2 AST),Made Shot,Driving Dunk Shot,1,357
+41600125,402,PT07M47.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0.0,0.0,0,h,Valanciunas Personal Block Foul (P3.T2) (C.Kirkland),Foul,Personal Block,1,358
+41600125,403,PT07M47.00S,4,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,0.0,0.0,0,v,SUB: Snell FOR Brogdon,Substitution,,0,359
+41600125,404,PT07M37.00S,4,1610612749,MIL,1627748,Maker,T. Maker,241,-6,24,Missed,1,0.0,0.0,0,v,MISS Maker 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,360
+41600125,405,PT07M36.00S,4,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,0.0,0.0,0,h,Joseph REBOUND (Off:1 Def:2),Rebound,Unknown,1,361
+41600125,406,PT07M25.00S,4,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,0.0,0.0,0,h,Joseph Bad Pass Turnover (P1.T14),Turnover,Bad Pass,1,362
+41600125,406,PT07M25.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,v,Middleton STEAL (5 STL),,,1,363
+41600125,407,PT07M19.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,20,-6,2,Made,1,99.0,85.0,184,v,Antetokounmpo 2' Running Layup (26 PTS) (Middleton 6 AST),Made Shot,Running Layup Shot,1,364
+41600125,408,PT07M05.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,v,Antetokounmpo Personal Block Foul (P4.PN) (P.Fraher),Foul,Personal Block,1,365
+41600125,409,PT07M05.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,100.0,85.0,185,h,Lowry Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,366
+41600125,411,PT07M05.00S,4,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,0.0,0.0,0,h,SUB: DeRozan FOR Joseph,Substitution,,0,367
+41600125,412,PT07M05.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,101.0,85.0,186,h,Lowry Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,368
+41600125,415,PT06M44.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,-78,129,15,Missed,1,0.0,0.0,0,v,MISS Middleton 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,369
+41600125,416,PT06M44.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0.0,0.0,0,h,Valanciunas REBOUND (Off:0 Def:7),Rebound,Unknown,1,370
+41600125,417,PT06M39.00S,4,1610612749,MIL,1627748,Maker,T. Maker,0,0,0,,0,0.0,0.0,0,v,Maker Personal Block Foul (P3.PN) (J.Capers),Foul,Personal Block,1,371
+41600125,418,PT06M39.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,102.0,85.0,187,h,Lowry Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,372
+41600125,420,PT06M39.00S,4,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,0.0,0.0,0,h,SUB: Powell FOR Patterson,Substitution,,0,373
+41600125,421,PT06M39.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,103.0,85.0,188,h,Lowry Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,374
+41600125,423,PT06M16.00S,4,1610612749,MIL,203521,Dellavedova,M. Dellavedova,20,56,6,Missed,1,0.0,0.0,0,v,MISS Dellavedova 6' No Shot,Missed Shot                             , ,1,375
+41600125,424,PT06M15.00S,4,1610612761,TOR,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,h,Tucker REBOUND (Off:0 Def:4),Rebound,Unknown,1,376
+41600125,426,PT06M09.00S,4,0,,1610612761,,,0,0,0,,0,0.0,0.0,0,h,RAPTORS Timeout: Regular (Full 5 Short 1),Timeout,Regular,0,377
+41600125,428,PT06M09.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0.0,0.0,0,v,SUB: Brogdon FOR Middleton,Substitution,,0,378
+41600125,429,PT05M59.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,110,36,12,Missed,1,0.0,0.0,0,h,MISS Valanciunas 12' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,379
+41600125,430,PT05M58.00S,4,1610612761,TOR,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,h,Tucker REBOUND (Off:1 Def:4),Rebound,Unknown,1,380
+41600125,432,PT05M56.00S,4,1610612761,TOR,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,h,Tucker Poss Lost Ball Turnover (P1.T15),Turnover,Poss Lost Ball Turnover,1,381
+41600125,432,PT05M56.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,v,Antetokounmpo STEAL (3 STL),,,1,382
+41600125,431,PT05M54.00S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0.0,0.0,0,h,DeRozan S.FOUL (P2.T3) (J.Capers),Foul,Shooting,1,383
+41600125,433,PT05M54.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,103.0,86.0,189,v,Antetokounmpo Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,0,384
+41600125,435,PT05M54.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,103.0,87.0,190,v,Antetokounmpo Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,0,385
+41600125,438,PT05M32.00S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,158,149,22,Made,1,105.0,87.0,192,h,DeRozan 22' Step Back Jump Shot (15 PTS),Made Shot,Step Back Jump shot,1,386
+41600125,439,PT05M17.00S,4,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,0.0,0.0,0,h,Powell P.FOUL (P2.T4) (P.Fraher),Foul,Personal,1,387
+41600125,440,PT05M17.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0.0,0.0,0,h,SUB: Ibaka FOR Valanciunas,Substitution,,0,388
+41600125,441,PT05M06.00S,4,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,0.0,0.0,0,h,Powell S.FOUL (P3.PN) (C.Kirkland),Foul,Shooting,1,389
+41600125,442,PT05M06.00S,4,1610612749,MIL,203521,Dellavedova,M. Dellavedova,0,0,0,,0,105.0,88.0,193,v,Dellavedova Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,390
+41600125,444,PT05M06.00S,4,1610612749,MIL,203521,Dellavedova,M. Dellavedova,0,0,0,,0,0.0,0.0,0,v,MISS Dellavedova Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,391
+41600125,446,PT05M05.00S,4,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,Ibaka REBOUND (Off:0 Def:6),Rebound,Unknown,1,392
+41600125,447,PT04M42.00S,4,1610612761,TOR,1626181,Powell,N. Powell,0,1,0,Made,1,107.0,88.0,195,h,Powell  Driving Dunk (23 PTS) (DeRozan 6 AST),Made Shot,Driving Dunk Shot,1,393
+41600125,448,PT04M25.00S,4,1610612749,MIL,1627763,Brogdon,M. Brogdon,-6,13,1,Missed,1,0.0,0.0,0,v,MISS Brogdon 1' Driving Layup,Missed Shot,Driving Layup Shot,1,394
+41600125,449,PT04M25.00S,4,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,v,Bucks Rebound,Rebound,Unknown,0,395
+41600125,450,PT04M25.00S,4,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,Ibaka L.B.FOUL (P4.PN) (P.Fraher),Foul,Loose Ball,1,396
+41600125,451,PT04M25.00S,4,1610612749,MIL,1627748,Maker,T. Maker,0,0,0,,0,0.0,0.0,0,v,MISS Maker Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,397
+41600125,452,PT04M25.00S,4,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,v,Bucks Rebound,Rebound,Normal Rebound,0,398
+41600125,453,PT04M25.00S,4,1610612749,MIL,1627748,Maker,T. Maker,0,0,0,,0,0.0,0.0,0,v,MISS Maker Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,399
+41600125,455,PT04M24.00S,4,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,0.0,0.0,0,h,Powell REBOUND (Off:0 Def:4),Rebound,Unknown,1,400
+41600125,456,PT04M00.00S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,89,3,9,Missed,1,0.0,0.0,0,h,MISS DeRozan 9' No Shot,Missed Shot                             , ,1,401
+41600125,457,PT03M58.00S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0.0,0.0,0,h,DeRozan REBOUND (Off:1 Def:2),Rebound,Unknown,1,402
+41600125,458,PT03M56.00S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0.0,0.0,0,h,DeRozan OFF.Foul (P3) (P.Fraher),Foul,Offensive,1,403
+41600125,459,PT03M56.00S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0.0,0.0,0,h,DeRozan Foul Turnover (P4.T16),Turnover,Foul,1,404
+41600125,460,PT03M43.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,30,8,3,Made,1,107.0,90.0,197,v,Antetokounmpo 3' Driving Layup (30 PTS) (Snell 2 AST),Made Shot,Driving Layup Shot,1,405
+41600125,461,PT03M15.00S,4,1610612761,TOR,201586,Ibaka,S. Ibaka,33,7,3,Made,1,109.0,90.0,199,h,Ibaka 3' Jump Shot (18 PTS) (Lowry 10 AST),Made Shot,Jump Shot,1,406
+41600125,462,PT03M15.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,v,Antetokounmpo S.FOUL (P5.PN) (P.Fraher),Foul,Shooting,1,407
+41600125,463,PT03M15.00S,4,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,110.0,90.0,200,h,Ibaka Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,0,408
+41600125,465,PT03M09.00S,4,1610612749,MIL,203521,Dellavedova,M. Dellavedova,0,0,0,,0,0.0,0.0,0,v,Dellavedova Lost Ball Turnover (P1.T14),Turnover,Lost Ball,1,409
+41600125,465,PT03M09.00S,4,1610612761,TOR,1626181,Powell,N. Powell,0,0,0,,0,0.0,0.0,0,h,Powell STEAL (3 STL),,,1,410
+41600125,466,PT02M46.00S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,232,92,25,Made,1,113.0,90.0,203,h,DeRozan 25' 3PT Jump Shot (18 PTS) (Ibaka 3 AST),Made Shot,Jump Shot,1,411
+41600125,467,PT02M46.00S,4,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,v,Bucks Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,412
+41600125,469,PT02M46.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0.0,0.0,0,v,SUB: Teletovic FOR Antetokounmpo,Substitution,,0,413
+41600125,470,PT02M46.00S,4,1610612749,MIL,1627748,Maker,T. Maker,0,0,0,,0,0.0,0.0,0,v,SUB: Vaughn FOR Maker,Substitution,,0,414
+41600125,471,PT02M46.00S,4,1610612749,MIL,203503,Snell,T. Snell,0,0,0,,0,0.0,0.0,0,v,SUB: Henson FOR Snell,Substitution,,0,415
+41600125,472,PT02M46.00S,4,1610612749,MIL,203521,Dellavedova,M. Dellavedova,0,0,0,,0,0.0,0.0,0,v,SUB: Beasley FOR Dellavedova,Substitution,,0,416
+41600125,473,PT02M46.00S,4,1610612761,TOR,201942,DeRozan,D. DeRozan,0,0,0,,0,0.0,0.0,0,h,SUB: Joseph FOR DeRozan,Substitution,,0,417
+41600125,474,PT02M46.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,0.0,0.0,0,h,SUB: Wright FOR Lowry,Substitution,,0,418
+41600125,475,PT02M34.00S,4,1610612761,TOR,1626153,Wright,D. Wright,0,0,0,,0,0.0,0.0,0,h,Wright P.FOUL (P1.PN) (P.Fraher),Foul,Personal,1,419
+41600125,476,PT02M34.00S,4,1610612749,MIL,201563,Beasley,M. Beasley,0,0,0,,0,0.0,0.0,0,v,MISS Beasley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,420
+41600125,477,PT02M34.00S,4,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,v,Bucks Rebound,Rebound,Normal Rebound,0,421
+41600125,478,PT02M34.00S,4,1610612761,TOR,202709,Joseph,C. Joseph,0,0,0,,0,0.0,0.0,0,h,SUB: VanVleet FOR Joseph,Substitution,,0,422
+41600125,479,PT02M34.00S,4,1610612749,MIL,201563,Beasley,M. Beasley,0,0,0,,0,0.0,0.0,0,v,MISS Beasley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,423
+41600125,481,PT02M33.00S,4,1610612761,TOR,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,h,Tucker REBOUND (Off:1 Def:5),Rebound,Unknown,1,424
+41600125,482,PT02M11.00S,4,1610612761,TOR,200782,Tucker,P. Tucker,187,36,19,Missed,1,0.0,0.0,0,h,MISS Tucker 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,425
+41600125,483,PT02M10.00S,4,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,0.0,0.0,0,v,Brogdon REBOUND (Off:0 Def:2),Rebound,Unknown,1,426
+41600125,484,PT01M55.00S,4,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,0.0,0.0,0,v,Henson No Turnover (P1.T15),Turnover                                , ,1,427
+41600125,485,PT01M55.00S,4,1610612761,TOR,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,h,SUB: Nogueira FOR Ibaka,Substitution,,0,428
+41600125,486,PT01M55.00S,4,1610612761,TOR,200782,Tucker,P. Tucker,0,0,0,,0,0.0,0.0,0,h,SUB: Poeltl FOR Tucker,Substitution,,0,429
+41600125,487,PT01M36.00S,4,1610612761,TOR,1626153,Wright,D. Wright,0,0,0,,0,0.0,0.0,0,h,Wright Traveling Turnover (P1.T17),Turnover,Traveling,1,430
+41600125,488,PT01M29.00S,4,1610612761,TOR,203512,Nogueira,L. Nogueira,0,0,0,,0,0.0,0.0,0,h,Nogueira Violation:Kicked Ball (P.Fraher),Violation,Kicked Ball,0,431
+41600125,490,PT01M22.00S,4,1610612749,MIL,1626173,Vaughn,R. Vaughn,169,90,19,Missed,1,0.0,0.0,0,v,MISS Vaughn 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,432
+41600125,491,PT01M21.00S,4,1610612761,TOR,203512,Nogueira,L. Nogueira,0,0,0,,0,0.0,0.0,0,h,Nogueira REBOUND (Off:0 Def:1),Rebound,Unknown,1,433
+41600125,492,PT01M05.00S,4,1610612761,TOR,1627832,VanVleet,F. VanVleet,-227,2,0,Made,1,116.0,90.0,206,h,VanVleet  3PT Jump Shot (3 PTS) (Powell 4 AST),Made Shot,Jump Shot,1,434
+41600125,494,PT00M46.90S,4,1610612749,MIL,203089,Henson,J. Henson,22,16,3,Missed,1,0.0,0.0,0,v,MISS Henson 3' Hook Shot,Missed Shot,Hook Shot,1,435
+41600125,495,PT00M46.70S,4,1610612761,TOR,203512,Nogueira,L. Nogueira,0,0,0,,0,0.0,0.0,0,h,Nogueira REBOUND (Off:0 Def:2),Rebound,Unknown,1,436
+41600125,496,PT00M36.40S,4,1610612761,TOR,1626181,Powell,N. Powell,0,1,0,Made,1,118.0,90.0,208,h,Powell  No Shot (25 PTS) (VanVleet 1 AST),Made Shot                               , ,1,437
+41600125,497,PT00M26.10S,4,1610612749,MIL,203089,Henson,J. Henson,9,38,4,Made,1,118.0,92.0,210,v,Henson 4' Turnaround Hook Shot (2 PTS) (Brogdon 3 AST),Made Shot,Turnaround Hook Shot,1,438
+41600125,498,PT00M26.10S,4,1610612761,TOR,203512,Nogueira,L. Nogueira,0,0,0,,0,0.0,0.0,0,h,Nogueira S.FOUL (P1.PN) (C.Kirkland),Foul,Shooting,1,439
+41600125,499,PT00M26.10S,4,1610612749,MIL,203089,Henson,J. Henson,0,0,0,,0,118.0,93.0,211,v,Henson Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,440
+41600125,501,PT00M02.10S,4,0,,1610612761,,,0,0,0,,0,0.0,0.0,0,h,RAPTORS Turnover: Shot Clock (T#18),Turnover,Shot Clock Turnover,0,441
+41600125,502,PT00M00.00S,4,0,,0,,,0,0,0,,0,118.0,93.0,211,,End of 4th Period (9:37 PM EST),period,end,1,442

@@ -1,0 +1,524 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+20000431,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (7:08 AM EST),period,start,0,1
+20000431,1,PT12M00.00S,1,1610612742,DAL,762,Bradley,S. Bradley,0,0,0,,0,0.0,0.0,0,h,Jump Ball Bradley vs. Olajuwon: Tip to Nash,Jump Ball,,0,2
+20000431,2,PT11M49.00S,1,1610612742,DAL,714,Finley,M. Finley,3,116,12,Missed,1,0.0,0.0,0,h,MISS Finley 12' Jump Shot,Missed Shot,Jump Shot,0,3
+20000431,3,PT11M46.00S,1,1610612745,HOU,1883,Francis,S. Francis,0,0,0,,0,0.0,0.0,0,v,Francis REBOUND (Off:0 Def:1),Rebound,Unknown,0,4
+20000431,4,PT11M30.00S,1,1610612745,HOU,1000,Anderson,S. Anderson,3,116,12,Missed,1,0.0,0.0,0,v,MISS Anderson 12' Jump Shot,Missed Shot,Jump Shot,0,5
+20000431,5,PT11M27.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki REBOUND (Off:0 Def:1),Rebound,Unknown,0,6
+20000431,6,PT11M23.00S,1,1610612742,DAL,959,Nash,S. Nash,0,0,0,,0,0.0,0.0,0,h,Nash Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,7
+20000431,6,PT11M23.00S,1,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson STEAL (1 STL),,,0,8
+20000431,7,PT11M02.00S,1,1610612745,HOU,165,Olajuwon,H. Olajuwon,125,66,14,Missed,1,0.0,0.0,0,v,MISS Olajuwon 14' Jump Shot,Missed Shot,Jump Shot,0,9
+20000431,8,PT11M02.00S,1,1610612745,HOU,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,v,Taylor REBOUND (Off:1 Def:0),Rebound,Unknown,0,10
+20000431,9,PT11M02.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki L.B.FOUL (P1.T1),Foul,Loose Ball,0,11
+20000431,10,PT10M52.00S,1,1610612745,HOU,1508,Taylor,M. Taylor,-130,110,17,Made,1,0.0,2.0,2,v,Taylor 17' Jump Shot (2 PTS) (Francis 1 AST),Made Shot,Jump Shot,0,12
+20000431,11,PT10M37.00S,1,1610612742,DAL,959,Nash,S. Nash,-94,167,19,Missed,1,0.0,0.0,0,h,MISS Nash 19' Jump Shot,Missed Shot,Jump Shot,0,13
+20000431,12,PT10M35.00S,1,1610612745,HOU,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,v,Taylor REBOUND (Off:1 Def:1),Rebound,Unknown,0,14
+20000431,13,PT10M28.00S,1,1610612745,HOU,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,v,Taylor OFF.Foul (P1),Foul,Offensive,0,15
+20000431,14,PT10M28.00S,1,1610612745,HOU,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,v,Taylor Foul Turnover (P1.T1),Turnover,Foul,0,16
+20000431,15,PT10M18.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-105,158,19,Missed,1,0.0,0.0,0,h,MISS Nowitzki 19' Jump Shot,Missed Shot,Jump Shot,0,17
+20000431,16,PT10M16.00S,1,1610612745,HOU,1883,Francis,S. Francis,0,0,0,,0,0.0,0.0,0,v,Francis REBOUND (Off:0 Def:2),Rebound,Unknown,0,18
+20000431,17,PT10M11.00S,1,1610612745,HOU,1883,Francis,S. Francis,-151,194,25,Missed,1,0.0,0.0,0,v,MISS Francis 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,19
+20000431,18,PT10M09.00S,1,1610612742,DAL,959,Nash,S. Nash,0,0,0,,0,0.0,0.0,0,h,Nash REBOUND (Off:0 Def:1),Rebound,Unknown,0,20
+20000431,19,PT10M01.00S,1,1610612742,DAL,762,Bradley,S. Bradley,-1,156,16,Missed,1,0.0,0.0,0,h,MISS Bradley 16' Jump Shot,Missed Shot,Jump Shot,0,21
+20000431,20,PT09M59.00S,1,1610612745,HOU,1883,Francis,S. Francis,0,0,0,,0,0.0,0.0,0,v,Francis REBOUND (Off:0 Def:3),Rebound,Unknown,0,22
+20000431,21,PT09M46.00S,1,1610612745,HOU,983,Norris,M. Norris,-223,59,0,Made,1,0.0,5.0,5,v,Norris  3PT Jump Shot (3 PTS) (Anderson 1 AST),Made Shot,Jump Shot,0,23
+20000431,22,PT09M35.00S,1,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,0.0,0.0,0,h,Finley Traveling Turnover (P1.T2),Turnover,Traveling,0,24
+20000431,23,PT09M16.00S,1,1610612745,HOU,1883,Francis,S. Francis,-136,207,25,Made,1,0.0,8.0,8,v,Francis 25' 3PT Jump Shot (3 PTS) (Olajuwon 1 AST),Made Shot,Jump Shot,0,25
+20000431,24,PT09M04.00S,1,1610612742,DAL,458,Eisley,H. Eisley,104,144,18,Made,1,2.0,8.0,10,h,Eisley 18' Jump Shot (2 PTS),Made Shot,Jump Shot,0,26
+20000431,26,PT08M41.00S,1,1610612745,HOU,1000,Anderson,S. Anderson,-229,26,0,Missed,1,0.0,0.0,0,v,MISS Anderson  3PT Jump Shot,Missed Shot,Jump Shot,0,27
+20000431,27,PT08M38.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki REBOUND (Off:0 Def:2),Rebound,Unknown,0,28
+20000431,28,PT08M32.00S,1,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson S.FOUL (P1.T1),Foul,Shooting,0,29
+20000431,29,PT08M32.00S,1,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,3.0,8.0,11,h,Finley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,30
+20000431,30,PT08M32.00S,1,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,4.0,8.0,12,h,Finley Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,31
+20000431,31,PT08M19.00S,1,1610612742,DAL,458,Eisley,H. Eisley,0,0,0,,0,0.0,0.0,0,h,Eisley S.FOUL (P1.T2),Foul,Shooting,0,32
+20000431,32,PT08M19.00S,1,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,,0,4.0,9.0,13,v,Anderson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,33
+20000431,33,PT08M19.00S,1,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,,0,4.0,10.0,14,v,Anderson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,34
+20000431,34,PT08M03.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-157,49,16,Missed,1,0.0,0.0,0,h,MISS Nowitzki 16' Jump Shot,Missed Shot,Jump Shot,0,35
+20000431,35,PT08M01.00S,1,1610612745,HOU,983,Norris,M. Norris,0,0,0,,0,0.0,0.0,0,v,Norris REBOUND (Off:0 Def:1),Rebound,Unknown,0,36
+20000431,36,PT07M51.00S,1,1610612745,HOU,1000,Anderson,S. Anderson,-136,-6,14,Missed,1,0.0,0.0,0,v,MISS Anderson 14' Jump Shot,Missed Shot,Jump Shot,0,37
+20000431,37,PT07M49.00S,1,1610612745,HOU,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,v,Taylor REBOUND (Off:2 Def:1),Rebound,Unknown,0,38
+20000431,38,PT07M47.00S,1,1610612745,HOU,1508,Taylor,M. Taylor,47,19,5,Missed,1,0.0,0.0,0,v,MISS Taylor 5' Jump Shot,Missed Shot,Jump Shot,0,39
+20000431,40,PT07M44.00S,1,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,Olajuwon REBOUND (Off:1 Def:0),Rebound,Unknown,0,40
+20000431,39,PT07M44.00S,1,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,Made,1,4.0,12.0,16,v,Olajuwon  Tip Shot (2 PTS),Made Shot,Tip Shot,0,41
+20000431,41,PT07M40.00S,1,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,42
+20000431,42,PT07M24.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-124,19,13,Missed,1,0.0,0.0,0,h,MISS Nowitzki 13' Jump Shot,Missed Shot,Jump Shot,0,43
+20000431,43,PT07M22.00S,1,1610612745,HOU,1883,Francis,S. Francis,0,0,0,,0,0.0,0.0,0,v,Francis REBOUND (Off:0 Def:4),Rebound,Unknown,0,44
+20000431,44,PT07M03.00S,1,1610612745,HOU,165,Olajuwon,H. Olajuwon,-50,160,17,Missed,1,0.0,0.0,0,v,MISS Olajuwon 17' Jump Shot,Missed Shot,Jump Shot,0,45
+20000431,45,PT07M00.00S,1,1610612742,DAL,762,Bradley,S. Bradley,0,0,0,,0,0.0,0.0,0,h,Bradley REBOUND (Off:0 Def:1),Rebound,Unknown,0,46
+20000431,46,PT06M40.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-1,194,19,Made,1,6.0,12.0,18,h,Nowitzki 19' Jump Shot (2 PTS) (Nash 1 AST),Made Shot,Jump Shot,0,47
+20000431,47,PT06M16.00S,1,1610612745,HOU,1508,Taylor,M. Taylor,0,0,0,Made,1,6.0,14.0,20,v,Taylor  Layup (4 PTS) (Francis 2 AST),Made Shot,Layup Shot,0,48
+20000431,48,PT06M07.00S,1,1610612742,DAL,458,Eisley,H. Eisley,0,0,0,,0,0.0,0.0,0,h,Eisley Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,49
+20000431,48,PT06M07.00S,1,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson STEAL (2 STL),,,0,50
+20000431,49,PT05M58.00S,1,1610612745,HOU,165,Olajuwon,H. Olajuwon,-1,156,16,Made,1,6.0,16.0,22,v,Olajuwon 16' Jump Shot (4 PTS) (Anderson 2 AST),Made Shot,Jump Shot,0,51
+20000431,50,PT05M43.00S,1,1610612742,DAL,714,Finley,M. Finley,0,0,0,Made,1,8.0,16.0,24,h,Finley  Alley Oop Layup (4 PTS) (Eisley 1 AST),Made Shot,Alley Oop Layup shot,0,52
+20000431,51,PT05M23.00S,1,1610612745,HOU,165,Olajuwon,H. Olajuwon,-71,144,16,Missed,1,0.0,0.0,0,v,MISS Olajuwon 16' Jump Shot,Missed Shot,Jump Shot,0,53
+20000431,52,PT05M21.00S,1,1610612742,DAL,762,Bradley,S. Bradley,0,0,0,,0,0.0,0.0,0,h,Bradley REBOUND (Off:0 Def:2),Rebound,Unknown,0,54
+20000431,53,PT05M09.00S,1,1610612742,DAL,959,Nash,S. Nash,191,160,25,Missed,1,0.0,0.0,0,h,MISS Nash 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,55
+20000431,54,PT05M05.00S,1,1610612745,HOU,983,Norris,M. Norris,0,0,0,,0,0.0,0.0,0,v,Norris REBOUND (Off:0 Def:2),Rebound,Unknown,0,56
+20000431,55,PT04M57.00S,1,1610612745,HOU,1883,Francis,S. Francis,-178,171,25,Missed,1,0.0,0.0,0,v,MISS Francis 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,57
+20000431,56,PT04M55.00S,1,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,0.0,0.0,0,h,Finley REBOUND (Off:0 Def:1),Rebound,Unknown,0,58
+20000431,57,PT04M48.00S,1,1610612742,DAL,959,Nash,S. Nash,-1,76,8,Made,1,10.0,16.0,26,h,Nash 8' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,0,59
+20000431,58,PT04M24.00S,1,1610612745,HOU,983,Norris,M. Norris,-94,-6,9,Missed,1,0.0,0.0,0,v,MISS Norris 9' Jump Shot,Missed Shot,Jump Shot,0,60
+20000431,59,PT04M23.00S,1,1610612742,DAL,458,Eisley,H. Eisley,0,0,0,,0,0.0,0.0,0,h,Eisley REBOUND (Off:0 Def:1),Rebound,Unknown,0,61
+20000431,60,PT04M23.00S,1,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,Olajuwon L.B.FOUL (P1.T2),Foul,Loose Ball,0,62
+20000431,61,PT04M23.00S,1,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,SUB: Thomas FOR Olajuwon,Substitution,,0,63
+20000431,62,PT04M11.00S,1,1610612742,DAL,714,Finley,M. Finley,-1,160,16,Missed,1,0.0,0.0,0,h,MISS Finley 16' Jump Shot,Missed Shot,Jump Shot,0,64
+20000431,63,PT04M09.00S,1,1610612745,HOU,1883,Francis,S. Francis,0,0,0,,0,0.0,0.0,0,v,Francis REBOUND (Off:0 Def:5),Rebound,Unknown,0,65
+20000431,64,PT04M00.00S,1,1610612745,HOU,1508,Taylor,M. Taylor,-8,184,18,Made,1,10.0,18.0,28,v,Taylor 18' Jump Shot (6 PTS) (Francis 3 AST),Made Shot,Jump Shot,0,66
+20000431,65,PT03M47.00S,1,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,0.0,0.0,0,h,Finley Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,67
+20000431,65,PT03M47.00S,1,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson STEAL (3 STL),,,0,68
+20000431,66,PT03M41.00S,1,1610612745,HOU,1903,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,v,Thomas Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,69
+20000431,66,PT03M41.00S,1,1610612742,DAL,959,Nash,S. Nash,0,0,0,,0,0.0,0.0,0,h,Nash STEAL (1 STL),,,0,70
+20000431,67,PT03M41.00S,1,1610612745,HOU,1883,Francis,S. Francis,0,0,0,,0,0.0,0.0,0,v,Francis P.FOUL (P1.T3),Foul,Personal,0,71
+20000431,68,PT03M41.00S,1,1610612742,DAL,762,Bradley,S. Bradley,0,0,0,,0,0.0,0.0,0,h,SUB: Laettner FOR Bradley,Substitution,,0,72
+20000431,69,PT03M41.00S,1,1610612745,HOU,983,Norris,M. Norris,0,0,0,,0,0.0,0.0,0,v,SUB: Mobley FOR Norris,Substitution,,0,73
+20000431,70,PT03M29.00S,1,1610612742,DAL,714,Finley,M. Finley,-151,87,17,Made,1,12.0,18.0,30,h,Finley 17' Jump Shot (6 PTS) (Nash 2 AST),Made Shot,Jump Shot,0,74
+20000431,71,PT03M13.00S,1,1610612745,HOU,1903,Thomas,K. Thomas,-23,42,5,Missed,1,0.0,0.0,0,v,MISS Thomas 5' Jump Shot,Missed Shot,Jump Shot,0,75
+20000431,72,PT03M12.00S,1,1610612742,DAL,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,h,Laettner REBOUND (Off:0 Def:1),Rebound,Unknown,0,76
+20000431,73,PT03M03.00S,1,1610612742,DAL,714,Finley,M. Finley,-58,49,8,Missed,1,0.0,0.0,0,h,MISS Finley 8' Jump Shot,Missed Shot,Jump Shot,0,77
+20000431,74,PT03M01.00S,1,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,0.0,0.0,0,h,Finley REBOUND (Off:1 Def:1),Rebound,Unknown,0,78
+20000431,75,PT02M48.00S,1,1610612742,DAL,959,Nash,S. Nash,-65,133,15,Missed,1,0.0,0.0,0,h,MISS Nash 15' Jump Shot,Missed Shot,Jump Shot,0,79
+20000431,76,PT02M46.00S,1,1610612745,HOU,1883,Francis,S. Francis,0,0,0,,0,0.0,0.0,0,v,Francis REBOUND (Off:0 Def:6),Rebound,Unknown,0,80
+20000431,77,PT02M26.00S,1,1610612745,HOU,1508,Taylor,M. Taylor,-136,167,22,Missed,1,0.0,0.0,0,v,MISS Taylor 22' Jump Shot,Missed Shot,Jump Shot,0,81
+20000431,79,PT02M23.00S,1,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson REBOUND (Off:1 Def:0),Rebound,Unknown,0,82
+20000431,78,PT02M23.00S,1,1610612745,HOU,1000,Anderson,S. Anderson,11,26,3,Missed,1,0.0,0.0,0,v,MISS Anderson 3' Jump Shot,Missed Shot,Jump Shot,0,83
+20000431,81,PT02M22.00S,1,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson REBOUND (Off:2 Def:0),Rebound,Unknown,0,84
+20000431,80,PT02M22.00S,1,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,Made,1,12.0,20.0,32,v,Anderson  Tip Shot (4 PTS),Made Shot,Tip Shot,0,85
+20000431,82,PT02M07.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,226,4,0,Missed,1,0.0,0.0,0,h,MISS Nowitzki  3PT Jump Shot,Missed Shot,Jump Shot,0,86
+20000431,83,PT02M05.00S,1,1610612745,HOU,1883,Francis,S. Francis,0,0,0,,0,0.0,0.0,0,v,Francis REBOUND (Off:0 Def:7),Rebound,Unknown,0,87
+20000431,84,PT01M58.00S,1,1610612742,DAL,959,Nash,S. Nash,0,0,0,,0,0.0,0.0,0,h,Nash P.FOUL (P1.T3),Foul,Personal,0,88
+20000431,85,PT01M58.00S,1,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,89
+20000431,86,PT01M58.00S,1,1610612745,HOU,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,v,SUB: Bullard FOR Taylor,Substitution,,0,90
+20000431,87,PT01M44.00S,1,1610612745,HOU,1883,Francis,S. Francis,153,93,18,Made,1,12.0,22.0,34,v,Francis 18' Jump Shot (5 PTS),Made Shot,Jump Shot,0,91
+20000431,89,PT01M26.00S,1,1610612742,DAL,458,Eisley,H. Eisley,-130,4,13,Missed,1,0.0,0.0,0,h,MISS Eisley 13' Jump Shot,Missed Shot,Jump Shot,0,92
+20000431,90,PT01M25.00S,1,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,0.0,0.0,0,h,Finley REBOUND (Off:2 Def:1),Rebound,Unknown,0,93
+20000431,91,PT01M18.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,3,156,16,Made,1,14.0,22.0,36,h,Nowitzki 16' Jump Shot (4 PTS),Made Shot,Jump Shot,0,94
+20000431,92,PT00M52.20S,1,1610612745,HOU,1749,Mobley,C. Mobley,-157,188,24,Missed,1,0.0,0.0,0,v,MISS Mobley 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,95
+20000431,93,PT00M50.20S,1,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Rebound,Rebound,Unknown,0,96
+20000431,94,PT00M50.20S,1,1610612742,DAL,458,Eisley,H. Eisley,0,0,0,,0,0.0,0.0,0,h,SUB: Davis FOR Eisley,Substitution,,0,97
+20000431,95,PT00M31.10S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,167,93,19,Missed,1,0.0,0.0,0,h,MISS Nowitzki 19' Jump Shot,Missed Shot,Jump Shot,0,98
+20000431,96,PT00M28.90S,1,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson REBOUND (Off:2 Def:1),Rebound,Unknown,0,99
+20000431,97,PT00M11.90S,1,1610612745,HOU,1903,Thomas,K. Thomas,77,228,24,Made,1,14.0,25.0,39,v,Thomas 24' 3PT Jump Shot (3 PTS) (Francis 4 AST),Made Shot,Jump Shot,0,100
+20000431,98,PT00M00.00S,1,0,,0,,,0,0,0,,0,14.0,25.0,39,,End of 1st Period (7:28 AM EST),period,end,0,101
+20000431,100,PT12M00.00S,2,0,,0,,,0,0,0,,0,14.0,25.0,39,,Start of 2nd Period (7:31 AM EST),period,start,0,102
+20000431,101,PT11M37.00S,2,1610612745,HOU,1903,Thomas,K. Thomas,-79,150,17,Missed,1,0.0,0.0,0,v,MISS Thomas 17' Jump Shot,Missed Shot,Jump Shot,0,103
+20000431,102,PT11M34.00S,2,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,0.0,0.0,0,h,Finley REBOUND (Off:2 Def:2),Rebound,Unknown,0,104
+20000431,103,PT11M29.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,161,116,20,Missed,1,0.0,0.0,0,h,MISS Nowitzki 20' Jump Shot,Missed Shot,Jump Shot,0,105
+20000431,104,PT11M27.00S,2,1610612742,DAL,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,h,Laettner REBOUND (Off:1 Def:1),Rebound,Unknown,0,106
+20000431,105,PT11M26.00S,2,1610612742,DAL,363,Laettner,C. Laettner,-23,42,5,Missed,1,0.0,0.0,0,h,MISS Laettner 5' Jump Shot,Missed Shot,Jump Shot,0,107
+20000431,106,PT11M24.00S,2,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson REBOUND (Off:2 Def:2),Rebound,Unknown,0,108
+20000431,107,PT11M14.00S,2,1610612745,HOU,1903,Thomas,K. Thomas,0,0,0,Made,1,14.0,27.0,41,v,Thomas  Driving Layup (5 PTS),Made Shot,Driving Layup Shot,0,109
+20000431,108,PT11M14.00S,2,1610612742,DAL,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,h,Laettner S.FOUL (P1.T1),Foul,Shooting,0,110
+20000431,109,PT11M14.00S,2,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,v,SUB: Williams FOR Anderson,Substitution,,0,111
+20000431,110,PT11M14.00S,2,1610612745,HOU,1903,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,v,MISS Thomas Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,112
+20000431,111,PT11M13.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki REBOUND (Off:0 Def:3),Rebound,Unknown,0,113
+20000431,112,PT11M00.00S,2,1610612745,HOU,672,Bullard,M. Bullard,0,0,0,,0,0.0,0.0,0,v,Bullard S.FOUL (P1.T1),Foul,Shooting,0,114
+20000431,113,PT11M00.00S,2,1610612742,DAL,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,h,MISS Laettner Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,115
+20000431,114,PT11M00.00S,2,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Rebound,Rebound,Normal Rebound,0,116
+20000431,115,PT11M00.00S,2,1610612742,DAL,363,Laettner,C. Laettner,0,0,0,,0,15.0,27.0,42,h,Laettner Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,117
+20000431,116,PT10M50.00S,2,1610612742,DAL,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,h,Laettner P.FOUL (P2.T2),Foul,Personal,0,118
+20000431,117,PT10M40.00S,2,1610612745,HOU,1883,Francis,S. Francis,-178,55,19,Missed,1,0.0,0.0,0,v,MISS Francis 19' Jump Shot,Missed Shot,Jump Shot,0,119
+20000431,118,PT10M38.00S,2,1610612742,DAL,959,Nash,S. Nash,0,0,0,,0,0.0,0.0,0,h,Nash REBOUND (Off:0 Def:2),Rebound,Unknown,0,120
+20000431,119,PT10M24.00S,2,1610612742,DAL,714,Finley,M. Finley,153,120,19,Missed,1,0.0,0.0,0,h,MISS Finley 19' Jump Shot,Missed Shot,Jump Shot,0,121
+20000431,120,PT10M23.00S,2,1610612745,HOU,1749,Mobley,C. Mobley,0,0,0,,0,0.0,0.0,0,v,Mobley REBOUND (Off:0 Def:1),Rebound,Unknown,0,122
+20000431,121,PT10M04.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki P.FOUL (P2.T3),Foul,Personal,0,123
+20000431,122,PT09M59.00S,2,1610612745,HOU,1005,Williams,W. Williams,0,0,0,,0,0.0,0.0,0,v,Williams OFF.Foul (P1),Foul,Offensive,0,124
+20000431,123,PT09M59.00S,2,1610612745,HOU,1005,Williams,W. Williams,0,0,0,,0,0.0,0.0,0,v,Williams Foul Turnover (P1.T3),Turnover,Foul,0,125
+20000431,124,PT09M48.00S,2,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Violation: Def. Goaltending Violation,Violation,Defensive Goaltending,0,126
+20000431,125,PT09M39.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,161,99,19,Missed,1,0.0,0.0,0,h,MISS Nowitzki 19' Jump Shot,Missed Shot,Jump Shot,0,127
+20000431,125,PT09M39.00S,2,1610612745,HOU,1749,Mobley,C. Mobley,0,0,0,,0,0.0,0.0,0,v,Mobley BLOCK (1 BLK),,,0,128
+20000431,126,PT09M37.00S,2,1610612745,HOU,1903,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,v,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,129
+20000431,127,PT09M22.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki S.FOUL (P3.T4),Foul,Shooting,0,130
+20000431,128,PT09M22.00S,2,1610612745,HOU,1883,Francis,S. Francis,0,0,0,,0,15.0,28.0,43,v,Francis Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,131
+20000431,129,PT09M22.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,SUB: Alexander FOR Nowitzki,Substitution,,0,132
+20000431,130,PT09M22.00S,2,1610612745,HOU,1883,Francis,S. Francis,0,0,0,,0,15.0,29.0,44,v,Francis Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,133
+20000431,131,PT09M08.00S,2,1610612742,DAL,714,Finley,M. Finley,11,82,8,Missed,1,0.0,0.0,0,h,MISS Finley 8' Jump Shot,Missed Shot,Jump Shot,0,134
+20000431,132,PT09M07.00S,2,1610612742,DAL,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,h,Laettner REBOUND (Off:2 Def:1),Rebound,Unknown,0,135
+20000431,133,PT09M05.00S,2,1610612742,DAL,363,Laettner,C. Laettner,-8,26,3,Missed,1,0.0,0.0,0,h,MISS Laettner 3' Layup,Missed Shot,Layup Shot,0,136
+20000431,134,PT09M03.00S,2,1610612745,HOU,1903,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,v,Thomas REBOUND (Off:0 Def:2),Rebound,Unknown,0,137
+20000431,135,PT08M51.00S,2,1610612745,HOU,1749,Mobley,C. Mobley,-44,19,5,Made,1,15.0,31.0,46,v,Mobley 5' Jump Shot (2 PTS) (Thomas 1 AST),Made Shot,Jump Shot,0,138
+20000431,136,PT08M23.00S,2,1610612742,DAL,959,Nash,S. Nash,-115,217,25,Missed,1,0.0,0.0,0,h,MISS Nash 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,139
+20000431,137,PT08M21.00S,2,1610612745,HOU,1903,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,v,Thomas REBOUND (Off:0 Def:3),Rebound,Unknown,0,140
+20000431,138,PT08M13.00S,2,1610612745,HOU,1749,Mobley,C. Mobley,0,0,0,Missed,1,0.0,0.0,0,v,MISS Mobley  Driving Layup,Missed Shot,Driving Layup Shot,0,141
+20000431,139,PT08M10.00S,2,1610612742,DAL,93,Davis,H. Davis,0,0,0,,0,0.0,0.0,0,h,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,142
+20000431,140,PT08M05.00S,2,1610612745,HOU,1903,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,v,Thomas S.FOUL (P1.T2),Foul,Shooting,0,143
+20000431,141,PT08M05.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,144
+20000431,143,PT08M05.00S,2,1610612742,DAL,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,h,SUB: Trent FOR Laettner,Substitution,,0,145
+20000431,144,PT08M05.00S,2,1610612745,HOU,1883,Francis,S. Francis,0,0,0,,0,0.0,0.0,0,v,SUB: Norris FOR Francis,Substitution,,0,146
+20000431,145,PT08M05.00S,2,1610612745,HOU,672,Bullard,M. Bullard,0,0,0,,0,0.0,0.0,0,v,SUB: Anderson FOR Bullard,Substitution,,0,147
+20000431,146,PT08M05.00S,2,1610612742,DAL,93,Davis,H. Davis,0,0,0,,0,16.0,31.0,47,h,Davis Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,148
+20000431,147,PT08M05.00S,2,1610612742,DAL,93,Davis,H. Davis,0,0,0,,0,17.0,31.0,48,h,Davis Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,149
+20000431,148,PT07M40.00S,2,1610612745,HOU,1903,Thomas,K. Thomas,56,245,25,Made,1,17.0,34.0,51,v,Thomas 25' 3PT Jump Shot (8 PTS) (Norris 1 AST),Made Shot,Jump Shot,0,150
+20000431,149,PT07M23.00S,2,1610612742,DAL,93,Davis,H. Davis,0,0,0,,0,0.0,0.0,0,h,Davis OFF.Foul (P1),Foul,Offensive,0,151
+20000431,150,PT07M23.00S,2,1610612742,DAL,93,Davis,H. Davis,0,0,0,,0,0.0,0.0,0,h,Davis Foul Turnover (P1.T5),Turnover,Foul,0,152
+20000431,151,PT07M10.00S,2,1610612745,HOU,983,Norris,M. Norris,0,0,0,Missed,1,0.0,0.0,0,v,MISS Norris  Driving Layup,Missed Shot,Driving Layup Shot,0,153
+20000431,152,PT07M08.00S,2,1610612742,DAL,718,Trent,G. Trent,0,0,0,,0,0.0,0.0,0,h,Trent REBOUND (Off:0 Def:1),Rebound,Unknown,0,154
+20000431,153,PT06M48.00S,2,1610612742,DAL,959,Nash,S. Nash,110,150,19,Made,1,19.0,34.0,53,h,Nash 19' Jump Shot (4 PTS) (Finley 1 AST),Made Shot,Jump Shot,0,155
+20000431,154,PT06M24.00S,2,1610612745,HOU,1005,Williams,W. Williams,-229,19,0,Made,1,19.0,37.0,56,v,Williams  3PT Jump Shot (3 PTS) (Norris 2 AST),Made Shot,Jump Shot,0,156
+20000431,155,PT06M14.00S,2,1610612742,DAL,959,Nash,S. Nash,0,0,0,,0,0.0,0.0,0,h,Nash OFF.Foul (P2),Foul,Offensive,0,157
+20000431,156,PT06M14.00S,2,1610612742,DAL,959,Nash,S. Nash,0,0,0,,0,0.0,0.0,0,h,Nash Foul Turnover (P2.T6),Turnover,Foul,0,158
+20000431,157,PT06M14.00S,2,1610612742,DAL,959,Nash,S. Nash,0,0,0,,0,0.0,0.0,0,h,SUB: Eisley FOR Nash,Substitution,,0,159
+20000431,158,PT05M57.00S,2,1610612745,HOU,1903,Thomas,K. Thomas,0,0,0,Made,1,19.0,39.0,58,v,Thomas  Layup (10 PTS) (Anderson 3 AST),Made Shot,Layup Shot,0,160
+20000431,160,PT05M54.00S,2,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,161
+20000431,161,PT05M40.00S,2,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson S.FOUL (P2.T3),Foul,Shooting,0,162
+20000431,162,PT05M40.00S,2,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,20.0,39.0,59,h,Finley Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,163
+20000431,163,PT05M40.00S,2,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,21.0,39.0,60,h,Finley Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,164
+20000431,164,PT05M23.00S,2,1610612745,HOU,1749,Mobley,C. Mobley,132,150,20,Missed,1,0.0,0.0,0,v,MISS Mobley 20' Jump Shot,Missed Shot,Jump Shot,0,165
+20000431,165,PT05M23.00S,2,1610612745,HOU,1903,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,v,Thomas REBOUND (Off:1 Def:3),Rebound,Unknown,0,166
+20000431,166,PT05M23.00S,2,1610612742,DAL,718,Trent,G. Trent,0,0,0,,0,0.0,0.0,0,h,Trent L.B.FOUL (P1.PN),Foul,Loose Ball,0,167
+20000431,167,PT05M23.00S,2,1610612745,HOU,1903,Thomas,K. Thomas,0,0,0,,0,21.0,40.0,61,v,Thomas Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,168
+20000431,168,PT05M23.00S,2,1610612745,HOU,1903,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,v,MISS Thomas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,169
+20000431,169,PT05M20.00S,2,1610612745,HOU,1903,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,v,Thomas REBOUND (Off:2 Def:3),Rebound,Unknown,0,170
+20000431,170,PT05M08.00S,2,1610612745,HOU,1749,Mobley,C. Mobley,0,0,0,Made,1,21.0,42.0,63,v,Mobley  Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,171
+20000431,171,PT04M46.00S,2,1610612742,DAL,2042,Alexander,C. Alexander,-79,49,9,Made,1,23.0,42.0,65,h,Alexander 9' Jump Shot (2 PTS) (Eisley 2 AST),Made Shot,Jump Shot,0,172
+20000431,172,PT04M30.00S,2,1610612745,HOU,1903,Thomas,K. Thomas,62,234,24,Missed,1,0.0,0.0,0,v,MISS Thomas 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,173
+20000431,173,PT04M26.00S,2,1610612742,DAL,93,Davis,H. Davis,0,0,0,,0,0.0,0.0,0,h,Davis REBOUND (Off:0 Def:2),Rebound,Unknown,0,174
+20000431,174,PT04M22.00S,2,1610612742,DAL,458,Eisley,H. Eisley,182,0,18,Missed,1,0.0,0.0,0,h,MISS Eisley 18' Jump Shot,Missed Shot,Jump Shot,0,175
+20000431,175,PT04M21.00S,2,1610612742,DAL,718,Trent,G. Trent,0,0,0,,0,0.0,0.0,0,h,Trent REBOUND (Off:1 Def:1),Rebound,Unknown,0,176
+20000431,176,PT04M17.00S,2,1610612742,DAL,93,Davis,H. Davis,-71,234,24,Made,1,26.0,42.0,68,h,Davis 24' 3PT Jump Shot (5 PTS) (Trent 1 AST),Made Shot,Jump Shot,0,177
+20000431,177,PT03M49.00S,2,1610612745,HOU,1000,Anderson,S. Anderson,3,150,15,Missed,1,0.0,0.0,0,v,MISS Anderson 15' Jump Shot,Missed Shot,Jump Shot,0,178
+20000431,178,PT03M47.00S,2,1610612742,DAL,2042,Alexander,C. Alexander,0,0,0,,0,0.0,0.0,0,h,Alexander REBOUND (Off:0 Def:1),Rebound,Unknown,0,179
+20000431,179,PT03M35.00S,2,1610612742,DAL,714,Finley,M. Finley,-187,150,24,Missed,1,0.0,0.0,0,h,MISS Finley 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,180
+20000431,180,PT03M32.00S,2,1610612742,DAL,718,Trent,G. Trent,0,0,0,,0,0.0,0.0,0,h,Trent REBOUND (Off:2 Def:1),Rebound,Unknown,0,181
+20000431,181,PT03M30.00S,2,1610612742,DAL,718,Trent,G. Trent,0,0,0,,0,0.0,0.0,0,h,Trent Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,182
+20000431,181,PT03M30.00S,2,1610612745,HOU,1903,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,v,Thomas STEAL (1 STL),,,0,183
+20000431,182,PT03M26.00S,2,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,Made,1,26.0,44.0,70,v,Anderson  Driving Layup (6 PTS) (Norris 3 AST),Made Shot,Driving Layup Shot,0,184
+20000431,183,PT03M09.00S,2,1610612745,HOU,1005,Williams,W. Williams,0,0,0,,0,0.0,0.0,0,v,Williams P.FOUL (P2.T4),Foul,Personal,0,185
+20000431,184,PT03M09.00S,2,1610612742,DAL,718,Trent,G. Trent,0,0,0,,0,0.0,0.0,0,h,SUB: Harvey FOR Trent,Substitution,,0,186
+20000431,185,PT03M09.00S,2,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,v,SUB: Francis FOR Anderson,Substitution,,0,187
+20000431,186,PT03M09.00S,2,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,188
+20000431,188,PT03M00.00S,2,1610612742,DAL,714,Finley,M. Finley,140,116,18,Missed,1,0.0,0.0,0,h,MISS Finley 18' Jump Shot,Missed Shot,Jump Shot,0,189
+20000431,189,PT02M55.00S,2,1610612745,HOU,1883,Francis,S. Francis,0,0,0,,0,0.0,0.0,0,v,Francis REBOUND (Off:0 Def:8),Rebound,Unknown,0,190
+20000431,190,PT02M44.00S,2,1610612742,DAL,2042,Alexander,C. Alexander,0,0,0,,0,0.0,0.0,0,h,Alexander P.FOUL (P1.PN),Foul,Personal,0,191
+20000431,191,PT02M44.00S,2,1610612745,HOU,1749,Mobley,C. Mobley,0,0,0,,0,26.0,45.0,71,v,Mobley Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,192
+20000431,192,PT02M44.00S,2,1610612745,HOU,1749,Mobley,C. Mobley,0,0,0,,0,26.0,46.0,72,v,Mobley Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,193
+20000431,193,PT02M33.00S,2,1610612742,DAL,714,Finley,M. Finley,-1,106,11,Missed,1,0.0,0.0,0,h,MISS Finley 11' Jump Shot,Missed Shot,Jump Shot,0,194
+20000431,193,PT02M33.00S,2,1610612745,HOU,1005,Williams,W. Williams,0,0,0,,0,0.0,0.0,0,v,Williams BLOCK (1 BLK),,,0,195
+20000431,194,PT02M30.00S,2,1610612745,HOU,1883,Francis,S. Francis,0,0,0,,0,0.0,0.0,0,v,Francis REBOUND (Off:0 Def:9),Rebound,Unknown,0,196
+20000431,195,PT02M18.00S,2,1610612745,HOU,1749,Mobley,C. Mobley,132,120,18,Made,1,26.0,48.0,74,v,Mobley 18' Jump Shot (8 PTS),Made Shot,Jump Shot,0,197
+20000431,196,PT02M02.00S,2,1610612742,DAL,93,Davis,H. Davis,89,228,24,Missed,1,0.0,0.0,0,h,MISS Davis 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,198
+20000431,197,PT02M02.00S,2,1610612742,DAL,2051,Harvey,D. Harvey,0,0,0,,0,0.0,0.0,0,h,Harvey REBOUND (Off:1 Def:0),Rebound,Unknown,0,199
+20000431,198,PT02M02.00S,2,1610612745,HOU,1903,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,v,Thomas L.B.FOUL (P2.PN),Foul,Loose Ball,0,200
+20000431,199,PT02M02.00S,2,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,0.0,0.0,0,h,SUB: Nash FOR Finley,Substitution,,0,201
+20000431,200,PT02M02.00S,2,1610612742,DAL,2051,Harvey,D. Harvey,0,0,0,,0,27.0,48.0,75,h,Harvey Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,202
+20000431,201,PT02M02.00S,2,1610612745,HOU,1903,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,v,SUB: Taylor FOR Thomas,Substitution,,0,203
+20000431,202,PT02M02.00S,2,1610612742,DAL,2051,Harvey,D. Harvey,0,0,0,,0,28.0,48.0,76,h,Harvey Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,204
+20000431,203,PT01M51.00S,2,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Violation: Def. Goaltending Violation,Violation,Defensive Goaltending,0,205
+20000431,204,PT01M39.00S,2,1610612745,HOU,1005,Williams,W. Williams,-229,9,0,Made,1,28.0,51.0,79,v,Williams  3PT Jump Shot (6 PTS) (Francis 5 AST),Made Shot,Jump Shot,0,206
+20000431,205,PT01M26.00S,2,1610612745,HOU,1749,Mobley,C. Mobley,0,0,0,,0,0.0,0.0,0,v,Mobley P.FOUL (P1.PN),Foul,Personal,0,207
+20000431,206,PT01M26.00S,2,1610612742,DAL,93,Davis,H. Davis,0,0,0,,0,29.0,51.0,80,h,Davis Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,208
+20000431,207,PT01M26.00S,2,1610612742,DAL,93,Davis,H. Davis,0,0,0,,0,30.0,51.0,81,h,Davis Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,209
+20000431,208,PT01M04.00S,2,1610612745,HOU,1749,Mobley,C. Mobley,0,0,0,,0,0.0,0.0,0,v,Mobley Traveling Turnover (P1.T4),Turnover,Traveling,0,210
+20000431,209,PT00M51.80S,2,1610612745,HOU,1005,Williams,W. Williams,0,0,0,,0,0.0,0.0,0,v,Williams S.FOUL (P3.PN),Foul,Shooting,0,211
+20000431,210,PT00M51.80S,2,1610612742,DAL,2051,Harvey,D. Harvey,0,0,0,,0,0.0,0.0,0,h,MISS Harvey Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,212
+20000431,211,PT00M51.80S,2,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Rebound,Rebound,Normal Rebound,0,213
+20000431,212,PT00M51.80S,2,1610612745,HOU,1005,Williams,W. Williams,0,0,0,,0,0.0,0.0,0,v,SUB: Bullard FOR Williams,Substitution,,0,214
+20000431,213,PT00M51.80S,2,1610612742,DAL,2051,Harvey,D. Harvey,0,0,0,,0,31.0,51.0,82,h,Harvey Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,215
+20000431,214,PT00M35.10S,2,1610612745,HOU,983,Norris,M. Norris,0,0,0,,0,0.0,0.0,0,v,Norris OFF.Foul (P1),Foul,Offensive,0,216
+20000431,215,PT00M35.10S,2,1610612745,HOU,983,Norris,M. Norris,0,0,0,,0,0.0,0.0,0,v,Norris Foul Turnover (P1.T5),Turnover,Foul,0,217
+20000431,217,PT00M29.30S,2,1610612742,DAL,2051,Harvey,D. Harvey,0,0,0,,0,0.0,0.0,0,h,Harvey Offensive Goaltending Turnover (P1.T8),Turnover,Offensive Goaltending,0,218
+20000431,218,PT00M11.60S,2,1610612745,HOU,1508,Taylor,M. Taylor,0,0,0,Made,1,31.0,53.0,84,v,Taylor  Slam Dunk (8 PTS) (Norris 4 AST),Made Shot,Slam Dunk Shot,0,219
+20000431,219,PT00M06.80S,2,1610612742,DAL,959,Nash,S. Nash,0,0,0,,0,0.0,0.0,0,h,Nash OFF.Foul (P3),Foul,Offensive,0,220
+20000431,220,PT00M06.80S,2,1610612742,DAL,959,Nash,S. Nash,0,0,0,,0,0.0,0.0,0,h,Nash Foul Turnover (P3.T9),Turnover,Foul,0,221
+20000431,221,PT00M00.30S,2,1610612745,HOU,672,Bullard,M. Bullard,98,272,29,Missed,1,0.0,0.0,0,v,MISS Bullard 29' 3PT Jump Shot,Missed Shot,Jump Shot,0,222
+20000431,222,PT00M00.20S,2,1610612742,DAL,2051,Harvey,D. Harvey,0,0,0,,0,0.0,0.0,0,h,Harvey REBOUND (Off:1 Def:1),Rebound,Unknown,0,223
+20000431,223,PT00M00.00S,2,0,,0,,,0,0,0,,0,31.0,53.0,84,,End of 2nd Period (8:01 AM EST),period,end,0,224
+20000431,225,PT12M00.00S,3,0,,0,,,0,0,0,,0,31.0,53.0,84,,Start of 3rd Period (8:18 AM EST),period,start,0,225
+20000431,226,PT11M38.00S,3,1610612745,HOU,1883,Francis,S. Francis,0,0,0,Made,1,31.0,55.0,86,v,Francis  Driving Layup (9 PTS) (Olajuwon 2 AST),Made Shot,Driving Layup Shot,0,226
+20000431,227,PT11M16.00S,3,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson S.FOUL (P3.T1),Foul,Shooting,0,227
+20000431,228,PT11M16.00S,3,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,0.0,0.0,0,h,MISS Finley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,228
+20000431,229,PT11M16.00S,3,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Rebound,Rebound,Normal Rebound,0,229
+20000431,230,PT11M16.00S,3,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,32.0,55.0,87,h,Finley Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,230
+20000431,231,PT11M10.00S,3,1610612745,HOU,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,v,Taylor Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,231
+20000431,232,PT11M00.00S,3,1610612742,DAL,714,Finley,M. Finley,161,110,19,Made,1,34.0,55.0,89,h,Finley 19' Jump Shot (11 PTS) (Eisley 3 AST),Made Shot,Jump Shot,0,232
+20000431,233,PT10M48.00S,3,1610612745,HOU,1508,Taylor,M. Taylor,77,66,10,Made,1,34.0,57.0,91,v,Taylor 10' Jump Shot (10 PTS) (Anderson 4 AST),Made Shot,Jump Shot,0,233
+20000431,234,PT10M39.00S,3,1610612742,DAL,458,Eisley,H. Eisley,-145,59,16,Missed,1,0.0,0.0,0,h,MISS Eisley 16' Jump Shot,Missed Shot,Jump Shot,0,234
+20000431,235,PT10M37.00S,3,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson REBOUND (Off:2 Def:3),Rebound,Unknown,0,235
+20000431,236,PT10M29.00S,3,1610612745,HOU,165,Olajuwon,H. Olajuwon,-136,15,14,Made,1,34.0,59.0,93,v,Olajuwon 14' Jump Shot (6 PTS) (Norris 5 AST),Made Shot,Jump Shot,0,236
+20000431,237,PT10M18.00S,3,1610612742,DAL,959,Nash,S. Nash,0,0,0,Missed,1,0.0,0.0,0,h,MISS Nash  Layup,Missed Shot,Layup Shot,0,237
+20000431,238,PT10M16.00S,3,1610612745,HOU,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,v,Taylor REBOUND (Off:2 Def:2),Rebound,Unknown,0,238
+20000431,239,PT10M16.00S,3,0,,1483,,,0,0,0,,0,0.0,0.0,0,,Don Nelson Foul:T.FOUL,Foul,Technical,0,239
+20000431,240,PT10M16.00S,3,1610612745,HOU,1883,Francis,S. Francis,0,0,0,,0,34.0,60.0,94,v,Francis Free Throw Technical (10 PTS),Free Throw,Free Throw Technical,0,240
+20000431,241,PT10M09.00S,3,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,Made,1,34.0,62.0,96,v,Olajuwon  Layup (8 PTS) (Francis 6 AST),Made Shot,Layup Shot,0,241
+20000431,242,PT09M56.00S,3,1610612742,DAL,714,Finley,M. Finley,68,19,7,Missed,1,0.0,0.0,0,h,MISS Finley 7' Jump Shot,Missed Shot,Jump Shot,0,242
+20000431,243,PT09M55.00S,3,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,Olajuwon REBOUND (Off:1 Def:1),Rebound,Unknown,0,243
+20000431,244,PT09M55.00S,3,1610612742,DAL,762,Bradley,S. Bradley,0,0,0,,0,0.0,0.0,0,h,Bradley L.B.FOUL (P1.T1),Foul,Loose Ball,0,244
+20000431,245,PT09M47.00S,3,1610612745,HOU,1508,Taylor,M. Taylor,0,0,0,Made,1,34.0,64.0,98,v,Taylor  Slam Dunk (12 PTS) (Norris 6 AST),Made Shot,Slam Dunk Shot,0,245
+20000431,246,PT09M46.00S,3,1610612745,HOU,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,v,Taylor Taunting (P1.T1),Foul,Taunting Technical,0,246
+20000431,247,PT09M46.00S,3,1610612742,DAL,959,Nash,S. Nash,0,0,0,,0,35.0,64.0,99,h,Nash Free Throw Technical (5 PTS),Free Throw,Free Throw Technical,0,247
+20000431,248,PT09M40.00S,3,1610612745,HOU,1883,Francis,S. Francis,0,0,0,,0,0.0,0.0,0,v,Francis S.FOUL (P2.T2),Foul,Shooting,0,248
+20000431,249,PT09M40.00S,3,1610612742,DAL,959,Nash,S. Nash,0,0,0,,0,36.0,64.0,100,h,Nash Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,249
+20000431,250,PT09M40.00S,3,1610612742,DAL,959,Nash,S. Nash,0,0,0,,0,0.0,0.0,0,h,MISS Nash Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,250
+20000431,251,PT09M38.00S,3,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,Olajuwon REBOUND (Off:1 Def:2),Rebound,Unknown,0,251
+20000431,252,PT09M24.00S,3,1610612745,HOU,1000,Anderson,S. Anderson,-178,116,21,Missed,1,0.0,0.0,0,v,MISS Anderson 21' Jump Shot,Missed Shot,Jump Shot,0,252
+20000431,253,PT09M22.00S,3,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,0.0,0.0,0,h,Finley REBOUND (Off:2 Def:3),Rebound,Unknown,0,253
+20000431,254,PT09M15.00S,3,1610612745,HOU,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,v,Taylor S.FOUL (P2.T3),Foul,Shooting,0,254
+20000431,255,PT09M15.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,37.0,64.0,101,h,Nowitzki Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,255
+20000431,256,PT09M15.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,38.0,64.0,102,h,Nowitzki Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,256
+20000431,257,PT09M06.00S,3,1610612745,HOU,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,v,Taylor Palming Turnover (P3.T7),Turnover,Palming Turnover,0,257
+20000431,258,PT08M51.00S,3,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Foul,Foul,Defense 3 Second,0,258
+20000431,259,PT08M51.00S,3,1610612742,DAL,959,Nash,S. Nash,0,0,0,,0,0.0,0.0,0,h,MISS Nash Free Throw Technical,Free Throw,Free Throw Technical,0,259
+20000431,260,PT08M51.00S,3,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Rebound,Rebound,Normal Rebound,0,260
+20000431,261,PT08M45.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,68,66,9,Missed,1,0.0,0.0,0,h,MISS Nowitzki 9' Jump Shot,Missed Shot,Jump Shot,0,261
+20000431,262,PT08M43.00S,3,1610612745,HOU,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,v,Taylor REBOUND (Off:2 Def:3),Rebound,Unknown,0,262
+20000431,263,PT08M22.00S,3,1610612745,HOU,983,Norris,M. Norris,140,207,25,Made,1,38.0,67.0,105,v,Norris 25' 3PT Jump Shot (6 PTS) (Anderson 5 AST),Made Shot,Jump Shot,0,263
+20000431,264,PT08M10.00S,3,1610612742,DAL,458,Eisley,H. Eisley,-157,188,24,Missed,1,0.0,0.0,0,h,MISS Eisley 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,264
+20000431,265,PT08M07.00S,3,1610612745,HOU,1883,Francis,S. Francis,0,0,0,,0,0.0,0.0,0,v,Francis REBOUND (Off:0 Def:10),Rebound,Unknown,0,265
+20000431,266,PT07M57.00S,3,1610612745,HOU,165,Olajuwon,H. Olajuwon,-145,116,19,Missed,1,0.0,0.0,0,v,MISS Olajuwon 19' Jump Shot,Missed Shot,Jump Shot,0,266
+20000431,267,PT07M55.00S,3,1610612745,HOU,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,v,Taylor REBOUND (Off:3 Def:3),Rebound,Unknown,0,267
+20000431,268,PT07M51.00S,3,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,Made,1,38.0,69.0,107,v,Anderson  Driving Layup (8 PTS) (Taylor 1 AST),Made Shot,Driving Layup Shot,0,268
+20000431,269,PT07M37.00S,3,1610612742,DAL,714,Finley,M. Finley,140,4,14,Made,1,40.0,69.0,109,h,Finley 14' Jump Shot (13 PTS),Made Shot,Jump Shot,0,269
+20000431,270,PT07M29.00S,3,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,270
+20000431,272,PT07M29.00S,3,1610612742,DAL,959,Nash,S. Nash,0,0,0,,0,0.0,0.0,0,h,SUB: Davis FOR Nash,Substitution,,0,271
+20000431,273,PT07M18.00S,3,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,Olajuwon Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,272
+20000431,274,PT07M07.00S,3,1610612742,DAL,714,Finley,M. Finley,233,0,0,Made,1,43.0,69.0,112,h,Finley  3PT Jump Shot (16 PTS) (Eisley 4 AST),Made Shot,Jump Shot,0,273
+20000431,275,PT06M42.00S,3,1610612745,HOU,165,Olajuwon,H. Olajuwon,3,59,6,Missed,1,0.0,0.0,0,v,MISS Olajuwon 6' Jump Shot,Missed Shot,Jump Shot,0,274
+20000431,276,PT06M41.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki REBOUND (Off:0 Def:4),Rebound,Unknown,0,275
+20000431,277,PT06M32.00S,3,1610612742,DAL,714,Finley,M. Finley,0,0,0,Made,1,45.0,69.0,114,h,Finley  Driving Layup (18 PTS) (Eisley 5 AST),Made Shot,Driving Layup Shot,0,276
+20000431,278,PT06M03.00S,3,1610612745,HOU,983,Norris,M. Norris,140,194,24,Missed,1,0.0,0.0,0,v,MISS Norris 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,277
+20000431,279,PT06M03.00S,3,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Rebound,Rebound,Unknown,0,278
+20000431,280,PT06M03.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,SUB: Harvey FOR Nowitzki,Substitution,,0,279
+20000431,281,PT05M47.00S,3,1610612742,DAL,458,Eisley,H. Eisley,-58,66,9,Made,1,47.0,69.0,116,h,Eisley 9' Jump Shot (4 PTS),Made Shot,Jump Shot,0,280
+20000431,282,PT05M21.00S,3,1610612745,HOU,165,Olajuwon,H. Olajuwon,-136,4,14,Missed,1,0.0,0.0,0,v,MISS Olajuwon 14' Jump Shot,Missed Shot,Jump Shot,0,281
+20000431,283,PT05M19.00S,3,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,0.0,0.0,0,h,Finley REBOUND (Off:2 Def:4),Rebound,Unknown,0,282
+20000431,284,PT05M10.00S,3,1610612742,DAL,714,Finley,M. Finley,-86,0,9,Made,1,49.0,69.0,118,h,Finley 9' Jump Shot (20 PTS),Made Shot,Jump Shot,0,283
+20000431,285,PT05M08.00S,3,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Timeout: Short (Reg.3 Short 1),Timeout,Short,0,284
+20000431,286,PT05M08.00S,3,1610612745,HOU,165,Olajuwon,H. Olajuwon,0,0,0,,0,0.0,0.0,0,v,SUB: Bullard FOR Olajuwon,Substitution,,0,285
+20000431,287,PT04M56.00S,3,1610612745,HOU,1508,Taylor,M. Taylor,-157,70,17,Missed,1,0.0,0.0,0,v,MISS Taylor 17' Jump Shot,Missed Shot,Jump Shot,0,286
+20000431,288,PT04M55.00S,3,1610612742,DAL,762,Bradley,S. Bradley,0,0,0,,0,0.0,0.0,0,h,Bradley REBOUND (Off:0 Def:3),Rebound,Unknown,0,287
+20000431,289,PT04M47.00S,3,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,0.0,0.0,0,h,Finley OFF.Foul (P1),Foul,Offensive,0,288
+20000431,290,PT04M47.00S,3,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,0.0,0.0,0,h,Finley Foul Turnover (P3.T10),Turnover,Foul,0,289
+20000431,291,PT04M36.00S,3,1610612742,DAL,2051,Harvey,D. Harvey,0,0,0,,0,0.0,0.0,0,h,Harvey P.FOUL (P1.T2),Foul,Personal,0,290
+20000431,292,PT04M36.00S,3,1610612742,DAL,762,Bradley,S. Bradley,0,0,0,,0,0.0,0.0,0,h,SUB: Alexander FOR Bradley,Substitution,,0,291
+20000431,293,PT04M23.00S,3,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Turnover: Shot Clock (T#9),Turnover,Shot Clock Turnover,0,292
+20000431,294,PT04M14.00S,3,1610612745,HOU,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,v,Taylor S.FOUL (P3.T4),Foul,Shooting,0,293
+20000431,295,PT04M14.00S,3,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,50.0,69.0,119,h,Finley Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,294
+20000431,296,PT04M14.00S,3,1610612745,HOU,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,v,SUB: Mobley FOR Taylor,Substitution,,0,295
+20000431,297,PT04M14.00S,3,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,51.0,69.0,120,h,Finley Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,296
+20000431,298,PT03M53.00S,3,1610612745,HOU,1000,Anderson,S. Anderson,-130,0,13,Missed,1,0.0,0.0,0,v,MISS Anderson 13' Jump Shot,Missed Shot,Jump Shot,0,297
+20000431,299,PT03M51.00S,3,1610612742,DAL,93,Davis,H. Davis,0,0,0,,0,0.0,0.0,0,h,Davis REBOUND (Off:0 Def:3),Rebound,Unknown,0,298
+20000431,300,PT03M44.00S,3,1610612742,DAL,93,Davis,H. Davis,0,0,0,,0,0.0,0.0,0,h,Davis Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,299
+20000431,300,PT03M44.00S,3,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson STEAL (4 STL),,,0,300
+20000431,301,PT03M41.00S,3,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,Made,1,51.0,71.0,122,v,Anderson  Driving Layup (10 PTS) (Francis 7 AST),Made Shot,Driving Layup Shot,0,301
+20000431,302,PT03M28.00S,3,1610612742,DAL,714,Finley,M. Finley,-1,42,4,Missed,1,0.0,0.0,0,h,MISS Finley 4' Jump Shot,Missed Shot,Jump Shot,0,302
+20000431,303,PT03M27.00S,3,1610612745,HOU,672,Bullard,M. Bullard,0,0,0,,0,0.0,0.0,0,v,Bullard REBOUND (Off:0 Def:1),Rebound,Unknown,0,303
+20000431,304,PT03M27.00S,3,1610612742,DAL,2051,Harvey,D. Harvey,0,0,0,,0,0.0,0.0,0,h,Harvey L.B.FOUL (P2.T3),Foul,Loose Ball,0,304
+20000431,305,PT03M27.00S,3,1610612742,DAL,2051,Harvey,D. Harvey,0,0,0,,0,0.0,0.0,0,h,SUB: Nowitzki FOR Harvey,Substitution,,0,305
+20000431,306,PT03M27.00S,3,1610612742,DAL,458,Eisley,H. Eisley,0,0,0,,0,0.0,0.0,0,h,SUB: Nash FOR Eisley,Substitution,,0,306
+20000431,307,PT03M07.00S,3,1610612745,HOU,1749,Mobley,C. Mobley,0,0,0,,0,0.0,0.0,0,v,Mobley Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,307
+20000431,307,PT03M07.00S,3,1610612742,DAL,959,Nash,S. Nash,0,0,0,,0,0.0,0.0,0,h,Nash STEAL (2 STL),,,0,308
+20000431,308,PT03M02.00S,3,1610612745,HOU,1883,Francis,S. Francis,0,0,0,,0,0.0,0.0,0,v,Francis IN.FOUL (P3.PN),Foul,Inbound,0,309
+20000431,309,PT03M02.00S,3,1610612742,DAL,93,Davis,H. Davis,0,0,0,,0,52.0,71.0,123,h,Davis Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,310
+20000431,310,PT03M02.00S,3,1610612742,DAL,93,Davis,H. Davis,0,0,0,,0,53.0,71.0,124,h,Davis Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,311
+20000431,311,PT02M51.00S,3,1610612742,DAL,2042,Alexander,C. Alexander,0,0,0,,0,0.0,0.0,0,h,Alexander S.FOUL (P2.T4),Foul,Shooting,0,312
+20000431,312,PT02M51.00S,3,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,313
+20000431,313,PT02M51.00S,3,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,v,MISS Anderson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,314
+20000431,314,PT02M51.00S,3,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Normal Rebound,0,315
+20000431,315,PT02M51.00S,3,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,v,MISS Anderson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,316
+20000431,316,PT02M51.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki REBOUND (Off:0 Def:5),Rebound,Unknown,0,317
+20000431,318,PT02M38.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,153,49,16,Made,1,55.0,71.0,126,h,Nowitzki 16' Jump Shot (8 PTS) (Nash 3 AST),Made Shot,Jump Shot,0,318
+20000431,319,PT02M17.00S,3,1610612742,DAL,93,Davis,H. Davis,0,0,0,,0,0.0,0.0,0,h,Davis P.FOUL (P2.PN),Foul,Personal,0,319
+20000431,320,PT02M17.00S,3,1610612745,HOU,1883,Francis,S. Francis,0,0,0,,0,55.0,72.0,127,v,Francis Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,320
+20000431,321,PT02M17.00S,3,1610612745,HOU,1883,Francis,S. Francis,0,0,0,,0,55.0,73.0,128,v,Francis Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,321
+20000431,322,PT02M00.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,77,15,8,Made,1,57.0,73.0,130,h,Nowitzki 8' Jump Shot (10 PTS) (Davis 1 AST),Made Shot,Jump Shot,0,322
+20000431,323,PT01M47.00S,3,1610612745,HOU,672,Bullard,M. Bullard,-229,-6,0,Missed,1,0.0,0.0,0,v,MISS Bullard  3PT Jump Shot,Missed Shot,Jump Shot,0,323
+20000431,324,PT01M45.00S,3,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson REBOUND (Off:3 Def:3),Rebound,Unknown,0,324
+20000431,325,PT01M42.00S,3,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,Missed,1,0.0,0.0,0,v,MISS Anderson  Layup,Missed Shot,Layup Shot,0,325
+20000431,326,PT01M41.00S,3,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Rebound,Rebound,Unknown,0,326
+20000431,327,PT01M40.00S,3,1610612745,HOU,672,Bullard,M. Bullard,0,0,0,,0,0.0,0.0,0,v,SUB: Thomas FOR Bullard,Substitution,,0,327
+20000431,328,PT01M40.00S,3,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,0.0,0.0,0,h,SUB: Eisley FOR Finley,Substitution,,0,328
+20000431,329,PT01M31.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,153,49,16,Made,1,59.0,73.0,132,h,Nowitzki 16' Jump Shot (12 PTS) (Davis 2 AST),Made Shot,Jump Shot,0,329
+20000431,330,PT01M31.00S,3,1610612745,HOU,1903,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,v,Thomas S.FOUL (P3.PN),Foul,Shooting,0,330
+20000431,331,PT01M31.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,60.0,73.0,133,h,Nowitzki Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,331
+20000431,332,PT01M18.00S,3,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Foul,Foul,Defense 3 Second,0,332
+20000431,333,PT01M18.00S,3,1610612745,HOU,1883,Francis,S. Francis,0,0,0,,0,60.0,74.0,134,v,Francis Free Throw Technical (13 PTS),Free Throw,Free Throw Technical,0,333
+20000431,334,PT01M18.00S,3,1610612742,DAL,458,Eisley,H. Eisley,0,0,0,,0,0.0,0.0,0,h,Eisley IN.FOUL (P2.PN),Foul,Inbound,0,334
+20000431,335,PT01M18.00S,3,1610612745,HOU,1749,Mobley,C. Mobley,0,0,0,,0,60.0,75.0,135,v,Mobley Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,335
+20000431,336,PT01M18.00S,3,1610612745,HOU,1749,Mobley,C. Mobley,0,0,0,,0,60.0,76.0,136,v,Mobley Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,336
+20000431,337,PT01M02.00S,3,1610612742,DAL,2042,Alexander,C. Alexander,-157,0,16,Missed,1,0.0,0.0,0,h,MISS Alexander 16' Jump Shot,Missed Shot,Jump Shot,0,337
+20000431,338,PT01M00.00S,3,1610612745,HOU,1903,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,v,Thomas REBOUND (Off:2 Def:4),Rebound,Unknown,0,338
+20000431,339,PT00M38.60S,3,1610612745,HOU,983,Norris,M. Norris,89,144,17,Missed,1,0.0,0.0,0,v,MISS Norris 17' Jump Shot,Missed Shot,Jump Shot,0,339
+20000431,340,PT00M36.20S,3,1610612742,DAL,2042,Alexander,C. Alexander,0,0,0,,0,0.0,0.0,0,h,Alexander REBOUND (Off:0 Def:2),Rebound,Unknown,0,340
+20000431,341,PT00M30.80S,3,1610612742,DAL,959,Nash,S. Nash,56,144,15,Missed,1,0.0,0.0,0,h,MISS Nash 15' Jump Shot,Missed Shot,Jump Shot,0,341
+20000431,342,PT00M28.70S,3,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson REBOUND (Off:3 Def:4),Rebound,Unknown,0,342
+20000431,343,PT00M17.50S,3,1610612745,HOU,1000,Anderson,S. Anderson,77,23,8,Missed,1,0.0,0.0,0,v,MISS Anderson 8' Jump Shot,Missed Shot,Jump Shot,0,343
+20000431,343,PT00M17.50S,3,1610612742,DAL,2042,Alexander,C. Alexander,0,0,0,,0,0.0,0.0,0,h,Alexander BLOCK (1 BLK),,,0,344
+20000431,344,PT00M14.10S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki REBOUND (Off:0 Def:6),Rebound,Unknown,0,345
+20000431,345,PT00M13.60S,3,1610612745,HOU,1903,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,v,Thomas S.FOUL (P4.PN),Foul,Shooting,0,346
+20000431,346,PT00M13.60S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,MISS Nowitzki Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,347
+20000431,347,PT00M13.60S,3,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Rebound,Rebound,Normal Rebound,0,348
+20000431,348,PT00M13.60S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,61.0,76.0,137,h,Nowitzki Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,349
+20000431,350,PT00M00.30S,3,1610612745,HOU,1749,Mobley,C. Mobley,0,0,0,Missed,1,0.0,0.0,0,v,MISS Mobley  Layup,Missed Shot,Layup Shot,0,350
+20000431,351,PT00M00.20S,3,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Unknown,0,351
+20000431,352,PT00M00.00S,3,0,,0,,,0,0,0,,0,61.0,76.0,137,,End of 3rd Period (8:48 AM EST),period,end,0,352
+20000431,354,PT12M00.00S,4,0,,0,,,0,0,0,,0,61.0,76.0,137,,Start of 4th Period (8:51 AM EST),period,start,0,353
+20000431,355,PT11M50.00S,4,1610612742,DAL,959,Nash,S. Nash,-145,137,20,Made,1,63.0,76.0,139,h,Nash 20' Jump Shot (8 PTS),Made Shot,Jump Shot,0,354
+20000431,356,PT11M34.00S,4,1610612745,HOU,1749,Mobley,C. Mobley,-229,4,0,Missed,1,0.0,0.0,0,v,MISS Mobley  3PT Jump Shot,Missed Shot,Jump Shot,0,355
+20000431,357,PT11M31.00S,4,1610612742,DAL,2042,Alexander,C. Alexander,0,0,0,,0,0.0,0.0,0,h,Alexander REBOUND (Off:0 Def:3),Rebound,Unknown,0,356
+20000431,358,PT11M16.00S,4,1610612742,DAL,93,Davis,H. Davis,0,0,0,Missed,1,0.0,0.0,0,h,MISS Davis  Layup,Missed Shot,Layup Shot,0,357
+20000431,358,PT11M16.00S,4,1610612745,HOU,1883,Francis,S. Francis,0,0,0,,0,0.0,0.0,0,v,Francis BLOCK (1 BLK),,,0,358
+20000431,359,PT11M12.00S,4,1610612745,HOU,1749,Mobley,C. Mobley,0,0,0,,0,0.0,0.0,0,v,Mobley REBOUND (Off:0 Def:2),Rebound,Unknown,0,359
+20000431,360,PT11M00.00S,4,1610612745,HOU,1005,Williams,W. Williams,-86,59,10,Made,1,63.0,78.0,141,v,Williams 10' Jump Shot (8 PTS) (Francis 8 AST),Made Shot,Jump Shot,0,360
+20000431,361,PT10M50.00S,4,1610612745,HOU,1005,Williams,W. Williams,0,0,0,,0,0.0,0.0,0,v,Williams P.FOUL (P4.T1),Foul,Personal,0,361
+20000431,362,PT10M41.00S,4,1610612742,DAL,959,Nash,S. Nash,-145,76,16,Made,1,65.0,78.0,143,h,Nash 16' Jump Shot (10 PTS),Made Shot,Jump Shot,0,362
+20000431,363,PT10M25.00S,4,1610612745,HOU,1883,Francis,S. Francis,-178,167,24,Made,1,65.0,81.0,146,v,Francis 24' 3PT Jump Shot (16 PTS) (Norris 7 AST),Made Shot,Jump Shot,0,363
+20000431,364,PT10M15.00S,4,1610612742,DAL,959,Nash,S. Nash,0,0,0,Made,1,67.0,81.0,148,h,Nash  Driving Layup (12 PTS),Made Shot,Driving Layup Shot,0,364
+20000431,365,PT10M15.00S,4,1610612745,HOU,1005,Williams,W. Williams,0,0,0,,0,0.0,0.0,0,v,Williams S.FOUL (P5.T2),Foul,Shooting,0,365
+20000431,366,PT10M15.00S,4,1610612742,DAL,93,Davis,H. Davis,0,0,0,,0,0.0,0.0,0,h,SUB: Bradley FOR Davis,Substitution,,0,366
+20000431,367,PT10M15.00S,4,1610612742,DAL,959,Nash,S. Nash,0,0,0,,0,68.0,81.0,149,h,Nash Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,367
+20000431,368,PT10M04.00S,4,1610612745,HOU,1005,Williams,W. Williams,153,15,15,Made,1,68.0,83.0,151,v,Williams 15' Jump Shot (10 PTS) (Thomas 2 AST),Made Shot,Jump Shot,0,368
+20000431,369,PT09M52.00S,4,1610612742,DAL,458,Eisley,H. Eisley,-136,200,24,Missed,1,0.0,0.0,0,h,MISS Eisley 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,369
+20000431,370,PT09M48.00S,4,1610612745,HOU,1903,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,v,Thomas REBOUND (Off:2 Def:5),Rebound,Unknown,0,370
+20000431,371,PT09M29.00S,4,1610612745,HOU,1749,Mobley,C. Mobley,104,217,24,Made,1,68.0,86.0,154,v,Mobley 24' 3PT Jump Shot (13 PTS) (Thomas 3 AST),Made Shot,Jump Shot,0,371
+20000431,372,PT09M17.00S,4,1610612742,DAL,714,Finley,M. Finley,-238,19,24,Missed,1,0.0,0.0,0,h,MISS Finley 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,372
+20000431,373,PT09M15.00S,4,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,0.0,0.0,0,h,Finley REBOUND (Off:3 Def:4),Rebound,Unknown,0,373
+20000431,374,PT09M14.00S,4,1610612745,HOU,1749,Mobley,C. Mobley,0,0,0,,0,0.0,0.0,0,v,Mobley P.FOUL (P2.T3),Foul,Personal,0,374
+20000431,375,PT09M14.00S,4,1610612742,DAL,2042,Alexander,C. Alexander,0,0,0,,0,0.0,0.0,0,h,SUB: Nowitzki FOR Alexander,Substitution,,0,375
+20000431,376,PT09M08.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,Made,1,70.0,86.0,156,h,Nowitzki  Layup (16 PTS),Made Shot,Layup Shot,0,376
+20000431,377,PT09M08.00S,4,1610612745,HOU,1005,Williams,W. Williams,0,0,0,,0,0.0,0.0,0,v,Williams S.FOUL (P6.T4),Foul,Shooting,0,377
+20000431,378,PT09M08.00S,4,1610612745,HOU,1005,Williams,W. Williams,0,0,0,,0,0.0,0.0,0,v,SUB: Anderson FOR Williams,Substitution,,0,378
+20000431,379,PT09M08.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,MISS Nowitzki Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,379
+20000431,380,PT09M07.00S,4,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson REBOUND (Off:3 Def:5),Rebound,Unknown,0,380
+20000431,381,PT08M49.00S,4,1610612745,HOU,1883,Francis,S. Francis,-208,127,24,Missed,1,0.0,0.0,0,v,MISS Francis 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,381
+20000431,382,PT08M47.00S,4,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,0.0,0.0,0,h,Finley REBOUND (Off:3 Def:5),Rebound,Unknown,0,382
+20000431,383,PT08M40.00S,4,1610612742,DAL,714,Finley,M. Finley,11,59,6,Missed,1,0.0,0.0,0,h,MISS Finley 6' Running Jump Shot,Missed Shot,Running Jump Shot,0,383
+20000431,384,PT08M38.00S,4,1610612742,DAL,762,Bradley,S. Bradley,0,0,0,,0,0.0,0.0,0,h,Bradley REBOUND (Off:1 Def:3),Rebound,Unknown,0,384
+20000431,385,PT08M36.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-101,89,13,Missed,1,0.0,0.0,0,h,MISS Nowitzki 13' Jump Shot,Missed Shot,Jump Shot,0,385
+20000431,386,PT08M35.00S,4,1610612745,HOU,1903,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,v,Thomas REBOUND (Off:2 Def:6),Rebound,Unknown,0,386
+20000431,387,PT08M18.00S,4,1610612745,HOU,1903,Thomas,K. Thomas,161,4,16,Missed,1,0.0,0.0,0,v,MISS Thomas 16' Jump Shot,Missed Shot,Jump Shot,0,387
+20000431,388,PT08M17.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki REBOUND (Off:0 Def:7),Rebound,Unknown,0,388
+20000431,389,PT08M17.00S,4,1610612745,HOU,1749,Mobley,C. Mobley,0,0,0,,0,0.0,0.0,0,v,Mobley P.FOUL (P3.PN),Foul,Personal,0,389
+20000431,390,PT08M17.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,390
+20000431,392,PT08M17.00S,4,1610612745,HOU,1883,Francis,S. Francis,0,0,0,,0,0.0,0.0,0,v,SUB: Taylor FOR Francis,Substitution,,0,391
+20000431,393,PT08M17.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,71.0,86.0,157,h,Nowitzki Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,392
+20000431,394,PT08M17.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,72.0,86.0,158,h,Nowitzki Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,393
+20000431,395,PT08M03.00S,4,1610612742,DAL,458,Eisley,H. Eisley,0,0,0,,0,0.0,0.0,0,h,Eisley P.FOUL (P3.T1),Foul,Personal,0,394
+20000431,396,PT07M52.00S,4,1610612745,HOU,1000,Anderson,S. Anderson,146,36,15,Missed,1,0.0,0.0,0,v,MISS Anderson 15' Jump Shot,Missed Shot,Jump Shot,0,395
+20000431,397,PT07M50.00S,4,1610612745,HOU,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,v,Taylor REBOUND (Off:4 Def:3),Rebound,Unknown,0,396
+20000431,398,PT07M39.00S,4,1610612745,HOU,1903,Thomas,K. Thomas,226,15,0,Made,1,72.0,89.0,161,v,Thomas  3PT Jump Shot (14 PTS) (Anderson 6 AST),Made Shot,Jump Shot,0,397
+20000431,399,PT07M27.00S,4,1610612745,HOU,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,v,Taylor S.FOUL (P4.PN),Foul,Shooting,0,398
+20000431,400,PT07M27.00S,4,1610612742,DAL,959,Nash,S. Nash,0,0,0,,0,73.0,89.0,162,h,Nash Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,399
+20000431,401,PT07M27.00S,4,1610612742,DAL,959,Nash,S. Nash,0,0,0,,0,0.0,0.0,0,h,MISS Nash Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,400
+20000431,402,PT07M26.00S,4,1610612745,HOU,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,v,Taylor REBOUND (Off:4 Def:4),Rebound,Unknown,0,401
+20000431,403,PT07M06.00S,4,1610612742,DAL,458,Eisley,H. Eisley,0,0,0,,0,0.0,0.0,0,h,Eisley P.FOUL (P4.T2),Foul,Personal,0,402
+20000431,404,PT06M54.00S,4,1610612742,DAL,762,Bradley,S. Bradley,0,0,0,,0,0.0,0.0,0,h,Bradley S.FOUL (P2.T3),Foul,Shooting,0,403
+20000431,405,PT06M54.00S,4,1610612745,HOU,983,Norris,M. Norris,0,0,0,,0,0.0,0.0,0,v,MISS Norris Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,404
+20000431,406,PT06M54.00S,4,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Normal Rebound,0,405
+20000431,407,PT06M54.00S,4,1610612742,DAL,762,Bradley,S. Bradley,0,0,0,,0,0.0,0.0,0,h,SUB: Harvey FOR Bradley,Substitution,,0,406
+20000431,408,PT06M54.00S,4,1610612745,HOU,983,Norris,M. Norris,0,0,0,,0,73.0,90.0,163,v,Norris Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,407
+20000431,409,PT06M48.00S,4,1610612742,DAL,959,Nash,S. Nash,77,228,24,Made,1,76.0,90.0,166,h,Nash 24' 3PT Jump Shot (17 PTS),Made Shot,Jump Shot,0,408
+20000431,410,PT06M32.00S,4,1610612745,HOU,1749,Mobley,C. Mobley,0,0,0,,0,0.0,0.0,0,v,Mobley Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,409
+20000431,410,PT06M32.00S,4,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,0.0,0.0,0,h,Finley STEAL (1 STL),,,0,410
+20000431,411,PT06M27.00S,4,1610612742,DAL,959,Nash,S. Nash,-172,177,25,Made,1,79.0,90.0,169,h,Nash 25' 3PT Jump Shot (20 PTS) (Finley 2 AST),Made Shot,Jump Shot,0,411
+20000431,412,PT06M26.00S,4,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,412
+20000431,413,PT06M25.00S,4,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,413
+20000431,413,PT06M25.00S,4,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,0.0,0.0,0,h,Finley STEAL (2 STL),,,0,414
+20000431,414,PT06M17.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-86,59,10,Missed,1,0.0,0.0,0,h,MISS Nowitzki 10' Jump Shot,Missed Shot,Jump Shot,0,415
+20000431,415,PT06M15.00S,4,1610612745,HOU,1903,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,v,Thomas REBOUND (Off:2 Def:7),Rebound,Unknown,0,416
+20000431,416,PT06M02.00S,4,1610612745,HOU,983,Norris,M. Norris,0,0,0,Missed,1,0.0,0.0,0,v,MISS Norris  Layup,Missed Shot,Layup Shot,0,417
+20000431,417,PT05M59.00S,4,1610612742,DAL,2051,Harvey,D. Harvey,0,0,0,,0,0.0,0.0,0,h,Harvey REBOUND (Off:1 Def:2),Rebound,Unknown,0,418
+20000431,418,PT05M57.00S,4,1610612742,DAL,714,Finley,M. Finley,0,0,0,Made,1,81.0,90.0,171,h,Finley  Slam Dunk (24 PTS) (Nash 4 AST),Made Shot,Slam Dunk Shot,0,419
+20000431,419,PT05M31.00S,4,1610612745,HOU,1508,Taylor,M. Taylor,-94,30,10,Missed,1,0.0,0.0,0,v,MISS Taylor 10' Jump Shot,Missed Shot,Jump Shot,0,420
+20000431,420,PT05M29.00S,4,1610612745,HOU,1903,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,v,Thomas REBOUND (Off:3 Def:7),Rebound,Unknown,0,421
+20000431,421,PT05M28.00S,4,1610612742,DAL,2051,Harvey,D. Harvey,0,0,0,,0,0.0,0.0,0,h,Harvey L.B.FOUL (P3.T4),Foul,Loose Ball,0,422
+20000431,422,PT05M28.00S,4,1610612745,HOU,983,Norris,M. Norris,0,0,0,,0,0.0,0.0,0,v,SUB: Francis FOR Norris,Substitution,,0,423
+20000431,423,PT05M18.00S,4,1610612745,HOU,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,v,Taylor OFF.Foul (P5),Foul,Offensive,0,424
+20000431,424,PT05M18.00S,4,1610612745,HOU,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,v,Taylor Foul Turnover (P4.T13),Turnover,Foul,0,425
+20000431,425,PT05M06.00S,4,1610612742,DAL,458,Eisley,H. Eisley,0,0,0,Missed,1,0.0,0.0,0,h,MISS Eisley  Layup,Missed Shot,Layup Shot,0,426
+20000431,426,PT05M04.00S,4,1610612745,HOU,1903,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,v,Thomas REBOUND (Off:3 Def:8),Rebound,Unknown,0,427
+20000431,428,PT04M41.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki S.FOUL (P4.PN),Foul,Shooting,0,428
+20000431,429,PT04M41.00S,4,1610612745,HOU,1749,Mobley,C. Mobley,0,0,0,,0,0.0,0.0,0,v,MISS Mobley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,429
+20000431,430,PT04M41.00S,4,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Normal Rebound,0,430
+20000431,431,PT04M41.00S,4,1610612742,DAL,2051,Harvey,D. Harvey,0,0,0,,0,0.0,0.0,0,h,SUB: Alexander FOR Harvey,Substitution,,0,431
+20000431,432,PT04M41.00S,4,1610612745,HOU,1749,Mobley,C. Mobley,0,0,0,,0,81.0,91.0,172,v,Mobley Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,432
+20000431,433,PT04M36.00S,4,1610612742,DAL,959,Nash,S. Nash,-8,76,8,Made,1,83.0,91.0,174,h,Nash 8' Running Jump Shot (22 PTS),Made Shot,Running Jump Shot,0,433
+20000431,434,PT04M18.00S,4,1610612745,HOU,1903,Thomas,K. Thomas,233,-6,0,Missed,1,0.0,0.0,0,v,MISS Thomas  3PT Jump Shot,Missed Shot,Jump Shot,0,434
+20000431,435,PT04M17.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki REBOUND (Off:0 Def:8),Rebound,Unknown,0,435
+20000431,436,PT04M17.00S,4,1610612745,HOU,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,v,Taylor L.B.FOUL (P6.PN),Foul,Loose Ball,0,436
+20000431,437,PT04M17.00S,4,1610612745,HOU,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,v,SUB: Norris FOR Taylor,Substitution,,0,437
+20000431,438,PT04M17.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,84.0,91.0,175,h,Nowitzki Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,438
+20000431,439,PT04M17.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,85.0,91.0,176,h,Nowitzki Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,439
+20000431,440,PT04M02.00S,4,1610612745,HOU,1749,Mobley,C. Mobley,0,0,0,Made,1,85.0,93.0,178,v,Mobley  Driving Layup (16 PTS),Made Shot,Driving Layup Shot,0,440
+20000431,441,PT03M52.00S,4,1610612742,DAL,458,Eisley,H. Eisley,0,0,0,,0,0.0,0.0,0,h,Eisley OFF.Foul (P5),Foul,Offensive,0,441
+20000431,442,PT03M52.00S,4,1610612742,DAL,458,Eisley,H. Eisley,0,0,0,,0,0.0,0.0,0,h,Eisley Foul Turnover (P2.T12),Turnover,Foul,0,442
+20000431,443,PT03M37.00S,4,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson Lost Ball Turnover (P2.T14),Turnover,Lost Ball,0,443
+20000431,444,PT03M26.00S,4,1610612742,DAL,714,Finley,M. Finley,205,137,25,Made,1,88.0,93.0,181,h,Finley 25' 3PT Jump Shot (27 PTS) (Nash 5 AST),Made Shot,Jump Shot,0,444
+20000431,445,PT03M08.00S,4,1610612745,HOU,1749,Mobley,C. Mobley,0,0,0,,0,0.0,0.0,0,v,Mobley Bad Pass Turnover (P4.T15),Turnover,Bad Pass,0,445
+20000431,445,PT03M08.00S,4,1610612742,DAL,2042,Alexander,C. Alexander,0,0,0,,0,0.0,0.0,0,h,Alexander STEAL (1 STL),,,0,446
+20000431,446,PT03M03.00S,4,1610612742,DAL,2042,Alexander,C. Alexander,0,0,0,,0,0.0,0.0,0,h,Alexander Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,447
+20000431,446,PT03M03.00S,4,1610612745,HOU,1903,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,v,Thomas STEAL (2 STL),,,0,448
+20000431,447,PT03M00.00S,4,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,Made,1,88.0,95.0,183,v,Anderson  Layup (12 PTS) (Thomas 4 AST),Made Shot,Layup Shot,0,449
+20000431,448,PT02M46.00S,4,1610612742,DAL,2042,Alexander,C. Alexander,3,116,12,Missed,1,0.0,0.0,0,h,MISS Alexander 12' Jump Shot,Missed Shot,Jump Shot,0,450
+20000431,449,PT02M44.00S,4,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson REBOUND (Off:3 Def:6),Rebound,Unknown,0,451
+20000431,450,PT02M36.00S,4,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Timeout: Regular (Reg.5 Short 1),Timeout,Regular,0,452
+20000431,452,PT02M36.00S,4,1610612742,DAL,2042,Alexander,C. Alexander,0,0,0,,0,0.0,0.0,0,h,SUB: Davis FOR Alexander,Substitution,,0,453
+20000431,453,PT02M27.00S,4,1610612742,DAL,458,Eisley,H. Eisley,0,0,0,,0,0.0,0.0,0,h,Eisley S.FOUL (P6.PN),Foul,Shooting,0,454
+20000431,454,PT02M27.00S,4,1610612742,DAL,458,Eisley,H. Eisley,0,0,0,,0,0.0,0.0,0,h,SUB: Alexander FOR Eisley,Substitution,,0,455
+20000431,455,PT02M27.00S,4,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,,0,88.0,96.0,184,v,Anderson Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,456
+20000431,456,PT02M27.00S,4,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,v,MISS Anderson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,457
+20000431,457,PT02M26.00S,4,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,0.0,0.0,0,h,Finley REBOUND (Off:3 Def:6),Rebound,Unknown,0,458
+20000431,458,PT02M18.00S,4,1610612745,HOU,1903,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,v,Thomas S.FOUL (P5.PN),Foul,Shooting,0,459
+20000431,459,PT02M18.00S,4,1610612742,DAL,959,Nash,S. Nash,0,0,0,,0,89.0,96.0,185,h,Nash Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,460
+20000431,460,PT02M18.00S,4,1610612742,DAL,2042,Alexander,C. Alexander,0,0,0,,0,0.0,0.0,0,h,SUB: Bradley FOR Alexander,Substitution,,0,461
+20000431,461,PT02M18.00S,4,1610612742,DAL,959,Nash,S. Nash,0,0,0,,0,90.0,96.0,186,h,Nash Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,462
+20000431,462,PT02M08.00S,4,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,Made,1,90.0,98.0,188,v,Anderson  Driving Layup (15 PTS) (Thomas 5 AST),Made Shot,Driving Layup Shot,0,463
+20000431,463,PT01M59.00S,4,1610612742,DAL,959,Nash,S. Nash,146,200,25,Missed,1,0.0,0.0,0,h,MISS Nash 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,464
+20000431,464,PT01M56.00S,4,1610612742,DAL,959,Nash,S. Nash,0,0,0,,0,0.0,0.0,0,h,Nash REBOUND (Off:1 Def:2),Rebound,Unknown,0,465
+20000431,465,PT01M52.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,212,-6,21,Missed,1,0.0,0.0,0,h,MISS Nowitzki 21' Jump Shot,Missed Shot,Jump Shot,0,466
+20000431,466,PT01M50.00S,4,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Rebound,Rebound,Unknown,0,467
+20000431,467,PT01M50.00S,4,1610612742,DAL,762,Bradley,S. Bradley,0,0,0,,0,0.0,0.0,0,h,SUB: Alexander FOR Bradley,Substitution,,0,468
+20000431,468,PT01M50.00S,4,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Timeout: Short (Full 3 Short 1),Timeout,Short,0,469
+20000431,469,PT01M44.00S,4,1610612742,DAL,93,Davis,H. Davis,0,0,0,Missed,1,0.0,0.0,0,h,MISS Davis  Layup,Missed Shot,Layup Shot,0,470
+20000431,470,PT01M42.00S,4,1610612745,HOU,1903,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,v,Thomas REBOUND (Off:3 Def:9),Rebound,Unknown,0,471
+20000431,471,PT01M26.00S,4,1610612745,HOU,1749,Mobley,C. Mobley,0,0,0,Made,1,90.0,100.0,190,v,Mobley  Driving Layup (18 PTS),Made Shot,Driving Layup Shot,0,472
+20000431,472,PT01M18.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,104,222,25,Missed,1,0.0,0.0,0,h,MISS Nowitzki 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,473
+20000431,473,PT01M17.00S,4,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Unknown,0,474
+20000431,474,PT01M17.00S,4,1610612742,DAL,2042,Alexander,C. Alexander,0,0,0,,0,0.0,0.0,0,h,SUB: Bradley FOR Alexander,Substitution,,0,475
+20000431,475,PT01M12.00S,4,1610612745,HOU,1903,Thomas,K. Thomas,0,0,0,Missed,1,0.0,0.0,0,v,MISS Thomas  Layup,Missed Shot,Layup Shot,0,476
+20000431,475,PT01M12.00S,4,1610612742,DAL,762,Bradley,S. Bradley,0,0,0,,0,0.0,0.0,0,h,Bradley BLOCK (1 BLK),,,0,477
+20000431,476,PT01M09.00S,4,1610612745,HOU,1903,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,v,Thomas REBOUND (Off:4 Def:9),Rebound,Unknown,0,478
+20000431,477,PT01M08.00S,4,1610612745,HOU,1903,Thomas,K. Thomas,0,0,0,Missed,1,0.0,0.0,0,v,MISS Thomas  Layup,Missed Shot,Layup Shot,0,479
+20000431,477,PT01M08.00S,4,1610612742,DAL,762,Bradley,S. Bradley,0,0,0,,0,0.0,0.0,0,h,Bradley BLOCK (2 BLK),,,0,480
+20000431,478,PT01M08.00S,4,1610612742,DAL,762,Bradley,S. Bradley,0,0,0,,0,0.0,0.0,0,h,Bradley REBOUND (Off:1 Def:4),Rebound,Unknown,0,481
+20000431,479,PT01M08.00S,4,1610612745,HOU,1903,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,v,Thomas L.B.FOUL (P6.PN),Foul,Loose Ball,0,482
+20000431,480,PT01M08.00S,4,1610612745,HOU,1903,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,v,SUB: Bullard FOR Thomas,Substitution,,0,483
+20000431,481,PT01M08.00S,4,1610612742,DAL,762,Bradley,S. Bradley,0,0,0,,0,0.0,0.0,0,,"Double Technical - Bradley, Thomas",Foul,Double Technical,0,484
+20000431,482,PT01M08.00S,4,1610612742,DAL,762,Bradley,S. Bradley,0,0,0,,0,91.0,100.0,191,h,Bradley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,485
+20000431,483,PT01M08.00S,4,1610612742,DAL,762,Bradley,S. Bradley,0,0,0,,0,92.0,100.0,192,h,Bradley Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,486
+20000431,485,PT01M03.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki P.FOUL (P5.PN),Foul,Personal,0,487
+20000431,486,PT01M03.00S,4,1610612742,DAL,762,Bradley,S. Bradley,0,0,0,,0,0.0,0.0,0,h,SUB: Alexander FOR Bradley,Substitution,,0,488
+20000431,487,PT01M03.00S,4,1610612745,HOU,1749,Mobley,C. Mobley,0,0,0,,0,92.0,101.0,193,v,Mobley Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,489
+20000431,488,PT01M03.00S,4,1610612745,HOU,1749,Mobley,C. Mobley,0,0,0,,0,92.0,102.0,194,v,Mobley Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,490
+20000431,489,PT01M03.00S,4,0,,1610612742,,,0,0,0,,0,0.0,0.0,0,h,MAVERICKS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,491
+20000431,490,PT01M00.00S,4,1610612745,HOU,1883,Francis,S. Francis,0,0,0,,0,0.0,0.0,0,v,Francis P.FOUL (P4.PN),Foul,Personal,0,492
+20000431,491,PT01M00.00S,4,1610612742,DAL,2042,Alexander,C. Alexander,0,0,0,,0,0.0,0.0,0,h,SUB: Bradley FOR Alexander,Substitution,,0,493
+20000431,492,PT01M00.00S,4,1610612742,DAL,959,Nash,S. Nash,0,0,0,,0,93.0,102.0,195,h,Nash Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,0,494
+20000431,493,PT01M00.00S,4,1610612742,DAL,959,Nash,S. Nash,0,0,0,,0,94.0,102.0,196,h,Nash Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,0,495
+20000431,494,PT00M59.50S,4,1610612742,DAL,93,Davis,H. Davis,0,0,0,,0,0.0,0.0,0,h,Davis P.FOUL (P3.PN),Foul,Personal,0,496
+20000431,495,PT00M59.50S,4,1610612742,DAL,762,Bradley,S. Bradley,0,0,0,,0,0.0,0.0,0,h,SUB: Alexander FOR Bradley,Substitution,,0,497
+20000431,496,PT00M59.50S,4,1610612745,HOU,1749,Mobley,C. Mobley,0,0,0,,0,94.0,103.0,197,v,Mobley Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,498
+20000431,497,PT00M59.50S,4,1610612745,HOU,1749,Mobley,C. Mobley,0,0,0,,0,94.0,104.0,198,v,Mobley Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,499
+20000431,498,PT00M54.50S,4,1610612742,DAL,959,Nash,S. Nash,0,0,0,Missed,1,0.0,0.0,0,h,MISS Nash  Layup,Missed Shot,Layup Shot,0,500
+20000431,499,PT00M52.80S,4,1610612745,HOU,1883,Francis,S. Francis,0,0,0,,0,0.0,0.0,0,v,Francis REBOUND (Off:0 Def:11),Rebound,Unknown,0,501
+20000431,500,PT00M52.80S,4,1610612742,DAL,93,Davis,H. Davis,0,0,0,,0,0.0,0.0,0,h,Davis P.FOUL (P4.PN),Foul,Personal,0,502
+20000431,501,PT00M52.80S,4,1610612745,HOU,1883,Francis,S. Francis,0,0,0,,0,94.0,105.0,199,v,Francis Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,503
+20000431,502,PT00M52.80S,4,1610612745,HOU,1883,Francis,S. Francis,0,0,0,,0,94.0,106.0,200,v,Francis Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,504
+20000431,503,PT00M46.10S,4,1610612742,DAL,714,Finley,M. Finley,-145,194,24,Made,1,97.0,106.0,203,h,Finley 24' 3PT Jump Shot (30 PTS) (Nash 6 AST),Made Shot,Jump Shot,0,505
+20000431,504,PT00M44.50S,4,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,0.0,0.0,0,h,Finley P.FOUL (P2.PN),Foul,Personal,0,506
+20000431,505,PT00M44.50S,4,1610612745,HOU,1749,Mobley,C. Mobley,0,0,0,,0,97.0,107.0,204,v,Mobley Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,507
+20000431,506,PT00M44.50S,4,1610612745,HOU,1749,Mobley,C. Mobley,0,0,0,,0,97.0,108.0,205,v,Mobley Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,508
+20000431,507,PT00M40.00S,4,1610612742,DAL,959,Nash,S. Nash,0,0,0,,0,0.0,0.0,0,h,Nash Bad Pass Turnover (P4.T14),Turnover,Bad Pass,0,509
+20000431,507,PT00M40.00S,4,1610612745,HOU,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson STEAL (5 STL),,,0,510
+20000431,508,PT00M36.70S,4,1610612745,HOU,1883,Francis,S. Francis,0,0,0,Made,1,97.0,110.0,207,v,Francis  Slam Dunk (20 PTS) (Anderson 7 AST),Made Shot,Slam Dunk Shot,0,511
+20000431,509,PT00M35.10S,4,1610612745,HOU,1749,Mobley,C. Mobley,0,0,0,,0,0.0,0.0,0,v,Mobley P.FOUL (P4.PN),Foul,Personal,0,512
+20000431,510,PT00M35.10S,4,1610612742,DAL,959,Nash,S. Nash,0,0,0,,0,0.0,0.0,0,h,SUB: Harvey FOR Nash,Substitution,,0,513
+20000431,511,PT00M35.10S,4,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,98.0,110.0,208,h,Finley Free Throw 1 of 2 (31 PTS),Free Throw,Free Throw 1 of 2,0,514
+20000431,512,PT00M35.10S,4,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,99.0,110.0,209,h,Finley Free Throw 2 of 2 (32 PTS),Free Throw,Free Throw 2 of 2,0,515
+20000431,513,PT00M29.20S,4,1610612742,DAL,714,Finley,M. Finley,0,0,0,,0,0.0,0.0,0,h,Finley P.FOUL (P3.PN),Foul,Personal,0,516
+20000431,514,PT00M29.20S,4,1610612745,HOU,1883,Francis,S. Francis,0,0,0,,0,99.0,111.0,210,v,Francis Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,517
+20000431,515,PT00M29.20S,4,1610612745,HOU,1883,Francis,S. Francis,0,0,0,,0,99.0,112.0,211,v,Francis Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,518
+20000431,516,PT00M27.70S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,0.0,0.0,0,h,Nowitzki Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,519
+20000431,516,PT00M27.70S,4,1610612745,HOU,983,Norris,M. Norris,0,0,0,,0,0.0,0.0,0,v,Norris STEAL (1 STL),,,0,520
+20000431,517,PT00M26.90S,4,1610612745,HOU,983,Norris,M. Norris,0,0,0,Made,1,99.0,114.0,213,v,Norris  Layup (9 PTS),Made Shot,Layup Shot,0,521
+20000431,518,PT00M23.40S,4,1610612742,DAL,2042,Alexander,C. Alexander,0,0,0,,0,0.0,0.0,0,h,Alexander Out Of Bounds Turnover (P2.T16),Turnover,Out Of Bounds,0,522
+20000431,519,PT00M00.00S,4,0,,0,,,0,0,0,,0,99.0,114.0,213,,End of 4th Period (9:32 AM EST),period,end,0,523

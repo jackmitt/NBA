@@ -398,6 +398,9 @@ def lineups_on_court():
     games = pd.read_csv("./database/games.csv")
     games_to_exclude = list(games[games["game_type"].str.contains("Pre Season|Pre-Season")]['game_id'])
 
+    #for games I find that are messed up
+    games_to_exclude(21500916)
+
     game_ids = list(pbp["game_id"].unique())
 
     #players_df = pd.read_csv(db_path+'players.csv')
@@ -673,7 +676,7 @@ def clock_sec(row):
     else:
         return (time)
 #The following are for getting the stats of the players for the particular lineup
-def get_lineup_key(row, id, location):
+def get_lineup_key(row, id, location, cur_pbp):
     missing_value_keys = []
     for side in ['h','a']:
         for i in range(1,6):
@@ -686,6 +689,7 @@ def get_lineup_key(row, id, location):
     if (len(missing_value_keys) == 1):
         return (side+'_player_'+str(i))
     print ("ERROR: Player ID Not Found in Lineup:", id, row['game_id'], row['start'], row['end'])
+    cur_pbp.to_csv('./error_logs/'+str(row['game_id'])+'.csv', index=False)
     if (location == 'h'):
         return ('h_unknown')
     elif (location == 'v'):
@@ -700,7 +704,7 @@ def should_skip(row, index, actionType, pbp, start=-1, end=-1):
         for i, r in pbp.loc[pbp['clock_sec']==start,].iterrows():
             if (r['actionType'] == 'Substitution'):
                 sub_happened = True
-            if (not sub_happened and row['actionType'] == actionType and index == i):
+            if (not sub_happened and actionType in row['actionType'] and index == i):
                 ignore = True
                 break
     elif (row['clock_sec'] == end):
@@ -708,7 +712,7 @@ def should_skip(row, index, actionType, pbp, start=-1, end=-1):
         for i, r in pbp.loc[pbp['clock_sec']==end,].iterrows():
             if (r['actionType'] == 'Substitution'):
                 sub_happened = True
-            if (sub_happened and row['actionType'] == actionType and index == i):
+            if (sub_happened and actionType in row['actionType'] and index == i):
                 ignore = True
                 break
     return (ignore)
@@ -725,11 +729,11 @@ def tabulate_traditional_stats(cur_pbp, cur_lu, pbp, stats, start, end):
             for cat in cats:
                 stats[x+'_'+cat] = 0
     
-    made_shot = cur_pbp.loc[cur_pbp['actionType'] == 'Made Shot',]
+    made_shot = cur_pbp[cur_pbp['actionType'].str.contains('Made Shot', na=False)]
     for index, row in made_shot.iterrows():
         #Sometimes things happen at the absolute beginning of the quarter which would be considered the end of the last lineup, need to avoid this
         if (row['clock'] == 'PT12M00.00S' and (end == 720 or end == 1440 or end == 2160)):
-            return (stats)
+            continue
         
         if (row['clock_sec'] == start):
             if (should_skip(row, index, 'Made Shot', pbp, start=start)):
@@ -737,7 +741,7 @@ def tabulate_traditional_stats(cur_pbp, cur_lu, pbp, stats, start, end):
         elif (row['clock_sec'] == end):
             if (should_skip(row, index, 'Made Shot', pbp, end=end)):
                 continue
-        key = get_lineup_key(cur_lu, row['personId'], row['location'])
+        key = get_lineup_key(cur_lu, row['personId'], row['location'], cur_pbp)
         stats[key+'_fgm'] += 1
         stats[key+'_fga'] += 1
         if ("3PT" in row['description']):
@@ -748,13 +752,14 @@ def tabulate_traditional_stats(cur_pbp, cur_lu, pbp, stats, start, end):
             stats[key+'_pts'] += 2
 
         #We ignore and-one makes
-        stats['possessions'] += 1
+        stats['possessions'] += 0.5
+        #print (row['actionNumber'])
     
-    missed_shot = cur_pbp.loc[cur_pbp['actionType'] == 'Missed Shot',]
+    missed_shot = cur_pbp[cur_pbp['actionType'].str.contains('Missed Shot', na=False)]
     for index, row in missed_shot.iterrows():
         #Sometimes things happen at the absolute beginning of the quarter which would be considered the end of the last lineup, need to avoid this
         if (row['clock'] == 'PT12M00.00S' and (end == 720 or end == 1440 or end == 2160 or end == 2880)):
-            return (stats)
+            continue
         
         if (row['clock_sec'] == start):
             if (should_skip(row, index, 'Missed Shot', pbp, start=start)):
@@ -762,16 +767,16 @@ def tabulate_traditional_stats(cur_pbp, cur_lu, pbp, stats, start, end):
         elif (row['clock_sec'] == end):
             if (should_skip(row, index, 'Missed Shot', pbp, end=end)):
                 continue
-        key = get_lineup_key(cur_lu, row['personId'], row['location'])
+        key = get_lineup_key(cur_lu, row['personId'], row['location'], cur_pbp)
         stats[key+'_fga'] += 1
         if ("3PT" in row['description']):
             stats[key+'_3pa'] += 1
     
-    free_throws = cur_pbp.loc[cur_pbp['actionType'] == 'Free Throw',]
+    free_throws = cur_pbp[cur_pbp['actionType'].str.contains('Free Throw', na=False)]
     for index, row in free_throws.iterrows():
         #Sometimes things happen at the absolute beginning of the quarter which would be considered the end of the last lineup, need to avoid this
         if (row['clock'] == 'PT12M00.00S' and (end == 720 or end == 1440 or end == 2160)):
-            return (stats)
+            continue
         
         #Free throws that happen around subs are counted twice otherwise
         #Credit should go to the team who fouled to start the free throw shooting, ie. the last lineup
@@ -785,7 +790,7 @@ def tabulate_traditional_stats(cur_pbp, cur_lu, pbp, stats, start, end):
                 continue
         if (row['clock_sec'] == start):
             continue
-        key = get_lineup_key(cur_lu, row['personId'], row['location'])
+        key = get_lineup_key(cur_lu, row['personId'], row['location'], cur_pbp)
         stats[key+"_fta"] += 1
         if ("MISS" not in row['description']):
             stats[key+"_ftm"] += 1
@@ -793,15 +798,17 @@ def tabulate_traditional_stats(cur_pbp, cur_lu, pbp, stats, start, end):
         
         if (not 'Technical' in row['description'] and not 'Flagrant' in row['description'] and not "Clear Path" in row['description']):
             #And-ones have their possession tabulated on the made shot
-            if ('1 of 1' not in row['subType']):
+            if ('2 of 2' in row['subType'] or '3 of 3' in row['subType']):
                 if ("MISS " not in row['description']):
-                    stats['possessions'] += 1
+                    stats['possessions'] += 0.5
+                    #print (row['actionNumber'])
     
-    rebounds = cur_pbp.loc[cur_pbp['actionType'] == 'Rebound',]
+    rebounds = cur_pbp[cur_pbp['actionType'].str.contains('Rebound', na=False)]
     for index, row in rebounds.iterrows():
+        team_reb_id = -1
         #Sometimes things happen at the absolute beginning of the quarter which would be considered the end of the last lineup, need to avoid this
         if (row['clock'] == 'PT12M00.00S' and (end == 720 or end == 1440 or end == 2160 or end == 2880)):
-            return (stats)
+            continue
         
         #Sometimes rebounds are given to missed shots at the ends of quarters but they are meaningless, if they even actually occur
         if (row['clock'] == 'PT00M00.00S'):
@@ -819,6 +826,7 @@ def tabulate_traditional_stats(cur_pbp, cur_lu, pbp, stats, start, end):
             if (should_skip(row, index, 'Rebound', pbp, end=end)):
                 skip_reb = True  
         if (row['personId'] > 1000000000):
+            team_reb_id = row['personId']
             if (row['location'] == 'h'):
                 key = 'h_team'
             elif (row['location'] == 'v'):
@@ -826,76 +834,121 @@ def tabulate_traditional_stats(cur_pbp, cur_lu, pbp, stats, start, end):
             else:
                 print ("ERROR: Team Rebound Unknown Side")
         else:
-            key = get_lineup_key(cur_lu, row['personId'], row['location'])
+            key = get_lineup_key(cur_lu, row['personId'], row['location'], cur_pbp)
         if (not pd.isnull(pbp.at[index-1,'description']) and "MISS " in pbp.at[index-1,'description']):
             #Sometimes rebounds are improperly given after missed first free throw out of two
             if ("Free Throw" in pbp.at[index-1,'description']):
                 if (not 'Technical' in pbp.at[index-1,'description'] and not 'Flagrant' in pbp.at[index-1,'description'] and not "Clear Path" in pbp.at[index-1,'description']):
-                    if ('1 of 1' not in pbp.at[index-1,'subType']):
-                        if (pbp.at[index-1,'teamId'] == row['teamId']):
+                    if ('2 of 2' in pbp.at[index-1,'subType'] or '3 of 3' in pbp.at[index-1,'subType']):
+                        if (team_reb_id < 1000000000):
+                            team_reb_id = row['teamId']
+                        if (pbp.at[index-1,'teamId'] == team_reb_id):
                             if (not skip_reb):
                                 stats[key+'_oreb'] += 1
                         else:
                             if (not skip_reb):
                                 stats[key+'_dreb'] += 1 
                             if (not start_event):
-                                stats['possessions'] += 1
+                                stats['possessions'] += 0.5
+                                #print (row['actionNumber'])
             else:
-                if (pbp.at[index-1,'teamId'] == row['teamId']):
+                if (team_reb_id < 1000000000):
+                    team_reb_id = row['teamId']
+                if (pbp.at[index-1,'teamId'] == team_reb_id):
                     stats[key+'_oreb'] += 1
                 else:
                     stats[key+'_dreb'] += 1
-                    stats['possessions'] += 1
+                    stats['possessions'] += 0.5
+                    #print (row['actionNumber'])
         elif (not pd.isnull(pbp.at[index-1,'description']) and not pd.isnull(pbp.at[index-2,'description']) and "BLK)" in pbp.at[index-1,'description'] and "MISS " in pbp.at[index-2,'description']):
-            if (pbp.at[index-2,'teamId'] == row['teamId']):
+            if (team_reb_id < 1000000000):
+                team_reb_id = row['teamId']
+            if (pbp.at[index-2,'teamId'] == team_reb_id):
                 stats[key+'_oreb'] += 1
             else:
                 stats[key+'_dreb'] += 1
-                stats['possessions'] += 1
+                stats['possessions'] += 0.5
+                #print (row['actionNumber'])
+        elif (not pd.isnull(pbp.at[index-1,'description']) and not pd.isnull(pbp.at[index-2,'description']) and "L.B.FOUL" in pbp.at[index-1,'description'] and "MISS " in pbp.at[index-2,'description']):
+            if ("Free Throw" in pbp.at[index-2,'description']):
+                if (not 'Technical' in pbp.at[index-2,'description'] and not 'Flagrant' in pbp.at[index-2,'description'] and not "Clear Path" in pbp.at[index-2,'description']):
+                    if ('2 of 2' in pbp.at[index-2,'subType'] or '3 of 3' in pbp.at[index-2,'subType']):
+                        if (team_reb_id < 1000000000):
+                            team_reb_id = row['teamId']
+                        if (pbp.at[index-2,'teamId'] == team_reb_id):
+                            if (not skip_reb):
+                                stats[key+'_oreb'] += 1
+                        else:
+                            if (not skip_reb):
+                                stats[key+'_dreb'] += 1 
+                            if (not start_event):
+                                stats['possessions'] += 0.5
+                                #print (row['actionNumber'])
+            else:
+                if (team_reb_id < 1000000000):
+                    team_reb_id = row['teamId']
+                if (pbp.at[index-2,'teamId'] == team_reb_id):
+                    stats[key+'_oreb'] += 1
+                else:
+                    stats[key+'_dreb'] += 1
+                    stats['possessions'] += 0.5
+                    #print (row['actionNumber'])
         elif (not pd.isnull(pbp.at[index-1,'description']) and "SUB: " in pbp.at[index-1,'description']):
             cur_index = index - 2
             while (not pd.isnull(pbp.at[cur_index,'description']) and "SUB: " in pbp.at[cur_index,'description']):
                 cur_index -= 1
             if ("Free Throw" in pbp.at[cur_index,'description']):
                 if (not 'Technical' in pbp.at[cur_index,'description'] and not 'Flagrant' in pbp.at[cur_index,'description'] and not "Clear Path" in pbp.at[cur_index,'description']):
-                    if ('1 of 1' not in pbp.at[cur_index,'subType']):
-                        if (pbp.at[cur_index,'teamId'] == row['teamId']):
+                    if ('2 of 2' in pbp.at[cur_index,'subType'] or '3 of 3' in pbp.at[cur_index,'subType']):
+                        if (team_reb_id < 1000000000):
+                            team_reb_id = row['teamId']
+                        if (pbp.at[cur_index,'teamId'] == team_reb_id):
                             if (not skip_reb):
                                 stats[key+'_oreb'] += 1
                         else:
                             if (not skip_reb):
                                 stats[key+'_dreb'] += 1
                             if (not start_event):
-                                stats['possessions'] += 1
+                                stats['possessions'] += 0.5
+                                #print (row['actionNumber'])
             else:
-                if (pbp.at[cur_index,'teamId'] == row['teamId']):
+                if (team_reb_id < 1000000000):
+                    team_reb_id = row['teamId']
+                if (pbp.at[cur_index,'teamId'] == team_reb_id):
                     stats[key+'_oreb'] += 1
                 else:
                     stats[key+'_dreb'] += 1
-                    stats['possessions'] += 1
+                    stats['possessions'] += 0.5
+                    #print (row['actionNumber'])
         elif (not pd.isnull(pbp.at[index-1,'description']) and "REBOUND" in pbp.at[index-1,'description']):
             continue
         elif (not pd.isnull(pbp.at[index-1,'description']) and "Jump Ball" in pbp.at[index-1,'description']):
             if (not pd.isnull(pbp.at[index-2,'description']) and 'MISS ' in pbp.at[index-2,'description']):
-                if (pbp.at[index-2,'teamId'] == row['teamId']):
+                if (team_reb_id < 1000000000):
+                    team_reb_id = row['teamId']
+                if (pbp.at[index-2,'teamId'] == team_reb_id):
                     stats[key+'_oreb'] += 1
                 else:
                     stats[key+'_dreb'] += 1
-                    stats['possessions'] += 1
+                    stats['possessions'] += 0.5
+                    #print (row['actionNumber'])
             elif (not pd.isnull(pbp.at[index-2,'description']) and not pd.isnull(pbp.at[index-3,'description']) and 'BLK)' in pbp.at[index-2,'description'] and 'MISS ' in pbp.at[index-3,'description']):
-                if (pbp.at[index-3,'teamId'] == row['teamId']):
+                if (team_reb_id < 1000000000):
+                    team_reb_id = row['teamId']
+                if (pbp.at[index-3,'teamId'] == team_reb_id):
                     stats[key+'_oreb'] += 1
                 else:
                     stats[key+'_dreb'] += 1
-                    stats['possessions'] += 1
+                    stats['possessions'] += 0.5
+                    #print (row['actionNumber'])
         else:
             print ("ERROR: Rebound doesn't follow missed shot", row['game_id'], row['clock_sec'])
     
-    turnovers = cur_pbp.loc[cur_pbp['actionType'] == 'Turnover',]
+    turnovers = cur_pbp[cur_pbp['actionType'].str.contains('Turnover', na=False)]
     for index, row in turnovers.iterrows():
         #Sometimes things happen at the absolute beginning of the quarter which would be considered the end of the last lineup, need to avoid this
         if (row['clock'] == 'PT12M00.00S' and (end == 720 or end == 1440 or end == 2160 or end == 2880)):
-            return (stats)
+            continue
         
         if (row['clock_sec'] == start):
             if (should_skip(row, index, 'Turnover', pbp, start=start)):
@@ -904,13 +957,14 @@ def tabulate_traditional_stats(cur_pbp, cur_lu, pbp, stats, start, end):
             if (should_skip(row, index, 'Turnover', pbp, end=end)):
                 continue
 
-        stats['possessions'] += 1
+        stats['possessions'] += 0.5
+        #print (row['actionNumber'])
     
-    goaltends = cur_pbp.loc[cur_pbp['subType'] == 'Defensive Goaltending',]
+    goaltends = cur_pbp[cur_pbp['subType'].str.contains('Defensive Goaltending', na=False)]
     for index, row in goaltends.iterrows():
         #Sometimes things happen at the absolute beginning of the quarter which would be considered the end of the last lineup, need to avoid this
         if (row['clock'] == 'PT12M00.00S' and (end == 720 or end == 1440 or end == 2160 or end == 2880)):
-            return (stats)
+            continue
         
         if (row['clock_sec'] == start):
             if (should_skip(row, index, 'Violation', pbp, start=start)):
@@ -919,16 +973,36 @@ def tabulate_traditional_stats(cur_pbp, cur_lu, pbp, stats, start, end):
             if (should_skip(row, index, 'Violation', pbp, end=end)):
                 continue
 
-        stats['possessions'] += 1
+        stats['possessions'] += 0.5
+        #print (row['actionNumber'])
     
+    return (stats)
+def calculate_advanced_stats(stats, start, end):
+    stats['pace'] = stats['possessions'] * 2880 / (end-start)
+    
+    total_h_pts = 0
+    total_a_pts = 0
+    for col in stats:
+        if ('h_' in col and '_pts' in col):
+            total_h_pts += stats[col]
+        elif ('a_' in col and '_pts' in col):
+            total_a_pts += stats[col]
+    if (stats['possessions'] > 0):
+        stats['h_off_rtg'] = total_h_pts * 100 / stats['possessions']
+        stats['a_off_rtg'] = total_a_pts * 100 / stats['possessions']
+    else:
+        stats['h_off_rtg'] = np.nan
+        stats['a_off_rtg'] = np.nan
+
     return (stats)
 def boxscores_by_lineup():
     lineups = pd.read_csv(db_path+'unique_lineups.csv')
-    play_by_play = pd.read_csv('C:/Users/jackj/OneDrive/Desktop/play_by_play.csv')
+    play_by_play = pd.read_csv(db_path+'play_by_play.csv')
 
     play_by_play['clock_sec'] = play_by_play.apply(clock_sec, axis=1)
 
     game_ids = list(lineups['game_id'].unique())
+
 
     table = []
     for gid in tqdm(game_ids):
@@ -944,8 +1018,10 @@ def boxscores_by_lineup():
                 cur_pbp = pbp[pbp['clock_sec'].between(start, end)]
                 
                 stats = tabulate_traditional_stats(cur_pbp, lu.iloc[index], pbp, stats, start, end)
-            
+                stats = calculate_advanced_stats(stats, start, end)
             table.append(stats)
+        
+
     
     df = pd.DataFrame(table)
     lineups = pd.concat([lineups,df],axis=1)

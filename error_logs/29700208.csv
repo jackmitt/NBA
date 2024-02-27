@@ -1,0 +1,481 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+29700208,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (11:39 AM EST),period,start,0,1
+29700208,1,PT12M00.00S,1,1610612737,ATL,87,Mutombo,D. Mutombo,0,0,0,,0,0.0,0.0,0,h,Jump Ball Mutombo vs. Divac: Tip to Smith,Jump Ball,,0,2
+29700208,2,PT11M42.00S,1,1610612737,ATL,895,Corbin,T. Corbin,-124,78,15,Missed,1,0.0,0.0,0,h,MISS Corbin 15' Jump Shot,Missed Shot,Jump Shot,0,3
+29700208,3,PT11M39.00S,1,1610612737,ATL,87,Mutombo,D. Mutombo,0,0,0,,0,0.0,0.0,0,h,Mutombo REBOUND (Off:1 Def:0),Rebound,Unknown,0,4
+29700208,4,PT11M37.00S,1,1610612737,ATL,895,Corbin,T. Corbin,123,55,13,Missed,1,0.0,0.0,0,h,MISS Corbin 13' Jump Shot,Missed Shot,Jump Shot,0,5
+29700208,5,PT11M37.00S,1,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,v,Mason REBOUND (Off:0 Def:1),Rebound,Unknown,0,6
+29700208,6,PT11M25.00S,1,1610612766,CHH,779,Rice,G. Rice,-111,10,11,Missed,1,0.0,0.0,0,v,MISS Rice 11' Jump Shot,Missed Shot,Jump Shot,0,7
+29700208,7,PT11M25.00S,1,1610612737,ATL,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,h,Laettner REBOUND (Off:0 Def:1),Rebound,Unknown,0,8
+29700208,8,PT11M16.00S,1,1610612737,ATL,895,Corbin,T. Corbin,0,0,0,Made,1,2.0,0.0,2,h,Corbin  Layup (2 PTS) (Blaylock 1 AST),Made Shot,Layup Shot,0,9
+29700208,9,PT11M06.00S,1,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,0.0,0.0,0,v,Wesley Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,10
+29700208,10,PT10M49.00S,1,1610612737,ATL,87,Mutombo,D. Mutombo,-98,44,11,Made,1,4.0,0.0,4,h,Mutombo 11' Hook Shot (2 PTS),Made Shot,Hook Shot,0,11
+29700208,11,PT10M28.00S,1,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,Made,1,4.0,2.0,6,v,Wesley  Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,12
+29700208,12,PT10M17.00S,1,1610612737,ATL,302,Blaylock,M. Blaylock,128,98,16,Made,1,6.0,2.0,8,h,Blaylock 16' Jump Shot (2 PTS),Made Shot,Jump Shot,0,13
+29700208,13,PT10M06.00S,1,1610612766,CHH,193,Mason,A. Mason,0,0,0,Missed,1,0.0,0.0,0,v,MISS Mason  Layup,Missed Shot,Layup Shot,0,14
+29700208,13,PT10M06.00S,1,1610612737,ATL,87,Mutombo,D. Mutombo,0,0,0,,0,0.0,0.0,0,h,Mutombo BLOCK (1 BLK),,,0,15
+29700208,14,PT10M05.00S,1,1610612737,ATL,120,Smith,S. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,0,16
+29700208,15,PT09M56.00S,1,1610612737,ATL,120,Smith,S. Smith,-190,169,25,Missed,1,0.0,0.0,0,h,MISS Smith 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,17
+29700208,16,PT09M55.00S,1,1610612737,ATL,87,Mutombo,D. Mutombo,0,0,0,,0,0.0,0.0,0,h,Mutombo REBOUND (Off:2 Def:0),Rebound,Unknown,0,18
+29700208,17,PT09M44.00S,1,1610612737,ATL,87,Mutombo,D. Mutombo,0,0,0,,0,0.0,0.0,0,h,Mutombo Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,19
+29700208,17,PT09M44.00S,1,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,0.0,0.0,0,v,Wesley STEAL (1 STL),,,0,20
+29700208,18,PT09M39.00S,1,1610612766,CHH,184,Phills,B. Phills,145,14,15,Made,1,6.0,4.0,10,v,Phills 15' Jump Shot (2 PTS) (Wesley 1 AST),Made Shot,Jump Shot,0,21
+29700208,19,PT09M23.00S,1,1610612737,ATL,895,Corbin,T. Corbin,-160,1,16,Missed,1,0.0,0.0,0,h,MISS Corbin 16' Jump Shot,Missed Shot,Jump Shot,0,22
+29700208,20,PT09M23.00S,1,1610612766,CHH,184,Phills,B. Phills,0,0,0,,0,0.0,0.0,0,v,Phills REBOUND (Off:0 Def:1),Rebound,Unknown,0,23
+29700208,21,PT09M02.00S,1,1610612766,CHH,184,Phills,B. Phills,123,-12,12,Missed,1,0.0,0.0,0,v,MISS Phills 12' Jump Shot,Missed Shot,Jump Shot,0,24
+29700208,22,PT09M02.00S,1,1610612737,ATL,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,h,Laettner REBOUND (Off:0 Def:2),Rebound,Unknown,0,25
+29700208,23,PT08M48.00S,1,1610612737,ATL,87,Mutombo,D. Mutombo,0,0,0,,0,0.0,0.0,0,h,Mutombo Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,26
+29700208,23,PT08M48.00S,1,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,v,Mason STEAL (1 STL),,,0,27
+29700208,24,PT08M35.00S,1,1610612737,ATL,87,Mutombo,D. Mutombo,0,0,0,,0,0.0,0.0,0,h,Mutombo S.FOUL (P1.T1),Foul,Shooting,0,28
+29700208,25,PT08M35.00S,1,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,6.0,5.0,11,v,Mason Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,29
+29700208,26,PT08M35.00S,1,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,6.0,6.0,12,v,Mason Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,30
+29700208,27,PT08M18.00S,1,1610612737,ATL,363,Laettner,C. Laettner,-141,38,15,Missed,1,0.0,0.0,0,h,MISS Laettner 15' Jump Shot,Missed Shot,Jump Shot,0,31
+29700208,28,PT08M16.00S,1,1610612766,CHH,184,Phills,B. Phills,0,0,0,,0,0.0,0.0,0,v,Phills REBOUND (Off:0 Def:2),Rebound,Unknown,0,32
+29700208,29,PT08M02.00S,1,1610612766,CHH,193,Mason,A. Mason,0,0,0,Missed,1,0.0,0.0,0,v,MISS Mason  Layup,Missed Shot,Layup Shot,0,33
+29700208,30,PT07M58.00S,1,1610612737,ATL,302,Blaylock,M. Blaylock,0,0,0,,0,0.0,0.0,0,h,Blaylock REBOUND (Off:0 Def:1),Rebound,Unknown,0,34
+29700208,31,PT07M56.00S,1,1610612737,ATL,120,Smith,S. Smith,0,0,0,Made,1,8.0,6.0,14,h,Smith  Layup (2 PTS) (Blaylock 2 AST),Made Shot,Layup Shot,0,35
+29700208,32,PT07M34.00S,1,1610612766,CHH,133,Wesley,D. Wesley,160,203,26,Missed,1,0.0,0.0,0,v,MISS Wesley 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,36
+29700208,33,PT07M30.00S,1,1610612737,ATL,302,Blaylock,M. Blaylock,0,0,0,,0,0.0,0.0,0,h,Blaylock REBOUND (Off:0 Def:2),Rebound,Unknown,0,37
+29700208,34,PT07M28.00S,1,1610612737,ATL,895,Corbin,T. Corbin,0,0,0,Missed,1,0.0,0.0,0,h,MISS Corbin  Layup,Missed Shot,Layup Shot,0,38
+29700208,35,PT07M24.00S,1,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,0.0,0.0,0,v,Divac REBOUND (Off:0 Def:1),Rebound,Unknown,0,39
+29700208,36,PT07M19.00S,1,1610612766,CHH,184,Phills,B. Phills,106,218,24,Missed,1,0.0,0.0,0,v,MISS Phills 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,40
+29700208,37,PT07M16.00S,1,1610612737,ATL,87,Mutombo,D. Mutombo,0,0,0,,0,0.0,0.0,0,h,Mutombo REBOUND (Off:2 Def:1),Rebound,Unknown,0,41
+29700208,38,PT07M03.00S,1,1610612737,ATL,120,Smith,S. Smith,0,0,0,Missed,1,0.0,0.0,0,h,MISS Smith  Layup,Missed Shot,Layup Shot,0,42
+29700208,39,PT07M00.00S,1,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,0.0,0.0,0,v,Divac REBOUND (Off:0 Def:2),Rebound,Unknown,0,43
+29700208,40,PT06M57.00S,1,1610612737,ATL,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,h,Laettner Violation:Double Lane,Violation,Double Lane,0,44
+29700208,41,PT06M57.00S,1,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,45
+29700208,43,PT06M36.00S,1,1610612766,CHH,133,Wesley,D. Wesley,-136,53,15,Made,1,8.0,8.0,16,v,Wesley 15' Jump Shot (4 PTS) (Phills 1 AST),Made Shot,Jump Shot,0,46
+29700208,44,PT06M19.00S,1,1610612737,ATL,302,Blaylock,M. Blaylock,194,164,25,Missed,1,0.0,0.0,0,h,MISS Blaylock 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,47
+29700208,45,PT06M16.00S,1,1610612766,CHH,184,Phills,B. Phills,0,0,0,,0,0.0,0.0,0,v,Phills REBOUND (Off:0 Def:3),Rebound,Unknown,0,48
+29700208,46,PT06M07.00S,1,1610612766,CHH,124,Divac,V. Divac,-16,199,20,Missed,1,0.0,0.0,0,v,MISS Divac 20' Jump Shot,Missed Shot,Jump Shot,0,49
+29700208,47,PT06M07.00S,1,1610612737,ATL,895,Corbin,T. Corbin,0,0,0,,0,0.0,0.0,0,h,Corbin REBOUND (Off:0 Def:1),Rebound,Unknown,0,50
+29700208,48,PT05M52.00S,1,1610612737,ATL,363,Laettner,C. Laettner,138,23,14,Missed,1,0.0,0.0,0,h,MISS Laettner 14' Jump Shot,Missed Shot,Jump Shot,0,51
+29700208,49,PT05M52.00S,1,1610612737,ATL,87,Mutombo,D. Mutombo,0,0,0,,0,0.0,0.0,0,h,Mutombo REBOUND (Off:3 Def:1),Rebound,Unknown,0,52
+29700208,50,PT05M45.00S,1,1610612737,ATL,363,Laettner,C. Laettner,0,0,0,Made,1,10.0,8.0,18,h,Laettner  Layup (2 PTS) (Blaylock 3 AST),Made Shot,Layup Shot,0,53
+29700208,51,PT05M28.00S,1,1610612766,CHH,124,Divac,V. Divac,136,83,16,Made,1,10.0,10.0,20,v,Divac 16' Jump Shot (2 PTS) (Phills 2 AST),Made Shot,Jump Shot,0,54
+29700208,52,PT05M17.00S,1,1610612737,ATL,363,Laettner,C. Laettner,0,0,0,Made,1,12.0,10.0,22,h,Laettner  Layup (4 PTS) (Blaylock 4 AST),Made Shot,Layup Shot,0,55
+29700208,53,PT04M59.00S,1,1610612766,CHH,124,Divac,V. Divac,78,177,19,Made,1,12.0,12.0,24,v,Divac 19' Jump Shot (4 PTS) (Mason 1 AST),Made Shot,Jump Shot,0,56
+29700208,54,PT04M39.00S,1,1610612737,ATL,363,Laettner,C. Laettner,0,0,0,Made,1,14.0,12.0,26,h,Laettner  Layup (6 PTS),Made Shot,Layup Shot,0,57
+29700208,55,PT04M30.00S,1,1610612766,CHH,184,Phills,B. Phills,0,0,0,,0,0.0,0.0,0,v,Phills Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,58
+29700208,55,PT04M30.00S,1,1610612737,ATL,302,Blaylock,M. Blaylock,0,0,0,,0,0.0,0.0,0,h,Blaylock STEAL (1 STL),,,0,59
+29700208,56,PT04M26.00S,1,1610612737,ATL,120,Smith,S. Smith,0,0,0,Made,1,16.0,12.0,28,h,Smith  Layup (4 PTS) (Blaylock 5 AST),Made Shot,Layup Shot,0,60
+29700208,57,PT04M09.00S,1,1610612737,ATL,895,Corbin,T. Corbin,0,0,0,,0,0.0,0.0,0,h,Corbin P.FOUL (P1.T2),Foul,Personal,0,61
+29700208,58,PT04M09.00S,1,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,0.0,0.0,0,v,SUB: Geiger FOR Divac,Substitution,,0,62
+29700208,59,PT04M06.00S,1,1610612766,CHH,133,Wesley,D. Wesley,-132,70,15,Missed,1,0.0,0.0,0,v,MISS Wesley 15' Jump Shot,Missed Shot,Jump Shot,0,63
+29700208,60,PT04M05.00S,1,1610612766,CHH,761,Geiger,M. Geiger,0,0,0,,0,0.0,0.0,0,v,Geiger REBOUND (Off:1 Def:0),Rebound,Unknown,0,64
+29700208,61,PT03M58.00S,1,1610612766,CHH,779,Rice,G. Rice,158,205,26,Missed,1,0.0,0.0,0,v,MISS Rice 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,65
+29700208,62,PT03M55.00S,1,1610612737,ATL,87,Mutombo,D. Mutombo,0,0,0,,0,0.0,0.0,0,h,Mutombo REBOUND (Off:3 Def:2),Rebound,Unknown,0,66
+29700208,63,PT03M49.00S,1,1610612737,ATL,302,Blaylock,M. Blaylock,0,0,0,Made,1,18.0,12.0,30,h,Blaylock  Layup (4 PTS) (Smith 1 AST),Made Shot,Layup Shot,0,67
+29700208,64,PT03M29.00S,1,1610612766,CHH,133,Wesley,D. Wesley,68,242,25,Missed,1,0.0,0.0,0,v,MISS Wesley 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,68
+29700208,65,PT03M28.00S,1,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,v,Mason REBOUND (Off:1 Def:1),Rebound,Unknown,0,69
+29700208,72,PT03M15.00S,1,1610612766,CHH,779,Rice,G. Rice,4,70,7,Missed,1,0.0,0.0,0,v,MISS Rice 7' Running Jump Shot,Missed Shot,Running Jump Shot,0,70
+29700208,77,PT03M15.00S,1,1610612766,CHH,761,Geiger,M. Geiger,0,0,0,,0,0.0,0.0,0,v,Geiger REBOUND (Off:2 Def:0),Rebound,Unknown,0,71
+29700208,67,PT03M15.00S,1,1610612766,CHH,761,Geiger,M. Geiger,0,0,0,,0,0.0,0.0,0,v,Geiger Offensive Goaltending Turnover (P1.T3),Turnover,Offensive Goaltending,0,72
+29700208,68,PT03M02.00S,1,1610612766,CHH,184,Phills,B. Phills,0,0,0,,0,0.0,0.0,0,v,Phills S.FOUL (P1.T1),Foul,Shooting,0,73
+29700208,69,PT03M02.00S,1,1610612737,ATL,120,Smith,S. Smith,0,0,0,,0,19.0,12.0,31,h,Smith Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,74
+29700208,70,PT03M02.00S,1,1610612766,CHH,184,Phills,B. Phills,0,0,0,,0,0.0,0.0,0,v,SUB: Curry FOR Phills,Substitution,,0,75
+29700208,71,PT03M02.00S,1,1610612737,ATL,120,Smith,S. Smith,0,0,0,,0,20.0,12.0,32,h,Smith Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,76
+29700208,73,PT02M51.00S,1,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,0.0,0.0,0,v,Wesley Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,77
+29700208,73,PT02M51.00S,1,1610612737,ATL,895,Corbin,T. Corbin,0,0,0,,0,0.0,0.0,0,h,Corbin STEAL (1 STL),,,0,78
+29700208,74,PT02M48.00S,1,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,0.0,0.0,0,v,Wesley S.FOUL (P1.T2),Foul,Shooting,0,79
+29700208,76,PT02M48.00S,1,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,80
+29700208,79,PT02M48.00S,1,1610612737,ATL,895,Corbin,T. Corbin,0,0,0,,0,0.0,0.0,0,h,MISS Corbin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,81
+29700208,80,PT02M48.00S,1,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Unknown,0,82
+29700208,81,PT02M48.00S,1,1610612737,ATL,895,Corbin,T. Corbin,0,0,0,,0,0.0,0.0,0,h,MISS Corbin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,83
+29700208,82,PT02M47.00S,1,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,v,Mason REBOUND (Off:1 Def:2),Rebound,Unknown,0,84
+29700208,83,PT02M24.00S,1,1610612766,CHH,761,Geiger,M. Geiger,48,23,5,Missed,1,0.0,0.0,0,v,MISS Geiger 5' Jump Shot,Missed Shot,Jump Shot,0,85
+29700208,85,PT02M24.00S,1,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,v,Mason REBOUND (Off:2 Def:2),Rebound,Unknown,0,86
+29700208,84,PT02M24.00S,1,1610612766,CHH,193,Mason,A. Mason,0,0,0,Made,1,20.0,14.0,34,v,Mason  Tip Shot (4 PTS),Made Shot,Tip Shot,0,87
+29700208,86,PT02M03.00S,1,1610612737,ATL,302,Blaylock,M. Blaylock,121,18,12,Made,1,22.0,14.0,36,h,Blaylock 12' Jump Shot (6 PTS),Made Shot,Jump Shot,0,88
+29700208,87,PT01M53.00S,1,1610612766,CHH,761,Geiger,M. Geiger,-38,-1,4,Missed,1,0.0,0.0,0,v,MISS Geiger 4' Jump Shot,Missed Shot,Jump Shot,0,89
+29700208,88,PT01M51.00S,1,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Unknown,0,90
+29700208,89,PT01M51.00S,1,1610612737,ATL,895,Corbin,T. Corbin,0,0,0,,0,0.0,0.0,0,h,SUB: Brown FOR Corbin,Substitution,,0,91
+29700208,90,PT01M34.00S,1,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,0.0,0.0,0,v,Wesley P.FOUL (P2.T3),Foul,Personal,0,92
+29700208,91,PT01M16.00S,1,1610612737,ATL,120,Smith,S. Smith,0,0,0,Missed,1,0.0,0.0,0,h,MISS Smith  Layup,Missed Shot,Layup Shot,0,93
+29700208,92,PT01M14.00S,1,1610612766,CHH,761,Geiger,M. Geiger,0,0,0,,0,0.0,0.0,0,v,Geiger REBOUND (Off:2 Def:1),Rebound,Unknown,0,94
+29700208,93,PT01M14.00S,1,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,v,SUB: Reid FOR Mason,Substitution,,0,95
+29700208,94,PT00M50.60S,1,1610612766,CHH,761,Geiger,M. Geiger,162,10,16,Missed,1,0.0,0.0,0,v,MISS Geiger 16' Jump Shot,Missed Shot,Jump Shot,0,96
+29700208,95,PT00M47.60S,1,1610612737,ATL,87,Mutombo,D. Mutombo,0,0,0,,0,0.0,0.0,0,h,Mutombo REBOUND (Off:3 Def:3),Rebound,Unknown,0,97
+29700208,96,PT00M34.00S,1,1610612737,ATL,359,Brown,C. Brown,-68,-1,7,Made,1,24.0,14.0,38,h,Brown 7' Jump Shot (2 PTS) (Smith 2 AST),Made Shot,Jump Shot,0,98
+29700208,97,PT00M14.20S,1,1610612766,CHH,779,Rice,G. Rice,128,21,13,Missed,1,0.0,0.0,0,v,MISS Rice 13' Jump Shot,Missed Shot,Jump Shot,0,99
+29700208,99,PT00M12.30S,1,1610612766,CHH,761,Geiger,M. Geiger,0,0,0,,0,0.0,0.0,0,v,Geiger REBOUND (Off:3 Def:1),Rebound,Unknown,0,100
+29700208,98,PT00M12.30S,1,1610612766,CHH,761,Geiger,M. Geiger,0,0,0,Missed,1,0.0,0.0,0,v,MISS Geiger  Tip Shot,Missed Shot,Tip Shot,0,101
+29700208,100,PT00M09.80S,1,1610612737,ATL,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,h,Laettner REBOUND (Off:0 Def:3),Rebound,Unknown,0,102
+29700208,101,PT00M01.40S,1,1610612737,ATL,302,Blaylock,M. Blaylock,-121,149,19,Missed,1,0.0,0.0,0,h,MISS Blaylock 19' Jump Shot,Missed Shot,Jump Shot,0,103
+29700208,102,PT00M00.00S,1,1610612737,ATL,302,Blaylock,M. Blaylock,0,0,0,,0,0.0,0.0,0,h,Blaylock REBOUND (Off:1 Def:2),Rebound,Unknown,0,104
+29700208,103,PT00M00.00S,1,1610612737,ATL,302,Blaylock,M. Blaylock,-169,51,18,Missed,1,0.0,0.0,0,h,MISS Blaylock 18' Jump Shot,Missed Shot,Jump Shot,0,105
+29700208,103,PT00M00.00S,1,1610612766,CHH,761,Geiger,M. Geiger,0,0,0,,0,0.0,0.0,0,v,Geiger BLOCK (1 BLK),,,0,106
+29700208,104,PT00M00.00S,1,1610612737,ATL,302,Blaylock,M. Blaylock,0,0,0,,0,0.0,0.0,0,h,Blaylock REBOUND (Off:2 Def:2),Rebound,Unknown,0,107
+29700208,105,PT00M00.00S,1,0,,0,,,0,0,0,,0,24.0,14.0,38,,End of 1st Period (12:00 PM EST),period,end,0,108
+29700208,107,PT12M00.00S,2,0,,0,,,0,0,0,,0,24.0,14.0,38,,Start of 2nd Period (12:02 PM EST),period,start,0,109
+29700208,108,PT11M49.00S,2,1610612766,CHH,779,Rice,G. Rice,-38,-1,4,Made,1,24.0,16.0,40,v,Rice 4' Jump Shot (2 PTS),Made Shot,Jump Shot,0,110
+29700208,109,PT11M32.00S,2,1610612766,CHH,761,Geiger,M. Geiger,0,0,0,,0,0.0,0.0,0,v,Geiger Violation:Double Lane,Violation,Double Lane,0,111
+29700208,110,PT11M13.00S,2,1610612737,ATL,120,Smith,S. Smith,0,46,5,Missed,1,0.0,0.0,0,h,MISS Smith 5' Jump Shot,Missed Shot,Jump Shot,0,112
+29700208,111,PT11M12.00S,2,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Unknown,0,113
+29700208,112,PT11M12.00S,2,1610612766,CHH,462,Reid,J. Reid,0,0,0,,0,0.0,0.0,0,v,Reid L.B.FOUL (P1.T1),Foul,Loose Ball,0,114
+29700208,113,PT10M59.00S,2,1610612737,ATL,246,Anderson,G. Anderson,0,0,0,Made,1,26.0,16.0,42,h,Anderson  Layup (2 PTS) (Laettner 1 AST),Made Shot,Layup Shot,0,115
+29700208,114,PT10M59.00S,2,1610612766,CHH,462,Reid,J. Reid,0,0,0,,0,0.0,0.0,0,v,Reid S.FOUL (P2.T2),Foul,Shooting,0,116
+29700208,115,PT10M59.00S,2,1610612737,ATL,120,Smith,S. Smith,0,0,0,,0,0.0,0.0,0,h,SUB: Gray FOR Smith,Substitution,,0,117
+29700208,116,PT10M59.00S,2,1610612737,ATL,246,Anderson,G. Anderson,0,0,0,,0,0.0,0.0,0,h,MISS Anderson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,118
+29700208,117,PT10M59.00S,2,1610612737,ATL,302,Blaylock,M. Blaylock,0,0,0,,0,0.0,0.0,0,h,Blaylock REBOUND (Off:3 Def:2),Rebound,Unknown,0,119
+29700208,118,PT10M52.00S,2,1610612737,ATL,302,Blaylock,M. Blaylock,0,0,0,Missed,1,0.0,0.0,0,h,MISS Blaylock  Layup,Missed Shot,Layup Shot,0,120
+29700208,119,PT10M49.00S,2,1610612766,CHH,462,Reid,J. Reid,0,0,0,,0,0.0,0.0,0,v,Reid REBOUND (Off:0 Def:1),Rebound,Unknown,0,121
+29700208,120,PT10M35.00S,2,1610612766,CHH,761,Geiger,M. Geiger,123,5,12,Made,1,26.0,18.0,44,v,Geiger 12' Jump Shot (2 PTS),Made Shot,Jump Shot,0,122
+29700208,121,PT10M15.00S,2,1610612737,ATL,359,Brown,C. Brown,-27,81,9,Made,1,28.0,18.0,46,h,Brown 9' Jump Shot (4 PTS),Made Shot,Jump Shot,0,123
+29700208,122,PT10M07.00S,2,1610612737,ATL,1516,Gray,E. Gray,0,0,0,,0,0.0,0.0,0,h,Gray P.FOUL (P1.T1),Foul,Personal,0,124
+29700208,123,PT10M07.00S,2,1610612737,ATL,302,Blaylock,M. Blaylock,0,0,0,,0,0.0,0.0,0,h,SUB: Recasner FOR Blaylock,Substitution,,0,125
+29700208,124,PT09M57.00S,2,1610612737,ATL,695,Recasner,E. Recasner,0,0,0,,0,0.0,0.0,0,h,Recasner P.FOUL (P1.T2),Foul,Personal,0,126
+29700208,125,PT09M49.00S,2,1610612766,CHH,779,Rice,G. Rice,89,-3,9,Made,1,28.0,20.0,48,v,Rice 9' Jump Shot (4 PTS),Made Shot,Jump Shot,0,127
+29700208,126,PT09M37.00S,2,1610612766,CHH,761,Geiger,M. Geiger,0,0,0,,0,0.0,0.0,0,v,Geiger P.FOUL (P1.T3),Foul,Personal,0,128
+29700208,127,PT09M37.00S,2,1610612766,CHH,761,Geiger,M. Geiger,0,0,0,,0,0.0,0.0,0,v,SUB: Divac FOR Geiger,Substitution,,0,129
+29700208,128,PT09M19.00S,2,1610612737,ATL,363,Laettner,C. Laettner,173,23,17,Made,1,30.0,20.0,50,h,Laettner 17' Jump Shot (8 PTS) (Recasner 1 AST),Made Shot,Jump Shot,0,130
+29700208,129,PT09M02.00S,2,1610612766,CHH,124,Divac,V. Divac,-104,151,18,Missed,1,0.0,0.0,0,v,MISS Divac 18' Jump Shot,Missed Shot,Jump Shot,0,131
+29700208,130,PT09M02.00S,2,1610612766,CHH,209,Curry,D. Curry,0,0,0,,0,0.0,0.0,0,v,Curry REBOUND (Off:1 Def:0),Rebound,Unknown,0,132
+29700208,131,PT08M54.00S,2,1610612766,CHH,462,Reid,J. Reid,111,0,11,Missed,1,0.0,0.0,0,v,MISS Reid 11' Jump Shot,Missed Shot,Jump Shot,0,133
+29700208,132,PT08M54.00S,2,1610612737,ATL,246,Anderson,G. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,134
+29700208,133,PT08M42.00S,2,1610612737,ATL,1516,Gray,E. Gray,-121,3,12,Missed,1,0.0,0.0,0,h,MISS Gray 12' Jump Shot,Missed Shot,Jump Shot,0,135
+29700208,134,PT08M40.00S,2,1610612766,CHH,1133,Beck,C. Beck,0,0,0,,0,0.0,0.0,0,v,Beck REBOUND (Off:0 Def:1),Rebound,Unknown,0,136
+29700208,135,PT08M34.00S,2,1610612766,CHH,779,Rice,G. Rice,0,0,0,Made,1,30.0,22.0,52,v,Rice  Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,137
+29700208,136,PT08M10.00S,2,1610612737,ATL,246,Anderson,G. Anderson,0,0,0,Missed,1,0.0,0.0,0,h,MISS Anderson  Layup,Missed Shot,Layup Shot,0,138
+29700208,137,PT08M08.00S,2,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Rebound,Rebound,Unknown,0,139
+29700208,138,PT08M08.00S,2,1610612737,ATL,246,Anderson,G. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson L.B.FOUL (P1.T3),Foul,Loose Ball,0,140
+29700208,139,PT08M08.00S,2,1610612737,ATL,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,h,SUB: Mutombo FOR Laettner,Substitution,,0,141
+29700208,140,PT08M08.00S,2,1610612766,CHH,462,Reid,J. Reid,0,0,0,,0,0.0,0.0,0,v,SUB: Mason FOR Reid,Substitution,,0,142
+29700208,141,PT08M08.00S,2,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,0.0,0.0,0,v,SUB: Phills FOR Rice,Substitution,,0,143
+29700208,142,PT07M50.00S,2,1610612766,CHH,209,Curry,D. Curry,145,209,25,Missed,1,0.0,0.0,0,v,MISS Curry 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,144
+29700208,143,PT07M49.00S,2,1610612766,CHH,209,Curry,D. Curry,0,0,0,,0,0.0,0.0,0,v,Curry REBOUND (Off:2 Def:0),Rebound,Unknown,0,145
+29700208,144,PT07M46.00S,2,1610612766,CHH,209,Curry,D. Curry,-79,164,18,Missed,1,0.0,0.0,0,v,MISS Curry 18' Jump Shot,Missed Shot,Jump Shot,0,146
+29700208,145,PT07M45.00S,2,1610612766,CHH,1133,Beck,C. Beck,0,0,0,,0,0.0,0.0,0,v,Beck REBOUND (Off:1 Def:1),Rebound,Unknown,0,147
+29700208,146,PT07M42.00S,2,1610612766,CHH,209,Curry,D. Curry,154,207,26,Made,1,30.0,25.0,55,v,Curry 26' 3PT Jump Shot (3 PTS) (Beck 1 AST),Made Shot,Jump Shot,0,148
+29700208,147,PT07M23.00S,2,1610612737,ATL,87,Mutombo,D. Mutombo,-79,1,8,Missed,1,0.0,0.0,0,h,MISS Mutombo 8' Jump Shot,Missed Shot,Jump Shot,0,149
+29700208,148,PT07M21.00S,2,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,0.0,0.0,0,v,Divac REBOUND (Off:0 Def:3),Rebound,Unknown,0,150
+29700208,149,PT07M17.00S,2,1610612766,CHH,209,Curry,D. Curry,72,-3,7,Missed,1,0.0,0.0,0,v,MISS Curry 7' Jump Shot,Missed Shot,Jump Shot,0,151
+29700208,149,PT07M17.00S,2,1610612737,ATL,1516,Gray,E. Gray,0,0,0,,0,0.0,0.0,0,h,Gray BLOCK (1 BLK),,,0,152
+29700208,150,PT07M17.00S,2,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Rebound,Rebound,Unknown,0,153
+29700208,151,PT07M16.00S,2,1610612737,ATL,1516,Gray,E. Gray,0,0,0,,0,0.0,0.0,0,h,Gray P.FOUL (P2.T4),Foul,Personal,0,154
+29700208,152,PT07M06.00S,2,1610612737,ATL,87,Mutombo,D. Mutombo,0,0,0,,0,0.0,0.0,0,h,Mutombo P.FOUL (P2.PN),Foul,Personal,0,155
+29700208,153,PT07M06.00S,2,1610612766,CHH,1133,Beck,C. Beck,0,0,0,,0,30.0,26.0,56,v,Beck Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,156
+29700208,155,PT07M06.00S,2,1610612766,CHH,1133,Beck,C. Beck,0,0,0,,0,30.0,27.0,57,v,Beck Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,157
+29700208,156,PT06M50.00S,2,1610612737,ATL,695,Recasner,E. Recasner,-134,214,25,Made,1,33.0,27.0,60,h,Recasner 25' 3PT Jump Shot (3 PTS) (Brown 1 AST),Made Shot,Jump Shot,0,158
+29700208,157,PT06M39.00S,2,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,0.0,0.0,0,v,Divac Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,159
+29700208,157,PT06M39.00S,2,1610612737,ATL,246,Anderson,G. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson STEAL (1 STL),,,0,160
+29700208,158,PT06M33.00S,2,1610612737,ATL,1516,Gray,E. Gray,76,147,17,Missed,1,0.0,0.0,0,h,MISS Gray 17' Jump Shot,Missed Shot,Jump Shot,0,161
+29700208,159,PT06M33.00S,2,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,v,Mason REBOUND (Off:2 Def:3),Rebound,Unknown,0,162
+29700208,160,PT06M27.00S,2,1610612766,CHH,209,Curry,D. Curry,151,8,15,Missed,1,0.0,0.0,0,v,MISS Curry 15' Jump Shot,Missed Shot,Jump Shot,0,163
+29700208,161,PT06M27.00S,2,1610612737,ATL,87,Mutombo,D. Mutombo,0,0,0,,0,0.0,0.0,0,h,Mutombo REBOUND (Off:3 Def:4),Rebound,Unknown,0,164
+29700208,162,PT06M14.00S,2,1610612737,ATL,695,Recasner,E. Recasner,-3,151,15,Made,1,35.0,27.0,62,h,Recasner 15' Jump Shot (5 PTS),Made Shot,Jump Shot,0,165
+29700208,163,PT05M50.00S,2,1610612766,CHH,124,Divac,V. Divac,-145,57,16,Missed,1,0.0,0.0,0,v,MISS Divac 16' Jump Shot,Missed Shot,Jump Shot,0,166
+29700208,164,PT05M49.00S,2,1610612737,ATL,359,Brown,C. Brown,0,0,0,,0,0.0,0.0,0,h,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,167
+29700208,165,PT05M33.00S,2,1610612737,ATL,246,Anderson,G. Anderson,66,0,7,Missed,1,0.0,0.0,0,h,MISS Anderson 7' Jump Shot,Missed Shot,Jump Shot,0,168
+29700208,166,PT05M32.00S,2,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Unknown,0,169
+29700208,167,PT05M32.00S,2,1610612766,CHH,184,Phills,B. Phills,0,0,0,,0,0.0,0.0,0,v,Phills L.B.FOUL (P2.T4),Foul,Loose Ball,0,170
+29700208,168,PT05M32.00S,2,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,171
+29700208,170,PT05M32.00S,2,1610612766,CHH,1133,Beck,C. Beck,0,0,0,,0,0.0,0.0,0,v,SUB: Wesley FOR Beck,Substitution,,0,172
+29700208,172,PT05M32.00S,2,1610612737,ATL,246,Anderson,G. Anderson,0,0,0,,0,0.0,0.0,0,h,SUB: Corbin FOR Anderson,Substitution,,0,173
+29700208,171,PT05M28.00S,2,1610612737,ATL,895,Corbin,T. Corbin,0,0,0,,0,0.0,0.0,0,h,Corbin Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,174
+29700208,173,PT05M13.00S,2,1610612766,CHH,184,Phills,B. Phills,156,0,16,Made,1,35.0,29.0,64,v,Phills 16' Jump Shot (4 PTS) (Mason 2 AST),Made Shot,Jump Shot,0,175
+29700208,174,PT04M53.00S,2,1610612737,ATL,87,Mutombo,D. Mutombo,0,0,0,,0,0.0,0.0,0,h,Mutombo Traveling Turnover (P3.T4),Turnover,Traveling,0,176
+29700208,176,PT04M38.00S,2,1610612766,CHH,209,Curry,D. Curry,-8,78,8,Missed,1,0.0,0.0,0,v,MISS Curry 8' Jump Shot,Missed Shot,Jump Shot,0,177
+29700208,177,PT04M38.00S,2,1610612737,ATL,87,Mutombo,D. Mutombo,0,0,0,,0,0.0,0.0,0,h,Mutombo REBOUND (Off:3 Def:5),Rebound,Unknown,0,178
+29700208,178,PT04M26.00S,2,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,0.0,0.0,0,v,Divac P.FOUL (P1.PN),Foul,Personal,0,179
+29700208,179,PT04M26.00S,2,1610612766,CHH,209,Curry,D. Curry,0,0,0,,0,0.0,0.0,0,v,SUB: Rice FOR Curry,Substitution,,0,180
+29700208,180,PT04M26.00S,2,1610612737,ATL,87,Mutombo,D. Mutombo,0,0,0,,0,36.0,29.0,65,h,Mutombo Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,181
+29700208,181,PT04M26.00S,2,1610612737,ATL,87,Mutombo,D. Mutombo,0,0,0,,0,0.0,0.0,0,h,MISS Mutombo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,182
+29700208,182,PT04M26.00S,2,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,v,Mason REBOUND (Off:2 Def:4),Rebound,Unknown,0,183
+29700208,183,PT04M12.00S,2,1610612766,CHH,779,Rice,G. Rice,-18,248,25,Missed,1,0.0,0.0,0,v,MISS Rice 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,184
+29700208,184,PT04M12.00S,2,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Rebound,Rebound,Unknown,0,185
+29700208,185,PT04M01.00S,2,1610612737,ATL,359,Brown,C. Brown,0,0,0,,0,0.0,0.0,0,h,Brown P.FOUL (P1.PN),Foul,Personal,0,186
+29700208,186,PT04M01.00S,2,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,0.0,0.0,0,v,MISS Divac Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,187
+29700208,187,PT04M01.00S,2,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Rebound,Rebound,Unknown,0,188
+29700208,188,PT04M01.00S,2,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,0.0,0.0,0,v,MISS Divac Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,189
+29700208,189,PT04M00.00S,2,1610612737,ATL,359,Brown,C. Brown,0,0,0,,0,0.0,0.0,0,h,Brown REBOUND (Off:0 Def:2),Rebound,Unknown,0,190
+29700208,190,PT03M41.00S,2,1610612737,ATL,695,Recasner,E. Recasner,-119,12,12,Missed,1,0.0,0.0,0,h,MISS Recasner 12' Jump Shot,Missed Shot,Jump Shot,0,191
+29700208,191,PT03M41.00S,2,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,0.0,0.0,0,v,Divac REBOUND (Off:0 Def:4),Rebound,Unknown,0,192
+29700208,192,PT03M31.00S,2,1610612737,ATL,895,Corbin,T. Corbin,0,0,0,,0,0.0,0.0,0,h,Corbin S.FOUL (P2.PN),Foul,Shooting,0,193
+29700208,193,PT03M31.00S,2,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,36.0,30.0,66,v,Rice Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,194
+29700208,194,PT03M31.00S,2,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,36.0,31.0,67,v,Rice Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,195
+29700208,195,PT03M14.00S,2,1610612737,ATL,695,Recasner,E. Recasner,136,55,15,Missed,1,0.0,0.0,0,h,MISS Recasner 15' Jump Shot,Missed Shot,Jump Shot,0,196
+29700208,196,PT03M14.00S,2,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Rebound,Rebound,Unknown,0,197
+29700208,197,PT03M14.00S,2,1610612737,ATL,895,Corbin,T. Corbin,0,0,0,,0,0.0,0.0,0,h,Corbin L.B.FOUL (P3.PN),Foul,Loose Ball,0,198
+29700208,198,PT03M14.00S,2,1610612737,ATL,1516,Gray,E. Gray,0,0,0,,0,0.0,0.0,0,h,SUB: Smith FOR Gray,Substitution,,0,199
+29700208,199,PT03M14.00S,2,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,36.0,32.0,68,v,Rice Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,200
+29700208,200,PT03M14.00S,2,1610612737,ATL,895,Corbin,T. Corbin,0,0,0,,0,0.0,0.0,0,h,SUB: Laettner FOR Corbin,Substitution,,0,201
+29700208,201,PT03M14.00S,2,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,36.0,33.0,69,v,Rice Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,202
+29700208,202,PT02M52.00S,2,1610612737,ATL,359,Brown,C. Brown,0,0,0,,0,0.0,0.0,0,h,Brown Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,203
+29700208,203,PT02M52.00S,2,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,204
+29700208,205,PT02M30.00S,2,1610612766,CHH,184,Phills,B. Phills,-85,1,9,Missed,1,0.0,0.0,0,v,MISS Phills 9' Jump Shot,Missed Shot,Jump Shot,0,205
+29700208,206,PT02M29.00S,2,1610612737,ATL,87,Mutombo,D. Mutombo,0,0,0,,0,0.0,0.0,0,h,Mutombo REBOUND (Off:3 Def:6),Rebound,Unknown,0,206
+29700208,207,PT02M06.00S,2,1610612737,ATL,120,Smith,S. Smith,-143,209,25,Missed,1,0.0,0.0,0,h,MISS Smith 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,207
+29700208,208,PT02M04.00S,2,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,v,Mason REBOUND (Off:2 Def:5),Rebound,Unknown,0,208
+29700208,209,PT01M54.00S,2,1610612766,CHH,124,Divac,V. Divac,134,111,17,Missed,1,0.0,0.0,0,v,MISS Divac 17' Jump Shot,Missed Shot,Jump Shot,0,209
+29700208,210,PT01M54.00S,2,1610612737,ATL,87,Mutombo,D. Mutombo,0,0,0,,0,0.0,0.0,0,h,Mutombo REBOUND (Off:3 Def:7),Rebound,Unknown,0,210
+29700208,211,PT01M41.00S,2,1610612737,ATL,120,Smith,S. Smith,18,85,9,Made,1,38.0,33.0,71,h,Smith 9' Jump Shot (8 PTS),Made Shot,Jump Shot,0,211
+29700208,212,PT01M22.00S,2,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,0.0,0.0,0,v,Divac Lost Ball Turnover (P2.T6),Turnover,Lost Ball,0,212
+29700208,212,PT01M22.00S,2,1610612737,ATL,120,Smith,S. Smith,0,0,0,,0,0.0,0.0,0,h,Smith STEAL (1 STL),,,0,213
+29700208,213,PT01M16.00S,2,1610612737,ATL,120,Smith,S. Smith,0,0,0,Missed,1,0.0,0.0,0,h,MISS Smith  Layup,Missed Shot,Layup Shot,0,214
+29700208,215,PT01M04.00S,2,1610612737,ATL,359,Brown,C. Brown,0,0,0,,0,0.0,0.0,0,h,Brown REBOUND (Off:1 Def:2),Rebound,Unknown,0,215
+29700208,214,PT01M04.00S,2,1610612737,ATL,359,Brown,C. Brown,0,0,0,Made,1,40.0,33.0,73,h,Brown  Tip Shot (6 PTS),Made Shot,Tip Shot,0,216
+29700208,216,PT00M53.60S,2,1610612766,CHH,779,Rice,G. Rice,-53,55,8,Missed,1,0.0,0.0,0,v,MISS Rice 8' Jump Shot,Missed Shot,Jump Shot,0,217
+29700208,217,PT00M52.60S,2,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Rebound,Rebound,Unknown,0,218
+29700208,218,PT00M52.60S,2,1610612737,ATL,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,h,Laettner L.B.FOUL (P1.PN),Foul,Loose Ball,0,219
+29700208,220,PT00M52.60S,2,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,0.0,0.0,0,v,MISS Divac Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,220
+29700208,221,PT00M52.60S,2,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Rebound,Rebound,Unknown,0,221
+29700208,222,PT00M52.60S,2,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,40.0,34.0,74,v,Divac Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,222
+29700208,223,PT00M32.60S,2,1610612737,ATL,87,Mutombo,D. Mutombo,-85,31,9,Made,1,42.0,34.0,76,h,Mutombo 9' Hook Shot (5 PTS),Made Shot,Hook Shot,0,223
+29700208,224,PT00M15.40S,2,1610612766,CHH,193,Mason,A. Mason,-21,128,13,Missed,1,0.0,0.0,0,v,MISS Mason 13' Jump Shot,Missed Shot,Jump Shot,0,224
+29700208,225,PT00M12.30S,2,1610612737,ATL,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,h,Laettner REBOUND (Off:0 Def:4),Rebound,Unknown,0,225
+29700208,226,PT00M00.00S,2,1610612737,ATL,363,Laettner,C. Laettner,169,63,18,Made,1,44.0,34.0,78,h,Laettner 18' Jump Shot (10 PTS) (Smith 3 AST),Made Shot,Jump Shot,0,226
+29700208,227,PT00M00.00S,2,0,,0,,,0,0,0,,0,44.0,34.0,78,,End of 2nd Period (12:28 PM EST),period,end,0,227
+29700208,229,PT12M00.00S,3,0,,0,,,0,0,0,,0,44.0,34.0,78,,Start of 3rd Period (12:44 PM EST),period,start,0,228
+29700208,230,PT11M40.00S,3,1610612766,CHH,133,Wesley,D. Wesley,20,78,8,Missed,1,0.0,0.0,0,v,MISS Wesley 8' Jump Shot,Missed Shot,Jump Shot,0,229
+29700208,230,PT11M40.00S,3,1610612737,ATL,302,Blaylock,M. Blaylock,0,0,0,,0,0.0,0.0,0,h,Blaylock BLOCK (1 BLK),,,0,230
+29700208,231,PT11M36.00S,3,1610612737,ATL,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,h,Laettner REBOUND (Off:0 Def:5),Rebound,Unknown,0,231
+29700208,232,PT11M22.00S,3,1610612737,ATL,363,Laettner,C. Laettner,-111,31,12,Missed,1,0.0,0.0,0,h,MISS Laettner 12' Jump Shot,Missed Shot,Jump Shot,0,232
+29700208,233,PT11M19.00S,3,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,0.0,0.0,0,v,Divac REBOUND (Off:0 Def:5),Rebound,Unknown,0,233
+29700208,234,PT11M12.00S,3,1610612766,CHH,184,Phills,B. Phills,-179,179,25,Missed,1,0.0,0.0,0,v,MISS Phills 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,234
+29700208,235,PT11M10.00S,3,1610612737,ATL,895,Corbin,T. Corbin,0,0,0,,0,0.0,0.0,0,h,Corbin REBOUND (Off:0 Def:2),Rebound,Unknown,0,235
+29700208,236,PT10M54.00S,3,1610612737,ATL,302,Blaylock,M. Blaylock,1,151,15,Missed,1,0.0,0.0,0,h,MISS Blaylock 15' Jump Shot,Missed Shot,Jump Shot,0,236
+29700208,237,PT10M54.00S,3,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,0.0,0.0,0,v,Divac REBOUND (Off:0 Def:6),Rebound,Unknown,0,237
+29700208,238,PT10M39.00S,3,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,0.0,0.0,0,v,Rice Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,238
+29700208,238,PT10M39.00S,3,1610612737,ATL,302,Blaylock,M. Blaylock,0,0,0,,0,0.0,0.0,0,h,Blaylock STEAL (2 STL),,,0,239
+29700208,239,PT10M35.00S,3,1610612737,ATL,302,Blaylock,M. Blaylock,0,0,0,Made,1,46.0,34.0,80,h,Blaylock  Layup (8 PTS),Made Shot,Layup Shot,0,240
+29700208,240,PT10M18.00S,3,1610612766,CHH,133,Wesley,D. Wesley,130,119,18,Missed,1,0.0,0.0,0,v,MISS Wesley 18' Jump Shot,Missed Shot,Jump Shot,0,241
+29700208,241,PT10M18.00S,3,1610612737,ATL,87,Mutombo,D. Mutombo,0,0,0,,0,0.0,0.0,0,h,Mutombo REBOUND (Off:3 Def:8),Rebound,Unknown,0,242
+29700208,242,PT10M04.00S,3,1610612737,ATL,363,Laettner,C. Laettner,149,-10,15,Made,1,48.0,34.0,82,h,Laettner 15' Jump Shot (12 PTS),Made Shot,Jump Shot,0,243
+29700208,243,PT09M55.00S,3,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Timeout: Short (Reg.2 Short 1),Timeout,Short,0,244
+29700208,245,PT09M39.00S,3,1610612766,CHH,184,Phills,B. Phills,160,33,16,Missed,1,0.0,0.0,0,v,MISS Phills 16' Jump Shot,Missed Shot,Jump Shot,0,245
+29700208,246,PT09M38.00S,3,1610612737,ATL,302,Blaylock,M. Blaylock,0,0,0,,0,0.0,0.0,0,h,Blaylock REBOUND (Off:3 Def:3),Rebound,Unknown,0,246
+29700208,247,PT09M35.00S,3,1610612737,ATL,302,Blaylock,M. Blaylock,0,0,0,,0,0.0,0.0,0,h,Blaylock Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,247
+29700208,247,PT09M35.00S,3,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,0.0,0.0,0,v,Wesley STEAL (2 STL),,,0,248
+29700208,248,PT09M27.00S,3,1610612766,CHH,193,Mason,A. Mason,-104,5,10,Missed,1,0.0,0.0,0,v,MISS Mason 10' Jump Shot,Missed Shot,Jump Shot,0,249
+29700208,249,PT09M24.00S,3,1610612766,CHH,184,Phills,B. Phills,0,0,0,,0,0.0,0.0,0,v,Phills REBOUND (Off:1 Def:3),Rebound,Unknown,0,250
+29700208,250,PT09M24.00S,3,1610612737,ATL,87,Mutombo,D. Mutombo,0,0,0,,0,0.0,0.0,0,h,Mutombo S.FOUL (P3.T1),Foul,Shooting,0,251
+29700208,251,PT09M24.00S,3,1610612766,CHH,184,Phills,B. Phills,0,0,0,,0,48.0,35.0,83,v,Phills Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,252
+29700208,252,PT09M24.00S,3,1610612766,CHH,184,Phills,B. Phills,0,0,0,,0,48.0,36.0,84,v,Phills Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,253
+29700208,253,PT09M15.00S,3,1610612737,ATL,120,Smith,S. Smith,0,0,0,,0,0.0,0.0,0,h,Smith Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,254
+29700208,253,PT09M15.00S,3,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,0.0,0.0,0,v,Rice STEAL (1 STL),,,0,255
+29700208,254,PT09M10.00S,3,1610612766,CHH,184,Phills,B. Phills,0,0,0,Missed,1,0.0,0.0,0,v,MISS Phills  Layup,Missed Shot,Layup Shot,0,256
+29700208,255,PT09M08.00S,3,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Unknown,0,257
+29700208,256,PT09M08.00S,3,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,v,Mason L.B.FOUL (P1.T1),Foul,Loose Ball,0,258
+29700208,257,PT08M52.00S,3,1610612737,ATL,363,Laettner,C. Laettner,85,171,19,Missed,1,0.0,0.0,0,h,MISS Laettner 19' Jump Shot,Missed Shot,Jump Shot,0,259
+29700208,258,PT08M51.00S,3,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Unknown,0,260
+29700208,259,PT08M49.00S,3,1610612737,ATL,895,Corbin,T. Corbin,0,0,0,,0,0.0,0.0,0,h,Corbin Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,261
+29700208,259,PT08M49.00S,3,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,0.0,0.0,0,v,Divac STEAL (1 STL),,,0,262
+29700208,260,PT08M24.00S,3,1610612766,CHH,193,Mason,A. Mason,119,72,14,Made,1,48.0,38.0,86,v,Mason 14' Jump Shot (6 PTS) (Wesley 2 AST),Made Shot,Jump Shot,0,263
+29700208,261,PT08M07.00S,3,1610612737,ATL,302,Blaylock,M. Blaylock,0,0,0,,0,0.0,0.0,0,h,Blaylock Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,264
+29700208,261,PT08M07.00S,3,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,0.0,0.0,0,v,Wesley STEAL (3 STL),,,0,265
+29700208,262,PT08M00.00S,3,1610612766,CHH,193,Mason,A. Mason,0,0,0,Made,1,48.0,40.0,88,v,Mason  Layup (8 PTS) (Rice 1 AST),Made Shot,Layup Shot,0,266
+29700208,263,PT07M41.00S,3,1610612737,ATL,363,Laettner,C. Laettner,0,0,0,Made,1,50.0,40.0,90,h,Laettner  Driving Dunk (14 PTS),Made Shot,Driving Dunk Shot,0,267
+29700208,264,PT07M25.00S,3,1610612766,CHH,193,Mason,A. Mason,-132,27,13,Missed,1,0.0,0.0,0,v,MISS Mason 13' Jump Shot,Missed Shot,Jump Shot,0,268
+29700208,265,PT07M24.00S,3,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,0.0,0.0,0,v,Divac REBOUND (Off:1 Def:6),Rebound,Unknown,0,269
+29700208,266,PT07M21.00S,3,1610612737,ATL,120,Smith,S. Smith,0,0,0,,0,0.0,0.0,0,h,Smith S.FOUL (P1.T2),Foul,Shooting,0,270
+29700208,267,PT07M21.00S,3,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,50.0,41.0,91,v,Divac Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,271
+29700208,268,PT07M21.00S,3,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,50.0,42.0,92,v,Divac Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,272
+29700208,269,PT07M03.00S,3,1610612737,ATL,120,Smith,S. Smith,-100,31,10,Made,1,52.0,42.0,94,h,Smith 10' Jump Shot (10 PTS),Made Shot,Jump Shot,0,273
+29700208,270,PT06M48.00S,3,1610612766,CHH,779,Rice,G. Rice,233,76,25,Made,1,52.0,45.0,97,v,Rice 25' 3PT Jump Shot (13 PTS),Made Shot,Jump Shot,0,274
+29700208,271,PT06M36.00S,3,1610612766,CHH,184,Phills,B. Phills,0,0,0,,0,0.0,0.0,0,v,Phills S.FOUL (P3.T2),Foul,Shooting,0,275
+29700208,272,PT06M36.00S,3,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,276
+29700208,274,PT06M36.00S,3,1610612766,CHH,184,Phills,B. Phills,0,0,0,,0,0.0,0.0,0,v,SUB: Reid FOR Phills,Substitution,,0,277
+29700208,275,PT06M36.00S,3,1610612737,ATL,120,Smith,S. Smith,0,0,0,,0,53.0,45.0,98,h,Smith Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,278
+29700208,276,PT06M36.00S,3,1610612737,ATL,120,Smith,S. Smith,0,0,0,,0,54.0,45.0,99,h,Smith Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,279
+29700208,277,PT06M19.00S,3,1610612766,CHH,124,Divac,V. Divac,119,-8,12,Made,1,54.0,47.0,101,v,Divac 12' Jump Shot (9 PTS) (Rice 2 AST),Made Shot,Jump Shot,0,280
+29700208,278,PT05M59.00S,3,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,0.0,0.0,0,v,Divac P.FOUL (P2.T3),Foul,Personal,0,281
+29700208,279,PT05M48.00S,3,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,0.0,0.0,0,v,Divac S.FOUL (P3.T4),Foul,Shooting,0,282
+29700208,280,PT05M48.00S,3,1610612737,ATL,363,Laettner,C. Laettner,0,0,0,,0,55.0,47.0,102,h,Laettner Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,283
+29700208,281,PT05M48.00S,3,1610612737,ATL,363,Laettner,C. Laettner,0,0,0,,0,56.0,47.0,103,h,Laettner Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,284
+29700208,282,PT05M25.00S,3,1610612766,CHH,124,Divac,V. Divac,-119,3,12,Missed,1,0.0,0.0,0,v,MISS Divac 12' Jump Shot,Missed Shot,Jump Shot,0,285
+29700208,283,PT05M24.00S,3,1610612737,ATL,87,Mutombo,D. Mutombo,0,0,0,,0,0.0,0.0,0,h,Mutombo REBOUND (Off:3 Def:9),Rebound,Unknown,0,286
+29700208,284,PT05M18.00S,3,1610612737,ATL,895,Corbin,T. Corbin,0,0,0,Made,1,58.0,47.0,105,h,Corbin  Layup (4 PTS) (Laettner 2 AST),Made Shot,Layup Shot,0,287
+29700208,285,PT05M02.00S,3,1610612766,CHH,779,Rice,G. Rice,-27,18,3,Missed,1,0.0,0.0,0,v,MISS Rice 3' Layup,Missed Shot,Layup Shot,0,288
+29700208,285,PT05M02.00S,3,1610612737,ATL,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,h,Laettner BLOCK (1 BLK),,,0,289
+29700208,286,PT05M02.00S,3,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Rebound,Rebound,Unknown,0,290
+29700208,287,PT04M57.00S,3,1610612737,ATL,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,h,Laettner P.FOUL (P2.T3),Foul,Personal,0,291
+29700208,288,PT04M50.00S,3,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,0.0,0.0,0,v,SUB: Geiger FOR Divac,Substitution,,0,292
+29700208,289,PT04M43.00S,3,1610612766,CHH,761,Geiger,M. Geiger,-3,143,14,Missed,1,0.0,0.0,0,v,MISS Geiger 14' Jump Shot,Missed Shot,Jump Shot,0,293
+29700208,290,PT04M43.00S,3,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Unknown,0,294
+29700208,291,PT04M31.00S,3,1610612766,CHH,761,Geiger,M. Geiger,0,0,0,,0,0.0,0.0,0,v,Geiger P.FOUL (P2.PN),Foul,Personal,0,295
+29700208,292,PT04M31.00S,3,1610612737,ATL,87,Mutombo,D. Mutombo,0,0,0,,0,59.0,47.0,106,h,Mutombo Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,296
+29700208,293,PT04M31.00S,3,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,0.0,0.0,0,v,SUB: Beck FOR Wesley,Substitution,,0,297
+29700208,294,PT04M31.00S,3,1610612737,ATL,87,Mutombo,D. Mutombo,0,0,0,,0,60.0,47.0,107,h,Mutombo Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,298
+29700208,295,PT04M26.00S,3,1610612766,CHH,1133,Beck,C. Beck,0,0,0,,0,0.0,0.0,0,v,Beck Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,299
+29700208,295,PT04M26.00S,3,1610612737,ATL,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,h,Laettner STEAL (1 STL),,,0,300
+29700208,296,PT04M19.00S,3,1610612737,ATL,895,Corbin,T. Corbin,-76,199,21,Made,1,62.0,47.0,109,h,Corbin 21' Jump Shot (6 PTS) (Blaylock 6 AST),Made Shot,Jump Shot,0,301
+29700208,297,PT03M50.00S,3,1610612766,CHH,779,Rice,G. Rice,134,91,16,Missed,1,0.0,0.0,0,v,MISS Rice 16' Jump Shot,Missed Shot,Jump Shot,0,302
+29700208,298,PT03M49.00S,3,1610612737,ATL,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,h,Laettner REBOUND (Off:0 Def:6),Rebound,Unknown,0,303
+29700208,299,PT03M37.00S,3,1610612737,ATL,120,Smith,S. Smith,0,0,0,,0,0.0,0.0,0,h,Smith Lost Ball Turnover (P2.T10),Turnover,Lost Ball,0,304
+29700208,299,PT03M37.00S,3,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,0.0,0.0,0,v,Rice STEAL (2 STL),,,0,305
+29700208,300,PT03M31.00S,3,1610612737,ATL,895,Corbin,T. Corbin,0,0,0,,0,0.0,0.0,0,h,Corbin P.FOUL (P4.T4),Foul,Personal,0,306
+29700208,301,PT03M31.00S,3,1610612737,ATL,895,Corbin,T. Corbin,0,0,0,,0,0.0,0.0,0,h,SUB: Brown FOR Corbin,Substitution,,0,307
+29700208,302,PT03M31.00S,3,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,v,SUB: Curry FOR Mason,Substitution,,0,308
+29700208,304,PT03M24.00S,3,1610612737,ATL,87,Mutombo,D. Mutombo,0,0,0,,0,0.0,0.0,0,h,Mutombo S.FOUL (P4.PN),Foul,Shooting,0,309
+29700208,305,PT03M24.00S,3,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,62.0,48.0,110,v,Rice Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,310
+29700208,306,PT03M24.00S,3,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,62.0,49.0,111,v,Rice Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,311
+29700208,307,PT03M08.00S,3,1610612766,CHH,761,Geiger,M. Geiger,0,0,0,,0,0.0,0.0,0,v,Geiger P.FOUL (P3.PN),Foul,Personal,0,312
+29700208,308,PT03M08.00S,3,1610612737,ATL,87,Mutombo,D. Mutombo,0,0,0,,0,63.0,49.0,112,h,Mutombo Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,313
+29700208,309,PT03M08.00S,3,1610612737,ATL,87,Mutombo,D. Mutombo,0,0,0,,0,0.0,0.0,0,h,MISS Mutombo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,314
+29700208,310,PT03M08.00S,3,1610612766,CHH,761,Geiger,M. Geiger,0,0,0,,0,0.0,0.0,0,v,Geiger REBOUND (Off:3 Def:2),Rebound,Unknown,0,315
+29700208,311,PT03M03.00S,3,1610612766,CHH,1133,Beck,C. Beck,0,0,0,,0,0.0,0.0,0,v,Beck OFF.Foul (P1),Foul,Offensive,0,316
+29700208,312,PT03M03.00S,3,1610612766,CHH,1133,Beck,C. Beck,0,0,0,,0,0.0,0.0,0,v,Beck Foul Turnover (P2.T9),Turnover,Foul,0,317
+29700208,313,PT03M03.00S,3,1610612737,ATL,87,Mutombo,D. Mutombo,0,0,0,,0,0.0,0.0,0,h,SUB: Anderson FOR Mutombo,Substitution,,0,318
+29700208,314,PT02M45.00S,3,1610612737,ATL,120,Smith,S. Smith,0,0,0,Missed,1,0.0,0.0,0,h,MISS Smith  Layup,Missed Shot,Layup Shot,0,319
+29700208,315,PT02M43.00S,3,1610612766,CHH,1133,Beck,C. Beck,0,0,0,,0,0.0,0.0,0,v,Beck REBOUND (Off:1 Def:2),Rebound,Unknown,0,320
+29700208,316,PT02M37.00S,3,1610612766,CHH,209,Curry,D. Curry,149,61,16,Made,1,63.0,51.0,114,v,Curry 16' Jump Shot (5 PTS) (Beck 2 AST),Made Shot,Jump Shot,0,321
+29700208,317,PT02M17.00S,3,1610612766,CHH,1133,Beck,C. Beck,0,0,0,,0,0.0,0.0,0,v,Beck P.FOUL (P2.PN),Foul,Personal,0,322
+29700208,318,PT02M17.00S,3,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,323
+29700208,320,PT02M17.00S,3,1610612737,ATL,120,Smith,S. Smith,0,0,0,,0,64.0,51.0,115,h,Smith Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,324
+29700208,321,PT02M17.00S,3,1610612737,ATL,120,Smith,S. Smith,0,0,0,,0,0.0,0.0,0,h,MISS Smith Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,325
+29700208,322,PT02M16.00S,3,1610612766,CHH,761,Geiger,M. Geiger,0,0,0,,0,0.0,0.0,0,v,Geiger REBOUND (Off:3 Def:3),Rebound,Unknown,0,326
+29700208,323,PT02M00.00S,3,1610612766,CHH,462,Reid,J. Reid,-115,78,14,Made,1,64.0,53.0,117,v,Reid 14' Jump Shot (2 PTS),Made Shot,Jump Shot,0,327
+29700208,324,PT01M41.00S,3,1610612737,ATL,120,Smith,S. Smith,0,0,0,,0,0.0,0.0,0,h,Smith Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,328
+29700208,324,PT01M41.00S,3,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,0.0,0.0,0,v,Rice STEAL (3 STL),,,0,329
+29700208,325,PT01M35.00S,3,1610612737,ATL,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,h,Laettner S.FOUL (P3.PN),Foul,Shooting,0,330
+29700208,326,PT01M35.00S,3,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,64.0,54.0,118,v,Rice Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,331
+29700208,327,PT01M35.00S,3,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,64.0,55.0,119,v,Rice Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,332
+29700208,328,PT01M15.00S,3,1610612737,ATL,120,Smith,S. Smith,-31,63,7,Missed,1,0.0,0.0,0,h,MISS Smith 7' Jump Shot,Missed Shot,Jump Shot,0,333
+29700208,329,PT01M14.00S,3,1610612766,CHH,1133,Beck,C. Beck,0,0,0,,0,0.0,0.0,0,v,Beck REBOUND (Off:1 Def:3),Rebound,Unknown,0,334
+29700208,330,PT01M09.00S,3,1610612766,CHH,1133,Beck,C. Beck,0,0,0,Made,1,64.0,57.0,121,v,Beck  Layup (4 PTS),Made Shot,Layup Shot,0,335
+29700208,331,PT00M49.70S,3,1610612737,ATL,359,Brown,C. Brown,149,78,17,Made,1,66.0,57.0,123,h,Brown 17' Jump Shot (8 PTS),Made Shot,Jump Shot,0,336
+29700208,332,PT00M40.40S,3,1610612766,CHH,462,Reid,J. Reid,-106,21,11,Missed,1,0.0,0.0,0,v,MISS Reid 11' Jump Shot,Missed Shot,Jump Shot,0,337
+29700208,333,PT00M38.40S,3,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Unknown,0,338
+29700208,334,PT00M38.40S,3,1610612766,CHH,1133,Beck,C. Beck,0,0,0,,0,0.0,0.0,0,v,Beck L.B.FOUL (P3.PN),Foul,Loose Ball,0,339
+29700208,335,PT00M38.40S,3,1610612737,ATL,120,Smith,S. Smith,0,0,0,,0,67.0,57.0,124,h,Smith Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,340
+29700208,336,PT00M38.40S,3,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,0.0,0.0,0,v,SUB: Phills FOR Rice,Substitution,,0,341
+29700208,337,PT00M38.40S,3,1610612737,ATL,120,Smith,S. Smith,0,0,0,,0,68.0,57.0,125,h,Smith Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,342
+29700208,338,PT00M30.70S,3,1610612766,CHH,1133,Beck,C. Beck,-3,25,3,Missed,1,0.0,0.0,0,v,MISS Beck 3' Layup,Missed Shot,Layup Shot,0,343
+29700208,339,PT00M29.10S,3,1610612766,CHH,761,Geiger,M. Geiger,0,0,0,,0,0.0,0.0,0,v,Geiger REBOUND (Off:4 Def:3),Rebound,Unknown,0,344
+29700208,340,PT00M29.10S,3,1610612737,ATL,246,Anderson,G. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson S.FOUL (P2.PN),Foul,Shooting,0,345
+29700208,341,PT00M29.10S,3,1610612766,CHH,761,Geiger,M. Geiger,0,0,0,,0,68.0,58.0,126,v,Geiger Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,346
+29700208,343,PT00M29.10S,3,1610612766,CHH,761,Geiger,M. Geiger,0,0,0,,0,0.0,0.0,0,v,MISS Geiger Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,347
+29700208,344,PT00M28.20S,3,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Rebound,Rebound,Unknown,0,348
+29700208,345,PT00M07.70S,3,1610612766,CHH,761,Geiger,M. Geiger,0,0,0,Missed,1,0.0,0.0,0,v,MISS Geiger  Layup,Missed Shot,Layup Shot,0,349
+29700208,346,PT00M04.80S,3,1610612737,ATL,120,Smith,S. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:0 Def:2),Rebound,Unknown,0,350
+29700208,347,PT00M00.90S,3,1610612737,ATL,120,Smith,S. Smith,-220,117,25,Made,1,71.0,58.0,129,h,Smith 25' 3PT Jump Shot (18 PTS),Made Shot,Jump Shot,0,351
+29700208,348,PT00M00.00S,3,0,,0,,,0,0,0,,0,71.0,58.0,129,,End of 3rd Period (1:13 PM EST),period,end,0,352
+29700208,350,PT12M00.00S,4,0,,0,,,0,0,0,,0,71.0,58.0,129,,Start of 4th Period (1:16 PM EST),period,start,0,353
+29700208,351,PT11M41.00S,4,1610612737,ATL,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,h,Laettner OFF.Foul (P4),Foul,Offensive,0,354
+29700208,352,PT11M41.00S,4,1610612737,ATL,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,h,Laettner Foul Turnover (P1.T12),Turnover,Foul,0,355
+29700208,353,PT11M29.00S,4,1610612766,CHH,184,Phills,B. Phills,0,0,0,Made,1,71.0,60.0,131,v,Phills  Driving Layup (8 PTS),Made Shot,Driving Layup Shot,0,356
+29700208,354,PT11M29.00S,4,1610612737,ATL,359,Brown,C. Brown,0,0,0,,0,0.0,0.0,0,h,Brown S.FOUL (P2.T1),Foul,Shooting,0,357
+29700208,355,PT11M29.00S,4,1610612766,CHH,184,Phills,B. Phills,0,0,0,,0,0.0,0.0,0,v,MISS Phills Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,358
+29700208,356,PT11M28.00S,4,1610612737,ATL,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,h,Laettner REBOUND (Off:0 Def:7),Rebound,Unknown,0,359
+29700208,357,PT11M09.00S,4,1610612737,ATL,363,Laettner,C. Laettner,121,25,12,Made,1,73.0,60.0,133,h,Laettner 12' Jump Shot (18 PTS) (Smith 4 AST),Made Shot,Jump Shot,0,360
+29700208,358,PT10M47.00S,4,1610612737,ATL,246,Anderson,G. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson S.FOUL (P3.T2),Foul,Shooting,0,361
+29700208,359,PT10M47.00S,4,1610612766,CHH,761,Geiger,M. Geiger,0,0,0,,0,73.0,61.0,134,v,Geiger Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,362
+29700208,361,PT10M47.00S,4,1610612766,CHH,761,Geiger,M. Geiger,0,0,0,,0,73.0,62.0,135,v,Geiger Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,363
+29700208,362,PT10M36.00S,4,1610612737,ATL,359,Brown,C. Brown,0,0,0,,0,0.0,0.0,0,h,Brown Lost Ball Turnover (P2.T13),Turnover,Lost Ball,0,364
+29700208,362,PT10M36.00S,4,1610612766,CHH,184,Phills,B. Phills,0,0,0,,0,0.0,0.0,0,v,Phills STEAL (1 STL),,,0,365
+29700208,363,PT10M30.00S,4,1610612766,CHH,209,Curry,D. Curry,231,53,24,Missed,1,0.0,0.0,0,v,MISS Curry 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,366
+29700208,364,PT10M29.00S,4,1610612766,CHH,209,Curry,D. Curry,0,0,0,,0,0.0,0.0,0,v,Curry REBOUND (Off:3 Def:0),Rebound,Unknown,0,367
+29700208,365,PT10M26.00S,4,1610612766,CHH,209,Curry,D. Curry,164,57,17,Missed,1,0.0,0.0,0,v,MISS Curry 17' Jump Shot,Missed Shot,Jump Shot,0,368
+29700208,366,PT10M26.00S,4,1610612737,ATL,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,h,Laettner REBOUND (Off:0 Def:8),Rebound,Unknown,0,369
+29700208,367,PT10M11.00S,4,1610612737,ATL,359,Brown,C. Brown,0,48,5,Missed,1,0.0,0.0,0,h,MISS Brown 5' Jump Shot,Missed Shot,Jump Shot,0,370
+29700208,369,PT10M11.00S,4,1610612737,ATL,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,h,Laettner REBOUND (Off:1 Def:8),Rebound,Unknown,0,371
+29700208,368,PT10M11.00S,4,1610612737,ATL,363,Laettner,C. Laettner,0,0,0,Made,1,75.0,62.0,137,h,Laettner  Layup (20 PTS),Made Shot,Layup Shot,0,372
+29700208,370,PT09M52.00S,4,1610612737,ATL,359,Brown,C. Brown,0,0,0,,0,0.0,0.0,0,h,Brown P.FOUL (P3.T3),Foul,Personal,0,373
+29700208,371,PT09M52.00S,4,1610612737,ATL,359,Brown,C. Brown,0,0,0,,0,0.0,0.0,0,h,SUB: Gray FOR Brown,Substitution,,0,374
+29700208,372,PT09M47.00S,4,1610612737,ATL,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,h,Laettner S.FOUL (P5.T4),Foul,Shooting,0,375
+29700208,373,PT09M47.00S,4,1610612766,CHH,184,Phills,B. Phills,0,0,0,,0,0.0,0.0,0,v,MISS Phills Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,376
+29700208,374,PT09M47.00S,4,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Rebound,Rebound,Unknown,0,377
+29700208,375,PT09M47.00S,4,1610612737,ATL,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,h,SUB: Mutombo FOR Laettner,Substitution,,0,378
+29700208,376,PT09M47.00S,4,1610612766,CHH,184,Phills,B. Phills,0,0,0,,0,75.0,63.0,138,v,Phills Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,379
+29700208,377,PT09M38.00S,4,1610612737,ATL,302,Blaylock,M. Blaylock,-3,250,25,Missed,1,0.0,0.0,0,h,MISS Blaylock 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,380
+29700208,378,PT09M37.00S,4,1610612766,CHH,462,Reid,J. Reid,0,0,0,,0,0.0,0.0,0,v,Reid REBOUND (Off:0 Def:2),Rebound,Unknown,0,381
+29700208,379,PT09M25.00S,4,1610612766,CHH,761,Geiger,M. Geiger,27,124,13,Made,1,75.0,65.0,140,v,Geiger 13' Jump Shot (7 PTS),Made Shot,Jump Shot,0,382
+29700208,380,PT09M06.00S,4,1610612737,ATL,246,Anderson,G. Anderson,0,0,0,Missed,1,0.0,0.0,0,h,MISS Anderson  Layup,Missed Shot,Layup Shot,0,383
+29700208,380,PT09M06.00S,4,1610612766,CHH,462,Reid,J. Reid,0,0,0,,0,0.0,0.0,0,v,Reid BLOCK (1 BLK),,,0,384
+29700208,381,PT09M05.00S,4,1610612737,ATL,246,Anderson,G. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson REBOUND (Off:1 Def:1),Rebound,Unknown,0,385
+29700208,382,PT09M01.00S,4,1610612737,ATL,246,Anderson,G. Anderson,0,0,0,Made,1,77.0,65.0,142,h,Anderson  Layup (4 PTS),Made Shot,Layup Shot,0,386
+29700208,383,PT08M53.00S,4,1610612766,CHH,1133,Beck,C. Beck,134,81,16,Made,1,77.0,67.0,144,v,Beck 16' Jump Shot (6 PTS),Made Shot,Jump Shot,0,387
+29700208,385,PT08M27.00S,4,1610612737,ATL,120,Smith,S. Smith,-8,151,15,Missed,1,0.0,0.0,0,h,MISS Smith 15' Jump Shot,Missed Shot,Jump Shot,0,388
+29700208,386,PT08M27.00S,4,1610612737,ATL,302,Blaylock,M. Blaylock,0,0,0,,0,0.0,0.0,0,h,Blaylock REBOUND (Off:4 Def:3),Rebound,Unknown,0,389
+29700208,387,PT08M12.00S,4,1610612737,ATL,246,Anderson,G. Anderson,0,0,0,Missed,1,0.0,0.0,0,h,MISS Anderson  Layup,Missed Shot,Layup Shot,0,390
+29700208,388,PT08M09.00S,4,1610612766,CHH,761,Geiger,M. Geiger,0,0,0,,0,0.0,0.0,0,v,Geiger REBOUND (Off:4 Def:4),Rebound,Unknown,0,391
+29700208,389,PT07M57.00S,4,1610612766,CHH,184,Phills,B. Phills,-72,23,8,Missed,1,0.0,0.0,0,v,MISS Phills 8' Jump Shot,Missed Shot,Jump Shot,0,392
+29700208,390,PT07M57.00S,4,1610612737,ATL,87,Mutombo,D. Mutombo,0,0,0,,0,0.0,0.0,0,h,Mutombo REBOUND (Off:3 Def:10),Rebound,Unknown,0,393
+29700208,391,PT07M49.00S,4,1610612766,CHH,462,Reid,J. Reid,0,0,0,,0,0.0,0.0,0,v,Reid S.FOUL (P3.T1),Foul,Shooting,0,394
+29700208,392,PT07M49.00S,4,1610612737,ATL,1516,Gray,E. Gray,0,0,0,,0,78.0,67.0,145,h,Gray Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,395
+29700208,393,PT07M49.00S,4,1610612766,CHH,184,Phills,B. Phills,0,0,0,,0,0.0,0.0,0,v,SUB: Rice FOR Phills,Substitution,,0,396
+29700208,394,PT07M49.00S,4,1610612766,CHH,761,Geiger,M. Geiger,0,0,0,,0,0.0,0.0,0,v,SUB: Mason FOR Geiger,Substitution,,0,397
+29700208,395,PT07M49.00S,4,1610612737,ATL,1516,Gray,E. Gray,0,0,0,,0,79.0,67.0,146,h,Gray Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,398
+29700208,396,PT07M43.00S,4,1610612737,ATL,1516,Gray,E. Gray,0,0,0,,0,0.0,0.0,0,h,Gray P.FOUL (P3.PN),Foul,Personal,0,399
+29700208,397,PT07M43.00S,4,1610612766,CHH,209,Curry,D. Curry,0,0,0,,0,79.0,68.0,147,v,Curry Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,400
+29700208,398,PT07M43.00S,4,1610612766,CHH,209,Curry,D. Curry,0,0,0,,0,79.0,69.0,148,v,Curry Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,401
+29700208,399,PT07M27.00S,4,1610612737,ATL,120,Smith,S. Smith,-220,124,25,Made,1,82.0,69.0,151,h,Smith 25' 3PT Jump Shot (21 PTS) (Blaylock 7 AST),Made Shot,Jump Shot,0,402
+29700208,400,PT07M06.00S,4,1610612766,CHH,462,Reid,J. Reid,10,164,16,Made,1,82.0,71.0,153,v,Reid 16' Jump Shot (4 PTS) (Mason 3 AST),Made Shot,Jump Shot,0,403
+29700208,401,PT06M42.00S,4,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,v,Mason S.FOUL (P2.T2),Foul,Shooting,0,404
+29700208,402,PT06M42.00S,4,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,405
+29700208,404,PT06M42.00S,4,1610612737,ATL,1516,Gray,E. Gray,0,0,0,,0,83.0,71.0,154,h,Gray Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,406
+29700208,405,PT06M42.00S,4,1610612737,ATL,1516,Gray,E. Gray,0,0,0,,0,84.0,71.0,155,h,Gray Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,407
+29700208,406,PT06M23.00S,4,1610612766,CHH,779,Rice,G. Rice,-81,166,18,Made,1,84.0,73.0,157,v,Rice 18' Jump Shot (19 PTS),Made Shot,Jump Shot,0,408
+29700208,407,PT06M23.00S,4,1610612737,ATL,120,Smith,S. Smith,0,0,0,,0,0.0,0.0,0,h,Smith S.FOUL (P2.PN),Foul,Shooting,0,409
+29700208,408,PT06M23.00S,4,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,0.0,0.0,0,v,MISS Rice Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,410
+29700208,409,PT06M22.00S,4,1610612737,ATL,87,Mutombo,D. Mutombo,0,0,0,,0,0.0,0.0,0,h,Mutombo REBOUND (Off:3 Def:11),Rebound,Unknown,0,411
+29700208,410,PT06M05.00S,4,1610612737,ATL,120,Smith,S. Smith,91,12,9,Made,1,86.0,73.0,159,h,Smith 9' Jump Shot (23 PTS),Made Shot,Jump Shot,0,412
+29700208,411,PT05M45.00S,4,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Violation: Def. Goaltending Violation,Violation,Defensive Goaltending,0,413
+29700208,412,PT05M36.00S,4,1610612766,CHH,209,Curry,D. Curry,233,8,0,Missed,1,0.0,0.0,0,v,MISS Curry  3PT Jump Shot,Missed Shot,Jump Shot,0,414
+29700208,413,PT05M36.00S,4,1610612766,CHH,1133,Beck,C. Beck,0,0,0,,0,0.0,0.0,0,v,Beck REBOUND (Off:2 Def:3),Rebound,Unknown,0,415
+29700208,414,PT05M31.00S,4,1610612766,CHH,1133,Beck,C. Beck,48,16,5,Made,1,86.0,75.0,161,v,Beck 5' Jump Shot (8 PTS),Made Shot,Jump Shot,0,416
+29700208,415,PT05M13.00S,4,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Violation: Def. Goaltending Violation,Violation,Defensive Goaltending,0,417
+29700208,416,PT04M53.00S,4,1610612737,ATL,120,Smith,S. Smith,1,25,3,Missed,1,0.0,0.0,0,h,MISS Smith 3' Layup,Missed Shot,Layup Shot,0,418
+29700208,418,PT04M50.00S,4,1610612737,ATL,246,Anderson,G. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson REBOUND (Off:2 Def:1),Rebound,Unknown,0,419
+29700208,417,PT04M50.00S,4,1610612737,ATL,246,Anderson,G. Anderson,0,0,0,Made,1,88.0,75.0,163,h,Anderson  Layup (6 PTS),Made Shot,Layup Shot,0,420
+29700208,419,PT04M32.00S,4,1610612737,ATL,120,Smith,S. Smith,0,0,0,,0,0.0,0.0,0,h,Smith Violation:Double Lane,Violation,Double Lane,0,421
+29700208,420,PT04M29.00S,4,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,0.0,0.0,0,v,Rice Traveling Turnover (P2.T10),Turnover,Traveling,0,422
+29700208,421,PT04M09.00S,4,1610612737,ATL,87,Mutombo,D. Mutombo,-113,-1,11,Made,1,90.0,75.0,165,h,Mutombo 11' Jump Shot (10 PTS) (Blaylock 8 AST),Made Shot,Jump Shot,0,423
+29700208,422,PT03M59.00S,4,1610612766,CHH,1133,Beck,C. Beck,0,0,0,,0,0.0,0.0,0,v,Beck Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,424
+29700208,422,PT03M59.00S,4,1610612737,ATL,246,Anderson,G. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson STEAL (2 STL),,,0,425
+29700208,423,PT03M55.00S,4,1610612737,ATL,1516,Gray,E. Gray,0,0,0,Made,1,92.0,75.0,167,h,Gray  Dunk (6 PTS) (Blaylock 9 AST),Made Shot,Dunk Shot,0,426
+29700208,424,PT03M31.00S,4,1610612766,CHH,1133,Beck,C. Beck,-38,0,4,Missed,1,0.0,0.0,0,v,MISS Beck 4' Jump Shot,Missed Shot,Jump Shot,0,427
+29700208,424,PT03M31.00S,4,1610612737,ATL,246,Anderson,G. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson BLOCK (1 BLK),,,0,428
+29700208,425,PT03M29.00S,4,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Rebound,Rebound,Unknown,0,429
+29700208,426,PT03M29.00S,4,1610612766,CHH,1133,Beck,C. Beck,0,0,0,,0,0.0,0.0,0,v,SUB: Wesley FOR Beck,Substitution,,0,430
+29700208,427,PT03M26.00S,4,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,v,Mason Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,431
+29700208,427,PT03M26.00S,4,1610612737,ATL,120,Smith,S. Smith,0,0,0,,0,0.0,0.0,0,h,Smith STEAL (2 STL),,,0,432
+29700208,428,PT03M14.00S,4,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,v,Mason P.FOUL (P3.T3),Foul,Personal,0,433
+29700208,429,PT03M07.00S,4,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,0.0,0.0,0,v,Rice P.FOUL (P1.T4),Foul,Personal,0,434
+29700208,430,PT03M07.00S,4,1610612737,ATL,302,Blaylock,M. Blaylock,0,0,0,,0,0.0,0.0,0,h,SUB: Recasner FOR Blaylock,Substitution,,0,435
+29700208,431,PT02M55.00S,4,1610612737,ATL,87,Mutombo,D. Mutombo,0,0,0,Missed,1,0.0,0.0,0,h,MISS Mutombo  Layup,Missed Shot,Layup Shot,0,436
+29700208,432,PT02M51.00S,4,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,0.0,0.0,0,v,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,437
+29700208,433,PT02M48.00S,4,1610612737,ATL,1516,Gray,E. Gray,0,0,0,,0,0.0,0.0,0,h,Gray S.FOUL (P4.PN),Foul,Shooting,0,438
+29700208,434,PT02M48.00S,4,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,439
+29700208,436,PT02M48.00S,4,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,0.0,0.0,0,v,SUB: Armstrong FOR Wesley,Substitution,,0,440
+29700208,437,PT02M48.00S,4,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,v,MISS Mason Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,441
+29700208,438,PT02M48.00S,4,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Rebound,Rebound,Unknown,0,442
+29700208,439,PT02M48.00S,4,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,92.0,76.0,168,v,Mason Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,443
+29700208,440,PT02M31.00S,4,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,0.0,0.0,0,v,SUB: Farmer FOR Rice,Substitution,,0,444
+29700208,441,PT02M26.00S,4,1610612737,ATL,1516,Gray,E. Gray,-169,70,18,Made,1,94.0,76.0,170,h,Gray 18' Jump Shot (8 PTS),Made Shot,Jump Shot,0,445
+29700208,442,PT02M06.00S,4,1610612766,CHH,462,Reid,J. Reid,111,55,12,Made,1,94.0,78.0,172,v,Reid 12' Jump Shot (6 PTS),Made Shot,Jump Shot,0,446
+29700208,443,PT01M44.00S,4,1610612737,ATL,120,Smith,S. Smith,0,0,0,,0,0.0,0.0,0,h,SUB: Crawford FOR Smith,Substitution,,0,447
+29700208,444,PT01M44.00S,4,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Timeout: Short (Full 4 Short 1),Timeout,Short,0,448
+29700208,445,PT01M44.00S,4,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,v,SUB: Williams FOR Mason,Substitution,,0,449
+29700208,446,PT01M44.00S,4,1610612737,ATL,87,Mutombo,D. Mutombo,0,0,0,,0,0.0,0.0,0,h,SUB: Miller FOR Mutombo,Substitution,,0,450
+29700208,447,PT01M41.00S,4,1610612737,ATL,1516,Gray,E. Gray,-136,21,14,Missed,1,0.0,0.0,0,h,MISS Gray 14' Jump Shot,Missed Shot,Jump Shot,0,451
+29700208,449,PT01M38.00S,4,1610612737,ATL,292,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,h,Miller REBOUND (Off:1 Def:0),Rebound,Unknown,0,452
+29700208,448,PT01M38.00S,4,1610612737,ATL,292,Miller,A. Miller,0,0,0,Made,1,96.0,78.0,174,h,Miller  Tip Shot (2 PTS),Made Shot,Tip Shot,0,453
+29700208,450,PT01M29.00S,4,1610612766,CHH,209,Curry,D. Curry,53,0,5,Missed,1,0.0,0.0,0,v,MISS Curry 5' Jump Shot,Missed Shot,Jump Shot,0,454
+29700208,450,PT01M29.00S,4,1610612737,ATL,246,Anderson,G. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson BLOCK (2 BLK),,,0,455
+29700208,451,PT01M28.00S,4,1610612737,ATL,1516,Gray,E. Gray,0,0,0,,0,0.0,0.0,0,h,Gray REBOUND (Off:0 Def:1),Rebound,Unknown,0,456
+29700208,452,PT01M21.00S,4,1610612737,ATL,1544,Crawford,C. Crawford,-48,18,5,Missed,1,0.0,0.0,0,h,MISS Crawford 5' Layup,Missed Shot,Layup Shot,0,457
+29700208,453,PT01M16.00S,4,1610612737,ATL,1516,Gray,E. Gray,0,0,0,,0,0.0,0.0,0,h,Gray REBOUND (Off:1 Def:1),Rebound,Unknown,0,458
+29700208,454,PT01M16.00S,4,1610612766,CHH,769,Armstrong,B. Armstrong,0,0,0,,0,0.0,0.0,0,v,Armstrong S.FOUL (P1.PN),Foul,Shooting,0,459
+29700208,455,PT01M16.00S,4,1610612737,ATL,1544,Crawford,C. Crawford,0,0,0,,0,97.0,78.0,175,h,Crawford Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,460
+29700208,456,PT01M16.00S,4,1610612737,ATL,1544,Crawford,C. Crawford,0,0,0,,0,98.0,78.0,176,h,Crawford Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,461
+29700208,457,PT01M06.00S,4,1610612766,CHH,1576,Williams,T. Williams,0,0,0,Missed,1,0.0,0.0,0,v,MISS Williams  Layup,Missed Shot,Layup Shot,0,462
+29700208,458,PT01M03.00S,4,1610612737,ATL,246,Anderson,G. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson REBOUND (Off:2 Def:2),Rebound,Unknown,0,463
+29700208,459,PT00M49.30S,4,1610612766,CHH,462,Reid,J. Reid,0,0,0,,0,0.0,0.0,0,v,Reid S.FOUL (P4.PN),Foul,Shooting,0,464
+29700208,461,PT00M49.30S,4,1610612737,ATL,246,Anderson,G. Anderson,0,0,0,,0,0.0,0.0,0,h,MISS Anderson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,465
+29700208,462,PT00M49.30S,4,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Unknown,0,466
+29700208,463,PT00M49.30S,4,1610612737,ATL,246,Anderson,G. Anderson,0,0,0,,0,0.0,0.0,0,h,MISS Anderson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,467
+29700208,464,PT00M49.30S,4,1610612766,CHH,462,Reid,J. Reid,0,0,0,,0,0.0,0.0,0,v,Reid REBOUND (Off:0 Def:3),Rebound,Unknown,0,468
+29700208,465,PT00M39.50S,4,1610612737,ATL,292,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,h,Miller S.FOUL (P1.PN),Foul,Shooting,0,469
+29700208,469,PT00M39.50S,4,1610612766,CHH,1576,Williams,T. Williams,0,0,0,,0,98.0,79.0,177,v,Williams Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,470
+29700208,470,PT00M39.50S,4,1610612766,CHH,1576,Williams,T. Williams,0,0,0,,0,0.0,0.0,0,v,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,471
+29700208,471,PT00M39.50S,4,1610612737,ATL,695,Recasner,E. Recasner,0,0,0,,0,0.0,0.0,0,h,Recasner REBOUND (Off:0 Def:1),Rebound,Unknown,0,472
+29700208,472,PT00M23.90S,4,1610612737,ATL,292,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,h,Miller Traveling Turnover (P1.T14),Turnover,Traveling,0,473
+29700208,473,PT00M10.40S,4,1610612737,ATL,292,Miller,A. Miller,0,0,0,,0,0.0,0.0,0,h,Miller S.FOUL (P2.PN),Foul,Shooting,0,474
+29700208,474,PT00M10.40S,4,1610612766,CHH,1108,Farmer,T. Farmer,0,0,0,,0,0.0,0.0,0,v,MISS Farmer Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,475
+29700208,476,PT00M10.40S,4,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Rebound,Rebound,Unknown,0,476
+29700208,477,PT00M10.40S,4,1610612766,CHH,1108,Farmer,T. Farmer,0,0,0,,0,98.0,80.0,178,v,Farmer Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,477
+29700208,478,PT00M01.20S,4,1610612737,ATL,246,Anderson,G. Anderson,-218,209,30,Missed,1,0.0,0.0,0,h,MISS Anderson 30' 3PT Jump Shot,Missed Shot,Jump Shot,0,478
+29700208,479,PT00M00.00S,4,1610612766,CHH,1576,Williams,T. Williams,0,0,0,,0,0.0,0.0,0,v,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,479
+29700208,480,PT00M00.00S,4,0,,0,,,0,0,0,,0,98.0,80.0,178,,End of 4th Period (1:46 PM EST),period,end,0,480

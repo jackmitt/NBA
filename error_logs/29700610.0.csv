@@ -1,0 +1,21 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId,clock_sec
+29700610,394,PT07M01.00S,4,1610612746,LAC,381,Robinson,J. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson S.FOUL (P1.T3),Foul,Shooting,0,393,2459.0
+29700610,395,PT07M01.00S,4,1610612745,HOU,970,Harrington,O. Harrington,0,0,0,,0,0.0,0.0,0,h,MISS Harrington Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,394,2459.0
+29700610,396,PT07M01.00S,4,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Rebound,Rebound,Unknown,0,395,2459.0
+29700610,397,PT07M01.00S,4,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,0.0,0.0,0,v,SUB: Vrankovic FOR Wright,Substitution,,0,396,2459.0
+29700610,398,PT07M01.00S,4,1610612745,HOU,970,Harrington,O. Harrington,0,0,0,,0,100.0,89.0,189,h,Harrington Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,397,2459.0
+29700610,399,PT06M46.00S,4,1610612746,LAC,1508,Taylor,M. Taylor,-89,158,18,Missed,1,0.0,0.0,0,v,MISS Taylor 18' Jump Shot,Missed Shot,Jump Shot,0,398,2474.0
+29700610,400,PT06M44.00S,4,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,,0,0.0,0.0,0,v,Taylor REBOUND (Off:3 Def:1),Rebound,Unknown,0,399,2476.0
+29700610,401,PT06M43.00S,4,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,Made,1,100.0,91.0,191,v,Taylor  Layup (18 PTS),Made Shot,Layup Shot,0,400,2477.0
+29700610,402,PT06M43.00S,4,1610612745,HOU,53,Elie,M. Elie,0,0,0,,0,0.0,0.0,0,h,Elie S.FOUL (P4.T2),Foul,Shooting,0,401,2477.0
+29700610,404,PT06M43.00S,4,1610612746,LAC,1508,Taylor,M. Taylor,0,0,0,,0,100.0,92.0,192,v,Taylor Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,0,402,2477.0
+29700610,405,PT06M27.00S,4,1610612745,HOU,53,Elie,M. Elie,0,0,0,Made,1,102.0,92.0,194,h,Elie  Layup (9 PTS) (Barkley 4 AST),Made Shot,Layup Shot,0,403,2493.0
+29700610,407,PT06M09.00S,4,1610612745,HOU,85,Price,B. Price,0,0,0,,0,0.0,0.0,0,h,Price P.FOUL (P2.T3),Foul,Personal,0,404,2511.0
+29700610,408,PT05M57.00S,4,1610612746,LAC,381,Robinson,J. Robinson,-72,115,14,Missed,1,0.0,0.0,0,v,MISS Robinson 14' Jump Shot,Missed Shot,Jump Shot,0,405,2523.0
+29700610,409,PT05M54.00S,4,1610612745,HOU,698,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,h,Johnson REBOUND (Off:1 Def:1),Rebound,Unknown,0,406,2526.0
+29700610,410,PT05M32.00S,4,1610612746,LAC,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,v,Rogers S.FOUL (P6.T4),Foul,Shooting,0,407,2548.0
+29700610,411,PT05M32.00S,4,1610612746,LAC,915,Rogers,R. Rogers,0,0,0,,0,0.0,0.0,0,v,SUB: Wright FOR Rogers,Substitution,,0,408,2548.0
+29700610,412,PT05M32.00S,4,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,,0,0.0,0.0,0,h,MISS Barkley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,409,2548.0
+29700610,413,PT05M32.00S,4,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,h,ROCKETS Rebound,Rebound,Unknown,0,410,2548.0
+29700610,414,PT05M32.00S,4,1610612745,HOU,787,Barkley,C. Barkley,0,0,0,,0,0.0,0.0,0,h,MISS Barkley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,411,2548.0
+29700610,415,PT05M32.00S,4,1610612746,LAC,953,Wright,L. Wright,0,0,0,,0,0.0,0.0,0,v,Wright REBOUND (Off:1 Def:5),Rebound,Unknown,0,412,2548.0

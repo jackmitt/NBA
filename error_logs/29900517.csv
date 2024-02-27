@@ -1,0 +1,509 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+29900517,1,PT12M00.00S,1,1610612764,WAS,63,Smith,M. Smith,0,0,0,,0,0.0,0.0,0,h,Jump Ball Smith vs. Hill: Tip to Mills,Jump Ball,,0,1
+29900517,2,PT11M49.00S,1,1610612765,DET,363,Laettner,C. Laettner,42,55,7,Missed,1,0.0,0.0,0,v,MISS Laettner 7' Jump Shot,Missed Shot,Jump Shot,0,2
+29900517,3,PT11M47.00S,1,1610612764,WAS,63,Smith,M. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,0,3
+29900517,4,PT11M33.00S,1,1610612764,WAS,393,Strickland,R. Strickland,-23,-21,3,Made,1,2.0,0.0,2,h,Strickland 3' Layup (2 PTS),Made Shot,Layup Shot,0,4
+29900517,34,PT11M33.00S,1,1610612765,DET,363,Laettner,C. Laettner,18,74,8,Made,1,2.0,2.0,4,v,Laettner 8' Hook Shot (2 PTS),Made Shot,Hook Shot,0,5
+29900517,5,PT11M02.00S,1,1610612764,WAS,63,Smith,M. Smith,0,0,0,,0,0.0,0.0,0,h,Smith S.FOUL (P1.T1),Foul,Shooting,0,6
+29900517,6,PT11M02.00S,1,1610612765,DET,363,Laettner,C. Laettner,0,0,0,,0,2.0,3.0,5,v,Laettner Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,7
+29900517,7,PT10M45.00S,1,1610612765,DET,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,v,Laettner S.FOUL (P1.T1),Foul,Shooting,0,8
+29900517,9,PT10M45.00S,1,1610612764,WAS,436,Howard,J. Howard,0,0,0,,0,3.0,3.0,6,h,Howard Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,9
+29900517,10,PT10M45.00S,1,1610612764,WAS,436,Howard,J. Howard,0,0,0,,0,4.0,3.0,7,h,Howard Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,10
+29900517,11,PT10M30.00S,1,1610612765,DET,255,Hill,G. Hill,12,31,3,Made,1,4.0,5.0,9,v,Hill 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,11
+29900517,12,PT10M12.00S,1,1610612764,WAS,436,Howard,J. Howard,-51,188,19,Made,1,6.0,5.0,11,h,Howard 19' Jump Shot (4 PTS) (Richmond 1 AST),Made Shot,Jump Shot,0,12
+29900517,13,PT10M03.00S,1,1610612765,DET,363,Laettner,C. Laettner,-42,18,5,Made,1,6.0,7.0,13,v,Laettner 5' Jump Shot (5 PTS) (Stackhouse 1 AST),Made Shot,Jump Shot,0,13
+29900517,14,PT09M32.00S,1,1610612764,WAS,782,Richmond,M. Richmond,18,38,4,Made,1,8.0,7.0,15,h,Richmond 4' Layup (2 PTS),Made Shot,Layup Shot,0,14
+29900517,15,PT09M27.00S,1,1610612765,DET,363,Laettner,C. Laettner,-42,25,5,Made,1,8.0,9.0,17,v,Laettner 5' Layup (7 PTS) (Hunter 1 AST),Made Shot,Layup Shot,0,15
+29900517,16,PT09M11.00S,1,1610612764,WAS,782,Richmond,M. Richmond,-23,25,3,Made,1,10.0,9.0,19,h,Richmond 3' Driving Layup (4 PTS) (Howard 1 AST),Made Shot,Driving Layup Shot,0,16
+29900517,17,PT09M02.00S,1,1610612765,DET,711,Stackhouse,J. Stackhouse,-164,25,17,Missed,1,0.0,0.0,0,v,MISS Stackhouse 17' Jump Shot,Missed Shot,Jump Shot,0,17
+29900517,18,PT09M00.00S,1,1610612764,WAS,1751,White,J. White,0,0,0,,0,0.0,0.0,0,h,White REBOUND (Off:0 Def:1),Rebound,Unknown,0,18
+29900517,19,PT08M51.00S,1,1610612764,WAS,436,Howard,J. Howard,33,8,3,Made,1,12.0,9.0,21,h,Howard 3' Layup (6 PTS) (Strickland 1 AST),Made Shot,Layup Shot,0,19
+29900517,20,PT08M37.00S,1,1610612765,DET,283,Hunter,L. Hunter,42,91,10,Missed,1,0.0,0.0,0,v,MISS Hunter 10' Jump Shot,Missed Shot,Jump Shot,0,20
+29900517,21,PT08M31.00S,1,1610612764,WAS,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,Strickland REBOUND (Off:0 Def:1),Rebound,Unknown,0,21
+29900517,22,PT08M22.00S,1,1610612764,WAS,782,Richmond,M. Richmond,76,55,9,Missed,1,0.0,0.0,0,h,MISS Richmond 9' Jump Shot,Missed Shot,Jump Shot,0,22
+29900517,23,PT08M19.00S,1,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Rebound,Rebound,Unknown,0,23
+29900517,24,PT07M54.00S,1,1610612764,WAS,436,Howard,J. Howard,5,55,6,Missed,1,0.0,0.0,0,h,MISS Howard 6' Jump Shot,Missed Shot,Jump Shot,0,24
+29900517,25,PT07M47.00S,1,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Rebound,Rebound,Unknown,0,25
+29900517,26,PT07M41.00S,1,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,0,26
+29900517,27,PT07M41.00S,1,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,0.0,0.0,0,v,Hill Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,27
+29900517,28,PT07M41.00S,1,1610612764,WAS,393,Strickland,R. Strickland,-14,31,3,Made,1,14.0,9.0,23,h,Strickland 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,28
+29900517,29,PT07M30.00S,1,1610612764,WAS,436,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard S.FOUL (P1.T2),Foul,Shooting,0,29
+29900517,30,PT07M30.00S,1,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,14.0,10.0,24,v,Hill Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,30
+29900517,31,PT07M30.00S,1,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,0.0,0.0,0,v,MISS Hill Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,31
+29900517,32,PT07M30.00S,1,1610612764,WAS,1751,White,J. White,0,0,0,,0,0.0,0.0,0,h,White REBOUND (Off:0 Def:2),Rebound,Unknown,0,32
+29900517,33,PT07M30.00S,1,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,33
+29900517,36,PT07M01.00S,1,1610612764,WAS,63,Smith,M. Smith,-29,18,3,Made,1,16.0,10.0,26,h,Smith 3' Driving Layup (2 PTS) (Strickland 2 AST),Made Shot,Driving Layup Shot,0,34
+29900517,37,PT07M01.00S,1,1610612765,DET,371,Mills,T. Mills,0,0,0,,0,0.0,0.0,0,v,Mills S.FOUL (P1.T2),Foul,Shooting,0,35
+29900517,38,PT07M01.00S,1,1610612764,WAS,63,Smith,M. Smith,0,0,0,,0,0.0,0.0,0,h,MISS Smith Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,36
+29900517,39,PT07M01.00S,1,1610612765,DET,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,v,Laettner REBOUND (Off:0 Def:1),Rebound,Unknown,0,37
+29900517,40,PT06M47.00S,1,1610612765,DET,711,Stackhouse,J. Stackhouse,18,14,2,Missed,1,0.0,0.0,0,v,MISS Stackhouse 2' Layup,Missed Shot,Layup Shot,0,38
+29900517,40,PT06M47.00S,1,1610612764,WAS,1751,White,J. White,0,0,0,,0,0.0,0.0,0,h,White BLOCK (1 BLK),,,0,39
+29900517,41,PT06M43.00S,1,1610612764,WAS,63,Smith,M. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:0 Def:2),Rebound,Unknown,0,40
+29900517,42,PT06M38.00S,1,1610612764,WAS,1751,White,J. White,-14,14,2,Made,1,18.0,10.0,28,h,White 2' Layup (2 PTS) (Howard 2 AST),Made Shot,Layup Shot,0,41
+29900517,43,PT06M26.00S,1,1610612765,DET,363,Laettner,C. Laettner,104,1,10,Made,1,18.0,12.0,30,v,Laettner 10' Jump Shot (9 PTS),Made Shot,Jump Shot,0,42
+29900517,44,PT06M04.00S,1,1610612764,WAS,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,Strickland Traveling Turnover (P1.T2),Turnover,Traveling,0,43
+29900517,45,PT05M52.00S,1,1610612765,DET,283,Hunter,L. Hunter,33,115,12,Missed,1,0.0,0.0,0,v,MISS Hunter 12' Jump Shot,Missed Shot,Jump Shot,0,44
+29900517,46,PT05M49.00S,1,1610612764,WAS,782,Richmond,M. Richmond,0,0,0,,0,0.0,0.0,0,h,Richmond REBOUND (Off:0 Def:1),Rebound,Unknown,0,45
+29900517,47,PT05M43.00S,1,1610612764,WAS,436,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard Out Of Bounds Turnover (P1.T3),Turnover,Out Of Bounds,0,46
+29900517,48,PT05M28.00S,1,1610612765,DET,255,Hill,G. Hill,-51,14,5,Made,1,18.0,14.0,32,v,Hill 5' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,0,47
+29900517,49,PT05M09.00S,1,1610612764,WAS,1751,White,J. White,-51,14,5,Made,1,20.0,14.0,34,h,White 5' Layup (4 PTS),Made Shot,Layup Shot,0,48
+29900517,50,PT04M58.00S,1,1610612765,DET,711,Stackhouse,J. Stackhouse,134,-10,13,Made,1,20.0,16.0,36,v,Stackhouse 13' Layup (2 PTS) (Laettner 1 AST),Made Shot,Layup Shot,0,49
+29900517,51,PT04M43.00S,1,1610612764,WAS,1751,White,J. White,48,-14,5,Missed,1,0.0,0.0,0,h,MISS White 5' Jump Shot,Missed Shot,Jump Shot,0,50
+29900517,52,PT04M41.00S,1,1610612764,WAS,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,Strickland REBOUND (Off:1 Def:1),Rebound,Unknown,0,51
+29900517,53,PT04M36.00S,1,1610612764,WAS,393,Strickland,R. Strickland,-186,-10,19,Made,1,22.0,16.0,38,h,Strickland 19' Jump Shot (6 PTS),Made Shot,Jump Shot,0,52
+29900517,54,PT04M21.00S,1,1610612765,DET,363,Laettner,C. Laettner,27,38,5,Missed,1,0.0,0.0,0,v,MISS Laettner 5' Jump Shot,Missed Shot,Jump Shot,0,53
+29900517,55,PT04M18.00S,1,1610612764,WAS,1751,White,J. White,0,0,0,,0,0.0,0.0,0,h,White REBOUND (Off:0 Def:3),Rebound,Unknown,0,54
+29900517,56,PT04M06.00S,1,1610612764,WAS,393,Strickland,R. Strickland,-42,68,8,Missed,1,0.0,0.0,0,h,MISS Strickland 8' Jump Shot,Missed Shot,Jump Shot,0,55
+29900517,57,PT04M04.00S,1,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,0.0,0.0,0,v,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,56
+29900517,58,PT04M00.00S,1,1610612765,DET,711,Stackhouse,J. Stackhouse,5,14,1,Made,1,22.0,18.0,40,v,Stackhouse 1' Driving Layup (4 PTS) (Hill 1 AST),Made Shot,Driving Layup Shot,0,57
+29900517,59,PT03M37.00S,1,1610612764,WAS,436,Howard,J. Howard,-87,1,9,Made,1,24.0,18.0,42,h,Howard 9' Hook Shot (8 PTS),Made Shot,Hook Shot,0,58
+29900517,60,PT03M30.00S,1,1610612765,DET,255,Hill,G. Hill,5,18,2,Made,1,24.0,20.0,44,v,Hill 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,0,59
+29900517,61,PT03M09.00S,1,1610612764,WAS,436,Howard,J. Howard,-57,8,6,Missed,1,0.0,0.0,0,h,MISS Howard 6' Jump Shot,Missed Shot,Jump Shot,0,60
+29900517,62,PT02M49.00S,1,1610612764,WAS,1751,White,J. White,0,0,0,,0,0.0,0.0,0,h,White REBOUND (Off:1 Def:3),Rebound,Unknown,0,61
+29900517,63,PT02M42.00S,1,1610612764,WAS,436,Howard,J. Howard,-23,18,3,Missed,1,0.0,0.0,0,h,MISS Howard 3' Layup,Missed Shot,Layup Shot,0,62
+29900517,63,PT02M42.00S,1,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,0.0,0.0,0,v,Hill BLOCK (1 BLK),,,0,63
+29900517,64,PT02M39.00S,1,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,0.0,0.0,0,v,Hill REBOUND (Off:0 Def:2),Rebound,Unknown,0,64
+29900517,65,PT02M31.00S,1,1610612765,DET,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,v,Laettner Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,65
+29900517,65,PT02M31.00S,1,1610612764,WAS,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,Strickland STEAL (1 STL),,,0,66
+29900517,66,PT02M24.00S,1,1610612764,WAS,63,Smith,M. Smith,5,18,2,Made,1,26.0,20.0,46,h,Smith 2' Layup (4 PTS) (Strickland 3 AST),Made Shot,Layup Shot,0,67
+29900517,67,PT02M24.00S,1,1610612765,DET,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,v,Laettner S.FOUL (P2.T3),Foul,Shooting,0,68
+29900517,68,PT02M24.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,69
+29900517,70,PT02M24.00S,1,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,0.0,0.0,0,v,SUB: Curry FOR Stackhouse,Substitution,,0,70
+29900517,71,PT02M24.00S,1,1610612765,DET,371,Mills,T. Mills,0,0,0,,0,0.0,0.0,0,v,SUB: Montross FOR Mills,Substitution,,0,71
+29900517,72,PT02M24.00S,1,1610612765,DET,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,v,SUB: Williams FOR Laettner,Substitution,,0,72
+29900517,73,PT02M24.00S,1,1610612764,WAS,1751,White,J. White,0,0,0,,0,0.0,0.0,0,h,SUB: Austin FOR White,Substitution,,0,73
+29900517,74,PT02M24.00S,1,1610612764,WAS,63,Smith,M. Smith,0,0,0,,0,27.0,20.0,47,h,Smith Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,74
+29900517,75,PT02M07.00S,1,1610612765,DET,255,Hill,G. Hill,46,115,12,Made,1,27.0,22.0,49,v,Hill 12' Jump Shot (9 PTS),Made Shot,Jump Shot,0,75
+29900517,76,PT02M02.00S,1,1610612764,WAS,1134,Austin,I. Austin,-23,66,7,Made,1,29.0,22.0,51,h,Austin 7' Jump Shot (2 PTS),Made Shot,Jump Shot,0,76
+29900517,77,PT01M55.00S,1,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,0.0,0.0,0,v,SUB: Vaught FOR Hunter,Substitution,,0,77
+29900517,78,PT01M45.00S,1,1610612765,DET,255,Hill,G. Hill,-179,1,18,Made,1,29.0,24.0,53,v,Hill 18' Jump Shot (11 PTS),Made Shot,Jump Shot,0,78
+29900517,79,PT01M32.00S,1,1610612764,WAS,393,Strickland,R. Strickland,-173,61,18,Made,1,31.0,24.0,55,h,Strickland 18' Jump Shot (8 PTS),Made Shot,Jump Shot,0,79
+29900517,80,PT01M22.00S,1,1610612764,WAS,63,Smith,M. Smith,0,0,0,,0,0.0,0.0,0,h,Smith S.FOUL (P2.T3),Foul,Shooting,0,80
+29900517,81,PT01M22.00S,1,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,31.0,25.0,56,v,Hill Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,81
+29900517,82,PT01M22.00S,1,1610612764,WAS,63,Smith,M. Smith,0,0,0,,0,0.0,0.0,0,h,SUB: Williams FOR Smith,Substitution,,0,82
+29900517,83,PT01M22.00S,1,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,31.0,26.0,57,v,Hill Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,83
+29900517,84,PT00M52.10S,1,1610612764,WAS,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Williams Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,84
+29900517,84,PT00M52.10S,1,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,0.0,0.0,0,v,Williams STEAL (1 STL),,,0,85
+29900517,85,PT00M44.70S,1,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,0.0,0.0,0,v,Williams Traveling Turnover (P1.T3),Turnover,Traveling,0,86
+29900517,86,PT00M39.40S,1,1610612764,WAS,782,Richmond,M. Richmond,-87,91,13,Missed,1,0.0,0.0,0,h,MISS Richmond 13' Jump Shot,Missed Shot,Jump Shot,0,87
+29900517,87,PT00M37.20S,1,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,0.0,0.0,0,v,Hill REBOUND (Off:0 Def:3),Rebound,Unknown,0,88
+29900517,88,PT00M31.80S,1,1610612765,DET,688,Curry,M. Curry,0,0,0,,0,0.0,0.0,0,v,Curry OFF.Foul (P1),Foul,Offensive,0,89
+29900517,89,PT00M31.80S,1,1610612765,DET,688,Curry,M. Curry,0,0,0,,0,0.0,0.0,0,v,Curry Foul Turnover (P1.T4),Turnover,Foul,0,90
+29900517,90,PT00M13.10S,1,1610612764,WAS,1134,Austin,I. Austin,-66,91,11,Missed,1,0.0,0.0,0,h,MISS Austin 11' Jump Shot,Missed Shot,Jump Shot,0,91
+29900517,91,PT00M08.50S,1,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Rebound,Rebound,Unknown,0,92
+29900517,92,PT00M07.20S,1,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,0.0,0.0,0,v,Hill P.FOUL (P1.T4),Foul,Personal,0,93
+29900517,93,PT00M06.70S,1,1610612764,WAS,436,Howard,J. Howard,18,25,3,Missed,1,0.0,0.0,0,h,MISS Howard 3' Layup,Missed Shot,Layup Shot,0,94
+29900517,94,PT00M05.30S,1,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Rebound,Rebound,Unknown,0,95
+29900517,96,PT00M00.00S,1,0,,0,,,0,0,0,,0,31.0,26.0,57,,End of 1st Period (11:29 PM EST),period,end,0,96
+29900517,98,PT12M00.00S,2,0,,0,,,0,0,0,,0,31.0,26.0,57,,Start of 2nd Period (11:31 PM EST),period,start,0,97
+29900517,99,PT11M54.00S,2,1610612765,DET,376,Montross,E. Montross,0,0,0,,0,0.0,0.0,0,v,Montross S.FOUL (P1.T1),Foul,Shooting,0,98
+29900517,100,PT11M54.00S,2,1610612764,WAS,436,Howard,J. Howard,0,0,0,,0,32.0,26.0,58,h,Howard Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,99
+29900517,101,PT11M54.00S,2,1610612764,WAS,436,Howard,J. Howard,0,0,0,,0,33.0,26.0,59,h,Howard Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,100
+29900517,102,PT11M47.00S,2,1610612765,DET,283,Hunter,L. Hunter,169,212,27,Missed,1,0.0,0.0,0,v,MISS Hunter 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,101
+29900517,103,PT11M44.00S,2,1610612764,WAS,1134,Austin,I. Austin,0,0,0,,0,0.0,0.0,0,h,Austin REBOUND (Off:0 Def:1),Rebound,Unknown,0,102
+29900517,105,PT11M14.00S,2,1610612764,WAS,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,Strickland Lost Ball Turnover (P2.T5),Turnover,Lost Ball,0,103
+29900517,105,PT11M14.00S,2,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,0.0,0.0,0,v,Hunter STEAL (1 STL),,,0,104
+29900517,106,PT11M08.00S,2,1610612765,DET,255,Hill,G. Hill,18,5,2,Made,1,33.0,28.0,61,v,Hill 2' Dunk (15 PTS) (Hunter 2 AST),Made Shot,Dunk Shot,0,105
+29900517,107,PT11M01.00S,2,1610612764,WAS,782,Richmond,M. Richmond,162,-23,16,Made,1,35.0,28.0,63,h,Richmond 16' Jump Shot (6 PTS),Made Shot,Jump Shot,0,106
+29900517,108,PT10M50.00S,2,1610612765,DET,283,Hunter,L. Hunter,-179,48,19,Missed,1,0.0,0.0,0,v,MISS Hunter 19' Jump Shot,Missed Shot,Jump Shot,0,107
+29900517,109,PT10M46.00S,2,1610612764,WAS,782,Richmond,M. Richmond,0,0,0,,0,0.0,0.0,0,h,Richmond REBOUND (Off:0 Def:2),Rebound,Unknown,0,108
+29900517,110,PT10M44.00S,2,1610612764,WAS,393,Strickland,R. Strickland,10,5,1,Made,1,37.0,28.0,65,h,Strickland 1' Layup (10 PTS) (Richmond 2 AST),Made Shot,Layup Shot,0,109
+29900517,111,PT10M28.00S,2,1610612765,DET,688,Curry,M. Curry,-166,36,17,Made,1,37.0,30.0,67,v,Curry 17' Jump Shot (2 PTS),Made Shot,Jump Shot,0,110
+29900517,112,PT10M11.00S,2,1610612764,WAS,436,Howard,J. Howard,-44,12,5,Missed,1,0.0,0.0,0,h,MISS Howard 5' Jump Shot,Missed Shot,Jump Shot,0,111
+29900517,113,PT10M10.00S,2,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,0.0,0.0,0,v,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,112
+29900517,114,PT09M56.00S,2,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,0.0,0.0,0,v,Hunter Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,113
+29900517,114,PT09M56.00S,2,1610612764,WAS,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Williams STEAL (1 STL),,,0,114
+29900517,115,PT09M45.00S,2,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,0.0,0.0,0,v,Hunter S.FOUL (P1.T2),Foul,Shooting,0,115
+29900517,116,PT09M45.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,116
+29900517,117,PT09M45.00S,2,1610612764,WAS,436,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,SUB: Murray FOR Howard,Substitution,,0,117
+29900517,118,PT09M45.00S,2,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,0.0,0.0,0,v,SUB: Crotty FOR Hunter,Substitution,,0,118
+29900517,119,PT09M45.00S,2,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,0.0,0.0,0,v,SUB: Laettner FOR Hill,Substitution,,0,119
+29900517,120,PT09M45.00S,2,1610612765,DET,376,Montross,E. Montross,0,0,0,,0,0.0,0.0,0,v,SUB: Stackhouse FOR Montross,Substitution,,0,120
+29900517,121,PT09M45.00S,2,1610612764,WAS,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,MISS Strickland Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,121
+29900517,122,PT09M45.00S,2,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Rebound,Rebound,Normal Rebound,0,122
+29900517,123,PT09M45.00S,2,1610612764,WAS,393,Strickland,R. Strickland,0,0,0,,0,38.0,30.0,68,h,Strickland Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,123
+29900517,124,PT09M45.00S,2,1610612764,WAS,782,Richmond,M. Richmond,0,0,0,,0,0.0,0.0,0,h,SUB: Jordan FOR Richmond,Substitution,,0,124
+29900517,125,PT09M20.00S,2,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,0.0,0.0,0,v,Williams Traveling Turnover (P2.T6),Turnover,Traveling,0,125
+29900517,126,PT09M20.00S,2,1610612764,WAS,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,SUB: Whitney FOR Strickland,Substitution,,0,126
+29900517,127,PT09M12.00S,2,1610612764,WAS,1425,Williams,A. Williams,-31,25,4,Made,1,40.0,30.0,70,h,Williams 4' Hook Shot (2 PTS),Made Shot,Hook Shot,0,127
+29900517,128,PT09M00.00S,2,1610612764,WAS,674,Jordan,R. Jordan,0,0,0,,0,0.0,0.0,0,h,Jordan S.FOUL (P1.T1),Foul,Shooting,0,128
+29900517,129,PT09M00.00S,2,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,40.0,31.0,71,v,Stackhouse Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,129
+29900517,130,PT09M00.00S,2,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,40.0,32.0,72,v,Stackhouse Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,130
+29900517,131,PT08M49.00S,2,1610612764,WAS,1134,Austin,I. Austin,-10,5,1,Made,1,42.0,32.0,74,h,Austin 1' Dunk (4 PTS) (Williams 1 AST),Made Shot,Dunk Shot,0,131
+29900517,132,PT08M33.00S,2,1610612765,DET,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,v,Laettner Out Of Bounds Turnover (P2.T7),Turnover,Out Of Bounds,0,132
+29900517,133,PT08M33.00S,2,1610612764,WAS,145,Murray,T. Murray,0,0,0,,0,0.0,0.0,0,h,Murray Out Of Bounds Turnover (P1.T6),Turnover,Out Of Bounds,0,133
+29900517,134,PT08M32.00S,2,1610612765,DET,711,Stackhouse,J. Stackhouse,175,-3,18,Missed,1,0.0,0.0,0,v,MISS Stackhouse 18' Jump Shot,Missed Shot,Jump Shot,0,134
+29900517,135,PT08M29.00S,2,1610612764,WAS,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,135
+29900517,136,PT08M25.00S,2,1610612764,WAS,43,Whitney,C. Whitney,0,0,0,,0,0.0,0.0,0,h,Whitney Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,136
+29900517,137,PT08M09.00S,2,1610612765,DET,180,Crotty,J. Crotty,126,115,17,Made,1,42.0,34.0,76,v,Crotty 17' Jump Shot (2 PTS) (Stackhouse 2 AST),Made Shot,Jump Shot,0,137
+29900517,138,PT07M51.00S,2,1610612764,WAS,43,Whitney,C. Whitney,0,0,0,,0,0.0,0.0,0,h,Whitney Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,138
+29900517,138,PT07M51.00S,2,1610612765,DET,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,v,Laettner STEAL (1 STL),,,0,139
+29900517,139,PT07M47.00S,2,1610612765,DET,688,Curry,M. Curry,-145,102,18,Missed,1,0.0,0.0,0,v,MISS Curry 18' Jump Shot,Missed Shot,Jump Shot,0,140
+29900517,140,PT07M45.00S,2,1610612764,WAS,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,141
+29900517,141,PT07M30.00S,2,1610612764,WAS,43,Whitney,C. Whitney,0,0,0,,0,0.0,0.0,0,h,Whitney Bad Pass Turnover (P3.T9),Turnover,Bad Pass,0,142
+29900517,141,PT07M30.00S,2,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,0.0,0.0,0,v,Stackhouse STEAL (1 STL),,,0,143
+29900517,142,PT07M24.00S,2,1610612764,WAS,674,Jordan,R. Jordan,0,0,0,,0,0.0,0.0,0,h,Jordan S.FOUL (P2.T2),Foul,Shooting,0,144
+29900517,143,PT07M24.00S,2,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,42.0,35.0,77,v,Stackhouse Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,145
+29900517,144,PT07M24.00S,2,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,42.0,36.0,78,v,Stackhouse Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,146
+29900517,145,PT07M24.00S,2,1610612764,WAS,43,Whitney,C. Whitney,-145,218,26,Missed,1,0.0,0.0,0,h,MISS Whitney 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,147
+29900517,146,PT07M22.00S,2,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,0.0,0.0,0,v,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,148
+29900517,147,PT07M04.00S,2,1610612765,DET,363,Laettner,C. Laettner,162,-3,16,Missed,1,0.0,0.0,0,v,MISS Laettner 16' Jump Shot,Missed Shot,Jump Shot,0,149
+29900517,148,PT07M03.00S,2,1610612764,WAS,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,0,150
+29900517,149,PT06M58.00S,2,1610612764,WAS,145,Murray,T. Murray,-10,18,2,Missed,1,0.0,0.0,0,h,MISS Murray 2' Layup,Missed Shot,Layup Shot,0,151
+29900517,150,PT06M57.00S,2,1610612764,WAS,1134,Austin,I. Austin,0,0,0,,0,0.0,0.0,0,h,Austin REBOUND (Off:1 Def:1),Rebound,Unknown,0,152
+29900517,151,PT06M55.00S,2,1610612764,WAS,1134,Austin,I. Austin,-10,5,1,Made,1,44.0,36.0,80,h,Austin 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,153
+29900517,152,PT06M50.00S,2,1610612764,WAS,43,Whitney,C. Whitney,0,0,0,,0,0.0,0.0,0,h,Whitney P.FOUL (P1.T3),Foul,Personal,0,154
+29900517,153,PT06M30.00S,2,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,155
+29900517,154,PT06M30.00S,2,1610612764,WAS,674,Jordan,R. Jordan,0,0,0,,0,0.0,0.0,0,h,SUB: Richmond FOR Jordan,Substitution,,0,156
+29900517,155,PT06M30.00S,2,1610612765,DET,363,Laettner,C. Laettner,0,0,0,,0,44.0,37.0,81,v,Laettner Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,157
+29900517,156,PT06M30.00S,2,1610612765,DET,363,Laettner,C. Laettner,0,0,0,,0,44.0,38.0,82,v,Laettner Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,158
+29900517,157,PT06M22.00S,2,1610612764,WAS,43,Whitney,C. Whitney,0,0,0,,0,0.0,0.0,0,h,Whitney Bad Pass Turnover (P4.T10),Turnover,Bad Pass,0,159
+29900517,158,PT06M22.00S,2,1610612765,DET,180,Crotty,J. Crotty,-224,-23,0,Missed,1,0.0,0.0,0,v,MISS Crotty  3PT Jump Shot,Missed Shot,Jump Shot,0,160
+29900517,159,PT06M20.00S,2,1610612764,WAS,1134,Austin,I. Austin,0,0,0,,0,0.0,0.0,0,h,Austin REBOUND (Off:1 Def:2),Rebound,Unknown,0,161
+29900517,160,PT06M15.00S,2,1610612765,DET,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,v,Laettner S.FOUL (P3.T3),Foul,Shooting,0,162
+29900517,161,PT06M15.00S,2,1610612764,WAS,145,Murray,T. Murray,0,0,0,,0,45.0,38.0,83,h,Murray Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,163
+29900517,162,PT06M15.00S,2,1610612764,WAS,145,Murray,T. Murray,0,0,0,,0,46.0,38.0,84,h,Murray Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,164
+29900517,163,PT06M15.00S,2,1610612765,DET,180,Crotty,J. Crotty,40,18,4,Missed,1,0.0,0.0,0,v,MISS Crotty 4' Jump Shot,Missed Shot,Jump Shot,0,165
+29900517,163,PT06M15.00S,2,1610612764,WAS,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Williams BLOCK (1 BLK),,,0,166
+29900517,164,PT06M13.00S,2,1610612764,WAS,782,Richmond,M. Richmond,0,0,0,,0,0.0,0.0,0,h,Richmond REBOUND (Off:0 Def:3),Rebound,Unknown,0,167
+29900517,165,PT06M10.00S,2,1610612764,WAS,1134,Austin,I. Austin,55,12,6,Missed,1,0.0,0.0,0,h,MISS Austin 6' Jump Shot,Missed Shot,Jump Shot,0,168
+29900517,166,PT06M09.00S,2,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,0.0,0.0,0,v,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,0,169
+29900517,167,PT05M36.00S,2,1610612765,DET,711,Stackhouse,J. Stackhouse,156,-3,16,Missed,1,0.0,0.0,0,v,MISS Stackhouse 16' Jump Shot,Missed Shot,Jump Shot,0,170
+29900517,168,PT05M34.00S,2,1610612764,WAS,43,Whitney,C. Whitney,0,0,0,,0,0.0,0.0,0,h,Whitney REBOUND (Off:0 Def:1),Rebound,Unknown,0,171
+29900517,169,PT05M26.00S,2,1610612764,WAS,43,Whitney,C. Whitney,33,25,4,Made,1,48.0,38.0,86,h,Whitney 4' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,0,172
+29900517,170,PT05M06.00S,2,1610612764,WAS,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Williams S.FOUL (P1.T4),Foul,Shooting,0,173
+29900517,172,PT05M06.00S,2,1610612764,WAS,1134,Austin,I. Austin,0,0,0,,0,0.0,0.0,0,h,SUB: Howard FOR Austin,Substitution,,0,174
+29900517,173,PT05M06.00S,2,1610612765,DET,688,Curry,M. Curry,0,0,0,,0,48.0,39.0,87,v,Curry Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,175
+29900517,174,PT05M06.00S,2,1610612765,DET,688,Curry,M. Curry,0,0,0,,0,48.0,40.0,88,v,Curry Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,176
+29900517,175,PT04M50.00S,2,1610612764,WAS,782,Richmond,M. Richmond,-1,25,3,Missed,1,0.0,0.0,0,h,MISS Richmond 3' Layup,Missed Shot,Layup Shot,0,177
+29900517,176,PT04M49.00S,2,1610612764,WAS,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Williams REBOUND (Off:1 Def:3),Rebound,Unknown,0,178
+29900517,177,PT04M48.00S,2,1610612764,WAS,1425,Williams,A. Williams,-1,12,1,Made,1,50.0,40.0,90,h,Williams 1' Tip Shot (4 PTS),Made Shot,Tip Shot,0,179
+29900517,178,PT04M37.00S,2,1610612765,DET,363,Laettner,C. Laettner,55,12,6,Made,1,50.0,42.0,92,v,Laettner 6' Layup (13 PTS) (Stackhouse 3 AST),Made Shot,Layup Shot,0,180
+29900517,179,PT04M21.00S,2,1610612764,WAS,145,Murray,T. Murray,18,25,3,Missed,1,0.0,0.0,0,h,MISS Murray 3' Layup,Missed Shot,Layup Shot,0,181
+29900517,180,PT04M20.00S,2,1610612764,WAS,145,Murray,T. Murray,0,0,0,,0,0.0,0.0,0,h,Murray REBOUND (Off:1 Def:0),Rebound,Unknown,0,182
+29900517,181,PT04M19.00S,2,1610612764,WAS,145,Murray,T. Murray,25,12,3,Made,1,52.0,42.0,94,h,Murray 3' Tip Shot (4 PTS),Made Shot,Tip Shot,0,183
+29900517,182,PT03M57.00S,2,1610612765,DET,363,Laettner,C. Laettner,-151,1,15,Made,1,52.0,44.0,96,v,Laettner 15' Jump Shot (15 PTS),Made Shot,Jump Shot,0,184
+29900517,183,PT03M43.00S,2,1610612764,WAS,1425,Williams,A. Williams,-16,-3,2,Missed,1,0.0,0.0,0,h,MISS Williams 2' Layup,Missed Shot,Layup Shot,0,185
+29900517,184,PT03M42.00S,2,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,0.0,0.0,0,v,Williams REBOUND (Off:0 Def:4),Rebound,Unknown,0,186
+29900517,249,PT03M34.00S,2,1610612765,DET,688,Curry,M. Curry,0,0,0,,0,0.0,0.0,0,v,SUB: Hunter FOR Curry,Substitution,,0,187
+29900517,185,PT03M34.00S,2,1610612765,DET,283,Hunter,L. Hunter,-194,188,27,Missed,1,0.0,0.0,0,v,MISS Hunter 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,188
+29900517,186,PT03M28.00S,2,1610612764,WAS,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Williams REBOUND (Off:1 Def:4),Rebound,Unknown,0,189
+29900517,187,PT03M23.00S,2,1610612764,WAS,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Williams Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,190
+29900517,188,PT03M23.00S,2,1610612764,WAS,43,Whitney,C. Whitney,0,0,0,,0,0.0,0.0,0,h,SUB: Strickland FOR Whitney,Substitution,,0,191
+29900517,189,PT03M23.00S,2,1610612765,DET,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,v,SUB: Hill FOR Laettner,Substitution,,0,192
+29900517,190,PT03M23.00S,2,1610612765,DET,180,Crotty,J. Crotty,0,0,0,,0,0.0,0.0,0,v,SUB: Vaught FOR Crotty,Substitution,,0,193
+29900517,192,PT03M23.00S,2,1610612765,DET,255,Hill,G. Hill,55,42,7,Missed,1,0.0,0.0,0,v,MISS Hill 7' Jump Shot,Missed Shot,Jump Shot,0,194
+29900517,193,PT03M22.00S,2,1610612764,WAS,436,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard REBOUND (Off:0 Def:1),Rebound,Unknown,0,195
+29900517,194,PT03M09.00S,2,1610612764,WAS,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,SUB: Smith FOR Williams,Substitution,,0,196
+29900517,195,PT02M59.00S,2,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,0.0,0.0,0,v,Hunter S.FOUL (P2.T4),Foul,Shooting,0,197
+29900517,196,PT02M59.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,198
+29900517,197,PT02M59.00S,2,1610612764,WAS,393,Strickland,R. Strickland,0,0,0,,0,53.0,44.0,97,h,Strickland Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,199
+29900517,200,PT02M43.00S,2,1610612764,WAS,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,Strickland Lane Violation Turnover (P3.T12),Turnover,Lane Violation,0,200
+29900517,201,PT02M43.00S,2,1610612764,WAS,145,Murray,T. Murray,0,0,0,,0,0.0,0.0,0,h,Murray P.FOUL (P1.PN),Foul,Personal,0,201
+29900517,202,PT02M43.00S,2,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,53.0,45.0,98,v,Hill Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,202
+29900517,203,PT02M43.00S,2,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,0.0,0.0,0,v,MISS Hill Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,203
+29900517,204,PT02M43.00S,2,1610612764,WAS,63,Smith,M. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:0 Def:3),Rebound,Unknown,0,204
+29900517,205,PT02M37.00S,2,1610612764,WAS,63,Smith,M. Smith,0,0,0,,0,0.0,0.0,0,h,Smith Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,205
+29900517,205,PT02M37.00S,2,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,0.0,0.0,0,v,Hunter STEAL (2 STL),,,0,206
+29900517,206,PT02M34.00S,2,1610612765,DET,966,Williams,J. Williams,10,1,1,Made,1,53.0,47.0,100,v,Williams 1' Slam Dunk (2 PTS) (Hunter 3 AST),Made Shot,Slam Dunk Shot,0,207
+29900517,207,PT02M01.00S,2,1610612764,WAS,145,Murray,T. Murray,0,0,0,,0,0.0,0.0,0,h,Murray Bad Pass Turnover (P2.T14),Turnover,Bad Pass,0,208
+29900517,207,PT02M01.00S,2,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,0.0,0.0,0,v,Stackhouse STEAL (2 STL),,,0,209
+29900517,208,PT01M52.00S,2,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,0.0,0.0,0,v,Williams Lost Ball Turnover (P3.T8),Turnover,Lost Ball,0,210
+29900517,208,PT01M52.00S,2,1610612764,WAS,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,Strickland STEAL (2 STL),,,0,211
+29900517,209,PT01M45.00S,2,1610612764,WAS,145,Murray,T. Murray,-231,-3,0,Made,1,56.0,47.0,103,h,Murray  3PT Jump Shot (7 PTS) (Richmond 3 AST),Made Shot,Jump Shot,0,212
+29900517,210,PT01M36.00S,2,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,0.0,0.0,0,v,Stackhouse OFF.Foul (P1),Foul,Offensive,0,213
+29900517,211,PT01M36.00S,2,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,0.0,0.0,0,v,Stackhouse Foul Turnover (P1.T9),Turnover,Foul,0,214
+29900517,212,PT01M36.00S,2,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,0.0,0.0,0,v,SUB: Crotty FOR Hunter,Substitution,,0,215
+29900517,213,PT01M36.00S,2,1610612764,WAS,782,Richmond,M. Richmond,0,0,0,,0,0.0,0.0,0,h,SUB: Whitney FOR Richmond,Substitution,,0,216
+29900517,214,PT01M36.00S,2,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Violation: Delay of game Violation,Violation,Delay Of Game,0,217
+29900517,215,PT01M23.00S,2,1610612764,WAS,145,Murray,T. Murray,-23,31,4,Made,1,58.0,47.0,105,h,Murray 4' Layup (9 PTS),Made Shot,Layup Shot,0,218
+29900517,216,PT01M17.00S,2,1610612764,WAS,43,Whitney,C. Whitney,0,0,0,,0,0.0,0.0,0,h,Whitney S.FOUL (P2.PN),Foul,Shooting,0,219
+29900517,217,PT01M17.00S,2,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,58.0,48.0,106,v,Stackhouse Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,220
+29900517,218,PT01M17.00S,2,1610612764,WAS,43,Whitney,C. Whitney,0,0,0,,0,0.0,0.0,0,h,SUB: Williams FOR Whitney,Substitution,,0,221
+29900517,219,PT01M17.00S,2,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,58.0,49.0,107,v,Stackhouse Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,222
+29900517,220,PT01M04.00S,2,1610612764,WAS,63,Smith,M. Smith,18,18,3,Missed,1,0.0,0.0,0,h,MISS Smith 3' Layup,Missed Shot,Layup Shot,0,223
+29900517,221,PT01M03.00S,2,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,0.0,0.0,0,v,Williams REBOUND (Off:1 Def:4),Rebound,Unknown,0,224
+29900517,222,PT00M55.40S,2,1610612764,WAS,145,Murray,T. Murray,0,0,0,,0,0.0,0.0,0,h,Murray P.FOUL (P2.PN),Foul,Personal,0,225
+29900517,223,PT00M55.40S,2,1610612764,WAS,63,Smith,M. Smith,0,0,0,,0,0.0,0.0,0,h,SUB: King FOR Smith,Substitution,,0,226
+29900517,224,PT00M55.40S,2,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,0.0,0.0,0,v,MISS Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,227
+29900517,225,PT00M55.40S,2,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,v,Pistons Rebound,Rebound,Normal Rebound,0,228
+29900517,226,PT00M55.40S,2,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,0.0,0.0,0,v,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,229
+29900517,227,PT00M55.40S,2,1610612765,DET,919,Vaught,L. Vaught,0,0,0,,0,0.0,0.0,0,v,Vaught REBOUND (Off:1 Def:0),Rebound,Unknown,0,230
+29900517,228,PT00M55.40S,2,1610612765,DET,919,Vaught,L. Vaught,46,-16,5,Made,1,58.0,51.0,109,v,Vaught 5' Jump Shot (2 PTS),Made Shot,Jump Shot,0,231
+29900517,229,PT00M51.90S,2,1610612764,WAS,393,Strickland,R. Strickland,-44,25,5,Made,1,60.0,51.0,111,h,Strickland 5' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,0,232
+29900517,230,PT00M27.70S,2,1610612765,DET,711,Stackhouse,J. Stackhouse,126,237,27,Missed,1,0.0,0.0,0,v,MISS Stackhouse 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,233
+29900517,231,PT00M25.70S,2,1610612764,WAS,1562,King,G. King,0,0,0,,0,0.0,0.0,0,h,King REBOUND (Off:0 Def:1),Rebound,Unknown,0,234
+29900517,232,PT00M23.50S,2,1610612764,WAS,1562,King,G. King,0,0,0,,0,0.0,0.0,0,h,King Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,235
+29900517,232,PT00M23.50S,2,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,0.0,0.0,0,v,Hill STEAL (1 STL),,,0,236
+29900517,233,PT00M20.30S,2,1610612765,DET,966,Williams,J. Williams,33,66,7,Missed,1,0.0,0.0,0,v,MISS Williams 7' Jump Shot,Missed Shot,Jump Shot,0,237
+29900517,233,PT00M20.30S,2,1610612764,WAS,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Williams BLOCK (2 BLK),,,0,238
+29900517,234,PT00M16.50S,2,1610612765,DET,919,Vaught,L. Vaught,0,0,0,,0,0.0,0.0,0,v,Vaught REBOUND (Off:2 Def:0),Rebound,Unknown,0,239
+29900517,235,PT00M14.30S,2,1610612765,DET,919,Vaught,L. Vaught,18,5,2,Missed,1,0.0,0.0,0,v,MISS Vaught 2' Layup,Missed Shot,Layup Shot,0,240
+29900517,236,PT00M12.50S,2,1610612765,DET,919,Vaught,L. Vaught,0,0,0,,0,0.0,0.0,0,v,Vaught REBOUND (Off:3 Def:0),Rebound,Unknown,0,241
+29900517,237,PT00M10.30S,2,1610612765,DET,966,Williams,J. Williams,10,25,3,Missed,1,0.0,0.0,0,v,MISS Williams 3' Layup,Missed Shot,Layup Shot,0,242
+29900517,238,PT00M07.20S,2,1610612764,WAS,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,Strickland REBOUND (Off:1 Def:2),Rebound,Unknown,0,243
+29900517,240,PT00M06.60S,2,1610612764,WAS,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,MISS Strickland Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,244
+29900517,241,PT00M06.60S,2,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Rebound,Rebound,Normal Rebound,0,245
+29900517,242,PT00M06.60S,2,1610612764,WAS,145,Murray,T. Murray,0,0,0,,0,0.0,0.0,0,h,SUB: Jordan FOR Murray,Substitution,,0,246
+29900517,244,PT00M06.60S,2,1610612764,WAS,393,Strickland,R. Strickland,0,0,0,,0,61.0,51.0,112,h,Strickland Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,247
+29900517,245,PT00M01.30S,2,1610612765,DET,688,Curry,M. Curry,-10,31,3,Missed,1,0.0,0.0,0,v,MISS Curry 3' Jump Shot,Missed Shot,Jump Shot,0,248
+29900517,239,PT00M00.60S,2,1610612765,DET,180,Crotty,J. Crotty,0,0,0,,0,0.0,0.0,0,v,Crotty P.FOUL (P1.PN),Foul,Personal,0,249
+29900517,246,PT00M00.00S,2,1610612764,WAS,436,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard REBOUND (Off:0 Def:2),Rebound,Unknown,0,250
+29900517,247,PT00M00.00S,2,0,,0,,,0,0,0,,0,61.0,51.0,112,,End of 2nd Period (12:00 AM EST),period,end,0,251
+29900517,250,PT12M00.00S,3,0,,0,,,0,0,0,,0,61.0,51.0,112,,Start of 3rd Period (12:15 AM EST),period,start,0,252
+29900517,252,PT11M48.00S,3,1610612764,WAS,436,Howard,J. Howard,117,66,13,Missed,1,0.0,0.0,0,h,MISS Howard 13' Jump Shot,Missed Shot,Jump Shot,0,253
+29900517,253,PT11M45.00S,3,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,0.0,0.0,0,v,Hunter REBOUND (Off:0 Def:1),Rebound,Unknown,0,254
+29900517,256,PT11M36.00S,3,1610612765,DET,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,v,Laettner OFF.Foul (P4),Foul,Offensive,0,255
+29900517,257,PT11M36.00S,3,1610612765,DET,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,v,Laettner Foul Turnover (P3.T10),Turnover,Foul,0,256
+29900517,258,PT11M36.00S,3,1610612764,WAS,1751,White,J. White,0,0,0,,0,62.0,51.0,113,h,White Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,257
+29900517,259,PT11M36.00S,3,1610612764,WAS,1751,White,J. White,0,0,0,,0,63.0,51.0,114,h,White Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,258
+29900517,260,PT11M36.00S,3,1610612765,DET,371,Mills,T. Mills,-160,36,16,Missed,1,0.0,0.0,0,v,MISS Mills 16' Jump Shot,Missed Shot,Jump Shot,0,259
+29900517,260,PT11M36.00S,3,1610612764,WAS,1751,White,J. White,0,0,0,,0,0.0,0.0,0,h,White BLOCK (2 BLK),,,0,260
+29900517,261,PT11M32.00S,3,1610612764,WAS,1751,White,J. White,0,0,0,,0,0.0,0.0,0,h,White REBOUND (Off:1 Def:4),Rebound,Unknown,0,261
+29900517,262,PT11M27.00S,3,1610612765,DET,371,Mills,T. Mills,0,0,0,,0,0.0,0.0,0,v,Mills P.FOUL (P2.T1),Foul,Personal,0,262
+29900517,264,PT11M25.00S,3,1610612764,WAS,145,Murray,T. Murray,-203,102,23,Made,1,65.0,51.0,116,h,Murray 23' Jump Shot (11 PTS) (Howard 3 AST),Made Shot,Jump Shot,0,263
+29900517,265,PT11M08.00S,3,1610612765,DET,283,Hunter,L. Hunter,-173,212,27,Missed,1,0.0,0.0,0,v,MISS Hunter 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,264
+29900517,266,PT11M06.00S,3,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,v,Pistons Rebound,Rebound,Unknown,0,265
+29900517,267,PT10M57.00S,3,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,0.0,0.0,0,v,Stackhouse Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,266
+29900517,267,PT10M57.00S,3,1610612764,WAS,145,Murray,T. Murray,0,0,0,,0,0.0,0.0,0,h,Murray STEAL (1 STL),,,0,267
+29900517,268,PT10M47.00S,3,1610612764,WAS,63,Smith,M. Smith,162,-27,16,Made,1,67.0,51.0,118,h,Smith 16' Jump Shot (7 PTS) (Strickland 4 AST),Made Shot,Jump Shot,0,268
+29900517,269,PT10M39.00S,3,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,v,Pistons Timeout: Short (Reg.0 Short 1),Timeout,Short,0,269
+29900517,270,PT10M34.00S,3,1610612764,WAS,1751,White,J. White,0,0,0,,0,0.0,0.0,0,h,White P.FOUL (P1.T1),Foul,Personal,0,270
+29900517,271,PT10M16.00S,3,1610612765,DET,371,Mills,T. Mills,-124,36,13,Made,1,67.0,53.0,120,v,Mills 13' Jump Shot (2 PTS),Made Shot,Jump Shot,0,271
+29900517,272,PT09M49.00S,3,1610612764,WAS,436,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard Inbound Turnover (P2.T16),Turnover,Inbound Turnover,0,272
+29900517,273,PT09M31.00S,3,1610612765,DET,371,Mills,T. Mills,68,36,8,Missed,1,0.0,0.0,0,v,MISS Mills 8' Jump Shot,Missed Shot,Jump Shot,0,273
+29900517,273,PT09M31.00S,3,1610612764,WAS,1751,White,J. White,0,0,0,,0,0.0,0.0,0,h,White BLOCK (3 BLK),,,0,274
+29900517,274,PT09M28.00S,3,1610612764,WAS,63,Smith,M. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:0 Def:4),Rebound,Unknown,0,275
+29900517,275,PT09M18.00S,3,1610612764,WAS,1751,White,J. White,18,36,4,Made,1,69.0,53.0,122,h,White 4' Dunk (8 PTS) (Smith 1 AST),Made Shot,Dunk Shot,0,276
+29900517,276,PT09M06.00S,3,1610612764,WAS,145,Murray,T. Murray,0,0,0,,0,0.0,0.0,0,h,Murray P.FOUL (P3.T2),Foul,Personal,0,277
+29900517,277,PT09M00.00S,3,1610612765,DET,711,Stackhouse,J. Stackhouse,162,205,26,Made,1,69.0,56.0,125,v,Stackhouse 26' 3PT Jump Shot (13 PTS) (Hill 2 AST),Made Shot,Jump Shot,0,278
+29900517,278,PT08M41.00S,3,1610612764,WAS,436,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard OFF.Foul (P2),Foul,Offensive,0,279
+29900517,279,PT08M41.00S,3,1610612764,WAS,436,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard Foul Turnover (P3.T17),Turnover,Foul,0,280
+29900517,280,PT08M37.00S,3,1610612764,WAS,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,Strickland S.FOUL (P1.T3),Foul,Shooting,0,281
+29900517,281,PT08M37.00S,3,1610612765,DET,363,Laettner,C. Laettner,0,0,0,,0,69.0,57.0,126,v,Laettner Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,282
+29900517,282,PT08M37.00S,3,1610612765,DET,363,Laettner,C. Laettner,0,0,0,,0,69.0,58.0,127,v,Laettner Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,283
+29900517,283,PT08M18.00S,3,1610612764,WAS,145,Murray,T. Murray,-173,139,22,Made,1,71.0,58.0,129,h,Murray 22' Jump Shot (13 PTS),Made Shot,Jump Shot,0,284
+29900517,284,PT07M55.00S,3,1610612765,DET,363,Laettner,C. Laettner,-130,61,14,Missed,1,0.0,0.0,0,v,MISS Laettner 14' Jump Shot,Missed Shot,Jump Shot,0,285
+29900517,285,PT07M53.00S,3,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Rebound,Rebound,Unknown,0,286
+29900517,286,PT07M50.00S,3,1610612764,WAS,145,Murray,T. Murray,-166,212,27,Missed,1,0.0,0.0,0,h,MISS Murray 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,287
+29900517,287,PT07M48.00S,3,1610612765,DET,371,Mills,T. Mills,0,0,0,,0,0.0,0.0,0,v,Mills REBOUND (Off:0 Def:1),Rebound,Unknown,0,288
+29900517,289,PT07M40.00S,3,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,0.0,0.0,0,v,Hunter Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,289
+29900517,289,PT07M40.00S,3,1610612764,WAS,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,Strickland STEAL (3 STL),,,0,290
+29900517,290,PT07M33.00S,3,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,291
+29900517,291,PT07M27.00S,3,1610612764,WAS,63,Smith,M. Smith,55,25,6,Made,1,73.0,58.0,131,h,Smith 6' Hook Shot (9 PTS) (Howard 4 AST),Made Shot,Hook Shot,0,292
+29900517,292,PT07M12.00S,3,1610612765,DET,283,Hunter,L. Hunter,-179,121,22,Missed,1,0.0,0.0,0,v,MISS Hunter 22' Jump Shot,Missed Shot,Jump Shot,0,293
+29900517,293,PT07M05.00S,3,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Rebound,Rebound,Unknown,0,294
+29900517,294,PT06M56.00S,3,1610612764,WAS,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,Strickland Lost Ball Turnover (P4.T18),Turnover,Lost Ball,0,295
+29900517,294,PT06M56.00S,3,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,0.0,0.0,0,v,Hunter STEAL (3 STL),,,0,296
+29900517,295,PT06M50.00S,3,1610612764,WAS,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,Strickland P.FOUL (P2.T4),Foul,Personal,0,297
+29900517,296,PT06M50.00S,3,1610612764,WAS,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,Strickland T.FOUL (P2.T4),Foul,Technical,0,298
+29900517,297,PT06M50.00S,3,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,73.0,59.0,132,v,Stackhouse Free Throw Technical (14 PTS),Free Throw,Free Throw Technical,0,299
+29900517,298,PT06M32.00S,3,1610612765,DET,255,Hill,G. Hill,-72,25,8,Made,1,73.0,61.0,134,v,Hill 8' Running Jump Shot (18 PTS),Made Shot,Running Jump Shot,0,300
+29900517,299,PT06M13.00S,3,1610612764,WAS,436,Howard,J. Howard,40,48,6,Missed,1,0.0,0.0,0,h,MISS Howard 6' Jump Shot,Missed Shot,Jump Shot,0,301
+29900517,300,PT06M12.00S,3,1610612765,DET,371,Mills,T. Mills,0,0,0,,0,0.0,0.0,0,v,Mills REBOUND (Off:0 Def:2),Rebound,Unknown,0,302
+29900517,301,PT06M06.00S,3,1610612765,DET,255,Hill,G. Hill,-16,48,5,Made,1,73.0,63.0,136,v,Hill 5' Running Jump Shot (20 PTS),Made Shot,Running Jump Shot,0,303
+29900517,302,PT06M06.00S,3,1610612764,WAS,63,Smith,M. Smith,0,0,0,,0,0.0,0.0,0,h,Smith S.FOUL (P3.PN),Foul,Shooting,0,304
+29900517,303,PT06M06.00S,3,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,0.0,0.0,0,v,MISS Hill Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,305
+29900517,304,PT06M06.00S,3,1610612764,WAS,1751,White,J. White,0,0,0,,0,0.0,0.0,0,h,White REBOUND (Off:1 Def:5),Rebound,Unknown,0,306
+29900517,305,PT06M00.00S,3,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,0.0,0.0,0,v,Hunter P.FOUL (P3.T2),Foul,Personal,0,307
+29900517,306,PT05M47.00S,3,1610612764,WAS,393,Strickland,R. Strickland,126,18,13,Made,1,75.0,63.0,138,h,Strickland 13' Running Jump Shot (17 PTS) (White 1 AST),Made Shot,Running Jump Shot,0,308
+29900517,307,PT05M31.00S,3,1610612765,DET,371,Mills,T. Mills,224,1,0,Missed,1,0.0,0.0,0,v,MISS Mills  3PT Jump Shot,Missed Shot,Jump Shot,0,309
+29900517,308,PT05M29.00S,3,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Rebound,Rebound,Unknown,0,310
+29900517,309,PT05M08.00S,3,1610612764,WAS,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,Strickland Bad Pass Turnover (P5.T19),Turnover,Bad Pass,0,311
+29900517,309,PT05M08.00S,3,1610612765,DET,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,v,Laettner STEAL (2 STL),,,0,312
+29900517,310,PT05M02.00S,3,1610612765,DET,255,Hill,G. Hill,-10,31,3,Made,1,75.0,65.0,140,v,Hill 3' Driving Layup (22 PTS) (Hunter 4 AST),Made Shot,Driving Layup Shot,0,313
+29900517,311,PT04M43.00S,3,1610612764,WAS,1751,White,J. White,25,5,3,Made,1,77.0,65.0,142,h,White 3' Layup (10 PTS) (Murray 1 AST),Made Shot,Layup Shot,0,314
+29900517,312,PT04M34.00S,3,1610612764,WAS,63,Smith,M. Smith,0,0,0,,0,0.0,0.0,0,h,Smith S.FOUL (P4.PN),Foul,Shooting,0,315
+29900517,313,PT04M34.00S,3,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,77.0,66.0,143,v,Hill Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,316
+29900517,314,PT04M34.00S,3,1610612765,DET,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,v,SUB: Williams FOR Laettner,Substitution,,0,317
+29900517,315,PT04M34.00S,3,1610612764,WAS,63,Smith,M. Smith,0,0,0,,0,0.0,0.0,0,h,SUB: Williams FOR Smith,Substitution,,0,318
+29900517,316,PT04M34.00S,3,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,77.0,67.0,144,v,Hill Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,319
+29900517,317,PT04M28.00S,3,1610612765,DET,371,Mills,T. Mills,0,0,0,,0,0.0,0.0,0,v,Mills S.FOUL (P3.T3),Foul,Shooting,0,320
+29900517,318,PT04M28.00S,3,1610612765,DET,371,Mills,T. Mills,0,0,0,,0,0.0,0.0,0,v,SUB: Vaught FOR Mills,Substitution,,0,321
+29900517,319,PT04M28.00S,3,1610612764,WAS,1425,Williams,A. Williams,0,0,0,,0,78.0,67.0,145,h,Williams Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,322
+29900517,320,PT04M28.00S,3,1610612764,WAS,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,323
+29900517,321,PT04M28.00S,3,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,0.0,0.0,0,v,Williams REBOUND (Off:1 Def:5),Rebound,Unknown,0,324
+29900517,322,PT04M26.00S,3,1610612765,DET,711,Stackhouse,J. Stackhouse,68,194,21,Made,1,78.0,69.0,147,v,Stackhouse 21' Jump Shot (16 PTS) (Hunter 5 AST),Made Shot,Jump Shot,0,325
+29900517,323,PT04M00.00S,3,1610612764,WAS,393,Strickland,R. Strickland,25,42,5,Missed,1,0.0,0.0,0,h,MISS Strickland 5' Jump Shot,Missed Shot,Jump Shot,0,326
+29900517,324,PT03M59.00S,3,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,0.0,0.0,0,v,Hill REBOUND (Off:0 Def:4),Rebound,Unknown,0,327
+29900517,325,PT03M56.00S,3,1610612765,DET,711,Stackhouse,J. Stackhouse,-16,12,2,Made,1,78.0,71.0,149,v,Stackhouse 2' Dunk (18 PTS) (Hill 3 AST),Made Shot,Dunk Shot,0,328
+29900517,326,PT03M25.00S,3,1610612764,WAS,1751,White,J. White,33,31,5,Made,1,80.0,71.0,151,h,White 5' Hook Shot (12 PTS),Made Shot,Hook Shot,0,329
+29900517,327,PT03M06.00S,3,1610612765,DET,283,Hunter,L. Hunter,-66,109,13,Missed,1,0.0,0.0,0,v,MISS Hunter 13' Jump Shot,Missed Shot,Jump Shot,0,330
+29900517,328,PT03M04.00S,3,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,v,Pistons Rebound,Rebound,Unknown,0,331
+29900517,329,PT02M58.00S,3,1610612764,WAS,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,Strickland L.B.FOUL (P3.PN),Foul,Loose Ball,0,332
+29900517,330,PT02M58.00S,3,1610612765,DET,919,Vaught,L. Vaught,0,0,0,,0,0.0,0.0,0,v,MISS Vaught Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,333
+29900517,331,PT02M58.00S,3,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,v,Pistons Rebound,Rebound,Normal Rebound,0,334
+29900517,332,PT02M58.00S,3,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,0.0,0.0,0,v,SUB: Crotty FOR Hunter,Substitution,,0,335
+29900517,333,PT02M58.00S,3,1610612764,WAS,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,SUB: Whitney FOR Strickland,Substitution,,0,336
+29900517,334,PT02M58.00S,3,1610612765,DET,919,Vaught,L. Vaught,0,0,0,,0,0.0,0.0,0,v,MISS Vaught Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,337
+29900517,335,PT02M58.00S,3,1610612764,WAS,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Williams REBOUND (Off:1 Def:5),Rebound,Unknown,0,338
+29900517,336,PT02M56.00S,3,1610612765,DET,919,Vaught,L. Vaught,0,0,0,,0,0.0,0.0,0,v,Vaught S.FOUL (P1.T4),Foul,Shooting,0,339
+29900517,337,PT02M56.00S,3,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,340
+29900517,338,PT02M56.00S,3,1610612764,WAS,436,Howard,J. Howard,0,0,0,,0,81.0,71.0,152,h,Howard Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,341
+29900517,339,PT02M56.00S,3,1610612764,WAS,436,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,MISS Howard Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,342
+29900517,340,PT02M56.00S,3,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,0.0,0.0,0,v,Williams REBOUND (Off:1 Def:6),Rebound,Unknown,0,343
+29900517,341,PT02M50.00S,3,1610612765,DET,711,Stackhouse,J. Stackhouse,68,212,22,Made,1,81.0,73.0,154,v,Stackhouse 22' Jump Shot (20 PTS) (Hill 4 AST),Made Shot,Jump Shot,0,344
+29900517,342,PT02M30.00S,3,1610612764,WAS,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Williams OFF.Foul (P2),Foul,Offensive,0,345
+29900517,343,PT02M30.00S,3,1610612764,WAS,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Williams Foul Turnover (P3.T20),Turnover,Foul,0,346
+29900517,344,PT02M30.00S,3,1610612765,DET,919,Vaught,L. Vaught,0,0,0,,0,0.0,0.0,0,v,SUB: Reid FOR Vaught,Substitution,,0,347
+29900517,345,PT02M11.00S,3,1610612765,DET,690,Reid,D. Reid,46,12,5,Missed,1,0.0,0.0,0,v,MISS Reid 5' Jump Shot,Missed Shot,Jump Shot,0,348
+29900517,345,PT02M11.00S,3,1610612764,WAS,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Williams BLOCK (3 BLK),,,0,349
+29900517,346,PT02M09.00S,3,1610612764,WAS,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Williams REBOUND (Off:1 Def:6),Rebound,Unknown,0,350
+29900517,347,PT01M59.00S,3,1610612764,WAS,145,Murray,T. Murray,-239,1,24,Missed,1,0.0,0.0,0,h,MISS Murray 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,351
+29900517,347,PT01M59.00S,3,1610612765,DET,690,Reid,D. Reid,0,0,0,,0,0.0,0.0,0,v,Reid BLOCK (1 BLK),,,0,352
+29900517,348,PT01M57.00S,3,1610612765,DET,690,Reid,D. Reid,0,0,0,,0,0.0,0.0,0,v,Reid REBOUND (Off:0 Def:1),Rebound,Unknown,0,353
+29900517,349,PT01M51.00S,3,1610612765,DET,255,Hill,G. Hill,-31,267,27,Missed,1,0.0,0.0,0,v,MISS Hill 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,354
+29900517,350,PT01M49.00S,3,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,0.0,0.0,0,v,Williams REBOUND (Off:2 Def:6),Rebound,Unknown,0,355
+29900517,351,PT01M37.00S,3,1610612765,DET,711,Stackhouse,J. Stackhouse,117,121,17,Missed,1,0.0,0.0,0,v,MISS Stackhouse 17' Jump Shot,Missed Shot,Jump Shot,0,356
+29900517,352,PT01M36.00S,3,1610612764,WAS,43,Whitney,C. Whitney,0,0,0,,0,0.0,0.0,0,h,Whitney REBOUND (Off:0 Def:2),Rebound,Unknown,0,357
+29900517,353,PT01M19.00S,3,1610612764,WAS,1751,White,J. White,141,42,15,Missed,1,0.0,0.0,0,h,MISS White 15' Jump Shot,Missed Shot,Jump Shot,0,358
+29900517,354,PT01M18.00S,3,1610612764,WAS,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Williams REBOUND (Off:2 Def:6),Rebound,Unknown,0,359
+29900517,355,PT01M17.00S,3,1610612764,WAS,1425,Williams,A. Williams,104,48,11,Missed,1,0.0,0.0,0,h,MISS Williams 11' Jump Shot,Missed Shot,Jump Shot,0,360
+29900517,356,PT01M16.00S,3,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,0.0,0.0,0,v,Hill REBOUND (Off:0 Def:5),Rebound,Unknown,0,361
+29900517,357,PT01M12.00S,3,1610612765,DET,180,Crotty,J. Crotty,40,1,4,Made,1,81.0,75.0,156,v,Crotty 4' Layup (4 PTS) (Hill 5 AST),Made Shot,Layup Shot,0,362
+29900517,358,PT00M58.00S,3,1610612764,WAS,145,Murray,T. Murray,33,36,5,Missed,1,0.0,0.0,0,h,MISS Murray 5' Jump Shot,Missed Shot,Jump Shot,0,363
+29900517,359,PT00M56.10S,3,1610612764,WAS,145,Murray,T. Murray,0,0,0,,0,0.0,0.0,0,h,Murray REBOUND (Off:2 Def:0),Rebound,Unknown,0,364
+29900517,360,PT00M51.70S,3,1610612764,WAS,145,Murray,T. Murray,3,18,2,Made,1,83.0,75.0,158,h,Murray 2' Layup (15 PTS),Made Shot,Layup Shot,0,365
+29900517,361,PT00M41.70S,3,1610612765,DET,711,Stackhouse,J. Stackhouse,-203,164,26,Missed,1,0.0,0.0,0,v,MISS Stackhouse 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,366
+29900517,362,PT00M39.60S,3,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,0.0,0.0,0,v,Williams REBOUND (Off:3 Def:6),Rebound,Unknown,0,367
+29900517,363,PT00M35.40S,3,1610612765,DET,180,Crotty,J. Crotty,68,115,13,Missed,1,0.0,0.0,0,v,MISS Crotty 13' Jump Shot,Missed Shot,Jump Shot,0,368
+29900517,364,PT00M33.30S,3,1610612764,WAS,1751,White,J. White,0,0,0,,0,0.0,0.0,0,h,White REBOUND (Off:1 Def:6),Rebound,Unknown,0,369
+29900517,365,PT00M21.20S,3,1610612764,WAS,43,Whitney,C. Whitney,0,0,0,,0,0.0,0.0,0,h,Whitney Lost Ball Turnover (P5.T21),Turnover,Lost Ball,0,370
+29900517,365,PT00M21.20S,3,1610612765,DET,180,Crotty,J. Crotty,0,0,0,,0,0.0,0.0,0,v,Crotty STEAL (1 STL),,,0,371
+29900517,366,PT00M16.00S,3,1610612765,DET,711,Stackhouse,J. Stackhouse,46,42,6,Made,1,83.0,77.0,160,v,Stackhouse 6' Jump Shot (22 PTS) (Reid 1 AST),Made Shot,Jump Shot,0,372
+29900517,367,PT00M06.00S,3,1610612764,WAS,43,Whitney,C. Whitney,104,237,26,Missed,1,0.0,0.0,0,h,MISS Whitney 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,373
+29900517,368,PT00M03.90S,3,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,v,Pistons Rebound,Rebound,Unknown,0,374
+29900517,369,PT00M00.00S,3,0,,0,,,0,0,0,,0,83.0,77.0,160,,End of 3rd Period (12:43 AM EST),period,end,0,375
+29900517,370,PT12M00.00S,4,0,,0,,,0,0,0,,0,83.0,77.0,160,,Start of 4th Period (12:45 AM EST),period,start,0,376
+29900517,371,PT11M57.00S,4,1610612765,DET,255,Hill,G. Hill,-117,242,27,Made,1,83.0,80.0,163,v,Hill 27' 3PT Jump Shot (27 PTS) (Crotty 1 AST),Made Shot,Jump Shot,0,377
+29900517,372,PT11M40.00S,4,1610612764,WAS,1134,Austin,I. Austin,0,0,0,,0,0.0,0.0,0,h,Austin Bad Pass Turnover (P1.T22),Turnover,Bad Pass,0,378
+29900517,372,PT11M40.00S,4,1610612765,DET,180,Crotty,J. Crotty,0,0,0,,0,0.0,0.0,0,v,Crotty STEAL (2 STL),,,0,379
+29900517,373,PT11M30.00S,4,1610612765,DET,690,Reid,D. Reid,46,18,5,Missed,1,0.0,0.0,0,v,MISS Reid 5' Jump Shot,Missed Shot,Jump Shot,0,380
+29900517,373,PT11M30.00S,4,1610612764,WAS,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Williams BLOCK (4 BLK),,,0,381
+29900517,374,PT11M29.00S,4,1610612765,DET,690,Reid,D. Reid,0,0,0,,0,0.0,0.0,0,v,Reid REBOUND (Off:1 Def:1),Rebound,Unknown,0,382
+29900517,375,PT11M23.00S,4,1610612765,DET,180,Crotty,J. Crotty,-173,1,17,Missed,1,0.0,0.0,0,v,MISS Crotty 17' Jump Shot,Missed Shot,Jump Shot,0,383
+29900517,376,PT11M21.00S,4,1610612764,WAS,1134,Austin,I. Austin,0,0,0,,0,0.0,0.0,0,h,Austin REBOUND (Off:1 Def:3),Rebound,Unknown,0,384
+29900517,377,PT11M02.00S,4,1610612764,WAS,674,Jordan,R. Jordan,89,96,13,Missed,1,0.0,0.0,0,h,MISS Jordan 13' Jump Shot,Missed Shot,Jump Shot,0,385
+29900517,378,PT11M00.00S,4,1610612765,DET,690,Reid,D. Reid,0,0,0,,0,0.0,0.0,0,v,Reid REBOUND (Off:1 Def:2),Rebound,Unknown,0,386
+29900517,379,PT10M53.00S,4,1610612765,DET,711,Stackhouse,J. Stackhouse,-231,-23,0,Missed,1,0.0,0.0,0,v,MISS Stackhouse  3PT Jump Shot,Missed Shot,Jump Shot,0,387
+29900517,380,PT10M52.00S,4,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,0.0,0.0,0,v,Williams REBOUND (Off:4 Def:6),Rebound,Unknown,0,388
+29900517,381,PT10M42.00S,4,1610612765,DET,966,Williams,J. Williams,169,102,20,Made,1,83.0,82.0,165,v,Williams 20' Jump Shot (4 PTS) (Stackhouse 4 AST),Made Shot,Jump Shot,0,389
+29900517,382,PT10M34.00S,4,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,390
+29900517,383,PT10M34.00S,4,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,0.0,0.0,0,v,SUB: Curry FOR Hill,Substitution,,0,391
+29900517,384,PT10M34.00S,4,1610612764,WAS,674,Jordan,R. Jordan,0,0,0,,0,0.0,0.0,0,h,SUB: Strickland FOR Jordan,Substitution,,0,392
+29900517,385,PT10M26.00S,4,1610612764,WAS,436,Howard,J. Howard,-23,42,5,Missed,1,0.0,0.0,0,h,MISS Howard 5' Jump Shot,Missed Shot,Jump Shot,0,393
+29900517,386,PT10M24.00S,4,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,0.0,0.0,0,v,Williams REBOUND (Off:4 Def:7),Rebound,Unknown,0,394
+29900517,387,PT10M20.00S,4,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,0.0,0.0,0,v,Williams Lost Ball Turnover (P4.T13),Turnover,Lost Ball,0,395
+29900517,387,PT10M20.00S,4,1610612764,WAS,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Williams STEAL (2 STL),,,0,396
+29900517,388,PT10M11.00S,4,1610612764,WAS,393,Strickland,R. Strickland,132,48,14,Made,1,85.0,82.0,167,h,Strickland 14' Jump Shot (19 PTS),Made Shot,Jump Shot,0,397
+29900517,389,PT09M41.00S,4,1610612765,DET,180,Crotty,J. Crotty,-31,18,4,Made,1,85.0,84.0,169,v,Crotty 4' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,398
+29900517,390,PT09M24.00S,4,1610612764,WAS,1134,Austin,I. Austin,0,0,0,,0,0.0,0.0,0,h,Austin Bad Pass Turnover (P2.T23),Turnover,Bad Pass,0,399
+29900517,390,PT09M24.00S,4,1610612765,DET,688,Curry,M. Curry,0,0,0,,0,0.0,0.0,0,v,Curry STEAL (1 STL),,,0,400
+29900517,391,PT09M21.00S,4,1610612765,DET,711,Stackhouse,J. Stackhouse,18,25,3,Made,1,85.0,86.0,171,v,Stackhouse 3' Slam Dunk (24 PTS),Made Shot,Slam Dunk Shot,0,401
+29900517,392,PT09M00.00S,4,1610612764,WAS,43,Whitney,C. Whitney,-209,151,26,Made,1,88.0,86.0,174,h,Whitney 26' 3PT Jump Shot (5 PTS) (Howard 5 AST),Made Shot,Jump Shot,0,402
+29900517,393,PT08M34.00S,4,1610612765,DET,180,Crotty,J. Crotty,89,237,25,Made,1,88.0,89.0,177,v,Crotty 25' 3PT Jump Shot (9 PTS) (Williams 1 AST),Made Shot,Jump Shot,0,403
+29900517,394,PT08M20.00S,4,1610612765,DET,690,Reid,D. Reid,0,0,0,,0,0.0,0.0,0,v,Reid S.FOUL (P1.T1),Foul,Shooting,0,404
+29900517,395,PT08M20.00S,4,1610612764,WAS,393,Strickland,R. Strickland,0,0,0,,0,89.0,89.0,178,h,Strickland Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,405
+29900517,396,PT08M20.00S,4,1610612764,WAS,393,Strickland,R. Strickland,0,0,0,,0,90.0,89.0,179,h,Strickland Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,406
+29900517,397,PT08M08.00S,4,1610612765,DET,966,Williams,J. Williams,25,31,4,Made,1,90.0,91.0,181,v,Williams 4' Layup (6 PTS) (Crotty 2 AST),Made Shot,Layup Shot,0,407
+29900517,398,PT07M50.00S,4,1610612765,DET,690,Reid,D. Reid,0,0,0,,0,0.0,0.0,0,v,Reid S.FOUL (P2.T2),Foul,Shooting,0,408
+29900517,399,PT07M50.00S,4,1610612764,WAS,43,Whitney,C. Whitney,0,0,0,,0,0.0,0.0,0,h,SUB: Murray FOR Whitney,Substitution,,0,409
+29900517,400,PT07M50.00S,4,1610612764,WAS,1134,Austin,I. Austin,0,0,0,,0,91.0,91.0,182,h,Austin Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,410
+29900517,401,PT07M50.00S,4,1610612764,WAS,1134,Austin,I. Austin,0,0,0,,0,0.0,0.0,0,h,MISS Austin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,411
+29900517,402,PT07M50.00S,4,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,0.0,0.0,0,v,Williams REBOUND (Off:4 Def:8),Rebound,Unknown,0,412
+29900517,403,PT07M49.00S,4,1610612765,DET,688,Curry,M. Curry,0,0,0,,0,0.0,0.0,0,v,Curry Bad Pass Turnover (P2.T14),Turnover,Bad Pass,0,413
+29900517,403,PT07M49.00S,4,1610612764,WAS,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Williams STEAL (3 STL),,,0,414
+29900517,404,PT07M38.00S,4,1610612764,WAS,436,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard OFF.Foul (P3),Foul,Offensive,0,415
+29900517,405,PT07M38.00S,4,1610612764,WAS,436,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard Foul Turnover (P4.T24),Turnover,Foul,0,416
+29900517,406,PT07M30.00S,4,1610612765,DET,688,Curry,M. Curry,0,0,0,,0,0.0,0.0,0,v,SUB: Hill FOR Curry,Substitution,,0,417
+29900517,407,PT07M23.00S,4,1610612765,DET,255,Hill,G. Hill,89,128,16,Missed,1,0.0,0.0,0,v,MISS Hill 16' Jump Shot,Missed Shot,Jump Shot,0,418
+29900517,408,PT07M21.00S,4,1610612764,WAS,1134,Austin,I. Austin,0,0,0,,0,0.0,0.0,0,h,Austin REBOUND (Off:1 Def:4),Rebound,Unknown,0,419
+29900517,409,PT07M09.00S,4,1610612765,DET,690,Reid,D. Reid,0,0,0,,0,0.0,0.0,0,v,Reid P.FOUL (P3.T3),Foul,Personal,0,420
+29900517,410,PT07M09.00S,4,1610612764,WAS,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,MISS Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,421
+29900517,411,PT07M09.00S,4,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Rebound,Rebound,Normal Rebound,0,422
+29900517,412,PT07M09.00S,4,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,0.0,0.0,0,v,SUB: Curry FOR Stackhouse,Substitution,,0,423
+29900517,413,PT07M09.00S,4,1610612764,WAS,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,424
+29900517,414,PT07M09.00S,4,1610612764,WAS,1134,Austin,I. Austin,0,0,0,,0,0.0,0.0,0,h,Austin REBOUND (Off:2 Def:4),Rebound,Unknown,0,425
+29900517,415,PT07M01.00S,4,1610612764,WAS,393,Strickland,R. Strickland,147,85,17,Missed,1,0.0,0.0,0,h,MISS Strickland 17' Jump Shot,Missed Shot,Jump Shot,0,426
+29900517,416,PT07M00.00S,4,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,0.0,0.0,0,v,Williams REBOUND (Off:4 Def:9),Rebound,Unknown,0,427
+29900517,417,PT06M46.00S,4,1610612765,DET,688,Curry,M. Curry,-44,66,8,Made,1,91.0,93.0,184,v,Curry 8' Hook Shot (6 PTS) (Williams 2 AST),Made Shot,Hook Shot,0,428
+29900517,418,PT06M28.00S,4,1610612765,DET,688,Curry,M. Curry,0,0,0,,0,0.0,0.0,0,v,Curry S.FOUL (P2.T4),Foul,Shooting,0,429
+29900517,419,PT06M28.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,430
+29900517,420,PT06M28.00S,4,1610612764,WAS,145,Murray,T. Murray,0,0,0,,0,92.0,93.0,185,h,Murray Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,431
+29900517,421,PT06M28.00S,4,1610612764,WAS,145,Murray,T. Murray,0,0,0,,0,93.0,93.0,186,h,Murray Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,432
+29900517,422,PT06M10.00S,4,1610612765,DET,688,Curry,M. Curry,0,0,0,,0,0.0,0.0,0,v,Curry Lost Ball Turnover (P3.T15),Turnover,Lost Ball,0,433
+29900517,422,PT06M10.00S,4,1610612764,WAS,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Williams STEAL (4 STL),,,0,434
+29900517,423,PT05M58.00S,4,1610612765,DET,688,Curry,M. Curry,0,0,0,,0,0.0,0.0,0,v,Curry P.FOUL (P3.PN),Foul,Personal,0,435
+29900517,424,PT05M58.00S,4,1610612765,DET,180,Crotty,J. Crotty,0,0,0,,0,0.0,0.0,0,v,SUB: Hunter FOR Crotty,Substitution,,0,436
+29900517,425,PT05M58.00S,4,1610612765,DET,688,Curry,M. Curry,0,0,0,,0,0.0,0.0,0,v,SUB: Stackhouse FOR Curry,Substitution,,0,437
+29900517,426,PT05M58.00S,4,1610612764,WAS,436,Howard,J. Howard,0,0,0,,0,94.0,93.0,187,h,Howard Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,438
+29900517,427,PT05M58.00S,4,1610612764,WAS,436,Howard,J. Howard,0,0,0,,0,95.0,93.0,188,h,Howard Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,439
+29900517,428,PT05M35.00S,4,1610612765,DET,255,Hill,G. Hill,-66,164,18,Made,1,95.0,95.0,190,v,Hill 18' Jump Shot (29 PTS),Made Shot,Jump Shot,0,440
+29900517,429,PT05M14.00S,4,1610612764,WAS,393,Strickland,R. Strickland,3,12,1,Made,1,97.0,95.0,192,h,Strickland 1' Layup (23 PTS),Made Shot,Layup Shot,0,441
+29900517,430,PT05M14.00S,4,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,0.0,0.0,0,v,Hill S.FOUL (P2.PN),Foul,Shooting,0,442
+29900517,431,PT05M14.00S,4,1610612764,WAS,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,SUB: Smith FOR Williams,Substitution,,0,443
+29900517,432,PT05M14.00S,4,1610612764,WAS,393,Strickland,R. Strickland,0,0,0,,0,98.0,95.0,193,h,Strickland Free Throw 1 of 1 (24 PTS),Free Throw,Free Throw 1 of 1,0,444
+29900517,433,PT05M00.00S,4,1610612765,DET,255,Hill,G. Hill,-139,102,17,Made,1,98.0,97.0,195,v,Hill 17' Jump Shot (31 PTS),Made Shot,Jump Shot,0,445
+29900517,434,PT04M36.00S,4,1610612764,WAS,393,Strickland,R. Strickland,-130,48,14,Missed,1,0.0,0.0,0,h,MISS Strickland 14' Jump Shot,Missed Shot,Jump Shot,0,446
+29900517,435,PT04M35.00S,4,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,0.0,0.0,0,v,Hill REBOUND (Off:0 Def:6),Rebound,Unknown,0,447
+29900517,436,PT04M23.00S,4,1610612765,DET,255,Hill,G. Hill,117,109,16,Made,1,98.0,99.0,197,v,Hill 16' Jump Shot (33 PTS),Made Shot,Jump Shot,0,448
+29900517,437,PT04M18.00S,4,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Timeout: Short (Full 5 Short 1),Timeout,Short,0,449
+29900517,438,PT03M47.00S,4,1610612764,WAS,436,Howard,J. Howard,-111,1,11,Missed,1,0.0,0.0,0,h,MISS Howard 11' Jump Shot,Missed Shot,Jump Shot,0,450
+29900517,439,PT03M46.00S,4,1610612764,WAS,63,Smith,M. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:1 Def:4),Rebound,Unknown,0,451
+29900517,440,PT03M41.00S,4,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Turnover: Shot Clock (T#25),Turnover,Shot Clock Turnover,0,452
+29900517,441,PT03M26.00S,4,1610612764,WAS,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,Strickland S.FOUL (P4.T1),Foul,Shooting,0,453
+29900517,442,PT03M26.00S,4,1610612764,WAS,1134,Austin,I. Austin,0,0,0,,0,0.0,0.0,0,h,SUB: White FOR Austin,Substitution,,0,454
+29900517,443,PT03M26.00S,4,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,98.0,100.0,198,v,Hunter Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,455
+29900517,444,PT03M26.00S,4,1610612765,DET,283,Hunter,L. Hunter,0,0,0,,0,98.0,101.0,199,v,Hunter Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,456
+29900517,445,PT03M20.00S,4,1610612765,DET,690,Reid,D. Reid,0,0,0,,0,0.0,0.0,0,v,Reid P.FOUL (P4.PN),Foul,Personal,0,457
+29900517,446,PT03M20.00S,4,1610612764,WAS,1751,White,J. White,0,0,0,,0,99.0,101.0,200,h,White Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,458
+29900517,447,PT03M20.00S,4,1610612764,WAS,1751,White,J. White,0,0,0,,0,100.0,101.0,201,h,White Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,459
+29900517,448,PT03M01.00S,4,1610612765,DET,283,Hunter,L. Hunter,156,218,27,Missed,1,0.0,0.0,0,v,MISS Hunter 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,460
+29900517,449,PT02M58.00S,4,1610612764,WAS,436,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard REBOUND (Off:0 Def:3),Rebound,Unknown,0,461
+29900517,450,PT02M50.00S,4,1610612764,WAS,393,Strickland,R. Strickland,18,18,3,Made,1,102.0,101.0,203,h,Strickland 3' Layup (26 PTS),Made Shot,Layup Shot,0,462
+29900517,451,PT02M50.00S,4,1610612765,DET,690,Reid,D. Reid,0,0,0,,0,0.0,0.0,0,v,Reid S.FOUL (P5.PN),Foul,Shooting,0,463
+29900517,452,PT02M50.00S,4,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,v,Pistons Timeout: Regular (Reg.1 Short 1),Timeout,Regular,0,464
+29900517,453,PT02M50.00S,4,1610612765,DET,690,Reid,D. Reid,0,0,0,,0,0.0,0.0,0,v,SUB: Laettner FOR Reid,Substitution,,0,465
+29900517,454,PT02M50.00S,4,1610612764,WAS,393,Strickland,R. Strickland,0,0,0,,0,103.0,101.0,204,h,Strickland Free Throw 1 of 1 (27 PTS),Free Throw,Free Throw 1 of 1,0,466
+29900517,455,PT02M45.00S,4,1610612765,DET,255,Hill,G. Hill,40,18,4,Made,1,103.0,103.0,206,v,Hill 4' Hook Shot (35 PTS),Made Shot,Hook Shot,0,467
+29900517,456,PT02M19.00S,4,1610612764,WAS,63,Smith,M. Smith,147,5,15,Missed,1,0.0,0.0,0,h,MISS Smith 15' Jump Shot,Missed Shot,Jump Shot,0,468
+29900517,457,PT02M18.00S,4,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,v,Pistons Rebound,Rebound,Unknown,0,469
+29900517,458,PT01M59.00S,4,1610612765,DET,255,Hill,G. Hill,111,66,13,Missed,1,0.0,0.0,0,v,MISS Hill 13' Jump Shot,Missed Shot,Jump Shot,0,470
+29900517,459,PT01M58.00S,4,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,0.0,0.0,0,v,Williams REBOUND (Off:5 Def:9),Rebound,Unknown,0,471
+29900517,460,PT01M46.00S,4,1610612764,WAS,436,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard S.FOUL (P4.T2),Foul,Shooting,0,472
+29900517,461,PT01M46.00S,4,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,103.0,104.0,207,v,Hill Free Throw 1 of 2 (36 PTS),Free Throw,Free Throw 1 of 2,0,473
+29900517,462,PT01M46.00S,4,1610612765,DET,255,Hill,G. Hill,0,0,0,,0,103.0,105.0,208,v,Hill Free Throw 2 of 2 (37 PTS),Free Throw,Free Throw 2 of 2,0,474
+29900517,463,PT01M35.00S,4,1610612765,DET,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,v,Laettner P.FOUL (P5.PN),Foul,Personal,0,475
+29900517,464,PT01M35.00S,4,1610612764,WAS,63,Smith,M. Smith,0,0,0,,0,104.0,105.0,209,h,Smith Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,476
+29900517,465,PT01M35.00S,4,1610612764,WAS,1751,White,J. White,0,0,0,,0,0.0,0.0,0,h,SUB: Williams FOR White,Substitution,,0,477
+29900517,466,PT01M35.00S,4,1610612764,WAS,63,Smith,M. Smith,0,0,0,,0,105.0,105.0,210,h,Smith Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,478
+29900517,467,PT01M35.00S,4,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,v,Pistons Timeout: Regular (Reg.2 Short 1),Timeout,Regular,0,479
+29900517,468,PT01M17.00S,4,1610612765,DET,255,Hill,G. Hill,-139,-10,14,Made,1,105.0,107.0,212,v,Hill 14' Jump Shot (39 PTS),Made Shot,Jump Shot,0,480
+29900517,469,PT01M00.00S,4,1610612764,WAS,436,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard OFF.Foul (P5),Foul,Offensive,0,481
+29900517,470,PT01M00.00S,4,1610612764,WAS,436,Howard,J. Howard,0,0,0,,0,0.0,0.0,0,h,Howard Foul Turnover (P5.T26),Turnover,Foul,0,482
+29900517,471,PT00M39.00S,4,1610612765,DET,255,Hill,G. Hill,-160,212,27,Missed,1,0.0,0.0,0,v,MISS Hill 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,483
+29900517,472,PT00M36.90S,4,1610612764,WAS,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,Strickland REBOUND (Off:1 Def:3),Rebound,Unknown,0,484
+29900517,477,PT00M33.70S,4,1610612765,DET,363,Laettner,C. Laettner,0,0,0,,0,0.0,0.0,0,v,SUB: Curry FOR Laettner,Substitution,,0,485
+29900517,473,PT00M33.70S,4,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Timeout: Regular (Full 6 Short 1),Timeout,Regular,0,486
+29900517,474,PT00M21.40S,4,1610612764,WAS,393,Strickland,R. Strickland,-81,18,8,Missed,1,0.0,0.0,0,h,MISS Strickland 8' Jump Shot,Missed Shot,Jump Shot,0,487
+29900517,475,PT00M19.20S,4,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,0.0,0.0,0,v,Stackhouse REBOUND (Off:0 Def:1),Rebound,Unknown,0,488
+29900517,476,PT00M16.00S,4,1610612764,WAS,63,Smith,M. Smith,0,0,0,,0,0.0,0.0,0,h,Smith P.FOUL (P5.PN),Foul,Personal,0,489
+29900517,478,PT00M16.00S,4,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,0.0,0.0,0,v,MISS Stackhouse Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,490
+29900517,479,PT00M16.00S,4,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,v,Pistons Rebound,Rebound,Normal Rebound,0,491
+29900517,480,PT00M16.00S,4,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,105.0,108.0,213,v,Stackhouse Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,0,492
+29900517,481,PT00M15.00S,4,1610612764,WAS,63,Smith,M. Smith,0,0,0,,0,0.0,0.0,0,h,SUB: Whitney FOR Smith,Substitution,,0,493
+29900517,482,PT00M13.40S,4,1610612764,WAS,145,Murray,T. Murray,55,261,27,Missed,1,0.0,0.0,0,h,MISS Murray 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,494
+29900517,483,PT00M11.80S,4,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,0.0,0.0,0,v,Stackhouse REBOUND (Off:0 Def:2),Rebound,Unknown,0,495
+29900517,484,PT00M04.40S,4,1610612764,WAS,393,Strickland,R. Strickland,0,0,0,,0,0.0,0.0,0,h,Strickland P.FOUL (P5.PN),Foul,Personal,0,496
+29900517,485,PT00M04.40S,4,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,105.0,109.0,214,v,Stackhouse Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,0,497
+29900517,486,PT00M04.40S,4,1610612765,DET,711,Stackhouse,J. Stackhouse,0,0,0,,0,105.0,110.0,215,v,Stackhouse Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,0,498
+29900517,487,PT00M04.40S,4,0,,1610612764,,,0,0,0,,0,0.0,0.0,0,h,WIZARDS Timeout: Regular (Full 7 Short 1),Timeout,Regular,0,499
+29900517,488,PT00M03.60S,4,1610612764,WAS,1425,Williams,A. Williams,3,12,1,Made,1,107.0,110.0,217,h,Williams 1' Dunk (7 PTS) (Strickland 5 AST),Made Shot,Dunk Shot,0,500
+29900517,489,PT00M02.60S,4,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,v,Pistons Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,501
+29900517,490,PT00M02.60S,4,1610612765,DET,966,Williams,J. Williams,0,0,0,,0,0.0,0.0,0,v,SUB: Laettner FOR Williams,Substitution,,0,502
+29900517,491,PT00M02.30S,4,1610612764,WAS,1425,Williams,A. Williams,0,0,0,,0,0.0,0.0,0,h,Williams P.FOUL (P3.PN),Foul,Personal,0,503
+29900517,492,PT00M02.30S,4,1610612765,DET,363,Laettner,C. Laettner,0,0,0,,0,107.0,111.0,218,v,Laettner Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,504
+29900517,493,PT00M02.30S,4,1610612765,DET,363,Laettner,C. Laettner,0,0,0,,0,107.0,112.0,219,v,Laettner Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,505
+29900517,494,PT00M02.30S,4,1610612764,WAS,393,Strickland,R. Strickland,147,364,39,Missed,1,0.0,0.0,0,h,MISS Strickland 39' 3PT Jump Shot,Missed Shot,Jump Shot,0,506
+29900517,495,PT00M00.00S,4,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,v,Pistons Rebound,Rebound,Unknown,0,507
+29900517,496,PT00M00.00S,4,0,,0,,,0,0,0,,0,107.0,112.0,219,,End of 4th Period (1:27 AM EST),period,end,0,508

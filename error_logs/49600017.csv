@@ -1,0 +1,435 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+49600017,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (11:00 PM EST),period,start,0,1
+49600017,1,PT12M00.00S,1,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,,,0,h,Jump Ball Divac vs. Ewing: Tip to Rice,Jump Ball,,0,2
+49600017,2,PT11M55.00S,1,1610612766,CHH,177,Bogues,M. Bogues,0,0,0,Made,1,2.0,0.0,2,h,Bogues Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,3
+49600017,3,PT11M36.00S,1,1610612766,CHH,177,Bogues,M. Bogues,0,0,0,,0,,,0,h,Bogues P.FOUL (P1.T1),Foul,Personal,0,4
+49600017,4,PT11M26.00S,1,1610612752,NYK,913,Johnson,L. Johnson,0,0,0,,0,,,0,v,Johnson Traveling Turnover (P1.T1),Turnover,Traveling,0,5
+49600017,5,PT11M13.00S,1,1610612766,CHH,177,Bogues,M. Bogues,-159,-27,16,Made,1,4.0,0.0,4,h,Bogues 16' Jump Shot (4 PTS) (Curry 1 AST),Made Shot,Jump Shot,0,6
+49600017,6,PT10M50.00S,1,1610612752,NYK,164,Childs,C. Childs,-53,229,24,Made,1,4.0,3.0,7,v,Childs 24' 3PT Jump Shot (3 PTS) (Houston 1 AST),Made Shot,Jump Shot,0,7
+49600017,7,PT10M38.00S,1,1610612766,CHH,193,Mason,A. Mason,0,0,0,Made,1,6.0,3.0,9,h,Mason Driving Dunk (2 PTS),Made Shot,Driving Dunk Shot,0,8
+49600017,8,PT10M25.00S,1,1610612752,NYK,913,Johnson,L. Johnson,116,-29,12,Made,1,6.0,5.0,11,v,Johnson 12' Jump Shot (2 PTS),Made Shot,Jump Shot,0,9
+49600017,9,PT10M08.00S,1,1610612766,CHH,779,Rice,G. Rice,0,0,0,Made,1,8.0,5.0,13,h,Rice Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,10
+49600017,10,PT09M52.00S,1,1610612752,NYK,275,Houston,A. Houston,207,119,24,Made,1,8.0,8.0,16,v,Houston 24' 3PT Jump Shot (3 PTS) (Johnson 1 AST),Made Shot,Jump Shot,0,11
+49600017,11,PT09M31.00S,1,1610612766,CHH,209,Curry,D. Curry,14,30,3,Missed,1,,,0,h,MISS Curry 3' Jump Shot,Missed Shot,Jump Shot,0,12
+49600017,12,PT09M29.00S,1,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,h,Mason REBOUND (Off:1 Def:0),Rebound,Unknown,0,13
+49600017,13,PT09M19.00S,1,1610612766,CHH,177,Bogues,M. Bogues,131,212,25,Made,1,11.0,8.0,19,h,Bogues 25' 3PT Jump Shot (7 PTS) (Divac 1 AST),Made Shot,Jump Shot,0,14
+49600017,14,PT08M59.00S,1,1610612752,NYK,164,Childs,C. Childs,0,0,0,,0,,,0,v,Childs Out Of Bounds Turnover (P1.T2),Turnover,Out Of Bounds,0,15
+49600017,15,PT08M42.00S,1,1610612766,CHH,779,Rice,G. Rice,116,160,20,Made,1,13.0,8.0,21,h,Rice 20' Jump Shot (4 PTS) (Bogues 1 AST),Made Shot,Jump Shot,0,16
+49600017,16,PT08M31.00S,1,1610612752,NYK,164,Childs,C. Childs,0,0,0,,0,,,0,v,Childs Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,17
+49600017,16,PT08M31.00S,1,1610612766,CHH,209,Curry,D. Curry,0,0,0,,0,,,0,h,Curry STEAL (1 STL),,,0,18
+49600017,17,PT08M27.00S,1,1610612766,CHH,209,Curry,D. Curry,0,0,0,Made,1,15.0,8.0,23,h,Curry Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,19
+49600017,18,PT08M13.00S,1,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,,,0,h,Divac S.FOUL (P1.T2),Foul,Shooting,0,20
+49600017,19,PT08M13.00S,1,1610612752,NYK,275,Houston,A. Houston,0,0,0,,0,15.0,9.0,24,v,Houston Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,21
+49600017,20,PT08M13.00S,1,1610612752,NYK,275,Houston,A. Houston,0,0,0,,0,15.0,10.0,25,v,Houston Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,22
+49600017,21,PT08M00.00S,1,1610612766,CHH,124,Divac,V. Divac,0,0,0,Made,1,17.0,10.0,27,h,Divac Layup (2 PTS) (Rice 1 AST),Made Shot,Layup Shot,0,23
+49600017,22,PT08M00.00S,1,1610612752,NYK,891,Oakley,C. Oakley,0,0,0,,0,,,0,v,Oakley S.FOUL (P1.T1),Foul,Shooting,0,24
+49600017,23,PT08M00.00S,1,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,,,0,h,MISS Divac Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,25
+49600017,24,PT07M59.00S,1,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,,0,,,0,v,Ewing REBOUND (Off:0 Def:1),Rebound,Unknown,0,26
+49600017,25,PT07M45.00S,1,1610612752,NYK,913,Johnson,L. Johnson,0,0,0,Made,1,17.0,12.0,29,v,Johnson Driving Dunk (4 PTS),Made Shot,Driving Dunk Shot,0,27
+49600017,26,PT07M20.00S,1,1610612766,CHH,124,Divac,V. Divac,0,0,0,Missed,1,,,0,h,MISS Divac Layup,Missed Shot,Layup Shot,0,28
+49600017,26,PT07M20.00S,1,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,,0,,,0,v,Ewing BLOCK (1 BLK),,,0,29
+49600017,27,PT07M17.00S,1,1610612752,NYK,164,Childs,C. Childs,0,0,0,,0,,,0,v,Childs REBOUND (Off:0 Def:1),Rebound,Unknown,0,30
+49600017,28,PT07M14.00S,1,1610612752,NYK,164,Childs,C. Childs,0,0,0,,0,,,0,v,Childs Bad Pass Turnover (P3.T4),Turnover,Bad Pass,0,31
+49600017,29,PT07M03.00S,1,1610612766,CHH,779,Rice,G. Rice,10,238,24,Made,1,20.0,12.0,32,h,Rice 24' 3PT Jump Shot (7 PTS) (Divac 2 AST),Made Shot,Jump Shot,0,32
+49600017,30,PT06M51.00S,1,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Timeout: Short (Reg.0 Short 1),Timeout,Short,0,33
+49600017,31,PT06M51.00S,1,0,,1610612740,,,0,0,0,,0,,,0,h,HORNETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,34
+49600017,32,PT06M41.00S,1,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,,,0,h,Rice S.FOUL (P1.T3),Foul,Shooting,0,35
+49600017,33,PT06M41.00S,1,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,,0,,,0,v,MISS Ewing Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,36
+49600017,34,PT06M41.00S,1,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Rebound,Rebound,Unknown,0,37
+49600017,35,PT06M41.00S,1,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,,0,20.0,13.0,33,v,Ewing Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,38
+49600017,36,PT06M37.00S,1,1610612766,CHH,177,Bogues,M. Bogues,0,0,0,,0,,,0,h,Bogues Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,39
+49600017,37,PT06M28.00S,1,1610612752,NYK,913,Johnson,L. Johnson,0,0,0,Made,1,20.0,15.0,35,v,Johnson Layup (6 PTS) (Houston 2 AST),Made Shot,Layup Shot,0,40
+49600017,38,PT06M14.00S,1,1610612766,CHH,177,Bogues,M. Bogues,1,71,7,Made,1,22.0,15.0,37,h,Bogues 7' Running Jump Shot (9 PTS),Made Shot,Running Jump Shot,0,41
+49600017,39,PT06M00.00S,1,1610612752,NYK,275,Houston,A. Houston,157,171,0,Made,1,22.0,18.0,40,v,Houston 3PT Jump Shot (8 PTS) (Johnson 2 AST),Made Shot,Jump Shot,0,42
+49600017,40,PT05M39.00S,1,1610612766,CHH,193,Mason,A. Mason,-3,47,5,Missed,1,,,0,h,MISS Mason 5' Jump Shot,Missed Shot,Jump Shot,0,43
+49600017,41,PT05M36.00S,1,1610612752,NYK,164,Childs,C. Childs,0,0,0,,0,,,0,v,Childs REBOUND (Off:0 Def:2),Rebound,Unknown,0,44
+49600017,42,PT05M22.00S,1,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,Missed,1,,,0,v,MISS Ewing Layup,Missed Shot,Layup Shot,0,45
+49600017,42,PT05M22.00S,1,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,h,Mason BLOCK (1 BLK),,,0,46
+49600017,44,PT05M18.00S,1,1610612752,NYK,891,Oakley,C. Oakley,0,0,0,,0,,,0,v,Oakley REBOUND (Off:1 Def:0),Rebound,Unknown,0,47
+49600017,43,PT05M18.00S,1,1610612752,NYK,891,Oakley,C. Oakley,0,0,0,Made,1,22.0,20.0,42,v,Oakley Tip Shot (2 PTS),Made Shot,Tip Shot,0,48
+49600017,45,PT05M10.00S,1,1610612766,CHH,779,Rice,G. Rice,0,116,12,Made,1,24.0,20.0,44,h,Rice 12' Jump Shot (9 PTS),Made Shot,Jump Shot,0,49
+49600017,46,PT04M49.00S,1,1610612752,NYK,913,Johnson,L. Johnson,-144,184,0,Made,1,24.0,23.0,47,v,Johnson 3PT Jump Shot (9 PTS) (Childs 1 AST),Made Shot,Jump Shot,0,50
+49600017,47,PT04M33.00S,1,1610612766,CHH,177,Bogues,M. Bogues,0,0,0,,0,,,0,h,Bogues Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,51
+49600017,48,PT04M30.00S,1,1610612766,CHH,209,Curry,D. Curry,0,0,0,,0,,,0,h,SUB: Pierce FOR Curry,Substitution,,0,52
+49600017,49,PT04M30.00S,1,1610612766,CHH,177,Bogues,M. Bogues,0,0,0,,0,,,0,h,SUB: Delk FOR Bogues,Substitution,,0,53
+49600017,50,PT04M29.00S,1,1610612752,NYK,891,Oakley,C. Oakley,0,0,0,Made,1,24.0,25.0,49,v,Oakley Layup (4 PTS) (Johnson 3 AST),Made Shot,Layup Shot,0,54
+49600017,51,PT04M13.00S,1,1610612752,NYK,913,Johnson,L. Johnson,0,0,0,,0,,,0,v,Johnson S.FOUL (P1.T2),Foul,Shooting,0,55
+49600017,52,PT04M13.00S,1,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,25.0,25.0,50,h,Rice Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,56
+49600017,53,PT04M13.00S,1,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,26.0,25.0,51,h,Rice Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,57
+49600017,54,PT04M02.00S,1,1610612752,NYK,913,Johnson,L. Johnson,0,0,0,Made,1,26.0,27.0,53,v,Johnson Driving Layup (11 PTS),Made Shot,Driving Layup Shot,0,58
+49600017,55,PT03M40.00S,1,1610612766,CHH,894,Pierce,R. Pierce,0,0,0,,0,,,0,h,Pierce Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,59
+49600017,56,PT03M34.00S,1,1610612752,NYK,275,Houston,A. Houston,-209,121,24,Missed,1,,,0,v,MISS Houston 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,60
+49600017,57,PT03M32.00S,1,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,,,0,h,Divac REBOUND (Off:0 Def:1),Rebound,Unknown,0,61
+49600017,58,PT03M26.00S,1,1610612766,CHH,960,Delk,T. Delk,125,119,17,Missed,1,,,0,h,MISS Delk 17' Jump Shot,Missed Shot,Jump Shot,0,62
+49600017,59,PT03M24.00S,1,1610612752,NYK,275,Houston,A. Houston,0,0,0,,0,,,0,v,Houston REBOUND (Off:0 Def:1),Rebound,Unknown,0,63
+49600017,60,PT03M19.00S,1,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Timeout: Regular (Reg.1 Short 1),Timeout,Regular,0,64
+49600017,61,PT03M19.00S,1,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,,,0,h,SUB: Royal FOR Divac,Substitution,,0,65
+49600017,62,PT03M12.00S,1,1610612752,NYK,891,Oakley,C. Oakley,0,0,0,Made,1,26.0,29.0,55,v,Oakley Layup (6 PTS) (Ewing 1 AST),Made Shot,Layup Shot,0,66
+49600017,63,PT02M57.00S,1,1610612766,CHH,193,Mason,A. Mason,0,0,0,Made,1,28.0,29.0,57,h,Mason Layup (4 PTS),Made Shot,Layup Shot,0,67
+49600017,64,PT02M42.00S,1,1610612766,CHH,140,Royal,D. Royal,0,0,0,,0,,,0,h,Royal P.FOUL (P1.T4),Foul,Personal,0,68
+49600017,65,PT02M42.00S,1,1610612752,NYK,913,Johnson,L. Johnson,0,0,0,,0,,,0,v,SUB: Starks FOR Johnson,Substitution,,0,69
+49600017,66,PT02M35.00S,1,1610612752,NYK,275,Houston,A. Houston,71,229,24,Made,1,28.0,32.0,60,v,Houston 24' 3PT Jump Shot (11 PTS) (Ewing 2 AST),Made Shot,Jump Shot,0,70
+49600017,67,PT02M17.00S,1,1610612766,CHH,894,Pierce,R. Pierce,118,39,12,Missed,1,,,0,h,MISS Pierce 12' Jump Shot,Missed Shot,Jump Shot,0,71
+49600017,68,PT02M14.00S,1,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,,0,,,0,v,Ewing REBOUND (Off:0 Def:2),Rebound,Unknown,0,72
+49600017,69,PT02M08.00S,1,1610612752,NYK,164,Childs,C. Childs,125,95,16,Missed,1,,,0,v,MISS Childs 16' Jump Shot,Missed Shot,Jump Shot,0,73
+49600017,70,PT02M06.00S,1,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,h,Mason REBOUND (Off:1 Def:1),Rebound,Unknown,0,74
+49600017,71,PT01M59.00S,1,1610612766,CHH,779,Rice,G. Rice,0,238,24,Made,1,31.0,32.0,63,h,Rice 24' 3PT Jump Shot (14 PTS) (Pierce 1 AST),Made Shot,Jump Shot,0,75
+49600017,72,PT01M42.00S,1,1610612752,NYK,121,Ewing,P. Ewing,34,114,12,Missed,1,,,0,v,MISS Ewing 12' Jump Shot,Missed Shot,Jump Shot,0,76
+49600017,73,PT01M40.00S,1,1610612766,CHH,140,Royal,D. Royal,0,0,0,,0,,,0,h,Royal REBOUND (Off:0 Def:1),Rebound,Unknown,0,77
+49600017,74,PT01M40.00S,1,1610612752,NYK,317,Starks,J. Starks,0,0,0,,0,,,0,v,Starks P.FOUL (P1.T3),Foul,Personal,0,78
+49600017,75,PT01M40.00S,1,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,,0,,,0,v,SUB: B. Williams FOR Ewing,Substitution,,0,79
+49600017,76,PT01M40.00S,1,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,,,0,h,SUB: Geiger FOR Rice,Substitution,,0,80
+49600017,77,PT01M17.00S,1,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,h,Mason Traveling Turnover (P1.T4),Turnover,Traveling,0,81
+49600017,78,PT01M02.00S,1,1610612752,NYK,433,Williams,B. Williams,118,21,12,Missed,1,,,0,v,MISS B. Williams 12' Jump Shot,Missed Shot,Jump Shot,0,82
+49600017,79,PT01M01.00S,1,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,h,Mason REBOUND (Off:1 Def:2),Rebound,Unknown,0,83
+49600017,80,PT01M01.00S,1,1610612752,NYK,433,Williams,B. Williams,0,0,0,,0,,,0,v,B. Williams P.FOUL (P1.PN),Foul,Personal,0,84
+49600017,81,PT01M01.00S,1,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,h,MISS Mason Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,85
+49600017,82,PT01M01.00S,1,0,,1610612740,,,0,0,0,,0,,,0,h,HORNETS Rebound,Rebound,Unknown,0,86
+49600017,83,PT01M01.00S,1,1610612752,NYK,164,Childs,C. Childs,0,0,0,,0,,,0,v,SUB: Ward FOR Childs,Substitution,,0,87
+49600017,84,PT01M01.00S,1,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,h,MISS Mason Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,88
+49600017,85,PT00M59.00S,1,1610612752,NYK,891,Oakley,C. Oakley,0,0,0,,0,,,0,v,Oakley REBOUND (Off:1 Def:1),Rebound,Unknown,0,89
+49600017,86,PT00M52.90S,1,1610612752,NYK,275,Houston,A. Houston,0,0,0,Made,1,31.0,34.0,65,v,Houston Driving Layup (13 PTS),Made Shot,Driving Layup Shot,0,90
+49600017,87,PT00M44.20S,1,1610612766,CHH,140,Royal,D. Royal,114,75,14,Missed,1,,,0,h,MISS Royal 14' Jump Shot,Missed Shot,Jump Shot,0,91
+49600017,88,PT00M43.00S,1,1610612752,NYK,891,Oakley,C. Oakley,0,0,0,,0,,,0,v,Oakley REBOUND (Off:1 Def:2),Rebound,Unknown,0,92
+49600017,89,PT00M42.50S,1,1610612766,CHH,960,Delk,T. Delk,0,0,0,,0,,,0,h,Delk P.FOUL (P1.PN),Foul,Personal,0,93
+49600017,91,PT00M42.50S,1,1610612752,NYK,317,Starks,J. Starks,0,0,0,,0,31.0,35.0,66,v,Starks Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,94
+49600017,92,PT00M42.50S,1,1610612752,NYK,317,Starks,J. Starks,0,0,0,,0,31.0,36.0,67,v,Starks Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,95
+49600017,93,PT00M23.00S,1,1610612766,CHH,960,Delk,T. Delk,192,-29,19,Missed,1,,,0,h,MISS Delk 19' Jump Shot,Missed Shot,Jump Shot,0,96
+49600017,94,PT00M20.00S,1,1610612752,NYK,369,Ward,C. Ward,0,0,0,,0,,,0,v,Ward REBOUND (Off:0 Def:1),Rebound,Unknown,0,97
+49600017,95,PT00M18.00S,1,1610612752,NYK,317,Starks,J. Starks,0,0,0,Made,1,31.0,38.0,69,v,Starks Layup (4 PTS) (Ward 1 AST),Made Shot,Layup Shot,0,98
+49600017,96,PT00M03.00S,1,1610612766,CHH,960,Delk,T. Delk,-216,110,24,Missed,1,,,0,h,MISS Delk 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,99
+49600017,97,PT00M01.50S,1,0,,1610612740,,,0,0,0,,0,,,0,h,HORNETS Rebound,Rebound,Unknown,0,100
+49600017,98,PT00M01.50S,1,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,h,SUB: Rose FOR Mason,Substitution,,0,101
+49600017,99,PT00M00.00S,1,0,,0,,,0,0,0,,0,31.0,38.0,69,,End of 1st Period (11:30 PM EST),period,end,0,102
+49600017,100,PT12M00.00S,2,0,,0,,,0,0,0,,0,31.0,38.0,69,,Start of 2nd Period (11:33 PM EST),period,start,0,103
+49600017,101,PT11M43.00S,2,1610612752,NYK,275,Houston,A. Houston,153,188,24,Made,1,31.0,41.0,72,v,Houston 24' 3PT Jump Shot (16 PTS) (Ward 2 AST),Made Shot,Jump Shot,0,104
+49600017,102,PT11M21.00S,2,1610612752,NYK,891,Oakley,C. Oakley,0,0,0,,0,,,0,v,Oakley P.FOUL (P2.T1),Foul,Personal,0,105
+49600017,103,PT11M21.00S,2,1610612766,CHH,140,Royal,D. Royal,0,0,0,,0,,,0,h,SUB: Rice FOR Royal,Substitution,,0,106
+49600017,104,PT11M21.00S,2,1610612752,NYK,891,Oakley,C. Oakley,0,0,0,,0,,,0,v,SUB: Johnson FOR Oakley,Substitution,,0,107
+49600017,105,PT11M11.00S,2,1610612766,CHH,761,Geiger,M. Geiger,0,0,0,Made,1,33.0,41.0,74,h,Geiger Layup (2 PTS) (Rice 2 AST),Made Shot,Layup Shot,0,108
+49600017,106,PT10M50.00S,2,1610612752,NYK,317,Starks,J. Starks,233,8,0,Missed,1,,,0,v,MISS Starks 3PT Jump Shot,Missed Shot,Jump Shot,0,109
+49600017,107,PT10M47.00S,2,1610612766,CHH,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,Geiger REBOUND (Off:0 Def:1),Rebound,Unknown,0,110
+49600017,108,PT10M40.00S,2,1610612766,CHH,177,Bogues,M. Bogues,162,-14,16,Missed,1,,,0,h,MISS Bogues 16' Jump Shot,Missed Shot,Jump Shot,0,111
+49600017,109,PT10M38.00S,2,1610612766,CHH,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,Geiger REBOUND (Off:1 Def:1),Rebound,Unknown,0,112
+49600017,110,PT10M36.00S,2,1610612766,CHH,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,Geiger Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,113
+49600017,110,PT10M36.00S,2,1610612752,NYK,317,Starks,J. Starks,0,0,0,,0,,,0,v,Starks STEAL (1 STL),,,0,114
+49600017,111,PT10M36.00S,2,1610612766,CHH,960,Delk,T. Delk,0,0,0,,0,,,0,h,Delk P.FOUL (P2.T1),Foul,Personal,0,115
+49600017,112,PT10M15.00S,2,1610612752,NYK,913,Johnson,L. Johnson,62,36,7,Made,1,33.0,43.0,76,v,Johnson 7' Jump Shot (13 PTS),Made Shot,Jump Shot,0,116
+49600017,113,PT09M58.00S,2,1610612766,CHH,779,Rice,G. Rice,-151,-18,15,Missed,1,,,0,h,MISS Rice 15' Jump Shot,Missed Shot,Jump Shot,0,117
+49600017,114,PT09M55.00S,2,1610612752,NYK,433,Williams,B. Williams,0,0,0,,0,,,0,v,B. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,118
+49600017,115,PT09M43.00S,2,1610612752,NYK,913,Johnson,L. Johnson,0,0,0,,0,,,0,v,Johnson Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,119
+49600017,116,PT09M43.00S,2,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,120
+49600017,117,PT09M43.00S,2,1610612766,CHH,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,SUB: Divac FOR Geiger,Substitution,,0,121
+49600017,118,PT09M43.00S,2,1610612752,NYK,275,Houston,A. Houston,0,0,0,,0,,,0,v,SUB: Ewing FOR Houston,Substitution,,0,122
+49600017,119,PT09M25.00S,2,1610612766,CHH,960,Delk,T. Delk,185,160,24,Made,1,36.0,43.0,79,h,Delk 24' 3PT Jump Shot (3 PTS) (Rose 1 AST),Made Shot,Jump Shot,0,123
+49600017,120,PT09M07.00S,2,1610612752,NYK,433,Williams,B. Williams,0,0,0,Made,1,36.0,45.0,81,v,B. Williams Layup (2 PTS) (Ewing 3 AST),Made Shot,Layup Shot,0,124
+49600017,121,PT08M43.00S,2,1610612752,NYK,913,Johnson,L. Johnson,0,0,0,,0,,,0,v,Johnson S.FOUL (P2.T2),Foul,Shooting,0,125
+49600017,122,PT08M43.00S,2,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,37.0,45.0,82,h,Rice Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,126
+49600017,123,PT08M43.00S,2,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,38.0,45.0,83,h,Rice Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,127
+49600017,124,PT08M30.00S,2,1610612752,NYK,913,Johnson,L. Johnson,0,0,0,,0,,,0,v,Johnson Bad Pass Turnover (P3.T6),Turnover,Bad Pass,0,128
+49600017,124,PT08M30.00S,2,1610612766,CHH,960,Delk,T. Delk,0,0,0,,0,,,0,h,Delk STEAL (1 STL),,,0,129
+49600017,125,PT08M07.00S,2,1610612766,CHH,779,Rice,G. Rice,116,155,19,Missed,1,,,0,h,MISS Rice 19' Jump Shot,Missed Shot,Jump Shot,0,130
+49600017,127,PT08M04.00S,2,1610612766,CHH,990,Rose,M. Rose,0,0,0,,0,,,0,h,Rose REBOUND (Off:1 Def:0),Rebound,Unknown,0,131
+49600017,126,PT08M04.00S,2,1610612766,CHH,990,Rose,M. Rose,0,0,0,Made,1,40.0,45.0,85,h,Rose Hook Shot (2 PTS),Made Shot,Hook Shot,0,132
+49600017,128,PT07M46.00S,2,1610612752,NYK,433,Williams,B. Williams,0,0,0,Missed,1,,,0,v,MISS B. Williams Layup,Missed Shot,Layup Shot,0,133
+49600017,129,PT07M44.00S,2,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,,,0,h,Divac REBOUND (Off:0 Def:2),Rebound,Unknown,0,134
+49600017,130,PT07M28.00S,2,1610612766,CHH,960,Delk,T. Delk,-99,218,24,Missed,1,,,0,h,MISS Delk 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,135
+49600017,131,PT07M27.00S,2,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Rebound,Rebound,Unknown,0,136
+49600017,132,PT07M13.00S,2,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,,0,,,0,v,Ewing OFF.Foul (P1),Foul,Offensive,0,137
+49600017,133,PT07M13.00S,2,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,,0,,,0,v,Ewing Foul Turnover (P1.T7),Turnover,Foul,0,138
+49600017,134,PT07M13.00S,2,1610612766,CHH,990,Rose,M. Rose,0,0,0,,0,,,0,h,SUB: Mason FOR Rose,Substitution,,0,139
+49600017,135,PT06M56.00S,2,1610612766,CHH,177,Bogues,M. Bogues,129,192,0,Missed,1,,,0,h,MISS Bogues 3PT Jump Shot,Missed Shot,Jump Shot,0,140
+49600017,136,PT06M54.00S,2,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,,0,,,0,v,Ewing REBOUND (Off:0 Def:3),Rebound,Unknown,0,141
+49600017,137,PT06M48.00S,2,1610612752,NYK,913,Johnson,L. Johnson,0,0,0,Made,1,40.0,47.0,87,v,Johnson Dunk (15 PTS),Made Shot,Dunk Shot,0,142
+49600017,138,PT06M24.00S,2,1610612766,CHH,124,Divac,V. Divac,-172,-29,17,Missed,1,,,0,h,MISS Divac 17' Jump Shot,Missed Shot,Jump Shot,0,143
+49600017,139,PT06M23.00S,2,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,h,Mason REBOUND (Off:2 Def:2),Rebound,Unknown,0,144
+49600017,140,PT06M05.00S,2,1610612766,CHH,124,Divac,V. Divac,77,41,9,Missed,1,,,0,h,MISS Divac 9' Jump Shot,Missed Shot,Jump Shot,0,145
+49600017,141,PT06M03.00S,2,1610612752,NYK,317,Starks,J. Starks,0,0,0,,0,,,0,v,Starks REBOUND (Off:0 Def:1),Rebound,Unknown,0,146
+49600017,142,PT05M53.00S,2,1610612752,NYK,317,Starks,J. Starks,-157,15,16,Missed,1,,,0,v,MISS Starks 16' Jump Shot,Missed Shot,Jump Shot,0,147
+49600017,143,PT05M51.00S,2,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,,,0,h,Rice REBOUND (Off:0 Def:1),Rebound,Unknown,0,148
+49600017,144,PT05M42.00S,2,1610612766,CHH,960,Delk,T. Delk,34,82,9,Missed,1,,,0,h,MISS Delk 9' Jump Shot,Missed Shot,Jump Shot,0,149
+49600017,145,PT05M42.00S,2,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,,0,,,0,v,Ewing REBOUND (Off:0 Def:4),Rebound,Unknown,0,150
+49600017,146,PT05M42.00S,2,1610612766,CHH,960,Delk,T. Delk,0,0,0,,0,,,0,h,Delk L.B.FOUL (P3.T2),Foul,Loose Ball,0,151
+49600017,147,PT05M42.00S,2,0,,1610612740,,,0,0,0,,0,,,0,h,HORNETS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,152
+49600017,148,PT05M42.00S,2,1610612752,NYK,369,Ward,C. Ward,0,0,0,,0,,,0,v,SUB: Childs FOR Ward,Substitution,,0,153
+49600017,149,PT05M42.00S,2,1610612766,CHH,960,Delk,T. Delk,0,0,0,,0,,,0,h,SUB: Curry FOR Delk,Substitution,,0,154
+49600017,150,PT05M29.00S,2,1610612752,NYK,913,Johnson,L. Johnson,0,231,0,Missed,1,,,0,v,MISS Johnson 3PT Jump Shot,Missed Shot,Jump Shot,0,155
+49600017,151,PT05M27.00S,2,1610612752,NYK,317,Starks,J. Starks,0,0,0,,0,,,0,v,Starks REBOUND (Off:1 Def:1),Rebound,Unknown,0,156
+49600017,152,PT05M27.00S,2,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,,,0,h,Rice P.FOUL (P2.T3),Foul,Personal,0,157
+49600017,153,PT05M23.00S,2,1610612752,NYK,433,Williams,B. Williams,0,0,0,Missed,1,,,0,v,MISS B. Williams Layup,Missed Shot,Layup Shot,0,158
+49600017,153,PT05M23.00S,2,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,,,0,h,Divac BLOCK (1 BLK),,,0,159
+49600017,155,PT05M20.00S,2,1610612752,NYK,433,Williams,B. Williams,0,0,0,,0,,,0,v,B. Williams REBOUND (Off:1 Def:1),Rebound,Unknown,0,160
+49600017,154,PT05M20.00S,2,1610612752,NYK,433,Williams,B. Williams,0,0,0,Made,1,40.0,49.0,89,v,B. Williams Tip Shot (4 PTS),Made Shot,Tip Shot,0,161
+49600017,156,PT04M57.00S,2,1610612766,CHH,209,Curry,D. Curry,0,0,0,Made,1,42.0,49.0,91,h,Curry Layup (4 PTS) (Rice 3 AST),Made Shot,Layup Shot,0,162
+49600017,157,PT04M41.00S,2,1610612752,NYK,317,Starks,J. Starks,-1,173,17,Missed,1,,,0,v,MISS Starks 17' Jump Shot,Missed Shot,Jump Shot,0,163
+49600017,159,PT04M37.00S,2,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,,0,,,0,v,Ewing REBOUND (Off:1 Def:4),Rebound,Unknown,0,164
+49600017,158,PT04M37.00S,2,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,Missed,1,,,0,v,MISS Ewing Tip Shot,Missed Shot,Tip Shot,0,165
+49600017,160,PT04M37.00S,2,0,,1610612740,,,0,0,0,,0,,,0,h,HORNETS Rebound,Rebound,Unknown,0,166
+49600017,161,PT04M37.00S,2,1610612752,NYK,317,Starks,J. Starks,0,0,0,,0,,,0,v,SUB: Houston FOR Starks,Substitution,,0,167
+49600017,162,PT04M16.00S,2,1610612752,NYK,433,Williams,B. Williams,0,0,0,,0,,,0,v,B. Williams S.FOUL (P2.T3),Foul,Shooting,0,168
+49600017,163,PT04M16.00S,2,1610612752,NYK,433,Williams,B. Williams,0,0,0,,0,,,0,v,SUB: Oakley FOR B. Williams,Substitution,,0,169
+49600017,164,PT04M16.00S,2,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,43.0,49.0,92,h,Divac Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,170
+49600017,165,PT04M16.00S,2,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,,,0,h,MISS Divac Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,171
+49600017,166,PT04M15.00S,2,1610612752,NYK,164,Childs,C. Childs,0,0,0,,0,,,0,v,Childs REBOUND (Off:0 Def:3),Rebound,Unknown,0,172
+49600017,167,PT03M56.00S,2,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,,,0,h,Divac S.FOUL (P2.T4),Foul,Shooting,0,173
+49600017,168,PT03M56.00S,2,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,,0,43.0,50.0,93,v,Ewing Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,174
+49600017,169,PT03M56.00S,2,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,,0,43.0,51.0,94,v,Ewing Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,175
+49600017,170,PT03M40.00S,2,1610612766,CHH,193,Mason,A. Mason,0,0,0,Missed,1,,,0,h,MISS Mason Layup,Missed Shot,Layup Shot,0,176
+49600017,171,PT03M39.00S,2,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Rebound,Rebound,Unknown,0,177
+49600017,172,PT03M27.00S,2,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,h,Mason P.FOUL (P1.PN),Foul,Personal,0,178
+49600017,173,PT03M27.00S,2,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,,0,43.0,52.0,95,v,Ewing Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,179
+49600017,174,PT03M27.00S,2,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,,0,,,0,v,MISS Ewing Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,180
+49600017,175,PT03M25.00S,2,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,h,Mason REBOUND (Off:2 Def:3),Rebound,Unknown,0,181
+49600017,176,PT03M12.00S,2,1610612766,CHH,779,Rice,G. Rice,116,-33,12,Made,1,45.0,52.0,97,h,Rice 12' Running Jump Shot (18 PTS),Made Shot,Running Jump Shot,0,182
+49600017,177,PT02M52.00S,2,1610612752,NYK,164,Childs,C. Childs,-151,194,25,Missed,1,,,0,v,MISS Childs 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,183
+49600017,178,PT02M49.00S,2,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,h,Mason REBOUND (Off:2 Def:4),Rebound,Unknown,0,184
+49600017,179,PT02M42.00S,2,1610612766,CHH,124,Divac,V. Divac,0,0,0,Missed,1,,,0,h,MISS Divac Layup,Missed Shot,Layup Shot,0,185
+49600017,180,PT02M40.00S,2,1610612752,NYK,164,Childs,C. Childs,0,0,0,,0,,,0,v,Childs REBOUND (Off:0 Def:4),Rebound,Unknown,0,186
+49600017,181,PT02M24.00S,2,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,h,Mason S.FOUL (P2.PN),Foul,Shooting,0,187
+49600017,182,PT02M24.00S,2,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Timeout: Regular (Reg.2 Short 1),Timeout,Regular,0,188
+49600017,183,PT02M24.00S,2,1610612752,NYK,891,Oakley,C. Oakley,0,0,0,,0,45.0,53.0,98,v,Oakley Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,189
+49600017,184,PT02M24.00S,2,1610612752,NYK,891,Oakley,C. Oakley,0,0,0,,0,45.0,54.0,99,v,Oakley Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,190
+49600017,185,PT02M00.00S,2,1610612766,CHH,209,Curry,D. Curry,-161,-29,16,Missed,1,,,0,h,MISS Curry 16' Jump Shot,Missed Shot,Jump Shot,0,191
+49600017,186,PT01M58.00S,2,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,,,0,h,Divac REBOUND (Off:1 Def:2),Rebound,Unknown,0,192
+49600017,187,PT01M56.00S,2,1610612766,CHH,124,Divac,V. Divac,0,0,0,Missed,1,,,0,h,MISS Divac Layup,Missed Shot,Layup Shot,0,193
+49600017,187,PT01M56.00S,2,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,,0,,,0,v,Ewing BLOCK (2 BLK),,,0,194
+49600017,188,PT01M55.00S,2,1610612752,NYK,891,Oakley,C. Oakley,0,0,0,,0,,,0,v,Oakley REBOUND (Off:1 Def:3),Rebound,Unknown,0,195
+49600017,189,PT01M52.00S,2,1610612752,NYK,913,Johnson,L. Johnson,0,0,0,Made,1,45.0,56.0,101,v,Johnson Layup (17 PTS) (Oakley 1 AST),Made Shot,Layup Shot,0,196
+49600017,190,PT01M41.00S,2,1610612766,CHH,779,Rice,G. Rice,146,119,19,Missed,1,,,0,h,MISS Rice 19' Jump Shot,Missed Shot,Jump Shot,0,197
+49600017,191,PT01M39.00S,2,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Rebound,Rebound,Unknown,0,198
+49600017,192,PT01M20.00S,2,1610612752,NYK,913,Johnson,L. Johnson,6,45,5,Missed,1,,,0,v,MISS Johnson 5' Jump Shot,Missed Shot,Jump Shot,0,199
+49600017,193,PT01M18.00S,2,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,h,Mason REBOUND (Off:2 Def:5),Rebound,Unknown,0,200
+49600017,194,PT01M14.00S,2,1610612766,CHH,177,Bogues,M. Bogues,118,103,16,Made,1,47.0,56.0,103,h,Bogues 16' Jump Shot (11 PTS),Made Shot,Jump Shot,0,201
+49600017,195,PT00M57.10S,2,1610612752,NYK,275,Houston,A. Houston,0,0,0,Made,1,47.0,58.0,105,v,Houston Driving Layup (18 PTS),Made Shot,Driving Layup Shot,0,202
+49600017,196,PT00M57.10S,2,1610612766,CHH,209,Curry,D. Curry,0,0,0,,0,,,0,h,Curry S.FOUL (P1.PN),Foul,Shooting,0,203
+49600017,197,PT00M57.10S,2,1610612752,NYK,913,Johnson,L. Johnson,0,0,0,,0,,,0,v,SUB: Ward FOR Johnson,Substitution,,0,204
+49600017,198,PT00M57.10S,2,1610612752,NYK,275,Houston,A. Houston,0,0,0,,0,,,0,v,MISS Houston Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,205
+49600017,199,PT00M55.80S,2,1610612752,NYK,369,Ward,C. Ward,0,0,0,,0,,,0,v,Ward REBOUND (Off:1 Def:1),Rebound,Unknown,0,206
+49600017,200,PT00M52.00S,2,1610612752,NYK,275,Houston,A. Houston,-181,158,24,Missed,1,,,0,v,MISS Houston 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,207
+49600017,201,PT00M49.20S,2,1610612766,CHH,177,Bogues,M. Bogues,0,0,0,,0,,,0,h,Bogues REBOUND (Off:0 Def:1),Rebound,Unknown,0,208
+49600017,202,PT00M38.60S,2,1610612752,NYK,275,Houston,A. Houston,0,0,0,,0,,,0,v,Houston P.FOUL (P1.T4),Foul,Personal,0,209
+49600017,203,PT00M28.60S,2,1610612752,NYK,369,Ward,C. Ward,0,0,0,,0,,,0,v,Ward P.FOUL (P1.PN),Foul,Personal,0,210
+49600017,204,PT00M28.60S,2,1610612766,CHH,177,Bogues,M. Bogues,0,0,0,,0,48.0,58.0,106,h,Bogues Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,211
+49600017,205,PT00M28.60S,2,1610612766,CHH,209,Curry,D. Curry,0,0,0,,0,,,0,h,SUB: Royal FOR Curry,Substitution,,0,212
+49600017,206,PT00M28.60S,2,1610612766,CHH,177,Bogues,M. Bogues,0,0,0,,0,49.0,58.0,107,h,Bogues Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,213
+49600017,207,PT00M07.00S,2,1610612752,NYK,164,Childs,C. Childs,-224,78,24,Missed,1,,,0,v,MISS Childs 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,214
+49600017,208,PT00M04.60S,2,1610612766,CHH,140,Royal,D. Royal,0,0,0,,0,,,0,h,Royal REBOUND (Off:0 Def:2),Rebound,Unknown,0,215
+49600017,209,PT00M00.20S,2,1610612766,CHH,177,Bogues,M. Bogues,0,0,0,,0,,,0,h,Bogues Bad Pass Turnover (P3.T6),Turnover,Bad Pass,0,216
+49600017,209,PT00M00.20S,2,1610612752,NYK,164,Childs,C. Childs,0,0,0,,0,,,0,v,Childs STEAL (1 STL),,,0,217
+49600017,210,PT00M00.00S,2,0,,0,,,0,0,0,,0,49.0,58.0,107,,End of 2nd Period (12:01 AM EST),period,end,0,218
+49600017,211,PT12M00.00S,3,0,,0,,,0,0,0,,0,49.0,58.0,107,,Start of 3rd Period (12:18 AM EST),period,start,0,219
+49600017,212,PT11M44.00S,3,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,,0,,,0,v,Ewing Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,220
+49600017,212,PT11M44.00S,3,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,,,0,h,Divac STEAL (1 STL),,,0,221
+49600017,213,PT11M39.00S,3,1610612766,CHH,177,Bogues,M. Bogues,0,0,0,Missed,1,,,0,h,MISS Bogues Layup,Missed Shot,Layup Shot,0,222
+49600017,215,PT11M36.00S,3,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,,,0,h,Rice REBOUND (Off:1 Def:1),Rebound,Unknown,0,223
+49600017,214,PT11M36.00S,3,1610612766,CHH,779,Rice,G. Rice,0,0,0,Made,1,51.0,58.0,109,h,Rice Tip Shot (20 PTS),Made Shot,Tip Shot,0,224
+49600017,216,PT11M30.00S,3,1610612752,NYK,164,Childs,C. Childs,0,0,0,,0,,,0,v,Childs Bad Pass Turnover (P4.T9),Turnover,Bad Pass,0,225
+49600017,216,PT11M30.00S,3,1610612766,CHH,209,Curry,D. Curry,0,0,0,,0,,,0,h,Curry STEAL (2 STL),,,0,226
+49600017,217,PT11M15.00S,3,1610612766,CHH,177,Bogues,M. Bogues,-194,134,24,Made,1,54.0,58.0,112,h,Bogues 24' 3PT Jump Shot (16 PTS) (Curry 2 AST),Made Shot,Jump Shot,0,227
+49600017,229,PT10M45.00S,3,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Timeout: Short (Reg.2 Short 2),Timeout,Short,0,228
+49600017,219,PT10M45.00S,3,1610612752,NYK,164,Childs,C. Childs,0,0,0,Missed,1,,,0,v,MISS Childs Layup,Missed Shot,Layup Shot,0,229
+49600017,225,PT10M39.00S,3,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,h,Mason REBOUND (Off:2 Def:6),Rebound,Unknown,0,230
+49600017,221,PT10M39.00S,3,1610612766,CHH,209,Curry,D. Curry,110,203,0,Made,1,57.0,58.0,115,h,Curry 3PT Jump Shot (7 PTS) (Bogues 2 AST),Made Shot,Jump Shot,0,231
+49600017,222,PT10M24.00S,3,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,,,0,h,Divac P.FOUL (P3.T1),Foul,Personal,0,232
+49600017,223,PT10M08.00S,3,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,Made,1,57.0,60.0,117,v,Ewing Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,233
+49600017,226,PT09M47.00S,3,1610612766,CHH,193,Mason,A. Mason,0,0,0,Missed,1,,,0,h,MISS Mason Layup,Missed Shot,Layup Shot,0,234
+49600017,227,PT09M44.00S,3,1610612752,NYK,275,Houston,A. Houston,0,0,0,,0,,,0,v,Houston REBOUND (Off:0 Def:2),Rebound,Unknown,0,235
+49600017,228,PT09M40.00S,3,1610612752,NYK,275,Houston,A. Houston,0,0,0,,0,,,0,v,Houston Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,236
+49600017,228,PT09M40.00S,3,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,,,0,h,Rice STEAL (1 STL),,,0,237
+49600017,230,PT09M35.00S,3,1610612766,CHH,779,Rice,G. Rice,-209,116,24,Missed,1,,,0,h,MISS Rice 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,238
+49600017,231,PT09M32.00S,3,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,,0,,,0,v,Ewing REBOUND (Off:1 Def:5),Rebound,Unknown,0,239
+49600017,233,PT09M16.00S,3,1610612752,NYK,913,Johnson,L. Johnson,179,149,0,Missed,1,,,0,v,MISS Johnson 3PT Jump Shot,Missed Shot,Jump Shot,0,240
+49600017,241,PT09M13.00S,3,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,,0,,,0,v,Ewing REBOUND (Off:2 Def:5),Rebound,Unknown,0,241
+49600017,234,PT09M13.00S,3,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,Made,1,57.0,62.0,119,v,Ewing Tip Shot (8 PTS),Made Shot,Tip Shot,0,242
+49600017,235,PT08M49.00S,3,1610612766,CHH,779,Rice,G. Rice,196,160,25,Missed,1,,,0,h,MISS Rice 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,243
+49600017,237,PT08M45.00S,3,1610612752,NYK,164,Childs,C. Childs,0,0,0,,0,,,0,v,Childs REBOUND (Off:0 Def:5),Rebound,Unknown,0,244
+49600017,238,PT08M35.00S,3,1610612752,NYK,275,Houston,A. Houston,0,0,0,,0,,,0,v,Houston Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,245
+49600017,239,PT08M29.00S,3,1610612766,CHH,177,Bogues,M. Bogues,0,0,0,Missed,1,,,0,h,MISS Bogues Layup,Missed Shot,Layup Shot,0,246
+49600017,240,PT08M27.00S,3,1610612752,NYK,891,Oakley,C. Oakley,0,0,0,,0,,,0,v,Oakley REBOUND (Off:1 Def:4),Rebound,Unknown,0,247
+49600017,242,PT08M21.00S,3,1610612752,NYK,164,Childs,C. Childs,170,171,24,Made,1,57.0,65.0,122,v,Childs 24' 3PT Jump Shot (6 PTS),Made Shot,Jump Shot,0,248
+49600017,243,PT08M02.00S,3,1610612766,CHH,124,Divac,V. Divac,0,0,0,Made,1,59.0,65.0,124,h,Divac Driving Dunk (5 PTS) (Curry 3 AST),Made Shot,Driving Dunk Shot,0,249
+49600017,244,PT07M36.00S,3,1610612752,NYK,275,Houston,A. Houston,0,0,0,,0,,,0,v,Houston Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,250
+49600017,244,PT07M36.00S,3,1610612766,CHH,209,Curry,D. Curry,0,0,0,,0,,,0,h,Curry STEAL (3 STL),,,0,251
+49600017,245,PT07M22.00S,3,1610612766,CHH,209,Curry,D. Curry,194,-31,20,Missed,1,,,0,h,MISS Curry 20' Jump Shot,Missed Shot,Jump Shot,0,252
+49600017,246,PT07M20.00S,3,1610612752,NYK,913,Johnson,L. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,0,253
+49600017,247,PT07M13.00S,3,1610612752,NYK,275,Houston,A. Houston,-222,75,0,Missed,1,,,0,v,MISS Houston 3PT Jump Shot,Missed Shot,Jump Shot,0,254
+49600017,248,PT07M10.00S,3,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,h,Mason REBOUND (Off:2 Def:7),Rebound,Unknown,0,255
+49600017,249,PT07M04.00S,3,1610612752,NYK,891,Oakley,C. Oakley,0,0,0,,0,,,0,v,Oakley P.FOUL (P3.T1),Foul,Personal,0,256
+49600017,250,PT07M04.00S,3,1610612766,CHH,177,Bogues,M. Bogues,0,0,0,,0,,,0,h,SUB: Delk FOR Bogues,Substitution,,0,257
+49600017,251,PT07M04.00S,3,1610612766,CHH,209,Curry,D. Curry,0,0,0,,0,,,0,h,SUB: Pierce FOR Curry,Substitution,,0,258
+49600017,252,PT06M52.00S,3,1610612766,CHH,193,Mason,A. Mason,-88,65,11,Made,1,61.0,65.0,126,h,Mason 11' Jump Shot (6 PTS) (Rice 4 AST),Made Shot,Jump Shot,0,259
+49600017,253,PT06M33.00S,3,1610612752,NYK,164,Childs,C. Childs,0,0,0,Missed,1,,,0,v,MISS Childs Layup,Missed Shot,Layup Shot,0,260
+49600017,255,PT06M30.00S,3,1610612752,NYK,164,Childs,C. Childs,0,0,0,,0,,,0,v,Childs REBOUND (Off:1 Def:5),Rebound,Unknown,0,261
+49600017,254,PT06M30.00S,3,1610612752,NYK,164,Childs,C. Childs,0,0,0,Made,1,61.0,67.0,128,v,Childs Tip Shot (8 PTS),Made Shot,Tip Shot,0,262
+49600017,256,PT06M13.00S,3,1610612766,CHH,193,Mason,A. Mason,0,0,0,Made,1,63.0,67.0,130,h,Mason Driving Layup (8 PTS) (Rice 5 AST),Made Shot,Driving Layup Shot,0,263
+49600017,257,PT05M57.00S,3,1610612752,NYK,275,Houston,A. Houston,97,168,19,Made,1,63.0,69.0,132,v,Houston 19' Jump Shot (20 PTS) (Childs 2 AST),Made Shot,Jump Shot,0,264
+49600017,258,PT05M38.00S,3,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,,,0,h,Rice Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,265
+49600017,258,PT05M38.00S,3,1610612752,NYK,164,Childs,C. Childs,0,0,0,,0,,,0,v,Childs STEAL (2 STL),,,0,266
+49600017,259,PT05M30.00S,3,1610612752,NYK,121,Ewing,P. Ewing,32,112,12,Missed,1,,,0,v,MISS Ewing 12' Jump Shot,Missed Shot,Jump Shot,0,267
+49600017,260,PT05M27.00S,3,1610612766,CHH,894,Pierce,R. Pierce,0,0,0,,0,,,0,h,Pierce REBOUND (Off:0 Def:1),Rebound,Unknown,0,268
+49600017,261,PT05M08.00S,3,1610612766,CHH,193,Mason,A. Mason,0,0,0,Made,1,65.0,69.0,134,h,Mason Layup (10 PTS),Made Shot,Layup Shot,0,269
+49600017,262,PT04M44.00S,3,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,Made,1,65.0,71.0,136,v,Ewing Layup (10 PTS) (Childs 3 AST),Made Shot,Layup Shot,0,270
+49600017,263,PT04M23.00S,3,1610612752,NYK,275,Houston,A. Houston,0,0,0,,0,,,0,v,Houston S.FOUL (P2.T2),Foul,Shooting,0,271
+49600017,264,PT04M23.00S,3,0,,1610612740,,,0,0,0,,0,,,0,h,HORNETS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,272
+49600017,265,PT04M23.00S,3,1610612752,NYK,275,Houston,A. Houston,0,0,0,,0,,,0,v,SUB: Starks FOR Houston,Substitution,,0,273
+49600017,266,PT04M23.00S,3,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,66.0,71.0,137,h,Divac Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,274
+49600017,267,PT04M23.00S,3,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,67.0,71.0,138,h,Divac Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,275
+49600017,268,PT04M09.00S,3,1610612752,NYK,121,Ewing,P. Ewing,77,43,9,Missed,1,,,0,v,MISS Ewing 9' Jump Shot,Missed Shot,Jump Shot,0,276
+49600017,269,PT04M05.00S,3,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,h,Mason REBOUND (Off:2 Def:8),Rebound,Unknown,0,277
+49600017,270,PT03M51.00S,3,1610612766,CHH,193,Mason,A. Mason,0,0,0,Made,1,69.0,71.0,140,h,Mason Layup (12 PTS) (Pierce 2 AST),Made Shot,Layup Shot,0,278
+49600017,271,PT03M37.00S,3,1610612752,NYK,164,Childs,C. Childs,0,0,0,,0,,,0,v,Childs Bad Pass Turnover (P5.T13),Turnover,Bad Pass,0,279
+49600017,271,PT03M37.00S,3,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,,,0,h,Divac STEAL (2 STL),,,0,280
+49600017,272,PT03M29.00S,3,1610612766,CHH,894,Pierce,R. Pierce,38,-12,4,Missed,1,,,0,h,MISS Pierce 4' Jump Shot,Missed Shot,Jump Shot,0,281
+49600017,274,PT03M27.00S,3,1610612766,CHH,894,Pierce,R. Pierce,0,0,0,,0,,,0,h,Pierce REBOUND (Off:1 Def:1),Rebound,Unknown,0,282
+49600017,273,PT03M27.00S,3,1610612766,CHH,894,Pierce,R. Pierce,0,0,0,Made,1,71.0,71.0,142,h,Pierce Tip Shot (2 PTS),Made Shot,Tip Shot,0,283
+49600017,275,PT03M23.00S,3,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Timeout: Regular (Reg.3 Short 2),Timeout,Regular,0,284
+49600017,276,PT03M23.00S,3,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,,,0,h,SUB: Rose FOR Divac,Substitution,,0,285
+49600017,277,PT03M10.00S,3,1610612752,NYK,891,Oakley,C. Oakley,0,0,0,Made,1,71.0,73.0,144,v,Oakley Layup (10 PTS) (Childs 4 AST),Made Shot,Layup Shot,0,286
+49600017,278,PT02M46.00S,3,1610612766,CHH,894,Pierce,R. Pierce,127,132,18,Missed,1,,,0,h,MISS Pierce 18' Jump Shot,Missed Shot,Jump Shot,0,287
+49600017,280,PT02M44.00S,3,1610612766,CHH,990,Rose,M. Rose,0,0,0,,0,,,0,h,Rose REBOUND (Off:2 Def:0),Rebound,Unknown,0,288
+49600017,279,PT02M44.00S,3,1610612766,CHH,990,Rose,M. Rose,0,0,0,Missed,1,,,0,h,MISS Rose Tip Shot,Missed Shot,Tip Shot,0,289
+49600017,281,PT02M44.00S,3,0,,1610612740,,,0,0,0,,0,,,0,h,HORNETS Rebound,Rebound,Unknown,0,290
+49600017,282,PT02M44.00S,3,1610612752,NYK,164,Childs,C. Childs,0,0,0,,0,,,0,v,SUB: Ward FOR Childs,Substitution,,0,291
+49600017,283,PT02M35.00S,3,1610612766,CHH,193,Mason,A. Mason,0,0,0,Missed,1,,,0,h,MISS Mason Layup,Missed Shot,Layup Shot,0,292
+49600017,284,PT02M33.00S,3,1610612766,CHH,990,Rose,M. Rose,0,0,0,,0,,,0,h,Rose REBOUND (Off:3 Def:0),Rebound,Unknown,0,293
+49600017,285,PT02M31.00S,3,1610612766,CHH,990,Rose,M. Rose,0,0,0,Missed,1,,,0,h,MISS Rose Layup,Missed Shot,Layup Shot,0,294
+49600017,286,PT02M29.00S,3,1610612752,NYK,913,Johnson,L. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,0,295
+49600017,287,PT02M22.00S,3,1610612752,NYK,369,Ward,C. Ward,0,0,0,Missed,1,,,0,v,MISS Ward Layup,Missed Shot,Layup Shot,0,296
+49600017,289,PT02M20.00S,3,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,,0,,,0,v,Ewing REBOUND (Off:3 Def:5),Rebound,Unknown,0,297
+49600017,288,PT02M20.00S,3,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,Made,1,71.0,75.0,146,v,Ewing Tip Shot (12 PTS),Made Shot,Tip Shot,0,298
+49600017,292,PT02M04.00S,3,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,,0,,,0,v,Ewing L.B.FOUL (P2.T3),Foul,Loose Ball,0,299
+49600017,293,PT02M00.00S,3,1610612766,CHH,960,Delk,T. Delk,0,0,0,,0,,,0,h,SUB: Bogues FOR Delk,Substitution,,0,300
+49600017,294,PT01M58.00S,3,1610612766,CHH,177,Bogues,M. Bogues,0,0,0,,0,,,0,h,Bogues Bad Pass Turnover (P4.T8),Turnover,Bad Pass,0,301
+49600017,294,PT01M58.00S,3,1610612752,NYK,891,Oakley,C. Oakley,0,0,0,,0,,,0,v,Oakley STEAL (1 STL),,,0,302
+49600017,295,PT01M54.00S,3,1610612766,CHH,894,Pierce,R. Pierce,0,0,0,,0,,,0,h,Pierce S.FOUL (P1.T2),Foul,Shooting,0,303
+49600017,296,PT01M54.00S,3,1610612752,NYK,317,Starks,J. Starks,0,0,0,,0,71.0,76.0,147,v,Starks Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,304
+49600017,297,PT01M54.00S,3,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,,0,,,0,v,SUB: B. Williams FOR Ewing,Substitution,,0,305
+49600017,298,PT01M54.00S,3,1610612752,NYK,317,Starks,J. Starks,0,0,0,,0,71.0,77.0,148,v,Starks Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,306
+49600017,299,PT01M39.00S,3,1610612766,CHH,990,Rose,M. Rose,0,0,0,,0,,,0,h,Rose OFF.Foul (P1),Foul,Offensive,0,307
+49600017,300,PT01M39.00S,3,1610612766,CHH,990,Rose,M. Rose,0,0,0,,0,,,0,h,Rose Foul Turnover (P1.T9),Turnover,Foul,0,308
+49600017,301,PT01M36.00S,3,1610612752,NYK,913,Johnson,L. Johnson,0,0,0,,0,,,0,v,SUB: Houston FOR Johnson,Substitution,,0,309
+49600017,302,PT01M26.00S,3,1610612752,NYK,369,Ward,C. Ward,88,171,19,Missed,1,,,0,v,MISS Ward 19' Jump Shot,Missed Shot,Jump Shot,0,310
+49600017,303,PT01M23.00S,3,1610612766,CHH,894,Pierce,R. Pierce,0,0,0,,0,,,0,h,Pierce REBOUND (Off:1 Def:2),Rebound,Unknown,0,311
+49600017,304,PT01M12.00S,3,1610612766,CHH,193,Mason,A. Mason,0,0,0,Made,1,73.0,77.0,150,h,Mason Dunk (14 PTS) (Rice 6 AST),Made Shot,Dunk Shot,0,312
+49600017,305,PT00M54.00S,3,1610612752,NYK,891,Oakley,C. Oakley,-142,-18,14,Missed,1,,,0,v,MISS Oakley 14' Jump Shot,Missed Shot,Jump Shot,0,313
+49600017,306,PT00M51.40S,3,1610612766,CHH,894,Pierce,R. Pierce,0,0,0,,0,,,0,h,Pierce REBOUND (Off:1 Def:3),Rebound,Unknown,0,314
+49600017,307,PT00M37.00S,3,1610612766,CHH,193,Mason,A. Mason,-51,127,14,Missed,1,,,0,h,MISS Mason 14' Jump Shot,Missed Shot,Jump Shot,0,315
+49600017,308,PT00M30.30S,3,1610612752,NYK,891,Oakley,C. Oakley,0,0,0,,0,,,0,v,Oakley REBOUND (Off:1 Def:5),Rebound,Unknown,0,316
+49600017,309,PT00M30.30S,3,1610612766,CHH,990,Rose,M. Rose,0,0,0,,0,,,0,h,SUB: Divac FOR Rose,Substitution,,0,317
+49600017,310,PT00M28.10S,3,1610612752,NYK,317,Starks,J. Starks,120,-31,12,Made,1,73.0,79.0,152,v,Starks 12' Jump Shot (8 PTS) (B. Williams 1 AST),Made Shot,Jump Shot,0,318
+49600017,311,PT00M04.10S,3,0,,1610612740,,,0,0,0,,0,,,0,h,HORNETS Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,0,319
+49600017,312,PT00M01.30S,3,1610612752,NYK,317,Starks,J. Starks,0,0,0,,0,,,0,v,Starks Lost Ball Turnover (P1.T14),Turnover,Lost Ball,0,320
+49600017,313,PT00M00.30S,3,1610612766,CHH,193,Mason,A. Mason,0,0,0,Missed,1,,,0,h,MISS Mason Layup,Missed Shot,Layup Shot,0,321
+49600017,313,PT00M00.30S,3,1610612752,NYK,433,Williams,B. Williams,0,0,0,,0,,,0,v,B. Williams BLOCK (1 BLK),,,0,322
+49600017,314,PT00M00.10S,3,1610612752,NYK,369,Ward,C. Ward,0,0,0,,0,,,0,v,Ward REBOUND (Off:1 Def:2),Rebound,Unknown,0,323
+49600017,315,PT00M00.00S,3,0,,0,,,0,0,0,,0,73.0,79.0,152,,End of 3rd Period (12:42 AM EST),period,end,0,324
+49600017,316,PT12M00.00S,4,0,,0,,,0,0,0,,0,73.0,79.0,152,,Start of 4th Period (12:44 AM EST),period,start,0,325
+49600017,317,PT11M46.00S,4,1610612766,CHH,779,Rice,G. Rice,-140,-18,14,Made,1,75.0,79.0,154,h,Rice 14' Jump Shot (22 PTS) (Bogues 3 AST),Made Shot,Jump Shot,0,326
+49600017,318,PT11M33.00S,4,1610612752,NYK,317,Starks,J. Starks,0,0,0,,0,,,0,v,Starks Lost Ball Turnover (P2.T15),Turnover,Lost Ball,0,327
+49600017,319,PT11M19.00S,4,1610612766,CHH,779,Rice,G. Rice,-170,36,17,Missed,1,,,0,h,MISS Rice 17' Jump Shot,Missed Shot,Jump Shot,0,328
+49600017,320,PT11M16.00S,4,1610612752,NYK,433,Williams,B. Williams,0,0,0,,0,,,0,v,B. Williams REBOUND (Off:1 Def:2),Rebound,Unknown,0,329
+49600017,321,PT11M06.00S,4,1610612752,NYK,275,Houston,A. Houston,0,0,0,,0,,,0,v,Houston Lost Ball Turnover (P4.T16),Turnover,Lost Ball,0,330
+49600017,321,PT11M06.00S,4,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,,,0,h,Rice STEAL (2 STL),,,0,331
+49600017,322,PT10M55.00S,4,1610612766,CHH,894,Pierce,R. Pierce,0,0,0,Made,1,77.0,79.0,156,h,Pierce Layup (4 PTS) (Divac 3 AST),Made Shot,Layup Shot,0,332
+49600017,323,PT10M46.00S,4,1610612752,NYK,317,Starks,J. Starks,0,0,0,,0,,,0,v,Starks Lost Ball Turnover (P3.T17),Turnover,Lost Ball,0,333
+49600017,323,PT10M46.00S,4,1610612766,CHH,894,Pierce,R. Pierce,0,0,0,,0,,,0,h,Pierce STEAL (1 STL),,,0,334
+49600017,324,PT10M22.00S,4,1610612752,NYK,891,Oakley,C. Oakley,0,0,0,,0,,,0,v,Oakley S.FOUL (P4.T1),Foul,Shooting,0,335
+49600017,325,PT10M22.00S,4,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,78.0,79.0,157,h,Divac Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,336
+49600017,326,PT10M22.00S,4,1610612752,NYK,891,Oakley,C. Oakley,0,0,0,,0,,,0,v,SUB: Ewing FOR Oakley,Substitution,,0,337
+49600017,327,PT10M22.00S,4,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,79.0,79.0,158,h,Divac Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,338
+49600017,328,PT10M11.00S,4,1610612752,NYK,433,Williams,B. Williams,0,0,0,Made,1,79.0,81.0,160,v,B. Williams Layup (6 PTS) (Ward 3 AST),Made Shot,Layup Shot,0,339
+49600017,329,PT09M53.00S,4,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,,,0,h,Divac Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,340
+49600017,329,PT09M53.00S,4,1610612752,NYK,275,Houston,A. Houston,0,0,0,,0,,,0,v,Houston STEAL (1 STL),,,0,341
+49600017,330,PT09M49.00S,4,1610612752,NYK,275,Houston,A. Houston,0,0,0,Missed,1,,,0,v,MISS Houston Layup,Missed Shot,Layup Shot,0,342
+49600017,330,PT09M49.00S,4,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,,,0,h,Divac BLOCK (2 BLK),,,0,343
+49600017,331,PT09M46.00S,4,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,,,0,h,Rice REBOUND (Off:1 Def:2),Rebound,Unknown,0,344
+49600017,332,PT09M45.00S,4,1610612766,CHH,894,Pierce,R. Pierce,0,0,0,Made,1,81.0,81.0,162,h,Pierce Layup (6 PTS) (Mason 1 AST),Made Shot,Layup Shot,0,345
+49600017,333,PT09M22.00S,4,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,,,0,h,Divac S.FOUL (P4.T1),Foul,Shooting,0,346
+49600017,334,PT09M22.00S,4,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,347
+49600017,335,PT09M22.00S,4,1610612752,NYK,275,Houston,A. Houston,0,0,0,,0,,,0,v,SUB: Johnson FOR Houston,Substitution,,0,348
+49600017,336,PT09M22.00S,4,1610612752,NYK,433,Williams,B. Williams,0,0,0,,0,81.0,82.0,163,v,B. Williams Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,349
+49600017,337,PT09M22.00S,4,1610612752,NYK,433,Williams,B. Williams,0,0,0,,0,81.0,83.0,164,v,B. Williams Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,350
+49600017,338,PT08M58.00S,4,1610612766,CHH,124,Divac,V. Divac,-3,47,5,Missed,1,,,0,h,MISS Divac 5' Jump Shot,Missed Shot,Jump Shot,0,351
+49600017,338,PT08M58.00S,4,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,,0,,,0,v,Ewing BLOCK (3 BLK),,,0,352
+49600017,339,PT08M58.00S,4,0,,1610612740,,,0,0,0,,0,,,0,h,HORNETS Rebound,Rebound,Unknown,0,353
+49600017,340,PT08M58.00S,4,0,,1610612740,,,0,0,0,,0,,,0,h,HORNETS Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,0,354
+49600017,341,PT08M44.00S,4,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,,0,,,0,v,Ewing Lost Ball Turnover (P3.T18),Turnover,Lost Ball,0,355
+49600017,341,PT08M44.00S,4,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,h,Mason STEAL (1 STL),,,0,356
+49600017,342,PT08M30.00S,4,1610612766,CHH,779,Rice,G. Rice,-216,106,24,Missed,1,,,0,h,MISS Rice 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,357
+49600017,343,PT08M27.00S,4,1610612752,NYK,433,Williams,B. Williams,0,0,0,,0,,,0,v,B. Williams REBOUND (Off:1 Def:3),Rebound,Unknown,0,358
+49600017,344,PT08M17.00S,4,1610612752,NYK,433,Williams,B. Williams,0,0,0,Made,1,81.0,85.0,166,v,B. Williams Layup (10 PTS) (Johnson 4 AST),Made Shot,Layup Shot,0,359
+49600017,345,PT08M15.00S,4,0,,1610612740,,,0,0,0,,0,,,0,h,HORNETS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,360
+49600017,346,PT08M02.00S,4,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Violation: Def. Goaltending Violation,Violation,Defensive Goaltending,0,361
+49600017,347,PT07M43.00S,4,1610612766,CHH,193,Mason,A. Mason,0,0,0,Missed,1,,,0,h,MISS Mason Layup,Missed Shot,Layup Shot,0,362
+49600017,348,PT07M40.00S,4,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,,,0,h,Divac REBOUND (Off:2 Def:2),Rebound,Unknown,0,363
+49600017,349,PT07M38.00S,4,1610612766,CHH,124,Divac,V. Divac,0,0,0,Missed,1,,,0,h,MISS Divac Layup,Missed Shot,Layup Shot,0,364
+49600017,349,PT07M38.00S,4,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,,0,,,0,v,Ewing BLOCK (4 BLK),,,0,365
+49600017,350,PT07M37.00S,4,1610612752,NYK,913,Johnson,L. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:3),Rebound,Unknown,0,366
+49600017,351,PT07M24.00S,4,1610612752,NYK,317,Starks,J. Starks,131,181,0,Made,1,81.0,88.0,169,v,Starks 3PT Jump Shot (11 PTS) (Ward 4 AST),Made Shot,Jump Shot,0,367
+49600017,352,PT06M58.00S,4,1610612766,CHH,894,Pierce,R. Pierce,-237,6,24,Missed,1,,,0,h,MISS Pierce 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,368
+49600017,353,PT06M56.00S,4,1610612752,NYK,433,Williams,B. Williams,0,0,0,,0,,,0,v,B. Williams REBOUND (Off:1 Def:4),Rebound,Unknown,0,369
+49600017,354,PT06M53.00S,4,1610612752,NYK,317,Starks,J. Starks,0,0,0,Made,1,81.0,90.0,171,v,Starks Layup (13 PTS) (B. Williams 2 AST),Made Shot,Layup Shot,0,370
+49600017,355,PT06M33.00S,4,1610612766,CHH,177,Bogues,M. Bogues,-8,240,24,Made,1,84.0,90.0,174,h,Bogues 24' 3PT Jump Shot (19 PTS) (Divac 4 AST),Made Shot,Jump Shot,0,371
+49600017,356,PT06M09.00S,4,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,,,0,h,Rice P.FOUL (P3.T2),Foul,Personal,0,372
+49600017,357,PT06M02.00S,4,1610612766,CHH,894,Pierce,R. Pierce,0,0,0,,0,,,0,h,Pierce P.FOUL (P2.T3),Foul,Personal,0,373
+49600017,358,PT05M50.00S,4,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,h,Mason S.FOUL (P3.T4),Foul,Shooting,0,374
+49600017,359,PT05M50.00S,4,1610612752,NYK,913,Johnson,L. Johnson,0,0,0,,0,84.0,91.0,175,v,Johnson Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,375
+49600017,360,PT05M50.00S,4,1610612752,NYK,913,Johnson,L. Johnson,0,0,0,,0,84.0,92.0,176,v,Johnson Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,376
+49600017,361,PT05M30.00S,4,1610612766,CHH,894,Pierce,R. Pierce,240,-12,24,Made,1,87.0,92.0,179,h,Pierce 24' 3PT Jump Shot (9 PTS) (Rice 7 AST),Made Shot,Jump Shot,0,377
+49600017,362,PT05M14.00S,4,1610612752,NYK,317,Starks,J. Starks,118,153,19,Missed,1,,,0,v,MISS Starks 19' Jump Shot,Missed Shot,Jump Shot,0,378
+49600017,363,PT05M12.00S,4,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,,,0,h,Divac REBOUND (Off:2 Def:3),Rebound,Unknown,0,379
+49600017,365,PT04M55.00S,4,1610612766,CHH,177,Bogues,M. Bogues,-57,166,18,Missed,1,,,0,h,MISS Bogues 18' Jump Shot,Missed Shot,Jump Shot,0,380
+49600017,366,PT04M54.00S,4,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,,0,,,0,v,Ewing REBOUND (Off:3 Def:6),Rebound,Unknown,0,381
+49600017,367,PT04M53.00S,4,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Timeout: Regular (Reg.4 Short 2),Timeout,Regular,0,382
+49600017,368,PT04M53.00S,4,1610612752,NYK,369,Ward,C. Ward,0,0,0,,0,,,0,v,SUB: Childs FOR Ward,Substitution,,0,383
+49600017,369,PT04M44.00S,4,1610612752,NYK,433,Williams,B. Williams,0,0,0,Missed,1,,,0,v,MISS B. Williams Layup,Missed Shot,Layup Shot,0,384
+49600017,369,PT04M44.00S,4,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,,,0,h,Divac BLOCK (3 BLK),,,0,385
+49600017,370,PT04M41.00S,4,1610612766,CHH,894,Pierce,R. Pierce,0,0,0,,0,,,0,h,Pierce REBOUND (Off:1 Def:4),Rebound,Unknown,0,386
+49600017,371,PT04M17.00S,4,1610612766,CHH,894,Pierce,R. Pierce,-25,140,14,Missed,1,,,0,h,MISS Pierce 14' Jump Shot,Missed Shot,Jump Shot,0,387
+49600017,372,PT04M15.00S,4,1610612752,NYK,164,Childs,C. Childs,0,0,0,,0,,,0,v,Childs REBOUND (Off:1 Def:6),Rebound,Unknown,0,388
+49600017,373,PT04M14.00S,4,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,,,0,h,Rice P.FOUL (P4.PN),Foul,Personal,0,389
+49600017,374,PT04M14.00S,4,1610612752,NYK,317,Starks,J. Starks,0,0,0,,0,,,0,v,MISS Starks Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,390
+49600017,375,PT04M14.00S,4,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Rebound,Rebound,Unknown,0,391
+49600017,376,PT04M14.00S,4,1610612752,NYK,317,Starks,J. Starks,0,0,0,,0,87.0,93.0,180,v,Starks Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,392
+49600017,377,PT03M50.00S,4,1610612766,CHH,894,Pierce,R. Pierce,-198,-38,20,Made,1,89.0,93.0,182,h,Pierce 20' Jump Shot (11 PTS) (Rice 8 AST),Made Shot,Jump Shot,0,393
+49600017,378,PT03M27.00S,4,1610612752,NYK,121,Ewing,P. Ewing,40,80,9,Missed,1,,,0,v,MISS Ewing 9' Jump Shot,Missed Shot,Jump Shot,0,394
+49600017,379,PT03M25.00S,4,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,,,0,h,Rice REBOUND (Off:1 Def:3),Rebound,Unknown,0,395
+49600017,380,PT03M08.00S,4,1610612766,CHH,779,Rice,G. Rice,-105,112,15,Missed,1,,,0,h,MISS Rice 15' Jump Shot,Missed Shot,Jump Shot,0,396
+49600017,381,PT03M06.00S,4,1610612752,NYK,433,Williams,B. Williams,0,0,0,,0,,,0,v,B. Williams REBOUND (Off:1 Def:5),Rebound,Unknown,0,397
+49600017,382,PT02M44.00S,4,1610612752,NYK,121,Ewing,P. Ewing,71,151,17,Made,1,89.0,95.0,184,v,Ewing 17' Jump Shot (14 PTS) (Johnson 5 AST),Made Shot,Jump Shot,0,398
+49600017,383,PT02M37.00S,4,1610612752,NYK,433,Williams,B. Williams,0,0,0,,0,,,0,v,SUB: Oakley FOR B. Williams,Substitution,,0,399
+49600017,384,PT02M37.00S,4,0,,1610612740,,,0,0,0,,0,,,0,h,HORNETS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,400
+49600017,385,PT02M25.00S,4,1610612766,CHH,124,Divac,V. Divac,0,0,0,Made,1,91.0,95.0,186,h,Divac Hook Shot (11 PTS),Made Shot,Hook Shot,0,401
+49600017,386,PT02M08.00S,4,1610612752,NYK,121,Ewing,P. Ewing,110,132,17,Made,1,91.0,97.0,188,v,Ewing 17' Jump Shot (16 PTS) (Childs 5 AST),Made Shot,Jump Shot,0,402
+49600017,387,PT01M44.00S,4,1610612766,CHH,177,Bogues,M. Bogues,114,47,12,Missed,1,,,0,h,MISS Bogues 12' Jump Shot,Missed Shot,Jump Shot,0,403
+49600017,388,PT01M41.00S,4,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,,0,,,0,v,Ewing REBOUND (Off:3 Def:7),Rebound,Unknown,0,404
+49600017,389,PT01M25.00S,4,1610612752,NYK,164,Childs,C. Childs,0,0,0,,0,,,0,v,Childs Bad Pass Turnover (P6.T19),Turnover,Bad Pass,0,405
+49600017,389,PT01M25.00S,4,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,,,0,h,Rice STEAL (3 STL),,,0,406
+49600017,390,PT01M15.00S,4,0,,1610612740,,,0,0,0,,0,,,0,h,HORNETS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,407
+49600017,391,PT01M12.00S,4,1610612766,CHH,124,Divac,V. Divac,0,0,0,Made,1,93.0,97.0,190,h,Divac Dunk (13 PTS) (Rice 9 AST),Made Shot,Dunk Shot,0,408
+49600017,392,PT01M09.00S,4,1610612752,NYK,164,Childs,C. Childs,0,0,0,,0,,,0,v,Childs OFF.Foul (P1),Foul,Offensive,0,409
+49600017,393,PT01M09.00S,4,1610612752,NYK,164,Childs,C. Childs,0,0,0,,0,,,0,v,Childs Foul Turnover (P7.T20),Turnover,Foul,0,410
+49600017,394,PT01M05.00S,4,1610612766,CHH,894,Pierce,R. Pierce,-131,-22,13,Missed,1,,,0,h,MISS Pierce 13' Jump Shot,Missed Shot,Jump Shot,0,411
+49600017,395,PT01M02.00S,4,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,h,Mason REBOUND (Off:3 Def:8),Rebound,Unknown,0,412
+49600017,396,PT00M59.00S,4,1610612766,CHH,193,Mason,A. Mason,0,0,0,Missed,1,,,0,h,MISS Mason Layup,Missed Shot,Layup Shot,0,413
+49600017,396,PT00M59.00S,4,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,,0,,,0,v,Ewing BLOCK (5 BLK),,,0,414
+49600017,397,PT00M59.00S,4,1610612752,NYK,164,Childs,C. Childs,0,0,0,,0,,,0,v,Childs REBOUND (Off:1 Def:7),Rebound,Unknown,0,415
+49600017,398,PT00M58.10S,4,0,,1610612752,,,0,0,0,,0,,,0,v,Knicks Timeout: Regular (Reg.5 Short 2),Timeout,Regular,0,416
+49600017,399,PT00M44.70S,4,1610612752,NYK,913,Johnson,L. Johnson,151,175,0,Made,1,93.0,100.0,193,v,Johnson 3PT Jump Shot (22 PTS) (Oakley 2 AST),Made Shot,Jump Shot,0,417
+49600017,400,PT00M44.70S,4,0,,1610612740,,,0,0,0,,0,,,0,h,HORNETS Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,418
+49600017,401,PT00M44.70S,4,1610612766,CHH,177,Bogues,M. Bogues,0,0,0,,0,,,0,h,SUB: Curry FOR Bogues,Substitution,,0,419
+49600017,402,PT00M44.70S,4,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,,,0,h,SUB: Delk FOR Divac,Substitution,,0,420
+49600017,403,PT00M44.70S,4,1610612752,NYK,891,Oakley,C. Oakley,0,0,0,,0,,,0,v,SUB: Houston FOR Oakley,Substitution,,0,421
+49600017,404,PT00M41.00S,4,1610612766,CHH,779,Rice,G. Rice,-229,73,24,Missed,1,,,0,h,MISS Rice 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,422
+49600017,405,PT00M37.00S,4,1610612752,NYK,121,Ewing,P. Ewing,0,0,0,,0,,,0,v,Ewing REBOUND (Off:3 Def:8),Rebound,Unknown,0,423
+49600017,406,PT00M31.50S,4,1610612766,CHH,894,Pierce,R. Pierce,0,0,0,,0,,,0,h,Pierce P.FOUL (P3.PN),Foul,Personal,0,424
+49600017,407,PT00M31.50S,4,1610612752,NYK,164,Childs,C. Childs,0,0,0,,0,93.0,101.0,194,v,Childs Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,425
+49600017,408,PT00M31.50S,4,1610612752,NYK,164,Childs,C. Childs,0,0,0,,0,93.0,102.0,195,v,Childs Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,426
+49600017,409,PT00M27.00S,4,1610612752,NYK,164,Childs,C. Childs,0,0,0,,0,,,0,v,Childs P.FOUL (P2.T2),Foul,Personal,0,427
+49600017,410,PT00M23.00S,4,1610612766,CHH,209,Curry,D. Curry,23,197,20,Made,1,95.0,102.0,197,h,Curry 20' Jump Shot (9 PTS) (Mason 2 AST),Made Shot,Jump Shot,0,428
+49600017,411,PT00M17.70S,4,1610612766,CHH,960,Delk,T. Delk,0,0,0,,0,,,0,h,Delk P.FOUL (P4.PN),Foul,Personal,0,429
+49600017,412,PT00M17.70S,4,1610612752,NYK,317,Starks,J. Starks,0,0,0,,0,95.0,103.0,198,v,Starks Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,430
+49600017,413,PT00M17.70S,4,1610612752,NYK,317,Starks,J. Starks,0,0,0,,0,95.0,104.0,199,v,Starks Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,431
+49600017,414,PT00M13.00S,4,1610612766,CHH,960,Delk,T. Delk,60,65,9,Missed,1,,,0,h,MISS Delk 9' Jump Shot,Missed Shot,Jump Shot,0,432
+49600017,415,PT00M09.00S,4,1610612752,NYK,275,Houston,A. Houston,0,0,0,,0,,,0,v,Houston REBOUND (Off:0 Def:3),Rebound,Unknown,0,433
+49600017,416,PT00M00.00S,4,0,,0,,,0,0,0,,0,95.0,104.0,199,,End of 4th Period (1:21 AM EST),period,end,0,434

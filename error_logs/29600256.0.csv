@@ -1,0 +1,44 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId,clock_sec
+29600256,238,PT00M00.00S,2,0,,0,,,0,0,0,,0,49.0,55.0,104,,End of 2nd Period (12:02 PM EST),period,end,0,246,1440.0
+29600256,241,PT12M00.00S,3,0,,0,,,0,0,0,,0,49.0,55.0,104,,Start of 3rd Period (12:17 PM EST),period,start,0,247,1440.0
+29600256,242,PT11M39.00S,3,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,v,Mason Lost Ball Turnover (P3.T9),Turnover,Lost Ball,0,248,1461.0
+29600256,242,PT11M39.00S,3,1610612757,POR,717,Sabonis,A. Sabonis,0,0,0,,0,0.0,0.0,0,h,Sabonis STEAL (1 STL),,,0,249,1461.0
+29600256,243,PT11M31.00S,3,1610612757,POR,72,Anderson,K. Anderson,-8,17,2,Missed,1,0.0,0.0,0,h,MISS Anderson 2' Jump Shot,Missed Shot,Jump Shot,0,250,1469.0
+29600256,244,PT11M30.00S,3,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,v,Mason REBOUND (Off:3 Def:5),Rebound,Unknown,0,251,1470.0
+29600256,245,PT11M22.00S,3,1610612766,CHH,124,Divac,V. Divac,-174,88,19,Missed,1,0.0,0.0,0,v,MISS Divac 19' Jump Shot,Missed Shot,Jump Shot,0,252,1478.0
+29600256,246,PT11M21.00S,3,1610612757,POR,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson REBOUND (Off:1 Def:1),Rebound,Unknown,0,253,1479.0
+29600256,247,PT11M08.00S,3,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,0.0,0.0,0,v,Divac S.FOUL (P1.T1),Foul,Shooting,0,254,1492.0
+29600256,248,PT11M08.00S,3,1610612757,POR,717,Sabonis,A. Sabonis,0,0,0,,0,50.0,55.0,105,h,Sabonis Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,255,1492.0
+29600256,249,PT11M08.00S,3,1610612757,POR,717,Sabonis,A. Sabonis,0,0,0,,0,51.0,55.0,106,h,Sabonis Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,256,1492.0
+29600256,250,PT10M49.00S,3,1610612766,CHH,193,Mason,A. Mason,77,103,13,Missed,1,0.0,0.0,0,v,MISS Mason 13' Jump Shot,Missed Shot,Jump Shot,0,257,1511.0
+29600256,251,PT10M48.00S,3,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,0.0,0.0,0,h,Wallace REBOUND (Off:1 Def:1),Rebound,Unknown,0,258,1512.0
+29600256,252,PT10M39.00S,3,1610612757,POR,375,Rider,I. Rider,142,173,0,Missed,1,0.0,0.0,0,h,MISS Rider  3PT Jump Shot,Missed Shot,Jump Shot,0,259,1521.0
+29600256,253,PT10M38.00S,3,1610612766,CHH,177,Bogues,M. Bogues,0,0,0,,0,0.0,0.0,0,v,Bogues REBOUND (Off:0 Def:1),Rebound,Unknown,0,260,1522.0
+29600256,254,PT10M34.00S,3,1610612766,CHH,209,Curry,D. Curry,0,0,0,Made,1,51.0,57.0,108,v,Curry  Layup (6 PTS) (Bogues 2 AST),Made Shot,Layup Shot,0,261,1526.0
+29600256,255,PT10M16.00S,3,1610612757,POR,739,Wallace,R. Wallace,0,0,0,Missed,1,0.0,0.0,0,h,MISS Wallace  Slam Dunk,Missed Shot,Slam Dunk Shot,0,262,1544.0
+29600256,256,PT10M15.00S,3,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,v,Mason REBOUND (Off:3 Def:6),Rebound,Unknown,0,263,1545.0
+29600256,257,PT10M08.00S,3,1610612766,CHH,124,Divac,V. Divac,0,0,0,Made,1,51.0,59.0,110,v,Divac  Driving Layup (21 PTS) (Bogues 3 AST),Made Shot,Driving Layup Shot,0,264,1552.0
+29600256,258,PT09M50.00S,3,1610612757,POR,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,265,1570.0
+29600256,258,PT09M50.00S,3,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,0.0,0.0,0,v,Divac STEAL (2 STL),,,0,266,1570.0
+29600256,259,PT09M35.00S,3,1610612766,CHH,124,Divac,V. Divac,0,0,0,Missed,1,0.0,0.0,0,v,MISS Divac  Layup,Missed Shot,Layup Shot,0,267,1585.0
+29600256,260,PT09M34.00S,3,1610612766,CHH,124,Divac,V. Divac,0,0,0,,0,0.0,0.0,0,v,Divac REBOUND (Off:1 Def:2),Rebound,Unknown,0,268,1586.0
+29600256,261,PT09M32.00S,3,1610612766,CHH,124,Divac,V. Divac,-1,39,4,Missed,1,0.0,0.0,0,v,MISS Divac 4' Jump Shot,Missed Shot,Jump Shot,0,269,1588.0
+29600256,262,PT09M31.00S,3,1610612757,POR,72,Anderson,K. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson REBOUND (Off:1 Def:2),Rebound,Unknown,0,270,1589.0
+29600256,263,PT09M20.00S,3,1610612757,POR,72,Anderson,K. Anderson,0,0,0,Made,1,53.0,59.0,112,h,Anderson  Driving Layup (9 PTS),Made Shot,Driving Layup Shot,0,271,1600.0
+29600256,264,PT09M08.00S,3,1610612766,CHH,177,Bogues,M. Bogues,0,0,0,Made,1,53.0,61.0,114,v,Bogues  Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,272,1612.0
+29600256,265,PT08M40.00S,3,1610612757,POR,717,Sabonis,A. Sabonis,19,15,2,Made,1,55.0,61.0,116,h,Sabonis 2' Hook Shot (11 PTS) (Rider 2 AST),Made Shot,Hook Shot,0,273,1640.0
+29600256,266,PT08M25.00S,3,1610612766,CHH,209,Curry,D. Curry,105,181,21,Made,1,55.0,63.0,118,v,Curry 21' Jump Shot (8 PTS) (Bogues 4 AST),Made Shot,Jump Shot,0,274,1655.0
+29600256,267,PT08M09.00S,3,1610612757,POR,717,Sabonis,A. Sabonis,25,220,0,Made,1,58.0,63.0,121,h,Sabonis  3PT Jump Shot (14 PTS) (Anderson 6 AST),Made Shot,Jump Shot,0,275,1671.0
+29600256,268,PT07M50.00S,3,1610612766,CHH,779,Rice,G. Rice,75,210,0,Made,1,58.0,66.0,124,v,Rice  3PT Jump Shot (10 PTS) (Bogues 5 AST),Made Shot,Jump Shot,0,276,1690.0
+29600256,269,PT07M37.00S,3,1610612757,POR,72,Anderson,K. Anderson,-116,197,0,Missed,1,0.0,0.0,0,h,MISS Anderson  3PT Jump Shot,Missed Shot,Jump Shot,0,277,1703.0
+29600256,270,PT07M36.00S,3,1610612766,CHH,779,Rice,G. Rice,0,0,0,,0,0.0,0.0,0,v,Rice REBOUND (Off:0 Def:1),Rebound,Unknown,0,278,1704.0
+29600256,271,PT07M28.00S,3,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,0.0,0.0,0,h,Wallace P.FOUL (P3.T1),Foul,Personal,0,279,1712.0
+29600256,272,PT07M15.00S,3,1610612766,CHH,779,Rice,G. Rice,129,114,17,Missed,1,0.0,0.0,0,v,MISS Rice 17' Jump Shot,Missed Shot,Jump Shot,0,280,1725.0
+29600256,273,PT07M14.00S,3,1610612757,POR,375,Rider,I. Rider,0,0,0,,0,0.0,0.0,0,h,Rider REBOUND (Off:0 Def:2),Rebound,Unknown,0,281,1726.0
+29600256,274,PT07M08.00S,3,1610612757,POR,375,Rider,I. Rider,0,0,0,Made,1,60.0,66.0,126,h,Rider  Driving Layup (13 PTS),Made Shot,Driving Layup Shot,0,282,1732.0
+29600256,275,PT06M49.00S,3,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,0.0,0.0,0,h,Wallace S.FOUL (P4.T2),Foul,Shooting,0,283,1751.0
+29600256,276,PT06M49.00S,3,0,,1610612757,,,0,0,0,,0,0.0,0.0,0,h,TRAIL BLAZERS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,284,1751.0
+29600256,277,PT06M49.00S,3,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,0.0,0.0,0,h,SUB: Trent FOR Wallace,Substitution,,0,285,1751.0
+29600256,278,PT06M49.00S,3,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,60.0,67.0,127,v,Mason Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,286,1751.0
+29600256,279,PT06M49.00S,3,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,v,MISS Mason Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,287,1751.0
+29600256,280,PT06M49.00S,3,1610612757,POR,718,Trent,G. Trent,0,0,0,,0,0.0,0.0,0,h,Trent REBOUND (Off:0 Def:4),Rebound,Unknown,0,288,1751.0

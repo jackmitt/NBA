@@ -1,0 +1,560 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+20000250,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (1:11 PM EST),period,start,0,1
+20000250,1,PT12M00.00S,1,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,h,Jump Ball McDyess vs. Ratliff: Tip to Posey,Jump Ball,,0,2
+20000250,2,PT11M37.00S,1,1610612743,DEN,89,Van Exel,N. Van Exel,39,28,5,Missed,1,0.0,0.0,0,h,MISS Van Exel 5' Running Jump Shot,Missed Shot,Running Jump Shot,0,3
+20000250,4,PT11M33.00S,1,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,h,LaFrentz REBOUND (Off:1 Def:0),Rebound,Unknown,0,4
+20000250,3,PT11M33.00S,1,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,Made,1,2.0,0.0,2,h,LaFrentz  Tip Shot (2 PTS),Made Shot,Tip Shot,0,5
+20000250,5,PT11M18.00S,1,1610612755,PHI,689,Ratliff,T. Ratliff,18,51,5,Made,1,2.0,2.0,4,v,Ratliff 5' Hook Shot (2 PTS) (Lynch 1 AST),Made Shot,Hook Shot,0,6
+20000250,6,PT10M50.00S,1,1610612743,DEN,686,McDyess,A. McDyess,-168,28,17,Made,1,4.0,2.0,6,h,McDyess 17' Turnaround Jump Shot (2 PTS) (Van Exel 1 AST),Made Shot,Turnaround Jump Shot,0,7
+20000250,7,PT10M31.00S,1,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,Missed,1,0.0,0.0,0,v,MISS Lynch  Layup,Missed Shot,Layup Shot,0,8
+20000250,7,PT10M31.00S,1,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,h,LaFrentz BLOCK (1 BLK),,,0,9
+20000250,8,PT10M27.00S,1,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,h,Lenard REBOUND (Off:0 Def:1),Rebound,Unknown,0,10
+20000250,9,PT10M25.00S,1,1610612743,DEN,1899,Posey,J. Posey,0,0,0,Made,1,6.0,2.0,8,h,Posey  Layup (2 PTS) (Lenard 1 AST),Made Shot,Layup Shot,0,11
+20000250,10,PT10M07.00S,1,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,Missed,1,0.0,0.0,0,v,MISS Lynch  Layup,Missed Shot,Layup Shot,0,12
+20000250,10,PT10M07.00S,1,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,h,LaFrentz BLOCK (2 BLK),,,0,13
+20000250,11,PT10M06.00S,1,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,Lynch REBOUND (Off:1 Def:0),Rebound,Unknown,0,14
+20000250,13,PT10M06.00S,1,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,Made,1,6.0,4.0,10,v,Lynch  Layup (2 PTS),Made Shot,Layup Shot,0,15
+20000250,12,PT10M06.00S,1,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,h,LaFrentz S.FOUL (P1.T1),Foul,Shooting,0,16
+20000250,14,PT10M06.00S,1,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,MISS Lynch Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,17
+20000250,16,PT09M58.00S,1,1610612755,PHI,389,Kukoc,T. Kukoc,0,0,0,,0,0.0,0.0,0,v,Kukoc REBOUND (Off:1 Def:0),Rebound,Unknown,0,18
+20000250,17,PT09M57.00S,1,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,19
+20000250,17,PT09M57.00S,1,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,h,LaFrentz STEAL (1 STL),,,0,20
+20000250,18,PT09M52.00S,1,1610612743,DEN,89,Van Exel,N. Van Exel,0,0,0,Missed,1,0.0,0.0,0,h,MISS Van Exel  Layup,Missed Shot,Layup Shot,0,21
+20000250,18,PT09M52.00S,1,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,0.0,0.0,0,v,Ratliff BLOCK (1 BLK),,,0,22
+20000250,19,PT09M49.00S,1,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson REBOUND (Off:0 Def:1),Rebound,Unknown,0,23
+20000250,23,PT09M49.00S,1,1610612743,DEN,1899,Posey,J. Posey,0,0,0,,0,0.0,0.0,0,h,Posey P.FOUL (P1.T2),Foul,Personal,0,24
+20000250,21,PT09M49.00S,1,0,,1610612755,,,0,0,0,,0,0.0,0.0,0,v,76ers Timeout: Short (Reg.0 Short 1),Timeout,Short,0,25
+20000250,25,PT09M44.00S,1,1610612755,PHI,947,Iverson,A. Iverson,184,112,22,Made,1,6.0,6.0,12,v,Iverson 22' Jump Shot (2 PTS) (Snow 1 AST),Made Shot,Jump Shot,0,26
+20000250,26,PT09M31.00S,1,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,Lynch P.FOUL (P1.T1),Foul,Personal,0,27
+20000250,28,PT09M20.00S,1,1610612743,DEN,686,McDyess,A. McDyess,-168,4,17,Made,1,8.0,6.0,14,h,McDyess 17' Turnaround Jump Shot (4 PTS) (Van Exel 2 AST),Made Shot,Turnaround Jump Shot,0,28
+20000250,29,PT09M01.00S,1,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,Missed,1,0.0,0.0,0,v,MISS Ratliff  Slam Dunk,Missed Shot,Slam Dunk Shot,0,29
+20000250,29,PT09M01.00S,1,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,h,LaFrentz BLOCK (3 BLK),,,0,30
+20000250,30,PT08M58.00S,1,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson REBOUND (Off:1 Def:1),Rebound,Unknown,0,31
+20000250,31,PT08M51.00S,1,1610612755,PHI,689,Ratliff,T. Ratliff,178,0,18,Made,1,8.0,8.0,16,v,Ratliff 18' Jump Shot (4 PTS) (Iverson 1 AST),Made Shot,Jump Shot,0,32
+20000250,32,PT08M42.00S,1,1610612743,DEN,1711,LaFrentz,R. LaFrentz,-46,21,5,Missed,1,0.0,0.0,0,h,MISS LaFrentz 5' Jump Shot,Missed Shot,Jump Shot,0,33
+20000250,33,PT08M40.00S,1,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,h,NUGGETS Rebound,Rebound,Unknown,0,34
+20000250,34,PT08M38.00S,1,1610612743,DEN,702,Lenard,V. Lenard,193,0,19,Made,1,10.0,8.0,18,h,Lenard 19' Jump Shot (2 PTS) (Posey 1 AST),Made Shot,Jump Shot,0,35
+20000250,35,PT08M19.00S,1,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,Made,1,10.0,10.0,20,v,Iverson  Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,36
+20000250,36,PT08M08.00S,1,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,h,McDyess Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,37
+20000250,36,PT08M08.00S,1,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson STEAL (1 STL),,,0,38
+20000250,37,PT07M56.00S,1,1610612755,PHI,248,Lynch,G. Lynch,169,15,17,Missed,1,0.0,0.0,0,v,MISS Lynch 17' Jump Shot,Missed Shot,Jump Shot,0,39
+20000250,38,PT07M54.00S,1,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,Lynch REBOUND (Off:2 Def:0),Rebound,Unknown,0,40
+20000250,39,PT07M44.00S,1,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,Made,1,10.0,12.0,22,v,Lynch  Layup (4 PTS) (Kukoc 1 AST),Made Shot,Layup Shot,0,41
+20000250,40,PT07M22.00S,1,1610612743,DEN,702,Lenard,V. Lenard,106,152,19,Made,1,12.0,12.0,24,h,Lenard 19' Jump Shot (4 PTS) (Van Exel 3 AST),Made Shot,Jump Shot,0,42
+20000250,41,PT07M06.00S,1,1610612755,PHI,389,Kukoc,T. Kukoc,-240,15,24,Made,1,12.0,15.0,27,v,Kukoc 24' 3PT Jump Shot (3 PTS) (Snow 2 AST),Made Shot,Jump Shot,0,43
+20000250,42,PT06M57.00S,1,1610612743,DEN,686,McDyess,A. McDyess,-176,0,18,Missed,1,0.0,0.0,0,h,MISS McDyess 18' Jump Shot,Missed Shot,Jump Shot,0,44
+20000250,42,PT06M57.00S,1,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,0.0,0.0,0,v,Ratliff BLOCK (2 BLK),,,0,45
+20000250,43,PT06M57.00S,1,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,h,NUGGETS Rebound,Rebound,Unknown,0,46
+20000250,44,PT06M51.00S,1,1610612743,DEN,702,Lenard,V. Lenard,169,40,17,Missed,1,0.0,0.0,0,h,MISS Lenard 17' Jump Shot,Missed Shot,Jump Shot,0,47
+20000250,45,PT06M49.00S,1,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,0.0,0.0,0,v,Snow REBOUND (Off:0 Def:1),Rebound,Unknown,0,48
+20000250,46,PT06M46.00S,1,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,0.0,0.0,0,v,Snow Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,49
+20000250,47,PT06M35.00S,1,1610612743,DEN,686,McDyess,A. McDyess,-176,45,18,Missed,1,0.0,0.0,0,h,MISS McDyess 18' Jump Shot,Missed Shot,Jump Shot,0,50
+20000250,48,PT06M33.00S,1,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,Lynch REBOUND (Off:2 Def:1),Rebound,Unknown,0,51
+20000250,49,PT06M23.00S,1,1610612755,PHI,947,Iverson,A. Iverson,163,28,17,Missed,1,0.0,0.0,0,v,MISS Iverson 17' Jump Shot,Missed Shot,Jump Shot,0,52
+20000250,50,PT06M21.00S,1,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,h,Lenard REBOUND (Off:0 Def:2),Rebound,Unknown,0,53
+20000250,51,PT06M18.00S,1,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,h,Lenard Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,54
+20000250,51,PT06M18.00S,1,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson STEAL (2 STL),,,0,55
+20000250,52,PT06M10.00S,1,1610612755,PHI,248,Lynch,G. Lynch,62,4,6,Missed,1,0.0,0.0,0,v,MISS Lynch 6' Hook Shot,Missed Shot,Hook Shot,0,56
+20000250,53,PT06M06.00S,1,1610612743,DEN,1899,Posey,J. Posey,0,0,0,,0,0.0,0.0,0,h,Posey REBOUND (Off:0 Def:1),Rebound,Unknown,0,57
+20000250,54,PT06M03.00S,1,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,0.0,0.0,0,v,Snow S.FOUL (P1.T2),Foul,Shooting,0,58
+20000250,55,PT06M03.00S,1,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,h,MISS LaFrentz Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,59
+20000250,56,PT06M03.00S,1,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,h,NUGGETS Rebound,Rebound,Normal Rebound,0,60
+20000250,57,PT06M03.00S,1,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,13.0,15.0,28,h,LaFrentz Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,61
+20000250,58,PT05M52.00S,1,1610612755,PHI,947,Iverson,A. Iverson,-176,-4,18,Missed,1,0.0,0.0,0,v,MISS Iverson 18' Jump Shot,Missed Shot,Jump Shot,0,62
+20000250,59,PT05M50.00S,1,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,h,Lenard REBOUND (Off:0 Def:3),Rebound,Unknown,0,63
+20000250,60,PT05M42.00S,1,1610612743,DEN,1711,LaFrentz,R. LaFrentz,-67,11,7,Missed,1,0.0,0.0,0,h,MISS LaFrentz 7' Jump Shot,Missed Shot,Jump Shot,0,64
+20000250,60,PT05M42.00S,1,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,0.0,0.0,0,v,Ratliff BLOCK (3 BLK),,,0,65
+20000250,62,PT05M39.00S,1,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,h,McDyess REBOUND (Off:1 Def:0),Rebound,Unknown,0,66
+20000250,61,PT05M39.00S,1,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,Made,1,15.0,15.0,30,h,McDyess  Layup (6 PTS),Made Shot,Layup Shot,0,67
+20000250,63,PT05M22.00S,1,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,h,NUGGETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,68
+20000250,65,PT05M22.00S,1,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,SUB: Geiger FOR Lynch,Substitution,,0,69
+20000250,66,PT05M14.00S,1,1610612755,PHI,389,Kukoc,T. Kukoc,169,186,25,Missed,1,0.0,0.0,0,v,MISS Kukoc 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,70
+20000250,67,PT05M10.00S,1,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,0.0,0.0,0,v,Ratliff REBOUND (Off:1 Def:0),Rebound,Unknown,0,71
+20000250,68,PT05M08.00S,1,1610612755,PHI,389,Kukoc,T. Kukoc,-122,69,14,Missed,1,0.0,0.0,0,v,MISS Kukoc 14' Jump Shot,Missed Shot,Jump Shot,0,72
+20000250,69,PT05M05.00S,1,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,h,McDyess REBOUND (Off:1 Def:1),Rebound,Unknown,0,73
+20000250,70,PT04M55.00S,1,1610612743,DEN,1899,Posey,J. Posey,11,78,8,Missed,1,0.0,0.0,0,h,MISS Posey 8' Running Jump Shot,Missed Shot,Running Jump Shot,0,74
+20000250,71,PT04M50.00S,1,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,0.0,0.0,0,v,Ratliff REBOUND (Off:1 Def:1),Rebound,Unknown,0,75
+20000250,72,PT04M34.00S,1,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,0.0,0.0,0,v,Ratliff 3 Second Violation Turnover (P1.T3),Turnover,3 Second Violation,0,76
+20000250,73,PT04M17.00S,1,1610612743,DEN,702,Lenard,V. Lenard,148,72,16,Made,1,17.0,15.0,32,h,Lenard 16' Jump Shot (6 PTS) (Posey 2 AST),Made Shot,Jump Shot,0,77
+20000250,74,PT03M54.00S,1,1610612755,PHI,689,Ratliff,T. Ratliff,32,61,7,Made,1,17.0,17.0,34,v,Ratliff 7' Hook Shot (6 PTS),Made Shot,Hook Shot,0,78
+20000250,75,PT03M42.00S,1,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,Made,1,19.0,17.0,36,h,McDyess  Layup (8 PTS) (Van Exel 4 AST),Made Shot,Layup Shot,0,79
+20000250,76,PT03M36.00S,1,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,0.0,0.0,0,v,Ratliff Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,80
+20000250,76,PT03M36.00S,1,1610612743,DEN,89,Van Exel,N. Van Exel,0,0,0,,0,0.0,0.0,0,h,Van Exel STEAL (1 STL),,,0,81
+20000250,77,PT03M36.00S,1,1610612743,DEN,89,Van Exel,N. Van Exel,0,0,0,,0,0.0,0.0,0,h,Van Exel Out Of Bounds Turnover (P1.T3),Turnover,Out Of Bounds,0,82
+20000250,78,PT03M25.00S,1,1610612755,PHI,947,Iverson,A. Iverson,-168,4,17,Made,1,19.0,19.0,38,v,Iverson 17' Jump Shot (6 PTS) (Snow 3 AST),Made Shot,Jump Shot,0,83
+20000250,79,PT03M16.00S,1,1610612743,DEN,686,McDyess,A. McDyess,-138,61,15,Missed,1,0.0,0.0,0,h,MISS McDyess 15' Jump Shot,Missed Shot,Jump Shot,0,84
+20000250,80,PT03M14.00S,1,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,0.0,0.0,0,v,Snow REBOUND (Off:0 Def:2),Rebound,Unknown,0,85
+20000250,81,PT03M05.00S,1,1610612755,PHI,947,Iverson,A. Iverson,163,0,16,Made,1,19.0,21.0,40,v,Iverson 16' Jump Shot (8 PTS) (Snow 4 AST),Made Shot,Jump Shot,0,86
+20000250,82,PT02M55.00S,1,1610612743,DEN,1899,Posey,J. Posey,169,72,18,Missed,1,0.0,0.0,0,h,MISS Posey 18' Jump Shot,Missed Shot,Jump Shot,0,87
+20000250,83,PT02M52.00S,1,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,h,McDyess REBOUND (Off:2 Def:1),Rebound,Unknown,0,88
+20000250,84,PT02M47.00S,1,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,Made,1,21.0,21.0,42,h,LaFrentz  Slam Dunk (5 PTS) (Posey 3 AST),Made Shot,Slam Dunk Shot,0,89
+20000250,85,PT02M31.00S,1,1610612755,PHI,947,Iverson,A. Iverson,-204,135,24,Missed,1,0.0,0.0,0,v,MISS Iverson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,90
+20000250,86,PT02M27.00S,1,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,h,McDyess REBOUND (Off:2 Def:2),Rebound,Unknown,0,91
+20000250,87,PT02M21.00S,1,1610612743,DEN,702,Lenard,V. Lenard,228,-4,0,Missed,1,0.0,0.0,0,h,MISS Lenard  3PT Jump Shot,Missed Shot,Jump Shot,0,92
+20000250,88,PT02M19.00S,1,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson REBOUND (Off:1 Def:2),Rebound,Unknown,0,93
+20000250,89,PT02M13.00S,1,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,Missed,1,0.0,0.0,0,v,MISS Iverson  Driving Layup,Missed Shot,Driving Layup Shot,0,94
+20000250,91,PT02M10.00S,1,1610612755,PHI,389,Kukoc,T. Kukoc,0,0,0,,0,0.0,0.0,0,v,Kukoc REBOUND (Off:2 Def:0),Rebound,Unknown,0,95
+20000250,90,PT02M10.00S,1,1610612755,PHI,389,Kukoc,T. Kukoc,0,0,0,Made,1,21.0,23.0,44,v,Kukoc  Layup (5 PTS),Made Shot,Layup Shot,0,96
+20000250,92,PT01M48.00S,1,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,0.0,0.0,0,v,Geiger S.FOUL (P1.T3),Foul,Shooting,0,97
+20000250,93,PT01M48.00S,1,0,,1610612755,,,0,0,0,,0,0.0,0.0,0,v,76ers Timeout: Regular (Reg.1 Short 1),Timeout,Regular,0,98
+20000250,95,PT01M48.00S,1,1610612743,DEN,1899,Posey,J. Posey,0,0,0,,0,0.0,0.0,0,h,SUB: McCloud FOR Posey,Substitution,,0,99
+20000250,96,PT01M48.00S,1,1610612755,PHI,389,Kukoc,T. Kukoc,0,0,0,,0,0.0,0.0,0,v,SUB: McKie FOR Kukoc,Substitution,,0,100
+20000250,97,PT01M48.00S,1,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,0.0,0.0,0,v,SUB: MacCulloch FOR Ratliff,Substitution,,0,101
+20000250,103,PT01M48.00S,1,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,0.0,0.0,0,v,SUB: Lynch FOR Snow,Substitution,,0,102
+20000250,98,PT01M48.00S,1,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,22.0,23.0,45,h,LaFrentz Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,103
+20000250,99,PT01M48.00S,1,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,23.0,23.0,46,h,LaFrentz Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,104
+20000250,100,PT01M38.00S,1,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,h,LaFrentz S.FOUL (P2.T3),Foul,Shooting,0,105
+20000250,101,PT01M38.00S,1,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,h,SUB: Clark FOR LaFrentz,Substitution,,0,106
+20000250,102,PT01M38.00S,1,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,23.0,24.0,47,v,Iverson Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,107
+20000250,107,PT01M38.00S,1,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,0.0,0.0,0,v,SUB: Snow FOR Geiger,Substitution,,0,108
+20000250,104,PT01M38.00S,1,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,23.0,25.0,48,v,Iverson Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,109
+20000250,105,PT01M26.00S,1,1610612743,DEN,702,Lenard,V. Lenard,157,85,18,Missed,1,0.0,0.0,0,h,MISS Lenard 18' Jump Shot,Missed Shot,Jump Shot,0,110
+20000250,106,PT01M23.00S,1,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson REBOUND (Off:1 Def:3),Rebound,Unknown,0,111
+20000250,108,PT01M18.00S,1,1610612755,PHI,243,McKie,A. McKie,178,4,18,Missed,1,0.0,0.0,0,v,MISS McKie 18' Jump Shot,Missed Shot,Jump Shot,0,112
+20000250,109,PT01M15.00S,1,1610612743,DEN,1721,Clark,K. Clark,0,0,0,,0,0.0,0.0,0,h,Clark REBOUND (Off:0 Def:1),Rebound,Unknown,0,113
+20000250,110,PT01M05.00S,1,1610612743,DEN,45,McCloud,G. McCloud,169,15,17,Missed,1,0.0,0.0,0,h,MISS McCloud 17' Jump Shot,Missed Shot,Jump Shot,0,114
+20000250,111,PT01M01.00S,1,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,Lynch REBOUND (Off:2 Def:2),Rebound,Unknown,0,115
+20000250,112,PT00M59.00S,1,1610612743,DEN,89,Van Exel,N. Van Exel,0,0,0,,0,0.0,0.0,0,h,Van Exel S.FOUL (P1.PN),Foul,Shooting,0,116
+20000250,113,PT00M59.00S,1,1610612743,DEN,89,Van Exel,N. Van Exel,0,0,0,,0,0.0,0.0,0,h,SUB: Pack FOR Van Exel,Substitution,,0,117
+20000250,114,PT00M59.00S,1,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,23.0,26.0,49,v,Iverson Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,118
+20000250,115,PT00M59.00S,1,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,23.0,27.0,50,v,Iverson Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,119
+20000250,116,PT00M42.90S,1,1610612743,DEN,1721,Clark,K. Clark,-58,40,7,Made,1,25.0,27.0,52,h,Clark 7' Hook Shot (2 PTS) (Lenard 2 AST),Made Shot,Hook Shot,0,120
+20000250,117,PT00M28.40S,1,1610612755,PHI,947,Iverson,A. Iverson,193,108,22,Made,1,25.0,29.0,54,v,Iverson 22' Jump Shot (14 PTS),Made Shot,Jump Shot,0,121
+20000250,118,PT00M19.90S,1,1610612743,DEN,1721,Clark,K. Clark,3,108,11,Missed,1,0.0,0.0,0,h,MISS Clark 11' Jump Shot,Missed Shot,Jump Shot,0,122
+20000250,119,PT00M17.90S,1,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,0.0,0.0,0,v,Snow REBOUND (Off:0 Def:3),Rebound,Unknown,0,123
+20000250,120,PT00M00.30S,1,1610612755,PHI,947,Iverson,A. Iverson,-109,152,19,Made,1,25.0,31.0,56,v,Iverson 19' Jump Shot (16 PTS),Made Shot,Jump Shot,0,124
+20000250,121,PT00M00.00S,1,0,,0,,,0,0,0,,0,25.0,31.0,56,,End of 1st Period (1:35 PM EST),period,end,0,125
+20000250,123,PT12M00.00S,2,0,,0,,,0,0,0,,0,25.0,31.0,56,,Start of 2nd Period (1:38 PM EST),period,start,0,126
+20000250,124,PT11M44.00S,2,1610612755,PHI,727,Snow,E. Snow,-1,78,8,Missed,1,0.0,0.0,0,v,MISS Snow 8' Jump Shot,Missed Shot,Jump Shot,0,127
+20000250,125,PT11M44.00S,2,1610612755,PHI,1928,MacCulloch,T. MacCulloch,0,0,0,,0,0.0,0.0,0,v,MacCulloch REBOUND (Off:1 Def:0),Rebound,Unknown,0,128
+20000250,126,PT11M44.00S,2,1610612755,PHI,1928,MacCulloch,T. MacCulloch,0,0,0,,0,0.0,0.0,0,v,MacCulloch OFF.Foul (P1),Foul,Offensive,0,129
+20000250,184,PT11M44.00S,2,1610612755,PHI,1928,MacCulloch,T. MacCulloch,0,0,0,,0,0.0,0.0,0,v,MacCulloch Foul Turnover (P1.T5),Turnover,Foul,0,130
+20000250,127,PT11M31.00S,2,1610612755,PHI,1928,MacCulloch,T. MacCulloch,0,0,0,,0,0.0,0.0,0,v,MacCulloch S.FOUL (P2.T1),Foul,Shooting,0,131
+20000250,128,PT11M31.00S,2,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,h,MISS McDyess Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,132
+20000250,129,PT11M31.00S,2,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,h,NUGGETS Rebound,Rebound,Normal Rebound,0,133
+20000250,130,PT11M31.00S,2,1610612755,PHI,1928,MacCulloch,T. MacCulloch,0,0,0,,0,0.0,0.0,0,v,SUB: Geiger FOR MacCulloch,Substitution,,0,134
+20000250,131,PT11M31.00S,2,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,,0,26.0,31.0,57,h,McDyess Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,135
+20000250,132,PT11M14.00S,2,1610612755,PHI,761,Geiger,M. Geiger,-67,11,7,Missed,1,0.0,0.0,0,v,MISS Geiger 7' Jump Shot,Missed Shot,Jump Shot,0,136
+20000250,132,PT11M14.00S,2,1610612743,DEN,1721,Clark,K. Clark,0,0,0,,0,0.0,0.0,0,h,Clark BLOCK (1 BLK),,,0,137
+20000250,133,PT11M11.00S,2,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,h,McDyess REBOUND (Off:2 Def:3),Rebound,Unknown,0,138
+20000250,134,PT11M06.00S,2,1610612743,DEN,123,Pack,R. Pack,142,15,14,Missed,1,0.0,0.0,0,h,MISS Pack 14' Running Jump Shot,Missed Shot,Running Jump Shot,0,139
+20000250,135,PT11M06.00S,2,0,,1610612755,,,0,0,0,,0,0.0,0.0,0,v,76ers Rebound,Rebound,Unknown,0,140
+20000250,136,PT11M06.00S,2,1610612743,DEN,1721,Clark,K. Clark,0,0,0,,0,0.0,0.0,0,h,Clark L.B.FOUL (P1.T1),Foul,Loose Ball,0,141
+20000250,137,PT10M49.00S,2,1610612755,PHI,947,Iverson,A. Iverson,3,85,9,Made,1,26.0,33.0,59,v,Iverson 9' Running Jump Shot (18 PTS),Made Shot,Running Jump Shot,0,142
+20000250,138,PT10M24.00S,2,1610612743,DEN,1721,Clark,K. Clark,148,101,18,Made,1,28.0,33.0,61,h,Clark 18' Jump Shot (4 PTS) (Abdul-Wahad 1 AST),Made Shot,Jump Shot,0,143
+20000250,139,PT10M09.00S,2,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,0.0,0.0,0,v,McKie Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,144
+20000250,140,PT10M09.00S,2,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,h,SUB: LaFrentz FOR McDyess,Substitution,,0,145
+20000250,141,PT09M49.00S,2,1610612743,DEN,45,McCloud,G. McCloud,-94,40,10,Missed,1,0.0,0.0,0,h,MISS McCloud 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,146
+20000250,142,PT09M45.00S,2,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,0.0,0.0,0,v,Geiger REBOUND (Off:0 Def:1),Rebound,Unknown,0,147
+20000250,143,PT09M41.00S,2,1610612743,DEN,1721,Clark,K. Clark,0,0,0,,0,0.0,0.0,0,h,Clark S.FOUL (P2.T2),Foul,Shooting,0,148
+20000250,144,PT09M41.00S,2,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,28.0,34.0,62,v,Lynch Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,149
+20000250,145,PT09M41.00S,2,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,0.0,0.0,0,v,SUB: Ratliff FOR Geiger,Substitution,,0,150
+20000250,146,PT09M41.00S,2,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,28.0,35.0,63,v,Lynch Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,151
+20000250,147,PT09M23.00S,2,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,0.0,0.0,0,v,Ratliff S.FOUL (P1.T2),Foul,Shooting,0,152
+20000250,148,PT09M23.00S,2,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,SUB: Kukoc FOR Lynch,Substitution,,0,153
+20000250,149,PT09M23.00S,2,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,29.0,35.0,64,h,LaFrentz Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,154
+20000250,150,PT09M23.00S,2,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,30.0,35.0,65,h,LaFrentz Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,155
+20000250,151,PT09M05.00S,2,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,0.0,0.0,0,v,McKie Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,156
+20000250,151,PT09M05.00S,2,1610612743,DEN,1505,Abdul-Wahad,T. Abdul-Wahad,0,0,0,,0,0.0,0.0,0,h,Abdul-Wahad STEAL (1 STL),,,0,157
+20000250,152,PT08M58.00S,2,1610612743,DEN,1505,Abdul-Wahad,T. Abdul-Wahad,0,0,0,,0,0.0,0.0,0,h,Abdul-Wahad Traveling Turnover (P1.T4),Turnover,Traveling,0,158
+20000250,153,PT08M58.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,159
+20000250,155,PT08M42.00S,2,1610612755,PHI,389,Kukoc,T. Kukoc,148,141,20,Made,1,30.0,37.0,67,v,Kukoc 20' Jump Shot (7 PTS),Made Shot,Jump Shot,0,160
+20000250,156,PT08M27.00S,2,1610612743,DEN,123,Pack,R. Pack,0,0,0,Missed,1,0.0,0.0,0,h,MISS Pack  Layup,Missed Shot,Layup Shot,0,161
+20000250,158,PT08M25.00S,2,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,h,LaFrentz REBOUND (Off:2 Def:0),Rebound,Unknown,0,162
+20000250,157,PT08M25.00S,2,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,Made,1,32.0,37.0,69,h,LaFrentz  Dunk (11 PTS),Made Shot,Dunk Shot,0,163
+20000250,159,PT08M01.00S,2,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,Made,1,32.0,39.0,71,v,Ratliff  Layup (8 PTS),Made Shot,Layup Shot,0,164
+20000250,160,PT07M55.00S,2,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,0.0,0.0,0,v,McKie P.FOUL (P1.T3),Foul,Personal,0,165
+20000250,161,PT07M40.00S,2,1610612743,DEN,1721,Clark,K. Clark,32,40,5,Made,1,34.0,39.0,73,h,Clark 5' Jump Shot (6 PTS) (Pack 1 AST),Made Shot,Jump Shot,0,166
+20000250,162,PT07M23.00S,2,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,0.0,0.0,0,v,Ratliff Traveling Turnover (P3.T8),Turnover,Traveling,0,167
+20000250,163,PT07M01.00S,2,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,0.0,0.0,0,v,Ratliff P.FOUL (P2.T4),Foul,Personal,0,168
+20000250,164,PT07M01.00S,2,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,0.0,0.0,0,v,SUB: Geiger FOR Ratliff,Substitution,,0,169
+20000250,165,PT06M49.00S,2,1610612743,DEN,1721,Clark,K. Clark,0,0,0,Missed,1,0.0,0.0,0,h,MISS Clark  Layup,Missed Shot,Layup Shot,0,170
+20000250,166,PT06M45.00S,2,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,0.0,0.0,0,v,Geiger REBOUND (Off:0 Def:2),Rebound,Unknown,0,171
+20000250,167,PT06M43.00S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson Out Of Bounds Turnover (P2.T9),Turnover,Out Of Bounds,0,172
+20000250,168,PT06M30.00S,2,1610612743,DEN,45,McCloud,G. McCloud,-212,112,24,Missed,1,0.0,0.0,0,h,MISS McCloud 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,173
+20000250,170,PT06M24.00S,2,1610612743,DEN,1721,Clark,K. Clark,0,0,0,,0,0.0,0.0,0,h,Clark REBOUND (Off:1 Def:1),Rebound,Unknown,0,174
+20000250,169,PT06M24.00S,2,1610612743,DEN,1721,Clark,K. Clark,0,0,0,Missed,1,0.0,0.0,0,h,MISS Clark  Layup,Missed Shot,Layup Shot,0,175
+20000250,172,PT06M22.00S,2,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,h,LaFrentz REBOUND (Off:3 Def:0),Rebound,Unknown,0,176
+20000250,171,PT06M22.00S,2,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,Made,1,36.0,39.0,75,h,LaFrentz  Slam Dunk (13 PTS) (Clark 1 AST),Made Shot,Slam Dunk Shot,0,177
+20000250,173,PT06M08.00S,2,1610612755,PHI,389,Kukoc,T. Kukoc,106,61,12,Missed,1,0.0,0.0,0,v,MISS Kukoc 12' Running Jump Shot,Missed Shot,Running Jump Shot,0,178
+20000250,175,PT06M05.00S,2,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,0.0,0.0,0,v,Geiger REBOUND (Off:1 Def:2),Rebound,Unknown,0,179
+20000250,174,PT06M05.00S,2,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,Missed,1,0.0,0.0,0,v,MISS Geiger  Tip Shot,Missed Shot,Tip Shot,0,180
+20000250,176,PT06M03.00S,2,1610612743,DEN,1721,Clark,K. Clark,0,0,0,,0,0.0,0.0,0,h,Clark REBOUND (Off:1 Def:2),Rebound,Unknown,0,181
+20000250,177,PT06M00.00S,2,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,Made,1,38.0,39.0,77,h,LaFrentz  Layup (15 PTS) (McCloud 1 AST),Made Shot,Layup Shot,0,182
+20000250,178,PT05M46.00S,2,1610612743,DEN,1505,Abdul-Wahad,T. Abdul-Wahad,0,0,0,,0,0.0,0.0,0,h,Abdul-Wahad S.FOUL (P1.T3),Foul,Shooting,0,183
+20000250,179,PT05M46.00S,2,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,h,NUGGETS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,184
+20000250,180,PT05M46.00S,2,1610612755,PHI,389,Kukoc,T. Kukoc,0,0,0,,0,0.0,0.0,0,v,SUB: Lynch FOR Kukoc,Substitution,,0,185
+20000250,181,PT05M46.00S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,38.0,40.0,78,v,Iverson Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,186
+20000250,182,PT05M46.00S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,38.0,41.0,79,v,Iverson Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,187
+20000250,183,PT05M33.00S,2,1610612743,DEN,1505,Abdul-Wahad,T. Abdul-Wahad,0,0,0,,0,0.0,0.0,0,h,Abdul-Wahad Traveling Turnover (P2.T5),Turnover,Traveling,0,188
+20000250,185,PT05M20.00S,2,1610612755,PHI,947,Iverson,A. Iverson,163,11,16,Made,1,38.0,43.0,81,v,Iverson 16' Jump Shot (22 PTS) (Snow 5 AST),Made Shot,Jump Shot,0,189
+20000250,186,PT05M11.00S,2,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,0.0,0.0,0,v,Geiger S.FOUL (P2.PN),Foul,Shooting,0,190
+20000250,187,PT05M11.00S,2,1610612743,DEN,123,Pack,R. Pack,0,0,0,,0,0.0,0.0,0,h,SUB: Van Exel FOR Pack,Substitution,,0,191
+20000250,188,PT05M11.00S,2,1610612743,DEN,1721,Clark,K. Clark,0,0,0,,0,39.0,43.0,82,h,Clark Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,192
+20000250,189,PT05M11.00S,2,1610612743,DEN,1721,Clark,K. Clark,0,0,0,,0,40.0,43.0,83,h,Clark Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,193
+20000250,191,PT04M48.00S,2,1610612755,PHI,727,Snow,E. Snow,39,165,17,Missed,1,0.0,0.0,0,v,MISS Snow 17' Jump Shot,Missed Shot,Jump Shot,0,194
+20000250,192,PT04M46.00S,2,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,h,LaFrentz REBOUND (Off:3 Def:1),Rebound,Unknown,0,195
+20000250,194,PT04M42.00S,2,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,Lynch S.FOUL (P2.PN),Foul,Shooting,0,196
+20000250,195,PT04M42.00S,2,1610612743,DEN,1721,Clark,K. Clark,0,0,0,,0,0.0,0.0,0,h,SUB: McDyess FOR Clark,Substitution,,0,197
+20000250,196,PT04M42.00S,2,1610612743,DEN,45,McCloud,G. McCloud,0,0,0,,0,41.0,43.0,84,h,McCloud Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,198
+20000250,198,PT04M42.00S,2,1610612743,DEN,1505,Abdul-Wahad,T. Abdul-Wahad,0,0,0,,0,0.0,0.0,0,h,SUB: Lenard FOR Abdul-Wahad,Substitution,,0,199
+20000250,199,PT04M42.00S,2,1610612743,DEN,45,McCloud,G. McCloud,0,0,0,,0,42.0,43.0,85,h,McCloud Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,200
+20000250,200,PT04M36.00S,2,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,Made,1,42.0,45.0,87,v,Geiger  Dunk (2 PTS) (Lynch 2 AST),Made Shot,Dunk Shot,0,201
+20000250,201,PT04M20.00S,2,1610612743,DEN,1711,LaFrentz,R. LaFrentz,193,85,21,Made,1,44.0,45.0,89,h,LaFrentz 21' Jump Shot (17 PTS) (Van Exel 5 AST),Made Shot,Jump Shot,0,202
+20000250,202,PT04M05.00S,2,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,h,Lenard S.FOUL (P1.T4),Foul,Shooting,0,203
+20000250,203,PT04M05.00S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,MISS Iverson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,204
+20000250,204,PT04M05.00S,2,0,,1610612755,,,0,0,0,,0,0.0,0.0,0,v,76ers Rebound,Rebound,Normal Rebound,0,205
+20000250,205,PT04M05.00S,2,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,0.0,0.0,0,v,SUB: MacCulloch FOR Geiger,Substitution,,0,206
+20000250,206,PT04M05.00S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,44.0,46.0,90,v,Iverson Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,207
+20000250,208,PT03M47.00S,2,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,Missed,1,0.0,0.0,0,h,MISS LaFrentz  Reverse Layup,Missed Shot,Reverse Layup Shot,0,208
+20000250,209,PT03M43.00S,2,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,0.0,0.0,0,v,McKie REBOUND (Off:0 Def:1),Rebound,Unknown,0,209
+20000250,211,PT03M36.00S,2,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,h,Lenard Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,210
+20000250,212,PT03M36.00S,2,0,,1610612755,,,0,0,0,,0,0.0,0.0,0,v,76ers Timeout: Regular (Reg.2 Short 1),Timeout,Regular,0,211
+20000250,213,PT03M36.00S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,SUB: Kukoc FOR Iverson,Substitution,,0,212
+20000250,214,PT03M27.00S,2,1610612755,PHI,389,Kukoc,T. Kukoc,0,0,0,,0,0.0,0.0,0,v,Kukoc Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,213
+20000250,214,PT03M27.00S,2,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,h,Lenard STEAL (1 STL),,,0,214
+20000250,215,PT03M17.00S,2,1610612743,DEN,686,McDyess,A. McDyess,-168,-11,17,Missed,1,0.0,0.0,0,h,MISS McDyess 17' Jump Shot,Missed Shot,Jump Shot,0,215
+20000250,215,PT03M17.00S,2,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,Lynch BLOCK (1 BLK),,,0,216
+20000250,216,PT03M14.00S,2,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,Lynch REBOUND (Off:2 Def:3),Rebound,Unknown,0,217
+20000250,217,PT03M06.00S,2,1610612755,PHI,1928,MacCulloch,T. MacCulloch,0,0,0,Made,1,44.0,48.0,92,v,MacCulloch  Layup (2 PTS) (Snow 6 AST),Made Shot,Layup Shot,0,218
+20000250,218,PT02M50.00S,2,1610612743,DEN,1711,LaFrentz,R. LaFrentz,184,141,23,Made,1,46.0,48.0,94,h,LaFrentz 23' Jump Shot (19 PTS) (Van Exel 6 AST),Made Shot,Jump Shot,0,219
+20000250,219,PT02M30.00S,2,1610612755,PHI,389,Kukoc,T. Kukoc,-138,148,20,Missed,1,0.0,0.0,0,v,MISS Kukoc 20' Jump Shot,Missed Shot,Jump Shot,0,220
+20000250,220,PT02M27.00S,2,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,Lynch REBOUND (Off:3 Def:3),Rebound,Unknown,0,221
+20000250,221,PT02M24.00S,2,1610612755,PHI,727,Snow,E. Snow,85,243,26,Made,1,46.0,51.0,97,v,Snow 26' 3PT Jump Shot (3 PTS) (Lynch 3 AST),Made Shot,Jump Shot,0,222
+20000250,222,PT02M07.00S,2,1610612755,PHI,389,Kukoc,T. Kukoc,0,0,0,,0,0.0,0.0,0,v,Kukoc P.FOUL (P1.PN),Foul,Personal,0,223
+20000250,223,PT02M07.00S,2,1610612743,DEN,45,McCloud,G. McCloud,0,0,0,,0,47.0,51.0,98,h,McCloud Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,224
+20000250,224,PT02M07.00S,2,1610612755,PHI,389,Kukoc,T. Kukoc,0,0,0,,0,0.0,0.0,0,v,SUB: Iverson FOR Kukoc,Substitution,,0,225
+20000250,225,PT02M07.00S,2,1610612743,DEN,45,McCloud,G. McCloud,0,0,0,,0,48.0,51.0,99,h,McCloud Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,226
+20000250,226,PT01M49.00S,2,1610612755,PHI,243,McKie,A. McKie,228,4,0,Missed,1,0.0,0.0,0,v,MISS McKie  3PT Jump Shot,Missed Shot,Jump Shot,0,227
+20000250,227,PT01M46.00S,2,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,h,NUGGETS Rebound,Rebound,Unknown,0,228
+20000250,228,PT01M46.00S,2,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,Lynch L.B.FOUL (P3.PN),Foul,Loose Ball,0,229
+20000250,229,PT01M46.00S,2,1610612743,DEN,45,McCloud,G. McCloud,0,0,0,,0,0.0,0.0,0,h,SUB: Posey FOR McCloud,Substitution,,0,230
+20000250,230,PT01M46.00S,2,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,,0,49.0,51.0,100,h,McDyess Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,231
+20000250,231,PT01M46.00S,2,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,SUB: Kukoc FOR Lynch,Substitution,,0,232
+20000250,232,PT01M46.00S,2,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,,0,50.0,51.0,101,h,McDyess Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,233
+20000250,233,PT01M34.00S,2,1610612755,PHI,1928,MacCulloch,T. MacCulloch,0,0,0,Made,1,50.0,53.0,103,v,MacCulloch  Layup (4 PTS) (Iverson 2 AST),Made Shot,Layup Shot,0,234
+20000250,234,PT01M27.00S,2,1610612743,DEN,702,Lenard,V. Lenard,-204,158,26,Missed,1,0.0,0.0,0,h,MISS Lenard 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,235
+20000250,235,PT01M25.00S,2,0,,1610612755,,,0,0,0,,0,0.0,0.0,0,v,76ers Rebound,Rebound,Unknown,0,236
+20000250,236,PT01M25.00S,2,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,h,SUB: Clark FOR LaFrentz,Substitution,,0,237
+20000250,237,PT01M15.00S,2,1610612755,PHI,947,Iverson,A. Iverson,-168,-4,17,Missed,1,0.0,0.0,0,v,MISS Iverson 17' Jump Shot,Missed Shot,Jump Shot,0,238
+20000250,238,PT01M12.00S,2,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,h,Lenard REBOUND (Off:0 Def:4),Rebound,Unknown,0,239
+20000250,239,PT01M06.00S,2,1610612743,DEN,89,Van Exel,N. Van Exel,184,165,25,Made,1,53.0,53.0,106,h,Van Exel 25' 3PT Jump Shot (3 PTS) (Lenard 3 AST),Made Shot,Jump Shot,0,240
+20000250,240,PT00M46.50S,2,1610612743,DEN,1899,Posey,J. Posey,0,0,0,,0,0.0,0.0,0,h,Posey P.FOUL (P2.PN),Foul,Personal,0,241
+20000250,241,PT00M46.50S,2,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,53.0,54.0,107,v,Snow Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,242
+20000250,242,PT00M46.50S,2,1610612743,DEN,1721,Clark,K. Clark,0,0,0,,0,0.0,0.0,0,h,SUB: Bowen FOR Clark,Substitution,,0,243
+20000250,243,PT00M46.50S,2,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,0.0,0.0,0,v,MISS Snow Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,244
+20000250,244,PT00M45.70S,2,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,h,McDyess REBOUND (Off:2 Def:4),Rebound,Unknown,0,245
+20000250,245,PT00M35.20S,2,1610612743,DEN,89,Van Exel,N. Van Exel,184,97,21,Missed,1,0.0,0.0,0,h,MISS Van Exel 21' Jump Shot,Missed Shot,Jump Shot,0,246
+20000250,246,PT00M35.20S,2,0,,1610612755,,,0,0,0,,0,0.0,0.0,0,v,76ers Rebound,Rebound,Unknown,0,247
+20000250,247,PT00M29.40S,2,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,0.0,0.0,0,v,Snow Traveling Turnover (P2.T11),Turnover,Traveling,0,248
+20000250,248,PT00M08.90S,2,1610612743,DEN,702,Lenard,V. Lenard,228,11,0,Missed,1,0.0,0.0,0,h,MISS Lenard  3PT Jump Shot,Missed Shot,Jump Shot,0,249
+20000250,249,PT00M04.90S,2,1610612743,DEN,1899,Posey,J. Posey,0,0,0,,0,0.0,0.0,0,h,Posey REBOUND (Off:1 Def:1),Rebound,Unknown,0,250
+20000250,250,PT00M02.30S,2,1610612755,PHI,389,Kukoc,T. Kukoc,0,0,0,,0,0.0,0.0,0,v,Kukoc S.FOUL (P2.PN),Foul,Shooting,0,251
+20000250,251,PT00M02.30S,2,1610612743,DEN,1899,Posey,J. Posey,0,0,0,,0,0.0,0.0,0,h,MISS Posey Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,252
+20000250,252,PT00M02.30S,2,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,h,NUGGETS Rebound,Rebound,Normal Rebound,0,253
+20000250,253,PT00M02.30S,2,1610612743,DEN,1899,Posey,J. Posey,0,0,0,,0,54.0,54.0,108,h,Posey Free Throw 2 of 3 (3 PTS),Free Throw,Free Throw 2 of 3,0,254
+20000250,254,PT00M02.30S,2,1610612743,DEN,1899,Posey,J. Posey,0,0,0,,0,0.0,0.0,0,h,MISS Posey Free Throw 3 of 3,Free Throw,Free Throw 3 of 3,0,255
+20000250,255,PT00M00.90S,2,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,h,Lenard REBOUND (Off:1 Def:4),Rebound,Unknown,0,256
+20000250,256,PT00M00.00S,2,0,,0,,,0,0,0,,0,54.0,54.0,108,,End of 2nd Period (2:10 PM EST),period,end,0,257
+20000250,258,PT12M00.00S,3,0,,0,,,0,0,0,,0,54.0,54.0,108,,Start of 3rd Period (2:26 PM EST),period,start,0,258
+20000250,259,PT11M34.00S,3,1610612755,PHI,389,Kukoc,T. Kukoc,127,158,20,Missed,1,0.0,0.0,0,v,MISS Kukoc 20' Jump Shot,Missed Shot,Jump Shot,0,259
+20000250,260,PT11M31.00S,3,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,h,Lenard REBOUND (Off:1 Def:5),Rebound,Unknown,0,260
+20000250,261,PT11M23.00S,3,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,Lynch P.FOUL (P4.T1),Foul,Personal,0,261
+20000250,262,PT11M12.00S,3,1610612743,DEN,702,Lenard,V. Lenard,-168,-4,17,Made,1,56.0,54.0,110,h,Lenard 17' Jump Shot (8 PTS),Made Shot,Jump Shot,0,262
+20000250,263,PT10M56.00S,3,1610612755,PHI,389,Kukoc,T. Kukoc,-82,4,8,Missed,1,0.0,0.0,0,v,MISS Kukoc 8' Jump Shot,Missed Shot,Jump Shot,0,263
+20000250,264,PT10M54.00S,3,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,h,LaFrentz REBOUND (Off:3 Def:2),Rebound,Unknown,0,264
+20000250,265,PT10M50.00S,3,1610612743,DEN,1899,Posey,J. Posey,214,129,25,Missed,1,0.0,0.0,0,h,MISS Posey 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,265
+20000250,266,PT10M47.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson REBOUND (Off:1 Def:4),Rebound,Unknown,0,266
+20000250,267,PT10M47.00S,3,1610612743,DEN,89,Van Exel,N. Van Exel,0,0,0,,0,0.0,0.0,0,h,Van Exel P.FOUL (P2.T1),Foul,Personal,0,267
+20000250,268,PT10M47.00S,3,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,SUB: Geiger FOR Lynch,Substitution,,0,268
+20000250,269,PT10M39.00S,3,1610612755,PHI,689,Ratliff,T. Ratliff,3,85,9,Made,1,56.0,56.0,112,v,Ratliff 9' Jump Shot (10 PTS) (Snow 7 AST),Made Shot,Jump Shot,0,269
+20000250,270,PT10M25.00S,3,1610612743,DEN,89,Van Exel,N. Van Exel,148,209,26,Made,1,59.0,56.0,115,h,Van Exel 26' 3PT Jump Shot (6 PTS),Made Shot,Jump Shot,0,270
+20000250,271,PT10M04.00S,3,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,0.0,0.0,0,v,Snow Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,271
+20000250,271,PT10M04.00S,3,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,h,McDyess STEAL (1 STL),,,0,272
+20000250,272,PT09M56.00S,3,1610612743,DEN,702,Lenard,V. Lenard,-233,4,0,Made,1,62.0,56.0,118,h,Lenard  3PT Jump Shot (11 PTS) (Van Exel 7 AST),Made Shot,Jump Shot,0,273
+20000250,273,PT09M38.00S,3,1610612743,DEN,89,Van Exel,N. Van Exel,0,0,0,,0,0.0,0.0,0,h,Van Exel S.FOUL (P3.T2),Foul,Shooting,0,274
+20000250,274,PT09M38.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,62.0,57.0,119,v,Iverson Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,0,275
+20000250,275,PT09M38.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,62.0,58.0,120,v,Iverson Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,0,276
+20000250,276,PT09M22.00S,3,1610612743,DEN,89,Van Exel,N. Van Exel,3,165,17,Missed,1,0.0,0.0,0,h,MISS Van Exel 17' Jump Shot,Missed Shot,Jump Shot,0,277
+20000250,277,PT09M20.00S,3,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,0.0,0.0,0,v,Geiger REBOUND (Off:1 Def:3),Rebound,Unknown,0,278
+20000250,278,PT09M00.00S,3,1610612755,PHI,389,Kukoc,T. Kukoc,11,255,26,Made,1,62.0,61.0,123,v,Kukoc 26' 3PT Jump Shot (10 PTS) (Snow 8 AST),Made Shot,Jump Shot,0,279
+20000250,279,PT08M38.00S,3,1610612743,DEN,702,Lenard,V. Lenard,178,78,19,Made,1,64.0,61.0,125,h,Lenard 19' Turnaround Jump Shot (13 PTS),Made Shot,Turnaround Jump Shot,0,280
+20000250,280,PT08M14.00S,3,1610612755,PHI,761,Geiger,M. Geiger,-1,135,14,Missed,1,0.0,0.0,0,v,MISS Geiger 14' Jump Shot,Missed Shot,Jump Shot,0,281
+20000250,281,PT08M11.00S,3,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,h,NUGGETS Rebound,Rebound,Unknown,0,282
+20000250,282,PT08M11.00S,3,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,0.0,0.0,0,v,SUB: MacCulloch FOR Geiger,Substitution,,0,283
+20000250,283,PT07M53.00S,3,1610612743,DEN,686,McDyess,A. McDyess,-162,72,18,Missed,1,0.0,0.0,0,h,MISS McDyess 18' Jump Shot,Missed Shot,Jump Shot,0,284
+20000250,284,PT07M53.00S,3,0,,1610612755,,,0,0,0,,0,0.0,0.0,0,v,76ers Rebound,Rebound,Unknown,0,285
+20000250,285,PT07M53.00S,3,1610612743,DEN,1899,Posey,J. Posey,0,0,0,,0,0.0,0.0,0,h,Posey L.B.FOUL (P3.T3),Foul,Loose Ball,0,286
+20000250,286,PT07M43.00S,3,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,h,NUGGETS Violation: Delay of game Violation,Violation,Delay Of Game,0,287
+20000250,287,PT07M34.00S,3,1610612755,PHI,689,Ratliff,T. Ratliff,32,91,10,Missed,1,0.0,0.0,0,v,MISS Ratliff 10' Jump Shot,Missed Shot,Jump Shot,0,288
+20000250,288,PT07M31.00S,3,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,h,LaFrentz REBOUND (Off:3 Def:3),Rebound,Unknown,0,289
+20000250,289,PT07M30.00S,3,1610612755,PHI,1928,MacCulloch,T. MacCulloch,0,0,0,,0,0.0,0.0,0,v,MacCulloch L.B.FOUL (P3.T2),Foul,Loose Ball,0,290
+20000250,290,PT07M17.00S,3,1610612743,DEN,89,Van Exel,N. Van Exel,0,0,0,Made,1,66.0,61.0,127,h,Van Exel  Driving Layup (8 PTS),Made Shot,Driving Layup Shot,0,291
+20000250,291,PT07M11.00S,3,0,,1610612755,,,0,0,0,,0,0.0,0.0,0,v,76ers Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,292
+20000250,292,PT07M11.00S,3,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,0.0,0.0,0,v,Snow T.FOUL (P1.T2),Foul,Technical,0,293
+20000250,294,PT07M11.00S,3,1610612743,DEN,89,Van Exel,N. Van Exel,0,0,0,,0,67.0,61.0,128,h,Van Exel Free Throw Technical (9 PTS),Free Throw,Free Throw Technical,0,294
+20000250,296,PT06M49.00S,3,1610612755,PHI,947,Iverson,A. Iverson,-67,249,26,Missed,1,0.0,0.0,0,v,MISS Iverson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,295
+20000250,297,PT06M47.00S,3,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,h,McDyess REBOUND (Off:2 Def:5),Rebound,Unknown,0,296
+20000250,298,PT06M32.00S,3,1610612743,DEN,89,Van Exel,N. Van Exel,3,61,6,Missed,1,0.0,0.0,0,h,MISS Van Exel 6' Running Jump Shot,Missed Shot,Running Jump Shot,0,297
+20000250,299,PT06M28.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson REBOUND (Off:1 Def:5),Rebound,Unknown,0,298
+20000250,300,PT06M25.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,Missed,1,0.0,0.0,0,v,MISS Iverson  Layup,Missed Shot,Layup Shot,0,299
+20000250,302,PT06M23.00S,3,1610612755,PHI,1928,MacCulloch,T. MacCulloch,0,0,0,,0,0.0,0.0,0,v,MacCulloch REBOUND (Off:2 Def:0),Rebound,Unknown,0,300
+20000250,301,PT06M23.00S,3,1610612755,PHI,1928,MacCulloch,T. MacCulloch,0,0,0,Made,1,67.0,63.0,130,v,MacCulloch  Layup (6 PTS),Made Shot,Layup Shot,0,301
+20000250,303,PT06M12.00S,3,1610612743,DEN,89,Van Exel,N. Van Exel,0,0,0,,0,0.0,0.0,0,h,Van Exel Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,302
+20000250,303,PT06M12.00S,3,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,0.0,0.0,0,v,Ratliff STEAL (1 STL),,,0,303
+20000250,304,PT06M04.00S,3,1610612755,PHI,727,Snow,E. Snow,-52,152,16,Missed,1,0.0,0.0,0,v,MISS Snow 16' Jump Shot,Missed Shot,Jump Shot,0,304
+20000250,305,PT06M01.00S,3,1610612743,DEN,89,Van Exel,N. Van Exel,0,0,0,,0,0.0,0.0,0,h,Van Exel REBOUND (Off:0 Def:1),Rebound,Unknown,0,305
+20000250,306,PT05M58.00S,3,1610612743,DEN,89,Van Exel,N. Van Exel,0,0,0,,0,0.0,0.0,0,h,Van Exel OFF.Foul (P4),Foul,Offensive,0,306
+20000250,307,PT05M58.00S,3,1610612743,DEN,89,Van Exel,N. Van Exel,0,0,0,,0,0.0,0.0,0,h,Van Exel Foul Turnover (P3.T7),Turnover,Foul,0,307
+20000250,308,PT05M58.00S,3,1610612743,DEN,89,Van Exel,N. Van Exel,0,0,0,,0,0.0,0.0,0,h,SUB: Pack FOR Van Exel,Substitution,,0,308
+20000250,309,PT05M41.00S,3,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,h,LaFrentz S.FOUL (P3.T4),Foul,Shooting,0,309
+20000250,310,PT05M41.00S,3,1610612755,PHI,1928,MacCulloch,T. MacCulloch,0,0,0,,0,0.0,0.0,0,v,MISS MacCulloch Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,310
+20000250,311,PT05M41.00S,3,0,,1610612755,,,0,0,0,,0,0.0,0.0,0,v,76ers Rebound,Rebound,Normal Rebound,0,311
+20000250,312,PT05M41.00S,3,1610612755,PHI,1928,MacCulloch,T. MacCulloch,0,0,0,,0,67.0,64.0,131,v,MacCulloch Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,312
+20000250,313,PT05M32.00S,3,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,0.0,0.0,0,v,Ratliff P.FOUL (P3.T3),Foul,Personal,0,313
+20000250,314,PT05M22.00S,3,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,Missed,1,0.0,0.0,0,h,MISS McDyess  Dunk,Missed Shot,Dunk Shot,0,314
+20000250,316,PT05M22.00S,3,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,h,McDyess REBOUND (Off:3 Def:5),Rebound,Unknown,0,315
+20000250,315,PT05M22.00S,3,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,Made,1,69.0,64.0,133,h,McDyess  Layup (13 PTS),Made Shot,Layup Shot,0,316
+20000250,317,PT05M22.00S,3,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,0.0,0.0,0,v,Ratliff S.FOUL (P4.T4),Foul,Shooting,0,317
+20000250,318,PT05M22.00S,3,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,,0,70.0,64.0,134,h,McDyess Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,318
+20000250,319,PT05M02.00S,3,1610612755,PHI,727,Snow,E. Snow,148,78,17,Missed,1,0.0,0.0,0,v,MISS Snow 17' Jump Shot,Missed Shot,Jump Shot,0,319
+20000250,320,PT04M59.00S,3,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,h,LaFrentz REBOUND (Off:3 Def:4),Rebound,Unknown,0,320
+20000250,321,PT04M53.00S,3,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,0.0,0.0,0,v,Snow S.FOUL (P2.PN),Foul,Shooting,0,321
+20000250,322,PT04M53.00S,3,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,0.0,0.0,0,v,SUB: McKie FOR Ratliff,Substitution,,0,322
+20000250,323,PT04M53.00S,3,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,71.0,64.0,135,h,LaFrentz Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,323
+20000250,324,PT04M53.00S,3,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,72.0,64.0,136,h,LaFrentz Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,324
+20000250,325,PT04M32.00S,3,1610612755,PHI,389,Kukoc,T. Kukoc,-94,-4,9,Missed,1,0.0,0.0,0,v,MISS Kukoc 9' Running Jump Shot,Missed Shot,Running Jump Shot,0,325
+20000250,326,PT04M29.00S,3,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,h,LaFrentz REBOUND (Off:3 Def:5),Rebound,Unknown,0,326
+20000250,327,PT04M26.00S,3,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,0.0,0.0,0,v,McKie S.FOUL (P2.PN),Foul,Shooting,0,327
+20000250,328,PT04M26.00S,3,1610612743,DEN,1899,Posey,J. Posey,0,0,0,,0,73.0,64.0,137,h,Posey Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,328
+20000250,329,PT04M26.00S,3,1610612743,DEN,1899,Posey,J. Posey,0,0,0,,0,0.0,0.0,0,h,MISS Posey Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,329
+20000250,330,PT04M24.00S,3,0,,1610612755,,,0,0,0,,0,0.0,0.0,0,v,76ers Rebound,Rebound,Unknown,0,330
+20000250,331,PT04M08.00S,3,1610612743,DEN,1899,Posey,J. Posey,0,0,0,,0,0.0,0.0,0,h,Posey P.FOUL (P4.PN),Foul,Personal,0,331
+20000250,332,PT04M08.00S,3,1610612743,DEN,1899,Posey,J. Posey,0,0,0,,0,0.0,0.0,0,h,SUB: McCloud FOR Posey,Substitution,,0,332
+20000250,333,PT04M08.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,73.0,65.0,138,v,Iverson Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,0,333
+20000250,334,PT04M08.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,73.0,66.0,139,v,Iverson Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,0,334
+20000250,335,PT03M55.00S,3,1610612743,DEN,123,Pack,R. Pack,0,0,0,Missed,1,0.0,0.0,0,h,MISS Pack  Driving Layup,Missed Shot,Driving Layup Shot,0,335
+20000250,336,PT03M50.00S,3,1610612755,PHI,1928,MacCulloch,T. MacCulloch,0,0,0,,0,0.0,0.0,0,v,MacCulloch REBOUND (Off:2 Def:1),Rebound,Unknown,0,336
+20000250,337,PT03M46.00S,3,1610612743,DEN,45,McCloud,G. McCloud,0,0,0,,0,0.0,0.0,0,h,McCloud S.FOUL (P1.PN),Foul,Shooting,0,337
+20000250,338,PT03M46.00S,3,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,h,SUB: Clark FOR LaFrentz,Substitution,,0,338
+20000250,339,PT03M46.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,MISS Iverson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,339
+20000250,340,PT03M46.00S,3,0,,1610612755,,,0,0,0,,0,0.0,0.0,0,v,76ers Rebound,Rebound,Normal Rebound,0,340
+20000250,341,PT03M46.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,73.0,67.0,140,v,Iverson Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,0,341
+20000250,342,PT03M32.00S,3,1610612755,PHI,389,Kukoc,T. Kukoc,0,0,0,,0,0.0,0.0,0,v,Kukoc P.FOUL (P3.PN),Foul,Personal,0,342
+20000250,343,PT03M32.00S,3,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,0.0,0.0,0,v,SUB: Maxwell FOR Snow,Substitution,,0,343
+20000250,344,PT03M32.00S,3,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,,0,74.0,67.0,141,h,McDyess Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,344
+20000250,345,PT03M32.00S,3,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,,0,75.0,67.0,142,h,McDyess Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,345
+20000250,346,PT03M10.00S,3,1610612755,PHI,137,Maxwell,V. Maxwell,-176,186,26,Made,1,75.0,70.0,145,v,Maxwell 26' 3PT Jump Shot (3 PTS) (Kukoc 2 AST),Made Shot,Jump Shot,0,346
+20000250,347,PT02M43.00S,3,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,h,McDyess Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,347
+20000250,347,PT02M43.00S,3,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,0.0,0.0,0,v,McKie STEAL (1 STL),,,0,348
+20000250,348,PT02M38.00S,3,1610612755,PHI,137,Maxwell,V. Maxwell,-240,0,24,Missed,1,0.0,0.0,0,v,MISS Maxwell 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,349
+20000250,349,PT02M36.00S,3,1610612743,DEN,1721,Clark,K. Clark,0,0,0,,0,0.0,0.0,0,h,Clark REBOUND (Off:1 Def:3),Rebound,Unknown,0,350
+20000250,350,PT02M34.00S,3,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,0.0,0.0,0,v,McKie P.FOUL (P3.PN),Foul,Personal,0,351
+20000250,351,PT02M34.00S,3,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,h,NUGGETS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,352
+20000250,353,PT02M34.00S,3,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,76.0,70.0,146,h,Lenard Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,353
+20000250,354,PT02M34.00S,3,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,77.0,70.0,147,h,Lenard Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,354
+20000250,355,PT02M14.00S,3,1610612743,DEN,1721,Clark,K. Clark,0,0,0,,0,0.0,0.0,0,h,Clark S.FOUL (P3.PN),Foul,Shooting,0,355
+20000250,356,PT02M14.00S,3,1610612755,PHI,389,Kukoc,T. Kukoc,0,0,0,,0,77.0,71.0,148,v,Kukoc Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,356
+20000250,357,PT02M14.00S,3,1610612755,PHI,389,Kukoc,T. Kukoc,0,0,0,,0,77.0,72.0,149,v,Kukoc Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,357
+20000250,358,PT01M56.00S,3,1610612743,DEN,45,McCloud,G. McCloud,-168,192,26,Missed,1,0.0,0.0,0,h,MISS McCloud 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,358
+20000250,359,PT01M53.00S,3,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,h,Lenard REBOUND (Off:2 Def:5),Rebound,Unknown,0,359
+20000250,360,PT01M53.00S,3,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,0.0,0.0,0,v,McKie P.FOUL (P4.PN),Foul,Personal,0,360
+20000250,361,PT01M53.00S,3,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,78.0,72.0,150,h,Lenard Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,361
+20000250,362,PT01M53.00S,3,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,79.0,72.0,151,h,Lenard Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,362
+20000250,363,PT01M40.00S,3,1610612755,PHI,137,Maxwell,V. Maxwell,-37,57,7,Missed,1,0.0,0.0,0,v,MISS Maxwell 7' Running Jump Shot,Missed Shot,Running Jump Shot,0,363
+20000250,366,PT01M34.00S,3,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,h,McDyess REBOUND (Off:3 Def:6),Rebound,Unknown,0,364
+20000250,367,PT01M22.00S,3,1610612743,DEN,123,Pack,R. Pack,0,0,0,Made,1,81.0,72.0,153,h,Pack  Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,365
+20000250,368,PT01M13.00S,3,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,0.0,0.0,0,v,McKie Lost Ball Turnover (P3.T13),Turnover,Lost Ball,0,366
+20000250,368,PT01M13.00S,3,1610612743,DEN,123,Pack,R. Pack,0,0,0,,0,0.0,0.0,0,h,Pack STEAL (1 STL),,,0,367
+20000250,369,PT01M09.00S,3,1610612743,DEN,123,Pack,R. Pack,0,0,0,Missed,1,0.0,0.0,0,h,MISS Pack  Layup,Missed Shot,Layup Shot,0,368
+20000250,372,PT01M09.00S,3,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,h,Lenard REBOUND (Off:3 Def:5),Rebound,Unknown,0,369
+20000250,374,PT01M09.00S,3,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,Missed,1,0.0,0.0,0,h,MISS Lenard  Layup,Missed Shot,Layup Shot,0,370
+20000250,370,PT01M06.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson REBOUND (Off:1 Def:6),Rebound,Unknown,0,371
+20000250,371,PT01M02.00S,3,1610612743,DEN,1721,Clark,K. Clark,0,0,0,,0,0.0,0.0,0,h,Clark S.FOUL (P4.PN),Foul,Shooting,0,372
+20000250,373,PT01M02.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,MISS Iverson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,373
+20000250,375,PT01M02.00S,3,0,,1610612755,,,0,0,0,,0,0.0,0.0,0,v,76ers Rebound,Rebound,Normal Rebound,0,374
+20000250,376,PT01M02.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,81.0,73.0,154,v,Iverson Free Throw 2 of 2 (29 PTS),Free Throw,Free Throw 2 of 2,0,375
+20000250,377,PT00M46.80S,3,1610612755,PHI,389,Kukoc,T. Kukoc,0,0,0,,0,0.0,0.0,0,v,Kukoc P.FOUL (P4.PN),Foul,Personal,0,376
+20000250,379,PT00M46.80S,3,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,,0,82.0,73.0,155,h,McDyess Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,377
+20000250,380,PT00M46.80S,3,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,,0,83.0,73.0,156,h,McDyess Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,378
+20000250,381,PT00M38.10S,3,1610612743,DEN,1721,Clark,K. Clark,0,0,0,,0,0.0,0.0,0,h,Clark S.FOUL (P5.PN),Foul,Shooting,0,379
+20000250,382,PT00M38.10S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,83.0,74.0,157,v,Iverson Free Throw 1 of 2 (30 PTS),Free Throw,Free Throw 1 of 2,0,380
+20000250,383,PT00M38.10S,3,1610612743,DEN,1721,Clark,K. Clark,0,0,0,,0,0.0,0.0,0,h,SUB: LaFrentz FOR Clark,Substitution,,0,381
+20000250,384,PT00M38.10S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,83.0,75.0,158,v,Iverson Free Throw 2 of 2 (31 PTS),Free Throw,Free Throw 2 of 2,0,382
+20000250,385,PT00M28.90S,3,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,Made,1,85.0,75.0,160,h,LaFrentz  Layup (23 PTS),Made Shot,Layup Shot,0,383
+20000250,386,PT00M04.90S,3,1610612755,PHI,243,McKie,A. McKie,228,34,0,Made,1,85.0,78.0,163,v,McKie  3PT Jump Shot (3 PTS) (Kukoc 3 AST),Made Shot,Jump Shot,0,384
+20000250,387,PT00M00.00S,3,1610612743,DEN,123,Pack,R. Pack,0,0,0,Missed,1,0.0,0.0,0,h,MISS Pack  Driving Layup,Missed Shot,Driving Layup Shot,0,385
+20000250,388,PT00M00.00S,3,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,h,NUGGETS Rebound,Rebound,Unknown,0,386
+20000250,389,PT00M00.00S,3,0,,0,,,0,0,0,,0,85.0,78.0,163,,End of 3rd Period (2:57 PM EST),period,end,0,387
+20000250,391,PT12M00.00S,4,0,,0,,,0,0,0,,0,85.0,78.0,163,,Start of 4th Period (2:59 PM EST),period,start,0,388
+20000250,392,PT11M46.00S,4,1610612743,DEN,1711,LaFrentz,R. LaFrentz,62,-11,6,Made,1,87.0,78.0,165,h,LaFrentz 6' Hook Shot (25 PTS) (Van Exel 8 AST),Made Shot,Hook Shot,0,389
+20000250,393,PT11M31.00S,4,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,0.0,0.0,0,v,Snow Bad Pass Turnover (P4.T14),Turnover,Bad Pass,0,390
+20000250,393,PT11M31.00S,4,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,h,Lenard STEAL (2 STL),,,0,391
+20000250,394,PT11M27.00S,4,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,h,Lenard Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,392
+20000250,394,PT11M27.00S,4,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,0.0,0.0,0,v,McKie STEAL (2 STL),,,0,393
+20000250,395,PT11M24.00S,4,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,Made,1,87.0,80.0,167,v,Ratliff  Dunk (12 PTS) (McKie 1 AST),Made Shot,Dunk Shot,0,394
+20000250,396,PT11M19.00S,4,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,Missed,1,0.0,0.0,0,h,MISS McDyess  Layup,Missed Shot,Layup Shot,0,395
+20000250,396,PT11M19.00S,4,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,0.0,0.0,0,v,Snow BLOCK (1 BLK),,,0,396
+20000250,397,PT11M15.00S,4,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,0.0,0.0,0,v,Snow REBOUND (Off:0 Def:4),Rebound,Unknown,0,397
+20000250,398,PT11M13.00S,4,1610612755,PHI,243,McKie,A. McKie,235,-4,24,Missed,1,0.0,0.0,0,v,MISS McKie 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,398
+20000250,399,PT11M12.00S,4,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,h,NUGGETS Rebound,Rebound,Unknown,0,399
+20000250,400,PT10M57.00S,4,1610612743,DEN,702,Lenard,V. Lenard,113,45,12,Missed,1,0.0,0.0,0,h,MISS Lenard 12' Jump Shot,Missed Shot,Jump Shot,0,400
+20000250,401,PT10M54.00S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson REBOUND (Off:1 Def:7),Rebound,Unknown,0,401
+20000250,402,PT10M46.00S,4,1610612755,PHI,689,Ratliff,T. Ratliff,3,125,13,Missed,1,0.0,0.0,0,v,MISS Ratliff 13' Jump Shot,Missed Shot,Jump Shot,0,402
+20000250,403,PT10M43.00S,4,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,h,LaFrentz REBOUND (Off:3 Def:6),Rebound,Unknown,0,403
+20000250,404,PT10M31.00S,4,1610612743,DEN,702,Lenard,V. Lenard,-233,-4,0,Missed,1,0.0,0.0,0,h,MISS Lenard  3PT Jump Shot,Missed Shot,Jump Shot,0,404
+20000250,405,PT10M28.00S,4,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,0.0,0.0,0,v,Snow REBOUND (Off:0 Def:5),Rebound,Unknown,0,405
+20000250,406,PT10M21.00S,4,1610612755,PHI,947,Iverson,A. Iverson,163,101,19,Missed,1,0.0,0.0,0,v,MISS Iverson 19' Jump Shot,Missed Shot,Jump Shot,0,406
+20000250,407,PT10M17.00S,4,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,h,Lenard REBOUND (Off:3 Def:6),Rebound,Unknown,0,407
+20000250,408,PT10M10.00S,4,1610612743,DEN,686,McDyess,A. McDyess,157,61,17,Missed,1,0.0,0.0,0,h,MISS McDyess 17' Jump Shot,Missed Shot,Jump Shot,0,408
+20000250,408,PT10M10.00S,4,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,0.0,0.0,0,v,Ratliff BLOCK (4 BLK),,,0,409
+20000250,410,PT10M03.00S,4,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,h,Lenard REBOUND (Off:4 Def:6),Rebound,Unknown,0,410
+20000250,409,PT10M03.00S,4,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,Made,1,89.0,80.0,169,h,Lenard  Layup (19 PTS),Made Shot,Layup Shot,0,411
+20000250,411,PT09M45.00S,4,1610612755,PHI,689,Ratliff,T. Ratliff,-183,0,18,Missed,1,0.0,0.0,0,v,MISS Ratliff 18' Jump Shot,Missed Shot,Jump Shot,0,412
+20000250,412,PT09M43.00S,4,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,h,LaFrentz REBOUND (Off:3 Def:7),Rebound,Unknown,0,413
+20000250,413,PT09M31.00S,4,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,h,Lenard Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,414
+20000250,413,PT09M31.00S,4,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,0.0,0.0,0,v,Ratliff STEAL (2 STL),,,0,415
+20000250,414,PT09M24.00S,4,1610612755,PHI,947,Iverson,A. Iverson,-58,45,7,Made,1,89.0,82.0,171,v,Iverson 7' Driving Layup (33 PTS),Made Shot,Driving Layup Shot,0,416
+20000250,415,PT09M05.00S,4,1610612743,DEN,686,McDyess,A. McDyess,163,68,18,Made,1,91.0,82.0,173,h,McDyess 18' Jump Shot (20 PTS) (Van Exel 9 AST),Made Shot,Jump Shot,0,417
+20000250,416,PT08M47.00S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,Missed,1,0.0,0.0,0,v,MISS Iverson  Driving Layup,Missed Shot,Driving Layup Shot,0,418
+20000250,416,PT08M47.00S,4,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,h,McDyess BLOCK (1 BLK),,,0,419
+20000250,417,PT08M41.00S,4,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,h,LaFrentz REBOUND (Off:3 Def:8),Rebound,Unknown,0,420
+20000250,418,PT08M38.00S,4,1610612743,DEN,89,Van Exel,N. Van Exel,32,85,9,Missed,1,0.0,0.0,0,h,MISS Van Exel 9' Running Jump Shot,Missed Shot,Running Jump Shot,0,421
+20000250,418,PT08M38.00S,4,1610612755,PHI,1928,MacCulloch,T. MacCulloch,0,0,0,,0,0.0,0.0,0,v,MacCulloch BLOCK (1 BLK),,,0,422
+20000250,419,PT08M34.00S,4,1610612755,PHI,1928,MacCulloch,T. MacCulloch,0,0,0,,0,0.0,0.0,0,v,MacCulloch REBOUND (Off:2 Def:2),Rebound,Unknown,0,423
+20000250,420,PT08M32.00S,4,1610612755,PHI,947,Iverson,A. Iverson,11,57,6,Missed,1,0.0,0.0,0,v,MISS Iverson 6' Jump Shot,Missed Shot,Jump Shot,0,424
+20000250,421,PT08M30.00S,4,1610612755,PHI,1928,MacCulloch,T. MacCulloch,0,0,0,,0,0.0,0.0,0,v,MacCulloch REBOUND (Off:3 Def:2),Rebound,Unknown,0,425
+20000250,422,PT08M29.00S,4,1610612755,PHI,1928,MacCulloch,T. MacCulloch,11,61,6,Missed,1,0.0,0.0,0,v,MISS MacCulloch 6' Jump Shot,Missed Shot,Jump Shot,0,426
+20000250,423,PT08M26.00S,4,1610612743,DEN,45,McCloud,G. McCloud,0,0,0,,0,0.0,0.0,0,h,McCloud REBOUND (Off:0 Def:1),Rebound,Unknown,0,427
+20000250,424,PT08M23.00S,4,1610612743,DEN,89,Van Exel,N. Van Exel,184,165,25,Missed,1,0.0,0.0,0,h,MISS Van Exel 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,428
+20000250,425,PT08M21.00S,4,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,0.0,0.0,0,v,Ratliff REBOUND (Off:1 Def:2),Rebound,Unknown,0,429
+20000250,426,PT08M12.00S,4,1610612743,DEN,45,McCloud,G. McCloud,0,0,0,,0,0.0,0.0,0,h,McCloud P.FOUL (P2.T1),Foul,Personal,0,430
+20000250,427,PT08M12.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,431
+20000250,429,PT08M12.00S,4,1610612755,PHI,1928,MacCulloch,T. MacCulloch,0,0,0,,0,0.0,0.0,0,v,SUB: Lynch FOR MacCulloch,Substitution,,0,432
+20000250,430,PT08M12.00S,4,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,0.0,0.0,0,v,SUB: Jones FOR McKie,Substitution,,0,433
+20000250,431,PT08M12.00S,4,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,h,SUB: Abdul-Wahad FOR Lenard,Substitution,,0,434
+20000250,432,PT08M04.00S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson Traveling Turnover (P3.T15),Turnover,Traveling,0,435
+20000250,433,PT07M48.00S,4,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,0.0,0.0,0,v,Ratliff S.FOUL (P5.T1),Foul,Shooting,0,436
+20000250,434,PT07M48.00S,4,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,,0,92.0,82.0,174,h,McDyess Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,437
+20000250,435,PT07M48.00S,4,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,,0,93.0,82.0,175,h,McDyess Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,438
+20000250,436,PT07M37.00S,4,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,h,McDyess P.FOUL (P1.T2),Foul,Personal,0,439
+20000250,437,PT07M37.00S,4,0,,1610612755,,,0,0,0,,0,0.0,0.0,0,v,76ers Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,440
+20000250,439,PT07M28.00S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,Missed,1,0.0,0.0,0,v,MISS Iverson  Driving Layup,Missed Shot,Driving Layup Shot,0,441
+20000250,440,PT07M26.00S,4,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,h,LaFrentz REBOUND (Off:3 Def:9),Rebound,Unknown,0,442
+20000250,441,PT07M14.00S,4,1610612743,DEN,1505,Abdul-Wahad,T. Abdul-Wahad,0,0,0,,0,0.0,0.0,0,h,Abdul-Wahad OFF.Foul (P2),Foul,Offensive,0,443
+20000250,442,PT07M14.00S,4,1610612743,DEN,1505,Abdul-Wahad,T. Abdul-Wahad,0,0,0,,0,0.0,0.0,0,h,Abdul-Wahad Foul Turnover (P3.T11),Turnover,Foul,0,444
+20000250,443,PT06M58.00S,4,1610612755,PHI,727,Snow,E. Snow,-58,78,10,Made,1,93.0,84.0,177,v,Snow 10' Running Jump Shot (6 PTS) (Iverson 3 AST),Made Shot,Running Jump Shot,0,445
+20000250,444,PT06M38.00S,4,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,Made,1,95.0,84.0,179,h,McDyess  Slam Dunk (24 PTS) (McCloud 2 AST),Made Shot,Slam Dunk Shot,0,446
+20000250,445,PT06M14.00S,4,1610612755,PHI,947,Iverson,A. Iverson,-58,4,6,Missed,1,0.0,0.0,0,v,MISS Iverson 6' Jump Shot,Missed Shot,Jump Shot,0,447
+20000250,446,PT06M14.00S,4,0,,1610612755,,,0,0,0,,0,0.0,0.0,0,v,76ers Rebound,Rebound,Unknown,0,448
+20000250,447,PT06M10.00S,4,1610612755,PHI,689,Ratliff,T. Ratliff,70,85,11,Missed,1,0.0,0.0,0,v,MISS Ratliff 11' Jump Shot,Missed Shot,Jump Shot,0,449
+20000250,447,PT06M10.00S,4,1610612743,DEN,1505,Abdul-Wahad,T. Abdul-Wahad,0,0,0,,0,0.0,0.0,0,h,Abdul-Wahad BLOCK (1 BLK),,,0,450
+20000250,448,PT06M07.00S,4,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,h,LaFrentz REBOUND (Off:3 Def:10),Rebound,Unknown,0,451
+20000250,449,PT06M03.00S,4,1610612743,DEN,1505,Abdul-Wahad,T. Abdul-Wahad,178,-11,18,Missed,1,0.0,0.0,0,h,MISS Abdul-Wahad 18' Jump Shot,Missed Shot,Jump Shot,0,452
+20000250,450,PT06M03.00S,4,0,,1610612755,,,0,0,0,,0,0.0,0.0,0,v,76ers Rebound,Rebound,Unknown,0,453
+20000250,451,PT06M03.00S,4,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,h,SUB: Clark FOR LaFrentz,Substitution,,0,454
+20000250,452,PT05M49.00S,4,1610612755,PHI,248,Lynch,G. Lynch,77,4,8,Made,1,95.0,86.0,181,v,Lynch 8' Jump Shot (8 PTS) (Snow 9 AST),Made Shot,Jump Shot,0,455
+20000250,453,PT05M49.00S,4,1610612743,DEN,1505,Abdul-Wahad,T. Abdul-Wahad,0,0,0,,0,0.0,0.0,0,h,Abdul-Wahad S.FOUL (P3.T3),Foul,Shooting,0,456
+20000250,454,PT05M49.00S,4,1610612743,DEN,1505,Abdul-Wahad,T. Abdul-Wahad,0,0,0,,0,0.0,0.0,0,h,SUB: Lenard FOR Abdul-Wahad,Substitution,,0,457
+20000250,455,PT05M49.00S,4,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,MISS Lynch Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,458
+20000250,456,PT05M48.00S,4,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,Lynch REBOUND (Off:4 Def:3),Rebound,Unknown,0,459
+20000250,457,PT05M43.00S,4,1610612755,PHI,947,Iverson,A. Iverson,-1,45,5,Missed,1,0.0,0.0,0,v,MISS Iverson 5' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,460
+20000250,459,PT05M39.00S,4,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,0.0,0.0,0,v,Ratliff REBOUND (Off:2 Def:2),Rebound,Unknown,0,461
+20000250,458,PT05M39.00S,4,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,Missed,1,0.0,0.0,0,v,MISS Ratliff  Tip Shot,Missed Shot,Tip Shot,0,462
+20000250,460,PT05M36.00S,4,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,h,McDyess REBOUND (Off:3 Def:7),Rebound,Unknown,0,463
+20000250,461,PT05M17.00S,4,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,Missed,1,0.0,0.0,0,h,MISS McDyess  Driving Layup,Missed Shot,Driving Layup Shot,0,464
+20000250,462,PT05M17.00S,4,0,,1610612755,,,0,0,0,,0,0.0,0.0,0,v,76ers Rebound,Rebound,Unknown,0,465
+20000250,463,PT05M12.00S,4,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,h,Lenard P.FOUL (P2.T4),Foul,Personal,0,466
+20000250,464,PT05M12.00S,4,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,95.0,87.0,182,v,Snow Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,467
+20000250,465,PT05M12.00S,4,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,95.0,88.0,183,v,Snow Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,468
+20000250,466,PT04M54.00S,4,1610612743,DEN,89,Van Exel,N. Van Exel,-1,259,26,Missed,1,0.0,0.0,0,h,MISS Van Exel 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,469
+20000250,467,PT04M52.00S,4,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,0.0,0.0,0,v,Snow REBOUND (Off:0 Def:6),Rebound,Unknown,0,470
+20000250,468,PT04M46.00S,4,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,0.0,0.0,0,v,Snow Bad Pass Turnover (P5.T16),Turnover,Bad Pass,0,471
+20000250,468,PT04M46.00S,4,1610612743,DEN,1721,Clark,K. Clark,0,0,0,,0,0.0,0.0,0,h,Clark STEAL (1 STL),,,0,472
+20000250,469,PT04M46.00S,4,1610612755,PHI,1908,Jones,J. Jones,0,0,0,,0,0.0,0.0,0,v,Jones P.FOUL (P1.T2),Foul,Personal,0,473
+20000250,470,PT04M29.00S,4,1610612743,DEN,45,McCloud,G. McCloud,32,61,7,Made,1,97.0,88.0,185,h,McCloud 7' Running Jump Shot (6 PTS) (Van Exel 10 AST),Made Shot,Running Jump Shot,0,474
+20000250,471,PT04M26.00S,4,1610612743,DEN,45,McCloud,G. McCloud,0,0,0,,0,0.0,0.0,0,h,McCloud P.FOUL (P3.PN),Foul,Personal,0,475
+20000250,472,PT04M26.00S,4,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,97.0,89.0,186,v,Snow Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,476
+20000250,473,PT04M26.00S,4,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,97.0,90.0,187,v,Snow Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,477
+20000250,474,PT04M06.00S,4,1610612743,DEN,686,McDyess,A. McDyess,3,61,6,Missed,1,0.0,0.0,0,h,MISS McDyess 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,478
+20000250,474,PT04M06.00S,4,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,0.0,0.0,0,v,Ratliff BLOCK (5 BLK),,,0,479
+20000250,475,PT04M03.00S,4,1610612755,PHI,1908,Jones,J. Jones,0,0,0,,0,0.0,0.0,0,v,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,480
+20000250,476,PT03M59.00S,4,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,0.0,0.0,0,v,Snow Traveling Turnover (P6.T17),Turnover,Traveling,0,481
+20000250,477,PT03M59.00S,4,1610612743,DEN,1721,Clark,K. Clark,0,0,0,,0,0.0,0.0,0,h,SUB: LaFrentz FOR Clark,Substitution,,0,482
+20000250,478,PT03M42.00S,4,1610612743,DEN,89,Van Exel,N. Van Exel,-1,68,7,Made,1,99.0,90.0,189,h,Van Exel 7' Running Jump Shot (11 PTS),Made Shot,Running Jump Shot,0,483
+20000250,479,PT03M32.00S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson OFF.Foul (P1),Foul,Offensive,0,484
+20000250,480,PT03M32.00S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson Foul Turnover (P4.T18),Turnover,Foul,0,485
+20000250,481,PT03M20.00S,4,1610612743,DEN,89,Van Exel,N. Van Exel,178,85,20,Missed,1,0.0,0.0,0,h,MISS Van Exel 20' Jump Shot,Missed Shot,Jump Shot,0,486
+20000250,482,PT03M18.00S,4,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,h,McDyess REBOUND (Off:4 Def:7),Rebound,Unknown,0,487
+20000250,483,PT03M15.00S,4,1610612743,DEN,702,Lenard,V. Lenard,-233,4,0,Missed,1,0.0,0.0,0,h,MISS Lenard  3PT Jump Shot,Missed Shot,Jump Shot,0,488
+20000250,484,PT03M12.00S,4,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,0.0,0.0,0,v,Snow REBOUND (Off:0 Def:7),Rebound,Unknown,0,489
+20000250,485,PT03M10.00S,4,0,,1610612755,,,0,0,0,,0,0.0,0.0,0,v,76ers Timeout: Short (Reg.4 Short 2),Timeout,Short,0,490
+20000250,487,PT03M10.00S,4,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,h,NUGGETS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,491
+20000250,488,PT03M02.00S,4,1610612755,PHI,1908,Jones,J. Jones,-233,4,0,Missed,1,0.0,0.0,0,v,MISS Jones  3PT Jump Shot,Missed Shot,Jump Shot,0,492
+20000250,489,PT02M59.00S,4,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,h,Lenard REBOUND (Off:4 Def:7),Rebound,Unknown,0,493
+20000250,490,PT02M37.00S,4,1610612743,DEN,686,McDyess,A. McDyess,184,-4,18,Missed,1,0.0,0.0,0,h,MISS McDyess 18' Jump Shot,Missed Shot,Jump Shot,0,494
+20000250,491,PT02M35.00S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson REBOUND (Off:1 Def:8),Rebound,Unknown,0,495
+20000250,492,PT02M32.00S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,Made,1,99.0,92.0,191,v,Iverson  Driving Layup (35 PTS),Made Shot,Driving Layup Shot,0,496
+20000250,493,PT02M32.00S,4,1610612743,DEN,89,Van Exel,N. Van Exel,0,0,0,,0,0.0,0.0,0,h,Van Exel S.FOUL (P5.PN),Foul,Shooting,0,497
+20000250,494,PT02M32.00S,4,1610612755,PHI,1908,Jones,J. Jones,0,0,0,,0,0.0,0.0,0,v,SUB: McKie FOR Jones,Substitution,,0,498
+20000250,495,PT02M32.00S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,99.0,93.0,192,v,Iverson Free Throw 1 of 1 (36 PTS),Free Throw,Free Throw 1 of 1,0,499
+20000250,496,PT02M09.00S,4,1610612743,DEN,89,Van Exel,N. Van Exel,70,306,31,Missed,1,0.0,0.0,0,h,MISS Van Exel 31' 3PT Jump Shot,Missed Shot,Jump Shot,0,500
+20000250,497,PT02M08.00S,4,0,,1610612755,,,0,0,0,,0,0.0,0.0,0,v,76ers Rebound,Rebound,Unknown,0,501
+20000250,498,PT02M08.00S,4,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,h,McDyess L.B.FOUL (P2.PN),Foul,Loose Ball,0,502
+20000250,499,PT02M08.00S,4,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,99.0,94.0,193,v,Ratliff Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,503
+20000250,500,PT02M08.00S,4,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,99.0,95.0,194,v,Ratliff Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,504
+20000250,501,PT02M07.00S,4,1610612743,DEN,686,McDyess,A. McDyess,0,0,0,,0,0.0,0.0,0,h,McDyess Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,505
+20000250,501,PT02M07.00S,4,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,Lynch STEAL (1 STL),,,0,506
+20000250,502,PT02M05.00S,4,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,Made,1,99.0,97.0,196,v,Lynch  Slam Dunk (10 PTS),Made Shot,Slam Dunk Shot,0,507
+20000250,503,PT02M04.00S,4,0,,1610612743,,,0,0,0,,0,0.0,0.0,0,h,NUGGETS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,508
+20000250,505,PT01M45.00S,4,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,h,Lenard Lost Ball Turnover (P4.T13),Turnover,Lost Ball,0,509
+20000250,505,PT01M45.00S,4,1610612755,PHI,727,Snow,E. Snow,0,0,0,,0,0.0,0.0,0,v,Snow STEAL (1 STL),,,0,510
+20000250,506,PT01M44.00S,4,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,h,Lenard L.B.FOUL (P3.PN),Foul,Loose Ball,0,511
+20000250,507,PT01M44.00S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,99.0,98.0,197,v,Iverson Free Throw 1 of 2 (37 PTS),Free Throw,Free Throw 1 of 2,0,512
+20000250,508,PT01M44.00S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,MISS Iverson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,513
+20000250,509,PT01M43.00S,4,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,h,LaFrentz REBOUND (Off:3 Def:11),Rebound,Unknown,0,514
+20000250,510,PT01M27.00S,4,1610612743,DEN,686,McDyess,A. McDyess,-168,0,17,Missed,1,0.0,0.0,0,h,MISS McDyess 17' Jump Shot,Missed Shot,Jump Shot,0,515
+20000250,511,PT01M25.00S,4,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,0.0,0.0,0,v,Ratliff REBOUND (Off:2 Def:3),Rebound,Unknown,0,516
+20000250,512,PT01M21.00S,4,1610612755,PHI,947,Iverson,A. Iverson,62,15,6,Missed,1,0.0,0.0,0,v,MISS Iverson 6' Driving Layup,Missed Shot,Driving Layup Shot,0,517
+20000250,513,PT01M15.00S,4,1610612743,DEN,702,Lenard,V. Lenard,0,0,0,,0,0.0,0.0,0,h,Lenard REBOUND (Off:4 Def:8),Rebound,Unknown,0,518
+20000250,514,PT01M04.00S,4,1610612743,DEN,89,Van Exel,N. Van Exel,0,0,0,Made,1,101.0,98.0,199,h,Van Exel  Driving Layup (13 PTS),Made Shot,Driving Layup Shot,0,519
+20000250,515,PT00M56.90S,4,0,,1610612755,,,0,0,0,,0,0.0,0.0,0,v,76ers Timeout: Regular (Reg.5 Short 2),Timeout,Regular,0,520
+20000250,517,PT00M56.90S,4,1610612743,DEN,45,McCloud,G. McCloud,0,0,0,,0,0.0,0.0,0,h,SUB: Posey FOR McCloud,Substitution,,0,521
+20000250,518,PT00M54.90S,4,1610612755,PHI,248,Lynch,G. Lynch,3,259,26,Missed,1,0.0,0.0,0,v,MISS Lynch 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,522
+20000250,518,PT00M54.90S,4,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,h,LaFrentz BLOCK (4 BLK),,,0,523
+20000250,519,PT00M51.90S,4,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,0.0,0.0,0,v,Ratliff REBOUND (Off:3 Def:3),Rebound,Unknown,0,524
+20000250,520,PT00M51.90S,4,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,0.0,0.0,0,v,Ratliff OFF.Foul (P6),Foul,Offensive,0,525
+20000250,521,PT00M51.90S,4,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,0.0,0.0,0,v,Ratliff Foul Turnover (P4.T19),Turnover,Foul,0,526
+20000250,522,PT00M51.90S,4,1610612743,DEN,1899,Posey,J. Posey,0,0,0,,0,0.0,0.0,0,h,SUB: McCloud FOR Posey,Substitution,,0,527
+20000250,523,PT00M51.90S,4,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,0.0,0.0,0,v,SUB: Kukoc FOR Ratliff,Substitution,,0,528
+20000250,524,PT00M28.90S,4,1610612743,DEN,1711,LaFrentz,R. LaFrentz,169,-4,17,Missed,1,0.0,0.0,0,h,MISS LaFrentz 17' Jump Shot,Missed Shot,Jump Shot,0,529
+20000250,525,PT00M25.80S,4,0,,1610612755,,,0,0,0,,0,0.0,0.0,0,v,76ers Rebound,Rebound,Unknown,0,530
+20000250,526,PT00M25.80S,4,1610612743,DEN,45,McCloud,G. McCloud,0,0,0,,0,0.0,0.0,0,h,SUB: Posey FOR McCloud,Substitution,,0,531
+20000250,527,PT00M18.90S,4,1610612755,PHI,243,McKie,A. McKie,-212,34,21,Missed,1,0.0,0.0,0,v,MISS McKie 21' Jump Shot,Missed Shot,Jump Shot,0,532
+20000250,528,PT00M17.30S,4,0,,1610612755,,,0,0,0,,0,0.0,0.0,0,v,76ers Rebound,Rebound,Unknown,0,533
+20000250,529,PT00M17.30S,4,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,h,LaFrentz P.FOUL (P4.PN),Foul,Personal,0,534
+20000250,530,PT00M17.30S,4,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,MISS Lynch Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,535
+20000250,531,PT00M17.30S,4,0,,1610612755,,,0,0,0,,0,0.0,0.0,0,v,76ers Rebound,Rebound,Normal Rebound,0,536
+20000250,532,PT00M17.30S,4,1610612743,DEN,1899,Posey,J. Posey,0,0,0,,0,0.0,0.0,0,h,SUB: McCloud FOR Posey,Substitution,,0,537
+20000250,533,PT00M17.30S,4,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,MISS Lynch Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,538
+20000250,534,PT00M16.80S,4,1610612743,DEN,45,McCloud,G. McCloud,0,0,0,,0,0.0,0.0,0,h,McCloud REBOUND (Off:0 Def:2),Rebound,Unknown,0,539
+20000250,535,PT00M14.20S,4,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,Lynch P.FOUL (P5.T3),Foul,Personal,0,540
+20000250,536,PT00M14.20S,4,1610612755,PHI,389,Kukoc,T. Kukoc,0,0,0,,0,0.0,0.0,0,v,SUB: Jones FOR Kukoc,Substitution,,0,541
+20000250,537,PT00M10.00S,4,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,0.0,0.0,0,v,McKie P.FOUL (P5.PN),Foul,Personal,0,542
+20000250,538,PT00M10.00S,4,1610612743,DEN,89,Van Exel,N. Van Exel,0,0,0,,0,102.0,98.0,200,h,Van Exel Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,543
+20000250,539,PT00M10.00S,4,1610612743,DEN,1711,LaFrentz,R. LaFrentz,0,0,0,,0,0.0,0.0,0,h,SUB: Posey FOR LaFrentz,Substitution,,0,544
+20000250,540,PT00M10.00S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,SUB: MacCulloch FOR Iverson,Substitution,,0,545
+20000250,541,PT00M10.00S,4,1610612743,DEN,89,Van Exel,N. Van Exel,0,0,0,,0,103.0,98.0,201,h,Van Exel Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,546
+20000250,542,PT00M10.00S,4,0,,1610612755,,,0,0,0,,0,0.0,0.0,0,v,76ers Timeout: Regular (Reg.6 Short 2),Timeout,Regular,0,547
+20000250,544,PT00M10.00S,4,1610612755,PHI,1928,MacCulloch,T. MacCulloch,0,0,0,,0,0.0,0.0,0,v,SUB: Kukoc FOR MacCulloch,Substitution,,0,548
+20000250,545,PT00M10.00S,4,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,SUB: Iverson FOR Lynch,Substitution,,0,549
+20000250,546,PT00M05.90S,4,1610612755,PHI,727,Snow,E. Snow,163,192,25,Missed,1,0.0,0.0,0,v,MISS Snow 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,550
+20000250,546,PT00M05.90S,4,1610612743,DEN,45,McCloud,G. McCloud,0,0,0,,0,0.0,0.0,0,h,McCloud BLOCK (1 BLK),,,0,551
+20000250,547,PT00M02.40S,4,1610612743,DEN,89,Van Exel,N. Van Exel,0,0,0,,0,0.0,0.0,0,h,Van Exel REBOUND (Off:0 Def:2),Rebound,Unknown,0,552
+20000250,548,PT00M02.40S,4,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,0.0,0.0,0,v,McKie P.FOUL (P6.PN),Foul,Personal,0,553
+20000250,549,PT00M02.40S,4,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,0.0,0.0,0,v,SUB: Lynch FOR McKie,Substitution,,0,554
+20000250,550,PT00M02.40S,4,1610612743,DEN,89,Van Exel,N. Van Exel,0,0,0,,0,104.0,98.0,202,h,Van Exel Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,555
+20000250,551,PT00M02.40S,4,1610612743,DEN,89,Van Exel,N. Van Exel,0,0,0,,0,105.0,98.0,203,h,Van Exel Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,556
+20000250,552,PT00M01.40S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,0.0,0.0,0,v,Iverson Bad Pass Turnover (P5.T20),Turnover,Bad Pass,0,557
+20000250,552,PT00M01.40S,4,1610612743,DEN,1899,Posey,J. Posey,0,0,0,,0,0.0,0.0,0,h,Posey STEAL (1 STL),,,0,558
+20000250,553,PT00M00.00S,4,0,,0,,,0,0,0,,0,105.0,98.0,203,,End of 4th Period (3:39 PM EST),period,end,0,559

@@ -1,0 +1,30 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId,clock_sec
+21501039,103,PT02M11.00S,1,1610612755,PHI,203924,Grant,J. Grant,0,0,0,,0,0.0,0.0,0,h,Grant REBOUND (Off:2 Def:2),Rebound,Unknown,1,101,589.0
+21501039,104,PT02M11.00S,1,1610612738,BOS,202323,Turner,E. Turner,0,0,0,,0,0.0,0.0,0,v,Turner P.FOUL (P1.T3) (D.Collins),Foul,Personal,1,102,589.0
+21501039,105,PT02M11.00S,1,0,,1610612738,,,0,0,0,,0,0.0,0.0,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,103,589.0
+21501039,106,PT02M11.00S,1,1610612738,BOS,202738,Thomas,I. Thomas,0,0,0,,0,0.0,0.0,0,v,SUB: Rozier FOR Thomas,Substitution,,0,104,589.0
+21501039,107,PT02M11.00S,1,1610612755,PHI,203924,Grant,J. Grant,0,0,0,,0,0.0,0.0,0,h,SUB: Landry FOR Grant,Substitution,,0,105,589.0
+21501039,108,PT02M02.00S,1,1610612755,PHI,1882,Brand,E. Brand,-4,121,12,Missed,1,0.0,0.0,0,h,MISS Brand 12' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,106,598.0
+21501039,109,PT02M00.00S,1,1610612738,BOS,1626179,Rozier,T. Rozier,0,0,0,,0,0.0,0.0,0,v,Rozier REBOUND (Off:0 Def:1),Rebound,Unknown,1,107,600.0
+21501039,110,PT01M45.00S,1,1610612738,BOS,203935,Smart,M. Smart,6,56,6,Made,1,11.0,24.0,35,v,Smart 6' Hook Shot (2 PTS),Made Shot,Hook Shot,1,108,615.0
+21501039,111,PT01M28.00S,1,1610612755,PHI,203088,Marshall,K. Marshall,-2,65,7,Missed,1,0.0,0.0,0,h,MISS Marshall 7' Jump Shot,Missed Shot,Jump Shot,1,109,632.0
+21501039,113,PT01M26.00S,1,1610612755,PHI,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,h,Brand REBOUND (Off:1 Def:1),Rebound,Unknown,1,110,634.0
+21501039,112,PT01M26.00S,1,1610612755,PHI,1882,Brand,E. Brand,-9,3,1,Made,1,13.0,24.0,37,h,Brand 1' Layup (2 PTS),Made Shot,Layup Shot,1,111,634.0
+21501039,114,PT01M26.00S,1,1610612738,BOS,203092,Zeller,T. Zeller,0,0,0,,0,0.0,0.0,0,v,Zeller S.FOUL (P2.T4) (J.Orr),Foul,Shooting,1,112,634.0
+21501039,115,PT01M26.00S,1,1610612755,PHI,1882,Brand,E. Brand,0,0,0,,0,14.0,24.0,38,h,Brand Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,113,634.0
+21501039,116,PT01M12.00S,1,1610612738,BOS,202323,Turner,E. Turner,-34,28,4,Made,1,14.0,26.0,40,v,Turner 4' Jump Shot (4 PTS) (Smart 2 AST),Made Shot,Jump Shot,1,114,648.0
+21501039,117,PT00M58.50S,1,1610612738,BOS,1626179,Rozier,T. Rozier,0,0,0,,0,0.0,0.0,0,v,Rozier P.FOUL (P1.PN) (J.Orr),Foul,Personal,1,115,661.5
+21501039,118,PT00M58.50S,1,1610612755,PHI,203917,Stauskas,N. Stauskas,0,0,0,,0,0.0,0.0,0,h,MISS Stauskas Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,116,661.5
+21501039,119,PT00M58.50S,1,0,,1610612755,,,0,0,0,,0,0.0,0.0,0,h,76ERS Rebound,Rebound,Normal Rebound,0,117,661.5
+21501039,120,PT00M58.50S,1,1610612755,PHI,203917,Stauskas,N. Stauskas,0,0,0,,0,0.0,0.0,0,h,MISS Stauskas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,118,661.5
+21501039,122,PT00M56.90S,1,1610612738,BOS,203092,Zeller,T. Zeller,0,0,0,,0,0.0,0.0,0,v,Zeller REBOUND (Off:0 Def:1),Rebound,Unknown,1,119,663.1
+21501039,123,PT00M47.10S,1,1610612755,PHI,201171,Landry,C. Landry,0,0,0,,0,0.0,0.0,0,h,Landry S.FOUL (P1.PN) (J.Orr),Foul,Shooting,1,120,672.9
+21501039,124,PT00M47.10S,1,1610612738,BOS,203092,Zeller,T. Zeller,0,0,0,,0,14.0,27.0,41,v,Zeller Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,121,672.9
+21501039,126,PT00M47.10S,1,1610612738,BOS,203092,Zeller,T. Zeller,0,0,0,,0,14.0,28.0,42,v,Zeller Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,122,672.9
+21501039,128,PT00M28.90S,1,1610612755,PHI,201171,Landry,C. Landry,-76,21,8,Made,1,16.0,28.0,44,h,Landry 8' Turnaround Jump Shot (2 PTS) (Marshall 1 AST),Made Shot,Turnaround Jump Shot,1,123,691.1
+21501039,129,PT00M12.30S,1,1610612738,BOS,203482,Olynyk,K. Olynyk,0,0,0,,0,0.0,0.0,0,v,Olynyk Offensive Charge Foul (P1.PN) (D.Collins),Foul,Offensive Charge,1,124,707.7
+21501039,130,PT00M12.30S,1,1610612738,BOS,203482,Olynyk,K. Olynyk,0,0,0,,0,0.0,0.0,0,v,Olynyk Foul Turnover (P1.T3),Turnover,Foul,1,125,707.7
+21501039,131,PT00M02.90S,1,1610612755,PHI,201171,Landry,C. Landry,32,237,24,Missed,1,0.0,0.0,0,h,MISS Landry 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,126,717.1
+21501039,132,PT00M00.80S,1,1610612738,BOS,202323,Turner,E. Turner,0,0,0,,0,0.0,0.0,0,v,Turner REBOUND (Off:0 Def:4),Rebound,Unknown,1,127,719.2
+21501039,134,PT00M00.00S,1,0,,0,,,0,0,0,,0,16.0,28.0,44,,End of 1st Period (6:35 PM EST),period,end,0,128,720.0
+21501039,135,PT12M00.00S,2,0,,0,,,0,0,0,,0,16.0,28.0,44,,Start of 2nd Period (6:38 PM EST),period,start,0,129,720.0

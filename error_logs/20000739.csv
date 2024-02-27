@@ -1,0 +1,566 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+20000739,1,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (11:45 AM EST),period,start,0,1
+20000739,2,PT12M00.00S,1,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,h,Jump Ball Campbell vs. O'Neal: Tip to Fox,Jump Ball,,0,2
+20000739,3,PT11M46.00S,1,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,Bryant OFF.Foul (P1),Foul,Offensive,0,3
+20000739,4,PT11M46.00S,1,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,Bryant Foul Turnover (P1.T1),Turnover,Foul,0,4
+20000739,6,PT11M33.00S,1,1610612766,CHH,922,Campbell,E. Campbell,-149,80,17,Missed,1,0.0,0.0,0,h,MISS Campbell 17' Jump Shot,Missed Shot,Jump Shot,0,5
+20000739,7,PT11M31.00S,1,1610612747,LAL,296,Fox,R. Fox,0,0,0,,0,0.0,0.0,0,v,Fox REBOUND (Off:0 Def:1),Rebound,Unknown,0,6
+20000739,8,PT11M25.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,-12,80,8,Missed,1,0.0,0.0,0,v,MISS O'Neal 8' Jump Shot,Missed Shot,Jump Shot,0,7
+20000739,9,PT11M23.00S,1,1610612766,CHH,136,Brown,P. Brown,0,0,0,,0,0.0,0.0,0,h,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,8
+20000739,10,PT11M16.00S,1,1610612766,CHH,469,Mashburn,J. Mashburn,129,76,15,Made,1,2.0,0.0,2,h,Mashburn 15' Jump Shot (2 PTS),Made Shot,Jump Shot,0,9
+20000739,11,PT10M55.00S,1,1610612747,LAL,296,Fox,R. Fox,-141,224,26,Missed,1,0.0,0.0,0,v,MISS Fox 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,10
+20000739,12,PT10M53.00S,1,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,h,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,11
+20000739,13,PT10M47.00S,1,1610612766,CHH,1884,Davis,B. Davis,-18,97,10,Made,1,4.0,0.0,4,h,Davis 10' Jump Shot (2 PTS),Made Shot,Jump Shot,0,12
+20000739,14,PT10M27.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,-56,9,6,Made,1,4.0,2.0,6,v,O'Neal 6' Jump Shot (2 PTS) (Bryant 1 AST),Made Shot,Jump Shot,0,13
+20000739,15,PT10M11.00S,1,1610612766,CHH,133,Wesley,D. Wesley,-119,158,20,Made,1,6.0,2.0,8,h,Wesley 20' Jump Shot (2 PTS) (Davis 1 AST),Made Shot,Jump Shot,0,14
+20000739,16,PT09M55.00S,1,1610612747,LAL,977,Bryant,K. Bryant,64,36,7,Made,1,6.0,4.0,10,v,Bryant 7' Jump Shot (2 PTS) (Grant 1 AST),Made Shot,Jump Shot,0,15
+20000739,17,PT09M37.00S,1,1610612766,CHH,469,Mashburn,J. Mashburn,-176,30,18,Missed,1,0.0,0.0,0,h,MISS Mashburn 18' Jump Shot,Missed Shot,Jump Shot,0,16
+20000739,18,PT09M35.00S,1,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,Bryant REBOUND (Off:0 Def:1),Rebound,Unknown,0,17
+20000739,19,PT09M16.00S,1,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,h,Mashburn P.FOUL (P1.T1),Foul,Personal,0,18
+20000739,20,PT09M09.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,-4,76,8,Missed,1,0.0,0.0,0,v,MISS O'Neal 8' Jump Shot,Missed Shot,Jump Shot,0,19
+20000739,21,PT09M07.00S,1,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,h,Mashburn REBOUND (Off:0 Def:1),Rebound,Unknown,0,20
+20000739,22,PT08M59.00S,1,1610612766,CHH,133,Wesley,D. Wesley,-235,15,24,Missed,1,0.0,0.0,0,h,MISS Wesley 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,21
+20000739,23,PT08M57.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal REBOUND (Off:0 Def:1),Rebound,Unknown,0,22
+20000739,24,PT08M54.00S,1,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,Made,1,6.0,6.0,12,v,Bryant  Dunk (4 PTS) (O'Neal 1 AST),Made Shot,Dunk Shot,0,23
+20000739,25,PT08M46.00S,1,1610612766,CHH,133,Wesley,D. Wesley,-56,257,26,Missed,1,0.0,0.0,0,h,MISS Wesley 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,24
+20000739,27,PT08M43.00S,1,1610612766,CHH,136,Brown,P. Brown,0,0,0,,0,0.0,0.0,0,h,Brown REBOUND (Off:1 Def:1),Rebound,Unknown,0,25
+20000739,26,PT08M43.00S,1,1610612766,CHH,136,Brown,P. Brown,0,0,0,Missed,1,0.0,0.0,0,h,MISS Brown  Tip Shot,Missed Shot,Tip Shot,0,26
+20000739,28,PT08M41.00S,1,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,Bryant REBOUND (Off:0 Def:2),Rebound,Unknown,0,27
+20000739,29,PT08M38.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal OFF.Foul (P1),Foul,Offensive,0,28
+20000739,30,PT08M38.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal Foul Turnover (P1.T2),Turnover,Foul,0,29
+20000739,32,PT08M15.00S,1,1610612766,CHH,1884,Davis,B. Davis,7,196,20,Missed,1,0.0,0.0,0,h,MISS Davis 20' Jump Shot,Missed Shot,Jump Shot,0,30
+20000739,33,PT08M14.00S,1,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,h,HORNETS Rebound,Rebound,Unknown,0,31
+20000739,34,PT08M14.00S,1,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,h,HORNETS Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,0,32
+20000739,35,PT08M01.00S,1,1610612747,LAL,270,Grant,H. Grant,0,0,0,Missed,1,0.0,0.0,0,v,MISS Grant  Layup,Missed Shot,Layup Shot,0,33
+20000739,35,PT08M01.00S,1,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,h,Campbell BLOCK (1 BLK),,,0,34
+20000739,36,PT07M58.00S,1,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,h,Davis REBOUND (Off:0 Def:2),Rebound,Unknown,0,35
+20000739,37,PT07M58.00S,1,1610612747,LAL,296,Fox,R. Fox,0,0,0,,0,0.0,0.0,0,v,Fox P.FOUL (P1.T1),Foul,Personal,0,36
+20000739,39,PT07M48.00S,1,1610612766,CHH,469,Mashburn,J. Mashburn,-134,114,18,Missed,1,0.0,0.0,0,h,MISS Mashburn 18' Jump Shot,Missed Shot,Jump Shot,0,37
+20000739,40,PT07M45.00S,1,1610612747,LAL,270,Grant,H. Grant,0,0,0,,0,0.0,0.0,0,v,Grant REBOUND (Off:0 Def:1),Rebound,Unknown,0,38
+20000739,41,PT07M36.00S,1,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,h,Campbell S.FOUL (P1.T2),Foul,Shooting,0,39
+20000739,42,PT07M36.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,MISS O'Neal Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,40
+20000739,43,PT07M36.00S,1,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Rebound,Rebound,Normal Rebound,0,41
+20000739,44,PT07M36.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,6.0,7.0,13,v,O'Neal Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,42
+20000739,47,PT07M14.00S,1,1610612766,CHH,922,Campbell,E. Campbell,-63,47,8,Made,1,8.0,7.0,15,h,Campbell 8' Turnaround Jump Shot (2 PTS) (Davis 2 AST),Made Shot,Turnaround Jump Shot,0,43
+20000739,48,PT06M56.00S,1,1610612747,LAL,296,Fox,R. Fox,-141,163,22,Missed,1,0.0,0.0,0,v,MISS Fox 22' Jump Shot,Missed Shot,Jump Shot,0,44
+20000739,49,PT06M54.00S,1,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,h,Campbell REBOUND (Off:0 Def:1),Rebound,Unknown,0,45
+20000739,50,PT06M48.00S,1,1610612766,CHH,1884,Davis,B. Davis,0,0,0,Missed,1,0.0,0.0,0,h,MISS Davis  Layup,Missed Shot,Layup Shot,0,46
+20000739,51,PT06M46.00S,1,1610612747,LAL,270,Grant,H. Grant,0,0,0,,0,0.0,0.0,0,v,Grant REBOUND (Off:0 Def:2),Rebound,Unknown,0,47
+20000739,52,PT06M42.00S,1,1610612747,LAL,375,Rider,I. Rider,0,0,0,Missed,1,0.0,0.0,0,v,MISS Rider  Layup,Missed Shot,Layup Shot,0,48
+20000739,53,PT06M40.00S,1,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,h,Campbell REBOUND (Off:0 Def:2),Rebound,Unknown,0,49
+20000739,54,PT06M35.00S,1,1610612766,CHH,469,Mashburn,J. Mashburn,-71,91,12,Made,1,10.0,7.0,17,h,Mashburn 12' Jump Shot (4 PTS),Made Shot,Jump Shot,0,50
+20000739,55,PT06M17.00S,1,1610612747,LAL,296,Fox,R. Fox,0,0,0,Made,1,10.0,9.0,19,v,Fox  Layup (2 PTS) (Bryant 2 AST),Made Shot,Layup Shot,0,51
+20000739,56,PT05M59.00S,1,1610612766,CHH,469,Mashburn,J. Mashburn,1,63,6,Made,1,12.0,9.0,21,h,Mashburn 6' Jump Shot (6 PTS) (Davis 3 AST),Made Shot,Jump Shot,0,52
+20000739,57,PT05M41.00S,1,1610612747,LAL,270,Grant,H. Grant,0,0,0,Missed,1,0.0,0.0,0,v,MISS Grant  Layup,Missed Shot,Layup Shot,0,53
+20000739,58,PT05M39.00S,1,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,h,Mashburn REBOUND (Off:0 Def:2),Rebound,Unknown,0,54
+20000739,59,PT05M33.00S,1,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,Missed,1,0.0,0.0,0,h,MISS Wesley  Layup,Missed Shot,Layup Shot,0,55
+20000739,60,PT05M31.00S,1,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,Bryant REBOUND (Off:0 Def:3),Rebound,Unknown,0,56
+20000739,61,PT05M26.00S,1,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,Made,1,12.0,11.0,23,v,Bryant  Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,57
+20000739,62,PT05M19.00S,1,1610612766,CHH,1884,Davis,B. Davis,0,0,0,Made,1,14.0,11.0,25,h,Davis  Layup (4 PTS),Made Shot,Layup Shot,0,58
+20000739,63,PT05M19.00S,1,1610612747,LAL,270,Grant,H. Grant,0,0,0,,0,0.0,0.0,0,v,Grant S.FOUL (P1.T2),Foul,Shooting,0,59
+20000739,64,PT05M19.00S,1,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,h,HORNETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,60
+20000739,66,PT05M19.00S,1,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,h,SUB: Magloire FOR Campbell,Substitution,,0,61
+20000739,67,PT05M19.00S,1,1610612766,CHH,136,Brown,P. Brown,0,0,0,,0,0.0,0.0,0,h,SUB: Coleman FOR Brown,Substitution,,0,62
+20000739,68,PT05M19.00S,1,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,15.0,11.0,26,h,Davis Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,63
+20000739,69,PT05M02.00S,1,1610612747,LAL,270,Grant,H. Grant,-155,42,16,Missed,1,0.0,0.0,0,v,MISS Grant 16' Jump Shot,Missed Shot,Jump Shot,0,64
+20000739,71,PT05M00.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal REBOUND (Off:1 Def:1),Rebound,Unknown,0,65
+20000739,70,PT05M00.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,Made,1,15.0,13.0,28,v,O'Neal  Layup (5 PTS),Made Shot,Layup Shot,0,66
+20000739,72,PT05M00.00S,1,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,0.0,0.0,0,h,Coleman S.FOUL (P1.T3),Foul,Shooting,0,67
+20000739,73,PT05M00.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,15.0,14.0,29,v,O'Neal Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,68
+20000739,74,PT04M41.00S,1,1610612766,CHH,469,Mashburn,J. Mashburn,-134,26,14,Made,1,17.0,14.0,31,h,Mashburn 14' Jump Shot (8 PTS) (Coleman 1 AST),Made Shot,Jump Shot,0,69
+20000739,75,PT04M24.00S,1,1610612747,LAL,296,Fox,R. Fox,0,0,0,Missed,1,0.0,0.0,0,v,MISS Fox  Layup,Missed Shot,Layup Shot,0,70
+20000739,77,PT04M22.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal REBOUND (Off:2 Def:1),Rebound,Unknown,0,71
+20000739,76,PT04M22.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,Missed,1,0.0,0.0,0,v,MISS O'Neal  Tip Shot,Missed Shot,Tip Shot,0,72
+20000739,79,PT04M16.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal REBOUND (Off:3 Def:1),Rebound,Unknown,0,73
+20000739,78,PT04M16.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,Made,1,17.0,16.0,33,v,O'Neal  Dunk (8 PTS),Made Shot,Dunk Shot,0,74
+20000739,80,PT04M05.00S,1,1610612766,CHH,469,Mashburn,J. Mashburn,-162,26,16,Missed,1,0.0,0.0,0,h,MISS Mashburn 16' Jump Shot,Missed Shot,Jump Shot,0,75
+20000739,81,PT04M02.00S,1,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,h,Mashburn REBOUND (Off:1 Def:2),Rebound,Unknown,0,76
+20000739,82,PT04M00.00S,1,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,Missed,1,0.0,0.0,0,h,MISS Mashburn  Layup,Missed Shot,Layup Shot,0,77
+20000739,82,PT04M00.00S,1,1610612747,LAL,270,Grant,H. Grant,0,0,0,,0,0.0,0.0,0,v,Grant BLOCK (1 BLK),,,0,78
+20000739,84,PT03M57.00S,1,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,h,Mashburn REBOUND (Off:2 Def:2),Rebound,Unknown,0,79
+20000739,83,PT03M57.00S,1,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,Missed,1,0.0,0.0,0,h,MISS Mashburn  Layup,Missed Shot,Layup Shot,0,80
+20000739,85,PT03M54.00S,1,1610612747,LAL,296,Fox,R. Fox,0,0,0,,0,0.0,0.0,0,v,Fox REBOUND (Off:0 Def:2),Rebound,Unknown,0,81
+20000739,86,PT03M53.00S,1,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,,0,0.0,0.0,0,h,Magloire P.FOUL (P1.T4),Foul,Personal,0,82
+20000739,87,PT03M41.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,-141,26,14,Missed,1,0.0,0.0,0,v,MISS O'Neal 14' Jump Shot,Missed Shot,Jump Shot,0,83
+20000739,88,PT03M39.00S,1,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,0.0,0.0,0,h,Coleman REBOUND (Off:0 Def:1),Rebound,Unknown,0,84
+20000739,89,PT03M26.00S,1,1610612766,CHH,934,Coleman,D. Coleman,115,87,14,Missed,1,0.0,0.0,0,h,MISS Coleman 14' Jump Shot,Missed Shot,Jump Shot,0,85
+20000739,90,PT03M24.00S,1,1610612747,LAL,375,Rider,I. Rider,0,0,0,,0,0.0,0.0,0,v,Rider REBOUND (Off:0 Def:1),Rebound,Unknown,0,86
+20000739,91,PT03M20.00S,1,1610612747,LAL,375,Rider,I. Rider,0,0,0,,0,0.0,0.0,0,v,Rider Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,87
+20000739,91,PT03M20.00S,1,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,0.0,0.0,0,h,Wesley STEAL (1 STL),,,0,88
+20000739,92,PT03M14.00S,1,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,Made,1,19.0,16.0,35,h,Mashburn  Dunk (10 PTS) (Davis 4 AST),Made Shot,Dunk Shot,0,89
+20000739,93,PT03M00.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,-48,53,7,Missed,1,0.0,0.0,0,v,MISS O'Neal 7' Jump Shot,Missed Shot,Jump Shot,0,90
+20000739,94,PT02M58.00S,1,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,h,Davis REBOUND (Off:0 Def:3),Rebound,Unknown,0,91
+20000739,95,PT02M54.00S,1,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,h,Mashburn Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,92
+20000739,96,PT02M54.00S,1,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,93
+20000739,98,PT02M54.00S,1,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,0.0,0.0,0,h,SUB: Robinson FOR Wesley,Substitution,,0,94
+20000739,99,PT02M54.00S,1,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,SUB: Madsen FOR O'Neal,Substitution,,0,95
+20000739,100,PT02M54.00S,1,1610612747,LAL,375,Rider,I. Rider,0,0,0,,0,0.0,0.0,0,v,SUB: Shaw FOR Rider,Substitution,,0,96
+20000739,101,PT02M54.00S,1,1610612747,LAL,270,Grant,H. Grant,0,0,0,,0,0.0,0.0,0,v,SUB: Horry FOR Grant,Substitution,,0,97
+20000739,102,PT02M41.00S,1,1610612747,LAL,977,Bryant,K. Bryant,-155,47,16,Missed,1,0.0,0.0,0,v,MISS Bryant 16' Jump Shot,Missed Shot,Jump Shot,0,98
+20000739,104,PT02M36.00S,1,1610612747,LAL,2058,Madsen,M. Madsen,0,0,0,,0,0.0,0.0,0,v,Madsen REBOUND (Off:1 Def:0),Rebound,Unknown,0,99
+20000739,103,PT02M36.00S,1,1610612747,LAL,2058,Madsen,M. Madsen,0,0,0,Missed,1,0.0,0.0,0,v,MISS Madsen  Tip Shot,Missed Shot,Tip Shot,0,100
+20000739,105,PT02M33.00S,1,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,h,Mashburn REBOUND (Off:2 Def:3),Rebound,Unknown,0,101
+20000739,106,PT02M31.00S,1,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,Made,1,21.0,16.0,37,h,Magloire  Layup (2 PTS) (Davis 5 AST),Made Shot,Layup Shot,0,102
+20000739,107,PT02M13.00S,1,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0.0,0.0,0,v,Horry Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,103
+20000739,108,PT01M51.00S,1,1610612766,CHH,934,Coleman,D. Coleman,222,15,0,Missed,1,0.0,0.0,0,h,MISS Coleman  3PT Jump Shot,Missed Shot,Jump Shot,0,104
+20000739,109,PT01M48.00S,1,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,Bryant REBOUND (Off:0 Def:4),Rebound,Unknown,0,105
+20000739,110,PT01M37.00S,1,1610612747,LAL,109,Horry,R. Horry,123,76,14,Missed,1,0.0,0.0,0,v,MISS Horry 14' Jump Shot,Missed Shot,Jump Shot,0,106
+20000739,111,PT01M34.00S,1,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,0.0,0.0,0,h,Coleman REBOUND (Off:0 Def:2),Rebound,Unknown,0,107
+20000739,112,PT01M19.00S,1,1610612747,LAL,2058,Madsen,M. Madsen,0,0,0,,0,0.0,0.0,0,v,Madsen S.FOUL (P1.T3),Foul,Shooting,0,108
+20000739,113,PT01M19.00S,1,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,0.0,0.0,0,h,MISS Coleman Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,109
+20000739,114,PT01M19.00S,1,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,h,HORNETS Rebound,Rebound,Normal Rebound,0,110
+20000739,115,PT01M19.00S,1,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,22.0,16.0,38,h,Coleman Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,111
+20000739,116,PT01M07.00S,1,1610612747,LAL,109,Horry,R. Horry,-119,97,15,Missed,1,0.0,0.0,0,v,MISS Horry 15' Jump Shot,Missed Shot,Jump Shot,0,112
+20000739,117,PT01M03.00S,1,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,h,Mashburn REBOUND (Off:2 Def:4),Rebound,Unknown,0,113
+20000739,118,PT00M55.30S,1,1610612766,CHH,1944,Robinson,E. Robinson,153,87,18,Missed,1,0.0,0.0,0,h,MISS Robinson 18' Jump Shot,Missed Shot,Jump Shot,0,114
+20000739,119,PT00M53.00S,1,1610612747,LAL,2058,Madsen,M. Madsen,0,0,0,,0,0.0,0.0,0,v,Madsen REBOUND (Off:1 Def:1),Rebound,Unknown,0,115
+20000739,120,PT00M46.30S,1,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,Made,1,22.0,18.0,40,v,Bryant  Alley Oop Dunk (8 PTS) (Horry 1 AST),Made Shot,Alley Oop Dunk Shot,0,116
+20000739,121,PT00M28.70S,1,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,0.0,0.0,0,h,Coleman Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,117
+20000739,121,PT00M28.70S,1,1610612747,LAL,296,Fox,R. Fox,0,0,0,,0,0.0,0.0,0,v,Fox STEAL (1 STL),,,0,118
+20000739,122,PT00M07.00S,1,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,,0,0.0,0.0,0,h,Magloire S.FOUL (P2.PN),Foul,Shooting,0,119
+20000739,124,PT00M07.00S,1,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,22.0,19.0,41,v,Bryant Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,120
+20000739,125,PT00M07.00S,1,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,22.0,20.0,42,v,Bryant Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,121
+20000739,126,PT00M00.30S,1,1610612766,CHH,1884,Davis,B. Davis,0,0,0,Made,1,24.0,20.0,44,h,Davis  Driving Layup (7 PTS),Made Shot,Driving Layup Shot,0,122
+20000739,127,PT00M00.00S,1,0,,0,,,0,0,0,,0,24.0,20.0,44,,End of 1st Period (12:09 PM EST),period,end,0,123
+20000739,129,PT12M00.00S,2,0,,0,,,0,0,0,,0,24.0,20.0,44,,Start of 2nd Period (12:11 PM EST),period,start,0,124
+20000739,130,PT11M41.00S,2,1610612766,CHH,922,Campbell,E. Campbell,64,47,8,Missed,1,0.0,0.0,0,h,MISS Campbell 8' Jump Shot,Missed Shot,Jump Shot,0,125
+20000739,130,PT11M41.00S,2,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal BLOCK (1 BLK),,,0,126
+20000739,131,PT11M38.00S,2,1610612747,LAL,216,Shaw,B. Shaw,0,0,0,,0,0.0,0.0,0,v,Shaw REBOUND (Off:0 Def:1),Rebound,Unknown,0,127
+20000739,132,PT11M21.00S,2,1610612747,LAL,1904,George,D. George,0,0,0,Missed,1,0.0,0.0,0,v,MISS George  Layup,Missed Shot,Layup Shot,0,128
+20000739,132,PT11M21.00S,2,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,h,Campbell BLOCK (2 BLK),,,0,129
+20000739,133,PT11M18.00S,2,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0.0,0.0,0,v,Horry REBOUND (Off:1 Def:0),Rebound,Unknown,0,130
+20000739,134,PT11M16.00S,2,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0.0,0.0,0,v,Horry Lost Ball Turnover (P2.T5),Turnover,Lost Ball,0,131
+20000739,134,PT11M16.00S,2,1610612766,CHH,1944,Robinson,E. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson STEAL (1 STL),,,0,132
+20000739,135,PT11M12.00S,2,1610612766,CHH,1944,Robinson,E. Robinson,0,0,0,Made,1,26.0,20.0,46,h,Robinson  Dunk (2 PTS) (Recasner 1 AST),Made Shot,Dunk Shot,0,133
+20000739,137,PT10M56.00S,2,1610612747,LAL,977,Bryant,K. Bryant,94,179,20,Made,1,26.0,22.0,48,v,Bryant 20' Jump Shot (12 PTS) (O'Neal 2 AST),Made Shot,Jump Shot,0,134
+20000739,138,PT10M31.00S,2,1610612766,CHH,695,Recasner,E. Recasner,-77,245,26,Made,1,29.0,22.0,51,h,Recasner 26' 3PT Jump Shot (3 PTS) (Coleman 2 AST),Made Shot,Jump Shot,0,135
+20000739,139,PT10M20.00S,2,1610612747,LAL,216,Shaw,B. Shaw,0,0,0,Missed,1,0.0,0.0,0,v,MISS Shaw  Layup,Missed Shot,Layup Shot,0,136
+20000739,140,PT10M18.00S,2,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,h,Campbell REBOUND (Off:0 Def:3),Rebound,Unknown,0,137
+20000739,141,PT10M13.00S,2,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,h,Mashburn Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,138
+20000739,141,PT10M13.00S,2,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0.0,0.0,0,v,Horry STEAL (1 STL),,,0,139
+20000739,142,PT10M07.00S,2,1610612747,LAL,1904,George,D. George,-200,173,26,Missed,1,0.0,0.0,0,v,MISS George 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,140
+20000739,143,PT10M04.00S,2,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,h,Campbell REBOUND (Off:0 Def:4),Rebound,Unknown,0,141
+20000739,144,PT10M02.00S,2,1610612747,LAL,1904,George,D. George,0,0,0,,0,0.0,0.0,0,v,George S.FOUL (P1.T1),Foul,Shooting,0,142
+20000739,145,PT10M02.00S,2,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,h,SUB: James FOR Mashburn,Substitution,,0,143
+20000739,146,PT10M02.00S,2,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,0.0,0.0,0,h,MISS Coleman Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,144
+20000739,147,PT10M02.00S,2,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,h,HORNETS Rebound,Rebound,Normal Rebound,0,145
+20000739,148,PT10M02.00S,2,1610612747,LAL,216,Shaw,B. Shaw,0,0,0,,0,0.0,0.0,0,v,SUB: Lue FOR Shaw,Substitution,,0,146
+20000739,149,PT10M02.00S,2,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,30.0,22.0,52,h,Coleman Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,147
+20000739,150,PT09M47.00S,2,1610612747,LAL,406,O'Neal,S. O'Neal,1,63,6,Made,1,30.0,24.0,54,v,O'Neal 6' Jump Shot (10 PTS) (Bryant 3 AST),Made Shot,Jump Shot,0,148
+20000739,151,PT09M47.00S,2,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,h,Campbell S.FOUL (P2.T1),Foul,Shooting,0,149
+20000739,152,PT09M47.00S,2,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,0.0,0.0,0,h,SUB: Brown FOR Coleman,Substitution,,0,150
+20000739,153,PT09M47.00S,2,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,MISS O'Neal Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,151
+20000739,154,PT09M46.00S,2,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,h,Campbell REBOUND (Off:0 Def:5),Rebound,Unknown,0,152
+20000739,155,PT09M33.00S,2,1610612747,LAL,1904,George,D. George,0,0,0,,0,0.0,0.0,0,v,George P.FOUL (P2.T2),Foul,Personal,0,153
+20000739,156,PT09M24.00S,2,1610612766,CHH,136,Brown,P. Brown,58,57,8,Made,1,32.0,24.0,56,h,Brown 8' Jump Shot (2 PTS),Made Shot,Jump Shot,0,154
+20000739,157,PT09M10.00S,2,1610612747,LAL,977,Bryant,K. Bryant,-113,148,19,Missed,1,0.0,0.0,0,v,MISS Bryant 19' Jump Shot,Missed Shot,Jump Shot,0,155
+20000739,158,PT09M09.00S,2,1610612766,CHH,1944,Robinson,E. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,156
+20000739,159,PT09M06.00S,2,1610612747,LAL,1731,Lue,T. Lue,0,0,0,,0,0.0,0.0,0,v,Lue P.FOUL (P1.T3),Foul,Personal,0,157
+20000739,160,PT08M59.00S,2,1610612766,CHH,136,Brown,P. Brown,73,47,9,Missed,1,0.0,0.0,0,h,MISS Brown 9' Jump Shot,Missed Shot,Jump Shot,0,158
+20000739,160,PT08M59.00S,2,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0.0,0.0,0,v,Horry BLOCK (1 BLK),,,0,159
+20000739,161,PT08M58.00S,2,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Rebound,Rebound,Unknown,0,160
+20000739,162,PT08M58.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,161
+20000739,164,PT08M58.00S,2,1610612747,LAL,1904,George,D. George,0,0,0,,0,0.0,0.0,0,v,SUB: Shaw FOR George,Substitution,,0,162
+20000739,165,PT08M38.00S,2,1610612766,CHH,1906,James,T. James,0,0,0,,0,0.0,0.0,0,h,James S.FOUL (P1.T2),Foul,Shooting,0,163
+20000739,166,PT08M38.00S,2,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,32.0,25.0,57,v,Bryant Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,164
+20000739,167,PT08M38.00S,2,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,32.0,26.0,58,v,Bryant Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,165
+20000739,168,PT08M20.00S,2,1610612766,CHH,695,Recasner,E. Recasner,-141,26,14,Missed,1,0.0,0.0,0,h,MISS Recasner 14' Jump Shot,Missed Shot,Jump Shot,0,166
+20000739,169,PT08M17.00S,2,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0.0,0.0,0,v,Horry REBOUND (Off:1 Def:1),Rebound,Unknown,0,167
+20000739,170,PT08M11.00S,2,1610612747,LAL,1731,Lue,T. Lue,-119,163,20,Missed,1,0.0,0.0,0,v,MISS Lue 20' Jump Shot,Missed Shot,Jump Shot,0,168
+20000739,171,PT08M09.00S,2,1610612766,CHH,695,Recasner,E. Recasner,0,0,0,,0,0.0,0.0,0,h,Recasner REBOUND (Off:0 Def:1),Rebound,Unknown,0,169
+20000739,172,PT08M02.00S,2,1610612766,CHH,1944,Robinson,E. Robinson,144,30,15,Made,1,34.0,26.0,60,h,Robinson 15' Jump Shot (4 PTS) (Brown 1 AST),Made Shot,Jump Shot,0,170
+20000739,173,PT07M45.00S,2,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,Missed,1,0.0,0.0,0,v,MISS O'Neal  Layup,Missed Shot,Layup Shot,0,171
+20000739,173,PT07M45.00S,2,1610612766,CHH,1944,Robinson,E. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson BLOCK (1 BLK),,,0,172
+20000739,174,PT07M42.00S,2,1610612747,LAL,216,Shaw,B. Shaw,0,0,0,,0,0.0,0.0,0,v,Shaw REBOUND (Off:1 Def:1),Rebound,Unknown,0,173
+20000739,175,PT07M38.00S,2,1610612747,LAL,406,O'Neal,S. O'Neal,-48,76,9,Missed,1,0.0,0.0,0,v,MISS O'Neal 9' Jump Shot,Missed Shot,Jump Shot,0,174
+20000739,176,PT07M36.00S,2,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0.0,0.0,0,v,Horry REBOUND (Off:2 Def:1),Rebound,Unknown,0,175
+20000739,177,PT07M22.00S,2,1610612747,LAL,406,O'Neal,S. O'Neal,64,26,7,Made,1,34.0,28.0,62,v,O'Neal 7' Hook Shot (12 PTS) (Lue 1 AST),Made Shot,Hook Shot,0,176
+20000739,178,PT07M02.00S,2,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0.0,0.0,0,v,Horry S.FOUL (P1.T4),Foul,Shooting,0,177
+20000739,180,PT07M02.00S,2,1610612766,CHH,136,Brown,P. Brown,0,0,0,,0,0.0,0.0,0,h,MISS Brown Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,178
+20000739,181,PT07M02.00S,2,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,h,HORNETS Rebound,Rebound,Normal Rebound,0,179
+20000739,182,PT07M02.00S,2,1610612766,CHH,695,Recasner,E. Recasner,0,0,0,,0,0.0,0.0,0,h,SUB: Davis FOR Recasner,Substitution,,0,180
+20000739,183,PT07M02.00S,2,1610612766,CHH,1944,Robinson,E. Robinson,0,0,0,,0,0.0,0.0,0,h,SUB: Wesley FOR Robinson,Substitution,,0,181
+20000739,184,PT07M02.00S,2,1610612766,CHH,1906,James,T. James,0,0,0,,0,0.0,0.0,0,h,SUB: Mashburn FOR James,Substitution,,0,182
+20000739,185,PT07M02.00S,2,1610612747,LAL,1731,Lue,T. Lue,0,0,0,,0,0.0,0.0,0,v,SUB: Rider FOR Lue,Substitution,,0,183
+20000739,186,PT07M02.00S,2,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,SUB: Fox FOR Bryant,Substitution,,0,184
+20000739,187,PT07M02.00S,2,1610612766,CHH,136,Brown,P. Brown,0,0,0,,0,35.0,28.0,63,h,Brown Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,185
+20000739,189,PT06M41.00S,2,1610612747,LAL,296,Fox,R. Fox,123,234,26,Made,1,35.0,31.0,66,v,Fox 26' 3PT Jump Shot (5 PTS) (Rider 1 AST),Made Shot,Jump Shot,0,186
+20000739,190,PT06M24.00S,2,1610612766,CHH,922,Campbell,E. Campbell,-113,53,12,Missed,1,0.0,0.0,0,h,MISS Campbell 12' Jump Shot,Missed Shot,Jump Shot,0,187
+20000739,190,PT06M24.00S,2,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal BLOCK (2 BLK),,,0,188
+20000739,191,PT06M21.00S,2,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0.0,0.0,0,v,Horry REBOUND (Off:2 Def:2),Rebound,Unknown,0,189
+20000739,192,PT06M17.00S,2,1610612747,LAL,375,Rider,I. Rider,0,0,0,,0,0.0,0.0,0,v,Rider Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,190
+20000739,192,PT06M17.00S,2,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,h,Mashburn STEAL (1 STL),,,0,191
+20000739,193,PT06M10.00S,2,1610612766,CHH,1884,Davis,B. Davis,216,158,27,Made,1,38.0,31.0,69,h,Davis 27' 3PT Jump Shot (10 PTS) (Mashburn 1 AST),Made Shot,Jump Shot,0,192
+20000739,195,PT05M57.00S,2,1610612747,LAL,375,Rider,I. Rider,-77,251,26,Missed,1,0.0,0.0,0,v,MISS Rider 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,193
+20000739,196,PT05M55.00S,2,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,h,Campbell REBOUND (Off:0 Def:6),Rebound,Unknown,0,194
+20000739,197,PT05M50.00S,2,1610612766,CHH,1884,Davis,B. Davis,0,0,0,Missed,1,0.0,0.0,0,h,MISS Davis  Layup,Missed Shot,Layup Shot,0,195
+20000739,199,PT05M49.00S,2,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,h,Campbell REBOUND (Off:1 Def:6),Rebound,Unknown,0,196
+20000739,198,PT05M48.00S,2,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,Missed,1,0.0,0.0,0,h,MISS Campbell  Tip Shot,Missed Shot,Tip Shot,0,197
+20000739,201,PT05M47.00S,2,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,h,Davis REBOUND (Off:1 Def:3),Rebound,Unknown,0,198
+20000739,200,PT05M46.00S,2,1610612766,CHH,1884,Davis,B. Davis,0,0,0,Missed,1,0.0,0.0,0,h,MISS Davis  Layup,Missed Shot,Layup Shot,0,199
+20000739,203,PT05M43.00S,2,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,h,Campbell REBOUND (Off:2 Def:6),Rebound,Unknown,0,200
+20000739,202,PT05M43.00S,2,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,Made,1,40.0,31.0,71,h,Campbell  Dunk (4 PTS),Made Shot,Dunk Shot,0,201
+20000739,204,PT05M43.00S,2,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal S.FOUL (P2.PN),Foul,Shooting,0,202
+20000739,205,PT05M43.00S,2,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,h,HORNETS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,203
+20000739,207,PT05M43.00S,2,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0.0,0.0,0,v,SUB: Grant FOR Horry,Substitution,,0,204
+20000739,208,PT05M43.00S,2,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,41.0,31.0,72,h,Campbell Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,205
+20000739,209,PT05M23.00S,2,1610612747,LAL,375,Rider,I. Rider,-4,63,6,Made,1,41.0,33.0,74,v,Rider 6' Jump Shot (2 PTS),Made Shot,Jump Shot,0,206
+20000739,210,PT05M03.00S,2,1610612747,LAL,296,Fox,R. Fox,0,0,0,,0,0.0,0.0,0,v,Fox S.FOUL (P2.PN),Foul,Shooting,0,207
+20000739,211,PT05M03.00S,2,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,h,MISS Mashburn Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,208
+20000739,212,PT05M03.00S,2,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,h,HORNETS Rebound,Rebound,Normal Rebound,0,209
+20000739,213,PT05M03.00S,2,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,h,SUB: Coleman FOR Campbell,Substitution,,0,210
+20000739,214,PT05M03.00S,2,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,42.0,33.0,75,h,Mashburn Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,211
+20000739,215,PT04M54.00S,2,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,212
+20000739,217,PT04M54.00S,2,1610612747,LAL,216,Shaw,B. Shaw,0,0,0,,0,0.0,0.0,0,v,SUB: Bryant FOR Shaw,Substitution,,0,213
+20000739,218,PT04M48.00S,2,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,Bryant Traveling Turnover (P2.T7),Turnover,Traveling,0,214
+20000739,219,PT04M35.00S,2,1610612766,CHH,133,Wesley,D. Wesley,222,108,25,Missed,1,0.0,0.0,0,h,MISS Wesley 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,215
+20000739,220,PT04M33.00S,2,1610612747,LAL,296,Fox,R. Fox,0,0,0,,0,0.0,0.0,0,v,Fox REBOUND (Off:0 Def:3),Rebound,Unknown,0,216
+20000739,221,PT04M21.00S,2,1610612747,LAL,296,Fox,R. Fox,0,0,0,,0,0.0,0.0,0,v,Fox Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,217
+20000739,221,PT04M21.00S,2,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,h,Davis STEAL (1 STL),,,0,218
+20000739,222,PT04M16.00S,2,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,Missed,1,0.0,0.0,0,h,MISS Wesley  Layup,Missed Shot,Layup Shot,0,219
+20000739,224,PT04M16.00S,2,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,h,Mashburn REBOUND (Off:3 Def:4),Rebound,Unknown,0,220
+20000739,223,PT04M16.00S,2,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,h,Mashburn Offensive Goaltending Turnover (P3.T5),Turnover,Offensive Goaltending,0,221
+20000739,225,PT04M07.00S,2,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,222
+20000739,225,PT04M07.00S,2,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,0.0,0.0,0,h,Coleman STEAL (1 STL),,,0,223
+20000739,226,PT04M03.00S,2,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,Made,1,44.0,33.0,77,h,Coleman  Dunk (4 PTS),Made Shot,Dunk Shot,0,224
+20000739,227,PT03M52.00S,2,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,0.0,0.0,0,h,Coleman P.FOUL (P2.T3),Foul,Personal,0,225
+20000739,228,PT03M52.00S,2,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,0.0,0.0,0,h,SUB: Campbell FOR Coleman,Substitution,,0,226
+20000739,229,PT03M45.00S,2,1610612747,LAL,375,Rider,I. Rider,123,241,27,Missed,1,0.0,0.0,0,v,MISS Rider 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,227
+20000739,230,PT03M43.00S,2,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,h,Davis REBOUND (Off:1 Def:4),Rebound,Unknown,0,228
+20000739,231,PT03M37.00S,2,1610612766,CHH,1884,Davis,B. Davis,0,0,0,Made,1,46.0,33.0,79,h,Davis  Driving Layup (12 PTS),Made Shot,Driving Layup Shot,0,229
+20000739,232,PT03M27.00S,2,1610612747,LAL,375,Rider,I. Rider,0,0,0,Made,1,46.0,35.0,81,v,Rider  Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,230
+20000739,234,PT03M02.00S,2,1610612766,CHH,133,Wesley,D. Wesley,-12,53,5,Missed,1,0.0,0.0,0,h,MISS Wesley 5' Jump Shot,Missed Shot,Jump Shot,0,231
+20000739,235,PT02M59.00S,2,1610612766,CHH,136,Brown,P. Brown,0,0,0,,0,0.0,0.0,0,h,Brown REBOUND (Off:2 Def:1),Rebound,Unknown,0,232
+20000739,236,PT02M54.00S,2,1610612766,CHH,922,Campbell,E. Campbell,123,36,13,Missed,1,0.0,0.0,0,h,MISS Campbell 13' Jump Shot,Missed Shot,Jump Shot,0,233
+20000739,237,PT02M52.00S,2,1610612747,LAL,375,Rider,I. Rider,0,0,0,,0,0.0,0.0,0,v,Rider REBOUND (Off:0 Def:2),Rebound,Unknown,0,234
+20000739,238,PT02M42.00S,2,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,0.0,0.0,0,h,Wesley P.FOUL (P1.T4),Foul,Personal,0,235
+20000739,239,PT02M36.00S,2,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,h,Campbell S.FOUL (P3.PN),Foul,Shooting,0,236
+20000739,240,PT02M36.00S,2,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,h,SUB: Magloire FOR Campbell,Substitution,,0,237
+20000739,241,PT02M36.00S,2,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,46.0,36.0,82,v,O'Neal Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,238
+20000739,242,PT02M36.00S,2,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,46.0,37.0,83,v,O'Neal Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,239
+20000739,243,PT02M23.00S,2,1610612747,LAL,375,Rider,I. Rider,0,0,0,,0,0.0,0.0,0,v,Rider P.FOUL (P1.PN),Foul,Personal,0,240
+20000739,244,PT02M23.00S,2,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,h,MISS Davis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,241
+20000739,245,PT02M23.00S,2,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,h,HORNETS Rebound,Rebound,Normal Rebound,0,242
+20000739,246,PT02M23.00S,2,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,47.0,37.0,84,h,Davis Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,243
+20000739,247,PT02M14.00S,2,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,Missed,1,0.0,0.0,0,v,MISS Bryant  Layup,Missed Shot,Layup Shot,0,244
+20000739,248,PT02M11.00S,2,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal REBOUND (Off:4 Def:1),Rebound,Unknown,0,245
+20000739,249,PT02M05.00S,2,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,,0,0.0,0.0,0,h,Magloire P.FOUL (P3.PN),Foul,Personal,0,246
+20000739,250,PT02M05.00S,2,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,47.0,38.0,85,v,O'Neal Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,247
+20000739,251,PT02M05.00S,2,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,47.0,39.0,86,v,O'Neal Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,248
+20000739,252,PT01M52.00S,2,1610612766,CHH,1884,Davis,B. Davis,-71,87,11,Missed,1,0.0,0.0,0,h,MISS Davis 11' Jump Shot,Missed Shot,Jump Shot,0,249
+20000739,253,PT01M49.00S,2,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal REBOUND (Off:4 Def:2),Rebound,Unknown,0,250
+20000739,254,PT01M46.00S,2,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,Made,1,47.0,41.0,88,v,Bryant  Dunk (16 PTS) (O'Neal 3 AST),Made Shot,Dunk Shot,0,251
+20000739,255,PT01M32.00S,2,1610612766,CHH,2048,Magloire,J. Magloire,100,152,18,Missed,1,0.0,0.0,0,h,MISS Magloire 18' Jump Shot,Missed Shot,Jump Shot,0,252
+20000739,256,PT01M30.00S,2,1610612747,LAL,270,Grant,H. Grant,0,0,0,,0,0.0,0.0,0,v,Grant REBOUND (Off:0 Def:3),Rebound,Unknown,0,253
+20000739,257,PT01M20.00S,2,1610612747,LAL,406,O'Neal,S. O'Neal,-63,53,8,Made,1,47.0,43.0,90,v,O'Neal 8' Hook Shot (18 PTS),Made Shot,Hook Shot,0,254
+20000739,258,PT00M59.70S,2,1610612766,CHH,133,Wesley,D. Wesley,-105,163,19,Missed,1,0.0,0.0,0,h,MISS Wesley 19' Jump Shot,Missed Shot,Jump Shot,0,255
+20000739,259,PT00M57.70S,2,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal REBOUND (Off:4 Def:3),Rebound,Unknown,0,256
+20000739,260,PT00M54.20S,2,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,0.0,0.0,0,h,Wesley P.FOUL (P2.PN),Foul,Personal,0,257
+20000739,261,PT00M54.20S,2,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,47.0,44.0,91,v,Bryant Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,258
+20000739,262,PT00M54.20S,2,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,SUB: Madsen FOR O'Neal,Substitution,,0,259
+20000739,263,PT00M54.20S,2,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,47.0,45.0,92,v,Bryant Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,260
+20000739,264,PT00M42.20S,2,1610612766,CHH,469,Mashburn,J. Mashburn,-77,262,27,Missed,1,0.0,0.0,0,h,MISS Mashburn 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,261
+20000739,265,PT00M40.00S,2,1610612747,LAL,296,Fox,R. Fox,0,0,0,,0,0.0,0.0,0,v,Fox REBOUND (Off:0 Def:4),Rebound,Unknown,0,262
+20000739,266,PT00M34.30S,2,1610612747,LAL,375,Rider,I. Rider,-162,80,18,Made,1,47.0,47.0,94,v,Rider 18' Jump Shot (6 PTS) (Fox 1 AST),Made Shot,Jump Shot,0,263
+20000739,267,PT00M26.30S,2,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,h,Davis OFF.Foul (P1),Foul,Offensive,0,264
+20000739,268,PT00M26.30S,2,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,h,Davis Foul Turnover (P1.T6),Turnover,Foul,0,265
+20000739,269,PT00M26.30S,2,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Timeout: Short (Reg.2 Short 1),Timeout,Short,0,266
+20000739,271,PT00M26.30S,2,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,267
+20000739,273,PT00M26.30S,2,1610612747,LAL,270,Grant,H. Grant,0,0,0,,0,0.0,0.0,0,v,SUB: O'Neal FOR Grant,Substitution,,0,268
+20000739,275,PT00M02.50S,2,1610612747,LAL,977,Bryant,K. Bryant,-92,169,19,Made,1,47.0,49.0,96,v,Bryant 19' Jump Shot (20 PTS),Made Shot,Jump Shot,0,269
+20000739,276,PT00M00.00S,2,0,,0,,,0,0,0,,0,47.0,49.0,96,,End of 2nd Period (12:45 PM EST),period,end,0,270
+20000739,278,PT12M00.00S,3,0,,0,,,0,0,0,,0,47.0,49.0,96,,Start of 3rd Period (1:01 PM EST),period,start,0,271
+20000739,279,PT11M37.00S,3,1610612766,CHH,136,Brown,P. Brown,-149,42,15,Missed,1,0.0,0.0,0,h,MISS Brown 15' Jump Shot,Missed Shot,Jump Shot,0,272
+20000739,280,PT11M35.00S,3,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,Bryant REBOUND (Off:0 Def:5),Rebound,Unknown,0,273
+20000739,281,PT11M21.00S,3,1610612747,LAL,375,Rider,I. Rider,-4,87,9,Made,1,47.0,51.0,98,v,Rider 9' Jump Shot (8 PTS),Made Shot,Jump Shot,0,274
+20000739,282,PT11M03.00S,3,1610612766,CHH,133,Wesley,D. Wesley,94,173,20,Missed,1,0.0,0.0,0,h,MISS Wesley 20' Jump Shot,Missed Shot,Jump Shot,0,275
+20000739,283,PT11M01.00S,3,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,h,Campbell REBOUND (Off:3 Def:6),Rebound,Unknown,0,276
+20000739,284,PT10M57.00S,3,1610612766,CHH,922,Campbell,E. Campbell,-113,26,12,Missed,1,0.0,0.0,0,h,MISS Campbell 12' Jump Shot,Missed Shot,Jump Shot,0,277
+20000739,285,PT10M55.00S,3,1610612747,LAL,375,Rider,I. Rider,0,0,0,,0,0.0,0.0,0,v,Rider REBOUND (Off:0 Def:3),Rebound,Unknown,0,278
+20000739,286,PT10M47.00S,3,1610612747,LAL,296,Fox,R. Fox,-242,26,24,Made,1,47.0,54.0,101,v,Fox 24' 3PT Jump Shot (8 PTS) (Bryant 4 AST),Made Shot,Jump Shot,0,279
+20000739,287,PT10M39.00S,3,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,h,HORNETS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,280
+20000739,289,PT10M28.00S,3,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal S.FOUL (P3.T1),Foul,Shooting,0,281
+20000739,290,PT10M28.00S,3,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,h,MISS Campbell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,282
+20000739,291,PT10M28.00S,3,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,h,HORNETS Rebound,Rebound,Normal Rebound,0,283
+20000739,292,PT10M28.00S,3,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,48.0,54.0,102,h,Campbell Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,284
+20000739,293,PT10M16.00S,3,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,Made,1,48.0,56.0,104,v,O'Neal  Layup (20 PTS) (Bryant 5 AST),Made Shot,Layup Shot,0,285
+20000739,294,PT10M16.00S,3,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,h,Mashburn S.FOUL (P2.T1),Foul,Shooting,0,286
+20000739,296,PT10M16.00S,3,1610612766,CHH,136,Brown,P. Brown,0,0,0,,0,0.0,0.0,0,h,Brown Violation:Jump Ball,Violation,Jump Ball,0,287
+20000739,297,PT10M16.00S,3,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,MISS O'Neal Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,288
+20000739,298,PT10M14.00S,3,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,h,Mashburn REBOUND (Off:3 Def:5),Rebound,Unknown,0,289
+20000739,300,PT10M05.00S,3,1610612766,CHH,136,Brown,P. Brown,-42,169,17,Missed,1,0.0,0.0,0,h,MISS Brown 17' Jump Shot,Missed Shot,Jump Shot,0,290
+20000739,301,PT10M02.00S,3,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,h,Campbell REBOUND (Off:4 Def:6),Rebound,Unknown,0,291
+20000739,302,PT09M59.00S,3,1610612766,CHH,133,Wesley,D. Wesley,-176,57,19,Made,1,50.0,56.0,106,h,Wesley 19' Jump Shot (4 PTS) (Campbell 1 AST),Made Shot,Jump Shot,0,292
+20000739,303,PT09M40.00S,3,1610612766,CHH,136,Brown,P. Brown,0,0,0,,0,0.0,0.0,0,h,Brown P.FOUL (P1.T2),Foul,Personal,0,293
+20000739,304,PT09M34.00S,3,1610612747,LAL,270,Grant,H. Grant,0,0,0,Made,1,50.0,58.0,108,v,Grant  Layup (2 PTS) (Bryant 6 AST),Made Shot,Layup Shot,0,294
+20000739,305,PT09M25.00S,3,1610612747,LAL,296,Fox,R. Fox,0,0,0,,0,0.0,0.0,0,v,Fox P.FOUL (P3.T2),Foul,Personal,0,295
+20000739,306,PT09M17.00S,3,1610612766,CHH,469,Mashburn,J. Mashburn,-27,76,8,Missed,1,0.0,0.0,0,h,MISS Mashburn 8' Jump Shot,Missed Shot,Jump Shot,0,296
+20000739,306,PT09M17.00S,3,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal BLOCK (3 BLK),,,0,297
+20000739,307,PT09M17.00S,3,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,h,HORNETS Rebound,Rebound,Unknown,0,298
+20000739,308,PT09M10.00S,3,1610612766,CHH,469,Mashburn,J. Mashburn,115,163,20,Missed,1,0.0,0.0,0,h,MISS Mashburn 20' Jump Shot,Missed Shot,Jump Shot,0,299
+20000739,309,PT09M07.00S,3,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,Bryant REBOUND (Off:0 Def:6),Rebound,Unknown,0,300
+20000739,310,PT08M59.00S,3,1610612747,LAL,375,Rider,I. Rider,0,0,0,Missed,1,0.0,0.0,0,v,MISS Rider  Layup,Missed Shot,Layup Shot,0,301
+20000739,312,PT08M57.00S,3,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,Bryant REBOUND (Off:1 Def:6),Rebound,Unknown,0,302
+20000739,311,PT08M57.00S,3,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,Missed,1,0.0,0.0,0,v,MISS Bryant  Tip Shot,Missed Shot,Tip Shot,0,303
+20000739,314,PT08M55.00S,3,1610612747,LAL,375,Rider,I. Rider,0,0,0,,0,0.0,0.0,0,v,Rider REBOUND (Off:1 Def:3),Rebound,Unknown,0,304
+20000739,313,PT08M55.00S,3,1610612747,LAL,375,Rider,I. Rider,0,0,0,Missed,1,0.0,0.0,0,v,MISS Rider  Layup,Missed Shot,Layup Shot,0,305
+20000739,315,PT08M53.00S,3,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,Bryant REBOUND (Off:2 Def:6),Rebound,Unknown,0,306
+20000739,316,PT08M52.00S,3,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,h,Campbell S.FOUL (P4.T3),Foul,Shooting,0,307
+20000739,317,PT08M52.00S,3,1610612747,LAL,270,Grant,H. Grant,0,0,0,,0,0.0,0.0,0,v,MISS Grant Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,308
+20000739,318,PT08M52.00S,3,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Rebound,Rebound,Normal Rebound,0,309
+20000739,319,PT08M52.00S,3,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,h,SUB: Magloire FOR Campbell,Substitution,,0,310
+20000739,320,PT08M52.00S,3,1610612747,LAL,270,Grant,H. Grant,0,0,0,,0,0.0,0.0,0,v,MISS Grant Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,311
+20000739,321,PT08M50.00S,3,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,h,Mashburn REBOUND (Off:3 Def:6),Rebound,Unknown,0,312
+20000739,322,PT08M29.00S,3,1610612766,CHH,136,Brown,P. Brown,64,42,8,Made,1,52.0,58.0,110,h,Brown 8' Turnaround Jump Shot (5 PTS) (Mashburn 2 AST),Made Shot,Turnaround Jump Shot,0,313
+20000739,323,PT08M11.00S,3,1610612747,LAL,375,Rider,I. Rider,94,241,26,Missed,1,0.0,0.0,0,v,MISS Rider 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,314
+20000739,324,PT08M09.00S,3,1610612766,CHH,136,Brown,P. Brown,0,0,0,,0,0.0,0.0,0,h,Brown REBOUND (Off:2 Def:2),Rebound,Unknown,0,315
+20000739,325,PT08M04.00S,3,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,Missed,1,0.0,0.0,0,h,MISS Mashburn  Layup,Missed Shot,Layup Shot,0,316
+20000739,326,PT08M02.00S,3,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal REBOUND (Off:4 Def:4),Rebound,Unknown,0,317
+20000739,327,PT07M57.00S,3,1610612747,LAL,270,Grant,H. Grant,0,0,0,,0,0.0,0.0,0,v,Grant Out Of Bounds Turnover (P1.T10),Turnover,Out Of Bounds,0,318
+20000739,328,PT07M42.00S,3,1610612766,CHH,133,Wesley,D. Wesley,-155,125,20,Missed,1,0.0,0.0,0,h,MISS Wesley 20' Jump Shot,Missed Shot,Jump Shot,0,319
+20000739,329,PT07M40.00S,3,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal REBOUND (Off:4 Def:5),Rebound,Unknown,0,320
+20000739,330,PT07M38.00S,3,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,0.0,0.0,0,h,Wesley S.FOUL (P3.T4),Foul,Shooting,0,321
+20000739,331,PT07M38.00S,3,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,MISS Bryant Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,322
+20000739,332,PT07M38.00S,3,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Rebound,Rebound,Normal Rebound,0,323
+20000739,333,PT07M38.00S,3,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,0.0,0.0,0,h,SUB: Robinson FOR Wesley,Substitution,,0,324
+20000739,334,PT07M38.00S,3,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,52.0,59.0,111,v,Bryant Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,325
+20000739,335,PT07M22.00S,3,1610612766,CHH,1884,Davis,B. Davis,1,80,8,Missed,1,0.0,0.0,0,h,MISS Davis 8' Jump Shot,Missed Shot,Jump Shot,0,326
+20000739,335,PT07M22.00S,3,1610612747,LAL,296,Fox,R. Fox,0,0,0,,0,0.0,0.0,0,v,Fox BLOCK (1 BLK),,,0,327
+20000739,336,PT07M19.00S,3,1610612747,LAL,375,Rider,I. Rider,0,0,0,,0,0.0,0.0,0,v,Rider REBOUND (Off:1 Def:4),Rebound,Unknown,0,328
+20000739,337,PT07M18.00S,3,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,h,Mashburn S.FOUL (P3.PN),Foul,Shooting,0,329
+20000739,338,PT07M18.00S,3,1610612747,LAL,296,Fox,R. Fox,0,0,0,,0,52.0,60.0,112,v,Fox Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,330
+20000739,339,PT07M18.00S,3,1610612747,LAL,270,Grant,H. Grant,0,0,0,,0,0.0,0.0,0,v,SUB: Horry FOR Grant,Substitution,,0,331
+20000739,340,PT07M18.00S,3,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,h,HORNETS Timeout: Short (Full 3 Short 1),Timeout,Short,0,332
+20000739,342,PT07M18.00S,3,1610612747,LAL,296,Fox,R. Fox,0,0,0,,0,52.0,61.0,113,v,Fox Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,333
+20000739,343,PT07M03.00S,3,1610612766,CHH,2048,Magloire,J. Magloire,-33,70,8,Missed,1,0.0,0.0,0,h,MISS Magloire 8' Jump Shot,Missed Shot,Jump Shot,0,334
+20000739,344,PT07M01.00S,3,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,Bryant REBOUND (Off:2 Def:7),Rebound,Unknown,0,335
+20000739,345,PT06M52.00S,3,1610612747,LAL,296,Fox,R. Fox,210,158,26,Made,1,52.0,64.0,116,v,Fox 26' 3PT Jump Shot (13 PTS) (O'Neal 4 AST),Made Shot,Jump Shot,0,336
+20000739,346,PT06M36.00S,3,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,h,Davis Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,337
+20000739,346,PT06M36.00S,3,1610612747,LAL,296,Fox,R. Fox,0,0,0,,0,0.0,0.0,0,v,Fox STEAL (2 STL),,,0,338
+20000739,347,PT06M19.00S,3,1610612747,LAL,406,O'Neal,S. O'Neal,115,19,12,Missed,1,0.0,0.0,0,v,MISS O'Neal 12' Jump Shot,Missed Shot,Jump Shot,0,339
+20000739,348,PT06M16.00S,3,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,h,Davis REBOUND (Off:1 Def:5),Rebound,Unknown,0,340
+20000739,349,PT06M13.00S,3,1610612747,LAL,296,Fox,R. Fox,0,0,0,,0,0.0,0.0,0,v,Fox S.FOUL (P4.T3),Foul,Shooting,0,341
+20000739,350,PT06M13.00S,3,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,h,MISS Davis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,342
+20000739,351,PT06M13.00S,3,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,h,HORNETS Rebound,Rebound,Normal Rebound,0,343
+20000739,352,PT06M13.00S,3,1610612747,LAL,296,Fox,R. Fox,0,0,0,,0,0.0,0.0,0,v,SUB: George FOR Fox,Substitution,,0,344
+20000739,353,PT06M13.00S,3,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,SUB: Madsen FOR O'Neal,Substitution,,0,345
+20000739,354,PT06M13.00S,3,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,53.0,64.0,117,h,Davis Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,346
+20000739,355,PT05M55.00S,3,1610612747,LAL,977,Bryant,K. Bryant,201,152,25,Missed,1,0.0,0.0,0,v,MISS Bryant 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,347
+20000739,356,PT05M52.00S,3,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,h,Mashburn REBOUND (Off:3 Def:7),Rebound,Unknown,0,348
+20000739,357,PT05M48.00S,3,1610612766,CHH,1944,Robinson,E. Robinson,0,0,0,Missed,1,0.0,0.0,0,h,MISS Robinson  Layup,Missed Shot,Layup Shot,0,349
+20000739,358,PT05M45.00S,3,1610612747,LAL,2058,Madsen,M. Madsen,0,0,0,,0,0.0,0.0,0,v,Madsen REBOUND (Off:1 Def:2),Rebound,Unknown,0,350
+20000739,359,PT05M40.00S,3,1610612747,LAL,977,Bryant,K. Bryant,43,57,7,Missed,1,0.0,0.0,0,v,MISS Bryant 7' Jump Shot,Missed Shot,Jump Shot,0,351
+20000739,360,PT05M38.00S,3,1610612766,CHH,136,Brown,P. Brown,0,0,0,,0,0.0,0.0,0,h,Brown REBOUND (Off:2 Def:3),Rebound,Unknown,0,352
+20000739,361,PT05M33.00S,3,1610612766,CHH,1884,Davis,B. Davis,115,241,27,Made,1,56.0,64.0,120,h,Davis 27' 3PT Jump Shot (17 PTS) (Mashburn 3 AST),Made Shot,Jump Shot,0,353
+20000739,362,PT05M09.00S,3,1610612747,LAL,977,Bryant,K. Bryant,-141,70,16,Missed,1,0.0,0.0,0,v,MISS Bryant 16' Jump Shot,Missed Shot,Jump Shot,0,354
+20000739,363,PT05M07.00S,3,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,h,Davis REBOUND (Off:1 Def:6),Rebound,Unknown,0,355
+20000739,364,PT05M01.00S,3,1610612766,CHH,1884,Davis,B. Davis,16,148,15,Missed,1,0.0,0.0,0,h,MISS Davis 15' Jump Shot,Missed Shot,Jump Shot,0,356
+20000739,365,PT05M01.00S,3,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Rebound,Rebound,Unknown,0,357
+20000739,366,PT05M01.00S,3,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,,0,0.0,0.0,0,h,Magloire L.B.FOUL (P4.PN),Foul,Loose Ball,0,358
+20000739,367,PT05M01.00S,3,1610612766,CHH,136,Brown,P. Brown,0,0,0,,0,0.0,0.0,0,h,SUB: James FOR Brown,Substitution,,0,359
+20000739,369,PT05M01.00S,3,1610612747,LAL,2058,Madsen,M. Madsen,0,0,0,,0,56.0,65.0,121,v,Madsen Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,360
+20000739,370,PT05M01.00S,3,1610612747,LAL,375,Rider,I. Rider,0,0,0,,0,0.0,0.0,0,v,SUB: Shaw FOR Rider,Substitution,,0,361
+20000739,371,PT05M01.00S,3,1610612747,LAL,2058,Madsen,M. Madsen,0,0,0,,0,0.0,0.0,0,v,MISS Madsen Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,362
+20000739,372,PT05M00.00S,3,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,,0,0.0,0.0,0,h,Magloire REBOUND (Off:0 Def:1),Rebound,Unknown,0,363
+20000739,373,PT04M53.00S,3,1610612747,LAL,1904,George,D. George,0,0,0,,0,0.0,0.0,0,v,George P.FOUL (P3.T4),Foul,Personal,0,364
+20000739,374,PT04M53.00S,3,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,h,SUB: Wesley FOR Mashburn,Substitution,,0,365
+20000739,375,PT04M46.00S,3,1610612766,CHH,133,Wesley,D. Wesley,-128,129,18,Missed,1,0.0,0.0,0,h,MISS Wesley 18' Jump Shot,Missed Shot,Jump Shot,0,366
+20000739,376,PT04M46.00S,3,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Rebound,Rebound,Unknown,0,367
+20000739,377,PT04M46.00S,3,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,,0,0.0,0.0,0,h,Magloire L.B.FOUL (P5.PN),Foul,Loose Ball,0,368
+20000739,378,PT04M46.00S,3,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,,0,0.0,0.0,0,h,SUB: Mashburn FOR Magloire,Substitution,,0,369
+20000739,379,PT04M46.00S,3,1610612747,LAL,2058,Madsen,M. Madsen,0,0,0,,0,0.0,0.0,0,v,MISS Madsen Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,370
+20000739,380,PT04M46.00S,3,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Rebound,Rebound,Normal Rebound,0,371
+20000739,381,PT04M46.00S,3,1610612747,LAL,109,Horry,R. Horry,0,0,0,,0,0.0,0.0,0,v,SUB: O'Neal FOR Horry,Substitution,,0,372
+20000739,382,PT04M46.00S,3,1610612747,LAL,2058,Madsen,M. Madsen,0,0,0,,0,56.0,66.0,122,v,Madsen Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,373
+20000739,383,PT04M31.00S,3,1610612747,LAL,1904,George,D. George,0,0,0,,0,0.0,0.0,0,v,George P.FOUL (P4.PN),Foul,Personal,0,374
+20000739,384,PT04M31.00S,3,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,57.0,66.0,123,h,Mashburn Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,375
+20000739,385,PT04M31.00S,3,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,58.0,66.0,124,h,Mashburn Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,376
+20000739,386,PT04M29.00S,3,1610612747,LAL,2058,Madsen,M. Madsen,0,0,0,,0,0.0,0.0,0,v,Madsen Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,377
+20000739,386,PT04M29.00S,3,1610612766,CHH,1944,Robinson,E. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson STEAL (2 STL),,,0,378
+20000739,387,PT04M24.00S,3,1610612766,CHH,1906,James,T. James,-4,63,6,Missed,1,0.0,0.0,0,h,MISS James 6' Jump Shot,Missed Shot,Jump Shot,0,379
+20000739,388,PT04M23.00S,3,1610612766,CHH,1944,Robinson,E. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson REBOUND (Off:1 Def:1),Rebound,Unknown,0,380
+20000739,389,PT04M21.00S,3,1610612766,CHH,1944,Robinson,E. Robinson,-4,179,18,Made,1,60.0,66.0,126,h,Robinson 18' Jump Shot (6 PTS),Made Shot,Jump Shot,0,381
+20000739,390,PT04M21.00S,3,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,382
+20000739,392,PT04M21.00S,3,1610612747,LAL,2058,Madsen,M. Madsen,0,0,0,,0,0.0,0.0,0,v,SUB: Fox FOR Madsen,Substitution,,0,383
+20000739,393,PT04M00.00S,3,1610612747,LAL,406,O'Neal,S. O'Neal,85,26,9,Missed,1,0.0,0.0,0,v,MISS O'Neal 9' Jump Shot,Missed Shot,Jump Shot,0,384
+20000739,394,PT03M58.00S,3,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,h,Mashburn REBOUND (Off:3 Def:8),Rebound,Unknown,0,385
+20000739,395,PT03M52.00S,3,1610612766,CHH,133,Wesley,D. Wesley,-229,118,26,Missed,1,0.0,0.0,0,h,MISS Wesley 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,386
+20000739,396,PT03M49.00S,3,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,h,Davis REBOUND (Off:2 Def:6),Rebound,Unknown,0,387
+20000739,397,PT03M43.00S,3,1610612766,CHH,1944,Robinson,E. Robinson,-162,30,16,Made,1,62.0,66.0,128,h,Robinson 16' Jump Shot (8 PTS) (Davis 6 AST),Made Shot,Jump Shot,0,388
+20000739,398,PT03M24.00S,3,1610612747,LAL,296,Fox,R. Fox,237,47,24,Missed,1,0.0,0.0,0,v,MISS Fox 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,389
+20000739,399,PT03M22.00S,3,1610612766,CHH,1944,Robinson,E. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson REBOUND (Off:1 Def:2),Rebound,Unknown,0,390
+20000739,400,PT03M16.00S,3,1610612766,CHH,469,Mashburn,J. Mashburn,231,53,24,Made,1,65.0,66.0,131,h,Mashburn 24' 3PT Jump Shot (16 PTS) (Davis 7 AST),Made Shot,Jump Shot,0,391
+20000739,401,PT03M09.00S,3,1610612747,LAL,296,Fox,R. Fox,0,0,0,,0,0.0,0.0,0,v,Fox Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,392
+20000739,402,PT02M55.00S,3,1610612766,CHH,1944,Robinson,E. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,393
+20000739,402,PT02M55.00S,3,1610612747,LAL,296,Fox,R. Fox,0,0,0,,0,0.0,0.0,0,v,Fox STEAL (3 STL),,,0,394
+20000739,403,PT02M45.00S,3,1610612766,CHH,1906,James,T. James,0,0,0,,0,0.0,0.0,0,h,James S.FOUL (P2.PN),Foul,Shooting,0,395
+20000739,405,PT02M45.00S,3,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,65.0,67.0,132,v,O'Neal Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,396
+20000739,406,PT02M45.00S,3,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,MISS O'Neal Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,397
+20000739,407,PT02M42.00S,3,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,h,Mashburn REBOUND (Off:3 Def:9),Rebound,Unknown,0,398
+20000739,408,PT02M23.00S,3,1610612766,CHH,469,Mashburn,J. Mashburn,-113,53,12,Missed,1,0.0,0.0,0,h,MISS Mashburn 12' Jump Shot,Missed Shot,Jump Shot,0,399
+20000739,409,PT02M20.00S,3,1610612766,CHH,1906,James,T. James,0,0,0,,0,0.0,0.0,0,h,James REBOUND (Off:1 Def:0),Rebound,Unknown,0,400
+20000739,410,PT02M05.00S,3,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,0.0,0.0,0,h,Wesley Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,401
+20000739,410,PT02M05.00S,3,1610612747,LAL,1904,George,D. George,0,0,0,,0,0.0,0.0,0,v,George STEAL (1 STL),,,0,402
+20000739,411,PT01M55.00S,3,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,Bryant Bad Pass Turnover (P3.T13),Turnover,Bad Pass,0,403
+20000739,412,PT01M48.00S,3,1610612766,CHH,1944,Robinson,E. Robinson,-128,15,13,Missed,1,0.0,0.0,0,h,MISS Robinson 13' Jump Shot,Missed Shot,Jump Shot,0,404
+20000739,413,PT01M46.00S,3,1610612747,LAL,1904,George,D. George,0,0,0,,0,0.0,0.0,0,v,George REBOUND (Off:0 Def:1),Rebound,Unknown,0,405
+20000739,414,PT01M30.00S,3,1610612747,LAL,296,Fox,R. Fox,0,0,0,,0,0.0,0.0,0,v,Fox Bad Pass Turnover (P3.T14),Turnover,Bad Pass,0,406
+20000739,414,PT01M30.00S,3,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,h,Mashburn STEAL (2 STL),,,0,407
+20000739,415,PT01M27.00S,3,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,h,Mashburn Bad Pass Turnover (P4.T10),Turnover,Bad Pass,0,408
+20000739,415,PT01M27.00S,3,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,Bryant STEAL (1 STL),,,0,409
+20000739,416,PT01M23.00S,3,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,Made,1,65.0,69.0,134,v,O'Neal  Dunk (23 PTS) (Bryant 7 AST),Made Shot,Dunk Shot,0,410
+20000739,417,PT01M07.00S,3,1610612766,CHH,133,Wesley,D. Wesley,-113,158,19,Missed,1,0.0,0.0,0,h,MISS Wesley 19' Jump Shot,Missed Shot,Jump Shot,0,411
+20000739,418,PT01M05.00S,3,1610612747,LAL,1904,George,D. George,0,0,0,,0,0.0,0.0,0,v,George REBOUND (Off:0 Def:2),Rebound,Unknown,0,412
+20000739,419,PT00M49.10S,3,1610612747,LAL,406,O'Neal,S. O'Neal,58,19,6,Made,1,65.0,71.0,136,v,O'Neal 6' Jump Shot (25 PTS) (Bryant 8 AST),Made Shot,Jump Shot,0,413
+20000739,420,PT00M34.90S,3,1610612766,CHH,1884,Davis,B. Davis,0,0,0,Made,1,67.0,71.0,138,h,Davis  Layup (19 PTS),Made Shot,Layup Shot,0,414
+20000739,421,PT00M34.90S,3,1610612747,LAL,1904,George,D. George,0,0,0,,0,0.0,0.0,0,v,George S.FOUL (P5.PN),Foul,Shooting,0,415
+20000739,422,PT00M34.90S,3,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,h,MISS Davis Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,416
+20000739,423,PT00M34.90S,3,1610612747,LAL,216,Shaw,B. Shaw,0,0,0,,0,0.0,0.0,0,v,Shaw REBOUND (Off:1 Def:2),Rebound,Unknown,0,417
+20000739,424,PT00M10.90S,3,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Turnover: Shot Clock (T#15),Turnover,Shot Clock Turnover,0,418
+20000739,425,PT00M01.20S,3,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,Missed,1,0.0,0.0,0,h,MISS Mashburn  Layup,Missed Shot,Layup Shot,0,419
+20000739,427,PT00M01.00S,3,1610612766,CHH,1906,James,T. James,0,0,0,,0,0.0,0.0,0,h,James REBOUND (Off:2 Def:0),Rebound,Unknown,0,420
+20000739,426,PT00M01.00S,3,1610612766,CHH,1906,James,T. James,0,0,0,Missed,1,0.0,0.0,0,h,MISS James  Tip Shot,Missed Shot,Tip Shot,0,421
+20000739,429,PT00M00.60S,3,1610612766,CHH,1906,James,T. James,0,0,0,,0,0.0,0.0,0,h,James REBOUND (Off:3 Def:0),Rebound,Unknown,0,422
+20000739,428,PT00M00.60S,3,1610612766,CHH,1906,James,T. James,0,0,0,Missed,1,0.0,0.0,0,h,MISS James  Tip Shot,Missed Shot,Tip Shot,0,423
+20000739,430,PT00M00.30S,3,1610612747,LAL,1904,George,D. George,0,0,0,,0,0.0,0.0,0,v,George REBOUND (Off:0 Def:3),Rebound,Unknown,0,424
+20000739,431,PT00M00.00S,3,0,,0,,,0,0,0,,0,67.0,71.0,138,,End of 3rd Period (1:30 PM EST),period,end,0,425
+20000739,433,PT12M00.00S,4,0,,0,,,0,0,0,,0,67.0,71.0,138,,Start of 4th Period (1:33 PM EST),period,start,0,426
+20000739,434,PT11M40.00S,4,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,Made,1,67.0,73.0,140,v,O'Neal  Dunk (27 PTS) (Fox 2 AST),Made Shot,Dunk Shot,0,427
+20000739,435,PT11M21.00S,4,1610612766,CHH,922,Campbell,E. Campbell,-4,63,6,Missed,1,0.0,0.0,0,h,MISS Campbell 6' Jump Shot,Missed Shot,Jump Shot,0,428
+20000739,436,PT11M19.00S,4,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,h,Campbell REBOUND (Off:5 Def:6),Rebound,Unknown,0,429
+20000739,437,PT11M06.00S,4,1610612766,CHH,922,Campbell,E. Campbell,37,80,9,Made,1,69.0,73.0,142,h,Campbell 9' Jump Shot (8 PTS) (Mashburn 4 AST),Made Shot,Jump Shot,0,430
+20000739,438,PT10M51.00S,4,1610612747,LAL,406,O'Neal,S. O'Neal,-71,30,8,Made,1,69.0,75.0,144,v,O'Neal 8' Turnaround Jump Shot (29 PTS),Made Shot,Turnaround Jump Shot,0,431
+20000739,439,PT10M38.00S,4,1610612766,CHH,469,Mashburn,J. Mashburn,138,70,15,Made,1,71.0,75.0,146,h,Mashburn 15' Jump Shot (18 PTS) (Wesley 1 AST),Made Shot,Jump Shot,0,432
+20000739,440,PT10M12.00S,4,1610612747,LAL,296,Fox,R. Fox,231,53,24,Missed,1,0.0,0.0,0,v,MISS Fox 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,433
+20000739,441,PT10M08.00S,4,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,h,Mashburn REBOUND (Off:3 Def:10),Rebound,Unknown,0,434
+20000739,442,PT09M54.00S,4,1610612747,LAL,270,Grant,H. Grant,0,0,0,,0,0.0,0.0,0,v,Grant P.FOUL (P2.T1),Foul,Personal,0,435
+20000739,443,PT09M48.00S,4,1610612766,CHH,469,Mashburn,J. Mashburn,123,42,13,Made,1,73.0,75.0,148,h,Mashburn 13' Jump Shot (20 PTS) (Wesley 2 AST),Made Shot,Jump Shot,0,436
+20000739,444,PT09M26.00S,4,1610612747,LAL,406,O'Neal,S. O'Neal,-77,19,8,Made,1,73.0,77.0,150,v,O'Neal 8' Jump Shot (31 PTS) (Fox 3 AST),Made Shot,Jump Shot,0,437
+20000739,445,PT09M09.00S,4,1610612766,CHH,1884,Davis,B. Davis,115,230,26,Missed,1,0.0,0.0,0,h,MISS Davis 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,438
+20000739,446,PT09M07.00S,4,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,h,Campbell REBOUND (Off:6 Def:6),Rebound,Unknown,0,439
+20000739,447,PT08M56.00S,4,1610612766,CHH,469,Mashburn,J. Mashburn,144,141,20,Missed,1,0.0,0.0,0,h,MISS Mashburn 20' Jump Shot,Missed Shot,Jump Shot,0,440
+20000739,448,PT08M54.00S,4,1610612747,LAL,375,Rider,I. Rider,0,0,0,,0,0.0,0.0,0,v,Rider REBOUND (Off:1 Def:5),Rebound,Unknown,0,441
+20000739,449,PT08M51.00S,4,1610612747,LAL,375,Rider,I. Rider,0,0,0,,0,0.0,0.0,0,v,Rider Lost Ball Turnover (P3.T16),Turnover,Lost Ball,0,442
+20000739,449,PT08M51.00S,4,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,h,Davis STEAL (2 STL),,,0,443
+20000739,450,PT08M46.00S,4,1610612766,CHH,1944,Robinson,E. Robinson,0,0,0,Made,1,75.0,77.0,152,h,Robinson  Layup (10 PTS) (Wesley 3 AST),Made Shot,Layup Shot,0,444
+20000739,451,PT08M28.00S,4,1610612747,LAL,406,O'Neal,S. O'Neal,30,47,6,Made,1,75.0,79.0,154,v,O'Neal 6' Hook Shot (33 PTS) (Fox 4 AST),Made Shot,Hook Shot,0,445
+20000739,452,PT08M13.00S,4,1610612766,CHH,922,Campbell,E. Campbell,-113,15,11,Missed,1,0.0,0.0,0,h,MISS Campbell 11' Jump Shot,Missed Shot,Jump Shot,0,446
+20000739,453,PT08M11.00S,4,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,h,Mashburn REBOUND (Off:4 Def:10),Rebound,Unknown,0,447
+20000739,454,PT08M08.00S,4,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,Missed,1,0.0,0.0,0,h,MISS Mashburn  Layup,Missed Shot,Layup Shot,0,448
+20000739,454,PT08M08.00S,4,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal BLOCK (4 BLK),,,0,449
+20000739,455,PT08M06.00S,4,1610612766,CHH,1944,Robinson,E. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson REBOUND (Off:2 Def:2),Rebound,Unknown,0,450
+20000739,456,PT08M06.00S,4,1610612766,CHH,1944,Robinson,E. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson Discontinue Dribble Turnover (P2.T11),Turnover,Discontinue Dribble,0,451
+20000739,457,PT08M06.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,452
+20000739,459,PT08M06.00S,4,1610612747,LAL,296,Fox,R. Fox,0,0,0,,0,0.0,0.0,0,v,SUB: Bryant FOR Fox,Substitution,,0,453
+20000739,460,PT08M06.00S,4,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,SUB: Foster FOR O'Neal,Substitution,,0,454
+20000739,461,PT08M06.00S,4,1610612766,CHH,1944,Robinson,E. Robinson,0,0,0,,0,0.0,0.0,0,h,SUB: Brown FOR Robinson,Substitution,,0,455
+20000739,462,PT07M54.00S,4,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,Bryant Lost Ball Turnover (P4.T17),Turnover,Lost Ball,0,456
+20000739,462,PT07M54.00S,4,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,h,Mashburn STEAL (3 STL),,,0,457
+20000739,463,PT07M48.00S,4,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,Made,1,77.0,79.0,156,h,Mashburn  Layup (22 PTS),Made Shot,Layup Shot,0,458
+20000739,464,PT07M32.00S,4,1610612747,LAL,375,Rider,I. Rider,138,101,17,Made,1,77.0,81.0,158,v,Rider 17' Jump Shot (10 PTS),Made Shot,Jump Shot,0,459
+20000739,465,PT07M17.00S,4,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,Made,1,79.0,81.0,160,h,Campbell  Layup (10 PTS) (Wesley 4 AST),Made Shot,Layup Shot,0,460
+20000739,466,PT06M59.00S,4,1610612747,LAL,375,Rider,I. Rider,-155,47,16,Missed,1,0.0,0.0,0,v,MISS Rider 16' Jump Shot,Missed Shot,Jump Shot,0,461
+20000739,467,PT06M56.00S,4,1610612766,CHH,136,Brown,P. Brown,0,0,0,,0,0.0,0.0,0,h,Brown REBOUND (Off:2 Def:4),Rebound,Unknown,0,462
+20000739,468,PT06M52.00S,4,1610612766,CHH,133,Wesley,D. Wesley,100,234,25,Missed,1,0.0,0.0,0,h,MISS Wesley 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,463
+20000739,469,PT06M51.00S,4,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Rebound,Rebound,Unknown,0,464
+20000739,470,PT06M51.00S,4,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,h,Davis L.B.FOUL (P2.T1),Foul,Loose Ball,0,465
+20000739,471,PT06M51.00S,4,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,h,SUB: Recasner FOR Davis,Substitution,,0,466
+20000739,472,PT06M37.00S,4,1610612747,LAL,977,Bryant,K. Bryant,58,26,6,Missed,1,0.0,0.0,0,v,MISS Bryant 6' Jump Shot,Missed Shot,Jump Shot,0,467
+20000739,474,PT06M36.00S,4,1610612747,LAL,270,Grant,H. Grant,0,0,0,,0,0.0,0.0,0,v,Grant REBOUND (Off:1 Def:3),Rebound,Unknown,0,468
+20000739,473,PT06M36.00S,4,1610612747,LAL,270,Grant,H. Grant,0,0,0,Missed,1,0.0,0.0,0,v,MISS Grant  Tip Shot,Missed Shot,Tip Shot,0,469
+20000739,475,PT06M36.00S,4,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Rebound,Rebound,Unknown,0,470
+20000739,476,PT06M36.00S,4,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,h,SUB: James FOR Campbell,Substitution,,0,471
+20000739,477,PT06M36.00S,4,1610612747,LAL,216,Shaw,B. Shaw,0,0,0,,0,0.0,0.0,0,v,SUB: Lue FOR Shaw,Substitution,,0,472
+20000739,478,PT06M33.00S,4,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,0.0,0.0,0,h,Wesley P.FOUL (P4.T2),Foul,Personal,0,473
+20000739,479,PT06M25.00S,4,1610612747,LAL,375,Rider,I. Rider,0,0,0,,0,0.0,0.0,0,v,Rider Bad Pass Turnover (P4.T18),Turnover,Bad Pass,0,474
+20000739,480,PT06M08.00S,4,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,Bryant S.FOUL (P2.T2),Foul,Shooting,0,475
+20000739,481,PT06M08.00S,4,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,80.0,81.0,161,h,Mashburn Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,476
+20000739,482,PT06M08.00S,4,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,81.0,81.0,162,h,Mashburn Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,477
+20000739,483,PT05M48.00S,4,1610612747,LAL,375,Rider,I. Rider,-48,57,7,Made,1,81.0,83.0,164,v,Rider 7' Jump Shot (12 PTS),Made Shot,Jump Shot,0,478
+20000739,484,PT05M34.00S,4,1610612766,CHH,469,Mashburn,J. Mashburn,144,219,26,Missed,1,0.0,0.0,0,h,MISS Mashburn 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,479
+20000739,485,PT05M32.00S,4,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Rebound,Rebound,Unknown,0,480
+20000739,486,PT05M32.00S,4,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,h,HORNETS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,481
+20000739,488,PT05M32.00S,4,1610612747,LAL,323,Foster,G. Foster,0,0,0,,0,0.0,0.0,0,v,SUB: O'Neal FOR Foster,Substitution,,0,482
+20000739,489,PT05M32.00S,4,1610612766,CHH,1906,James,T. James,0,0,0,,0,0.0,0.0,0,h,SUB: Robinson FOR James,Substitution,,0,483
+20000739,490,PT05M32.00S,4,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,0.0,0.0,0,h,SUB: Davis FOR Wesley,Substitution,,0,484
+20000739,491,PT05M32.00S,4,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,h,SUB: Campbell FOR Mashburn,Substitution,,0,485
+20000739,492,PT05M08.00S,4,1610612747,LAL,375,Rider,I. Rider,159,196,25,Missed,1,0.0,0.0,0,v,MISS Rider 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,486
+20000739,493,PT05M06.00S,4,1610612766,CHH,695,Recasner,E. Recasner,0,0,0,,0,0.0,0.0,0,h,Recasner REBOUND (Off:0 Def:2),Rebound,Unknown,0,487
+20000739,494,PT04M55.00S,4,1610612766,CHH,695,Recasner,E. Recasner,231,30,0,Missed,1,0.0,0.0,0,h,MISS Recasner  3PT Jump Shot,Missed Shot,Jump Shot,0,488
+20000739,495,PT04M52.00S,4,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal REBOUND (Off:4 Def:6),Rebound,Unknown,0,489
+20000739,496,PT04M38.00S,4,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,h,Campbell S.FOUL (P5.T3),Foul,Shooting,0,490
+20000739,497,PT04M38.00S,4,1610612747,LAL,270,Grant,H. Grant,0,0,0,,0,81.0,84.0,165,v,Grant Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,491
+20000739,498,PT04M38.00S,4,1610612747,LAL,270,Grant,H. Grant,0,0,0,,0,81.0,85.0,166,v,Grant Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,492
+20000739,499,PT04M22.00S,4,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal S.FOUL (P4.T3),Foul,Shooting,0,493
+20000739,500,PT04M22.00S,4,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,h,MISS Campbell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,494
+20000739,501,PT04M22.00S,4,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,h,HORNETS Rebound,Rebound,Normal Rebound,0,495
+20000739,502,PT04M22.00S,4,1610612766,CHH,695,Recasner,E. Recasner,0,0,0,,0,0.0,0.0,0,h,SUB: Wesley FOR Recasner,Substitution,,0,496
+20000739,503,PT04M22.00S,4,1610612766,CHH,1944,Robinson,E. Robinson,0,0,0,,0,0.0,0.0,0,h,SUB: Mashburn FOR Robinson,Substitution,,0,497
+20000739,504,PT04M22.00S,4,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,h,MISS Campbell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,498
+20000739,505,PT04M22.00S,4,1610612747,LAL,375,Rider,I. Rider,0,0,0,,0,0.0,0.0,0,v,Rider REBOUND (Off:1 Def:6),Rebound,Unknown,0,499
+20000739,506,PT04M04.00S,4,1610612766,CHH,136,Brown,P. Brown,0,0,0,,0,0.0,0.0,0,h,Brown P.FOUL (P2.T4),Foul,Personal,0,500
+20000739,507,PT03M50.00S,4,1610612747,LAL,1731,Lue,T. Lue,167,15,17,Made,1,81.0,87.0,168,v,Lue 17' Jump Shot (2 PTS) (Rider 2 AST),Made Shot,Jump Shot,0,501
+20000739,508,PT03M29.00S,4,1610612766,CHH,922,Campbell,E. Campbell,-77,36,9,Missed,1,0.0,0.0,0,h,MISS Campbell 9' Jump Shot,Missed Shot,Jump Shot,0,502
+20000739,510,PT03M27.00S,4,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,h,Davis REBOUND (Off:3 Def:6),Rebound,Unknown,0,503
+20000739,509,PT03M27.00S,4,1610612766,CHH,1884,Davis,B. Davis,0,0,0,Missed,1,0.0,0.0,0,h,MISS Davis  Tip Shot,Missed Shot,Tip Shot,0,504
+20000739,511,PT03M24.00S,4,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,0.0,0.0,0,v,Bryant REBOUND (Off:2 Def:8),Rebound,Unknown,0,505
+20000739,512,PT03M24.00S,4,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,0.0,0.0,0,h,Wesley S.FOUL (P5.PN),Foul,Shooting,0,506
+20000739,513,PT03M24.00S,4,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,81.0,88.0,169,v,O'Neal Free Throw 1 of 2 (34 PTS),Free Throw,Free Throw 1 of 2,0,507
+20000739,514,PT03M24.00S,4,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,81.0,89.0,170,v,O'Neal Free Throw 2 of 2 (35 PTS),Free Throw,Free Throw 2 of 2,0,508
+20000739,515,PT03M08.00S,4,1610612766,CHH,469,Mashburn,J. Mashburn,138,80,16,Made,1,83.0,89.0,172,h,Mashburn 16' Jump Shot (26 PTS) (Davis 8 AST),Made Shot,Jump Shot,0,509
+20000739,517,PT02M47.00S,4,1610612747,LAL,406,O'Neal,S. O'Neal,-119,26,12,Made,1,83.0,91.0,174,v,O'Neal 12' Jump Shot (37 PTS) (Bryant 9 AST),Made Shot,Jump Shot,0,510
+20000739,518,PT02M37.00S,4,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,Missed,1,0.0,0.0,0,h,MISS Mashburn  Layup,Missed Shot,Layup Shot,0,511
+20000739,518,PT02M37.00S,4,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal BLOCK (5 BLK),,,0,512
+20000739,519,PT02M37.00S,4,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,h,HORNETS Rebound,Rebound,Unknown,0,513
+20000739,520,PT02M37.00S,4,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Timeout: Regular (Reg.5 Short 1),Timeout,Regular,0,514
+20000739,522,PT02M37.00S,4,1610612766,CHH,136,Brown,P. Brown,0,0,0,,0,0.0,0.0,0,h,SUB: Robinson FOR Brown,Substitution,,0,515
+20000739,523,PT02M32.00S,4,1610612747,LAL,375,Rider,I. Rider,0,0,0,,0,0.0,0.0,0,v,Rider P.FOUL (P2.T4),Foul,Personal,0,516
+20000739,524,PT02M24.00S,4,1610612747,LAL,375,Rider,I. Rider,0,0,0,,0,0.0,0.0,0,v,Rider P.FOUL (P3.PN),Foul,Personal,0,517
+20000739,525,PT02M24.00S,4,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,84.0,91.0,175,h,Campbell Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,518
+20000739,526,PT02M24.00S,4,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,85.0,91.0,176,h,Campbell Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,519
+20000739,527,PT02M11.00S,4,1610612747,LAL,375,Rider,I. Rider,129,80,15,Missed,1,0.0,0.0,0,v,MISS Rider 15' Jump Shot,Missed Shot,Jump Shot,0,520
+20000739,528,PT02M08.00S,4,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,h,Campbell REBOUND (Off:6 Def:7),Rebound,Unknown,0,521
+20000739,529,PT02M05.00S,4,1610612766,CHH,1944,Robinson,E. Robinson,0,0,0,Made,1,87.0,91.0,178,h,Robinson  Slam Dunk (12 PTS) (Davis 9 AST),Made Shot,Slam Dunk Shot,0,522
+20000739,530,PT01M39.00S,4,1610612747,LAL,977,Bryant,K. Bryant,-149,125,19,Missed,1,0.0,0.0,0,v,MISS Bryant 19' Jump Shot,Missed Shot,Jump Shot,0,523
+20000739,531,PT01M36.00S,4,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,0.0,0.0,0,h,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,524
+20000739,532,PT01M32.00S,4,1610612766,CHH,1944,Robinson,E. Robinson,153,42,16,Missed,1,0.0,0.0,0,h,MISS Robinson 16' Jump Shot,Missed Shot,Jump Shot,0,525
+20000739,533,PT01M30.00S,4,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal REBOUND (Off:4 Def:7),Rebound,Unknown,0,526
+20000739,534,PT01M25.00S,4,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,h,Davis P.FOUL (P3.PN),Foul,Personal,0,527
+20000739,535,PT01M25.00S,4,1610612747,LAL,1731,Lue,T. Lue,0,0,0,,0,0.0,0.0,0,v,MISS Lue Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,528
+20000739,536,PT01M25.00S,4,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Rebound,Rebound,Normal Rebound,0,529
+20000739,537,PT01M25.00S,4,1610612747,LAL,375,Rider,I. Rider,0,0,0,,0,0.0,0.0,0,v,SUB: Shaw FOR Rider,Substitution,,0,530
+20000739,538,PT01M25.00S,4,1610612747,LAL,1731,Lue,T. Lue,0,0,0,,0,87.0,92.0,179,v,Lue Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,531
+20000739,539,PT01M13.00S,4,1610612766,CHH,922,Campbell,E. Campbell,-155,15,16,Made,1,89.0,92.0,181,h,Campbell 16' Jump Shot (14 PTS) (Mashburn 5 AST),Made Shot,Jump Shot,0,532
+20000739,540,PT00M50.60S,4,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,Made,1,89.0,94.0,183,v,Bryant  Reverse Layup (23 PTS),Made Shot,Reverse Layup Shot,0,533
+20000739,541,PT00M46.20S,4,1610612747,LAL,1731,Lue,T. Lue,0,0,0,,0,0.0,0.0,0,v,Lue P.FOUL (P2.PN),Foul,Personal,0,534
+20000739,542,PT00M46.20S,4,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,h,MISS Davis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,535
+20000739,543,PT00M46.20S,4,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,h,HORNETS Rebound,Rebound,Normal Rebound,0,536
+20000739,544,PT00M46.20S,4,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,h,MISS Davis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,537
+20000739,545,PT00M46.20S,4,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,h,HORNETS Rebound,Rebound,Unknown,0,538
+20000739,546,PT00M46.20S,4,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,h,Davis Lane Violation Turnover (P3.T12),Turnover,Lane Violation,0,539
+20000739,547,PT00M34.60S,4,1610612747,LAL,270,Grant,H. Grant,0,0,0,Made,1,89.0,96.0,185,v,Grant  Dunk (6 PTS) (Bryant 10 AST),Made Shot,Dunk Shot,0,540
+20000739,549,PT00M31.30S,4,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,h,HORNETS Timeout: Regular (Full 5 Short 1),Timeout,Regular,0,541
+20000739,551,PT00M27.10S,4,1610612766,CHH,469,Mashburn,J. Mashburn,43,272,28,Missed,1,0.0,0.0,0,h,MISS Mashburn 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,542
+20000739,552,PT00M24.90S,4,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,0.0,0.0,0,h,Campbell REBOUND (Off:7 Def:7),Rebound,Unknown,0,543
+20000739,553,PT00M22.90S,4,1610612766,CHH,133,Wesley,D. Wesley,-170,135,22,Made,1,91.0,96.0,187,h,Wesley 22' Jump Shot (6 PTS) (Campbell 2 AST),Made Shot,Jump Shot,0,544
+20000739,554,PT00M22.90S,4,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Timeout: Short (Reg.5 Short 2),Timeout,Short,0,545
+20000739,556,PT00M22.10S,4,1610612766,CHH,1944,Robinson,E. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson P.FOUL (P1.PN),Foul,Personal,0,546
+20000739,557,PT00M22.10S,4,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,91.0,97.0,188,v,Bryant Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,0,547
+20000739,558,PT00M22.10S,4,1610612747,LAL,977,Bryant,K. Bryant,0,0,0,,0,91.0,98.0,189,v,Bryant Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,0,548
+20000739,559,PT00M22.10S,4,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,h,HORNETS Timeout: Regular (Full 6 Short 1),Timeout,Regular,0,549
+20000739,561,PT00M18.50S,4,1610612766,CHH,469,Mashburn,J. Mashburn,79,262,27,Missed,1,0.0,0.0,0,h,MISS Mashburn 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,550
+20000739,562,PT00M16.30S,4,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal REBOUND (Off:4 Def:8),Rebound,Unknown,0,551
+20000739,563,PT00M16.00S,4,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,0.0,0.0,0,h,Wesley P.FOUL (P6.PN),Foul,Personal,0,552
+20000739,564,PT00M16.00S,4,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,0.0,0.0,0,h,SUB: Brown FOR Wesley,Substitution,,0,553
+20000739,565,PT00M16.00S,4,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,MISS O'Neal Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,554
+20000739,566,PT00M16.00S,4,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Rebound,Rebound,Normal Rebound,0,555
+20000739,567,PT00M16.00S,4,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,MISS O'Neal Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,556
+20000739,568,PT00M14.70S,4,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,h,Mashburn REBOUND (Off:4 Def:11),Rebound,Unknown,0,557
+20000739,569,PT00M08.20S,4,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,h,Mashburn Bad Pass Turnover (P5.T13),Turnover,Bad Pass,0,558
+20000739,569,PT00M08.20S,4,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal STEAL (1 STL),,,0,559
+20000739,570,PT00M08.20S,4,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,h,Mashburn P.FOUL (P4.PN),Foul,Personal,0,560
+20000739,571,PT00M08.20S,4,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,0.0,0.0,0,v,MISS O'Neal Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,561
+20000739,572,PT00M08.20S,4,0,,1610612747,,,0,0,0,,0,0.0,0.0,0,v,Lakers Rebound,Rebound,Normal Rebound,0,562
+20000739,573,PT00M08.20S,4,1610612747,LAL,406,O'Neal,S. O'Neal,0,0,0,,0,91.0,99.0,190,v,O'Neal Free Throw 2 of 2 (38 PTS),Free Throw,Free Throw 2 of 2,0,563
+20000739,574,PT00M01.60S,4,1610612766,CHH,1884,Davis,B. Davis,144,241,28,Made,1,94.0,99.0,193,h,Davis 28' 3PT Jump Shot (22 PTS),Made Shot,Jump Shot,0,564
+20000739,575,PT00M00.00S,4,0,,0,,,0,0,0,,0,94.0,99.0,193,,End of 4th Period (2:09 PM EST),period,end,0,565

@@ -1,0 +1,51 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId,clock_sec
+20000695,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (2:12 PM EST),period,start,0,1,0.0
+20000695,1,PT12M00.00S,1,1610612756,PHX,2054,Tsakalidis,J. Tsakalidis,0,0,0,,0,0.0,0.0,0,h,Jump Ball Tsakalidis vs. Miller: Tip to Kidd,Jump Ball,,0,2,0.0
+20000695,2,PT11M40.00S,1,1610612756,PHX,2054,Tsakalidis,J. Tsakalidis,0,0,0,,0,0.0,0.0,0,h,Tsakalidis Traveling Turnover (P1.T1),Turnover,Traveling,0,3,20.0
+20000695,3,PT11M32.00S,1,1610612756,PHX,2054,Tsakalidis,J. Tsakalidis,0,0,0,,0,0.0,0.0,0,h,Tsakalidis S.FOUL (P1.T1),Foul,Shooting,0,4,28.0
+20000695,4,PT11M32.00S,1,1610612741,CHI,1897,World Peace,M. World Peace,0,0,0,,0,0.0,1.0,1,v,World Peace Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,5,28.0
+20000695,5,PT11M32.00S,1,1610612741,CHI,1897,World Peace,M. World Peace,0,0,0,,0,0.0,2.0,2,v,World Peace Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,6,28.0
+20000695,6,PT11M20.00S,1,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,7,40.0
+20000695,7,PT11M08.00S,1,1610612741,CHI,1500,Mercer,R. Mercer,159,72,17,Made,1,0.0,4.0,4,v,Mercer 17' Jump Shot (2 PTS) (World Peace 1 AST),Made Shot,Jump Shot,0,8,52.0
+20000695,8,PT10M57.00S,1,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,9,63.0
+20000695,9,PT10M48.00S,1,1610612741,CHI,1897,World Peace,M. World Peace,0,0,0,,0,0.0,0.0,0,v,World Peace Double Dribble Turnover (P1.T1),Turnover,Double Dribble,0,10,72.0
+20000695,10,PT10M36.00S,1,1610612756,PHX,1890,Marion,S. Marion,-149,0,15,Made,1,2.0,4.0,6,h,Marion 15' Jump Shot (2 PTS) (Tsakalidis 1 AST),Made Shot,Jump Shot,0,11,84.0
+20000695,11,PT10M15.00S,1,1610612741,CHI,1802,Miller,B. Miller,-18,51,5,Missed,1,0.0,0.0,0,v,MISS Miller 5' Jump Shot,Missed Shot,Jump Shot,0,12,105.0
+20000695,11,PT10M15.00S,1,1610612756,PHX,2054,Tsakalidis,J. Tsakalidis,0,0,0,,0,0.0,0.0,0,h,Tsakalidis BLOCK (1 BLK),,,0,13,105.0
+20000695,12,PT10M12.00S,1,1610612756,PHX,2054,Tsakalidis,J. Tsakalidis,0,0,0,,0,0.0,0.0,0,h,Tsakalidis REBOUND (Off:0 Def:1),Rebound,Unknown,0,14,108.0
+20000695,13,PT10M02.00S,1,1610612756,PHX,2054,Tsakalidis,J. Tsakalidis,-42,57,7,Made,1,4.0,4.0,8,h,Tsakalidis 7' Hook Shot (2 PTS) (Elie 1 AST),Made Shot,Hook Shot,0,15,118.0
+20000695,14,PT09M49.00S,1,1610612741,CHI,1802,Miller,B. Miller,0,0,0,Made,1,4.0,6.0,10,v,Miller  Layup (2 PTS) (Drew 1 AST),Made Shot,Layup Shot,0,16,131.0
+20000695,15,PT09M30.00S,1,1610612756,PHX,361,Robinson,C. Robinson,-128,-15,13,Missed,1,0.0,0.0,0,h,MISS Robinson 13' Jump Shot,Missed Shot,Jump Shot,0,17,150.0
+20000695,16,PT09M28.00S,1,1610612741,CHI,1802,Miller,B. Miller,0,0,0,,0,0.0,0.0,0,v,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,18,152.0
+20000695,17,PT09M22.00S,1,1610612741,CHI,1897,World Peace,M. World Peace,0,0,0,Made,1,4.0,8.0,12,v,World Peace  Layup (4 PTS) (Drew 2 AST),Made Shot,Layup Shot,0,19,158.0
+20000695,18,PT09M03.00S,1,1610612756,PHX,1890,Marion,S. Marion,1,175,18,Missed,1,0.0,0.0,0,h,MISS Marion 18' Jump Shot,Missed Shot,Jump Shot,0,20,177.0
+20000695,19,PT09M00.00S,1,1610612741,CHI,1500,Mercer,R. Mercer,0,0,0,,0,0.0,0.0,0,v,Mercer REBOUND (Off:0 Def:1),Rebound,Unknown,0,21,180.0
+20000695,20,PT08M53.00S,1,1610612741,CHI,1724,Drew,B. Drew,0,0,0,Missed,1,0.0,0.0,0,v,MISS Drew  Layup,Missed Shot,Layup Shot,0,22,187.0
+20000695,21,PT08M52.00S,1,1610612756,PHX,2054,Tsakalidis,J. Tsakalidis,0,0,0,,0,0.0,0.0,0,h,Tsakalidis REBOUND (Off:0 Def:2),Rebound,Unknown,0,23,188.0
+20000695,22,PT08M47.00S,1,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,Made,1,6.0,8.0,14,h,Robinson  Layup (2 PTS) (Kidd 1 AST),Made Shot,Layup Shot,0,24,193.0
+20000695,23,PT08M31.00S,1,1610612741,CHI,1802,Miller,B. Miller,-56,125,14,Missed,1,0.0,0.0,0,v,MISS Miller 14' Jump Shot,Missed Shot,Jump Shot,0,25,209.0
+20000695,24,PT08M29.00S,1,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion REBOUND (Off:0 Def:1),Rebound,Unknown,0,26,211.0
+20000695,25,PT08M15.00S,1,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,Kidd Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,27,225.0
+20000695,26,PT07M59.00S,1,1610612741,CHI,1802,Miller,B. Miller,79,28,8,Missed,1,0.0,0.0,0,v,MISS Miller 8' Jump Shot,Missed Shot,Jump Shot,0,28,241.0
+20000695,27,PT07M57.00S,1,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion REBOUND (Off:0 Def:2),Rebound,Unknown,0,29,243.0
+20000695,28,PT07M53.00S,1,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,Marion Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,30,247.0
+20000695,28,PT07M53.00S,1,1610612741,CHI,1500,Mercer,R. Mercer,0,0,0,,0,0.0,0.0,0,v,Mercer STEAL (1 STL),,,0,31,247.0
+20000695,29,PT07M51.00S,1,1610612741,CHI,1500,Mercer,R. Mercer,0,0,0,,0,0.0,0.0,0,v,Mercer Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,32,249.0
+20000695,30,PT07M38.00S,1,1610612756,PHX,1890,Marion,S. Marion,-214,0,21,Made,1,8.0,8.0,16,h,Marion 21' Jump Shot (4 PTS) (Elie 2 AST),Made Shot,Jump Shot,0,33,262.0
+20000695,31,PT07M31.00S,1,1610612741,CHI,1500,Mercer,R. Mercer,0,0,0,Made,1,8.0,10.0,18,v,Mercer  Layup (4 PTS) (Drew 3 AST),Made Shot,Layup Shot,0,34,269.0
+20000695,32,PT07M14.00S,1,1610612756,PHX,2054,Tsakalidis,J. Tsakalidis,22,57,6,Missed,1,0.0,0.0,0,h,MISS Tsakalidis 6' Hook Shot,Missed Shot,Hook Shot,0,35,286.0
+20000695,33,PT07M12.00S,1,1610612741,CHI,2033,Fizer,M. Fizer,0,0,0,,0,0.0,0.0,0,v,Fizer REBOUND (Off:0 Def:1),Rebound,Unknown,0,36,288.0
+20000695,34,PT06M58.00S,1,1610612741,CHI,1500,Mercer,R. Mercer,0,0,0,Made,1,8.0,12.0,20,v,Mercer  Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,37,302.0
+20000695,35,PT06M34.00S,1,1610612756,PHX,1890,Marion,S. Marion,-4,51,5,Made,1,10.0,12.0,22,h,Marion 5' Jump Shot (6 PTS) (Kidd 2 AST),Made Shot,Jump Shot,0,38,326.0
+20000695,36,PT06M17.00S,1,1610612741,CHI,1500,Mercer,R. Mercer,0,0,0,Made,1,10.0,14.0,24,v,Mercer  Reverse Layup (8 PTS) (Miller 1 AST),Made Shot,Reverse Layup Shot,0,39,343.0
+20000695,37,PT05M56.00S,1,1610612756,PHX,53,Elie,M. Elie,1,61,6,Made,1,12.0,14.0,26,h,Elie 6' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,0,40,364.0
+20000695,38,PT05M41.00S,1,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,h,Robinson S.FOUL (P1.T2),Foul,Shooting,0,41,379.0
+20000695,39,PT05M41.00S,1,0,,1610612756,,,0,0,0,,0,0.0,0.0,0,h,SUNS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,42,379.0
+20000695,41,PT05M41.00S,1,1610612756,PHX,1890,Marion,S. Marion,0,0,0,,0,0.0,0.0,0,h,SUB: Delk FOR Marion,Substitution,,0,43,379.0
+20000695,42,PT05M41.00S,1,1610612756,PHX,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,h,SUB: Gugliotta FOR Robinson,Substitution,,0,44,379.0
+20000695,43,PT05M41.00S,1,1610612756,PHX,2054,Tsakalidis,J. Tsakalidis,0,0,0,,0,0.0,0.0,0,h,SUB: Santiago FOR Tsakalidis,Substitution,,0,45,379.0
+20000695,44,PT05M41.00S,1,1610612756,PHX,467,Kidd,J. Kidd,0,0,0,,0,0.0,0.0,0,h,SUB: Perry FOR Kidd,Substitution,,0,46,379.0
+20000695,45,PT05M41.00S,1,1610612756,PHX,53,Elie,M. Elie,0,0,0,,0,0.0,0.0,0,h,SUB: Rogers FOR Elie,Substitution,,0,47,379.0
+20000695,46,PT05M41.00S,1,1610612741,CHI,1897,World Peace,M. World Peace,0,0,0,,0,12.0,15.0,27,v,World Peace Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,48,379.0
+20000695,47,PT05M41.00S,1,1610612741,CHI,1897,World Peace,M. World Peace,0,0,0,,0,0.0,0.0,0,v,MISS World Peace Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,49,379.0
+20000695,48,PT05M41.00S,1,1610612756,PHX,2091,Santiago,D. Santiago,0,0,0,,0,0.0,0.0,0,h,Santiago REBOUND (Off:0 Def:1),Rebound,Unknown,0,50,379.0

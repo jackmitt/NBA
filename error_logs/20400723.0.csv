@@ -1,0 +1,23 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId,clock_sec
+20400723,308,PT11M15.00S,4,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,,,0,h,K. Thomas S.FOUL (P3.T1),Foul,Shooting,0,307,2205.0
+20400723,309,PT11M15.00S,4,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,,,0,v,MISS Haslem Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,308,2205.0
+20400723,310,PT11M15.00S,4,0,,1610612748,,,0,0,0,,0,,,0,v,Heat Rebound,Rebound,Normal Rebound,0,309,2205.0
+20400723,311,PT11M15.00S,4,1610612748,MIA,224,Jones,E. Jones,0,0,0,,0,,,0,v,SUB: Anderson FOR E. Jones,Substitution,,0,310,2205.0
+20400723,312,PT11M15.00S,4,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,67.0,76.0,143,v,Haslem Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,311,2205.0
+20400723,313,PT10M56.00S,4,1610612748,MIA,1800,Jones,D. Jones,0,0,0,,0,,,0,v,D. Jones P.FOUL (P4.T1),Foul,Personal,0,312,2224.0
+20400723,314,PT10M45.00S,4,1610612752,NYK,2552,Sweetney,M. Sweetney,5,41,4,Missed,1,,,0,h,MISS Sweetney 4' Jump Shot,Missed Shot,Jump Shot,0,313,2235.0
+20400723,315,PT10M43.00S,4,1610612748,MIA,1720,Doleac,M. Doleac,0,0,0,,0,,,0,v,Doleac REBOUND (Off:0 Def:2),Rebound,Unknown,0,314,2237.0
+20400723,316,PT10M38.00S,4,1610612748,MIA,1800,Jones,D. Jones,-113,150,19,Made,1,67.0,78.0,145,v,D. Jones 19' Jump Shot (17 PTS),Made Shot,Jump Shot,0,315,2242.0
+20400723,317,PT10M12.00S,4,1610612752,NYK,2552,Sweetney,M. Sweetney,0,0,0,Missed,1,,,0,h,MISS Sweetney Layup,Missed Shot,Layup Shot,0,316,2268.0
+20400723,319,PT10M11.00S,4,1610612752,NYK,2552,Sweetney,M. Sweetney,0,0,0,,0,,,0,h,Sweetney REBOUND (Off:1 Def:2),Rebound,Unknown,0,317,2269.0
+20400723,318,PT10M11.00S,4,1610612752,NYK,2552,Sweetney,M. Sweetney,0,0,0,Made,1,69.0,78.0,147,h,Sweetney Tip Shot (4 PTS),Made Shot,Tip Shot,0,318,2269.0
+20400723,320,PT09M51.00S,4,1610612748,MIA,2548,Wade,D. Wade,-48,61,8,Missed,1,,,0,v,MISS Wade 8' Jump Shot,Missed Shot,Jump Shot,0,319,2289.0
+20400723,321,PT09M49.00S,4,1610612752,NYK,358,Hardaway,A. Hardaway,0,0,0,,0,,,0,h,Hardaway REBOUND (Off:0 Def:1),Rebound,Unknown,0,320,2291.0
+20400723,322,PT09M36.00S,4,1610612752,NYK,2552,Sweetney,M. Sweetney,0,0,0,Made,1,71.0,78.0,149,h,Sweetney Layup (6 PTS) (K. Thomas 3 AST),Made Shot,Layup Shot,0,321,2304.0
+20400723,323,PT09M16.00S,4,1610612752,NYK,2552,Sweetney,M. Sweetney,0,0,0,,0,,,0,h,Sweetney S.FOUL (P1.T2),Foul,Shooting,0,322,2324.0
+20400723,324,PT09M16.00S,4,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,,,0,h,SUB: Williams FOR K. Thomas,Substitution,,0,323,2324.0
+20400723,325,PT09M16.00S,4,1610612752,NYK,2249,Brewer,J. Brewer,0,0,0,,0,,,0,h,SUB: Marbury FOR Brewer,Substitution,,0,324,2324.0
+20400723,326,PT09M16.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,71.0,79.0,150,v,Wade Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,325,2324.0
+20400723,327,PT09M16.00S,4,1610612748,MIA,2617,Haslem,U. Haslem,0,0,0,,0,,,0,v,SUB: O'Neal FOR Haslem,Substitution,,0,326,2324.0
+20400723,328,PT09M16.00S,4,1610612748,MIA,2548,Wade,D. Wade,0,0,0,,0,,,0,v,MISS Wade Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,327,2324.0
+20400723,329,PT09M16.00S,4,1610612752,NYK,966,Williams,J. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,328,2324.0

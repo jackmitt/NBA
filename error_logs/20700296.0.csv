@@ -1,0 +1,72 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId,clock_sec
+20700296,369,PT07M07.00S,4,1610612765,DET,101131,Maxiell,J. Maxiell,0,0,0,,0,0.0,0.0,0,h,Maxiell REBOUND (Off:3 Def:4),Rebound,Unknown,0,368,2453.0
+20700296,370,PT07M07.00S,4,1610612766,CHA,1507,Anderson,D. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson P.FOUL (P3.T4),Foul,Personal,0,369,2453.0
+20700296,372,PT07M07.00S,4,1610612766,CHA,976,McInnis,J. McInnis,0,0,0,,0,0.0,0.0,0,v,SUB: Dudley FOR McInnis,Substitution,,0,370,2453.0
+20700296,373,PT07M07.00S,4,1610612765,DET,101131,Maxiell,J. Maxiell,0,0,0,,0,0.0,0.0,0,h,SUB: Johnson FOR Maxiell,Substitution,,0,371,2453.0
+20700296,374,PT07M07.00S,4,1610612766,CHA,2731,Okafor,E. Okafor,0,0,0,,0,0.0,0.0,0,v,SUB: Hollins FOR Okafor,Substitution,,0,372,2453.0
+20700296,375,PT07M00.00S,4,1610612765,DET,2436,Murray,R. Murray,0,0,0,,0,0.0,0.0,0,h,Murray Out of Bounds Lost Ball Turnover (P2.T13),Turnover,Out of Bounds Lost Ball Turnover,0,373,2460.0
+20700296,376,PT06M42.00S,4,1610612766,CHA,1507,Anderson,D. Anderson,167,69,18,Missed,1,0.0,0.0,0,v,MISS Anderson 18' Jump Shot,Missed Shot,Jump Shot,0,374,2478.0
+20700296,377,PT06M41.00S,4,0,,1610612766,,,0,0,0,,0,0.0,0.0,0,v,Bobcats Rebound,Rebound,Unknown,0,375,2479.0
+20700296,378,PT06M41.00S,4,1610612765,DET,1737,Mohammed,N. Mohammed,0,0,0,,0,0.0,0.0,0,h,Mohammed L.B.FOUL (P1.T2),Foul,Loose Ball,0,376,2479.0
+20700296,379,PT06M38.00S,4,1610612765,DET,1737,Mohammed,N. Mohammed,0,0,0,,0,0.0,0.0,0,h,Mohammed P.FOUL (P2.T3),Foul,Personal,0,377,2482.0
+20700296,380,PT06M31.00S,4,1610612766,CHA,2679,Carroll,M. Carroll,-49,155,16,Made,1,91.0,72.0,163,v,Carroll 16' Jump Shot (2 PTS) (Anderson 4 AST),Made Shot,Jump Shot,0,378,2489.0
+20700296,381,PT06M21.00S,4,1610612765,DET,1737,Mohammed,N. Mohammed,0,0,0,,0,0.0,0.0,0,h,Mohammed OFF.Foul (P3),Foul,Offensive,0,379,2499.0
+20700296,382,PT06M21.00S,4,1610612765,DET,1737,Mohammed,N. Mohammed,0,0,0,,0,0.0,0.0,0,h,Mohammed Foul Turnover (P1.T14),Turnover,Foul,0,380,2499.0
+20700296,383,PT06M21.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,381,2499.0
+20700296,385,PT06M01.00S,4,1610612766,CHA,1507,Anderson,D. Anderson,182,23,18,Missed,1,0.0,0.0,0,v,MISS Anderson 18' Jump Shot,Missed Shot,Jump Shot,0,382,2519.0
+20700296,386,PT06M00.00S,4,1610612765,DET,201167,Afflalo,A. Afflalo,0,0,0,,0,0.0,0.0,0,h,Afflalo REBOUND (Off:0 Def:1),Rebound,Unknown,0,383,2520.0
+20700296,387,PT05M57.00S,4,1610612766,CHA,2679,Carroll,M. Carroll,0,0,0,,0,0.0,0.0,0,v,Carroll S.FOUL (P4.PN),Foul,Shooting,0,384,2523.0
+20700296,388,PT05M57.00S,4,1610612765,DET,201167,Afflalo,A. Afflalo,0,0,0,,0,92.0,72.0,164,h,Afflalo Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,385,2523.0
+20700296,389,PT05M57.00S,4,1610612765,DET,201167,Afflalo,A. Afflalo,0,0,0,,0,93.0,72.0,165,h,Afflalo Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,386,2523.0
+20700296,390,PT05M39.00S,4,1610612766,CHA,200835,Herrmann,W. Herrmann,192,33,19,Made,1,93.0,74.0,167,v,Herrmann 19' Jump Shot (8 PTS) (Carroll 2 AST),Made Shot,Jump Shot,0,387,2541.0
+20700296,391,PT05M34.00S,4,1610612765,DET,101161,Johnson,A. Johnson,0,0,0,,0,0.0,0.0,0,h,Johnson OFF.Foul (P1),Foul,Offensive,0,388,2546.0
+20700296,392,PT05M34.00S,4,1610612765,DET,101161,Johnson,A. Johnson,0,0,0,,0,0.0,0.0,0,h,Johnson Foul Turnover (P1.T15),Turnover,Foul,0,389,2546.0
+20700296,393,PT05M22.00S,4,1610612766,CHA,201162,Dudley,J. Dudley,-191,26,19,Made,1,93.0,76.0,169,v,Dudley 19' Jump Shot (2 PTS) (Anderson 5 AST),Made Shot,Jump Shot,0,390,2558.0
+20700296,394,PT04M59.00S,4,1610612765,DET,101161,Johnson,A. Johnson,0,0,0,Made,1,95.0,76.0,171,h,Johnson  Layup (2 PTS),Made Shot,Layup Shot,0,391,2581.0
+20700296,395,PT04M38.00S,4,1610612765,DET,1737,Mohammed,N. Mohammed,0,0,0,,0,0.0,0.0,0,h,Mohammed P.FOUL (P4.T4),Foul,Personal,0,392,2602.0
+20700296,396,PT04M31.00S,4,1610612766,CHA,2679,Carroll,M. Carroll,0,0,0,,0,0.0,0.0,0,v,Carroll Lost Ball Turnover (P2.T11),Turnover,Lost Ball,0,393,2609.0
+20700296,396,PT04M31.00S,4,1610612765,DET,1737,Mohammed,N. Mohammed,0,0,0,,0,0.0,0.0,0,h,Mohammed STEAL (1 STL),,,0,394,2609.0
+20700296,397,PT04M29.00S,4,1610612765,DET,201167,Afflalo,A. Afflalo,0,0,0,Made,1,97.0,76.0,173,h,Afflalo  Layup (4 PTS),Made Shot,Layup Shot,0,395,2611.0
+20700296,398,PT04M29.00S,4,1610612766,CHA,1507,Anderson,D. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson S.FOUL (P4.PN),Foul,Shooting,0,396,2611.0
+20700296,399,PT04M29.00S,4,1610612765,DET,201167,Afflalo,A. Afflalo,0,0,0,,0,98.0,76.0,174,h,Afflalo Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,397,2611.0
+20700296,400,PT04M13.00S,4,1610612766,CHA,200797,Hollins,R. Hollins,149,97,18,Missed,1,0.0,0.0,0,v,MISS Hollins 18' Jump Shot,Missed Shot,Jump Shot,0,398,2627.0
+20700296,401,PT04M12.00S,4,1610612766,CHA,2679,Carroll,M. Carroll,0,0,0,,0,0.0,0.0,0,v,Carroll REBOUND (Off:1 Def:3),Rebound,Unknown,0,399,2628.0
+20700296,402,PT04M05.00S,4,1610612766,CHA,200835,Herrmann,W. Herrmann,20,100,10,Missed,1,0.0,0.0,0,v,MISS Herrmann 10' Jump Shot,Missed Shot,Jump Shot,0,400,2635.0
+20700296,403,PT04M04.00S,4,1610612765,DET,1737,Mohammed,N. Mohammed,0,0,0,,0,0.0,0.0,0,h,Mohammed REBOUND (Off:1 Def:2),Rebound,Unknown,0,401,2636.0
+20700296,404,PT03M50.00S,4,1610612765,DET,201167,Afflalo,A. Afflalo,0,0,0,,0,0.0,0.0,0,h,Afflalo Traveling Turnover (P1.T16),Turnover,Traveling,0,402,2650.0
+20700296,405,PT03M34.00S,4,1610612766,CHA,1507,Anderson,D. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,403,2666.0
+20700296,405,PT03M34.00S,4,1610612765,DET,1737,Mohammed,N. Mohammed,0,0,0,,0,0.0,0.0,0,h,Mohammed STEAL (2 STL),,,0,404,2666.0
+20700296,406,PT03M29.00S,4,1610612765,DET,2553,Hayes,J. Hayes,92,23,9,Missed,1,0.0,0.0,0,h,MISS Hayes 9' Jump Shot,Missed Shot,Jump Shot,0,405,2671.0
+20700296,407,PT03M28.00S,4,1610612766,CHA,1507,Anderson,D. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson REBOUND (Off:1 Def:3),Rebound,Unknown,0,406,2672.0
+20700296,408,PT03M16.00S,4,1610612766,CHA,200835,Herrmann,W. Herrmann,232,18,0,Missed,1,0.0,0.0,0,v,MISS Herrmann  3PT Jump Shot,Missed Shot,Jump Shot,0,407,2684.0
+20700296,409,PT03M15.00S,4,1610612765,DET,2553,Hayes,J. Hayes,0,0,0,,0,0.0,0.0,0,h,Hayes REBOUND (Off:0 Def:4),Rebound,Unknown,0,408,2685.0
+20700296,410,PT03M08.00S,4,1610612765,DET,201167,Afflalo,A. Afflalo,117,233,26,Missed,1,0.0,0.0,0,h,MISS Afflalo 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,409,2692.0
+20700296,411,PT03M07.00S,4,1610612765,DET,101161,Johnson,A. Johnson,0,0,0,,0,0.0,0.0,0,h,Johnson REBOUND (Off:1 Def:0),Rebound,Unknown,0,410,2693.0
+20700296,412,PT03M05.00S,4,1610612765,DET,101161,Johnson,A. Johnson,0,0,0,Missed,1,0.0,0.0,0,h,MISS Johnson  Tip Shot,Missed Shot,Tip Shot,0,411,2695.0
+20700296,413,PT03M03.00S,4,1610612766,CHA,200797,Hollins,R. Hollins,0,0,0,,0,0.0,0.0,0,v,Hollins REBOUND (Off:0 Def:3),Rebound,Unknown,0,412,2697.0
+20700296,414,PT02M58.00S,4,1610612766,CHA,201162,Dudley,J. Dudley,181,66,19,Missed,1,0.0,0.0,0,v,MISS Dudley 19' Jump Shot,Missed Shot,Jump Shot,0,413,2702.0
+20700296,415,PT02M57.00S,4,1610612766,CHA,200835,Herrmann,W. Herrmann,0,0,0,,0,0.0,0.0,0,v,Herrmann REBOUND (Off:1 Def:2),Rebound,Unknown,0,414,2703.0
+20700296,416,PT02M55.00S,4,1610612766,CHA,200835,Herrmann,W. Herrmann,0,0,0,Made,1,98.0,78.0,176,v,Herrmann  Layup (10 PTS),Made Shot,Layup Shot,0,415,2705.0
+20700296,417,PT02M40.00S,4,1610612766,CHA,200797,Hollins,R. Hollins,0,0,0,,0,0.0,0.0,0,v,Hollins P.FOUL (P4.PN),Foul,Personal,0,416,2720.0
+20700296,418,PT02M40.00S,4,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,h,PISTONS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,417,2720.0
+20700296,420,PT02M40.00S,4,1610612765,DET,2436,Murray,R. Murray,0,0,0,,0,99.0,78.0,177,h,Murray Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,418,2720.0
+20700296,421,PT02M40.00S,4,1610612765,DET,2436,Murray,R. Murray,0,0,0,,0,100.0,78.0,178,h,Murray Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,419,2720.0
+20700296,422,PT02M16.00S,4,1610612766,CHA,200797,Hollins,R. Hollins,66,20,7,Made,1,100.0,80.0,180,v,Hollins 7' Hook Shot (8 PTS) (Anderson 6 AST),Made Shot,Hook Shot,0,420,2744.0
+20700296,423,PT01M55.00S,4,1610612765,DET,2553,Hayes,J. Hayes,143,94,17,Missed,1,0.0,0.0,0,h,MISS Hayes 17' Jump Shot,Missed Shot,Jump Shot,0,421,2765.0
+20700296,424,PT01M54.00S,4,1610612766,CHA,200835,Herrmann,W. Herrmann,0,0,0,,0,0.0,0.0,0,v,Herrmann REBOUND (Off:1 Def:3),Rebound,Unknown,0,422,2766.0
+20700296,425,PT01M36.00S,4,1610612766,CHA,200797,Hollins,R. Hollins,-26,127,13,Missed,1,0.0,0.0,0,v,MISS Hollins 13' Jump Shot,Missed Shot,Jump Shot,0,423,2784.0
+20700296,426,PT01M35.00S,4,1610612765,DET,2553,Hayes,J. Hayes,0,0,0,,0,0.0,0.0,0,h,Hayes REBOUND (Off:0 Def:5),Rebound,Unknown,0,424,2785.0
+20700296,427,PT01M35.00S,4,1610612766,CHA,201162,Dudley,J. Dudley,0,0,0,,0,0.0,0.0,0,v,Dudley L.B.FOUL (P2.PN),Foul,Loose Ball,0,425,2785.0
+20700296,428,PT01M35.00S,4,1610612765,DET,2553,Hayes,J. Hayes,0,0,0,,0,101.0,80.0,181,h,Hayes Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,426,2785.0
+20700296,429,PT01M35.00S,4,1610612765,DET,2553,Hayes,J. Hayes,0,0,0,,0,102.0,80.0,182,h,Hayes Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,427,2785.0
+20700296,430,PT01M15.00S,4,1610612766,CHA,200835,Herrmann,W. Herrmann,230,71,24,Missed,1,0.0,0.0,0,v,MISS Herrmann 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,428,2805.0
+20700296,431,PT01M14.00S,4,1610612765,DET,1737,Mohammed,N. Mohammed,0,0,0,,0,0.0,0.0,0,h,Mohammed REBOUND (Off:1 Def:3),Rebound,Unknown,0,429,2806.0
+20700296,432,PT01M06.00S,4,1610612765,DET,2436,Murray,R. Murray,0,0,0,Missed,1,0.0,0.0,0,h,MISS Murray  Layup,Missed Shot,Layup Shot,0,430,2814.0
+20700296,432,PT01M06.00S,4,1610612766,CHA,200797,Hollins,R. Hollins,0,0,0,,0,0.0,0.0,0,v,Hollins BLOCK (1 BLK),,,0,431,2814.0
+20700296,433,PT01M04.00S,4,1610612766,CHA,1507,Anderson,D. Anderson,0,0,0,,0,0.0,0.0,0,v,Anderson REBOUND (Off:1 Def:4),Rebound,Unknown,0,432,2816.0
+20700296,434,PT00M58.50S,4,1610612766,CHA,2679,Carroll,M. Carroll,228,3,0,Made,1,102.0,83.0,185,v,Carroll  3PT Jump Shot (5 PTS) (Anderson 7 AST),Made Shot,Jump Shot,0,433,2821.5
+20700296,435,PT00M45.30S,4,1610612765,DET,1737,Mohammed,N. Mohammed,-176,99,20,Made,1,104.0,83.0,187,h,Mohammed 20' Jump Shot (2 PTS) (Murray 3 AST),Made Shot,Jump Shot,0,434,2834.7
+20700296,436,PT00M25.70S,4,1610612766,CHA,201162,Dudley,J. Dudley,-105,49,12,Made,1,104.0,85.0,189,v,Dudley 12' Jump Bank Shot (4 PTS) (Hollins 2 AST),Made Shot,Jump Bank Shot,0,435,2854.3
+20700296,437,PT00M01.90S,4,1610612765,DET,2436,Murray,R. Murray,57,260,27,Missed,1,0.0,0.0,0,h,MISS Murray 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,436,2878.1
+20700296,438,PT00M00.80S,4,1610612766,CHA,200797,Hollins,R. Hollins,0,0,0,,0,0.0,0.0,0,v,Hollins REBOUND (Off:0 Def:4),Rebound,Unknown,0,437,2879.2
+20700296,439,PT00M00.00S,4,0,,0,,,0,0,0,,0,104.0,85.0,189,,End of 4th Period (8:15 PM EST),period,end,0,438,2880.0

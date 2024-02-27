@@ -75,4 +75,18 @@ def placeholder():
     games = pd.concat([games, fdf], axis=1)
     games.to_csv("./predictions/betting/placeholder.csv", index=False)
 
-placeholder()
+def pace_eff_combo(pace_path, eff_path, model_name):
+    pace_pred = pd.read_csv(pace_path)
+    eff_pred = pd.read_csv(eff_path)
+
+    pace_pred['h_rtg_pred'] = eff_pred['last_pred_h_eff']
+    pace_pred['a_rtg_pred'] = eff_pred['last_pred_a_eff']
+    pace_pred['actual_h'] = eff_pred['actual_h_eff']
+    pace_pred['actual_a'] = eff_pred['actual_a_eff']
+
+    pace_pred.to_csv('./predictions/betting/pre_bet/'+model_name+'.csv',index=False)
+    
+
+pace_eff_combo('./predictions/latent/pace_arma_0.1.csv','./predictions/latent/player_eff_bhm_1_1.01_0_0.csv','base_player_eff_bhm')
+pace_eff_combo('./predictions/latent/pace_arma_0.1.csv','./predictions/latent/player_eff_bhm_1_1.01_1.75_0.csv','player_eff_bhm_home_app_twice')
+pace_eff_combo('./predictions/latent/pace_arma_0.1.csv','./predictions/latent/player_eff_bhm_1_1.01_1.75_0.75.csv','player_eff_bhm_b2b')

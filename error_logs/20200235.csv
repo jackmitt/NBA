@@ -1,0 +1,438 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+20200235,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (4:00 AM EST),period,start,0,1
+20200235,3,PT12M00.00S,1,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,,0,0.0,0.0,0,h,Jump Ball Gadzuric vs. Wallace: Tip to Atkins,Jump Ball,,0,2
+20200235,4,PT11M45.00S,1,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,,0,0.0,0.0,0,h,Gadzuric S.FOUL (P1.T1),Foul,Shooting,0,3
+20200235,5,PT11M45.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,0.0,1.0,1,v,Wallace Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,4
+20200235,6,PT11M45.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,0.0,0.0,0,v,MISS Wallace Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,5
+20200235,83,PT11M45.00S,1,1610612749,MIL,1501,Thomas,T. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,6
+20200235,10,PT11M24.00S,1,1610612749,MIL,1501,Thomas,T. Thomas,0,0,0,Made,1,2.0,1.0,3,h,Thomas  Layup (2 PTS),Made Shot,Layup Shot,0,7
+20200235,11,PT11M24.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace S.FOUL (P1.T1),Foul,Shooting,0,8
+20200235,13,PT11M24.00S,1,1610612749,MIL,1501,Thomas,T. Thomas,0,0,0,,0,3.0,1.0,4,h,Thomas Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,9
+20200235,15,PT11M04.00S,1,1610612765,DET,2419,Prince,T. Prince,0,0,0,,0,0.0,0.0,0,v,Prince OFF.Foul (P1),Foul,Offensive,0,10
+20200235,16,PT10M55.00S,1,1610612749,MIL,1501,Thomas,T. Thomas,-146,86,17,Made,1,5.0,1.0,6,h,Thomas 17' Jump Shot (5 PTS) (Cassell 1 AST),Made Shot,Jump Shot,0,11
+20200235,17,PT10M36.00S,1,1610612765,DET,1888,Hamilton,R. Hamilton,135,95,17,Made,1,5.0,3.0,8,v,Hamilton 17' Jump Shot (2 PTS),Made Shot,Jump Shot,0,12
+20200235,18,PT10M30.00S,1,1610612749,MIL,208,Cassell,S. Cassell,0,0,0,,0,0.0,0.0,0,h,Cassell Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,13
+20200235,18,PT10M30.00S,1,1610612765,DET,1088,Atkins,C. Atkins,0,0,0,,0,0.0,0.0,0,v,Atkins STEAL (1 STL),,,0,14
+20200235,19,PT10M14.00S,1,1610612765,DET,1088,Atkins,C. Atkins,0,0,0,Missed,1,0.0,0.0,0,v,MISS Atkins  Layup,Missed Shot,Layup Shot,0,15
+20200235,253,PT10M14.00S,1,1610612749,MIL,1501,Thomas,T. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas REBOUND (Off:0 Def:2),Rebound,Unknown,0,16
+20200235,20,PT10M09.00S,1,1610612749,MIL,208,Cassell,S. Cassell,0,0,0,Made,1,7.0,3.0,10,h,Cassell  Layup (2 PTS) (Thomas 1 AST),Made Shot,Layup Shot,0,17
+20200235,235,PT09M57.00S,1,1610612765,DET,1888,Hamilton,R. Hamilton,-111,147,18,Made,1,7.0,5.0,12,v,Hamilton 18' Jump Shot (4 PTS),Made Shot,Jump Shot,0,18
+20200235,22,PT09M39.00S,1,1610612749,MIL,679,Caffey,J. Caffey,19,13,2,Missed,1,0.0,0.0,0,h,MISS Caffey 2' Layup,Missed Shot,Layup Shot,0,19
+20200235,23,PT09M36.00S,1,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,,0,0.0,0.0,0,h,Gadzuric REBOUND (Off:1 Def:0),Rebound,Unknown,0,20
+20200235,24,PT09M34.00S,1,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,Made,1,9.0,5.0,14,h,Gadzuric  Layup (2 PTS),Made Shot,Layup Shot,0,21
+20200235,25,PT09M19.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,Missed,1,0.0,0.0,0,v,MISS Wallace  Layup,Missed Shot,Layup Shot,0,22
+20200235,26,PT09M17.00S,1,1610612765,DET,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson REBOUND (Off:1 Def:0),Rebound,Unknown,0,23
+20200235,27,PT09M14.00S,1,1610612765,DET,361,Robinson,C. Robinson,-145,12,15,Made,1,9.0,7.0,16,v,Robinson 15' Jump Shot (2 PTS) (Prince 1 AST),Made Shot,Jump Shot,0,24
+20200235,28,PT09M01.00S,1,1610612749,MIL,208,Cassell,S. Cassell,-125,33,13,Made,1,11.0,7.0,18,h,Cassell 13' Jump Shot (4 PTS),Made Shot,Jump Shot,0,25
+20200235,29,PT08M43.00S,1,1610612765,DET,361,Robinson,C. Robinson,-151,102,18,Made,1,11.0,9.0,20,v,Robinson 18' Jump Shot (4 PTS) (Hamilton 1 AST),Made Shot,Jump Shot,0,26
+20200235,30,PT08M27.00S,1,1610612749,MIL,679,Caffey,J. Caffey,159,20,16,Made,1,13.0,9.0,22,h,Caffey 16' Jump Shot (2 PTS) (Cassell 2 AST),Made Shot,Jump Shot,0,27
+20200235,31,PT08M11.00S,1,1610612765,DET,2419,Prince,T. Prince,230,13,0,Made,1,13.0,12.0,25,v,Prince  3PT Jump Shot (3 PTS) (Atkins 1 AST),Made Shot,Jump Shot,0,28
+20200235,32,PT08M01.00S,1,1610612749,MIL,1501,Thomas,T. Thomas,-145,66,16,Made,1,15.0,12.0,27,h,Thomas 16' Jump Shot (7 PTS) (Cassell 3 AST),Made Shot,Jump Shot,0,29
+20200235,33,PT07M41.00S,1,1610612749,MIL,1501,Thomas,T. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas S.FOUL (P1.T2),Foul,Shooting,0,30
+20200235,34,PT07M41.00S,1,1610612765,DET,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,v,MISS Robinson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,31
+20200235,35,PT07M41.00S,1,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,v,Pistons Rebound,Rebound,Normal Rebound,0,32
+20200235,36,PT07M41.00S,1,1610612765,DET,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,v,MISS Robinson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,33
+20200235,37,PT07M39.00S,1,1610612749,MIL,679,Caffey,J. Caffey,0,0,0,,0,0.0,0.0,0,h,Caffey REBOUND (Off:0 Def:1),Rebound,Unknown,0,34
+20200235,38,PT07M26.00S,1,1610612749,MIL,2072,Redd,M. Redd,80,146,17,Missed,1,0.0,0.0,0,h,MISS Redd 17' Jump Shot,Missed Shot,Jump Shot,0,35
+20200235,39,PT07M22.00S,1,1610612749,MIL,208,Cassell,S. Cassell,0,0,0,,0,0.0,0.0,0,h,Cassell REBOUND (Off:1 Def:0),Rebound,Unknown,0,36
+20200235,40,PT07M20.00S,1,1610612749,MIL,208,Cassell,S. Cassell,-95,156,18,Made,1,17.0,12.0,29,h,Cassell 18' Jump Shot (6 PTS),Made Shot,Jump Shot,0,37
+20200235,41,PT07M14.00S,1,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,v,Pistons Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,38
+20200235,61,PT07M02.00S,1,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,,0,0.0,0.0,0,h,BUCKS T.Foul (Def. 3 Sec Gadzuric ),Foul,Defense 3 Second,0,39
+20200235,43,PT07M02.00S,1,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,17.0,13.0,30,v,Hamilton Free Throw Technical (5 PTS),Free Throw,Free Throw Technical,0,40
+20200235,44,PT06M54.00S,1,1610612765,DET,2419,Prince,T. Prince,-161,117,20,Missed,1,0.0,0.0,0,v,MISS Prince 20' Jump Shot,Missed Shot,Jump Shot,0,41
+20200235,45,PT06M52.00S,1,1610612765,DET,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson REBOUND (Off:2 Def:0),Rebound,Unknown,0,42
+20200235,46,PT06M41.00S,1,1610612765,DET,1088,Atkins,C. Atkins,-168,183,25,Missed,1,0.0,0.0,0,v,MISS Atkins 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,43
+20200235,47,PT06M38.00S,1,1610612749,MIL,1501,Thomas,T. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas REBOUND (Off:0 Def:3),Rebound,Unknown,0,44
+20200235,48,PT06M29.00S,1,1610612749,MIL,679,Caffey,J. Caffey,-140,38,15,Made,1,19.0,13.0,32,h,Caffey 15' Jump Shot (4 PTS) (Thomas 2 AST),Made Shot,Jump Shot,0,45
+20200235,49,PT06M18.00S,1,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,Made,1,19.0,15.0,34,v,Hamilton  Layup (7 PTS) (Atkins 2 AST),Made Shot,Layup Shot,0,46
+20200235,50,PT06M05.00S,1,1610612749,MIL,679,Caffey,J. Caffey,0,0,0,Made,1,21.0,15.0,36,h,Caffey  Dunk (6 PTS) (Cassell 4 AST),Made Shot,Dunk Shot,0,47
+20200235,51,PT05M43.00S,1,1610612765,DET,361,Robinson,C. Robinson,-166,36,17,Missed,1,0.0,0.0,0,v,MISS Robinson 17' Jump Shot,Missed Shot,Jump Shot,0,48
+20200235,52,PT05M40.00S,1,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,,0,0.0,0.0,0,h,Gadzuric REBOUND (Off:1 Def:1),Rebound,Unknown,0,49
+20200235,53,PT05M32.00S,1,1610612749,MIL,2072,Redd,M. Redd,29,79,8,Missed,1,0.0,0.0,0,h,MISS Redd 8' Jump Shot,Missed Shot,Jump Shot,0,50
+20200235,54,PT05M30.00S,1,1610612765,DET,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson REBOUND (Off:2 Def:1),Rebound,Unknown,0,51
+20200235,55,PT05M19.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,Made,1,21.0,17.0,38,v,Wallace  Jump Shot (3 PTS) (Robinson 1 AST),Made Shot,Jump Shot,0,52
+20200235,56,PT05M05.00S,1,1610612749,MIL,679,Caffey,J. Caffey,-126,76,15,Missed,1,0.0,0.0,0,h,MISS Caffey 15' Jump Shot,Missed Shot,Jump Shot,0,53
+20200235,58,PT05M02.00S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace REBOUND (Off:0 Def:1),Rebound,Unknown,0,54
+20200235,59,PT04M52.00S,1,1610612765,DET,1088,Atkins,C. Atkins,187,15,19,Missed,1,0.0,0.0,0,v,MISS Atkins 19' Jump Shot,Missed Shot,Jump Shot,0,55
+20200235,60,PT04M50.00S,1,1610612749,MIL,679,Caffey,J. Caffey,0,0,0,,0,0.0,0.0,0,h,Caffey REBOUND (Off:0 Def:2),Rebound,Unknown,0,56
+20200235,62,PT04M35.00S,1,1610612749,MIL,2429,Gadzuric,D. Gadzuric,54,164,17,Made,1,23.0,17.0,40,h,Gadzuric 17' Jump Shot (4 PTS) (Cassell 5 AST),Made Shot,Jump Shot,0,57
+20200235,63,PT04M11.00S,1,1610612765,DET,361,Robinson,C. Robinson,-130,97,16,Made,1,23.0,19.0,42,v,Robinson 16' Jump Shot (6 PTS) (Wallace 1 AST),Made Shot,Jump Shot,0,58
+20200235,64,PT03M59.00S,1,1610612749,MIL,208,Cassell,S. Cassell,29,94,10,Made,1,25.0,19.0,44,h,Cassell 10' Jump Shot (8 PTS),Made Shot,Jump Shot,0,59
+20200235,66,PT03M38.00S,1,1610612765,DET,1088,Atkins,C. Atkins,-120,181,22,Missed,1,0.0,0.0,0,v,MISS Atkins 22' Jump Shot,Missed Shot,Jump Shot,0,60
+20200235,67,PT03M36.00S,1,1610612765,DET,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson REBOUND (Off:3 Def:1),Rebound,Unknown,0,61
+20200235,68,PT03M36.00S,1,1610612749,MIL,2072,Redd,M. Redd,0,0,0,,0,0.0,0.0,0,h,SUB: Ollie FOR Redd,Substitution,,0,62
+20200235,69,PT03M36.00S,1,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,,0,0.0,0.0,0,h,SUB: Johnson FOR Gadzuric,Substitution,,0,63
+20200235,71,PT03M36.00S,1,1610612749,MIL,1501,Thomas,T. Thomas,0,0,0,,0,0.0,0.0,0,h,SUB: Kukoc FOR Thomas,Substitution,,0,64
+20200235,72,PT03M36.00S,1,1610612765,DET,2419,Prince,T. Prince,0,0,0,,0,0.0,0.0,0,v,SUB: Williamson FOR Prince,Substitution,,0,65
+20200235,73,PT03M17.00S,1,1610612765,DET,1888,Hamilton,R. Hamilton,-105,169,20,Made,1,25.0,21.0,46,v,Hamilton 20' Jump Shot (9 PTS) (Atkins 3 AST),Made Shot,Jump Shot,0,66
+20200235,75,PT02M57.00S,1,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,Missed,1,0.0,0.0,0,h,MISS Johnson  Layup,Missed Shot,Layup Shot,0,67
+20200235,76,PT02M56.00S,1,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,h,Johnson REBOUND (Off:1 Def:0),Rebound,Unknown,0,68
+20200235,77,PT02M54.00S,1,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,Made,1,27.0,21.0,48,h,Johnson  Layup (2 PTS),Made Shot,Layup Shot,0,69
+20200235,78,PT02M49.00S,1,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,v,Pistons Timeout: Short (Reg.1 Short 1),Timeout,Short,0,70
+20200235,81,PT02M49.00S,1,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,71
+20200235,84,PT02M49.00S,1,1610612765,DET,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,v,SUB: Rebraca FOR Robinson,Substitution,,0,72
+20200235,85,PT02M33.00S,1,1610612765,DET,1442,Rebraca,Z. Rebraca,0,0,0,Missed,1,0.0,0.0,0,v,MISS Rebraca  Layup,Missed Shot,Layup Shot,0,73
+20200235,86,PT02M31.00S,1,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,h,Johnson REBOUND (Off:1 Def:1),Rebound,Unknown,0,74
+20200235,87,PT02M27.00S,1,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,0.0,0.0,0,v,Hamilton S.FOUL (P1.T2),Foul,Shooting,0,75
+20200235,88,PT02M27.00S,1,1610612749,MIL,208,Cassell,S. Cassell,0,0,0,,0,28.0,21.0,49,h,Cassell Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,76
+20200235,89,PT02M27.00S,1,1610612765,DET,1088,Atkins,C. Atkins,0,0,0,,0,0.0,0.0,0,v,SUB: Davis FOR Atkins,Substitution,,0,77
+20200235,90,PT02M27.00S,1,1610612749,MIL,208,Cassell,S. Cassell,0,0,0,,0,29.0,21.0,50,h,Cassell Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,78
+20200235,91,PT02M03.00S,1,1610612765,DET,1888,Hamilton,R. Hamilton,151,173,23,Missed,1,0.0,0.0,0,v,MISS Hamilton 23' Jump Shot,Missed Shot,Jump Shot,0,79
+20200235,92,PT01M59.00S,1,1610612749,MIL,389,Kukoc,T. Kukoc,0,0,0,,0,0.0,0.0,0,h,Kukoc REBOUND (Off:0 Def:1),Rebound,Unknown,0,80
+20200235,93,PT01M46.00S,1,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,0.0,0.0,0,v,Hamilton P.FOUL (P2.T3),Foul,Personal,0,81
+20200235,94,PT01M46.00S,1,1610612749,MIL,679,Caffey,J. Caffey,0,0,0,,0,0.0,0.0,0,h,SUB: Mason FOR Caffey,Substitution,,0,82
+20200235,95,PT01M46.00S,1,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,0.0,0.0,0,v,SUB: Barry FOR Hamilton,Substitution,,0,83
+20200235,96,PT01M39.00S,1,1610612749,MIL,1563,Ollie,K. Ollie,138,133,19,Made,1,31.0,21.0,52,h,Ollie 19' Jump Shot (2 PTS) (Kukoc 1 AST),Made Shot,Jump Shot,0,84
+20200235,97,PT01M20.00S,1,1610612749,MIL,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,h,Mason P.FOUL (P1.T3),Foul,Personal,0,85
+20200235,98,PT01M20.00S,1,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,,"Double Technical - Johnson, Rebraca",Foul,Double Technical,0,86
+20200235,99,PT01M10.00S,1,1610612749,MIL,208,Cassell,S. Cassell,0,0,0,,0,0.0,0.0,0,h,Cassell S.FOUL (P1.PN),Foul,Shooting,0,87
+20200235,100,PT01M10.00S,1,1610612765,DET,722,Williamson,C. Williamson,0,0,0,,0,31.0,22.0,53,v,Williamson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,88
+20200235,101,PT01M10.00S,1,1610612765,DET,722,Williamson,C. Williamson,0,0,0,,0,0.0,0.0,0,v,MISS Williamson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,89
+20200235,102,PT01M08.00S,1,1610612749,MIL,389,Kukoc,T. Kukoc,0,0,0,,0,0.0,0.0,0,h,Kukoc REBOUND (Off:0 Def:2),Rebound,Unknown,0,90
+20200235,103,PT00M48.00S,1,1610612749,MIL,1563,Ollie,K. Ollie,10,68,7,Made,1,33.0,22.0,55,h,Ollie 7' Jump Shot (4 PTS),Made Shot,Jump Shot,0,91
+20200235,105,PT00M35.70S,1,1610612765,DET,1442,Rebraca,Z. Rebraca,-49,48,7,Missed,1,0.0,0.0,0,v,MISS Rebraca 7' Jump Shot,Missed Shot,Jump Shot,0,92
+20200235,105,PT00M35.70S,1,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,h,Johnson BLOCK (1 BLK),,,0,93
+20200235,106,PT00M29.60S,1,1610612749,MIL,208,Cassell,S. Cassell,0,0,0,,0,0.0,0.0,0,h,Cassell REBOUND (Off:1 Def:1),Rebound,Unknown,0,94
+20200235,107,PT00M26.20S,1,1610612749,MIL,208,Cassell,S. Cassell,0,0,0,,0,0.0,0.0,0,h,Cassell Traveling Turnover (P2.T2),Turnover,Traveling,0,95
+20200235,108,PT00M26.20S,1,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,0.0,0.0,0,v,SUB: Atkins FOR Wallace,Substitution,,0,96
+20200235,110,PT00M03.10S,1,1610612765,DET,468,Barry,J. Barry,158,123,20,Made,1,33.0,24.0,57,v,Barry 20' Jump Shot (2 PTS) (Atkins 4 AST),Made Shot,Jump Shot,0,97
+20200235,112,PT00M00.30S,1,1610612749,MIL,208,Cassell,S. Cassell,-92,396,41,Missed,1,0.0,0.0,0,h,MISS Cassell 41' 3PT Jump Shot,Missed Shot,Jump Shot,0,98
+20200235,115,PT00M00.30S,1,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Rebound,Rebound,Unknown,0,99
+20200235,116,PT00M00.00S,1,0,,0,,,0,0,0,,0,33.0,24.0,57,,End of 1st Period (9:38 PM EST),period,end,0,100
+20200235,124,PT12M00.00S,2,0,,0,,,0,0,0,,0,33.0,24.0,57,,Start of 2nd Period (9:42 PM EST),period,start,0,101
+20200235,131,PT11M39.00S,2,1610612749,MIL,193,Mason,A. Mason,-127,84,15,Made,1,35.0,24.0,59,h,Mason 15' Jump Shot (2 PTS) (Kukoc 2 AST),Made Shot,Jump Shot,0,102
+20200235,132,PT11M39.00S,2,1610612765,DET,722,Williamson,C. Williamson,-169,38,17,Made,1,35.0,26.0,61,v,Williamson 17' Jump Shot (3 PTS),Made Shot,Jump Shot,0,103
+20200235,133,PT11M00.00S,2,1610612749,MIL,193,Mason,A. Mason,-127,76,15,Made,1,37.0,26.0,63,h,Mason 15' Jump Shot (4 PTS) (Cassell 6 AST),Made Shot,Jump Shot,0,104
+20200235,170,PT11M00.00S,2,1610612765,DET,1112,Wallace,B. Wallace,-134,141,19,Missed,1,0.0,0.0,0,v,MISS Wallace 19' Jump Shot,Missed Shot,Jump Shot,0,105
+20200235,171,PT11M00.00S,2,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,v,Pistons Rebound,Rebound,Unknown,0,106
+20200235,172,PT10M34.00S,2,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,v,Pistons Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,0,107
+20200235,196,PT10M34.00S,2,1610612749,MIL,208,Cassell,S. Cassell,0,0,0,,0,0.0,0.0,0,h,SUB: Redd FOR Cassell,Substitution,,0,108
+20200235,197,PT10M34.00S,2,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,0.0,0.0,0,v,SUB: Robinson FOR Wallace,Substitution,,0,109
+20200235,198,PT10M24.00S,2,1610612765,DET,1442,Rebraca,Z. Rebraca,0,0,0,,0,0.0,0.0,0,v,Rebraca P.FOUL (P1.T1),Foul,Personal,0,110
+20200235,224,PT10M14.00S,2,1610612749,MIL,193,Mason,A. Mason,0,0,0,Made,1,39.0,26.0,65,h,Mason  Layup (6 PTS),Made Shot,Layup Shot,0,111
+20200235,225,PT09M54.00S,2,1610612765,DET,361,Robinson,C. Robinson,228,-3,0,Missed,1,0.0,0.0,0,v,MISS Robinson  3PT Jump Shot,Missed Shot,Jump Shot,0,112
+20200235,226,PT09M46.00S,2,1610612765,DET,1442,Rebraca,Z. Rebraca,0,0,0,,0,0.0,0.0,0,v,Rebraca REBOUND (Off:1 Def:0),Rebound,Unknown,0,113
+20200235,227,PT09M44.00S,2,1610612765,DET,1442,Rebraca,Z. Rebraca,0,0,0,Missed,1,0.0,0.0,0,v,MISS Rebraca  Hook Shot,Missed Shot,Hook Shot,0,114
+20200235,228,PT09M42.00S,2,1610612765,DET,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson REBOUND (Off:4 Def:1),Rebound,Unknown,0,115
+20200235,229,PT09M38.00S,2,1610612765,DET,361,Robinson,C. Robinson,0,0,0,Made,1,39.0,28.0,67,v,Robinson  Tip Shot (8 PTS),Made Shot,Tip Shot,0,116
+20200235,125,PT09M14.00S,2,1610612749,MIL,193,Mason,A. Mason,0,0,0,Missed,1,0.0,0.0,0,h,MISS Mason  Layup,Missed Shot,Layup Shot,0,117
+20200235,126,PT09M12.00S,2,1610612749,MIL,389,Kukoc,T. Kukoc,0,0,0,,0,0.0,0.0,0,h,Kukoc REBOUND (Off:1 Def:2),Rebound,Unknown,0,118
+20200235,127,PT09M10.00S,2,1610612749,MIL,389,Kukoc,T. Kukoc,0,0,0,Missed,1,0.0,0.0,0,h,MISS Kukoc  Layup,Missed Shot,Layup Shot,0,119
+20200235,128,PT09M08.00S,2,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,h,Johnson REBOUND (Off:2 Def:1),Rebound,Unknown,0,120
+20200235,129,PT09M06.00S,2,1610612749,MIL,2072,Redd,M. Redd,-161,195,25,Made,1,42.0,28.0,70,h,Redd 25' 3PT Jump Shot (3 PTS) (Johnson 1 AST),Made Shot,Jump Shot,0,121
+20200235,134,PT08M59.00S,2,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,v,Pistons Timeout: Regular (Reg.2 Short 1),Timeout,Regular,0,122
+20200235,135,PT08M49.00S,2,1610612765,DET,361,Robinson,C. Robinson,0,0,0,Missed,1,0.0,0.0,0,v,MISS Robinson  Layup,Missed Shot,Layup Shot,0,123
+20200235,135,PT08M49.00S,2,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,h,Johnson BLOCK (2 BLK),,,0,124
+20200235,136,PT08M46.00S,2,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,h,Johnson REBOUND (Off:2 Def:2),Rebound,Unknown,0,125
+20200235,137,PT08M45.00S,2,1610612765,DET,468,Barry,J. Barry,0,0,0,,0,0.0,0.0,0,v,Barry P.FOUL (P1.T2),Foul,Personal,0,126
+20200235,139,PT08M28.00S,2,1610612749,MIL,2072,Redd,M. Redd,0,0,0,Made,1,44.0,28.0,72,h,Redd  Layup (5 PTS) (Ollie 1 AST),Made Shot,Layup Shot,0,127
+20200235,140,PT08M13.00S,2,1610612765,DET,468,Barry,J. Barry,0,0,0,Missed,1,0.0,0.0,0,v,MISS Barry  Layup,Missed Shot,Layup Shot,0,128
+20200235,141,PT08M09.00S,2,1610612749,MIL,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,h,Mason REBOUND (Off:0 Def:1),Rebound,Unknown,0,129
+20200235,142,PT07M58.00S,2,1610612749,MIL,2072,Redd,M. Redd,56,235,24,Missed,1,0.0,0.0,0,h,MISS Redd 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,130
+20200235,143,PT07M53.00S,2,1610612765,DET,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson REBOUND (Off:4 Def:2),Rebound,Unknown,0,131
+20200235,144,PT07M44.00S,2,1610612765,DET,722,Williamson,C. Williamson,-110,20,11,Made,1,44.0,30.0,74,v,Williamson 11' Jump Shot (5 PTS),Made Shot,Jump Shot,0,132
+20200235,145,PT07M44.00S,2,1610612749,MIL,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,h,Mason S.FOUL (P2.T1),Foul,Shooting,0,133
+20200235,147,PT07M44.00S,2,1610612749,MIL,389,Kukoc,T. Kukoc,0,0,0,,0,0.0,0.0,0,h,SUB: Thomas FOR Kukoc,Substitution,,0,134
+20200235,148,PT07M44.00S,2,1610612765,DET,722,Williamson,C. Williamson,0,0,0,,0,44.0,31.0,75,v,Williamson Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,135
+20200235,149,PT07M30.00S,2,1610612765,DET,722,Williamson,C. Williamson,0,0,0,,0,0.0,0.0,0,v,Williamson P.FOUL (P1.T3),Foul,Personal,0,136
+20200235,151,PT07M17.00S,2,1610612749,MIL,1563,Ollie,K. Ollie,-66,189,20,Missed,1,0.0,0.0,0,h,MISS Ollie 20' Jump Shot,Missed Shot,Jump Shot,0,137
+20200235,152,PT07M15.00S,2,1610612765,DET,1442,Rebraca,Z. Rebraca,0,0,0,,0,0.0,0.0,0,v,Rebraca REBOUND (Off:1 Def:1),Rebound,Unknown,0,138
+20200235,154,PT07M04.00S,2,1610612749,MIL,1501,Thomas,T. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas Violation:Kicked Ball,Violation,Kicked Ball,0,139
+20200235,155,PT06M57.00S,2,1610612765,DET,1442,Rebraca,Z. Rebraca,0,0,0,Made,1,44.0,33.0,77,v,Rebraca  Layup (2 PTS) (Williamson 1 AST),Made Shot,Layup Shot,0,140
+20200235,157,PT06M32.00S,2,1610612749,MIL,1563,Ollie,K. Ollie,136,135,19,Missed,1,0.0,0.0,0,h,MISS Ollie 19' Jump Shot,Missed Shot,Jump Shot,0,141
+20200235,158,PT06M30.00S,2,1610612749,MIL,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,h,Mason REBOUND (Off:1 Def:1),Rebound,Unknown,0,142
+20200235,160,PT06M18.00S,2,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,h,Johnson 3 Second Violation Turnover (P1.T3),Turnover,3 Second Violation,0,143
+20200235,161,PT06M03.00S,2,1610612765,DET,468,Barry,J. Barry,133,84,16,Missed,1,0.0,0.0,0,v,MISS Barry 16' Jump Shot,Missed Shot,Jump Shot,0,144
+20200235,162,PT06M01.00S,2,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,h,Johnson REBOUND (Off:2 Def:3),Rebound,Unknown,0,145
+20200235,163,PT05M57.00S,2,1610612749,MIL,2072,Redd,M. Redd,-141,192,24,Made,1,47.0,33.0,80,h,Redd 24' 3PT Jump Shot (8 PTS) (Ollie 2 AST),Made Shot,Jump Shot,0,146
+20200235,164,PT05M39.00S,2,1610612765,DET,468,Barry,J. Barry,0,0,0,Made,1,47.0,35.0,82,v,Barry  Layup (4 PTS),Made Shot,Layup Shot,0,147
+20200235,479,PT05M16.00S,2,1610612749,MIL,1563,Ollie,K. Ollie,-102,103,14,Missed,1,0.0,0.0,0,h,MISS Ollie 14' Jump Shot,Missed Shot,Jump Shot,0,148
+20200235,165,PT05M14.00S,2,1610612765,DET,93,Davis,H. Davis,0,0,0,,0,0.0,0.0,0,v,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,149
+20200235,166,PT05M10.00S,2,1610612765,DET,93,Davis,H. Davis,0,0,0,Made,1,47.0,37.0,84,v,Davis  Layup (2 PTS),Made Shot,Layup Shot,0,150
+20200235,167,PT05M10.00S,2,1610612749,MIL,1563,Ollie,K. Ollie,0,0,0,,0,0.0,0.0,0,h,Ollie S.FOUL (P1.T2),Foul,Shooting,0,151
+20200235,169,PT05M10.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,152
+20200235,187,PT05M10.00S,2,1610612749,MIL,911,Johnson,E. Johnson,0,0,0,,0,0.0,0.0,0,h,SUB: Przybilla FOR Johnson,Substitution,,0,153
+20200235,177,PT05M10.00S,2,1610612765,DET,722,Williamson,C. Williamson,0,0,0,,0,0.0,0.0,0,v,SUB: Wallace FOR Williamson,Substitution,,0,154
+20200235,173,PT05M10.00S,2,1610612765,DET,1442,Rebraca,Z. Rebraca,0,0,0,,0,0.0,0.0,0,v,SUB: Hamilton FOR Rebraca,Substitution,,0,155
+20200235,278,PT05M10.00S,2,1610612765,DET,93,Davis,H. Davis,0,0,0,,0,47.0,38.0,85,v,Davis Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,156
+20200235,423,PT04M49.00S,2,1610612749,MIL,2072,Redd,M. Redd,-163,124,20,Missed,1,0.0,0.0,0,h,MISS Redd 20' Jump Shot,Missed Shot,Jump Shot,0,157
+20200235,174,PT04M49.00S,2,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace REBOUND (Off:0 Def:2),Rebound,Unknown,0,158
+20200235,175,PT04M40.00S,2,1610612765,DET,361,Robinson,C. Robinson,-67,84,11,Made,1,47.0,40.0,87,v,Robinson 11' Jump Shot (10 PTS) (Barry 1 AST),Made Shot,Jump Shot,0,159
+20200235,176,PT04M24.00S,2,1610612749,MIL,2072,Redd,M. Redd,0,0,0,Made,1,49.0,40.0,89,h,Redd  Layup (10 PTS),Made Shot,Layup Shot,0,160
+20200235,178,PT04M04.00S,2,1610612765,DET,93,Davis,H. Davis,-177,22,18,Missed,1,0.0,0.0,0,v,MISS Davis 18' Jump Shot,Missed Shot,Jump Shot,0,161
+20200235,179,PT04M01.00S,2,1610612749,MIL,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,h,Mason REBOUND (Off:1 Def:2),Rebound,Unknown,0,162
+20200235,180,PT03M56.00S,2,1610612749,MIL,2072,Redd,M. Redd,0,0,0,Made,1,51.0,40.0,91,h,Redd  Layup (12 PTS) (Mason 1 AST),Made Shot,Layup Shot,0,163
+20200235,181,PT03M56.00S,2,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,0.0,0.0,0,v,Hamilton S.FOUL (P3.T4),Foul,Shooting,0,164
+20200235,182,PT03M56.00S,2,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,0.0,0.0,0,v,Hamilton Foul Turnover (P1.T2),Turnover,Foul,0,165
+20200235,232,PT03M56.00S,2,1610612749,MIL,1563,Ollie,K. Ollie,0,0,0,,0,0.0,0.0,0,h,SUB: Cassell FOR Ollie,Substitution,,0,166
+20200235,183,PT03M56.00S,2,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,0.0,0.0,0,v,SUB: Williamson FOR Hamilton,Substitution,,0,167
+20200235,184,PT03M56.00S,2,1610612749,MIL,2072,Redd,M. Redd,0,0,0,,0,0.0,0.0,0,h,MISS Redd Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,168
+20200235,185,PT03M55.00S,2,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace REBOUND (Off:0 Def:3),Rebound,Unknown,0,169
+20200235,186,PT03M40.00S,2,1610612765,DET,93,Davis,H. Davis,136,128,19,Made,1,51.0,42.0,93,v,Davis 19' Jump Shot (5 PTS) (Wallace 2 AST),Made Shot,Jump Shot,0,170
+20200235,188,PT03M17.00S,2,1610612749,MIL,1501,Thomas,T. Thomas,54,82,10,Missed,1,0.0,0.0,0,h,MISS Thomas 10' Jump Shot,Missed Shot,Jump Shot,0,171
+20200235,189,PT03M15.00S,2,1610612765,DET,722,Williamson,C. Williamson,0,0,0,,0,0.0,0.0,0,v,Williamson REBOUND (Off:0 Def:1),Rebound,Unknown,0,172
+20200235,190,PT03M13.00S,2,1610612749,MIL,1501,Thomas,T. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas P.FOUL (P2.T3),Foul,Personal,0,173
+20200235,191,PT03M00.00S,2,1610612765,DET,468,Barry,J. Barry,21,174,18,Made,1,51.0,44.0,95,v,Barry 18' Jump Shot (6 PTS) (Wallace 3 AST),Made Shot,Jump Shot,0,174
+20200235,192,PT02M47.00S,2,1610612749,MIL,193,Mason,A. Mason,-117,63,13,Made,1,53.0,44.0,97,h,Mason 13' Jump Shot (8 PTS) (Cassell 7 AST),Made Shot,Jump Shot,0,175
+20200235,193,PT02M33.00S,2,1610612765,DET,468,Barry,J. Barry,-168,183,25,Made,1,53.0,47.0,100,v,Barry 25' 3PT Jump Shot (9 PTS),Made Shot,Jump Shot,0,176
+20200235,194,PT02M12.00S,2,1610612765,DET,93,Davis,H. Davis,0,0,0,,0,0.0,0.0,0,v,Davis S.FOUL (P1.PN),Foul,Shooting,0,177
+20200235,195,PT02M12.00S,2,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,178
+20200235,231,PT02M12.00S,2,1610612749,MIL,2038,Przybilla,J. Przybilla,0,0,0,,0,0.0,0.0,0,h,SUB: Ollie FOR Przybilla,Substitution,,0,179
+20200235,199,PT02M12.00S,2,1610612749,MIL,2072,Redd,M. Redd,0,0,0,,0,0.0,0.0,0,h,SUB: Kukoc FOR Redd,Substitution,,0,180
+20200235,200,PT02M12.00S,2,1610612749,MIL,208,Cassell,S. Cassell,0,0,0,,0,54.0,47.0,101,h,Cassell Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,181
+20200235,201,PT02M12.00S,2,1610612749,MIL,208,Cassell,S. Cassell,0,0,0,,0,55.0,47.0,102,h,Cassell Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,182
+20200235,481,PT01M38.00S,2,1610612765,DET,93,Davis,H. Davis,0,0,0,,0,0.0,0.0,0,v,Davis Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,183
+20200235,203,PT01M38.00S,2,1610612749,MIL,1501,Thomas,T. Thomas,87,86,12,Made,1,57.0,47.0,104,h,Thomas 12' Jump Shot (9 PTS),Made Shot,Jump Shot,0,184
+20200235,205,PT01M23.00S,2,1610612765,DET,722,Williamson,C. Williamson,13,91,9,Made,1,57.0,49.0,106,v,Williamson 9' Jump Shot (8 PTS) (Davis 1 AST),Made Shot,Jump Shot,0,185
+20200235,206,PT00M58.20S,2,1610612749,MIL,193,Mason,A. Mason,0,0,0,Missed,1,0.0,0.0,0,h,MISS Mason  Layup,Missed Shot,Layup Shot,0,186
+20200235,207,PT00M57.30S,2,1610612765,DET,468,Barry,J. Barry,0,0,0,,0,0.0,0.0,0,v,Barry REBOUND (Off:0 Def:1),Rebound,Unknown,0,187
+20200235,209,PT00M48.50S,2,1610612765,DET,93,Davis,H. Davis,0,0,0,,0,0.0,0.0,0,v,Davis Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,188
+20200235,210,PT00M41.00S,2,1610612749,MIL,208,Cassell,S. Cassell,-145,196,24,Made,1,60.0,49.0,109,h,Cassell 24' 3PT Jump Shot (15 PTS),Made Shot,Jump Shot,0,189
+20200235,212,PT00M29.40S,2,1610612765,DET,93,Davis,H. Davis,8,250,25,Made,1,60.0,52.0,112,v,Davis 25' 3PT Jump Shot (8 PTS) (Williamson 2 AST),Made Shot,Jump Shot,0,190
+20200235,214,PT00M11.30S,2,1610612765,DET,93,Davis,H. Davis,0,0,0,,0,0.0,0.0,0,v,Davis P.FOUL (P2.PN),Foul,Personal,0,191
+20200235,215,PT00M11.30S,2,1610612749,MIL,208,Cassell,S. Cassell,0,0,0,,0,61.0,52.0,113,h,Cassell Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,192
+20200235,217,PT00M11.30S,2,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,0.0,0.0,0,v,SUB: Atkins FOR Wallace,Substitution,,0,193
+20200235,218,PT00M11.30S,2,1610612749,MIL,1501,Thomas,T. Thomas,0,0,0,,0,0.0,0.0,0,h,SUB: Redd FOR Thomas,Substitution,,0,194
+20200235,234,PT00M11.30S,2,1610612749,MIL,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,h,SUB: Przybilla FOR Mason,Substitution,,0,195
+20200235,220,PT00M11.30S,2,1610612749,MIL,208,Cassell,S. Cassell,0,0,0,,0,62.0,52.0,114,h,Cassell Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,196
+20200235,221,PT00M00.50S,2,1610612765,DET,361,Robinson,C. Robinson,131,156,20,Missed,1,0.0,0.0,0,v,MISS Robinson 20' Jump Shot,Missed Shot,Jump Shot,0,197
+20200235,222,PT00M00.00S,2,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,v,Pistons Rebound,Rebound,Unknown,0,198
+20200235,223,PT00M00.00S,2,0,,0,,,0,0,0,,0,62.0,52.0,114,,End of 2nd Period (10:04 PM EST),period,end,0,199
+20200235,237,PT12M00.00S,3,0,,0,,,0,0,0,,0,62.0,52.0,114,,Start of 3rd Period (10:20 PM EST),period,start,0,200
+20200235,238,PT11M36.00S,3,1610612749,MIL,679,Caffey,J. Caffey,121,36,13,Made,1,64.0,52.0,116,h,Caffey 13' Jump Shot (8 PTS),Made Shot,Jump Shot,0,201
+20200235,239,PT11M17.00S,3,1610612765,DET,361,Robinson,C. Robinson,95,192,21,Missed,1,0.0,0.0,0,v,MISS Robinson 21' Jump Shot,Missed Shot,Jump Shot,0,202
+20200235,240,PT11M14.00S,3,1610612749,MIL,1501,Thomas,T. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas REBOUND (Off:0 Def:4),Rebound,Unknown,0,203
+20200235,241,PT10M57.00S,3,1610612749,MIL,208,Cassell,S. Cassell,82,178,20,Missed,1,0.0,0.0,0,h,MISS Cassell 20' Jump Shot,Missed Shot,Jump Shot,0,204
+20200235,242,PT10M55.00S,3,1610612749,MIL,2072,Redd,M. Redd,0,0,0,,0,0.0,0.0,0,h,Redd REBOUND (Off:1 Def:0),Rebound,Unknown,0,205
+20200235,243,PT10M53.00S,3,1610612749,MIL,2072,Redd,M. Redd,0,0,0,,0,0.0,0.0,0,h,Redd Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,206
+20200235,244,PT10M37.00S,3,1610612765,DET,1888,Hamilton,R. Hamilton,5,71,7,Missed,1,0.0,0.0,0,v,MISS Hamilton 7' Jump Shot,Missed Shot,Jump Shot,0,207
+20200235,245,PT10M35.00S,3,1610612749,MIL,2072,Redd,M. Redd,0,0,0,,0,0.0,0.0,0,h,Redd REBOUND (Off:1 Def:1),Rebound,Unknown,0,208
+20200235,246,PT10M22.00S,3,1610612749,MIL,1501,Thomas,T. Thomas,29,2,3,Made,1,66.0,52.0,118,h,Thomas 3' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,0,209
+20200235,247,PT10M06.00S,3,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,0.0,0.0,0,v,Hamilton Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,210
+20200235,248,PT09M55.00S,3,1610612749,MIL,208,Cassell,S. Cassell,11,49,5,Missed,1,0.0,0.0,0,h,MISS Cassell 5' Jump Shot,Missed Shot,Jump Shot,0,211
+20200235,249,PT09M53.00S,3,1610612765,DET,1088,Atkins,C. Atkins,0,0,0,,0,0.0,0.0,0,v,Atkins REBOUND (Off:0 Def:1),Rebound,Unknown,0,212
+20200235,250,PT09M42.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,Missed,1,0.0,0.0,0,v,MISS Wallace  Layup,Missed Shot,Layup Shot,0,213
+20200235,252,PT09M39.00S,3,1610612765,DET,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson REBOUND (Off:5 Def:2),Rebound,Unknown,0,214
+20200235,254,PT09M25.00S,3,1610612765,DET,1088,Atkins,C. Atkins,0,0,0,,0,0.0,0.0,0,v,Atkins OFF.Foul (P1),Foul,Offensive,0,215
+20200235,255,PT09M25.00S,3,1610612765,DET,1088,Atkins,C. Atkins,0,0,0,,0,0.0,0.0,0,v,Atkins Foul Turnover (P1.T6),Turnover,Foul,0,216
+20200235,256,PT09M01.00S,3,1610612749,MIL,208,Cassell,S. Cassell,-128,133,18,Missed,1,0.0,0.0,0,h,MISS Cassell 18' Jump Shot,Missed Shot,Jump Shot,0,217
+20200235,257,PT08M59.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace REBOUND (Off:0 Def:4),Rebound,Unknown,0,218
+20200235,258,PT08M43.00S,3,1610612765,DET,1112,Wallace,B. Wallace,18,72,7,Missed,1,0.0,0.0,0,v,MISS Wallace 7' Jump Shot,Missed Shot,Jump Shot,0,219
+20200235,258,PT08M43.00S,3,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,,0,0.0,0.0,0,h,Gadzuric BLOCK (1 BLK),,,0,220
+20200235,259,PT08M39.00S,3,1610612749,MIL,208,Cassell,S. Cassell,0,0,0,,0,0.0,0.0,0,h,Cassell REBOUND (Off:1 Def:2),Rebound,Unknown,0,221
+20200235,260,PT08M27.00S,3,1610612749,MIL,2072,Redd,M. Redd,117,46,13,Made,1,68.0,52.0,120,h,Redd 13' Jump Shot (14 PTS),Made Shot,Jump Shot,0,222
+20200235,261,PT08M24.00S,3,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Regular,Timeout,Regular,0,223
+20200235,263,PT08M07.00S,3,1610612765,DET,2419,Prince,T. Prince,0,0,0,,0,0.0,0.0,0,v,Prince Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,224
+20200235,264,PT08M07.00S,3,1610612749,MIL,1501,Thomas,T. Thomas,0,0,0,Made,1,70.0,52.0,122,h,Thomas  Dunk (13 PTS) (Cassell 8 AST),Made Shot,Dunk Shot,0,225
+20200235,265,PT08M07.00S,3,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,0.0,0.0,0,v,Hamilton S.FOUL (P4.T1),Foul,Shooting,0,226
+20200235,266,PT08M07.00S,3,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,0.0,0.0,0,v,Hamilton Foul Turnover (P3.T8),Turnover,Foul,0,227
+20200235,267,PT08M07.00S,3,1610612749,MIL,1501,Thomas,T. Thomas,0,0,0,,0,71.0,52.0,123,h,Thomas Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,228
+20200235,268,PT07M53.00S,3,1610612765,DET,1088,Atkins,C. Atkins,-56,207,21,Made,1,71.0,54.0,125,v,Atkins 21' Jump Shot (2 PTS),Made Shot,Jump Shot,0,229
+20200235,269,PT07M36.00S,3,1610612749,MIL,2072,Redd,M. Redd,123,69,14,Missed,1,0.0,0.0,0,h,MISS Redd 14' Jump Shot,Missed Shot,Jump Shot,0,230
+20200235,270,PT07M34.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace REBOUND (Off:0 Def:5),Rebound,Unknown,0,231
+20200235,271,PT07M28.00S,3,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,,0,0.0,0.0,0,h,Gadzuric S.FOUL (P2.T1),Foul,Shooting,0,232
+20200235,272,PT07M28.00S,3,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,71.0,55.0,126,v,Hamilton Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,233
+20200235,273,PT07M28.00S,3,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,71.0,56.0,127,v,Hamilton Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,234
+20200235,274,PT07M14.00S,3,1610612749,MIL,679,Caffey,J. Caffey,0,0,0,,0,0.0,0.0,0,h,Caffey Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,235
+20200235,275,PT07M14.00S,3,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,0.0,0.0,0,v,SUB: Barry FOR Hamilton,Substitution,,0,236
+20200235,276,PT07M04.00S,3,1610612765,DET,361,Robinson,C. Robinson,-64,53,8,Made,1,71.0,58.0,129,v,Robinson 8' Jump Shot (12 PTS) (Barry 2 AST),Made Shot,Jump Shot,0,237
+20200235,277,PT06M44.00S,3,1610612749,MIL,2072,Redd,M. Redd,-49,26,6,Made,1,73.0,58.0,131,h,Redd 6' Jump Shot (16 PTS),Made Shot,Jump Shot,0,238
+20200235,279,PT06M29.00S,3,1610612749,MIL,679,Caffey,J. Caffey,0,0,0,,0,0.0,0.0,0,h,Caffey P.FOUL (P1.T2),Foul,Personal,0,239
+20200235,281,PT06M23.00S,3,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,,0,0.0,0.0,0,h,BUCKS T.Foul (Def. 3 Sec Gadzuric ),Foul,Defense 3 Second,0,240
+20200235,282,PT06M23.00S,3,1610612765,DET,468,Barry,J. Barry,0,0,0,,0,73.0,59.0,132,v,Barry Free Throw Technical (10 PTS),Free Throw,Free Throw Technical,0,241
+20200235,284,PT06M08.00S,3,1610612765,DET,1088,Atkins,C. Atkins,6,253,25,Missed,1,0.0,0.0,0,v,MISS Atkins 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,242
+20200235,285,PT06M06.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace REBOUND (Off:1 Def:5),Rebound,Unknown,0,243
+20200235,286,PT05M58.00S,3,1610612765,DET,1088,Atkins,C. Atkins,-6,23,2,Made,1,73.0,61.0,134,v,Atkins 2' Layup (4 PTS),Made Shot,Layup Shot,0,244
+20200235,287,PT05M43.00S,3,1610612749,MIL,1501,Thomas,T. Thomas,95,164,19,Made,1,75.0,61.0,136,h,Thomas 19' Jump Shot (16 PTS) (Cassell 9 AST),Made Shot,Jump Shot,0,245
+20200235,289,PT05M23.00S,3,1610612765,DET,2419,Prince,T. Prince,29,201,20,Missed,1,0.0,0.0,0,v,MISS Prince 20' Jump Shot,Missed Shot,Jump Shot,0,246
+20200235,478,PT05M23.00S,3,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,,0,0.0,0.0,0,h,Gadzuric REBOUND (Off:1 Def:2),Rebound,Unknown,0,247
+20200235,290,PT05M20.00S,3,1610612749,MIL,2072,Redd,M. Redd,67,208,22,Missed,1,0.0,0.0,0,h,MISS Redd 22' Jump Shot,Missed Shot,Jump Shot,0,248
+20200235,291,PT05M08.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace REBOUND (Off:1 Def:6),Rebound,Unknown,0,249
+20200235,292,PT04M57.00S,3,1610612765,DET,361,Robinson,C. Robinson,0,31,3,Made,1,75.0,63.0,138,v,Robinson 3' Hook Shot (14 PTS),Made Shot,Hook Shot,0,250
+20200235,293,PT04M43.00S,3,1610612765,DET,1088,Atkins,C. Atkins,0,0,0,,0,0.0,0.0,0,v,Atkins P.FOUL (P2.T2),Foul,Personal,0,251
+20200235,294,PT04M43.00S,3,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,,0,0.0,0.0,0,h,SUB: Mason FOR Gadzuric,Substitution,,0,252
+20200235,295,PT04M43.00S,3,1610612765,DET,2419,Prince,T. Prince,0,0,0,,0,0.0,0.0,0,v,SUB: Williamson FOR Prince,Substitution,,0,253
+20200235,296,PT04M43.00S,3,1610612749,MIL,208,Cassell,S. Cassell,0,0,0,,0,76.0,63.0,139,h,Cassell Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,254
+20200235,297,PT04M43.00S,3,1610612749,MIL,208,Cassell,S. Cassell,0,0,0,,0,77.0,63.0,140,h,Cassell Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,255
+20200235,298,PT04M31.00S,3,1610612765,DET,361,Robinson,C. Robinson,-94,12,9,Missed,1,0.0,0.0,0,v,MISS Robinson 9' Jump Shot,Missed Shot,Jump Shot,0,256
+20200235,299,PT04M29.00S,3,1610612749,MIL,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,h,Mason REBOUND (Off:1 Def:3),Rebound,Unknown,0,257
+20200235,300,PT04M29.00S,3,1610612749,MIL,208,Cassell,S. Cassell,97,118,15,Made,1,79.0,63.0,142,h,Cassell 15' Jump Shot (21 PTS),Made Shot,Jump Shot,0,258
+20200235,301,PT04M14.00S,3,1610612765,DET,1088,Atkins,C. Atkins,-145,196,24,Missed,1,0.0,0.0,0,v,MISS Atkins 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,259
+20200235,302,PT04M12.00S,3,1610612749,MIL,208,Cassell,S. Cassell,0,0,0,,0,0.0,0.0,0,h,Cassell REBOUND (Off:1 Def:3),Rebound,Unknown,0,260
+20200235,303,PT04M07.00S,3,1610612749,MIL,2072,Redd,M. Redd,0,0,0,,0,0.0,0.0,0,h,Redd Lost Ball Turnover (P2.T6),Turnover,Lost Ball,0,261
+20200235,303,PT04M07.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace STEAL (1 STL),,,0,262
+20200235,304,PT03M59.00S,3,1610612749,MIL,2072,Redd,M. Redd,0,0,0,,0,0.0,0.0,0,h,Redd P.FOUL (P1.T3),Foul,Personal,0,263
+20200235,305,PT03M59.00S,3,1610612749,MIL,208,Cassell,S. Cassell,0,0,0,,0,0.0,0.0,0,h,Cassell P.FOUL (P2.T4),Foul,Personal,0,264
+20200235,306,PT03M43.00S,3,1610612765,DET,722,Williamson,C. Williamson,0,0,0,Missed,1,0.0,0.0,0,v,MISS Williamson  Layup,Missed Shot,Layup Shot,0,265
+20200235,306,PT03M43.00S,3,1610612749,MIL,679,Caffey,J. Caffey,0,0,0,,0,0.0,0.0,0,h,Caffey BLOCK (1 BLK),,,0,266
+20200235,307,PT03M39.00S,3,1610612749,MIL,208,Cassell,S. Cassell,0,0,0,,0,0.0,0.0,0,h,Cassell REBOUND (Off:1 Def:4),Rebound,Unknown,0,267
+20200235,308,PT03M35.00S,3,1610612749,MIL,1501,Thomas,T. Thomas,-230,2,0,Missed,1,0.0,0.0,0,h,MISS Thomas  3PT Jump Shot,Missed Shot,Jump Shot,0,268
+20200235,309,PT03M31.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace REBOUND (Off:1 Def:7),Rebound,Unknown,0,269
+20200235,310,PT03M29.00S,3,1610612765,DET,468,Barry,J. Barry,-92,141,17,Missed,1,0.0,0.0,0,v,MISS Barry 17' Jump Shot,Missed Shot,Jump Shot,0,270
+20200235,311,PT03M25.00S,3,1610612749,MIL,1501,Thomas,T. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas REBOUND (Off:0 Def:5),Rebound,Unknown,0,271
+20200235,312,PT03M15.00S,3,1610612749,MIL,208,Cassell,S. Cassell,0,0,0,,0,0.0,0.0,0,h,Cassell Bad Pass Turnover (P3.T7),Turnover,Bad Pass,0,272
+20200235,312,PT03M15.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace STEAL (2 STL),,,0,273
+20200235,313,PT03M12.00S,3,1610612749,MIL,1501,Thomas,T. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas P.FOUL (P3.PN),Foul,Personal,0,274
+20200235,314,PT03M12.00S,3,1610612749,MIL,208,Cassell,S. Cassell,0,0,0,,0,0.0,0.0,0,h,SUB: Ollie FOR Cassell,Substitution,,0,275
+20200235,315,PT03M12.00S,3,1610612765,DET,468,Barry,J. Barry,0,0,0,,0,0.0,0.0,0,v,MISS Barry Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,276
+20200235,316,PT03M12.00S,3,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,v,Pistons Rebound,Rebound,Normal Rebound,0,277
+20200235,317,PT03M12.00S,3,1610612765,DET,468,Barry,J. Barry,0,0,0,,0,79.0,64.0,143,v,Barry Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,278
+20200235,318,PT02M58.00S,3,1610612749,MIL,1501,Thomas,T. Thomas,-153,13,15,Made,1,81.0,64.0,145,h,Thomas 15' Jump Shot (18 PTS) (Mason 2 AST),Made Shot,Jump Shot,0,279
+20200235,319,PT02M54.00S,3,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,v,Pistons Timeout: Short (Reg.2 Short 2),Timeout,Short,0,280
+20200235,320,PT02M54.00S,3,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,281
+20200235,322,PT02M54.00S,3,1610612749,MIL,679,Caffey,J. Caffey,0,0,0,,0,0.0,0.0,0,h,SUB: Kukoc FOR Caffey,Substitution,,0,282
+20200235,327,PT02M54.00S,3,1610612749,MIL,2072,Redd,M. Redd,0,0,0,,0,0.0,0.0,0,h,SUB: Cassell FOR Redd,Substitution,,0,283
+20200235,323,PT02M38.00S,3,1610612765,DET,722,Williamson,C. Williamson,118,64,13,Missed,1,0.0,0.0,0,v,MISS Williamson 13' Jump Shot,Missed Shot,Jump Shot,0,284
+20200235,324,PT02M35.00S,3,1610612749,MIL,208,Cassell,S. Cassell,0,0,0,,0,0.0,0.0,0,h,Cassell REBOUND (Off:1 Def:5),Rebound,Unknown,0,285
+20200235,325,PT02M35.00S,3,1610612765,DET,1088,Atkins,C. Atkins,0,0,0,,0,0.0,0.0,0,v,Atkins P.FOUL (P3.T3),Foul,Personal,0,286
+20200235,326,PT02M11.00S,3,1610612749,MIL,208,Cassell,S. Cassell,87,248,26,Made,1,84.0,64.0,148,h,Cassell 26' 3PT Jump Shot (24 PTS) (Kukoc 3 AST),Made Shot,Jump Shot,0,287
+20200235,328,PT01M54.00S,3,1610612749,MIL,208,Cassell,S. Cassell,0,0,0,,0,0.0,0.0,0,h,Cassell S.FOUL (P3.PN),Foul,Shooting,0,288
+20200235,329,PT01M54.00S,3,1610612765,DET,1088,Atkins,C. Atkins,0,0,0,,0,84.0,65.0,149,v,Atkins Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,289
+20200235,330,PT01M54.00S,3,1610612765,DET,1088,Atkins,C. Atkins,0,0,0,,0,84.0,66.0,150,v,Atkins Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,290
+20200235,331,PT01M39.00S,3,1610612765,DET,722,Williamson,C. Williamson,0,0,0,,0,0.0,0.0,0,v,Williamson P.FOUL (P2.T4),Foul,Personal,0,291
+20200235,332,PT01M30.00S,3,1610612749,MIL,1563,Ollie,K. Ollie,-189,2,19,Missed,1,0.0,0.0,0,h,MISS Ollie 19' Jump Shot,Missed Shot,Jump Shot,0,292
+20200235,333,PT01M28.00S,3,1610612749,MIL,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,h,Mason REBOUND (Off:2 Def:3),Rebound,Unknown,0,293
+20200235,334,PT01M27.00S,3,1610612749,MIL,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,h,Mason Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,294
+20200235,335,PT01M17.00S,3,1610612765,DET,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,v,Robinson Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,295
+20200235,335,PT01M17.00S,3,1610612749,MIL,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,h,Mason STEAL (1 STL),,,0,296
+20200235,336,PT01M03.00S,3,1610612749,MIL,193,Mason,A. Mason,56,130,14,Missed,1,0.0,0.0,0,h,MISS Mason 14' Jump Shot,Missed Shot,Jump Shot,0,297
+20200235,336,PT01M03.00S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace BLOCK (1 BLK),,,0,298
+20200235,337,PT01M00.00S,3,1610612765,DET,722,Williamson,C. Williamson,0,0,0,,0,0.0,0.0,0,v,Williamson REBOUND (Off:0 Def:2),Rebound,Unknown,0,299
+20200235,338,PT00M52.00S,3,1610612765,DET,722,Williamson,C. Williamson,0,0,0,Missed,1,0.0,0.0,0,v,MISS Williamson  Layup,Missed Shot,Layup Shot,0,300
+20200235,339,PT00M51.00S,3,1610612749,MIL,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,h,Mason REBOUND (Off:2 Def:4),Rebound,Unknown,0,301
+20200235,341,PT00M39.40S,3,1610612765,DET,722,Williamson,C. Williamson,0,0,0,,0,0.0,0.0,0,v,Williamson S.FOUL (P3.PN),Foul,Shooting,0,302
+20200235,342,PT00M39.40S,3,1610612749,MIL,1501,Thomas,T. Thomas,0,0,0,,0,0.0,0.0,0,h,MISS Thomas Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,303
+20200235,343,PT00M39.40S,3,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Rebound,Rebound,Normal Rebound,0,304
+20200235,344,PT00M39.40S,3,1610612765,DET,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,v,SUB: Okur FOR Robinson,Substitution,,0,305
+20200235,345,PT00M39.40S,3,1610612749,MIL,1501,Thomas,T. Thomas,0,0,0,,0,85.0,66.0,151,h,Thomas Free Throw 2 of 3 (19 PTS),Free Throw,Free Throw 2 of 3,0,306
+20200235,346,PT00M39.40S,3,1610612749,MIL,1501,Thomas,T. Thomas,0,0,0,,0,0.0,0.0,0,h,MISS Thomas Free Throw 3 of 3,Free Throw,Free Throw 3 of 3,0,307
+20200235,347,PT00M37.40S,3,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,0.0,0.0,0,v,Wallace REBOUND (Off:1 Def:8),Rebound,Unknown,0,308
+20200235,348,PT00M19.40S,3,1610612765,DET,1088,Atkins,C. Atkins,0,0,0,Missed,1,0.0,0.0,0,v,MISS Atkins  Layup,Missed Shot,Layup Shot,0,309
+20200235,348,PT00M19.40S,3,1610612749,MIL,1501,Thomas,T. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas BLOCK (1 BLK),,,0,310
+20200235,349,PT00M17.40S,3,1610612765,DET,1088,Atkins,C. Atkins,0,0,0,,0,0.0,0.0,0,v,Atkins REBOUND (Off:1 Def:1),Rebound,Unknown,0,311
+20200235,350,PT00M14.50S,3,1610612765,DET,1088,Atkins,C. Atkins,0,0,0,Missed,1,0.0,0.0,0,v,MISS Atkins  Layup,Missed Shot,Layup Shot,0,312
+20200235,352,PT00M12.50S,3,1610612765,DET,722,Williamson,C. Williamson,0,0,0,,0,0.0,0.0,0,v,Williamson REBOUND (Off:1 Def:2),Rebound,Unknown,0,313
+20200235,351,PT00M12.50S,3,1610612765,DET,722,Williamson,C. Williamson,0,0,0,Missed,1,0.0,0.0,0,v,MISS Williamson  Layup,Missed Shot,Layup Shot,0,314
+20200235,354,PT00M09.30S,3,1610612765,DET,722,Williamson,C. Williamson,0,0,0,,0,0.0,0.0,0,v,Williamson REBOUND (Off:2 Def:2),Rebound,Unknown,0,315
+20200235,353,PT00M09.30S,3,1610612765,DET,722,Williamson,C. Williamson,0,0,0,Made,1,85.0,68.0,153,v,Williamson  Layup (10 PTS),Made Shot,Layup Shot,0,316
+20200235,355,PT00M04.70S,3,1610612749,MIL,389,Kukoc,T. Kukoc,0,0,0,Made,1,87.0,68.0,155,h,Kukoc  Layup (2 PTS),Made Shot,Layup Shot,0,317
+20200235,356,PT00M00.00S,3,1610612765,DET,468,Barry,J. Barry,0,0,0,Missed,1,0.0,0.0,0,v,MISS Barry  Layup,Missed Shot,Layup Shot,0,318
+20200235,357,PT00M00.00S,3,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,v,Pistons Rebound,Rebound,Unknown,0,319
+20200235,359,PT00M00.00S,3,0,,0,,,0,0,0,,0,87.0,68.0,155,,End of 3rd Period (10:48 PM EST),period,end,0,320
+20200235,360,PT12M00.00S,4,0,,0,,,0,0,0,,0,87.0,68.0,155,,Start of 4th Period (10:48 PM EST),period,start,0,321
+20200235,375,PT12M00.00S,4,1610612765,DET,1442,Rebraca,Z. Rebraca,0,0,0,,0,0.0,0.0,0,v,SUB: Okur FOR Rebraca,Substitution,,0,322
+20200235,362,PT11M44.00S,4,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,Made,1,87.0,70.0,157,v,Hamilton  Layup (13 PTS) (Okur 1 AST),Made Shot,Layup Shot,0,323
+20200235,363,PT11M32.00S,4,1610612765,DET,2246,Okur,M. Okur,0,0,0,,0,0.0,0.0,0,v,Okur S.FOUL (P1.T1),Foul,Shooting,0,324
+20200235,364,PT11M32.00S,4,1610612749,MIL,1501,Thomas,T. Thomas,0,0,0,,0,88.0,70.0,158,h,Thomas Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,325
+20200235,365,PT11M32.00S,4,1610612749,MIL,1501,Thomas,T. Thomas,0,0,0,,0,89.0,70.0,159,h,Thomas Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,326
+20200235,366,PT11M10.00S,4,1610612765,DET,1088,Atkins,C. Atkins,-113,10,11,Missed,1,0.0,0.0,0,v,MISS Atkins 11' Jump Shot,Missed Shot,Jump Shot,0,327
+20200235,367,PT11M07.00S,4,1610612765,DET,1088,Atkins,C. Atkins,0,0,0,,0,0.0,0.0,0,v,Atkins REBOUND (Off:2 Def:1),Rebound,Unknown,0,328
+20200235,369,PT10M38.00S,4,1610612765,DET,722,Williamson,C. Williamson,0,0,0,,0,0.0,0.0,0,v,Williamson Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,329
+20200235,369,PT10M38.00S,4,1610612749,MIL,208,Cassell,S. Cassell,0,0,0,,0,0.0,0.0,0,h,Cassell STEAL (1 STL),,,0,330
+20200235,475,PT10M34.00S,4,1610612749,MIL,1563,Ollie,K. Ollie,0,0,0,Made,1,91.0,70.0,161,h,Ollie  Layup (6 PTS) (Cassell 10 AST),Made Shot,Layup Shot,0,331
+20200235,383,PT10M23.00S,4,1610612749,MIL,1501,Thomas,T. Thomas,0,0,0,,0,0.0,0.0,0,h,SUB: Gadzuric FOR Thomas,Substitution,,0,332
+20200235,482,PT10M23.00S,4,1610612765,DET,2246,Okur,M. Okur,0,0,0,,0,0.0,0.0,0,v,Okur Out Of Bounds Turnover (P1.T11),Turnover,Out Of Bounds,0,333
+20200235,476,PT10M18.00S,4,1610612749,MIL,2429,Gadzuric,D. Gadzuric,52,50,7,Made,1,93.0,70.0,163,h,Gadzuric 7' Hook Shot (6 PTS) (Kukoc 4 AST),Made Shot,Hook Shot,0,334
+20200235,391,PT10M03.00S,4,1610612765,DET,1112,Wallace,B. Wallace,0,0,0,,0,0.0,0.0,0,v,SUB: Robinson FOR Wallace,Substitution,,0,335
+20200235,480,PT10M03.00S,4,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,v,Pistons Timeout: No Timeout (Reg.2 Short 2),Timeout                                 , ,0,336
+20200235,370,PT09M36.00S,4,1610612765,DET,1088,Atkins,C. Atkins,6,238,24,Made,1,93.0,73.0,166,v,Atkins 24' 3PT Jump Shot (9 PTS) (Okur 2 AST),Made Shot,Jump Shot,0,337
+20200235,371,PT09M19.00S,4,1610612749,MIL,208,Cassell,S. Cassell,-115,91,15,Missed,1,0.0,0.0,0,h,MISS Cassell 15' Jump Shot,Missed Shot,Jump Shot,0,338
+20200235,372,PT09M17.00S,4,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,0.0,0.0,0,v,Hamilton REBOUND (Off:0 Def:1),Rebound,Unknown,0,339
+20200235,373,PT09M13.00S,4,1610612749,MIL,208,Cassell,S. Cassell,0,0,0,,0,0.0,0.0,0,h,Cassell P.FOUL (P4.T1),Foul,Personal,0,340
+20200235,374,PT09M13.00S,4,1610612749,MIL,208,Cassell,S. Cassell,0,0,0,,0,0.0,0.0,0,h,SUB: Redd FOR Cassell,Substitution,,0,341
+20200235,376,PT08M52.00S,4,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,v,Pistons Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,0,342
+20200235,377,PT08M38.00S,4,1610612749,MIL,389,Kukoc,T. Kukoc,92,189,21,Missed,1,0.0,0.0,0,h,MISS Kukoc 21' Jump Shot,Missed Shot,Jump Shot,0,343
+20200235,378,PT08M36.00S,4,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,,0,0.0,0.0,0,h,Gadzuric REBOUND (Off:2 Def:2),Rebound,Unknown,0,344
+20200235,379,PT08M35.00S,4,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,Made,1,95.0,73.0,168,h,Gadzuric  Layup (8 PTS),Made Shot,Layup Shot,0,345
+20200235,380,PT08M25.00S,4,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,,0,0.0,0.0,0,h,Gadzuric P.FOUL (P3.T2),Foul,Personal,0,346
+20200235,381,PT08M25.00S,4,1610612765,DET,2246,Okur,M. Okur,0,0,0,,0,0.0,0.0,0,v,SUB: Barry FOR Okur,Substitution,,0,347
+20200235,382,PT08M15.00S,4,1610612765,DET,361,Robinson,C. Robinson,0,0,0,Made,1,95.0,75.0,170,v,Robinson  Layup (16 PTS),Made Shot,Layup Shot,0,348
+20200235,384,PT07M56.00S,4,1610612749,MIL,1563,Ollie,K. Ollie,141,174,22,Missed,1,0.0,0.0,0,h,MISS Ollie 22' Jump Shot,Missed Shot,Jump Shot,0,349
+20200235,385,PT07M53.00S,4,1610612749,MIL,389,Kukoc,T. Kukoc,0,0,0,,0,0.0,0.0,0,h,Kukoc REBOUND (Off:2 Def:2),Rebound,Unknown,0,350
+20200235,386,PT07M48.00S,4,1610612749,MIL,1563,Ollie,K. Ollie,0,0,0,Made,1,97.0,75.0,172,h,Ollie  Layup (8 PTS) (Kukoc 5 AST),Made Shot,Layup Shot,0,351
+20200235,387,PT07M33.00S,4,1610612765,DET,361,Robinson,C. Robinson,0,0,0,Missed,1,0.0,0.0,0,v,MISS Robinson  Layup,Missed Shot,Layup Shot,0,352
+20200235,388,PT07M31.00S,4,1610612749,MIL,2072,Redd,M. Redd,0,0,0,,0,0.0,0.0,0,h,Redd REBOUND (Off:1 Def:2),Rebound,Unknown,0,353
+20200235,389,PT07M31.00S,4,1610612749,MIL,2429,Gadzuric,D. Gadzuric,-105,30,11,Made,1,99.0,75.0,174,h,Gadzuric 11' Jump Shot (10 PTS) (Kukoc 6 AST),Made Shot,Jump Shot,0,354
+20200235,390,PT07M24.00S,4,0,,1610612765,,,0,0,0,,0,0.0,0.0,0,v,Pistons Timeout: Regular (Reg.3 Short 2),Timeout,Regular,0,355
+20200235,393,PT07M24.00S,4,1610612765,DET,1088,Atkins,C. Atkins,0,0,0,,0,0.0,0.0,0,v,SUB: Davis FOR Atkins,Substitution,,0,356
+20200235,394,PT07M08.00S,4,1610612765,DET,468,Barry,J. Barry,0,0,0,,0,0.0,0.0,0,v,Barry Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,357
+20200235,394,PT07M08.00S,4,1610612749,MIL,1563,Ollie,K. Ollie,0,0,0,,0,0.0,0.0,0,h,Ollie STEAL (1 STL),,,0,358
+20200235,395,PT07M03.00S,4,1610612749,MIL,2072,Redd,M. Redd,0,0,0,Made,1,101.0,75.0,176,h,Redd  Layup (18 PTS) (Ollie 3 AST),Made Shot,Layup Shot,0,359
+20200235,396,PT06M47.00S,4,1610612765,DET,468,Barry,J. Barry,0,0,0,,0,0.0,0.0,0,v,Barry Bad Pass Turnover (P2.T14),Turnover,Bad Pass,0,360
+20200235,396,PT06M47.00S,4,1610612749,MIL,1563,Ollie,K. Ollie,0,0,0,,0,0.0,0.0,0,h,Ollie STEAL (2 STL),,,0,361
+20200235,397,PT06M43.00S,4,1610612749,MIL,1563,Ollie,K. Ollie,0,0,0,Made,1,103.0,75.0,178,h,Ollie  Layup (10 PTS),Made Shot,Layup Shot,0,362
+20200235,398,PT06M26.00S,4,1610612765,DET,361,Robinson,C. Robinson,-136,105,17,Missed,1,0.0,0.0,0,v,MISS Robinson 17' Jump Shot,Missed Shot,Jump Shot,0,363
+20200235,399,PT06M23.00S,4,1610612749,MIL,389,Kukoc,T. Kukoc,0,0,0,,0,0.0,0.0,0,h,Kukoc REBOUND (Off:2 Def:3),Rebound,Unknown,0,364
+20200235,400,PT06M17.00S,4,1610612765,DET,722,Williamson,C. Williamson,0,0,0,,0,0.0,0.0,0,v,Williamson P.FOUL (P4.T2),Foul,Personal,0,365
+20200235,401,PT06M17.00S,4,1610612765,DET,468,Barry,J. Barry,0,0,0,,0,0.0,0.0,0,v,SUB: Prince FOR Barry,Substitution,,0,366
+20200235,402,PT06M17.00S,4,1610612765,DET,361,Robinson,C. Robinson,0,0,0,,0,0.0,0.0,0,v,SUB: Okur FOR Robinson,Substitution,,0,367
+20200235,403,PT06M17.00S,4,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,,0,0.0,0.0,0,h,MISS Gadzuric Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,368
+20200235,404,PT06M17.00S,4,0,,1610612749,,,0,0,0,,0,0.0,0.0,0,h,BUCKS Rebound,Rebound,Normal Rebound,0,369
+20200235,405,PT06M17.00S,4,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,,0,0.0,0.0,0,h,MISS Gadzuric Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,370
+20200235,406,PT06M15.00S,4,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,0.0,0.0,0,v,Hamilton REBOUND (Off:0 Def:2),Rebound,Unknown,0,371
+20200235,407,PT06M03.00S,4,1610612765,DET,1888,Hamilton,R. Hamilton,-48,201,21,Missed,1,0.0,0.0,0,v,MISS Hamilton 21' Jump Shot,Missed Shot,Jump Shot,0,372
+20200235,408,PT06M01.00S,4,1610612765,DET,722,Williamson,C. Williamson,0,0,0,,0,0.0,0.0,0,v,Williamson REBOUND (Off:3 Def:2),Rebound,Unknown,0,373
+20200235,409,PT06M00.00S,4,1610612749,MIL,1563,Ollie,K. Ollie,0,0,0,,0,0.0,0.0,0,h,Ollie P.FOUL (P2.T3),Foul,Personal,0,374
+20200235,410,PT05M42.00S,4,1610612765,DET,1888,Hamilton,R. Hamilton,200,-21,20,Missed,1,0.0,0.0,0,v,MISS Hamilton 20' Jump Shot,Missed Shot,Jump Shot,0,375
+20200235,411,PT05M40.00S,4,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,,0,0.0,0.0,0,h,Gadzuric REBOUND (Off:2 Def:3),Rebound,Unknown,0,376
+20200235,412,PT05M34.00S,4,1610612749,MIL,389,Kukoc,T. Kukoc,66,64,9,Missed,1,0.0,0.0,0,h,MISS Kukoc 9' Jump Shot,Missed Shot,Jump Shot,0,377
+20200235,413,PT05M32.00S,4,1610612765,DET,2246,Okur,M. Okur,0,0,0,,0,0.0,0.0,0,v,Okur REBOUND (Off:0 Def:1),Rebound,Unknown,0,378
+20200235,414,PT05M30.00S,4,1610612765,DET,93,Davis,H. Davis,179,169,25,Missed,1,0.0,0.0,0,v,MISS Davis 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,379
+20200235,415,PT05M26.00S,4,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,0.0,0.0,0,v,Hamilton REBOUND (Off:1 Def:2),Rebound,Unknown,0,380
+20200235,416,PT05M23.00S,4,1610612765,DET,2246,Okur,M. Okur,0,0,0,,0,0.0,0.0,0,v,Okur Out Of Bounds Turnover (P2.T15),Turnover,Out Of Bounds,0,381
+20200235,417,PT05M06.00S,4,1610612749,MIL,389,Kukoc,T. Kukoc,0,0,0,,0,0.0,0.0,0,h,Kukoc Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,382
+20200235,417,PT05M06.00S,4,1610612765,DET,2419,Prince,T. Prince,0,0,0,,0,0.0,0.0,0,v,Prince STEAL (1 STL),,,0,383
+20200235,419,PT05M02.00S,4,1610612749,MIL,389,Kukoc,T. Kukoc,0,0,0,,0,0.0,0.0,0,h,Kukoc S.FOUL (P1.T4),Foul,Shooting,0,384
+20200235,420,PT05M02.00S,4,1610612749,MIL,193,Mason,A. Mason,0,0,0,,0,0.0,0.0,0,h,SUB: Przybilla FOR Mason,Substitution,,0,385
+20200235,421,PT05M02.00S,4,1610612749,MIL,389,Kukoc,T. Kukoc,0,0,0,,0,0.0,0.0,0,h,SUB: Murray FOR Kukoc,Substitution,,0,386
+20200235,422,PT05M02.00S,4,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,103.0,76.0,179,v,Hamilton Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,387
+20200235,425,PT05M02.00S,4,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,103.0,77.0,180,v,Hamilton Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,388
+20200235,427,PT04M42.00S,4,1610612749,MIL,2072,Redd,M. Redd,0,0,0,Missed,1,0.0,0.0,0,h,MISS Redd  Layup,Missed Shot,Layup Shot,0,389
+20200235,427,PT04M42.00S,4,1610612765,DET,2419,Prince,T. Prince,0,0,0,,0,0.0,0.0,0,v,Prince BLOCK (1 BLK),,,0,390
+20200235,428,PT04M39.00S,4,1610612765,DET,722,Williamson,C. Williamson,0,0,0,,0,0.0,0.0,0,v,Williamson REBOUND (Off:3 Def:3),Rebound,Unknown,0,391
+20200235,430,PT04M31.00S,4,1610612765,DET,2246,Okur,M. Okur,0,0,0,Missed,1,0.0,0.0,0,v,MISS Okur  Layup,Missed Shot,Layup Shot,0,392
+20200235,430,PT04M31.00S,4,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,,0,0.0,0.0,0,h,Gadzuric BLOCK (2 BLK),,,0,393
+20200235,431,PT04M29.00S,4,1610612765,DET,93,Davis,H. Davis,0,0,0,,0,0.0,0.0,0,v,Davis REBOUND (Off:1 Def:1),Rebound,Unknown,0,394
+20200235,432,PT04M25.00S,4,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,,0,0.0,0.0,0,h,Gadzuric S.FOUL (P4.PN),Foul,Shooting,0,395
+20200235,434,PT04M25.00S,4,1610612765,DET,2246,Okur,M. Okur,0,0,0,,0,103.0,78.0,181,v,Okur Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,396
+20200235,435,PT04M25.00S,4,1610612765,DET,2246,Okur,M. Okur,0,0,0,,0,103.0,79.0,182,v,Okur Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,397
+20200235,436,PT04M03.00S,4,1610612749,MIL,2436,Murray,R. Murray,-186,176,26,Missed,1,0.0,0.0,0,h,MISS Murray 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,398
+20200235,437,PT04M00.00S,4,1610612765,DET,2419,Prince,T. Prince,0,0,0,,0,0.0,0.0,0,v,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,399
+20200235,439,PT03M45.00S,4,1610612765,DET,2419,Prince,T. Prince,156,210,26,Missed,1,0.0,0.0,0,v,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,400
+20200235,441,PT03M43.00S,4,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,0.0,0.0,0,v,Hamilton REBOUND (Off:2 Def:2),Rebound,Unknown,0,401
+20200235,442,PT03M42.00S,4,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,,0,0.0,0.0,0,h,Gadzuric P.FOUL (P5.PN),Foul,Personal,0,402
+20200235,444,PT03M42.00S,4,1610612765,DET,2246,Okur,M. Okur,0,0,0,,0,103.0,80.0,183,v,Okur Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,403
+20200235,445,PT03M42.00S,4,1610612765,DET,2246,Okur,M. Okur,0,0,0,,0,103.0,81.0,184,v,Okur Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,404
+20200235,446,PT03M27.00S,4,1610612749,MIL,2038,Przybilla,J. Przybilla,0,0,0,,0,0.0,0.0,0,h,Przybilla Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,405
+20200235,446,PT03M27.00S,4,1610612765,DET,2419,Prince,T. Prince,0,0,0,,0,0.0,0.0,0,v,Prince STEAL (2 STL),,,0,406
+20200235,447,PT03M19.00S,4,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,0.0,0.0,0,v,Hamilton Bad Pass Turnover (P4.T16),Turnover,Bad Pass,0,407
+20200235,447,PT03M19.00S,4,1610612749,MIL,2436,Murray,R. Murray,0,0,0,,0,0.0,0.0,0,h,Murray STEAL (1 STL),,,0,408
+20200235,448,PT03M15.00S,4,1610612749,MIL,1563,Ollie,K. Ollie,0,0,0,Missed,1,0.0,0.0,0,h,MISS Ollie  Layup,Missed Shot,Layup Shot,0,409
+20200235,449,PT03M13.00S,4,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,,0,0.0,0.0,0,h,Gadzuric REBOUND (Off:3 Def:3),Rebound,Unknown,0,410
+20200235,450,PT03M13.00S,4,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,Made,1,105.0,81.0,186,h,Gadzuric  Dunk (12 PTS),Made Shot,Dunk Shot,0,411
+20200235,451,PT02M49.00S,4,1610612765,DET,2246,Okur,M. Okur,0,0,0,Made,1,105.0,83.0,188,v,Okur  Hook Shot (6 PTS),Made Shot,Hook Shot,0,412
+20200235,452,PT02M28.00S,4,1610612749,MIL,2436,Murray,R. Murray,0,0,0,,0,0.0,0.0,0,h,Murray Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,413
+20200235,452,PT02M28.00S,4,1610612765,DET,722,Williamson,C. Williamson,0,0,0,,0,0.0,0.0,0,v,Williamson STEAL (1 STL),,,0,414
+20200235,453,PT02M13.00S,4,1610612765,DET,2246,Okur,M. Okur,138,58,15,Missed,1,0.0,0.0,0,v,MISS Okur 15' Jump Shot,Missed Shot,Jump Shot,0,415
+20200235,454,PT02M11.00S,4,1610612749,MIL,2072,Redd,M. Redd,0,0,0,,0,0.0,0.0,0,h,Redd REBOUND (Off:1 Def:3),Rebound,Unknown,0,416
+20200235,455,PT01M49.00S,4,1610612749,MIL,1563,Ollie,K. Ollie,144,151,21,Missed,1,0.0,0.0,0,h,MISS Ollie 21' Jump Shot,Missed Shot,Jump Shot,0,417
+20200235,456,PT01M46.00S,4,1610612765,DET,2419,Prince,T. Prince,0,0,0,,0,0.0,0.0,0,v,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,418
+20200235,457,PT01M35.00S,4,1610612765,DET,1888,Hamilton,R. Hamilton,182,161,24,Missed,1,0.0,0.0,0,v,MISS Hamilton 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,419
+20200235,458,PT01M34.00S,4,1610612749,MIL,2429,Gadzuric,D. Gadzuric,0,0,0,,0,0.0,0.0,0,h,Gadzuric REBOUND (Off:3 Def:4),Rebound,Unknown,0,420
+20200235,459,PT01M34.00S,4,1610612765,DET,2246,Okur,M. Okur,0,0,0,,0,0.0,0.0,0,v,Okur L.B.FOUL (P2.T3),Foul,Loose Ball,0,421
+20200235,460,PT01M24.00S,4,1610612765,DET,2419,Prince,T. Prince,0,0,0,,0,0.0,0.0,0,v,Prince S.FOUL (P2.PN),Foul,Shooting,0,422
+20200235,461,PT01M24.00S,4,1610612749,MIL,1563,Ollie,K. Ollie,0,0,0,,0,106.0,83.0,189,h,Ollie Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,423
+20200235,462,PT01M24.00S,4,1610612749,MIL,1563,Ollie,K. Ollie,0,0,0,,0,107.0,83.0,190,h,Ollie Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,424
+20200235,463,PT01M12.00S,4,1610612765,DET,93,Davis,H. Davis,0,0,0,,0,0.0,0.0,0,v,Davis Bad Pass Turnover (P3.T17),Turnover,Bad Pass,0,425
+20200235,463,PT01M12.00S,4,1610612749,MIL,1563,Ollie,K. Ollie,0,0,0,,0,0.0,0.0,0,h,Ollie STEAL (3 STL),,,0,426
+20200235,464,PT01M07.00S,4,1610612749,MIL,2072,Redd,M. Redd,-195,168,26,Missed,1,0.0,0.0,0,h,MISS Redd 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,427
+20200235,465,PT01M04.00S,4,1610612765,DET,93,Davis,H. Davis,0,0,0,,0,0.0,0.0,0,v,Davis REBOUND (Off:1 Def:2),Rebound,Unknown,0,428
+20200235,466,PT00M54.50S,4,1610612765,DET,93,Davis,H. Davis,187,174,26,Made,1,107.0,86.0,193,v,Davis 26' 3PT Jump Shot (11 PTS) (Williamson 3 AST),Made Shot,Jump Shot,0,429
+20200235,467,PT00M43.30S,4,1610612765,DET,93,Davis,H. Davis,0,0,0,,0,0.0,0.0,0,v,Davis P.FOUL (P3.PN),Foul,Personal,0,430
+20200235,468,PT00M43.30S,4,1610612749,MIL,2072,Redd,M. Redd,0,0,0,,0,108.0,86.0,194,h,Redd Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,431
+20200235,469,PT00M43.30S,4,1610612749,MIL,2072,Redd,M. Redd,0,0,0,,0,109.0,86.0,195,h,Redd Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,432
+20200235,470,PT00M33.70S,4,1610612765,DET,1888,Hamilton,R. Hamilton,-87,166,19,Missed,1,0.0,0.0,0,v,MISS Hamilton 19' Jump Shot,Missed Shot,Jump Shot,0,433
+20200235,471,PT00M31.50S,4,1610612749,MIL,1563,Ollie,K. Ollie,0,0,0,,0,0.0,0.0,0,h,Ollie REBOUND (Off:0 Def:1),Rebound,Unknown,0,434
+20200235,472,PT00M09.70S,4,1610612749,MIL,2072,Redd,M. Redd,-210,76,22,Missed,1,0.0,0.0,0,h,MISS Redd 22' Jump Shot,Missed Shot,Jump Shot,0,435
+20200235,473,PT00M07.70S,4,1610612765,DET,1888,Hamilton,R. Hamilton,0,0,0,,0,0.0,0.0,0,v,Hamilton REBOUND (Off:2 Def:3),Rebound,Unknown,0,436
+20200235,474,PT00M00.00S,4,0,,0,,,0,0,0,,0,109.0,86.0,195,,End of 4th Period (11:17 PM EST),period,end,0,437

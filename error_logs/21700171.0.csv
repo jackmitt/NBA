@@ -1,0 +1,49 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId,clock_sec
+21700171,327,PT08M29.00S,3,0,,1610612741,,,0,0,0,,0,,,0,h,BULLS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,245,1651.0
+21700171,330,PT08M29.00S,3,1610612741,CHI,1626170,Grant,J. Grant,0,0,0,,0,,,0,h,SUB: Dunn FOR Grant,Substitution,,0,246,1651.0
+21700171,331,PT08M29.00S,3,1610612741,CHI,1627835,Zipser,P. Zipser,0,0,0,,0,,,0,h,SUB: Valentine FOR Zipser,Substitution,,0,247,1651.0
+21700171,332,PT08M15.00S,3,1610612741,CHI,1627739,Dunn,K. Dunn,43,32,5,Missed,1,,,0,h,MISS Dunn 5' Driving Layup,Missed Shot,Driving Layup Shot,1,248,1665.0
+21700171,333,PT08M12.00S,3,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,,,0,v,Turner REBOUND (Off:0 Def:6),Rebound,Unknown,1,249,1668.0
+21700171,334,PT07M58.00S,3,1610612754,IND,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,v,Bogdanovic Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,250,1682.0
+21700171,334,PT07M58.00S,3,1610612741,CHI,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday STEAL (1 STL),,,1,251,1682.0
+21700171,336,PT07M52.00S,3,1610612741,CHI,201577,Lopez,R. Lopez,0,0,0,,0,,,0,h,Lopez Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,252,1688.0
+21700171,336,PT07M52.00S,3,1610612754,IND,203506,Oladipo,V. Oladipo,0,0,0,,0,,,0,v,Oladipo STEAL (1 STL),,,1,253,1688.0
+21700171,338,PT07M46.00S,3,1610612754,IND,203506,Oladipo,V. Oladipo,1,5,1,Made,1,42.0,62.0,104,v,Oladipo 1' Running Dunk (21 PTS),Made Shot,Running Dunk Shot,1,254,1694.0
+21700171,340,PT07M27.00S,3,1610612741,CHI,1627756,Valentine,D. Valentine,6,199,20,Missed,1,,,0,h,MISS Valentine 20' Jump Shot,Missed Shot,Jump Shot,0,255,1713.0
+21700171,341,PT07M22.00S,3,1610612754,IND,201152,Young,T. Young,0,0,0,,0,,,0,v,T. Young REBOUND (Off:0 Def:7),Rebound,Unknown,0,256,1718.0
+21700171,343,PT07M16.00S,3,1610612741,CHI,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Violation:Kicked Ball (M.Ayotte),Violation,Kicked Ball,0,257,1724.0
+21700171,344,PT07M05.00S,3,1610612754,IND,1626167,Turner,M. Turner,-11,183,18,Missed,1,,,0,v,MISS Turner 18' Jump Shot,Missed Shot,Jump Shot,1,258,1735.0
+21700171,345,PT07M01.00S,3,1610612754,IND,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,v,Bogdanovic REBOUND (Off:1 Def:3),Rebound,Unknown,1,259,1739.0
+21700171,346,PT06M59.00S,3,1610612754,IND,201954,Collison,D. Collison,231,13,0,Made,1,42.0,65.0,107,v,Collison 3PT Jump Shot (3 PTS) (Oladipo 6 AST),Made Shot,Jump Shot,1,260,1741.0
+21700171,348,PT06M33.00S,3,1610612741,CHI,1627756,Valentine,D. Valentine,143,210,25,Made,1,45.0,65.0,110,h,Valentine 25' 3PT Jump Shot (3 PTS) (Holiday 4 AST),Made Shot,Jump Shot,1,261,1767.0
+21700171,350,PT06M14.00S,3,1610612754,IND,1626167,Turner,M. Turner,2,172,17,Missed,1,,,0,v,MISS Turner 17' Jump Shot,Missed Shot,Jump Shot,1,262,1786.0
+21700171,351,PT06M10.00S,3,1610612741,CHI,1627756,Valentine,D. Valentine,0,0,0,,0,,,0,h,Valentine REBOUND (Off:0 Def:2),Rebound,Unknown,1,263,1790.0
+21700171,352,PT06M10.00S,3,1610612754,IND,201152,Young,T. Young,0,0,0,,0,,,0,v,T. Young P.FOUL (P1.T1) (M.Ayotte),Foul,Personal,1,264,1790.0
+21700171,354,PT05M55.00S,3,1610612741,CHI,201577,Lopez,R. Lopez,9,8,1,Made,1,47.0,65.0,112,h,Lopez 1' Layup (2 PTS) (Valentine 3 AST),Made Shot,Layup Shot,1,265,1805.0
+21700171,356,PT05M55.00S,3,1610612754,IND,201954,Collison,D. Collison,0,0,0,,0,,,0,v,Collison S.FOUL (P2.T2) (T.Ford),Foul,Shooting,1,266,1805.0
+21700171,358,PT05M55.00S,3,1610612741,CHI,201577,Lopez,R. Lopez,0,0,0,,0,48.0,65.0,113,h,Lopez Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,267,1805.0
+21700171,359,PT05M37.00S,3,1610612754,IND,201152,Young,T. Young,24,34,4,Missed,1,,,0,v,MISS T. Young 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,268,1823.0
+21700171,359,PT05M37.00S,3,1610612741,CHI,201577,Lopez,R. Lopez,0,0,0,,0,,,0,h,Lopez BLOCK (2 BLK),,,1,269,1823.0
+21700171,360,PT05M35.00S,3,1610612754,IND,201954,Collison,D. Collison,0,0,0,,0,,,0,v,Collison REBOUND (Off:1 Def:2),Rebound,Unknown,1,270,1825.0
+21700171,361,PT05M31.00S,3,1610612754,IND,201954,Collison,D. Collison,0,0,0,,0,,,0,v,Collison Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,271,1829.0
+21700171,361,PT05M31.00S,3,1610612741,CHI,1627756,Valentine,D. Valentine,0,0,0,,0,,,0,h,Valentine STEAL (1 STL),,,1,272,1829.0
+21700171,363,PT05M26.00S,3,1610612741,CHI,1627756,Valentine,D. Valentine,22,12,3,Missed,1,,,0,h,MISS Valentine 3' Layup,Missed Shot,Layup Shot,1,273,1834.0
+21700171,363,PT05M26.00S,3,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,,,0,v,Turner BLOCK (2 BLK),,,1,274,1834.0
+21700171,365,PT05M22.00S,3,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,,,0,v,Turner REBOUND (Off:0 Def:7),Rebound,Unknown,1,275,1838.0
+21700171,366,PT05M20.00S,3,1610612754,IND,202711,Bogdanovic,B. Bogdanovic,133,224,26,Missed,1,,,0,v,MISS Bogdanovic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,276,1840.0
+21700171,367,PT05M17.00S,3,1610612741,CHI,201577,Lopez,R. Lopez,0,0,0,,0,,,0,h,Lopez REBOUND (Off:2 Def:3),Rebound,Unknown,1,277,1843.0
+21700171,368,PT05M07.00S,3,1610612741,CHI,203200,Holiday,J. Holiday,-114,179,21,Made,1,50.0,65.0,115,h,Holiday 21' Jump Shot (12 PTS) (Lopez 3 AST),Made Shot,Jump Shot,1,278,1853.0
+21700171,370,PT05M05.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,279,1855.0
+21700171,372,PT04M39.00S,3,1610612754,IND,201152,Young,T. Young,99,185,21,Missed,1,,,0,v,MISS T. Young 21' Jump Shot,Missed Shot,Jump Shot,1,280,1881.0
+21700171,373,PT04M36.00S,3,1610612741,CHI,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:1 Def:2),Rebound,Unknown,1,281,1884.0
+21700171,374,PT04M27.00S,3,1610612741,CHI,1628374,Markkanen,L. Markkanen,-122,236,27,Missed,1,,,0,h,MISS Markkanen 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,282,1893.0
+21700171,375,PT04M23.00S,3,1610612754,IND,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,v,Bogdanovic REBOUND (Off:1 Def:4),Rebound,Unknown,1,283,1897.0
+21700171,376,PT04M14.00S,3,1610612754,IND,201152,Young,T. Young,-123,68,14,Made,1,50.0,67.0,117,v,T. Young 14' Fadeaway Jumper (11 PTS),Made Shot,Fadeaway Jump Shot,1,284,1906.0
+21700171,377,PT03M56.00S,3,1610612741,CHI,1627739,Dunn,K. Dunn,18,73,8,Made,1,52.0,67.0,119,h,Dunn 8' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,1,285,1924.0
+21700171,378,PT03M38.00S,3,1610612754,IND,1626167,Turner,M. Turner,62,59,9,Made,1,52.0,69.0,121,v,Turner 9' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,286,1942.0
+21700171,379,PT03M38.00S,3,1610612741,CHI,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday S.FOUL (P1.T1) (J.Goble),Foul,Shooting,1,287,1942.0
+21700171,384,PT03M38.00S,3,1610612741,CHI,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,h,SUB: Portis FOR Markkanen,Substitution,,0,288,1942.0
+21700171,385,PT03M38.00S,3,1610612754,IND,201152,Young,T. Young,0,0,0,,0,,,0,v,SUB: Joseph FOR T. Young,Substitution,,0,289,1942.0
+21700171,386,PT03M38.00S,3,1610612754,IND,202711,Bogdanovic,B. Bogdanovic,0,0,0,,0,,,0,v,SUB: Sabonis FOR Bogdanovic,Substitution,,0,290,1942.0
+21700171,387,PT03M38.00S,3,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,,,0,v,MISS Turner Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,291,1942.0
+21700171,388,PT03M38.00S,3,1610612754,IND,1627734,Sabonis,D. Sabonis,0,0,0,,0,,,0,v,Sabonis REBOUND (Off:2 Def:2),Rebound,Unknown,1,292,1942.0

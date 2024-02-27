@@ -1,0 +1,435 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+21400271,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (9:10 PM EST),period,start,0,1
+21400271,1,PT12M00.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,h,Jump Ball Favors vs. Valanciunas: Tip to Vasquez,Jump Ball,,1,2
+21400271,2,PT11M47.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,h,Favors S.FOUL (P1.T1),Foul,Shooting,1,3
+21400271,3,PT11M47.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,0.0,1.0,1,v,Valanciunas Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,4
+21400271,5,PT11M47.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,MISS Valanciunas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,5
+21400271,7,PT11M45.00S,1,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,Ross REBOUND (Off:1 Def:0),Rebound,Unknown,1,6
+21400271,8,PT11M30.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,-2,52,5,Missed,1,,,0,v,MISS Valanciunas 5' Running Hook Shot,Missed Shot,Running Hook Shot,1,7
+21400271,9,PT11M28.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,h,Favors REBOUND (Off:0 Def:1),Rebound,Unknown,1,8
+21400271,10,PT11M16.00S,1,1610612762,UTA,203504,Burke,T. Burke,157,146,21,Missed,1,,,0,h,MISS Burke 21' Jump Shot,Missed Shot,Jump Shot,1,9
+21400271,11,PT11M15.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:0 Def:1),Rebound,Unknown,1,10
+21400271,12,PT11M08.00S,1,1610612761,TOR,101161,Johnson,A. Johnson,15,0,2,Made,1,0.0,3.0,3,v,A. Johnson 2' Layup (2 PTS) (Lowry 1 AST),Made Shot,Layup Shot,1,11
+21400271,13,PT10M56.00S,1,1610612762,UTA,202683,Freedom,E. Freedom,-92,110,14,Missed,1,,,0,h,MISS Freedom 14' Jump Shot,Missed Shot,Jump Shot,1,12
+21400271,13,PT10M56.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas BLOCK (1 BLK),,,1,13
+21400271,14,PT10M55.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry REBOUND (Off:0 Def:1),Rebound,Unknown,0,14
+21400271,15,PT10M47.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,110,48,12,Made,1,0.0,5.0,5,v,Lowry 12' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,1,15
+21400271,16,PT10M26.00S,1,1610612762,UTA,202683,Freedom,E. Freedom,-21,9,2,Missed,1,,,0,h,MISS Freedom 2' Layup,Missed Shot,Layup Shot,1,16
+21400271,17,PT10M26.00S,1,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,0,17
+21400271,18,PT10M13.00S,1,1610612761,TOR,202349,Vasquez,G. Vasquez,-90,181,20,Missed,1,,,0,v,MISS Vasquez 20' Jump Shot,Missed Shot,Jump Shot,1,18
+21400271,19,PT10M11.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,h,Favors REBOUND (Off:0 Def:2),Rebound,Unknown,1,19
+21400271,20,PT09M52.00S,1,1610612762,UTA,202683,Freedom,E. Freedom,2,1,0,Made,1,2.0,5.0,7,h,Freedom Layup (2 PTS),Made Shot,Layup Shot,1,20
+21400271,21,PT09M37.00S,1,1610612761,TOR,203082,Ross,T. Ross,-108,134,17,Missed,1,,,0,v,MISS Ross 17' Jump Shot,Missed Shot,Jump Shot,1,21
+21400271,22,PT09M33.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,h,Favors REBOUND (Off:0 Def:3),Rebound,Unknown,1,22
+21400271,23,PT09M23.00S,1,1610612762,UTA,203918,Hood,R. Hood,-155,189,24,Missed,1,,,0,h,MISS Hood 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,23
+21400271,24,PT09M22.00S,1,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,Ross REBOUND (Off:1 Def:1),Rebound,Unknown,1,24
+21400271,25,PT09M13.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,6,36,4,Missed,1,,,0,v,MISS Valanciunas 4' Running Jump Shot,Missed Shot,Running Jump Shot,1,25
+21400271,26,PT09M12.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,h,Favors REBOUND (Off:0 Def:4),Rebound,Unknown,1,26
+21400271,27,PT09M06.00S,1,1610612762,UTA,203918,Hood,R. Hood,-10,0,1,Made,1,4.0,5.0,9,h,Hood 1' Layup (2 PTS),Made Shot,Layup Shot,1,27
+21400271,28,PT08M52.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,151,-25,15,Missed,1,,,0,v,MISS Lowry 15' Jump Shot,Missed Shot,Jump Shot,1,28
+21400271,29,PT08M51.00S,1,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,,,0,h,Freedom REBOUND (Off:0 Def:1),Rebound,Unknown,1,29
+21400271,30,PT08M45.00S,1,1610612762,UTA,203504,Burke,T. Burke,-27,-3,3,Made,1,6.0,5.0,11,h,Burke 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,30
+21400271,31,PT08M27.00S,1,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,Ross Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,31
+21400271,31,PT08M27.00S,1,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,,,0,h,Hood STEAL (1 STL),,,1,32
+21400271,32,PT08M13.00S,1,1610612762,UTA,202330,Hayward,G. Hayward,61,189,20,Missed,1,,,0,h,MISS Hayward 20' Jump Shot,Missed Shot,Jump Shot,1,33
+21400271,33,PT08M12.00S,1,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,34
+21400271,34,PT08M03.00S,1,1610612761,TOR,101161,Johnson,A. Johnson,59,53,8,Missed,1,,,0,v,MISS A. Johnson 8' Jump Shot,Missed Shot,Jump Shot,1,35
+21400271,35,PT08M01.00S,1,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,Ross REBOUND (Off:2 Def:1),Rebound,Unknown,1,36
+21400271,36,PT07M57.00S,1,1610612761,TOR,203082,Ross,T. Ross,154,108,19,Made,1,6.0,7.0,13,v,Ross 19' Jump Shot (2 PTS),Made Shot,Jump Shot,1,37
+21400271,37,PT07M42.00S,1,1610612762,UTA,202324,Favors,D. Favors,-150,60,16,Missed,1,,,0,h,MISS Favors 16' Jump Shot,Missed Shot,Jump Shot,1,38
+21400271,39,PT07M40.00S,1,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,,,0,h,Freedom REBOUND (Off:1 Def:1),Rebound,Unknown,1,39
+21400271,38,PT07M40.00S,1,1610612762,UTA,202683,Freedom,E. Freedom,15,17,2,Missed,1,,,0,h,MISS Freedom 2' Tip Shot,Missed Shot,Tip Shot,1,40
+21400271,40,PT07M38.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:0 Def:2),Rebound,Unknown,1,41
+21400271,41,PT07M31.00S,1,1610612761,TOR,101161,Johnson,A. Johnson,125,214,25,Missed,1,,,0,v,MISS A. Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,42
+21400271,42,PT07M29.00S,1,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,,,0,h,Freedom REBOUND (Off:1 Def:2),Rebound,Unknown,1,43
+21400271,43,PT07M16.00S,1,1610612762,UTA,202324,Favors,D. Favors,12,1,1,Made,1,8.0,7.0,15,h,Favors 1' Reverse Layup (2 PTS) (Hood 1 AST),Made Shot,Reverse Layup Shot,1,44
+21400271,44,PT06M51.00S,1,1610612761,TOR,202349,Vasquez,G. Vasquez,45,45,6,Made,1,8.0,9.0,17,v,Vasquez 6' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,1,45
+21400271,45,PT06M36.00S,1,1610612762,UTA,203504,Burke,T. Burke,-240,25,24,Missed,1,,,0,h,MISS Burke 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,46
+21400271,46,PT06M34.00S,1,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Unknown,0,47
+21400271,47,PT06M34.00S,1,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,,,0,h,SUB: Clark FOR Hood,Substitution,,0,48
+21400271,48,PT06M34.00S,1,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,,,0,v,SUB: Williams FOR Vasquez,Substitution,,0,49
+21400271,49,PT06M34.00S,1,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,SUB: Patterson FOR A. Johnson,Substitution,,0,50
+21400271,50,PT06M22.00S,1,1610612762,UTA,202683,Freedom,E. Freedom,26,0,3,Made,1,10.0,9.0,19,h,Freedom 3' Reverse Layup (4 PTS) (Favors 1 AST),Made Shot,Reverse Layup Shot,1,51
+21400271,51,PT06M05.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,-65,178,19,Made,1,10.0,11.0,21,v,Lowry 19' Turnaround Fadeaway (4 PTS),Made Shot,Turnaround Fadeaway shot,1,52
+21400271,52,PT05M57.00S,1,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,53
+21400271,54,PT05M57.00S,1,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,SUB: J. Johnson FOR Ross,Substitution,,0,54
+21400271,55,PT05M49.00S,1,1610612762,UTA,202324,Favors,D. Favors,34,118,12,Made,1,12.0,11.0,23,h,Favors 12' Jump Shot (4 PTS) (Burke 1 AST),Made Shot,Jump Shot,1,55
+21400271,56,PT05M31.00S,1,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,,,0,v,Williams Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,56
+21400271,56,PT05M31.00S,1,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,,,0,h,Freedom STEAL (1 STL),,,1,57
+21400271,57,PT05M25.00S,1,1610612762,UTA,202683,Freedom,E. Freedom,1,0,0,Made,1,14.0,11.0,25,h,Freedom Layup (6 PTS) (Clark 1 AST),Made Shot,Layup Shot,1,58
+21400271,58,PT05M07.00S,1,1610612761,TOR,202335,Patterson,P. Patterson,189,151,24,Made,1,14.0,14.0,28,v,Patterson 24' 3PT Jump Shot (3 PTS) (Lowry 2 AST),Made Shot,Jump Shot,1,59
+21400271,59,PT04M47.00S,1,1610612762,UTA,203504,Burke,T. Burke,-125,216,25,Made,1,17.0,14.0,31,h,Burke 25' 3PT Jump Shot (5 PTS) (Hayward 1 AST),Made Shot,Jump Shot,1,60
+21400271,60,PT04M29.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,43,19,5,Missed,1,,,0,v,MISS Valanciunas 5' Running Hook Shot,Missed Shot,Running Hook Shot,1,61
+21400271,61,PT04M29.00S,1,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Unknown,0,62
+21400271,62,PT04M29.00S,1,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,SUB: Hansbrough FOR Valanciunas,Substitution,,0,63
+21400271,63,PT04M29.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,h,SUB: Booker FOR Favors,Substitution,,0,64
+21400271,64,PT04M20.00S,1,1610612762,UTA,202330,Hayward,G. Hayward,-166,123,21,Missed,1,,,0,h,MISS Hayward 21' Jump Shot,Missed Shot,Jump Shot,1,65
+21400271,65,PT04M18.00S,1,1610612761,TOR,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,v,Hansbrough REBOUND (Off:0 Def:1),Rebound,Unknown,1,66
+21400271,66,PT04M09.00S,1,1610612761,TOR,202335,Patterson,P. Patterson,0,1,0,Made,1,17.0,16.0,33,v,Patterson Jump Hook Shot (5 PTS),Made Shot,Jump Hook Shot,1,67
+21400271,67,PT03M51.00S,1,1610612762,UTA,202330,Hayward,G. Hayward,-116,187,22,Missed,1,,,0,h,MISS Hayward 22' Jump Shot,Missed Shot,Jump Shot,1,68
+21400271,68,PT03M49.00S,1,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,69
+21400271,69,PT03M45.00S,1,1610612762,UTA,203546,Clark,I. Clark,0,0,0,,0,,,0,h,Clark P.FOUL (P1.T2),Foul,Personal,1,70
+21400271,70,PT03M45.00S,1,1610612762,UTA,203546,Clark,I. Clark,0,0,0,,0,,,0,h,SUB: Hood FOR Clark,Substitution,,0,71
+21400271,71,PT03M45.00S,1,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Ingles FOR Hayward,Substitution,,0,72
+21400271,72,PT03M35.00S,1,1610612761,TOR,201949,Johnson,J. Johnson,23,0,2,Made,1,17.0,18.0,35,v,J. Johnson 2' Jump Bank Shot (2 PTS),Made Shot,Jump Bank Shot,1,73
+21400271,73,PT03M21.00S,1,1610612762,UTA,202683,Freedom,E. Freedom,18,4,2,Made,1,19.0,18.0,37,h,Freedom 2' Reverse Layup (8 PTS),Made Shot,Reverse Layup Shot,1,74
+21400271,74,PT03M21.00S,1,1610612761,TOR,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,J. Johnson S.FOUL (P1.T1),Foul,Shooting,1,75
+21400271,75,PT03M21.00S,1,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,20.0,18.0,38,h,Freedom Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,76
+21400271,77,PT03M08.00S,1,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,,,0,h,Hood S.FOUL (P1.T3),Foul,Shooting,1,77
+21400271,78,PT03M08.00S,1,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,20.0,19.0,39,v,Williams Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,78
+21400271,80,PT03M08.00S,1,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,20.0,20.0,40,v,Williams Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,79
+21400271,82,PT02M52.00S,1,1610612761,TOR,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,J. Johnson P.FOUL (P2.T2),Foul,Personal,1,80
+21400271,83,PT02M52.00S,1,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,81
+21400271,85,PT02M52.00S,1,1610612761,TOR,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,SUB: Ross FOR J. Johnson,Substitution,,0,82
+21400271,86,PT02M52.00S,1,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,SUB: Vasquez FOR Lowry,Substitution,,0,83
+21400271,87,PT02M41.00S,1,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,,,0,h,Ingles Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,84
+21400271,87,PT02M41.00S,1,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,,,0,v,Williams STEAL (1 STL),,,1,85
+21400271,88,PT02M35.00S,1,1610612761,TOR,202349,Vasquez,G. Vasquez,-37,33,5,Made,1,20.0,22.0,42,v,Vasquez 5' Running Jump Shot (4 PTS),Made Shot,Running Jump Shot,1,86
+21400271,89,PT02M18.00S,1,1610612762,UTA,202683,Freedom,E. Freedom,-169,-19,17,Missed,1,,,0,h,MISS Freedom 17' Jump Shot,Missed Shot,Jump Shot,1,87
+21400271,90,PT02M17.00S,1,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,1,88
+21400271,91,PT02M07.00S,1,1610612761,TOR,101150,Williams,L. Williams,-166,14,17,Missed,1,,,0,v,MISS Williams 17' Jump Shot,Missed Shot,Jump Shot,1,89
+21400271,92,PT02M06.00S,1,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,,,0,h,Freedom REBOUND (Off:1 Def:3),Rebound,Unknown,1,90
+21400271,93,PT01M55.00S,1,1610612762,UTA,202683,Freedom,E. Freedom,0,1,0,Made,1,22.0,22.0,44,h,Freedom Dunk (11 PTS) (Burke 2 AST),Made Shot,Dunk Shot,1,91
+21400271,94,PT01M36.00S,1,1610612761,TOR,101150,Williams,L. Williams,-29,-6,3,Made,1,22.0,24.0,46,v,Williams 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,92
+21400271,95,PT01M23.00S,1,1610612762,UTA,203918,Hood,R. Hood,233,31,24,Missed,1,,,0,h,MISS Hood 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,93
+21400271,96,PT01M21.00S,1,1610612761,TOR,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,v,Hansbrough REBOUND (Off:0 Def:2),Rebound,Unknown,1,94
+21400271,97,PT01M17.00S,1,1610612761,TOR,202349,Vasquez,G. Vasquez,62,31,7,Made,1,22.0,26.0,48,v,Vasquez 7' Running Bank Shot (6 PTS),Made Shot,Running Bank shot,1,95
+21400271,98,PT01M17.00S,1,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,,,0,h,Burke S.FOUL (P1.T4),Foul,Shooting,1,96
+21400271,99,PT01M17.00S,1,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,,,0,h,SUB: Gobert FOR Freedom,Substitution,,0,97
+21400271,100,PT01M17.00S,1,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,,,0,h,SUB: Exum FOR Burke,Substitution,,0,98
+21400271,101,PT01M17.00S,1,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,,,0,v,MISS Vasquez Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,99
+21400271,103,PT01M16.00S,1,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,Gobert REBOUND (Off:0 Def:1),Rebound,Unknown,1,100
+21400271,104,PT00M59.80S,1,1610612761,TOR,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,v,Hansbrough Violation:Kicked Ball,Violation,Kicked Ball,0,101
+21400271,105,PT00M51.30S,1,1610612761,TOR,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,v,Hansbrough S.FOUL (P1.T3),Foul,Shooting,1,102
+21400271,106,PT00M51.30S,1,1610612762,UTA,202344,Booker,T. Booker,0,0,0,,0,,,0,h,MISS Booker Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,103
+21400271,107,PT00M51.30S,1,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Normal Rebound,0,104
+21400271,108,PT00M51.30S,1,1610612762,UTA,202344,Booker,T. Booker,0,0,0,,0,23.0,26.0,49,h,Booker Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,105
+21400271,110,PT00M51.30S,1,1610612761,TOR,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,v,Hansbrough L.B.FOUL (P2.PN),Foul,Loose Ball,1,106
+21400271,130,PT00M51.30S,1,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,Patterson Violation:Lane,Violation,Lane,0,107
+21400271,113,PT00M51.30S,1,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,24.0,26.0,50,h,Ingles Free Throw 1 of 1 (1 PTS),Free Throw,Free Throw 1 of 1,0,108
+21400271,115,PT00M29.80S,1,1610612761,TOR,203082,Ross,T. Ross,230,39,0,Missed,1,,,0,v,MISS Ross 3PT Jump Shot,Missed Shot,Jump Shot,1,109
+21400271,116,PT00M27.90S,1,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,Ross REBOUND (Off:3 Def:1),Rebound,Unknown,1,110
+21400271,118,PT00M27.90S,1,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,Gobert FLAGRANT.FOUL.TYPE1 (P1.PN),Foul,Flagrant Type 1,1,111
+21400271,119,PT00M27.90S,1,0,,118,,,0,0,0,,0,,,0,,Support Ruling,Instant Replay,Support Ruling,0,112
+21400271,120,PT00M27.90S,1,1610612761,TOR,201946,Hansbrough,T. Hansbrough,0,0,0,,0,24.0,27.0,51,v,Hansbrough Free Throw Flagrant 1 of 2 (1 PTS),Free Throw,Free Throw Flagrant 1 of 2,0,113
+21400271,122,PT00M27.90S,1,1610612761,TOR,201946,Hansbrough,T. Hansbrough,0,0,0,,0,24.0,28.0,52,v,Hansbrough Free Throw Flagrant 2 of 2 (2 PTS),Free Throw,Free Throw Flagrant 2 of 2,0,114
+21400271,125,PT00M06.40S,1,1610612761,TOR,101150,Williams,L. Williams,106,227,25,Made,1,24.0,31.0,55,v,Williams 25' 3PT Jump Shot (7 PTS),Made Shot,Jump Shot,1,115
+21400271,126,PT00M00.30S,1,1610612762,UTA,203918,Hood,R. Hood,94,230,25,Missed,1,,,0,h,MISS Hood 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,116
+21400271,127,PT00M00.00S,1,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Unknown,0,117
+21400271,128,PT00M00.00S,1,0,,0,,,0,0,0,,0,24.0,31.0,55,,End of 1st Period (9:36 PM EST),period,end,0,118
+21400271,132,PT12M00.00S,2,0,,0,,,0,0,0,,0,24.0,31.0,55,,Start of 2nd Period (9:39 PM EST),period,start,0,119
+21400271,133,PT12M00.00S,2,1610612762,UTA,202344,Booker,T. Booker,45,190,20,Made,1,26.0,31.0,57,h,Booker 20' Jump Shot (3 PTS) (Exum 1 AST),Made Shot,Jump Shot,1,120
+21400271,134,PT11M27.00S,2,1610612761,TOR,202335,Patterson,P. Patterson,-5,50,5,Made,1,26.0,33.0,59,v,Patterson 5' Running Jump Shot (7 PTS),Made Shot,Running Jump Shot,1,121
+21400271,135,PT11M11.00S,2,1610612762,UTA,203957,Exum,D. Exum,0,0,0,,0,,,0,h,Exum Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,122
+21400271,135,PT11M11.00S,2,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,Ross STEAL (1 STL),,,1,123
+21400271,136,PT11M05.00S,2,1610612761,TOR,203082,Ross,T. Ross,17,1,2,Made,1,26.0,35.0,61,v,Ross 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,124
+21400271,137,PT10M53.00S,2,1610612762,UTA,204060,Ingles,J. Ingles,80,140,16,Missed,1,,,0,h,MISS Ingles 16' Jump Shot,Missed Shot,Jump Shot,1,125
+21400271,138,PT10M52.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,Gobert REBOUND (Off:1 Def:1),Rebound,Unknown,1,126
+21400271,139,PT10M39.00S,2,1610612762,UTA,203957,Exum,D. Exum,-21,4,2,Made,1,28.0,35.0,63,h,Exum 2' Running Layup (2 PTS) (Ingles 1 AST),Made Shot,Running Layup Shot,1,127
+21400271,140,PT10M39.00S,2,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,Patterson S.FOUL (P1.T1),Foul,Shooting,1,128
+21400271,141,PT10M39.00S,2,1610612761,TOR,201946,Hansbrough,T. Hansbrough,0,0,0,,0,,,0,v,SUB: A. Johnson FOR Hansbrough,Substitution,,0,129
+21400271,142,PT10M39.00S,2,1610612762,UTA,203957,Exum,D. Exum,0,0,0,,0,,,0,h,MISS Exum Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,130
+21400271,144,PT10M37.00S,2,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,Patterson REBOUND (Off:0 Def:1),Rebound,Unknown,1,131
+21400271,145,PT10M21.00S,2,1610612761,TOR,202349,Vasquez,G. Vasquez,127,209,24,Made,1,28.0,38.0,66,v,Vasquez 24' 3PT Jump Shot (9 PTS),Made Shot,Jump Shot,1,132
+21400271,146,PT10M02.00S,2,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson S.FOUL (P1.T2),Foul,Shooting,1,133
+21400271,147,PT10M02.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,29.0,38.0,67,h,Gobert Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,134
+21400271,149,PT10M02.00S,2,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,,,0,h,SUB: Clark FOR Ingles,Substitution,,0,135
+21400271,150,PT10M02.00S,2,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,,,0,v,SUB: Lowry FOR Williams,Substitution,,0,136
+21400271,151,PT10M02.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,30.0,38.0,68,h,Gobert Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,137
+21400271,153,PT09M45.00S,2,1610612761,TOR,202349,Vasquez,G. Vasquez,179,162,24,Made,1,30.0,41.0,71,v,Vasquez 24' 3PT Jump Shot (12 PTS) (Lowry 3 AST),Made Shot,Jump Shot,1,138
+21400271,154,PT09M26.00S,2,1610612762,UTA,203546,Clark,I. Clark,-166,178,24,Missed,1,,,0,h,MISS Clark 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,139
+21400271,155,PT09M24.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,Gobert REBOUND (Off:2 Def:1),Rebound,Unknown,1,140
+21400271,156,PT09M24.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry P.FOUL (P1.T3),Foul,Personal,1,141
+21400271,157,PT09M24.00S,2,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,SUB: Favors FOR Gobert,Substitution,,0,142
+21400271,158,PT09M04.00S,2,1610612762,UTA,202324,Favors,D. Favors,0,1,0,Made,1,32.0,41.0,73,h,Favors Dunk (6 PTS),Made Shot,Dunk Shot,1,143
+21400271,159,PT08M44.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,-158,52,17,Missed,1,,,0,v,MISS Lowry 17' Jump Shot,Missed Shot,Jump Shot,1,144
+21400271,159,PT08M44.00S,2,1610612762,UTA,203957,Exum,D. Exum,0,0,0,,0,,,0,h,Exum BLOCK (1 BLK),,,1,145
+21400271,160,PT08M42.00S,2,1610612762,UTA,203957,Exum,D. Exum,0,0,0,,0,,,0,h,Exum REBOUND (Off:0 Def:1),Rebound,Unknown,1,146
+21400271,161,PT08M33.00S,2,1610612762,UTA,203957,Exum,D. Exum,-190,170,25,Missed,1,,,0,h,MISS Exum 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,147
+21400271,162,PT08M32.00S,2,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,,,0,v,Vasquez REBOUND (Off:0 Def:1),Rebound,Unknown,1,148
+21400271,163,PT08M26.00S,2,1610612761,TOR,202349,Vasquez,G. Vasquez,-32,12,3,Made,1,32.0,43.0,75,v,Vasquez 3' Running Jump Shot (14 PTS),Made Shot,Running Jump Shot,1,149
+21400271,164,PT08M06.00S,2,1610612762,UTA,203546,Clark,I. Clark,0,0,0,,0,,,0,h,Clark Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,150
+21400271,164,PT08M06.00S,2,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson STEAL (1 STL),,,1,151
+21400271,165,PT07M57.00S,2,1610612761,TOR,203082,Ross,T. Ross,184,23,19,Made,1,32.0,45.0,77,v,Ross 19' Jump Shot (6 PTS),Made Shot,Jump Shot,1,152
+21400271,166,PT07M57.00S,2,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,153
+21400271,168,PT07M57.00S,2,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Patterson,Substitution,,0,154
+21400271,169,PT07M57.00S,2,1610612762,UTA,202344,Booker,T. Booker,0,0,0,,0,,,0,h,SUB: Freedom FOR Booker,Substitution,,0,155
+21400271,170,PT07M57.00S,2,1610612762,UTA,203957,Exum,D. Exum,0,0,0,,0,,,0,h,SUB: Burke FOR Exum,Substitution,,0,156
+21400271,171,PT07M57.00S,2,1610612762,UTA,203546,Clark,I. Clark,0,0,0,,0,,,0,h,SUB: Hood FOR Clark,Substitution,,0,157
+21400271,172,PT07M38.00S,2,1610612762,UTA,203504,Burke,T. Burke,31,80,9,Missed,1,,,0,h,MISS Burke 9' Jump Shot,Missed Shot,Jump Shot,1,158
+21400271,173,PT07M37.00S,2,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,1,159
+21400271,174,PT07M20.00S,2,1610612761,TOR,101161,Johnson,A. Johnson,23,41,5,Made,1,32.0,47.0,79,v,A. Johnson 5' Hook Shot (4 PTS) (Vasquez 1 AST),Made Shot,Hook Shot,1,160
+21400271,175,PT06M59.00S,2,1610612762,UTA,203918,Hood,R. Hood,-232,25,0,Missed,1,,,0,h,MISS Hood 3PT Jump Shot,Missed Shot,Jump Shot,1,161
+21400271,176,PT06M58.00S,2,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,,,0,v,Vasquez REBOUND (Off:0 Def:2),Rebound,Unknown,1,162
+21400271,177,PT06M50.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,7,249,25,Made,1,32.0,50.0,82,v,Lowry 25' 3PT Jump Shot (7 PTS) (Vasquez 2 AST),Made Shot,Jump Shot,1,163
+21400271,178,PT06M46.00S,2,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,h,Favors Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,164
+21400271,178,PT06M46.00S,2,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,,,0,v,Vasquez STEAL (1 STL),,,1,165
+21400271,179,PT06M41.00S,2,1610612761,TOR,202349,Vasquez,G. Vasquez,233,9,0,Missed,1,,,0,v,MISS Vasquez 3PT Jump Shot,Missed Shot,Jump Shot,1,166
+21400271,180,PT06M40.00S,2,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson REBOUND (Off:1 Def:2),Rebound,Unknown,1,167
+21400271,181,PT06M29.00S,2,1610612761,TOR,202349,Vasquez,G. Vasquez,39,34,5,Missed,1,,,0,v,MISS Vasquez 5' Running Jump Shot,Missed Shot,Running Jump Shot,1,168
+21400271,182,PT06M28.00S,2,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,169
+21400271,183,PT06M22.00S,2,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson S.FOUL (P2.T4),Foul,Shooting,1,170
+21400271,184,PT06M22.00S,2,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,33.0,50.0,83,h,Hayward Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,171
+21400271,186,PT06M22.00S,2,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,,,0,v,SUB: Williams FOR Vasquez,Substitution,,0,172
+21400271,187,PT06M22.00S,2,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,34.0,50.0,84,h,Hayward Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,173
+21400271,189,PT06M10.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,-46,12,5,Missed,1,,,0,v,MISS Valanciunas 5' Jump Shot,Missed Shot,Jump Shot,1,174
+21400271,189,PT06M10.00S,2,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,,,0,h,Freedom BLOCK (1 BLK),,,1,175
+21400271,190,PT06M07.00S,2,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,,,0,h,Burke REBOUND (Off:0 Def:1),Rebound,Unknown,1,176
+21400271,191,PT06M00.00S,2,1610612762,UTA,202324,Favors,D. Favors,17,-3,2,Made,1,36.0,50.0,86,h,Favors 2' Layup (8 PTS) (Burke 3 AST),Made Shot,Layup Shot,1,177
+21400271,192,PT05M33.00S,2,1610612761,TOR,203082,Ross,T. Ross,-108,0,11,Missed,1,,,0,v,MISS Ross 11' Jump Shot,Missed Shot,Jump Shot,1,178
+21400271,193,PT05M31.00S,2,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,,,0,h,Freedom REBOUND (Off:1 Def:4),Rebound,Unknown,1,179
+21400271,194,PT05M29.00S,2,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,180
+21400271,196,PT05M29.00S,2,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,,,0,h,SUB: Ingles FOR Hood,Substitution,,0,181
+21400271,197,PT05M24.00S,2,1610612762,UTA,202330,Hayward,G. Hayward,-120,211,24,Made,1,39.0,50.0,89,h,Hayward 24' 3PT Jump Shot (5 PTS) (Favors 2 AST),Made Shot,Jump Shot,1,182
+21400271,198,PT05M06.00S,2,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,183
+21400271,198,PT05M06.00S,2,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,,,0,h,Ingles STEAL (1 STL),,,1,184
+21400271,199,PT05M02.00S,2,1610612762,UTA,204060,Ingles,J. Ingles,0,1,0,Made,1,41.0,50.0,91,h,Ingles Dunk (3 PTS) (Favors 3 AST),Made Shot,Dunk Shot,1,185
+21400271,200,PT04M49.00S,2,1610612761,TOR,101150,Williams,L. Williams,24,11,3,Made,1,41.0,52.0,93,v,Williams 3' Layup (9 PTS),Made Shot,Layup Shot,1,186
+21400271,201,PT04M39.00S,2,1610612762,UTA,202330,Hayward,G. Hayward,-4,37,4,Missed,1,,,0,h,MISS Hayward 4' Jump Shot,Missed Shot,Jump Shot,1,187
+21400271,202,PT04M38.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:0 Def:3),Rebound,Unknown,1,188
+21400271,203,PT04M23.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,108,-14,11,Made,1,41.0,54.0,95,v,Valanciunas 11' Jump Shot (3 PTS),Made Shot,Jump Shot,1,189
+21400271,204,PT04M05.00S,2,1610612762,UTA,202683,Freedom,E. Freedom,-10,39,4,Made,1,43.0,54.0,97,h,Freedom 4' Jump Shot (13 PTS),Made Shot,Jump Shot,1,190
+21400271,205,PT03M55.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,191
+21400271,206,PT03M55.00S,2,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,SUB: J. Johnson FOR Ross,Substitution,,0,192
+21400271,207,PT03M55.00S,2,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,193
+21400271,208,PT03M55.00S,2,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,SUB: Patterson FOR A. Johnson,Substitution,,0,194
+21400271,210,PT03M36.00S,2,1610612762,UTA,204060,Ingles,J. Ingles,-169,132,21,Made,1,45.0,54.0,99,h,Ingles 21' Jump Shot (5 PTS) (Freedom 1 AST),Made Shot,Jump Shot,1,195
+21400271,211,PT03M20.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,-78,249,26,Made,1,45.0,57.0,102,v,Lowry 26' 3PT Jump Shot (10 PTS),Made Shot,Jump Shot,1,196
+21400271,212,PT03M02.00S,2,1610612762,UTA,202330,Hayward,G. Hayward,-161,186,25,Missed,1,,,0,h,MISS Hayward 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,197
+21400271,213,PT03M01.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:0 Def:4),Rebound,Unknown,1,198
+21400271,214,PT02M47.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,1,0,Made,1,45.0,59.0,104,v,Valanciunas Slam Dunk (5 PTS) (J. Johnson 1 AST),Made Shot,Slam Dunk Shot,1,199
+21400271,215,PT02M30.00S,2,1610612762,UTA,204060,Ingles,J. Ingles,223,105,25,Missed,1,,,0,h,MISS Ingles 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,200
+21400271,216,PT02M29.00S,2,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,Patterson REBOUND (Off:0 Def:2),Rebound,Unknown,1,201
+21400271,217,PT02M10.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,1,64,6,Made,1,45.0,61.0,106,v,Valanciunas 6' Hook Shot (7 PTS),Made Shot,Hook Shot,1,202
+21400271,218,PT01M54.00S,2,1610612762,UTA,202324,Favors,D. Favors,-130,-8,13,Made,1,47.0,61.0,108,h,Favors 13' Jump Shot (10 PTS),Made Shot,Jump Shot,1,203
+21400271,219,PT01M32.00S,2,1610612761,TOR,200768,Lowry,K. Lowry,-5,33,3,Made,1,47.0,63.0,110,v,Lowry 3' Running Jump Shot (12 PTS),Made Shot,Running Jump Shot,1,204
+21400271,220,PT01M12.00S,2,1610612762,UTA,202324,Favors,D. Favors,-82,4,8,Missed,1,,,0,h,MISS Favors 8' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,205
+21400271,222,PT01M10.00S,2,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,,,0,h,Freedom REBOUND (Off:2 Def:4),Rebound,Unknown,1,206
+21400271,221,PT01M10.00S,2,1610612762,UTA,202683,Freedom,E. Freedom,13,3,1,Made,1,49.0,63.0,112,h,Freedom 1' Layup (15 PTS),Made Shot,Layup Shot,1,207
+21400271,223,PT01M00.00S,2,1610612761,TOR,202335,Patterson,P. Patterson,119,220,25,Made,1,49.0,66.0,115,v,Patterson 25' 3PT Jump Shot (10 PTS) (Williams 1 AST),Made Shot,Jump Shot,1,208
+21400271,224,PT00M39.90S,2,1610612762,UTA,203504,Burke,T. Burke,70,203,21,Made,1,51.0,66.0,117,h,Burke 21' Jump Shot (7 PTS),Made Shot,Jump Shot,1,209
+21400271,225,PT00M30.90S,2,1610612761,TOR,200768,Lowry,K. Lowry,-93,231,25,Made,1,51.0,69.0,120,v,Lowry 25' 3PT Jump Shot (15 PTS) (Valanciunas 1 AST),Made Shot,Jump Shot,1,210
+21400271,226,PT00M10.00S,2,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas S.FOUL (P1.PN),Foul,Shooting,1,211
+21400271,227,PT00M10.00S,2,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,52.0,69.0,121,h,Hayward Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,212
+21400271,231,PT00M10.00S,2,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,,,0,h,SUB: Gobert FOR Freedom,Substitution,,0,213
+21400271,232,PT00M10.00S,2,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,53.0,69.0,122,h,Hayward Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,214
+21400271,234,PT00M00.20S,2,1610612761,TOR,101150,Williams,L. Williams,-152,181,24,Missed,1,,,0,v,MISS Williams 24' Jump Shot,Missed Shot,Jump Shot,1,215
+21400271,235,PT00M00.00S,2,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,0,216
+21400271,236,PT00M00.00S,2,0,,0,,,0,0,0,,0,53.0,69.0,122,,End of 2nd Period (10:03 PM EST),period,end,0,217
+21400271,238,PT12M00.00S,3,0,,0,,,0,0,0,,0,53.0,69.0,122,,Start of 3rd Period (10:18 PM EST),period,start,0,218
+21400271,239,PT11M45.00S,3,1610612762,UTA,203504,Burke,T. Burke,-228,26,0,Made,1,56.0,69.0,125,h,Burke 3PT Jump Shot (10 PTS) (Hayward 2 AST),Made Shot,Jump Shot,1,219
+21400271,240,PT11M20.00S,3,1610612761,TOR,202349,Vasquez,G. Vasquez,-48,26,5,Missed,1,,,0,v,MISS Vasquez 5' Jump Shot,Missed Shot,Jump Shot,1,220
+21400271,241,PT11M19.00S,3,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Unknown,0,221
+21400271,242,PT11M19.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas L.B.FOUL (P2.T1),Foul,Loose Ball,1,222
+21400271,243,PT11M04.00S,3,1610612762,UTA,202324,Favors,D. Favors,69,124,14,Made,1,58.0,69.0,127,h,Favors 14' Jump Shot (12 PTS) (Burke 4 AST),Made Shot,Jump Shot,1,223
+21400271,244,PT10M42.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry Traveling Turnover (P2.T5),Turnover,Traveling,1,224
+21400271,245,PT10M23.00S,3,1610612762,UTA,202324,Favors,D. Favors,51,153,16,Missed,1,,,0,h,MISS Favors 16' Jump Shot,Missed Shot,Jump Shot,1,225
+21400271,246,PT10M21.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry REBOUND (Off:0 Def:2),Rebound,Unknown,1,226
+21400271,247,PT10M13.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,43,60,7,Made,1,58.0,71.0,129,v,Lowry 7' Running Jump Shot (17 PTS),Made Shot,Running Jump Shot,1,227
+21400271,248,PT09M51.00S,3,1610612762,UTA,203504,Burke,T. Burke,88,194,21,Missed,1,,,0,h,MISS Burke 21' Jump Shot,Missed Shot,Jump Shot,1,228
+21400271,249,PT09M50.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,h,Favors REBOUND (Off:1 Def:4),Rebound,Unknown,1,229
+21400271,250,PT09M39.00S,3,1610612762,UTA,202324,Favors,D. Favors,-27,-2,3,Made,1,60.0,71.0,131,h,Favors 3' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,1,230
+21400271,251,PT09M24.00S,3,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,231
+21400271,251,PT09M24.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,h,Favors STEAL (1 STL),,,1,232
+21400271,253,PT09M17.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,151,-5,15,Made,1,62.0,71.0,133,h,Hayward 15' Jump Shot (9 PTS),Made Shot,Jump Shot,1,233
+21400271,254,PT09M16.00S,3,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,234
+21400271,256,PT09M04.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,-67,153,17,Missed,1,,,0,v,MISS Lowry 17' Jump Shot,Missed Shot,Jump Shot,1,235
+21400271,257,PT09M02.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry REBOUND (Off:1 Def:2),Rebound,Unknown,1,236
+21400271,258,PT08M58.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,40,3,4,Made,1,62.0,73.0,135,v,Lowry 4' Driving Layup (19 PTS),Made Shot,Driving Layup Shot,1,237
+21400271,259,PT08M58.00S,3,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,,,0,h,Freedom S.FOUL (P1.T1),Foul,Shooting,1,238
+21400271,260,PT08M58.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,62.0,74.0,136,v,Lowry Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,0,239
+21400271,262,PT08M37.00S,3,1610612762,UTA,203918,Hood,R. Hood,160,187,25,Made,1,65.0,74.0,139,h,Hood 25' 3PT Jump Shot (5 PTS) (Burke 5 AST),Made Shot,Jump Shot,1,240
+21400271,263,PT08M23.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,-163,44,17,Made,1,65.0,76.0,141,v,Lowry 17' Jump Shot (22 PTS),Made Shot,Jump Shot,1,241
+21400271,264,PT08M09.00S,3,1610612762,UTA,203504,Burke,T. Burke,86,156,18,Made,1,67.0,76.0,143,h,Burke 18' Jump Shot (12 PTS),Made Shot,Jump Shot,1,242
+21400271,265,PT07M49.00S,3,1610612761,TOR,203082,Ross,T. Ross,136,208,25,Made,1,67.0,79.0,146,v,Ross 25' 3PT Jump Shot (9 PTS) (Lowry 4 AST),Made Shot,Jump Shot,1,243
+21400271,266,PT07M33.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,1,0,Made,1,69.0,79.0,148,h,Favors Slam Dunk (16 PTS) (Burke 6 AST),Made Shot,Slam Dunk Shot,1,244
+21400271,267,PT07M14.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,-187,6,19,Missed,1,,,0,v,MISS Lowry 19' Jump Shot,Missed Shot,Jump Shot,1,245
+21400271,268,PT07M11.00S,3,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,0,246
+21400271,269,PT07M11.00S,3,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,,,0,v,SUB: Williams FOR Vasquez,Substitution,,0,247
+21400271,270,PT07M11.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,SUB: Patterson FOR Valanciunas,Substitution,,0,248
+21400271,271,PT07M11.00S,3,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,h,SUB: Gobert FOR Favors,Substitution,,0,249
+21400271,272,PT06M58.00S,3,1610612761,TOR,203082,Ross,T. Ross,226,55,0,Missed,1,,,0,v,MISS Ross 3PT Jump Shot,Missed Shot,Jump Shot,1,250
+21400271,273,PT06M56.00S,3,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson REBOUND (Off:2 Def:2),Rebound,Unknown,1,251
+21400271,274,PT06M56.00S,3,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,Gobert S.FOUL (P2.T2),Foul,Shooting,1,252
+21400271,275,PT06M56.00S,3,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,69.0,80.0,149,v,A. Johnson Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,253
+21400271,277,PT06M56.00S,3,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,MISS A. Johnson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,254
+21400271,279,PT06M55.00S,3,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,Gobert REBOUND (Off:2 Def:2),Rebound,Unknown,1,255
+21400271,280,PT06M46.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,17,6,2,Missed,1,,,0,h,MISS Hayward 2' Driving Layup,Missed Shot,Driving Layup Shot,1,256
+21400271,282,PT06M44.00S,3,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,Gobert REBOUND (Off:3 Def:2),Rebound,Unknown,1,257
+21400271,281,PT06M44.00S,3,1610612762,UTA,203497,Gobert,R. Gobert,2,17,2,Made,1,71.0,80.0,151,h,Gobert 2' Tip Shot (4 PTS),Made Shot,Tip Shot,1,258
+21400271,283,PT06M30.00S,3,1610612761,TOR,101161,Johnson,A. Johnson,-5,85,9,Made,1,71.0,82.0,153,v,A. Johnson 9' Jump Shot (7 PTS) (Williams 2 AST),Made Shot,Jump Shot,1,259
+21400271,284,PT06M10.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,163,85,18,Made,1,73.0,82.0,155,h,Hayward 18' Jump Shot (11 PTS),Made Shot,Jump Shot,1,260
+21400271,285,PT05M53.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,86,181,20,Missed,1,,,0,v,MISS Lowry 20' Jump Shot,Missed Shot,Jump Shot,1,261
+21400271,286,PT05M52.00S,3,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,,,0,h,Hood REBOUND (Off:0 Def:1),Rebound,Unknown,1,262
+21400271,287,PT05M32.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,263
+21400271,287,PT05M32.00S,3,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson STEAL (2 STL),,,1,264
+21400271,288,PT05M28.00S,3,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,,,0,h,Hood S.FOUL (P2.T3),Foul,Shooting,1,265
+21400271,289,PT05M28.00S,3,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,73.0,83.0,156,v,Ross Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,266
+21400271,291,PT05M28.00S,3,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,,,0,h,SUB: Ingles FOR Hood,Substitution,,0,267
+21400271,292,PT05M28.00S,3,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,SUB: Valanciunas FOR A. Johnson,Substitution,,0,268
+21400271,293,PT05M28.00S,3,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,73.0,84.0,157,v,Ross Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,269
+21400271,295,PT05M11.00S,3,1610612762,UTA,203504,Burke,T. Burke,102,231,25,Missed,1,,,0,h,MISS Burke 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,270
+21400271,296,PT05M09.00S,3,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,,,0,h,Freedom REBOUND (Off:3 Def:4),Rebound,Unknown,1,271
+21400271,297,PT04M59.00S,3,1610612762,UTA,202683,Freedom,E. Freedom,-174,0,17,Missed,1,,,0,h,MISS Freedom 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,272
+21400271,298,PT04M57.00S,3,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,1,273
+21400271,299,PT04M46.00S,3,1610612761,TOR,202335,Patterson,P. Patterson,225,42,0,Missed,1,,,0,v,MISS Patterson 3PT Jump Shot,Missed Shot,Jump Shot,1,274
+21400271,300,PT04M45.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:2),Rebound,Unknown,1,275
+21400271,301,PT04M41.00S,3,1610612762,UTA,203504,Burke,T. Burke,20,3,2,Missed,1,,,0,h,MISS Burke 2' Layup,Missed Shot,Layup Shot,1,276
+21400271,303,PT04M37.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:2),Rebound,Unknown,1,277
+21400271,302,PT04M37.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,0,1,0,Made,1,75.0,84.0,159,h,Hayward Putback Slam Dunk (13 PTS),Made Shot,Putback Slam Dunk Shot,1,278
+21400271,304,PT04M23.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,-18,36,4,Missed,1,,,0,v,MISS Lowry 4' Jump Shot,Missed Shot,Jump Shot,1,279
+21400271,305,PT04M23.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry REBOUND (Off:2 Def:2),Rebound,Unknown,1,280
+21400271,306,PT04M23.00S,3,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,Gobert S.FOUL (P3.T4),Foul,Shooting,1,281
+21400271,307,PT04M23.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,75.0,85.0,160,v,Lowry Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,282
+21400271,309,PT04M23.00S,3,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,SUB: J. Johnson FOR Ross,Substitution,,0,283
+21400271,310,PT04M23.00S,3,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,,,0,h,SUB: Favors FOR Freedom,Substitution,,0,284
+21400271,311,PT04M23.00S,3,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,SUB: Booker FOR Gobert,Substitution,,0,285
+21400271,312,PT04M23.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,75.0,86.0,161,v,Lowry Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,286
+21400271,314,PT04M02.00S,3,1610612762,UTA,203504,Burke,T. Burke,-90,242,26,Missed,1,,,0,h,MISS Burke 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,287
+21400271,315,PT04M01.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:0 Def:5),Rebound,Unknown,1,288
+21400271,316,PT03M53.00S,3,1610612761,TOR,101150,Williams,L. Williams,-183,0,18,Made,1,75.0,88.0,163,v,Williams 18' Fadeaway Jumper (11 PTS),Made Shot,Fadeaway Jump Shot,1,289
+21400271,317,PT03M51.00S,3,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,290
+21400271,319,PT03M51.00S,3,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,SUB: Vasquez FOR Lowry,Substitution,,0,291
+21400271,320,PT03M37.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,174,138,22,Missed,1,,,0,h,MISS Hayward 22' Jump Shot,Missed Shot,Jump Shot,1,292
+21400271,321,PT03M35.00S,3,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,Valanciunas REBOUND (Off:0 Def:6),Rebound,Unknown,1,293
+21400271,322,PT03M26.00S,3,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,,,0,h,Ingles P.FOUL (P1.PN),Foul,Personal,1,294
+21400271,323,PT03M26.00S,3,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,75.0,89.0,164,v,Williams Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,295
+21400271,325,PT03M26.00S,3,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,75.0,90.0,165,v,Williams Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,296
+21400271,327,PT03M05.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,225,22,0,Missed,1,,,0,h,MISS Hayward 3PT Jump Shot,Missed Shot,Jump Shot,1,297
+21400271,328,PT03M03.00S,3,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:4),Rebound,Unknown,1,298
+21400271,329,PT03M00.00S,3,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,,,0,h,Burke P.FOUL (P2.PN),Foul,Personal,1,299
+21400271,330,PT03M00.00S,3,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,75.0,91.0,166,v,Williams Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,300
+21400271,332,PT03M00.00S,3,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,,,0,h,SUB: Exum FOR Burke,Substitution,,0,301
+21400271,333,PT03M00.00S,3,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,75.0,92.0,167,v,Williams Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,302
+21400271,335,PT02M40.00S,3,1610612762,UTA,204060,Ingles,J. Ingles,236,66,25,Missed,1,,,0,h,MISS Ingles 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,303
+21400271,337,PT02M37.00S,3,1610612762,UTA,202344,Booker,T. Booker,0,0,0,,0,,,0,h,Booker REBOUND (Off:1 Def:0),Rebound,Unknown,1,304
+21400271,336,PT02M37.00S,3,1610612762,UTA,202344,Booker,T. Booker,17,7,2,Made,1,77.0,92.0,169,h,Booker 2' Tip Shot (5 PTS),Made Shot,Tip Shot,1,305
+21400271,338,PT02M20.00S,3,1610612761,TOR,101150,Williams,L. Williams,-93,19,9,Made,1,77.0,94.0,171,v,Williams 9' Running Jump Shot (17 PTS),Made Shot,Running Jump Shot,1,306
+21400271,339,PT02M06.00S,3,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,,,0,v,Williams P.FOUL (P1.T2),Foul,Personal,1,307
+21400271,340,PT02M00.00S,3,1610612762,UTA,202330,Hayward,G. Hayward,9,247,25,Made,1,80.0,94.0,174,h,Hayward 25' 3PT Jump Shot (16 PTS),Made Shot,Jump Shot,1,308
+21400271,341,PT01M42.00S,3,1610612761,TOR,202335,Patterson,P. Patterson,230,42,0,Made,1,80.0,97.0,177,v,Patterson 3PT Jump Shot (13 PTS) (J. Johnson 2 AST),Made Shot,Jump Shot,1,309
+21400271,342,PT01M23.00S,3,1610612762,UTA,202344,Booker,T. Booker,-27,19,3,Missed,1,,,0,h,MISS Booker 3' Layup,Missed Shot,Layup Shot,1,310
+21400271,343,PT01M22.00S,3,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,Patterson REBOUND (Off:0 Def:3),Rebound,Unknown,1,311
+21400271,344,PT01M15.00S,3,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,,,0,v,Williams Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,312
+21400271,344,PT01M15.00S,3,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,,,0,h,Ingles STEAL (2 STL),,,1,313
+21400271,345,PT01M10.00S,3,1610612762,UTA,204060,Ingles,J. Ingles,0,1,0,Made,1,82.0,97.0,179,h,Ingles Dunk (7 PTS),Made Shot,Dunk Shot,1,314
+21400271,346,PT00M51.90S,3,1610612761,TOR,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,J. Johnson Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,315
+21400271,346,PT00M51.90S,3,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward STEAL (1 STL),,,1,316
+21400271,347,PT00M50.20S,3,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,Patterson P.FOUL (P2.T3),Foul,Personal,1,317
+21400271,349,PT00M27.90S,3,1610612762,UTA,203957,Exum,D. Exum,141,211,25,Missed,1,,,0,h,MISS Exum 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,318
+21400271,350,PT00M26.90S,3,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,0,319
+21400271,351,PT00M00.90S,3,1610612761,TOR,101150,Williams,L. Williams,54,242,25,Missed,1,,,0,v,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,320
+21400271,352,PT00M00.00S,3,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,1,321
+21400271,353,PT00M00.00S,3,0,,0,,,0,0,0,,0,82.0,97.0,179,,End of 3rd Period (10:43 PM EST),period,end,0,322
+21400271,355,PT12M00.00S,4,0,,0,,,0,0,0,,0,82.0,97.0,179,,Start of 4th Period (10:45 PM EST),period,start,0,323
+21400271,356,PT11M42.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,-7,61,6,Missed,1,,,0,v,MISS Lowry 6' Running Jump Shot,Missed Shot,Running Jump Shot,1,324
+21400271,356,PT11M42.00S,4,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,Gobert BLOCK (1 BLK),,,1,325
+21400271,357,PT11M40.00S,4,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,Gobert REBOUND (Off:3 Def:3),Rebound,Unknown,1,326
+21400271,358,PT11M21.00S,4,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,,,0,v,Williams S.FOUL (P2.T1),Foul,Shooting,1,327
+21400271,359,PT11M21.00S,4,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,83.0,97.0,180,h,Hood Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,328
+21400271,361,PT11M21.00S,4,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,84.0,97.0,181,h,Hood Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,329
+21400271,363,PT10M59.00S,4,1610612761,TOR,201949,Johnson,J. Johnson,31,19,4,Missed,1,,,0,v,MISS J. Johnson 4' Jump Shot,Missed Shot,Jump Shot,1,330
+21400271,363,PT10M59.00S,4,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,Gobert BLOCK (2 BLK),,,1,331
+21400271,364,PT10M56.00S,4,1610612761,TOR,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,J. Johnson REBOUND (Off:1 Def:0),Rebound,Unknown,1,332
+21400271,365,PT10M40.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,-8,1,1,Made,1,84.0,99.0,183,v,Valanciunas 1' Reverse Layup (9 PTS),Made Shot,Reverse Layup Shot,1,333
+21400271,366,PT10M25.00S,4,1610612762,UTA,202344,Booker,T. Booker,0,0,0,,0,,,0,h,Booker Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,334
+21400271,366,PT10M25.00S,4,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,,,0,v,Williams STEAL (2 STL),,,1,335
+21400271,367,PT10M18.00S,4,1610612761,TOR,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,SUB: Ross FOR J. Johnson,Substitution,,0,336
+21400271,368,PT10M12.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,7,47,5,Missed,1,,,0,v,MISS Valanciunas 5' Jump Shot,Missed Shot,Jump Shot,1,337
+21400271,368,PT10M12.00S,4,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,Gobert BLOCK (3 BLK),,,1,338
+21400271,369,PT10M09.00S,4,1610612762,UTA,202344,Booker,T. Booker,0,0,0,,0,,,0,h,Booker REBOUND (Off:1 Def:1),Rebound,Unknown,1,339
+21400271,370,PT10M05.00S,4,1610612762,UTA,202344,Booker,T. Booker,-5,7,1,Missed,1,,,0,h,MISS Booker 1' Layup,Missed Shot,Layup Shot,1,340
+21400271,372,PT10M03.00S,4,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,Gobert REBOUND (Off:4 Def:3),Rebound,Unknown,1,341
+21400271,371,PT10M03.00S,4,1610612762,UTA,203497,Gobert,R. Gobert,1,20,2,Made,1,86.0,99.0,185,h,Gobert 2' Layup (6 PTS),Made Shot,Layup Shot,1,342
+21400271,373,PT09M37.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,-45,9,5,Missed,1,,,0,v,MISS Lowry 5' Jump Shot,Missed Shot,Jump Shot,1,343
+21400271,374,PT09M37.00S,4,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,0,344
+21400271,375,PT09M37.00S,4,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,Gobert L.B.FOUL (P4.T1),Foul,Loose Ball,1,345
+21400271,376,PT09M37.00S,4,1610612762,UTA,202344,Booker,T. Booker,0,0,0,,0,,,0,h,SUB: Hayward FOR Booker,Substitution,,0,346
+21400271,377,PT09M27.00S,4,1610612761,TOR,101150,Williams,L. Williams,-76,108,13,Missed,1,,,0,v,MISS Williams 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,347
+21400271,378,PT09M24.00S,4,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:3),Rebound,Unknown,1,348
+21400271,379,PT09M06.00S,4,1610612762,UTA,204060,Ingles,J. Ingles,-43,6,4,Made,1,88.0,99.0,187,h,Ingles 4' Jump Shot (9 PTS),Made Shot,Jump Shot,1,349
+21400271,380,PT08M49.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,-40,178,18,Made,1,88.0,101.0,189,v,Lowry 18' Jump Shot (26 PTS),Made Shot,Jump Shot,1,350
+21400271,381,PT08M25.00S,4,1610612762,UTA,204060,Ingles,J. Ingles,-76,236,25,Missed,1,,,0,h,MISS Ingles 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,351
+21400271,382,PT08M24.00S,4,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:5),Rebound,Unknown,1,352
+21400271,383,PT08M09.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,-57,242,25,Missed,1,,,0,v,MISS Lowry 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,353
+21400271,384,PT08M07.00S,4,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,0,354
+21400271,385,PT08M07.00S,4,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,355
+21400271,387,PT08M07.00S,4,1610612761,TOR,101150,Williams,L. Williams,0,0,0,,0,,,0,v,SUB: Vasquez FOR Williams,Substitution,,0,356
+21400271,388,PT08M07.00S,4,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,,,0,h,SUB: Freedom FOR Hood,Substitution,,0,357
+21400271,389,PT07M48.00S,4,1610612761,TOR,202349,Vasquez,G. Vasquez,28,15,3,Missed,1,,,0,v,MISS Vasquez 3' Jump Shot,Missed Shot,Jump Shot,1,358
+21400271,390,PT07M46.00S,4,1610612762,UTA,203957,Exum,D. Exum,0,0,0,,0,,,0,h,Exum REBOUND (Off:0 Def:2),Rebound,Unknown,1,359
+21400271,391,PT07M38.00S,4,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,Ross P.FOUL (P1.T2),Foul,Personal,1,360
+21400271,392,PT07M26.00S,4,1610612762,UTA,202330,Hayward,G. Hayward,-93,230,25,Missed,1,,,0,h,MISS Hayward 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,361
+21400271,393,PT07M23.00S,4,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,,,0,v,Vasquez REBOUND (Off:0 Def:3),Rebound,Unknown,1,362
+21400271,394,PT07M09.00S,4,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,,,0,h,Ingles S.FOUL (P2.T2),Foul,Shooting,1,363
+21400271,395,PT07M09.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,88.0,102.0,190,v,Lowry Free Throw 1 of 3 (27 PTS),Free Throw,Free Throw 1 of 3,0,364
+21400271,397,PT07M09.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,88.0,103.0,191,v,Lowry Free Throw 2 of 3 (28 PTS),Free Throw,Free Throw 2 of 3,0,365
+21400271,399,PT07M09.00S,4,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,SUB: A. Johnson FOR Patterson,Substitution,,0,366
+21400271,400,PT07M09.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,88.0,104.0,192,v,Lowry Free Throw 3 of 3 (29 PTS),Free Throw,Free Throw 3 of 3,0,367
+21400271,402,PT06M55.00S,4,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,,,0,h,Freedom Offensive Charge Foul (P2),Foul,Offensive Charge,1,368
+21400271,403,PT06M55.00S,4,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,,,0,h,Freedom Foul Turnover (P1.T7),Turnover,Foul,1,369
+21400271,404,PT06M55.00S,4,1610612762,UTA,203957,Exum,D. Exum,0,0,0,,0,,,0,h,SUB: Burke FOR Exum,Substitution,,0,370
+21400271,405,PT06M55.00S,4,1610612762,UTA,203497,Gobert,R. Gobert,0,0,0,,0,,,0,h,SUB: Favors FOR Gobert,Substitution,,0,371
+21400271,406,PT06M46.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,-7,4,1,Made,1,88.0,106.0,194,v,Lowry 1' Layup (31 PTS) (A. Johnson 1 AST),Made Shot,Layup Shot,1,372
+21400271,407,PT06M35.00S,4,1610612762,UTA,204060,Ingles,J. Ingles,195,151,25,Made,1,91.0,106.0,197,h,Ingles 25' 3PT Jump Shot (12 PTS) (Burke 7 AST),Made Shot,Jump Shot,1,373
+21400271,408,PT06M20.00S,4,1610612761,TOR,101161,Johnson,A. Johnson,-43,44,6,Missed,1,,,0,v,MISS A. Johnson 6' Hook Shot,Missed Shot,Hook Shot,1,374
+21400271,409,PT06M17.00S,4,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,,,0,h,Burke REBOUND (Off:0 Def:2),Rebound,Unknown,1,375
+21400271,410,PT06M01.00S,4,1610612762,UTA,203504,Burke,T. Burke,-229,-2,0,Made,1,94.0,106.0,200,h,Burke 3PT Jump Shot (15 PTS) (Hayward 3 AST),Made Shot,Jump Shot,1,376
+21400271,411,PT05M55.00S,4,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,377
+21400271,413,PT05M55.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,SUB: J. Johnson FOR Lowry,Substitution,,0,378
+21400271,414,PT05M40.00S,4,1610612761,TOR,101161,Johnson,A. Johnson,21,61,6,Made,1,94.0,108.0,202,v,A. Johnson 6' Running Jump Shot (9 PTS),Made Shot,Running Jump Shot,1,379
+21400271,415,PT05M22.00S,4,1610612762,UTA,203504,Burke,T. Burke,-60,241,25,Missed,1,,,0,h,MISS Burke 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,380
+21400271,416,PT05M20.00S,4,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,,,0,v,Vasquez REBOUND (Off:0 Def:4),Rebound,Unknown,1,381
+21400271,417,PT05M18.00S,4,1610612761,TOR,202349,Vasquez,G. Vasquez,0,0,0,,0,,,0,v,Vasquez Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,382
+21400271,417,PT05M18.00S,4,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,,,0,h,Burke STEAL (1 STL),,,1,383
+21400271,418,PT05M12.00S,4,1610612762,UTA,202683,Freedom,E. Freedom,24,3,2,Missed,1,,,0,h,MISS Freedom 2' Layup,Missed Shot,Layup Shot,1,384
+21400271,418,PT05M12.00S,4,1610612761,TOR,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,J. Johnson BLOCK (1 BLK),,,1,385
+21400271,419,PT05M09.00S,4,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,h,Favors REBOUND (Off:2 Def:4),Rebound,Unknown,1,386
+21400271,420,PT05M05.00S,4,1610612762,UTA,202683,Freedom,E. Freedom,0,1,0,Made,1,96.0,108.0,204,h,Freedom Dunk (17 PTS) (Favors 4 AST),Made Shot,Dunk Shot,1,387
+21400271,421,PT04M48.00S,4,1610612761,TOR,202349,Vasquez,G. Vasquez,86,236,25,Made,1,96.0,111.0,207,v,Vasquez 25' 3PT Jump Shot (17 PTS),Made Shot,Jump Shot,1,388
+21400271,422,PT04M33.00S,4,1610612762,UTA,204060,Ingles,J. Ingles,230,37,0,Missed,1,,,0,h,MISS Ingles 3PT Jump Shot,Missed Shot,Jump Shot,1,389
+21400271,423,PT04M31.00S,4,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,,,0,h,Freedom REBOUND (Off:4 Def:4),Rebound,Unknown,1,390
+21400271,424,PT04M30.00S,4,1610612762,UTA,202683,Freedom,E. Freedom,4,45,5,Made,1,98.0,111.0,209,h,Freedom 5' Fadeaway Jumper (19 PTS),Made Shot,Fadeaway Jump Shot,1,391
+21400271,425,PT04M30.00S,4,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson S.FOUL (P3.T3),Foul,Shooting,1,392
+21400271,426,PT04M30.00S,4,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,,,0,h,SUB: Hood FOR Ingles,Substitution,,0,393
+21400271,427,PT04M30.00S,4,1610612761,TOR,203082,Ross,T. Ross,0,0,0,,0,,,0,v,SUB: Lowry FOR Ross,Substitution,,0,394
+21400271,429,PT04M30.00S,4,1610612761,TOR,202685,Valanciunas,J. Valanciunas,0,0,0,,0,,,0,v,SUB: Patterson FOR Valanciunas,Substitution,,0,395
+21400271,430,PT04M30.00S,4,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,,,0,h,MISS Freedom Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,396
+21400271,432,PT04M29.00S,4,1610612761,TOR,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,J. Johnson REBOUND (Off:1 Def:1),Rebound,Unknown,1,397
+21400271,433,PT04M14.00S,4,1610612761,TOR,101161,Johnson,A. Johnson,-10,0,1,Made,1,98.0,113.0,211,v,A. Johnson 1' Alley Oop Layup (11 PTS) (Vasquez 3 AST),Made Shot,Alley Oop Layup shot,1,398
+21400271,434,PT03M55.00S,4,1610612762,UTA,203504,Burke,T. Burke,-57,241,25,Missed,1,,,0,h,MISS Burke 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,399
+21400271,435,PT03M54.00S,4,1610612761,TOR,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,J. Johnson REBOUND (Off:1 Def:2),Rebound,Unknown,1,400
+21400271,436,PT03M32.00S,4,1610612761,TOR,101161,Johnson,A. Johnson,111,213,24,Missed,1,,,0,v,MISS A. Johnson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,401
+21400271,437,PT03M31.00S,4,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,,,0,h,Freedom REBOUND (Off:4 Def:5),Rebound,Unknown,1,402
+21400271,438,PT03M23.00S,4,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,403
+21400271,440,PT03M09.00S,4,1610612762,UTA,202330,Hayward,G. Hayward,-48,28,6,Missed,1,,,0,h,MISS Hayward 6' Running Jump Shot,Missed Shot,Running Jump Shot,1,404
+21400271,440,PT03M09.00S,4,1610612761,TOR,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,J. Johnson BLOCK (2 BLK),,,1,405
+21400271,441,PT03M08.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry REBOUND (Off:2 Def:3),Rebound,Unknown,1,406
+21400271,442,PT03M02.00S,4,1610612761,TOR,202349,Vasquez,G. Vasquez,-174,175,25,Missed,1,,,0,v,MISS Vasquez 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,407
+21400271,443,PT03M01.00S,4,1610612762,UTA,203918,Hood,R. Hood,0,0,0,,0,,,0,h,Hood REBOUND (Off:0 Def:2),Rebound,Unknown,1,408
+21400271,444,PT02M45.00S,4,1610612762,UTA,202324,Favors,D. Favors,31,4,3,Made,1,100.0,113.0,213,h,Favors 3' Jump Bank Shot (18 PTS) (Burke 8 AST),Made Shot,Jump Bank Shot,1,409
+21400271,445,PT02M45.00S,4,1610612761,TOR,202335,Patterson,P. Patterson,0,0,0,,0,,,0,v,Patterson S.FOUL (P3.T4),Foul,Shooting,1,410
+21400271,446,PT02M45.00S,4,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,101.0,113.0,214,h,Favors Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,0,411
+21400271,448,PT02M29.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,-174,184,25,Made,1,101.0,116.0,217,v,Lowry 25' 3PT Jump Shot (34 PTS) (Vasquez 4 AST),Made Shot,Jump Shot,1,412
+21400271,449,PT02M15.00S,4,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,,,0,h,Burke Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,413
+21400271,449,PT02M15.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,Lowry STEAL (1 STL),,,1,414
+21400271,450,PT01M58.00S,4,1610612761,TOR,200768,Lowry,K. Lowry,-210,44,21,Made,1,101.0,118.0,219,v,Lowry 21' Jump Shot (36 PTS),Made Shot,Jump Shot,1,415
+21400271,451,PT01M44.00S,4,1610612762,UTA,203918,Hood,R. Hood,-210,143,25,Made,1,104.0,118.0,222,h,Hood 25' 3PT Jump Shot (10 PTS) (Favors 5 AST),Made Shot,Jump Shot,1,416
+21400271,452,PT01M26.00S,4,1610612761,TOR,101161,Johnson,A. Johnson,1,3,0,Made,1,104.0,120.0,224,v,A. Johnson Layup (13 PTS) (Vasquez 5 AST),Made Shot,Layup Shot,1,417
+21400271,453,PT01M10.00S,4,1610612762,UTA,203918,Hood,R. Hood,236,55,24,Missed,1,,,0,h,MISS Hood 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,418
+21400271,454,PT01M08.00S,4,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,,,0,h,Burke REBOUND (Off:1 Def:2),Rebound,Unknown,1,419
+21400271,455,PT01M01.00S,4,1610612762,UTA,202324,Favors,D. Favors,-15,4,2,Missed,1,,,0,h,MISS Favors 2' Layup,Missed Shot,Layup Shot,1,420
+21400271,456,PT00M59.90S,4,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,A. Johnson REBOUND (Off:2 Def:3),Rebound,Unknown,1,421
+21400271,457,PT00M41.40S,4,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,h,Favors S.FOUL (P2.T3),Foul,Shooting,1,422
+21400271,458,PT00M41.40S,4,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,104.0,121.0,225,v,Lowry Free Throw 1 of 3 (37 PTS),Free Throw,Free Throw 1 of 3,1,423
+21400271,460,PT00M41.40S,4,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,104.0,122.0,226,v,Lowry Free Throw 2 of 3 (38 PTS),Free Throw,Free Throw 2 of 3,1,424
+21400271,466,PT00M41.40S,4,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,104.0,123.0,227,v,Lowry Free Throw 3 of 3 (39 PTS),Free Throw,Free Throw 3 of 3,1,425
+21400271,462,PT00M41.40S,4,1610612762,UTA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Ingles FOR Hayward,Substitution,,0,426
+21400271,463,PT00M41.40S,4,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,h,SUB: Clark FOR Favors,Substitution,,0,427
+21400271,464,PT00M41.40S,4,1610612762,UTA,202683,Freedom,E. Freedom,0,0,0,,0,,,0,h,SUB: Exum FOR Freedom,Substitution,,0,428
+21400271,465,PT00M41.40S,4,1610612762,UTA,203504,Burke,T. Burke,0,0,0,,0,,,0,h,SUB: Gobert FOR Burke,Substitution,,0,429
+21400271,467,PT00M21.90S,4,1610612762,UTA,203546,Clark,I. Clark,144,168,22,Missed,1,,,0,h,MISS Clark 22' Jump Shot,Missed Shot,Jump Shot,1,430
+21400271,468,PT00M19.90S,4,0,,1610612761,,,0,0,0,,0,,,0,v,Raptors Rebound,Rebound,Unknown,0,431
+21400271,469,PT00M19.50S,4,1610612761,TOR,101161,Johnson,A. Johnson,0,0,0,,0,,,0,v,SUB: Stiemsma FOR A. Johnson,Substitution,,0,432
+21400271,470,PT00M19.50S,4,1610612761,TOR,200768,Lowry,K. Lowry,0,0,0,,0,,,0,v,SUB: Ross FOR Lowry,Substitution,,0,433
+21400271,472,PT00M00.00S,4,0,,0,,,0,0,0,,0,104.0,123.0,227,,End of 4th Period (11:11 PM EST),period,end,0,434

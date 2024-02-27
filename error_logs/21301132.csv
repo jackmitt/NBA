@@ -1,0 +1,452 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+21301132,1,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (7:41 PM EST),period,start,0,1
+21301132,2,PT12M00.00S,1,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,0.0,0.0,0,h,Jump Ball Millsap vs. Hawes: Tip to,Jump Ball,,0,2
+21301132,3,PT11M48.00S,1,1610612739,CLE,202681,Irving,K. Irving,147,149,21,Missed,1,0.0,0.0,0,v,MISS Irving 21' Jump Shot,Missed Shot,Jump Shot,0,3
+21301132,4,PT11M46.00S,1,1610612737,ATL,2594,Korver,K. Korver,0,0,0,,0,0.0,0.0,0,h,Korver REBOUND (Off:0 Def:1),Rebound,Unknown,0,4
+21301132,5,PT11M22.00S,1,1610612737,ATL,200794,Millsap,P. Millsap,170,190,25,Made,1,3.0,0.0,3,h,Millsap 25' 3PT Jump Shot (3 PTS) (Teague 1 AST),Made Shot,Jump Shot,0,5
+21301132,6,PT11M09.00S,1,1610612739,CLE,2736,Deng,L. Deng,102,233,25,Missed,1,0.0,0.0,0,v,MISS Deng 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,6
+21301132,7,PT11M08.00S,1,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Unknown,0,7
+21301132,9,PT10M59.00S,1,1610612737,ATL,2594,Korver,K. Korver,45,239,24,Missed,1,0.0,0.0,0,h,MISS Korver 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,8
+21301132,10,PT10M57.00S,1,1610612739,CLE,201150,Hawes,S. Hawes,0,0,0,,0,0.0,0.0,0,v,Hawes REBOUND (Off:0 Def:1),Rebound,Unknown,0,9
+21301132,11,PT10M46.00S,1,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0.0,0.0,0,v,Irving Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,0,10
+21301132,13,PT10M29.00S,1,1610612737,ATL,200794,Millsap,P. Millsap,13,0,1,Made,1,5.0,0.0,5,h,Millsap 1' Driving Slam Dunk (5 PTS) (Teague 2 AST),Made Shot,Driving Slam Dunk Shot,0,11
+21301132,14,PT10M08.00S,1,1610612737,ATL,201952,Teague,J. Teague,0,0,0,,0,0.0,0.0,0,h,Teague S.FOUL (P1.T1),Foul,Shooting,0,12
+21301132,15,PT10M08.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,5.0,1.0,6,v,Thompson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,13
+21301132,17,PT10M08.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,5.0,2.0,7,v,Thompson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,14
+21301132,19,PT09M57.00S,1,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0.0,0.0,0,v,Irving P.FOUL (P1.T1),Foul,Personal,0,15
+21301132,20,PT09M48.00S,1,1610612737,ATL,201960,Carroll,D. Carroll,237,7,24,Missed,1,0.0,0.0,0,h,MISS Carroll 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,16
+21301132,21,PT09M46.00S,1,1610612737,ATL,203544,Antic,P. Antic,0,0,0,,0,0.0,0.0,0,h,Antic REBOUND (Off:1 Def:0),Rebound,Unknown,0,17
+21301132,22,PT09M43.00S,1,1610612737,ATL,201960,Carroll,D. Carroll,234,31,24,Made,1,8.0,2.0,10,h,Carroll 24' 3PT Jump Shot (3 PTS) (Teague 3 AST),Made Shot,Jump Shot,0,18
+21301132,23,PT09M23.00S,1,1610612739,CLE,203079,Waiters,D. Waiters,217,4,22,Made,1,8.0,4.0,12,v,Waiters 22' Jump Shot (2 PTS) (Irving 1 AST),Made Shot,Jump Shot,0,19
+21301132,24,PT09M15.00S,1,1610612737,ATL,200794,Millsap,P. Millsap,-11,11,2,Made,1,10.0,4.0,14,h,Millsap 2' Layup (7 PTS) (Teague 4 AST),Made Shot,Layup Shot,0,20
+21301132,26,PT08M55.00S,1,1610612739,CLE,203079,Waiters,D. Waiters,23,246,25,Made,1,10.0,7.0,17,v,Waiters 25' 3PT Jump Shot (5 PTS) (Hawes 1 AST),Made Shot,Jump Shot,0,21
+21301132,27,PT08M39.00S,1,1610612737,ATL,201952,Teague,J. Teague,-122,214,25,Made,1,13.0,7.0,20,h,Teague 25' 3PT Jump Shot (3 PTS) (Antic 1 AST),Made Shot,Jump Shot,0,22
+21301132,28,PT08M38.00S,1,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,v,Cavaliers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,23
+21301132,32,PT08M18.00S,1,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,0.0,0.0,0,v,Waiters Offensive Charge Foul (P1.T2),Foul,Offensive Charge,0,24
+21301132,33,PT08M18.00S,1,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,0.0,0.0,0,v,Waiters Foul Turnover (P1.T2),Turnover,Foul,0,25
+21301132,34,PT08M02.00S,1,1610612737,ATL,2594,Korver,K. Korver,-198,148,25,Missed,1,0.0,0.0,0,h,MISS Korver 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,26
+21301132,35,PT08M01.00S,1,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0.0,0.0,0,v,Irving REBOUND (Off:0 Def:1),Rebound,Unknown,0,27
+21301132,36,PT07M47.00S,1,1610612739,CLE,202681,Irving,K. Irving,124,146,19,Made,1,13.0,9.0,22,v,Irving 19' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,0,28
+21301132,37,PT07M27.00S,1,1610612737,ATL,203544,Antic,P. Antic,23,1,2,Missed,1,0.0,0.0,0,h,MISS Antic 2' Driving Layup,Missed Shot,Driving Layup Shot,0,29
+21301132,39,PT07M26.00S,1,1610612737,ATL,203544,Antic,P. Antic,0,0,0,,0,0.0,0.0,0,h,Antic REBOUND (Off:2 Def:0),Rebound,Unknown,0,30
+21301132,38,PT07M26.00S,1,1610612737,ATL,203544,Antic,P. Antic,13,7,1,Made,1,15.0,9.0,24,h,Antic 1' Tip Shot (2 PTS),Made Shot,Tip Shot,0,31
+21301132,40,PT07M19.00S,1,1610612739,CLE,203079,Waiters,D. Waiters,-84,192,21,Made,1,15.0,11.0,26,v,Waiters 21' Jump Shot (7 PTS),Made Shot,Jump Shot,0,32
+21301132,41,PT07M00.00S,1,1610612737,ATL,203544,Antic,P. Antic,-171,131,22,Made,1,17.0,11.0,28,h,Antic 22' Jump Shot (4 PTS) (Millsap 1 AST),Made Shot,Jump Shot,0,33
+21301132,42,PT06M40.00S,1,1610612739,CLE,201150,Hawes,S. Hawes,0,0,0,,0,0.0,0.0,0,v,Hawes Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,34
+21301132,42,PT06M40.00S,1,1610612737,ATL,201960,Carroll,D. Carroll,0,0,0,,0,0.0,0.0,0,h,Carroll STEAL (1 STL),,,0,35
+21301132,43,PT06M31.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,v,Thompson P.FOUL (P1.T3),Foul,Personal,0,36
+21301132,44,PT06M21.00S,1,1610612739,CLE,201150,Hawes,S. Hawes,0,0,0,,0,0.0,0.0,0,v,Hawes S.FOUL (P1.T4),Foul,Shooting,0,37
+21301132,45,PT06M21.00S,1,1610612737,ATL,203544,Antic,P. Antic,0,0,0,,0,18.0,11.0,29,h,Antic Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,38
+21301132,47,PT06M21.00S,1,1610612737,ATL,203544,Antic,P. Antic,0,0,0,,0,19.0,11.0,30,h,Antic Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,39
+21301132,50,PT06M06.00S,1,1610612739,CLE,2736,Deng,L. Deng,-7,1,1,Missed,1,0.0,0.0,0,v,MISS Deng 1' Layup,Missed Shot,Layup Shot,0,40
+21301132,51,PT06M03.00S,1,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,0.0,0.0,0,h,Millsap REBOUND (Off:0 Def:1),Rebound,Unknown,0,41
+21301132,52,PT06M00.00S,1,1610612737,ATL,200794,Millsap,P. Millsap,20,1,2,Made,1,21.0,11.0,32,h,Millsap 2' Running Layup (9 PTS),Made Shot,Running Layup Shot,0,42
+21301132,53,PT05M52.00S,1,1610612739,CLE,203079,Waiters,D. Waiters,-139,211,25,Made,1,21.0,14.0,35,v,Waiters 25' 3PT Jump Shot (10 PTS) (Irving 2 AST),Made Shot,Jump Shot,0,43
+21301132,54,PT05M44.00S,1,1610612737,ATL,2594,Korver,K. Korver,-231,30,0,Made,1,24.0,14.0,38,h,Korver  3PT Jump Shot (3 PTS) (Teague 5 AST),Made Shot,Jump Shot,0,44
+21301132,55,PT05M29.00S,1,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,0.0,0.0,0,h,Millsap S.FOUL (P1.T2),Foul,Shooting,0,45
+21301132,56,PT05M29.00S,1,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0.0,0.0,0,v,MISS Irving Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,46
+21301132,57,PT05M29.00S,1,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,47
+21301132,58,PT05M29.00S,1,1610612739,CLE,201150,Hawes,S. Hawes,0,0,0,,0,0.0,0.0,0,v,SUB: Varejao FOR Hawes,Substitution,,0,48
+21301132,59,PT05M29.00S,1,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,24.0,15.0,39,v,Irving Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,49
+21301132,62,PT05M05.00S,1,1610612737,ATL,201960,Carroll,D. Carroll,-26,244,25,Missed,1,0.0,0.0,0,h,MISS Carroll 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,50
+21301132,63,PT05M04.00S,1,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0.0,0.0,0,v,Irving REBOUND (Off:0 Def:2),Rebound,Unknown,0,51
+21301132,64,PT04M54.00S,1,1610612737,ATL,203544,Antic,P. Antic,0,0,0,,0,0.0,0.0,0,h,Antic P.FOUL (P1.T3),Foul,Personal,0,52
+21301132,65,PT04M54.00S,1,1610612737,ATL,203544,Antic,P. Antic,0,0,0,,0,0.0,0.0,0,h,SUB: Brand FOR Antic,Substitution,,0,53
+21301132,66,PT04M54.00S,1,1610612737,ATL,2594,Korver,K. Korver,0,0,0,,0,0.0,0.0,0,h,SUB: Williams FOR Korver,Substitution,,0,54
+21301132,67,PT04M47.00S,1,1610612739,CLE,2760,Varejao,A. Varejao,121,123,17,Missed,1,0.0,0.0,0,v,MISS Varejao 17' Jump Shot,Missed Shot,Jump Shot,0,55
+21301132,68,PT04M45.00S,1,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,v,Cavaliers Rebound,Rebound,Unknown,0,56
+21301132,69,PT04M32.00S,1,1610612739,CLE,2736,Deng,L. Deng,21,47,5,Missed,1,0.0,0.0,0,v,MISS Deng 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,0,57
+21301132,70,PT04M31.00S,1,1610612737,ATL,201960,Carroll,D. Carroll,0,0,0,,0,0.0,0.0,0,h,Carroll REBOUND (Off:0 Def:1),Rebound,Unknown,0,58
+21301132,71,PT04M14.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,v,Thompson P.FOUL (P2.PN),Foul,Personal,0,59
+21301132,72,PT04M14.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,v,SUB: Hawes FOR Thompson,Substitution,,0,60
+21301132,73,PT04M14.00S,1,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,0.0,0.0,0,v,SUB: Dellavedova FOR Waiters,Substitution,,0,61
+21301132,74,PT03M58.00S,1,1610612737,ATL,1882,Brand,E. Brand,-114,-3,11,Made,1,26.0,15.0,41,h,Brand 11' Jump Shot (2 PTS) (Williams 1 AST),Made Shot,Jump Shot,0,62
+21301132,76,PT03M45.00S,1,1610612739,CLE,201150,Hawes,S. Hawes,15,247,25,Missed,1,0.0,0.0,0,v,MISS Hawes 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,63
+21301132,77,PT03M43.00S,1,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,0.0,0.0,0,h,Millsap REBOUND (Off:0 Def:2),Rebound,Unknown,0,64
+21301132,78,PT03M42.00S,1,1610612739,CLE,2760,Varejao,A. Varejao,0,0,0,,0,0.0,0.0,0,v,Varejao P.FOUL (P1.PN),Foul,Personal,0,65
+21301132,79,PT03M42.00S,1,1610612739,CLE,2736,Deng,L. Deng,0,0,0,,0,0.0,0.0,0,v,SUB: Jack FOR Deng,Substitution,,0,66
+21301132,80,PT03M42.00S,1,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,0.0,0.0,0,h,MISS Millsap Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,67
+21301132,81,PT03M42.00S,1,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Normal Rebound,0,68
+21301132,82,PT03M42.00S,1,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,27.0,15.0,42,h,Millsap Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,69
+21301132,85,PT03M23.00S,1,1610612739,CLE,101127,Jack,J. Jack,21,151,15,Made,1,27.0,17.0,44,v,Jack 15' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,0,70
+21301132,86,PT03M14.00S,1,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,71
+21301132,88,PT03M14.00S,1,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,0.0,0.0,0,h,SUB: Scott FOR Millsap,Substitution,,0,72
+21301132,89,PT03M03.00S,1,1610612737,ATL,203118,Scott,M. Scott,152,198,25,Made,1,30.0,17.0,47,h,Scott 25' 3PT Jump Shot (3 PTS) (Brand 1 AST),Made Shot,Jump Shot,0,73
+21301132,90,PT02M45.00S,1,1610612739,CLE,202681,Irving,K. Irving,-93,181,20,Missed,1,0.0,0.0,0,v,MISS Irving 20' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,74
+21301132,91,PT02M43.00S,1,1610612737,ATL,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,h,Brand REBOUND (Off:0 Def:1),Rebound,Unknown,0,75
+21301132,92,PT02M30.00S,1,1610612737,ATL,201952,Teague,J. Teague,154,201,25,Missed,1,0.0,0.0,0,h,MISS Teague 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,76
+21301132,93,PT02M28.00S,1,1610612739,CLE,2760,Varejao,A. Varejao,0,0,0,,0,0.0,0.0,0,v,Varejao REBOUND (Off:0 Def:1),Rebound,Unknown,0,77
+21301132,94,PT02M18.00S,1,1610612739,CLE,101127,Jack,J. Jack,173,108,20,Made,1,30.0,19.0,49,v,Jack 20' Jump Shot (4 PTS),Made Shot,Jump Shot,0,78
+21301132,95,PT02M08.00S,1,1610612739,CLE,203521,Dellavedova,M. Dellavedova,0,0,0,,0,0.0,0.0,0,v,Dellavedova S.FOUL (P1.PN),Foul,Shooting,0,79
+21301132,96,PT02M08.00S,1,1610612737,ATL,201952,Teague,J. Teague,0,0,0,,0,31.0,19.0,50,h,Teague Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,80
+21301132,98,PT02M08.00S,1,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0.0,0.0,0,v,SUB: Gee FOR Irving,Substitution,,0,81
+21301132,99,PT02M08.00S,1,1610612737,ATL,201952,Teague,J. Teague,0,0,0,,0,32.0,19.0,51,h,Teague Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,82
+21301132,101,PT01M55.00S,1,1610612739,CLE,203521,Dellavedova,M. Dellavedova,6,88,9,Made,1,32.0,21.0,53,v,Dellavedova 9' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,0,83
+21301132,102,PT01M40.00S,1,1610612737,ATL,203118,Scott,M. Scott,18,3,2,Missed,1,0.0,0.0,0,h,MISS Scott 2' Layup,Missed Shot,Layup Shot,0,84
+21301132,103,PT01M38.00S,1,1610612739,CLE,2760,Varejao,A. Varejao,0,0,0,,0,0.0,0.0,0,v,Varejao REBOUND (Off:0 Def:2),Rebound,Unknown,0,85
+21301132,104,PT01M22.00S,1,1610612739,CLE,202087,Gee,A. Gee,-30,48,6,Made,1,32.0,23.0,55,v,Gee 6' Hook Shot (2 PTS) (Hawes 2 AST),Made Shot,Hook Shot,0,86
+21301132,105,PT01M09.00S,1,1610612737,ATL,203118,Scott,M. Scott,-175,44,18,Made,1,34.0,23.0,57,h,Scott 18' Jump Shot (5 PTS) (Teague 6 AST),Made Shot,Jump Shot,0,87
+21301132,106,PT01M01.00S,1,1610612739,CLE,203521,Dellavedova,M. Dellavedova,-18,33,4,Missed,1,0.0,0.0,0,v,MISS Dellavedova 4' Driving Jump Shot,Missed Shot,Driving Jump shot,0,88
+21301132,107,PT00M59.30S,1,1610612737,ATL,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,h,Brand REBOUND (Off:0 Def:2),Rebound,Unknown,0,89
+21301132,108,PT00M59.30S,1,1610612737,ATL,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,h,Brand Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,90
+21301132,109,PT00M59.30S,1,1610612737,ATL,201960,Carroll,D. Carroll,0,0,0,,0,0.0,0.0,0,h,SUB: Schroder FOR Carroll,Substitution,,0,91
+21301132,110,PT00M59.30S,1,1610612737,ATL,201952,Teague,J. Teague,0,0,0,,0,0.0,0.0,0,h,SUB: Korver FOR Teague,Substitution,,0,92
+21301132,112,PT00M52.90S,1,1610612739,CLE,101127,Jack,J. Jack,97,236,26,Missed,1,0.0,0.0,0,v,MISS Jack 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,93
+21301132,113,PT00M51.90S,1,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Unknown,0,94
+21301132,114,PT00M37.10S,1,1610612737,ATL,101150,Williams,L. Williams,-78,238,25,Made,1,37.0,23.0,60,h,Williams 25' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,0,95
+21301132,115,PT00M25.80S,1,1610612739,CLE,2760,Varejao,A. Varejao,-26,37,5,Missed,1,0.0,0.0,0,v,MISS Varejao 5' Hook Shot,Missed Shot,Hook Shot,0,96
+21301132,116,PT00M23.90S,1,1610612737,ATL,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,h,Brand REBOUND (Off:0 Def:3),Rebound,Unknown,0,97
+21301132,117,PT00M04.10S,1,1610612737,ATL,203118,Scott,M. Scott,21,4,2,Made,1,39.0,23.0,62,h,Scott 2' Driving Layup (7 PTS) (Williams 2 AST),Made Shot,Driving Layup Shot,0,98
+21301132,118,PT00M00.00S,1,1610612739,CLE,101127,Jack,J. Jack,53,342,35,Missed,1,0.0,0.0,0,v,MISS Jack 35' 3PT Jump Shot,Missed Shot,Jump Shot,0,99
+21301132,119,PT00M00.00S,1,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,v,Cavaliers Rebound,Rebound,Unknown,0,100
+21301132,120,PT00M00.00S,1,0,,0,,,0,0,0,,0,39.0,23.0,62,,End of 1st Period (8:07 PM EST),period,end,0,101
+21301132,122,PT12M00.00S,2,0,,0,,,0,0,0,,0,39.0,23.0,62,,Start of 2nd Period (8:09 PM EST),period,start,0,102
+21301132,124,PT11M38.00S,2,1610612737,ATL,203118,Scott,M. Scott,-130,4,13,Made,1,41.0,23.0,64,h,Scott 13' Turnaround Fadeaway (9 PTS) (Williams 3 AST),Made Shot,Turnaround Fadeaway shot,0,103
+21301132,125,PT11M25.00S,2,1610612739,CLE,203079,Waiters,D. Waiters,-183,56,19,Missed,1,0.0,0.0,0,v,MISS Waiters 19' Jump Shot,Missed Shot,Jump Shot,0,104
+21301132,126,PT11M22.00S,2,1610612737,ATL,203118,Scott,M. Scott,0,0,0,,0,0.0,0.0,0,h,Scott REBOUND (Off:0 Def:1),Rebound,Unknown,0,105
+21301132,127,PT11M14.00S,2,1610612737,ATL,1882,Brand,E. Brand,-125,104,16,Missed,1,0.0,0.0,0,h,MISS Brand 16' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,106
+21301132,128,PT11M13.00S,2,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Unknown,0,107
+21301132,129,PT10M58.00S,2,1610612737,ATL,203118,Scott,M. Scott,-4,9,1,Made,1,43.0,23.0,66,h,Scott 1' Layup (11 PTS) (Korver 1 AST),Made Shot,Layup Shot,0,108
+21301132,130,PT10M58.00S,2,1610612739,CLE,203521,Dellavedova,M. Dellavedova,0,0,0,,0,0.0,0.0,0,v,Dellavedova S.FOUL (P2.T1),Foul,Shooting,0,109
+21301132,131,PT10M58.00S,2,1610612737,ATL,203118,Scott,M. Scott,0,0,0,,0,44.0,23.0,67,h,Scott Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,110
+21301132,133,PT10M45.00S,2,1610612739,CLE,2760,Varejao,A. Varejao,130,140,19,Made,1,44.0,25.0,69,v,Varejao 19' Jump Shot (2 PTS) (Dellavedova 1 AST),Made Shot,Jump Shot,0,111
+21301132,134,PT10M30.00S,2,1610612737,ATL,2594,Korver,K. Korver,-224,42,0,Missed,1,0.0,0.0,0,h,MISS Korver  3PT Jump Shot,Missed Shot,Jump Shot,0,112
+21301132,135,PT10M29.00S,2,1610612739,CLE,101127,Jack,J. Jack,0,0,0,,0,0.0,0.0,0,v,Jack REBOUND (Off:0 Def:1),Rebound,Unknown,0,113
+21301132,136,PT10M21.00S,2,1610612739,CLE,101127,Jack,J. Jack,-15,72,7,Missed,1,0.0,0.0,0,v,MISS Jack 7' Jump Shot,Missed Shot,Jump Shot,0,114
+21301132,137,PT10M19.00S,2,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,0.0,0.0,0,v,Gee REBOUND (Off:1 Def:0),Rebound,Unknown,0,115
+21301132,138,PT10M19.00S,2,1610612739,CLE,202087,Gee,A. Gee,3,1,0,Missed,1,0.0,0.0,0,v,MISS Gee  Putback Layup,Missed Shot,Putback Layup Shot,0,116
+21301132,139,PT10M18.00S,2,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,0.0,0.0,0,v,Gee REBOUND (Off:2 Def:0),Rebound,Unknown,0,117
+21301132,140,PT10M18.00S,2,1610612739,CLE,202087,Gee,A. Gee,1,7,1,Made,1,44.0,27.0,71,v,Gee 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,0,118
+21301132,141,PT10M18.00S,2,1610612737,ATL,203118,Scott,M. Scott,0,0,0,,0,0.0,0.0,0,h,Scott S.FOUL (P1.T1),Foul,Shooting,0,119
+21301132,142,PT10M18.00S,2,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,44.0,28.0,72,v,Gee Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,120
+21301132,144,PT09M53.00S,2,1610612737,ATL,203471,Schroder,D. Schroder,231,45,24,Missed,1,0.0,0.0,0,h,MISS Schroder 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,121
+21301132,145,PT09M53.00S,2,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Unknown,0,122
+21301132,146,PT09M53.00S,2,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Turnover: Shot Clock (T#2),Turnover,Shot Clock Turnover,0,123
+21301132,147,PT09M32.00S,2,1610612739,CLE,203079,Waiters,D. Waiters,23,19,3,Missed,1,0.0,0.0,0,v,MISS Waiters 3' Driving Layup,Missed Shot,Driving Layup Shot,0,124
+21301132,148,PT09M32.00S,2,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Unknown,0,125
+21301132,149,PT09M19.00S,2,1610612737,ATL,101150,Williams,L. Williams,184,201,27,Made,1,47.0,28.0,75,h,Williams 27' 3PT Jump Shot (6 PTS) (Korver 2 AST),Made Shot,Jump Shot,0,126
+21301132,150,PT09M19.00S,2,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,v,Cavaliers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,127
+21301132,154,PT09M07.00S,2,1610612739,CLE,203079,Waiters,D. Waiters,-48,176,18,Missed,1,0.0,0.0,0,v,MISS Waiters 18' Jump Shot,Missed Shot,Jump Shot,0,128
+21301132,155,PT09M06.00S,2,1610612737,ATL,101150,Williams,L. Williams,0,0,0,,0,0.0,0.0,0,h,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,129
+21301132,156,PT08M48.00S,2,1610612737,ATL,203471,Schroder,D. Schroder,-70,36,8,Missed,1,0.0,0.0,0,h,MISS Schroder 8' Driving Jump Shot,Missed Shot,Driving Jump shot,0,130
+21301132,156,PT08M48.00S,2,1610612739,CLE,101127,Jack,J. Jack,0,0,0,,0,0.0,0.0,0,v,Jack BLOCK (1 BLK),,,0,131
+21301132,157,PT08M48.00S,2,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Unknown,0,132
+21301132,158,PT08M48.00S,2,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,0.0,0.0,0,v,SUB: Deng FOR Gee,Substitution,,0,133
+21301132,159,PT08M45.00S,2,1610612737,ATL,203118,Scott,M. Scott,-157,110,19,Made,1,49.0,28.0,77,h,Scott 19' Jump Shot (14 PTS) (Korver 3 AST),Made Shot,Jump Shot,0,134
+21301132,160,PT08M34.00S,2,1610612737,ATL,203471,Schroder,D. Schroder,0,0,0,,0,0.0,0.0,0,h,Schroder P.FOUL (P1.T2),Foul,Personal,0,135
+21301132,161,PT08M26.00S,2,1610612739,CLE,2760,Varejao,A. Varejao,0,74,7,Missed,1,0.0,0.0,0,v,MISS Varejao 7' Running Hook Shot,Missed Shot,Running Hook Shot,0,136
+21301132,162,PT08M24.00S,2,1610612737,ATL,2594,Korver,K. Korver,0,0,0,,0,0.0,0.0,0,h,Korver REBOUND (Off:0 Def:2),Rebound,Unknown,0,137
+21301132,163,PT08M15.00S,2,1610612737,ATL,101150,Williams,L. Williams,152,143,21,Made,1,51.0,28.0,79,h,Williams 21' Jump Shot (8 PTS),Made Shot,Jump Shot,0,138
+21301132,164,PT07M54.00S,2,1610612737,ATL,2594,Korver,K. Korver,0,0,0,,0,0.0,0.0,0,h,Korver S.FOUL (P1.T3),Foul,Shooting,0,139
+21301132,165,PT07M54.00S,2,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,51.0,29.0,80,v,Waiters Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,140
+21301132,167,PT07M54.00S,2,1610612739,CLE,2760,Varejao,A. Varejao,0,0,0,,0,0.0,0.0,0,v,SUB: Irving FOR Varejao,Substitution,,0,141
+21301132,168,PT07M54.00S,2,1610612739,CLE,203521,Dellavedova,M. Dellavedova,0,0,0,,0,0.0,0.0,0,v,SUB: Thompson FOR Dellavedova,Substitution,,0,142
+21301132,169,PT07M54.00S,2,1610612739,CLE,101127,Jack,J. Jack,0,0,0,,0,0.0,0.0,0,v,SUB: Hawes FOR Jack,Substitution,,0,143
+21301132,170,PT07M54.00S,2,1610612737,ATL,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,h,SUB: Muscala FOR Brand,Substitution,,0,144
+21301132,171,PT07M54.00S,2,1610612737,ATL,203118,Scott,M. Scott,0,0,0,,0,0.0,0.0,0,h,SUB: Millsap FOR Scott,Substitution,,0,145
+21301132,172,PT07M54.00S,2,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,51.0,30.0,81,v,Waiters Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,146
+21301132,174,PT07M47.00S,2,1610612737,ATL,203488,Muscala,M. Muscala,0,0,0,,0,0.0,0.0,0,h,Muscala Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,147
+21301132,174,PT07M47.00S,2,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0.0,0.0,0,v,Irving STEAL (1 STL),,,0,148
+21301132,175,PT07M41.00S,2,1610612739,CLE,202681,Irving,K. Irving,0,3,0,Made,1,51.0,32.0,83,v,Irving  Running Layup (5 PTS),Made Shot,Running Layup Shot,0,149
+21301132,176,PT07M22.00S,2,1610612737,ATL,2594,Korver,K. Korver,151,137,20,Made,1,53.0,32.0,85,h,Korver 20' Jump Shot (5 PTS) (Millsap 2 AST),Made Shot,Jump Shot,0,150
+21301132,177,PT07M08.00S,2,1610612739,CLE,201150,Hawes,S. Hawes,106,225,25,Missed,1,0.0,0.0,0,v,MISS Hawes 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,151
+21301132,178,PT07M07.00S,2,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,0.0,0.0,0,h,Millsap REBOUND (Off:0 Def:3),Rebound,Unknown,0,152
+21301132,179,PT07M00.00S,2,1610612737,ATL,101150,Williams,L. Williams,0,0,0,,0,0.0,0.0,0,h,Williams Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,153
+21301132,179,PT07M00.00S,2,1610612739,CLE,201150,Hawes,S. Hawes,0,0,0,,0,0.0,0.0,0,v,Hawes STEAL (1 STL),,,0,154
+21301132,180,PT06M46.00S,2,1610612739,CLE,202681,Irving,K. Irving,-87,209,23,Missed,1,0.0,0.0,0,v,MISS Irving 23' Jump Shot,Missed Shot,Jump Shot,0,155
+21301132,181,PT06M45.00S,2,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,0.0,0.0,0,h,Millsap REBOUND (Off:0 Def:4),Rebound,Unknown,0,156
+21301132,182,PT06M33.00S,2,1610612737,ATL,203471,Schroder,D. Schroder,0,0,0,,0,0.0,0.0,0,h,Schroder Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,157
+21301132,182,PT06M33.00S,2,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0.0,0.0,0,v,Irving STEAL (2 STL),,,0,158
+21301132,183,PT06M27.00S,2,1610612739,CLE,203079,Waiters,D. Waiters,-4,3,1,Made,1,53.0,34.0,87,v,Waiters 1' Running Dunk (14 PTS) (Irving 3 AST),Made Shot,Running Dunk Shot,0,159
+21301132,184,PT06M26.00S,2,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,160
+21301132,187,PT06M26.00S,2,1610612737,ATL,101150,Williams,L. Williams,0,0,0,,0,0.0,0.0,0,h,SUB: Teague FOR Williams,Substitution,,0,161
+21301132,188,PT06M26.00S,2,1610612737,ATL,203471,Schroder,D. Schroder,0,0,0,,0,0.0,0.0,0,h,SUB: Carroll FOR Schroder,Substitution,,0,162
+21301132,189,PT06M05.00S,2,1610612737,ATL,203488,Muscala,M. Muscala,-86,4,9,Made,1,55.0,34.0,89,h,Muscala 9' Jump Shot (2 PTS) (Carroll 1 AST),Made Shot,Jump Shot,0,163
+21301132,190,PT05M49.00S,2,1610612737,ATL,201952,Teague,J. Teague,0,0,0,,0,0.0,0.0,0,h,Teague S.FOUL (P2.T4),Foul,Shooting,0,164
+21301132,191,PT05M49.00S,2,1610612739,CLE,2736,Deng,L. Deng,0,0,0,,0,55.0,35.0,90,v,Deng Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,165
+21301132,193,PT05M49.00S,2,1610612739,CLE,2736,Deng,L. Deng,0,0,0,,0,55.0,36.0,91,v,Deng Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,166
+21301132,195,PT05M41.00S,2,1610612737,ATL,203488,Muscala,M. Muscala,-54,160,17,Missed,1,0.0,0.0,0,h,MISS Muscala 17' Jump Shot,Missed Shot,Jump Shot,0,167
+21301132,196,PT05M40.00S,2,1610612739,CLE,2736,Deng,L. Deng,0,0,0,,0,0.0,0.0,0,v,Deng REBOUND (Off:0 Def:1),Rebound,Unknown,0,168
+21301132,197,PT05M32.00S,2,1610612739,CLE,203079,Waiters,D. Waiters,4,23,2,Missed,1,0.0,0.0,0,v,MISS Waiters 2' Driving Layup,Missed Shot,Driving Layup Shot,0,169
+21301132,198,PT05M31.00S,2,1610612737,ATL,201952,Teague,J. Teague,0,0,0,,0,0.0,0.0,0,h,Teague REBOUND (Off:0 Def:1),Rebound,Unknown,0,170
+21301132,200,PT05M18.00S,2,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,0.0,0.0,0,h,Millsap Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,171
+21301132,200,PT05M18.00S,2,1610612739,CLE,201150,Hawes,S. Hawes,0,0,0,,0,0.0,0.0,0,v,Hawes STEAL (2 STL),,,0,172
+21301132,201,PT05M12.00S,2,1610612739,CLE,2736,Deng,L. Deng,138,216,26,Missed,1,0.0,0.0,0,v,MISS Deng 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,173
+21301132,202,PT05M11.00S,2,1610612737,ATL,203488,Muscala,M. Muscala,0,0,0,,0,0.0,0.0,0,h,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,174
+21301132,203,PT05M11.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,v,Thompson P.FOUL (P3.T2),Foul,Personal,0,175
+21301132,204,PT05M11.00S,2,1610612737,ATL,203488,Muscala,M. Muscala,0,0,0,,0,0.0,0.0,0,h,SUB: Antic FOR Muscala,Substitution,,0,176
+21301132,205,PT05M11.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,v,SUB: Varejao FOR Thompson,Substitution,,0,177
+21301132,206,PT05M01.00S,2,1610612737,ATL,2594,Korver,K. Korver,0,0,0,,0,0.0,0.0,0,h,Korver Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,178
+21301132,206,PT05M01.00S,2,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0.0,0.0,0,v,Irving STEAL (3 STL),,,0,179
+21301132,207,PT04M56.00S,2,1610612739,CLE,202681,Irving,K. Irving,-5,1,1,Missed,1,0.0,0.0,0,v,MISS Irving 1' Running Layup,Missed Shot,Running Layup Shot,0,180
+21301132,208,PT04M55.00S,2,1610612737,ATL,203544,Antic,P. Antic,0,0,0,,0,0.0,0.0,0,h,Antic REBOUND (Off:2 Def:1),Rebound,Unknown,0,181
+21301132,209,PT04M38.00S,2,1610612737,ATL,201952,Teague,J. Teague,0,0,0,,0,0.0,0.0,0,h,Teague Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,182
+21301132,209,PT04M38.00S,2,1610612739,CLE,201150,Hawes,S. Hawes,0,0,0,,0,0.0,0.0,0,v,Hawes STEAL (3 STL),,,0,183
+21301132,210,PT04M34.00S,2,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,0.0,0.0,0,h,Millsap S.FOUL (P2.PN),Foul,Shooting,0,184
+21301132,211,PT04M34.00S,2,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,55.0,37.0,92,v,Waiters Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,185
+21301132,213,PT04M34.00S,2,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,55.0,38.0,93,v,Waiters Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,186
+21301132,216,PT04M11.00S,2,1610612737,ATL,201952,Teague,J. Teague,28,78,8,Missed,1,0.0,0.0,0,h,MISS Teague 8' Driving Jump Shot,Missed Shot,Driving Jump shot,0,187
+21301132,217,PT04M11.00S,2,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,v,Cavaliers Rebound,Rebound,Unknown,0,188
+21301132,218,PT04M11.00S,2,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,0.0,0.0,0,h,Millsap L.B.FOUL (P3.PN),Foul,Loose Ball,0,189
+21301132,219,PT04M11.00S,2,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Violation: Delay of game Violation,Violation,Delay Of Game,0,190
+21301132,220,PT04M11.00S,2,1610612739,CLE,2760,Varejao,A. Varejao,0,0,0,,0,55.0,39.0,94,v,Varejao Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,191
+21301132,222,PT04M11.00S,2,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,0.0,0.0,0,h,SUB: Scott FOR Millsap,Substitution,,0,192
+21301132,223,PT04M11.00S,2,1610612739,CLE,2760,Varejao,A. Varejao,0,0,0,,0,0.0,0.0,0,v,MISS Varejao Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,193
+21301132,225,PT04M09.00S,2,1610612737,ATL,201960,Carroll,D. Carroll,0,0,0,,0,0.0,0.0,0,h,Carroll REBOUND (Off:0 Def:2),Rebound,Unknown,0,194
+21301132,227,PT03M45.00S,2,1610612737,ATL,201952,Teague,J. Teague,239,7,24,Missed,1,0.0,0.0,0,h,MISS Teague 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,195
+21301132,228,PT03M43.00S,2,1610612739,CLE,2760,Varejao,A. Varejao,0,0,0,,0,0.0,0.0,0,v,Varejao REBOUND (Off:0 Def:3),Rebound,Unknown,0,196
+21301132,229,PT03M36.00S,2,1610612739,CLE,201150,Hawes,S. Hawes,-11,31,3,Made,1,55.0,41.0,96,v,Hawes 3' Running Jump Shot (2 PTS) (Waiters 1 AST),Made Shot,Running Jump Shot,0,197
+21301132,230,PT03M32.00S,2,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Timeout: Short (Full 2 Short 1),Timeout,Short,0,198
+21301132,232,PT03M20.00S,2,1610612737,ATL,203118,Scott,M. Scott,0,0,0,,0,0.0,0.0,0,h,Scott Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,199
+21301132,232,PT03M20.00S,2,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0.0,0.0,0,v,Irving STEAL (4 STL),,,0,200
+21301132,233,PT03M05.00S,2,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,0.0,0.0,0,v,Waiters Step Out of Bounds Turnover (P2.T4),Turnover,Step Out of Bounds Turnover,0,201
+21301132,234,PT02M51.00S,2,1610612737,ATL,203118,Scott,M. Scott,43,28,5,Made,1,57.0,41.0,98,h,Scott 5' Jump Shot (16 PTS) (Teague 7 AST),Made Shot,Jump Shot,0,202
+21301132,235,PT02M34.00S,2,1610612739,CLE,2736,Deng,L. Deng,2,12,1,Made,1,57.0,43.0,100,v,Deng 1' Layup (4 PTS) (Hawes 3 AST),Made Shot,Layup Shot,0,203
+21301132,236,PT02M26.00S,2,1610612737,ATL,2594,Korver,K. Korver,-232,53,24,Missed,1,0.0,0.0,0,h,MISS Korver 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,204
+21301132,237,PT02M25.00S,2,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,0.0,0.0,0,v,Waiters REBOUND (Off:0 Def:1),Rebound,Unknown,0,205
+21301132,238,PT02M07.00S,2,1610612739,CLE,203079,Waiters,D. Waiters,-15,178,18,Missed,1,0.0,0.0,0,v,MISS Waiters 18' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,206
+21301132,239,PT02M05.00S,2,1610612737,ATL,203544,Antic,P. Antic,0,0,0,,0,0.0,0.0,0,h,Antic REBOUND (Off:2 Def:2),Rebound,Unknown,0,207
+21301132,240,PT01M54.00S,2,1610612737,ATL,203118,Scott,M. Scott,6,7,1,Made,1,59.0,43.0,102,h,Scott 1' Running Layup (18 PTS) (Korver 4 AST),Made Shot,Running Layup Shot,0,208
+21301132,241,PT01M54.00S,2,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,v,Cavaliers Timeout: Short (Reg.2 Short 1),Timeout,Short,0,209
+21301132,242,PT01M54.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,210
+21301132,244,PT01M54.00S,2,1610612737,ATL,203544,Antic,P. Antic,0,0,0,,0,0.0,0.0,0,h,SUB: Williams FOR Antic,Substitution,,0,211
+21301132,245,PT01M54.00S,2,1610612737,ATL,2594,Korver,K. Korver,0,0,0,,0,0.0,0.0,0,h,SUB: Brand FOR Korver,Substitution,,0,212
+21301132,246,PT01M54.00S,2,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,0.0,0.0,0,v,SUB: Dellavedova FOR Waiters,Substitution,,0,213
+21301132,247,PT01M54.00S,2,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0.0,0.0,0,v,SUB: Jack FOR Irving,Substitution,,0,214
+21301132,248,PT01M43.00S,2,1610612737,ATL,201960,Carroll,D. Carroll,0,0,0,,0,0.0,0.0,0,h,Carroll P.FOUL (P1.PN),Foul,Personal,0,215
+21301132,249,PT01M43.00S,2,1610612739,CLE,2736,Deng,L. Deng,0,0,0,,0,59.0,44.0,103,v,Deng Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,216
+21301132,251,PT01M43.00S,2,1610612739,CLE,2736,Deng,L. Deng,0,0,0,,0,59.0,45.0,104,v,Deng Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,217
+21301132,253,PT01M32.00S,2,1610612739,CLE,203521,Dellavedova,M. Dellavedova,0,0,0,,0,0.0,0.0,0,v,Dellavedova P.FOUL (P3.T3),Foul,Personal,0,218
+21301132,254,PT01M32.00S,2,1610612739,CLE,203521,Dellavedova,M. Dellavedova,0,0,0,,0,0.0,0.0,0,v,SUB: Irving FOR Dellavedova,Substitution,,0,219
+21301132,255,PT01M27.00S,2,1610612737,ATL,201952,Teague,J. Teague,73,99,12,Missed,1,0.0,0.0,0,h,MISS Teague 12' Driving Jump Shot,Missed Shot,Driving Jump shot,0,220
+21301132,256,PT01M24.00S,2,1610612739,CLE,201150,Hawes,S. Hawes,0,0,0,,0,0.0,0.0,0,v,Hawes REBOUND (Off:0 Def:2),Rebound,Unknown,0,221
+21301132,257,PT01M19.00S,2,1610612739,CLE,201150,Hawes,S. Hawes,-15,4,2,Missed,1,0.0,0.0,0,v,MISS Hawes 2' Running Layup,Missed Shot,Running Layup Shot,0,222
+21301132,258,PT01M19.00S,2,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Unknown,0,223
+21301132,259,PT01M16.00S,2,1610612737,ATL,201952,Teague,J. Teague,0,0,0,,0,0.0,0.0,0,h,Teague Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,224
+21301132,260,PT01M09.00S,2,1610612739,CLE,202681,Irving,K. Irving,9,102,10,Made,1,59.0,47.0,106,v,Irving 10' Fadeaway Jumper (7 PTS),Made Shot,Fadeaway Jump Shot,0,225
+21301132,261,PT00M48.90S,2,1610612737,ATL,101150,Williams,L. Williams,-224,39,0,Missed,1,0.0,0.0,0,h,MISS Williams  3PT Jump Shot,Missed Shot,Jump Shot,0,226
+21301132,262,PT00M47.50S,2,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0.0,0.0,0,v,Irving REBOUND (Off:0 Def:3),Rebound,Unknown,0,227
+21301132,263,PT00M35.90S,2,1610612739,CLE,202681,Irving,K. Irving,143,217,26,Missed,1,0.0,0.0,0,v,MISS Irving 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,228
+21301132,264,PT00M35.60S,2,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Unknown,0,229
+21301132,265,PT00M35.60S,2,1610612737,ATL,201952,Teague,J. Teague,0,0,0,,0,0.0,0.0,0,h,SUB: Korver FOR Teague,Substitution,,0,230
+21301132,266,PT00M35.60S,2,1610612739,CLE,201150,Hawes,S. Hawes,0,0,0,,0,0.0,0.0,0,v,SUB: Gee FOR Hawes,Substitution,,0,231
+21301132,267,PT00M26.80S,2,1610612737,ATL,101150,Williams,L. Williams,21,-2,2,Made,1,61.0,47.0,108,h,Williams 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,0,232
+21301132,268,PT00M06.00S,2,1610612739,CLE,101127,Jack,J. Jack,-106,165,20,Made,1,61.0,49.0,110,v,Jack 20' Jump Shot (6 PTS),Made Shot,Jump Shot,0,233
+21301132,269,PT00M00.00S,2,1610612737,ATL,101150,Williams,L. Williams,111,227,25,Missed,1,0.0,0.0,0,h,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,234
+21301132,270,PT00M00.00S,2,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Unknown,0,235
+21301132,271,PT00M00.00S,2,0,,0,,,0,0,0,,0,61.0,49.0,110,,End of 2nd Period (8:41 PM EST),period,end,0,236
+21301132,273,PT12M00.00S,3,0,,0,,,0,0,0,,0,61.0,49.0,110,,Start of 3rd Period (8:57 PM EST),period,start,0,237
+21301132,274,PT12M00.00S,3,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,238
+21301132,275,PT11M39.00S,3,1610612737,ATL,200794,Millsap,P. Millsap,-5,4,1,Made,1,63.0,49.0,112,h,Millsap 1' Driving Layup (12 PTS) (Korver 5 AST),Made Shot,Driving Layup Shot,0,239
+21301132,276,PT11M21.00S,3,1610612739,CLE,202681,Irving,K. Irving,-120,183,22,Missed,1,0.0,0.0,0,v,MISS Irving 22' Jump Shot,Missed Shot,Jump Shot,0,240
+21301132,277,PT11M20.00S,3,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,0.0,0.0,0,h,Millsap REBOUND (Off:0 Def:5),Rebound,Unknown,0,241
+21301132,278,PT11M04.00S,3,1610612737,ATL,203544,Antic,P. Antic,-155,194,25,Missed,1,0.0,0.0,0,h,MISS Antic 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,242
+21301132,279,PT11M02.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,v,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,0,243
+21301132,280,PT10M49.00S,3,1610612739,CLE,202681,Irving,K. Irving,6,6,1,Missed,1,0.0,0.0,0,v,MISS Irving 1' Driving Layup,Missed Shot,Driving Layup Shot,0,244
+21301132,281,PT10M48.00S,3,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,0.0,0.0,0,h,Millsap REBOUND (Off:0 Def:6),Rebound,Unknown,0,245
+21301132,282,PT10M43.00S,3,1610612737,ATL,2594,Korver,K. Korver,-228,0,0,Made,1,66.0,49.0,115,h,Korver  3PT Jump Shot (8 PTS) (Teague 8 AST),Made Shot,Jump Shot,0,246
+21301132,283,PT10M24.00S,3,1610612739,CLE,2736,Deng,L. Deng,-46,142,15,Missed,1,0.0,0.0,0,v,MISS Deng 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,247
+21301132,284,PT10M24.00S,3,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Unknown,0,248
+21301132,285,PT10M04.00S,3,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,0.0,0.0,0,v,Waiters P.FOUL (P2.T1),Foul,Personal,0,249
+21301132,286,PT10M04.00S,3,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,v,Cavaliers Timeout: Regular (Reg.3 Short 1),Timeout,Regular,0,250
+21301132,288,PT09M50.00S,3,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,0.0,0.0,0,h,Millsap Lost Ball Turnover (P2.T11),Turnover,Lost Ball,0,251
+21301132,288,PT09M50.00S,3,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0.0,0.0,0,v,Irving STEAL (5 STL),,,0,252
+21301132,289,PT09M38.00S,3,1610612739,CLE,203079,Waiters,D. Waiters,13,41,4,Missed,1,0.0,0.0,0,v,MISS Waiters 4' Driving Jump Shot,Missed Shot,Driving Jump shot,0,253
+21301132,289,PT09M38.00S,3,1610612737,ATL,203544,Antic,P. Antic,0,0,0,,0,0.0,0.0,0,h,Antic BLOCK (1 BLK),,,0,254
+21301132,290,PT09M36.00S,3,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,0.0,0.0,0,h,Millsap REBOUND (Off:0 Def:7),Rebound,Unknown,0,255
+21301132,291,PT09M20.00S,3,1610612737,ATL,200794,Millsap,P. Millsap,-157,11,16,Missed,1,0.0,0.0,0,h,MISS Millsap 16' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,0,256
+21301132,292,PT09M17.00S,3,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Unknown,0,257
+21301132,293,PT09M01.00S,3,1610612737,ATL,200794,Millsap,P. Millsap,-7,48,5,Missed,1,0.0,0.0,0,h,MISS Millsap 5' Jump Shot,Missed Shot,Jump Shot,0,258
+21301132,294,PT09M01.00S,3,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,v,Cavaliers Rebound,Rebound,Unknown,0,259
+21301132,295,PT08M40.00S,3,1610612737,ATL,203544,Antic,P. Antic,0,0,0,,0,0.0,0.0,0,h,Antic Shooting Block Foul (P2.T1),Foul,Shooting Block,0,260
+21301132,296,PT08M40.00S,3,1610612739,CLE,2736,Deng,L. Deng,0,0,0,,0,0.0,0.0,0,v,MISS Deng Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,261
+21301132,297,PT08M40.00S,3,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,v,Cavaliers Rebound,Rebound,Normal Rebound,0,262
+21301132,298,PT08M40.00S,3,1610612739,CLE,2736,Deng,L. Deng,0,0,0,,0,66.0,50.0,116,v,Deng Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,263
+21301132,301,PT08M25.00S,3,1610612737,ATL,201960,Carroll,D. Carroll,236,30,24,Made,1,69.0,50.0,119,h,Carroll 24' 3PT Jump Shot (6 PTS) (Millsap 3 AST),Made Shot,Jump Shot,0,264
+21301132,302,PT08M12.00S,3,1610612737,ATL,2594,Korver,K. Korver,0,0,0,,0,0.0,0.0,0,h,Korver S.FOUL (P2.T2),Foul,Shooting,0,265
+21301132,303,PT08M12.00S,3,1610612739,CLE,201150,Hawes,S. Hawes,0,0,0,,0,69.0,51.0,120,v,Hawes Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,266
+21301132,305,PT08M12.00S,3,1610612739,CLE,201150,Hawes,S. Hawes,0,0,0,,0,69.0,52.0,121,v,Hawes Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,267
+21301132,308,PT07M57.00S,3,1610612737,ATL,203544,Antic,P. Antic,-179,168,25,Missed,1,0.0,0.0,0,h,MISS Antic 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,268
+21301132,309,PT07M55.00S,3,1610612739,CLE,201150,Hawes,S. Hawes,0,0,0,,0,0.0,0.0,0,v,Hawes REBOUND (Off:0 Def:3),Rebound,Unknown,0,269
+21301132,310,PT07M48.00S,3,1610612739,CLE,201150,Hawes,S. Hawes,34,254,26,Made,1,69.0,55.0,124,v,Hawes 26' 3PT Jump Shot (7 PTS) (Waiters 2 AST),Made Shot,Jump Shot,0,270
+21301132,311,PT07M33.00S,3,1610612737,ATL,201960,Carroll,D. Carroll,-228,42,0,Missed,1,0.0,0.0,0,h,MISS Carroll  3PT Jump Shot,Missed Shot,Jump Shot,0,271
+21301132,312,PT07M31.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,v,Thompson REBOUND (Off:0 Def:2),Rebound,Unknown,0,272
+21301132,313,PT07M14.00S,3,1610612739,CLE,203079,Waiters,D. Waiters,28,11,3,Missed,1,0.0,0.0,0,v,MISS Waiters 3' Driving Layup,Missed Shot,Driving Layup Shot,0,273
+21301132,315,PT07M13.00S,3,1610612739,CLE,201150,Hawes,S. Hawes,0,0,0,,0,0.0,0.0,0,v,Hawes REBOUND (Off:1 Def:3),Rebound,Unknown,0,274
+21301132,314,PT07M13.00S,3,1610612739,CLE,201150,Hawes,S. Hawes,9,3,1,Made,1,69.0,57.0,126,v,Hawes 1' Putback Layup (9 PTS),Made Shot,Putback Layup Shot,0,275
+21301132,316,PT07M02.00S,3,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,0.0,0.0,0,v,Waiters P.FOUL (P3.T2),Foul,Personal,0,276
+21301132,317,PT06M53.00S,3,1610612737,ATL,200794,Millsap,P. Millsap,6,19,2,Missed,1,0.0,0.0,0,h,MISS Millsap 2' Driving Layup,Missed Shot,Driving Layup Shot,0,277
+21301132,317,PT06M53.00S,3,1610612739,CLE,201150,Hawes,S. Hawes,0,0,0,,0,0.0,0.0,0,v,Hawes BLOCK (1 BLK),,,0,278
+21301132,319,PT06M53.00S,3,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Unknown,0,279
+21301132,318,PT06M53.00S,3,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,0.0,0.0,0,h,Jump Ball Millsap vs. Hawes: Tip to Antic,Jump Ball,,0,280
+21301132,320,PT06M46.00S,3,1610612737,ATL,201960,Carroll,D. Carroll,-231,69,24,Missed,1,0.0,0.0,0,h,MISS Carroll 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,281
+21301132,321,PT06M45.00S,3,1610612739,CLE,201150,Hawes,S. Hawes,0,0,0,,0,0.0,0.0,0,v,Hawes REBOUND (Off:1 Def:4),Rebound,Unknown,0,282
+21301132,322,PT06M34.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,v,Thompson Traveling Turnover (P1.T5),Turnover,Traveling,0,283
+21301132,323,PT06M23.00S,3,1610612737,ATL,201952,Teague,J. Teague,-100,154,18,Made,1,71.0,57.0,128,h,Teague 18' Fadeaway Jumper (7 PTS),Made Shot,Fadeaway Jump Shot,0,284
+21301132,324,PT06M11.00S,3,1610612739,CLE,201150,Hawes,S. Hawes,2,55,6,Missed,1,0.0,0.0,0,v,MISS Hawes 6' Hook Shot,Missed Shot,Hook Shot,0,285
+21301132,325,PT06M09.00S,3,1610612739,CLE,201150,Hawes,S. Hawes,0,0,0,,0,0.0,0.0,0,v,Hawes REBOUND (Off:2 Def:4),Rebound,Unknown,0,286
+21301132,326,PT06M08.00S,3,1610612739,CLE,201150,Hawes,S. Hawes,2,6,1,Made,1,71.0,59.0,130,v,Hawes 1' Putback Layup (11 PTS),Made Shot,Putback Layup Shot,0,287
+21301132,327,PT05M55.00S,3,1610612737,ATL,201952,Teague,J. Teague,0,15,2,Made,1,73.0,59.0,132,h,Teague 2' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,0,288
+21301132,328,PT05M33.00S,3,1610612739,CLE,203079,Waiters,D. Waiters,-114,167,20,Missed,1,0.0,0.0,0,v,MISS Waiters 20' Jump Shot,Missed Shot,Jump Shot,0,289
+21301132,329,PT05M33.00S,3,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Unknown,0,290
+21301132,330,PT05M33.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,v,Thompson L.B.FOUL (P4.T3),Foul,Loose Ball,0,291
+21301132,331,PT05M33.00S,3,1610612737,ATL,203544,Antic,P. Antic,0,0,0,,0,0.0,0.0,0,h,SUB: Brand FOR Antic,Substitution,,0,292
+21301132,332,PT05M33.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,v,SUB: Varejao FOR Thompson,Substitution,,0,293
+21301132,334,PT05M20.00S,3,1610612737,ATL,201952,Teague,J. Teague,152,142,21,Made,1,75.0,59.0,134,h,Teague 21' Jump Shot (11 PTS) (Korver 6 AST),Made Shot,Jump Shot,0,294
+21301132,335,PT05M02.00S,3,1610612739,CLE,202681,Irving,K. Irving,23,6,2,Made,1,75.0,61.0,136,v,Irving 2' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,0,295
+21301132,336,PT04M45.00S,3,1610612737,ATL,200794,Millsap,P. Millsap,100,34,11,Made,1,77.0,61.0,138,h,Millsap 11' Driving Jump Shot (14 PTS) (Teague 9 AST),Made Shot,Driving Jump shot,0,296
+21301132,337,PT04M29.00S,3,1610612739,CLE,202681,Irving,K. Irving,173,192,26,Missed,1,0.0,0.0,0,v,MISS Irving 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,297
+21301132,339,PT04M25.00S,3,1610612739,CLE,201150,Hawes,S. Hawes,0,0,0,,0,0.0,0.0,0,v,Hawes REBOUND (Off:3 Def:4),Rebound,Unknown,0,298
+21301132,338,PT04M25.00S,3,1610612739,CLE,201150,Hawes,S. Hawes,1,3,0,Missed,1,0.0,0.0,0,v,MISS Hawes  Tip Shot,Missed Shot,Tip Shot,0,299
+21301132,340,PT04M24.00S,3,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,0.0,0.0,0,h,Millsap REBOUND (Off:0 Def:8),Rebound,Unknown,0,300
+21301132,341,PT04M20.00S,3,1610612737,ATL,2594,Korver,K. Korver,32,11,3,Missed,1,0.0,0.0,0,h,MISS Korver 3' Jump Shot,Missed Shot,Jump Shot,0,301
+21301132,342,PT04M19.00S,3,1610612739,CLE,2760,Varejao,A. Varejao,0,0,0,,0,0.0,0.0,0,v,Varejao REBOUND (Off:0 Def:4),Rebound,Unknown,0,302
+21301132,343,PT04M05.00S,3,1610612739,CLE,203079,Waiters,D. Waiters,233,12,0,Missed,1,0.0,0.0,0,v,MISS Waiters  3PT Jump Shot,Missed Shot,Jump Shot,0,303
+21301132,344,PT04M03.00S,3,1610612737,ATL,2594,Korver,K. Korver,0,0,0,,0,0.0,0.0,0,h,Korver REBOUND (Off:0 Def:3),Rebound,Unknown,0,304
+21301132,345,PT03M56.00S,3,1610612737,ATL,1882,Brand,E. Brand,4,1,0,Made,1,79.0,61.0,140,h,Brand  Dunk (4 PTS) (Carroll 2 AST),Made Shot,Dunk Shot,0,305
+21301132,346,PT03M42.00S,3,1610612737,ATL,201960,Carroll,D. Carroll,0,0,0,,0,0.0,0.0,0,h,Carroll P.FOUL (P2.T3),Foul,Personal,0,306
+21301132,347,PT03M42.00S,3,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,0.0,0.0,0,h,SUB: Williams FOR Millsap,Substitution,,0,307
+21301132,348,PT03M42.00S,3,1610612737,ATL,2594,Korver,K. Korver,0,0,0,,0,0.0,0.0,0,h,SUB: Scott FOR Korver,Substitution,,0,308
+21301132,349,PT03M42.00S,3,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,0.0,0.0,0,v,SUB: Dellavedova FOR Waiters,Substitution,,0,309
+21301132,350,PT03M42.00S,3,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0.0,0.0,0,v,SUB: Jack FOR Irving,Substitution,,0,310
+21301132,352,PT03M34.00S,3,1610612739,CLE,101127,Jack,J. Jack,-146,99,18,Missed,1,0.0,0.0,0,v,MISS Jack 18' Jump Shot,Missed Shot,Jump Shot,0,311
+21301132,353,PT03M33.00S,3,1610612739,CLE,2760,Varejao,A. Varejao,0,0,0,,0,0.0,0.0,0,v,Varejao REBOUND (Off:1 Def:4),Rebound,Unknown,0,312
+21301132,354,PT03M33.00S,3,1610612737,ATL,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,h,Brand S.FOUL (P1.T4),Foul,Shooting,0,313
+21301132,355,PT03M33.00S,3,1610612739,CLE,2760,Varejao,A. Varejao,0,0,0,,0,79.0,62.0,141,v,Varejao Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,314
+21301132,357,PT03M33.00S,3,1610612739,CLE,2760,Varejao,A. Varejao,0,0,0,,0,79.0,63.0,142,v,Varejao Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,315
+21301132,360,PT03M26.00S,3,1610612737,ATL,203118,Scott,M. Scott,17,9,2,Made,1,81.0,63.0,144,h,Scott 2' Running Layup (20 PTS) (Teague 10 AST),Made Shot,Running Layup Shot,0,316
+21301132,361,PT03M09.00S,3,1610612739,CLE,2736,Deng,L. Deng,-16,17,2,Made,1,81.0,65.0,146,v,Deng 2' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,0,317
+21301132,362,PT03M04.00S,3,1610612739,CLE,203521,Dellavedova,M. Dellavedova,0,0,0,,0,0.0,0.0,0,v,Dellavedova S.FOUL (P4.T4),Foul,Shooting,0,318
+21301132,363,PT03M04.00S,3,1610612737,ATL,201952,Teague,J. Teague,0,0,0,,0,0.0,0.0,0,h,MISS Teague Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,319
+21301132,364,PT03M04.00S,3,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Normal Rebound,0,320
+21301132,365,PT03M04.00S,3,1610612737,ATL,201952,Teague,J. Teague,0,0,0,,0,82.0,65.0,147,h,Teague Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,321
+21301132,367,PT02M53.00S,3,1610612739,CLE,2736,Deng,L. Deng,192,11,19,Missed,1,0.0,0.0,0,v,MISS Deng 19' Jump Shot,Missed Shot,Jump Shot,0,322
+21301132,368,PT02M51.00S,3,1610612737,ATL,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,h,Brand REBOUND (Off:0 Def:4),Rebound,Unknown,0,323
+21301132,369,PT02M38.00S,3,1610612737,ATL,201960,Carroll,D. Carroll,20,6,2,Made,1,84.0,65.0,149,h,Carroll 2' Layup (8 PTS) (Teague 11 AST),Made Shot,Layup Shot,0,324
+21301132,370,PT02M19.00S,3,1610612739,CLE,2760,Varejao,A. Varejao,12,50,5,Made,1,84.0,67.0,151,v,Varejao 5' Hook Shot (7 PTS) (Hawes 4 AST),Made Shot,Hook Shot,0,325
+21301132,372,PT02M15.00S,3,1610612739,CLE,2760,Varejao,A. Varejao,0,0,0,,0,0.0,0.0,0,v,Varejao Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,326
+21301132,371,PT02M15.00S,3,1610612737,ATL,203118,Scott,M. Scott,28,4,3,Made,1,86.0,67.0,153,h,Scott 3' Running Layup (22 PTS) (Williams 4 AST),Made Shot,Running Layup Shot,0,327
+21301132,374,PT01M57.00S,3,1610612739,CLE,2736,Deng,L. Deng,-5,4,1,Made,1,86.0,69.0,155,v,Deng 1' Reverse Layup (11 PTS) (Varejao 1 AST),Made Shot,Reverse Layup Shot,0,328
+21301132,375,PT01M42.00S,3,1610612737,ATL,203118,Scott,M. Scott,21,61,6,Made,1,88.0,69.0,157,h,Scott 6' Hook Shot (24 PTS) (Brand 2 AST),Made Shot,Hook Shot,0,329
+21301132,376,PT01M16.00S,3,1610612739,CLE,201150,Hawes,S. Hawes,-38,183,19,Missed,1,0.0,0.0,0,v,MISS Hawes 19' Jump Shot,Missed Shot,Jump Shot,0,330
+21301132,376,PT01M16.00S,3,1610612737,ATL,201960,Carroll,D. Carroll,0,0,0,,0,0.0,0.0,0,h,Carroll BLOCK (1 BLK),,,0,331
+21301132,377,PT01M14.00S,3,1610612737,ATL,101150,Williams,L. Williams,0,0,0,,0,0.0,0.0,0,h,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,332
+21301132,378,PT01M09.00S,3,1610612737,ATL,101150,Williams,L. Williams,0,0,0,,0,0.0,0.0,0,h,Williams Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,333
+21301132,378,PT01M09.00S,3,1610612739,CLE,201150,Hawes,S. Hawes,0,0,0,,0,0.0,0.0,0,v,Hawes STEAL (4 STL),,,0,334
+21301132,379,PT01M04.00S,3,1610612739,CLE,201150,Hawes,S. Hawes,-10,6,1,Made,1,88.0,71.0,159,v,Hawes 1' Running Layup (13 PTS) (Jack 1 AST),Made Shot,Running Layup Shot,0,335
+21301132,380,PT00M54.90S,3,1610612737,ATL,201952,Teague,J. Teague,0,0,0,,0,0.0,0.0,0,h,Teague Bad Pass Turnover (P3.T13),Turnover,Bad Pass,0,336
+21301132,380,PT00M54.90S,3,1610612739,CLE,203521,Dellavedova,M. Dellavedova,0,0,0,,0,0.0,0.0,0,v,Dellavedova STEAL (1 STL),,,0,337
+21301132,381,PT00M47.90S,3,1610612739,CLE,101127,Jack,J. Jack,-125,211,25,Missed,1,0.0,0.0,0,v,MISS Jack 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,338
+21301132,382,PT00M45.90S,3,1610612737,ATL,101150,Williams,L. Williams,0,0,0,,0,0.0,0.0,0,h,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,0,339
+21301132,383,PT00M32.90S,3,1610612737,ATL,101150,Williams,L. Williams,59,126,14,Missed,1,0.0,0.0,0,h,MISS Williams 14' Jump Shot,Missed Shot,Jump Shot,0,340
+21301132,384,PT00M31.50S,3,1610612739,CLE,101127,Jack,J. Jack,0,0,0,,0,0.0,0.0,0,v,Jack REBOUND (Off:0 Def:2),Rebound,Unknown,0,341
+21301132,385,PT00M15.90S,3,1610612739,CLE,101127,Jack,J. Jack,31,42,5,Missed,1,0.0,0.0,0,v,MISS Jack 5' Driving Jump Shot,Missed Shot,Driving Jump shot,0,342
+21301132,386,PT00M14.20S,3,1610612739,CLE,201150,Hawes,S. Hawes,0,0,0,,0,0.0,0.0,0,v,Hawes REBOUND (Off:4 Def:4),Rebound,Unknown,0,343
+21301132,387,PT00M14.20S,3,1610612739,CLE,201150,Hawes,S. Hawes,1,4,0,Made,1,88.0,73.0,161,v,Hawes  Putback Layup (15 PTS),Made Shot,Putback Layup Shot,0,344
+21301132,388,PT00M00.00S,3,1610612737,ATL,201952,Teague,J. Teague,-8,6,1,Made,1,90.0,73.0,163,h,Teague 1' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,0,345
+21301132,389,PT00M00.00S,3,0,,388,,,0,0,0,,0,0.0,0.0,0,,Support Ruling,Instant Replay,Support Ruling,0,346
+21301132,390,PT00M00.00S,3,0,,0,,,0,0,0,,0,90.0,73.0,163,,End of 3rd Period (9:21 PM EST),period,end,0,347
+21301132,392,PT12M00.00S,4,0,,0,,,0,0,0,,0,90.0,73.0,163,,Start of 4th Period (9:24 PM EST),period,start,0,348
+21301132,393,PT11M40.00S,4,1610612739,CLE,203521,Dellavedova,M. Dellavedova,226,116,25,Missed,1,0.0,0.0,0,v,MISS Dellavedova 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,349
+21301132,394,PT11M39.00S,4,1610612737,ATL,203471,Schroder,D. Schroder,0,0,0,,0,0.0,0.0,0,h,Schroder REBOUND (Off:0 Def:1),Rebound,Unknown,0,350
+21301132,395,PT11M15.00S,4,1610612737,ATL,203471,Schroder,D. Schroder,-48,47,7,Made,1,92.0,73.0,165,h,Schroder 7' Driving Jump Shot (2 PTS),Made Shot,Driving Jump shot,0,351
+21301132,397,PT10M50.00S,4,1610612739,CLE,2760,Varejao,A. Varejao,56,47,7,Missed,1,0.0,0.0,0,v,MISS Varejao 7' Hook Shot,Missed Shot,Hook Shot,0,352
+21301132,398,PT10M48.00S,4,1610612737,ATL,203118,Scott,M. Scott,0,0,0,,0,0.0,0.0,0,h,Scott REBOUND (Off:0 Def:2),Rebound,Unknown,0,353
+21301132,399,PT10M33.00S,4,1610612737,ATL,203471,Schroder,D. Schroder,149,200,25,Missed,1,0.0,0.0,0,h,MISS Schroder 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,354
+21301132,400,PT10M32.00S,4,1610612739,CLE,101127,Jack,J. Jack,0,0,0,,0,0.0,0.0,0,v,Jack REBOUND (Off:0 Def:3),Rebound,Unknown,0,355
+21301132,401,PT10M23.00S,4,1610612739,CLE,101127,Jack,J. Jack,42,246,25,Missed,1,0.0,0.0,0,v,MISS Jack 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,356
+21301132,402,PT10M22.00S,4,1610612737,ATL,2594,Korver,K. Korver,0,0,0,,0,0.0,0.0,0,h,Korver REBOUND (Off:0 Def:4),Rebound,Unknown,0,357
+21301132,403,PT10M06.00S,4,1610612737,ATL,101150,Williams,L. Williams,-2,153,15,Made,1,94.0,73.0,167,h,Williams 15' Jump Shot (12 PTS),Made Shot,Jump Shot,0,358
+21301132,404,PT10M06.00S,4,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,0.0,0.0,0,v,Gee S.FOUL (P1.T1),Foul,Shooting,0,359
+21301132,405,PT10M06.00S,4,1610612739,CLE,202087,Gee,A. Gee,0,0,0,,0,0.0,0.0,0,v,SUB: Thompson FOR Gee,Substitution,,0,360
+21301132,406,PT10M06.00S,4,1610612739,CLE,203521,Dellavedova,M. Dellavedova,0,0,0,,0,0.0,0.0,0,v,SUB: Waiters FOR Dellavedova,Substitution,,0,361
+21301132,407,PT10M06.00S,4,1610612737,ATL,101150,Williams,L. Williams,0,0,0,,0,95.0,73.0,168,h,Williams Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,362
+21301132,409,PT09M55.00S,4,1610612739,CLE,2760,Varejao,A. Varejao,-26,156,16,Made,1,95.0,75.0,170,v,Varejao 16' Jump Shot (9 PTS) (Jack 2 AST),Made Shot,Jump Shot,0,363
+21301132,410,PT09M40.00S,4,1610612737,ATL,203471,Schroder,D. Schroder,0,0,0,,0,0.0,0.0,0,h,Schroder Lost Ball Turnover (P2.T14),Turnover,Lost Ball,0,364
+21301132,410,PT09M40.00S,4,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0.0,0.0,0,v,Irving STEAL (6 STL),,,0,365
+21301132,411,PT09M35.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,1,6,1,Made,1,95.0,77.0,172,v,Waiters 1' Running Layup (18 PTS) (Irving 4 AST),Made Shot,Running Layup Shot,0,366
+21301132,412,PT09M17.00S,4,1610612737,ATL,203118,Scott,M. Scott,-100,187,21,Made,1,97.0,77.0,174,h,Scott 21' Jump Shot (26 PTS) (Williams 5 AST),Made Shot,Jump Shot,0,367
+21301132,413,PT09M02.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,13,26,3,Made,1,97.0,79.0,176,v,Thompson 3' Layup (4 PTS) (Varejao 2 AST),Made Shot,Layup Shot,0,368
+21301132,414,PT09M02.00S,4,1610612737,ATL,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,h,Brand S.FOUL (P2.T1),Foul,Shooting,0,369
+21301132,415,PT09M02.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,97.0,80.0,177,v,Thompson Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,370
+21301132,417,PT08M48.00S,4,1610612737,ATL,101150,Williams,L. Williams,43,246,25,Made,1,100.0,80.0,180,h,Williams 25' 3PT Jump Shot (16 PTS),Made Shot,Jump Shot,0,371
+21301132,418,PT08M32.00S,4,1610612739,CLE,101127,Jack,J. Jack,-138,224,26,Made,1,100.0,83.0,183,v,Jack 26' 3PT Jump Shot (9 PTS) (Waiters 3 AST),Made Shot,Jump Shot,0,372
+21301132,420,PT08M13.00S,4,1610612737,ATL,1882,Brand,E. Brand,9,123,12,Made,1,102.0,83.0,185,h,Brand 12' Jump Shot (6 PTS) (Williams 6 AST),Made Shot,Jump Shot,0,373
+21301132,421,PT07M57.00S,4,1610612739,CLE,2760,Varejao,A. Varejao,53,89,10,Missed,1,0.0,0.0,0,v,MISS Varejao 10' Jump Shot,Missed Shot,Jump Shot,0,374
+21301132,422,PT07M55.00S,4,1610612737,ATL,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,h,Brand REBOUND (Off:0 Def:5),Rebound,Unknown,0,375
+21301132,423,PT07M55.00S,4,1610612739,CLE,101127,Jack,J. Jack,0,0,0,,0,0.0,0.0,0,v,Jack P.FOUL (P1.T2),Foul,Personal,0,376
+21301132,424,PT07M55.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,377
+21301132,427,PT07M55.00S,4,1610612739,CLE,2760,Varejao,A. Varejao,0,0,0,,0,0.0,0.0,0,v,SUB: Hawes FOR Varejao,Substitution,,0,378
+21301132,428,PT07M43.00S,4,1610612737,ATL,101150,Williams,L. Williams,0,0,0,,0,0.0,0.0,0,h,Williams Out of Bounds Lost Ball Turnover (P3.T15),Turnover,Out of Bounds Lost Ball Turnover,0,379
+21301132,429,PT07M24.00S,4,1610612739,CLE,202681,Irving,K. Irving,-7,6,1,Made,1,102.0,85.0,187,v,Irving 1' Layup (11 PTS),Made Shot,Layup Shot,0,380
+21301132,430,PT07M03.00S,4,1610612737,ATL,203471,Schroder,D. Schroder,15,12,2,Missed,1,0.0,0.0,0,h,MISS Schroder 2' Driving Layup,Missed Shot,Driving Layup Shot,0,381
+21301132,430,PT07M03.00S,4,1610612739,CLE,201150,Hawes,S. Hawes,0,0,0,,0,0.0,0.0,0,v,Hawes BLOCK (2 BLK),,,0,382
+21301132,431,PT07M00.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,0.0,0.0,0,v,Waiters REBOUND (Off:0 Def:2),Rebound,Unknown,0,383
+21301132,432,PT06M57.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,-11,7,1,Missed,1,0.0,0.0,0,v,MISS Waiters 1' Layup,Missed Shot,Layup Shot,0,384
+21301132,433,PT06M57.00S,4,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Unknown,0,385
+21301132,434,PT06M57.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,v,Thompson L.B.FOUL (P5.T3),Foul,Loose Ball,0,386
+21301132,435,PT06M57.00S,4,1610612737,ATL,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,h,SUB: Millsap FOR Brand,Substitution,,0,387
+21301132,436,PT06M57.00S,4,1610612737,ATL,101150,Williams,L. Williams,0,0,0,,0,0.0,0.0,0,h,SUB: Teague FOR Williams,Substitution,,0,388
+21301132,437,PT06M57.00S,4,1610612737,ATL,203118,Scott,M. Scott,0,0,0,,0,0.0,0.0,0,h,SUB: Antic FOR Scott,Substitution,,0,389
+21301132,438,PT06M57.00S,4,1610612737,ATL,203471,Schroder,D. Schroder,0,0,0,,0,0.0,0.0,0,h,SUB: Carroll FOR Schroder,Substitution,,0,390
+21301132,439,PT06M34.00S,4,1610612737,ATL,201960,Carroll,D. Carroll,144,56,15,Missed,1,0.0,0.0,0,h,MISS Carroll 15' Jump Shot,Missed Shot,Jump Shot,0,391
+21301132,440,PT06M33.00S,4,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0.0,0.0,0,v,Irving REBOUND (Off:0 Def:4),Rebound,Unknown,0,392
+21301132,441,PT06M24.00S,4,1610612739,CLE,101127,Jack,J. Jack,-228,48,0,Missed,1,0.0,0.0,0,v,MISS Jack  3PT Jump Shot,Missed Shot,Jump Shot,0,393
+21301132,442,PT06M22.00S,4,1610612737,ATL,203544,Antic,P. Antic,0,0,0,,0,0.0,0.0,0,h,Antic REBOUND (Off:2 Def:3),Rebound,Unknown,0,394
+21301132,443,PT06M05.00S,4,1610612737,ATL,2594,Korver,K. Korver,-180,14,18,Missed,1,0.0,0.0,0,h,MISS Korver 18' Jump Shot,Missed Shot,Jump Shot,0,395
+21301132,444,PT06M04.00S,4,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0.0,0.0,0,v,Irving REBOUND (Off:0 Def:5),Rebound,Unknown,0,396
+21301132,446,PT05M56.00S,4,1610612739,CLE,201150,Hawes,S. Hawes,65,80,10,Missed,1,0.0,0.0,0,v,MISS Hawes 10' Running Jump Shot,Missed Shot,Running Jump Shot,0,397
+21301132,447,PT05M56.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,v,Thompson REBOUND (Off:1 Def:2),Rebound,Unknown,0,398
+21301132,448,PT05M56.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,10,7,1,Missed,1,0.0,0.0,0,v,MISS Thompson 1' Putback Layup,Missed Shot,Putback Layup Shot,0,399
+21301132,448,PT05M56.00S,4,1610612737,ATL,2594,Korver,K. Korver,0,0,0,,0,0.0,0.0,0,h,Korver BLOCK (1 BLK),,,0,400
+21301132,449,PT05M56.00S,4,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,v,Cavaliers Rebound,Rebound,Unknown,0,401
+21301132,450,PT05M56.00S,4,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Timeout: Regular (Full 4 Short 1),Timeout,Regular,0,402
+21301132,452,PT05M56.00S,4,1610612737,ATL,203544,Antic,P. Antic,0,0,0,,0,0.0,0.0,0,h,SUB: Brand FOR Antic,Substitution,,0,403
+21301132,453,PT05M56.00S,4,1610612739,CLE,101127,Jack,J. Jack,0,0,0,,0,0.0,0.0,0,v,SUB: Deng FOR Jack,Substitution,,0,404
+21301132,454,PT05M51.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,-5,4,1,Made,1,102.0,87.0,189,v,Thompson 1' Layup (7 PTS),Made Shot,Layup Shot,0,405
+21301132,455,PT05M51.00S,4,1610612737,ATL,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,h,Brand S.FOUL (P3.T2),Foul,Shooting,0,406
+21301132,456,PT05M51.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,102.0,88.0,190,v,Thompson Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,407
+21301132,459,PT05M36.00S,4,1610612737,ATL,200794,Millsap,P. Millsap,7,47,5,Made,1,104.0,88.0,192,h,Millsap 5' Driving Jump Shot (16 PTS) (Teague 12 AST),Made Shot,Driving Jump shot,0,408
+21301132,460,PT05M20.00S,4,1610612739,CLE,201150,Hawes,S. Hawes,-68,22,7,Missed,1,0.0,0.0,0,v,MISS Hawes 7' Driving Jump Shot,Missed Shot,Driving Jump shot,0,409
+21301132,461,PT05M20.00S,4,1610612739,CLE,201150,Hawes,S. Hawes,0,0,0,,0,0.0,0.0,0,v,Hawes REBOUND (Off:5 Def:4),Rebound,Unknown,0,410
+21301132,462,PT05M20.00S,4,1610612737,ATL,1882,Brand,E. Brand,0,0,0,,0,0.0,0.0,0,h,Brand S.FOUL (P4.T3),Foul,Shooting,0,411
+21301132,463,PT05M20.00S,4,1610612739,CLE,201150,Hawes,S. Hawes,0,0,0,,0,104.0,89.0,193,v,Hawes Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,412
+21301132,465,PT05M20.00S,4,1610612739,CLE,201150,Hawes,S. Hawes,0,0,0,,0,0.0,0.0,0,v,MISS Hawes Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,413
+21301132,467,PT05M19.00S,4,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,0.0,0.0,0,h,Millsap REBOUND (Off:0 Def:9),Rebound,Unknown,0,414
+21301132,468,PT05M04.00S,4,1610612737,ATL,201960,Carroll,D. Carroll,214,19,21,Made,1,106.0,89.0,195,h,Carroll 21' Jump Shot (10 PTS) (Millsap 4 AST),Made Shot,Jump Shot,0,415
+21301132,469,PT04M59.00S,4,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0.0,0.0,0,v,Irving Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,416
+21301132,470,PT04M43.00S,4,1610612737,ATL,1882,Brand,E. Brand,-109,86,14,Made,1,108.0,89.0,197,h,Brand 14' Jump Shot (8 PTS) (Millsap 5 AST),Made Shot,Jump Shot,0,417
+21301132,471,PT04M31.00S,4,1610612739,CLE,202681,Irving,K. Irving,17,3,2,Made,1,108.0,91.0,199,v,Irving 2' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,0,418
+21301132,472,PT04M07.00S,4,1610612737,ATL,2594,Korver,K. Korver,0,0,0,,0,0.0,0.0,0,h,Korver Lost Ball Turnover (P2.T16),Turnover,Lost Ball,0,419
+21301132,472,PT04M07.00S,4,1610612739,CLE,201150,Hawes,S. Hawes,0,0,0,,0,0.0,0.0,0,v,Hawes STEAL (5 STL),,,0,420
+21301132,473,PT03M49.00S,4,1610612739,CLE,2736,Deng,L. Deng,-95,121,15,Made,1,108.0,93.0,201,v,Deng 15' Fadeaway Jumper (13 PTS),Made Shot,Fadeaway Jump Shot,0,421
+21301132,474,PT03M26.00S,4,1610612737,ATL,201952,Teague,J. Teague,106,134,17,Missed,1,0.0,0.0,0,h,MISS Teague 17' Jump Shot,Missed Shot,Jump Shot,0,422
+21301132,475,PT03M25.00S,4,1610612739,CLE,201150,Hawes,S. Hawes,0,0,0,,0,0.0,0.0,0,v,Hawes REBOUND (Off:5 Def:5),Rebound,Unknown,0,423
+21301132,476,PT03M17.00S,4,1610612739,CLE,202681,Irving,K. Irving,43,246,25,Missed,1,0.0,0.0,0,v,MISS Irving 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,424
+21301132,477,PT03M14.00S,4,1610612737,ATL,201960,Carroll,D. Carroll,0,0,0,,0,0.0,0.0,0,h,Carroll REBOUND (Off:0 Def:3),Rebound,Unknown,0,425
+21301132,478,PT03M01.00S,4,1610612737,ATL,201952,Teague,J. Teague,110,231,26,Made,1,111.0,93.0,204,h,Teague 26' 3PT Jump Shot (17 PTS) (Millsap 6 AST),Made Shot,Jump Shot,0,426
+21301132,479,PT03M00.00S,4,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,v,Cavaliers Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,427
+21301132,481,PT03M00.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,0.0,0.0,0,v,SUB: Jack FOR Thompson,Substitution,,0,428
+21301132,482,PT02M46.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,-232,23,0,Missed,1,0.0,0.0,0,v,MISS Waiters  3PT Jump Shot,Missed Shot,Jump Shot,0,429
+21301132,483,PT02M44.00S,4,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,0.0,0.0,0,h,Millsap REBOUND (Off:0 Def:10),Rebound,Unknown,0,430
+21301132,484,PT02M23.00S,4,1610612737,ATL,1882,Brand,E. Brand,12,101,10,Missed,1,0.0,0.0,0,h,MISS Brand 10' Jump Shot,Missed Shot,Jump Shot,0,431
+21301132,485,PT02M22.00S,4,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0.0,0.0,0,v,Irving REBOUND (Off:0 Def:6),Rebound,Unknown,0,432
+21301132,486,PT02M13.00S,4,1610612739,CLE,2736,Deng,L. Deng,163,194,25,Missed,1,0.0,0.0,0,v,MISS Deng 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,433
+21301132,487,PT02M11.00S,4,1610612737,ATL,200794,Millsap,P. Millsap,0,0,0,,0,0.0,0.0,0,h,Millsap REBOUND (Off:0 Def:11),Rebound,Unknown,0,434
+21301132,488,PT02M02.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,0,0,0,,0,0.0,0.0,0,v,Waiters P.FOUL (P4.T4),Foul,Personal,0,435
+21301132,489,PT01M49.00S,4,1610612737,ATL,201960,Carroll,D. Carroll,0,0,0,,0,0.0,0.0,0,h,Carroll Lost Ball Turnover (P1.T17),Turnover,Lost Ball,0,436
+21301132,489,PT01M49.00S,4,1610612739,CLE,201150,Hawes,S. Hawes,0,0,0,,0,0.0,0.0,0,v,Hawes STEAL (6 STL),,,0,437
+21301132,490,PT01M42.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,20,1,2,Made,1,111.0,95.0,206,v,Waiters 2' Driving Slam Dunk (20 PTS),Made Shot,Driving Slam Dunk Shot,0,438
+21301132,492,PT01M20.00S,4,1610612737,ATL,201952,Teague,J. Teague,-103,233,25,Made,1,114.0,95.0,209,h,Teague 25' 3PT Jump Shot (20 PTS),Made Shot,Jump Shot,0,439
+21301132,493,PT01M10.00S,4,1610612739,CLE,101127,Jack,J. Jack,-15,3,2,Missed,1,0.0,0.0,0,v,MISS Jack 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,0,440
+21301132,494,PT01M08.00S,4,1610612737,ATL,201952,Teague,J. Teague,0,0,0,,0,0.0,0.0,0,h,Teague REBOUND (Off:0 Def:2),Rebound,Unknown,0,441
+21301132,495,PT00M43.90S,4,1610612737,ATL,1882,Brand,E. Brand,17,149,15,Missed,1,0.0,0.0,0,h,MISS Brand 15' Jump Shot,Missed Shot,Jump Shot,0,442
+21301132,496,PT00M42.90S,4,1610612739,CLE,202681,Irving,K. Irving,0,0,0,,0,0.0,0.0,0,v,Irving REBOUND (Off:0 Def:7),Rebound,Unknown,0,443
+21301132,497,PT00M36.90S,4,1610612739,CLE,2736,Deng,L. Deng,-10,159,16,Missed,1,0.0,0.0,0,v,MISS Deng 16' Jump Shot,Missed Shot,Jump Shot,0,444
+21301132,498,PT00M34.90S,4,1610612739,CLE,2736,Deng,L. Deng,0,0,0,,0,0.0,0.0,0,v,Deng REBOUND (Off:1 Def:1),Rebound,Unknown,0,445
+21301132,499,PT00M32.90S,4,1610612739,CLE,2736,Deng,L. Deng,17,17,2,Missed,1,0.0,0.0,0,v,MISS Deng 2' Putback Layup,Missed Shot,Putback Layup Shot,0,446
+21301132,500,PT00M31.90S,4,1610612737,ATL,201960,Carroll,D. Carroll,0,0,0,,0,0.0,0.0,0,h,Carroll REBOUND (Off:0 Def:4),Rebound,Unknown,0,447
+21301132,502,PT00M08.60S,4,1610612737,ATL,201960,Carroll,D. Carroll,18,252,25,Made,1,117.0,95.0,212,h,Carroll 25' 3PT Jump Shot (13 PTS),Made Shot,Jump Shot,0,448
+21301132,503,PT00M00.00S,4,1610612739,CLE,203079,Waiters,D. Waiters,122,225,26,Made,1,117.0,98.0,215,v,Waiters 26' 3PT Jump Shot (23 PTS),Made Shot,Jump Shot,0,449
+21301132,504,PT00M00.00S,4,0,,503,,,0,0,0,,0,0.0,0.0,0,,Support Ruling,Instant Replay,Support Ruling,0,450
+21301132,505,PT00M00.00S,4,0,,0,,,0,0,0,,0,117.0,98.0,215,,End of 4th Period (9:48 PM EST),period,end,0,451

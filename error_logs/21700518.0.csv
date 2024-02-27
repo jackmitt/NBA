@@ -1,0 +1,35 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId,clock_sec
+21700518,249,PT03M19.00S,2,1610612749,MIL,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,Bledsoe REBOUND (Off:0 Def:1),Rebound,Unknown,1,189,1241.0
+21700518,250,PT03M19.00S,2,1610612749,MIL,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,Bledsoe Out of Bounds - Bad Pass Turnover Turnover (P3.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,190,1241.0
+21700518,251,PT03M19.00S,2,1610612749,MIL,202339,Bledsoe,E. Bledsoe,0,0,0,,0,,,0,h,SUB: Brogdon FOR Bledsoe,Substitution,,0,191,1241.0
+21700518,252,PT03M19.00S,2,1610612750,MIN,2037,Crawford,J. Crawford,0,0,0,,0,,,0,v,SUB: Wiggins FOR Crawford,Substitution,,0,192,1241.0
+21700518,255,PT02M58.00S,2,1610612750,MIN,203952,Wiggins,A. Wiggins,110,167,20,Made,1,38.0,50.0,88,v,Wiggins 20' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,193,1262.0
+21700518,256,PT02M35.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,-72,73,10,Made,1,40.0,50.0,90,h,Middleton 10' Turnaround Fadeaway (11 PTS),Made Shot,Turnaround Fadeaway shot,1,194,1285.0
+21700518,257,PT02M17.00S,2,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,,,0,h,Brogdon S.FOUL (P1.T4) (Z.Zarba),Foul,Shooting,1,195,1303.0
+21700518,259,PT02M17.00S,2,1610612750,MIN,201959,Gibson,T. Gibson,0,0,0,,0,40.0,51.0,91,v,Gibson Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,196,1303.0
+21700518,260,PT02M17.00S,2,1610612750,MIN,201959,Gibson,T. Gibson,0,0,0,,0,,,0,v,MISS Gibson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,197,1303.0
+21700518,261,PT02M14.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo REBOUND (Off:1 Def:3),Rebound,Unknown,1,198,1306.0
+21700518,262,PT02M06.00S,2,1610612749,MIL,203503,Snell,T. Snell,223,138,26,Missed,1,,,0,h,MISS Snell 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,199,1314.0
+21700518,263,PT02M03.00S,2,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,,,0,v,Towns REBOUND (Off:1 Def:2),Rebound,Unknown,1,200,1317.0
+21700518,264,PT01M48.00S,2,1610612750,MIN,203952,Wiggins,A. Wiggins,81,161,18,Missed,1,,,0,v,MISS Wiggins 18' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,201,1332.0
+21700518,265,PT01M45.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,,,0,h,Middleton REBOUND (Off:0 Def:3),Rebound,Unknown,1,202,1335.0
+21700518,266,PT01M36.00S,2,1610612750,MIN,203952,Wiggins,A. Wiggins,0,0,0,,0,,,0,v,Wiggins S.FOUL (P2.PN) (Z.Zarba),Foul,Shooting,1,203,1344.0
+21700518,268,PT01M36.00S,2,1610612749,MIL,203503,Snell,T. Snell,0,0,0,,0,41.0,51.0,92,h,Snell Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,204,1344.0
+21700518,269,PT01M36.00S,2,1610612749,MIL,203503,Snell,T. Snell,0,0,0,,0,42.0,51.0,93,h,Snell Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,205,1344.0
+21700518,270,PT01M18.00S,2,1610612750,MIN,202710,Butler,J. Butler,63,19,7,Missed,1,,,0,v,MISS Butler 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,206,1362.0
+21700518,271,PT01M15.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,,,0,h,Antetokounmpo REBOUND (Off:1 Def:4),Rebound,Unknown,1,207,1365.0
+21700518,272,PT01M09.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,4,10,1,Missed,1,,,0,h,MISS Antetokounmpo 1' Layup,Missed Shot,Layup Shot,1,208,1371.0
+21700518,273,PT01M07.00S,2,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,,,0,v,Towns REBOUND (Off:1 Def:3),Rebound,Unknown,1,209,1373.0
+21700518,274,PT01M03.00S,2,1610612750,MIN,201959,Gibson,T. Gibson,-5,15,2,Made,1,42.0,53.0,95,v,Gibson 2' Dunk (6 PTS) (Butler 3 AST),Made Shot,Dunk Shot,1,210,1377.0
+21700518,276,PT00M44.80S,2,1610612750,MIN,1626145,Jones,T. Jones,0,0,0,,0,,,0,v,Jones P.FOUL (P1.PN) (E.Dalen),Foul,Personal,1,211,1395.2
+21700518,278,PT00M44.80S,2,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,43.0,53.0,96,h,Brogdon Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,212,1395.2
+21700518,279,PT00M44.80S,2,1610612749,MIL,1627763,Brogdon,M. Brogdon,0,0,0,,0,44.0,53.0,97,h,Brogdon Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,213,1395.2
+21700518,280,PT00M34.30S,2,1610612750,MIN,1626157,Towns,K. Towns,193,194,27,Missed,1,,,0,v,MISS Towns 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,214,1405.7
+21700518,281,PT00M32.40S,2,1610612749,MIL,203503,Snell,T. Snell,0,0,0,,0,,,0,h,Snell REBOUND (Off:0 Def:1),Rebound,Unknown,1,215,1407.6
+21700518,282,PT00M32.40S,2,1610612749,MIL,203503,Snell,T. Snell,0,0,0,,0,,,0,h,Snell Traveling Turnover (P1.T10),Turnover,Traveling,1,216,1407.6
+21700518,283,PT00M25.50S,2,1610612750,MIN,203952,Wiggins,A. Wiggins,163,222,28,Made,1,44.0,56.0,100,v,Wiggins 28' 3PT Jump Shot (15 PTS) (Butler 4 AST),Made Shot,Jump Shot,1,217,1414.5
+21700518,285,PT00M02.50S,2,1610612749,MIL,1627763,Brogdon,M. Brogdon,-12,65,7,Made,1,46.0,56.0,102,h,Brogdon 7' Floating Jump Shot (4 PTS),Made Shot,Floating Jump shot,1,218,1437.5
+21700518,286,PT00M00.00S,2,1610612750,MIN,1626145,Jones,T. Jones,-86,554,56,Missed,1,,,0,v,MISS Jones 56' 3PT Jump Shot,Missed Shot,Jump Shot,1,219,1440.0
+21700518,287,PT00M00.00S,2,0,,1610612750,,,0,0,0,,0,,,0,v,Timberwolves Rebound,Rebound,Unknown,0,220,1440.0
+21700518,288,PT00M00.00S,2,0,,0,,,0,0,0,,0,46.0,56.0,102,,End of 2nd Period (9:06 PM EST),period,end,1,221,1440.0
+21700518,293,PT12M00.00S,3,0,,0,,,0,0,0,,0,46.0,56.0,102,,Start of 3rd Period (9:22 PM EST),period,start,0,222,1440.0

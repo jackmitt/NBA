@@ -257,8 +257,8 @@ def player_pace_within_team():
     plt.figtext(0.75,0.78,"Average Pace given by Team Boxscores",color="k")
     plt.show()
     
-def BHM_tracker():
-    pred = pd.read_csv('./predictions/pace_BHM_base_v4.csv').dropna()
+def BHM_tracker(v):
+    pred = pd.read_csv('./predictions/pace_BHM_base_v'+str(v)+'.csv').dropna()
     pred["AE"] = abs(pred["pred"] - pred["actual"])
     pred["SE"] = (pred["pred"] - pred["actual"])**2
     abs_err = np.average(pred['AE']).round(2)
@@ -269,7 +269,7 @@ def BHM_tracker():
     for index, row in teams.iterrows():
         team_map[row['id']] = row['full_name']
 
-    with open('./intermediates/BHM_base_tracker_v4.pkl', 'rb') as f:
+    with open('./intermediates/BHM_base_tracker_v'+str(v)+'.pkl', 'rb') as f:
         tracker = pickle.load(f)
     
     formatted = {}
@@ -289,12 +289,12 @@ def BHM_tracker():
     plt.legend(loc = 'upper left',fontsize = 'xx-small')
     plt.xlabel("Date")
     plt.ylabel("Pace Rating")
-    plt.title("V4 Bayesian Hierarchical Model 1996-97 thru 2002-03")
+    plt.title("V"+str(v)+" Bayesian Hierarchical Model 1996-97 thru 2002-03")
     plt.show()
 
 
-def BHM_player_tracker():
-    pred = pd.read_csv('./predictions/pace_BHM_player_v9.csv').dropna()
+def BHM_player_tracker(v):
+    pred = pd.read_csv('./predictions/latent/pace_BHM_player_lu_v'+str(v)+'.csv').dropna()
     pred["last_pred AE"] = abs(pred["last_pred"] - pred["actual"])
     pred["last_pred SE"] = (pred["last_pred"] - pred["actual"])**2
     pred["cur_pred AE"] = abs(pred["cur_pred"] - pred["actual"])
@@ -306,7 +306,7 @@ def BHM_player_tracker():
 
     player_map = {1495:"Tim Duncan",406:"Shaquille O'Neal",255:"Grant Hill",467:"Jason Kidd",952:"Antoine Walker"}
 
-    with open('./intermediates/BHM_player_tracker_v9.pkl', 'rb') as f:
+    with open('./intermediates/BHM_player_tracker_lu_v'+str(v)+'.pkl', 'rb') as f:
         tracker = pickle.load(f)
 
     
@@ -322,15 +322,16 @@ def BHM_player_tracker():
             #break
         plt.plot(formatted[key]['date'], formatted[key]['mean'], label=player_map[key])
         plt.fill_between(formatted[key]['date'], np.array(formatted[key]['mean']) - 2*np.array(formatted[key]['sd']), np.array(formatted[key]['mean']) + 2*np.array(formatted[key]['sd']), alpha=0.1)
-    plt.figtext(0.78,0.85,"last_pred Absolute Error: "+str(l_abs_err), fontsize=10)
-    plt.figtext(0.78,0.82,"last_pred Squared Error: "+str(l_sq_err), fontsize=10)
-    plt.figtext(0.78,0.79,"cur_pred Absolute Error: "+str(c_abs_err), fontsize=10)
-    plt.figtext(0.78,0.76,"cur_pred Squared Error: "+str(c_sq_err), fontsize=10)
+    plt.figtext(0.75,0.85,"last_pred Absolute Error: "+str(l_abs_err), fontsize=10)
+    plt.figtext(0.75,0.82,"last_pred Squared Error: "+str(l_sq_err), fontsize=10)
+    plt.figtext(0.75,0.79,"cur_pred Absolute Error: "+str(c_abs_err), fontsize=10)
+    plt.figtext(0.75,0.76,"cur_pred Squared Error: "+str(c_sq_err), fontsize=10)
     plt.legend(loc = 'upper left',fontsize = 'xx-small')
     plt.xlabel("Date")
     plt.ylabel("Pace Rating")
-    plt.title("V9 Player Bayesian Hierarchical Model 1996-97 thru 2002-03")
-    plt.show()
+    plt.title("V"+str(v)+" Lineup-based Player Bayesian Hierarchical Model 1996-97 thru 2002-03")
+    plt.gcf().set_size_inches(16,9)
+    plt.savefig('./figures/pace/V'+str(v)+'_BHM_player_lu.png', dpi=100)
 
 def naive_eff_team():
     df = pd.read_csv("./predictions/eff.csv").dropna()
@@ -438,5 +439,37 @@ def naive_eff_team():
     # ax.set_ylabel("Residual Eff")
     # fig.savefig("./figures/eff/bayes_0.25_resid_plot.png")
 
+def eff_team():
+    t_data = []
+    cols = []
+    for i in [0.25,0.5,0.75,1,1.25,1.5,1.75,2]:
+        df = pd.read_csv("./predictions/latent/player_eff_bhm_1_1.01_1.75_" + str(i) +".csv").dropna()
 
-naive_eff_team()
+        seasons = ""
+        for yr in range(1998, 2003):
+            seasons += str(yr) + "-" + str(yr+1)[2:4]+"|"
+        df = df[df["season"].str.contains(seasons[:-1])]
+
+        methods = ["last_pred","cur_pred"]
+        cols.append("l_"+str(i))
+        cols.append("c_"+str(i))
+
+        for m in methods:
+            df[m+"_AE"] = (abs(df[m+'_h_eff'] - df["actual_h_eff"]) + abs(df[m+'_a_eff'] - df["actual_a_eff"])) / 2
+            df[m+"_SE"] = ((df[m+'_h_eff'] - df["actual_h_eff"])**2 + (df[m+'_a_eff'] - df["actual_a_eff"])**2) / 2
+
+            t_data.append([df[m+"_AE"].mean(),df[m+"_SE"].mean()])
+        
+    
+    t_df = pd.DataFrame(
+        index = ["Mean Absolute Error", "Mean Squared Error"],
+        columns = cols,
+        data = np.array(t_data).T
+    ).round(2)
+
+    fig = go.Figure(go.Table(header={"values":t_df.reset_index().columns, "font":{"size":5}, "align":"left"},
+                  cells={"values":t_df.reset_index().T, "align":"left", "font":{"size":7}}))
+    
+    fig.write_image("./figures/eff/player_eff_bhm_table_b2b.png")
+
+eff_team()

@@ -278,5 +278,161 @@ def player_pace():
     games = pd.concat([games, fdf], axis=1)
     games.to_csv("./predictions/pace_BHM_player_v9.csv", index=False)
 
+def player_pace_by_lineup():
+    ### Hyperparams
+    start_mu = 47.5
+    start_sigma = 3
+    max_sigma = 6
+    #per game fatten is 1 + per_game_fatten_base * (lineup time / 2880)
+    per_game_fatten_base = 0.005
+    obs_sigma = 1
+    #per_season_fatten = 2
+    seed = 1
+
+    lineups = pd.read_csv('./database/unique_lineup_stats.csv')
+    player_bs = pd.read_csv("./database/advanced_boxscores_players.csv")
+    team_bs = pd.read_csv("./database/advanced_boxscores_teams.csv")
+    games = pd.read_csv("./database/games.csv")
+    seasons = ""
+    for yr in range(1996, 2003):
+        seasons += str(yr) + "-" + str(yr+1)[2:4]+"|"
+    games = games[games["season"].str.contains(seasons[:-1])]
+    games = games[games["game_type"].str.contains("Regular Season|Playoffs")]
+    teams = games['h_team_id'].unique()
+    players = player_bs['player_id'].unique()
+
+    player_bs['seconds'] = player_bs['minutes'].dropna().transform(lambda x: int(x.split(":")[0]) * 60 + int(x.split(":")[1]))
+
+    features = []
+
+    player_map = {}
+    player_team = {}
+    priors = [[],[]]
+    tracker = {}
+    for i in range(len(players)):
+        priors[0].append(start_mu)
+        priors[1].append(start_sigma)
+        player_map[players[i]] = i
+        player_team[players[i]] = -1
+        tracker[players[i]] = {}
+    priors[0] = np.array(priors[0], dtype='float')
+    priors[1] = np.array(priors[1], dtype='float')
+
+    #refer to overall playing time in the last and current game
+    last_lineup = {}
+    cur_lineup = {}
+    for team in teams:
+        last_lineup[team] = {}
+        cur_lineup[team] = {}
+
+    for gid in tqdm(games['game_id'].unique()):
+        team_game = team_bs.loc[team_bs["game_id"] == gid,].reset_index()
+        cur_game = player_bs.loc[player_bs["game_id"] == gid,].dropna().reset_index()
+        cur_lu = lineups.loc[lineups['game_id'] == gid,].reset_index()    
+        cur_season = games.loc[games["game_id"] == gid, ]["season"].to_list()[0]
+        date = games.loc[games["game_id"] == gid, ]["game_date"].to_list()[0]
+
+        try:
+            lu_pace = cur_lu.at[0,'pace']
+            team_pace = team_game.at[0,"pace"]
+        except:
+            if (cur_season != "1996-97"):
+                cur_f = {}
+                features.append(cur_f)
+            continue
+
+        h_id = cur_game['team_id'].unique()[0]
+        a_id = cur_game['team_id'].unique()[1]
+        total_sec = cur_game.loc[cur_game['team_id'] == h_id, ]['seconds'].sum()
+
+
+        for x in [h_id, a_id]:
+            cur_lineup[x] = {}
+            for index, row in cur_game.loc[cur_game['team_id'] == x, ].iterrows():
+                cur_lineup[x][row['player_id']] = row['seconds']/total_sec
+                tracker[row['player_id']][date] = [priors[0][player_map[row['player_id']]], priors[1][player_map[row['player_id']]]]
+
+
+        cur_f = {'last_pred':0,'cur_pred':0}
+        if (cur_season != "1996-97"):
+            for x in [h_id,a_id]:
+                for z in cur_lineup[x]:
+                    cur_f['cur_pred'] += cur_lineup[x][z] * priors[0][player_map[z]]
+                for z in last_lineup[x]:
+                    cur_f['last_pred'] += last_lineup[x][z] * priors[0][player_map[z]]
+            cur_f["actual"] = cur_lu['possessions'].sum() * 2880 / list(cur_lu['end'])[-1]  
+            features.append(cur_f)
+
+        last_lineup[h_id] = {}
+        for index, row in cur_game.loc[cur_game['team_id'] == h_id, ].iterrows():
+            last_lineup[h_id][row['player_id']] = row['seconds']/total_sec
+        last_lineup[a_id] = {}
+        for index, row in cur_game.loc[cur_game['team_id'] == a_id, ].iterrows():
+            last_lineup[a_id][row['player_id']] = row['seconds']/total_sec
+
+        #Update
+        for index, row in cur_lu.iterrows():
+            if (row['end'] == row['start']):
+                continue
+            expected_h_pace = 0
+            missing_h = 0
+            expected_a_pace = 0
+            missing_a = 0
+            for i in range(1,6):
+                #it will be nan in the case that it the game ends in an ot period where there was no sub and an unknown player - failed to code that case
+                if (row['h_player_'+str(i)] < 0 or pd.isnull(row['h_player_'+str(i)])):
+                    missing_h += 1
+                else:
+                    expected_h_pace += priors[0][player_map[row['h_player_'+str(i)]]] / 5
+                if (row['a_player_'+str(i)] < 0 or pd.isnull(row['a_player_'+str(i)])):
+                    missing_a += 1
+                else:
+                    expected_a_pace += priors[0][player_map[row['a_player_'+str(i)]]] / 5
+            
+            expected_h_pace = expected_h_pace * 5 / (5 - missing_h)
+            expected_a_pace = expected_a_pace * 5 / (5 - missing_a)
+
+            h_obs = lu_pace - expected_a_pace
+            a_obs = lu_pace - expected_h_pace
+            obs_sd = 2880/(row['end']-row['start'])
+            per_game_fatten = 1 + per_game_fatten_base * (row['end']-row['start']) / 2880
+
+            for i in range(1,6):
+                if (row['h_player_'+str(i)] >= 0 and not pd.isnull(row['h_player_'+str(i)])):
+                    pid = player_map[row['h_player_'+str(i)]]
+                    priors[0][pid] = (priors[0][pid]*(obs_sd)**2 + (h_obs)*priors[1][pid]**2) / (priors[1][pid]**2 + (obs_sd)**2)
+                    priors[1][pid] = min(math.sqrt((priors[1][pid]**2*(obs_sd)**2) / (priors[1][pid]**2 + (obs_sd)**2)) * per_game_fatten, 6)
+                if (row['a_player_'+str(i)] >= 0 and not pd.isnull(row['a_player_'+str(i)])):
+                    pid = player_map[row['a_player_'+str(i)]]
+                    priors[0][pid] = (priors[0][pid]*(obs_sd)**2 + (a_obs)*priors[1][pid]**2) / (priors[1][pid]**2 + (obs_sd)**2)
+                    priors[1][pid] = min(math.sqrt((priors[1][pid]**2*(obs_sd)**2) / (priors[1][pid]**2 + (obs_sd)**2)) * per_game_fatten, 6)
+
+    
+    seasons = ""
+    for yr in range(1997, 2003):
+        seasons += str(yr) + "-" + str(yr+1)[2:4]+"|"
+    games = games[games["season"].str.contains(seasons[:-1])].reset_index()
+    
+    print (games)
+    fdf = pd.DataFrame(features)
+    print  (fdf)
+    with open('./intermediates/BHM_player_tracker_lu_v4.pkl', 'wb') as f:
+        pickle.dump(tracker, f)
+    games = pd.concat([games, fdf], axis=1)
+    games.to_csv("./predictions/latent/pace_BHM_player_lu_v4.csv", index=False)
+
+
 if __name__ == '__main__':
-    player_pace()
+    player_pace_pymc()
+
+
+    #For messing with the parameters
+    # mu = 47.5
+    # sd = 1
+    # obs = 14000
+    # obs_sd = 2880/0.1
+    # per_game_fatten = 1 + 0.05*(0.1/2880)
+    # print (per_game_fatten)
+    # new_mu = (mu*(obs_sd)**2 + (obs)*sd**2) / (sd**2 + (obs_sd)**2)
+    # new_sd = min(math.sqrt((sd**2*(obs_sd)**2) / (sd**2 + (obs_sd)**2)) * per_game_fatten, 6)
+    # print (new_mu, new_sd)

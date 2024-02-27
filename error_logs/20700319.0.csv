@@ -1,0 +1,68 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId,clock_sec
+20700319,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (7:30 PM EST),period,start,0,1,0.0
+20700319,1,PT12M00.00S,1,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,0.0,0.0,0,h,Jump Ball Curry vs. Wilcox: Tip to Crawford,Jump Ball,,0,2,0.0
+20700319,2,PT11M40.00S,1,1610612752,NYK,2201,Curry,E. Curry,113,-1,11,Missed,1,0.0,0.0,0,h,MISS Curry 11' Jump Shot,Missed Shot,Jump Shot,0,3,20.0
+20700319,3,PT11M38.00S,1,1610612752,NYK,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,h,Randolph REBOUND (Off:1 Def:0),Rebound,Unknown,0,4,22.0
+20700319,4,PT11M36.00S,1,1610612752,NYK,2047,Richardson,Q. Richardson,-238,2,24,Missed,1,0.0,0.0,0,h,MISS Richardson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,5,24.0
+20700319,5,PT11M34.00S,1,1610612760,SEA,2863,Wilkins,D. Wilkins,0,0,0,,0,0.0,0.0,0,v,Wilkins REBOUND (Off:0 Def:1),Rebound,Unknown,0,6,26.0
+20700319,6,PT11M24.00S,1,1610612760,SEA,703,Thomas,K. Thomas,-113,163,20,Missed,1,0.0,0.0,0,v,MISS Thomas 20' Jump Shot,Missed Shot,Jump Shot,0,7,36.0
+20700319,7,PT11M22.00S,1,1610612752,NYK,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,h,Randolph REBOUND (Off:1 Def:1),Rebound,Unknown,0,8,38.0
+20700319,8,PT11M09.00S,1,1610612752,NYK,2201,Curry,E. Curry,0,0,0,Missed,1,0.0,0.0,0,h,MISS Curry  Layup,Missed Shot,Layup Shot,0,9,51.0
+20700319,8,PT11M09.00S,1,1610612760,SEA,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,v,Thomas BLOCK (1 BLK),,,0,10,51.0
+20700319,9,PT11M06.00S,1,1610612760,SEA,2863,Wilkins,D. Wilkins,0,0,0,,0,0.0,0.0,0,v,Wilkins REBOUND (Off:0 Def:2),Rebound,Unknown,0,11,54.0
+20700319,10,PT11M01.00S,1,1610612760,SEA,2248,Watson,E. Watson,-120,64,14,Missed,1,0.0,0.0,0,v,MISS Watson 14' Jump Shot,Missed Shot,Jump Shot,0,12,59.0
+20700319,11,PT11M00.00S,1,1610612752,NYK,2410,Jones,F. Jones,0,0,0,,0,0.0,0.0,0,h,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,13,60.0
+20700319,12,PT10M51.00S,1,1610612752,NYK,2216,Randolph,Z. Randolph,169,-8,17,Made,1,2.0,0.0,2,h,Randolph 17' Jump Shot (2 PTS),Made Shot,Jump Shot,0,14,69.0
+20700319,13,PT10M43.00S,1,1610612760,SEA,2863,Wilkins,D. Wilkins,-133,138,19,Made,1,2.0,2.0,4,v,Wilkins 19' Jump Shot (2 PTS) (Watson 1 AST),Made Shot,Jump Shot,0,15,77.0
+20700319,16,PT10M29.00S,1,1610612760,SEA,2404,Wilcox,C. Wilcox,0,0,0,,0,0.0,0.0,0,v,Wilcox P.FOUL (P1.T1),Foul,Personal,0,16,91.0
+20700319,17,PT10M15.00S,1,1610612752,NYK,2216,Randolph,Z. Randolph,29,199,20,Missed,1,0.0,0.0,0,h,MISS Randolph 20' Jump Shot,Missed Shot,Jump Shot,0,17,105.0
+20700319,18,PT10M14.00S,1,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,0.0,0.0,0,h,Curry REBOUND (Off:1 Def:0),Rebound,Unknown,0,18,106.0
+20700319,19,PT10M12.00S,1,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,0.0,0.0,0,h,Curry Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,19,108.0
+20700319,19,PT10M12.00S,1,1610612760,SEA,2863,Wilkins,D. Wilkins,0,0,0,,0,0.0,0.0,0,v,Wilkins STEAL (1 STL),,,0,20,108.0
+20700319,20,PT10M04.00S,1,1610612760,SEA,2404,Wilcox,C. Wilcox,0,0,0,Made,1,2.0,4.0,6,v,Wilcox  Driving Layup (2 PTS) (Wilkins 1 AST),Made Shot,Driving Layup Shot,0,21,116.0
+20700319,21,PT10M04.00S,1,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,0.0,0.0,0,h,Curry S.FOUL (P1.T1),Foul,Shooting,0,22,116.0
+20700319,22,PT10M04.00S,1,1610612760,SEA,2404,Wilcox,C. Wilcox,0,0,0,,0,2.0,5.0,7,v,Wilcox Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,23,116.0
+20700319,23,PT09M46.00S,1,1610612752,NYK,2047,Richardson,Q. Richardson,227,59,0,Made,1,5.0,5.0,10,h,Richardson  3PT Jump Shot (3 PTS) (Jones 1 AST),Made Shot,Jump Shot,0,24,134.0
+20700319,24,PT09M36.00S,1,1610612760,SEA,2863,Wilkins,D. Wilkins,82,163,18,Missed,1,0.0,0.0,0,v,MISS Wilkins 18' Jump Shot,Missed Shot,Jump Shot,0,25,144.0
+20700319,25,PT09M34.00S,1,1610612752,NYK,2037,Crawford,J. Crawford,0,0,0,,0,0.0,0.0,0,h,Crawford REBOUND (Off:0 Def:1),Rebound,Unknown,0,26,146.0
+20700319,26,PT09M21.00S,1,1610612752,NYK,2037,Crawford,J. Crawford,113,219,25,Made,1,8.0,5.0,13,h,Crawford 25' 3PT Jump Shot (3 PTS) (Randolph 1 AST),Made Shot,Jump Shot,0,27,159.0
+20700319,27,PT09M06.00S,1,1610612760,SEA,201142,Durant,K. Durant,0,0,0,Made,1,8.0,7.0,15,v,Durant  Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,28,174.0
+20700319,28,PT08M47.00S,1,1610612752,NYK,2047,Richardson,Q. Richardson,21,196,20,Missed,1,0.0,0.0,0,h,MISS Richardson 20' Jump Shot,Missed Shot,Jump Shot,0,29,193.0
+20700319,29,PT08M45.00S,1,1610612760,SEA,2404,Wilcox,C. Wilcox,0,0,0,,0,0.0,0.0,0,v,Wilcox REBOUND (Off:0 Def:1),Rebound,Unknown,0,30,195.0
+20700319,30,PT08M38.00S,1,1610612760,SEA,201142,Durant,K. Durant,-120,214,25,Missed,1,0.0,0.0,0,v,MISS Durant 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,31,202.0
+20700319,31,PT08M35.00S,1,1610612752,NYK,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,h,Randolph REBOUND (Off:1 Def:2),Rebound,Unknown,0,32,205.0
+20700319,32,PT08M23.00S,1,1610612752,NYK,2201,Curry,E. Curry,-34,45,6,Made,1,10.0,7.0,17,h,Curry 6' Hook Shot (2 PTS) (Jones 2 AST),Made Shot,Hook Shot,0,33,217.0
+20700319,33,PT08M14.00S,1,1610612760,SEA,2248,Watson,E. Watson,0,0,0,Made,1,10.0,9.0,19,v,Watson  Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,34,226.0
+20700319,34,PT08M06.00S,1,1610612752,NYK,2410,Jones,F. Jones,0,0,0,,0,0.0,0.0,0,h,Jones Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,35,234.0
+20700319,34,PT08M06.00S,1,1610612760,SEA,2863,Wilkins,D. Wilkins,0,0,0,,0,0.0,0.0,0,v,Wilkins STEAL (2 STL),,,0,36,234.0
+20700319,35,PT07M46.00S,1,1610612760,SEA,201142,Durant,K. Durant,102,238,26,Missed,1,0.0,0.0,0,v,MISS Durant 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,37,254.0
+20700319,36,PT07M44.00S,1,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0.0,0.0,0,h,Richardson REBOUND (Off:0 Def:1),Rebound,Unknown,0,38,256.0
+20700319,37,PT07M35.00S,1,1610612760,SEA,2248,Watson,E. Watson,0,0,0,,0,0.0,0.0,0,v,Watson P.FOUL (P1.T2),Foul,Personal,0,39,265.0
+20700319,38,PT07M25.00S,1,1610612752,NYK,2410,Jones,F. Jones,126,220,25,Missed,1,0.0,0.0,0,h,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,40,275.0
+20700319,39,PT07M23.00S,1,1610612760,SEA,2404,Wilcox,C. Wilcox,0,0,0,,0,0.0,0.0,0,v,Wilcox REBOUND (Off:0 Def:2),Rebound,Unknown,0,41,277.0
+20700319,40,PT07M06.00S,1,1610612760,SEA,703,Thomas,K. Thomas,-117,-21,12,Made,1,10.0,11.0,21,v,Thomas 12' Jump Shot (2 PTS) (Wilkins 2 AST),Made Shot,Jump Shot,0,42,294.0
+20700319,41,PT06M47.00S,1,1610612752,NYK,2037,Crawford,J. Crawford,90,240,26,Made,1,13.0,11.0,24,h,Crawford 26' 3PT Jump Shot (6 PTS),Made Shot,Jump Shot,0,43,313.0
+20700319,42,PT06M39.00S,1,1610612760,SEA,2248,Watson,E. Watson,120,161,20,Made,1,13.0,13.0,26,v,Watson 20' Jump Shot (4 PTS),Made Shot,Jump Shot,0,44,321.0
+20700319,43,PT06M26.00S,1,1610612752,NYK,2216,Randolph,Z. Randolph,0,0,0,Missed,1,0.0,0.0,0,h,MISS Randolph  Layup,Missed Shot,Layup Shot,0,45,334.0
+20700319,44,PT06M26.00S,1,1610612752,NYK,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,h,Randolph REBOUND (Off:2 Def:2),Rebound,Unknown,0,46,334.0
+20700319,45,PT06M24.00S,1,1610612752,NYK,2216,Randolph,Z. Randolph,0,0,0,Made,1,15.0,13.0,28,h,Randolph  Putback Layup (4 PTS),Made Shot,Putback Layup Shot,0,47,336.0
+20700319,46,PT06M14.00S,1,1610612760,SEA,2404,Wilcox,C. Wilcox,0,0,0,Made,1,15.0,15.0,30,v,Wilcox  Driving Layup (5 PTS) (Watson 2 AST),Made Shot,Driving Layup Shot,0,48,346.0
+20700319,47,PT06M14.00S,1,1610612752,NYK,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,h,Randolph S.FOUL (P1.T2),Foul,Shooting,0,49,346.0
+20700319,48,PT06M14.00S,1,1610612760,SEA,2404,Wilcox,C. Wilcox,0,0,0,,0,0.0,0.0,0,v,MISS Wilcox Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,50,346.0
+20700319,49,PT06M13.00S,1,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,0.0,0.0,0,h,Curry REBOUND (Off:1 Def:1),Rebound,Unknown,0,51,347.0
+20700319,50,PT05M51.00S,1,1610612752,NYK,2047,Richardson,Q. Richardson,238,-11,24,Made,1,18.0,15.0,33,h,Richardson 24' 3PT Jump Shot (6 PTS) (Crawford 1 AST),Made Shot,Jump Shot,0,52,369.0
+20700319,51,PT05M32.00S,1,1610612760,SEA,2404,Wilcox,C. Wilcox,163,-11,16,Missed,1,0.0,0.0,0,v,MISS Wilcox 16' Jump Shot,Missed Shot,Jump Shot,0,53,388.0
+20700319,52,PT05M30.00S,1,1610612752,NYK,2216,Randolph,Z. Randolph,0,0,0,,0,0.0,0.0,0,h,Randolph REBOUND (Off:2 Def:3),Rebound,Unknown,0,54,390.0
+20700319,53,PT05M23.00S,1,1610612752,NYK,2410,Jones,F. Jones,0,0,0,Made,1,20.0,15.0,35,h,Jones  Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,55,397.0
+20700319,54,PT05M15.00S,1,1610612760,SEA,2248,Watson,E. Watson,0,0,0,,0,0.0,0.0,0,v,Watson Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,56,405.0
+20700319,54,PT05M15.00S,1,1610612752,NYK,2410,Jones,F. Jones,0,0,0,,0,0.0,0.0,0,h,Jones STEAL (1 STL),,,0,57,405.0
+20700319,55,PT05M10.00S,1,1610612760,SEA,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,v,Thomas S.FOUL (P1.T3),Foul,Shooting,0,58,410.0
+20700319,56,PT05M10.00S,1,0,,1610612752,,,0,0,0,,0,0.0,0.0,0,h,KNICKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,59,410.0
+20700319,58,PT05M10.00S,1,1610612752,NYK,2201,Curry,E. Curry,0,0,0,,0,0.0,0.0,0,h,SUB: Lee FOR Curry,Substitution,,0,60,410.0
+20700319,59,PT05M10.00S,1,1610612760,SEA,2404,Wilcox,C. Wilcox,0,0,0,,0,0.0,0.0,0,v,SUB: Collison FOR Wilcox,Substitution,,0,61,410.0
+20700319,60,PT05M10.00S,1,1610612760,SEA,2863,Wilkins,D. Wilkins,0,0,0,,0,0.0,0.0,0,v,SUB: Szczerbiak FOR Wilkins,Substitution,,0,62,410.0
+20700319,61,PT05M10.00S,1,1610612760,SEA,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,v,SUB: Green FOR Thomas,Substitution,,0,63,410.0
+20700319,62,PT05M10.00S,1,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0.0,0.0,0,h,MISS Richardson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,64,410.0
+20700319,63,PT05M10.00S,1,0,,1610612752,,,0,0,0,,0,0.0,0.0,0,h,KNICKS Rebound,Rebound,Normal Rebound,0,65,410.0
+20700319,64,PT05M10.00S,1,1610612752,NYK,2047,Richardson,Q. Richardson,0,0,0,,0,0.0,0.0,0,h,MISS Richardson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,66,410.0
+20700319,65,PT05M10.00S,1,1610612760,SEA,2555,Collison,N. Collison,0,0,0,,0,0.0,0.0,0,v,Collison REBOUND (Off:0 Def:1),Rebound,Unknown,0,67,410.0

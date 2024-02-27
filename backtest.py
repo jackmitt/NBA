@@ -262,9 +262,9 @@ def backtest_bet(model):
     table = []
 
     for index in tqdm(range(len(pred.index))):
-        pred_dist = score_joint_pmf(pred.at[index, 'pace_pred'],pred.at[index, 'h_rtg_pred'],pred.at[index, 'a_rtg_pred'])
+        pred_dist = score_joint_pmf(pred.at[index, 'pred_pace'],pred.at[index, 'h_rtg_pred'],pred.at[index, 'a_rtg_pred'])
 
-        cur_row = {'pred_h_points':pred.at[index, 'pace_pred']*pred.at[index, 'h_rtg_pred']/100,'pred_a_points':pred.at[index, 'pace_pred']*pred.at[index, 'a_rtg_pred']/100}
+        cur_row = {'pred_h_points':pred.at[index, 'pred_pace']*pred.at[index, 'h_rtg_pred']/100,'pred_a_points':pred.at[index, 'pred_pace']*pred.at[index, 'a_rtg_pred']/100}
 
         if (not pd.isnull(pred.at[index, 'bet365_open_spread']) and not pd.isnull(pred.at[index, 'bet365_close_spread'])):
             p_open_home, p_close_home = p_spread(pred_dist, pred.at[index,'bet365_open_spread'], pred.at[index,'bet365_close_spread'])
@@ -312,7 +312,7 @@ def backtest_bet(model):
     
     bets = pd.DataFrame(table)
     pred = pd.concat([pred, bets], axis=1)
-    pred.to_csv("./predictions/betting/post_bet/placeholder.csv", index=False)
+    pred.to_csv("./predictions/betting/post_bet/"+model+".csv", index=False)
     
 
 def backtest_eval(model):
@@ -327,10 +327,13 @@ def backtest_eval(model):
             for z in ['pred','actual']:
                 pred[z+'_'+x+'_'+y+'_edge'] = pred.apply(edge, args=(y,x,z),axis=1)
     
-    #bankroll_growth_graph(pred,model)
+    bankroll_growth_graph(pred,model)
     calibration_curve_edge(pred,model)
 
-    
-    
-
-backtest_eval('placeholder')
+       
+#backtest_bet('base_player_eff_bhm')
+#backtest_bet('player_eff_bhm_home_app_twice')
+#backtest_bet('player_eff_bhm_b2b')
+backtest_eval('base_player_eff_bhm')
+backtest_eval('player_eff_bhm_home_app_twice')
+backtest_eval('player_eff_bhm_b2b')

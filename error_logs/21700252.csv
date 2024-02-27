@@ -1,0 +1,501 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+21700252,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (10:41 PM EST),period,start,0,1
+21700252,4,PT12M00.00S,1,1610612747,LAL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Jump Ball Lopez vs. Lopez: Tip to Ball,Jump Ball,,1,2
+21700252,7,PT11M48.00S,1,1610612747,LAL,1628398,Kuzma,K. Kuzma,1,9,1,Made,1,2.0,0.0,2,h,Kuzma 1' Cutting Dunk Shot (2 PTS) (Ball 1 AST),Made Shot,Cutting Dunk Shot,1,3
+21700252,9,PT11M30.00S,1,1610612741,CHI,1627739,Dunn,K. Dunn,-58,164,17,Made,1,2.0,2.0,4,v,Dunn 17' Jump Shot (2 PTS),Made Shot,Jump Shot,1,4
+21700252,10,PT11M11.00S,1,1610612747,LAL,1628366,Ball,L. Ball,-138,213,25,Missed,1,,,0,h,MISS Ball 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,5
+21700252,11,PT11M07.00S,1,1610612741,CHI,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,6
+21700252,12,PT11M03.00S,1,1610612741,CHI,1627756,Valentine,D. Valentine,-20,54,6,Made,1,2.0,4.0,6,v,Valentine 6' Hook Shot (2 PTS) (Dunn 1 AST),Made Shot,Hook Shot,1,7
+21700252,14,PT10M52.00S,1,1610612747,LAL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,8
+21700252,14,PT10M52.00S,1,1610612741,CHI,1627756,Valentine,D. Valentine,0,0,0,,0,,,0,v,Valentine STEAL (1 STL),,,1,9
+21700252,16,PT10M38.00S,1,1610612741,CHI,1628374,Markkanen,L. Markkanen,-51,169,18,Missed,1,,,0,v,MISS Markkanen 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,10
+21700252,17,PT10M36.00S,1,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Unknown,0,11
+21700252,18,PT10M28.00S,1,1610612747,LAL,201572,Lopez,B. Lopez,23,251,25,Missed,1,,,0,h,MISS Lopez 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,12
+21700252,19,PT10M24.00S,1,1610612741,CHI,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,13
+21700252,20,PT10M18.00S,1,1610612741,CHI,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,14
+21700252,20,PT10M18.00S,1,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope STEAL (1 STL),,,1,15
+21700252,22,PT10M01.00S,1,1610612747,LAL,201572,Lopez,B. Lopez,22,88,9,Missed,1,,,0,h,MISS Lopez 9' Hook Shot,Missed Shot,Hook Shot,1,16
+21700252,23,PT09M57.00S,1,1610612741,CHI,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,Markkanen REBOUND (Off:0 Def:1),Rebound,Unknown,1,17
+21700252,24,PT09M49.00S,1,1610612741,CHI,203200,Holiday,J. Holiday,14,60,6,Missed,1,,,0,v,MISS Holiday 6' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,18
+21700252,25,PT09M47.00S,1,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope REBOUND (Off:0 Def:1),Rebound,Unknown,1,19
+21700252,26,PT09M40.00S,1,1610612747,LAL,1627742,Ingram,B. Ingram,-167,188,25,Made,1,5.0,4.0,9,h,Ingram 25' 3PT Jump Shot (3 PTS) (Caldwell-Pope 1 AST),Made Shot,Jump Shot,1,20
+21700252,27,PT09M28.00S,1,1610612741,CHI,1628374,Markkanen,L. Markkanen,10,8,1,Missed,1,,,0,v,MISS Markkanen 1' Layup,Missed Shot,Layup Shot,1,21
+21700252,28,PT09M26.00S,1,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma REBOUND (Off:0 Def:1),Rebound,Unknown,1,22
+21700252,30,PT09M10.00S,1,1610612747,LAL,1628398,Kuzma,K. Kuzma,-225,21,0,Made,1,8.0,4.0,12,h,Kuzma 3PT Jump Shot (5 PTS) (Caldwell-Pope 2 AST),Made Shot,Jump Shot,1,23
+21700252,32,PT08M57.00S,1,1610612741,CHI,1628374,Markkanen,L. Markkanen,-144,200,25,Missed,1,,,0,v,MISS Markkanen 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,24
+21700252,33,PT08M54.00S,1,1610612747,LAL,1628366,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:0 Def:1),Rebound,Unknown,1,25
+21700252,34,PT08M49.00S,1,1610612747,LAL,201572,Lopez,B. Lopez,51,250,26,Missed,1,,,0,h,MISS Lopez 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,26
+21700252,35,PT08M46.00S,1,1610612741,CHI,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,1,27
+21700252,36,PT08M39.00S,1,1610612741,CHI,201577,Lopez,R. Lopez,-2,49,5,Made,1,8.0,6.0,14,v,Lopez 5' Floating Jump Shot (2 PTS) (Dunn 2 AST),Made Shot,Floating Jump shot,1,28
+21700252,38,PT08M27.00S,1,1610612747,LAL,201572,Lopez,B. Lopez,-4,11,1,Made,1,10.0,6.0,16,h,Lopez 1' Cutting Layup Shot (2 PTS) (Ingram 1 AST),Made Shot,Cutting Layup Shot,1,29
+21700252,40,PT08M08.00S,1,1610612741,CHI,201577,Lopez,R. Lopez,49,193,20,Made,1,10.0,8.0,18,v,Lopez 20' Jump Shot (4 PTS) (Holiday 1 AST),Made Shot,Jump Shot,1,30
+21700252,42,PT07M55.00S,1,1610612741,CHI,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Violation:Kicked Ball (G.Zielinski),Violation,Kicked Ball,0,31
+21700252,43,PT07M40.00S,1,1610612747,LAL,1628366,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,32
+21700252,43,PT07M40.00S,1,1610612741,CHI,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn STEAL (1 STL),,,1,33
+21700252,45,PT07M34.00S,1,1610612741,CHI,1627756,Valentine,D. Valentine,-235,1,24,Made,1,10.0,11.0,21,v,Valentine 24' 3PT Jump Shot (5 PTS) (Holiday 2 AST),Made Shot,Jump Shot,1,34
+21700252,47,PT07M33.00S,1,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,35
+21700252,48,PT07M16.00S,1,1610612747,LAL,1628366,Ball,L. Ball,-163,193,25,Missed,1,,,0,h,MISS Ball 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,36
+21700252,49,PT07M13.00S,1,1610612741,CHI,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,Markkanen REBOUND (Off:0 Def:2),Rebound,Unknown,1,37
+21700252,86,PT07M05.00S,1,1610612741,CHI,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday Backcourt Turnover (P1.T2),Turnover,Backcourt Turnover,1,38
+21700252,51,PT07M01.00S,1,1610612747,LAL,1628398,Kuzma,K. Kuzma,-4,73,7,Made,1,12.0,11.0,23,h,Kuzma 7' Floating Jump Shot (7 PTS) (Lopez 1 AST),Made Shot,Floating Jump shot,1,39
+21700252,156,PT06M52.00S,1,1610612741,CHI,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,Markkanen Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,40
+21700252,156,PT06M52.00S,1,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope STEAL (2 STL),,,0,41
+21700252,55,PT06M46.00S,1,1610612747,LAL,1628366,Ball,L. Ball,-3,5,1,Missed,1,,,0,h,MISS Ball 1' Layup,Missed Shot,Layup Shot,1,42
+21700252,55,PT06M46.00S,1,1610612741,CHI,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn BLOCK (1 BLK),,,1,43
+21700252,57,PT06M42.00S,1,1610612741,CHI,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:3),Rebound,Unknown,1,44
+21700252,58,PT06M40.00S,1,1610612741,CHI,203200,Holiday,J. Holiday,-90,86,12,Missed,1,,,0,v,MISS Holiday 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,45
+21700252,59,PT06M40.00S,1,1610612747,LAL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez REBOUND (Off:0 Def:1),Rebound,Unknown,1,46
+21700252,60,PT06M32.00S,1,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,47
+21700252,60,PT06M32.00S,1,1610612741,CHI,1627756,Valentine,D. Valentine,0,0,0,,0,,,0,v,Valentine STEAL (2 STL),,,1,48
+21700252,62,PT06M16.00S,1,1610612741,CHI,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,49
+21700252,62,PT06M16.00S,1,1610612747,LAL,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram STEAL (1 STL),,,1,50
+21700252,64,PT06M12.00S,1,1610612747,LAL,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram OFF.Foul (P1) (B.Nansel),Foul,Offensive,1,51
+21700252,66,PT06M12.00S,1,1610612747,LAL,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,52
+21700252,67,PT05M55.00S,1,1610612741,CHI,1627739,Dunn,K. Dunn,-82,154,17,Made,1,12.0,13.0,25,v,Dunn 17' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,1,53
+21700252,68,PT05M45.00S,1,1610612747,LAL,1628398,Kuzma,K. Kuzma,51,255,26,Made,1,15.0,13.0,28,h,Kuzma 26' 3PT Jump Shot (10 PTS) (Ball 2 AST),Made Shot,Jump Shot,1,54
+21700252,70,PT05M36.00S,1,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma P.FOUL (P1.T1) (B.Nansel),Foul,Personal,1,55
+21700252,72,PT05M36.00S,1,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,SUB: Randle FOR Kuzma,Substitution,,0,56
+21700252,75,PT05M16.00S,1,1610612741,CHI,203200,Holiday,J. Holiday,147,212,26,Missed,1,,,0,v,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,57
+21700252,76,PT05M13.00S,1,1610612747,LAL,1628366,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:0 Def:2),Rebound,Unknown,1,58
+21700252,77,PT05M03.00S,1,1610612747,LAL,1627742,Ingram,B. Ingram,-5,9,1,Made,1,17.0,13.0,30,h,Ingram 1' Driving Reverse Layup (5 PTS),Made Shot,Driving Reverse Layup Shot,1,59
+21700252,78,PT04M58.00S,1,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,60
+21700252,79,PT04M58.00S,1,0,,68,,,0,0,0,,0,17.0,13.0,30,,Instant Replay1st Period (10:54 PM EST),Instant Replay,Support Ruling,0,61
+21700252,80,PT04M58.00S,1,1610612741,CHI,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Blakeney FOR Holiday,Substitution,,0,62
+21700252,81,PT04M58.00S,1,1610612741,CHI,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,SUB: Portis FOR Markkanen,Substitution,,0,63
+21700252,84,PT04M49.00S,1,1610612741,CHI,201577,Lopez,R. Lopez,-11,10,1,Made,1,17.0,15.0,32,v,Lopez 1' Hook Shot (6 PTS) (Dunn 3 AST),Made Shot,Hook Shot,1,64
+21700252,87,PT04M39.00S,1,1610612747,LAL,1628366,Ball,L. Ball,-3,11,1,Made,1,19.0,15.0,34,h,Ball 1' Alley Oop Dunk (2 PTS) (Ingram 2 AST),Made Shot,Alley Oop Dunk Shot,1,65
+21700252,89,PT04M20.00S,1,1610612741,CHI,1627739,Dunn,K. Dunn,-104,228,25,Missed,1,,,0,v,MISS Dunn 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,66
+21700252,90,PT04M14.00S,1,1610612741,CHI,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:1 Def:0),Rebound,Unknown,1,67
+21700252,91,PT04M13.00S,1,1610612741,CHI,201577,Lopez,R. Lopez,-13,10,2,Made,1,19.0,17.0,36,v,Lopez 2' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,1,68
+21700252,92,PT04M05.00S,1,1610612747,LAL,1627742,Ingram,B. Ingram,145,108,18,Missed,1,,,0,h,MISS Ingram 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,69
+21700252,93,PT04M05.00S,1,1610612741,CHI,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:0 Def:1),Rebound,Unknown,1,70
+21700252,94,PT03M53.00S,1,1610612741,CHI,1627756,Valentine,D. Valentine,178,180,25,Made,1,19.0,20.0,39,v,Valentine 25' 3PT Jump Shot (8 PTS) (Portis 1 AST),Made Shot,Jump Shot,1,71
+21700252,96,PT03M30.00S,1,1610612747,LAL,203944,Randle,J. Randle,-80,173,19,Missed,1,,,0,h,MISS Randle 19' Jump Shot,Missed Shot,Jump Shot,1,72
+21700252,97,PT03M30.00S,1,1610612741,CHI,1627756,Valentine,D. Valentine,0,0,0,,0,,,0,v,Valentine REBOUND (Off:0 Def:1),Rebound,Unknown,1,73
+21700252,98,PT03M21.00S,1,1610612741,CHI,1627739,Dunn,K. Dunn,67,175,19,Missed,1,,,0,v,MISS Dunn 19' Jump Shot,Missed Shot,Jump Shot,1,74
+21700252,99,PT03M18.00S,1,1610612747,LAL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez REBOUND (Off:0 Def:2),Rebound,Unknown,1,75
+21700252,100,PT03M07.00S,1,1610612747,LAL,1627742,Ingram,B. Ingram,3,14,1,Missed,1,,,0,h,MISS Ingram 1' Driving Layup,Missed Shot,Driving Layup Shot,1,76
+21700252,101,PT03M06.00S,1,1610612741,CHI,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:0 Def:2),Rebound,Unknown,1,77
+21700252,102,PT02M59.00S,1,1610612741,CHI,1628469,Blakeney,A. Blakeney,-230,31,0,Missed,1,,,0,v,MISS Blakeney 3PT Jump Shot,Missed Shot,Jump Shot,1,78
+21700252,103,PT02M56.00S,1,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope REBOUND (Off:0 Def:2),Rebound,Unknown,1,79
+21700252,104,PT02M52.00S,1,1610612741,CHI,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,Lopez P.FOUL (P1.T1) (G.Zielinski),Foul,Personal,1,80
+21700252,106,PT02M52.00S,1,1610612747,LAL,1628366,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Clarkson FOR Ball,Substitution,,0,81
+21700252,107,PT02M52.00S,1,1610612741,CHI,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Grant FOR Dunn,Substitution,,0,82
+21700252,110,PT02M52.00S,1,1610612747,LAL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,SUB: Zubac FOR Lopez,Substitution,,0,83
+21700252,112,PT02M44.00S,1,1610612747,LAL,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle Traveling Turnover (P1.T5),Turnover,Traveling,1,84
+21700252,113,PT02M31.00S,1,1610612741,CHI,1626171,Portis,B. Portis,-89,242,26,Missed,1,,,0,v,MISS Portis 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,85
+21700252,114,PT02M29.00S,1,1610612747,LAL,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac REBOUND (Off:0 Def:1),Rebound,Unknown,1,86
+21700252,115,PT02M20.00S,1,1610612747,LAL,1627826,Zubac,I. Zubac,11,83,8,Made,1,21.0,20.0,41,h,Zubac 8' Hook Shot (2 PTS) (Clarkson 1 AST),Made Shot,Hook Shot,1,87
+21700252,117,PT02M09.00S,1,1610612741,CHI,1628469,Blakeney,A. Blakeney,-43,112,12,Made,1,21.0,22.0,43,v,Blakeney 12' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,88
+21700252,118,PT01M57.00S,1,1610612747,LAL,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac OFF.Foul (P1) (B.Spooner),Foul,Offensive,1,89
+21700252,120,PT01M57.00S,1,1610612747,LAL,1627826,Zubac,I. Zubac,0,0,0,,0,,,0,h,Zubac Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,90
+21700252,144,PT01M57.00S,1,1610612741,CHI,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,SUB: Felicio FOR Lopez,Substitution,,0,91
+21700252,121,PT01M49.00S,1,1610612741,CHI,1627756,Valentine,D. Valentine,-85,251,27,Made,1,21.0,25.0,46,v,Valentine 27' 3PT Jump Shot (11 PTS) (Grant 1 AST),Made Shot,Jump Shot,1,92
+21700252,125,PT01M35.00S,1,1610612747,LAL,203903,Clarkson,J. Clarkson,1,9,1,Made,1,23.0,25.0,48,h,Clarkson 1' Alley Oop Layup (2 PTS) (Randle 1 AST),Made Shot,Alley Oop Layup shot,1,93
+21700252,127,PT01M12.00S,1,1610612741,CHI,1628469,Blakeney,A. Blakeney,6,20,2,Missed,1,,,0,v,MISS Blakeney 2' Layup,Missed Shot,Layup Shot,1,94
+21700252,128,PT01M10.00S,1,1610612747,LAL,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle REBOUND (Off:0 Def:1),Rebound,Unknown,1,95
+21700252,129,PT01M05.00S,1,1610612747,LAL,203944,Randle,J. Randle,12,21,2,Missed,1,,,0,h,MISS Randle 2' Layup,Missed Shot,Layup Shot,1,96
+21700252,129,PT01M05.00S,1,1610612741,CHI,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis BLOCK (1 BLK),,,1,97
+21700252,131,PT01M05.00S,1,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Unknown,0,98
+21700252,132,PT00M56.00S,1,1610612741,CHI,1626170,Grant,J. Grant,-52,173,18,Missed,1,,,0,v,MISS Grant 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,99
+21700252,133,PT00M53.10S,1,1610612747,LAL,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle REBOUND (Off:0 Def:2),Rebound,Unknown,1,100
+21700252,134,PT00M44.80S,1,1610612741,CHI,1628469,Blakeney,A. Blakeney,0,0,0,,0,,,0,v,Blakeney P.FOUL (P1.T2) (B.Spooner),Foul,Personal,1,101
+21700252,136,PT00M34.70S,1,1610612747,LAL,203903,Clarkson,J. Clarkson,8,24,3,Missed,1,,,0,h,MISS Clarkson 3' Reverse Layup,Missed Shot,Reverse Layup Shot,1,102
+21700252,137,PT00M32.70S,1,1610612741,CHI,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:0 Def:3),Rebound,Unknown,1,103
+21700252,138,PT00M28.40S,1,1610612741,CHI,1628469,Blakeney,A. Blakeney,-104,172,20,Made,1,23.0,27.0,50,v,Blakeney 20' Jump Shot (4 PTS) (Grant 2 AST),Made Shot,Jump Shot,1,104
+21700252,140,PT00M05.80S,1,1610612747,LAL,203944,Randle,J. Randle,-76,242,25,Missed,1,,,0,h,MISS Randle 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,105
+21700252,141,PT00M05.80S,1,1610612741,CHI,1628469,Blakeney,A. Blakeney,0,0,0,,0,,,0,v,Blakeney REBOUND (Off:0 Def:1),Rebound,Unknown,1,106
+21700252,142,PT00M00.00S,1,0,,0,,,0,0,0,,0,23.0,27.0,50,,End of 1st Period (11:03 PM EST),period,end,1,107
+21700252,143,PT00M00.00S,1,0,,138,Avent,A. Avent,0,0,0,,0,23.0,27.0,50,,Instant Replay1st Period (11:03 PM EST),Instant Replay,Support Ruling,0,108
+21700252,154,PT12M00.00S,2,0,,0,,,0,0,0,,0,23.0,27.0,50,,Start of 2nd Period (11:06 PM EST),period,start,0,109
+21700252,155,PT11M49.00S,2,1610612741,CHI,1626245,Felicio,C. Felicio,-28,91,10,Missed,1,,,0,v,MISS Felicio 10' Hook Shot,Missed Shot,Hook Shot,1,110
+21700252,158,PT11M44.00S,2,1610612747,LAL,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle REBOUND (Off:0 Def:3),Rebound,Unknown,1,111
+21700252,159,PT11M35.00S,2,1610612747,LAL,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,112
+21700252,160,PT11M25.00S,2,1610612741,CHI,1628469,Blakeney,A. Blakeney,33,204,21,Made,1,23.0,29.0,52,v,Blakeney 21' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,113
+21700252,161,PT11M09.00S,2,1610612747,LAL,1628404,Hart,J. Hart,78,199,21,Missed,1,,,0,h,MISS Hart 21' Jump Shot,Missed Shot,Jump Shot,1,114
+21700252,162,PT11M02.00S,2,1610612747,LAL,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle REBOUND (Off:1 Def:3),Rebound,Unknown,1,115
+21700252,163,PT10M57.00S,2,1610612741,CHI,1626245,Felicio,C. Felicio,0,0,0,,0,,,0,v,Felicio S.FOUL (P1.T1) (B.Spooner),Foul,Shooting,1,116
+21700252,165,PT10M57.00S,2,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,24.0,29.0,53,h,Kuzma Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,117
+21700252,166,PT10M57.00S,2,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,MISS Kuzma Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,118
+21700252,167,PT10M57.00S,2,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Normal Rebound,0,119
+21700252,168,PT10M47.00S,2,1610612747,LAL,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle S.FOUL (P1.T1) (B.Nansel),Foul,Shooting,1,120
+21700252,170,PT10M47.00S,2,1610612741,CHI,1628469,Blakeney,A. Blakeney,0,0,0,,0,24.0,30.0,54,v,Blakeney Free Throw 1 of 3 (7 PTS),Free Throw,Free Throw 1 of 3,0,121
+21700252,171,PT10M47.00S,2,1610612741,CHI,1628469,Blakeney,A. Blakeney,0,0,0,,0,24.0,31.0,55,v,Blakeney Free Throw 2 of 3 (8 PTS),Free Throw,Free Throw 2 of 3,0,122
+21700252,172,PT10M47.00S,2,1610612741,CHI,1628469,Blakeney,A. Blakeney,0,0,0,,0,24.0,32.0,56,v,Blakeney Free Throw 3 of 3 (9 PTS),Free Throw,Free Throw 3 of 3,0,123
+21700252,173,PT10M28.00S,2,1610612747,LAL,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,Hart Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,124
+21700252,174,PT10M13.00S,2,1610612741,CHI,1628469,Blakeney,A. Blakeney,13,18,2,Made,1,24.0,34.0,58,v,Blakeney 2' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,1,125
+21700252,175,PT09M58.00S,2,1610612747,LAL,201147,Brewer,C. Brewer,-3,6,1,Made,1,26.0,34.0,60,h,Brewer 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,126
+21700252,176,PT09M43.00S,2,1610612741,CHI,1628469,Blakeney,A. Blakeney,-81,180,20,Made,1,26.0,36.0,62,v,Blakeney 20' Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,1,127
+21700252,177,PT09M28.00S,2,1610612747,LAL,201147,Brewer,C. Brewer,0,0,0,,0,,,0,h,Brewer Traveling Turnover (P1.T9),Turnover,Traveling,1,128
+21700252,178,PT09M28.00S,2,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,129
+21700252,179,PT09M17.00S,2,1610612741,CHI,1628469,Blakeney,A. Blakeney,-55,168,18,Missed,1,,,0,v,MISS Blakeney 18' Jump Shot,Missed Shot,Jump Shot,1,130
+21700252,180,PT09M13.00S,2,1610612741,CHI,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:1 Def:3),Rebound,Unknown,1,131
+21700252,181,PT09M11.00S,2,1610612741,CHI,1626171,Portis,B. Portis,0,7,1,Missed,1,,,0,v,MISS Portis 1' Layup,Missed Shot,Layup Shot,1,132
+21700252,181,PT09M11.00S,2,1610612747,LAL,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle BLOCK (1 BLK),,,1,133
+21700252,183,PT09M11.00S,2,1610612747,LAL,201147,Brewer,C. Brewer,0,0,0,,0,,,0,h,Brewer REBOUND (Off:0 Def:1),Rebound,Unknown,1,134
+21700252,184,PT09M05.00S,2,1610612747,LAL,1628404,Hart,J. Hart,-217,122,25,Missed,1,,,0,h,MISS Hart 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,135
+21700252,185,PT09M02.00S,2,1610612741,CHI,1628469,Blakeney,A. Blakeney,0,0,0,,0,,,0,v,Blakeney REBOUND (Off:0 Def:2),Rebound,Unknown,1,136
+21700252,186,PT08M57.00S,2,1610612741,CHI,1626170,Grant,J. Grant,-117,239,27,Made,1,26.0,39.0,65,v,Grant 27' 3PT Jump Shot (3 PTS) (Blakeney 1 AST),Made Shot,Jump Shot,1,137
+21700252,188,PT08M36.00S,2,1610612747,LAL,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,h,Clarkson Lost Ball Turnover (P1.T10),Turnover,Lost Ball,1,138
+21700252,188,PT08M36.00S,2,1610612741,CHI,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis STEAL (1 STL),,,1,139
+21700252,190,PT08M32.00S,2,1610612741,CHI,1628469,Blakeney,A. Blakeney,5,8,1,Made,1,26.0,41.0,67,v,Blakeney 1' Running Dunk (15 PTS) (Grant 3 AST),Made Shot,Running Dunk Shot,1,140
+21700252,192,PT08M30.00S,2,1610612741,CHI,1628469,Blakeney,A. Blakeney,0,0,0,,0,,,0,v,Blakeney Taunting (P1.T1) (B.Nansel),Foul,Taunting Technical,1,141
+21700252,193,PT08M30.00S,2,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,142
+21700252,194,PT08M30.00S,2,1610612747,LAL,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,h,SUB: Caldwell-Pope FOR Clarkson,Substitution,,0,143
+21700252,195,PT08M30.00S,2,1610612747,LAL,203944,Randle,J. Randle,0,0,0,,0,,,0,h,SUB: Ball FOR Randle,Substitution,,0,144
+21700252,196,PT08M30.00S,2,1610612747,LAL,201147,Brewer,C. Brewer,0,0,0,,0,,,0,h,SUB: Lopez FOR Brewer,Substitution,,0,145
+21700252,197,PT08M30.00S,2,1610612747,LAL,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,SUB: Ingram FOR Hart,Substitution,,0,146
+21700252,202,PT08M30.00S,2,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,27.0,41.0,68,h,Kuzma Free Throw Technical (12 PTS),Free Throw,Free Throw Technical,0,147
+21700252,203,PT08M30.00S,2,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Turnover: 5 Second Violation (T#11),Turnover,5 Second Violation,0,148
+21700252,204,PT08M26.00S,2,1610612747,LAL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez P.FOUL (P1.T2) (G.Zielinski),Foul,Personal,1,149
+21700252,206,PT08M21.00S,2,1610612741,CHI,203200,Holiday,J. Holiday,-117,233,26,Missed,1,,,0,v,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,150
+21700252,207,PT08M19.00S,2,1610612747,LAL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez REBOUND (Off:0 Def:3),Rebound,Unknown,1,151
+21700252,208,PT07M58.00S,2,1610612747,LAL,1628398,Kuzma,K. Kuzma,-176,177,25,Missed,1,,,0,h,MISS Kuzma 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,152
+21700252,209,PT07M55.00S,2,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Unknown,0,153
+21700252,210,PT07M45.00S,2,1610612741,CHI,1626170,Grant,J. Grant,0,0,0,,0,,,0,v,Grant Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,154
+21700252,210,PT07M45.00S,2,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope STEAL (3 STL),,,1,155
+21700252,212,PT07M41.00S,2,1610612747,LAL,1627742,Ingram,B. Ingram,14,10,2,Made,1,29.0,41.0,70,h,Ingram 2' Running Dunk (7 PTS) (Ball 3 AST),Made Shot,Running Dunk Shot,1,156
+21700252,214,PT07M20.00S,2,1610612741,CHI,1628469,Blakeney,A. Blakeney,4,95,10,Missed,1,,,0,v,MISS Blakeney 10' Jump Shot,Missed Shot,Jump Shot,1,157
+21700252,215,PT07M17.00S,2,1610612747,LAL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez REBOUND (Off:0 Def:4),Rebound,Unknown,1,158
+21700252,216,PT07M03.00S,2,1610612747,LAL,201572,Lopez,B. Lopez,-4,108,11,Missed,1,,,0,h,MISS Lopez 11' Hook Shot,Missed Shot,Hook Shot,1,159
+21700252,217,PT07M00.00S,2,1610612741,CHI,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:1 Def:4),Rebound,Unknown,1,160
+21700252,218,PT06M50.00S,2,1610612741,CHI,1628469,Blakeney,A. Blakeney,14,90,9,Missed,1,,,0,v,MISS Blakeney 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,161
+21700252,219,PT06M48.00S,2,1610612747,LAL,1628366,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:0 Def:3),Rebound,Unknown,1,162
+21700252,220,PT06M44.00S,2,1610612747,LAL,1628398,Kuzma,K. Kuzma,228,14,0,Made,1,32.0,41.0,73,h,Kuzma 3PT Jump Shot (15 PTS) (Ingram 3 AST),Made Shot,Jump Shot,1,163
+21700252,222,PT06M43.00S,2,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,164
+21700252,223,PT06M43.00S,2,1610612741,CHI,1626170,Grant,J. Grant,0,0,0,,0,,,0,v,SUB: Markkanen FOR Grant,Substitution,,0,165
+21700252,224,PT06M43.00S,2,1610612741,CHI,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,SUB: Valentine FOR Portis,Substitution,,0,166
+21700252,225,PT06M43.00S,2,1610612741,CHI,1626245,Felicio,C. Felicio,0,0,0,,0,,,0,v,SUB: Dunn FOR Felicio,Substitution,,0,167
+21700252,226,PT06M43.00S,2,1610612741,CHI,1628469,Blakeney,A. Blakeney,0,0,0,,0,,,0,v,SUB: Lopez FOR Blakeney,Substitution,,0,168
+21700252,231,PT06M36.00S,2,1610612741,CHI,201577,Lopez,R. Lopez,65,196,21,Missed,1,,,0,v,MISS Lopez 21' Jump Shot,Missed Shot,Jump Shot,1,169
+21700252,232,PT06M33.00S,2,1610612741,CHI,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,Markkanen REBOUND (Off:1 Def:2),Rebound,Unknown,1,170
+21700252,233,PT06M29.00S,2,1610612741,CHI,203200,Holiday,J. Holiday,133,226,26,Made,1,32.0,44.0,76,v,Holiday 26' 3PT Jump Shot (3 PTS) (Markkanen 1 AST),Made Shot,Jump Shot,1,171
+21700252,235,PT06M16.00S,2,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma Traveling Turnover (P1.T12),Turnover,Traveling,1,172
+21700252,236,PT06M03.00S,2,1610612741,CHI,1628374,Markkanen,L. Markkanen,-18,23,3,Missed,1,,,0,v,MISS Markkanen 3' Layup,Missed Shot,Layup Shot,1,173
+21700252,237,PT06M00.00S,2,1610612747,LAL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez REBOUND (Off:0 Def:5),Rebound,Unknown,1,174
+21700252,238,PT05M53.00S,2,1610612747,LAL,1628366,Ball,L. Ball,-21,13,2,Missed,1,,,0,h,MISS Ball 2' Layup,Missed Shot,Layup Shot,1,175
+21700252,238,PT05M53.00S,2,1610612741,CHI,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,Markkanen BLOCK (1 BLK),,,1,176
+21700252,240,PT05M50.00S,2,1610612747,LAL,1628366,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:3),Rebound,Unknown,1,177
+21700252,241,PT05M48.00S,2,1610612747,LAL,1628398,Kuzma,K. Kuzma,25,218,22,Missed,1,,,0,h,MISS Kuzma 22' Jump Shot,Missed Shot,Jump Shot,1,178
+21700252,242,PT05M46.00S,2,1610612741,CHI,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:4),Rebound,Unknown,1,179
+21700252,243,PT05M39.00S,2,1610612741,CHI,1627756,Valentine,D. Valentine,2,115,12,Missed,1,,,0,v,MISS Valentine 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,180
+21700252,244,PT05M36.00S,2,1610612741,CHI,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:1 Def:4),Rebound,Unknown,1,181
+21700252,245,PT05M26.00S,2,1610612741,CHI,201577,Lopez,R. Lopez,-17,76,8,Made,1,32.0,46.0,78,v,Lopez 8' Hook Shot (10 PTS) (Valentine 1 AST),Made Shot,Hook Shot,1,182
+21700252,247,PT05M03.00S,2,1610612747,LAL,1627742,Ingram,B. Ingram,9,19,2,Made,1,34.0,46.0,80,h,Ingram 2' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,183
+21700252,248,PT04M49.00S,2,1610612741,CHI,1627739,Dunn,K. Dunn,5,21,2,Missed,1,,,0,v,MISS Dunn 2' Dunk,Missed Shot,Dunk Shot,1,184
+21700252,248,PT04M49.00S,2,1610612747,LAL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez BLOCK (1 BLK),,,1,185
+21700252,250,PT04M46.00S,2,1610612747,LAL,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram REBOUND (Off:0 Def:1),Rebound,Unknown,1,186
+21700252,252,PT04M34.00S,2,1610612747,LAL,1627742,Ingram,B. Ingram,187,173,25,Missed,1,,,0,h,MISS Ingram 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,187
+21700252,253,PT04M29.00S,2,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope REBOUND (Off:1 Def:2),Rebound,Unknown,1,188
+21700252,254,PT04M25.00S,2,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,161,84,18,Made,1,36.0,46.0,82,h,Caldwell-Pope 18' Jump Shot (2 PTS),Made Shot,Jump Shot,1,189
+21700252,255,PT04M13.00S,2,1610612741,CHI,1628374,Markkanen,L. Markkanen,-133,222,26,Made,1,36.0,49.0,85,v,Markkanen 26' 3PT Jump Shot (3 PTS) (Lopez 1 AST),Made Shot,Jump Shot,1,190
+21700252,257,PT04M00.00S,2,1610612747,LAL,1628366,Ball,L. Ball,-15,20,3,Missed,1,,,0,h,MISS Ball 3' Driving Layup,Missed Shot,Driving Layup Shot,1,191
+21700252,258,PT03M59.00S,2,1610612741,CHI,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,Markkanen REBOUND (Off:1 Def:3),Rebound,Unknown,1,192
+21700252,259,PT03M49.00S,2,1610612741,CHI,1627739,Dunn,K. Dunn,-225,42,0,Made,1,36.0,52.0,88,v,Dunn 3PT Jump Shot (7 PTS) (Valentine 2 AST),Made Shot,Jump Shot,1,193
+21700252,261,PT03M47.00S,2,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,194
+21700252,262,PT03M23.00S,2,1610612747,LAL,1627742,Ingram,B. Ingram,-152,199,25,Missed,1,,,0,h,MISS Ingram 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,195
+21700252,263,PT03M18.00S,2,1610612741,CHI,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,Markkanen REBOUND (Off:1 Def:4),Rebound,Unknown,1,196
+21700252,264,PT03M09.00S,2,1610612741,CHI,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,Markkanen Traveling Turnover (P2.T6),Turnover,Traveling,1,197
+21700252,265,PT03M09.00S,2,1610612747,LAL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,SUB: Randle FOR Lopez,Substitution,,0,198
+21700252,267,PT02M56.00S,2,1610612747,LAL,1628366,Ball,L. Ball,100,243,26,Missed,1,,,0,h,MISS Ball 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,199
+21700252,268,PT02M54.00S,2,1610612741,CHI,1627756,Valentine,D. Valentine,0,0,0,,0,,,0,v,Valentine REBOUND (Off:0 Def:2),Rebound,Unknown,1,200
+21700252,269,PT02M48.00S,2,1610612741,CHI,1628374,Markkanen,L. Markkanen,122,227,26,Missed,1,,,0,v,MISS Markkanen 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,201
+21700252,270,PT02M42.00S,2,1610612747,LAL,1628366,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:4),Rebound,Unknown,1,202
+21700252,271,PT02M39.00S,2,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma Out of Bounds - Bad Pass Turnover Turnover (P2.T13),Turnover,Out of Bounds - Bad Pass Turnover,1,203
+21700252,272,PT02M27.00S,2,1610612741,CHI,201577,Lopez,R. Lopez,-1,44,4,Made,1,36.0,54.0,90,v,Lopez 4' Hook Shot (12 PTS) (Holiday 3 AST),Made Shot,Hook Shot,1,204
+21700252,274,PT02M08.00S,2,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,-169,184,25,Made,1,39.0,54.0,93,h,Caldwell-Pope 25' 3PT Jump Shot (5 PTS) (Kuzma 1 AST),Made Shot,Jump Shot,1,205
+21700252,276,PT01M57.00S,2,1610612741,CHI,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,Markkanen Lost Ball Turnover (P3.T7),Turnover,Lost Ball,1,206
+21700252,277,PT01M57.00S,2,1610612741,CHI,1627756,Valentine,D. Valentine,0,0,0,,0,,,0,v,Valentine Violation:Kicked Ball (B.Nansel),Violation,Kicked Ball,0,207
+21700252,278,PT01M49.00S,2,1610612747,LAL,1628398,Kuzma,K. Kuzma,8,79,8,Made,1,41.0,54.0,95,h,Kuzma 8' Floating Jump Shot (17 PTS),Made Shot,Floating Jump shot,1,208
+21700252,279,PT01M49.00S,2,1610612741,CHI,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P1.T2) (B.Spooner),Foul,Shooting,1,209
+21700252,281,PT01M49.00S,2,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,42.0,54.0,96,h,Kuzma Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,0,210
+21700252,282,PT01M30.00S,2,1610612741,CHI,201577,Lopez,R. Lopez,-35,18,4,Missed,1,,,0,v,MISS Lopez 4' Hook Shot,Missed Shot,Hook Shot,1,211
+21700252,283,PT01M26.00S,2,1610612741,CHI,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:1),Rebound,Unknown,1,212
+21700252,284,PT01M25.00S,2,1610612741,CHI,201577,Lopez,R. Lopez,33,21,4,Missed,1,,,0,v,MISS Lopez 4' Hook Shot,Missed Shot,Hook Shot,1,213
+21700252,285,PT01M23.00S,2,1610612747,LAL,1628366,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:5),Rebound,Unknown,1,214
+21700252,286,PT01M17.00S,2,1610612747,LAL,1628398,Kuzma,K. Kuzma,142,215,26,Missed,1,,,0,h,MISS Kuzma 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,215
+21700252,287,PT01M13.00S,2,1610612741,CHI,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:1 Def:5),Rebound,Unknown,1,216
+21700252,288,PT00M58.80S,2,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope P.FOUL (P1.T3) (B.Spooner),Foul,Personal,1,217
+21700252,290,PT00M56.70S,2,1610612741,CHI,1627739,Dunn,K. Dunn,-38,74,8,Missed,1,,,0,v,MISS Dunn 8' Hook Shot,Missed Shot,Hook Shot,1,218
+21700252,291,PT00M54.20S,2,1610612747,LAL,1628366,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:6),Rebound,Unknown,1,219
+21700252,292,PT00M31.10S,2,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,-226,36,0,Missed,1,,,0,h,MISS Caldwell-Pope 3PT Jump Shot,Missed Shot,Jump Shot,1,220
+21700252,293,PT00M27.70S,2,1610612741,CHI,1627756,Valentine,D. Valentine,0,0,0,,0,,,0,v,Valentine REBOUND (Off:0 Def:3),Rebound,Unknown,1,221
+21700252,295,PT00M26.70S,2,1610612741,CHI,1627739,Dunn,K. Dunn,4,20,2,Made,1,42.0,56.0,98,v,Dunn 2' Running Layup (9 PTS) (Valentine 3 AST),Made Shot,Running Layup Shot,1,222
+21700252,297,PT00M08.10S,2,1610612747,LAL,1628366,Ball,L. Ball,94,235,25,Missed,1,,,0,h,MISS Ball 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,223
+21700252,298,PT00M03.10S,2,1610612741,CHI,1627756,Valentine,D. Valentine,0,0,0,,0,,,0,v,Valentine REBOUND (Off:0 Def:4),Rebound,Unknown,1,224
+21700252,299,PT00M00.00S,2,0,,0,,,0,0,0,,0,42.0,56.0,98,,End of 2nd Period (11:32 PM EST),period,end,1,225
+21700252,302,PT12M00.00S,3,0,,0,,,0,0,0,,0,42.0,56.0,98,,Start of 3rd Period (11:48 PM EST),period,start,0,226
+21700252,304,PT11M40.00S,3,1610612741,CHI,203200,Holiday,J. Holiday,88,250,27,Missed,1,,,0,v,MISS Holiday 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,227
+21700252,305,PT11M38.00S,3,1610612741,CHI,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,Markkanen REBOUND (Off:2 Def:4),Rebound,Unknown,1,228
+21700252,306,PT11M36.00S,3,1610612741,CHI,1628374,Markkanen,L. Markkanen,-10,26,3,Missed,1,,,0,v,MISS Markkanen 3' Putback Layup,Missed Shot,Putback Layup Shot,1,229
+21700252,306,PT11M36.00S,3,1610612747,LAL,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram BLOCK (1 BLK),,,1,230
+21700252,310,PT11M36.00S,3,1610612741,CHI,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,Markkanen REBOUND (Off:3 Def:4),Rebound,Unknown,1,231
+21700252,307,PT11M34.00S,3,1610612747,LAL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Jump Ball Lopez vs. Markkanen: Tip to Dunn,Jump Ball,,1,232
+21700252,311,PT11M29.00S,3,1610612741,CHI,203200,Holiday,J. Holiday,-27,262,26,Made,1,42.0,59.0,101,v,Holiday 26' 3PT Jump Shot (6 PTS) (Dunn 4 AST),Made Shot,Jump Shot,1,233
+21700252,313,PT11M11.00S,3,1610612747,LAL,1627742,Ingram,B. Ingram,114,227,25,Missed,1,,,0,h,MISS Ingram 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,234
+21700252,314,PT11M08.00S,3,1610612741,CHI,1627756,Valentine,D. Valentine,0,0,0,,0,,,0,v,Valentine REBOUND (Off:0 Def:5),Rebound,Unknown,1,235
+21700252,315,PT11M04.00S,3,1610612741,CHI,1627739,Dunn,K. Dunn,11,21,2,Missed,1,,,0,v,MISS Dunn 2' Layup,Missed Shot,Layup Shot,1,236
+21700252,315,PT11M04.00S,3,1610612747,LAL,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram BLOCK (2 BLK),,,1,237
+21700252,317,PT10M58.00S,3,1610612747,LAL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez REBOUND (Off:0 Def:6),Rebound,Unknown,1,238
+21700252,318,PT10M55.00S,3,1610612747,LAL,1628398,Kuzma,K. Kuzma,37,94,10,Missed,1,,,0,h,MISS Kuzma 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,239
+21700252,319,PT10M53.00S,3,1610612741,CHI,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,Markkanen REBOUND (Off:3 Def:5),Rebound,Unknown,1,240
+21700252,320,PT10M37.00S,3,1610612741,CHI,1627739,Dunn,K. Dunn,163,-1,16,Missed,1,,,0,v,MISS Dunn 16' Jump Shot,Missed Shot,Jump Shot,1,241
+21700252,321,PT10M37.00S,3,1610612741,CHI,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:2 Def:1),Rebound,Unknown,1,242
+21700252,322,PT10M24.00S,3,1610612747,LAL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez S.FOUL (P2.T1) (B.Nansel),Foul,Shooting,1,243
+21700252,324,PT10M24.00S,3,1610612741,CHI,203200,Holiday,J. Holiday,0,0,0,,0,42.0,60.0,102,v,Holiday Free Throw 1 of 3 (7 PTS),Free Throw,Free Throw 1 of 3,0,244
+21700252,325,PT10M24.00S,3,1610612741,CHI,203200,Holiday,J. Holiday,0,0,0,,0,42.0,61.0,103,v,Holiday Free Throw 2 of 3 (8 PTS),Free Throw,Free Throw 2 of 3,0,245
+21700252,326,PT10M24.00S,3,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,246
+21700252,328,PT10M24.00S,3,1610612741,CHI,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,MISS Holiday Free Throw 3 of 3,Free Throw,Free Throw 3 of 3,0,247
+21700252,329,PT10M24.00S,3,1610612747,LAL,1628366,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:7),Rebound,Unknown,1,248
+21700252,330,PT10M11.00S,3,1610612747,LAL,201572,Lopez,B. Lopez,13,8,2,Missed,1,,,0,h,MISS Lopez 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,249
+21700252,331,PT10M10.00S,3,1610612741,CHI,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:1 Def:1),Rebound,Unknown,1,250
+21700252,332,PT10M00.00S,3,1610612741,CHI,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,251
+21700252,332,PT10M00.00S,3,1610612747,LAL,1628366,Ball,L. Ball,0,0,0,,0,,,0,h,Ball STEAL (1 STL),,,1,252
+21700252,334,PT09M56.00S,3,1610612747,LAL,1628398,Kuzma,K. Kuzma,51,248,25,Made,1,45.0,61.0,106,h,Kuzma 25' 3PT Pullup Jump Shot (21 PTS) (Caldwell-Pope 3 AST),Made Shot,Pullup Jump shot,1,253
+21700252,336,PT09M24.00S,3,1610612741,CHI,201577,Lopez,R. Lopez,0,80,8,Made,1,45.0,63.0,108,v,Lopez 8' Hook Shot (14 PTS) (Valentine 4 AST),Made Shot,Hook Shot,1,254
+21700252,338,PT09M09.00S,3,1610612747,LAL,1627742,Ingram,B. Ingram,4,21,2,Made,1,47.0,63.0,110,h,Ingram 2' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,1,255
+21700252,339,PT08M51.00S,3,1610612741,CHI,201577,Lopez,R. Lopez,68,173,19,Missed,1,,,0,v,MISS Lopez 19' Jump Shot,Missed Shot,Jump Shot,1,256
+21700252,340,PT08M48.00S,3,1610612747,LAL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez REBOUND (Off:0 Def:7),Rebound,Unknown,1,257
+21700252,341,PT08M38.00S,3,1610612747,LAL,1628366,Ball,L. Ball,-14,258,26,Made,1,50.0,63.0,113,h,Ball 26' 3PT Jump Shot (5 PTS) (Kuzma 2 AST),Made Shot,Jump Shot,1,258
+21700252,343,PT08M37.00S,3,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,259
+21700252,344,PT08M19.00S,3,1610612741,CHI,1627756,Valentine,D. Valentine,43,26,5,Missed,1,,,0,v,MISS Valentine 5' Hook Shot,Missed Shot,Hook Shot,1,260
+21700252,345,PT08M16.00S,3,1610612747,LAL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez REBOUND (Off:0 Def:8),Rebound,Unknown,1,261
+21700252,346,PT08M05.00S,3,1610612747,LAL,1628398,Kuzma,K. Kuzma,-161,196,25,Missed,1,,,0,h,MISS Kuzma 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,262
+21700252,347,PT08M02.00S,3,1610612741,CHI,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,Markkanen REBOUND (Off:3 Def:6),Rebound,Unknown,1,263
+21700252,348,PT07M58.00S,3,1610612741,CHI,1627756,Valentine,D. Valentine,115,256,28,Made,1,50.0,66.0,116,v,Valentine 28' 3PT Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,264
+21700252,349,PT07M41.00S,3,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,-136,209,25,Made,1,53.0,66.0,119,h,Caldwell-Pope 25' 3PT Jump Shot (8 PTS) (Kuzma 3 AST),Made Shot,Jump Shot,1,265
+21700252,351,PT07M23.00S,3,1610612741,CHI,1628374,Markkanen,L. Markkanen,-92,55,11,Missed,1,,,0,v,MISS Markkanen 11' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,266
+21700252,352,PT07M20.00S,3,1610612747,LAL,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram REBOUND (Off:0 Def:2),Rebound,Unknown,1,267
+21700252,353,PT07M00.00S,3,1610612747,LAL,1627742,Ingram,B. Ingram,3,42,4,Missed,1,,,0,h,MISS Ingram 4' Layup,Missed Shot,Layup Shot,1,268
+21700252,354,PT06M57.00S,3,1610612747,LAL,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram REBOUND (Off:1 Def:2),Rebound,Unknown,1,269
+21700252,355,PT06M57.00S,3,1610612747,LAL,1627742,Ingram,B. Ingram,0,-6,1,Missed,1,,,0,h,MISS Ingram 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,270
+21700252,356,PT06M54.00S,3,1610612741,CHI,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:1 Def:6),Rebound,Unknown,1,271
+21700252,357,PT06M49.00S,3,1610612741,CHI,1627756,Valentine,D. Valentine,-165,179,24,Missed,1,,,0,v,MISS Valentine 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,272
+21700252,358,PT06M45.00S,3,1610612747,LAL,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram REBOUND (Off:1 Def:3),Rebound,Unknown,1,273
+21700252,359,PT06M37.00S,3,1610612747,LAL,1628398,Kuzma,K. Kuzma,-7,22,2,Missed,1,,,0,h,MISS Kuzma 2' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,1,274
+21700252,360,PT06M36.00S,3,1610612741,CHI,1627756,Valentine,D. Valentine,0,0,0,,0,,,0,v,Valentine REBOUND (Off:0 Def:6),Rebound,Unknown,1,275
+21700252,361,PT06M24.00S,3,1610612741,CHI,1628374,Markkanen,L. Markkanen,-162,136,21,Made,1,53.0,68.0,121,v,Markkanen 21' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,276
+21700252,362,PT06M11.00S,3,1610612747,LAL,1628366,Ball,L. Ball,-65,252,26,Missed,1,,,0,h,MISS Ball 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,277
+21700252,363,PT06M08.00S,3,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma REBOUND (Off:1 Def:1),Rebound,Unknown,1,278
+21700252,364,PT06M00.00S,3,1610612747,LAL,201572,Lopez,B. Lopez,172,186,25,Missed,1,,,0,h,MISS Lopez 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,279
+21700252,365,PT05M57.00S,3,1610612747,LAL,1628366,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:2 Def:7),Rebound,Unknown,1,280
+21700252,366,PT05M57.00S,3,1610612747,LAL,1628366,Ball,L. Ball,0,-6,1,Missed,1,,,0,h,MISS Ball 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,281
+21700252,367,PT05M57.00S,3,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Unknown,0,282
+21700252,368,PT05M57.00S,3,1610612747,LAL,1628366,Ball,L. Ball,0,0,0,,0,,,0,h,Ball L.B.FOUL (P1.T2) (G.Zielinski),Foul,Loose Ball,1,283
+21700252,370,PT05M57.00S,3,1610612747,LAL,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,SUB: Hart FOR Ingram,Substitution,,0,284
+21700252,371,PT05M57.00S,3,1610612747,LAL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,SUB: Randle FOR Lopez,Substitution,,0,285
+21700252,374,PT05M48.00S,3,1610612741,CHI,1628374,Markkanen,L. Markkanen,-165,195,26,Missed,1,,,0,v,MISS Markkanen 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,286
+21700252,375,PT05M46.00S,3,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope REBOUND (Off:1 Def:3),Rebound,Unknown,1,287
+21700252,376,PT05M44.00S,3,1610612741,CHI,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,Lopez S.FOUL (P2.T1) (B.Spooner),Foul,Shooting,1,288
+21700252,378,PT05M44.00S,3,1610612747,LAL,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,MISS Hart Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,289
+21700252,379,PT05M44.00S,3,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Normal Rebound,0,290
+21700252,380,PT05M44.00S,3,1610612747,LAL,1628404,Hart,J. Hart,0,0,0,,0,54.0,68.0,122,h,Hart Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,291
+21700252,382,PT05M29.00S,3,1610612747,LAL,203944,Randle,J. Randle,0,0,0,,0,,,0,h,LAKERS T.Foul (Def. 3 Sec Randle ) (G.Zielinski),Foul,Defense 3 Second,0,292
+21700252,383,PT05M29.00S,3,1610612741,CHI,1627756,Valentine,D. Valentine,0,0,0,,0,,,0,v,MISS Valentine Free Throw Technical,Free Throw,Free Throw Technical,0,293
+21700252,384,PT05M29.00S,3,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Normal Rebound,0,294
+21700252,385,PT05M18.00S,3,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma P.FOUL (P2.T3) (B.Spooner),Foul,Personal,1,295
+21700252,387,PT05M17.00S,3,1610612741,CHI,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Traveling Turnover (P3.T9),Turnover,Traveling,1,296
+21700252,388,PT05M06.00S,3,1610612747,LAL,1628398,Kuzma,K. Kuzma,6,18,2,Missed,1,,,0,h,MISS Kuzma 2' Layup,Missed Shot,Layup Shot,1,297
+21700252,389,PT05M03.00S,3,1610612741,CHI,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,Markkanen REBOUND (Off:3 Def:7),Rebound,Unknown,1,298
+21700252,390,PT05M01.00S,3,1610612747,LAL,1628366,Ball,L. Ball,0,0,0,,0,,,0,h,Ball P.FOUL (P2.T4) (G.Zielinski),Foul,Personal,1,299
+21700252,392,PT05M01.00S,3,1610612741,CHI,1627756,Valentine,D. Valentine,0,0,0,,0,,,0,v,SUB: Blakeney FOR Valentine,Substitution,,0,300
+21700252,395,PT04M47.00S,3,1610612741,CHI,1628374,Markkanen,L. Markkanen,52,127,14,Missed,1,,,0,v,MISS Markkanen 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,301
+21700252,396,PT04M44.00S,3,1610612747,LAL,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle REBOUND (Off:1 Def:4),Rebound,Unknown,1,302
+21700252,397,PT04M29.00S,3,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,212,131,25,Missed,1,,,0,h,MISS Caldwell-Pope 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,303
+21700252,398,PT04M27.00S,3,1610612741,CHI,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,Markkanen REBOUND (Off:3 Def:8),Rebound,Unknown,1,304
+21700252,399,PT04M27.00S,3,1610612747,LAL,1628366,Ball,L. Ball,0,0,0,,0,,,0,h,Ball P.FOUL (P3.PN) (G.Zielinski),Foul,Personal,1,305
+21700252,401,PT04M27.00S,3,1610612741,CHI,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,MISS Markkanen Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,306
+21700252,402,PT04M27.00S,3,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Normal Rebound,0,307
+21700252,403,PT04M27.00S,3,1610612747,LAL,1628366,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Clarkson FOR Ball,Substitution,,0,308
+21700252,405,PT04M27.00S,3,1610612741,CHI,1628374,Markkanen,L. Markkanen,0,0,0,,0,54.0,69.0,123,v,Markkanen Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,309
+21700252,406,PT04M16.00S,3,1610612741,CHI,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P2.T2) (B.Spooner),Foul,Shooting,1,310
+21700252,408,PT04M16.00S,3,0,,399,Rooks,S. Rooks,0,0,0,,0,54.0,69.0,123,,Instant Replay3rd Period (12:08 AM EST),Instant Replay,Overturn Ruling,0,311
+21700252,409,PT04M16.00S,3,1610612747,LAL,203903,Clarkson,J. Clarkson,0,0,0,,0,55.0,69.0,124,h,Clarkson Free Throw 1 of 3 (3 PTS),Free Throw,Free Throw 1 of 3,0,312
+21700252,410,PT04M16.00S,3,1610612747,LAL,203903,Clarkson,J. Clarkson,0,0,0,,0,56.0,69.0,125,h,Clarkson Free Throw 2 of 3 (4 PTS),Free Throw,Free Throw 2 of 3,0,313
+21700252,411,PT04M16.00S,3,1610612741,CHI,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,SUB: Portis FOR Markkanen,Substitution,,0,314
+21700252,413,PT04M16.00S,3,1610612747,LAL,203903,Clarkson,J. Clarkson,0,0,0,,0,57.0,69.0,126,h,Clarkson Free Throw 3 of 3 (5 PTS),Free Throw,Free Throw 3 of 3,0,315
+21700252,414,PT04M02.00S,3,1610612741,CHI,203200,Holiday,J. Holiday,-227,11,0,Missed,1,,,0,v,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,1,316
+21700252,415,PT04M00.00S,3,1610612747,LAL,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle REBOUND (Off:1 Def:5),Rebound,Unknown,1,317
+21700252,416,PT03M42.00S,3,1610612747,LAL,203903,Clarkson,J. Clarkson,141,202,25,Missed,1,,,0,h,MISS Clarkson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,318
+21700252,417,PT03M39.00S,3,1610612747,LAL,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle REBOUND (Off:2 Def:5),Rebound,Unknown,1,319
+21700252,418,PT03M37.00S,3,1610612747,LAL,203944,Randle,J. Randle,6,21,2,Made,1,59.0,69.0,128,h,Randle 2' Layup (2 PTS),Made Shot,Layup Shot,1,320
+21700252,419,PT03M18.00S,3,1610612741,CHI,1626171,Portis,B. Portis,-42,206,21,Made,1,59.0,71.0,130,v,Portis 21' Jump Shot (2 PTS) (Dunn 5 AST),Made Shot,Jump Shot,1,321
+21700252,421,PT03M03.00S,3,1610612747,LAL,203944,Randle,J. Randle,-1,16,2,Made,1,61.0,71.0,132,h,Randle 2' Driving Layup (4 PTS) (Caldwell-Pope 4 AST),Made Shot,Driving Layup Shot,1,322
+21700252,423,PT03M03.00S,3,1610612741,CHI,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,Lopez S.FOUL (P3.T3) (B.Spooner),Foul,Shooting,1,323
+21700252,425,PT03M03.00S,3,1610612741,CHI,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Grant FOR Dunn,Substitution,,0,324
+21700252,427,PT03M03.00S,3,1610612747,LAL,203944,Randle,J. Randle,0,0,0,,0,62.0,71.0,133,h,Randle Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,325
+21700252,428,PT02M40.00S,3,1610612741,CHI,1626170,Grant,J. Grant,62,247,25,Missed,1,,,0,v,MISS Grant 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,326
+21700252,429,PT02M36.00S,3,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma REBOUND (Off:1 Def:2),Rebound,Unknown,1,327
+21700252,430,PT02M27.00S,3,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,-117,144,19,Missed,1,,,0,h,MISS Caldwell-Pope 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,328
+21700252,431,PT02M25.00S,3,1610612741,CHI,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:1 Def:5),Rebound,Unknown,1,329
+21700252,432,PT02M16.00S,3,1610612741,CHI,203200,Holiday,J. Holiday,232,14,0,Missed,1,,,0,v,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,1,330
+21700252,433,PT02M12.00S,3,1610612741,CHI,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:2 Def:6),Rebound,Unknown,1,331
+21700252,434,PT02M12.00S,3,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma S.FOUL (P3.PN) (B.Spooner),Foul,Shooting,1,332
+21700252,436,PT02M12.00S,3,1610612741,CHI,203200,Holiday,J. Holiday,0,0,0,,0,62.0,72.0,134,v,Holiday Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,333
+21700252,437,PT02M12.00S,3,1610612741,CHI,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,SUB: Felicio FOR Lopez,Substitution,,0,334
+21700252,439,PT02M12.00S,3,1610612741,CHI,203200,Holiday,J. Holiday,0,0,0,,0,62.0,73.0,135,v,Holiday Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,335
+21700252,440,PT02M06.00S,3,1610612741,CHI,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday S.FOUL (P1.T4) (B.Nansel),Foul,Shooting,1,336
+21700252,442,PT02M06.00S,3,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,63.0,73.0,136,h,Caldwell-Pope Free Throw 1 of 3 (9 PTS),Free Throw,Free Throw 1 of 3,0,337
+21700252,443,PT02M06.00S,3,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,MISS Caldwell-Pope Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,0,338
+21700252,444,PT02M06.00S,3,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Normal Rebound,0,339
+21700252,445,PT02M06.00S,3,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,64.0,73.0,137,h,Caldwell-Pope Free Throw 3 of 3 (10 PTS),Free Throw,Free Throw 3 of 3,0,340
+21700252,446,PT01M51.00S,3,1610612741,CHI,1626171,Portis,B. Portis,0,38,4,Missed,1,,,0,v,MISS Portis 4' Dunk,Missed Shot,Dunk Shot,1,341
+21700252,446,PT01M51.00S,3,1610612747,LAL,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle BLOCK (2 BLK),,,1,342
+21700252,448,PT01M47.00S,3,1610612741,CHI,1626245,Felicio,C. Felicio,0,0,0,,0,,,0,v,Felicio REBOUND (Off:1 Def:0),Rebound,Unknown,1,343
+21700252,449,PT01M44.00S,3,1610612741,CHI,1626170,Grant,J. Grant,-19,21,3,Missed,1,,,0,v,MISS Grant 3' Layup,Missed Shot,Layup Shot,1,344
+21700252,450,PT01M41.00S,3,1610612747,LAL,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle REBOUND (Off:2 Def:6),Rebound,Unknown,1,345
+21700252,451,PT01M39.00S,3,1610612747,LAL,203944,Randle,J. Randle,5,8,1,Made,1,66.0,73.0,139,h,Randle 1' Running Layup (7 PTS),Made Shot,Running Layup Shot,1,346
+21700252,452,PT01M39.00S,3,1610612741,CHI,1628469,Blakeney,A. Blakeney,0,0,0,,0,,,0,v,Blakeney S.FOUL (P2.PN) (B.Spooner),Foul,Shooting,1,347
+21700252,454,PT01M39.00S,3,1610612747,LAL,203944,Randle,J. Randle,0,0,0,,0,67.0,73.0,140,h,Randle Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,348
+21700252,455,PT01M39.00S,3,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,349
+21700252,456,PT01M24.00S,3,1610612741,CHI,1626171,Portis,B. Portis,139,206,25,Missed,1,,,0,v,MISS Portis 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,350
+21700252,457,PT01M21.00S,3,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope REBOUND (Off:1 Def:4),Rebound,Unknown,1,351
+21700252,458,PT01M12.00S,3,1610612747,LAL,203903,Clarkson,J. Clarkson,-123,218,25,Missed,1,,,0,h,MISS Clarkson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,352
+21700252,459,PT01M05.00S,3,1610612747,LAL,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,Hart REBOUND (Off:1 Def:0),Rebound,Unknown,1,353
+21700252,460,PT01M05.00S,3,1610612747,LAL,1628404,Hart,J. Hart,0,-6,1,Made,1,69.0,73.0,142,h,Hart 1' Tip Dunk Shot (3 PTS),Made Shot,Tip Dunk Shot,1,354
+21700252,461,PT00M43.90S,3,1610612741,CHI,1626170,Grant,J. Grant,-29,172,17,Missed,1,,,0,v,MISS Grant 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,355
+21700252,462,PT00M41.20S,3,1610612741,CHI,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:2 Def:5),Rebound,Unknown,1,356
+21700252,463,PT00M40.00S,3,1610612741,CHI,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis Lost Ball Turnover (P1.T10),Turnover,Lost Ball,1,357
+21700252,463,PT00M40.00S,3,1610612747,LAL,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,Hart STEAL (1 STL),,,1,358
+21700252,465,PT00M35.20S,3,1610612747,LAL,203903,Clarkson,J. Clarkson,80,244,26,Made,1,72.0,73.0,145,h,Clarkson 26' 3PT Jump Shot (8 PTS) (Hart 1 AST),Made Shot,Jump Shot,1,359
+21700252,468,PT00M19.80S,3,1610612741,CHI,1626170,Grant,J. Grant,-124,137,18,Made,1,72.0,75.0,147,v,Grant 18' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,360
+21700252,469,PT00M02.50S,3,1610612747,LAL,203903,Clarkson,J. Clarkson,138,216,26,Missed,1,,,0,h,MISS Clarkson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,361
+21700252,470,PT00M01.70S,3,1610612741,CHI,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:2 Def:6),Rebound,Unknown,1,362
+21700252,471,PT00M00.00S,3,0,,0,,,0,0,0,,0,72.0,75.0,147,,End of 3rd Period (12:18 AM EST),period,end,1,363
+21700252,476,PT12M00.00S,4,0,,0,,,0,0,0,,0,72.0,75.0,147,,Start of 4th Period (12:20 AM EST),period,start,0,364
+21700252,477,PT11M43.00S,4,1610612747,LAL,203944,Randle,J. Randle,6,75,8,Made,1,74.0,75.0,149,h,Randle 8' Turnaround Fadeaway (10 PTS),Made Shot,Turnaround Fadeaway shot,1,365
+21700252,478,PT11M25.00S,4,1610612741,CHI,1627756,Valentine,D. Valentine,-32,272,27,Made,1,74.0,78.0,152,v,Valentine 27' 3PT Jump Shot (17 PTS),Made Shot,Jump Shot,1,366
+21700252,479,PT11M03.00S,4,1610612747,LAL,1627742,Ingram,B. Ingram,-6,173,17,Missed,1,,,0,h,MISS Ingram 17' Jump Shot,Missed Shot,Jump Shot,1,367
+21700252,480,PT11M00.00S,4,1610612741,CHI,1626245,Felicio,C. Felicio,0,0,0,,0,,,0,v,Felicio REBOUND (Off:1 Def:1),Rebound,Unknown,1,368
+21700252,481,PT10M44.00S,4,1610612741,CHI,1626170,Grant,J. Grant,-107,230,25,Missed,1,,,0,v,MISS Grant 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,369
+21700252,482,PT10M42.00S,4,1610612741,CHI,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,Portis REBOUND (Off:3 Def:6),Rebound,Unknown,1,370
+21700252,483,PT10M42.00S,4,1610612741,CHI,1626171,Portis,B. Portis,0,-6,1,Made,1,74.0,80.0,154,v,Portis 1' Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,371
+21700252,484,PT10M42.00S,4,1610612747,LAL,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle S.FOUL (P2.T1) (B.Spooner),Foul,Shooting,1,372
+21700252,486,PT10M42.00S,4,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,373
+21700252,487,PT10M42.00S,4,1610612741,CHI,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,MISS Portis Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,374
+21700252,488,PT10M40.00S,4,1610612747,LAL,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle REBOUND (Off:2 Def:7),Rebound,Unknown,1,375
+21700252,489,PT10M19.00S,4,1610612747,LAL,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Jump Ball Ingram vs. Valentine: Tip to Randle,Jump Ball,,1,376
+21700252,492,PT10M16.00S,4,1610612747,LAL,203944,Randle,J. Randle,140,216,26,Missed,1,,,0,h,MISS Randle 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,377
+21700252,493,PT10M14.00S,4,1610612747,LAL,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,Hart REBOUND (Off:2 Def:0),Rebound,Unknown,1,378
+21700252,494,PT10M08.00S,4,1610612741,CHI,1626170,Grant,J. Grant,0,0,0,,0,,,0,v,Bulls T.Foul (Def. 3 Sec Grant ) (G.Zielinski),Foul,Defense 3 Second,1,379
+21700252,495,PT10M08.00S,4,1610612747,LAL,203903,Clarkson,J. Clarkson,0,0,0,,0,75.0,80.0,155,h,Clarkson Free Throw Technical (9 PTS),Free Throw,Free Throw Technical,0,380
+21700252,496,PT10M03.00S,4,1610612747,LAL,203903,Clarkson,J. Clarkson,-226,94,24,Made,1,78.0,80.0,158,h,Clarkson 24' 3PT Jump Shot (12 PTS) (Kuzma 4 AST),Made Shot,Jump Shot,1,381
+21700252,498,PT09M45.00S,4,1610612741,CHI,1628469,Blakeney,A. Blakeney,87,253,27,Missed,1,,,0,v,MISS Blakeney 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,382
+21700252,499,PT09M42.00S,4,1610612747,LAL,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,Hart REBOUND (Off:2 Def:1),Rebound,Unknown,1,383
+21700252,500,PT09M32.00S,4,1610612747,LAL,1628404,Hart,J. Hart,10,10,1,Made,1,80.0,80.0,160,h,Hart 1' Layup (5 PTS) (Randle 2 AST),Made Shot,Layup Shot,1,384
+21700252,502,PT09M32.00S,4,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,385
+21700252,503,PT09M32.00S,4,1610612741,CHI,1626170,Grant,J. Grant,0,0,0,,0,,,0,v,SUB: Holiday FOR Grant,Substitution,,0,386
+21700252,504,PT09M32.00S,4,1610612741,CHI,1626245,Felicio,C. Felicio,0,0,0,,0,,,0,v,SUB: Dunn FOR Felicio,Substitution,,0,387
+21700252,505,PT09M32.00S,4,1610612741,CHI,1628469,Blakeney,A. Blakeney,0,0,0,,0,,,0,v,SUB: Markkanen FOR Blakeney,Substitution,,0,388
+21700252,510,PT09M21.00S,4,1610612747,LAL,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,h,Clarkson S.FOUL (P1.T2) (B.Nansel),Foul,Shooting,1,389
+21700252,512,PT09M21.00S,4,1610612741,CHI,1627739,Dunn,K. Dunn,0,0,0,,0,80.0,81.0,161,v,Dunn Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,390
+21700252,513,PT09M21.00S,4,1610612741,CHI,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,MISS Dunn Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,391
+21700252,514,PT09M18.00S,4,1610612741,CHI,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,Markkanen REBOUND (Off:4 Def:8),Rebound,Unknown,1,392
+21700252,515,PT09M17.00S,4,1610612741,CHI,203200,Holiday,J. Holiday,-100,239,26,Missed,1,,,0,v,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,393
+21700252,516,PT09M15.00S,4,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Unknown,0,394
+21700252,518,PT08M51.00S,4,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Turnover: Shot Clock (T#14),Turnover,Shot Clock Turnover,0,395
+21700252,517,PT08M50.00S,4,1610612747,LAL,203944,Randle,J. Randle,6,102,10,Missed,1,,,0,h,MISS Randle 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,396
+21700252,521,PT08M50.00S,4,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Unknown,0,397
+21700252,519,PT08M41.00S,4,1610612741,CHI,1628374,Markkanen,L. Markkanen,-60,252,26,Missed,1,,,0,v,MISS Markkanen 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,398
+21700252,520,PT08M38.00S,4,1610612741,CHI,1627756,Valentine,D. Valentine,0,0,0,,0,,,0,v,Valentine REBOUND (Off:1 Def:6),Rebound,Unknown,1,399
+21700252,522,PT08M35.00S,4,1610612741,CHI,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,Markkanen 3 Second Violation Turnover (P4.T11),Turnover,3 Second Violation,1,400
+21700252,523,PT08M16.00S,4,1610612747,LAL,1628404,Hart,J. Hart,25,118,12,Missed,1,,,0,h,MISS Hart 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,401
+21700252,524,PT08M12.00S,4,1610612741,CHI,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,Markkanen REBOUND (Off:4 Def:9),Rebound,Unknown,1,402
+21700252,525,PT07M59.00S,4,1610612741,CHI,1626171,Portis,B. Portis,6,14,2,Made,1,80.0,83.0,163,v,Portis 2' Cutting Layup Shot (6 PTS) (Dunn 6 AST),Made Shot,Cutting Layup Shot,1,403
+21700252,527,PT07M50.00S,4,1610612741,CHI,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P3.T1) (G.Zielinski),Foul,Personal,1,404
+21700252,529,PT07M45.00S,4,1610612747,LAL,203903,Clarkson,J. Clarkson,-134,222,26,Missed,1,,,0,h,MISS Clarkson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,405
+21700252,530,PT07M41.00S,4,1610612741,CHI,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:2 Def:2),Rebound,Unknown,1,406
+21700252,531,PT07M35.00S,4,1610612741,CHI,1627739,Dunn,K. Dunn,-41,203,21,Made,1,80.0,85.0,165,v,Dunn 21' Step Back Jump Shot (12 PTS),Made Shot,Step Back Jump shot,1,407
+21700252,532,PT07M17.00S,4,1610612747,LAL,1628404,Hart,J. Hart,226,25,0,Missed,1,,,0,h,MISS Hart 3PT Jump Shot,Missed Shot,Jump Shot,1,408
+21700252,533,PT07M14.00S,4,1610612741,CHI,1627756,Valentine,D. Valentine,0,0,0,,0,,,0,v,Valentine REBOUND (Off:1 Def:7),Rebound,Unknown,1,409
+21700252,534,PT07M00.00S,4,1610612741,CHI,1626171,Portis,B. Portis,3,25,3,Made,1,80.0,87.0,167,v,Portis 3' Layup (8 PTS),Made Shot,Layup Shot,1,410
+21700252,535,PT06M49.00S,4,1610612741,CHI,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P4.T2) (G.Zielinski),Foul,Personal,1,411
+21700252,537,PT06M49.00S,4,1610612747,LAL,1628404,Hart,J. Hart,0,0,0,,0,,,0,h,SUB: Ball FOR Hart,Substitution,,0,412
+21700252,538,PT06M49.00S,4,1610612747,LAL,203903,Clarkson,J. Clarkson,0,0,0,,0,,,0,h,SUB: Caldwell-Pope FOR Clarkson,Substitution,,0,413
+21700252,541,PT06M37.00S,4,1610612747,LAL,1628366,Ball,L. Ball,-148,210,26,Made,1,83.0,87.0,170,h,Ball 26' 3PT Jump Shot (8 PTS) (Ingram 4 AST),Made Shot,Jump Shot,1,414
+21700252,543,PT06M17.00S,4,1610612741,CHI,1628374,Markkanen,L. Markkanen,-4,25,3,Made,1,83.0,89.0,172,v,Markkanen 3' Layup (8 PTS) (Portis 2 AST),Made Shot,Layup Shot,1,415
+21700252,545,PT06M04.00S,4,1610612747,LAL,1628398,Kuzma,K. Kuzma,63,5,6,Missed,1,,,0,h,MISS Kuzma 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,416
+21700252,546,PT06M04.00S,4,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Unknown,0,417
+21700252,547,PT06M04.00S,4,1610612747,LAL,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle L.B.FOUL (P3.T3) (B.Nansel),Foul,Loose Ball,1,418
+21700252,549,PT06M04.00S,4,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,SUB: Lopez FOR Kuzma,Substitution,,0,419
+21700252,551,PT06M04.00S,4,1610612741,CHI,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,SUB: Lopez FOR Portis,Substitution,,0,420
+21700252,553,PT05M51.00S,4,1610612741,CHI,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Lost Ball Turnover (P4.T12),Turnover,Lost Ball,1,421
+21700252,554,PT05M51.00S,4,1610612741,CHI,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn L.B.FOUL (P5.T3) (B.Spooner),Foul,Loose Ball,1,422
+21700252,556,PT05M51.00S,4,1610612741,CHI,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Grant FOR Dunn,Substitution,,0,423
+21700252,558,PT05M41.00S,4,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,-9,23,2,Missed,1,,,0,h,MISS Caldwell-Pope 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,424
+21700252,559,PT05M39.00S,4,1610612741,CHI,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,Markkanen REBOUND (Off:4 Def:10),Rebound,Unknown,1,425
+21700252,560,PT05M29.00S,4,1610612741,CHI,1628374,Markkanen,L. Markkanen,-232,64,24,Missed,1,,,0,v,MISS Markkanen 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,426
+21700252,561,PT05M25.00S,4,1610612747,LAL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez REBOUND (Off:0 Def:9),Rebound,Unknown,1,427
+21700252,562,PT05M11.00S,4,1610612747,LAL,201572,Lopez,B. Lopez,0,27,3,Missed,1,,,0,h,MISS Lopez 3' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,1,428
+21700252,563,PT05M07.00S,4,1610612741,CHI,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,Lopez REBOUND (Off:1 Def:2),Rebound,Unknown,1,429
+21700252,564,PT04M58.00S,4,1610612741,CHI,1627756,Valentine,D. Valentine,-29,250,25,Missed,1,,,0,v,MISS Valentine 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,430
+21700252,565,PT04M55.00S,4,1610612747,LAL,1628366,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:2 Def:8),Rebound,Unknown,1,431
+21700252,567,PT04M44.00S,4,1610612747,LAL,201572,Lopez,B. Lopez,6,18,2,Made,1,85.0,89.0,174,h,Lopez 2' Driving Layup (4 PTS) (Ingram 5 AST),Made Shot,Driving Layup Shot,1,432
+21700252,569,PT04M28.00S,4,1610612741,CHI,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,Lopez OFF.Foul (P4) (B.Spooner),Foul,Offensive,1,433
+21700252,571,PT04M28.00S,4,1610612741,CHI,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,Lopez Offensive Foul Turnover (P1.T13),Turnover,Offensive Foul Turnover,1,434
+21700252,572,PT04M12.00S,4,1610612741,CHI,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday S.FOUL (P2.T4) (B.Nansel),Foul,Shooting,1,435
+21700252,574,PT04M12.00S,4,1610612747,LAL,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,MISS Ingram Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,436
+21700252,575,PT04M12.00S,4,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Normal Rebound,0,437
+21700252,576,PT04M12.00S,4,1610612747,LAL,1627742,Ingram,B. Ingram,0,0,0,,0,86.0,89.0,175,h,Ingram Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,438
+21700252,577,PT04M00.00S,4,1610612741,CHI,1627756,Valentine,D. Valentine,19,30,4,Missed,1,,,0,v,MISS Valentine 4' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,1,439
+21700252,578,PT03M58.00S,4,1610612747,LAL,203944,Randle,J. Randle,0,0,0,,0,,,0,h,Randle REBOUND (Off:2 Def:8),Rebound,Unknown,1,440
+21700252,579,PT03M52.00S,4,1610612747,LAL,203944,Randle,J. Randle,-3,31,3,Missed,1,,,0,h,MISS Randle 3' Hook Shot,Missed Shot,Hook Shot,1,441
+21700252,579,PT03M52.00S,4,1610612741,CHI,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,Lopez BLOCK (1 BLK),,,1,442
+21700252,581,PT03M46.00S,4,1610612741,CHI,1627756,Valentine,D. Valentine,0,0,0,,0,,,0,v,Valentine REBOUND (Off:1 Def:8),Rebound,Unknown,1,443
+21700252,582,PT03M42.00S,4,1610612741,CHI,1628374,Markkanen,L. Markkanen,-49,251,26,Missed,1,,,0,v,MISS Markkanen 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,444
+21700252,583,PT03M39.00S,4,1610612747,LAL,1627742,Ingram,B. Ingram,0,0,0,,0,,,0,h,Ingram REBOUND (Off:1 Def:4),Rebound,Unknown,1,445
+21700252,584,PT03M35.00S,4,1610612747,LAL,1627742,Ingram,B. Ingram,13,43,4,Made,1,88.0,89.0,177,h,Ingram 4' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,1,446
+21700252,585,PT03M35.00S,4,1610612741,CHI,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday S.FOUL (P3.PN) (G.Zielinski),Foul,Shooting,1,447
+21700252,587,PT03M35.00S,4,1610612747,LAL,203944,Randle,J. Randle,0,0,0,,0,,,0,h,SUB: Kuzma FOR Randle,Substitution,,0,448
+21700252,588,PT03M35.00S,4,1610612741,CHI,1626170,Grant,J. Grant,0,0,0,,0,,,0,v,SUB: Dunn FOR Grant,Substitution,,0,449
+21700252,591,PT03M35.00S,4,1610612747,LAL,1627742,Ingram,B. Ingram,0,0,0,,0,89.0,89.0,178,h,Ingram Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,0,450
+21700252,592,PT03M23.00S,4,1610612741,CHI,1627739,Dunn,K. Dunn,-6,179,18,Missed,1,,,0,v,MISS Dunn 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,451
+21700252,593,PT03M19.00S,4,1610612747,LAL,1628366,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:2 Def:9),Rebound,Unknown,1,452
+21700252,595,PT03M09.00S,4,1610612747,LAL,201572,Lopez,B. Lopez,-104,228,25,Missed,1,,,0,h,MISS Lopez 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,453
+21700252,596,PT03M06.00S,4,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope REBOUND (Off:2 Def:4),Rebound,Unknown,1,454
+21700252,597,PT03M06.00S,4,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,-6,1,Made,1,91.0,89.0,180,h,Caldwell-Pope 1' Tip Layup Shot (12 PTS),Made Shot,Tip Layup Shot,1,455
+21700252,598,PT03M06.00S,4,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,456
+21700252,599,PT02M50.00S,4,1610612741,CHI,1627756,Valentine,D. Valentine,0,0,0,,0,,,0,v,Valentine Bad Pass Turnover (P1.T14),Turnover,Bad Pass,1,457
+21700252,599,PT02M50.00S,4,1610612747,LAL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez STEAL (1 STL),,,1,458
+21700252,601,PT02M44.00S,4,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,116,227,25,Made,1,94.0,89.0,183,h,Caldwell-Pope 25' 3PT Jump Shot (15 PTS) (Kuzma 5 AST),Made Shot,Jump Shot,1,459
+21700252,603,PT02M30.00S,4,1610612741,CHI,1628374,Markkanen,L. Markkanen,-124,216,25,Made,1,94.0,92.0,186,v,Markkanen 25' 3PT Jump Shot (11 PTS) (Lopez 2 AST),Made Shot,Jump Shot,1,460
+21700252,605,PT02M13.00S,4,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,151,205,25,Missed,1,,,0,h,MISS Caldwell-Pope 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,461
+21700252,606,PT02M11.00S,4,1610612741,CHI,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:2 Def:7),Rebound,Unknown,1,462
+21700252,607,PT01M49.00S,4,1610612741,CHI,1627739,Dunn,K. Dunn,43,21,5,Missed,1,,,0,v,MISS Dunn 5' Layup,Missed Shot,Layup Shot,1,463
+21700252,607,PT01M49.00S,4,1610612747,LAL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,Lopez BLOCK (2 BLK),,,1,464
+21700252,609,PT01M49.00S,4,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Unknown,0,465
+21700252,610,PT01M49.00S,4,1610612747,LAL,201572,Lopez,B. Lopez,0,0,0,,0,,,0,h,SUB: Randle FOR Lopez,Substitution,,0,466
+21700252,612,PT01M47.00S,4,1610612741,CHI,1627756,Valentine,D. Valentine,-149,20,15,Missed,1,,,0,v,MISS Valentine 15' Jump Shot,Missed Shot,Jump Shot,1,467
+21700252,613,PT01M44.00S,4,1610612747,LAL,1628366,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:2 Def:10),Rebound,Unknown,1,468
+21700252,614,PT01M42.00S,4,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,151,211,26,Made,1,97.0,92.0,189,h,Caldwell-Pope 26' 3PT Pullup Jump Shot (18 PTS) (Ball 4 AST),Made Shot,Pullup Jump shot,1,469
+21700252,616,PT01M32.00S,4,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,Kuzma S.FOUL (P4.T4) (G.Zielinski),Foul,Shooting,1,470
+21700252,618,PT01M32.00S,4,1610612741,CHI,1628374,Markkanen,L. Markkanen,0,0,0,,0,97.0,93.0,190,v,Markkanen Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,471
+21700252,619,PT01M32.00S,4,1610612741,CHI,1628374,Markkanen,L. Markkanen,0,0,0,,0,97.0,94.0,191,v,Markkanen Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,472
+21700252,620,PT01M16.00S,4,1610612747,LAL,1627742,Ingram,B. Ingram,16,17,2,Made,1,99.0,94.0,193,h,Ingram 2' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,473
+21700252,621,PT00M55.80S,4,1610612741,CHI,1628374,Markkanen,L. Markkanen,-144,201,25,Missed,1,,,0,v,MISS Markkanen 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,474
+21700252,622,PT00M52.40S,4,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope REBOUND (Off:2 Def:5),Rebound,Unknown,1,475
+21700252,623,PT00M33.30S,4,1610612747,LAL,1628366,Ball,L. Ball,-231,-9,0,Missed,1,,,0,h,MISS Ball 3PT Jump Shot,Missed Shot,Jump Shot,1,476
+21700252,624,PT00M28.30S,4,1610612747,LAL,1628366,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:3 Def:10),Rebound,Unknown,1,477
+21700252,625,PT00M24.50S,4,1610612741,CHI,1627756,Valentine,D. Valentine,0,0,0,,0,,,0,v,Valentine AWAY.FROM.PLAY.FOUL (P1.PN) (G.Zielinski),Foul,Away From Play,1,478
+21700252,653,PT00M24.50S,4,1610612741,CHI,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,SUB: Portis FOR Lopez,Substitution,,0,479
+21700252,627,PT00M24.50S,4,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,100.0,94.0,194,h,Kuzma Free Throw 1 of 1 (22 PTS),Free Throw,Free Throw 1 of 1,0,480
+21700252,628,PT00M23.20S,4,1610612741,CHI,1628374,Markkanen,L. Markkanen,0,0,0,,0,,,0,v,Markkanen Personal Take Foul (P1.PN) (B.Spooner),Foul,Personal Take,1,481
+21700252,630,PT00M23.20S,4,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,MISS Kuzma Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,482
+21700252,631,PT00M23.20S,4,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Normal Rebound,0,483
+21700252,632,PT00M23.20S,4,1610612747,LAL,1628398,Kuzma,K. Kuzma,0,0,0,,0,,,0,h,MISS Kuzma Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,484
+21700252,655,PT00M23.20S,4,1610612741,CHI,1626171,Portis,B. Portis,0,0,0,,0,,,0,v,SUB: Lopez FOR Portis,Substitution,,0,485
+21700252,633,PT00M21.80S,4,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,Caldwell-Pope REBOUND (Off:3 Def:5),Rebound,Unknown,1,486
+21700252,634,PT00M21.80S,4,1610612741,CHI,1627756,Valentine,D. Valentine,0,0,0,,0,,,0,v,Valentine Personal Take Foul (P2.PN) (B.Spooner),Foul,Personal Take,1,487
+21700252,636,PT00M21.80S,4,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,101.0,94.0,195,h,Caldwell-Pope Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,488
+21700252,637,PT00M21.80S,4,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,102.0,94.0,196,h,Caldwell-Pope Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,489
+21700252,640,PT00M10.50S,4,1610612741,CHI,203200,Holiday,J. Holiday,63,266,27,Missed,1,,,0,v,MISS Holiday 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,490
+21700252,641,PT00M07.00S,4,1610612741,CHI,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:3 Def:2),Rebound,Unknown,1,491
+21700252,642,PT00M02.00S,4,1610612741,CHI,1627739,Dunn,K. Dunn,157,210,26,Missed,1,,,0,v,MISS Dunn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,492
+21700252,643,PT00M02.00S,4,0,,1610612747,,,0,0,0,,0,,,0,h,LAKERS Rebound,Rebound,Unknown,1,493
+21700252,644,PT00M02.00S,4,1610612741,CHI,201577,Lopez,R. Lopez,0,0,0,,0,,,0,v,Lopez L.B.FOUL (P5.PN) (B.Spooner),Foul,Loose Ball,1,494
+21700252,646,PT00M02.00S,4,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,103.0,94.0,197,h,Caldwell-Pope Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,495
+21700252,647,PT00M02.00S,4,1610612747,LAL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,,,0,h,MISS Caldwell-Pope Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,496
+21700252,649,PT00M00.40S,4,1610612741,CHI,203200,Holiday,J. Holiday,-124,619,63,Missed,1,,,0,v,MISS Holiday 63' 3PT Jump Shot,Missed Shot,Jump Shot,1,497
+21700252,648,PT00M00.10S,4,1610612741,CHI,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:2 Def:8),Rebound,Unknown,1,498
+21700252,650,PT00M00.10S,4,0,,1610612741,,,0,0,0,,0,,,0,v,Bulls Rebound,Rebound,Unknown,0,499
+21700252,652,PT00M00.00S,4,0,,0,,,0,0,0,,0,103.0,94.0,197,,End of 4th Period (12:53 AM EST),period,end,1,500

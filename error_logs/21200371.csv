@@ -1,0 +1,493 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+21200371,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (7:40 PM EST),period,start,0,1
+21200371,1,PT12M00.00S,1,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Jump Ball Smith vs. Ibaka: Tip to Teague,Jump Ball,,0,2
+21200371,2,PT11M39.00S,1,1610612737,ATL,2746,Smith,J. Smith,12,88,9,Missed,1,0.0,0.0,0,h,MISS Smith 9' Hook Shot,Missed Shot,Hook Shot,0,3
+21200371,3,PT11M37.00S,1,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0.0,0.0,0,v,Perkins REBOUND (Off:0 Def:1),Rebound,Unknown,0,4
+21200371,4,PT11M24.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,133,135,19,Missed,1,0.0,0.0,0,v,MISS Westbrook 19' Jump Shot,Missed Shot,Jump Shot,0,5
+21200371,5,PT11M23.00S,1,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,0,6
+21200371,8,PT11M07.00S,1,1610612737,ATL,201143,Horford,A. Horford,13,88,9,Made,1,2.0,0.0,2,h,Horford 9' Running Jump Shot (2 PTS) (Teague 1 AST),Made Shot,Running Jump Shot,0,7
+21200371,9,PT10M38.00S,1,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,v,Thunder Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,0,8
+21200371,10,PT10M19.00S,1,1610612737,ATL,2594,Korver,K. Korver,32,249,25,Missed,1,0.0,0.0,0,h,MISS Korver 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,9
+21200371,11,PT10M17.00S,1,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:1 Def:1),Rebound,Unknown,0,10
+21200371,12,PT10M15.00S,1,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,11
+21200371,12,PT10M15.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook STEAL (1 STL),,,0,12
+21200371,13,PT10M11.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,13
+21200371,13,PT10M11.00S,1,1610612737,ATL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,Stevenson STEAL (1 STL),,,0,14
+21200371,14,PT10M01.00S,1,1610612737,ATL,2746,Smith,J. Smith,239,23,24,Missed,1,0.0,0.0,0,h,MISS Smith 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,15
+21200371,15,PT09M59.00S,1,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,v,Durant REBOUND (Off:0 Def:1),Rebound,Unknown,0,16
+21200371,16,PT09M47.00S,1,1610612760,OKC,2570,Perkins,K. Perkins,6,4,1,Made,1,2.0,2.0,4,v,Perkins 1' Slam Dunk (2 PTS) (Durant 1 AST),Made Shot,Slam Dunk Shot,0,17
+21200371,17,PT09M28.00S,1,1610612737,ATL,2594,Korver,K. Korver,-40,160,16,Missed,1,0.0,0.0,0,h,MISS Korver 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,18
+21200371,18,PT09M27.00S,1,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Unknown,0,19
+21200371,19,PT09M14.00S,1,1610612737,ATL,201952,Teague,J. Teague,193,64,20,Made,1,4.0,2.0,6,h,Teague 20' Jump Shot (2 PTS) (Horford 1 AST),Made Shot,Jump Shot,0,20
+21200371,20,PT08M59.00S,1,1610612760,OKC,200757,Sefolosha,T. Sefolosha,-228,17,0,Missed,1,0.0,0.0,0,v,MISS Sefolosha  3PT Jump Shot,Missed Shot,Jump Shot,0,21
+21200371,21,PT08M57.00S,1,1610612760,OKC,200757,Sefolosha,T. Sefolosha,0,0,0,,0,0.0,0.0,0,v,Sefolosha REBOUND (Off:1 Def:0),Rebound,Unknown,0,22
+21200371,22,PT08M49.00S,1,1610612760,OKC,2570,Perkins,K. Perkins,13,20,2,Missed,1,0.0,0.0,0,v,MISS Perkins 2' Driving Layup,Missed Shot,Driving Layup Shot,0,23
+21200371,22,PT08M49.00S,1,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith BLOCK (1 BLK),,,0,24
+21200371,23,PT08M47.00S,1,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:1 Def:2),Rebound,Unknown,0,25
+21200371,24,PT08M39.00S,1,1610612737,ATL,2052,Stevenson,D. Stevenson,-226,15,0,Missed,1,0.0,0.0,0,h,MISS Stevenson  3PT Jump Shot,Missed Shot,Jump Shot,0,26
+21200371,25,PT08M37.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,v,Ibaka REBOUND (Off:0 Def:1),Rebound,Unknown,0,27
+21200371,26,PT08M24.00S,1,1610612760,OKC,201142,Durant,K. Durant,204,69,22,Missed,1,0.0,0.0,0,v,MISS Durant 22' Jump Shot,Missed Shot,Jump Shot,0,28
+21200371,27,PT08M23.00S,1,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,0.0,0.0,0,h,Horford REBOUND (Off:0 Def:1),Rebound,Unknown,0,29
+21200371,28,PT08M12.00S,1,1610612737,ATL,2746,Smith,J. Smith,13,0,1,Made,1,6.0,2.0,8,h,Smith 1' Driving Dunk (2 PTS),Made Shot,Driving Dunk Shot,0,30
+21200371,30,PT07M59.00S,1,1610612760,OKC,200757,Sefolosha,T. Sefolosha,32,3,3,Missed,1,0.0,0.0,0,v,MISS Sefolosha 3' Jump Shot,Missed Shot,Jump Shot,0,31
+21200371,30,PT07M59.00S,1,1610612737,ATL,2594,Korver,K. Korver,0,0,0,,0,0.0,0.0,0,h,Korver BLOCK (1 BLK),,,0,32
+21200371,31,PT07M57.00S,1,1610612737,ATL,2594,Korver,K. Korver,0,0,0,,0,0.0,0.0,0,h,Korver REBOUND (Off:0 Def:1),Rebound,Unknown,0,33
+21200371,32,PT07M53.00S,1,1610612737,ATL,201952,Teague,J. Teague,118,219,25,Missed,1,0.0,0.0,0,h,MISS Teague 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,34
+21200371,33,PT07M51.00S,1,1610612760,OKC,200757,Sefolosha,T. Sefolosha,0,0,0,,0,0.0,0.0,0,v,Sefolosha REBOUND (Off:1 Def:1),Rebound,Unknown,0,35
+21200371,34,PT07M45.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,6,3,1,Made,1,6.0,4.0,10,v,Westbrook 1' Driving Dunk (2 PTS),Made Shot,Driving Dunk Shot,0,36
+21200371,36,PT07M22.00S,1,1610612737,ATL,2052,Stevenson,D. Stevenson,-78,236,25,Missed,1,0.0,0.0,0,h,MISS Stevenson 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,37
+21200371,37,PT07M18.00S,1,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,v,Durant REBOUND (Off:0 Def:2),Rebound,Unknown,0,38
+21200371,38,PT07M17.00S,1,1610612760,OKC,201142,Durant,K. Durant,10,11,1,Made,1,6.0,6.0,12,v,Durant 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,0,39
+21200371,39,PT07M17.00S,1,1610612737,ATL,2594,Korver,K. Korver,0,0,0,,0,0.0,0.0,0,h,Korver S.FOUL (P1.T1),Foul,Shooting,0,40
+21200371,40,PT07M17.00S,1,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,v,MISS Durant Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,41
+21200371,42,PT07M15.00S,1,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0.0,0.0,0,v,Perkins REBOUND (Off:1 Def:1),Rebound,Unknown,0,42
+21200371,43,PT07M11.00S,1,1610612760,OKC,2570,Perkins,K. Perkins,15,4,2,Missed,1,0.0,0.0,0,v,MISS Perkins 2' Putback Layup,Missed Shot,Putback Layup Shot,0,43
+21200371,43,PT07M11.00S,1,1610612737,ATL,2594,Korver,K. Korver,0,0,0,,0,0.0,0.0,0,h,Korver BLOCK (2 BLK),,,0,44
+21200371,44,PT07M10.00S,1,1610612737,ATL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,Stevenson REBOUND (Off:0 Def:1),Rebound,Unknown,0,45
+21200371,45,PT06M57.00S,1,1610612737,ATL,201143,Horford,A. Horford,18,36,4,Missed,1,0.0,0.0,0,h,MISS Horford 4' Driving Jump Shot,Missed Shot,Driving Jump shot,0,46
+21200371,46,PT06M54.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook REBOUND (Off:0 Def:1),Rebound,Unknown,0,47
+21200371,47,PT06M54.00S,1,1610612737,ATL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,Stevenson P.FOUL (P1.T2),Foul,Personal,0,48
+21200371,49,PT06M48.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,6,192,19,Missed,1,0.0,0.0,0,v,MISS Ibaka 19' Jump Shot,Missed Shot,Jump Shot,0,49
+21200371,50,PT06M47.00S,1,1610612737,ATL,2594,Korver,K. Korver,0,0,0,,0,0.0,0.0,0,h,Korver REBOUND (Off:0 Def:2),Rebound,Unknown,0,50
+21200371,51,PT06M42.00S,1,1610612737,ATL,2746,Smith,J. Smith,0,7,1,Made,1,8.0,6.0,14,h,Smith 1' Running Layup (4 PTS) (Korver 1 AST),Made Shot,Running Layup Shot,0,51
+21200371,52,PT06M32.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,52
+21200371,52,PT06M32.00S,1,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,0.0,0.0,0,h,Horford STEAL (1 STL),,,0,53
+21200371,53,PT06M26.00S,1,1610612737,ATL,201952,Teague,J. Teague,10,1,1,Made,1,10.0,6.0,16,h,Teague 1' Running Layup (4 PTS),Made Shot,Running Layup Shot,0,54
+21200371,54,PT06M15.00S,1,1610612737,ATL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,Stevenson P.FOUL (P2.T3),Foul,Personal,0,55
+21200371,55,PT06M03.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,15,41,4,Missed,1,0.0,0.0,0,v,MISS Westbrook 4' Driving Jump Shot,Missed Shot,Driving Jump shot,0,56
+21200371,56,PT06M03.00S,1,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Unknown,0,57
+21200371,57,PT06M03.00S,1,1610612737,ATL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,SUB: Morrow FOR Stevenson,Substitution,,0,58
+21200371,59,PT05M47.00S,1,1610612737,ATL,2746,Smith,J. Smith,-18,205,21,Missed,1,0.0,0.0,0,h,MISS Smith 21' Jump Shot,Missed Shot,Jump Shot,0,59
+21200371,60,PT05M45.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook REBOUND (Off:0 Def:2),Rebound,Unknown,0,60
+21200371,61,PT05M36.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,-158,19,16,Missed,1,0.0,0.0,0,v,MISS Ibaka 16' Jump Shot,Missed Shot,Jump Shot,0,61
+21200371,62,PT05M35.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook REBOUND (Off:1 Def:2),Rebound,Unknown,0,62
+21200371,63,PT05M31.00S,1,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith S.FOUL (P1.T4),Foul,Shooting,0,63
+21200371,64,PT05M31.00S,1,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,64
+21200371,65,PT05M31.00S,1,1610612737,ATL,201952,Teague,J. Teague,0,0,0,,0,0.0,0.0,0,h,SUB: Williams FOR Teague,Substitution,,0,65
+21200371,66,PT05M31.00S,1,1610612760,OKC,200757,Sefolosha,T. Sefolosha,0,0,0,,0,0.0,0.0,0,v,SUB: Martin FOR Sefolosha,Substitution,,0,66
+21200371,67,PT05M31.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,10.0,7.0,17,v,Westbrook Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,67
+21200371,69,PT05M31.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,10.0,8.0,18,v,Westbrook Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,68
+21200371,71,PT05M13.00S,1,1610612737,ATL,2746,Smith,J. Smith,-4,37,4,Missed,1,0.0,0.0,0,h,MISS Smith 4' Running Hook Shot,Missed Shot,Running Hook Shot,0,69
+21200371,71,PT05M13.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,v,Ibaka BLOCK (1 BLK),,,0,70
+21200371,72,PT05M11.00S,1,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0.0,0.0,0,v,Perkins REBOUND (Off:1 Def:2),Rebound,Unknown,0,71
+21200371,73,PT05M06.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,21,0,2,Made,1,10.0,10.0,20,v,Ibaka 2' Layup (2 PTS) (Westbrook 1 AST),Made Shot,Layup Shot,0,72
+21200371,74,PT04M48.00S,1,1610612737,ATL,201143,Horford,A. Horford,7,3,1,Made,1,12.0,10.0,22,h,Horford 1' Dunk (4 PTS) (Korver 2 AST),Made Shot,Dunk Shot,0,73
+21200371,75,PT04M30.00S,1,1610612760,OKC,201142,Durant,K. Durant,17,145,15,Made,1,12.0,12.0,24,v,Durant 15' Fadeaway Jumper (4 PTS) (Westbrook 2 AST),Made Shot,Fadeaway Jump Shot,0,74
+21200371,76,PT04M12.00S,1,1610612737,ATL,201143,Horford,A. Horford,-144,58,16,Made,1,14.0,12.0,26,h,Horford 16' Jump Shot (6 PTS) (Korver 3 AST),Made Shot,Jump Shot,0,75
+21200371,77,PT03M54.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,-213,113,24,Made,1,14.0,15.0,29,v,Westbrook 24' 3PT Jump Shot (7 PTS) (Durant 2 AST),Made Shot,Jump Shot,0,76
+21200371,78,PT03M30.00S,1,1610612737,ATL,2594,Korver,K. Korver,26,268,27,Missed,1,0.0,0.0,0,h,MISS Korver 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,77
+21200371,79,PT03M28.00S,1,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0.0,0.0,0,v,Perkins REBOUND (Off:1 Def:3),Rebound,Unknown,0,78
+21200371,80,PT03M18.00S,1,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,v,Durant Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,79
+21200371,80,PT03M18.00S,1,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,0.0,0.0,0,h,Horford STEAL (2 STL),,,0,80
+21200371,81,PT03M11.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook S.FOUL (P1.T1),Foul,Shooting,0,81
+21200371,82,PT03M11.00S,1,1610612737,ATL,201627,Morrow,A. Morrow,0,0,0,,0,15.0,15.0,30,h,Morrow Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,0,82
+21200371,84,PT03M11.00S,1,1610612737,ATL,201627,Morrow,A. Morrow,0,0,0,,0,16.0,15.0,31,h,Morrow Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,0,83
+21200371,86,PT03M11.00S,1,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0.0,0.0,0,v,SUB: Collison FOR Perkins,Substitution,,0,84
+21200371,87,PT03M11.00S,1,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,v,SUB: Lamb FOR Durant,Substitution,,0,85
+21200371,88,PT03M11.00S,1,1610612737,ATL,2594,Korver,K. Korver,0,0,0,,0,0.0,0.0,0,h,SUB: Pachulia FOR Korver,Substitution,,0,86
+21200371,89,PT03M11.00S,1,1610612737,ATL,201627,Morrow,A. Morrow,0,0,0,,0,17.0,15.0,32,h,Morrow Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,0,87
+21200371,91,PT02M49.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,-65,119,14,Made,1,17.0,17.0,34,v,Westbrook 14' Jump Shot (9 PTS),Made Shot,Jump Shot,0,88
+21200371,92,PT02M23.00S,1,1610612737,ATL,201627,Morrow,A. Morrow,-127,42,13,Missed,1,0.0,0.0,0,h,MISS Morrow 13' Jump Shot,Missed Shot,Jump Shot,0,89
+21200371,93,PT02M22.00S,1,1610612737,ATL,201627,Morrow,A. Morrow,0,0,0,,0,0.0,0.0,0,h,Morrow REBOUND (Off:1 Def:0),Rebound,Unknown,0,90
+21200371,94,PT02M20.00S,1,1610612737,ATL,201627,Morrow,A. Morrow,-98,-16,10,Made,1,19.0,17.0,36,h,Morrow 10' Jump Shot (5 PTS),Made Shot,Jump Shot,0,91
+21200371,95,PT02M04.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,119,143,19,Missed,1,0.0,0.0,0,v,MISS Westbrook 19' Jump Shot,Missed Shot,Jump Shot,0,92
+21200371,96,PT02M00.00S,1,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,v,Thunder Rebound,Rebound,Unknown,0,93
+21200371,97,PT02M00.00S,1,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,v,Thunder Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,94
+21200371,99,PT02M00.00S,1,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,0.0,0.0,0,h,SUB: Johnson FOR Horford,Substitution,,0,95
+21200371,100,PT02M00.00S,1,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,v,SUB: Maynor FOR Ibaka,Substitution,,0,96
+21200371,101,PT02M00.00S,1,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,SUB: Thabeet FOR Westbrook,Substitution,,0,97
+21200371,102,PT01M53.00S,1,1610612760,OKC,2755,Martin,K. Martin,-32,97,10,Made,1,19.0,19.0,38,v,Martin 10' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,0,98
+21200371,103,PT01M35.00S,1,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith Out of Bounds Lost Ball Turnover (P2.T2),Turnover,Out of Bounds Lost Ball Turnover,0,99
+21200371,104,PT01M19.00S,1,1610612760,OKC,203087,Lamb,J. Lamb,-15,205,21,Made,1,19.0,21.0,40,v,Lamb 21' Jump Shot (2 PTS),Made Shot,Jump Shot,0,100
+21200371,105,PT01M03.00S,1,1610612737,ATL,201274,Johnson,I. Johnson,0,0,0,,0,0.0,0.0,0,h,Johnson Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,101
+21200371,105,PT01M03.00S,1,1610612760,OKC,203087,Lamb,J. Lamb,0,0,0,,0,0.0,0.0,0,v,Lamb STEAL (1 STL),,,0,102
+21200371,106,PT00M50.80S,1,1610612760,OKC,201934,Thabeet,H. Thabeet,171,6,17,Made,1,19.0,23.0,42,v,Thabeet 17' Jump Shot (2 PTS) (Maynor 1 AST),Made Shot,Jump Shot,0,103
+21200371,108,PT00M35.90S,1,1610612737,ATL,201274,Johnson,I. Johnson,2,121,12,Missed,1,0.0,0.0,0,h,MISS Johnson 12' Jump Shot,Missed Shot,Jump Shot,0,104
+21200371,108,PT00M35.90S,1,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0.0,0.0,0,v,Collison BLOCK (1 BLK),,,0,105
+21200371,109,PT00M33.90S,1,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0.0,0.0,0,v,Thabeet REBOUND (Off:0 Def:1),Rebound,Unknown,0,106
+21200371,110,PT00M21.90S,1,1610612760,OKC,203087,Lamb,J. Lamb,-229,45,0,Missed,1,0.0,0.0,0,v,MISS Lamb  3PT Jump Shot,Missed Shot,Jump Shot,0,107
+21200371,111,PT00M21.20S,1,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Unknown,0,108
+21200371,113,PT00M21.20S,1,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0.0,0.0,0,v,Thabeet L.B.FOUL (P1.T2),Foul,Loose Ball,0,109
+21200371,114,PT00M21.20S,1,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,SUB: Jenkins FOR Smith,Substitution,,0,110
+21200371,116,PT00M02.90S,1,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0.0,0.0,0,v,Collison S.FOUL (P1.PN),Foul,Shooting,0,111
+21200371,117,PT00M02.90S,1,1610612737,ATL,201274,Johnson,I. Johnson,0,0,0,,0,0.0,0.0,0,h,MISS Johnson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,112
+21200371,118,PT00M02.90S,1,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Normal Rebound,0,113
+21200371,119,PT00M02.90S,1,1610612737,ATL,201274,Johnson,I. Johnson,0,0,0,,0,20.0,23.0,43,h,Johnson Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,114
+21200371,121,PT00M00.00S,1,1610612760,OKC,201953,Maynor,E. Maynor,184,465,50,Missed,1,0.0,0.0,0,v,MISS Maynor 50' 3PT Jump Shot,Missed Shot,Jump Shot,0,115
+21200371,122,PT00M00.00S,1,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,v,Thunder Rebound,Rebound,Unknown,0,116
+21200371,123,PT00M00.00S,1,0,,0,,,0,0,0,,0,20.0,23.0,43,,End of 1st Period (8:04 PM EST),period,end,0,117
+21200371,125,PT12M00.00S,2,0,,0,,,0,0,0,,0,20.0,23.0,43,,Start of 2nd Period (8:06 PM EST),period,start,0,118
+21200371,126,PT11M45.00S,2,1610612760,OKC,2755,Martin,K. Martin,-32,34,5,Missed,1,0.0,0.0,0,v,MISS Martin 5' Driving Jump Shot,Missed Shot,Driving Jump shot,0,119
+21200371,127,PT11M44.00S,2,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0.0,0.0,0,v,Thabeet REBOUND (Off:1 Def:1),Rebound,Unknown,0,120
+21200371,128,PT11M44.00S,2,1610612737,ATL,201274,Johnson,I. Johnson,0,0,0,,0,0.0,0.0,0,h,Johnson S.FOUL (P1.T1),Foul,Shooting,0,121
+21200371,129,PT11M44.00S,2,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,20.0,24.0,44,v,Thabeet Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,122
+21200371,131,PT11M44.00S,2,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,20.0,25.0,45,v,Thabeet Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,123
+21200371,133,PT11M30.00S,2,1610612737,ATL,201274,Johnson,I. Johnson,15,30,3,Missed,1,0.0,0.0,0,h,MISS Johnson 3' Driving Jump Shot,Missed Shot,Driving Jump shot,0,124
+21200371,134,PT11M27.00S,2,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,Pachulia REBOUND (Off:1 Def:0),Rebound,Unknown,0,125
+21200371,135,PT11M26.00S,2,1610612737,ATL,2585,Pachulia,Z. Pachulia,4,4,1,Missed,1,0.0,0.0,0,h,MISS Pachulia 1' Putback Layup,Missed Shot,Putback Layup Shot,0,126
+21200371,136,PT11M26.00S,2,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Unknown,0,127
+21200371,137,PT11M10.00S,2,1610612737,ATL,101150,Williams,L. Williams,-49,53,7,Missed,1,0.0,0.0,0,h,MISS Williams 7' Driving Jump Shot,Missed Shot,Driving Jump shot,0,128
+21200371,138,PT11M09.00S,2,1610612760,OKC,203087,Lamb,J. Lamb,0,0,0,,0,0.0,0.0,0,v,Lamb REBOUND (Off:0 Def:1),Rebound,Unknown,0,129
+21200371,139,PT11M02.00S,2,1610612760,OKC,2755,Martin,K. Martin,61,173,18,Made,1,20.0,27.0,47,v,Martin 18' Jump Shot (4 PTS),Made Shot,Jump Shot,0,130
+21200371,140,PT10M50.00S,2,1610612737,ATL,201274,Johnson,I. Johnson,13,190,19,Missed,1,0.0,0.0,0,h,MISS Johnson 19' Jump Shot,Missed Shot,Jump Shot,0,131
+21200371,141,PT10M49.00S,2,1610612737,ATL,201627,Morrow,A. Morrow,0,0,0,,0,0.0,0.0,0,h,Morrow REBOUND (Off:2 Def:0),Rebound,Unknown,0,132
+21200371,142,PT10M45.00S,2,1610612737,ATL,201627,Morrow,A. Morrow,237,50,24,Made,1,23.0,27.0,50,h,Morrow 24' 3PT Jump Shot (8 PTS) (Jenkins 1 AST),Made Shot,Jump Shot,0,133
+21200371,143,PT10M20.00S,2,1610612760,OKC,203087,Lamb,J. Lamb,160,195,25,Made,1,23.0,30.0,53,v,Lamb 25' 3PT Jump Shot (5 PTS) (Collison 1 AST),Made Shot,Jump Shot,0,134
+21200371,144,PT10M03.00S,2,1610612737,ATL,101150,Williams,L. Williams,29,44,5,Missed,1,0.0,0.0,0,h,MISS Williams 5' Driving Jump Shot,Missed Shot,Driving Jump shot,0,135
+21200371,145,PT10M02.00S,2,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Unknown,0,136
+21200371,146,PT10M02.00S,2,1610612737,ATL,201274,Johnson,I. Johnson,0,0,0,,0,0.0,0.0,0,h,SUB: Horford FOR Johnson,Substitution,,0,137
+21200371,147,PT10M02.00S,2,1610612760,OKC,203087,Lamb,J. Lamb,0,0,0,,0,0.0,0.0,0,v,SUB: Durant FOR Lamb,Substitution,,0,138
+21200371,148,PT09M43.00S,2,1610612737,ATL,201627,Morrow,A. Morrow,-19,255,26,Missed,1,0.0,0.0,0,h,MISS Morrow 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,139
+21200371,149,PT09M41.00S,2,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0.0,0.0,0,v,Thabeet REBOUND (Off:1 Def:2),Rebound,Unknown,0,140
+21200371,150,PT09M29.00S,2,1610612760,OKC,201934,Thabeet,H. Thabeet,9,12,2,Missed,1,0.0,0.0,0,v,MISS Thabeet 2' Layup,Missed Shot,Layup Shot,0,141
+21200371,152,PT09M28.00S,2,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0.0,0.0,0,v,Thabeet REBOUND (Off:2 Def:2),Rebound,Unknown,0,142
+21200371,151,PT09M28.00S,2,1610612760,OKC,201934,Thabeet,H. Thabeet,2,1,0,Made,1,23.0,32.0,55,v,Thabeet  Tip Shot (6 PTS),Made Shot,Tip Shot,0,143
+21200371,153,PT09M22.00S,2,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,144
+21200371,155,PT09M22.00S,2,1610612737,ATL,201627,Morrow,A. Morrow,0,0,0,,0,0.0,0.0,0,h,SUB: Teague FOR Morrow,Substitution,,0,145
+21200371,156,PT09M22.00S,2,1610612737,ATL,101150,Williams,L. Williams,0,0,0,,0,0.0,0.0,0,h,SUB: Stevenson FOR Williams,Substitution,,0,146
+21200371,158,PT09M06.00S,2,1610612737,ATL,201952,Teague,J. Teague,78,74,11,Made,1,25.0,32.0,57,h,Teague 11' Floating Jump Shot (6 PTS),Made Shot,Floating Jump shot,0,147
+21200371,159,PT08M49.00S,2,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,0.0,0.0,0,h,Horford P.FOUL (P1.T2),Foul,Personal,0,148
+21200371,160,PT08M36.00S,2,1610612760,OKC,2755,Martin,K. Martin,-169,34,17,Made,1,25.0,34.0,59,v,Martin 17' Jump Shot (6 PTS) (Collison 2 AST),Made Shot,Jump Shot,0,149
+21200371,161,PT08M24.00S,2,1610612737,ATL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,Stevenson Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,150
+21200371,161,PT08M24.00S,2,1610612760,OKC,201953,Maynor,E. Maynor,0,0,0,,0,0.0,0.0,0,v,Maynor STEAL (1 STL),,,0,151
+21200371,162,PT08M20.00S,2,1610612760,OKC,201953,Maynor,E. Maynor,18,-2,2,Missed,1,0.0,0.0,0,v,MISS Maynor 2' Running Layup,Missed Shot,Running Layup Shot,0,152
+21200371,162,PT08M20.00S,2,1610612737,ATL,201952,Teague,J. Teague,0,0,0,,0,0.0,0.0,0,h,Teague BLOCK (1 BLK),,,0,153
+21200371,163,PT08M19.00S,2,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,Pachulia REBOUND (Off:1 Def:1),Rebound,Unknown,0,154
+21200371,164,PT08M17.00S,2,1610612737,ATL,203098,Jenkins,J. Jenkins,0,0,0,,0,0.0,0.0,0,h,Jenkins Out of Bounds Lost Ball Turnover (P1.T5),Turnover,Out of Bounds Lost Ball Turnover,0,155
+21200371,165,PT08M17.00S,2,1610612760,OKC,201953,Maynor,E. Maynor,0,0,0,,0,0.0,0.0,0,v,SUB: Westbrook FOR Maynor,Substitution,,0,156
+21200371,167,PT08M03.00S,2,1610612760,OKC,201142,Durant,K. Durant,-127,201,24,Missed,1,0.0,0.0,0,v,MISS Durant 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,157
+21200371,168,PT08M02.00S,2,1610612737,ATL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,Stevenson REBOUND (Off:0 Def:2),Rebound,Unknown,0,158
+21200371,169,PT07M52.00S,2,1610612737,ATL,2585,Pachulia,Z. Pachulia,12,1,1,Made,1,27.0,34.0,61,h,Pachulia 1' Layup (2 PTS) (Horford 2 AST),Made Shot,Layup Shot,0,159
+21200371,170,PT07M37.00S,2,1610612760,OKC,201142,Durant,K. Durant,37,69,8,Missed,1,0.0,0.0,0,v,MISS Durant 8' Running Jump Shot,Missed Shot,Running Jump Shot,0,160
+21200371,171,PT07M35.00S,2,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,Pachulia REBOUND (Off:1 Def:2),Rebound,Unknown,0,161
+21200371,172,PT07M22.00S,2,1610612737,ATL,2585,Pachulia,Z. Pachulia,15,170,17,Missed,1,0.0,0.0,0,h,MISS Pachulia 17' Jump Shot,Missed Shot,Jump Shot,0,162
+21200371,173,PT07M20.00S,2,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,v,Thunder Rebound,Rebound,Unknown,0,163
+21200371,174,PT07M20.00S,2,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0.0,0.0,0,v,SUB: Ibaka FOR Thabeet,Substitution,,0,164
+21200371,175,PT07M08.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,-48,154,16,Made,1,27.0,36.0,63,v,Westbrook 16' Jump Shot (11 PTS),Made Shot,Jump Shot,0,165
+21200371,176,PT06M53.00S,2,1610612737,ATL,201143,Horford,A. Horford,37,31,5,Missed,1,0.0,0.0,0,h,MISS Horford 5' Driving Jump Shot,Missed Shot,Driving Jump shot,0,166
+21200371,177,PT06M52.00S,2,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,v,Ibaka REBOUND (Off:0 Def:2),Rebound,Unknown,0,167
+21200371,178,PT06M41.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,67,107,13,Made,1,27.0,38.0,65,v,Westbrook 13' Fadeaway Jumper (13 PTS),Made Shot,Fadeaway Jump Shot,0,168
+21200371,179,PT06M25.00S,2,1610612760,OKC,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,v,Martin P.FOUL (P1.T1),Foul,Personal,0,169
+21200371,180,PT06M25.00S,2,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,SUB: Smith FOR Pachulia,Substitution,,0,170
+21200371,181,PT06M25.00S,2,1610612737,ATL,203098,Jenkins,J. Jenkins,0,0,0,,0,0.0,0.0,0,h,SUB: Korver FOR Jenkins,Substitution,,0,171
+21200371,182,PT06M16.00S,2,1610612737,ATL,2594,Korver,K. Korver,0,0,0,,0,0.0,0.0,0,h,Korver Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,172
+21200371,182,PT06M16.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook STEAL (2 STL),,,0,173
+21200371,183,PT06M02.00S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,v,Durant Lost Ball Turnover (P2.T5),Turnover,Lost Ball,0,174
+21200371,183,PT06M02.00S,2,1610612737,ATL,2594,Korver,K. Korver,0,0,0,,0,0.0,0.0,0,h,Korver STEAL (1 STL),,,0,175
+21200371,184,PT05M57.00S,2,1610612737,ATL,201952,Teague,J. Teague,-7,25,3,Made,1,29.0,38.0,67,h,Teague 3' Running Layup (8 PTS),Made Shot,Running Layup Shot,0,176
+21200371,185,PT05M37.00S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,v,Durant Lost Ball Turnover (P3.T6),Turnover,Lost Ball,0,177
+21200371,185,PT05M37.00S,2,1610612737,ATL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,Stevenson STEAL (2 STL),,,0,178
+21200371,187,PT05M33.00S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,v,Durant Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,179
+21200371,186,PT05M33.00S,2,1610612737,ATL,201952,Teague,J. Teague,15,0,2,Made,1,31.0,38.0,69,h,Teague 2' Running Layup (10 PTS),Made Shot,Running Layup Shot,0,180
+21200371,189,PT05M18.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,-108,162,19,Made,1,31.0,40.0,71,v,Westbrook 19' Jump Shot (15 PTS),Made Shot,Jump Shot,0,181
+21200371,190,PT05M09.00S,2,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0.0,0.0,0,v,Collison P.FOUL (P2.T2),Foul,Personal,0,182
+21200371,191,PT05M09.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,183
+21200371,194,PT05M09.00S,2,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0.0,0.0,0,v,SUB: Perkins FOR Collison,Substitution,,0,184
+21200371,195,PT04M58.00S,2,1610612737,ATL,2746,Smith,J. Smith,97,37,10,Missed,1,0.0,0.0,0,h,MISS Smith 10' Hook Shot,Missed Shot,Hook Shot,0,185
+21200371,196,PT04M55.00S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,v,Durant REBOUND (Off:0 Def:3),Rebound,Unknown,0,186
+21200371,197,PT04M46.00S,2,1610612760,OKC,201142,Durant,K. Durant,21,1,2,Made,1,31.0,42.0,73,v,Durant 2' Running Slam Dunk (6 PTS) (Westbrook 3 AST),Made Shot,Running Slam Dunk Shot,0,187
+21200371,198,PT04M26.00S,2,1610612737,ATL,2594,Korver,K. Korver,-21,261,26,Made,1,34.0,42.0,76,h,Korver 26' 3PT Jump Shot (3 PTS) (Teague 2 AST),Made Shot,Jump Shot,0,188
+21200371,199,PT04M10.00S,2,1610612737,ATL,201952,Teague,J. Teague,0,0,0,,0,0.0,0.0,0,h,Teague S.FOUL (P1.T3),Foul,Shooting,0,189
+21200371,200,PT04M10.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,34.0,43.0,77,v,Westbrook Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,190
+21200371,202,PT04M10.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,34.0,44.0,78,v,Westbrook Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,191
+21200371,204,PT03M51.00S,2,1610612737,ATL,2052,Stevenson,D. Stevenson,18,3,2,Missed,1,0.0,0.0,0,h,MISS Stevenson 2' Driving Layup,Missed Shot,Driving Layup Shot,0,192
+21200371,204,PT03M51.00S,2,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0.0,0.0,0,v,Perkins BLOCK (1 BLK),,,0,193
+21200371,205,PT03M49.00S,2,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,v,Ibaka REBOUND (Off:0 Def:3),Rebound,Unknown,0,194
+21200371,206,PT03M43.00S,2,1610612760,OKC,201142,Durant,K. Durant,152,205,26,Made,1,34.0,47.0,81,v,Durant 26' 3PT Jump Shot (9 PTS) (Westbrook 4 AST),Made Shot,Jump Shot,0,195
+21200371,207,PT03M25.00S,2,1610612737,ATL,201143,Horford,A. Horford,136,138,19,Made,1,36.0,47.0,83,h,Horford 19' Jump Shot (8 PTS) (Teague 3 AST),Made Shot,Jump Shot,0,196
+21200371,208,PT03M07.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,18,175,18,Missed,1,0.0,0.0,0,v,MISS Westbrook 18' Jump Shot,Missed Shot,Jump Shot,0,197
+21200371,209,PT03M06.00S,2,1610612737,ATL,2594,Korver,K. Korver,0,0,0,,0,0.0,0.0,0,h,Korver REBOUND (Off:0 Def:3),Rebound,Unknown,0,198
+21200371,210,PT02M57.00S,2,1610612737,ATL,2746,Smith,J. Smith,10,26,3,Made,1,38.0,47.0,85,h,Smith 3' Hook Shot (6 PTS),Made Shot,Hook Shot,0,199
+21200371,211,PT02M49.00S,2,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,v,Thunder Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,200
+21200371,214,PT02M49.00S,2,1610612760,OKC,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,v,SUB: Sefolosha FOR Martin,Substitution,,0,201
+21200371,215,PT02M41.00S,2,1610612737,ATL,201952,Teague,J. Teague,0,0,0,,0,0.0,0.0,0,h,Teague P.FOUL (P2.T4),Foul,Personal,0,202
+21200371,216,PT02M36.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,4,9,1,Missed,1,0.0,0.0,0,v,MISS Westbrook 1' Driving Layup,Missed Shot,Driving Layup Shot,0,203
+21200371,217,PT02M34.00S,2,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,v,Ibaka REBOUND (Off:1 Def:3),Rebound,Unknown,0,204
+21200371,218,PT02M30.00S,2,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,0.0,0.0,0,h,Horford S.FOUL (P2.PN),Foul,Shooting,0,205
+21200371,219,PT02M30.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,38.0,48.0,86,v,Westbrook Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,206
+21200371,221,PT02M30.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,38.0,49.0,87,v,Westbrook Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,207
+21200371,223,PT02M13.00S,2,1610612737,ATL,2594,Korver,K. Korver,73,11,7,Missed,1,0.0,0.0,0,h,MISS Korver 7' Driving Jump Shot,Missed Shot,Driving Jump shot,0,208
+21200371,223,PT02M13.00S,2,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0.0,0.0,0,v,Perkins BLOCK (2 BLK),,,0,209
+21200371,224,PT02M13.00S,2,1610612737,ATL,201952,Teague,J. Teague,0,0,0,,0,0.0,0.0,0,h,SUB: Williams FOR Teague,Substitution,,0,210
+21200371,226,PT02M13.00S,2,1610612737,ATL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,SUB: Morrow FOR Stevenson,Substitution,,0,211
+21200371,229,PT02M13.00S,2,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Unknown,0,212
+21200371,228,PT02M13.00S,2,1610612737,ATL,2594,Korver,K. Korver,0,0,0,,0,0.0,0.0,0,h,Jump Ball Korver vs. Perkins: Tip to,Jump Ball,,0,213
+21200371,230,PT02M03.00S,2,1610612737,ATL,201143,Horford,A. Horford,143,145,20,Missed,1,0.0,0.0,0,h,MISS Horford 20' Jump Shot,Missed Shot,Jump Shot,0,214
+21200371,231,PT02M01.00S,2,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,v,Ibaka REBOUND (Off:1 Def:4),Rebound,Unknown,0,215
+21200371,232,PT01M54.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,-34,104,11,Made,1,38.0,51.0,89,v,Westbrook 11' Fadeaway Jumper (21 PTS),Made Shot,Fadeaway Jump Shot,0,216
+21200371,233,PT01M33.00S,2,1610612737,ATL,201627,Morrow,A. Morrow,166,4,17,Missed,1,0.0,0.0,0,h,MISS Morrow 17' Jump Shot,Missed Shot,Jump Shot,0,217
+21200371,233,PT01M33.00S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,v,Durant BLOCK (1 BLK),,,0,218
+21200371,234,PT01M31.00S,2,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,v,Ibaka REBOUND (Off:1 Def:5),Rebound,Unknown,0,219
+21200371,235,PT01M26.00S,2,1610612760,OKC,201566,Westbrook,R. Westbrook,118,168,21,Missed,1,0.0,0.0,0,v,MISS Westbrook 21' Jump Shot,Missed Shot,Jump Shot,0,220
+21200371,236,PT01M24.00S,2,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,0.0,0.0,0,h,Horford REBOUND (Off:0 Def:2),Rebound,Unknown,0,221
+21200371,237,PT01M11.00S,2,1610612737,ATL,201627,Morrow,A. Morrow,212,154,26,Missed,1,0.0,0.0,0,h,MISS Morrow 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,222
+21200371,238,PT01M09.00S,2,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,v,Ibaka REBOUND (Off:1 Def:6),Rebound,Unknown,0,223
+21200371,239,PT00M59.50S,2,1610612737,ATL,201627,Morrow,A. Morrow,0,0,0,,0,0.0,0.0,0,h,Morrow P.FOUL (P1.PN),Foul,Personal,0,224
+21200371,240,PT00M59.50S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,38.0,52.0,90,v,Durant Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,225
+21200371,242,PT00M59.50S,2,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,0.0,0.0,0,h,SUB: Pachulia FOR Horford,Substitution,,0,226
+21200371,243,PT00M59.50S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,38.0,53.0,91,v,Durant Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,227
+21200371,245,PT00M48.90S,2,1610612737,ATL,101150,Williams,L. Williams,13,115,12,Missed,1,0.0,0.0,0,h,MISS Williams 12' Driving Jump Shot,Missed Shot,Driving Jump shot,0,228
+21200371,246,PT00M45.90S,2,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,v,Ibaka REBOUND (Off:1 Def:7),Rebound,Unknown,0,229
+21200371,247,PT00M41.00S,2,1610612737,ATL,201627,Morrow,A. Morrow,0,0,0,,0,0.0,0.0,0,h,Morrow S.FOUL (P2.PN),Foul,Shooting,0,230
+21200371,248,PT00M41.00S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,38.0,54.0,92,v,Durant Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,231
+21200371,250,PT00M41.00S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,38.0,55.0,93,v,Durant Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,232
+21200371,253,PT00M22.00S,2,1610612737,ATL,2594,Korver,K. Korver,-228,34,0,Made,1,41.0,55.0,96,h,Korver  3PT Jump Shot (6 PTS) (Smith 1 AST),Made Shot,Jump Shot,0,233
+21200371,254,PT00M01.00S,2,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,v,Durant Lost Ball Turnover (P4.T7),Turnover,Lost Ball,0,234
+21200371,254,PT00M01.00S,2,1610612737,ATL,2594,Korver,K. Korver,0,0,0,,0,0.0,0.0,0,h,Korver STEAL (2 STL),,,0,235
+21200371,255,PT00M00.00S,2,0,,0,,,0,0,0,,0,41.0,55.0,96,,End of 2nd Period (8:34 PM EST),period,end,0,236
+21200371,257,PT12M00.00S,3,0,,0,,,0,0,0,,0,41.0,55.0,96,,Start of 3rd Period (8:50 PM EST),period,start,0,237
+21200371,258,PT11M45.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,v,Ibaka Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,238
+21200371,258,PT11M45.00S,3,1610612737,ATL,2594,Korver,K. Korver,0,0,0,,0,0.0,0.0,0,h,Korver STEAL (3 STL),,,0,239
+21200371,259,PT11M39.00S,3,1610612737,ATL,2594,Korver,K. Korver,-215,129,25,Missed,1,0.0,0.0,0,h,MISS Korver 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,240
+21200371,260,PT11M36.00S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:2 Def:2),Rebound,Unknown,0,241
+21200371,261,PT11M22.00S,3,1610612737,ATL,2746,Smith,J. Smith,21,4,2,Made,1,43.0,55.0,98,h,Smith 2' Driving Reverse Layup (8 PTS),Made Shot,Driving Reverse Layup Shot,0,242
+21200371,262,PT11M09.00S,3,1610612760,OKC,201142,Durant,K. Durant,179,93,20,Made,1,43.0,57.0,100,v,Durant 20' Jump Shot (15 PTS) (Westbrook 5 AST),Made Shot,Jump Shot,0,243
+21200371,264,PT10M44.00S,3,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0.0,0.0,0,v,Perkins Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,244
+21200371,263,PT10M44.00S,3,1610612737,ATL,201952,Teague,J. Teague,-5,1,1,Made,1,45.0,57.0,102,h,Teague 1' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,0,245
+21200371,265,PT10M29.00S,3,1610612760,OKC,2570,Perkins,K. Perkins,12,7,1,Missed,1,0.0,0.0,0,v,MISS Perkins 1' Dunk,Missed Shot,Dunk Shot,0,246
+21200371,266,PT10M24.00S,3,1610612737,ATL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,Stevenson REBOUND (Off:0 Def:3),Rebound,Unknown,0,247
+21200371,267,PT10M17.00S,3,1610612737,ATL,2746,Smith,J. Smith,163,198,26,Missed,1,0.0,0.0,0,h,MISS Smith 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,248
+21200371,268,PT10M16.00S,3,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,v,Durant REBOUND (Off:0 Def:4),Rebound,Unknown,0,249
+21200371,269,PT10M03.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,-108,224,25,Missed,1,0.0,0.0,0,v,MISS Westbrook 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,250
+21200371,270,PT10M02.00S,3,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,0.0,0.0,0,h,Horford REBOUND (Off:0 Def:3),Rebound,Unknown,0,251
+21200371,272,PT09M49.00S,3,1610612737,ATL,2746,Smith,J. Smith,4,23,2,Made,1,47.0,57.0,104,h,Smith 2' Hook Shot (10 PTS),Made Shot,Hook Shot,0,252
+21200371,274,PT09M30.00S,3,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0.0,0.0,0,v,Perkins Offensive Charge Foul (P1.T1),Foul,Offensive Charge,0,253
+21200371,275,PT09M30.00S,3,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0.0,0.0,0,v,Perkins Foul Turnover (P1.T9),Turnover,Foul,0,254
+21200371,276,PT09M16.00S,3,1610612737,ATL,201143,Horford,A. Horford,21,0,2,Missed,1,0.0,0.0,0,h,MISS Horford 2' Driving Layup,Missed Shot,Driving Layup Shot,0,255
+21200371,276,PT09M16.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,v,Ibaka BLOCK (2 BLK),,,0,256
+21200371,277,PT09M14.00S,3,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,v,Durant REBOUND (Off:0 Def:5),Rebound,Unknown,0,257
+21200371,278,PT09M07.00S,3,1610612760,OKC,201142,Durant,K. Durant,15,67,7,Made,1,47.0,59.0,106,v,Durant 7' Driving Jump Shot (17 PTS),Made Shot,Driving Jump shot,0,258
+21200371,279,PT09M07.00S,3,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,0.0,0.0,0,h,Horford T.FOUL (P2.T0),Foul,Technical,0,259
+21200371,280,PT09M07.00S,3,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,47.0,60.0,107,v,Durant Free Throw Technical (18 PTS),Free Throw,Free Throw Technical,0,260
+21200371,283,PT08M51.00S,3,1610612737,ATL,201952,Teague,J. Teague,20,50,5,Made,1,49.0,60.0,109,h,Teague 5' Floating Jump Shot (14 PTS),Made Shot,Floating Jump shot,0,261
+21200371,284,PT08M37.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,-45,211,22,Missed,1,0.0,0.0,0,v,MISS Westbrook 22' Jump Shot,Missed Shot,Jump Shot,0,262
+21200371,285,PT08M28.00S,3,1610612760,OKC,200757,Sefolosha,T. Sefolosha,0,0,0,,0,0.0,0.0,0,v,Sefolosha REBOUND (Off:2 Def:1),Rebound,Unknown,0,263
+21200371,286,PT08M21.00S,3,1610612760,OKC,200757,Sefolosha,T. Sefolosha,20,0,2,Missed,1,0.0,0.0,0,v,MISS Sefolosha 2' Layup,Missed Shot,Layup Shot,0,264
+21200371,286,PT08M21.00S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith BLOCK (2 BLK),,,0,265
+21200371,287,PT08M20.00S,3,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,v,Thunder Rebound,Rebound,Unknown,0,266
+21200371,288,PT08M08.00S,3,1610612760,OKC,200757,Sefolosha,T. Sefolosha,138,216,26,Made,1,49.0,63.0,112,v,Sefolosha 26' 3PT Jump Shot (3 PTS) (Westbrook 6 AST),Made Shot,Jump Shot,0,267
+21200371,289,PT07M55.00S,3,1610612737,ATL,2746,Smith,J. Smith,116,183,22,Made,1,51.0,63.0,114,h,Smith 22' Jump Shot (12 PTS) (Teague 4 AST),Made Shot,Jump Shot,0,268
+21200371,290,PT07M55.00S,3,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0.0,0.0,0,v,Perkins AWAY.FROM.PLAY.FOUL (P2.T2),Foul,Away From Play,0,269
+21200371,291,PT07M55.00S,3,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,52.0,63.0,115,h,Horford Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,270
+21200371,294,PT07M41.00S,3,1610612760,OKC,201142,Durant,K. Durant,53,101,11,Made,1,52.0,65.0,117,v,Durant 11' Jump Shot (20 PTS) (Westbrook 7 AST),Made Shot,Jump Shot,0,271
+21200371,295,PT07M32.00S,3,1610612737,ATL,201952,Teague,J. Teague,20,30,4,Missed,1,0.0,0.0,0,h,MISS Teague 4' Jump Shot,Missed Shot,Jump Shot,0,272
+21200371,295,PT07M32.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook BLOCK (1 BLK),,,0,273
+21200371,296,PT07M29.00S,3,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,v,Durant REBOUND (Off:0 Def:6),Rebound,Unknown,0,274
+21200371,297,PT07M24.00S,3,1610612760,OKC,200757,Sefolosha,T. Sefolosha,236,97,26,Made,1,52.0,68.0,120,v,Sefolosha 26' 3PT Jump Shot (6 PTS) (Durant 3 AST),Made Shot,Jump Shot,0,275
+21200371,298,PT07M22.00S,3,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,276
+21200371,302,PT07M04.00S,3,1610612737,ATL,2746,Smith,J. Smith,181,121,22,Missed,1,0.0,0.0,0,h,MISS Smith 22' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,277
+21200371,303,PT07M02.00S,3,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,v,Durant REBOUND (Off:0 Def:7),Rebound,Unknown,0,278
+21200371,304,PT06M48.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,-119,231,26,Missed,1,0.0,0.0,0,v,MISS Westbrook 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,279
+21200371,305,PT06M47.00S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:2 Def:3),Rebound,Unknown,0,280
+21200371,306,PT06M41.00S,3,1610612737,ATL,201143,Horford,A. Horford,47,20,5,Missed,1,0.0,0.0,0,h,MISS Horford 5' Jump Shot,Missed Shot,Jump Shot,0,281
+21200371,306,PT06M41.00S,3,1610612760,OKC,200757,Sefolosha,T. Sefolosha,0,0,0,,0,0.0,0.0,0,v,Sefolosha BLOCK (1 BLK),,,0,282
+21200371,307,PT06M39.00S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:3 Def:3),Rebound,Unknown,0,283
+21200371,308,PT06M38.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,v,Ibaka S.FOUL (P1.T3),Foul,Shooting,0,284
+21200371,309,PT06M38.00S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,MISS Smith Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,285
+21200371,310,PT06M38.00S,3,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Normal Rebound,0,286
+21200371,311,PT06M38.00S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,MISS Smith Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,287
+21200371,313,PT06M36.00S,3,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,v,Durant REBOUND (Off:0 Def:8),Rebound,Unknown,0,288
+21200371,314,PT06M21.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,-150,44,16,Missed,1,0.0,0.0,0,v,MISS Ibaka 16' Jump Shot,Missed Shot,Jump Shot,0,289
+21200371,315,PT06M20.00S,3,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,0.0,0.0,0,h,Horford REBOUND (Off:0 Def:4),Rebound,Unknown,0,290
+21200371,316,PT06M13.00S,3,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,0.0,0.0,0,h,Horford OFF.Foul (P3),Foul,Offensive,0,291
+21200371,317,PT06M13.00S,3,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,0.0,0.0,0,h,Horford Foul Turnover (P1.T7),Turnover,Foul,0,292
+21200371,318,PT06M00.00S,3,1610612760,OKC,201142,Durant,K. Durant,4,50,5,Missed,1,0.0,0.0,0,v,MISS Durant 5' Jump Shot,Missed Shot,Jump Shot,0,293
+21200371,318,PT06M00.00S,3,1610612737,ATL,2594,Korver,K. Korver,0,0,0,,0,0.0,0.0,0,h,Korver BLOCK (3 BLK),,,0,294
+21200371,319,PT05M59.00S,3,1610612737,ATL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,Stevenson REBOUND (Off:0 Def:4),Rebound,Unknown,0,295
+21200371,320,PT05M46.00S,3,1610612737,ATL,201143,Horford,A. Horford,-8,154,15,Made,1,54.0,68.0,122,h,Horford 15' Jump Shot (11 PTS) (Stevenson 1 AST),Made Shot,Jump Shot,0,296
+21200371,321,PT05M32.00S,3,1610612760,OKC,201142,Durant,K. Durant,-67,189,20,Missed,1,0.0,0.0,0,v,MISS Durant 20' Jump Shot,Missed Shot,Jump Shot,0,297
+21200371,322,PT05M30.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,v,Ibaka REBOUND (Off:2 Def:7),Rebound,Unknown,0,298
+21200371,323,PT05M27.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,v,Ibaka Lost Ball Turnover (P2.T10),Turnover,Lost Ball,0,299
+21200371,323,PT05M27.00S,3,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,0.0,0.0,0,h,Horford STEAL (3 STL),,,0,300
+21200371,324,PT05M10.00S,3,1610612737,ATL,201952,Teague,J. Teague,-123,131,18,Missed,1,0.0,0.0,0,h,MISS Teague 18' Jump Shot,Missed Shot,Jump Shot,0,301
+21200371,325,PT05M08.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,v,Ibaka REBOUND (Off:2 Def:8),Rebound,Unknown,0,302
+21200371,326,PT05M00.00S,3,1610612737,ATL,201952,Teague,J. Teague,0,0,0,,0,0.0,0.0,0,h,Teague P.FOUL (P3.T1),Foul,Personal,0,303
+21200371,327,PT05M00.00S,3,1610612737,ATL,2594,Korver,K. Korver,0,0,0,,0,0.0,0.0,0,h,SUB: Williams FOR Korver,Substitution,,0,304
+21200371,329,PT04M48.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook Backcourt Turnover (P3.T11),Turnover,Backcourt Turnover,0,305
+21200371,331,PT04M48.00S,3,1610612760,OKC,200757,Sefolosha,T. Sefolosha,0,0,0,,0,0.0,0.0,0,v,SUB: Martin FOR Sefolosha,Substitution,,0,306
+21200371,332,PT04M34.00S,3,1610612737,ATL,2746,Smith,J. Smith,86,41,10,Missed,1,0.0,0.0,0,h,MISS Smith 10' Hook Shot,Missed Shot,Hook Shot,0,307
+21200371,333,PT04M32.00S,3,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0.0,0.0,0,v,Perkins REBOUND (Off:1 Def:4),Rebound,Unknown,0,308
+21200371,334,PT04M22.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,-38,184,19,Missed,1,0.0,0.0,0,v,MISS Ibaka 19' Jump Shot,Missed Shot,Jump Shot,0,309
+21200371,335,PT04M21.00S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:3 Def:4),Rebound,Unknown,0,310
+21200371,336,PT04M12.00S,3,1610612737,ATL,201143,Horford,A. Horford,91,34,10,Missed,1,0.0,0.0,0,h,MISS Horford 10' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,0,311
+21200371,337,PT04M10.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,v,Ibaka REBOUND (Off:2 Def:9),Rebound,Unknown,0,312
+21200371,338,PT03M59.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,171,190,26,Missed,1,0.0,0.0,0,v,MISS Westbrook 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,313
+21200371,339,PT03M58.00S,3,1610612737,ATL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,Stevenson REBOUND (Off:0 Def:5),Rebound,Unknown,0,314
+21200371,340,PT03M42.00S,3,1610612737,ATL,201143,Horford,A. Horford,6,192,19,Missed,1,0.0,0.0,0,h,MISS Horford 19' Jump Shot,Missed Shot,Jump Shot,0,315
+21200371,341,PT03M41.00S,3,1610612760,OKC,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,v,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,316
+21200371,342,PT03M41.00S,3,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,v,Thunder Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,317
+21200371,344,PT03M41.00S,3,1610612737,ATL,2052,Stevenson,D. Stevenson,0,0,0,,0,0.0,0.0,0,h,SUB: Pachulia FOR Stevenson,Substitution,,0,318
+21200371,345,PT03M41.00S,3,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,0.0,0.0,0,h,SUB: Tolliver FOR Horford,Substitution,,0,319
+21200371,346,PT03M41.00S,3,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0.0,0.0,0,v,SUB: Collison FOR Perkins,Substitution,,0,320
+21200371,347,PT03M27.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,198,36,20,Made,1,54.0,70.0,124,v,Ibaka 20' Jump Shot (4 PTS) (Collison 3 AST),Made Shot,Jump Shot,0,321
+21200371,348,PT03M12.00S,3,1610612737,ATL,2746,Smith,J. Smith,0,6,1,Missed,1,0.0,0.0,0,h,MISS Smith 1' Driving Layup,Missed Shot,Driving Layup Shot,0,322
+21200371,348,PT03M12.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,v,Ibaka BLOCK (3 BLK),,,0,323
+21200371,349,PT03M12.00S,3,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Unknown,0,324
+21200371,352,PT03M12.00S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith T.FOUL (P1.T1),Foul,Technical,0,325
+21200371,353,PT03M12.00S,3,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,54.0,71.0,125,v,Durant Free Throw Technical (21 PTS),Free Throw,Free Throw Technical,0,326
+21200371,355,PT03M02.00S,3,1610612737,ATL,201229,Tolliver,A. Tolliver,184,7,18,Missed,1,0.0,0.0,0,h,MISS Tolliver 18' Jump Shot,Missed Shot,Jump Shot,0,327
+21200371,356,PT03M01.00S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:4 Def:4),Rebound,Unknown,0,328
+21200371,357,PT03M00.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,Westbrook S.FOUL (P2.T4),Foul,Shooting,0,329
+21200371,358,PT03M00.00S,3,1610612737,ATL,201229,Tolliver,A. Tolliver,0,0,0,,0,55.0,71.0,126,h,Tolliver Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,330
+21200371,360,PT03M00.00S,3,1610612737,ATL,201229,Tolliver,A. Tolliver,0,0,0,,0,56.0,71.0,127,h,Tolliver Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,331
+21200371,362,PT02M46.00S,3,1610612760,OKC,2755,Martin,K. Martin,-153,192,25,Missed,1,0.0,0.0,0,v,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,332
+21200371,363,PT02M44.00S,3,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:4 Def:5),Rebound,Unknown,0,333
+21200371,364,PT02M30.00S,3,1610612737,ATL,2585,Pachulia,Z. Pachulia,28,4,3,Missed,1,0.0,0.0,0,h,MISS Pachulia 3' Layup,Missed Shot,Layup Shot,0,334
+21200371,365,PT02M29.00S,3,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,Pachulia REBOUND (Off:2 Def:2),Rebound,Unknown,0,335
+21200371,366,PT02M28.00S,3,1610612737,ATL,2585,Pachulia,Z. Pachulia,2,7,1,Missed,1,0.0,0.0,0,h,MISS Pachulia 1' Putback Layup,Missed Shot,Putback Layup Shot,0,336
+21200371,367,PT02M27.00S,3,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,Pachulia REBOUND (Off:3 Def:2),Rebound,Unknown,0,337
+21200371,368,PT02M25.00S,3,1610612737,ATL,2585,Pachulia,Z. Pachulia,10,14,2,Missed,1,0.0,0.0,0,h,MISS Pachulia 2' Putback Layup,Missed Shot,Putback Layup Shot,0,338
+21200371,370,PT02M24.00S,3,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,Pachulia REBOUND (Off:4 Def:2),Rebound,Unknown,0,339
+21200371,369,PT02M24.00S,3,1610612737,ATL,2585,Pachulia,Z. Pachulia,1,-1,0,Made,1,58.0,71.0,129,h,Pachulia  Tip Shot (4 PTS),Made Shot,Tip Shot,0,340
+21200371,371,PT02M00.00S,3,1610612760,OKC,201142,Durant,K. Durant,110,80,14,Made,1,58.0,73.0,131,v,Durant 14' Fadeaway Jumper (23 PTS) (Westbrook 8 AST),Made Shot,Fadeaway Jump Shot,0,341
+21200371,372,PT01M50.00S,3,1610612737,ATL,2746,Smith,J. Smith,138,225,26,Made,1,61.0,73.0,134,h,Smith 26' 3PT Jump Shot (15 PTS) (Teague 5 AST),Made Shot,Jump Shot,0,342
+21200371,373,PT01M27.00S,3,1610612760,OKC,201142,Durant,K. Durant,237,129,27,Missed,1,0.0,0.0,0,v,MISS Durant 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,343
+21200371,374,PT01M26.00S,3,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,Pachulia REBOUND (Off:4 Def:3),Rebound,Unknown,0,344
+21200371,375,PT01M22.00S,3,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,v,Durant S.FOUL (P1.PN),Foul,Shooting,0,345
+21200371,376,PT01M22.00S,3,1610612737,ATL,201229,Tolliver,A. Tolliver,0,0,0,,0,62.0,73.0,135,h,Tolliver Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,346
+21200371,378,PT01M22.00S,3,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,0.0,0.0,0,v,SUB: Maynor FOR Westbrook,Substitution,,0,347
+21200371,380,PT01M22.00S,3,1610612737,ATL,201952,Teague,J. Teague,0,0,0,,0,0.0,0.0,0,h,SUB: Korver FOR Teague,Substitution,,0,348
+21200371,381,PT01M22.00S,3,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,v,SUB: Sefolosha FOR Ibaka,Substitution,,0,349
+21200371,382,PT01M22.00S,3,1610612737,ATL,201229,Tolliver,A. Tolliver,0,0,0,,0,0.0,0.0,0,h,MISS Tolliver Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,350
+21200371,384,PT01M21.00S,3,1610612760,OKC,200757,Sefolosha,T. Sefolosha,0,0,0,,0,0.0,0.0,0,v,Sefolosha REBOUND (Off:2 Def:2),Rebound,Unknown,0,351
+21200371,386,PT01M03.00S,3,1610612760,OKC,2755,Martin,K. Martin,-8,77,8,Missed,1,0.0,0.0,0,v,MISS Martin 8' Driving Jump Shot,Missed Shot,Driving Jump shot,0,352
+21200371,387,PT01M02.00S,3,1610612737,ATL,2594,Korver,K. Korver,0,0,0,,0,0.0,0.0,0,h,Korver REBOUND (Off:0 Def:4),Rebound,Unknown,0,353
+21200371,388,PT00M56.40S,3,1610612737,ATL,101150,Williams,L. Williams,-5,0,1,Made,1,64.0,73.0,137,h,Williams 1' Alley Oop Dunk (2 PTS) (Smith 2 AST),Made Shot,Alley Oop Dunk Shot,0,354
+21200371,389,PT00M47.00S,3,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0.0,0.0,0,v,Collison Offensive Charge Foul (P3.PN),Foul,Offensive Charge,0,355
+21200371,390,PT00M47.00S,3,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0.0,0.0,0,v,Collison Foul Turnover (P1.T12),Turnover,Foul,0,356
+21200371,392,PT00M33.60S,3,1610612737,ATL,101150,Williams,L. Williams,6,1,1,Missed,1,0.0,0.0,0,h,MISS Williams 1' Driving Layup,Missed Shot,Driving Layup Shot,0,357
+21200371,394,PT00M33.60S,3,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,Pachulia REBOUND (Off:5 Def:3),Rebound,Unknown,0,358
+21200371,393,PT00M33.60S,3,1610612737,ATL,2585,Pachulia,Z. Pachulia,9,3,1,Made,1,66.0,73.0,139,h,Pachulia 1' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,0,359
+21200371,397,PT00M09.90S,3,1610612760,OKC,2555,Collison,N. Collison,-114,216,24,Missed,1,0.0,0.0,0,v,MISS Collison 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,360
+21200371,398,PT00M07.90S,3,1610612737,ATL,201229,Tolliver,A. Tolliver,0,0,0,,0,0.0,0.0,0,h,Tolliver REBOUND (Off:0 Def:1),Rebound,Unknown,0,361
+21200371,399,PT00M00.00S,3,1610612737,ATL,101150,Williams,L. Williams,157,244,29,Missed,1,0.0,0.0,0,h,MISS Williams 29' 3PT Jump Shot,Missed Shot,Jump Shot,0,362
+21200371,400,PT00M00.00S,3,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Unknown,0,363
+21200371,401,PT00M00.00S,3,0,,0,,,0,0,0,,0,66.0,73.0,139,,End of 3rd Period (9:15 PM EST),period,end,0,364
+21200371,403,PT12M00.00S,4,0,,0,,,0,0,0,,0,66.0,73.0,139,,Start of 4th Period (9:18 PM EST),period,start,0,365
+21200371,404,PT11M35.00S,4,1610612737,ATL,201229,Tolliver,A. Tolliver,-226,9,0,Missed,1,0.0,0.0,0,h,MISS Tolliver  3PT Jump Shot,Missed Shot,Jump Shot,0,366
+21200371,405,PT11M34.00S,4,1610612760,OKC,200757,Sefolosha,T. Sefolosha,0,0,0,,0,0.0,0.0,0,v,Sefolosha REBOUND (Off:2 Def:3),Rebound,Unknown,0,367
+21200371,406,PT11M21.00S,4,1610612760,OKC,2755,Martin,K. Martin,111,235,26,Missed,1,0.0,0.0,0,v,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,368
+21200371,407,PT11M20.00S,4,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:4 Def:6),Rebound,Unknown,0,369
+21200371,408,PT11M16.00S,4,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0.0,0.0,0,v,Thabeet S.FOUL (P2.T1),Foul,Shooting,0,370
+21200371,409,PT11M16.00S,4,1610612737,ATL,201229,Tolliver,A. Tolliver,0,0,0,,0,0.0,0.0,0,h,MISS Tolliver Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,371
+21200371,410,PT11M16.00S,4,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Normal Rebound,0,372
+21200371,411,PT11M16.00S,4,1610612737,ATL,201229,Tolliver,A. Tolliver,0,0,0,,0,67.0,73.0,140,h,Tolliver Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,373
+21200371,413,PT11M01.00S,4,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0.0,0.0,0,v,Thabeet Out of Bounds Lost Ball Turnover (P1.T13),Turnover,Out of Bounds Lost Ball Turnover,0,374
+21200371,414,PT10M45.00S,4,1610612737,ATL,101150,Williams,L. Williams,54,135,15,Missed,1,0.0,0.0,0,h,MISS Williams 15' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,375
+21200371,415,PT10M41.00S,4,1610612737,ATL,201229,Tolliver,A. Tolliver,0,0,0,,0,0.0,0.0,0,h,Tolliver REBOUND (Off:1 Def:1),Rebound,Unknown,0,376
+21200371,416,PT10M41.00S,4,1610612737,ATL,201229,Tolliver,A. Tolliver,0,0,0,,0,0.0,0.0,0,h,Tolliver Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,377
+21200371,416,PT10M41.00S,4,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0.0,0.0,0,v,Collison STEAL (1 STL),,,0,378
+21200371,417,PT10M41.00S,4,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith P.FOUL (P2.T1),Foul,Personal,0,379
+21200371,418,PT10M22.00S,4,1610612760,OKC,201953,Maynor,E. Maynor,0,0,0,,0,0.0,0.0,0,v,Maynor Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,380
+21200371,418,PT10M22.00S,4,1610612737,ATL,101150,Williams,L. Williams,0,0,0,,0,0.0,0.0,0,h,Williams STEAL (1 STL),,,0,381
+21200371,419,PT10M18.00S,4,1610612737,ATL,201229,Tolliver,A. Tolliver,18,0,2,Made,1,69.0,73.0,142,h,Tolliver 2' Running Dunk (6 PTS) (Williams 1 AST),Made Shot,Running Dunk Shot,0,382
+21200371,420,PT10M01.00S,4,1610612737,ATL,2594,Korver,K. Korver,0,0,0,,0,0.0,0.0,0,h,Korver P.FOUL (P2.T2),Foul,Personal,0,383
+21200371,421,PT10M01.00S,4,1610612760,OKC,201953,Maynor,E. Maynor,0,0,0,,0,0.0,0.0,0,v,SUB: Westbrook FOR Maynor,Substitution,,0,384
+21200371,422,PT10M01.00S,4,1610612760,OKC,201934,Thabeet,H. Thabeet,0,0,0,,0,0.0,0.0,0,v,SUB: Durant FOR Thabeet,Substitution,,0,385
+21200371,423,PT09M53.00S,4,1610612760,OKC,201142,Durant,K. Durant,189,186,27,Missed,1,0.0,0.0,0,v,MISS Durant 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,386
+21200371,424,PT09M52.00S,4,1610612737,ATL,201229,Tolliver,A. Tolliver,0,0,0,,0,0.0,0.0,0,h,Tolliver REBOUND (Off:1 Def:2),Rebound,Unknown,0,387
+21200371,425,PT09M45.00S,4,1610612737,ATL,2594,Korver,K. Korver,206,172,27,Missed,1,0.0,0.0,0,h,MISS Korver 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,388
+21200371,425,PT09M45.00S,4,1610612760,OKC,200757,Sefolosha,T. Sefolosha,0,0,0,,0,0.0,0.0,0,v,Sefolosha BLOCK (2 BLK),,,0,389
+21200371,426,PT09M43.00S,4,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,v,Durant REBOUND (Off:0 Def:9),Rebound,Unknown,0,390
+21200371,427,PT09M38.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,17,1,2,Missed,1,0.0,0.0,0,v,MISS Westbrook 2' Running Layup,Missed Shot,Running Layup Shot,0,391
+21200371,428,PT09M37.00S,4,1610612760,OKC,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,v,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,392
+21200371,429,PT09M34.00S,4,1610612760,OKC,2755,Martin,K. Martin,-224,12,0,Missed,1,0.0,0.0,0,v,MISS Martin  3PT Jump Shot,Missed Shot,Jump Shot,0,393
+21200371,430,PT09M33.00S,4,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,Pachulia REBOUND (Off:5 Def:4),Rebound,Unknown,0,394
+21200371,431,PT09M20.00S,4,1610612737,ATL,2594,Korver,K. Korver,173,131,22,Missed,1,0.0,0.0,0,h,MISS Korver 22' Jump Shot,Missed Shot,Jump Shot,0,395
+21200371,432,PT09M17.00S,4,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,v,Durant REBOUND (Off:0 Def:10),Rebound,Unknown,0,396
+21200371,434,PT09M05.00S,4,1610612760,OKC,2755,Martin,K. Martin,-226,25,0,Missed,1,0.0,0.0,0,v,MISS Martin  3PT Jump Shot,Missed Shot,Jump Shot,0,397
+21200371,435,PT09M03.00S,4,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0.0,0.0,0,v,Collison REBOUND (Off:1 Def:0),Rebound,Unknown,0,398
+21200371,436,PT09M01.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,0,1,0,Made,1,69.0,75.0,144,v,Westbrook  Dunk (23 PTS) (Collison 4 AST),Made Shot,Dunk Shot,0,399
+21200371,437,PT09M01.00S,4,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,400
+21200371,439,PT09M01.00S,4,1610612737,ATL,2594,Korver,K. Korver,0,0,0,,0,0.0,0.0,0,h,SUB: Teague FOR Korver,Substitution,,0,401
+21200371,441,PT08M46.00S,4,1610612737,ATL,201952,Teague,J. Teague,0,0,0,,0,0.0,0.0,0,h,Teague Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,402
+21200371,441,PT08M46.00S,4,1610612760,OKC,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,v,Martin STEAL (1 STL),,,0,403
+21200371,442,PT08M26.00S,4,1610612760,OKC,201142,Durant,K. Durant,-43,124,13,Missed,1,0.0,0.0,0,v,MISS Durant 13' Jump Shot,Missed Shot,Jump Shot,0,404
+21200371,443,PT08M24.00S,4,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,v,Durant REBOUND (Off:1 Def:10),Rebound,Unknown,0,405
+21200371,444,PT08M23.00S,4,1610612760,OKC,201142,Durant,K. Durant,0,7,1,Made,1,69.0,77.0,146,v,Durant 1' Putback Layup (25 PTS),Made Shot,Putback Layup Shot,0,406
+21200371,445,PT07M57.00S,4,1610612737,ATL,101150,Williams,L. Williams,-149,195,25,Made,1,72.0,77.0,149,h,Williams 25' 3PT Jump Shot (5 PTS) (Smith 3 AST),Made Shot,Jump Shot,0,407
+21200371,446,PT07M32.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,-30,25,4,Missed,1,0.0,0.0,0,v,MISS Westbrook 4' Driving Jump Shot,Missed Shot,Driving Jump shot,0,408
+21200371,447,PT07M29.00S,4,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,Pachulia REBOUND (Off:5 Def:5),Rebound,Unknown,0,409
+21200371,448,PT07M18.00S,4,1610612737,ATL,101150,Williams,L. Williams,73,33,8,Missed,1,0.0,0.0,0,h,MISS Williams 8' Driving Jump Shot,Missed Shot,Driving Jump shot,0,410
+21200371,448,PT07M18.00S,4,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0.0,0.0,0,v,Collison BLOCK (2 BLK),,,0,411
+21200371,449,PT07M16.00S,4,1610612760,OKC,200757,Sefolosha,T. Sefolosha,0,0,0,,0,0.0,0.0,0,v,Sefolosha REBOUND (Off:2 Def:4),Rebound,Unknown,0,412
+21200371,450,PT07M08.00S,4,1610612760,OKC,201142,Durant,K. Durant,-71,252,26,Made,1,72.0,80.0,152,v,Durant 26' 3PT Jump Shot (28 PTS) (Sefolosha 1 AST),Made Shot,Jump Shot,0,413
+21200371,451,PT06M58.00S,4,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0.0,0.0,0,v,Collison P.FOUL (P4.T2),Foul,Personal,0,414
+21200371,452,PT06M58.00S,4,1610612737,ATL,2585,Pachulia,Z. Pachulia,0,0,0,,0,0.0,0.0,0,h,SUB: Horford FOR Pachulia,Substitution,,0,415
+21200371,453,PT06M43.00S,4,1610612737,ATL,201952,Teague,J. Teague,-65,241,25,Made,1,75.0,80.0,155,h,Teague 25' 3PT Jump Shot (17 PTS) (Horford 3 AST),Made Shot,Jump Shot,0,416
+21200371,454,PT06M27.00S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,18,3,2,Made,1,75.0,82.0,157,v,Westbrook 2' Driving Layup (25 PTS),Made Shot,Driving Layup Shot,0,417
+21200371,455,PT06M04.00S,4,1610612737,ATL,2746,Smith,J. Smith,1,91,9,Missed,1,0.0,0.0,0,h,MISS Smith 9' Hook Shot,Missed Shot,Hook Shot,0,418
+21200371,455,PT06M04.00S,4,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,v,Durant BLOCK (2 BLK),,,0,419
+21200371,456,PT06M01.00S,4,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:5 Def:6),Rebound,Unknown,0,420
+21200371,460,PT06M01.00S,4,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith Poss Lost Ball Turnover (P3.T10),Turnover,Poss Lost Ball Turnover,0,421
+21200371,460,PT06M01.00S,4,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0.0,0.0,0,v,Collison STEAL (2 STL),,,0,422
+21200371,457,PT05M58.00S,4,1610612760,OKC,201142,Durant,K. Durant,13,0,1,Made,1,75.0,84.0,159,v,Durant 1' Running Dunk (30 PTS) (Westbrook 9 AST),Made Shot,Running Dunk Shot,0,423
+21200371,458,PT05M58.00S,4,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith S.FOUL (P3.T3),Foul,Shooting,0,424
+21200371,459,PT05M58.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,425
+21200371,462,PT05M58.00S,4,1610612760,OKC,2755,Martin,K. Martin,0,0,0,,0,0.0,0.0,0,v,SUB: Ibaka FOR Martin,Substitution,,0,426
+21200371,464,PT05M58.00S,4,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,75.0,85.0,160,v,Durant Free Throw 1 of 1 (31 PTS),Free Throw,Free Throw 1 of 1,0,427
+21200371,467,PT05M51.00S,4,1610612760,OKC,200757,Sefolosha,T. Sefolosha,0,0,0,,0,0.0,0.0,0,v,Sefolosha P.FOUL (P1.T3),Foul,Personal,0,428
+21200371,468,PT05M44.00S,4,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0.0,0.0,0,v,Collison S.FOUL (P5.T4),Foul,Shooting,0,429
+21200371,469,PT05M44.00S,4,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,76.0,85.0,161,h,Horford Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,430
+21200371,471,PT05M44.00S,4,1610612760,OKC,2555,Collison,N. Collison,0,0,0,,0,0.0,0.0,0,v,SUB: Perkins FOR Collison,Substitution,,0,431
+21200371,472,PT05M44.00S,4,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,77.0,85.0,162,h,Horford Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,432
+21200371,474,PT05M27.00S,4,1610612760,OKC,200757,Sefolosha,T. Sefolosha,226,123,26,Missed,1,0.0,0.0,0,v,MISS Sefolosha 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,433
+21200371,475,PT05M24.00S,4,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Rebound,Rebound,Unknown,0,434
+21200371,476,PT05M24.00S,4,1610612737,ATL,201229,Tolliver,A. Tolliver,0,0,0,,0,0.0,0.0,0,h,SUB: Korver FOR Tolliver,Substitution,,0,435
+21200371,479,PT05M16.00S,4,1610612737,ATL,101150,Williams,L. Williams,-229,37,0,Made,1,80.0,85.0,165,h,Williams  3PT Jump Shot (8 PTS) (Teague 6 AST),Made Shot,Jump Shot,0,436
+21200371,480,PT04M55.00S,4,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,v,Durant Lost Ball Turnover (P5.T15),Turnover,Lost Ball,0,437
+21200371,480,PT04M55.00S,4,1610612737,ATL,2594,Korver,K. Korver,0,0,0,,0,0.0,0.0,0,h,Korver STEAL (4 STL),,,0,438
+21200371,481,PT04M51.00S,4,1610612737,ATL,2594,Korver,K. Korver,0,0,0,,0,0.0,0.0,0,h,Korver Lost Ball Turnover (P2.T11),Turnover,Lost Ball,0,439
+21200371,481,PT04M51.00S,4,1610612760,OKC,200757,Sefolosha,T. Sefolosha,0,0,0,,0,0.0,0.0,0,v,Sefolosha STEAL (1 STL),,,0,440
+21200371,482,PT04M48.00S,4,1610612760,OKC,201586,Ibaka,S. Ibaka,-119,129,18,Missed,1,0.0,0.0,0,v,MISS Ibaka 18' Jump Shot,Missed Shot,Jump Shot,0,441
+21200371,483,PT04M47.00S,4,1610612737,ATL,2594,Korver,K. Korver,0,0,0,,0,0.0,0.0,0,h,Korver REBOUND (Off:0 Def:5),Rebound,Unknown,0,442
+21200371,484,PT04M40.00S,4,1610612737,ATL,101150,Williams,L. Williams,88,162,18,Missed,1,0.0,0.0,0,h,MISS Williams 18' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,443
+21200371,485,PT04M37.00S,4,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0.0,0.0,0,v,Perkins REBOUND (Off:1 Def:5),Rebound,Unknown,0,444
+21200371,487,PT04M26.00S,4,1610612760,OKC,201142,Durant,K. Durant,24,252,25,Made,1,80.0,88.0,168,v,Durant 25' 3PT Jump Shot (34 PTS) (Westbrook 10 AST),Made Shot,Jump Shot,0,445
+21200371,489,PT04M08.00S,4,1610612737,ATL,201952,Teague,J. Teague,2,-6,1,Missed,1,0.0,0.0,0,h,MISS Teague 1' Driving Dunk,Missed Shot,Driving Dunk Shot,0,446
+21200371,490,PT04M07.00S,4,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,0.0,0.0,0,h,Horford REBOUND (Off:1 Def:4),Rebound,Unknown,0,447
+21200371,491,PT03M58.00S,4,1610612737,ATL,201143,Horford,A. Horford,81,160,18,Missed,1,0.0,0.0,0,h,MISS Horford 18' Jump Shot,Missed Shot,Jump Shot,0,448
+21200371,492,PT03M57.00S,4,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,v,Ibaka REBOUND (Off:2 Def:10),Rebound,Unknown,0,449
+21200371,493,PT03M57.00S,4,1610612737,ATL,2594,Korver,K. Korver,0,0,0,,0,0.0,0.0,0,h,Korver P.FOUL (P3.T4),Foul,Personal,0,450
+21200371,494,PT03M43.00S,4,1610612760,OKC,2570,Perkins,K. Perkins,21,67,7,Missed,1,0.0,0.0,0,v,MISS Perkins 7' Hook Shot,Missed Shot,Hook Shot,0,451
+21200371,495,PT03M42.00S,4,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:5 Def:7),Rebound,Unknown,0,452
+21200371,496,PT03M32.00S,4,1610612737,ATL,101150,Williams,L. Williams,-7,50,5,Missed,1,0.0,0.0,0,h,MISS Williams 5' Driving Jump Shot,Missed Shot,Driving Jump shot,0,453
+21200371,497,PT03M31.00S,4,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,v,Thunder Rebound,Rebound,Unknown,0,454
+21200371,498,PT03M31.00S,4,1610612737,ATL,101150,Williams,L. Williams,0,0,0,,0,0.0,0.0,0,h,Williams L.B.FOUL (P1.PN),Foul,Loose Ball,0,455
+21200371,499,PT03M31.00S,4,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,80.0,89.0,169,v,Durant Free Throw 1 of 2 (35 PTS),Free Throw,Free Throw 1 of 2,0,456
+21200371,501,PT03M31.00S,4,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,80.0,90.0,170,v,Durant Free Throw 2 of 2 (36 PTS),Free Throw,Free Throw 2 of 2,0,457
+21200371,503,PT03M31.00S,4,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Timeout: Short (Full 4 Short 1),Timeout,Short,0,458
+21200371,506,PT03M17.00S,4,1610612737,ATL,2594,Korver,K. Korver,239,58,25,Made,1,83.0,90.0,173,h,Korver 25' 3PT Jump Shot (9 PTS) (Teague 7 AST),Made Shot,Jump Shot,0,459
+21200371,507,PT02M58.00S,4,1610612760,OKC,201142,Durant,K. Durant,-45,172,18,Made,1,83.0,92.0,175,v,Durant 18' Fadeaway Jumper (38 PTS),Made Shot,Fadeaway Jump Shot,0,460
+21200371,508,PT02M47.00S,4,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,v,Durant Violation:Kicked Ball,Violation,Kicked Ball,0,461
+21200371,509,PT02M47.00S,4,0,,1610612760,,,0,0,0,,0,0.0,0.0,0,v,Thunder Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,462
+21200371,511,PT02M32.00S,4,1610612737,ATL,201143,Horford,A. Horford,-127,116,17,Missed,1,0.0,0.0,0,h,MISS Horford 17' Jump Shot,Missed Shot,Jump Shot,0,463
+21200371,512,PT02M31.00S,4,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,v,Durant REBOUND (Off:1 Def:11),Rebound,Unknown,0,464
+21200371,513,PT02M15.00S,4,1610612760,OKC,201142,Durant,K. Durant,-111,227,25,Made,1,83.0,95.0,178,v,Durant 25' 3PT Jump Shot (41 PTS),Made Shot,Jump Shot,0,465
+21200371,514,PT02M00.00S,4,1610612737,ATL,201952,Teague,J. Teague,4,-5,1,Made,1,85.0,95.0,180,h,Teague 1' Driving Dunk (19 PTS),Made Shot,Driving Dunk Shot,0,466
+21200371,515,PT01M45.00S,4,1610612760,OKC,200757,Sefolosha,T. Sefolosha,242,33,24,Made,1,85.0,98.0,183,v,Sefolosha 24' 3PT Jump Shot (9 PTS) (Westbrook 11 AST),Made Shot,Jump Shot,0,467
+21200371,516,PT01M36.00S,4,1610612737,ATL,2746,Smith,J. Smith,13,6,1,Made,1,87.0,98.0,185,h,Smith 1' Layup (17 PTS) (Teague 8 AST),Made Shot,Layup Shot,0,468
+21200371,517,PT01M36.00S,4,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,v,Ibaka S.FOUL (P2.PN),Foul,Shooting,0,469
+21200371,518,PT01M36.00S,4,1610612737,ATL,2746,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,MISS Smith Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,470
+21200371,520,PT01M35.00S,4,1610612760,OKC,2570,Perkins,K. Perkins,0,0,0,,0,0.0,0.0,0,v,Perkins REBOUND (Off:1 Def:6),Rebound,Unknown,0,471
+21200371,521,PT01M12.00S,4,1610612760,OKC,201142,Durant,K. Durant,-144,241,28,Missed,1,0.0,0.0,0,v,MISS Durant 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,472
+21200371,522,PT01M11.00S,4,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,v,Ibaka REBOUND (Off:3 Def:10),Rebound,Unknown,0,473
+21200371,523,PT01M08.00S,4,1610612760,OKC,201586,Ibaka,S. Ibaka,42,9,4,Missed,1,0.0,0.0,0,v,MISS Ibaka 4' Putback Layup,Missed Shot,Putback Layup Shot,0,474
+21200371,524,PT01M07.00S,4,1610612737,ATL,201143,Horford,A. Horford,0,0,0,,0,0.0,0.0,0,h,Horford REBOUND (Off:1 Def:5),Rebound,Unknown,0,475
+21200371,525,PT00M57.90S,4,1610612737,ATL,2746,Smith,J. Smith,-131,213,25,Missed,1,0.0,0.0,0,h,MISS Smith 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,476
+21200371,526,PT00M56.90S,4,1610612760,OKC,200757,Sefolosha,T. Sefolosha,0,0,0,,0,0.0,0.0,0,v,Sefolosha REBOUND (Off:2 Def:5),Rebound,Unknown,0,477
+21200371,527,PT00M50.90S,4,1610612760,OKC,200757,Sefolosha,T. Sefolosha,-11,9,1,Missed,1,0.0,0.0,0,v,MISS Sefolosha 1' Running Layup,Missed Shot,Running Layup Shot,0,478
+21200371,528,PT00M49.90S,4,1610612760,OKC,201586,Ibaka,S. Ibaka,0,0,0,,0,0.0,0.0,0,v,Ibaka REBOUND (Off:4 Def:10),Rebound,Unknown,0,479
+21200371,529,PT00M45.90S,4,1610612760,OKC,201586,Ibaka,S. Ibaka,0,9,1,Missed,1,0.0,0.0,0,v,MISS Ibaka 1' Putback Layup,Missed Shot,Putback Layup Shot,0,480
+21200371,530,PT00M44.90S,4,1610612737,ATL,201952,Teague,J. Teague,0,0,0,,0,0.0,0.0,0,h,Teague REBOUND (Off:0 Def:1),Rebound,Unknown,0,481
+21200371,531,PT00M43.50S,4,1610612737,ATL,101150,Williams,L. Williams,-226,12,0,Made,1,90.0,98.0,188,h,Williams  3PT Jump Shot (11 PTS) (Teague 9 AST),Made Shot,Jump Shot,0,482
+21200371,532,PT00M39.30S,4,1610612737,ATL,201952,Teague,J. Teague,0,0,0,,0,0.0,0.0,0,h,Teague P.FOUL (P4.PN),Foul,Personal,0,483
+21200371,533,PT00M39.30S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,90.0,99.0,189,v,Westbrook Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,0,484
+21200371,535,PT00M39.30S,4,1610612760,OKC,201566,Westbrook,R. Westbrook,0,0,0,,0,90.0,100.0,190,v,Westbrook Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,0,485
+21200371,537,PT00M39.30S,4,0,,1610612737,,,0,0,0,,0,0.0,0.0,0,h,HAWKS Timeout: Short (Full 4 Short 2),Timeout,Short,0,486
+21200371,539,PT00M36.90S,4,1610612737,ATL,101150,Williams,L. Williams,-108,244,27,Missed,1,0.0,0.0,0,h,MISS Williams 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,487
+21200371,540,PT00M33.90S,4,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,v,Durant REBOUND (Off:1 Def:12),Rebound,Unknown,0,488
+21200371,541,PT00M14.90S,4,1610612760,OKC,201142,Durant,K. Durant,0,0,0,,0,0.0,0.0,0,v,Durant Bad Pass Turnover (P6.T16),Turnover,Bad Pass,0,489
+21200371,541,PT00M14.90S,4,1610612737,ATL,101150,Williams,L. Williams,0,0,0,,0,0.0,0.0,0,h,Williams STEAL (2 STL),,,0,490
+21200371,542,PT00M09.90S,4,1610612737,ATL,101150,Williams,L. Williams,17,3,2,Made,1,92.0,100.0,192,h,Williams 2' Running Layup (13 PTS),Made Shot,Running Layup Shot,0,491
+21200371,544,PT00M00.00S,4,0,,0,,,0,0,0,,0,92.0,100.0,192,,End of 4th Period (9:48 PM EST),period,end,0,492

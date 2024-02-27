@@ -1,0 +1,454 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+21700347,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (8:41 PM EST),period,start,0,1
+21700347,4,PT12M00.00S,1,1610612742,DAL,1628467,Kleber,M. Kleber,0,0,0,,0,,,0,h,Jump Ball Kleber vs. Plumlee: Tip to Matthews,Jump Ball,,1,2
+21700347,7,PT11M37.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,116,218,25,Made,1,3.0,0.0,3,h,Nowitzki 25' 3PT Jump Shot (3 PTS) (Matthews 1 AST),Made Shot,Jump Shot,1,3
+21700347,9,PT11M24.00S,1,1610612743,DEN,1627750,Murray,J. Murray,-138,195,24,Made,1,3.0,3.0,6,v,Murray 24' 3PT Jump Shot (3 PTS) (Harris 1 AST),Made Shot,Jump Shot,1,4
+21700347,11,PT11M06.00S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,Murray S.FOUL (P1.T1) (K.Mauer),Foul,Shooting,1,5
+21700347,13,PT11M06.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,4.0,3.0,7,h,Nowitzki Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,6
+21700347,14,PT11M06.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,5.0,3.0,8,h,Nowitzki Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,7
+21700347,15,PT10M56.00S,1,1610612743,DEN,202702,Faried,K. Faried,-81,26,9,Missed,1,,,0,v,MISS Faried 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,8
+21700347,15,PT10M56.00S,1,1610612742,DAL,1628467,Kleber,M. Kleber,0,0,0,,0,,,0,h,Kleber BLOCK (1 BLK),,,1,9
+21700347,17,PT10M54.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:0 Def:1),Rebound,Unknown,1,10
+21700347,18,PT10M51.00S,1,1610612742,DAL,1628372,Smith Jr.,D. Smith Jr.,2,8,1,Made,1,7.0,3.0,10,h,Smith Jr. 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,11
+21700347,19,PT10M39.00S,1,1610612742,DAL,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. P.FOUL (P1.T1) (K.Mauer),Foul,Personal,1,12
+21700347,21,PT10M33.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,-149,201,25,Missed,1,,,0,v,MISS Chandler 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,13
+21700347,22,PT10M30.00S,1,1610612742,DAL,1628467,Kleber,M. Kleber,0,0,0,,0,,,0,h,Kleber REBOUND (Off:0 Def:1),Rebound,Unknown,1,14
+21700347,23,PT10M25.00S,1,1610612742,DAL,1628372,Smith Jr.,D. Smith Jr.,15,23,3,Missed,1,,,0,h,MISS Smith Jr. 3' Running Layup,Missed Shot,Running Layup Shot,1,15
+21700347,23,PT10M25.00S,1,1610612743,DEN,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,v,Plumlee BLOCK (1 BLK),,,1,16
+21700347,25,PT10M23.00S,1,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,,,0,v,Faried REBOUND (Off:0 Def:1),Rebound,Unknown,1,17
+21700347,26,PT10M13.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,-36,192,20,Missed,1,,,0,v,MISS Chandler 20' Jump Shot,Missed Shot,Jump Shot,1,18
+21700347,27,PT10M13.00S,1,1610612742,DAL,1628467,Kleber,M. Kleber,0,0,0,,0,,,0,h,Kleber REBOUND (Off:0 Def:2),Rebound,Unknown,1,19
+21700347,28,PT10M04.00S,1,1610612742,DAL,202083,Matthews,W. Matthews,-142,225,27,Made,1,10.0,3.0,13,h,Matthews 27' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,1,20
+21700347,29,PT10M04.00S,1,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,,,0,v,Faried S.FOUL (P1.T2) (S.Wall),Foul,Shooting,1,21
+21700347,31,PT10M04.00S,1,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,11.0,3.0,14,h,Matthews Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,0,22
+21700347,32,PT09M46.00S,1,1610612743,DEN,202702,Faried,K. Faried,-11,55,6,Missed,1,,,0,v,MISS Faried 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,23
+21700347,33,PT09M45.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:0 Def:2),Rebound,Unknown,1,24
+21700347,34,PT09M39.00S,1,1610612742,DAL,203084,Barnes,H. Barnes,6,26,3,Missed,1,,,0,h,MISS Barnes 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,25
+21700347,35,PT09M37.00S,1,1610612743,DEN,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,v,Plumlee REBOUND (Off:0 Def:1),Rebound,Unknown,1,26
+21700347,36,PT09M29.00S,1,1610612743,DEN,203914,Harris,G. Harris,2,10,1,Made,1,11.0,5.0,16,v,Harris 1' Driving Layup (2 PTS) (Plumlee 1 AST),Made Shot,Driving Layup Shot,1,27
+21700347,38,PT09M11.00S,1,1610612742,DAL,1628372,Smith Jr.,D. Smith Jr.,-136,212,25,Made,1,14.0,5.0,19,h,Smith Jr. 25' 3PT Jump Shot (5 PTS) (Nowitzki 1 AST),Made Shot,Jump Shot,1,28
+21700347,40,PT09M10.00S,1,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,29
+21700347,41,PT08M54.00S,1,1610612743,DEN,203914,Harris,G. Harris,-93,152,18,Missed,1,,,0,v,MISS Harris 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,30
+21700347,42,PT08M52.00S,1,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,,,0,v,Faried REBOUND (Off:1 Def:1),Rebound,Unknown,1,31
+21700347,43,PT08M50.00S,1,1610612743,DEN,202702,Faried,K. Faried,0,-6,1,Missed,1,,,0,v,MISS Faried 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,32
+21700347,44,PT08M48.00S,1,1610612743,DEN,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,v,Plumlee REBOUND (Off:1 Def:1),Rebound,Unknown,1,33
+21700347,45,PT08M45.00S,1,1610612743,DEN,1627750,Murray,J. Murray,159,207,26,Made,1,14.0,8.0,22,v,Murray 26' 3PT Jump Shot (6 PTS) (Plumlee 2 AST),Made Shot,Jump Shot,1,34
+21700347,47,PT08M27.00S,1,1610612742,DAL,203084,Barnes,H. Barnes,2,118,12,Made,1,16.0,8.0,24,h,Barnes 12' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,1,35
+21700347,48,PT08M11.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki S.FOUL (P1.T2) (S.Wall),Foul,Shooting,1,36
+21700347,50,PT08M11.00S,1,1610612743,DEN,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,v,MISS Plumlee Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,37
+21700347,51,PT08M11.00S,1,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,38
+21700347,52,PT08M11.00S,1,1610612743,DEN,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,v,MISS Plumlee Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,39
+21700347,53,PT08M08.00S,1,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,Barnes REBOUND (Off:0 Def:1),Rebound,Unknown,1,40
+21700347,54,PT07M58.00S,1,1610612742,DAL,203084,Barnes,H. Barnes,225,-6,0,Missed,1,,,0,h,MISS Barnes 3PT Jump Shot,Missed Shot,Jump Shot,1,41
+21700347,55,PT07M58.00S,1,1610612743,DEN,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,v,Plumlee REBOUND (Off:1 Def:2),Rebound,Unknown,1,42
+21700347,56,PT07M51.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,-135,93,16,Missed,1,,,0,v,MISS Chandler 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,43
+21700347,57,PT07M51.00S,1,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,h,Matthews REBOUND (Off:0 Def:1),Rebound,Unknown,1,44
+21700347,58,PT07M38.00S,1,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,,,0,v,Harris S.FOUL (P1.T3) (S.Wall),Foul,Shooting,1,45
+21700347,60,PT07M38.00S,1,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,17.0,8.0,25,h,Barnes Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,46
+21700347,61,PT07M38.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,SUB: Mejri FOR Nowitzki,Substitution,,0,47
+21700347,63,PT07M38.00S,1,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,18.0,8.0,26,h,Barnes Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,48
+21700347,64,PT07M32.00S,1,1610612743,DEN,1627750,Murray,J. Murray,-70,240,25,Missed,1,,,0,v,MISS Murray 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,49
+21700347,65,PT07M32.00S,1,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,,,0,h,Mejri REBOUND (Off:0 Def:1),Rebound,Unknown,1,50
+21700347,66,PT07M22.00S,1,1610612742,DAL,202083,Matthews,W. Matthews,-57,256,26,Made,1,21.0,8.0,29,h,Matthews 26' 3PT Jump Shot (7 PTS),Made Shot,Jump Shot,1,51
+21700347,67,PT07M20.00S,1,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,52
+21700347,68,PT07M20.00S,1,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,,,0,v,SUB: Barton FOR Chandler,Substitution,,0,53
+21700347,69,PT07M20.00S,1,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,,,0,v,SUB: Lyles FOR Faried,Substitution,,0,54
+21700347,72,PT07M07.00S,1,1610612743,DEN,1627750,Murray,J. Murray,228,15,0,Made,1,21.0,11.0,32,v,Murray 3PT Jump Shot (9 PTS) (Plumlee 3 AST),Made Shot,Jump Shot,1,55
+21700347,74,PT06M56.00S,1,1610612742,DAL,1628372,Smith Jr.,D. Smith Jr.,-116,227,25,Missed,1,,,0,h,MISS Smith Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,56
+21700347,75,PT06M53.00S,1,1610612743,DEN,1626168,Lyles,T. Lyles,0,0,0,,0,,,0,v,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,1,57
+21700347,76,PT06M48.00S,1,1610612743,DEN,1626168,Lyles,T. Lyles,-15,245,25,Missed,1,,,0,v,MISS Lyles 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,58
+21700347,77,PT06M43.00S,1,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,Barnes REBOUND (Off:0 Def:2),Rebound,Unknown,1,59
+21700347,78,PT06M39.00S,1,1610612742,DAL,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,60
+21700347,79,PT06M25.00S,1,1610612743,DEN,203914,Harris,G. Harris,0,104,10,Missed,1,,,0,v,MISS Harris 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,61
+21700347,80,PT06M22.00S,1,1610612742,DAL,1628467,Kleber,M. Kleber,0,0,0,,0,,,0,h,Kleber REBOUND (Off:0 Def:3),Rebound,Unknown,1,62
+21700347,81,PT06M18.00S,1,1610612742,DAL,1628372,Smith Jr.,D. Smith Jr.,0,8,1,Made,1,23.0,11.0,34,h,Smith Jr. 1' Running Layup (7 PTS),Made Shot,Running Layup Shot,1,63
+21700347,82,PT05M58.00S,1,1610612742,DAL,1628467,Kleber,M. Kleber,0,0,0,,0,,,0,h,Kleber S.FOUL (P1.T3) (K.Mauer),Foul,Shooting,1,64
+21700347,84,PT05M58.00S,1,1610612743,DEN,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,v,MISS Plumlee Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,65
+21700347,85,PT05M58.00S,1,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,66
+21700347,86,PT05M58.00S,1,1610612743,DEN,203486,Plumlee,M. Plumlee,0,0,0,,0,23.0,12.0,35,v,Plumlee Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,67
+21700347,87,PT05M44.00S,1,1610612742,DAL,203084,Barnes,H. Barnes,-230,18,0,Made,1,26.0,12.0,38,h,Barnes 3PT Jump Shot (7 PTS) (Smith Jr. 1 AST),Made Shot,Jump Shot,1,68
+21700347,89,PT05M24.00S,1,1610612743,DEN,203914,Harris,G. Harris,16,250,25,Missed,1,,,0,v,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,69
+21700347,90,PT05M21.00S,1,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,Barnes REBOUND (Off:0 Def:3),Rebound,Unknown,1,70
+21700347,91,PT05M16.00S,1,1610612743,DEN,1626168,Lyles,T. Lyles,0,0,0,,0,,,0,v,Lyles P.FOUL (P1.T4) (K.Mauer),Foul,Personal,1,71
+21700347,93,PT05M16.00S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,SUB: Mudiay FOR Murray,Substitution,,0,72
+21700347,95,PT05M04.00S,1,1610612742,DAL,1628372,Smith Jr.,D. Smith Jr.,21,57,6,Missed,1,,,0,h,MISS Smith Jr. 6' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,73
+21700347,96,PT05M02.00S,1,1610612742,DAL,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,74
+21700347,97,PT04M46.00S,1,1610612742,DAL,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Bad Pass Turnover (P2.T2),Turnover,Bad Pass,1,75
+21700347,97,PT04M46.00S,1,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,,,0,v,Harris STEAL (1 STL),,,1,76
+21700347,99,PT04M38.00S,1,1610612743,DEN,1626144,Mudiay,E. Mudiay,225,9,0,Missed,1,,,0,v,MISS Mudiay 3PT Jump Shot,Missed Shot,Jump Shot,1,77
+21700347,99,PT04M38.00S,1,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,,,0,h,Mejri BLOCK (1 BLK),,,1,78
+21700347,101,PT04M38.00S,1,1610612742,DAL,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,79
+21700347,102,PT04M30.00S,1,1610612742,DAL,202083,Matthews,W. Matthews,36,263,27,Missed,1,,,0,h,MISS Matthews 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,80
+21700347,103,PT04M27.00S,1,1610612743,DEN,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,v,Plumlee REBOUND (Off:1 Def:3),Rebound,Unknown,1,81
+21700347,104,PT04M23.00S,1,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,h,Matthews P.FOUL (P1.T4) (S.Wall),Foul,Personal,1,82
+21700347,106,PT04M23.00S,1,1610612742,DAL,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,h,SUB: Barea FOR Smith Jr.,Substitution,,0,83
+21700347,108,PT04M23.00S,1,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,,,0,h,Mejri Personal Take Foul (P1.PN) (S.Wall),Foul,Personal Take,1,84
+21700347,110,PT04M23.00S,1,1610612743,DEN,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,v,MISS Plumlee Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,85
+21700347,111,PT04M23.00S,1,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,86
+21700347,112,PT04M23.00S,1,1610612742,DAL,1628467,Kleber,M. Kleber,0,0,0,,0,,,0,h,SUB: Harris FOR Kleber,Substitution,,0,87
+21700347,114,PT04M23.00S,1,1610612743,DEN,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,v,MISS Plumlee Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,88
+21700347,115,PT04M21.00S,1,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,Barnes REBOUND (Off:0 Def:4),Rebound,Unknown,1,89
+21700347,116,PT04M09.00S,1,1610612742,DAL,203084,Barnes,H. Barnes,57,43,7,Made,1,28.0,12.0,40,h,Barnes 7' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,1,90
+21700347,117,PT04M09.00S,1,1610612743,DEN,1626168,Lyles,T. Lyles,0,0,0,,0,,,0,v,Lyles S.FOUL (P2.PN) (S.Wall),Foul,Shooting,1,91
+21700347,119,PT04M09.00S,1,1610612743,DEN,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,v,SUB: Hernangomez FOR Plumlee,Substitution,,0,92
+21700347,121,PT04M09.00S,1,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,29.0,12.0,41,h,Barnes Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,93
+21700347,122,PT03M56.00S,1,1610612743,DEN,203115,Barton,W. Barton,-95,166,19,Missed,1,,,0,v,MISS Barton 19' Jump Shot,Missed Shot,Jump Shot,1,94
+21700347,123,PT03M52.00S,1,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,,,0,h,Mejri REBOUND (Off:0 Def:2),Rebound,Unknown,1,95
+21700347,124,PT03M42.00S,1,1610612742,DAL,1626257,Mejri,S. Mejri,2,11,1,Made,1,31.0,12.0,43,h,Mejri 1' Hook Shot (2 PTS) (Barea 1 AST),Made Shot,Hook Shot,1,96
+21700347,126,PT03M21.00S,1,1610612743,DEN,1627823,Hernangomez,J. Hernangomez,-207,125,24,Missed,1,,,0,v,MISS Hernangomez 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,97
+21700347,127,PT03M21.00S,1,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,Barnes REBOUND (Off:0 Def:5),Rebound,Unknown,1,98
+21700347,128,PT03M11.00S,1,1610612742,DAL,1626257,Mejri,S. Mejri,2,1,0,Made,1,33.0,12.0,45,h,Mejri Reverse Dunk (4 PTS) (Barea 2 AST),Made Shot,Reverse Dunk Shot,1,99
+21700347,130,PT02M59.00S,1,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,h,Harris P.FOUL (P1.PN) (K.Mauer),Foul,Personal,1,100
+21700347,132,PT02M59.00S,1,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,33.0,13.0,46,v,Harris Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,101
+21700347,133,PT02M59.00S,1,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,,,0,h,SUB: Powell FOR Mejri,Substitution,,0,102
+21700347,135,PT02M59.00S,1,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,33.0,14.0,47,v,Harris Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,103
+21700347,136,PT02M40.00S,1,1610612742,DAL,203084,Barnes,H. Barnes,109,189,22,Missed,1,,,0,h,MISS Barnes 22' Jump Shot,Missed Shot,Jump Shot,1,104
+21700347,137,PT02M37.00S,1,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,,,0,v,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,1,105
+21700347,138,PT02M35.00S,1,1610612743,DEN,1627823,Hernangomez,J. Hernangomez,-6,-2,1,Made,1,33.0,16.0,49,v,Hernangomez 1' Running Dunk (2 PTS) (Harris 2 AST),Made Shot,Running Dunk Shot,1,106
+21700347,140,PT02M27.00S,1,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,107
+21700347,141,PT02M27.00S,1,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,h,SUB: Ferrell FOR Matthews,Substitution,,0,108
+21700347,142,PT02M27.00S,1,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,SUB: Nowitzki FOR Barnes,Substitution,,0,109
+21700347,145,PT02M17.00S,1,1610612742,DAL,2734,Harris,D. Harris,16,7,2,Made,1,35.0,16.0,51,h,Harris 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,110
+21700347,167,PT02M17.00S,1,1610612743,DEN,1626144,Mudiay,E. Mudiay,0,0,0,,0,,,0,v,Defensive Goaltending,Violation,Defensive Goaltending,1,111
+21700347,147,PT02M17.00S,1,1610612743,DEN,1626144,Mudiay,E. Mudiay,0,0,0,,0,,,0,v,Mudiay S.FOUL (P1.PN) (K.Mauer),Foul,Shooting,1,112
+21700347,149,PT02M17.00S,1,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,h,MISS Harris Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,113
+21700347,150,PT02M13.00S,1,1610612743,DEN,1627823,Hernangomez,J. Hernangomez,0,0,0,,0,,,0,v,Hernangomez REBOUND (Off:0 Def:1),Rebound,Unknown,1,114
+21700347,151,PT02M02.00S,1,1610612743,DEN,203115,Barton,W. Barton,29,24,4,Missed,1,,,0,v,MISS Barton 4' Layup,Missed Shot,Layup Shot,1,115
+21700347,152,PT01M59.00S,1,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,,,0,v,Barton REBOUND (Off:1 Def:0),Rebound,Unknown,1,116
+21700347,153,PT01M58.00S,1,1610612743,DEN,203115,Barton,W. Barton,5,17,2,Made,1,35.0,18.0,53,v,Barton 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,117
+21700347,154,PT01M40.00S,1,1610612742,DAL,203939,Powell,D. Powell,-1,21,2,Missed,1,,,0,h,MISS Powell 2' Layup,Missed Shot,Layup Shot,1,118
+21700347,154,PT01M40.00S,1,1610612743,DEN,1626168,Lyles,T. Lyles,0,0,0,,0,,,0,v,Lyles BLOCK (1 BLK),,,1,119
+21700347,159,PT01M38.00S,1,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Unknown,0,120
+21700347,156,PT01M38.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Jump Ball Powell vs. Lyles: Tip to Hernangomez,Jump Ball,,1,121
+21700347,160,PT01M34.00S,1,1610612743,DEN,203914,Harris,G. Harris,-2,6,1,Missed,1,,,0,v,MISS Harris 1' Running Layup,Missed Shot,Running Layup Shot,1,122
+21700347,160,PT01M34.00S,1,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,h,Harris BLOCK (1 BLK),,,1,123
+21700347,162,PT01M34.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:0 Def:3),Rebound,Unknown,1,124
+21700347,163,PT01M20.00S,1,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,,,0,v,Barton S.FOUL (P1.PN) (S.Wall),Foul,Shooting,1,125
+21700347,165,PT01M20.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,36.0,18.0,54,h,Nowitzki Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,126
+21700347,166,PT01M20.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,37.0,18.0,55,h,Nowitzki Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,127
+21700347,168,PT01M01.00S,1,1610612743,DEN,1626168,Lyles,T. Lyles,5,4,1,Made,1,37.0,20.0,57,v,Lyles 1' Cutting Layup Shot (2 PTS) (Barton 1 AST),Made Shot,Cutting Layup Shot,1,128
+21700347,170,PT00M44.20S,1,1610612742,DAL,200826,Barea,J. Barea,-46,252,26,Missed,1,,,0,h,MISS Barea 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,129
+21700347,171,PT00M41.60S,1,1610612743,DEN,1626168,Lyles,T. Lyles,0,0,0,,0,,,0,v,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,1,130
+21700347,172,PT00M33.80S,1,1610612743,DEN,203115,Barton,W. Barton,11,153,15,Missed,1,,,0,v,MISS Barton 15' Jump Shot,Missed Shot,Jump Shot,1,131
+21700347,173,PT00M29.30S,1,1610612742,DAL,1627812,Ferrell,Y. Ferrell,0,0,0,,0,,,0,h,Ferrell REBOUND (Off:0 Def:1),Rebound,Unknown,1,132
+21700347,174,PT00M25.10S,1,1610612742,DAL,1627812,Ferrell,Y. Ferrell,-20,52,6,Made,1,39.0,20.0,59,h,Ferrell 6' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,1,133
+21700347,175,PT00M05.50S,1,1610612743,DEN,1627823,Hernangomez,J. Hernangomez,-155,190,25,Made,1,39.0,23.0,62,v,Hernangomez 25' 3PT Jump Shot (5 PTS) (Mudiay 1 AST),Made Shot,Jump Shot,1,134
+21700347,177,PT00M01.40S,1,1610612742,DAL,200826,Barea,J. Barea,43,262,27,Missed,1,,,0,h,MISS Barea 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,135
+21700347,178,PT00M00.20S,1,1610612743,DEN,1626144,Mudiay,E. Mudiay,0,0,0,,0,,,0,v,Mudiay REBOUND (Off:0 Def:1),Rebound,Unknown,1,136
+21700347,179,PT00M00.00S,1,0,,0,,,0,0,0,,0,39.0,23.0,62,,End of 1st Period (9:10 PM EST),period,end,1,137
+21700347,183,PT12M00.00S,2,0,,0,,,0,0,0,,0,39.0,23.0,62,,Start of 2nd Period (9:13 PM EST),period,start,0,138
+21700347,184,PT11M44.00S,2,1610612743,DEN,1626144,Mudiay,E. Mudiay,-93,105,14,Missed,1,,,0,v,MISS Mudiay 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,139
+21700347,185,PT11M40.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:0 Def:4),Rebound,Unknown,1,140
+21700347,186,PT11M28.00S,2,1610612742,DAL,203939,Powell,D. Powell,-8,12,1,Made,1,41.0,23.0,64,h,Powell 1' Alley Oop Dunk (2 PTS) (Harris 1 AST),Made Shot,Alley Oop Dunk Shot,1,141
+21700347,188,PT11M14.00S,2,1610612743,DEN,2210,Jefferson,R. Jefferson,105,221,24,Missed,1,,,0,v,MISS Jefferson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,142
+21700347,189,PT11M10.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:0 Def:5),Rebound,Unknown,1,143
+21700347,190,PT11M01.00S,2,1610612743,DEN,1627823,Hernangomez,J. Hernangomez,0,0,0,,0,,,0,v,Hernangomez P.FOUL (P1.T1) (K.Mauer),Foul,Personal,1,144
+21700347,192,PT10M46.00S,2,1610612742,DAL,2734,Harris,D. Harris,106,259,28,Made,1,44.0,23.0,67,h,Harris 28' 3PT Jump Shot (5 PTS) (Powell 1 AST),Made Shot,Jump Shot,1,145
+21700347,194,PT10M35.00S,2,1610612743,DEN,1626144,Mudiay,E. Mudiay,-112,20,11,Missed,1,,,0,v,MISS Mudiay 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,146
+21700347,195,PT10M35.00S,2,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,,,0,h,Barea REBOUND (Off:0 Def:1),Rebound,Unknown,1,147
+21700347,196,PT10M29.00S,2,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,,,0,v,Barton P.FOUL (P2.T2) (G.Petraitis),Foul,Personal,1,148
+21700347,198,PT10M29.00S,2,1610612743,DEN,1626168,Lyles,T. Lyles,0,0,0,,0,,,0,v,SUB: Faried FOR Lyles,Substitution,,0,149
+21700347,200,PT10M19.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,92,183,20,Missed,1,,,0,h,MISS Nowitzki 20' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,150
+21700347,201,PT10M16.00S,2,1610612743,DEN,1626144,Mudiay,E. Mudiay,0,0,0,,0,,,0,v,Mudiay REBOUND (Off:0 Def:2),Rebound,Unknown,1,151
+21700347,202,PT10M13.00S,2,1610612743,DEN,1627823,Hernangomez,J. Hernangomez,0,0,0,,0,,,0,v,Hernangomez OFF.Foul (P2) (G.Petraitis),Foul,Offensive,1,152
+21700347,204,PT10M13.00S,2,1610612743,DEN,1627823,Hernangomez,J. Hernangomez,0,0,0,,0,,,0,v,Hernangomez Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,1,153
+21700347,205,PT09M58.00S,2,1610612742,DAL,200826,Barea,J. Barea,18,43,5,Made,1,46.0,23.0,69,h,Barea 5' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,154
+21700347,206,PT09M40.00S,2,1610612743,DEN,1626144,Mudiay,E. Mudiay,0,0,0,,0,,,0,v,Mudiay Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,155
+21700347,206,PT09M40.00S,2,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,,,0,h,Barea STEAL (1 STL),,,1,156
+21700347,208,PT09M34.00S,2,1610612742,DAL,203939,Powell,D. Powell,-6,11,1,Made,1,48.0,23.0,71,h,Powell 1' Cutting Dunk Shot (4 PTS) (Barea 3 AST),Made Shot,Cutting Dunk Shot,1,157
+21700347,210,PT09M34.00S,2,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,158
+21700347,211,PT09M34.00S,2,1610612743,DEN,1626144,Mudiay,E. Mudiay,0,0,0,,0,,,0,v,SUB: Harris FOR Mudiay,Substitution,,0,159
+21700347,212,PT09M34.00S,2,1610612743,DEN,2210,Jefferson,R. Jefferson,0,0,0,,0,,,0,v,SUB: Murray FOR Jefferson,Substitution,,0,160
+21700347,213,PT09M34.00S,2,1610612743,DEN,1627823,Hernangomez,J. Hernangomez,0,0,0,,0,,,0,v,SUB: Chandler FOR Hernangomez,Substitution,,0,161
+21700347,217,PT09M16.00S,2,1610612743,DEN,203914,Harris,G. Harris,-225,-15,0,Missed,1,,,0,v,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,1,162
+21700347,218,PT09M12.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,163
+21700347,219,PT08M58.00S,2,1610612742,DAL,2734,Harris,D. Harris,53,186,19,Missed,1,,,0,h,MISS Harris 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,164
+21700347,220,PT08M54.00S,2,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,,,0,v,Barton REBOUND (Off:1 Def:1),Rebound,Unknown,1,165
+21700347,221,PT08M49.00S,2,1610612743,DEN,202702,Faried,K. Faried,2,17,2,Made,1,48.0,25.0,73,v,Faried 2' Jump Shot (2 PTS) (Chandler 1 AST),Made Shot,Jump Shot,1,166
+21700347,223,PT08M27.00S,2,1610612742,DAL,1627812,Ferrell,Y. Ferrell,-13,7,1,Made,1,50.0,25.0,75,h,Ferrell 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,167
+21700347,224,PT08M15.00S,2,1610612743,DEN,201163,Chandler,W. Chandler,82,47,9,Missed,1,,,0,v,MISS Chandler 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,168
+21700347,225,PT08M15.00S,2,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,,,0,v,Faried REBOUND (Off:2 Def:1),Rebound,Unknown,1,169
+21700347,226,PT08M09.00S,2,1610612743,DEN,203914,Harris,G. Harris,-2,20,2,Missed,1,,,0,v,MISS Harris 2' Driving Layup,Missed Shot,Driving Layup Shot,1,170
+21700347,227,PT08M09.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,1,171
+21700347,228,PT08M02.00S,2,1610612742,DAL,200826,Barea,J. Barea,141,207,25,Missed,1,,,0,h,MISS Barea 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,172
+21700347,229,PT08M00.00S,2,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,,,0,v,Faried REBOUND (Off:2 Def:2),Rebound,Unknown,1,173
+21700347,230,PT07M51.00S,2,1610612743,DEN,1627750,Murray,J. Murray,165,203,26,Missed,1,,,0,v,MISS Murray 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,174
+21700347,231,PT07M51.00S,2,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,,,0,h,Barea REBOUND (Off:0 Def:2),Rebound,Unknown,1,175
+21700347,232,PT07M34.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,h,Harris Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,176
+21700347,232,PT07M34.00S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,Murray STEAL (1 STL),,,1,177
+21700347,234,PT07M31.00S,2,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,,,0,h,Barea P.FOUL (P1.T1) (G.Petraitis),Foul,Personal,1,178
+21700347,236,PT07M31.00S,2,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,h,SUB: Barnes FOR Harris,Substitution,,0,179
+21700347,237,PT07M31.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR Nowitzki,Substitution,,0,180
+21700347,240,PT07M26.00S,2,1610612743,DEN,203115,Barton,W. Barton,-47,240,24,Made,1,50.0,28.0,78,v,Barton 24' 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,1,181
+21700347,241,PT07M15.00S,2,1610612742,DAL,1628372,Smith Jr.,D. Smith Jr.,-107,176,21,Made,1,52.0,28.0,80,h,Smith Jr. 21' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,182
+21700347,242,PT06M57.00S,2,1610612743,DEN,203914,Harris,G. Harris,-30,66,7,Made,1,52.0,30.0,82,v,Harris 7' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,1,183
+21700347,243,PT06M44.00S,2,1610612742,DAL,1627812,Ferrell,Y. Ferrell,0,0,0,,0,,,0,h,Ferrell Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,184
+21700347,243,PT06M44.00S,2,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,,,0,v,Barton STEAL (1 STL),,,1,185
+21700347,245,PT06M41.00S,2,1610612743,DEN,202702,Faried,K. Faried,-11,4,1,Missed,1,,,0,v,MISS Faried 1' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,186
+21700347,246,PT06M38.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,1,187
+21700347,247,PT06M23.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,16,2,Made,1,54.0,30.0,84,h,Powell 2' Alley Oop Dunk (6 PTS) (Barea 4 AST),Made Shot,Alley Oop Dunk Shot,1,188
+21700347,249,PT06M03.00S,2,1610612743,DEN,1627750,Murray,J. Murray,-3,9,1,Made,1,54.0,32.0,86,v,Murray 1' Cutting Layup Shot (11 PTS) (Faried 1 AST),Made Shot,Cutting Layup Shot,1,189
+21700347,251,PT05M40.00S,2,1610612742,DAL,203084,Barnes,H. Barnes,-2,12,1,Made,1,56.0,32.0,88,h,Barnes 1' Driving Layup (12 PTS) (Ferrell 1 AST),Made Shot,Driving Layup Shot,1,190
+21700347,253,PT05M27.00S,2,1610612743,DEN,203914,Harris,G. Harris,-168,174,24,Missed,1,,,0,v,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,191
+21700347,254,PT05M25.00S,2,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,,,0,v,Faried REBOUND (Off:3 Def:2),Rebound,Unknown,1,192
+21700347,255,PT05M25.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P1.T2) (K.Mauer),Foul,Shooting,1,193
+21700347,257,PT05M25.00S,2,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,,,0,v,MISS Faried Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,194
+21700347,258,PT05M25.00S,2,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,195
+21700347,259,PT05M25.00S,2,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,,,0,h,SUB: Kleber FOR Barea,Substitution,,0,196
+21700347,260,PT05M25.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Matthews FOR Powell,Substitution,,0,197
+21700347,261,PT05M25.00S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,SUB: Beasley FOR Murray,Substitution,,0,198
+21700347,265,PT05M25.00S,2,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,56.0,33.0,89,v,Faried Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,199
+21700347,266,PT05M08.00S,2,1610612742,DAL,1627812,Ferrell,Y. Ferrell,4,28,3,Missed,1,,,0,h,MISS Ferrell 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,200
+21700347,266,PT05M08.00S,2,1610612743,DEN,1627736,Beasley,M. Beasley,0,0,0,,0,,,0,v,Beasley BLOCK (1 BLK),,,1,201
+21700347,268,PT05M07.00S,2,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Rebound,Rebound,Unknown,0,202
+21700347,269,PT05M01.00S,2,1610612742,DAL,203084,Barnes,H. Barnes,31,49,6,Missed,1,,,0,h,MISS Barnes 6' Jump Shot,Missed Shot,Jump Shot,1,203
+21700347,270,PT04M58.00S,2,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,,,0,v,Chandler REBOUND (Off:0 Def:1),Rebound,Unknown,1,204
+21700347,271,PT04M54.00S,2,1610612742,DAL,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. S.FOUL (P2.T3) (G.Petraitis),Foul,Shooting,1,205
+21700347,273,PT04M54.00S,2,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,56.0,34.0,90,v,Barton Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,206
+21700347,274,PT04M54.00S,2,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,,,0,v,MISS Barton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,207
+21700347,275,PT04M51.00S,2,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,Barnes REBOUND (Off:0 Def:6),Rebound,Unknown,1,208
+21700347,276,PT04M37.00S,2,1610612742,DAL,202083,Matthews,W. Matthews,29,67,7,Made,1,58.0,34.0,92,h,Matthews 7' Driving Floating Jump Shot (9 PTS) (Barnes 1 AST),Made Shot,Driving Floating Jump Shot,1,209
+21700347,278,PT04M19.00S,2,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,h,Matthews P.FOUL (P2.T4) (S.Wall),Foul,Personal,1,210
+21700347,280,PT04M13.00S,2,1610612742,DAL,1627812,Ferrell,Y. Ferrell,0,0,0,,0,,,0,h,Ferrell S.FOUL (P1.PN) (K.Mauer),Foul,Shooting,1,211
+21700347,282,PT04M13.00S,2,1610612743,DEN,1627736,Beasley,M. Beasley,0,0,0,,0,58.0,35.0,93,v,Beasley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,212
+21700347,283,PT04M13.00S,2,1610612743,DEN,1627736,Beasley,M. Beasley,0,0,0,,0,58.0,36.0,94,v,Beasley Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,213
+21700347,284,PT03M54.00S,2,1610612742,DAL,203084,Barnes,H. Barnes,-9,54,5,Missed,1,,,0,h,MISS Barnes 5' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,214
+21700347,285,PT03M52.00S,2,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,,,0,v,Faried REBOUND (Off:3 Def:3),Rebound,Unknown,1,215
+21700347,286,PT03M45.00S,2,1610612743,DEN,201163,Chandler,W. Chandler,-173,176,25,Missed,1,,,0,v,MISS Chandler 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,216
+21700347,287,PT03M42.00S,2,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,,,0,v,Faried REBOUND (Off:4 Def:3),Rebound,Unknown,1,217
+21700347,288,PT03M39.00S,2,1610612743,DEN,201163,Chandler,W. Chandler,24,20,3,Missed,1,,,0,v,MISS Chandler 3' Reverse Layup,Missed Shot,Reverse Layup Shot,1,218
+21700347,289,PT03M38.00S,2,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,,,0,v,Chandler REBOUND (Off:1 Def:1),Rebound,Unknown,1,219
+21700347,290,PT03M38.00S,2,1610612743,DEN,201163,Chandler,W. Chandler,9,9,1,Missed,1,,,0,v,MISS Chandler 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,220
+21700347,291,PT03M37.00S,2,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,,,0,v,Chandler REBOUND (Off:2 Def:1),Rebound,Unknown,1,221
+21700347,306,PT03M34.00S,2,1610612743,DEN,203115,Barton,W. Barton,-223,20,0,Missed,1,,,0,v,MISS Barton 3PT Jump Shot,Missed Shot,Jump Shot,1,222
+21700347,307,PT03M33.00S,2,1610612743,DEN,1627736,Beasley,M. Beasley,0,0,0,,0,,,0,v,Beasley REBOUND (Off:1 Def:0),Rebound,Unknown,1,223
+21700347,292,PT03M33.00S,2,1610612743,DEN,1627736,Beasley,M. Beasley,0,0,0,,0,,,0,v,Beasley Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,1,224
+21700347,293,PT03M18.00S,2,1610612742,DAL,1628372,Smith Jr.,D. Smith Jr.,-7,222,22,Missed,1,,,0,h,MISS Smith Jr. 22' Jump Shot,Missed Shot,Jump Shot,1,225
+21700347,294,PT03M15.00S,2,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,,,0,v,Chandler REBOUND (Off:2 Def:2),Rebound,Unknown,1,226
+21700347,295,PT03M09.00S,2,1610612743,DEN,201163,Chandler,W. Chandler,1,38,4,Missed,1,,,0,v,MISS Chandler 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,227
+21700347,296,PT03M09.00S,2,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,,,0,v,Faried REBOUND (Off:5 Def:3),Rebound,Unknown,1,228
+21700347,297,PT03M07.00S,2,1610612743,DEN,202702,Faried,K. Faried,-4,0,0,Made,1,58.0,38.0,96,v,Faried Putback Dunk (5 PTS),Made Shot,Putback Dunk Shot,1,229
+21700347,298,PT03M07.00S,2,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,230
+21700347,299,PT03M07.00S,2,1610612742,DAL,1628467,Kleber,M. Kleber,0,0,0,,0,,,0,h,SUB: Mejri FOR Kleber,Substitution,,0,231
+21700347,301,PT02M48.00S,2,1610612742,DAL,1627812,Ferrell,Y. Ferrell,57,246,25,Missed,1,,,0,h,MISS Ferrell 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,232
+21700347,302,PT02M48.00S,2,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,,,0,v,Chandler REBOUND (Off:2 Def:3),Rebound,Unknown,1,233
+21700347,303,PT02M26.00S,2,1610612743,DEN,202702,Faried,K. Faried,-6,67,7,Made,1,58.0,40.0,98,v,Faried 7' Jump Shot (7 PTS),Made Shot,Jump Shot,1,234
+21700347,304,PT02M10.00S,2,1610612742,DAL,202083,Matthews,W. Matthews,93,231,25,Missed,1,,,0,h,MISS Matthews 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,235
+21700347,305,PT02M10.00S,2,1610612743,DEN,1627736,Beasley,M. Beasley,0,0,0,,0,,,0,v,Beasley REBOUND (Off:1 Def:1),Rebound,Unknown,1,236
+21700347,308,PT01M55.00S,2,1610612743,DEN,203914,Harris,G. Harris,120,257,28,Made,1,58.0,43.0,101,v,Harris 28' 3PT Jump Shot (9 PTS) (Barton 2 AST),Made Shot,Jump Shot,1,237
+21700347,310,PT01M32.00S,2,1610612742,DAL,1628372,Smith Jr.,D. Smith Jr.,6,6,1,Made,1,60.0,43.0,103,h,Smith Jr. 1' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,1,238
+21700347,311,PT01M17.00S,2,1610612743,DEN,203115,Barton,W. Barton,-44,24,5,Missed,1,,,0,v,MISS Barton 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,239
+21700347,312,PT01M15.00S,2,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,,,0,h,Mejri REBOUND (Off:0 Def:3),Rebound,Unknown,1,240
+21700347,313,PT01M11.00S,2,1610612742,DAL,1626257,Mejri,S. Mejri,-5,12,1,Made,1,62.0,43.0,105,h,Mejri 1' Cutting Layup Shot (6 PTS) (Smith Jr. 2 AST),Made Shot,Cutting Layup Shot,1,241
+21700347,315,PT00M54.50S,2,1610612743,DEN,203914,Harris,G. Harris,-2,55,6,Made,1,62.0,45.0,107,v,Harris 6' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,1,242
+21700347,316,PT00M37.00S,2,1610612742,DAL,203084,Barnes,H. Barnes,-32,130,13,Made,1,64.0,45.0,109,h,Barnes 13' Turnaround Fadeaway (14 PTS),Made Shot,Turnaround Fadeaway shot,1,243
+21700347,317,PT00M29.50S,2,1610612743,DEN,203115,Barton,W. Barton,32,38,5,Made,1,64.0,47.0,111,v,Barton 5' Driving Hook Shot (8 PTS),Made Shot,Driving Hook Shot,1,244
+21700347,318,PT00M13.00S,2,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,,,0,v,Faried P.FOUL (P2.T3) (S.Wall),Foul,Personal,1,245
+21700347,320,PT00M00.40S,2,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,Barnes Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,246
+21700347,320,PT00M00.40S,2,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,,,0,v,Harris STEAL (2 STL),,,1,247
+21700347,322,PT00M00.00S,2,0,,0,,,0,0,0,,0,64.0,47.0,111,,End of 2nd Period (9:38 PM EST),period,end,1,248
+21700347,329,PT12M00.00S,3,0,,0,,,0,0,0,,0,64.0,47.0,111,,Start of 3rd Period (9:53 PM EST),period,start,0,249
+21700347,330,PT11M47.00S,3,1610612743,DEN,202702,Faried,K. Faried,0,17,2,Made,1,64.0,49.0,113,v,Faried 2' Driving Reverse Layup (9 PTS) (Barton 3 AST),Made Shot,Driving Reverse Layup Shot,1,250
+21700347,332,PT11M28.00S,3,1610612742,DAL,203084,Barnes,H. Barnes,9,11,1,Made,1,66.0,49.0,115,h,Barnes 1' Layup (16 PTS) (Nowitzki 2 AST),Made Shot,Layup Shot,1,251
+21700347,334,PT11M09.00S,3,1610612743,DEN,202702,Faried,K. Faried,-134,69,15,Made,1,66.0,51.0,117,v,Faried 15' Jump Shot (11 PTS) (Barton 4 AST),Made Shot,Jump Shot,1,252
+21700347,336,PT10M46.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,58,248,25,Made,1,69.0,51.0,120,h,Matthews 25' 3PT Jump Shot (12 PTS) (Smith Jr. 3 AST),Made Shot,Jump Shot,1,253
+21700347,338,PT10M36.00S,3,1610612742,DAL,1628467,Kleber,M. Kleber,0,0,0,,0,,,0,h,Kleber S.FOUL (P2.T1) (S.Wall),Foul,Shooting,1,254
+21700347,340,PT10M36.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,69.0,52.0,121,v,Chandler Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,255
+21700347,341,PT10M36.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,69.0,53.0,122,v,Chandler Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,256
+21700347,342,PT10M20.00S,3,1610612742,DAL,1628372,Smith Jr.,D. Smith Jr.,-9,17,2,Made,1,71.0,53.0,124,h,Smith Jr. 2' Layup (13 PTS),Made Shot,Layup Shot,1,257
+21700347,343,PT10M07.00S,3,1610612743,DEN,203115,Barton,W. Barton,18,96,10,Made,1,71.0,55.0,126,v,Barton 10' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,1,258
+21700347,344,PT09M40.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,-169,178,25,Missed,1,,,0,h,MISS Matthews 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,259
+21700347,345,PT09M36.00S,3,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,,,0,v,Faried REBOUND (Off:5 Def:4),Rebound,Unknown,1,260
+21700347,346,PT09M19.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,h,Matthews S.FOUL (P3.T2) (G.Petraitis),Foul,Shooting,1,261
+21700347,348,PT09M19.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,71.0,56.0,127,v,Murray Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,262
+21700347,349,PT09M19.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,71.0,57.0,128,v,Murray Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,263
+21700347,350,PT09M02.00S,3,1610612742,DAL,1628372,Smith Jr.,D. Smith Jr.,62,27,7,Made,1,73.0,57.0,130,h,Smith Jr. 7' Driving Floating Bank Jump Shot (15 PTS),Made Shot,Driving Floating Bank Jump Shot,1,264
+21700347,351,PT08M48.00S,3,1610612743,DEN,1627750,Murray,J. Murray,-7,202,20,Made,1,73.0,59.0,132,v,Murray 20' Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,1,265
+21700347,352,PT08M24.00S,3,1610612742,DAL,203084,Barnes,H. Barnes,-6,3,1,Made,1,75.0,59.0,134,h,Barnes 1' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,1,266
+21700347,353,PT08M08.00S,3,1610612743,DEN,203914,Harris,G. Harris,2,11,1,Made,1,75.0,61.0,136,v,Harris 1' Cutting Layup Shot (13 PTS) (Chandler 2 AST),Made Shot,Cutting Layup Shot,1,267
+21700347,355,PT07M55.00S,3,1610612742,DAL,1628372,Smith Jr.,D. Smith Jr.,-8,-1,1,Missed,1,,,0,h,MISS Smith Jr. 1' Driving Layup,Missed Shot,Driving Layup Shot,1,268
+21700347,356,PT07M53.00S,3,1610612742,DAL,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:2 Def:1),Rebound,Unknown,1,269
+21700347,357,PT07M51.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,5,253,25,Missed,1,,,0,h,MISS Nowitzki 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,270
+21700347,358,PT07M49.00S,3,1610612742,DAL,1628467,Kleber,M. Kleber,0,0,0,,0,,,0,h,Kleber REBOUND (Off:1 Def:3),Rebound,Unknown,1,271
+21700347,359,PT07M35.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,100,71,12,Missed,1,,,0,h,MISS Nowitzki 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,272
+21700347,360,PT07M33.00S,3,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,,,0,v,Barton REBOUND (Off:1 Def:2),Rebound,Unknown,1,273
+21700347,361,PT07M17.00S,3,1610612743,DEN,203115,Barton,W. Barton,92,237,25,Made,1,75.0,64.0,139,v,Barton 25' 3PT Jump Shot (13 PTS) (Chandler 3 AST),Made Shot,Jump Shot,1,274
+21700347,363,PT07M17.00S,3,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,275
+21700347,364,PT07M17.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,SUB: Harris FOR Nowitzki,Substitution,,0,276
+21700347,366,PT07M00.00S,3,1610612742,DAL,1628467,Kleber,M. Kleber,0,0,0,Made,1,77.0,64.0,141,h,Kleber Cutting Dunk Shot (2 PTS) (Barnes 2 AST),Made Shot,Cutting Dunk Shot,1,277
+21700347,368,PT06M39.00S,3,1610612743,DEN,202702,Faried,K. Faried,3,104,10,Missed,1,,,0,v,MISS Faried 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,278
+21700347,369,PT06M37.00S,3,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,Barnes REBOUND (Off:0 Def:7),Rebound,Unknown,1,279
+21700347,370,PT06M20.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,Murray Shooting Block Foul (P2.T1) (G.Petraitis),Foul,Shooting Block,1,280
+21700347,372,PT06M20.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,78.0,64.0,142,h,Matthews Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,281
+21700347,373,PT06M20.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,h,MISS Matthews Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,282
+21700347,374,PT06M17.00S,3,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,,,0,v,Barton REBOUND (Off:1 Def:3),Rebound,Unknown,1,283
+21700347,375,PT06M11.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,-44,257,26,Missed,1,,,0,v,MISS Chandler 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,284
+21700347,376,PT06M07.00S,3,1610612742,DAL,1628467,Kleber,M. Kleber,0,0,0,,0,,,0,h,Kleber REBOUND (Off:1 Def:4),Rebound,Unknown,1,285
+21700347,377,PT05M55.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,125,214,25,Missed,1,,,0,h,MISS Matthews 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,286
+21700347,378,PT05M52.00S,3,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,,,0,v,Harris REBOUND (Off:0 Def:2),Rebound,Unknown,1,287
+21700347,379,PT05M45.00S,3,1610612743,DEN,1627750,Murray,J. Murray,-132,157,21,Missed,1,,,0,v,MISS Murray 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,288
+21700347,380,PT05M42.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,,,0,v,Chandler REBOUND (Off:3 Def:3),Rebound,Unknown,1,289
+21700347,381,PT05M41.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,16,6,2,Made,1,78.0,66.0,144,v,Chandler 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,290
+21700347,382,PT05M21.00S,3,1610612742,DAL,1628372,Smith Jr.,D. Smith Jr.,16,55,6,Made,1,80.0,66.0,146,h,Smith Jr. 6' Driving Floating Jump Shot (17 PTS),Made Shot,Driving Floating Jump Shot,1,291
+21700347,383,PT05M13.00S,3,1610612743,DEN,203115,Barton,W. Barton,9,36,4,Missed,1,,,0,v,MISS Barton 4' Driving Layup,Missed Shot,Driving Layup Shot,1,292
+21700347,383,PT05M13.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,h,Matthews BLOCK (1 BLK),,,1,293
+21700347,388,PT05M11.00S,3,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Unknown,0,294
+21700347,385,PT05M11.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,h,Jump Ball Matthews vs. Barton: Tip to Faried,Jump Ball,,1,295
+21700347,389,PT05M11.00S,3,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,h,Harris P.FOUL (P2.T3) (G.Petraitis),Foul,Personal,1,296
+21700347,391,PT05M11.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,h,SUB: Ferrell FOR Matthews,Substitution,,0,297
+21700347,393,PT04M56.00S,3,1610612743,DEN,202702,Faried,K. Faried,-110,162,20,Made,1,80.0,68.0,148,v,Faried 20' Jump Shot (13 PTS) (Barton 5 AST),Made Shot,Jump Shot,1,298
+21700347,395,PT04M38.00S,3,1610612742,DAL,1628372,Smith Jr.,D. Smith Jr.,-184,167,25,Made,1,83.0,68.0,151,h,Smith Jr. 25' 3PT Jump Shot (20 PTS) (Kleber 1 AST),Made Shot,Jump Shot,1,299
+21700347,397,PT04M38.00S,3,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,300
+21700347,398,PT04M38.00S,3,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,,,0,v,SUB: Plumlee FOR Faried,Substitution,,0,301
+21700347,400,PT04M25.00S,3,1610612743,DEN,203486,Plumlee,M. Plumlee,-2,6,1,Made,1,83.0,70.0,153,v,Plumlee 1' Cutting Layup Shot (3 PTS) (Barton 6 AST),Made Shot,Cutting Layup Shot,1,302
+21700347,402,PT04M08.00S,3,1610612742,DAL,1627812,Ferrell,Y. Ferrell,-13,4,1,Made,1,85.0,70.0,155,h,Ferrell 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,303
+21700347,403,PT03M45.00S,3,1610612743,DEN,203115,Barton,W. Barton,14,304,30,Made,1,85.0,73.0,158,v,Barton 30' 3PT Jump Shot (16 PTS) (Plumlee 4 AST),Made Shot,Jump Shot,1,304
+21700347,405,PT03M27.00S,3,1610612742,DAL,2734,Harris,D. Harris,-223,-5,0,Made,1,88.0,73.0,161,h,Harris 3PT Jump Shot (8 PTS) (Barnes 3 AST),Made Shot,Jump Shot,1,305
+21700347,407,PT03M11.00S,3,1610612743,DEN,203115,Barton,W. Barton,-9,36,4,Made,1,88.0,75.0,163,v,Barton 4' Driving Floating Jump Shot (18 PTS),Made Shot,Driving Floating Jump Shot,1,306
+21700347,408,PT03M11.00S,3,1610612742,DAL,1628467,Kleber,M. Kleber,0,0,0,,0,,,0,h,Kleber Shooting Block Foul (P3.T4) (S.Wall),Foul,Shooting Block,1,307
+21700347,410,PT03M11.00S,3,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,,,0,v,MISS Barton Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,308
+21700347,411,PT03M09.00S,3,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,Barnes REBOUND (Off:0 Def:8),Rebound,Unknown,1,309
+21700347,412,PT02M53.00S,3,1610612742,DAL,2734,Harris,D. Harris,3,45,5,Missed,1,,,0,h,MISS Harris 5' Driving Layup,Missed Shot,Driving Layup Shot,1,310
+21700347,413,PT02M52.00S,3,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,,,0,v,Barton REBOUND (Off:1 Def:4),Rebound,Unknown,1,311
+21700347,414,PT02M49.00S,3,1610612742,DAL,1628467,Kleber,M. Kleber,0,0,0,,0,,,0,h,Kleber S.FOUL (P4.PN) (G.Petraitis),Foul,Shooting,1,312
+21700347,416,PT02M49.00S,3,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,88.0,76.0,164,v,Harris Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,313
+21700347,417,PT02M49.00S,3,1610612742,DAL,1628467,Kleber,M. Kleber,0,0,0,,0,,,0,h,SUB: Mejri FOR Kleber,Substitution,,0,314
+21700347,418,PT02M49.00S,3,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,,,0,v,SUB: Hernangomez FOR Chandler,Substitution,,0,315
+21700347,421,PT02M49.00S,3,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,88.0,77.0,165,v,Harris Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,316
+21700347,422,PT02M34.00S,3,1610612742,DAL,203084,Barnes,H. Barnes,-151,163,22,Missed,1,,,0,h,MISS Barnes 22' Jump Shot,Missed Shot,Jump Shot,1,317
+21700347,423,PT02M32.00S,3,1610612743,DEN,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,v,Plumlee REBOUND (Off:1 Def:4),Rebound,Unknown,1,318
+21700347,424,PT02M26.00S,3,1610612743,DEN,203914,Harris,G. Harris,6,13,1,Missed,1,,,0,v,MISS Harris 1' Running Layup,Missed Shot,Running Layup Shot,1,319
+21700347,424,PT02M26.00S,3,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,h,Harris BLOCK (2 BLK),,,1,320
+21700347,426,PT02M23.00S,3,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,Barnes REBOUND (Off:0 Def:9),Rebound,Unknown,1,321
+21700347,427,PT02M22.00S,3,1610612742,DAL,1628372,Smith Jr.,D. Smith Jr.,-141,11,14,Missed,1,,,0,h,MISS Smith Jr. 14' Jump Shot,Missed Shot,Jump Shot,1,322
+21700347,428,PT02M22.00S,3,1610612743,DEN,1627823,Hernangomez,J. Hernangomez,0,0,0,,0,,,0,v,Hernangomez REBOUND (Off:0 Def:2),Rebound,Unknown,1,323
+21700347,429,PT02M13.00S,3,1610612743,DEN,203115,Barton,W. Barton,-40,277,28,Made,1,88.0,80.0,168,v,Barton 28' 3PT Running Pull-Up Jump Shot (21 PTS),Made Shot,Running Pull-Up Jump Shot,1,324
+21700347,430,PT01M53.00S,3,1610612742,DAL,203084,Barnes,H. Barnes,45,117,13,Missed,1,,,0,h,MISS Barnes 13' Jump Shot,Missed Shot,Jump Shot,1,325
+21700347,431,PT01M53.00S,3,1610612743,DEN,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,v,Plumlee REBOUND (Off:1 Def:5),Rebound,Unknown,1,326
+21700347,432,PT01M42.00S,3,1610612743,DEN,203115,Barton,W. Barton,-33,70,8,Missed,1,,,0,v,MISS Barton 8' Jump Shot,Missed Shot,Jump Shot,1,327
+21700347,433,PT01M42.00S,3,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,,,0,v,Barton REBOUND (Off:2 Def:4),Rebound,Unknown,1,328
+21700347,434,PT01M36.00S,3,1610612743,DEN,1627750,Murray,J. Murray,-155,206,26,Missed,1,,,0,v,MISS Murray 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,329
+21700347,435,PT01M36.00S,3,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Rebound,Rebound,Unknown,0,330
+21700347,436,PT01M34.00S,3,1610612742,DAL,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,h,SUB: Barea FOR Smith Jr.,Substitution,,0,331
+21700347,437,PT01M34.00S,3,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,,,0,h,SUB: Powell FOR Mejri,Substitution,,0,332
+21700347,440,PT01M13.00S,3,1610612742,DAL,1627812,Ferrell,Y. Ferrell,28,168,17,Made,1,90.0,80.0,170,h,Ferrell 17' Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,1,333
+21700347,441,PT00M57.60S,3,1610612743,DEN,1627750,Murray,J. Murray,5,116,12,Made,1,90.0,82.0,172,v,Murray 12' Driving Floating Jump Shot (17 PTS) (Hernangomez 1 AST),Made Shot,Driving Floating Jump Shot,1,334
+21700347,443,PT00M35.90S,3,1610612742,DAL,203084,Barnes,H. Barnes,-44,190,20,Made,1,92.0,82.0,174,h,Barnes 20' Jump Shot (20 PTS) (Barea 5 AST),Made Shot,Jump Shot,1,335
+21700347,446,PT00M15.40S,3,1610612743,DEN,203486,Plumlee,M. Plumlee,0,52,5,Missed,1,,,0,v,MISS Plumlee 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,336
+21700347,447,PT00M14.30S,3,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,h,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,1,337
+21700347,449,PT00M06.40S,3,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,,,0,v,Barton Personal Take Foul (P3.T2) (S.Wall),Foul,Personal Take,1,338
+21700347,451,PT00M06.40S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,SUB: Beasley FOR Murray,Substitution,,0,339
+21700347,453,PT00M01.90S,3,1610612743,DEN,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,v,Plumlee S.FOUL (P1.PN) (K.Mauer),Foul,Shooting,1,340
+21700347,455,PT00M01.90S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,93.0,82.0,175,h,Powell Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,341
+21700347,456,PT00M01.90S,3,1610612743,DEN,1627823,Hernangomez,J. Hernangomez,0,0,0,,0,,,0,v,SUB: Faried FOR Hernangomez,Substitution,,0,342
+21700347,458,PT00M01.90S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,MISS Powell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,343
+21700347,460,PT00M00.30S,3,1610612743,DEN,202702,Faried,K. Faried,13,822,82,Missed,1,,,0,v,MISS Faried 82' 3PT Jump Shot,Missed Shot,Jump Shot,1,344
+21700347,461,PT00M00.30S,3,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Unknown,0,345
+21700347,459,PT00M00.00S,3,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,,,0,v,Faried REBOUND (Off:5 Def:5),Rebound,Unknown,1,346
+21700347,462,PT00M00.00S,3,0,,0,,,0,0,0,,0,93.0,82.0,175,,End of 3rd Period (10:19 PM EST),period,end,1,347
+21700347,471,PT12M00.00S,4,0,,0,,,0,0,0,,0,93.0,82.0,175,,Start of 4th Period (10:21 PM EST),period,start,0,348
+21700347,472,PT11M51.00S,4,1610612743,DEN,1627823,Hernangomez,J. Hernangomez,0,0,0,,0,,,0,v,Hernangomez P.FOUL (P3.T1) (S.Wall),Foul,Personal,1,349
+21700347,474,PT11M37.00S,4,1610612742,DAL,203939,Powell,D. Powell,18,9,2,Made,1,95.0,82.0,177,h,Powell 2' Driving Bank Hook Shot (9 PTS) (Harris 2 AST),Made Shot,Driving Bank Hook Shot,1,350
+21700347,476,PT11M37.00S,4,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,,,0,v,Barton S.FOUL (P4.T2) (K.Mauer),Foul,Shooting,1,351
+21700347,478,PT11M37.00S,4,1610612742,DAL,1627812,Ferrell,Y. Ferrell,0,0,0,,0,,,0,h,SUB: Matthews FOR Ferrell,Substitution,,0,352
+21700347,480,PT11M37.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,MISS Powell Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,353
+21700347,481,PT11M35.00S,4,1610612743,DEN,1626168,Lyles,T. Lyles,0,0,0,,0,,,0,v,Lyles REBOUND (Off:0 Def:3),Rebound,Unknown,1,354
+21700347,482,PT11M21.00S,4,1610612743,DEN,1626144,Mudiay,E. Mudiay,-90,248,26,Missed,1,,,0,v,MISS Mudiay 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,355
+21700347,483,PT11M19.00S,4,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Rebound,Rebound,Unknown,0,356
+21700347,484,PT11M11.00S,4,1610612742,DAL,2734,Harris,D. Harris,2,3,0,Made,1,97.0,82.0,179,h,Harris Cutting Layup Shot (10 PTS) (Barea 6 AST),Made Shot,Cutting Layup Shot,1,357
+21700347,486,PT10M59.00S,4,1610612743,DEN,203115,Barton,W. Barton,-45,112,12,Made,1,97.0,84.0,181,v,Barton 12' Driving Floating Jump Shot (23 PTS),Made Shot,Driving Floating Jump Shot,1,358
+21700347,487,PT10M47.00S,4,1610612742,DAL,200826,Barea,J. Barea,-86,57,10,Made,1,99.0,84.0,183,h,Barea 10' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,1,359
+21700347,488,PT10M47.00S,4,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,360
+21700347,489,PT10M47.00S,4,1610612743,DEN,1627823,Hernangomez,J. Hernangomez,0,0,0,,0,,,0,v,SUB: Harris FOR Hernangomez,Substitution,,0,361
+21700347,491,PT10M34.00S,4,1610612743,DEN,203115,Barton,W. Barton,-54,127,14,Missed,1,,,0,v,MISS Barton 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,362
+21700347,492,PT10M31.00S,4,1610612743,DEN,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,v,Plumlee REBOUND (Off:2 Def:5),Rebound,Unknown,1,363
+21700347,493,PT10M29.00S,4,1610612743,DEN,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,v,Plumlee Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,364
+21700347,493,PT10M29.00S,4,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,,,0,h,Barea STEAL (2 STL),,,1,365
+21700347,495,PT10M13.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-67,42,8,Made,1,101.0,84.0,185,h,Nowitzki 8' Turnaround Fadeaway Bank Jump Shot (9 PTS) (Barea 7 AST),Made Shot,Turnaround Fadeaway Bank Jump Shot,1,366
+21700347,497,PT09M55.00S,4,1610612743,DEN,1626168,Lyles,T. Lyles,-41,26,5,Missed,1,,,0,v,MISS Lyles 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,367
+21700347,497,PT09M55.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell BLOCK (1 BLK),,,1,368
+21700347,499,PT09M52.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:0 Def:6),Rebound,Unknown,1,369
+21700347,500,PT09M47.00S,4,1610612742,DAL,2734,Harris,D. Harris,-222,1,0,Missed,1,,,0,h,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,1,370
+21700347,501,PT09M45.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:3),Rebound,Unknown,1,371
+21700347,502,PT09M23.00S,4,1610612742,DAL,200826,Barea,J. Barea,9,5,1,Missed,1,,,0,h,MISS Barea 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,372
+21700347,503,PT09M21.00S,4,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,,,0,v,Barton REBOUND (Off:2 Def:5),Rebound,Unknown,1,373
+21700347,504,PT09M16.00S,4,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,,,0,v,Harris Offensive Charge Foul (P2.T3) (K.Mauer),Foul,Offensive Charge,1,374
+21700347,506,PT09M16.00S,4,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,,,0,v,Harris Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,375
+21700347,507,PT08M58.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-123,27,13,Missed,1,,,0,h,MISS Nowitzki 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,376
+21700347,508,PT08M56.00S,4,1610612743,DEN,1626168,Lyles,T. Lyles,0,0,0,,0,,,0,v,Lyles REBOUND (Off:0 Def:4),Rebound,Unknown,1,377
+21700347,509,PT08M46.00S,4,1610612743,DEN,1626168,Lyles,T. Lyles,-142,225,27,Made,1,101.0,87.0,188,v,Lyles 27' 3PT Jump Shot (5 PTS) (Mudiay 2 AST),Made Shot,Jump Shot,1,378
+21700347,511,PT08M22.00S,4,1610612742,DAL,200826,Barea,J. Barea,52,116,13,Missed,1,,,0,h,MISS Barea 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,379
+21700347,512,PT08M22.00S,4,1610612743,DEN,1626168,Lyles,T. Lyles,0,0,0,,0,,,0,v,Lyles REBOUND (Off:0 Def:5),Rebound,Unknown,1,380
+21700347,513,PT08M13.00S,4,1610612743,DEN,203914,Harris,G. Harris,220,109,25,Made,1,101.0,90.0,191,v,Harris 25' 3PT Jump Shot (18 PTS) (Mudiay 3 AST),Made Shot,Jump Shot,1,381
+21700347,515,PT08M12.00S,4,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,382
+21700347,516,PT08M01.00S,4,1610612742,DAL,203939,Powell,D. Powell,8,10,1,Made,1,103.0,90.0,193,h,Powell 1' Alley Oop Layup (11 PTS) (Barea 8 AST),Made Shot,Alley Oop Layup shot,1,383
+21700347,518,PT07M51.00S,4,1610612743,DEN,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,v,Plumlee Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,384
+21700347,518,PT07M51.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,h,Harris STEAL (1 STL),,,1,385
+21700347,520,PT07M46.00S,4,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,,,0,h,Barea Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,386
+21700347,520,PT07M46.00S,4,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,,,0,v,Harris STEAL (3 STL),,,1,387
+21700347,522,PT07M42.00S,4,1610612743,DEN,203914,Harris,G. Harris,179,173,25,Missed,1,,,0,v,MISS Harris 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,388
+21700347,523,PT07M37.00S,4,1610612743,DEN,1626168,Lyles,T. Lyles,0,0,0,,0,,,0,v,Lyles REBOUND (Off:1 Def:5),Rebound,Unknown,1,389
+21700347,524,PT07M35.00S,4,1610612743,DEN,203914,Harris,G. Harris,196,163,25,Made,1,103.0,93.0,196,v,Harris 25' 3PT Jump Shot (21 PTS) (Lyles 1 AST),Made Shot,Jump Shot,1,390
+21700347,526,PT07M13.00S,4,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,,,0,v,Harris S.FOUL (P3.T4) (K.Mauer),Foul,Shooting,1,391
+21700347,528,PT07M13.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,h,MISS Harris Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,392
+21700347,529,PT07M13.00S,4,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Rebound,Rebound,Normal Rebound,0,393
+21700347,530,PT07M13.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,SUB: Barnes FOR Nowitzki,Substitution,,0,394
+21700347,532,PT07M13.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,104.0,93.0,197,h,Harris Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,395
+21700347,533,PT06M58.00S,4,1610612743,DEN,203115,Barton,W. Barton,-62,22,7,Missed,1,,,0,v,MISS Barton 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,396
+21700347,534,PT06M56.00S,4,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,Barnes REBOUND (Off:0 Def:10),Rebound,Unknown,1,397
+21700347,535,PT06M46.00S,4,1610612742,DAL,2734,Harris,D. Harris,-176,173,25,Made,1,107.0,93.0,200,h,Harris 25' 3PT Jump Shot (14 PTS) (Barea 9 AST),Made Shot,Jump Shot,1,398
+21700347,537,PT06M31.00S,4,1610612743,DEN,1626168,Lyles,T. Lyles,-8,4,1,Made,1,107.0,95.0,202,v,Lyles 1' Driving Dunk (7 PTS) (Harris 3 AST),Made Shot,Driving Dunk Shot,1,399
+21700347,539,PT06M11.00S,4,1610612742,DAL,200826,Barea,J. Barea,-177,178,25,Made,1,110.0,95.0,205,h,Barea 25' 3PT Jump Shot (7 PTS),Made Shot,Jump Shot,1,400
+21700347,540,PT05M54.00S,4,1610612743,DEN,1626144,Mudiay,E. Mudiay,171,186,25,Made,1,110.0,98.0,208,v,Mudiay 25' 3PT Jump Shot (3 PTS) (Lyles 2 AST),Made Shot,Jump Shot,1,401
+21700347,542,PT05M25.00S,4,1610612742,DAL,200826,Barea,J. Barea,-81,25,8,Missed,1,,,0,h,MISS Barea 8' Driving Layup,Missed Shot,Driving Layup Shot,1,402
+21700347,542,PT05M25.00S,4,1610612743,DEN,1626168,Lyles,T. Lyles,0,0,0,,0,,,0,v,Lyles BLOCK (2 BLK),,,1,403
+21700347,544,PT05M22.00S,4,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,,,0,v,Harris REBOUND (Off:0 Def:3),Rebound,Unknown,1,404
+21700347,545,PT05M20.00S,4,1610612743,DEN,1626144,Mudiay,E. Mudiay,0,8,1,Made,1,110.0,100.0,210,v,Mudiay 1' Driving Layup (5 PTS) (Harris 4 AST),Made Shot,Driving Layup Shot,1,405
+21700347,547,PT05M20.00S,4,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,406
+21700347,548,PT05M20.00S,4,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,,,0,h,SUB: Ferrell FOR Barea,Substitution,,0,407
+21700347,549,PT05M20.00S,4,1610612742,DAL,2734,Harris,D. Harris,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR Harris,Substitution,,0,408
+21700347,550,PT05M20.00S,4,1610612743,DEN,1626144,Mudiay,E. Mudiay,0,0,0,,0,,,0,v,SUB: Murray FOR Mudiay,Substitution,,0,409
+21700347,551,PT05M20.00S,4,1610612743,DEN,1626168,Lyles,T. Lyles,0,0,0,,0,,,0,v,SUB: Chandler FOR Lyles,Substitution,,0,410
+21700347,552,PT05M20.00S,4,1610612743,DEN,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,v,SUB: Faried FOR Plumlee,Substitution,,0,411
+21700347,558,PT05M06.00S,4,1610612742,DAL,202083,Matthews,W. Matthews,7,248,25,Missed,1,,,0,h,MISS Matthews 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,412
+21700347,559,PT05M02.00S,4,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,,,0,v,Chandler REBOUND (Off:3 Def:4),Rebound,Unknown,1,413
+21700347,560,PT04M44.00S,4,1610612743,DEN,203914,Harris,G. Harris,-79,257,27,Missed,1,,,0,v,MISS Harris 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,414
+21700347,561,PT04M41.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:4),Rebound,Unknown,1,415
+21700347,562,PT04M27.00S,4,1610612742,DAL,202083,Matthews,W. Matthews,-3,3,0,Made,1,112.0,100.0,212,h,Matthews Driving Layup (15 PTS) (Powell 2 AST),Made Shot,Driving Layup Shot,1,416
+21700347,564,PT04M13.00S,4,1610612743,DEN,203115,Barton,W. Barton,4,268,27,Missed,1,,,0,v,MISS Barton 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,417
+21700347,565,PT04M09.00S,4,1610612742,DAL,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,1,418
+21700347,566,PT04M08.00S,4,1610612742,DAL,1627812,Ferrell,Y. Ferrell,7,6,1,Made,1,114.0,100.0,214,h,Ferrell 1' Running Layup (10 PTS) (Matthews 2 AST),Made Shot,Running Layup Shot,1,419
+21700347,568,PT04M08.00S,4,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,,,0,v,Barton S.FOUL (P5.PN) (S.Wall),Foul,Shooting,1,420
+21700347,570,PT04M08.00S,4,1610612742,DAL,1627812,Ferrell,Y. Ferrell,0,0,0,,0,115.0,100.0,215,h,Ferrell Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,421
+21700347,571,PT03M50.00S,4,1610612743,DEN,1627750,Murray,J. Murray,-7,258,26,Made,1,115.0,103.0,218,v,Murray 26' 3PT Jump Shot (20 PTS) (Faried 2 AST),Made Shot,Jump Shot,1,422
+21700347,573,PT03M27.00S,4,1610612742,DAL,1628372,Smith Jr.,D. Smith Jr.,-157,187,24,Missed,1,,,0,h,MISS Smith Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,423
+21700347,574,PT03M24.00S,4,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,,,0,v,Barton REBOUND (Off:2 Def:6),Rebound,Unknown,1,424
+21700347,575,PT03M06.00S,4,1610612743,DEN,201163,Chandler,W. Chandler,73,256,27,Missed,1,,,0,v,MISS Chandler 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,425
+21700347,576,PT03M06.00S,4,1610612743,DEN,202702,Faried,K. Faried,0,0,0,,0,,,0,v,Faried REBOUND (Off:6 Def:5),Rebound,Unknown,1,426
+21700347,577,PT03M06.00S,4,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,Barnes L.B.FOUL (P1.T1) (S.Wall),Foul,Loose Ball,1,427
+21700347,579,PT03M00.00S,4,1610612743,DEN,1627750,Murray,J. Murray,-122,251,28,Missed,1,,,0,v,MISS Murray 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,428
+21700347,580,PT02M59.00S,4,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Rebound,Rebound,Unknown,0,429
+21700347,581,PT02M37.00S,4,1610612742,DAL,203084,Barnes,H. Barnes,-52,129,14,Made,1,117.0,103.0,220,h,Barnes 14' Turnaround Fadeaway (22 PTS),Made Shot,Turnaround Fadeaway shot,1,430
+21700347,582,PT02M20.00S,4,1610612743,DEN,203115,Barton,W. Barton,-90,34,10,Missed,1,,,0,v,MISS Barton 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,431
+21700347,583,PT02M19.00S,4,1610612742,DAL,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,1,432
+21700347,584,PT02M05.00S,4,1610612742,DAL,1628372,Smith Jr.,D. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Traveling Turnover (P3.T7),Turnover,Traveling,1,433
+21700347,585,PT02M05.00S,4,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,,,0,v,SUB: Beasley FOR Barton,Substitution,,0,434
+21700347,587,PT01M52.00S,4,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,,,0,v,Chandler Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,435
+21700347,587,PT01M52.00S,4,1610612742,DAL,1627812,Ferrell,Y. Ferrell,0,0,0,,0,,,0,h,Ferrell STEAL (1 STL),,,1,436
+21700347,588,PT01M33.00S,4,1610612742,DAL,203084,Barnes,H. Barnes,17,50,5,Missed,1,,,0,h,MISS Barnes 5' Jump Shot,Missed Shot,Jump Shot,1,437
+21700347,588,PT01M33.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,,,0,v,Murray BLOCK (1 BLK),,,1,438
+21700347,590,PT01M31.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:2 Def:4),Rebound,Unknown,1,439
+21700347,591,PT01M31.00S,4,1610612742,DAL,1627812,Ferrell,Y. Ferrell,-231,-23,0,Made,1,120.0,103.0,223,h,Ferrell 3PT Jump Shot (14 PTS) (Powell 3 AST),Made Shot,Jump Shot,1,440
+21700347,593,PT01M23.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P2.T2) (G.Petraitis),Foul,Shooting,1,441
+21700347,595,PT01M23.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,120.0,104.0,224,v,Murray Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,442
+21700347,596,PT01M23.00S,4,1610612743,DEN,203914,Harris,G. Harris,0,0,0,,0,,,0,v,SUB: Mudiay FOR Harris,Substitution,,0,443
+21700347,597,PT01M23.00S,4,1610612743,DEN,201163,Chandler,W. Chandler,0,0,0,,0,,,0,v,SUB: Hernangomez FOR Chandler,Substitution,,0,444
+21700347,600,PT01M23.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,120.0,105.0,225,v,Murray Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,445
+21700347,601,PT01M08.00S,4,1610612742,DAL,203084,Barnes,H. Barnes,-33,131,14,Missed,1,,,0,h,MISS Barnes 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,446
+21700347,602,PT01M05.00S,4,1610612743,DEN,1627736,Beasley,M. Beasley,0,0,0,,0,,,0,v,Beasley REBOUND (Off:1 Def:2),Rebound,Unknown,1,447
+21700347,603,PT00M58.90S,4,1610612743,DEN,1627823,Hernangomez,J. Hernangomez,139,210,25,Missed,1,,,0,v,MISS Hernangomez 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,448
+21700347,604,PT00M56.80S,4,1610612742,DAL,1627812,Ferrell,Y. Ferrell,0,0,0,,0,,,0,h,Ferrell REBOUND (Off:0 Def:2),Rebound,Unknown,1,449
+21700347,605,PT00M38.50S,4,1610612742,DAL,1627812,Ferrell,Y. Ferrell,-78,155,17,Made,1,122.0,105.0,227,h,Ferrell 17' Driving Floating Jump Shot (16 PTS),Made Shot,Driving Floating Jump Shot,1,450
+21700347,606,PT00M20.20S,4,1610612743,DEN,202702,Faried,K. Faried,-34,101,11,Missed,1,,,0,v,MISS Faried 11' Jump Shot,Missed Shot,Jump Shot,1,451
+21700347,607,PT00M17.40S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:2 Def:5),Rebound,Unknown,1,452
+21700347,609,PT00M00.00S,4,0,,0,,,0,0,0,,0,122.0,105.0,227,,End of 4th Period (10:46 PM EST),period,end,1,453

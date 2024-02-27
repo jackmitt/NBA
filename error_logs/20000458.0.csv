@@ -1,0 +1,43 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId,clock_sec
+20000458,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (2:10 PM EST),period,start,0,1,0.0
+20000458,1,PT12M00.00S,1,1610612757,POR,717,Sabonis,A. Sabonis,0,0,0,,0,0.0,0.0,0,h,Jump Ball Sabonis vs. O'Neal: Tip to Wallace,Jump Ball,,0,2,0.0
+20000458,2,PT11M36.00S,1,1610612757,POR,739,Wallace,R. Wallace,1,68,7,Missed,1,0.0,0.0,0,h,MISS Wallace 7' Jump Shot,Missed Shot,Jump Shot,0,3,24.0
+20000458,3,PT11M34.00S,1,1610612754,IND,64,Perkins,S. Perkins,0,0,0,,0,0.0,0.0,0,v,Perkins REBOUND (Off:0 Def:1),Rebound,Unknown,0,4,26.0
+20000458,4,PT11M22.00S,1,1610612754,IND,147,Rose,J. Rose,0,0,0,,0,0.0,0.0,0,v,Rose Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,5,38.0
+20000458,4,PT11M22.00S,1,1610612757,POR,717,Sabonis,A. Sabonis,0,0,0,,0,0.0,0.0,0,h,Sabonis STEAL (1 STL),,,0,6,38.0
+20000458,5,PT11M18.00S,1,1610612757,POR,937,Pippen,S. Pippen,0,0,0,Made,1,2.0,0.0,2,h,Pippen  Driving Layup (2 PTS) (Wells 1 AST),Made Shot,Driving Layup Shot,0,7,42.0
+20000458,6,PT10M50.00S,1,1610612754,IND,64,Perkins,S. Perkins,-86,249,26,Missed,1,0.0,0.0,0,v,MISS Perkins 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,8,70.0
+20000458,7,PT10M48.00S,1,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal REBOUND (Off:1 Def:0),Rebound,Unknown,0,9,72.0
+20000458,8,PT10M38.00S,1,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,0.0,0.0,0,h,Wallace S.FOUL (P1.T1),Foul,Shooting,0,10,82.0
+20000458,9,PT10M38.00S,1,1610612754,IND,64,Perkins,S. Perkins,0,0,0,,0,2.0,1.0,3,v,Perkins Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,11,82.0
+20000458,10,PT10M38.00S,1,1610612754,IND,64,Perkins,S. Perkins,0,0,0,,0,2.0,2.0,4,v,Perkins Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,12,82.0
+20000458,11,PT10M21.00S,1,1610612757,POR,937,Pippen,S. Pippen,-166,112,20,Made,1,4.0,2.0,6,h,Pippen 20' Jump Shot (4 PTS) (Stoudamire 1 AST),Made Shot,Jump Shot,0,13,99.0
+20000458,12,PT10M07.00S,1,1610612754,IND,397,Miller,R. Miller,-181,57,19,Made,1,4.0,4.0,8,v,Miller 19' Jump Shot (2 PTS) (Rose 1 AST),Made Shot,Jump Shot,0,14,113.0
+20000458,13,PT09M52.00S,1,1610612757,POR,757,Stoudamire,D. Stoudamire,0,0,0,Missed,1,0.0,0.0,0,h,MISS Stoudamire  Driving Layup,Missed Shot,Driving Layup Shot,0,15,128.0
+20000458,14,PT09M50.00S,1,1610612754,IND,64,Perkins,S. Perkins,0,0,0,,0,0.0,0.0,0,v,Perkins REBOUND (Off:0 Def:2),Rebound,Unknown,0,16,130.0
+20000458,15,PT09M47.00S,1,1610612754,IND,397,Miller,R. Miller,-181,72,19,Made,1,4.0,6.0,10,v,Miller 19' Jump Shot (4 PTS) (Rose 2 AST),Made Shot,Jump Shot,0,17,133.0
+20000458,16,PT09M28.00S,1,1610612757,POR,717,Sabonis,A. Sabonis,0,0,0,Made,1,6.0,6.0,12,h,Sabonis  Driving Dunk (2 PTS) (Wallace 1 AST),Made Shot,Driving Dunk Shot,0,18,152.0
+20000458,17,PT09M06.00S,1,1610612754,IND,979,O'Neal,J. O'Neal,108,-4,11,Missed,1,0.0,0.0,0,v,MISS O'Neal 11' Jump Shot,Missed Shot,Jump Shot,0,19,174.0
+20000458,18,PT09M04.00S,1,1610612757,POR,937,Pippen,S. Pippen,0,0,0,,0,0.0,0.0,0,h,Pippen REBOUND (Off:0 Def:1),Rebound,Unknown,0,20,176.0
+20000458,19,PT08M46.00S,1,1610612757,POR,757,Stoudamire,D. Stoudamire,-166,7,17,Made,1,8.0,6.0,14,h,Stoudamire 17' Jump Shot (2 PTS) (Sabonis 1 AST),Made Shot,Jump Shot,0,21,194.0
+20000458,20,PT08M30.00S,1,1610612754,IND,979,O'Neal,J. O'Neal,-42,28,5,Made,1,8.0,8.0,16,v,O'Neal 5' Hook Shot (2 PTS),Made Shot,Hook Shot,0,22,210.0
+20000458,21,PT08M09.00S,1,1610612757,POR,1719,Wells,B. Wells,102,175,20,Made,1,10.0,8.0,18,h,Wells 20' Jump Shot (2 PTS) (Stoudamire 2 AST),Made Shot,Jump Shot,0,23,231.0
+20000458,22,PT07M54.00S,1,1610612754,IND,365,McKey,D. McKey,-151,-15,15,Missed,1,0.0,0.0,0,v,MISS McKey 15' Jump Shot,Missed Shot,Jump Shot,0,24,246.0
+20000458,23,PT07M52.00S,1,1610612757,POR,717,Sabonis,A. Sabonis,0,0,0,,0,0.0,0.0,0,h,Sabonis REBOUND (Off:0 Def:1),Rebound,Unknown,0,25,248.0
+20000458,24,PT07M47.00S,1,1610612757,POR,937,Pippen,S. Pippen,0,0,0,Missed,1,0.0,0.0,0,h,MISS Pippen  Layup,Missed Shot,Layup Shot,0,26,253.0
+20000458,25,PT07M45.00S,1,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,,0,0.0,0.0,0,v,O'Neal REBOUND (Off:1 Def:1),Rebound,Unknown,0,27,255.0
+20000458,26,PT07M40.00S,1,1610612754,IND,147,Rose,J. Rose,161,125,20,Missed,1,0.0,0.0,0,v,MISS Rose 20' Jump Shot,Missed Shot,Jump Shot,0,28,260.0
+20000458,27,PT07M38.00S,1,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,0.0,0.0,0,h,Wallace REBOUND (Off:0 Def:1),Rebound,Unknown,0,29,262.0
+20000458,28,PT07M31.00S,1,1610612757,POR,937,Pippen,S. Pippen,-187,40,19,Made,1,12.0,8.0,20,h,Pippen 19' Jump Shot (6 PTS),Made Shot,Jump Shot,0,30,269.0
+20000458,29,PT07M07.00S,1,1610612754,IND,979,O'Neal,J. O'Neal,0,0,0,Missed,1,0.0,0.0,0,v,MISS O'Neal  Layup,Missed Shot,Layup Shot,0,31,293.0
+20000458,30,PT07M05.00S,1,1610612754,IND,365,McKey,D. McKey,0,0,0,,0,0.0,0.0,0,v,McKey REBOUND (Off:1 Def:0),Rebound,Unknown,0,32,295.0
+20000458,31,PT07M04.00S,1,1610612754,IND,365,McKey,D. McKey,0,0,0,,0,0.0,0.0,0,v,McKey Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,33,296.0
+20000458,31,PT07M04.00S,1,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,0.0,0.0,0,h,Wallace STEAL (1 STL),,,0,34,296.0
+20000458,33,PT06M53.00S,1,1610612757,POR,1719,Wells,B. Wells,0,0,0,,0,0.0,0.0,0,h,Wells Out Of Bounds Turnover (P1.T1),Turnover,Out Of Bounds,0,35,307.0
+20000458,34,PT06M37.00S,1,1610612757,POR,937,Pippen,S. Pippen,0,0,0,,0,0.0,0.0,0,h,Pippen Violation:Defensive Goaltending,Violation,Defensive Goaltending,0,36,323.0
+20000458,35,PT06M34.00S,1,1610612757,POR,757,Stoudamire,D. Stoudamire,0,0,0,,0,0.0,0.0,0,h,Stoudamire P.FOUL (P1.T2),Foul,Personal,0,37,326.0
+20000458,36,PT06M21.00S,1,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,0.0,0.0,0,h,Wallace S.FOUL (P2.T3),Foul,Shooting,0,38,339.0
+20000458,37,PT06M21.00S,1,1610612754,IND,64,Perkins,S. Perkins,0,0,0,,0,12.0,9.0,21,v,Perkins Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,39,339.0
+20000458,38,PT06M21.00S,1,1610612757,POR,739,Wallace,R. Wallace,0,0,0,,0,0.0,0.0,0,h,SUB: Davis FOR Wallace,Substitution,,0,40,339.0
+20000458,39,PT06M21.00S,1,1610612754,IND,64,Perkins,S. Perkins,0,0,0,,0,0.0,0.0,0,v,MISS Perkins Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,41,339.0
+20000458,40,PT06M21.00S,1,1610612757,POR,905,Davis,D. Davis,0,0,0,,0,0.0,0.0,0,h,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,42,339.0

@@ -1,0 +1,458 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+49900026,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (11:13 AM EST),period,start,0,1
+49900026,1,PT11M57.00S,1,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,Jump Ball Ratliff vs. Campbell: Tip to Jones,Jump Ball,,0,2
+49900026,2,PT11M35.00S,1,1610612766,CHH,922,Campbell,E. Campbell,-35,4,4,Missed,1,,,0,v,MISS Campbell 4' Jump Shot,Missed Shot,Jump Shot,0,3
+49900026,4,PT11M34.00S,1,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,v,Mason REBOUND (Off:1 Def:0),Rebound,Unknown,0,4
+49900026,6,PT11M33.00S,1,1610612766,CHH,193,Mason,A. Mason,-5,32,3,Made,1,0.0,2.0,2,v,Mason 3' Jump Shot (2 PTS),Made Shot,Jump Shot,0,5
+49900026,3,PT11M17.00S,1,1610612755,PHI,243,McKie,A. McKie,138,48,15,Made,1,2.0,2.0,4,h,McKie 15' Jump Shot (2 PTS),Made Shot,Jump Shot,0,6
+49900026,5,PT11M01.00S,1,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,Ratliff S.FOUL (P1.T1),Foul,Shooting,0,7
+49900026,7,PT11M01.00S,1,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,v,MISS Mason Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,8
+49900026,8,PT11M01.00S,1,0,,1610612740,,,0,0,0,,0,,,0,v,Hornets Rebound,Rebound,Normal Rebound,0,9
+49900026,9,PT11M01.00S,1,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,2.0,3.0,5,v,Mason Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,10
+49900026,10,PT10M48.00S,1,1610612755,PHI,243,McKie,A. McKie,-147,128,19,Made,1,4.0,3.0,7,h,McKie 19' Jump Shot (4 PTS) (Iverson 1 AST),Made Shot,Jump Shot,0,11
+49900026,11,PT10M30.00S,1,1610612766,CHH,193,Mason,A. Mason,-46,5,5,Missed,1,,,0,v,MISS Mason 5' Jump Shot,Missed Shot,Jump Shot,0,12
+49900026,11,PT10M30.00S,1,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,Hill BLOCK (1 BLK),,,0,13
+49900026,12,PT10M29.00S,1,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,v,Mason REBOUND (Off:2 Def:0),Rebound,Unknown,0,14
+49900026,13,PT10M29.00S,1,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,v,Mason Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,15
+49900026,14,PT10M17.00S,1,1610612755,PHI,248,Lynch,G. Lynch,1,48,5,Made,1,6.0,3.0,9,h,Lynch 5' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,0,16
+49900026,15,PT10M04.00S,1,1610612766,CHH,922,Campbell,E. Campbell,-25,55,6,Made,1,6.0,5.0,11,v,Campbell 6' Hook Shot (2 PTS) (Jones 1 AST),Made Shot,Hook Shot,0,17
+49900026,16,PT09M47.00S,1,1610612755,PHI,248,Lynch,G. Lynch,-141,111,18,Made,1,8.0,5.0,13,h,Lynch 18' Jump Shot (4 PTS) (McKie 1 AST),Made Shot,Jump Shot,0,18
+49900026,17,PT09M29.00S,1,1610612766,CHH,133,Wesley,D. Wesley,218,-10,22,Missed,1,,,0,v,MISS Wesley 22' Jump Shot,Missed Shot,Jump Shot,0,19
+49900026,18,PT09M27.00S,1,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,,,0,h,McKie REBOUND (Off:0 Def:1),Rebound,Unknown,0,20
+49900026,19,PT09M22.00S,1,1610612755,PHI,947,Iverson,A. Iverson,-134,111,17,Made,1,10.0,5.0,15,h,Iverson 17' Jump Shot (2 PTS) (McKie 2 AST),Made Shot,Jump Shot,0,21
+49900026,20,PT09M02.00S,1,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,v,Mason OFF.Foul (P1),Foul,Offensive,0,22
+49900026,21,PT09M02.00S,1,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,v,Mason Foul Turnover (P2.T2),Turnover,Foul,0,23
+49900026,22,PT08M45.00S,1,1610612755,PHI,238,Hill,T. Hill,0,0,0,Made,1,12.0,5.0,17,h,Hill Driving Layup (2 PTS) (Ratliff 1 AST),Made Shot,Driving Layup Shot,0,24
+49900026,23,PT08M39.00S,1,0,,1610612740,,,0,0,0,,0,,,0,v,Hornets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,25
+49900026,25,PT08M30.00S,1,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,Hill P.FOUL (P1.T2),Foul,Personal,0,26
+49900026,26,PT08M21.00S,1,1610612766,CHH,922,Campbell,E. Campbell,-68,55,9,Missed,1,,,0,v,MISS Campbell 9' Jump Shot,Missed Shot,Jump Shot,0,27
+49900026,26,PT08M21.00S,1,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,Ratliff BLOCK (1 BLK),,,0,28
+49900026,27,PT08M19.00S,1,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,,,0,v,Campbell REBOUND (Off:1 Def:0),Rebound,Unknown,0,29
+49900026,28,PT08M17.00S,1,1610612766,CHH,922,Campbell,E. Campbell,-104,-23,11,Missed,1,,,0,v,MISS Campbell 11' Jump Shot,Missed Shot,Jump Shot,0,30
+49900026,30,PT08M15.00S,1,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,v,Mason REBOUND (Off:3 Def:0),Rebound,Unknown,0,31
+49900026,29,PT08M15.00S,1,1610612766,CHH,193,Mason,A. Mason,-68,44,8,Missed,1,,,0,v,MISS Mason 8' Jump Shot,Missed Shot,Jump Shot,0,32
+49900026,31,PT08M13.00S,1,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,Ratliff REBOUND (Off:0 Def:1),Rebound,Unknown,0,33
+49900026,32,PT08M09.00S,1,1610612766,CHH,224,Jones,E. Jones,0,0,0,,0,,,0,v,Jones P.FOUL (P1.T1),Foul,Personal,0,34
+49900026,33,PT08M01.00S,1,1610612755,PHI,947,Iverson,A. Iverson,-205,177,27,Missed,1,,,0,h,MISS Iverson 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,35
+49900026,34,PT07M59.00S,1,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,v,Mason REBOUND (Off:3 Def:1),Rebound,Unknown,0,36
+49900026,36,PT07M42.00S,1,1610612766,CHH,224,Jones,E. Jones,0,0,0,Made,1,12.0,7.0,19,v,Jones Driving Layup (2 PTS) (Mason 1 AST),Made Shot,Driving Layup Shot,0,37
+49900026,37,PT07M33.00S,1,1610612755,PHI,947,Iverson,A. Iverson,-53,72,9,Missed,1,,,0,h,MISS Iverson 9' Jump Shot,Missed Shot,Jump Shot,0,38
+49900026,37,PT07M33.00S,1,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,,,0,v,Coleman BLOCK (1 BLK),,,0,39
+49900026,38,PT07M28.00S,1,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,,,0,v,Coleman REBOUND (Off:0 Def:1),Rebound,Unknown,0,40
+49900026,39,PT07M25.00S,1,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,Made,1,12.0,9.0,21,v,Wesley Driving Layup (2 PTS),Made Shot,Driving Layup Shot,0,41
+49900026,40,PT07M05.00S,1,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,,,0,v,Coleman S.FOUL (P1.T2),Foul,Shooting,0,42
+49900026,41,PT07M05.00S,1,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,13.0,9.0,22,h,Hill Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,43
+49900026,42,PT07M05.00S,1,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,14.0,9.0,23,h,Hill Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,44
+49900026,43,PT06M42.00S,1,1610612766,CHH,133,Wesley,D. Wesley,102,254,27,Made,1,14.0,12.0,26,v,Wesley 27' 3PT Jump Shot (5 PTS) (Mason 2 AST),Made Shot,Jump Shot,0,45
+49900026,44,PT06M24.00S,1,1610612755,PHI,689,Ratliff,T. Ratliff,10,66,7,Missed,1,,,0,h,MISS Ratliff 7' Jump Shot,Missed Shot,Jump Shot,0,46
+49900026,45,PT06M22.00S,1,1610612766,CHH,224,Jones,E. Jones,0,0,0,,0,,,0,v,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,47
+49900026,46,PT06M09.00S,1,1610612766,CHH,133,Wesley,D. Wesley,-113,76,14,Missed,1,,,0,v,MISS Wesley 14' Jump Shot,Missed Shot,Jump Shot,0,48
+49900026,47,PT06M07.00S,1,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,49
+49900026,48,PT05M53.00S,1,1610612755,PHI,947,Iverson,A. Iverson,-177,216,28,Missed,1,,,0,h,MISS Iverson 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,50
+49900026,49,PT05M51.00S,1,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,,,0,v,Campbell REBOUND (Off:1 Def:1),Rebound,Unknown,0,51
+49900026,50,PT05M44.00S,1,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,,,0,v,Wesley Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,52
+49900026,51,PT05M25.00S,1,1610612755,PHI,243,McKie,A. McKie,-147,100,18,Made,1,16.0,12.0,28,h,McKie 18' Jump Shot (6 PTS),Made Shot,Jump Shot,0,53
+49900026,52,PT05M07.00S,1,1610612766,CHH,224,Jones,E. Jones,-184,179,26,Made,1,16.0,15.0,31,v,Jones 26' 3PT Jump Shot (5 PTS) (Mason 3 AST),Made Shot,Jump Shot,0,54
+49900026,53,PT04M47.00S,1,1610612755,PHI,689,Ratliff,T. Ratliff,10,143,14,Missed,1,,,0,h,MISS Ratliff 14' Jump Shot,Missed Shot,Jump Shot,0,55
+49900026,54,PT04M45.00S,1,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,,,0,v,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,56
+49900026,55,PT04M31.00S,1,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,,,0,h,McKie P.FOUL (P1.T3),Foul,Personal,0,57
+49900026,56,PT04M27.00S,1,1610612766,CHH,193,Mason,A. Mason,102,0,10,Made,1,16.0,17.0,33,v,Mason 10' Jump Shot (5 PTS) (Coleman 1 AST),Made Shot,Jump Shot,0,58
+49900026,57,PT04M13.00S,1,1610612755,PHI,238,Hill,T. Hill,138,21,14,Missed,1,,,0,h,MISS Hill 14' Jump Shot,Missed Shot,Jump Shot,0,59
+49900026,58,PT04M11.00S,1,1610612766,CHH,224,Jones,E. Jones,0,0,0,,0,,,0,v,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,60
+49900026,59,PT03M58.00S,1,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,Made,1,16.0,19.0,35,v,Campbell Slam Dunk (4 PTS) (Mason 4 AST),Made Shot,Slam Dunk Shot,0,61
+49900026,60,PT03M49.00S,1,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,62
+49900026,62,PT03M38.00S,1,1610612755,PHI,243,McKie,A. McKie,-156,-23,16,Made,1,18.0,19.0,37,h,McKie 16' Jump Shot (8 PTS),Made Shot,Jump Shot,0,63
+49900026,63,PT03M18.00S,1,1610612766,CHH,934,Coleman,D. Coleman,-3,188,19,Made,1,18.0,21.0,39,v,Coleman 19' Jump Shot (2 PTS) (Mason 5 AST),Made Shot,Jump Shot,0,64
+49900026,64,PT02M54.00S,1,1610612755,PHI,238,Hill,T. Hill,-61,128,14,Missed,1,,,0,h,MISS Hill 14' Jump Shot,Missed Shot,Jump Shot,0,65
+49900026,65,PT02M53.00S,1,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson REBOUND (Off:1 Def:0),Rebound,Unknown,0,66
+49900026,66,PT02M51.00S,1,1610612755,PHI,947,Iverson,A. Iverson,-46,177,18,Missed,1,,,0,h,MISS Iverson 18' Jump Shot,Missed Shot,Jump Shot,0,67
+49900026,66,PT02M51.00S,1,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,,,0,v,Coleman BLOCK (2 BLK),,,0,68
+49900026,68,PT02M50.00S,1,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,Jump Ball Ratliff vs. Campbell: Tip to Wesley,Jump Ball,,0,69
+49900026,69,PT02M50.00S,1,0,,1610612740,,,0,0,0,,0,,,0,v,Hornets Rebound,Rebound,Unknown,0,70
+49900026,70,PT02M28.00S,1,1610612766,CHH,193,Mason,A. Mason,0,0,0,Made,1,18.0,23.0,41,v,Mason Layup (7 PTS) (Jones 2 AST),Made Shot,Layup Shot,0,71
+49900026,71,PT02M12.00S,1,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,,,0,v,Wesley S.FOUL (P1.T3),Foul,Shooting,0,72
+49900026,72,PT02M12.00S,1,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,SUB: Kukoc FOR Lynch,Substitution,,0,73
+49900026,73,PT02M12.00S,1,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,19.0,23.0,42,h,McKie Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,74
+49900026,74,PT02M12.00S,1,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,SUB: Geiger FOR Hill,Substitution,,0,75
+49900026,75,PT02M12.00S,1,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,20.0,23.0,43,h,McKie Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,76
+49900026,76,PT01M52.00S,1,1610612766,CHH,133,Wesley,D. Wesley,-96,244,26,Missed,1,,,0,v,MISS Wesley 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,77
+49900026,77,PT01M49.00S,1,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,v,Mason REBOUND (Off:4 Def:1),Rebound,Unknown,0,78
+49900026,78,PT01M43.00S,1,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Violation: Def. Goaltending Violation,Violation,Defensive Goaltending,0,79
+49900026,79,PT01M35.00S,1,1610612766,CHH,934,Coleman,D. Coleman,138,233,27,Missed,1,,,0,v,MISS Coleman 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,80
+49900026,80,PT01M32.00S,1,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,Geiger REBOUND (Off:0 Def:1),Rebound,Unknown,0,81
+49900026,81,PT01M23.00S,1,1610612755,PHI,947,Iverson,A. Iverson,-242,0,24,Made,1,23.0,23.0,46,h,Iverson 24' 3PT Jump Shot (5 PTS) (Kukoc 1 AST),Made Shot,Jump Shot,0,82
+49900026,82,PT01M13.00S,1,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,Made,1,23.0,25.0,48,v,Coleman Dunk (4 PTS) (Wesley 1 AST),Made Shot,Dunk Shot,0,83
+49900026,83,PT00M48.30S,1,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,Made,1,25.0,25.0,50,h,Geiger Driving Layup (2 PTS) (Ratliff 2 AST),Made Shot,Driving Layup Shot,0,84
+49900026,84,PT00M41.50S,1,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,,,0,v,Coleman OFF.Foul (P2),Foul,Offensive,0,85
+49900026,85,PT00M41.50S,1,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,,,0,v,Coleman Foul Turnover (P1.T4),Turnover,Foul,0,86
+49900026,86,PT00M41.50S,1,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,,,0,v,SUB: Miller FOR Coleman,Substitution,,0,87
+49900026,87,PT00M31.40S,1,1610612755,PHI,389,Kukoc,T. Kukoc,-162,201,26,Made,1,28.0,25.0,53,h,Kukoc 26' 3PT Jump Shot (3 PTS) (Geiger 1 AST),Made Shot,Jump Shot,0,88
+49900026,88,PT00M05.20S,1,1610612766,CHH,193,Mason,A. Mason,-147,0,15,Missed,1,,,0,v,MISS Mason 15' Jump Shot,Missed Shot,Jump Shot,0,89
+49900026,89,PT00M05.20S,1,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Unknown,0,90
+49900026,90,PT00M05.20S,1,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,,,0,v,Campbell L.B.FOUL (P1.T4),Foul,Loose Ball,0,91
+49900026,91,PT00M05.20S,1,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,SUB: Ollie FOR Ratliff,Substitution,,0,92
+49900026,92,PT00M00.00S,1,1610612755,PHI,1563,Ollie,K. Ollie,-134,-27,14,Made,1,30.0,25.0,55,h,Ollie 14' Jump Shot (2 PTS) (Iverson 2 AST),Made Shot,Jump Shot,0,93
+49900026,93,PT00M00.00S,1,0,,0,,,0,0,0,,0,30.0,25.0,55,,End of 1st Period (11:37 AM EST),period,end,0,94
+49900026,94,PT12M00.00S,2,0,,0,,,0,0,0,,0,30.0,25.0,55,,Start of 2nd Period (11:41 AM EST),period,start,0,95
+49900026,95,PT11M44.00S,2,1610612755,PHI,947,Iverson,A. Iverson,-156,93,18,Missed,1,,,0,h,MISS Iverson 18' Jump Shot,Missed Shot,Jump Shot,0,96
+49900026,96,PT11M42.00S,2,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,,,0,v,Coleman REBOUND (Off:0 Def:2),Rebound,Unknown,0,97
+49900026,97,PT11M29.00S,2,1610612766,CHH,1802,Miller,B. Miller,0,0,0,Made,1,30.0,27.0,57,v,Miller Layup (2 PTS) (Mason 6 AST),Made Shot,Layup Shot,0,98
+49900026,98,PT11M06.00S,2,1610612755,PHI,389,Kukoc,T. Kukoc,59,272,28,Missed,1,,,0,h,MISS Kukoc 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,99
+49900026,99,PT11M04.00S,2,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,Geiger REBOUND (Off:1 Def:1),Rebound,Unknown,0,100
+49900026,100,PT10M59.00S,2,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,,,0,v,B. Davis S.FOUL (P1.T1),Foul,Shooting,0,101
+49900026,101,PT10M59.00S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,31.0,27.0,58,h,Iverson Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,102
+49900026,102,PT10M59.00S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,MISS Iverson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,103
+49900026,103,PT10M59.00S,2,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,Geiger REBOUND (Off:2 Def:1),Rebound,Unknown,0,104
+49900026,104,PT10M52.00S,2,1610612755,PHI,761,Geiger,M. Geiger,-134,10,13,Missed,1,,,0,h,MISS Geiger 13' Jump Shot,Missed Shot,Jump Shot,0,105
+49900026,105,PT10M50.00S,2,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,,,0,v,Coleman REBOUND (Off:0 Def:3),Rebound,Unknown,0,106
+49900026,106,PT10M39.00S,2,1610612766,CHH,193,Mason,A. Mason,-12,66,7,Made,1,31.0,29.0,60,v,Mason 7' Hook Shot (9 PTS) (Jones 3 AST),Made Shot,Hook Shot,0,107
+49900026,107,PT10M19.00S,2,1610612766,CHH,224,Jones,E. Jones,0,0,0,,0,,,0,v,Jones P.FOUL (P2.T2),Foul,Personal,0,108
+49900026,108,PT10M03.00S,2,1610612755,PHI,389,Kukoc,T. Kukoc,-169,216,27,Missed,1,,,0,h,MISS Kukoc 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,109
+49900026,109,PT10M02.00S,2,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,,,0,v,B. Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,110
+49900026,110,PT09M48.00S,2,1610612766,CHH,934,Coleman,D. Coleman,196,143,24,Made,1,31.0,32.0,63,v,Coleman 24' 3PT Jump Shot (7 PTS) (B. Davis 1 AST),Made Shot,Jump Shot,0,111
+49900026,111,PT09M27.00S,2,1610612755,PHI,761,Geiger,M. Geiger,111,33,12,Made,1,33.0,32.0,65,h,Geiger 12' Jump Shot (4 PTS) (Kukoc 2 AST),Made Shot,Jump Shot,0,112
+49900026,112,PT09M15.00S,2,1610612766,CHH,1884,Davis,B. Davis,25,10,3,Missed,1,,,0,v,MISS B. Davis 3' Layup,Missed Shot,Layup Shot,0,113
+49900026,112,PT09M15.00S,2,1610612755,PHI,389,Kukoc,T. Kukoc,0,0,0,,0,,,0,h,Kukoc BLOCK (1 BLK),,,0,114
+49900026,113,PT09M12.00S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson REBOUND (Off:1 Def:1),Rebound,Unknown,0,115
+49900026,114,PT09M07.00S,2,1610612755,PHI,947,Iverson,A. Iverson,68,27,7,Missed,1,,,0,h,MISS Iverson 7' Jump Shot,Missed Shot,Jump Shot,0,116
+49900026,114,PT09M07.00S,2,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,,,0,v,Coleman BLOCK (3 BLK),,,0,117
+49900026,115,PT09M05.00S,2,1610612766,CHH,224,Jones,E. Jones,0,0,0,,0,,,0,v,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,0,118
+49900026,116,PT08M54.00S,2,1610612766,CHH,934,Coleman,D. Coleman,1,111,11,Missed,1,,,0,v,MISS Coleman 11' Jump Shot,Missed Shot,Jump Shot,0,119
+49900026,117,PT08M52.00S,2,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,Geiger REBOUND (Off:2 Def:2),Rebound,Unknown,0,120
+49900026,118,PT08M52.00S,2,1610612766,CHH,1802,Miller,B. Miller,0,0,0,,0,,,0,v,Miller P.FOUL (P1.T3),Foul,Personal,0,121
+49900026,119,PT08M52.00S,2,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,122
+49900026,121,PT08M52.00S,2,1610612766,CHH,1802,Miller,B. Miller,0,0,0,,0,,,0,v,SUB: Robinson FOR Miller,Substitution,,0,123
+49900026,122,PT08M52.00S,2,1610612766,CHH,224,Jones,E. Jones,0,0,0,,0,,,0,v,SUB: Campbell FOR Jones,Substitution,,0,124
+49900026,123,PT08M52.00S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,SUB: McKie FOR Iverson,Substitution,,0,125
+49900026,124,PT08M52.00S,2,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,SUB: Hill FOR Ratliff,Substitution,,0,126
+49900026,125,PT08M32.00S,2,1610612755,PHI,1563,Ollie,K. Ollie,0,0,0,,0,,,0,h,Ollie Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,127
+49900026,125,PT08M32.00S,2,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,,,0,v,B. Davis STEAL (1 STL),,,0,128
+49900026,126,PT08M30.00S,2,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,,,0,h,McKie C.P.FOUL (P2.T1),Foul,Clear Path,0,129
+49900026,127,PT08M30.00S,2,1610612766,CHH,1944,Robinson,E. Robinson,0,0,0,,0,33.0,33.0,66,v,Robinson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,130
+49900026,128,PT08M30.00S,2,1610612766,CHH,1944,Robinson,E. Robinson,0,0,0,,0,33.0,34.0,67,v,Robinson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,131
+49900026,129,PT08M13.00S,2,1610612755,PHI,761,Geiger,M. Geiger,-119,104,16,Made,1,35.0,34.0,69,h,Geiger 16' Jump Shot (6 PTS) (Ollie 1 AST),Made Shot,Jump Shot,0,132
+49900026,130,PT07M49.00S,2,1610612766,CHH,1944,Robinson,E. Robinson,-134,-3,13,Made,1,35.0,36.0,71,v,Robinson 13' Jump Shot (4 PTS) (B. Davis 2 AST),Made Shot,Jump Shot,0,133
+49900026,131,PT07M28.00S,2,1610612755,PHI,389,Kukoc,T. Kukoc,-227,-16,0,Missed,1,,,0,h,MISS Kukoc 3PT Jump Shot,Missed Shot,Jump Shot,0,134
+49900026,132,PT07M26.00S,2,1610612755,PHI,389,Kukoc,T. Kukoc,0,0,0,,0,,,0,h,Kukoc REBOUND (Off:1 Def:0),Rebound,Unknown,0,135
+49900026,133,PT07M16.00S,2,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,,,0,v,B. Davis P.FOUL (P2.T4),Foul,Personal,0,136
+49900026,134,PT07M16.00S,2,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,,,0,h,SUB: Iverson FOR McKie,Substitution,,0,137
+49900026,135,PT07M16.00S,2,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,138
+49900026,137,PT07M16.00S,2,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,v,SUB: Jones FOR Mason,Substitution,,0,139
+49900026,138,PT07M05.00S,2,1610612755,PHI,238,Hill,T. Hill,123,0,12,Missed,1,,,0,h,MISS Hill 12' Jump Shot,Missed Shot,Jump Shot,0,140
+49900026,139,PT07M04.00S,2,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,,,0,v,Coleman REBOUND (Off:0 Def:4),Rebound,Unknown,0,141
+49900026,140,PT06M47.00S,2,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,,,0,v,Campbell Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,142
+49900026,141,PT06M33.00S,2,1610612755,PHI,947,Iverson,A. Iverson,46,10,5,Missed,1,,,0,h,MISS Iverson 5' Jump Shot,Missed Shot,Jump Shot,0,143
+49900026,142,PT06M31.00S,2,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,,,0,v,B. Davis REBOUND (Off:0 Def:2),Rebound,Unknown,0,144
+49900026,143,PT06M23.00S,2,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,Made,1,35.0,38.0,73,v,Coleman Slam Dunk (9 PTS) (B. Davis 3 AST),Made Shot,Slam Dunk Shot,0,145
+49900026,144,PT06M08.00S,2,1610612755,PHI,947,Iverson,A. Iverson,102,181,21,Made,1,37.0,38.0,75,h,Iverson 21' Jump Shot (8 PTS) (Geiger 2 AST),Made Shot,Jump Shot,0,146
+49900026,145,PT05M52.00S,2,1610612766,CHH,1944,Robinson,E. Robinson,132,27,13,Missed,1,,,0,v,MISS Robinson 13' Jump Shot,Missed Shot,Jump Shot,0,147
+49900026,146,PT05M49.00S,2,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Unknown,0,148
+49900026,147,PT05M49.00S,2,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,,,0,v,Campbell L.B.FOUL (P2.PN),Foul,Loose Ball,0,149
+49900026,148,PT05M49.00S,2,1610612755,PHI,1563,Ollie,K. Ollie,0,0,0,,0,,,0,h,SUB: McKie FOR Ollie,Substitution,,0,150
+49900026,149,PT05M49.00S,2,1610612755,PHI,389,Kukoc,T. Kukoc,0,0,0,,0,,,0,h,SUB: Lynch FOR Kukoc,Substitution,,0,151
+49900026,151,PT05M49.00S,2,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,38.0,38.0,76,h,Geiger Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,152
+49900026,152,PT05M49.00S,2,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,39.0,38.0,77,h,Geiger Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,153
+49900026,153,PT05M34.00S,2,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,,,0,v,B. Davis Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,154
+49900026,153,PT05M34.00S,2,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,Geiger STEAL (1 STL),,,0,155
+49900026,154,PT05M23.00S,2,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,,,0,v,B. Davis P.FOUL (P3.PN),Foul,Personal,0,156
+49900026,155,PT05M23.00S,2,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,SUB: Ratliff FOR Geiger,Substitution,,0,157
+49900026,156,PT05M23.00S,2,0,,1610612740,,,0,0,0,,0,,,0,v,Hornets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,158
+49900026,158,PT05M23.00S,2,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,,,0,v,SUB: Wesley FOR B. Davis,Substitution,,0,159
+49900026,159,PT05M23.00S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,40.0,38.0,78,h,Iverson Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,160
+49900026,160,PT05M23.00S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,41.0,38.0,79,h,Iverson Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,161
+49900026,161,PT05M04.00S,2,1610612766,CHH,1944,Robinson,E. Robinson,0,0,0,,0,,,0,v,SUB: Mason FOR Robinson,Substitution,,0,162
+49900026,162,PT04M58.00S,2,1610612766,CHH,922,Campbell,E. Campbell,-96,254,27,Missed,1,,,0,v,MISS Campbell 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,163
+49900026,163,PT04M55.00S,2,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,Ratliff REBOUND (Off:0 Def:2),Rebound,Unknown,0,164
+49900026,164,PT04M41.00S,2,1610612755,PHI,243,McKie,A. McKie,-25,0,3,Missed,1,,,0,h,MISS McKie 3' Layup,Missed Shot,Layup Shot,0,165
+49900026,164,PT04M41.00S,2,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,,,0,v,Coleman BLOCK (4 BLK),,,0,166
+49900026,165,PT04M39.00S,2,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,,,0,v,Coleman REBOUND (Off:0 Def:5),Rebound,Unknown,0,167
+49900026,166,PT04M38.00S,2,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,,,0,v,Coleman Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,168
+49900026,166,PT04M38.00S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson STEAL (1 STL),,,0,169
+49900026,167,PT04M37.00S,2,1610612755,PHI,947,Iverson,A. Iverson,-162,0,16,Missed,1,,,0,h,MISS Iverson 16' Jump Shot,Missed Shot,Jump Shot,0,170
+49900026,168,PT04M35.00S,2,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,Hill REBOUND (Off:1 Def:1),Rebound,Unknown,0,171
+49900026,169,PT04M31.00S,2,1610612755,PHI,947,Iverson,A. Iverson,-68,5,7,Made,1,43.0,38.0,81,h,Iverson 7' Jump Shot (12 PTS) (Hill 1 AST),Made Shot,Jump Shot,0,172
+49900026,170,PT04M21.00S,2,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,Hill P.FOUL (P2.T2),Foul,Personal,0,173
+49900026,171,PT04M21.00S,2,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,,,0,h,SUB: Ollie FOR McKie,Substitution,,0,174
+49900026,172,PT04M21.00S,2,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,SUB: Geiger FOR Hill,Substitution,,0,175
+49900026,173,PT04M05.00S,2,1610612766,CHH,922,Campbell,E. Campbell,-68,27,7,Missed,1,,,0,v,MISS Campbell 7' Jump Shot,Missed Shot,Jump Shot,0,176
+49900026,174,PT04M04.00S,2,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,,,0,v,Campbell REBOUND (Off:2 Def:1),Rebound,Unknown,0,177
+49900026,175,PT04M04.00S,2,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,Lynch S.FOUL (P1.T3),Foul,Shooting,0,178
+49900026,176,PT04M04.00S,2,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,43.0,39.0,82,v,Campbell Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,179
+49900026,177,PT04M04.00S,2,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,43.0,40.0,83,v,Campbell Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,180
+49900026,178,PT03M47.00S,2,1610612755,PHI,248,Lynch,G. Lynch,-184,205,28,Missed,1,,,0,h,MISS Lynch 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,181
+49900026,179,PT03M45.00S,2,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,Geiger REBOUND (Off:3 Def:2),Rebound,Unknown,0,182
+49900026,180,PT03M43.00S,2,1610612755,PHI,761,Geiger,M. Geiger,68,5,7,Missed,1,,,0,h,MISS Geiger 7' Jump Shot,Missed Shot,Jump Shot,0,183
+49900026,182,PT03M43.00S,2,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,Lynch REBOUND (Off:1 Def:0),Rebound,Unknown,0,184
+49900026,181,PT03M43.00S,2,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,Made,1,45.0,40.0,85,h,Lynch Layup (6 PTS),Made Shot,Layup Shot,0,185
+49900026,183,PT03M43.00S,2,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,,,0,v,Coleman S.FOUL (P3.PN),Foul,Shooting,0,186
+49900026,184,PT03M43.00S,2,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,MISS Lynch Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,187
+49900026,185,PT03M43.00S,2,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,,,0,v,SUB: Miller FOR Coleman,Substitution,,0,188
+49900026,186,PT03M42.00S,2,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,,,0,v,Campbell REBOUND (Off:2 Def:2),Rebound,Unknown,0,189
+49900026,187,PT03M42.00S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson P.FOUL (P1.T4),Foul,Personal,0,190
+49900026,188,PT03M31.00S,2,1610612766,CHH,224,Jones,E. Jones,111,5,11,Missed,1,,,0,v,MISS Jones 11' Jump Shot,Missed Shot,Jump Shot,0,191
+49900026,189,PT03M30.00S,2,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,Lynch REBOUND (Off:1 Def:1),Rebound,Unknown,0,192
+49900026,190,PT03M10.00S,2,1610612755,PHI,689,Ratliff,T. Ratliff,-53,27,6,Missed,1,,,0,h,MISS Ratliff 6' Jump Shot,Missed Shot,Jump Shot,0,193
+49900026,191,PT03M08.00S,2,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,Geiger REBOUND (Off:4 Def:2),Rebound,Unknown,0,194
+49900026,192,PT02M53.00S,2,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,Made,1,47.0,40.0,87,h,Geiger Driving Layup (10 PTS) (Ollie 2 AST),Made Shot,Driving Layup Shot,0,195
+49900026,193,PT02M47.00S,2,0,,1610612740,,,0,0,0,,0,,,0,v,Hornets Timeout: Short (Reg.2 Short 1),Timeout,Short,0,196
+49900026,195,PT02M38.00S,2,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Def. 3 Sec,Foul,Defense 3 Second,0,197
+49900026,196,PT02M38.00S,2,1610612766,CHH,224,Jones,E. Jones,0,0,0,,0,47.0,41.0,88,v,Jones Free Throw Technical (6 PTS),Free Throw,Free Throw Technical,0,198
+49900026,197,PT02M27.00S,2,1610612766,CHH,1802,Miller,B. Miller,111,21,11,Missed,1,,,0,v,MISS Miller 11' Jump Shot,Missed Shot,Jump Shot,0,199
+49900026,198,PT02M25.00S,2,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,Lynch REBOUND (Off:1 Def:2),Rebound,Unknown,0,200
+49900026,199,PT02M16.00S,2,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,Made,1,49.0,41.0,90,h,Lynch Driving Layup (8 PTS) (Iverson 3 AST),Made Shot,Driving Layup Shot,0,201
+49900026,200,PT02M03.00S,2,1610612766,CHH,922,Campbell,E. Campbell,-113,44,12,Missed,1,,,0,v,MISS Campbell 12' Jump Shot,Missed Shot,Jump Shot,0,202
+49900026,201,PT02M02.00S,2,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,,,0,v,Campbell REBOUND (Off:3 Def:2),Rebound,Unknown,0,203
+49900026,202,PT01M59.00S,2,1610612766,CHH,922,Campbell,E. Campbell,-83,-10,8,Made,1,49.0,43.0,92,v,Campbell 8' Jump Shot (8 PTS),Made Shot,Jump Shot,0,204
+49900026,203,PT01M31.00S,2,1610612755,PHI,1563,Ollie,K. Ollie,25,44,5,Missed,1,,,0,h,MISS Ollie 5' Jump Shot,Missed Shot,Jump Shot,0,205
+49900026,204,PT01M30.00S,2,1610612766,CHH,1802,Miller,B. Miller,0,0,0,,0,,,0,v,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,206
+49900026,205,PT01M25.00S,2,1610612766,CHH,133,Wesley,D. Wesley,132,76,15,Missed,1,,,0,v,MISS Wesley 15' Jump Shot,Missed Shot,Jump Shot,0,207
+49900026,206,PT01M23.00S,2,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,Ratliff REBOUND (Off:0 Def:3),Rebound,Unknown,0,208
+49900026,207,PT01M15.00S,2,1610612755,PHI,248,Lynch,G. Lynch,-235,-10,24,Missed,1,,,0,h,MISS Lynch 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,209
+49900026,208,PT01M13.00S,2,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,,,0,v,Wesley REBOUND (Off:0 Def:2),Rebound,Unknown,0,210
+49900026,209,PT01M06.00S,2,1610612766,CHH,1802,Miller,B. Miller,0,0,0,Made,1,49.0,45.0,94,v,Miller Layup (4 PTS) (Wesley 2 AST),Made Shot,Layup Shot,0,211
+49900026,210,PT01M06.00S,2,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,Geiger S.FOUL (P1.PN),Foul,Shooting,0,212
+49900026,211,PT01M06.00S,2,1610612766,CHH,1802,Miller,B. Miller,0,0,0,,0,49.0,46.0,95,v,Miller Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,213
+49900026,212,PT00M56.70S,2,1610612755,PHI,947,Iverson,A. Iverson,-199,171,26,Missed,1,,,0,h,MISS Iverson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,214
+49900026,213,PT00M54.60S,2,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,,,0,v,Campbell REBOUND (Off:3 Def:3),Rebound,Unknown,0,215
+49900026,214,PT00M41.90S,2,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,Lynch P.FOUL (P2.PN),Foul,Personal,0,216
+49900026,215,PT00M41.90S,2,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,49.0,47.0,96,v,Mason Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,217
+49900026,216,PT00M41.90S,2,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,SUB: Kukoc FOR Lynch,Substitution,,0,218
+49900026,217,PT00M41.90S,2,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,49.0,48.0,97,v,Mason Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,219
+49900026,218,PT00M35.00S,2,1610612755,PHI,947,Iverson,A. Iverson,74,0,7,Missed,1,,,0,h,MISS Iverson 7' Jump Shot,Missed Shot,Jump Shot,0,220
+49900026,220,PT00M34.40S,2,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,Geiger REBOUND (Off:5 Def:2),Rebound,Unknown,0,221
+49900026,219,PT00M34.40S,2,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,Made,1,51.0,48.0,99,h,Geiger Layup (12 PTS),Made Shot,Layup Shot,0,222
+49900026,221,PT00M34.40S,2,1610612766,CHH,1802,Miller,B. Miller,0,0,0,,0,,,0,v,Miller S.FOUL (P2.PN),Foul,Shooting,0,223
+49900026,222,PT00M34.40S,2,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,52.0,48.0,100,h,Geiger Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,224
+49900026,223,PT00M20.00S,2,1610612766,CHH,133,Wesley,D. Wesley,-162,16,16,Missed,1,,,0,v,MISS Wesley 16' Jump Shot,Missed Shot,Jump Shot,0,225
+49900026,224,PT00M19.10S,2,1610612766,CHH,1802,Miller,B. Miller,0,0,0,,0,,,0,v,Miller REBOUND (Off:1 Def:1),Rebound,Unknown,0,226
+49900026,225,PT00M19.10S,2,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,Geiger S.FOUL (P2.PN),Foul,Shooting,0,227
+49900026,226,PT00M19.10S,2,1610612766,CHH,1802,Miller,B. Miller,0,0,0,,0,52.0,49.0,101,v,Miller Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,228
+49900026,227,PT00M19.10S,2,1610612755,PHI,1563,Ollie,K. Ollie,0,0,0,,0,,,0,h,SUB: McKie FOR Ollie,Substitution,,0,229
+49900026,228,PT00M19.10S,2,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,,,0,v,SUB: B. Davis FOR Campbell,Substitution,,0,230
+49900026,229,PT00M19.10S,2,1610612766,CHH,1802,Miller,B. Miller,0,0,0,,0,52.0,50.0,102,v,Miller Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,231
+49900026,230,PT00M05.80S,2,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,Made,1,54.0,50.0,104,h,Iverson Driving Layup (14 PTS),Made Shot,Driving Layup Shot,0,232
+49900026,231,PT00M00.00S,2,1610612766,CHH,1884,Davis,B. Davis,132,306,33,Missed,1,,,0,v,MISS B. Davis 33' 3PT Jump Shot,Missed Shot,Jump Shot,0,233
+49900026,232,PT00M00.00S,2,1610612766,CHH,1802,Miller,B. Miller,0,0,0,,0,,,0,v,Miller REBOUND (Off:2 Def:1),Rebound,Unknown,0,234
+49900026,233,PT00M00.00S,2,0,,0,,,0,0,0,,0,54.0,50.0,104,,End of 2nd Period (12:13 PM EST),period,end,0,235
+49900026,235,PT12M00.00S,3,0,,0,,,0,0,0,,0,54.0,50.0,104,,Start of 3rd Period (12:32 PM EST),period,start,0,236
+49900026,236,PT11M49.00S,3,1610612755,PHI,689,Ratliff,T. Ratliff,96,100,14,Made,1,56.0,50.0,106,h,Ratliff 14' Jump Shot (2 PTS) (McKie 3 AST),Made Shot,Jump Shot,0,237
+49900026,237,PT11M32.00S,3,1610612766,CHH,193,Mason,A. Mason,1,21,2,Missed,1,,,0,v,MISS Mason 2' Layup,Missed Shot,Layup Shot,0,238
+49900026,237,PT11M32.00S,3,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,Ratliff BLOCK (2 BLK),,,0,239
+49900026,238,PT11M30.00S,3,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,Hill REBOUND (Off:1 Def:2),Rebound,Unknown,0,240
+49900026,239,PT11M26.00S,3,1610612755,PHI,238,Hill,T. Hill,0,0,0,Made,1,58.0,50.0,108,h,Hill Driving Layup (6 PTS) (McKie 4 AST),Made Shot,Driving Layup Shot,0,241
+49900026,240,PT11M18.00S,3,0,,1610612740,,,0,0,0,,0,,,0,v,Hornets Timeout: Short (Reg.2 Short 2),Timeout,Short,0,242
+49900026,241,PT11M02.00S,3,1610612766,CHH,922,Campbell,E. Campbell,46,44,6,Made,1,58.0,52.0,110,v,Campbell 6' Jump Shot (10 PTS) (Coleman 2 AST),Made Shot,Jump Shot,0,243
+49900026,242,PT10M43.00S,3,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,,,0,v,Coleman S.FOUL (P4.T1),Foul,Shooting,0,244
+49900026,243,PT10M43.00S,3,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,59.0,52.0,111,h,Ratliff Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,245
+49900026,244,PT10M43.00S,3,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,60.0,52.0,112,h,Ratliff Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,246
+49900026,245,PT10M28.00S,3,1610612766,CHH,133,Wesley,D. Wesley,147,76,17,Missed,1,,,0,v,MISS Wesley 17' Jump Shot,Missed Shot,Jump Shot,0,247
+49900026,246,PT10M26.00S,3,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,,,0,h,McKie REBOUND (Off:0 Def:2),Rebound,Unknown,0,248
+49900026,247,PT10M10.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,249
+49900026,247,PT10M10.00S,3,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,,,0,v,Coleman STEAL (1 STL),,,0,250
+49900026,248,PT09M57.00S,3,1610612766,CHH,922,Campbell,E. Campbell,132,48,14,Made,1,60.0,54.0,114,v,Campbell 14' Jump Shot (12 PTS) (Wesley 3 AST),Made Shot,Jump Shot,0,251
+49900026,249,PT09M34.00S,3,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,Hill OFF.Foul (P3),Foul,Offensive,0,252
+49900026,250,PT09M34.00S,3,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,Hill Foul Turnover (P1.T3),Turnover,Foul,0,253
+49900026,251,PT09M19.00S,3,1610612766,CHH,224,Jones,E. Jones,147,0,15,Made,1,60.0,56.0,116,v,Jones 15' Jump Shot (8 PTS) (Campbell 1 AST),Made Shot,Jump Shot,0,254
+49900026,252,PT09M02.00S,3,1610612755,PHI,243,McKie,A. McKie,-40,188,19,Made,1,62.0,56.0,118,h,McKie 19' Jump Shot (12 PTS),Made Shot,Jump Shot,0,255
+49900026,253,PT08M45.00S,3,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,Made,1,62.0,58.0,120,v,Coleman Slam Dunk (11 PTS) (Jones 4 AST),Made Shot,Slam Dunk Shot,0,256
+49900026,254,PT08M28.00S,3,1610612755,PHI,238,Hill,T. Hill,-25,38,5,Missed,1,,,0,h,MISS Hill 5' Jump Shot,Missed Shot,Jump Shot,0,257
+49900026,254,PT08M28.00S,3,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,,,0,v,Campbell BLOCK (1 BLK),,,0,258
+49900026,255,PT08M27.00S,3,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,,,0,v,Coleman REBOUND (Off:0 Def:6),Rebound,Unknown,0,259
+49900026,256,PT08M14.00S,3,1610612766,CHH,934,Coleman,D. Coleman,-199,201,28,Missed,1,,,0,v,MISS Coleman 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,260
+49900026,257,PT08M12.00S,3,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,Lynch REBOUND (Off:1 Def:3),Rebound,Unknown,0,261
+49900026,258,PT07M57.00S,3,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,,,0,v,Campbell P.FOUL (P3.T2),Foul,Personal,0,262
+49900026,259,PT07M52.00S,3,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,v,Mason L.B.FOUL (P2.T3),Foul,Loose Ball,0,263
+49900026,260,PT07M52.00S,3,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,264
+49900026,261,PT07M46.00S,3,1610612755,PHI,243,McKie,A. McKie,169,229,28,Missed,1,,,0,h,MISS McKie 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,265
+49900026,262,PT07M44.00S,3,1610612766,CHH,224,Jones,E. Jones,0,0,0,,0,,,0,v,Jones REBOUND (Off:0 Def:4),Rebound,Unknown,0,266
+49900026,263,PT07M26.00S,3,1610612766,CHH,934,Coleman,D. Coleman,-147,83,17,Missed,1,,,0,v,MISS Coleman 17' Jump Shot,Missed Shot,Jump Shot,0,267
+49900026,263,PT07M26.00S,3,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,Lynch BLOCK (1 BLK),,,0,268
+49900026,264,PT07M24.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson REBOUND (Off:1 Def:2),Rebound,Unknown,0,269
+49900026,265,PT07M16.00S,3,1610612755,PHI,243,McKie,A. McKie,-205,194,28,Missed,1,,,0,h,MISS McKie 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,270
+49900026,266,PT07M15.00S,3,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,,,0,v,Campbell REBOUND (Off:3 Def:4),Rebound,Unknown,0,271
+49900026,267,PT07M00.00S,3,1610612766,CHH,133,Wesley,D. Wesley,-169,55,18,Missed,1,,,0,v,MISS Wesley 18' Jump Shot,Missed Shot,Jump Shot,0,272
+49900026,268,PT06M59.00S,3,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,,,0,v,Campbell REBOUND (Off:4 Def:4),Rebound,Unknown,0,273
+49900026,269,PT06M55.00S,3,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,Made,1,62.0,60.0,122,v,Coleman Slam Dunk (13 PTS) (Jones 5 AST),Made Shot,Slam Dunk Shot,0,274
+49900026,270,PT06M31.00S,3,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,Ratliff Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,275
+49900026,270,PT06M31.00S,3,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,,,0,v,Wesley STEAL (1 STL),,,0,276
+49900026,271,PT06M26.00S,3,1610612766,CHH,224,Jones,E. Jones,0,0,0,Made,1,62.0,62.0,124,v,Jones Dunk (10 PTS) (Wesley 4 AST),Made Shot,Dunk Shot,0,277
+49900026,272,PT06M00.00S,3,1610612755,PHI,238,Hill,T. Hill,0,0,0,Made,1,64.0,62.0,126,h,Hill Layup (8 PTS) (McKie 5 AST),Made Shot,Layup Shot,0,278
+49900026,273,PT05M44.00S,3,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,,,0,v,Coleman Lost Ball Turnover (P3.T8),Turnover,Lost Ball,0,279
+49900026,273,PT05M44.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson STEAL (2 STL),,,0,280
+49900026,274,PT05M38.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,Made,1,66.0,62.0,128,h,Iverson Driving Layup (16 PTS),Made Shot,Driving Layup Shot,0,281
+49900026,275,PT05M31.00S,3,1610612766,CHH,193,Mason,A. Mason,-162,-10,16,Made,1,66.0,64.0,130,v,Mason 16' Jump Shot (13 PTS) (Jones 6 AST),Made Shot,Jump Shot,0,282
+49900026,276,PT05M16.00S,3,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,,,0,v,Wesley P.FOUL (P2.T4),Foul,Personal,0,283
+49900026,277,PT05M03.00S,3,1610612755,PHI,248,Lynch,G. Lynch,-68,121,14,Missed,1,,,0,h,MISS Lynch 14' Jump Shot,Missed Shot,Jump Shot,0,284
+49900026,278,PT05M03.00S,3,0,,1610612740,,,0,0,0,,0,,,0,v,Hornets Rebound,Rebound,Unknown,0,285
+49900026,279,PT05M03.00S,3,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,Hill L.B.FOUL (P4.T1),Foul,Loose Ball,0,286
+49900026,280,PT05M03.00S,3,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,SUB: Geiger FOR Hill,Substitution,,0,287
+49900026,281,PT04M59.00S,3,1610612766,CHH,133,Wesley,D. Wesley,-18,27,3,Missed,1,,,0,v,MISS Wesley 3' Jump Shot,Missed Shot,Jump Shot,0,288
+49900026,281,PT04M59.00S,3,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,Geiger BLOCK (1 BLK),,,0,289
+49900026,282,PT04M59.00S,3,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,Jump Ball Geiger vs. Wesley: Tip to Ratliff,Jump Ball,,0,290
+49900026,283,PT04M59.00S,3,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,Geiger REBOUND (Off:5 Def:3),Rebound,Unknown,0,291
+49900026,284,PT04M42.00S,3,1610612755,PHI,947,Iverson,A. Iverson,-147,10,15,Made,1,68.0,64.0,132,h,Iverson 15' Running Jump Shot (18 PTS) (McKie 6 AST),Made Shot,Running Jump Shot,0,292
+49900026,285,PT04M25.00S,3,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,Ratliff S.FOUL (P2.T2),Foul,Shooting,0,293
+49900026,286,PT04M25.00S,3,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,68.0,65.0,133,v,Campbell Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,294
+49900026,287,PT04M25.00S,3,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,68.0,66.0,134,v,Campbell Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,295
+49900026,288,PT04M12.00S,3,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,,,0,v,Campbell S.FOUL (P4.PN),Foul,Shooting,0,296
+49900026,289,PT04M12.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,MISS Iverson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,297
+49900026,290,PT04M12.00S,3,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Normal Rebound,0,298
+49900026,291,PT04M12.00S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,69.0,66.0,135,h,Iverson Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,299
+49900026,292,PT04M06.00S,3,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,,,0,h,McKie P.FOUL (P3.T3),Foul,Personal,0,300
+49900026,293,PT04M06.00S,3,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,SUB: Kukoc FOR Lynch,Substitution,,0,301
+49900026,294,PT03M50.00S,3,1610612766,CHH,193,Mason,A. Mason,-18,111,11,Made,1,69.0,68.0,137,v,Mason 11' Jump Shot (15 PTS),Made Shot,Jump Shot,0,302
+49900026,295,PT03M32.00S,3,1610612755,PHI,389,Kukoc,T. Kukoc,0,0,0,,0,,,0,h,Kukoc Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,303
+49900026,295,PT03M32.00S,3,1610612766,CHH,224,Jones,E. Jones,0,0,0,,0,,,0,v,Jones STEAL (1 STL),,,0,304
+49900026,296,PT03M24.00S,3,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,Geiger S.FOUL (P3.T4),Foul,Shooting,0,305
+49900026,297,PT03M24.00S,3,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,69.0,69.0,138,v,Coleman Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,306
+49900026,298,PT03M24.00S,3,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,,,0,h,SUB: Ollie FOR McKie,Substitution,,0,307
+49900026,299,PT03M24.00S,3,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,,,0,v,SUB: B. Davis FOR Wesley,Substitution,,0,308
+49900026,300,PT03M24.00S,3,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,,,0,v,MISS Coleman Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,309
+49900026,301,PT03M22.00S,3,0,,1610612740,,,0,0,0,,0,,,0,v,Hornets Rebound,Rebound,Unknown,0,310
+49900026,302,PT03M16.00S,3,1610612766,CHH,224,Jones,E. Jones,190,-10,19,Made,1,69.0,71.0,140,v,Jones 19' Jump Shot (12 PTS),Made Shot,Jump Shot,0,311
+49900026,303,PT02M56.00S,3,1610612755,PHI,947,Iverson,A. Iverson,-53,132,14,Missed,1,,,0,h,MISS Iverson 14' Jump Shot,Missed Shot,Jump Shot,0,312
+49900026,304,PT02M55.00S,3,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,v,Mason REBOUND (Off:4 Def:2),Rebound,Unknown,0,313
+49900026,305,PT02M34.00S,3,1610612766,CHH,934,Coleman,D. Coleman,81,89,12,Missed,1,,,0,v,MISS Coleman 12' Jump Shot,Missed Shot,Jump Shot,0,314
+49900026,306,PT02M33.00S,3,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,Ratliff REBOUND (Off:0 Def:4),Rebound,Unknown,0,315
+49900026,307,PT02M26.00S,3,1610612755,PHI,761,Geiger,M. Geiger,-156,5,16,Made,1,71.0,71.0,142,h,Geiger 16' Jump Shot (15 PTS) (Ollie 3 AST),Made Shot,Jump Shot,0,316
+49900026,308,PT02M04.00S,3,1610612766,CHH,922,Campbell,E. Campbell,-119,44,13,Missed,1,,,0,v,MISS Campbell 13' Jump Shot,Missed Shot,Jump Shot,0,317
+49900026,309,PT02M02.00S,3,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,v,Mason REBOUND (Off:5 Def:2),Rebound,Unknown,0,318
+49900026,310,PT02M02.00S,3,1610612755,PHI,1563,Ollie,K. Ollie,0,0,0,,0,,,0,h,Ollie P.FOUL (P1.PN),Foul,Personal,0,319
+49900026,311,PT02M02.00S,3,0,,1610612740,,,0,0,0,,0,,,0,v,Hornets Timeout: Regular (Reg.3 Short 2),Timeout,Regular,0,320
+49900026,312,PT02M02.00S,3,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,71.0,72.0,143,v,Mason Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,321
+49900026,313,PT02M02.00S,3,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,71.0,73.0,144,v,Mason Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,322
+49900026,314,PT01M41.00S,3,1610612755,PHI,1563,Ollie,K. Ollie,-147,-3,15,Made,1,73.0,73.0,146,h,Ollie 15' Jump Shot (4 PTS) (Iverson 4 AST),Made Shot,Jump Shot,0,323
+49900026,315,PT01M16.00S,3,1610612766,CHH,922,Campbell,E. Campbell,-3,21,2,Missed,1,,,0,v,MISS Campbell 2' Layup,Missed Shot,Layup Shot,0,324
+49900026,316,PT01M15.00S,3,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,Ratliff REBOUND (Off:0 Def:5),Rebound,Unknown,0,325
+49900026,317,PT01M06.00S,3,1610612755,PHI,761,Geiger,M. Geiger,117,61,13,Missed,1,,,0,h,MISS Geiger 13' Jump Shot,Missed Shot,Jump Shot,0,326
+49900026,318,PT01M04.00S,3,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,v,Mason REBOUND (Off:5 Def:3),Rebound,Unknown,0,327
+49900026,319,PT00M53.70S,3,1610612766,CHH,193,Mason,A. Mason,0,0,0,Made,1,73.0,75.0,148,v,Mason Driving Layup (19 PTS),Made Shot,Driving Layup Shot,0,328
+49900026,320,PT00M42.70S,3,1610612755,PHI,1563,Ollie,K. Ollie,0,0,0,Made,1,75.0,75.0,150,h,Ollie Driving Layup (6 PTS),Made Shot,Driving Layup Shot,0,329
+49900026,321,PT00M31.30S,3,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson P.FOUL (P2.PN),Foul,Personal,0,330
+49900026,322,PT00M31.30S,3,1610612766,CHH,224,Jones,E. Jones,0,0,0,,0,75.0,76.0,151,v,Jones Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,331
+49900026,323,PT00M31.30S,3,1610612766,CHH,224,Jones,E. Jones,0,0,0,,0,75.0,77.0,152,v,Jones Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,332
+49900026,324,PT00M09.40S,3,1610612755,PHI,389,Kukoc,T. Kukoc,154,188,24,Missed,1,,,0,h,MISS Kukoc 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,333
+49900026,325,PT00M07.30S,3,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,,,0,v,Campbell REBOUND (Off:4 Def:5),Rebound,Unknown,0,334
+49900026,326,PT00M07.30S,3,1610612755,PHI,389,Kukoc,T. Kukoc,0,0,0,,0,,,0,h,Kukoc P.FOUL (P1.PN),Foul,Personal,0,335
+49900026,327,PT00M07.30S,3,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,75.0,78.0,153,v,B. Davis Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,336
+49900026,328,PT00M07.30S,3,1610612766,CHH,224,Jones,E. Jones,0,0,0,,0,,,0,v,SUB: Robinson FOR Jones,Substitution,,0,337
+49900026,329,PT00M07.30S,3,1610612755,PHI,1563,Ollie,K. Ollie,0,0,0,,0,,,0,h,SUB: McKie FOR Ollie,Substitution,,0,338
+49900026,330,PT00M07.30S,3,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,75.0,79.0,154,v,B. Davis Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,339
+49900026,331,PT00M00.00S,3,0,,0,,,0,0,0,,0,75.0,79.0,154,,End of 3rd Period (12:59 PM EST),period,end,0,340
+49900026,332,PT12M00.00S,4,0,,0,,,0,0,0,,0,75.0,79.0,154,,Start of 4th Period (1:02 PM EST),period,start,0,341
+49900026,333,PT11M37.00S,4,1610612766,CHH,1884,Davis,B. Davis,-162,-3,16,Made,1,75.0,81.0,156,v,B. Davis 16' Jump Shot (4 PTS) (Campbell 2 AST),Made Shot,Jump Shot,0,342
+49900026,334,PT11M15.00S,4,1610612755,PHI,389,Kukoc,T. Kukoc,0,0,0,,0,,,0,h,Kukoc Lost Ball Turnover (P2.T6),Turnover,Lost Ball,0,343
+49900026,334,PT11M15.00S,4,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,v,Mason STEAL (1 STL),,,0,344
+49900026,335,PT11M12.00S,4,1610612766,CHH,1884,Davis,B. Davis,0,0,0,Made,1,75.0,83.0,158,v,B. Davis Dunk (6 PTS) (Jones 7 AST),Made Shot,Dunk Shot,0,345
+49900026,336,PT10M53.00S,4,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,Made,1,77.0,83.0,160,h,Ratliff Layup (6 PTS) (McKie 7 AST),Made Shot,Layup Shot,0,346
+49900026,337,PT10M35.00S,4,1610612766,CHH,922,Campbell,E. Campbell,-113,-3,11,Made,1,77.0,85.0,162,v,Campbell 11' Jump Shot (16 PTS) (Jones 8 AST),Made Shot,Jump Shot,0,347
+49900026,338,PT10M17.00S,4,1610612755,PHI,243,McKie,A. McKie,-235,-16,24,Made,1,80.0,85.0,165,h,McKie 24' 3PT Jump Shot (15 PTS) (Ollie 4 AST),Made Shot,Jump Shot,0,348
+49900026,339,PT10M00.00S,4,1610612755,PHI,389,Kukoc,T. Kukoc,0,0,0,,0,,,0,h,Kukoc P.FOUL (P2.T1),Foul,Personal,0,349
+49900026,340,PT10M00.00S,4,1610612755,PHI,389,Kukoc,T. Kukoc,0,0,0,,0,,,0,h,SUB: Lynch FOR Kukoc,Substitution,,0,350
+49900026,341,PT10M00.00S,4,1610612755,PHI,1563,Ollie,K. Ollie,0,0,0,,0,,,0,h,SUB: Iverson FOR Ollie,Substitution,,0,351
+49900026,342,PT09M46.00S,4,1610612766,CHH,1884,Davis,B. Davis,-89,166,19,Missed,1,,,0,v,MISS B. Davis 19' Jump Shot,Missed Shot,Jump Shot,0,352
+49900026,343,PT09M45.00S,4,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,Ratliff REBOUND (Off:0 Def:6),Rebound,Unknown,0,353
+49900026,344,PT09M39.00S,4,1610612755,PHI,947,Iverson,A. Iverson,-126,111,17,Missed,1,,,0,h,MISS Iverson 17' Jump Shot,Missed Shot,Jump Shot,0,354
+49900026,345,PT09M36.00S,4,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,,,0,v,Campbell REBOUND (Off:4 Def:6),Rebound,Unknown,0,355
+49900026,346,PT09M36.00S,4,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,356
+49900026,347,PT09M36.00S,4,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,Jump Ball Geiger vs. Campbell: Tip to McKie,Jump Ball,,0,357
+49900026,348,PT09M36.00S,4,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,,,0,v,Campbell Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,358
+49900026,348,PT09M36.00S,4,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,Geiger STEAL (2 STL),,,0,359
+49900026,349,PT09M16.00S,4,1610612755,PHI,243,McKie,A. McKie,-220,166,28,Made,1,83.0,85.0,168,h,McKie 28' 3PT Jump Shot (18 PTS) (Iverson 5 AST),Made Shot,Jump Shot,0,360
+49900026,350,PT08M50.00S,4,1610612766,CHH,922,Campbell,E. Campbell,-25,61,7,Missed,1,,,0,v,MISS Campbell 7' Jump Shot,Missed Shot,Jump Shot,0,361
+49900026,350,PT08M50.00S,4,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,Ratliff BLOCK (3 BLK),,,0,362
+49900026,351,PT08M50.00S,4,0,,1610612740,,,0,0,0,,0,,,0,v,Hornets Rebound,Rebound,Unknown,0,363
+49900026,352,PT08M50.00S,4,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,,,0,v,SUB: Wesley FOR B. Davis,Substitution,,0,364
+49900026,353,PT08M41.00S,4,1610612766,CHH,193,Mason,A. Mason,-12,10,2,Missed,1,,,0,v,MISS Mason 2' Layup,Missed Shot,Layup Shot,0,365
+49900026,353,PT08M41.00S,4,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,Lynch BLOCK (2 BLK),,,0,366
+49900026,354,PT08M39.00S,4,0,,1610612740,,,0,0,0,,0,,,0,v,Hornets Rebound,Rebound,Unknown,0,367
+49900026,355,PT08M28.00S,4,1610612766,CHH,922,Campbell,E. Campbell,-53,128,14,Made,1,83.0,87.0,170,v,Campbell 14' Jump Shot (18 PTS) (Coleman 3 AST),Made Shot,Jump Shot,0,368
+49900026,356,PT08M02.00S,4,1610612755,PHI,243,McKie,A. McKie,-184,188,26,Made,1,86.0,87.0,173,h,McKie 26' 3PT Jump Shot (21 PTS) (Iverson 6 AST),Made Shot,Jump Shot,0,369
+49900026,357,PT08M02.00S,4,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,,,0,v,Wesley S.FOUL (P3.T1),Foul,Shooting,0,370
+49900026,358,PT08M02.00S,4,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,87.0,87.0,174,h,McKie Free Throw 1 of 1 (22 PTS),Free Throw,Free Throw 1 of 1,0,371
+49900026,359,PT08M02.00S,4,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,SUB: Hill FOR Geiger,Substitution,,0,372
+49900026,360,PT07M53.00S,4,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,Lynch S.FOUL (P3.T2),Foul,Shooting,0,373
+49900026,361,PT07M53.00S,4,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,87.0,88.0,175,v,Campbell Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,374
+49900026,362,PT07M53.00S,4,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,87.0,89.0,176,v,Campbell Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,375
+49900026,363,PT07M33.00S,4,1610612755,PHI,243,McKie,A. McKie,59,254,26,Made,1,90.0,89.0,179,h,McKie 26' 3PT Jump Shot (25 PTS) (Iverson 7 AST),Made Shot,Jump Shot,0,376
+49900026,364,PT07M18.00S,4,1610612766,CHH,934,Coleman,D. Coleman,10,48,5,Missed,1,,,0,v,MISS Coleman 5' Jump Shot,Missed Shot,Jump Shot,0,377
+49900026,365,PT07M17.00S,4,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,Lynch REBOUND (Off:1 Def:4),Rebound,Unknown,0,378
+49900026,366,PT07M10.00S,4,1610612755,PHI,689,Ratliff,T. Ratliff,59,5,6,Made,1,92.0,89.0,181,h,Ratliff 6' Hook Shot (8 PTS) (McKie 8 AST),Made Shot,Hook Shot,0,379
+49900026,367,PT07M06.00S,4,0,,1610612740,,,0,0,0,,0,,,0,v,Hornets Timeout: Regular (Reg.4 Short 2),Timeout,Regular,0,380
+49900026,368,PT06M48.00S,4,1610612766,CHH,922,Campbell,E. Campbell,40,61,7,Missed,1,,,0,v,MISS Campbell 7' Jump Shot,Missed Shot,Jump Shot,0,381
+49900026,369,PT06M45.00S,4,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,,,0,v,Coleman REBOUND (Off:1 Def:6),Rebound,Unknown,0,382
+49900026,370,PT06M44.00S,4,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,Made,1,92.0,91.0,183,v,Coleman Layup (16 PTS),Made Shot,Layup Shot,0,383
+49900026,371,PT06M22.00S,4,1610612755,PHI,243,McKie,A. McKie,-3,33,3,Missed,1,,,0,h,MISS McKie 3' Layup,Missed Shot,Layup Shot,0,384
+49900026,371,PT06M22.00S,4,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,,,0,v,Coleman BLOCK (5 BLK),,,0,385
+49900026,372,PT06M22.00S,4,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Unknown,0,386
+49900026,373,PT06M16.00S,4,1610612755,PHI,947,Iverson,A. Iverson,-18,55,6,Missed,1,,,0,h,MISS Iverson 6' Jump Shot,Missed Shot,Jump Shot,0,387
+49900026,374,PT06M14.00S,4,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,,,0,v,Campbell REBOUND (Off:4 Def:7),Rebound,Unknown,0,388
+49900026,375,PT05M59.00S,4,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,Hill S.FOUL (P5.T3),Foul,Shooting,0,389
+49900026,376,PT05M59.00S,4,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,92.0,92.0,184,v,Campbell Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,390
+49900026,377,PT05M59.00S,4,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,SUB: Geiger FOR Hill,Substitution,,0,391
+49900026,378,PT05M59.00S,4,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,,,0,v,MISS Campbell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,392
+49900026,379,PT05M58.00S,4,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,Lynch REBOUND (Off:1 Def:5),Rebound,Unknown,0,393
+49900026,380,PT05M43.00S,4,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,Made,1,94.0,92.0,186,h,Geiger Slam Dunk (17 PTS) (McKie 9 AST),Made Shot,Slam Dunk Shot,0,394
+49900026,381,PT05M31.00S,4,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,Geiger P.FOUL (P4.T4),Foul,Personal,0,395
+49900026,382,PT05M26.00S,4,1610612766,CHH,224,Jones,E. Jones,138,222,26,Made,1,94.0,95.0,189,v,Jones 26' 3PT Jump Shot (17 PTS) (Wesley 5 AST),Made Shot,Jump Shot,0,396
+49900026,383,PT05M12.00S,4,1610612766,CHH,922,Campbell,E. Campbell,0,0,0,,0,,,0,v,Campbell P.FOUL (P5.T2),Foul,Personal,0,397
+49900026,384,PT05M00.00S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,Made,1,96.0,95.0,191,h,Iverson Driving Layup (21 PTS) (McKie 10 AST),Made Shot,Driving Layup Shot,0,398
+49900026,385,PT04M39.00S,4,1610612766,CHH,922,Campbell,E. Campbell,-31,-10,3,Missed,1,,,0,v,MISS Campbell 3' Jump Shot,Missed Shot,Jump Shot,0,399
+49900026,385,PT04M39.00S,4,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,,,0,h,Ratliff BLOCK (4 BLK),,,0,400
+49900026,386,PT04M37.00S,4,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,Geiger REBOUND (Off:5 Def:4),Rebound,Unknown,0,401
+49900026,387,PT04M24.00S,4,1610612755,PHI,947,Iverson,A. Iverson,-177,201,27,Made,1,99.0,95.0,194,h,Iverson 27' 3PT Jump Shot (24 PTS) (McKie 11 AST),Made Shot,Jump Shot,0,402
+49900026,388,PT04M04.00S,4,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,Lynch P.FOUL (P4.PN),Foul,Personal,0,403
+49900026,389,PT04M04.00S,4,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,,,0,v,MISS Coleman Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,404
+49900026,390,PT04M04.00S,4,0,,1610612740,,,0,0,0,,0,,,0,v,Hornets Rebound,Rebound,Normal Rebound,0,405
+49900026,391,PT04M04.00S,4,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,,,0,v,MISS Coleman Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,406
+49900026,392,PT04M03.00S,4,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,Geiger REBOUND (Off:5 Def:5),Rebound,Unknown,0,407
+49900026,393,PT03M41.00S,4,1610612755,PHI,248,Lynch,G. Lynch,-141,89,17,Missed,1,,,0,h,MISS Lynch 17' Jump Shot,Missed Shot,Jump Shot,0,408
+49900026,394,PT03M40.00S,4,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,v,Mason REBOUND (Off:5 Def:4),Rebound,Unknown,0,409
+49900026,395,PT03M27.00S,4,1610612766,CHH,193,Mason,A. Mason,-40,44,6,Missed,1,,,0,v,MISS Mason 6' Jump Shot,Missed Shot,Jump Shot,0,410
+49900026,397,PT03M24.00S,4,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,,,0,v,Coleman REBOUND (Off:2 Def:6),Rebound,Unknown,0,411
+49900026,396,PT03M24.00S,4,1610612766,CHH,934,Coleman,D. Coleman,-18,55,6,Missed,1,,,0,v,MISS Coleman 6' Jump Shot,Missed Shot,Jump Shot,0,412
+49900026,398,PT03M23.00S,4,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,Lynch REBOUND (Off:1 Def:6),Rebound,Unknown,0,413
+49900026,399,PT03M10.00S,4,1610612755,PHI,947,Iverson,A. Iverson,-177,61,19,Made,1,101.0,95.0,196,h,Iverson 19' Jump Shot (26 PTS),Made Shot,Jump Shot,0,414
+49900026,400,PT03M06.00S,4,0,,1610612740,,,0,0,0,,0,,,0,v,Hornets Timeout: Regular (Reg.5 Short 2),Timeout,Regular,0,415
+49900026,402,PT03M06.00S,4,1610612755,PHI,761,Geiger,M. Geiger,0,0,0,,0,,,0,h,SUB: Hill FOR Geiger,Substitution,,0,416
+49900026,403,PT02M42.00S,4,1610612766,CHH,224,Jones,E. Jones,81,233,25,Missed,1,,,0,v,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,417
+49900026,404,PT02M40.00S,4,1610612766,CHH,193,Mason,A. Mason,0,0,0,,0,,,0,v,Mason REBOUND (Off:6 Def:4),Rebound,Unknown,0,418
+49900026,405,PT02M39.00S,4,1610612766,CHH,193,Mason,A. Mason,0,0,0,Made,1,101.0,97.0,198,v,Mason Layup (21 PTS),Made Shot,Layup Shot,0,419
+49900026,406,PT02M15.00S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,Iverson Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,420
+49900026,406,PT02M15.00S,4,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,,,0,v,Coleman STEAL (2 STL),,,0,421
+49900026,407,PT02M04.00S,4,1610612766,CHH,224,Jones,E. Jones,-156,21,16,Missed,1,,,0,v,MISS Jones 16' Jump Shot,Missed Shot,Jump Shot,0,422
+49900026,408,PT02M03.00S,4,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,Hill REBOUND (Off:1 Def:3),Rebound,Unknown,0,423
+49900026,409,PT01M42.00S,4,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,,,0,v,Wesley P.FOUL (P4.T3),Foul,Personal,0,424
+49900026,410,PT01M35.00S,4,1610612755,PHI,243,McKie,A. McKie,190,177,26,Missed,1,,,0,h,MISS McKie 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,425
+49900026,411,PT01M33.00S,4,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Unknown,0,426
+49900026,412,PT01M33.00S,4,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,427
+49900026,413,PT01M11.00S,4,1610612755,PHI,243,McKie,A. McKie,-25,171,17,Missed,1,,,0,h,MISS McKie 17' Jump Shot,Missed Shot,Jump Shot,0,428
+49900026,414,PT01M10.00S,4,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,,,0,v,Coleman REBOUND (Off:2 Def:7),Rebound,Unknown,0,429
+49900026,415,PT00M51.60S,4,1610612766,CHH,934,Coleman,D. Coleman,-190,229,30,Missed,1,,,0,v,MISS Coleman 30' 3PT Jump Shot,Missed Shot,Jump Shot,0,430
+49900026,416,PT00M49.90S,4,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,Hill REBOUND (Off:1 Def:4),Rebound,Unknown,0,431
+49900026,417,PT00M26.70S,4,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,,,0,v,Coleman S.FOUL (P5.PN),Foul,Shooting,0,432
+49900026,418,PT00M26.70S,4,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,102.0,97.0,199,h,Ratliff Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,433
+49900026,419,PT00M26.70S,4,0,,1610612740,,,0,0,0,,0,,,0,v,Hornets Timeout: Regular (Reg.6 Short 2),Timeout,Regular,0,434
+49900026,420,PT00M26.70S,4,1610612755,PHI,689,Ratliff,T. Ratliff,0,0,0,,0,103.0,97.0,200,h,Ratliff Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,435
+49900026,421,PT00M20.00S,4,1610612766,CHH,224,Jones,E. Jones,162,244,29,Missed,1,,,0,v,MISS Jones 29' 3PT Jump Shot,Missed Shot,Jump Shot,0,436
+49900026,422,PT00M18.80S,4,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,Lynch REBOUND (Off:1 Def:7),Rebound,Unknown,0,437
+49900026,423,PT00M17.50S,4,1610612755,PHI,248,Lynch,G. Lynch,0,0,0,,0,,,0,h,Lynch Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,438
+49900026,424,PT00M11.00S,4,1610612766,CHH,193,Mason,A. Mason,154,229,28,Missed,1,,,0,v,MISS Mason 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,439
+49900026,425,PT00M09.50S,4,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,,,0,v,Coleman REBOUND (Off:3 Def:7),Rebound,Unknown,0,440
+49900026,426,PT00M08.10S,4,1610612766,CHH,934,Coleman,D. Coleman,-53,-5,5,Made,1,103.0,99.0,202,v,Coleman 5' Jump Shot (18 PTS),Made Shot,Jump Shot,0,441
+49900026,427,PT00M07.30S,4,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,,,0,v,Wesley P.FOUL (P5.PN),Foul,Personal,0,442
+49900026,428,PT00M07.30S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,MISS Iverson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,443
+49900026,429,PT00M07.30S,4,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Rebound,Rebound,Normal Rebound,0,444
+49900026,430,PT00M07.30S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,MISS Iverson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,445
+49900026,431,PT00M06.90S,4,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,,,0,v,Coleman REBOUND (Off:3 Def:8),Rebound,Unknown,0,446
+49900026,432,PT00M06.90S,4,0,,1610612755,,,0,0,0,,0,,,0,h,76ERS Violation: Delay of game Violation,Violation,Delay Of Game,0,447
+49900026,433,PT00M03.80S,4,1610612766,CHH,922,Campbell,E. Campbell,53,48,7,Missed,1,,,0,v,MISS Campbell 7' Jump Shot,Missed Shot,Jump Shot,0,448
+49900026,435,PT00M01.70S,4,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,,,0,v,Wesley REBOUND (Off:1 Def:2),Rebound,Unknown,0,449
+49900026,434,PT00M01.70S,4,1610612766,CHH,133,Wesley,D. Wesley,-12,33,4,Missed,1,,,0,v,MISS Wesley 4' Jump Shot,Missed Shot,Jump Shot,0,450
+49900026,436,PT00M00.40S,4,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,,,0,h,Hill REBOUND (Off:1 Def:5),Rebound,Unknown,0,451
+49900026,437,PT00M00.40S,4,1610612766,CHH,934,Coleman,D. Coleman,0,0,0,,0,,,0,v,Coleman P.FOUL (P6.PN),Foul,Personal,0,452
+49900026,438,PT00M00.40S,4,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,104.0,99.0,203,h,Hill Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,453
+49900026,439,PT00M00.40S,4,1610612755,PHI,947,Iverson,A. Iverson,0,0,0,,0,,,0,h,SUB: Ollie FOR Iverson,Substitution,,0,454
+49900026,440,PT00M00.40S,4,1610612755,PHI,238,Hill,T. Hill,0,0,0,,0,105.0,99.0,204,h,Hill Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,455
+49900026,441,PT00M00.40S,4,1610612755,PHI,243,McKie,A. McKie,0,0,0,,0,,,0,h,SUB: Jones FOR McKie,Substitution,,0,456
+49900026,442,PT00M00.00S,4,0,,0,,,0,0,0,,0,105.0,99.0,204,,End of 4th Period (1:40 PM EST),period,end,0,457

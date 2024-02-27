@@ -1,0 +1,79 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId,clock_sec
+29700142,0,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (12:10 PM EST),period,start,0,1,0.0
+29700142,1,PT12M00.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,h,Jump Ball Ilgauskas vs. Seikaly: Tip to Price,Jump Ball,,0,2,0.0
+29700142,2,PT11M44.00S,1,1610612753,ORL,938,Seikaly,R. Seikaly,0,0,0,,0,0.0,0.0,0,v,Seikaly Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,3,16.0
+29700142,2,PT11M44.00S,1,1610612739,CLE,445,Person,W. Person,0,0,0,,0,0.0,0.0,0,h,Person STEAL (1 STL),,,0,4,16.0
+29700142,3,PT11M43.00S,1,1610612753,ORL,270,Grant,H. Grant,0,0,0,,0,0.0,0.0,0,v,Grant P.FOUL (P1.T1),Foul,Personal,0,5,17.0
+29700142,4,PT11M33.00S,1,1610612739,CLE,445,Person,W. Person,-177,0,18,Missed,1,0.0,0.0,0,h,MISS Person 18' Jump Shot,Missed Shot,Jump Shot,0,6,27.0
+29700142,5,PT11M31.00S,1,1610612753,ORL,270,Grant,H. Grant,0,0,0,,0,0.0,0.0,0,v,Grant REBOUND (Off:0 Def:1),Rebound,Unknown,0,7,29.0
+29700142,6,PT11M22.00S,1,1610612753,ORL,270,Grant,H. Grant,-83,128,15,Missed,1,0.0,0.0,0,v,MISS Grant 15' Jump Shot,Missed Shot,Jump Shot,0,8,38.0
+29700142,7,PT11M20.00S,1,1610612739,CLE,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,Kemp REBOUND (Off:0 Def:1),Rebound,Unknown,0,9,40.0
+29700142,8,PT11M13.00S,1,1610612739,CLE,445,Person,W. Person,177,10,18,Made,1,2.0,0.0,2,h,Person 18' Jump Shot (2 PTS) (Kemp 1 AST),Made Shot,Jump Shot,0,10,47.0
+29700142,9,PT10M51.00S,1,1610612753,ORL,98,Anderson,N. Anderson,-106,156,19,Missed,1,0.0,0.0,0,v,MISS Anderson 19' Jump Shot,Missed Shot,Jump Shot,0,11,69.0
+29700142,11,PT10M49.00S,1,1610612753,ORL,270,Grant,H. Grant,0,0,0,,0,0.0,0.0,0,v,Grant REBOUND (Off:1 Def:1),Rebound,Unknown,0,12,71.0
+29700142,10,PT10M47.00S,1,1610612753,ORL,270,Grant,H. Grant,-6,-1,1,Made,1,2.0,2.0,4,v,Grant 1' Layup (2 PTS),Made Shot,Layup Shot,0,13,73.0
+29700142,12,PT10M39.00S,1,1610612739,CLE,445,Person,W. Person,16,25,3,Missed,1,0.0,0.0,0,h,MISS Person 3' Layup,Missed Shot,Layup Shot,0,14,81.0
+29700142,14,PT10M36.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,h,Ilgauskas REBOUND (Off:1 Def:0),Rebound,Unknown,0,15,84.0
+29700142,13,PT10M36.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,14,36,4,Missed,1,0.0,0.0,0,h,MISS Ilgauskas 4' Jump Shot,Missed Shot,Jump Shot,0,16,84.0
+29700142,13,PT10M36.00S,1,1610612753,ORL,448,Outlaw,B. Outlaw,0,0,0,,0,0.0,0.0,0,v,Outlaw BLOCK (1 BLK),,,0,17,84.0
+29700142,15,PT10M33.00S,1,1610612739,CLE,1507,Anderson,D. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson REBOUND (Off:1 Def:0),Rebound,Unknown,0,18,87.0
+29700142,16,PT10M30.00S,1,1610612739,CLE,431,Kemp,S. Kemp,-111,66,13,Missed,1,0.0,0.0,0,h,MISS Kemp 13' Jump Shot,Missed Shot,Jump Shot,0,19,90.0
+29700142,17,PT10M28.00S,1,1610612753,ORL,270,Grant,H. Grant,0,0,0,,0,0.0,0.0,0,v,Grant REBOUND (Off:1 Def:2),Rebound,Unknown,0,20,92.0
+29700142,18,PT10M23.00S,1,1610612753,ORL,448,Outlaw,B. Outlaw,0,0,0,,0,0.0,0.0,0,v,Outlaw Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,21,97.0
+29700142,18,PT10M23.00S,1,1610612739,CLE,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,Kemp STEAL (1 STL),,,0,22,97.0
+29700142,19,PT10M16.00S,1,1610612739,CLE,1507,Anderson,D. Anderson,3,3,0,Missed,1,0.0,0.0,0,h,MISS Anderson  Layup,Missed Shot,Layup Shot,0,23,104.0
+29700142,21,PT10M14.00S,1,1610612739,CLE,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,Kemp REBOUND (Off:1 Def:1),Rebound,Unknown,0,24,106.0
+29700142,20,PT10M14.00S,1,1610612739,CLE,431,Kemp,S. Kemp,0,8,1,Missed,1,0.0,0.0,0,h,MISS Kemp 1' Tip Shot,Missed Shot,Tip Shot,0,25,106.0
+29700142,23,PT10M12.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,h,Ilgauskas REBOUND (Off:2 Def:0),Rebound,Unknown,0,26,108.0
+29700142,22,PT10M12.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,-8,5,1,Made,1,4.0,2.0,6,h,Ilgauskas 1' Tip Shot (2 PTS),Made Shot,Tip Shot,0,27,108.0
+29700142,24,PT09M55.00S,1,1610612753,ORL,98,Anderson,N. Anderson,143,119,19,Missed,1,0.0,0.0,0,v,MISS Anderson 19' Jump Shot,Missed Shot,Jump Shot,0,28,125.0
+29700142,25,PT09M53.00S,1,1610612739,CLE,1507,Anderson,D. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson REBOUND (Off:1 Def:1),Rebound,Unknown,0,29,127.0
+29700142,26,PT09M45.00S,1,1610612739,CLE,431,Kemp,S. Kemp,-12,8,1,Missed,1,0.0,0.0,0,h,MISS Kemp 1' Layup,Missed Shot,Layup Shot,0,30,135.0
+29700142,28,PT09M43.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,h,Ilgauskas REBOUND (Off:3 Def:0),Rebound,Unknown,0,31,137.0
+29700142,27,PT09M43.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,3,5,1,Missed,1,0.0,0.0,0,h,MISS Ilgauskas 1' Tip Shot,Missed Shot,Tip Shot,0,32,137.0
+29700142,30,PT09M41.00S,1,1610612739,CLE,1507,Anderson,D. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson REBOUND (Off:2 Def:1),Rebound,Unknown,0,33,139.0
+29700142,29,PT09M39.00S,1,1610612739,CLE,1507,Anderson,D. Anderson,-63,59,9,Made,1,6.0,2.0,8,h,Anderson 9' Jump Shot (2 PTS),Made Shot,Jump Shot,0,34,141.0
+29700142,31,PT09M18.00S,1,1610612753,ORL,98,Anderson,N. Anderson,-42,169,17,Made,1,6.0,4.0,10,v,Anderson 17' Jump Shot (2 PTS) (Grant 1 AST),Made Shot,Jump Shot,0,35,162.0
+29700142,32,PT08M53.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,63,102,12,Missed,1,0.0,0.0,0,h,MISS Ilgauskas 12' Jump Shot,Missed Shot,Jump Shot,0,36,187.0
+29700142,34,PT08M51.00S,1,1610612739,CLE,445,Person,W. Person,0,0,0,,0,0.0,0.0,0,h,Person REBOUND (Off:1 Def:0),Rebound,Unknown,0,37,189.0
+29700142,33,PT08M51.00S,1,1610612739,CLE,445,Person,W. Person,-1,8,1,Made,1,8.0,4.0,12,h,Person 1' Tip Shot (4 PTS),Made Shot,Tip Shot,0,38,189.0
+29700142,35,PT08M34.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,h,Ilgauskas S.FOUL (P1.T1),Foul,Shooting,0,39,206.0
+29700142,36,PT08M34.00S,1,1610612753,ORL,448,Outlaw,B. Outlaw,0,0,0,,0,8.0,5.0,13,v,Outlaw Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,40,206.0
+29700142,37,PT08M34.00S,1,1610612753,ORL,448,Outlaw,B. Outlaw,0,0,0,,0,0.0,0.0,0,v,MISS Outlaw Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,41,206.0
+29700142,38,PT08M34.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,h,Ilgauskas REBOUND (Off:3 Def:1),Rebound,Unknown,0,42,206.0
+29700142,39,PT08M16.00S,1,1610612753,ORL,270,Grant,H. Grant,0,0,0,,0,0.0,0.0,0,v,Grant P.FOUL (P2.T2),Foul,Personal,0,43,224.0
+29700142,40,PT08M09.00S,1,1610612739,CLE,445,Person,W. Person,-16,31,3,Missed,1,0.0,0.0,0,h,MISS Person 3' Hook Shot,Missed Shot,Hook Shot,0,44,231.0
+29700142,41,PT08M07.00S,1,1610612753,ORL,938,Seikaly,R. Seikaly,0,0,0,,0,0.0,0.0,0,v,Seikaly REBOUND (Off:0 Def:1),Rebound,Unknown,0,45,233.0
+29700142,42,PT08M01.00S,1,1610612753,ORL,899,Price,M. Price,173,179,25,Made,1,8.0,8.0,16,v,Price 25' 3PT Jump Shot (3 PTS) (Seikaly 1 AST),Made Shot,Jump Shot,0,46,239.0
+29700142,43,PT07M44.00S,1,1610612739,CLE,431,Kemp,S. Kemp,0,192,19,Missed,1,0.0,0.0,0,h,MISS Kemp 19' Jump Shot,Missed Shot,Jump Shot,0,47,256.0
+29700142,44,PT07M42.00S,1,1610612753,ORL,448,Outlaw,B. Outlaw,0,0,0,,0,0.0,0.0,0,v,Outlaw REBOUND (Off:0 Def:1),Rebound,Unknown,0,48,258.0
+29700142,45,PT07M37.00S,1,1610612753,ORL,270,Grant,H. Grant,-151,1,15,Missed,1,0.0,0.0,0,v,MISS Grant 15' Jump Shot,Missed Shot,Jump Shot,0,49,263.0
+29700142,46,PT07M35.00S,1,1610612739,CLE,1507,Anderson,D. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson REBOUND (Off:2 Def:2),Rebound,Unknown,0,50,265.0
+29700142,47,PT07M30.00S,1,1610612739,CLE,1507,Anderson,D. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,51,270.0
+29700142,48,PT07M22.00S,1,1610612753,ORL,899,Price,M. Price,143,164,22,Missed,1,0.0,0.0,0,v,MISS Price 22' Jump Shot,Missed Shot,Jump Shot,0,52,278.0
+29700142,49,PT07M20.00S,1,1610612739,CLE,1507,Anderson,D. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson REBOUND (Off:2 Def:3),Rebound,Unknown,0,53,280.0
+29700142,50,PT07M16.00S,1,1610612739,CLE,1507,Anderson,D. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson Lost Ball Turnover (P2.T2),Turnover,Lost Ball,0,54,284.0
+29700142,51,PT07M07.00S,1,1610612739,CLE,1510,Knight,B. Knight,0,0,0,,0,0.0,0.0,0,h,Knight P.FOUL (P1.T2),Foul,Personal,0,55,293.0
+29700142,52,PT07M02.00S,1,1610612753,ORL,938,Seikaly,R. Seikaly,3,8,1,Missed,1,0.0,0.0,0,v,MISS Seikaly 1' Layup,Missed Shot,Layup Shot,0,56,298.0
+29700142,52,PT07M02.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,h,Ilgauskas BLOCK (1 BLK),,,0,57,298.0
+29700142,54,PT07M00.00S,1,1610612753,ORL,938,Seikaly,R. Seikaly,0,0,0,,0,0.0,0.0,0,v,Seikaly REBOUND (Off:1 Def:1),Rebound,Unknown,0,58,300.0
+29700142,53,PT07M00.00S,1,1610612753,ORL,938,Seikaly,R. Seikaly,-6,0,1,Made,1,8.0,10.0,18,v,Seikaly 1' Tip Shot (2 PTS),Made Shot,Tip Shot,0,59,300.0
+29700142,55,PT06M53.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,-29,16,3,Made,1,10.0,10.0,20,h,Ilgauskas 3' Hook Shot (4 PTS) (Knight 1 AST),Made Shot,Hook Shot,0,60,307.0
+29700142,56,PT06M34.00S,1,1610612753,ORL,270,Grant,H. Grant,-29,177,18,Made,1,10.0,12.0,22,v,Grant 18' Jump Shot (4 PTS) (Price 1 AST),Made Shot,Jump Shot,0,61,326.0
+29700142,57,PT06M28.00S,1,0,,1610612739,,,0,0,0,,0,0.0,0.0,0,h,CAVALIERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,62,332.0
+29700142,59,PT06M15.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,-55,31,6,Made,1,12.0,12.0,24,h,Ilgauskas 6' Hook Shot (6 PTS) (Person 1 AST),Made Shot,Hook Shot,0,63,345.0
+29700142,60,PT05M56.00S,1,1610612753,ORL,938,Seikaly,R. Seikaly,0,0,0,,0,0.0,0.0,0,v,Seikaly Traveling Turnover (P2.T3),Turnover,Traveling,0,64,364.0
+29700142,61,PT05M43.00S,1,1610612739,CLE,431,Kemp,S. Kemp,0,40,4,Made,1,14.0,12.0,26,h,Kemp 4' Running Jump Shot (2 PTS) (Anderson 1 AST),Made Shot,Running Jump Shot,0,65,377.0
+29700142,62,PT05M23.00S,1,1610612753,ORL,899,Price,M. Price,0,0,0,,0,0.0,0.0,0,v,Price Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,66,397.0
+29700142,62,PT05M23.00S,1,1610612739,CLE,980,Ilgauskas,Z. Ilgauskas,0,0,0,,0,0.0,0.0,0,h,Ilgauskas STEAL (1 STL),,,0,67,397.0
+29700142,63,PT05M18.00S,1,1610612739,CLE,445,Person,W. Person,0,0,0,,0,0.0,0.0,0,h,Person Traveling Turnover (P1.T3),Turnover,Traveling,0,68,402.0
+29700142,64,PT05M05.00S,1,1610612753,ORL,899,Price,M. Price,0,3,0,Missed,1,0.0,0.0,0,v,MISS Price  Driving Layup,Missed Shot,Driving Layup Shot,0,69,415.0
+29700142,65,PT05M03.00S,1,0,,1610612753,,,0,0,0,,0,0.0,0.0,0,v,Magic Rebound,Rebound,Unknown,0,70,417.0
+29700142,66,PT05M00.00S,1,1610612753,ORL,938,Seikaly,R. Seikaly,89,121,15,Missed,1,0.0,0.0,0,v,MISS Seikaly 15' Jump Shot,Missed Shot,Jump Shot,0,71,420.0
+29700142,67,PT04M58.00S,1,1610612739,CLE,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,Kemp REBOUND (Off:1 Def:2),Rebound,Unknown,0,72,422.0
+29700142,68,PT04M47.00S,1,1610612753,ORL,448,Outlaw,B. Outlaw,0,0,0,,0,0.0,0.0,0,v,Outlaw S.FOUL (P1.T3),Foul,Shooting,0,73,433.0
+29700142,69,PT04M47.00S,1,1610612739,CLE,431,Kemp,S. Kemp,0,0,0,,0,15.0,12.0,27,h,Kemp Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,74,433.0
+29700142,70,PT04M47.00S,1,1610612753,ORL,270,Grant,H. Grant,0,0,0,,0,0.0,0.0,0,v,SUB: Strong FOR Grant,Substitution,,0,75,433.0
+29700142,71,PT04M47.00S,1,1610612753,ORL,899,Price,M. Price,0,0,0,,0,0.0,0.0,0,v,SUB: Armstrong FOR Price,Substitution,,0,76,433.0
+29700142,72,PT04M47.00S,1,1610612739,CLE,431,Kemp,S. Kemp,0,0,0,,0,0.0,0.0,0,h,MISS Kemp Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,77,433.0
+29700142,73,PT04M47.00S,1,1610612753,ORL,400,Strong,D. Strong,0,0,0,,0,0.0,0.0,0,v,Strong REBOUND (Off:0 Def:1),Rebound,Unknown,0,78,433.0

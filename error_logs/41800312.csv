@@ -1,0 +1,465 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+41800312,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (9:17 PM EST),period,start,0,1
+41800312,4,PT12M00.00S,1,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,,,0,h,Jump Ball Bogut vs. Kanter: Tip to Curry,Jump Ball,,1,2
+41800312,7,PT11M47.00S,1,1610612744,GSW,203110,Green,D. Green,-13,13,2,Made,1,2.0,0.0,2,h,Green 2' Cutting Dunk Shot (2 PTS) (Bogut 1 AST),Made Shot,Cutting Dunk Shot,1,3
+41800312,9,PT11M28.00S,1,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,,,0,h,Bogut P.FOUL (P1.T1) (J.Capers),Foul,Personal,1,4
+41800312,11,PT11M16.00S,1,1610612757,POR,202329,Aminu,A. Aminu,-51,79,9,Missed,1,,,0,v,MISS Aminu 9' Layup,Missed Shot,Layup Shot,1,5
+41800312,12,PT11M15.00S,1,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,,,0,v,Harkless REBOUND (Off:1 Def:0),Rebound,Unknown,1,6
+41800312,13,PT11M11.00S,1,1610612757,POR,203090,Harkless,M. Harkless,11,18,2,Made,1,2.0,2.0,4,v,Harkless 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,7
+41800312,15,PT10M52.00S,1,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,,,0,v,Harkless S.FOUL (P1.T1) (J.Tiven),Foul,Shooting,1,8
+41800312,17,PT10M52.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,3.0,2.0,5,h,Thompson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,9
+41800312,18,PT10M52.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,4.0,2.0,6,h,Thompson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,10
+41800312,19,PT10M41.00S,1,1610612757,POR,203081,Lillard,D. Lillard,149,260,30,Missed,1,,,0,v,MISS Lillard 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,11
+41800312,20,PT10M39.00S,1,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,,,0,h,Bogut REBOUND (Off:0 Def:1),Rebound,Unknown,1,12
+41800312,21,PT10M32.00S,1,1610612744,GSW,203110,Green,D. Green,-2,256,26,Missed,1,,,0,h,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,13
+41800312,22,PT10M29.00S,1,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Rebound,Rebound,Unknown,0,14
+41800312,24,PT10M13.00S,1,1610612757,POR,203468,McCollum,C. McCollum,-130,151,20,Made,1,4.0,4.0,8,v,McCollum 20' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,1,15
+41800312,25,PT10M06.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,16
+41800312,25,PT10M06.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard STEAL (1 STL),,,1,17
+41800312,27,PT09M56.00S,1,1610612757,POR,202329,Aminu,A. Aminu,6,17,2,Made,1,4.0,6.0,10,v,Aminu 2' Running Dunk (2 PTS) (Lillard 1 AST),Made Shot,Running Dunk Shot,1,18
+41800312,29,PT09M29.00S,1,1610612744,GSW,203110,Green,D. Green,9,27,3,Made,1,6.0,6.0,12,h,Green 3' Driving Finger Roll Layup (4 PTS) (Thompson 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,19
+41800312,31,PT09M15.00S,1,1610612757,POR,203468,McCollum,C. McCollum,85,74,11,Missed,1,,,0,v,MISS McCollum 11' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,20
+41800312,32,PT09M14.00S,1,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:1 Def:0),Rebound,Unknown,1,21
+41800312,33,PT09M10.00S,1,1610612757,POR,202329,Aminu,A. Aminu,0,-6,1,Missed,1,,,0,v,MISS Aminu 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,22
+41800312,34,PT09M10.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,1,23
+41800312,35,PT09M02.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,107,24,11,Made,1,8.0,6.0,14,h,Thompson 11' Turnaround Fadeaway (4 PTS),Made Shot,Turnaround Fadeaway shot,1,24
+41800312,36,PT08M42.00S,1,1610612757,POR,203468,McCollum,C. McCollum,13,257,26,Made,1,8.0,9.0,17,v,McCollum 26' 3PT Pullup Jump Shot (5 PTS) (Lillard 2 AST),Made Shot,Pullup Jump shot,1,25
+41800312,38,PT08M29.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,161,49,17,Missed,1,,,0,h,MISS Thompson 17' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,26
+41800312,39,PT08M28.00S,1,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:1 Def:1),Rebound,Unknown,1,27
+41800312,40,PT08M24.00S,1,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu Offensive Charge Foul (P1.T2) (K.Mauer),Foul,Offensive Charge,1,28
+41800312,42,PT08M24.00S,1,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,1,29
+41800312,43,PT08M24.00S,1,1610612744,GSW,101106,Bogut,A. Bogut,0,0,0,,0,,,0,h,SUB: Looney FOR Bogut,Substitution,,0,30
+41800312,45,PT08M05.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,5,11,1,Missed,1,,,0,h,MISS Thompson 1' Driving Layup,Missed Shot,Driving Layup Shot,1,31
+41800312,46,PT08M04.00S,1,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,,,0,v,Harkless REBOUND (Off:1 Def:1),Rebound,Unknown,1,32
+41800312,47,PT07M59.00S,1,1610612757,POR,203468,McCollum,C. McCollum,-157,238,29,Made,1,8.0,12.0,20,v,McCollum 29' 3PT Running Pull-Up Jump Shot (8 PTS) (Harkless 1 AST),Made Shot,Running Pull-Up Jump Shot,1,33
+41800312,49,PT07M52.00S,1,1610612744,GSW,203110,Green,D. Green,7,6,1,Made,1,10.0,12.0,22,h,Green 1' Running Layup (6 PTS) (Curry 1 AST),Made Shot,Running Layup Shot,1,34
+41800312,50,PT07M52.00S,1,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu S.FOUL (P2.T3) (K.Mauer),Foul,Shooting,1,35
+41800312,52,PT07M52.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,MISS Green Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,36
+41800312,53,PT07M51.00S,1,1610612757,POR,202683,Freedom,E. Freedom,0,0,0,,0,,,0,v,Kanter REBOUND (Off:0 Def:1),Rebound,Unknown,1,37
+41800312,55,PT07M39.00S,1,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,,,0,v,McCollum Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,38
+41800312,55,PT07M39.00S,1,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala STEAL (1 STL),,,1,39
+41800312,57,PT07M31.00S,1,1610612744,GSW,201939,Curry,S. Curry,-125,216,25,Missed,1,,,0,h,MISS Curry 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,40
+41800312,58,PT07M29.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard REBOUND (Off:0 Def:1),Rebound,Unknown,1,41
+41800312,59,PT07M19.00S,1,1610612757,POR,203090,Harkless,M. Harkless,138,222,26,Made,1,10.0,15.0,25,v,Harkless 26' 3PT Pullup Jump Shot (5 PTS) (Lillard 3 AST),Made Shot,Pullup Jump shot,1,42
+41800312,61,PT07M04.00S,1,1610612744,GSW,2738,Iguodala,A. Iguodala,-227,11,0,Missed,1,,,0,h,MISS Iguodala 3PT Jump Shot,Missed Shot,Jump Shot,1,43
+41800312,62,PT07M02.00S,1,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:1 Def:2),Rebound,Unknown,1,44
+41800312,63,PT06M55.00S,1,1610612757,POR,202683,Freedom,E. Freedom,22,36,4,Missed,1,,,0,v,MISS Kanter 4' Layup,Missed Shot,Layup Shot,1,45
+41800312,63,PT06M55.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green BLOCK (1 BLK),,,1,46
+41800312,65,PT06M54.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,47
+41800312,66,PT06M47.00S,1,1610612744,GSW,201939,Curry,S. Curry,22,16,3,Made,1,12.0,15.0,27,h,Curry 3' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,48
+41800312,67,PT06M30.00S,1,1610612757,POR,202329,Aminu,A. Aminu,223,42,0,Made,1,12.0,18.0,30,v,Aminu 3PT Jump Shot (5 PTS) (McCollum 1 AST),Made Shot,Jump Shot,1,49
+41800312,69,PT06M21.00S,1,1610612744,GSW,201939,Curry,S. Curry,119,288,31,Made,1,15.0,18.0,33,h,Curry 31' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,50
+41800312,70,PT06M00.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green S.FOUL (P1.T2) (K.Mauer),Foul,Shooting,1,51
+41800312,72,PT06M00.00S,1,0,,1610612744,,,0,0,0,,0,,,0,h,WARRIORS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,52
+41800312,73,PT06M00.00S,1,1610612757,POR,202683,Freedom,E. Freedom,0,0,0,,0,,,0,v,SUB: Leonard FOR Kanter,Substitution,,0,53
+41800312,75,PT06M00.00S,1,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,15.0,19.0,34,v,Aminu Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,54
+41800312,76,PT06M00.00S,1,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,15.0,20.0,35,v,Aminu Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,55
+41800312,77,PT05M45.00S,1,1610612744,GSW,2738,Iguodala,A. Iguodala,228,20,0,Missed,1,,,0,h,MISS Iguodala 3PT Jump Shot,Missed Shot,Jump Shot,1,56
+41800312,78,PT05M43.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard REBOUND (Off:0 Def:2),Rebound,Unknown,1,57
+41800312,79,PT05M32.00S,1,1610612757,POR,203468,McCollum,C. McCollum,97,24,10,Missed,1,,,0,v,MISS McCollum 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,58
+41800312,80,PT05M31.00S,1,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,,,0,v,Leonard REBOUND (Off:1 Def:0),Rebound,Unknown,1,59
+41800312,81,PT05M25.00S,1,1610612757,POR,203086,Leonard,M. Leonard,-28,34,4,Missed,1,,,0,v,MISS Leonard 4' Hook Shot,Missed Shot,Hook Shot,1,60
+41800312,81,PT05M25.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green BLOCK (2 BLK),,,1,61
+41800312,82,PT05M24.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:0 Def:2),Rebound,Unknown,1,62
+41800312,83,PT05M16.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,Curry Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,63
+41800312,83,PT05M16.00S,1,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,,,0,v,McCollum STEAL (1 STL),,,1,64
+41800312,85,PT05M09.00S,1,1610612757,POR,202329,Aminu,A. Aminu,-7,8,1,Made,1,15.0,22.0,37,v,Aminu 1' Running Dunk (9 PTS) (McCollum 2 AST),Made Shot,Running Dunk Shot,1,65
+41800312,87,PT04M45.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,-91,225,24,Missed,1,,,0,h,MISS Thompson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,66
+41800312,88,PT04M43.00S,1,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:1 Def:3),Rebound,Unknown,1,67
+41800312,89,PT04M38.00S,1,1610612757,POR,203081,Lillard,D. Lillard,-47,270,27,Missed,1,,,0,v,MISS Lillard 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,68
+41800312,90,PT04M36.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:0 Def:3),Rebound,Unknown,1,69
+41800312,91,PT04M24.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,-108,96,14,Missed,1,,,0,h,MISS Thompson 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,70
+41800312,92,PT04M23.00S,1,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,Looney REBOUND (Off:1 Def:0),Rebound,Unknown,1,71
+41800312,93,PT04M15.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,-145,232,27,Made,1,18.0,22.0,40,h,Thompson 27' 3PT Jump Shot (7 PTS) (Green 1 AST),Made Shot,Jump Shot,1,72
+41800312,95,PT03M56.00S,1,1610612757,POR,203090,Harkless,M. Harkless,30,26,4,Missed,1,,,0,v,MISS Harkless 4' Layup,Missed Shot,Layup Shot,1,73
+41800312,95,PT03M56.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green BLOCK (3 BLK),,,1,74
+41800312,97,PT03M54.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,Curry REBOUND (Off:0 Def:2),Rebound,Unknown,1,75
+41800312,98,PT03M46.00S,1,1610612744,GSW,2738,Iguodala,A. Iguodala,22,16,3,Missed,1,,,0,h,MISS Iguodala 3' Layup,Missed Shot,Layup Shot,1,76
+41800312,99,PT03M45.00S,1,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:1 Def:4),Rebound,Unknown,1,77
+41800312,100,PT03M36.00S,1,1610612757,POR,203468,McCollum,C. McCollum,5,284,28,Missed,1,,,0,v,MISS McCollum 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,78
+41800312,101,PT03M34.00S,1,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala REBOUND (Off:0 Def:1),Rebound,Unknown,1,79
+41800312,102,PT03M32.00S,1,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,,,0,v,McCollum P.FOUL (P1.T4) (K.Mauer),Foul,Personal,1,80
+41800312,104,PT03M32.00S,1,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,SUB: McKinnie FOR Iguodala,Substitution,,0,81
+41800312,105,PT03M32.00S,1,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,,,0,h,SUB: Livingston FOR Thompson,Substitution,,0,82
+41800312,106,PT03M32.00S,1,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,SUB: Hood FOR Aminu,Substitution,,0,83
+41800312,110,PT03M28.00S,1,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,,,0,v,Harkless P.FOUL (P2.PN) (J.Capers),Foul,Personal,1,84
+41800312,112,PT03M23.00S,1,1610612744,GSW,201939,Curry,S. Curry,8,271,27,Made,1,21.0,22.0,43,h,Curry 27' 3PT Pullup Jump Shot (8 PTS) (Livingston 1 AST),Made Shot,Pullup Jump shot,1,85
+41800312,114,PT03M22.00S,1,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,86
+41800312,116,PT03M22.00S,1,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,,,0,v,SUB: Curry FOR McCollum,Substitution,,0,87
+41800312,118,PT03M13.00S,1,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,,,0,v,Leonard OFF.Foul (P1) (K.Mauer),Foul,Offensive,1,88
+41800312,120,PT03M13.00S,1,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,,,0,v,Leonard Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,1,89
+41800312,121,PT03M00.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green OFF.Foul (P2) (K.Mauer),Foul,Offensive,0,90
+41800312,123,PT03M00.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green Offensive Foul Turnover (P2.T3),Turnover,Offensive Foul Turnover,0,91
+41800312,124,PT02M46.00S,1,1610612757,POR,203918,Hood,R. Hood,114,128,17,Made,1,21.0,24.0,45,v,Hood 17' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,1,92
+41800312,125,PT02M23.00S,1,1610612744,GSW,1626172,Looney,K. Looney,1,9,1,Made,1,23.0,24.0,47,h,Looney 1' Dunk (2 PTS) (Green 2 AST),Made Shot,Dunk Shot,0,93
+41800312,127,PT02M06.00S,1,1610612757,POR,203090,Harkless,M. Harkless,-220,131,26,Made,1,23.0,27.0,50,v,Harkless 26' 3PT Jump Shot (8 PTS) (Leonard 1 AST),Made Shot,Jump Shot,1,94
+41800312,129,PT01M55.00S,1,1610612744,GSW,2733,Livingston,S. Livingston,-2,93,9,Made,1,25.0,27.0,52,h,Livingston 9' Turnaround Fadeaway (2 PTS) (Curry 2 AST),Made Shot,Turnaround Fadeaway shot,1,95
+41800312,131,PT01M34.00S,1,1610612757,POR,203086,Leonard,M. Leonard,-181,201,27,Missed,1,,,0,v,MISS Leonard 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,96
+41800312,132,PT01M30.00S,1,1610612744,GSW,2733,Livingston,S. Livingston,0,0,0,,0,,,0,h,Livingston REBOUND (Off:0 Def:1),Rebound,Unknown,1,97
+41800312,133,PT01M26.00S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,Curry Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,98
+41800312,133,PT01M26.00S,1,1610612757,POR,203552,Curry,S. Curry,0,0,0,,0,,,0,v,Curry STEAL (1 STL),,,1,99
+41800312,135,PT01M20.00S,1,1610612757,POR,203552,Curry,S. Curry,227,78,24,Missed,1,,,0,v,MISS Curry 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,100
+41800312,135,PT01M20.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green BLOCK (4 BLK),,,1,101
+41800312,137,PT01M19.00S,1,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Rebound,Rebound,Unknown,0,102
+41800312,139,PT01M19.00S,1,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,SUB: Jerebko FOR Green,Substitution,,0,103
+41800312,140,PT01M19.00S,1,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,,,0,v,SUB: Collins FOR Harkless,Substitution,,0,104
+41800312,141,PT01M19.00S,1,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,,,0,v,SUB: Turner FOR Leonard,Substitution,,0,105
+41800312,145,PT01M05.00S,1,1610612757,POR,203918,Hood,R. Hood,4,123,12,Made,1,25.0,29.0,54,v,Hood 12' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,106
+41800312,146,PT00M52.30S,1,1610612744,GSW,201939,Curry,S. Curry,-147,52,16,Made,1,27.0,29.0,56,h,Curry 16' Pullup Jump Shot (10 PTS) (Jerebko 1 AST),Made Shot,Pullup Jump shot,1,107
+41800312,148,PT00M36.30S,1,1610612744,GSW,1628035,McKinnie,A. McKinnie,0,0,0,,0,,,0,h,McKinnie P.FOUL (P1.T3) (J.Tiven),Foul,Personal,1,108
+41800312,150,PT00M31.40S,1,1610612757,POR,203081,Lillard,D. Lillard,29,167,17,Missed,1,,,0,v,MISS Lillard 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,109
+41800312,151,PT00M30.50S,1,1610612744,GSW,201973,Jerebko,J. Jerebko,0,0,0,,0,,,0,h,Jerebko REBOUND (Off:0 Def:1),Rebound,Unknown,1,110
+41800312,152,PT00M10.60S,1,1610612757,POR,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Collins S.FOUL (P1.PN) (J.Capers),Foul,Shooting,1,111
+41800312,154,PT00M10.60S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,28.0,29.0,57,h,Curry Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,112
+41800312,157,PT00M10.60S,1,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,29.0,29.0,58,h,Curry Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,113
+41800312,155,PT00M10.60S,1,1610612744,GSW,201973,Jerebko,J. Jerebko,0,0,0,,0,,,0,h,SUB: Bell FOR Jerebko,Substitution,,0,114
+41800312,158,PT00M01.50S,1,1610612757,POR,202323,Turner,E. Turner,24,99,10,Made,1,29.0,31.0,60,v,Turner 10' Jump Shot (2 PTS) (Lillard 4 AST),Made Shot,Jump Shot,1,115
+41800312,160,PT00M00.00S,1,0,,0,,,0,0,0,,0,29.0,31.0,60,,End of 1st Period (9:44 PM EST),period,end,1,116
+41800312,169,PT12M00.00S,2,0,,0,,,0,0,0,,0,29.0,31.0,60,,Start of 2nd Period (9:46 PM EST),period,start,0,117
+41800312,170,PT11M46.00S,2,1610612744,GSW,201973,Jerebko,J. Jerebko,0,0,0,,0,,,0,h,Jerebko S.FOUL (P1.T1) (J.Tiven),Foul,Shooting,1,118
+41800312,172,PT11M46.00S,2,1610612757,POR,202323,Turner,E. Turner,0,0,0,,0,29.0,32.0,61,v,Turner Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,119
+41800312,173,PT11M46.00S,2,1610612757,POR,202323,Turner,E. Turner,0,0,0,,0,29.0,33.0,62,v,Turner Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,120
+41800312,174,PT11M34.00S,2,1610612757,POR,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Collins S.FOUL (P2.T1) (K.Mauer),Foul,Shooting,1,121
+41800312,176,PT11M34.00S,2,1610612744,GSW,2733,Livingston,S. Livingston,0,0,0,,0,,,0,h,MISS Livingston Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,122
+41800312,177,PT11M34.00S,2,0,,1610612744,,,0,0,0,,0,,,0,h,WARRIORS Rebound,Rebound,Normal Rebound,0,123
+41800312,178,PT11M34.00S,2,1610612744,GSW,2733,Livingston,S. Livingston,0,0,0,,0,30.0,33.0,63,h,Livingston Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,124
+41800312,179,PT11M23.00S,2,1610612757,POR,203918,Hood,R. Hood,194,184,27,Missed,1,,,0,v,MISS Hood 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,125
+41800312,180,PT11M21.00S,2,1610612744,GSW,1626188,Cook,Q. Cook,0,0,0,,0,,,0,h,Cook REBOUND (Off:0 Def:1),Rebound,Unknown,1,126
+41800312,181,PT10M57.00S,2,1610612744,GSW,201973,Jerebko,J. Jerebko,23,103,11,Missed,1,,,0,h,MISS Jerebko 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,127
+41800312,182,PT10M55.00S,2,1610612744,GSW,201973,Jerebko,J. Jerebko,0,0,0,,0,,,0,h,Jerebko REBOUND (Off:1 Def:1),Rebound,Unknown,1,128
+41800312,183,PT10M44.00S,2,1610612744,GSW,1628395,Bell,J. Bell,57,61,8,Made,1,32.0,33.0,65,h,Bell 8' Floating Jump Shot (2 PTS) (Jerebko 2 AST),Made Shot,Floating Jump shot,1,129
+41800312,185,PT10M25.00S,2,1610612757,POR,203468,McCollum,C. McCollum,-5,128,13,Missed,1,,,0,v,MISS McCollum 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,130
+41800312,186,PT10M23.00S,2,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,,,0,v,McCollum REBOUND (Off:1 Def:0),Rebound,Unknown,1,131
+41800312,188,PT10M22.00S,2,1610612757,POR,203468,McCollum,C. McCollum,2,20,2,Made,1,32.0,35.0,67,v,McCollum 2' Tip Layup Shot (10 PTS),Made Shot,Tip Layup Shot,1,132
+41800312,189,PT10M05.00S,2,1610612744,GSW,1628395,Bell,J. Bell,116,82,14,Missed,1,,,0,h,MISS Bell 14' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,133
+41800312,190,PT10M04.00S,2,1610612757,POR,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner REBOUND (Off:0 Def:1),Rebound,Unknown,1,134
+41800312,191,PT09M51.00S,2,1610612757,POR,203918,Hood,R. Hood,223,118,25,Made,1,32.0,38.0,70,v,Hood 25' 3PT Pullup Jump Shot (7 PTS) (Curry 1 AST),Made Shot,Pullup Jump shot,1,135
+41800312,193,PT09M32.00S,2,1610612744,GSW,201973,Jerebko,J. Jerebko,133,110,17,Missed,1,,,0,h,MISS Jerebko 17' Jump Shot,Missed Shot,Jump Shot,1,136
+41800312,194,PT09M31.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:0),Rebound,Unknown,1,137
+41800312,195,PT09M22.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,148,84,17,Made,1,34.0,38.0,72,h,Thompson 17' Jump Shot (9 PTS),Made Shot,Jump Shot,1,138
+41800312,196,PT09M07.00S,2,1610612757,POR,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Collins OFF.Foul (P3) (J.Capers),Foul,Offensive,1,139
+41800312,198,PT09M07.00S,2,1610612757,POR,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Collins Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,140
+41800312,199,PT08M53.00S,2,1610612744,GSW,1628395,Bell,J. Bell,0,0,0,,0,,,0,h,Bell OFF.Foul (P1) (K.Mauer),Foul,Offensive,0,141
+41800312,201,PT08M53.00S,2,1610612744,GSW,1628395,Bell,J. Bell,0,0,0,,0,,,0,h,Bell Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,142
+41800312,202,PT08M42.00S,2,1610612757,POR,203468,McCollum,C. McCollum,-5,76,8,Missed,1,,,0,v,MISS McCollum 8' Hook Shot,Missed Shot,Hook Shot,1,143
+41800312,203,PT08M41.00S,2,1610612757,POR,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner REBOUND (Off:1 Def:1),Rebound,Unknown,1,144
+41800312,204,PT08M30.00S,2,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,,,0,v,McCollum Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,145
+41800312,205,PT08M14.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,,,0,h,Thompson Out of Bounds Lost Ball Turnover (P1.T6),Turnover,Out of Bounds Lost Ball Turnover,1,146
+41800312,206,PT08M14.00S,2,1610612757,POR,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,SUB: Kanter FOR Collins,Substitution,,0,147
+41800312,208,PT07M55.00S,2,1610612757,POR,203468,McCollum,C. McCollum,3,205,21,Made,1,34.0,40.0,74,v,McCollum 21' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,148
+41800312,209,PT07M31.00S,2,1610612744,GSW,1628395,Bell,J. Bell,0,1,0,Made,1,36.0,40.0,76,h,Bell Cutting Dunk Shot (4 PTS) (Livingston 2 AST),Made Shot,Cutting Dunk Shot,1,149
+41800312,211,PT07M12.00S,2,1610612757,POR,202323,Turner,E. Turner,-19,83,9,Missed,1,,,0,v,MISS Turner 9' Layup,Missed Shot,Layup Shot,1,150
+41800312,211,PT07M12.00S,2,1610612744,GSW,1628395,Bell,J. Bell,0,0,0,,0,,,0,h,Bell BLOCK (1 BLK),,,1,151
+41800312,213,PT07M10.00S,2,1610612757,POR,203918,Hood,R. Hood,0,0,0,,0,,,0,v,Hood REBOUND (Off:1 Def:0),Rebound,Unknown,1,152
+41800312,214,PT07M08.00S,2,1610612757,POR,203918,Hood,R. Hood,-155,236,28,Missed,1,,,0,v,MISS Hood 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,153
+41800312,215,PT07M06.00S,2,1610612757,POR,202683,Freedom,E. Freedom,0,0,0,,0,,,0,v,Kanter REBOUND (Off:1 Def:1),Rebound,Unknown,1,154
+41800312,216,PT07M04.00S,2,1610612757,POR,202683,Freedom,E. Freedom,0,-6,1,Made,1,36.0,42.0,78,v,Kanter 1' Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,155
+41800312,217,PT06M56.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,-151,226,27,Missed,1,,,0,h,MISS Thompson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,156
+41800312,218,PT06M54.00S,2,1610612744,GSW,201973,Jerebko,J. Jerebko,0,0,0,,0,,,0,h,Jerebko REBOUND (Off:2 Def:1),Rebound,Unknown,1,157
+41800312,219,PT06M48.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,-206,-1,21,Missed,1,,,0,h,MISS Thompson 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,158
+41800312,220,PT06M46.00S,2,1610612757,POR,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner REBOUND (Off:1 Def:2),Rebound,Unknown,1,159
+41800312,221,PT06M39.00S,2,1610612757,POR,203552,Curry,S. Curry,166,241,29,Missed,1,,,0,v,MISS Curry 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,160
+41800312,222,PT06M37.00S,2,1610612744,GSW,201973,Jerebko,J. Jerebko,0,0,0,,0,,,0,h,Jerebko REBOUND (Off:2 Def:2),Rebound,Unknown,1,161
+41800312,223,PT06M30.00S,2,0,,1610612744,,,0,0,0,,0,,,0,h,WARRIORS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,162
+41800312,224,PT06M30.00S,2,1610612744,GSW,1628395,Bell,J. Bell,0,0,0,,0,,,0,h,SUB: Looney FOR Bell,Substitution,,0,163
+41800312,225,PT06M30.00S,2,1610612744,GSW,1626188,Cook,Q. Cook,0,0,0,,0,,,0,h,SUB: Iguodala FOR Cook,Substitution,,0,164
+41800312,226,PT06M30.00S,2,1610612744,GSW,201973,Jerebko,J. Jerebko,0,0,0,,0,,,0,h,SUB: Curry FOR Jerebko,Substitution,,0,165
+41800312,227,PT06M30.00S,2,1610612744,GSW,2733,Livingston,S. Livingston,0,0,0,,0,,,0,h,SUB: Green FOR Livingston,Substitution,,0,166
+41800312,228,PT06M30.00S,2,1610612757,POR,202323,Turner,E. Turner,0,0,0,,0,,,0,v,SUB: Aminu FOR Turner,Substitution,,0,167
+41800312,229,PT06M30.00S,2,1610612757,POR,203918,Hood,R. Hood,0,0,0,,0,,,0,v,SUB: Lillard FOR Hood,Substitution,,0,168
+41800312,236,PT06M21.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,5,113,11,Missed,1,,,0,h,MISS Thompson 11' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,169
+41800312,237,PT06M17.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard REBOUND (Off:0 Def:3),Rebound,Unknown,1,170
+41800312,238,PT06M08.00S,2,1610612757,POR,202683,Freedom,E. Freedom,0,0,0,,0,,,0,v,Kanter Out of Bounds Lost Ball Turnover (P1.T6),Turnover,Out of Bounds Lost Ball Turnover,1,171
+41800312,239,PT06M04.00S,2,1610612757,POR,202683,Freedom,E. Freedom,0,0,0,,0,,,0,v,Kanter S.FOUL (P1.T2) (J.Capers),Foul,Shooting,1,172
+41800312,241,PT06M04.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,37.0,42.0,79,h,Curry Free Throw 1 of 3 (13 PTS),Free Throw,Free Throw 1 of 3,0,173
+41800312,242,PT06M04.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,38.0,42.0,80,h,Curry Free Throw 2 of 3 (14 PTS),Free Throw,Free Throw 2 of 3,0,174
+41800312,243,PT06M04.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,39.0,42.0,81,h,Curry Free Throw 3 of 3 (15 PTS),Free Throw,Free Throw 3 of 3,0,175
+41800312,244,PT05M49.00S,2,1610612757,POR,203552,Curry,S. Curry,22,23,3,Made,1,39.0,44.0,83,v,Curry 3' Driving Layup (2 PTS) (Lillard 5 AST),Made Shot,Driving Layup Shot,1,176
+41800312,246,PT05M43.00S,2,1610612744,GSW,201939,Curry,S. Curry,134,261,29,Missed,1,,,0,h,MISS Curry 29' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,177
+41800312,247,PT05M41.00S,2,1610612757,POR,203552,Curry,S. Curry,0,0,0,,0,,,0,v,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,1,178
+41800312,248,PT05M33.00S,2,1610612757,POR,203468,McCollum,C. McCollum,209,131,25,Made,1,39.0,47.0,86,v,McCollum 25' 3PT Jump Shot (15 PTS) (Curry 2 AST),Made Shot,Jump Shot,1,179
+41800312,250,PT05M21.00S,2,1610612744,GSW,1626172,Looney,K. Looney,6,56,6,Made,1,41.0,47.0,88,h,Looney 6' Driving Hook Shot (4 PTS) (Thompson 2 AST),Made Shot,Driving Hook Shot,1,180
+41800312,252,PT05M12.00S,2,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,Looney P.FOUL (P1.T2) (K.Mauer),Foul,Personal,1,181
+41800312,254,PT05M12.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,,,0,h,Thompson AWAY.FROM.PLAY.FOUL (P1.T3) (K.Mauer),Foul,Away From Play,0,182
+41800312,256,PT05M12.00S,2,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,41.0,48.0,89,v,McCollum Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,0,183
+41800312,257,PT05M12.00S,2,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,,,0,v,McCollum OFF.Foul (P2) (J.Tiven),Foul,Offensive,1,184
+41800312,259,PT05M12.00S,2,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,,,0,v,McCollum Offensive Foul Turnover (P3.T7),Turnover,Offensive Foul Turnover,1,185
+41800312,260,PT05M07.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,Curry Lost Ball Turnover (P3.T7),Turnover,Lost Ball,1,186
+41800312,260,PT05M07.00S,2,1610612757,POR,203552,Curry,S. Curry,0,0,0,,0,,,0,v,Curry STEAL (2 STL),,,1,187
+41800312,262,PT04M54.00S,2,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,Looney P.FOUL (P2.T4) (J.Tiven),Foul,Personal,1,188
+41800312,264,PT04M44.00S,2,1610612757,POR,202683,Freedom,E. Freedom,-25,18,3,Made,1,41.0,50.0,91,v,Kanter 3' Layup (4 PTS) (Aminu 1 AST),Made Shot,Layup Shot,1,189
+41800312,266,PT04M34.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,120,256,28,Missed,1,,,0,h,MISS Thompson 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,190
+41800312,267,PT04M32.00S,2,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,Aminu REBOUND (Off:1 Def:5),Rebound,Unknown,1,191
+41800312,268,PT04M13.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,,,0,h,Thompson S.FOUL (P2.PN) (J.Tiven),Foul,Shooting,1,192
+41800312,270,PT04M13.00S,2,1610612757,POR,203552,Curry,S. Curry,0,0,0,,0,41.0,51.0,92,v,Curry Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,193
+41800312,273,PT04M13.00S,2,1610612757,POR,203552,Curry,S. Curry,0,0,0,,0,41.0,52.0,93,v,Curry Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,194
+41800312,271,PT04M13.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,,,0,h,SUB: McKinnie FOR Thompson,Substitution,,0,195
+41800312,274,PT04M00.00S,2,1610612744,GSW,201939,Curry,S. Curry,25,40,5,Made,1,43.0,52.0,95,h,Curry 5' Cutting Layup Shot (17 PTS) (Green 3 AST),Made Shot,Cutting Layup Shot,1,196
+41800312,276,PT03M50.00S,2,1610612757,POR,203081,Lillard,D. Lillard,91,298,31,Made,1,43.0,55.0,98,v,Lillard 31' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,1,197
+41800312,277,PT03M40.00S,2,1610612744,GSW,201939,Curry,S. Curry,142,256,29,Missed,1,,,0,h,MISS Curry 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,198
+41800312,278,PT03M38.00S,2,1610612757,POR,202683,Freedom,E. Freedom,0,0,0,,0,,,0,v,Kanter REBOUND (Off:1 Def:2),Rebound,Unknown,1,199
+41800312,279,PT03M31.00S,2,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala S.FOUL (P1.PN) (K.Mauer),Foul,Shooting,1,200
+41800312,281,PT03M31.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,43.0,56.0,99,v,Lillard Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,201
+41800312,282,PT03M31.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,MISS Lillard Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,202
+41800312,283,PT03M30.00S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:0 Def:4),Rebound,Unknown,1,203
+41800312,284,PT03M11.00S,2,1610612757,POR,203552,Curry,S. Curry,0,0,0,,0,,,0,v,Curry P.FOUL (P1.T3) (J.Capers),Foul,Personal,1,204
+41800312,286,PT03M11.00S,2,1610612744,GSW,1628035,McKinnie,A. McKinnie,0,0,0,,0,,,0,h,SUB: Thompson FOR McKinnie,Substitution,,0,205
+41800312,295,PT03M01.00S,2,1610612744,GSW,203110,Green,D. Green,107,19,11,Missed,1,,,0,h,MISS Green 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,206
+41800312,295,PT03M01.00S,2,1610612757,POR,202683,Freedom,E. Freedom,0,0,0,,0,,,0,v,Kanter BLOCK (1 BLK),,,1,207
+41800312,297,PT03M00.00S,2,0,,1610612744,,,0,0,0,,0,,,0,h,WARRIORS Rebound,Rebound,Unknown,0,208
+41800312,289,PT02M58.00S,2,1610612744,GSW,203110,Green,D. Green,157,9,16,Made,1,45.0,56.0,101,h,Green 16' Turnaround Fadeaway (8 PTS) (Curry 3 AST),Made Shot,Turnaround Fadeaway shot,1,209
+41800312,291,PT02M34.00S,2,1610612757,POR,202329,Aminu,A. Aminu,195,197,28,Missed,1,,,0,v,MISS Aminu 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,210
+41800312,292,PT02M32.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,Curry REBOUND (Off:0 Def:3),Rebound,Unknown,1,211
+41800312,293,PT02M19.00S,2,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,Curry Traveling Turnover (P4.T8),Turnover,Traveling,1,212
+41800312,294,PT02M19.00S,2,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,213
+41800312,299,PT02M19.00S,2,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,SUB: Harkless FOR Aminu,Substitution,,0,214
+41800312,301,PT02M07.00S,2,1610612757,POR,203081,Lillard,D. Lillard,-98,306,32,Made,1,45.0,59.0,104,v,Lillard 32' 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,215
+41800312,303,PT02M05.00S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green Bad Pass Turnover (P3.T9),Turnover,Bad Pass,1,216
+41800312,303,PT02M05.00S,2,1610612757,POR,203552,Curry,S. Curry,0,0,0,,0,,,0,v,Curry STEAL (3 STL),,,1,217
+41800312,305,PT02M03.00S,2,1610612757,POR,203552,Curry,S. Curry,-9,23,2,Missed,1,,,0,v,MISS Curry 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,218
+41800312,306,PT02M01.00S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:0 Def:5),Rebound,Unknown,1,219
+41800312,307,PT01M55.00S,2,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,,,0,v,Harkless S.FOUL (P3.T4) (K.Mauer),Foul,Shooting,1,220
+41800312,309,PT01M55.00S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,MISS Green Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,221
+41800312,310,PT01M55.00S,2,0,,1610612744,,,0,0,0,,0,,,0,h,WARRIORS Rebound,Rebound,Normal Rebound,0,222
+41800312,311,PT01M55.00S,2,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,,,0,v,SUB: Aminu FOR Harkless,Substitution,,0,223
+41800312,313,PT01M55.00S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,MISS Green Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,224
+41800312,314,PT01M53.00S,2,1610612757,POR,202683,Freedom,E. Freedom,0,0,0,,0,,,0,v,Kanter REBOUND (Off:1 Def:3),Rebound,Unknown,1,225
+41800312,315,PT01M42.00S,2,1610612757,POR,202329,Aminu,A. Aminu,-29,91,10,Missed,1,,,0,v,MISS Aminu 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,226
+41800312,316,PT01M41.00S,2,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,Looney REBOUND (Off:1 Def:1),Rebound,Unknown,1,227
+41800312,317,PT01M30.00S,2,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,,,0,h,Thompson Lost Ball Turnover (P2.T10),Turnover,Lost Ball,1,228
+41800312,317,PT01M30.00S,2,1610612757,POR,202683,Freedom,E. Freedom,0,0,0,,0,,,0,v,Kanter STEAL (1 STL),,,1,229
+41800312,319,PT01M24.00S,2,1610612757,POR,203552,Curry,S. Curry,198,193,28,Made,1,45.0,62.0,107,v,Curry 28' 3PT Running Pull-Up Jump Shot (7 PTS) (Lillard 6 AST),Made Shot,Running Pull-Up Jump Shot,1,230
+41800312,321,PT01M08.00S,2,1610612744,GSW,1626172,Looney,K. Looney,2,14,1,Made,1,47.0,62.0,109,h,Looney 1' Finger Roll Layup (6 PTS) (Green 4 AST),Made Shot,Finger Roll Layup Shot,1,231
+41800312,323,PT01M08.00S,2,1610612757,POR,202683,Freedom,E. Freedom,0,0,0,,0,,,0,v,Kanter S.FOUL (P2.PN) (J.Tiven),Foul,Shooting,1,232
+41800312,325,PT01M08.00S,2,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,48.0,62.0,110,h,Looney Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,233
+41800312,326,PT00M45.40S,2,1610612757,POR,203552,Curry,S. Curry,155,252,30,Missed,1,,,0,v,MISS Curry 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,234
+41800312,327,PT00M43.20S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard REBOUND (Off:1 Def:3),Rebound,Unknown,1,235
+41800312,328,PT00M36.10S,2,1610612757,POR,203081,Lillard,D. Lillard,-159,217,27,Made,1,48.0,65.0,113,v,Lillard 27' 3PT Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,1,236
+41800312,329,PT00M28.60S,2,1610612744,GSW,201939,Curry,S. Curry,-14,22,3,Made,1,50.0,65.0,115,h,Curry 3' Driving Finger Roll Layup (19 PTS),Made Shot,Driving Finger Roll Layup Shot,1,237
+41800312,330,PT00M05.80S,2,1610612757,POR,202329,Aminu,A. Aminu,-226,44,0,Missed,1,,,0,v,MISS Aminu 3PT Jump Shot,Missed Shot,Jump Shot,1,238
+41800312,331,PT00M04.40S,2,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:0 Def:6),Rebound,Unknown,1,239
+41800312,332,PT00M01.00S,2,1610612744,GSW,201939,Curry,S. Curry,187,436,47,Missed,1,,,0,h,MISS Curry 47' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,240
+41800312,333,PT00M00.10S,2,0,,1610612744,,,0,0,0,,0,,,0,h,WARRIORS Rebound,Rebound,Unknown,0,241
+41800312,334,PT00M00.00S,2,0,,0,,,0,0,0,,0,50.0,65.0,115,,End of 2nd Period (10:15 PM EST),period,end,1,242
+41800312,337,PT12M00.00S,3,0,,0,,,0,0,0,,0,50.0,65.0,115,,Start of 3rd Period (10:29 PM EST),period,start,0,243
+41800312,338,PT11M44.00S,3,1610612757,POR,203468,McCollum,C. McCollum,62,122,14,Made,1,50.0,67.0,117,v,McCollum 14' Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,1,244
+41800312,339,PT11M22.00S,3,1610612744,GSW,203110,Green,D. Green,172,144,22,Missed,1,,,0,h,MISS Green 22' Jump Shot,Missed Shot,Jump Shot,1,245
+41800312,340,PT11M20.00S,3,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala REBOUND (Off:1 Def:1),Rebound,Unknown,1,246
+41800312,341,PT11M18.00S,3,1610612744,GSW,201939,Curry,S. Curry,-208,188,28,Made,1,53.0,67.0,120,h,Curry 28' 3PT Jump Shot (22 PTS) (Iguodala 1 AST),Made Shot,Jump Shot,1,247
+41800312,343,PT10M55.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green P.FOUL (P3.T1) (K.Mauer),Foul,Personal,1,248
+41800312,345,PT10M45.00S,3,1610612757,POR,203468,McCollum,C. McCollum,-33,110,11,Missed,1,,,0,v,MISS McCollum 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,249
+41800312,346,PT10M44.00S,3,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,,,0,v,Harkless REBOUND (Off:2 Def:1),Rebound,Unknown,1,250
+41800312,347,PT10M44.00S,3,1610612757,POR,203090,Harkless,M. Harkless,0,-6,1,Missed,1,,,0,v,MISS Harkless 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,251
+41800312,348,PT10M42.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,Curry REBOUND (Off:0 Def:4),Rebound,Unknown,1,252
+41800312,349,PT10M31.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green Out of Bounds - Bad Pass Turnover Turnover (P4.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,253
+41800312,350,PT10M12.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,Curry Violation:Kicked Ball (K.Mauer),Violation,Kicked Ball,0,254
+41800312,351,PT10M01.00S,3,1610612757,POR,203081,Lillard,D. Lillard,85,166,19,Missed,1,,,0,v,MISS Lillard 19' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,255
+41800312,352,PT10M00.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:0 Def:7),Rebound,Unknown,1,256
+41800312,353,PT09M50.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,145,142,20,Missed,1,,,0,h,MISS Thompson 20' Jump Shot,Missed Shot,Jump Shot,1,257
+41800312,354,PT09M48.00S,3,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,,,0,v,Harkless REBOUND (Off:2 Def:2),Rebound,Unknown,1,258
+41800312,355,PT09M34.00S,3,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,Looney S.FOUL (P3.T2) (J.Tiven),Foul,Shooting,1,259
+41800312,357,PT09M34.00S,3,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,53.0,68.0,121,v,Harkless Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,260
+41800312,358,PT09M34.00S,3,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,53.0,69.0,122,v,Harkless Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,261
+41800312,359,PT09M21.00S,3,1610612744,GSW,2738,Iguodala,A. Iguodala,187,197,27,Missed,1,,,0,h,MISS Iguodala 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,262
+41800312,360,PT09M19.00S,3,1610612757,POR,202683,Freedom,E. Freedom,0,0,0,,0,,,0,v,Kanter REBOUND (Off:1 Def:4),Rebound,Unknown,1,263
+41800312,361,PT09M16.00S,3,1610612757,POR,202683,Freedom,E. Freedom,0,0,0,,0,,,0,v,Kanter Out of Bounds - Bad Pass Turnover Turnover (P2.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,264
+41800312,362,PT09M11.00S,3,1610612744,GSW,201939,Curry,S. Curry,172,190,26,Made,1,56.0,69.0,125,h,Curry 26' 3PT Pullup Jump Shot (25 PTS) (Looney 1 AST),Made Shot,Pullup Jump shot,1,265
+41800312,364,PT08M59.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,266
+41800312,364,PT08M59.00S,3,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,Looney STEAL (1 STL),,,1,267
+41800312,366,PT08M54.00S,3,1610612744,GSW,201939,Curry,S. Curry,-95,154,18,Made,1,58.0,69.0,127,h,Curry 18' Jump Shot (27 PTS) (Looney 2 AST),Made Shot,Jump Shot,1,268
+41800312,368,PT08M53.00S,3,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,269
+41800312,370,PT08M31.00S,3,1610612757,POR,203090,Harkless,M. Harkless,8,87,9,Missed,1,,,0,v,MISS Harkless 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,270
+41800312,370,PT08M31.00S,3,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,Looney BLOCK (1 BLK),,,1,271
+41800312,372,PT08M29.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,Curry REBOUND (Off:0 Def:5),Rebound,Unknown,1,272
+41800312,373,PT08M25.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,195,189,27,Made,1,61.0,69.0,130,h,Thompson 27' 3PT Jump Shot (12 PTS) (Curry 4 AST),Made Shot,Jump Shot,1,273
+41800312,375,PT08M06.00S,3,1610612757,POR,203468,McCollum,C. McCollum,-90,145,17,Missed,1,,,0,v,MISS McCollum 17' Jump Shot,Missed Shot,Jump Shot,1,274
+41800312,376,PT08M05.00S,3,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,Looney REBOUND (Off:1 Def:2),Rebound,Unknown,1,275
+41800312,377,PT07M45.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,84,252,27,Made,1,64.0,69.0,133,h,Thompson 27' 3PT Jump Shot (15 PTS) (Iguodala 2 AST),Made Shot,Jump Shot,1,276
+41800312,379,PT07M27.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-138,35,14,Missed,1,,,0,v,MISS Lillard 14' Jump Shot,Missed Shot,Jump Shot,1,277
+41800312,380,PT07M25.00S,3,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala REBOUND (Off:1 Def:2),Rebound,Unknown,1,278
+41800312,381,PT07M18.00S,3,1610612744,GSW,201939,Curry,S. Curry,6,264,26,Missed,1,,,0,h,MISS Curry 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,279
+41800312,382,PT07M16.00S,3,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,Looney REBOUND (Off:2 Def:2),Rebound,Unknown,1,280
+41800312,383,PT07M11.00S,3,1610612744,GSW,203110,Green,D. Green,13,15,2,Made,1,66.0,69.0,135,h,Green 2' Layup (10 PTS) (Iguodala 3 AST),Made Shot,Layup Shot,1,281
+41800312,385,PT07M11.00S,3,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,282
+41800312,386,PT07M11.00S,3,1610612757,POR,202683,Freedom,E. Freedom,0,0,0,,0,,,0,v,SUB: Hood FOR Kanter,Substitution,,0,283
+41800312,394,PT07M11.00S,3,1610612757,POR,202329,Aminu,A. Aminu,0,0,0,,0,,,0,v,SUB: Collins FOR Aminu,Substitution,,0,284
+41800312,390,PT06M49.00S,3,1610612757,POR,203918,Hood,R. Hood,12,110,11,Missed,1,,,0,v,MISS Hood 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,285
+41800312,391,PT06M48.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:0 Def:8),Rebound,Unknown,1,286
+41800312,392,PT06M41.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,-20,43,5,Missed,1,,,0,h,MISS Thompson 5' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,287
+41800312,393,PT06M40.00S,3,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,,,0,v,McCollum REBOUND (Off:1 Def:1),Rebound,Unknown,1,288
+41800312,395,PT06M28.00S,3,1610612757,POR,203090,Harkless,M. Harkless,12,16,2,Made,1,66.0,71.0,137,v,Harkless 2' Layup (12 PTS) (McCollum 3 AST),Made Shot,Layup Shot,1,289
+41800312,397,PT06M06.00S,3,1610612744,GSW,2738,Iguodala,A. Iguodala,-5,5,1,Made,1,68.0,71.0,139,h,Iguodala 1' Dunk (2 PTS) (Curry 5 AST),Made Shot,Dunk Shot,1,290
+41800312,399,PT05M43.00S,3,1610612757,POR,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Collins Out of Bounds Lost Ball Turnover (P2.T10),Turnover,Out of Bounds Lost Ball Turnover,1,291
+41800312,400,PT05M43.00S,3,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,SUB: Jones FOR Looney,Substitution,,0,292
+41800312,402,PT05M23.00S,3,1610612757,POR,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Collins S.FOUL (P4.T1) (K.Mauer),Foul,Shooting,1,293
+41800312,404,PT05M23.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,69.0,71.0,140,h,Thompson Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,294
+41800312,405,PT05M23.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,70.0,71.0,141,h,Thompson Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,295
+41800312,406,PT05M11.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,Curry P.FOUL (P1.T3) (K.Mauer),Foul,Personal,1,296
+41800312,408,PT05M06.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green S.FOUL (P4.T4) (J.Capers),Foul,Shooting,1,297
+41800312,410,PT05M06.00S,3,1610612757,POR,203918,Hood,R. Hood,0,0,0,,0,70.0,72.0,142,v,Hood Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,298
+41800312,411,PT05M06.00S,3,1610612757,POR,203918,Hood,R. Hood,0,0,0,,0,70.0,73.0,143,v,Hood Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,299
+41800312,412,PT04M53.00S,3,1610612744,GSW,203110,Green,D. Green,8,17,2,Made,1,72.0,73.0,145,h,Green 2' Driving Finger Roll Layup (12 PTS) (Curry 6 AST),Made Shot,Driving Finger Roll Layup Shot,1,300
+41800312,414,PT04M40.00S,3,1610612757,POR,203468,McCollum,C. McCollum,-2,117,12,Missed,1,,,0,v,MISS McCollum 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,301
+41800312,415,PT04M39.00S,3,1610612744,GSW,1627745,Jones,D. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,1,302
+41800312,416,PT04M37.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green Bad Pass Turnover (P5.T12),Turnover,Bad Pass,1,303
+41800312,416,PT04M37.00S,3,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,,,0,v,Harkless STEAL (1 STL),,,1,304
+41800312,418,PT04M22.00S,3,1610612757,POR,203468,McCollum,C. McCollum,16,19,2,Made,1,72.0,75.0,147,v,McCollum 2' Driving Layup (20 PTS) (Harkless 2 AST),Made Shot,Driving Layup Shot,1,305
+41800312,419,PT04M13.00S,3,0,,1610612744,,,0,0,0,,0,,,0,h,WARRIORS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,306
+41800312,421,PT04M13.00S,3,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,SUB: Jerebko FOR Iguodala,Substitution,,0,307
+41800312,422,PT04M13.00S,3,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,SUB: Bell FOR Green,Substitution,,0,308
+41800312,423,PT04M13.00S,3,1610612744,GSW,1627745,Jones,D. Jones,0,0,0,,0,,,0,h,SUB: McKinnie FOR Jones,Substitution,,0,309
+41800312,424,PT04M13.00S,3,1610612757,POR,203090,Harkless,M. Harkless,0,0,0,,0,,,0,v,SUB: Turner FOR Harkless,Substitution,,0,310
+41800312,429,PT04M07.00S,3,1610612757,POR,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,Collins S.FOUL (P5.T2) (J.Capers),Foul,Shooting,1,311
+41800312,431,PT04M07.00S,3,1610612744,GSW,1628395,Bell,J. Bell,0,0,0,,0,73.0,75.0,148,h,Bell Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,312
+41800312,432,PT04M07.00S,3,1610612757,POR,1628380,Collins,Z. Collins,0,0,0,,0,,,0,v,SUB: Harkless FOR Collins,Substitution,,0,313
+41800312,434,PT04M07.00S,3,1610612744,GSW,1628395,Bell,J. Bell,0,0,0,,0,74.0,75.0,149,h,Bell Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,314
+41800312,435,PT03M52.00S,3,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,,,0,v,McCollum Bad Pass Turnover (P4.T11),Turnover,Bad Pass,1,315
+41800312,435,PT03M52.00S,3,1610612744,GSW,1628395,Bell,J. Bell,0,0,0,,0,,,0,h,Bell STEAL (1 STL),,,1,316
+41800312,437,PT03M48.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,-198,195,28,Made,1,77.0,75.0,152,h,Thompson 28' 3PT Running Jump Shot (20 PTS) (Curry 7 AST),Made Shot,Running Jump Shot,1,317
+41800312,439,PT03M26.00S,3,1610612757,POR,202323,Turner,E. Turner,16,120,12,Made,1,77.0,77.0,154,v,Turner 12' Driving Floating Jump Shot (6 PTS) (Lillard 7 AST),Made Shot,Driving Floating Jump Shot,1,318
+41800312,441,PT03M09.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,-13,25,3,Made,1,79.0,77.0,156,h,Thompson 3' Driving Finger Roll Layup (22 PTS),Made Shot,Driving Finger Roll Layup Shot,1,319
+41800312,442,PT02M59.00S,3,1610612757,POR,203468,McCollum,C. McCollum,-86,55,10,Made,1,79.0,79.0,158,v,McCollum 10' Driving Floating Bank Jump Shot (22 PTS),Made Shot,Driving Floating Bank Jump Shot,1,320
+41800312,443,PT02M45.00S,3,1610612744,GSW,1628395,Bell,J. Bell,8,28,3,Missed,1,,,0,h,MISS Bell 3' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,321
+41800312,444,PT02M44.00S,3,1610612744,GSW,1628395,Bell,J. Bell,0,0,0,,0,,,0,h,Bell REBOUND (Off:1 Def:0),Rebound,Unknown,1,322
+41800312,445,PT02M44.00S,3,1610612744,GSW,1628395,Bell,J. Bell,0,-6,1,Made,1,81.0,79.0,160,h,Bell 1' Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,323
+41800312,446,PT02M29.00S,3,1610612757,POR,203918,Hood,R. Hood,231,22,0,Made,1,81.0,82.0,163,v,Hood 3PT Jump Shot (12 PTS) (Lillard 8 AST),Made Shot,Jump Shot,1,324
+41800312,448,PT02M18.00S,3,1610612744,GSW,1628395,Bell,J. Bell,0,0,0,,0,,,0,h,Bell OFF.Foul (P2) (J.Tiven),Foul,Offensive,1,325
+41800312,450,PT02M18.00S,3,1610612744,GSW,1628395,Bell,J. Bell,0,0,0,,0,,,0,h,Bell Offensive Foul Turnover (P2.T13),Turnover,Offensive Foul Turnover,1,326
+41800312,451,PT02M18.00S,3,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,,,0,h,SUB: Livingston FOR Thompson,Substitution,,0,327
+41800312,453,PT02M09.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-86,306,32,Missed,1,,,0,v,MISS Lillard 32' 3PT Jump Shot,Missed Shot,Jump Shot,1,328
+41800312,454,PT02M04.00S,3,1610612744,GSW,201973,Jerebko,J. Jerebko,0,0,0,,0,,,0,h,Jerebko REBOUND (Off:2 Def:3),Rebound,Unknown,1,329
+41800312,455,PT02M01.00S,3,1610612757,POR,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner S.FOUL (P1.T3) (J.Tiven),Foul,Shooting,1,330
+41800312,457,PT02M01.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,82.0,82.0,164,h,Curry Free Throw 1 of 3 (28 PTS),Free Throw,Free Throw 1 of 3,0,331
+41800312,458,PT02M01.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,83.0,82.0,165,h,Curry Free Throw 2 of 3 (29 PTS),Free Throw,Free Throw 2 of 3,0,332
+41800312,461,PT02M01.00S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,84.0,82.0,166,h,Curry Free Throw 3 of 3 (30 PTS),Free Throw,Free Throw 3 of 3,0,333
+41800312,459,PT02M01.00S,3,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,,,0,v,SUB: Curry FOR McCollum,Substitution,,0,334
+41800312,462,PT01M44.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard Lost Ball Turnover (P2.T12),Turnover,Lost Ball,1,335
+41800312,462,PT01M44.00S,3,1610612744,GSW,1628395,Bell,J. Bell,0,0,0,,0,,,0,h,Bell STEAL (2 STL),,,1,336
+41800312,464,PT01M41.00S,3,1610612744,GSW,1628395,Bell,J. Bell,-1,21,2,Missed,1,,,0,h,MISS Bell 2' Running Dunk,Missed Shot,Running Dunk Shot,1,337
+41800312,465,PT01M40.00S,3,1610612744,GSW,2733,Livingston,S. Livingston,0,0,0,,0,,,0,h,Livingston REBOUND (Off:1 Def:1),Rebound,Unknown,1,338
+41800312,466,PT01M37.00S,3,1610612744,GSW,201939,Curry,S. Curry,-13,284,28,Missed,1,,,0,h,MISS Curry 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,339
+41800312,467,PT01M35.00S,3,1610612744,GSW,201973,Jerebko,J. Jerebko,0,0,0,,0,,,0,h,Jerebko REBOUND (Off:3 Def:3),Rebound,Unknown,1,340
+41800312,468,PT01M31.00S,3,1610612744,GSW,1628035,McKinnie,A. McKinnie,231,26,0,Made,1,87.0,82.0,169,h,McKinnie 3PT Jump Shot (3 PTS) (Bell 1 AST),Made Shot,Jump Shot,1,341
+41800312,470,PT01M13.00S,3,1610612757,POR,203081,Lillard,D. Lillard,11,323,32,Made,1,87.0,85.0,172,v,Lillard 32' 3PT Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,1,342
+41800312,472,PT00M55.30S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,Curry OFF.Foul (P2) (J.Tiven),Foul,Offensive,1,343
+41800312,474,PT00M55.30S,3,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,Curry Offensive Foul Turnover (P5.T14),Turnover,Offensive Foul Turnover,1,344
+41800312,475,PT00M44.50S,3,1610612744,GSW,1628035,McKinnie,A. McKinnie,0,0,0,,0,,,0,h,McKinnie P.FOUL (P2.PN) (K.Mauer),Foul,Personal,1,345
+41800312,477,PT00M44.50S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,87.0,86.0,173,v,Lillard Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,346
+41800312,478,PT00M44.50S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,87.0,87.0,174,v,Lillard Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,347
+41800312,479,PT00M31.10S,3,1610612744,GSW,201939,Curry,S. Curry,3,33,3,Missed,1,,,0,h,MISS Curry 3' Driving Layup,Missed Shot,Driving Layup Shot,1,348
+41800312,480,PT00M29.40S,3,1610612744,GSW,1628395,Bell,J. Bell,0,0,0,,0,,,0,h,Bell REBOUND (Off:2 Def:0),Rebound,Unknown,1,349
+41800312,481,PT00M29.40S,3,1610612744,GSW,1628395,Bell,J. Bell,0,-6,1,Made,1,89.0,87.0,176,h,Bell 1' Tip Layup Shot (10 PTS),Made Shot,Tip Layup Shot,1,350
+41800312,482,PT00M13.20S,3,1610612744,GSW,1628035,McKinnie,A. McKinnie,0,0,0,,0,,,0,h,McKinnie P.FOUL (P3.PN) (J.Capers),Foul,Personal,1,351
+41800312,484,PT00M13.20S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,89.0,88.0,177,v,Lillard Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,352
+41800312,491,PT00M13.20S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,89.0,89.0,178,v,Lillard Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,353
+41800312,485,PT00M13.20S,3,1610612744,GSW,1628035,McKinnie,A. McKinnie,0,0,0,,0,,,0,h,SUB: Thompson FOR McKinnie,Substitution,,0,354
+41800312,486,PT00M13.20S,3,1610612744,GSW,2733,Livingston,S. Livingston,0,0,0,,0,,,0,h,SUB: Cook FOR Livingston,Substitution,,0,355
+41800312,489,PT00M13.20S,3,1610612757,POR,203552,Curry,S. Curry,0,0,0,,0,,,0,v,SUB: Aminu FOR Curry,Substitution,,0,356
+41800312,492,PT00M03.20S,3,1610612744,GSW,201939,Curry,S. Curry,158,257,30,Missed,1,,,0,h,MISS Curry 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,357
+41800312,493,PT00M00.60S,3,1610612757,POR,203918,Hood,R. Hood,0,0,0,,0,,,0,v,Hood REBOUND (Off:1 Def:1),Rebound,Unknown,1,358
+41800312,494,PT00M00.00S,3,0,,0,,,0,0,0,,0,89.0,89.0,178,,End of 3rd Period (11:01 PM EST),period,end,1,359
+41800312,501,PT12M00.00S,4,0,,0,,,0,0,0,,0,89.0,89.0,178,,Start of 4th Period (11:04 PM EST),period,start,0,360
+41800312,502,PT11M44.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,120,236,26,Missed,1,,,0,h,MISS Thompson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,361
+41800312,503,PT11M38.00S,4,1610612757,POR,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner REBOUND (Off:1 Def:3),Rebound,Unknown,1,362
+41800312,504,PT11M32.00S,4,1610612757,POR,203918,Hood,R. Hood,169,222,28,Missed,1,,,0,v,MISS Hood 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,363
+41800312,505,PT11M29.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:1),Rebound,Unknown,1,364
+41800312,506,PT11M22.00S,4,1610612757,POR,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner P.FOUL (P2.T1) (J.Capers),Foul,Personal,1,365
+41800312,508,PT11M12.00S,4,1610612744,GSW,201973,Jerebko,J. Jerebko,-182,237,30,Missed,1,,,0,h,MISS Jerebko 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,366
+41800312,509,PT11M10.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard REBOUND (Off:1 Def:4),Rebound,Unknown,1,367
+41800312,510,PT10M58.00S,4,1610612757,POR,202323,Turner,E. Turner,34,103,11,Missed,1,,,0,v,MISS Turner 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,368
+41800312,510,PT10M58.00S,4,1610612744,GSW,201973,Jerebko,J. Jerebko,0,0,0,,0,,,0,h,Jerebko BLOCK (1 BLK),,,1,369
+41800312,512,PT10M54.00S,4,1610612744,GSW,201973,Jerebko,J. Jerebko,0,0,0,,0,,,0,h,Jerebko REBOUND (Off:3 Def:4),Rebound,Unknown,1,370
+41800312,513,PT10M43.00S,4,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,,,0,v,Leonard S.FOUL (P2.T2) (J.Tiven),Foul,Shooting,1,371
+41800312,515,PT10M43.00S,4,1610612744,GSW,1628395,Bell,J. Bell,0,0,0,,0,,,0,h,MISS Bell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,372
+41800312,516,PT10M43.00S,4,0,,1610612744,,,0,0,0,,0,,,0,h,WARRIORS Rebound,Rebound,Normal Rebound,0,373
+41800312,517,PT10M43.00S,4,1610612744,GSW,1628395,Bell,J. Bell,0,0,0,,0,90.0,89.0,179,h,Bell Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,374
+41800312,518,PT10M30.00S,4,1610612757,POR,202323,Turner,E. Turner,-54,111,12,Missed,1,,,0,v,MISS Turner 12' Jump Shot,Missed Shot,Jump Shot,1,375
+41800312,519,PT10M24.00S,4,1610612744,GSW,1626188,Cook,Q. Cook,0,0,0,,0,,,0,h,Cook REBOUND (Off:0 Def:2),Rebound,Unknown,1,376
+41800312,520,PT10M21.00S,4,1610612744,GSW,1626188,Cook,Q. Cook,-203,168,26,Missed,1,,,0,h,MISS Cook 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,377
+41800312,521,PT10M19.00S,4,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,,,0,v,Leonard REBOUND (Off:1 Def:1),Rebound,Unknown,1,378
+41800312,522,PT10M11.00S,4,1610612757,POR,203081,Lillard,D. Lillard,121,303,33,Made,1,90.0,92.0,182,v,Lillard 33' 3PT Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,1,379
+41800312,523,PT10M00.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,145,115,19,Missed,1,,,0,h,MISS Thompson 19' Jump Shot,Missed Shot,Jump Shot,1,380
+41800312,524,PT09M58.00S,4,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,,,0,v,Leonard REBOUND (Off:1 Def:2),Rebound,Unknown,1,381
+41800312,525,PT09M53.00S,4,1610612757,POR,203081,Lillard,D. Lillard,170,311,35,Missed,1,,,0,v,MISS Lillard 35' 3PT Jump Shot,Missed Shot,Jump Shot,1,382
+41800312,526,PT09M51.00S,4,1610612744,GSW,1628395,Bell,J. Bell,0,0,0,,0,,,0,h,Bell REBOUND (Off:2 Def:1),Rebound,Unknown,1,383
+41800312,527,PT09M40.00S,4,1610612744,GSW,1626188,Cook,Q. Cook,10,101,10,Made,1,92.0,92.0,184,h,Cook 10' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,384
+41800312,528,PT09M13.00S,4,1610612757,POR,203552,Curry,S. Curry,196,195,28,Made,1,92.0,95.0,187,v,Curry 28' 3PT Jump Shot (10 PTS) (Hood 1 AST),Made Shot,Jump Shot,1,385
+41800312,530,PT08M57.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,-40,78,9,Made,1,94.0,95.0,189,h,Thompson 9' Driving Floating Bank Jump Shot (24 PTS) (Livingston 3 AST),Made Shot,Driving Floating Bank Jump Shot,1,386
+41800312,532,PT08M40.00S,4,1610612757,POR,203086,Leonard,M. Leonard,105,263,28,Missed,1,,,0,v,MISS Leonard 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,387
+41800312,533,PT08M38.00S,4,1610612744,GSW,2733,Livingston,S. Livingston,0,0,0,,0,,,0,h,Livingston REBOUND (Off:1 Def:2),Rebound,Unknown,1,388
+41800312,534,PT08M25.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,36,115,12,Missed,1,,,0,h,MISS Thompson 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,389
+41800312,535,PT08M24.00S,4,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,,,0,v,Leonard REBOUND (Off:1 Def:3),Rebound,Unknown,1,390
+41800312,536,PT08M13.00S,4,1610612757,POR,203086,Leonard,M. Leonard,5,9,1,Made,1,94.0,97.0,191,v,Leonard 1' Cutting Dunk Shot (2 PTS) (Lillard 9 AST),Made Shot,Cutting Dunk Shot,1,391
+41800312,538,PT08M04.00S,4,0,,1610612744,,,0,0,0,,0,,,0,h,WARRIORS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,392
+41800312,539,PT08M04.00S,4,1610612744,GSW,1628395,Bell,J. Bell,0,0,0,,0,,,0,h,SUB: Green FOR Bell,Substitution,,0,393
+41800312,540,PT08M04.00S,4,1610612744,GSW,1626188,Cook,Q. Cook,0,0,0,,0,,,0,h,SUB: Iguodala FOR Cook,Substitution,,0,394
+41800312,541,PT08M04.00S,4,1610612744,GSW,201973,Jerebko,J. Jerebko,0,0,0,,0,,,0,h,SUB: Curry FOR Jerebko,Substitution,,0,395
+41800312,542,PT08M04.00S,4,1610612744,GSW,2733,Livingston,S. Livingston,0,0,0,,0,,,0,h,SUB: Looney FOR Livingston,Substitution,,0,396
+41800312,543,PT08M04.00S,4,1610612757,POR,203918,Hood,R. Hood,0,0,0,,0,,,0,v,SUB: McCollum FOR Hood,Substitution,,0,397
+41800312,549,PT07M53.00S,4,1610612744,GSW,201939,Curry,S. Curry,-221,132,26,Missed,1,,,0,h,MISS Curry 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,398
+41800312,550,PT07M50.00S,4,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,,,0,v,Leonard REBOUND (Off:1 Def:4),Rebound,Unknown,1,399
+41800312,551,PT07M42.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,38,4,Made,1,94.0,99.0,193,v,Lillard 4' Driving Finger Roll Layup (22 PTS),Made Shot,Driving Finger Roll Layup Shot,1,400
+41800312,552,PT07M42.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green S.FOUL (P5.T1) (J.Tiven),Foul,Shooting,1,401
+41800312,554,PT07M42.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,94.0,100.0,194,v,Lillard Free Throw 1 of 1 (23 PTS),Free Throw,Free Throw 1 of 1,0,402
+41800312,555,PT07M24.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,-13,41,4,Missed,1,,,0,h,MISS Thompson 4' Layup,Missed Shot,Layup Shot,1,403
+41800312,556,PT07M23.00S,4,1610612757,POR,203086,Leonard,M. Leonard,0,0,0,,0,,,0,v,Leonard REBOUND (Off:1 Def:5),Rebound,Unknown,1,404
+41800312,559,PT07M13.00S,4,1610612757,POR,203468,McCollum,C. McCollum,18,184,18,Missed,1,,,0,v,MISS McCollum 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,405
+41800312,560,PT07M12.00S,4,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,Looney REBOUND (Off:2 Def:3),Rebound,Unknown,1,406
+41800312,561,PT07M02.00S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala Out of Bounds - Bad Pass Turnover Turnover (P1.T15),Turnover,Out of Bounds - Bad Pass Turnover,1,407
+41800312,562,PT06M44.00S,4,1610612757,POR,203086,Leonard,M. Leonard,62,125,14,Made,1,94.0,102.0,196,v,Leonard 14' Jump Shot (4 PTS) (McCollum 4 AST),Made Shot,Jump Shot,1,408
+41800312,564,PT06M43.00S,4,0,,1610612744,,,0,0,0,,0,,,0,h,WARRIORS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,409
+41800312,565,PT06M29.00S,4,1610612744,GSW,201939,Curry,S. Curry,11,163,16,Made,1,96.0,102.0,198,h,Curry 16' Pullup Jump Shot (32 PTS),Made Shot,Pullup Jump shot,1,410
+41800312,566,PT06M08.00S,4,1610612757,POR,203081,Lillard,D. Lillard,145,314,35,Missed,1,,,0,v,MISS Lillard 35' 3PT Jump Shot,Missed Shot,Jump Shot,1,411
+41800312,567,PT06M06.00S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,Curry REBOUND (Off:0 Def:6),Rebound,Unknown,1,412
+41800312,568,PT05M51.00S,4,1610612744,GSW,1626172,Looney,K. Looney,-5,12,1,Made,1,98.0,102.0,200,h,Looney 1' Cutting Dunk Shot (9 PTS) (Iguodala 4 AST),Made Shot,Cutting Dunk Shot,1,413
+41800312,570,PT05M31.00S,4,1610612757,POR,203552,Curry,S. Curry,-184,189,26,Made,1,98.0,105.0,203,v,Curry 26' 3PT Jump Shot (13 PTS) (Leonard 2 AST),Made Shot,Jump Shot,1,414
+41800312,572,PT05M21.00S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,Curry Bad Pass Turnover (P6.T16),Turnover,Bad Pass,1,415
+41800312,572,PT05M21.00S,4,1610612757,POR,203552,Curry,S. Curry,0,0,0,,0,,,0,v,Curry STEAL (4 STL),,,1,416
+41800312,574,PT05M03.00S,4,1610612757,POR,203552,Curry,S. Curry,0,0,0,,0,,,0,v,Curry Out of Bounds - Bad Pass Turnover Turnover (P1.T13),Turnover,Out of Bounds - Bad Pass Turnover,1,417
+41800312,575,PT04M49.00S,4,1610612744,GSW,201939,Curry,S. Curry,2,25,3,Made,1,100.0,105.0,205,h,Curry 3' Driving Layup (34 PTS),Made Shot,Driving Layup Shot,1,418
+41800312,576,PT04M28.00S,4,1610612757,POR,203086,Leonard,M. Leonard,117,269,29,Made,1,100.0,108.0,208,v,Leonard 29' 3PT Jump Shot (7 PTS) (Lillard 10 AST),Made Shot,Jump Shot,1,419
+41800312,578,PT04M16.00S,4,1610612744,GSW,203110,Green,D. Green,16,15,2,Made,1,102.0,108.0,210,h,Green 2' Driving Finger Roll Layup (14 PTS),Made Shot,Driving Finger Roll Layup Shot,1,420
+41800312,579,PT03M54.00S,4,1610612757,POR,203468,McCollum,C. McCollum,177,235,29,Missed,1,,,0,v,MISS McCollum 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,421
+41800312,580,PT03M52.00S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,Curry REBOUND (Off:0 Def:7),Rebound,Unknown,1,422
+41800312,582,PT03M37.00S,4,1610612744,GSW,201939,Curry,S. Curry,-158,274,32,Missed,1,,,0,h,MISS Curry 32' 3PT Jump Shot,Missed Shot,Jump Shot,1,423
+41800312,583,PT03M35.00S,4,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,Looney REBOUND (Off:3 Def:3),Rebound,Unknown,1,424
+41800312,584,PT03M34.00S,4,1610612757,POR,203552,Curry,S. Curry,0,0,0,,0,,,0,v,Curry S.FOUL (P2.T3) (J.Tiven),Foul,Shooting,1,425
+41800312,586,PT03M34.00S,4,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,426
+41800312,587,PT03M34.00S,4,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,MISS Looney Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,427
+41800312,588,PT03M34.00S,4,0,,1610612744,,,0,0,0,,0,,,0,h,WARRIORS Rebound,Rebound,Normal Rebound,0,428
+41800312,589,PT03M34.00S,4,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,103.0,108.0,211,h,Looney Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,429
+41800312,590,PT03M19.00S,4,1610612757,POR,203468,McCollum,C. McCollum,207,162,26,Missed,1,,,0,v,MISS McCollum 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,430
+41800312,591,PT03M17.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:0 Def:9),Rebound,Unknown,1,431
+41800312,592,PT03M06.00S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,6,10,1,Made,1,105.0,108.0,213,h,Iguodala 1' Cutting Dunk Shot (4 PTS) (Green 5 AST),Made Shot,Cutting Dunk Shot,1,432
+41800312,594,PT02M42.00S,4,1610612757,POR,203468,McCollum,C. McCollum,7,75,8,Missed,1,,,0,v,MISS McCollum 8' Driving Layup,Missed Shot,Driving Layup Shot,1,433
+41800312,594,PT02M42.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green BLOCK (5 BLK),,,1,434
+41800312,596,PT02M41.00S,4,1610612744,GSW,203110,Green,D. Green,0,0,0,,0,,,0,h,Green REBOUND (Off:0 Def:10),Rebound,Unknown,1,435
+41800312,597,PT02M39.00S,4,1610612757,POR,203552,Curry,S. Curry,0,0,0,,0,,,0,v,Curry Personal Take Foul (P3.T4) (K.Mauer),Foul,Personal Take,1,436
+41800312,599,PT02M30.00S,4,1610612744,GSW,1626172,Looney,K. Looney,-8,12,1,Made,1,107.0,108.0,215,h,Looney 1' Alley Oop Layup (12 PTS) (Green 6 AST),Made Shot,Alley Oop Layup shot,1,437
+41800312,601,PT02M09.00S,4,1610612757,POR,203086,Leonard,M. Leonard,-18,11,2,Missed,1,,,0,v,MISS Leonard 2' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,438
+41800312,602,PT02M07.00S,4,1610612744,GSW,1626172,Looney,K. Looney,0,0,0,,0,,,0,h,Looney REBOUND (Off:3 Def:4),Rebound,Unknown,1,439
+41800312,603,PT02M05.00S,4,1610612744,GSW,203110,Green,D. Green,-8,55,6,Missed,1,,,0,h,MISS Green 6' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,440
+41800312,604,PT02M04.00S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala REBOUND (Off:2 Def:2),Rebound,Unknown,1,441
+41800312,605,PT02M01.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,,,0,v,Lillard S.FOUL (P1.PN) (K.Mauer),Foul,Shooting,1,442
+41800312,607,PT02M01.00S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,108.0,108.0,216,h,Curry Free Throw 1 of 3 (35 PTS),Free Throw,Free Throw 1 of 3,0,443
+41800312,608,PT02M01.00S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,109.0,108.0,217,h,Curry Free Throw 2 of 3 (36 PTS),Free Throw,Free Throw 2 of 3,0,444
+41800312,609,PT02M01.00S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,110.0,108.0,218,h,Curry Free Throw 3 of 3 (37 PTS),Free Throw,Free Throw 3 of 3,0,445
+41800312,610,PT01M47.00S,4,1610612757,POR,203468,McCollum,C. McCollum,19,247,25,Missed,1,,,0,v,MISS McCollum 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,446
+41800312,611,PT01M45.00S,4,1610612744,GSW,201939,Curry,S. Curry,0,0,0,,0,,,0,h,Curry REBOUND (Off:0 Def:8),Rebound,Unknown,1,447
+41800312,612,PT01M24.00S,4,1610612744,GSW,201939,Curry,S. Curry,189,180,26,Missed,1,,,0,h,MISS Curry 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,448
+41800312,613,PT01M22.00S,4,1610612757,POR,202323,Turner,E. Turner,0,0,0,,0,,,0,v,Turner REBOUND (Off:1 Def:4),Rebound,Unknown,1,449
+41800312,614,PT01M08.00S,4,1610612757,POR,203081,Lillard,D. Lillard,-135,240,28,Missed,1,,,0,v,MISS Lillard 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,450
+41800312,615,PT01M06.00S,4,1610612757,POR,203468,McCollum,C. McCollum,0,0,0,,0,,,0,v,McCollum REBOUND (Off:2 Def:1),Rebound,Unknown,1,451
+41800312,616,PT01M03.00S,4,1610612757,POR,203552,Curry,S. Curry,176,229,29,Made,1,110.0,111.0,221,v,Curry 29' 3PT Jump Shot (16 PTS) (McCollum 5 AST),Made Shot,Jump Shot,1,452
+41800312,618,PT00M52.90S,4,1610612744,GSW,1626172,Looney,K. Looney,-7,7,1,Made,1,112.0,111.0,223,h,Looney 1' Alley Oop Dunk (14 PTS) (Green 7 AST),Made Shot,Alley Oop Dunk Shot,1,453
+41800312,620,PT00M52.90S,4,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,454
+41800312,621,PT00M52.90S,4,1610612757,POR,202323,Turner,E. Turner,0,0,0,,0,,,0,v,SUB: Hood FOR Turner,Substitution,,0,455
+41800312,623,PT00M32.10S,4,1610612757,POR,203468,McCollum,C. McCollum,5,114,11,Missed,1,,,0,v,MISS McCollum 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,456
+41800312,624,PT00M31.30S,4,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:2),Rebound,Unknown,1,457
+41800312,625,PT00M12.30S,4,1610612744,GSW,203110,Green,D. Green,9,28,3,Made,1,114.0,111.0,225,h,Green 3' Cutting Layup Shot (16 PTS) (Curry 8 AST),Made Shot,Cutting Layup Shot,1,458
+41800312,627,PT00M12.30S,4,0,,1610612757,,,0,0,0,,0,,,0,v,Trail Blazers Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,459
+41800312,628,PT00M10.00S,4,1610612744,GSW,202691,Thompson,K. Thompson,0,0,0,,0,,,0,h,Thompson P.FOUL (P3.T2) (J.Capers),Foul,Personal,1,460
+41800312,631,PT00M04.10S,4,1610612757,POR,203081,Lillard,D. Lillard,-62,273,28,Missed,1,,,0,v,MISS Lillard 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,461
+41800312,631,PT00M04.10S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala BLOCK (1 BLK),,,1,462
+41800312,633,PT00M03.60S,4,1610612744,GSW,2738,Iguodala,A. Iguodala,0,0,0,,0,,,0,h,Iguodala REBOUND (Off:2 Def:3),Rebound,Unknown,1,463
+41800312,634,PT00M00.00S,4,0,,0,,,0,0,0,,0,114.0,111.0,225,,End of 4th Period (11:36 PM EST),period,end,1,464

@@ -1,0 +1,450 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+20101062,4,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (8:17 PM EST),period,start,0,1
+20101062,5,PT12M00.00S,1,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,h,Jump Ball Thomas vs. Magloire: Tip to,Jump Ball,,0,2
+20101062,6,PT11M43.00S,1,1610612752,NYK,221,Weatherspoon,C. Weatherspoon,-107,19,11,Made,1,2.0,0.0,2,h,Weatherspoon 11' Jump Shot (2 PTS),Made Shot,Jump Shot,0,3
+20101062,7,PT11M19.00S,1,1610612766,CHH,469,Mashburn,J. Mashburn,125,133,18,Made,1,2.0,2.0,4,v,Mashburn 18' Jump Shot (2 PTS),Made Shot,Jump Shot,0,4
+20101062,8,PT10M53.00S,1,1610612752,NYK,84,Sprewell,L. Sprewell,-90,241,26,Made,1,5.0,2.0,7,h,Sprewell 26' 3PT Jump Shot (3 PTS) (Jackson 1 AST),Made Shot,Jump Shot,0,5
+20101062,9,PT10M35.00S,1,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,Made,1,5.0,4.0,9,v,Magloire  Slam Dunk (2 PTS) (Wesley 1 AST),Made Shot,Slam Dunk Shot,0,6
+20101062,10,PT10M17.00S,1,1610612752,NYK,84,Sprewell,L. Sprewell,-42,42,6,Made,1,7.0,4.0,11,h,Sprewell 6' Jump Shot (5 PTS),Made Shot,Jump Shot,0,7
+20101062,11,PT10M02.00S,1,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,v,Mashburn Palming Turnover (P1.T1),Turnover,Palming Turnover,0,8
+20101062,12,PT09M50.00S,1,1610612752,NYK,84,Sprewell,L. Sprewell,-132,127,18,Made,1,9.0,4.0,13,h,Sprewell 18' Jump Shot (7 PTS),Made Shot,Jump Shot,0,9
+20101062,13,PT09M34.00S,1,1610612752,NYK,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson S.FOUL (P1.T1),Foul,Shooting,0,10
+20101062,14,PT09M34.00S,1,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,9.0,5.0,14,v,Mashburn Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,11
+20101062,15,PT09M34.00S,1,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,9.0,6.0,15,v,Mashburn Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,12
+20101062,16,PT09M17.00S,1,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,Made,1,11.0,6.0,17,h,Thomas  Layup (2 PTS) (Weatherspoon 1 AST),Made Shot,Layup Shot,0,13
+20101062,17,PT09M09.00S,1,1610612752,NYK,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson S.FOUL (P2.T2),Foul,Shooting,0,14
+20101062,18,PT09M09.00S,1,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,11.0,7.0,18,v,Mashburn Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,15
+20101062,21,PT09M09.00S,1,1610612752,NYK,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,h,SUB: Postell FOR Anderson,Substitution,,0,16
+20101062,22,PT09M09.00S,1,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,11.0,8.0,19,v,Mashburn Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,17
+20101062,23,PT08M53.00S,1,1610612752,NYK,84,Sprewell,L. Sprewell,0,0,0,Made,1,13.0,8.0,21,h,Sprewell  Driving Layup (9 PTS),Made Shot,Driving Layup Shot,0,18
+20101062,24,PT08M44.00S,1,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,,0,0.0,0.0,0,v,Magloire OFF.Foul (P1),Foul,Offensive,0,19
+20101062,25,PT08M44.00S,1,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,,0,0.0,0.0,0,v,Magloire Foul Turnover (P1.T2),Turnover,Foul,0,20
+20101062,26,PT08M33.00S,1,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,v,Davis S.FOUL (P1.T1),Foul,Shooting,0,21
+20101062,27,PT08M33.00S,1,1610612752,NYK,84,Sprewell,L. Sprewell,0,0,0,,0,14.0,8.0,22,h,Sprewell Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,22
+20101062,28,PT08M33.00S,1,1610612752,NYK,84,Sprewell,L. Sprewell,0,0,0,,0,15.0,8.0,23,h,Sprewell Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,23
+20101062,29,PT08M25.00S,1,1610612766,CHH,469,Mashburn,J. Mashburn,108,70,13,Made,1,15.0,10.0,25,v,Mashburn 13' Hook Shot (8 PTS) (Wesley 2 AST),Made Shot,Hook Shot,0,24
+20101062,30,PT08M06.00S,1,1610612752,NYK,84,Sprewell,L. Sprewell,-157,85,18,Missed,1,0.0,0.0,0,h,MISS Sprewell 18' Jump Shot,Missed Shot,Jump Shot,0,25
+20101062,31,PT08M04.00S,1,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,v,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,0,26
+20101062,32,PT07M51.00S,1,1610612766,CHH,136,Brown,P. Brown,-115,55,13,Missed,1,0.0,0.0,0,v,MISS Brown 13' Jump Shot,Missed Shot,Jump Shot,0,27
+20101062,34,PT07M48.00S,1,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,,0,0.0,0.0,0,v,Magloire REBOUND (Off:1 Def:0),Rebound,Unknown,0,28
+20101062,33,PT07M48.00S,1,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,Made,1,15.0,12.0,27,v,Magloire  Slam Dunk (4 PTS),Made Shot,Slam Dunk Shot,0,29
+20101062,35,PT07M29.00S,1,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,v,Davis S.FOUL (P2.T2),Foul,Shooting,0,30
+20101062,36,PT07M29.00S,1,1610612752,NYK,2068,Postell,L. Postell,0,0,0,,0,16.0,12.0,28,h,Postell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,31
+20101062,37,PT07M29.00S,1,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,v,SUB: Augmon FOR Davis,Substitution,,0,32
+20101062,38,PT07M29.00S,1,1610612752,NYK,2068,Postell,L. Postell,0,0,0,,0,17.0,12.0,29,h,Postell Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,33
+20101062,39,PT07M15.00S,1,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,Made,1,17.0,14.0,31,v,Mashburn  Driving Layup (10 PTS) (Wesley 3 AST),Made Shot,Driving Layup Shot,0,34
+20101062,40,PT07M05.00S,1,1610612752,NYK,2068,Postell,L. Postell,0,0,0,Made,1,19.0,14.0,33,h,Postell  Slam Dunk (4 PTS) (Jackson 2 AST),Made Shot,Slam Dunk Shot,0,35
+20101062,41,PT06M53.00S,1,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,36
+20101062,43,PT06M46.00S,1,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,v,Mashburn Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,37
+20101062,43,PT06M46.00S,1,1610612752,NYK,84,Sprewell,L. Sprewell,0,0,0,,0,0.0,0.0,0,h,Sprewell STEAL (1 STL),,,0,38
+20101062,44,PT06M41.00S,1,1610612752,NYK,2068,Postell,L. Postell,0,0,0,,0,0.0,0.0,0,h,Postell OFF.Foul (P1),Foul,Offensive,0,39
+20101062,45,PT06M41.00S,1,1610612752,NYK,2068,Postell,L. Postell,0,0,0,,0,0.0,0.0,0,h,Postell Foul Turnover (P1.T1),Turnover,Foul,0,40
+20101062,46,PT06M26.00S,1,1610612766,CHH,133,Wesley,D. Wesley,201,19,20,Made,1,19.0,16.0,35,v,Wesley 20' Jump Shot (2 PTS) (Magloire 1 AST),Made Shot,Jump Shot,0,41
+20101062,47,PT06M08.00S,1,1610612752,NYK,2068,Postell,L. Postell,-191,7,19,Made,1,21.0,16.0,37,h,Postell 19' Jump Shot (6 PTS),Made Shot,Jump Shot,0,42
+20101062,48,PT05M55.00S,1,1610612766,CHH,136,Brown,P. Brown,-6,163,16,Missed,1,0.0,0.0,0,v,MISS Brown 16' Jump Shot,Missed Shot,Jump Shot,0,43
+20101062,49,PT05M54.00S,1,1610612752,NYK,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,Weatherspoon REBOUND (Off:0 Def:1),Rebound,Unknown,0,44
+20101062,50,PT05M35.00S,1,1610612752,NYK,2068,Postell,L. Postell,100,42,11,Missed,1,0.0,0.0,0,h,MISS Postell 11' Jump Shot,Missed Shot,Jump Shot,0,45
+20101062,51,PT05M33.00S,1,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,,0,0.0,0.0,0,v,Magloire REBOUND (Off:1 Def:1),Rebound,Unknown,0,46
+20101062,52,PT05M28.00S,1,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,,0,0.0,0.0,0,v,Magloire Traveling Turnover (P2.T4),Turnover,Traveling,0,47
+20101062,53,PT05M28.00S,1,0,,1610612752,,,0,0,0,,0,0.0,0.0,0,h,KNICKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,48
+20101062,55,PT05M20.00S,1,1610612752,NYK,221,Weatherspoon,C. Weatherspoon,0,0,0,Missed,1,0.0,0.0,0,h,MISS Weatherspoon  Dunk,Missed Shot,Dunk Shot,0,49
+20101062,56,PT05M19.00S,1,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas REBOUND (Off:1 Def:0),Rebound,Unknown,0,50
+20101062,57,PT05M04.00S,1,1610612752,NYK,349,Jackson,M. Jackson,0,0,0,Made,1,23.0,16.0,39,h,Jackson  Layup (2 PTS) (Sprewell 1 AST),Made Shot,Layup Shot,0,51
+20101062,58,PT04M45.00S,1,1610612766,CHH,133,Wesley,D. Wesley,-73,190,20,Missed,1,0.0,0.0,0,v,MISS Wesley 20' Jump Shot,Missed Shot,Jump Shot,0,52
+20101062,59,PT04M44.00S,1,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Rebound,Rebound,Unknown,0,53
+20101062,60,PT04M44.00S,1,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas L.B.FOUL (P1.T3),Foul,Loose Ball,0,54
+20101062,61,PT04M35.00S,1,1610612752,NYK,84,Sprewell,L. Sprewell,0,0,0,,0,0.0,0.0,0,h,Sprewell S.FOUL (P1.T4),Foul,Shooting,0,55
+20101062,62,PT04M35.00S,1,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,23.0,17.0,40,v,Mashburn Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,56
+20101062,63,PT04M35.00S,1,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,v,MISS Mashburn Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,57
+20101062,64,PT04M34.00S,1,1610612752,NYK,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,Weatherspoon REBOUND (Off:0 Def:2),Rebound,Unknown,0,58
+20101062,65,PT04M20.00S,1,1610612752,NYK,84,Sprewell,L. Sprewell,142,211,25,Made,1,26.0,17.0,43,h,Sprewell 25' 3PT Jump Shot (14 PTS) (Jackson 3 AST),Made Shot,Jump Shot,0,59
+20101062,66,PT04M03.00S,1,1610612766,CHH,469,Mashburn,J. Mashburn,-56,63,8,Missed,1,0.0,0.0,0,v,MISS Mashburn 8' Jump Shot,Missed Shot,Jump Shot,0,60
+20101062,68,PT04M00.00S,1,1610612766,CHH,278,Augmon,S. Augmon,0,0,0,,0,0.0,0.0,0,v,Augmon REBOUND (Off:1 Def:0),Rebound,Unknown,0,61
+20101062,67,PT04M00.00S,1,1610612766,CHH,278,Augmon,S. Augmon,0,0,0,Missed,1,0.0,0.0,0,v,MISS Augmon  Tip Shot,Missed Shot,Tip Shot,0,62
+20101062,69,PT03M59.00S,1,1610612752,NYK,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,Weatherspoon REBOUND (Off:0 Def:3),Rebound,Unknown,0,63
+20101062,70,PT03M44.00S,1,1610612752,NYK,84,Sprewell,L. Sprewell,91,184,21,Missed,1,0.0,0.0,0,h,MISS Sprewell 21' Jump Shot,Missed Shot,Jump Shot,0,64
+20101062,71,PT03M43.00S,1,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,v,Mashburn REBOUND (Off:0 Def:1),Rebound,Unknown,0,65
+20101062,72,PT03M39.00S,1,1610612766,CHH,278,Augmon,S. Augmon,0,0,0,Made,1,26.0,19.0,45,v,Augmon  Layup (2 PTS) (Mashburn 1 AST),Made Shot,Layup Shot,0,66
+20101062,73,PT03M23.00S,1,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,Made,1,28.0,19.0,47,h,Thomas  Driving Layup (4 PTS) (Jackson 4 AST),Made Shot,Driving Layup Shot,0,67
+20101062,74,PT03M07.00S,1,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,,0,0.0,0.0,0,v,Magloire Lost Ball Turnover (P3.T5),Turnover,Lost Ball,0,68
+20101062,74,PT03M07.00S,1,1610612752,NYK,349,Jackson,M. Jackson,0,0,0,,0,0.0,0.0,0,h,Jackson STEAL (1 STL),,,0,69
+20101062,75,PT03M01.00S,1,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,70
+20101062,76,PT03M01.00S,1,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,,0,0.0,0.0,0,v,SUB: Traylor FOR Magloire,Substitution,,0,71
+20101062,77,PT02M44.00S,1,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,Missed,1,0.0,0.0,0,v,MISS Wesley  Layup,Missed Shot,Layup Shot,0,72
+20101062,78,PT02M43.00S,1,1610612752,NYK,2068,Postell,L. Postell,0,0,0,,0,0.0,0.0,0,h,Postell REBOUND (Off:0 Def:1),Rebound,Unknown,0,73
+20101062,79,PT02M24.00S,1,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,0.0,0.0,0,v,Wesley S.FOUL (P1.T3),Foul,Shooting,0,74
+20101062,80,PT02M24.00S,1,1610612752,NYK,2068,Postell,L. Postell,0,0,0,,0,29.0,19.0,48,h,Postell Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,75
+20101062,81,PT02M24.00S,1,1610612752,NYK,2068,Postell,L. Postell,0,0,0,,0,30.0,19.0,49,h,Postell Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,76
+20101062,82,PT02M08.00S,1,1610612752,NYK,349,Jackson,M. Jackson,0,0,0,,0,0.0,0.0,0,h,Jackson P.FOUL (P1.PN),Foul,Personal,0,77
+20101062,83,PT02M08.00S,1,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,30.0,20.0,50,v,Wesley Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,78
+20101062,84,PT02M08.00S,1,1610612766,CHH,136,Brown,P. Brown,0,0,0,,0,0.0,0.0,0,v,SUB: Lynch FOR Brown,Substitution,,0,79
+20101062,85,PT02M08.00S,1,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,30.0,21.0,51,v,Wesley Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,80
+20101062,86,PT01M53.00S,1,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,Missed,1,0.0,0.0,0,h,MISS Thomas  Layup,Missed Shot,Layup Shot,0,81
+20101062,87,PT01M52.00S,1,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,v,Mashburn REBOUND (Off:0 Def:2),Rebound,Unknown,0,82
+20101062,88,PT01M39.00S,1,1610612752,NYK,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,Weatherspoon S.FOUL (P1.PN),Foul,Shooting,0,83
+20101062,89,PT01M39.00S,1,1610612766,CHH,1714,Traylor,R. Traylor,0,0,0,,0,0.0,0.0,0,v,MISS Traylor Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,84
+20101062,90,PT01M39.00S,1,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Rebound,Rebound,Normal Rebound,0,85
+20101062,91,PT01M39.00S,1,1610612766,CHH,1714,Traylor,R. Traylor,0,0,0,,0,0.0,0.0,0,v,MISS Traylor Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,86
+20101062,92,PT01M39.00S,1,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas REBOUND (Off:1 Def:1),Rebound,Unknown,0,87
+20101062,93,PT01M26.00S,1,1610612752,NYK,84,Sprewell,L. Sprewell,18,198,20,Missed,1,0.0,0.0,0,h,MISS Sprewell 20' Jump Shot,Missed Shot,Jump Shot,0,88
+20101062,94,PT01M23.00S,1,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas REBOUND (Off:2 Def:1),Rebound,Unknown,0,89
+20101062,95,PT01M14.00S,1,1610612752,NYK,703,Thomas,K. Thomas,-98,19,10,Missed,1,0.0,0.0,0,h,MISS Thomas 10' Jump Shot,Missed Shot,Jump Shot,0,90
+20101062,97,PT01M11.00S,1,1610612752,NYK,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,Weatherspoon REBOUND (Off:1 Def:3),Rebound,Unknown,0,91
+20101062,96,PT01M11.00S,1,1610612752,NYK,221,Weatherspoon,C. Weatherspoon,0,0,0,Missed,1,0.0,0.0,0,h,MISS Weatherspoon  Tip Shot,Missed Shot,Tip Shot,0,92
+20101062,98,PT01M10.00S,1,1610612766,CHH,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,Lynch REBOUND (Off:0 Def:1),Rebound,Unknown,0,93
+20101062,99,PT00M56.10S,1,1610612766,CHH,469,Mashburn,J. Mashburn,66,198,21,Made,1,30.0,23.0,53,v,Mashburn 21' Jump Shot (13 PTS),Made Shot,Jump Shot,0,94
+20101062,100,PT00M38.20S,1,1610612752,NYK,349,Jackson,M. Jackson,-56,13,6,Missed,1,0.0,0.0,0,h,MISS Jackson 6' Jump Shot,Missed Shot,Jump Shot,0,95
+20101062,102,PT00M36.90S,1,1610612752,NYK,349,Jackson,M. Jackson,0,0,0,,0,0.0,0.0,0,h,Jackson REBOUND (Off:1 Def:0),Rebound,Unknown,0,96
+20101062,101,PT00M36.90S,1,1610612752,NYK,349,Jackson,M. Jackson,0,0,0,Made,1,32.0,23.0,55,h,Jackson  Tip Shot (4 PTS),Made Shot,Tip Shot,0,97
+20101062,103,PT00M30.90S,1,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,0.0,0.0,0,v,Wesley Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,98
+20101062,103,PT00M30.90S,1,1610612752,NYK,2068,Postell,L. Postell,0,0,0,,0,0.0,0.0,0,h,Postell STEAL (1 STL),,,0,99
+20101062,104,PT00M29.90S,1,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,0.0,0.0,0,v,Wesley P.FOUL (P2.T4),Foul,Personal,0,100
+20101062,105,PT00M09.80S,1,1610612752,NYK,703,Thomas,K. Thomas,-73,127,15,Missed,1,0.0,0.0,0,h,MISS Thomas 15' Jump Shot,Missed Shot,Jump Shot,0,101
+20101062,106,PT00M07.50S,1,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,v,Mashburn REBOUND (Off:0 Def:3),Rebound,Unknown,0,102
+20101062,107,PT00M01.10S,1,1610612766,CHH,469,Mashburn,J. Mashburn,117,76,14,Missed,1,0.0,0.0,0,v,MISS Mashburn 14' Jump Shot,Missed Shot,Jump Shot,0,103
+20101062,108,PT00M00.70S,1,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas REBOUND (Off:2 Def:2),Rebound,Unknown,0,104
+20101062,109,PT00M00.20S,1,1610612752,NYK,349,Jackson,M. Jackson,0,0,0,Missed,1,0.0,0.0,0,h,MISS Jackson  Layup,Missed Shot,Layup Shot,0,105
+20101062,110,PT00M00.00S,1,0,,1610612752,,,0,0,0,,0,0.0,0.0,0,h,KNICKS Rebound,Rebound,Unknown,0,106
+20101062,111,PT00M00.00S,1,0,,0,,,0,0,0,,0,32.0,23.0,55,,End of 1st Period (8:42 PM EST),period,end,0,107
+20101062,113,PT12M00.00S,2,0,,0,,,0,0,0,,0,32.0,23.0,55,,Start of 2nd Period (8:45 PM EST),period,start,0,108
+20101062,114,PT11M40.00S,2,1610612766,CHH,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,Lynch Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,109
+20101062,115,PT11M23.00S,2,1610612752,NYK,2068,Postell,L. Postell,-82,247,26,Missed,1,0.0,0.0,0,h,MISS Postell 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,110
+20101062,116,PT11M21.00S,2,1610612766,CHH,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,Lynch REBOUND (Off:0 Def:2),Rebound,Unknown,0,111
+20101062,117,PT11M12.00S,2,1610612766,CHH,248,Lynch,G. Lynch,0,0,0,Missed,1,0.0,0.0,0,v,MISS Lynch  Layup,Missed Shot,Layup Shot,0,112
+20101062,117,PT11M12.00S,2,1610612752,NYK,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,h,Knight BLOCK (1 BLK),,,0,113
+20101062,118,PT11M11.00S,2,1610612752,NYK,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,h,Knight REBOUND (Off:0 Def:1),Rebound,Unknown,0,114
+20101062,119,PT10M57.00S,2,1610612752,NYK,2068,Postell,L. Postell,0,0,0,,0,0.0,0.0,0,h,SUB: Sprewell FOR Postell,Substitution,,0,115
+20101062,120,PT10M50.00S,2,1610612752,NYK,84,Sprewell,L. Sprewell,226,112,25,Missed,1,0.0,0.0,0,h,MISS Sprewell 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,116
+20101062,121,PT10M48.00S,2,1610612766,CHH,1714,Traylor,R. Traylor,0,0,0,,0,0.0,0.0,0,v,Traylor REBOUND (Off:0 Def:1),Rebound,Unknown,0,117
+20101062,122,PT10M42.00S,2,1610612766,CHH,278,Augmon,S. Augmon,0,0,0,Made,1,32.0,25.0,57,v,Augmon  Slam Dunk (4 PTS) (Lynch 1 AST),Made Shot,Slam Dunk Shot,0,118
+20101062,123,PT10M19.00S,2,1610612752,NYK,221,Weatherspoon,C. Weatherspoon,-166,0,17,Missed,1,0.0,0.0,0,h,MISS Weatherspoon 17' Jump Shot,Missed Shot,Jump Shot,0,119
+20101062,124,PT10M17.00S,2,1610612752,NYK,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,h,Knight REBOUND (Off:1 Def:1),Rebound,Unknown,0,120
+20101062,125,PT10M00.00S,2,1610612752,NYK,458,Eisley,H. Eisley,100,34,11,Missed,1,0.0,0.0,0,h,MISS Eisley 11' Jump Shot,Missed Shot,Jump Shot,0,121
+20101062,126,PT09M58.00S,2,1610612766,CHH,1714,Traylor,R. Traylor,0,0,0,,0,0.0,0.0,0,v,Traylor REBOUND (Off:0 Def:2),Rebound,Unknown,0,122
+20101062,127,PT09M53.00S,2,1610612766,CHH,248,Lynch,G. Lynch,0,0,0,Made,1,32.0,27.0,59,v,Lynch  Layup (2 PTS) (Davis 1 AST),Made Shot,Layup Shot,0,123
+20101062,128,PT09M53.00S,2,1610612752,NYK,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,h,Knight S.FOUL (P1.T1),Foul,Shooting,0,124
+20101062,129,PT09M53.00S,2,1610612766,CHH,248,Lynch,G. Lynch,0,0,0,,0,32.0,28.0,60,v,Lynch Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,125
+20101062,130,PT09M37.00S,2,1610612752,NYK,969,Knight,T. Knight,0,0,0,Missed,1,0.0,0.0,0,h,MISS Knight  Layup,Missed Shot,Layup Shot,0,126
+20101062,130,PT09M37.00S,2,1610612766,CHH,1714,Traylor,R. Traylor,0,0,0,,0,0.0,0.0,0,v,Traylor BLOCK (1 BLK),,,0,127
+20101062,131,PT09M36.00S,2,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,v,Mashburn REBOUND (Off:0 Def:4),Rebound,Unknown,0,128
+20101062,132,PT09M30.00S,2,1610612766,CHH,1884,Davis,B. Davis,159,190,25,Made,1,32.0,31.0,63,v,Davis 25' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,0,129
+20101062,133,PT09M10.00S,2,1610612752,NYK,84,Sprewell,L. Sprewell,-73,42,8,Made,1,34.0,31.0,65,h,Sprewell 8' Jump Shot (16 PTS),Made Shot,Jump Shot,0,130
+20101062,134,PT08M58.00S,2,1610612766,CHH,1714,Traylor,R. Traylor,9,154,15,Made,1,34.0,33.0,67,v,Traylor 15' Jump Shot (2 PTS) (Augmon 1 AST),Made Shot,Jump Shot,0,131
+20101062,135,PT08M46.00S,2,1610612766,CHH,278,Augmon,S. Augmon,0,0,0,,0,0.0,0.0,0,v,Augmon P.FOUL (P1.T1),Foul,Personal,0,132
+20101062,136,PT08M46.00S,2,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,133
+20101062,138,PT08M46.00S,2,1610612752,NYK,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,SUB: Thomas FOR Weatherspoon,Substitution,,0,134
+20101062,139,PT08M31.00S,2,1610612752,NYK,84,Sprewell,L. Sprewell,-166,7,17,Missed,1,0.0,0.0,0,h,MISS Sprewell 17' Jump Shot,Missed Shot,Jump Shot,0,135
+20101062,140,PT08M29.00S,2,1610612752,NYK,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson REBOUND (Off:1 Def:0),Rebound,Unknown,0,136
+20101062,141,PT08M25.00S,2,1610612752,NYK,84,Sprewell,L. Sprewell,-231,42,0,Made,1,37.0,33.0,70,h,Sprewell  3PT Jump Shot (19 PTS) (Anderson 1 AST),Made Shot,Jump Shot,0,137
+20101062,142,PT08M10.00S,2,1610612766,CHH,278,Augmon,S. Augmon,0,0,0,Missed,1,0.0,0.0,0,v,MISS Augmon  Layup,Missed Shot,Layup Shot,0,138
+20101062,143,PT08M09.00S,2,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas REBOUND (Off:2 Def:3),Rebound,Unknown,0,139
+20101062,144,PT08M09.00S,2,1610612766,CHH,278,Augmon,S. Augmon,0,0,0,,0,0.0,0.0,0,v,Augmon L.B.FOUL (P2.T2),Foul,Loose Ball,0,140
+20101062,145,PT07M56.00S,2,1610612752,NYK,703,Thomas,K. Thomas,-132,42,14,Missed,1,0.0,0.0,0,h,MISS Thomas 14' Jump Shot,Missed Shot,Jump Shot,0,141
+20101062,146,PT07M54.00S,2,1610612766,CHH,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,Lynch REBOUND (Off:0 Def:3),Rebound,Unknown,0,142
+20101062,147,PT07M47.00S,2,1610612766,CHH,1714,Traylor,R. Traylor,91,19,9,Missed,1,0.0,0.0,0,v,MISS Traylor 9' Jump Shot,Missed Shot,Jump Shot,0,143
+20101062,148,PT07M45.00S,2,1610612766,CHH,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,Lynch REBOUND (Off:1 Def:3),Rebound,Unknown,0,144
+20101062,149,PT07M40.00S,2,1610612766,CHH,1714,Traylor,R. Traylor,1,34,3,Missed,1,0.0,0.0,0,v,MISS Traylor 3' Jump Shot,Missed Shot,Jump Shot,0,145
+20101062,150,PT07M37.00S,2,1610612752,NYK,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson REBOUND (Off:1 Def:1),Rebound,Unknown,0,146
+20101062,151,PT07M34.00S,2,1610612752,NYK,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,147
+20101062,151,PT07M34.00S,2,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,v,Davis STEAL (1 STL),,,0,148
+20101062,152,PT07M28.00S,2,1610612766,CHH,469,Mashburn,J. Mashburn,176,19,18,Made,1,37.0,35.0,72,v,Mashburn 18' Jump Shot (15 PTS) (Lynch 2 AST),Made Shot,Jump Shot,0,149
+20101062,153,PT07M13.00S,2,1610612752,NYK,84,Sprewell,L. Sprewell,-124,163,20,Missed,1,0.0,0.0,0,h,MISS Sprewell 20' Jump Shot,Missed Shot,Jump Shot,0,150
+20101062,154,PT07M11.00S,2,1610612752,NYK,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,h,Knight REBOUND (Off:2 Def:1),Rebound,Unknown,0,151
+20101062,155,PT07M11.00S,2,1610612752,NYK,969,Knight,T. Knight,0,0,0,Made,1,39.0,35.0,74,h,Knight  Tip Shot (2 PTS),Made Shot,Tip Shot,0,152
+20101062,156,PT06M57.00S,2,1610612766,CHH,469,Mashburn,J. Mashburn,108,42,12,Missed,1,0.0,0.0,0,v,MISS Mashburn 12' Jump Shot,Missed Shot,Jump Shot,0,153
+20101062,157,PT06M55.00S,2,1610612752,NYK,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,h,Knight REBOUND (Off:2 Def:2),Rebound,Unknown,0,154
+20101062,158,PT06M47.00S,2,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,Missed,1,0.0,0.0,0,h,MISS Thomas  Layup,Missed Shot,Layup Shot,0,155
+20101062,158,PT06M47.00S,2,1610612766,CHH,1714,Traylor,R. Traylor,0,0,0,,0,0.0,0.0,0,v,Traylor BLOCK (2 BLK),,,0,156
+20101062,159,PT06M43.00S,2,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,v,Davis REBOUND (Off:0 Def:2),Rebound,Unknown,0,157
+20101062,160,PT06M39.00S,2,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,Made,1,39.0,37.0,76,v,Mashburn  Layup (17 PTS) (Davis 2 AST),Made Shot,Layup Shot,0,158
+20101062,161,PT06M15.00S,2,1610612752,NYK,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,h,Knight Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,159
+20101062,161,PT06M15.00S,2,1610612766,CHH,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,Lynch STEAL (1 STL),,,0,160
+20101062,162,PT06M12.00S,2,1610612766,CHH,278,Augmon,S. Augmon,0,0,0,Made,1,39.0,39.0,78,v,Augmon  Layup (6 PTS) (Lynch 3 AST),Made Shot,Layup Shot,0,161
+20101062,163,PT05M46.00S,2,1610612752,NYK,84,Sprewell,L. Sprewell,0,0,0,,0,0.0,0.0,0,h,Sprewell Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,162
+20101062,163,PT05M46.00S,2,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,v,Davis STEAL (2 STL),,,0,163
+20101062,164,PT05M42.00S,2,1610612766,CHH,1884,Davis,B. Davis,0,0,0,Made,1,39.0,41.0,80,v,Davis  Slam Dunk (5 PTS),Made Shot,Slam Dunk Shot,0,164
+20101062,165,PT05M40.00S,2,0,,1610612752,,,0,0,0,,0,0.0,0.0,0,h,KNICKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,165
+20101062,167,PT05M20.00S,2,1610612752,NYK,84,Sprewell,L. Sprewell,-115,55,13,Missed,1,0.0,0.0,0,h,MISS Sprewell 13' Jump Shot,Missed Shot,Jump Shot,0,166
+20101062,168,PT05M18.00S,2,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas REBOUND (Off:3 Def:3),Rebound,Unknown,0,167
+20101062,169,PT05M17.00S,2,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,Made,1,41.0,41.0,82,h,Thomas  Layup (6 PTS),Made Shot,Layup Shot,0,168
+20101062,170,PT05M07.00S,2,1610612766,CHH,278,Augmon,S. Augmon,-56,34,7,Missed,1,0.0,0.0,0,v,MISS Augmon 7' Jump Shot,Missed Shot,Jump Shot,0,169
+20101062,170,PT05M07.00S,2,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas BLOCK (1 BLK),,,0,170
+20101062,171,PT05M03.00S,2,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas REBOUND (Off:3 Def:4),Rebound,Unknown,0,171
+20101062,172,PT04M58.00S,2,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,Missed,1,0.0,0.0,0,h,MISS Thomas  Layup,Missed Shot,Layup Shot,0,172
+20101062,173,PT04M56.00S,2,1610612752,NYK,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,h,Knight REBOUND (Off:3 Def:2),Rebound,Unknown,0,173
+20101062,174,PT04M55.00S,2,1610612752,NYK,84,Sprewell,L. Sprewell,108,219,24,Missed,1,0.0,0.0,0,h,MISS Sprewell 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,174
+20101062,175,PT04M52.00S,2,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas REBOUND (Off:4 Def:4),Rebound,Unknown,0,175
+20101062,176,PT04M46.00S,2,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,Missed,1,0.0,0.0,0,h,MISS Thomas  Layup,Missed Shot,Layup Shot,0,176
+20101062,178,PT04M45.00S,2,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas REBOUND (Off:5 Def:4),Rebound,Unknown,0,177
+20101062,177,PT04M45.00S,2,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,Missed,1,0.0,0.0,0,h,MISS Thomas  Tip Shot,Missed Shot,Tip Shot,0,178
+20101062,179,PT04M44.00S,2,1610612766,CHH,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,Lynch REBOUND (Off:1 Def:4),Rebound,Unknown,0,179
+20101062,180,PT04M37.00S,2,1610612752,NYK,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,h,Knight S.FOUL (P2.T2),Foul,Shooting,0,180
+20101062,181,PT04M37.00S,2,1610612752,NYK,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,h,SUB: Weatherspoon FOR Knight,Substitution,,0,181
+20101062,182,PT04M37.00S,2,1610612766,CHH,278,Augmon,S. Augmon,0,0,0,,0,0.0,0.0,0,v,SUB: Brown FOR Augmon,Substitution,,0,182
+20101062,183,PT04M37.00S,2,1610612766,CHH,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,SUB: Wesley FOR Lynch,Substitution,,0,183
+20101062,184,PT04M37.00S,2,1610612766,CHH,1714,Traylor,R. Traylor,0,0,0,,0,0.0,0.0,0,v,MISS Traylor Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,184
+20101062,185,PT04M37.00S,2,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Rebound,Rebound,Normal Rebound,0,185
+20101062,186,PT04M37.00S,2,1610612766,CHH,1714,Traylor,R. Traylor,0,0,0,,0,0.0,0.0,0,v,MISS Traylor Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,186
+20101062,187,PT04M37.00S,2,1610612766,CHH,136,Brown,P. Brown,0,0,0,,0,0.0,0.0,0,v,Brown REBOUND (Off:1 Def:0),Rebound,Unknown,0,187
+20101062,188,PT04M30.00S,2,1610612766,CHH,469,Mashburn,J. Mashburn,-115,232,26,Missed,1,0.0,0.0,0,v,MISS Mashburn 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,188
+20101062,189,PT04M29.00S,2,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Rebound,Rebound,Unknown,0,189
+20101062,190,PT04M29.00S,2,1610612752,NYK,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson L.B.FOUL (P3.T3),Foul,Loose Ball,0,190
+20101062,191,PT04M29.00S,2,1610612766,CHH,1714,Traylor,R. Traylor,0,0,0,,0,0.0,0.0,0,v,SUB: Magloire FOR Traylor,Substitution,,0,191
+20101062,192,PT04M18.00S,2,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas P.FOUL (P2.T4),Foul,Personal,0,192
+20101062,193,PT04M18.00S,2,1610612752,NYK,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,h,SUB: Knight FOR Anderson,Substitution,,0,193
+20101062,194,PT04M12.00S,2,1610612766,CHH,469,Mashburn,J. Mashburn,-124,184,22,Missed,1,0.0,0.0,0,v,MISS Mashburn 22' Jump Shot,Missed Shot,Jump Shot,0,194
+20101062,195,PT04M10.00S,2,0,,1610612752,,,0,0,0,,0,0.0,0.0,0,h,KNICKS Rebound,Rebound,Unknown,0,195
+20101062,196,PT03M55.00S,2,1610612752,NYK,969,Knight,T. Knight,191,13,19,Missed,1,0.0,0.0,0,h,MISS Knight 19' Jump Shot,Missed Shot,Jump Shot,0,196
+20101062,197,PT03M53.00S,2,1610612766,CHH,136,Brown,P. Brown,0,0,0,,0,0.0,0.0,0,v,Brown REBOUND (Off:1 Def:1),Rebound,Unknown,0,197
+20101062,198,PT03M50.00S,2,1610612766,CHH,133,Wesley,D. Wesley,182,28,18,Made,1,41.0,43.0,84,v,Wesley 18' Jump Shot (6 PTS) (Davis 3 AST),Made Shot,Jump Shot,0,198
+20101062,199,PT03M26.00S,2,1610612752,NYK,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,h,Knight Lost Ball Turnover (P2.T6),Turnover,Lost Ball,0,199
+20101062,199,PT03M26.00S,2,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,0.0,0.0,0,v,Wesley STEAL (1 STL),,,0,200
+20101062,200,PT03M18.00S,2,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,v,Davis Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,201
+20101062,201,PT02M59.00S,2,1610612752,NYK,458,Eisley,H. Eisley,0,0,0,,0,0.0,0.0,0,h,Eisley Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,202
+20101062,201,PT02M59.00S,2,1610612766,CHH,136,Brown,P. Brown,0,0,0,,0,0.0,0.0,0,v,Brown STEAL (1 STL),,,0,203
+20101062,202,PT02M40.00S,2,1610612766,CHH,133,Wesley,D. Wesley,-107,226,25,Made,1,41.0,46.0,87,v,Wesley 25' 3PT Jump Shot (9 PTS) (Davis 4 AST),Made Shot,Jump Shot,0,204
+20101062,203,PT02M32.00S,2,0,,1610612752,,,0,0,0,,0,0.0,0.0,0,h,KNICKS Timeout: Short (Full 2 Short 1),Timeout,Short,0,205
+20101062,204,PT02M32.00S,2,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,206
+20101062,206,PT02M32.00S,2,1610612752,NYK,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,h,SUB: Jackson FOR Knight,Substitution,,0,207
+20101062,207,PT02M20.00S,2,1610612752,NYK,84,Sprewell,L. Sprewell,-141,55,15,Missed,1,0.0,0.0,0,h,MISS Sprewell 15' Jump Shot,Missed Shot,Jump Shot,0,208
+20101062,208,PT02M18.00S,2,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,v,Mashburn REBOUND (Off:0 Def:5),Rebound,Unknown,0,209
+20101062,209,PT02M09.00S,2,1610612766,CHH,136,Brown,P. Brown,1,63,6,Made,1,41.0,48.0,89,v,Brown 6' Jump Shot (2 PTS) (Mashburn 2 AST),Made Shot,Jump Shot,0,210
+20101062,210,PT01M54.00S,2,1610612752,NYK,458,Eisley,H. Eisley,-132,28,13,Made,1,43.0,48.0,91,h,Eisley 13' Jump Shot (2 PTS),Made Shot,Jump Shot,0,211
+20101062,211,PT01M31.00S,2,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,Made,1,43.0,50.0,93,v,Magloire  Slam Dunk (6 PTS) (Davis 5 AST),Made Shot,Slam Dunk Shot,0,212
+20101062,212,PT01M17.00S,2,1610612752,NYK,703,Thomas,K. Thomas,-107,13,11,Missed,1,0.0,0.0,0,h,MISS Thomas 11' Jump Shot,Missed Shot,Jump Shot,0,213
+20101062,213,PT01M15.00S,2,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,v,Mashburn REBOUND (Off:0 Def:6),Rebound,Unknown,0,214
+20101062,214,PT01M09.00S,2,1610612766,CHH,469,Mashburn,J. Mashburn,66,7,7,Missed,1,0.0,0.0,0,v,MISS Mashburn 7' Jump Shot,Missed Shot,Jump Shot,0,215
+20101062,215,PT01M07.00S,2,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas REBOUND (Off:5 Def:5),Rebound,Unknown,0,216
+20101062,216,PT01M03.00S,2,1610612752,NYK,84,Sprewell,L. Sprewell,0,0,0,Made,1,45.0,50.0,95,h,Sprewell  Driving Layup (21 PTS) (Jackson 5 AST),Made Shot,Driving Layup Shot,0,217
+20101062,217,PT01M00.00S,2,0,,1610612752,,,0,0,0,,0,0.0,0.0,0,h,KNICKS Violation: Delay of game Violation,Violation,Delay Of Game,0,218
+20101062,218,PT00M46.20S,2,1610612766,CHH,1884,Davis,B. Davis,91,127,16,Missed,1,0.0,0.0,0,v,MISS Davis 16' Jump Shot,Missed Shot,Jump Shot,0,219
+20101062,220,PT00M44.10S,2,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,,0,0.0,0.0,0,v,Magloire REBOUND (Off:2 Def:1),Rebound,Unknown,0,220
+20101062,219,PT00M44.10S,2,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,Missed,1,0.0,0.0,0,v,MISS Magloire  Tip Shot,Missed Shot,Tip Shot,0,221
+20101062,221,PT00M43.00S,2,1610612752,NYK,458,Eisley,H. Eisley,0,0,0,,0,0.0,0.0,0,h,Eisley REBOUND (Off:0 Def:1),Rebound,Unknown,0,222
+20101062,222,PT00M36.60S,2,1610612752,NYK,458,Eisley,H. Eisley,0,0,0,,0,0.0,0.0,0,h,Eisley Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,223
+20101062,222,PT00M36.60S,2,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,v,Davis STEAL (3 STL),,,0,224
+20101062,223,PT00M35.90S,2,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas C.P.FOUL (P3.PN),Foul,Clear Path,0,225
+20101062,224,PT00M35.90S,2,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,v,MISS Davis Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,226
+20101062,225,PT00M35.90S,2,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Rebound,Rebound,Unknown,0,227
+20101062,226,PT00M35.90S,2,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,h,SUB: Spencer FOR Thomas,Substitution,,0,228
+20101062,228,PT00M30.20S,2,1610612766,CHH,1884,Davis,B. Davis,167,198,26,Missed,1,0.0,0.0,0,v,MISS Davis 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,229
+20101062,229,PT00M27.90S,2,1610612766,CHH,136,Brown,P. Brown,0,0,0,,0,0.0,0.0,0,v,Brown REBOUND (Off:2 Def:1),Rebound,Unknown,0,230
+20101062,230,PT00M08.40S,2,1610612766,CHH,469,Mashburn,J. Mashburn,108,148,18,Missed,1,0.0,0.0,0,v,MISS Mashburn 18' Jump Shot,Missed Shot,Jump Shot,0,231
+20101062,231,PT00M06.60S,2,1610612752,NYK,349,Jackson,M. Jackson,0,0,0,,0,0.0,0.0,0,h,Jackson REBOUND (Off:1 Def:1),Rebound,Unknown,0,232
+20101062,232,PT00M01.60S,2,1610612752,NYK,221,Weatherspoon,C. Weatherspoon,0,0,0,Missed,1,0.0,0.0,0,h,MISS Weatherspoon  Layup,Missed Shot,Layup Shot,0,233
+20101062,232,PT00M01.60S,2,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,v,Davis BLOCK (1 BLK),,,0,234
+20101062,233,PT00M01.10S,2,0,,1610612752,,,0,0,0,,0,0.0,0.0,0,h,KNICKS Rebound,Rebound,Unknown,0,235
+20101062,234,PT00M00.00S,2,1610612752,NYK,458,Eisley,H. Eisley,108,268,29,Made,1,48.0,50.0,98,h,Eisley 29' 3PT Jump Shot (5 PTS) (Jackson 6 AST),Made Shot,Jump Shot,0,236
+20101062,235,PT00M00.00S,2,0,,0,,,0,0,0,,0,48.0,50.0,98,,End of 2nd Period (9:09 PM EST),period,end,0,237
+20101062,237,PT12M00.00S,3,0,,0,,,0,0,0,,0,48.0,50.0,98,,Start of 3rd Period (9:27 PM EST),period,start,0,238
+20101062,238,PT11M44.00S,3,1610612766,CHH,2048,Magloire,J. Magloire,-6,55,6,Missed,1,0.0,0.0,0,v,MISS Magloire 6' Jump Shot,Missed Shot,Jump Shot,0,239
+20101062,239,PT11M42.00S,3,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas REBOUND (Off:5 Def:6),Rebound,Unknown,0,240
+20101062,240,PT11M24.00S,3,1610612752,NYK,84,Sprewell,L. Sprewell,-98,42,11,Missed,1,0.0,0.0,0,h,MISS Sprewell 11' Jump Shot,Missed Shot,Jump Shot,0,241
+20101062,241,PT11M22.00S,3,1610612752,NYK,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,Weatherspoon REBOUND (Off:2 Def:3),Rebound,Unknown,0,242
+20101062,242,PT11M13.00S,3,1610612752,NYK,1000,Anderson,S. Anderson,0,0,0,Made,1,50.0,50.0,100,h,Anderson  Layup (2 PTS) (Jackson 7 AST),Made Shot,Layup Shot,0,243
+20101062,243,PT11M00.00S,3,1610612766,CHH,133,Wesley,D. Wesley,-90,154,18,Missed,1,0.0,0.0,0,v,MISS Wesley 18' Jump Shot,Missed Shot,Jump Shot,0,244
+20101062,243,PT11M00.00S,3,1610612752,NYK,84,Sprewell,L. Sprewell,0,0,0,,0,0.0,0.0,0,h,Sprewell BLOCK (1 BLK),,,0,245
+20101062,244,PT10M58.00S,3,0,,1610612752,,,0,0,0,,0,0.0,0.0,0,h,KNICKS Rebound,Rebound,Unknown,0,246
+20101062,245,PT10M44.00S,3,1610612752,NYK,1000,Anderson,S. Anderson,226,7,0,Made,1,53.0,50.0,103,h,Anderson  3PT Jump Shot (5 PTS) (Sprewell 2 AST),Made Shot,Jump Shot,0,247
+20101062,246,PT10M28.00S,3,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,Made,1,53.0,52.0,105,v,Magloire  Layup (8 PTS) (Mashburn 3 AST),Made Shot,Layup Shot,0,248
+20101062,247,PT10M28.00S,3,1610612752,NYK,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,Weatherspoon S.FOUL (P2.T1),Foul,Shooting,0,249
+20101062,248,PT10M28.00S,3,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,,0,53.0,53.0,106,v,Magloire Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,250
+20101062,249,PT10M08.00S,3,1610612752,NYK,349,Jackson,M. Jackson,0,0,0,,0,0.0,0.0,0,h,Jackson Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,251
+20101062,249,PT10M08.00S,3,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,,0,0.0,0.0,0,v,Magloire STEAL (1 STL),,,0,252
+20101062,254,PT09M55.00S,3,1610612766,CHH,1884,Davis,B. Davis,0,0,0,Missed,1,0.0,0.0,0,v,MISS Davis  Layup,Missed Shot,Layup Shot,0,253
+20101062,251,PT09M54.00S,3,1610612752,NYK,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,Weatherspoon REBOUND (Off:2 Def:4),Rebound,Unknown,0,254
+20101062,252,PT09M49.00S,3,1610612752,NYK,349,Jackson,M. Jackson,-115,70,13,Missed,1,0.0,0.0,0,h,MISS Jackson 13' Jump Shot,Missed Shot,Jump Shot,0,255
+20101062,253,PT09M45.00S,3,1610612766,CHH,136,Brown,P. Brown,0,0,0,,0,0.0,0.0,0,v,Brown REBOUND (Off:2 Def:2),Rebound,Unknown,0,256
+20101062,255,PT09M28.00S,3,1610612766,CHH,469,Mashburn,J. Mashburn,-90,42,10,Missed,1,0.0,0.0,0,v,MISS Mashburn 10' Jump Shot,Missed Shot,Jump Shot,0,257
+20101062,256,PT09M26.00S,3,1610612766,CHH,136,Brown,P. Brown,0,0,0,,0,0.0,0.0,0,v,Brown REBOUND (Off:3 Def:2),Rebound,Unknown,0,258
+20101062,257,PT09M11.00S,3,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,0.0,0.0,0,v,Wesley Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,259
+20101062,257,PT09M11.00S,3,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas STEAL (1 STL),,,0,260
+20101062,258,PT09M08.00S,3,1610612752,NYK,349,Jackson,M. Jackson,0,0,0,,0,0.0,0.0,0,h,Jackson Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,261
+20101062,259,PT08M45.00S,3,1610612766,CHH,1884,Davis,B. Davis,-166,205,26,Missed,1,0.0,0.0,0,v,MISS Davis 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,262
+20101062,260,PT08M44.00S,3,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas REBOUND (Off:5 Def:7),Rebound,Unknown,0,263
+20101062,261,PT08M35.00S,3,1610612752,NYK,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,Weatherspoon Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,264
+20101062,262,PT08M22.00S,3,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,Missed,1,0.0,0.0,0,v,MISS Magloire  Dunk,Missed Shot,Dunk Shot,0,265
+20101062,263,PT08M20.00S,3,0,,1610612752,,,0,0,0,,0,0.0,0.0,0,h,KNICKS Rebound,Rebound,Unknown,0,266
+20101062,264,PT08M20.00S,3,0,,1610612752,,,0,0,0,,0,0.0,0.0,0,h,KNICKS Timeout: Regular (Full 3 Short 1),Timeout,Regular,0,267
+20101062,266,PT08M02.00S,3,1610612752,NYK,703,Thomas,K. Thomas,91,133,16,Made,1,55.0,53.0,108,h,Thomas 16' Jump Shot (8 PTS) (Sprewell 3 AST),Made Shot,Jump Shot,0,268
+20101062,267,PT07M43.00S,3,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas P.FOUL (P4.T2),Foul,Personal,0,269
+20101062,268,PT07M37.00S,3,1610612766,CHH,469,Mashburn,J. Mashburn,-115,91,15,Missed,1,0.0,0.0,0,v,MISS Mashburn 15' Jump Shot,Missed Shot,Jump Shot,0,270
+20101062,269,PT07M35.00S,3,1610612752,NYK,349,Jackson,M. Jackson,0,0,0,,0,0.0,0.0,0,h,Jackson REBOUND (Off:1 Def:2),Rebound,Unknown,0,271
+20101062,270,PT07M31.00S,3,1610612752,NYK,349,Jackson,M. Jackson,0,0,0,,0,0.0,0.0,0,h,Jackson Lost Ball Turnover (P3.T12),Turnover,Lost Ball,0,272
+20101062,271,PT07M16.00S,3,1610612752,NYK,349,Jackson,M. Jackson,0,0,0,,0,0.0,0.0,0,h,Jackson S.FOUL (P2.T3),Foul,Shooting,0,273
+20101062,272,PT07M16.00S,3,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,55.0,54.0,109,v,Mashburn Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,274
+20101062,273,PT07M16.00S,3,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,55.0,55.0,110,v,Mashburn Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,275
+20101062,274,PT07M04.00S,3,1610612752,NYK,84,Sprewell,L. Sprewell,-141,76,16,Made,1,57.0,55.0,112,h,Sprewell 16' Jump Shot (23 PTS),Made Shot,Jump Shot,0,276
+20101062,275,PT06M49.00S,3,1610612766,CHH,136,Brown,P. Brown,-115,7,12,Missed,1,0.0,0.0,0,v,MISS Brown 12' Jump Shot,Missed Shot,Jump Shot,0,277
+20101062,276,PT06M47.00S,3,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas REBOUND (Off:5 Def:8),Rebound,Unknown,0,278
+20101062,277,PT06M31.00S,3,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,0.0,0.0,0,v,Wesley S.FOUL (P3.T1),Foul,Shooting,0,279
+20101062,278,PT06M31.00S,3,1610612752,NYK,84,Sprewell,L. Sprewell,0,0,0,,0,58.0,55.0,113,h,Sprewell Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,0,280
+20101062,279,PT06M31.00S,3,1610612752,NYK,84,Sprewell,L. Sprewell,0,0,0,,0,59.0,55.0,114,h,Sprewell Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,0,281
+20101062,280,PT06M13.00S,3,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,Made,1,59.0,57.0,116,v,Magloire  Layup (11 PTS) (Wesley 4 AST),Made Shot,Layup Shot,0,282
+20101062,281,PT05M56.00S,3,1610612752,NYK,84,Sprewell,L. Sprewell,-157,76,17,Missed,1,0.0,0.0,0,h,MISS Sprewell 17' Jump Shot,Missed Shot,Jump Shot,0,283
+20101062,282,PT05M53.00S,3,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,,0,0.0,0.0,0,v,Magloire REBOUND (Off:2 Def:2),Rebound,Unknown,0,284
+20101062,283,PT05M48.00S,3,1610612766,CHH,1884,Davis,B. Davis,-141,205,25,Missed,1,0.0,0.0,0,v,MISS Davis 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,285
+20101062,284,PT05M46.00S,3,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas REBOUND (Off:5 Def:9),Rebound,Unknown,0,286
+20101062,285,PT05M30.00S,3,1610612752,NYK,1000,Anderson,S. Anderson,226,0,0,Missed,1,0.0,0.0,0,h,MISS Anderson  3PT Jump Shot,Missed Shot,Jump Shot,0,287
+20101062,287,PT05M28.00S,3,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas REBOUND (Off:6 Def:9),Rebound,Unknown,0,288
+20101062,286,PT05M28.00S,3,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,Made,1,61.0,57.0,118,h,Thomas  Layup (10 PTS),Made Shot,Layup Shot,0,289
+20101062,288,PT05M18.00S,3,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,290
+20101062,290,PT05M02.00S,3,1610612766,CHH,133,Wesley,D. Wesley,235,-6,24,Missed,1,0.0,0.0,0,v,MISS Wesley 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,291
+20101062,291,PT05M01.00S,3,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Rebound,Rebound,Unknown,0,292
+20101062,292,PT05M01.00S,3,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,0,293
+20101062,293,PT04M51.00S,3,1610612752,NYK,84,Sprewell,L. Sprewell,-124,70,14,Missed,1,0.0,0.0,0,h,MISS Sprewell 14' Jump Shot,Missed Shot,Jump Shot,0,294
+20101062,294,PT04M49.00S,3,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,v,Mashburn REBOUND (Off:0 Def:7),Rebound,Unknown,0,295
+20101062,295,PT04M35.00S,3,1610612766,CHH,469,Mashburn,J. Mashburn,18,205,21,Made,1,61.0,59.0,120,v,Mashburn 21' Jump Shot (21 PTS) (Wesley 5 AST),Made Shot,Jump Shot,0,296
+20101062,296,PT04M17.00S,3,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,Missed,1,0.0,0.0,0,h,MISS Thomas  Jump Shot,Missed Shot,Jump Shot,0,297
+20101062,296,PT04M17.00S,3,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,v,Davis BLOCK (2 BLK),,,0,298
+20101062,297,PT04M16.00S,3,0,,1610612752,,,0,0,0,,0,0.0,0.0,0,h,KNICKS Rebound,Rebound,Unknown,0,299
+20101062,298,PT04M08.00S,3,1610612752,NYK,349,Jackson,M. Jackson,-157,19,16,Missed,1,0.0,0.0,0,h,MISS Jackson 16' Jump Shot,Missed Shot,Jump Shot,0,300
+20101062,299,PT04M06.00S,3,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,,0,0.0,0.0,0,v,Magloire REBOUND (Off:2 Def:3),Rebound,Unknown,0,301
+20101062,300,PT04M01.00S,3,1610612766,CHH,133,Wesley,D. Wesley,-124,70,14,Missed,1,0.0,0.0,0,v,MISS Wesley 14' Jump Shot,Missed Shot,Jump Shot,0,302
+20101062,301,PT03M59.00S,3,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas REBOUND (Off:6 Def:10),Rebound,Unknown,0,303
+20101062,302,PT03M56.00S,3,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,,0,0.0,0.0,0,v,Magloire S.FOUL (P2.T2),Foul,Shooting,0,304
+20101062,303,PT03M56.00S,3,1610612752,NYK,1000,Anderson,S. Anderson,0,0,0,,0,62.0,59.0,121,h,Anderson Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,305
+20101062,304,PT03M56.00S,3,1610612752,NYK,1000,Anderson,S. Anderson,0,0,0,,0,63.0,59.0,122,h,Anderson Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,306
+20101062,305,PT03M42.00S,3,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,v,Mashburn Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,307
+20101062,305,PT03M42.00S,3,1610612752,NYK,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,Weatherspoon STEAL (1 STL),,,0,308
+20101062,306,PT03M34.00S,3,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,v,Davis P.FOUL (P3.T3),Foul,Personal,0,309
+20101062,307,PT03M34.00S,3,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,,0,0.0,0.0,0,v,SUB: Traylor FOR Magloire,Substitution,,0,310
+20101062,308,PT03M34.00S,3,1610612766,CHH,136,Brown,P. Brown,0,0,0,,0,0.0,0.0,0,v,SUB: Lynch FOR Brown,Substitution,,0,311
+20101062,309,PT03M24.00S,3,1610612752,NYK,349,Jackson,M. Jackson,58,34,7,Made,1,65.0,59.0,124,h,Jackson 7' Hook Shot (6 PTS),Made Shot,Hook Shot,0,312
+20101062,310,PT03M12.00S,3,1610612766,CHH,1714,Traylor,R. Traylor,0,0,0,Missed,1,0.0,0.0,0,v,MISS Traylor  Layup,Missed Shot,Layup Shot,0,313
+20101062,310,PT03M12.00S,3,1610612752,NYK,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,Weatherspoon BLOCK (1 BLK),,,0,314
+20101062,311,PT03M09.00S,3,1610612752,NYK,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson REBOUND (Off:1 Def:2),Rebound,Unknown,0,315
+20101062,312,PT02M53.00S,3,1610612752,NYK,1000,Anderson,S. Anderson,0,0,0,Made,1,67.0,59.0,126,h,Anderson  Layup (9 PTS) (Jackson 8 AST),Made Shot,Layup Shot,0,316
+20101062,314,PT02M34.00S,3,1610612766,CHH,469,Mashburn,J. Mashburn,-149,91,17,Missed,1,0.0,0.0,0,v,MISS Mashburn 17' Jump Shot,Missed Shot,Jump Shot,0,317
+20101062,315,PT02M33.00S,3,0,,1610612752,,,0,0,0,,0,0.0,0.0,0,h,KNICKS Rebound,Rebound,Unknown,0,318
+20101062,316,PT02M33.00S,3,1610612766,CHH,1714,Traylor,R. Traylor,0,0,0,,0,0.0,0.0,0,v,Traylor L.B.FOUL (P1.T4),Foul,Loose Ball,0,319
+20101062,317,PT02M33.00S,3,1610612766,CHH,133,Wesley,D. Wesley,0,0,0,,0,0.0,0.0,0,v,SUB: Augmon FOR Wesley,Substitution,,0,320
+20101062,318,PT02M11.00S,3,1610612752,NYK,703,Thomas,K. Thomas,-82,55,10,Missed,1,0.0,0.0,0,h,MISS Thomas 10' Jump Shot,Missed Shot,Jump Shot,0,321
+20101062,320,PT02M09.00S,3,1610612752,NYK,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,Weatherspoon REBOUND (Off:3 Def:4),Rebound,Unknown,0,322
+20101062,319,PT02M09.00S,3,1610612752,NYK,221,Weatherspoon,C. Weatherspoon,0,0,0,Missed,1,0.0,0.0,0,h,MISS Weatherspoon  Tip Shot,Missed Shot,Tip Shot,0,323
+20101062,321,PT02M07.00S,3,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,v,Davis REBOUND (Off:0 Def:3),Rebound,Unknown,0,324
+20101062,322,PT02M03.00S,3,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Timeout: Short (Reg.3 Short 1),Timeout,Short,0,325
+20101062,324,PT02M03.00S,3,1610612766,CHH,469,Mashburn,J. Mashburn,0,0,0,,0,0.0,0.0,0,v,SUB: Drew FOR Mashburn,Substitution,,0,326
+20101062,327,PT01M48.00S,3,1610612766,CHH,1884,Davis,B. Davis,-98,55,11,Missed,1,0.0,0.0,0,v,MISS Davis 11' Jump Shot,Missed Shot,Jump Shot,0,327
+20101062,328,PT01M46.00S,3,1610612752,NYK,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,Weatherspoon REBOUND (Off:3 Def:5),Rebound,Unknown,0,328
+20101062,330,PT01M32.00S,3,1610612752,NYK,84,Sprewell,L. Sprewell,-242,7,24,Missed,1,0.0,0.0,0,h,MISS Sprewell 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,329
+20101062,331,PT01M30.00S,3,1610612766,CHH,1714,Traylor,R. Traylor,0,0,0,,0,0.0,0.0,0,v,Traylor REBOUND (Off:0 Def:3),Rebound,Unknown,0,330
+20101062,332,PT01M15.00S,3,1610612766,CHH,278,Augmon,S. Augmon,91,7,9,Missed,1,0.0,0.0,0,v,MISS Augmon 9' Jump Shot,Missed Shot,Jump Shot,0,331
+20101062,333,PT01M12.00S,3,0,,1610612752,,,0,0,0,,0,0.0,0.0,0,h,KNICKS Rebound,Rebound,Unknown,0,332
+20101062,334,PT00M55.00S,3,1610612752,NYK,1000,Anderson,S. Anderson,235,13,24,Made,1,70.0,59.0,129,h,Anderson 24' 3PT Jump Shot (12 PTS) (Jackson 9 AST),Made Shot,Jump Shot,0,333
+20101062,335,PT00M32.10S,3,1610612766,CHH,248,Lynch,G. Lynch,-6,205,21,Missed,1,0.0,0.0,0,v,MISS Lynch 21' Jump Shot,Missed Shot,Jump Shot,0,334
+20101062,336,PT00M31.80S,3,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Rebound,Rebound,Unknown,0,335
+20101062,337,PT00M15.20S,3,1610612766,CHH,1724,Drew,B. Drew,0,0,0,Missed,1,0.0,0.0,0,v,MISS Drew  Layup,Missed Shot,Layup Shot,0,336
+20101062,338,PT00M13.50S,3,1610612752,NYK,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,Weatherspoon REBOUND (Off:3 Def:6),Rebound,Unknown,0,337
+20101062,339,PT00M13.20S,3,1610612766,CHH,1724,Drew,B. Drew,0,0,0,,0,0.0,0.0,0,v,Drew L.B.FOUL (P1.PN),Foul,Loose Ball,0,338
+20101062,340,PT00M13.20S,3,1610612752,NYK,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,71.0,59.0,130,h,Weatherspoon Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,339
+20101062,341,PT00M13.20S,3,1610612752,NYK,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,72.0,59.0,131,h,Weatherspoon Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,340
+20101062,342,PT00M02.70S,3,1610612752,NYK,349,Jackson,M. Jackson,0,0,0,,0,0.0,0.0,0,h,Jackson P.FOUL (P3.T4),Foul,Personal,0,341
+20101062,343,PT00M00.00S,3,1610612766,CHH,1714,Traylor,R. Traylor,125,226,26,Made,1,72.0,62.0,134,v,Traylor 26' 3PT Jump Shot (5 PTS) (Lynch 4 AST),Made Shot,Jump Shot,0,342
+20101062,344,PT00M00.00S,3,0,,0,,,0,0,0,,0,72.0,62.0,134,,End of 3rd Period (9:52 PM EST),period,end,0,343
+20101062,348,PT12M00.00S,4,0,,0,,,0,0,0,,0,72.0,62.0,134,,Start of 4th Period (9:55 PM EST),period,start,0,344
+20101062,350,PT11M38.00S,4,1610612752,NYK,1000,Anderson,S. Anderson,0,0,0,Missed,1,0.0,0.0,0,h,MISS Anderson  Layup,Missed Shot,Layup Shot,0,345
+20101062,351,PT11M37.00S,4,1610612766,CHH,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,Lynch REBOUND (Off:1 Def:5),Rebound,Unknown,0,346
+20101062,352,PT11M31.00S,4,1610612766,CHH,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,Lynch OFF.Foul (P1),Foul,Offensive,0,347
+20101062,353,PT11M31.00S,4,1610612766,CHH,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,Lynch Foul Turnover (P2.T12),Turnover,Foul,0,348
+20101062,354,PT11M18.00S,4,1610612752,NYK,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,349
+20101062,354,PT11M18.00S,4,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,v,Davis STEAL (4 STL),,,0,350
+20101062,355,PT11M05.00S,4,1610612766,CHH,278,Augmon,S. Augmon,-56,148,16,Missed,1,0.0,0.0,0,v,MISS Augmon 16' Jump Shot,Missed Shot,Jump Shot,0,351
+20101062,356,PT11M04.00S,4,1610612766,CHH,278,Augmon,S. Augmon,0,0,0,,0,0.0,0.0,0,v,Augmon REBOUND (Off:2 Def:0),Rebound,Unknown,0,352
+20101062,357,PT10M47.00S,4,1610612766,CHH,248,Lynch,G. Lynch,0,0,0,Made,1,72.0,64.0,136,v,Lynch  Driving Layup (5 PTS) (Augmon 2 AST),Made Shot,Driving Layup Shot,0,353
+20101062,358,PT10M30.00S,4,1610612752,NYK,458,Eisley,H. Eisley,0,0,0,,0,0.0,0.0,0,h,Eisley Lost Ball Turnover (P3.T14),Turnover,Lost Ball,0,354
+20101062,358,PT10M30.00S,4,1610612766,CHH,1724,Drew,B. Drew,0,0,0,,0,0.0,0.0,0,v,Drew STEAL (1 STL),,,0,355
+20101062,359,PT10M23.00S,4,1610612766,CHH,278,Augmon,S. Augmon,0,0,0,Missed,1,0.0,0.0,0,v,MISS Augmon  Layup,Missed Shot,Layup Shot,0,356
+20101062,360,PT10M22.00S,4,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas REBOUND (Off:6 Def:11),Rebound,Unknown,0,357
+20101062,361,PT10M21.00S,4,0,,1610612752,,,0,0,0,,0,0.0,0.0,0,h,KNICKS Timeout: Short (Full 3 Short 2),Timeout,Short,0,358
+20101062,363,PT10M12.00S,4,1610612752,NYK,84,Sprewell,L. Sprewell,-141,211,25,Missed,1,0.0,0.0,0,h,MISS Sprewell 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,359
+20101062,364,PT10M10.00S,4,1610612766,CHH,1714,Traylor,R. Traylor,0,0,0,,0,0.0,0.0,0,v,Traylor REBOUND (Off:0 Def:4),Rebound,Unknown,0,360
+20101062,365,PT09M57.00S,4,1610612766,CHH,248,Lynch,G. Lynch,0,0,0,Made,1,72.0,66.0,138,v,Lynch  Layup (7 PTS) (Davis 6 AST),Made Shot,Layup Shot,0,361
+20101062,368,PT09M44.00S,4,1610612766,CHH,1714,Traylor,R. Traylor,0,0,0,,0,0.0,0.0,0,v,Traylor S.FOUL (P2.T1),Foul,Shooting,0,362
+20101062,369,PT09M44.00S,4,1610612766,CHH,1724,Drew,B. Drew,0,0,0,,0,0.0,0.0,0,v,SUB: Mashburn FOR Drew,Substitution,,0,363
+20101062,370,PT09M44.00S,4,1610612752,NYK,1000,Anderson,S. Anderson,0,0,0,,0,73.0,66.0,139,h,Anderson Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,364
+20101062,371,PT09M44.00S,4,1610612752,NYK,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,h,MISS Anderson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,365
+20101062,372,PT09M43.00S,4,1610612766,CHH,1714,Traylor,R. Traylor,0,0,0,,0,0.0,0.0,0,v,Traylor REBOUND (Off:0 Def:5),Rebound,Unknown,0,366
+20101062,373,PT09M32.00S,4,1610612766,CHH,1884,Davis,B. Davis,0,0,0,Missed,1,0.0,0.0,0,v,MISS Davis  Layup,Missed Shot,Layup Shot,0,367
+20101062,374,PT09M31.00S,4,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas REBOUND (Off:6 Def:12),Rebound,Unknown,0,368
+20101062,375,PT09M14.00S,4,1610612752,NYK,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson Bad Pass Turnover (P3.T15),Turnover,Bad Pass,0,369
+20101062,375,PT09M14.00S,4,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,v,Davis STEAL (5 STL),,,0,370
+20101062,376,PT09M14.00S,4,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas P.FOUL (P5.T1),Foul,Personal,0,371
+20101062,377,PT08M58.00S,4,1610612766,CHH,1884,Davis,B. Davis,-124,226,26,Made,1,73.0,69.0,142,v,Davis 26' 3PT Jump Shot (8 PTS) (Augmon 3 AST),Made Shot,Jump Shot,0,372
+20101062,378,PT08M55.00S,4,0,,1610612752,,,0,0,0,,0,0.0,0.0,0,h,KNICKS Timeout: Regular (Full 4 Short 2),Timeout,Regular,0,373
+20101062,380,PT08M55.00S,4,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,h,SUB: Knight FOR Thomas,Substitution,,0,374
+20101062,382,PT08M42.00S,4,1610612752,NYK,458,Eisley,H. Eisley,32,259,26,Made,1,76.0,69.0,145,h,Eisley 26' 3PT Jump Shot (8 PTS) (Weatherspoon 2 AST),Made Shot,Jump Shot,0,375
+20101062,383,PT08M17.00S,4,1610612766,CHH,278,Augmon,S. Augmon,9,76,8,Made,1,76.0,71.0,147,v,Augmon 8' Jump Shot (8 PTS),Made Shot,Jump Shot,0,376
+20101062,384,PT07M48.00S,4,1610612752,NYK,458,Eisley,H. Eisley,58,255,26,Missed,1,0.0,0.0,0,h,MISS Eisley 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,377
+20101062,385,PT07M48.00S,4,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Rebound,Rebound,Unknown,0,378
+20101062,387,PT07M36.00S,4,1610612766,CHH,278,Augmon,S. Augmon,0,0,0,Missed,1,0.0,0.0,0,v,MISS Augmon  Layup,Missed Shot,Layup Shot,0,379
+20101062,388,PT07M35.00S,4,1610612766,CHH,1714,Traylor,R. Traylor,0,0,0,,0,0.0,0.0,0,v,Traylor REBOUND (Off:1 Def:5),Rebound,Unknown,0,380
+20101062,389,PT07M30.00S,4,1610612766,CHH,1884,Davis,B. Davis,-124,232,26,Missed,1,0.0,0.0,0,v,MISS Davis 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,381
+20101062,390,PT07M28.00S,4,1610612752,NYK,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,Weatherspoon REBOUND (Off:3 Def:7),Rebound,Unknown,0,382
+20101062,391,PT07M20.00S,4,1610612752,NYK,84,Sprewell,L. Sprewell,-242,13,24,Missed,1,0.0,0.0,0,h,MISS Sprewell 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,383
+20101062,392,PT07M17.00S,4,1610612752,NYK,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,h,Knight REBOUND (Off:4 Def:2),Rebound,Unknown,0,384
+20101062,393,PT07M13.00S,4,1610612752,NYK,221,Weatherspoon,C. Weatherspoon,0,0,0,Missed,1,0.0,0.0,0,h,MISS Weatherspoon  Layup,Missed Shot,Layup Shot,0,385
+20101062,395,PT07M12.00S,4,1610612752,NYK,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,h,Knight REBOUND (Off:5 Def:2),Rebound,Unknown,0,386
+20101062,394,PT07M12.00S,4,1610612752,NYK,969,Knight,T. Knight,0,0,0,Made,1,78.0,71.0,149,h,Knight  Tip Shot (4 PTS),Made Shot,Tip Shot,0,387
+20101062,396,PT07M09.00S,4,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,v,Davis T.FOUL (P3.T1),Foul,Technical,0,388
+20101062,397,PT07M09.00S,4,1610612752,NYK,84,Sprewell,L. Sprewell,0,0,0,,0,79.0,71.0,150,h,Sprewell Free Throw Technical (26 PTS),Free Throw,Free Throw Technical,0,389
+20101062,398,PT07M09.00S,4,1610612752,NYK,458,Eisley,H. Eisley,0,0,0,,0,0.0,0.0,0,h,SUB: Jackson FOR Eisley,Substitution,,0,390
+20101062,399,PT07M09.00S,4,1610612766,CHH,1714,Traylor,R. Traylor,0,0,0,,0,0.0,0.0,0,v,SUB: Brown FOR Traylor,Substitution,,0,391
+20101062,400,PT07M09.00S,4,1610612766,CHH,248,Lynch,G. Lynch,0,0,0,,0,0.0,0.0,0,v,SUB: Magloire FOR Lynch,Substitution,,0,392
+20101062,401,PT06M51.00S,4,1610612752,NYK,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,Weatherspoon S.FOUL (P3.T2),Foul,Shooting,0,393
+20101062,402,PT06M51.00S,4,1610612766,CHH,278,Augmon,S. Augmon,0,0,0,,0,0.0,0.0,0,v,SUB: Wesley FOR Augmon,Substitution,,0,394
+20101062,403,PT06M51.00S,4,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,,0,79.0,72.0,151,v,Magloire Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,395
+20101062,404,PT06M51.00S,4,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,,0,79.0,73.0,152,v,Magloire Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,396
+20101062,405,PT06M29.00S,4,1610612752,NYK,84,Sprewell,L. Sprewell,0,0,0,,0,0.0,0.0,0,h,Sprewell Traveling Turnover (P2.T16),Turnover,Traveling,0,397
+20101062,406,PT06M07.00S,4,1610612766,CHH,136,Brown,P. Brown,-115,55,13,Missed,1,0.0,0.0,0,v,MISS Brown 13' Jump Shot,Missed Shot,Jump Shot,0,398
+20101062,407,PT06M05.00S,4,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,,0,0.0,0.0,0,v,Magloire REBOUND (Off:3 Def:3),Rebound,Unknown,0,399
+20101062,408,PT06M05.00S,4,1610612752,NYK,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,h,Knight S.FOUL (P3.T3),Foul,Shooting,0,400
+20101062,409,PT06M05.00S,4,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,,0,79.0,74.0,153,v,Magloire Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,401
+20101062,410,PT06M05.00S,4,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,,0,79.0,75.0,154,v,Magloire Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,402
+20101062,411,PT05M49.00S,4,1610612752,NYK,969,Knight,T. Knight,0,0,0,Missed,1,0.0,0.0,0,h,MISS Knight  Layup,Missed Shot,Layup Shot,0,403
+20101062,412,PT05M48.00S,4,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,,0,0.0,0.0,0,v,Magloire REBOUND (Off:3 Def:4),Rebound,Unknown,0,404
+20101062,413,PT05M48.00S,4,1610612752,NYK,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,h,Knight L.B.FOUL (P4.T4),Foul,Loose Ball,0,405
+20101062,414,PT05M48.00S,4,0,,0,,,0,0,0,,0,0.0,0.0,0,,Timeout: Official,Timeout,Official,0,406
+20101062,417,PT05M48.00S,4,1610612752,NYK,969,Knight,T. Knight,0,0,0,,0,0.0,0.0,0,h,SUB: Thomas FOR Knight,Substitution,,0,407
+20101062,419,PT05M34.00S,4,1610612766,CHH,469,Mashburn,J. Mashburn,58,241,25,Missed,1,0.0,0.0,0,v,MISS Mashburn 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,408
+20101062,420,PT05M29.00S,4,1610612766,CHH,136,Brown,P. Brown,0,0,0,,0,0.0,0.0,0,v,Brown REBOUND (Off:4 Def:2),Rebound,Unknown,0,409
+20101062,421,PT05M08.00S,4,1610612766,CHH,1884,Davis,B. Davis,167,190,25,Made,1,79.0,78.0,157,v,Davis 25' 3PT Jump Shot (11 PTS) (Wesley 6 AST),Made Shot,Jump Shot,0,410
+20101062,422,PT04M46.00S,4,1610612752,NYK,349,Jackson,M. Jackson,159,184,24,Made,1,82.0,78.0,160,h,Jackson 24' 3PT Jump Shot (9 PTS) (Sprewell 4 AST),Made Shot,Jump Shot,0,411
+20101062,423,PT04M21.00S,4,1610612766,CHH,1884,Davis,B. Davis,142,211,25,Made,1,82.0,81.0,163,v,Davis 25' 3PT Jump Shot (14 PTS),Made Shot,Jump Shot,0,412
+20101062,424,PT03M52.00S,4,1610612752,NYK,349,Jackson,M. Jackson,108,76,13,Made,1,84.0,81.0,165,h,Jackson 13' Jump Shot (11 PTS) (Sprewell 5 AST),Made Shot,Jump Shot,0,413
+20101062,425,PT03M45.00S,4,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Timeout: Regular (Reg.4 Short 1),Timeout,Regular,0,414
+20101062,429,PT03M37.00S,4,1610612766,CHH,136,Brown,P. Brown,-149,7,15,Missed,1,0.0,0.0,0,v,MISS Brown 15' Jump Shot,Missed Shot,Jump Shot,0,415
+20101062,430,PT03M35.00S,4,1610612752,NYK,349,Jackson,M. Jackson,0,0,0,,0,0.0,0.0,0,h,Jackson REBOUND (Off:1 Def:3),Rebound,Unknown,0,416
+20101062,431,PT03M15.00S,4,1610612752,NYK,1000,Anderson,S. Anderson,235,-6,24,Missed,1,0.0,0.0,0,h,MISS Anderson 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,417
+20101062,432,PT03M12.00S,4,1610612752,NYK,221,Weatherspoon,C. Weatherspoon,0,0,0,,0,0.0,0.0,0,h,Weatherspoon REBOUND (Off:4 Def:7),Rebound,Unknown,0,418
+20101062,433,PT03M04.00S,4,1610612752,NYK,349,Jackson,M. Jackson,0,0,0,Made,1,86.0,81.0,167,h,Jackson  Driving Layup (13 PTS),Made Shot,Driving Layup Shot,0,419
+20101062,434,PT02M43.00S,4,1610612766,CHH,469,Mashburn,J. Mashburn,-82,163,18,Made,1,86.0,83.0,169,v,Mashburn 18' Jump Shot (23 PTS) (Davis 7 AST),Made Shot,Jump Shot,0,420
+20101062,435,PT02M19.00S,4,1610612752,NYK,349,Jackson,M. Jackson,-82,7,8,Missed,1,0.0,0.0,0,h,MISS Jackson 8' Jump Shot,Missed Shot,Jump Shot,0,421
+20101062,436,PT02M17.00S,4,1610612752,NYK,349,Jackson,M. Jackson,0,0,0,,0,0.0,0.0,0,h,Jump Ball Jackson vs. Wesley: Tip to Weatherspoon,Jump Ball,,0,422
+20101062,437,PT02M17.00S,4,0,,1610612752,,,0,0,0,,0,0.0,0.0,0,h,KNICKS Rebound,Rebound,Unknown,0,423
+20101062,438,PT02M05.00S,4,1610612752,NYK,221,Weatherspoon,C. Weatherspoon,91,34,10,Made,1,88.0,83.0,171,h,Weatherspoon 10' Turnaround Jump Shot (6 PTS),Made Shot,Turnaround Jump Shot,0,424
+20101062,439,PT01M49.00S,4,1610612766,CHH,469,Mashburn,J. Mashburn,-98,85,13,Made,1,88.0,85.0,173,v,Mashburn 13' Jump Shot (25 PTS),Made Shot,Jump Shot,0,425
+20101062,440,PT01M35.00S,4,1610612766,CHH,1884,Davis,B. Davis,0,0,0,,0,0.0,0.0,0,v,Davis S.FOUL (P4.T2),Foul,Shooting,0,426
+20101062,441,PT01M35.00S,4,1610612752,NYK,1000,Anderson,S. Anderson,0,0,0,,0,89.0,85.0,174,h,Anderson Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,427
+20101062,442,PT01M35.00S,4,1610612752,NYK,1000,Anderson,S. Anderson,0,0,0,,0,90.0,85.0,175,h,Anderson Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,428
+20101062,443,PT01M21.00S,4,1610612766,CHH,469,Mashburn,J. Mashburn,-132,91,16,Missed,1,0.0,0.0,0,v,MISS Mashburn 16' Jump Shot,Missed Shot,Jump Shot,0,429
+20101062,444,PT01M20.00S,4,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Rebound,Rebound,Unknown,0,430
+20101062,445,PT01M12.00S,4,1610612766,CHH,469,Mashburn,J. Mashburn,-124,13,12,Missed,1,0.0,0.0,0,v,MISS Mashburn 12' Jump Shot,Missed Shot,Jump Shot,0,431
+20101062,446,PT01M10.00S,4,1610612752,NYK,349,Jackson,M. Jackson,0,0,0,,0,0.0,0.0,0,h,Jackson REBOUND (Off:1 Def:4),Rebound,Unknown,0,432
+20101062,447,PT00M49.80S,4,1610612752,NYK,84,Sprewell,L. Sprewell,-48,42,6,Missed,1,0.0,0.0,0,h,MISS Sprewell 6' Jump Shot,Missed Shot,Jump Shot,0,433
+20101062,449,PT00M47.60S,4,1610612752,NYK,1000,Anderson,S. Anderson,0,0,0,,0,0.0,0.0,0,h,Anderson REBOUND (Off:2 Def:2),Rebound,Unknown,0,434
+20101062,448,PT00M47.60S,4,1610612752,NYK,1000,Anderson,S. Anderson,0,0,0,Missed,1,0.0,0.0,0,h,MISS Anderson  Tip Shot,Missed Shot,Tip Shot,0,435
+20101062,450,PT00M46.00S,4,0,,1610612752,,,0,0,0,,0,0.0,0.0,0,h,KNICKS Rebound,Rebound,Unknown,0,436
+20101062,451,PT00M31.30S,4,1610612752,NYK,703,Thomas,K. Thomas,-115,91,15,Missed,1,0.0,0.0,0,h,MISS Thomas 15' Jump Shot,Missed Shot,Jump Shot,0,437
+20101062,452,PT00M29.10S,4,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,,0,0.0,0.0,0,v,Magloire REBOUND (Off:3 Def:5),Rebound,Unknown,0,438
+20101062,453,PT00M26.50S,4,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Timeout: Regular (Reg.5 Short 1),Timeout,Regular,0,439
+20101062,457,PT00M17.70S,4,1610612766,CHH,133,Wesley,D. Wesley,-149,205,25,Missed,1,0.0,0.0,0,v,MISS Wesley 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,440
+20101062,458,PT00M16.00S,4,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,h,Thomas REBOUND (Off:6 Def:13),Rebound,Unknown,0,441
+20101062,459,PT00M16.00S,4,1610612766,CHH,136,Brown,P. Brown,0,0,0,,0,0.0,0.0,0,v,Brown P.FOUL (P1.PN),Foul,Personal,0,442
+20101062,460,PT00M16.00S,4,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,91.0,85.0,176,h,Thomas Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,443
+20101062,461,PT00M16.00S,4,1610612752,NYK,703,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,h,MISS Thomas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,444
+20101062,462,PT00M15.00S,4,1610612766,CHH,2048,Magloire,J. Magloire,0,0,0,,0,0.0,0.0,0,v,Magloire REBOUND (Off:3 Def:6),Rebound,Unknown,0,445
+20101062,463,PT00M14.70S,4,0,,1610612740,,,0,0,0,,0,0.0,0.0,0,v,Hornets Timeout: Regular (Reg.6 Short 1),Timeout,Regular,0,446
+20101062,466,PT00M10.20S,4,1610612766,CHH,469,Mashburn,J. Mashburn,159,190,25,Missed,1,0.0,0.0,0,v,MISS Mashburn 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,447
+20101062,467,PT00M08.10S,4,0,,1610612752,,,0,0,0,,0,0.0,0.0,0,h,KNICKS Rebound,Rebound,Unknown,0,448
+20101062,468,PT00M00.00S,4,0,,0,,,0,0,0,,0,91.0,85.0,176,,End of 4th Period (10:25 PM EST),period,end,0,449

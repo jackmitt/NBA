@@ -1,0 +1,39 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId,clock_sec
+21800715,121,PT02M46.00S,1,1610612743,DEN,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,v,Plumlee REBOUND (Off:1 Def:0),Rebound,Unknown,1,84,554.0
+21800715,122,PT02M46.00S,1,1610612762,UTA,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder S.FOUL (P2.T4) (J.DeRosa),Foul,Shooting,1,85,554.0
+21800715,125,PT02M46.00S,1,0,,122,Roberts,F. Roberts,0,0,0,,0,25.0,14.0,39,,Instant Replay1st Period (11:04 PM EST),Instant Replay,Altercation Ruling,0,86,554.0
+21800715,126,PT02M46.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,,"Double Technical - Favors, Plumlee (J.DeRosa)",Foul,Double Technical,1,87,554.0
+21800715,128,PT02M46.00S,1,1610612743,DEN,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,v,Plumlee Ejection:Other,Ejection,Other,1,88,554.0
+21800715,129,PT02M46.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,h,Favors Ejection:Other,Ejection,Other,1,89,554.0
+21800715,130,PT02M46.00S,1,1610612762,UTA,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,,"Double Technical - O'Neale, Barton (J.DeRosa)",Foul,Double Technical,1,90,554.0
+21800715,132,PT02M46.00S,1,1610612762,UTA,202324,Favors,D. Favors,0,0,0,,0,,,0,h,SUB: Udoh FOR Favors,Substitution,,0,91,554.0
+21800715,133,PT02M46.00S,1,1610612743,DEN,203486,Plumlee,M. Plumlee,0,0,0,,0,,,0,v,SUB: Craig FOR Plumlee,Substitution,,0,92,554.0
+21800715,136,PT02M46.00S,1,1610612743,DEN,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,MISS Craig Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,93,554.0
+21800715,137,PT02M46.00S,1,0,,1610612743,,,0,0,0,,0,,,0,v,Nuggets Rebound,Rebound,Normal Rebound,0,94,554.0
+21800715,138,PT02M46.00S,1,1610612743,DEN,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,MISS Craig Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,95,554.0
+21800715,139,PT02M45.00S,1,1610612762,UTA,203109,Crowder,J. Crowder,0,0,0,,0,,,0,h,Crowder REBOUND (Off:1 Def:1),Rebound,Unknown,1,96,555.0
+21800715,140,PT02M28.00S,1,1610612762,UTA,2594,Korver,K. Korver,-12,248,25,Missed,1,,,0,h,MISS Korver 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,97,572.0
+21800715,141,PT02M25.00S,1,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,,,0,v,Barton REBOUND (Off:1 Def:1),Rebound,Unknown,1,98,575.0
+21800715,142,PT02M17.00S,1,1610612743,DEN,1626168,Lyles,T. Lyles,82,237,25,Missed,1,,,0,v,MISS Lyles 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,99,583.0
+21800715,143,PT02M14.00S,1,1610612743,DEN,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig REBOUND (Off:2 Def:0),Rebound,Unknown,1,100,586.0
+21800715,144,PT02M14.00S,1,1610612743,DEN,1628470,Craig,T. Craig,-20,8,2,Made,1,25.0,16.0,41,v,Craig 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,101,586.0
+21800715,145,PT02M03.00S,1,1610612762,UTA,204060,Ingles,J. Ingles,0,0,0,,0,,,0,h,Ingles Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,102,597.0
+21800715,145,PT02M03.00S,1,1610612743,DEN,203115,Barton,W. Barton,0,0,0,,0,,,0,v,Barton STEAL (1 STL),,,1,103,597.0
+21800715,147,PT01M58.00S,1,1610612743,DEN,1628470,Craig,T. Craig,20,3,2,Made,1,25.0,18.0,43,v,Craig 2' Running Layup (6 PTS) (Barton 2 AST),Made Shot,Running Layup Shot,1,104,602.0
+21800715,149,PT01M35.00S,1,1610612762,UTA,2594,Korver,K. Korver,-232,-4,0,Made,1,28.0,18.0,46,h,Korver 3PT Jump Shot (3 PTS) (O'Neale 2 AST),Made Shot,Jump Shot,1,105,625.0
+21800715,151,PT01M17.00S,1,1610612743,DEN,1626168,Lyles,T. Lyles,-26,6,3,Missed,1,,,0,v,MISS Lyles 3' Driving Layup,Missed Shot,Driving Layup Shot,1,106,643.0
+21800715,151,PT01M17.00S,1,1610612762,UTA,202327,Udoh,E. Udoh,0,0,0,,0,,,0,h,Udoh BLOCK (1 BLK),,,1,107,643.0
+21800715,152,PT01M15.00S,1,1610612762,UTA,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,h,O'Neale REBOUND (Off:0 Def:1),Rebound,Unknown,1,108,645.0
+21800715,154,PT01M07.00S,1,1610612762,UTA,1626220,O'Neale,R. O'Neale,0,0,0,,0,,,0,h,O'Neale Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,109,653.0
+21800715,154,PT01M07.00S,1,1610612743,DEN,1626168,Lyles,T. Lyles,0,0,0,,0,,,0,v,Lyles STEAL (1 STL),,,1,110,653.0
+21800715,156,PT00M57.00S,1,1610612743,DEN,1628420,Morris,M. Morris,-86,185,20,Made,1,28.0,20.0,48,v,Morris 20' Pullup Jump Shot (2 PTS) (Barton 3 AST),Made Shot,Pullup Jump shot,1,111,663.0
+21800715,158,PT00M43.00S,1,1610612762,UTA,202327,Udoh,E. Udoh,16,23,3,Missed,1,,,0,h,MISS Udoh 3' Layup,Missed Shot,Layup Shot,1,112,677.0
+21800715,158,PT00M43.00S,1,1610612743,DEN,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig BLOCK (1 BLK),,,1,113,677.0
+21800715,160,PT00M39.30S,1,1610612743,DEN,1628470,Craig,T. Craig,0,0,0,,0,,,0,v,Craig REBOUND (Off:2 Def:1),Rebound,Unknown,1,114,680.7
+21800715,161,PT00M31.20S,1,1610612743,DEN,203115,Barton,W. Barton,25,10,3,Made,1,28.0,22.0,50,v,Barton 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,115,688.8
+21800715,162,PT00M20.00S,1,1610612762,UTA,202327,Udoh,E. Udoh,-18,25,3,Made,1,30.0,22.0,52,h,Udoh 3' Layup (2 PTS) (Ingles 1 AST),Made Shot,Layup Shot,1,116,700.0
+21800715,164,PT00M01.50S,1,1610612743,DEN,1626168,Lyles,T. Lyles,-19,3,2,Made,1,30.0,24.0,54,v,Lyles 2' Cutting Layup Shot (2 PTS) (Barton 4 AST),Made Shot,Cutting Layup Shot,1,117,718.5
+21800715,166,PT00M00.00S,1,1610612762,UTA,1626220,O'Neale,R. O'Neale,179,575,60,Missed,1,,,0,h,MISS O'Neale 60' 3PT Jump Shot,Missed Shot,Jump Shot,1,118,720.0
+21800715,167,PT00M00.00S,1,0,,1610612762,,,0,0,0,,0,,,0,h,JAZZ Rebound,Rebound,Unknown,0,119,720.0
+21800715,168,PT00M00.00S,1,0,,0,,,0,0,0,,0,30.0,24.0,54,,End of 1st Period (11:10 PM EST),period,end,1,120,720.0
+21800715,177,PT12M00.00S,2,0,,0,,,0,0,0,,0,30.0,24.0,54,,Start of 2nd Period (11:14 PM EST),period,start,0,121,720.0

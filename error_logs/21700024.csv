@@ -1,0 +1,460 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId
+21700024,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0.0,0.0,0,,Start of 1st Period (8:41 PM EST),period,start,0,1
+21700024,4,PT12M00.00S,1,1610612742,DAL,203457,Noel,N. Noel,0,0,0,,0,,,0,h,Jump Ball Noel vs. Cauley-Stein: Tip to G. Hill,Jump Ball,,1,2
+21700024,7,PT11M37.00S,1,1610612758,SAC,2216,Randolph,Z. Randolph,-37,171,17,Made,1,0.0,2.0,2,v,Randolph 17' Jump Shot (2 PTS) (Hield 1 AST),Made Shot,Jump Shot,1,3
+21700024,9,PT11M24.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-70,127,15,Made,1,2.0,2.0,4,h,Nowitzki 15' Jump Shot (2 PTS) (Barea 1 AST),Made Shot,Jump Shot,1,4
+21700024,11,PT11M02.00S,1,1610612758,SAC,1627741,Hield,B. Hield,0,0,0,,0,,,0,v,Hield Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,5
+21700024,11,PT11M02.00S,1,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,h,Matthews STEAL (1 STL),,,1,6
+21700024,13,PT10M58.00S,1,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,h,Matthews Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,7
+21700024,14,PT10M42.00S,1,1610612758,SAC,1628382,Jackson,J. Jackson,36,155,16,Missed,1,,,0,v,MISS Jackson 16' Jump Shot,Missed Shot,Jump Shot,1,8
+21700024,15,PT10M40.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:0 Def:1),Rebound,Unknown,1,9
+21700024,16,PT10M31.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,98,236,26,Made,1,5.0,2.0,7,h,Nowitzki 26' 3PT Jump Shot (5 PTS) (Barea 2 AST),Made Shot,Jump Shot,1,10
+21700024,18,PT10M16.00S,1,1610612758,SAC,1628382,Jackson,J. Jackson,32,130,13,Made,1,5.0,4.0,9,v,Jackson 13' Jump Shot (2 PTS) (Hield 2 AST),Made Shot,Jump Shot,1,11
+21700024,20,PT10M00.00S,1,1610612742,DAL,202083,Matthews,W. Matthews,87,238,25,Missed,1,,,0,h,MISS Matthews 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,12
+21700024,21,PT10M00.00S,1,1610612758,SAC,1626161,Cauley-Stein,W. Cauley-Stein,0,0,0,,0,,,0,v,Cauley-Stein REBOUND (Off:0 Def:1),Rebound,Unknown,1,13
+21700024,22,PT09M38.00S,1,1610612758,SAC,201588,Hill,G. Hill,34,17,4,Missed,1,,,0,v,MISS G. Hill 4' Layup,Missed Shot,Layup Shot,1,14
+21700024,23,PT09M35.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:0 Def:2),Rebound,Unknown,1,15
+21700024,24,PT09M32.00S,1,1610612742,DAL,200826,Barea,J. Barea,-150,218,26,Missed,1,,,0,h,MISS Barea 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,16
+21700024,25,PT09M32.00S,1,1610612758,SAC,1626161,Cauley-Stein,W. Cauley-Stein,0,0,0,,0,,,0,v,Cauley-Stein REBOUND (Off:0 Def:2),Rebound,Unknown,1,17
+21700024,26,PT09M20.00S,1,1610612758,SAC,2216,Randolph,Z. Randolph,-13,10,2,Missed,1,,,0,v,MISS Randolph 2' Layup,Missed Shot,Layup Shot,1,18
+21700024,27,PT09M20.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:0 Def:3),Rebound,Unknown,1,19
+21700024,28,PT09M07.00S,1,1610612758,SAC,201588,Hill,G. Hill,0,0,0,,0,,,0,v,G. Hill Violation:Kicked Ball (S.Twardoski),Violation,Kicked Ball,0,20
+21700024,29,PT08M56.00S,1,1610612742,DAL,203084,Barnes,H. Barnes,-165,36,17,Made,1,7.0,4.0,11,h,Barnes 17' Jump Shot (2 PTS) (Barea 3 AST),Made Shot,Jump Shot,1,21
+21700024,31,PT08M33.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki S.FOUL (P1.T1) (S.Twardoski),Foul,Shooting,1,22
+21700024,33,PT08M33.00S,1,1610612758,SAC,1626161,Cauley-Stein,W. Cauley-Stein,0,0,0,,0,7.0,5.0,12,v,Cauley-Stein Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,23
+21700024,34,PT08M33.00S,1,1610612758,SAC,1626161,Cauley-Stein,W. Cauley-Stein,0,0,0,,0,7.0,6.0,13,v,Cauley-Stein Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,24
+21700024,35,PT08M18.00S,1,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,,,0,h,Barea Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,25
+21700024,35,PT08M18.00S,1,1610612758,SAC,201588,Hill,G. Hill,0,0,0,,0,,,0,v,G. Hill STEAL (1 STL),,,1,26
+21700024,37,PT08M14.00S,1,1610612758,SAC,201588,Hill,G. Hill,-5,20,2,Made,1,7.0,8.0,15,v,G. Hill 2' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,1,27
+21700024,38,PT08M04.00S,1,1610612742,DAL,203457,Noel,N. Noel,-12,6,1,Made,1,9.0,8.0,17,h,Noel 1' Driving Reverse Dunk Shot (2 PTS) (Barnes 1 AST),Made Shot,Driving Reverse Dunk Shot,1,28
+21700024,40,PT07M44.00S,1,1610612758,SAC,201588,Hill,G. Hill,0,0,0,,0,,,0,v,G. Hill Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,29
+21700024,41,PT07M30.00S,1,1610612742,DAL,203457,Noel,N. Noel,3,11,1,Made,1,11.0,8.0,19,h,Noel 1' Alley Oop Dunk (4 PTS) (Barea 4 AST),Made Shot,Alley Oop Dunk Shot,1,30
+21700024,43,PT07M15.00S,1,1610612758,SAC,2216,Randolph,Z. Randolph,-95,234,25,Missed,1,,,0,v,MISS Randolph 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,31
+21700024,44,PT07M12.00S,1,1610612758,SAC,1626161,Cauley-Stein,W. Cauley-Stein,0,0,0,,0,,,0,v,Cauley-Stein REBOUND (Off:1 Def:2),Rebound,Unknown,1,32
+21700024,45,PT07M11.00S,1,1610612758,SAC,1627741,Hield,B. Hield,144,201,25,Missed,1,,,0,v,MISS Hield 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,33
+21700024,46,PT07M10.00S,1,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Rebound,Rebound,Unknown,0,34
+21700024,49,PT07M10.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,SUB: Ferrell FOR Nowitzki,Substitution,,0,35
+21700024,50,PT07M10.00S,1,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,,,0,h,SUB: Powell FOR Barea,Substitution,,0,36
+21700024,51,PT06M53.00S,1,1610612742,DAL,203939,Powell,D. Powell,226,91,24,Made,1,14.0,8.0,22,h,Powell 24' 3PT Jump Shot (3 PTS) (Matthews 1 AST),Made Shot,Jump Shot,1,37
+21700024,53,PT06M35.00S,1,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,h,Matthews P.FOUL (P1.T2) (M.Smith),Foul,Personal,1,38
+21700024,55,PT06M35.00S,1,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,39
+21700024,56,PT06M28.00S,1,1610612758,SAC,2216,Randolph,Z. Randolph,-5,42,4,Missed,1,,,0,v,MISS Randolph 4' Layup,Missed Shot,Layup Shot,1,40
+21700024,56,PT06M28.00S,1,1610612742,DAL,203457,Noel,N. Noel,0,0,0,,0,,,0,h,Noel BLOCK (1 BLK),,,1,41
+21700024,58,PT06M24.00S,1,1610612742,DAL,203457,Noel,N. Noel,0,0,0,,0,,,0,h,Noel REBOUND (Off:0 Def:1),Rebound,Unknown,1,42
+21700024,59,PT06M22.00S,1,1610612742,DAL,1627812,Ferrell,Y. Ferrell,127,225,26,Missed,1,,,0,h,MISS Ferrell 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,43
+21700024,60,PT06M22.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,1,44
+21700024,61,PT06M07.00S,1,1610612742,DAL,203939,Powell,D. Powell,-6,254,25,Missed,1,,,0,h,MISS Powell 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,45
+21700024,62,PT06M04.00S,1,1610612758,SAC,1627741,Hield,B. Hield,0,0,0,,0,,,0,v,Hield REBOUND (Off:0 Def:1),Rebound,Unknown,1,46
+21700024,63,PT05M51.00S,1,1610612758,SAC,1627741,Hield,B. Hield,-109,75,13,Made,1,14.0,10.0,24,v,Hield 13' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,1,47
+21700024,64,PT05M28.00S,1,1610612742,DAL,203084,Barnes,H. Barnes,-16,8,2,Made,1,16.0,10.0,26,h,Barnes 2' Cutting Layup Shot (4 PTS) (Powell 1 AST),Made Shot,Cutting Layup Shot,1,48
+21700024,66,PT05M01.00S,1,1610612758,SAC,201588,Hill,G. Hill,0,0,0,,0,,,0,v,G. Hill Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,49
+21700024,66,PT05M01.00S,1,1610612742,DAL,203457,Noel,N. Noel,0,0,0,,0,,,0,h,Noel STEAL (1 STL),,,1,50
+21700024,68,PT04M52.00S,1,1610612742,DAL,203939,Powell,D. Powell,-87,257,27,Missed,1,,,0,h,MISS Powell 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,51
+21700024,69,PT04M48.00S,1,1610612758,SAC,1628382,Jackson,J. Jackson,0,0,0,,0,,,0,v,Jackson REBOUND (Off:0 Def:1),Rebound,Unknown,1,52
+21700024,70,PT04M36.00S,1,1610612758,SAC,201588,Hill,G. Hill,0,0,0,,0,,,0,v,G. Hill Traveling Turnover (P3.T4),Turnover,Traveling,1,53
+21700024,72,PT04M36.00S,1,1610612758,SAC,1628382,Jackson,J. Jackson,0,0,0,,0,,,0,v,SUB: Temple FOR Jackson,Substitution,,0,54
+21700024,101,PT04M26.00S,1,1610612742,DAL,1627812,Ferrell,Y. Ferrell,0,0,0,,0,,,0,h,Ferrell Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,55
+21700024,101,PT04M26.00S,1,1610612758,SAC,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,v,Randolph STEAL (1 STL),,,1,56
+21700024,75,PT04M19.00S,1,1610612758,SAC,201588,Hill,G. Hill,0,0,0,,0,,,0,v,G. Hill Step Out of Bounds Turnover (P4.T5),Turnover,Step Out of Bounds Turnover,1,57
+21700024,77,PT04M19.00S,1,1610612742,DAL,203457,Noel,N. Noel,0,0,0,,0,,,0,h,SUB: Mejri FOR Noel,Substitution,,0,58
+21700024,78,PT04M03.00S,1,1610612742,DAL,1627812,Ferrell,Y. Ferrell,-9,22,2,Made,1,18.0,10.0,28,h,Ferrell 2' Layup (2 PTS),Made Shot,Layup Shot,1,59
+21700024,79,PT03M56.00S,1,0,,1610612758,,,0,0,0,,0,,,0,v,Kings Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,60
+21700024,82,PT03M56.00S,1,1610612758,SAC,1626161,Cauley-Stein,W. Cauley-Stein,0,0,0,,0,,,0,v,SUB: Fox FOR Cauley-Stein,Substitution,,0,61
+21700024,83,PT03M56.00S,1,1610612758,SAC,201588,Hill,G. Hill,0,0,0,,0,,,0,v,SUB: Koufos FOR G. Hill,Substitution,,0,62
+21700024,84,PT03M50.00S,1,1610612758,SAC,202066,Temple,G. Temple,65,162,17,Missed,1,,,0,v,MISS Temple 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,63
+21700024,85,PT03M46.00S,1,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,,,0,h,Mejri REBOUND (Off:0 Def:1),Rebound,Unknown,1,64
+21700024,86,PT03M26.00S,1,1610612742,DAL,203084,Barnes,H. Barnes,30,12,3,Missed,1,,,0,h,MISS Barnes 3' Layup,Missed Shot,Layup Shot,1,65
+21700024,86,PT03M26.00S,1,1610612758,SAC,201585,Koufos,K. Koufos,0,0,0,,0,,,0,v,Koufos BLOCK (1 BLK),,,1,66
+21700024,88,PT03M23.00S,1,1610612758,SAC,202066,Temple,G. Temple,0,0,0,,0,,,0,v,Temple REBOUND (Off:0 Def:1),Rebound,Unknown,1,67
+21700024,89,PT03M21.00S,1,1610612758,SAC,1628368,Fox,D. Fox,-103,173,20,Missed,1,,,0,v,MISS Fox 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,68
+21700024,90,PT03M16.00S,1,1610612758,SAC,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,v,Randolph REBOUND (Off:1 Def:0),Rebound,Unknown,1,69
+21700024,91,PT03M16.00S,1,1610612758,SAC,2216,Randolph,Z. Randolph,0,-6,1,Missed,1,,,0,v,MISS Randolph 1' Putback Layup,Missed Shot,Putback Layup Shot,1,70
+21700024,92,PT03M15.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:1),Rebound,Unknown,1,71
+21700024,93,PT03M03.00S,1,1610612742,DAL,1627812,Ferrell,Y. Ferrell,-18,62,6,Missed,1,,,0,h,MISS Ferrell 6' Jump Shot,Missed Shot,Jump Shot,1,72
+21700024,94,PT03M01.00S,1,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,Fox REBOUND (Off:0 Def:1),Rebound,Unknown,1,73
+21700024,95,PT02M43.00S,1,1610612758,SAC,202066,Temple,G. Temple,-190,153,24,Made,1,18.0,13.0,31,v,Temple 24' 3PT Jump Shot (3 PTS) (Fox 1 AST),Made Shot,Jump Shot,1,74
+21700024,97,PT02M24.00S,1,1610612758,SAC,201585,Koufos,K. Koufos,0,0,0,,0,,,0,v,Koufos S.FOUL (P1.T1) (S.Twardoski),Foul,Shooting,1,75
+21700024,99,PT02M24.00S,1,1610612742,DAL,1627812,Ferrell,Y. Ferrell,0,0,0,,0,19.0,13.0,32,h,Ferrell Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,76
+21700024,100,PT02M24.00S,1,1610612742,DAL,1627812,Ferrell,Y. Ferrell,0,0,0,,0,20.0,13.0,33,h,Ferrell Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,77
+21700024,148,PT02M24.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Finney-Smith FOR Powell,Substitution,,0,78
+21700024,149,PT02M24.00S,1,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,h,SUB: Barea FOR Matthews,Substitution,,0,79
+21700024,150,PT02M24.00S,1,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,SUB: Nowitzki FOR Barnes,Substitution,,0,80
+21700024,151,PT02M24.00S,1,1610612758,SAC,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,v,SUB: Labissiere FOR Randolph,Substitution,,0,81
+21700024,105,PT02M11.00S,1,1610612758,SAC,1627746,Labissiere,S. Labissiere,27,125,13,Made,1,20.0,15.0,35,v,Labissiere 13' Jump Shot (2 PTS) (Fox 2 AST),Made Shot,Jump Shot,1,82
+21700024,113,PT01M49.00S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,106,230,25,Missed,1,,,0,h,MISS Nowitzki 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,83
+21700024,114,PT01M47.00S,1,1610612758,SAC,1627741,Hield,B. Hield,0,0,0,,0,,,0,v,Hield REBOUND (Off:0 Def:2),Rebound,Unknown,1,84
+21700024,115,PT01M38.00S,1,1610612758,SAC,1628368,Fox,D. Fox,11,63,6,Missed,1,,,0,v,MISS Fox 6' Jump Shot,Missed Shot,Jump Shot,1,85
+21700024,115,PT01M38.00S,1,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,,,0,h,Mejri BLOCK (1 BLK),,,1,86
+21700024,117,PT01M35.00S,1,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,,,0,h,Mejri REBOUND (Off:0 Def:2),Rebound,Unknown,1,87
+21700024,118,PT01M28.00S,1,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,Fox S.FOUL (P1.T2) (B.Kennedy),Foul,Shooting,1,88
+21700024,120,PT01M28.00S,1,1610612742,DAL,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,21.0,15.0,36,h,Finney-Smith Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,89
+21700024,121,PT01M28.00S,1,1610612742,DAL,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,,,0,h,MISS Finney-Smith Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,90
+21700024,122,PT01M25.00S,1,1610612758,SAC,201585,Koufos,K. Koufos,0,0,0,,0,,,0,v,Koufos REBOUND (Off:0 Def:1),Rebound,Unknown,1,91
+21700024,123,PT01M19.00S,1,1610612758,SAC,1628368,Fox,D. Fox,89,218,24,Missed,1,,,0,v,MISS Fox 24' Jump Shot,Missed Shot,Jump Shot,1,92
+21700024,124,PT01M19.00S,1,1610612758,SAC,1627746,Labissiere,S. Labissiere,0,0,0,,0,,,0,v,Labissiere REBOUND (Off:1 Def:0),Rebound,Unknown,1,93
+21700024,125,PT01M09.00S,1,1610612758,SAC,1627746,Labissiere,S. Labissiere,2,35,4,Made,1,21.0,17.0,38,v,Labissiere 4' Hook Shot (4 PTS) (Fox 3 AST),Made Shot,Hook Shot,1,94
+21700024,127,PT00M44.90S,1,1610612742,DAL,200826,Barea,J. Barea,46,109,12,Missed,1,,,0,h,MISS Barea 12' Jump Shot,Missed Shot,Jump Shot,1,95
+21700024,128,PT00M42.10S,1,1610612742,DAL,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,,,0,h,Finney-Smith REBOUND (Off:1 Def:0),Rebound,Unknown,1,96
+21700024,129,PT00M34.50S,1,1610612742,DAL,200826,Barea,J. Barea,36,29,5,Made,1,23.0,17.0,40,h,Barea 5' Layup (2 PTS),Made Shot,Layup Shot,1,97
+21700024,130,PT00M29.10S,1,1610612758,SAC,1627746,Labissiere,S. Labissiere,110,75,13,Made,1,23.0,19.0,42,v,Labissiere 13' Jump Shot (6 PTS) (Fox 4 AST),Made Shot,Jump Shot,1,98
+21700024,132,PT00M06.60S,1,1610612742,DAL,200826,Barea,J. Barea,16,25,3,Missed,1,,,0,h,MISS Barea 3' Driving Layup,Missed Shot,Driving Layup Shot,1,99
+21700024,132,PT00M06.60S,1,1610612758,SAC,1627746,Labissiere,S. Labissiere,0,0,0,,0,,,0,v,Labissiere BLOCK (1 BLK),,,1,100
+21700024,134,PT00M06.60S,1,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Rebound,Rebound,Unknown,0,101
+21700024,136,PT00M06.60S,1,1610612742,DAL,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,,,0,h,SUB: Matthews FOR Finney-Smith,Substitution,,0,102
+21700024,139,PT00M06.60S,1,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,SUB: Powell FOR Nowitzki,Substitution,,0,103
+21700024,140,PT00M04.00S,1,1610612742,DAL,203939,Powell,D. Powell,151,170,23,Missed,1,,,0,h,MISS Powell 23' Jump Shot,Missed Shot,Jump Shot,1,104
+21700024,142,PT00M01.00S,1,1610612758,SAC,1627741,Hield,B. Hield,60,503,51,Missed,1,,,0,v,MISS Hield 51' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,105
+21700024,143,PT00M01.00S,1,0,,1610612758,,,0,0,0,,0,,,0,v,Kings Rebound,Rebound,Unknown,0,106
+21700024,141,PT00M00.20S,1,1610612758,SAC,1627741,Hield,B. Hield,0,0,0,,0,,,0,v,Hield REBOUND (Off:0 Def:3),Rebound,Unknown,1,107
+21700024,152,PT00M00.00S,1,0,,0,,,0,0,0,,0,23.0,19.0,42,,End of 1st Period (9:06 PM EST),period,end,1,108
+21700024,161,PT12M00.00S,2,0,,0,,,0,0,0,,0,23.0,19.0,42,,Start of 2nd Period (9:07 PM EST),period,start,0,109
+21700024,162,PT11M48.00S,2,1610612742,DAL,1626257,Mejri,S. Mejri,-3,15,2,Made,1,25.0,19.0,44,h,Mejri 2' Cutting Dunk Shot (2 PTS) (Finney-Smith 1 AST),Made Shot,Cutting Dunk Shot,1,110
+21700024,164,PT11M35.00S,2,1610612742,DAL,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,,,0,h,Finney-Smith Personal Block Foul (P1.T1) (M.Smith),Foul,Personal Block,1,111
+21700024,166,PT11M28.00S,2,1610612758,SAC,1713,Carter,V. Carter,127,232,26,Missed,1,,,0,v,MISS Carter 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,112
+21700024,167,PT11M25.00S,2,1610612758,SAC,201585,Koufos,K. Koufos,0,0,0,,0,,,0,v,Koufos REBOUND (Off:1 Def:1),Rebound,Unknown,1,113
+21700024,168,PT11M25.00S,2,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,,,0,h,Barea P.FOUL (P1.T2) (M.Smith),Foul,Personal,1,114
+21700024,170,PT11M12.00S,2,1610612758,SAC,1627746,Labissiere,S. Labissiere,-117,53,13,Missed,1,,,0,v,MISS Labissiere 13' Jump Shot,Missed Shot,Jump Shot,1,115
+21700024,171,PT11M09.00S,2,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,,,0,h,Barea REBOUND (Off:0 Def:1),Rebound,Unknown,1,116
+21700024,172,PT11M00.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,120,162,20,Missed,1,,,0,h,MISS Nowitzki 20' Jump Shot,Missed Shot,Jump Shot,1,117
+21700024,173,PT10M56.00S,2,1610612758,SAC,1627746,Labissiere,S. Labissiere,0,0,0,,0,,,0,v,Labissiere REBOUND (Off:1 Def:1),Rebound,Unknown,1,118
+21700024,174,PT10M52.00S,2,1610612758,SAC,1628368,Fox,D. Fox,18,17,2,Made,1,25.0,21.0,46,v,Fox 2' Layup (2 PTS),Made Shot,Layup Shot,1,119
+21700024,175,PT10M39.00S,2,1610612742,DAL,200826,Barea,J. Barea,-14,57,6,Missed,1,,,0,h,MISS Barea 6' Layup,Missed Shot,Layup Shot,1,120
+21700024,176,PT10M38.00S,2,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,Fox REBOUND (Off:0 Def:2),Rebound,Unknown,1,121
+21700024,177,PT10M28.00S,2,1610612758,SAC,1627746,Labissiere,S. Labissiere,25,30,4,Missed,1,,,0,v,MISS Labissiere 4' Layup,Missed Shot,Layup Shot,1,122
+21700024,178,PT10M28.00S,2,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,Fox REBOUND (Off:1 Def:2),Rebound,Unknown,1,123
+21700024,179,PT10M25.00S,2,1610612758,SAC,1713,Carter,V. Carter,-194,166,26,Made,1,25.0,24.0,49,v,Carter 26' 3PT Jump Shot (3 PTS) (Fox 5 AST),Made Shot,Jump Shot,1,124
+21700024,181,PT09M58.00S,2,1610612742,DAL,1627827,Finney-Smith,D. Finney-Smith,-95,195,22,Made,1,27.0,24.0,51,h,Finney-Smith 22' Jump Shot (3 PTS) (Barea 5 AST),Made Shot,Jump Shot,1,125
+21700024,183,PT09M45.00S,2,1610612758,SAC,1628368,Fox,D. Fox,-147,100,18,Made,1,27.0,26.0,53,v,Fox 18' Jump Shot (4 PTS),Made Shot,Jump Shot,1,126
+21700024,184,PT09M26.00S,2,1610612758,SAC,1627746,Labissiere,S. Labissiere,0,0,0,,0,,,0,v,Labissiere P.FOUL (P1.T1) (M.Smith),Foul,Personal,1,127
+21700024,187,PT09M26.00S,2,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,,,0,h,SUB: Ferrell FOR Barea,Substitution,,0,128
+21700024,188,PT09M20.00S,2,1610612742,DAL,1626257,Mejri,S. Mejri,2,15,2,Made,1,29.0,26.0,55,h,Mejri 2' Alley Oop Dunk (4 PTS) (Ferrell 1 AST),Made Shot,Alley Oop Dunk Shot,1,129
+21700024,191,PT09M09.00S,2,1610612758,SAC,201585,Koufos,K. Koufos,0,0,0,,0,,,0,v,Koufos Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,130
+21700024,191,PT09M09.00S,2,1610612742,DAL,1628492,Clavell,G. Clavell,0,0,0,,0,,,0,h,Clavell STEAL (1 STL),,,1,131
+21700024,193,PT09M04.00S,2,1610612758,SAC,201585,Koufos,K. Koufos,0,0,0,,0,,,0,v,Koufos P.FOUL (P2.T2) (S.Twardoski),Foul,Personal,1,132
+21700024,195,PT08M59.00S,2,1610612742,DAL,1628492,Clavell,G. Clavell,223,44,0,Made,1,32.0,26.0,58,h,Clavell 3PT Jump Shot (3 PTS) (Ferrell 2 AST),Made Shot,Jump Shot,1,133
+21700024,197,PT08M52.00S,2,0,,1610612758,,,0,0,0,,0,,,0,v,Kings Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,134
+21700024,198,PT08M39.00S,2,1610612758,SAC,1628368,Fox,D. Fox,-97,111,15,Missed,1,,,0,v,MISS Fox 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,135
+21700024,199,PT08M36.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:0 Def:4),Rebound,Unknown,1,136
+21700024,200,PT08M23.00S,2,1610612742,DAL,1627827,Finney-Smith,D. Finney-Smith,-192,189,27,Missed,1,,,0,h,MISS Finney-Smith 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,137
+21700024,201,PT08M19.00S,2,1610612742,DAL,1628492,Clavell,G. Clavell,0,0,0,,0,,,0,h,Clavell REBOUND (Off:1 Def:0),Rebound,Unknown,1,138
+21700024,202,PT08M18.00S,2,1610612742,DAL,1628492,Clavell,G. Clavell,227,64,24,Missed,1,,,0,h,MISS Clavell 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,139
+21700024,203,PT08M18.00S,2,1610612758,SAC,1713,Carter,V. Carter,0,0,0,,0,,,0,v,Carter REBOUND (Off:0 Def:1),Rebound,Unknown,1,140
+21700024,204,PT08M06.00S,2,1610612758,SAC,1627746,Labissiere,S. Labissiere,152,0,15,Missed,1,,,0,v,MISS Labissiere 15' Jump Shot,Missed Shot,Jump Shot,1,141
+21700024,205,PT08M02.00S,2,1610612742,DAL,1627812,Ferrell,Y. Ferrell,0,0,0,,0,,,0,h,Ferrell REBOUND (Off:0 Def:1),Rebound,Unknown,1,142
+21700024,206,PT07M53.00S,2,1610612742,DAL,1627812,Ferrell,Y. Ferrell,0,0,0,,0,,,0,h,Ferrell Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,143
+21700024,206,PT07M53.00S,2,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,Fox STEAL (1 STL),,,1,144
+21700024,208,PT07M50.00S,2,1610612758,SAC,1628368,Fox,D. Fox,-6,22,2,Missed,1,,,0,v,MISS Fox 2' Layup,Missed Shot,Layup Shot,1,145
+21700024,209,PT07M47.00S,2,1610612758,SAC,202066,Temple,G. Temple,0,0,0,,0,,,0,v,Temple REBOUND (Off:1 Def:1),Rebound,Unknown,1,146
+21700024,210,PT07M36.00S,2,1610612758,SAC,1627746,Labissiere,S. Labissiere,-2,16,2,Missed,1,,,0,v,MISS Labissiere 2' Layup,Missed Shot,Layup Shot,1,147
+21700024,210,PT07M36.00S,2,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,,,0,h,Mejri BLOCK (2 BLK),,,1,148
+21700024,212,PT07M33.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:0 Def:5),Rebound,Unknown,1,149
+21700024,213,PT07M30.00S,2,1610612742,DAL,1627827,Finney-Smith,D. Finney-Smith,234,-13,0,Made,1,35.0,26.0,61,h,Finney-Smith 3PT Jump Shot (6 PTS) (Nowitzki 1 AST),Made Shot,Jump Shot,1,150
+21700024,215,PT07M15.00S,2,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,Fox Traveling Turnover (P1.T7),Turnover,Traveling,1,151
+21700024,220,PT07M15.00S,2,1610612742,DAL,1628492,Clavell,G. Clavell,0,0,0,,0,,,0,h,SUB: Noel FOR Clavell,Substitution,,0,152
+21700024,221,PT07M15.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,SUB: Barnes FOR Nowitzki,Substitution,,0,153
+21700024,222,PT07M15.00S,2,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,,,0,h,SUB: Matthews FOR Mejri,Substitution,,0,154
+21700024,223,PT07M15.00S,2,1610612758,SAC,1627746,Labissiere,S. Labissiere,0,0,0,,0,,,0,v,SUB: G. Hill FOR Labissiere,Substitution,,0,155
+21700024,224,PT06M54.00S,2,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,h,Matthews Lost Ball Turnover (P2.T5),Turnover,Lost Ball,1,156
+21700024,224,PT06M54.00S,2,1610612758,SAC,202066,Temple,G. Temple,0,0,0,,0,,,0,v,Temple STEAL (1 STL),,,1,157
+21700024,226,PT06M45.00S,2,1610612758,SAC,202066,Temple,G. Temple,16,251,25,Missed,1,,,0,v,MISS Temple 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,158
+21700024,227,PT06M39.00S,2,1610612758,SAC,201585,Koufos,K. Koufos,0,0,0,,0,,,0,v,Koufos REBOUND (Off:2 Def:1),Rebound,Unknown,1,159
+21700024,228,PT06M39.00S,2,1610612758,SAC,201585,Koufos,K. Koufos,0,-6,1,Missed,1,,,0,v,MISS Koufos 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,160
+21700024,229,PT06M38.00S,2,1610612742,DAL,203457,Noel,N. Noel,0,0,0,,0,,,0,h,Noel REBOUND (Off:0 Def:2),Rebound,Unknown,1,161
+21700024,230,PT06M33.00S,2,1610612742,DAL,1627812,Ferrell,Y. Ferrell,30,246,25,Made,1,38.0,26.0,64,h,Ferrell 25' 3PT Jump Shot (7 PTS),Made Shot,Jump Shot,1,162
+21700024,231,PT06M12.00S,2,1610612758,SAC,1628368,Fox,D. Fox,228,20,0,Made,1,38.0,29.0,67,v,Fox 3PT Jump Shot (7 PTS) (Temple 1 AST),Made Shot,Jump Shot,1,163
+21700024,233,PT05M50.00S,2,1610612742,DAL,203084,Barnes,H. Barnes,-27,88,9,Missed,1,,,0,h,MISS Barnes 9' Jump Shot,Missed Shot,Jump Shot,1,164
+21700024,234,PT05M47.00S,2,1610612742,DAL,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,,,0,h,Finney-Smith REBOUND (Off:2 Def:0),Rebound,Unknown,1,165
+21700024,235,PT05M47.00S,2,1610612742,DAL,1627827,Finney-Smith,D. Finney-Smith,0,-6,1,Made,1,40.0,29.0,69,h,Finney-Smith 1' Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,166
+21700024,236,PT05M27.00S,2,1610612758,SAC,1713,Carter,V. Carter,-228,4,0,Missed,1,,,0,v,MISS Carter 3PT Jump Shot,Missed Shot,Jump Shot,1,167
+21700024,237,PT05M23.00S,2,1610612742,DAL,1627812,Ferrell,Y. Ferrell,0,0,0,,0,,,0,h,Ferrell REBOUND (Off:0 Def:2),Rebound,Unknown,1,168
+21700024,238,PT05M20.00S,2,1610612742,DAL,1627812,Ferrell,Y. Ferrell,-90,249,26,Missed,1,,,0,h,MISS Ferrell 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,169
+21700024,239,PT05M15.00S,2,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,Barnes REBOUND (Off:1 Def:0),Rebound,Unknown,1,170
+21700024,240,PT05M13.00S,2,1610612742,DAL,202083,Matthews,W. Matthews,133,220,26,Missed,1,,,0,h,MISS Matthews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,171
+21700024,241,PT05M13.00S,2,1610612758,SAC,202066,Temple,G. Temple,0,0,0,,0,,,0,v,Temple REBOUND (Off:1 Def:2),Rebound,Unknown,1,172
+21700024,242,PT04M54.00S,2,1610612758,SAC,202066,Temple,G. Temple,-226,-18,0,Made,1,40.0,32.0,72,v,Temple 3PT Jump Shot (6 PTS) (Fox 6 AST),Made Shot,Jump Shot,1,173
+21700024,244,PT04M37.00S,2,1610612742,DAL,202083,Matthews,W. Matthews,-231,112,26,Missed,1,,,0,h,MISS Matthews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,174
+21700024,245,PT04M35.00S,2,1610612758,SAC,202066,Temple,G. Temple,0,0,0,,0,,,0,v,Temple REBOUND (Off:1 Def:3),Rebound,Unknown,1,175
+21700024,247,PT04M32.00S,2,1610612742,DAL,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,,,0,h,Finney-Smith P.FOUL (P2.T3) (S.Twardoski),Foul,Personal,1,176
+21700024,252,PT04M32.00S,2,1610612742,DAL,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,,,0,h,SUB: Barea FOR Finney-Smith,Substitution,,0,177
+21700024,253,PT04M32.00S,2,1610612758,SAC,202066,Temple,G. Temple,0,0,0,,0,,,0,v,SUB: Cauley-Stein FOR Temple,Substitution,,0,178
+21700024,254,PT04M32.00S,2,1610612758,SAC,201585,Koufos,K. Koufos,0,0,0,,0,,,0,v,SUB: Randolph FOR Koufos,Substitution,,0,179
+21700024,255,PT04M24.00S,2,1610612758,SAC,1628368,Fox,D. Fox,-85,173,19,Missed,1,,,0,v,MISS Fox 19' Jump Shot,Missed Shot,Jump Shot,1,180
+21700024,256,PT04M24.00S,2,1610612758,SAC,1626161,Cauley-Stein,W. Cauley-Stein,0,0,0,,0,,,0,v,Cauley-Stein REBOUND (Off:2 Def:2),Rebound,Unknown,1,181
+21700024,258,PT04M11.00S,2,1610612758,SAC,2216,Randolph,Z. Randolph,13,69,7,Missed,1,,,0,v,MISS Randolph 7' Jump Shot,Missed Shot,Jump Shot,1,182
+21700024,258,PT04M11.00S,2,1610612742,DAL,203457,Noel,N. Noel,0,0,0,,0,,,0,h,Noel BLOCK (2 BLK),,,1,183
+21700024,260,PT04M09.00S,2,1610612758,SAC,201588,Hill,G. Hill,0,0,0,,0,,,0,v,G. Hill REBOUND (Off:1 Def:0),Rebound,Unknown,1,184
+21700024,261,PT04M07.00S,2,1610612758,SAC,1626161,Cauley-Stein,W. Cauley-Stein,164,72,18,Made,1,40.0,34.0,74,v,Cauley-Stein 18' Jump Shot (4 PTS) (G. Hill 1 AST),Made Shot,Jump Shot,1,185
+21700024,263,PT03M51.00S,2,1610612758,SAC,1626161,Cauley-Stein,W. Cauley-Stein,0,0,0,,0,,,0,v,Cauley-Stein Personal Block Foul (P1.T3) (S.Twardoski),Foul,Personal Block,1,186
+21700024,265,PT03M51.00S,2,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,187
+21700024,266,PT03M47.00S,2,1610612758,SAC,1713,Carter,V. Carter,0,0,0,,0,,,0,v,Carter P.FOUL (P1.T4) (S.Twardoski),Foul,Personal,1,188
+21700024,268,PT03M38.00S,2,1610612742,DAL,203084,Barnes,H. Barnes,6,18,2,Missed,1,,,0,h,MISS Barnes 2' Layup,Missed Shot,Layup Shot,1,189
+21700024,269,PT03M36.00S,2,1610612742,DAL,203457,Noel,N. Noel,0,0,0,,0,,,0,h,Noel REBOUND (Off:1 Def:2),Rebound,Unknown,1,190
+21700024,270,PT03M34.00S,2,1610612742,DAL,203457,Noel,N. Noel,21,8,2,Made,1,42.0,34.0,76,h,Noel 2' Layup (6 PTS),Made Shot,Layup Shot,1,191
+21700024,271,PT03M18.00S,2,1610612758,SAC,201588,Hill,G. Hill,119,174,21,Made,1,42.0,36.0,78,v,G. Hill 21' Jump Shot (4 PTS) (Fox 7 AST),Made Shot,Jump Shot,1,192
+21700024,273,PT03M07.00S,2,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,Fox P.FOUL (P2.PN) (M.Smith),Foul,Personal,1,193
+21700024,275,PT03M07.00S,2,1610612742,DAL,1627812,Ferrell,Y. Ferrell,0,0,0,,0,43.0,36.0,79,h,Ferrell Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,194
+21700024,277,PT03M07.00S,2,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,SUB: Hield FOR Fox,Substitution,,0,195
+21700024,278,PT03M07.00S,2,1610612742,DAL,1627812,Ferrell,Y. Ferrell,0,0,0,,0,,,0,h,MISS Ferrell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,196
+21700024,279,PT03M05.00S,2,1610612758,SAC,1626161,Cauley-Stein,W. Cauley-Stein,0,0,0,,0,,,0,v,Cauley-Stein REBOUND (Off:2 Def:3),Rebound,Unknown,1,197
+21700024,280,PT02M47.00S,2,1610612758,SAC,1713,Carter,V. Carter,55,71,9,Missed,1,,,0,v,MISS Carter 9' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,198
+21700024,281,PT02M43.00S,2,1610612742,DAL,203457,Noel,N. Noel,0,0,0,,0,,,0,h,Noel REBOUND (Off:1 Def:3),Rebound,Unknown,1,199
+21700024,282,PT02M33.00S,2,1610612742,DAL,203084,Barnes,H. Barnes,46,48,7,Missed,1,,,0,h,MISS Barnes 7' Jump Shot,Missed Shot,Jump Shot,1,200
+21700024,283,PT02M30.00S,2,1610612758,SAC,1713,Carter,V. Carter,0,0,0,,0,,,0,v,Carter REBOUND (Off:0 Def:2),Rebound,Unknown,1,201
+21700024,284,PT02M26.00S,2,1610612758,SAC,1627741,Hield,B. Hield,-198,66,21,Made,1,43.0,38.0,81,v,Hield 21' Jump Shot (4 PTS),Made Shot,Jump Shot,1,202
+21700024,285,PT02M13.00S,2,1610612758,SAC,1626161,Cauley-Stein,W. Cauley-Stein,0,0,0,,0,,,0,v,Cauley-Stein P.FOUL (P2.PN) (M.Smith),Foul,Personal,1,203
+21700024,287,PT02M13.00S,2,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,44.0,38.0,82,h,Barnes Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,204
+21700024,290,PT02M13.00S,2,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,,,0,h,SUB: Nowitzki FOR Barea,Substitution,,0,205
+21700024,291,PT02M13.00S,2,1610612758,SAC,1713,Carter,V. Carter,0,0,0,,0,,,0,v,SUB: Temple FOR Carter,Substitution,,0,206
+21700024,292,PT02M13.00S,2,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,MISS Barnes Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,207
+21700024,293,PT02M11.00S,2,1610612758,SAC,1626161,Cauley-Stein,W. Cauley-Stein,0,0,0,,0,,,0,v,Cauley-Stein REBOUND (Off:2 Def:4),Rebound,Unknown,1,208
+21700024,294,PT01M59.00S,2,1610612758,SAC,1626161,Cauley-Stein,W. Cauley-Stein,18,20,3,Made,1,44.0,40.0,84,v,Cauley-Stein 3' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,209
+21700024,295,PT01M40.00S,2,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,h,Matthews Out of Bounds - Bad Pass Turnover Turnover (P3.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,210
+21700024,296,PT01M33.00S,2,1610612742,DAL,1627812,Ferrell,Y. Ferrell,0,0,0,,0,,,0,h,Ferrell Personal Block Foul (P1.T4) (M.Smith),Foul,Personal Block,1,211
+21700024,299,PT01M27.00S,2,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,MAVERICKS T.Foul (Def. 3 Sec Nowitzki ) (B.Kennedy),Foul,Defense 3 Second,1,212
+21700024,300,PT01M27.00S,2,1610612758,SAC,1627741,Hield,B. Hield,0,0,0,,0,44.0,41.0,85,v,Hield Free Throw Technical (5 PTS),Free Throw,Free Throw Technical,0,213
+21700024,301,PT01M14.00S,2,1610612758,SAC,1627741,Hield,B. Hield,-187,227,29,Missed,1,,,0,v,MISS Hield 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,214
+21700024,302,PT01M13.00S,2,1610612758,SAC,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,v,Randolph REBOUND (Off:2 Def:0),Rebound,Unknown,1,215
+21700024,303,PT01M13.00S,2,0,,1610612758,,,0,0,0,,0,,,0,v,Kings Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,0,216
+21700024,304,PT00M59.90S,2,1610612758,SAC,201588,Hill,G. Hill,0,0,0,,0,,,0,v,G. Hill S.FOUL (P1.PN) (B.Kennedy),Foul,Shooting,1,217
+21700024,306,PT00M59.90S,2,1610612742,DAL,1627812,Ferrell,Y. Ferrell,0,0,0,,0,45.0,41.0,86,h,Ferrell Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,218
+21700024,307,PT00M59.90S,2,1610612742,DAL,1627812,Ferrell,Y. Ferrell,0,0,0,,0,46.0,41.0,87,h,Ferrell Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,219
+21700024,308,PT00M50.90S,2,1610612758,SAC,201588,Hill,G. Hill,43,117,12,Missed,1,,,0,v,MISS G. Hill 12' Jump Shot,Missed Shot,Jump Shot,1,220
+21700024,309,PT00M47.60S,2,1610612758,SAC,1626161,Cauley-Stein,W. Cauley-Stein,0,0,0,,0,,,0,v,Cauley-Stein REBOUND (Off:3 Def:4),Rebound,Unknown,1,221
+21700024,310,PT00M46.60S,2,1610612758,SAC,1626161,Cauley-Stein,W. Cauley-Stein,-13,9,2,Missed,1,,,0,v,MISS Cauley-Stein 2' Putback Layup,Missed Shot,Putback Layup Shot,1,222
+21700024,311,PT00M46.60S,2,1610612758,SAC,1626161,Cauley-Stein,W. Cauley-Stein,0,0,0,,0,,,0,v,Cauley-Stein REBOUND (Off:4 Def:4),Rebound,Unknown,1,223
+21700024,312,PT00M37.30S,2,1610612758,SAC,2216,Randolph,Z. Randolph,-2,30,3,Made,1,46.0,43.0,89,v,Randolph 3' Hook Shot (4 PTS),Made Shot,Hook Shot,1,224
+21700024,313,PT00M33.00S,2,1610612742,DAL,1627812,Ferrell,Y. Ferrell,-40,279,28,Missed,1,,,0,h,MISS Ferrell 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,225
+21700024,314,PT00M30.70S,2,1610612758,SAC,1626161,Cauley-Stein,W. Cauley-Stein,0,0,0,,0,,,0,v,Cauley-Stein REBOUND (Off:4 Def:5),Rebound,Unknown,1,226
+21700024,315,PT00M18.10S,2,1610612758,SAC,201588,Hill,G. Hill,0,0,0,,0,,,0,v,G. Hill Lost Ball Turnover (P5.T9),Turnover,Lost Ball,1,227
+21700024,315,PT00M18.10S,2,1610612742,DAL,203457,Noel,N. Noel,0,0,0,,0,,,0,h,Noel STEAL (2 STL),,,1,228
+21700024,317,PT00M11.20S,2,1610612742,DAL,203457,Noel,N. Noel,0,0,0,,0,,,0,h,Noel Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,229
+21700024,317,PT00M11.20S,2,1610612758,SAC,201588,Hill,G. Hill,0,0,0,,0,,,0,v,G. Hill STEAL (2 STL),,,1,230
+21700024,319,PT00M01.20S,2,1610612758,SAC,201588,Hill,G. Hill,-120,226,26,Made,1,46.0,46.0,92,v,G. Hill 26' 3PT Jump Shot (7 PTS),Made Shot,Jump Shot,1,231
+21700024,320,PT00M00.00S,2,0,,0,,,0,0,0,,0,46.0,46.0,92,,End of 2nd Period (9:31 PM EST),period,end,1,232
+21700024,325,PT12M00.00S,3,0,,0,,,0,0,0,,0,46.0,46.0,92,,Start of 3rd Period (9:47 PM EST),period,start,0,233
+21700024,326,PT11M41.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-222,88,24,Missed,1,,,0,h,MISS Nowitzki 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,234
+21700024,327,PT11M38.00S,3,1610612758,SAC,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,v,Randolph REBOUND (Off:2 Def:1),Rebound,Unknown,1,235
+21700024,328,PT11M18.00S,3,1610612758,SAC,1627741,Hield,B. Hield,-35,168,17,Missed,1,,,0,v,MISS Hield 17' Jump Shot,Missed Shot,Jump Shot,1,236
+21700024,328,PT11M18.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,h,Matthews BLOCK (1 BLK),,,1,237
+21700024,330,PT11M14.00S,3,1610612742,DAL,203457,Noel,N. Noel,0,0,0,,0,,,0,h,Noel REBOUND (Off:1 Def:4),Rebound,Unknown,1,238
+21700024,331,PT11M08.00S,3,1610612742,DAL,200826,Barea,J. Barea,11,14,2,Made,1,48.0,46.0,94,h,Barea 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,239
+21700024,332,PT10M53.00S,3,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,Barnes P.FOUL (P1.T1) (B.Kennedy),Foul,Personal,1,240
+21700024,334,PT10M44.00S,3,1610612758,SAC,1626161,Cauley-Stein,W. Cauley-Stein,30,179,18,Made,1,48.0,48.0,96,v,Cauley-Stein 18' Jump Shot (8 PTS),Made Shot,Jump Shot,1,241
+21700024,335,PT10M28.00S,3,1610612742,DAL,203084,Barnes,H. Barnes,-149,16,15,Missed,1,,,0,h,MISS Barnes 15' Jump Shot,Missed Shot,Jump Shot,1,242
+21700024,336,PT10M25.00S,3,1610612758,SAC,1626161,Cauley-Stein,W. Cauley-Stein,0,0,0,,0,,,0,v,Cauley-Stein REBOUND (Off:4 Def:6),Rebound,Unknown,1,243
+21700024,337,PT10M15.00S,3,1610612758,SAC,201588,Hill,G. Hill,-13,38,4,Made,1,48.0,50.0,98,v,G. Hill 4' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,244
+21700024,338,PT10M02.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,83,243,26,Made,1,51.0,50.0,101,h,Nowitzki 26' 3PT Jump Shot (8 PTS) (Barea 6 AST),Made Shot,Jump Shot,1,245
+21700024,340,PT09M46.00S,3,1610612758,SAC,2216,Randolph,Z. Randolph,-23,256,26,Made,1,51.0,53.0,104,v,Randolph 26' 3PT Jump Shot (7 PTS) (G. Hill 2 AST),Made Shot,Jump Shot,1,246
+21700024,342,PT09M38.00S,3,1610612758,SAC,1626161,Cauley-Stein,W. Cauley-Stein,0,0,0,,0,,,0,v,Cauley-Stein Personal Block Foul (P3.T1) (M.Smith),Foul,Personal Block,1,247
+21700024,344,PT09M24.00S,3,1610612742,DAL,203084,Barnes,H. Barnes,-105,140,18,Missed,1,,,0,h,MISS Barnes 18' Jump Shot,Missed Shot,Jump Shot,1,248
+21700024,345,PT09M21.00S,3,1610612758,SAC,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,v,Randolph REBOUND (Off:2 Def:2),Rebound,Unknown,1,249
+21700024,346,PT09M16.00S,3,1610612758,SAC,201588,Hill,G. Hill,73,170,19,Made,1,51.0,55.0,106,v,G. Hill 19' Jump Shot (11 PTS),Made Shot,Jump Shot,1,250
+21700024,347,PT09M01.00S,3,1610612742,DAL,200826,Barea,J. Barea,-103,237,26,Made,1,54.0,55.0,109,h,Barea 26' 3PT Jump Shot (7 PTS),Made Shot,Jump Shot,1,251
+21700024,348,PT08M40.00S,3,1610612758,SAC,2216,Randolph,Z. Randolph,10,14,2,Missed,1,,,0,v,MISS Randolph 2' Layup,Missed Shot,Layup Shot,1,252
+21700024,349,PT08M38.00S,3,1610612758,SAC,1628382,Jackson,J. Jackson,0,0,0,,0,,,0,v,Jackson REBOUND (Off:1 Def:1),Rebound,Unknown,1,253
+21700024,350,PT08M30.00S,3,1610612758,SAC,2216,Randolph,Z. Randolph,-4,31,3,Made,1,54.0,57.0,111,v,Randolph 3' Hook Shot (9 PTS) (Hield 3 AST),Made Shot,Hook Shot,1,254
+21700024,352,PT08M14.00S,3,1610612742,DAL,203084,Barnes,H. Barnes,-135,-4,14,Made,1,56.0,57.0,113,h,Barnes 14' Jump Shot (7 PTS) (Barea 7 AST),Made Shot,Jump Shot,1,255
+21700024,354,PT07M48.00S,3,1610612758,SAC,1628382,Jackson,J. Jackson,0,0,0,,0,,,0,v,Jackson Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,256
+21700024,354,PT07M48.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,h,Matthews STEAL (2 STL),,,1,257
+21700024,356,PT07M39.00S,3,1610612758,SAC,1627741,Hield,B. Hield,0,0,0,,0,,,0,v,Hield S.FOUL (P1.T2) (M.Smith),Foul,Shooting,1,258
+21700024,358,PT07M39.00S,3,1610612742,DAL,203457,Noel,N. Noel,0,0,0,,0,,,0,h,MISS Noel Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,259
+21700024,359,PT07M39.00S,3,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Rebound,Rebound,Normal Rebound,0,260
+21700024,360,PT07M39.00S,3,1610612742,DAL,203457,Noel,N. Noel,0,0,0,,0,57.0,57.0,114,h,Noel Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,261
+21700024,361,PT07M27.00S,3,1610612758,SAC,201588,Hill,G. Hill,109,222,25,Made,1,57.0,60.0,117,v,G. Hill 25' 3PT Jump Shot (14 PTS),Made Shot,Jump Shot,1,262
+21700024,362,PT07M13.00S,3,1610612742,DAL,200826,Barea,J. Barea,-112,220,25,Missed,1,,,0,h,MISS Barea 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,263
+21700024,363,PT07M10.00S,3,1610612758,SAC,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,v,Randolph REBOUND (Off:2 Def:3),Rebound,Unknown,1,264
+21700024,364,PT06M58.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,h,MAVERICKS T.Foul (Def. 3 Sec Matthews ) (S.Twardoski),Foul,Defense 3 Second,1,265
+21700024,365,PT06M58.00S,3,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,266
+21700024,368,PT06M58.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,SUB: Powell FOR Nowitzki,Substitution,,0,267
+21700024,369,PT06M58.00S,3,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,,,0,h,SUB: Ferrell FOR Barea,Substitution,,0,268
+21700024,370,PT06M58.00S,3,1610612758,SAC,1627741,Hield,B. Hield,0,0,0,,0,57.0,61.0,118,v,Hield Free Throw Technical (6 PTS),Free Throw,Free Throw Technical,0,269
+21700024,371,PT06M48.00S,3,1610612758,SAC,2216,Randolph,Z. Randolph,103,27,11,Missed,1,,,0,v,MISS Randolph 11' Jump Shot,Missed Shot,Jump Shot,1,270
+21700024,372,PT06M45.00S,3,1610612742,DAL,1627812,Ferrell,Y. Ferrell,0,0,0,,0,,,0,h,Ferrell REBOUND (Off:0 Def:3),Rebound,Unknown,1,271
+21700024,373,PT06M31.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,101,241,26,Missed,1,,,0,h,MISS Matthews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,272
+21700024,374,PT06M25.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:2 Def:1),Rebound,Unknown,1,273
+21700024,375,PT06M25.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,-6,1,Missed,1,,,0,h,MISS Powell 1' Putback Layup,Missed Shot,Putback Layup Shot,1,274
+21700024,376,PT06M24.00S,3,1610612758,SAC,1627741,Hield,B. Hield,0,0,0,,0,,,0,v,Hield REBOUND (Off:0 Def:4),Rebound,Unknown,1,275
+21700024,377,PT06M20.00S,3,1610612758,SAC,2216,Randolph,Z. Randolph,-81,247,26,Missed,1,,,0,v,MISS Randolph 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,276
+21700024,378,PT06M17.00S,3,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Rebound,Rebound,Unknown,0,277
+21700024,379,PT05M58.00S,3,1610612742,DAL,1627812,Ferrell,Y. Ferrell,11,19,2,Missed,1,,,0,h,MISS Ferrell 2' Layup,Missed Shot,Layup Shot,1,278
+21700024,379,PT05M58.00S,3,1610612758,SAC,1626161,Cauley-Stein,W. Cauley-Stein,0,0,0,,0,,,0,v,Cauley-Stein BLOCK (1 BLK),,,1,279
+21700024,380,PT05M58.00S,3,1610612758,SAC,201588,Hill,G. Hill,0,0,0,,0,,,0,v,G. Hill REBOUND (Off:1 Def:1),Rebound,Unknown,1,280
+21700024,381,PT05M45.00S,3,1610612758,SAC,1627741,Hield,B. Hield,-221,123,25,Made,1,57.0,64.0,121,v,Hield 25' 3PT Jump Shot (9 PTS) (Randolph 1 AST),Made Shot,Jump Shot,1,281
+21700024,383,PT05M27.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,152,213,26,Missed,1,,,0,h,MISS Matthews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,282
+21700024,384,PT05M24.00S,3,1610612758,SAC,1628382,Jackson,J. Jackson,0,0,0,,0,,,0,v,Jackson REBOUND (Off:1 Def:2),Rebound,Unknown,1,283
+21700024,387,PT05M03.00S,3,1610612758,SAC,2216,Randolph,Z. Randolph,-93,8,9,Missed,1,,,0,v,MISS Randolph 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,284
+21700024,388,PT05M00.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:2 Def:2),Rebound,Unknown,1,285
+21700024,389,PT04M45.00S,3,1610612758,SAC,1628382,Jackson,J. Jackson,0,0,0,,0,,,0,v,Jackson S.FOUL (P1.T3) (S.Twardoski),Foul,Shooting,1,286
+21700024,391,PT04M45.00S,3,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,58.0,64.0,122,h,Barnes Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,287
+21700024,392,PT04M45.00S,3,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,MISS Barnes Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,288
+21700024,393,PT04M42.00S,3,1610612758,SAC,1627741,Hield,B. Hield,0,0,0,,0,,,0,v,Hield REBOUND (Off:0 Def:5),Rebound,Unknown,1,289
+21700024,394,PT04M27.00S,3,1610612742,DAL,203457,Noel,N. Noel,0,0,0,,0,,,0,h,Noel S.FOUL (P1.T2) (S.Twardoski),Foul,Shooting,1,290
+21700024,396,PT04M27.00S,3,1610612758,SAC,1627741,Hield,B. Hield,0,0,0,,0,58.0,65.0,123,v,Hield Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,291
+21700024,397,PT04M27.00S,3,1610612758,SAC,1627741,Hield,B. Hield,0,0,0,,0,58.0,66.0,124,v,Hield Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,292
+21700024,398,PT04M09.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,-225,-17,0,Missed,1,,,0,h,MISS Matthews 3PT Jump Shot,Missed Shot,Jump Shot,1,293
+21700024,399,PT04M04.00S,3,1610612758,SAC,1628382,Jackson,J. Jackson,0,0,0,,0,,,0,v,Jackson REBOUND (Off:1 Def:3),Rebound,Unknown,1,294
+21700024,400,PT03M45.00S,3,1610612758,SAC,1627741,Hield,B. Hield,-46,120,13,Missed,1,,,0,v,MISS Hield 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,295
+21700024,401,PT03M44.00S,3,0,,1610612758,,,0,0,0,,0,,,0,v,Kings Rebound,Rebound,Unknown,0,296
+21700024,402,PT03M44.00S,3,0,,1610612758,,,0,0,0,,0,,,0,v,Kings Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,297
+21700024,404,PT03M44.00S,3,1610612742,DAL,203457,Noel,N. Noel,0,0,0,,0,,,0,h,SUB: Mejri FOR Noel,Substitution,,0,298
+21700024,405,PT03M35.00S,3,1610612758,SAC,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,v,Randolph Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,299
+21700024,405,PT03M35.00S,3,1610612742,DAL,1627812,Ferrell,Y. Ferrell,0,0,0,,0,,,0,h,Ferrell STEAL (1 STL),,,0,300
+21700024,407,PT03M31.00S,3,1610612742,DAL,1627812,Ferrell,Y. Ferrell,0,0,0,,0,,,0,h,Ferrell Out of Bounds - Bad Pass Turnover Turnover (P3.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,301
+21700024,408,PT03M08.00S,3,1610612758,SAC,1627741,Hield,B. Hield,-175,191,26,Missed,1,,,0,v,MISS Hield 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,302
+21700024,409,PT03M03.00S,3,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,Barnes REBOUND (Off:1 Def:1),Rebound,Unknown,1,303
+21700024,410,PT02M56.00S,3,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,,,0,h,Mejri Step Out of Bounds Turnover (P1.T9),Turnover,Step Out of Bounds Turnover,1,304
+21700024,412,PT02M35.00S,3,1610612758,SAC,1628382,Jackson,J. Jackson,225,25,0,Missed,1,,,0,v,MISS Jackson 3PT Jump Shot,Missed Shot,Jump Shot,0,305
+21700024,413,PT02M31.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,h,Matthews REBOUND (Off:0 Def:1),Rebound,Unknown,1,306
+21700024,414,PT02M25.00S,3,1610612742,DAL,1627812,Ferrell,Y. Ferrell,0,0,0,,0,,,0,h,Ferrell Lost Ball Turnover (P4.T10),Turnover,Lost Ball,1,307
+21700024,414,PT02M25.00S,3,1610612758,SAC,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,v,Randolph STEAL (2 STL),,,1,308
+21700024,416,PT02M15.00S,3,1610612758,SAC,1628382,Jackson,J. Jackson,-234,-21,0,Missed,1,,,0,v,MISS Jackson 3PT Jump Shot,Missed Shot,Jump Shot,1,309
+21700024,417,PT02M12.00S,3,1610612758,SAC,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,v,Randolph REBOUND (Off:3 Def:3),Rebound,Unknown,0,310
+21700024,418,PT02M12.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P1.T3) (M.Smith),Foul,Shooting,1,311
+21700024,420,PT02M12.00S,3,1610612758,SAC,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,v,MISS Randolph Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,312
+21700024,421,PT02M12.00S,3,0,,1610612758,,,0,0,0,,0,,,0,v,Kings Rebound,Rebound,Normal Rebound,0,313
+21700024,427,PT02M12.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Nowitzki FOR Powell,Substitution,,0,314
+21700024,428,PT02M12.00S,3,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,h,SUB: Finney-Smith FOR Matthews,Substitution,,0,315
+21700024,429,PT02M12.00S,3,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,SUB: Barea FOR Barnes,Substitution,,0,316
+21700024,430,PT02M12.00S,3,1610612758,SAC,1627741,Hield,B. Hield,0,0,0,,0,,,0,v,SUB: Fox FOR Hield,Substitution,,0,317
+21700024,431,PT02M12.00S,3,1610612758,SAC,1628382,Jackson,J. Jackson,0,0,0,,0,,,0,v,SUB: Temple FOR Jackson,Substitution,,0,318
+21700024,432,PT02M12.00S,3,1610612758,SAC,2216,Randolph,Z. Randolph,0,0,0,,0,58.0,67.0,125,v,Randolph Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,319
+21700024,433,PT02M03.00S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,-100,131,16,Missed,1,,,0,h,MISS Nowitzki 16' Jump Shot,Missed Shot,Jump Shot,0,320
+21700024,434,PT02M00.00S,3,1610612758,SAC,201588,Hill,G. Hill,0,0,0,,0,,,0,v,G. Hill REBOUND (Off:1 Def:2),Rebound,Unknown,0,321
+21700024,435,PT01M44.00S,3,1610612758,SAC,1626161,Cauley-Stein,W. Cauley-Stein,-28,74,8,Missed,1,,,0,v,MISS Cauley-Stein 8' Jump Shot,Missed Shot,Jump Shot,1,322
+21700024,435,PT01M44.00S,3,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,,,0,h,Mejri BLOCK (3 BLK),,,1,323
+21700024,437,PT01M40.00S,3,1610612742,DAL,1626257,Mejri,S. Mejri,0,0,0,,0,,,0,h,Mejri REBOUND (Off:0 Def:3),Rebound,Unknown,1,324
+21700024,438,PT01M33.00S,3,1610612742,DAL,1627812,Ferrell,Y. Ferrell,-119,119,17,Made,1,60.0,67.0,127,h,Ferrell 17' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,325
+21700024,439,PT01M12.00S,3,1610612758,SAC,202066,Temple,G. Temple,60,176,19,Made,1,60.0,69.0,129,v,Temple 19' Pullup Jump Shot (8 PTS) (Cauley-Stein 1 AST),Made Shot,Pullup Jump shot,1,326
+21700024,441,PT00M59.70S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,24,188,19,Missed,1,,,0,h,MISS Nowitzki 19' Jump Shot,Missed Shot,Jump Shot,0,327
+21700024,442,PT00M56.30S,3,1610612758,SAC,1626161,Cauley-Stein,W. Cauley-Stein,0,0,0,,0,,,0,v,Cauley-Stein REBOUND (Off:4 Def:7),Rebound,Unknown,0,328
+21700024,443,PT00M45.10S,3,1610612742,DAL,1627812,Ferrell,Y. Ferrell,0,0,0,,0,,,0,h,Ferrell Personal Block Foul (P2.T4) (M.Smith),Foul,Personal Block,1,329
+21700024,445,PT00M42.10S,3,1610612758,SAC,201588,Hill,G. Hill,209,-11,21,Missed,1,,,0,v,MISS G. Hill 21' Jump Shot,Missed Shot,Jump Shot,1,330
+21700024,446,PT00M39.30S,3,1610612742,DAL,1627812,Ferrell,Y. Ferrell,0,0,0,,0,,,0,h,Ferrell REBOUND (Off:0 Def:4),Rebound,Unknown,1,331
+21700024,447,PT00M31.20S,3,1610612742,DAL,200826,Barea,J. Barea,30,35,5,Missed,1,,,0,h,MISS Barea 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,332
+21700024,448,PT00M29.10S,3,1610612758,SAC,201588,Hill,G. Hill,0,0,0,,0,,,0,v,G. Hill REBOUND (Off:1 Def:3),Rebound,Unknown,1,333
+21700024,453,PT00M10.90S,3,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,SUB: Barnes FOR Nowitzki,Substitution,,0,334
+21700024,454,PT00M10.90S,3,1610612758,SAC,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,v,SUB: Carter FOR Randolph,Substitution,,0,335
+21700024,455,PT00M10.90S,3,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,SUB: Hield FOR Fox,Substitution,,0,336
+21700024,456,PT00M08.20S,3,1610612758,SAC,1627741,Hield,B. Hield,85,215,23,Made,1,60.0,71.0,131,v,Hield 23' Jump Shot (13 PTS) (Temple 2 AST),Made Shot,Jump Shot,1,337
+21700024,461,PT00M08.20S,3,0,,456,Person,C. Person,0,0,0,,0,60.0,71.0,131,,Instant Replay3rd Period (10:11 PM EST),Instant Replay,Support Ruling,0,338
+21700024,457,PT00M01.60S,3,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,Barnes Lost Ball Turnover (P1.T11),Turnover,Lost Ball,1,339
+21700024,457,PT00M01.60S,3,1610612758,SAC,202066,Temple,G. Temple,0,0,0,,0,,,0,v,Temple STEAL (2 STL),,,1,340
+21700024,459,PT00M01.00S,3,1610612758,SAC,1626161,Cauley-Stein,W. Cauley-Stein,38,569,57,Missed,1,,,0,v,MISS Cauley-Stein 57' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,341
+21700024,460,PT00M01.00S,3,0,,1610612758,,,0,0,0,,0,,,0,v,Kings Rebound,Rebound,Unknown,0,342
+21700024,462,PT00M00.00S,3,0,,0,,,0,0,0,,0,60.0,71.0,131,,End of 3rd Period (10:13 PM EST),period,end,1,343
+21700024,471,PT12M00.00S,4,0,,0,,,0,0,0,,0,60.0,71.0,131,,Start of 4th Period (10:14 PM EST),period,start,0,344
+21700024,472,PT11M48.00S,4,1610612758,SAC,201585,Koufos,K. Koufos,0,0,0,,0,,,0,v,Koufos Lost Ball Turnover (P2.T12),Turnover,Lost Ball,1,345
+21700024,472,PT11M48.00S,4,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,,,0,h,Barea STEAL (1 STL),,,1,346
+21700024,475,PT11M36.00S,4,1610612758,SAC,1713,Carter,V. Carter,0,0,0,,0,,,0,v,Carter S.FOUL (P2.T1) (S.Twardoski),Foul,Shooting,1,347
+21700024,477,PT11M36.00S,4,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,61.0,71.0,132,h,Barnes Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,348
+21700024,478,PT11M36.00S,4,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,62.0,71.0,133,h,Barnes Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,349
+21700024,479,PT11M28.00S,4,1610612758,SAC,1628368,Fox,D. Fox,-52,57,8,Missed,1,,,0,v,MISS Fox 8' Jump Shot,Missed Shot,Jump Shot,1,350
+21700024,480,PT11M23.00S,4,1610612742,DAL,1628492,Clavell,G. Clavell,0,0,0,,0,,,0,h,Clavell REBOUND (Off:1 Def:1),Rebound,Unknown,1,351
+21700024,481,PT11M16.00S,4,1610612742,DAL,200826,Barea,J. Barea,52,35,6,Made,1,64.0,71.0,135,h,Barea 6' Driving Floating Bank Jump Shot (9 PTS),Made Shot,Driving Floating Bank Jump Shot,1,352
+21700024,482,PT11M11.00S,4,1610612758,SAC,1627741,Hield,B. Hield,-224,147,27,Missed,1,,,0,v,MISS Hield 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,353
+21700024,483,PT11M08.00S,4,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Rebound,Rebound,Unknown,0,354
+21700024,484,PT10M58.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,171,8,17,Made,1,66.0,71.0,137,h,Nowitzki 17' Fadeaway Jumper (10 PTS) (Barea 8 AST),Made Shot,Fadeaway Jump Shot,1,355
+21700024,486,PT10M36.00S,4,1610612758,SAC,1713,Carter,V. Carter,-45,62,8,Missed,1,,,0,v,MISS Carter 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,356
+21700024,487,PT10M31.00S,4,1610612758,SAC,201585,Koufos,K. Koufos,0,0,0,,0,,,0,v,Koufos REBOUND (Off:3 Def:1),Rebound,Unknown,1,357
+21700024,488,PT10M31.00S,4,1610612758,SAC,201585,Koufos,K. Koufos,0,-6,1,Missed,1,,,0,v,MISS Koufos 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,358
+21700024,489,PT10M31.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:0 Def:6),Rebound,Unknown,1,359
+21700024,490,PT10M26.00S,4,1610612742,DAL,1627827,Finney-Smith,D. Finney-Smith,228,0,0,Made,1,69.0,71.0,140,h,Finney-Smith 3PT Jump Shot (11 PTS) (Barea 9 AST),Made Shot,Jump Shot,1,360
+21700024,492,PT10M25.00S,4,0,,1610612758,,,0,0,0,,0,,,0,v,Kings Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,361
+21700024,494,PT10M25.00S,4,1610612758,SAC,1627741,Hield,B. Hield,0,0,0,,0,,,0,v,SUB: Labissiere FOR Hield,Substitution,,0,362
+21700024,495,PT10M10.00S,4,1610612758,SAC,1627746,Labissiere,S. Labissiere,-9,92,9,Missed,1,,,0,v,MISS Labissiere 9' Hook Shot,Missed Shot,Hook Shot,1,363
+21700024,496,PT10M07.00S,4,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,Barnes REBOUND (Off:1 Def:2),Rebound,Unknown,1,364
+21700024,497,PT09M53.00S,4,1610612742,DAL,1628492,Clavell,G. Clavell,187,190,27,Missed,1,,,0,h,MISS Clavell 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,365
+21700024,498,PT09M49.00S,4,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,Fox REBOUND (Off:1 Def:3),Rebound,Unknown,1,366
+21700024,499,PT09M44.00S,4,1610612758,SAC,1628368,Fox,D. Fox,-33,17,4,Missed,1,,,0,v,MISS Fox 4' Driving Layup,Missed Shot,Driving Layup Shot,1,367
+21700024,500,PT09M42.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:0 Def:7),Rebound,Unknown,1,368
+21700024,501,PT09M38.00S,4,1610612742,DAL,203084,Barnes,H. Barnes,160,211,26,Made,1,72.0,71.0,143,h,Barnes 26' 3PT Jump Shot (13 PTS) (Barea 10 AST),Made Shot,Jump Shot,1,369
+21700024,503,PT09M15.00S,4,1610612758,SAC,1627746,Labissiere,S. Labissiere,0,0,0,,0,,,0,v,Labissiere Traveling Turnover (P1.T13),Turnover,Traveling,1,370
+21700024,504,PT08M56.00S,4,1610612742,DAL,200826,Barea,J. Barea,-3,38,4,Missed,1,,,0,h,MISS Barea 4' Driving Layup,Missed Shot,Driving Layup Shot,1,371
+21700024,505,PT08M55.00S,4,1610612758,SAC,1627746,Labissiere,S. Labissiere,0,0,0,,0,,,0,v,Labissiere REBOUND (Off:1 Def:2),Rebound,Unknown,1,372
+21700024,506,PT08M46.00S,4,1610612758,SAC,1627746,Labissiere,S. Labissiere,57,181,19,Made,1,72.0,73.0,145,v,Labissiere 19' Jump Shot (8 PTS) (Fox 8 AST),Made Shot,Jump Shot,1,373
+21700024,508,PT08M24.00S,4,1610612742,DAL,203084,Barnes,H. Barnes,-25,25,4,Missed,1,,,0,h,MISS Barnes 4' Jump Shot,Missed Shot,Jump Shot,1,374
+21700024,509,PT08M22.00S,4,1610612758,SAC,1713,Carter,V. Carter,0,0,0,,0,,,0,v,Carter REBOUND (Off:0 Def:3),Rebound,Unknown,1,375
+21700024,510,PT08M09.00S,4,1610612758,SAC,201585,Koufos,K. Koufos,4,63,6,Missed,1,,,0,v,MISS Koufos 6' Jump Shot,Missed Shot,Jump Shot,1,376
+21700024,511,PT08M06.00S,4,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,Barnes REBOUND (Off:1 Def:3),Rebound,Unknown,1,377
+21700024,512,PT07M58.00S,4,1610612758,SAC,201585,Koufos,K. Koufos,0,0,0,,0,,,0,v,Koufos P.FOUL (P3.T2) (S.Twardoski),Foul,Personal,1,378
+21700024,514,PT07M47.00S,4,1610612742,DAL,200826,Barea,J. Barea,-163,199,26,Missed,1,,,0,h,MISS Barea 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,379
+21700024,515,PT07M42.00S,4,1610612758,SAC,1627746,Labissiere,S. Labissiere,0,0,0,,0,,,0,v,Labissiere REBOUND (Off:1 Def:3),Rebound,Unknown,1,380
+21700024,516,PT07M35.00S,4,1610612758,SAC,1628368,Fox,D. Fox,-116,67,13,Made,1,72.0,75.0,147,v,Fox 13' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,381
+21700024,518,PT07M10.00S,4,1610612742,DAL,200826,Barea,J. Barea,1,21,2,Missed,1,,,0,h,MISS Barea 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,382
+21700024,519,PT07M08.00S,4,1610612758,SAC,1627746,Labissiere,S. Labissiere,0,0,0,,0,,,0,v,Labissiere REBOUND (Off:1 Def:4),Rebound,Unknown,1,383
+21700024,520,PT06M59.00S,4,1610612758,SAC,202066,Temple,G. Temple,0,0,0,,0,,,0,v,Temple Traveling Turnover (P1.T14),Turnover,Traveling,1,384
+21700024,521,PT06M47.00S,4,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,Fox P.FOUL (P3.T3) (M.Smith),Foul,Personal,1,385
+21700024,525,PT06M47.00S,4,1610612742,DAL,1628492,Clavell,G. Clavell,0,0,0,,0,,,0,h,SUB: Matthews FOR Clavell,Substitution,,0,386
+21700024,526,PT06M47.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,SUB: Noel FOR Nowitzki,Substitution,,0,387
+21700024,528,PT06M47.00S,4,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,,,0,h,SUB: Ferrell FOR Barea,Substitution,,0,388
+21700024,529,PT06M34.00S,4,1610612742,DAL,203084,Barnes,H. Barnes,12,27,3,Made,1,74.0,75.0,149,h,Barnes 3' Driving Finger Roll Layup (15 PTS),Made Shot,Driving Finger Roll Layup Shot,1,389
+21700024,530,PT06M20.00S,4,1610612758,SAC,1628368,Fox,D. Fox,11,80,8,Missed,1,,,0,v,MISS Fox 8' Jump Shot,Missed Shot,Jump Shot,1,390
+21700024,531,PT06M17.00S,4,1610612742,DAL,203457,Noel,N. Noel,0,0,0,,0,,,0,h,Noel REBOUND (Off:1 Def:5),Rebound,Unknown,1,391
+21700024,532,PT06M12.00S,4,1610612742,DAL,203084,Barnes,H. Barnes,171,201,26,Missed,1,,,0,h,MISS Barnes 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,392
+21700024,533,PT06M09.00S,4,1610612758,SAC,201585,Koufos,K. Koufos,0,0,0,,0,,,0,v,Koufos REBOUND (Off:3 Def:2),Rebound,Unknown,1,393
+21700024,534,PT05M55.00S,4,1610612758,SAC,1713,Carter,V. Carter,222,80,24,Made,1,74.0,78.0,152,v,Carter 24' 3PT Jump Shot (6 PTS) (Fox 9 AST),Made Shot,Jump Shot,1,394
+21700024,537,PT05M33.00S,4,1610612742,DAL,1627827,Finney-Smith,D. Finney-Smith,230,19,0,Made,1,77.0,78.0,155,h,Finney-Smith 3PT Jump Shot (14 PTS) (Matthews 2 AST),Made Shot,Jump Shot,1,395
+21700024,539,PT05M12.00S,4,1610612758,SAC,201585,Koufos,K. Koufos,11,13,2,Made,1,77.0,80.0,157,v,Koufos 2' Alley Oop Layup (2 PTS) (Fox 10 AST),Made Shot,Alley Oop Layup shot,1,396
+21700024,541,PT04M51.00S,4,1610612742,DAL,202083,Matthews,W. Matthews,0,0,0,,0,,,0,h,Matthews Bad Pass Turnover (P4.T12),Turnover,Bad Pass,1,397
+21700024,541,PT04M51.00S,4,1610612758,SAC,201585,Koufos,K. Koufos,0,0,0,,0,,,0,v,Koufos STEAL (1 STL),,,1,398
+21700024,543,PT04M43.00S,4,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,Fox Bad Pass Turnover (P2.T15),Turnover,Bad Pass,1,399
+21700024,543,PT04M43.00S,4,1610612742,DAL,203457,Noel,N. Noel,0,0,0,,0,,,0,h,Noel STEAL (3 STL),,,1,400
+21700024,545,PT04M37.00S,4,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,401
+21700024,548,PT04M37.00S,4,1610612758,SAC,1627746,Labissiere,S. Labissiere,0,0,0,,0,,,0,v,SUB: G. Hill FOR Labissiere,Substitution,,0,402
+21700024,550,PT04M37.00S,4,1610612758,SAC,1713,Carter,V. Carter,0,0,0,,0,,,0,v,SUB: Randolph FOR Carter,Substitution,,0,403
+21700024,551,PT04M29.00S,4,1610612742,DAL,203084,Barnes,H. Barnes,138,116,18,Missed,1,,,0,h,MISS Barnes 18' Jump Shot,Missed Shot,Jump Shot,1,404
+21700024,552,PT04M27.00S,4,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,Fox REBOUND (Off:1 Def:4),Rebound,Unknown,1,405
+21700024,553,PT04M07.00S,4,1610612758,SAC,201588,Hill,G. Hill,-16,58,6,Made,1,77.0,82.0,159,v,G. Hill 6' Floating Jump Shot (16 PTS),Made Shot,Floating Jump shot,1,406
+21700024,554,PT03M46.00S,4,1610612742,DAL,203084,Barnes,H. Barnes,-147,40,15,Missed,1,,,0,h,MISS Barnes 15' Jump Shot,Missed Shot,Jump Shot,1,407
+21700024,555,PT03M43.00S,4,1610612758,SAC,201588,Hill,G. Hill,0,0,0,,0,,,0,v,G. Hill REBOUND (Off:1 Def:4),Rebound,Unknown,1,408
+21700024,556,PT03M23.00S,4,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,Barnes S.FOUL (P2.T1) (M.Smith),Foul,Shooting,1,409
+21700024,558,PT03M23.00S,4,1610612758,SAC,201585,Koufos,K. Koufos,0,0,0,,0,77.0,83.0,160,v,Koufos Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,410
+21700024,561,PT03M23.00S,4,1610612742,DAL,203457,Noel,N. Noel,0,0,0,,0,,,0,h,SUB: Nowitzki FOR Noel,Substitution,,0,411
+21700024,562,PT03M23.00S,4,1610612742,DAL,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,,,0,h,SUB: Barea FOR Finney-Smith,Substitution,,0,412
+21700024,563,PT03M23.00S,4,1610612758,SAC,201585,Koufos,K. Koufos,0,0,0,,0,,,0,v,MISS Koufos Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,413
+21700024,564,PT03M20.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:0 Def:8),Rebound,Unknown,1,414
+21700024,565,PT02M59.00S,4,1610612742,DAL,203084,Barnes,H. Barnes,-227,-1,0,Made,1,80.0,83.0,163,h,Barnes 3PT Jump Shot (18 PTS) (Nowitzki 2 AST),Made Shot,Jump Shot,1,415
+21700024,568,PT02M38.00S,4,1610612758,SAC,2216,Randolph,Z. Randolph,44,12,5,Made,1,80.0,85.0,165,v,Randolph 5' Turnaround Hook Shot (12 PTS),Made Shot,Turnaround Hook Shot,1,416
+21700024,569,PT02M15.00S,4,1610612742,DAL,203084,Barnes,H. Barnes,-8,19,2,Made,1,82.0,85.0,167,h,Barnes 2' Driving Reverse Layup (20 PTS),Made Shot,Driving Reverse Layup Shot,1,417
+21700024,570,PT02M15.00S,4,1610612758,SAC,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,v,Randolph S.FOUL (P1.T4) (B.Kennedy),Foul,Shooting,1,418
+21700024,573,PT02M15.00S,4,1610612758,SAC,201585,Koufos,K. Koufos,0,0,0,,0,,,0,v,SUB: Cauley-Stein FOR Koufos,Substitution,,0,419
+21700024,574,PT02M15.00S,4,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,83.0,85.0,168,h,Barnes Free Throw 1 of 1 (21 PTS),Free Throw,Free Throw 1 of 1,0,420
+21700024,605,PT02M15.00S,4,1610612758,SAC,202066,Temple,G. Temple,66,-14,7,Missed,1,,,0,v,MISS Temple 7' Driving Layup,Missed Shot,Driving Layup Shot,1,421
+21700024,605,PT02M15.00S,4,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,,,0,h,Barea BLOCK (1 BLK),,,1,422
+21700024,607,PT02M00.00S,4,0,,1610612758,,,0,0,0,,0,,,0,v,Kings Rebound,Rebound,Unknown,0,423
+21700024,576,PT01M59.00S,4,0,,583,,,0,0,0,,0,83.0,85.0,168,,Instant Replay4th Period (10:35 PM EST),Instant Replay,Overturn Ruling,0,424
+21700024,578,PT01M39.00S,4,1610612742,DAL,200826,Barea,J. Barea,14,252,25,Missed,1,,,0,h,MISS Barea 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,425
+21700024,579,PT01M33.00S,4,1610612758,SAC,202066,Temple,G. Temple,0,0,0,,0,,,0,v,Temple REBOUND (Off:1 Def:4),Rebound,Unknown,1,426
+21700024,581,PT01M25.00S,4,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,Barnes S.FOUL (P3.T2) (M.Smith),Foul,Shooting,1,427
+21700024,584,PT01M25.00S,4,1610612758,SAC,201588,Hill,G. Hill,0,0,0,,0,,,0,v,MISS G. Hill Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,428
+21700024,580,PT01M24.00S,4,1610612758,SAC,201588,Hill,G. Hill,-137,242,28,Made,1,83.0,88.0,171,v,G. Hill 28' 3PT Jump Shot (19 PTS),Made Shot,Jump Shot,1,429
+21700024,585,PT01M23.00S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,Nowitzki REBOUND (Off:0 Def:9),Rebound,Unknown,1,430
+21700024,586,PT01M17.00S,4,1610612758,SAC,1626161,Cauley-Stein,W. Cauley-Stein,0,0,0,,0,,,0,v,Cauley-Stein S.FOUL (P4.PN) (M.Smith),Foul,Shooting,1,431
+21700024,588,PT01M17.00S,4,1610612742,DAL,1627812,Ferrell,Y. Ferrell,0,0,0,,0,84.0,88.0,172,h,Ferrell Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,432
+21700024,589,PT01M17.00S,4,1610612742,DAL,1627812,Ferrell,Y. Ferrell,0,0,0,,0,85.0,88.0,173,h,Ferrell Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,433
+21700024,590,PT00M58.70S,4,1610612742,DAL,1627812,Ferrell,Y. Ferrell,0,0,0,,0,,,0,h,Ferrell S.FOUL (P3.PN) (B.Kennedy),Foul,Shooting,1,434
+21700024,592,PT00M58.70S,4,1610612758,SAC,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,v,MISS Randolph Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,435
+21700024,593,PT00M58.70S,4,0,,1610612758,,,0,0,0,,0,,,0,v,Kings Rebound,Rebound,Normal Rebound,0,436
+21700024,594,PT00M58.70S,4,1610612758,SAC,2216,Randolph,Z. Randolph,0,0,0,,0,85.0,89.0,174,v,Randolph Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,437
+21700024,595,PT00M49.80S,4,1610612758,SAC,1626161,Cauley-Stein,W. Cauley-Stein,0,0,0,,0,,,0,v,Cauley-Stein S.FOUL (P5.PN) (M.Smith),Foul,Shooting,1,438
+21700024,597,PT00M49.80S,4,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,86.0,89.0,175,h,Barnes Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,1,439
+21700024,599,PT00M49.80S,4,1610612742,DAL,1717,Nowitzki,D. Nowitzki,0,0,0,,0,,,0,h,SUB: Noel FOR Nowitzki,Substitution,,0,440
+21700024,601,PT00M49.80S,4,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,,,0,h,SUB: Finney-Smith FOR Barea,Substitution,,0,441
+21700024,602,PT00M49.80S,4,1610612742,DAL,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,MISS Barnes Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,442
+21700024,603,PT00M48.80S,4,1610612758,SAC,202066,Temple,G. Temple,0,0,0,,0,,,0,v,Temple REBOUND (Off:1 Def:5),Rebound,Unknown,1,443
+21700024,604,PT00M48.80S,4,0,,1610612758,,,0,0,0,,0,,,0,v,Kings Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,444
+21700024,609,PT00M48.80S,4,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,SUB: Hield FOR Fox,Substitution,,0,445
+21700024,610,PT00M34.90S,4,1610612758,SAC,2216,Randolph,Z. Randolph,158,18,16,Missed,1,,,0,v,MISS Randolph 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,446
+21700024,611,PT00M30.70S,4,1610612758,SAC,1627741,Hield,B. Hield,0,0,0,,0,,,0,v,Hield REBOUND (Off:1 Def:5),Rebound,Unknown,1,447
+21700024,612,PT00M17.00S,4,1610612758,SAC,201588,Hill,G. Hill,68,157,17,Made,1,86.0,91.0,177,v,G. Hill 17' Pullup Jump Shot (21 PTS),Made Shot,Pullup Jump shot,1,448
+21700024,613,PT00M16.40S,4,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,449
+21700024,617,PT00M16.40S,4,1610612742,DAL,203457,Noel,N. Noel,0,0,0,,0,,,0,h,SUB: Nowitzki FOR Noel,Substitution,,0,450
+21700024,618,PT00M16.40S,4,1610612742,DAL,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,,,0,h,SUB: Barea FOR Finney-Smith,Substitution,,0,451
+21700024,619,PT00M16.40S,4,1610612758,SAC,2216,Randolph,Z. Randolph,0,0,0,,0,,,0,v,SUB: Fox FOR Randolph,Substitution,,0,452
+21700024,620,PT00M12.50S,4,1610612742,DAL,203084,Barnes,H. Barnes,-21,8,2,Made,1,88.0,91.0,179,h,Barnes 2' Driving Floating Bank Jump Shot (24 PTS),Made Shot,Driving Floating Bank Jump Shot,1,453
+21700024,621,PT00M06.50S,4,1610612758,SAC,1626161,Cauley-Stein,W. Cauley-Stein,-7,16,2,Made,1,88.0,93.0,181,v,Cauley-Stein 2' Layup (10 PTS) (Temple 3 AST),Made Shot,Layup Shot,1,454
+21700024,623,PT00M06.50S,4,0,,1610612742,,,0,0,0,,0,,,0,h,MAVERICKS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,455
+21700024,625,PT00M06.50S,4,1610612742,DAL,200826,Barea,J. Barea,0,0,0,,0,,,0,h,SUB: Powell FOR Barea,Substitution,,0,456
+21700024,626,PT00M03.00S,4,1610612742,DAL,202083,Matthews,W. Matthews,-225,9,0,Missed,1,,,0,h,MISS Matthews 3PT Jump Shot,Missed Shot,Jump Shot,1,457
+21700024,627,PT00M03.00S,4,1610612758,SAC,1628368,Fox,D. Fox,0,0,0,,0,,,0,v,Fox REBOUND (Off:1 Def:5),Rebound,Unknown,1,458
+21700024,628,PT00M00.00S,4,0,,0,,,0,0,0,,0,88.0,93.0,181,,End of 4th Period (10:48 PM EST),period,end,1,459

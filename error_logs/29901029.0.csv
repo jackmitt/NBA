@@ -1,0 +1,12 @@
+game_id,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,actionId,clock_sec
+29901029,314,PT01M14.00S,3,1610612745,HOU,1509,Cato,K. Cato,0,0,0,,0,0.0,0.0,0,v,Cato REBOUND (Off:1 Def:0),Rebound,Unknown,0,313,2086.0
+29901029,315,PT01M14.00S,3,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,0,314,2086.0
+29901029,316,PT01M14.00S,3,1610612745,HOU,1509,Cato,K. Cato,0,0,0,,0,0.0,0.0,0,v,SUB: Mobley FOR Cato,Substitution,,0,315,2086.0
+29901029,317,PT01M00.00S,3,1610612750,MIN,693,Smith,J. Smith,121,10,12,Missed,1,0.0,0.0,0,h,MISS Smith 12' Hook Shot,Missed Shot,Hook Shot,0,316,2100.0
+29901029,318,PT00M59.80S,3,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Unknown,0,317,2100.2
+29901029,319,PT00M59.80S,3,1610612750,MIN,1725,Nesterovic,R. Nesterovic,0,0,0,,0,0.0,0.0,0,h,Nesterovic L.B.FOUL (P3.PN),Foul,Loose Ball,0,318,2100.2
+29901029,320,PT00M59.80S,3,1610612745,HOU,1903,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,v,MISS Thomas Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,319,2100.2
+29901029,321,PT00M59.80S,3,0,,1610612745,,,0,0,0,,0,0.0,0.0,0,v,Rockets Rebound,Rebound,Normal Rebound,0,320,2100.2
+29901029,322,PT00M59.80S,3,1610612750,MIN,1725,Nesterovic,R. Nesterovic,0,0,0,,0,0.0,0.0,0,h,SUB: Szczerbiak FOR Nesterovic,Substitution,,0,321,2100.2
+29901029,323,PT00M59.80S,3,1610612745,HOU,1903,Thomas,K. Thomas,0,0,0,,0,0.0,0.0,0,v,MISS Thomas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,322,2100.2
+29901029,324,PT00M59.80S,3,1610612750,MIN,693,Smith,J. Smith,0,0,0,,0,0.0,0.0,0,h,Smith REBOUND (Off:1 Def:9),Rebound,Unknown,0,323,2100.2
