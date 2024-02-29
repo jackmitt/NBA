@@ -333,7 +333,7 @@ def BHM_player_tracker(v):
     plt.gcf().set_size_inches(16,9)
     plt.savefig('./figures/pace/V'+str(v)+'_BHM_player_lu.png', dpi=100)
 
-def naive_eff_team():
+def naive_eff_player():
     df = pd.read_csv("./predictions/eff.csv").dropna()
 
     seasons = ""
@@ -439,26 +439,27 @@ def naive_eff_team():
     # ax.set_ylabel("Residual Eff")
     # fig.savefig("./figures/eff/bayes_0.25_resid_plot.png")
 
-def eff_team():
+def eff_player():
     t_data = []
     cols = []
-    for i in [0.25,0.5,0.75,1,1.25,1.5,1.75,2]:
-        df = pd.read_csv("./predictions/latent/player_eff_bhm_1_1.01_1.75_" + str(i) +".csv").dropna()
+    #for i in [0.25,0.5,0.75,1,1.25,1.5,1.75,2]:
+    i = 0.2
+    df = pd.read_csv("./predictions/latent/player_eff_bhm_1_1.01_1.75_0.75_" + str(i) +".csv").dropna()
 
-        seasons = ""
-        for yr in range(1998, 2003):
-            seasons += str(yr) + "-" + str(yr+1)[2:4]+"|"
-        df = df[df["season"].str.contains(seasons[:-1])]
+    seasons = ""
+    for yr in range(1998, 2003):
+        seasons += str(yr) + "-" + str(yr+1)[2:4]+"|"
+    df = df[df["season"].str.contains(seasons[:-1])]
 
-        methods = ["last_pred","cur_pred"]
-        cols.append("l_"+str(i))
-        cols.append("c_"+str(i))
+    methods = ["last_pred","cur_pred"]
+    cols.append("l_"+str(i))
+    cols.append("c_"+str(i))
 
-        for m in methods:
-            df[m+"_AE"] = (abs(df[m+'_h_eff'] - df["actual_h_eff"]) + abs(df[m+'_a_eff'] - df["actual_a_eff"])) / 2
-            df[m+"_SE"] = ((df[m+'_h_eff'] - df["actual_h_eff"])**2 + (df[m+'_a_eff'] - df["actual_a_eff"])**2) / 2
+    for m in methods:
+        df[m+"_AE"] = (abs(df[m+'_h_eff'] - df["actual_h_eff"]) + abs(df[m+'_a_eff'] - df["actual_a_eff"])) / 2
+        df[m+"_SE"] = ((df[m+'_h_eff'] - df["actual_h_eff"])**2 + (df[m+'_a_eff'] - df["actual_a_eff"])**2) / 2
 
-            t_data.append([df[m+"_AE"].mean(),df[m+"_SE"].mean()])
+        t_data.append([df[m+"_AE"].mean(),df[m+"_SE"].mean()])
         
     
     t_df = pd.DataFrame(
@@ -470,6 +471,61 @@ def eff_team():
     fig = go.Figure(go.Table(header={"values":t_df.reset_index().columns, "font":{"size":5}, "align":"left"},
                   cells={"values":t_df.reset_index().T, "align":"left", "font":{"size":7}}))
     
-    fig.write_image("./figures/eff/player_eff_bhm_table_b2b.png")
+    fig.write_image("./figures/eff/player_eff_bhm_table_usg.png")
 
-eff_team()
+def reb_pct_team():
+    t_data = []
+    cols = []
+    for i in [0.01,0.03,0.05,0.07,0.1,0.15,0.2]:
+        df = pd.read_csv("./predictions/latent/arma_oreb_pct_" + str(i) +".csv").dropna()
+
+        seasons = ""
+        for yr in range(1998, 2003):
+            seasons += str(yr) + "-" + str(yr+1)[2:4]+"|"
+        df = df[df["season"].str.contains(seasons[:-1])]
+
+        cols.append(str(i))
+
+        df["AE"] = (abs(df['pred_h_oreb_pct'] - df["actual_h_oreb_pct"]) + abs(df['pred_a_oreb_pct'] - df["actual_a_oreb_pct"])) / 2
+        df["SE"] = ((df['pred_h_oreb_pct'] - df["actual_h_oreb_pct"])**2 + (df['pred_a_oreb_pct'] - df["actual_a_oreb_pct"])**2) / 2
+
+        t_data.append([df["AE"].mean(),df["SE"].mean()])
+        
+    
+    t_df = pd.DataFrame(
+        index = ["Mean Absolute Error", "Mean Squared Error"],
+        columns = cols,
+        data = np.array(t_data).T
+    ).round(5)
+
+    fig = go.Figure(go.Table(header={"values":t_df.reset_index().columns, "font":{"size":5}, "align":"left"},
+                  cells={"values":t_df.reset_index().T, "align":"left", "font":{"size":7}}))
+    
+    fig.write_image("./figures/oreb_pct/arma_team_oreb_table.png")
+
+def usg_pct():
+    t_data = []
+    cols = []
+    for i in [1.01,1.03,1.05,1.07,1.1,1.13,1.15]:
+        df = pd.read_csv("./predictions/latent/bayes_usg_pct_0.1_" + str(i) +".csv").dropna()
+
+        cols.append(str(i))
+
+        df["AE"] = abs(df['pred_usg'] - df["actual_usg"])
+        df["SE"] = (df['pred_usg'] - df["actual_usg"])**2
+
+        t_data.append([df["AE"].mean(),df["SE"].mean()])
+        
+    
+    t_df = pd.DataFrame(
+        index = ["Mean Absolute Error", "Mean Squared Error"],
+        columns = cols,
+        data = np.array(t_data).T
+    ).round(5)
+
+    fig = go.Figure(go.Table(header={"values":t_df.reset_index().columns, "font":{"size":5}, "align":"left"},
+                  cells={"values":t_df.reset_index().T, "align":"left", "font":{"size":7}}))
+    
+    fig.write_image("./figures/usg/bayes_usg_table.png")
+
+eff_player()

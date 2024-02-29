@@ -331,9 +331,5 @@ def backtest_eval(model):
     calibration_curve_edge(pred,model)
 
        
-#backtest_bet('base_player_eff_bhm')
-#backtest_bet('player_eff_bhm_home_app_twice')
-#backtest_bet('player_eff_bhm_b2b')
-backtest_eval('base_player_eff_bhm')
-backtest_eval('player_eff_bhm_home_app_twice')
-backtest_eval('player_eff_bhm_b2b')
+backtest_bet('player_eff_bhm_usg')
+backtest_eval('player_eff_bhm_usg')

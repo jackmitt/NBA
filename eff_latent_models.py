@@ -1356,8 +1356,255 @@ def player_eff_bhm_fast(per_game_fatten, obs_sigma):
     games = pd.concat([games, fdf], axis=1)
     games.to_csv("./predictions/latent/player_eff_REAL_bhm_home.csv", index=False)
 
-player_eff_naive_bhm(1.01,1,0,0)
-player_eff_naive_bhm(1.01,1,1.75,0)
-player_eff_naive_bhm(1.01,1,1.75,0.75)
-# if __name__ == '__main__':
-#     player_eff_bhm_fast(1.01,1)
+def player_naive_bhm_usg(per_game_fatten, obs_sigma, home_adv, b2b_pen, arma_weight):
+    ### Hyperparams
+    start_mu = 52.5
+    start_sigma = 4
+    max_sigma = 10
+    #per_game_fatten = 1.05
+    #obs_sigma = 1
+    #per_season_fatten = 2
+    seed = 1
+
+    player_bs = pd.read_csv("./database/advanced_boxscores_players.csv")
+    team_bs = pd.read_csv("./database/advanced_boxscores_teams.csv")
+    games = pd.read_csv("./database/games.csv")
+    seasons = ""
+    for yr in range(1996, 2023):
+        seasons += str(yr) + "-" + str(yr+1)[2:4]+"|"
+    games = games[games["season"].str.contains(seasons[:-1])]
+    games = games[games["game_type"].str.contains("Regular Season|Playoffs")]
+    teams = games['h_team_id'].unique()
+    players = player_bs['player_id'].unique()
+    games['game_date'] = pd.to_datetime(games['game_date'])
+
+    player_bs['seconds'] = player_bs['minutes'].dropna().transform(lambda x: int(x.split(":")[0]) * 60 + int(x.split(":")[1]))
+
+    features = []
+
+    player_map = {}
+    player_team = {}
+    priors = [[],[],[],[]]
+    tracker = {}
+    usg = {}
+    for i in range(len(players)):
+        priors[0].append(start_mu)
+        priors[1].append(start_sigma)
+        priors[2].append(start_mu)
+        priors[3].append(start_sigma)
+        player_map[players[i]] = i
+        player_team[players[i]] = -1
+        tracker[players[i]] = {}
+        usg[players[i]] = 0.2
+    priors[0] = np.array(priors[0], dtype='float')
+    priors[1] = np.array(priors[1], dtype='float')
+    priors[2] = np.array(priors[0], dtype='float')
+    priors[3] = np.array(priors[1], dtype='float')
+
+
+    last_lineup = {}
+    cur_lineup = {}
+    expected_off_eff = {}
+    expected_def_eff = {}
+    last_game = {}
+    for team in teams:
+        last_lineup[team] = {}
+        cur_lineup[team] = {}
+        expected_off_eff[team] = 50
+        expected_def_eff[team] = 50
+        last_game[team] = datetime.datetime(1800,1,1)
+
+    for date in tqdm(games['game_date'].unique()):
+        game_ids = games.loc[games['game_date']==date,]['game_id'].unique()       
+        
+        p_ids=[]
+        p_sec_inv=[]
+        opp_team_ids=[]
+        obs = []
+        off_def = []
+
+        for gid in game_ids:
+            cur_game = player_bs.loc[player_bs["game_id"] == gid,].dropna().reset_index()
+            cur_season = games.loc[games["game_id"] == gid, ]["season"].to_list()[0]
+            team_game = team_bs.loc[team_bs["game_id"] == gid,].reset_index()
+
+
+            try:
+                #team_pace = team_game.at[0,"pace"]
+                h_team_eff = team_game.at[0,'offensiveRating']
+                a_team_eff = team_game.at[1,'offensiveRating']
+            except:
+                if (cur_season != "1996-97"):
+                    cur_f = {}
+                    features.append(cur_f)
+                continue
+
+            h_id = cur_game['team_id'].unique()[0]
+            a_id = cur_game['team_id'].unique()[1]
+
+            if ((date-last_game[h_id]).days == 1):
+                h_b2b = True
+            else:
+                h_b2b = False
+
+            if ((date-last_game[a_id]).days == 1):
+                a_b2b = True
+            else:
+                a_b2b = False
+            
+            last_game[h_id] = date
+            last_game[a_id] = date
+
+            cur_game_h = cur_game.loc[cur_game['team_id']==h_id,]
+            cur_game_a = cur_game.loc[cur_game['team_id']==a_id,]
+
+            total_sec = cur_game.loc[cur_game['team_id'] == h_id, ]['seconds'].sum()
+
+            avg_h_off_player_eff = (cur_game_h['seconds'] * cur_game_h['offensiveRating']).sum() / (cur_game_h['seconds'].sum())
+            avg_a_off_player_eff = (cur_game_a['seconds'] * cur_game_a['offensiveRating']).sum() / (cur_game_a['seconds'].sum())
+            avg_h_def_player_eff = (cur_game_h['seconds'] * cur_game_h['defensiveRating']).sum() / (cur_game_h['seconds'].sum())
+            avg_a_def_player_eff = (cur_game_a['seconds'] * cur_game_a['defensiveRating']).sum() / (cur_game_a['seconds'].sum())
+
+            for x in [h_id, a_id]:
+                cur_lineup[x] = {}
+                expected_off_eff[x] = 0
+                expected_def_eff[x] = 0
+                for index, row in cur_game.loc[cur_game['team_id'] == x, ].iterrows():
+                    cur_lineup[x][row['player_id']] = row['seconds']/total_sec
+
+                    expected_off_eff[x] += (row['seconds']/total_sec) * priors[0][player_map[row['player_id']]]
+
+                    p_ids.append(player_map[row['player_id']])
+                    if (row['seconds'] != 0):
+                        p_sec_inv.append(((total_sec/5) / row['seconds']))
+                    else:
+                        p_sec_inv.append(100)
+                    if (x == h_id):
+                        opp_team_ids.append(a_id)
+                    else:
+                        opp_team_ids.append(h_id)
+                    if (x == h_id):
+                        obs.append(row['offensiveRating'] * h_team_eff/avg_h_off_player_eff - home_adv)
+                        if (h_b2b):
+                            obs[-1] += b2b_pen
+                        if (a_b2b):
+                            obs[-1] -= b2b_pen
+                    else:
+                        obs.append(row['offensiveRating'] * a_team_eff/avg_a_off_player_eff + home_adv)
+                        if (h_b2b):
+                            obs[-1] -= b2b_pen
+                        if (a_b2b):
+                            obs[-1] += b2b_pen
+                    off_def.append('off')
+
+                    expected_def_eff[x] += (row['seconds']/total_sec) * priors[2][player_map[row['player_id']]]
+
+                    p_ids.append(player_map[row['player_id']])
+                    if (row['seconds'] != 0):
+                        p_sec_inv.append(((total_sec/5) / row['seconds']))
+                    else:
+                        p_sec_inv.append(100)
+                    if (x == h_id):
+                        opp_team_ids.append(a_id)
+                    else:
+                        opp_team_ids.append(h_id)
+                    if (x == h_id):
+                        obs.append(row['defensiveRating'] * a_team_eff/avg_h_def_player_eff + home_adv)
+                        if (h_b2b):
+                            obs[-1] -= b2b_pen
+                        if (a_b2b):
+                            obs[-1] += b2b_pen
+                    else:
+                        obs.append(row['defensiveRating'] * h_team_eff/avg_a_def_player_eff - home_adv)
+                        if (h_b2b):
+                            obs[-1] += b2b_pen
+                        if (a_b2b):
+                            obs[-1] -= b2b_pen
+                    off_def.append('def')
+
+    
+            cur_f = {'last_pred_h_eff':home_adv,'cur_pred_h_eff':home_adv,'last_pred_a_eff':-home_adv,'cur_pred_a_eff':-home_adv}
+            if (h_b2b):
+                cur_f['last_pred_h_eff'] -= b2b_pen
+                cur_f['cur_pred_h_eff'] -= b2b_pen
+                cur_f['last_pred_a_eff'] += b2b_pen
+                cur_f['cur_pred_a_eff'] += b2b_pen
+            if (a_b2b):
+                cur_f['last_pred_a_eff'] -= b2b_pen
+                cur_f['cur_pred_a_eff'] -= b2b_pen
+                cur_f['last_pred_h_eff'] += b2b_pen
+                cur_f['cur_pred_h_eff'] += b2b_pen
+            if (cur_season != "1996-97"):
+                for x in [h_id,a_id]:
+                    usg_time_weight = {}
+                    total = 0
+                    for z in cur_lineup[x]:
+                        usg_time_weight[z] = cur_lineup[x][z]*usg[z]
+                        total += cur_lineup[x][z]*usg[z]
+                    for z in usg_time_weight:
+                        usg_time_weight[z] = usg_time_weight[z] / total
+                    for z in cur_lineup[x]:
+                        if (x == h_id):
+                            cur_f['cur_pred_h_eff'] += usg_time_weight[z] * priors[0][player_map[z]]
+                            cur_f['cur_pred_a_eff'] += cur_lineup[x][z] * priors[2][player_map[z]]
+                        else:
+                            cur_f['cur_pred_a_eff'] += usg_time_weight[z] * priors[0][player_map[z]]
+                            cur_f['cur_pred_h_eff'] += cur_lineup[x][z] * priors[2][player_map[z]]
+
+                    usg_time_weight = {}
+                    total = 0
+                    for z in last_lineup[x]:
+                        usg_time_weight[z] = last_lineup[x][z]*usg[z]
+                        total += last_lineup[x][z]*usg[z]
+                    for z in usg_time_weight:
+                        usg_time_weight[z] = usg_time_weight[z] / total
+                    for z in last_lineup[x]:
+                        if (x == h_id):
+                            cur_f['last_pred_h_eff'] += usg_time_weight[z] * priors[0][player_map[z]]
+                            cur_f['last_pred_a_eff'] += last_lineup[x][z] * priors[2][player_map[z]]
+                        else:
+                            cur_f['last_pred_a_eff'] += usg_time_weight[z] * priors[0][player_map[z]]
+                            cur_f['last_pred_h_eff'] += last_lineup[x][z] * priors[2][player_map[z]]
+            
+                cur_f["actual_h_eff"] = h_team_eff
+                cur_f["actual_a_eff"] = a_team_eff   
+                features.append(cur_f)
+
+            last_lineup[h_id] = {}
+            for index, row in cur_game.loc[cur_game['team_id'] == h_id, ].iterrows():
+                last_lineup[h_id][row['player_id']] = row['seconds']/total_sec
+                time_played = row['seconds'] / total_sec
+                usg[row['player_id']] += (row['usagePercentage'] - usg[row['player_id']]) * arma_weight * time_played
+            last_lineup[a_id] = {}
+            for index, row in cur_game.loc[cur_game['team_id'] == a_id, ].iterrows():
+                last_lineup[a_id][row['player_id']] = row['seconds']/total_sec
+                time_played = row['seconds'] / total_sec
+                usg[row['player_id']] += (row['usagePercentage'] - usg[row['player_id']]) * arma_weight * time_played
+
+
+        opp_off_eff = []
+        opp_def_eff = []
+        for opp_id in opp_team_ids:
+            opp_off_eff.append(expected_off_eff[opp_id])
+            opp_def_eff.append(expected_def_eff[opp_id])
+
+        for i in range(len(p_ids)):
+            if (p_sec_inv[i] > 25):
+                continue
+            if (off_def[i] == 'off'):
+                priors[0][p_ids[i]] = (priors[0][p_ids[i]]*(p_sec_inv[i]*obs_sigma)**2 + (obs[i] - opp_def_eff[i])*priors[1][p_ids[i]]**2) / (priors[1][p_ids[i]]**2 + (p_sec_inv[i]*obs_sigma)**2)
+                priors[1][p_ids[i]] = min(math.sqrt((priors[1][p_ids[i]]**2*(p_sec_inv[i]*obs_sigma)**2) / (priors[1][p_ids[i]]**2 + (p_sec_inv[i]*obs_sigma)**2)) * per_game_fatten, max_sigma)
+            else:
+                priors[2][p_ids[i]] = (priors[2][p_ids[i]]*(p_sec_inv[i]*obs_sigma)**2 + (obs[i] - opp_off_eff[i])*priors[3][p_ids[i]]**2) / (priors[3][p_ids[i]]**2 + (p_sec_inv[i]*obs_sigma)**2)
+                priors[3][p_ids[i]] = min(math.sqrt((priors[3][p_ids[i]]**2*(p_sec_inv[i]*obs_sigma)**2) / (priors[3][p_ids[i]]**2 + (p_sec_inv[i]*obs_sigma)**2)) * per_game_fatten, max_sigma)
+
+    seasons = ""
+    for yr in range(1997, 2023):
+        seasons += str(yr) + "-" + str(yr+1)[2:4]+"|"
+    games = games[games["season"].str.contains(seasons[:-1])].reset_index()
+    
+    print (games)
+    fdf = pd.DataFrame(features)
+    print  (fdf)
+    games = pd.concat([games, fdf], axis=1)
+    games.to_csv("./predictions/latent/player_eff_bhm_"+str(obs_sigma)+"_"+str(per_game_fatten)+"_"+str(home_adv)+"_"+str(b2b_pen)+"_"+str(arma_weight)+".csv", index=False)

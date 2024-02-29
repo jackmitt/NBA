@@ -1,0 +1,28 @@
+define("discourse/plugins/discourse-deprecation-collector/discourse/api-initializers/init-deprecation-collector",["exports","discourse/lib/api"],(function(e,t){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0
+e.default=(0,t.apiInitializer)("0.8",(e=>{e.container.lookup("service:deprecation-collector")}))})),define("discourse/plugins/discourse-deprecation-collector/discourse/services/deprecation-collector",["exports","@ember/debug","@ember/runloop","@ember/service","discourse/lib/source-identifier","discourse-common/lib/debounce","discourse-common/lib/deprecated","discourse-common/lib/get-url","discourse-common/utils/decorators"],(function(e,t,i,r,o,n,l,a,s){"use strict"
+var c,d,u,p,b
+function f(e,t,i){(function(e,t){if(t.has(e))throw new TypeError("Cannot initialize the same private elements twice on an object")})(e,t),t.set(e,i)}function h(e,t,i){return function(e,t,i){if(t.set)t.set.call(e,i)
+else{if(!t.writable)throw new TypeError("attempted to set read only private field")
+t.value=i}}(e,v(e,t,"set"),i),i}function y(e,t){return function(e,t){if(t.get)return t.get.call(e)
+return t.value}(e,v(e,t,"get"))}function v(e,t,i){if(!t.has(e))throw new TypeError("attempted to "+i+" private field on non-instance")
+return t.get(e)}function w(e,t,i,r,o){var n={}
+return Object.keys(r).forEach((function(e){n[e]=r[e]})),n.enumerable=!!n.enumerable,n.configurable=!!n.configurable,("value"in n||n.initializer)&&(n.writable=!0),n=i.slice().reverse().reduce((function(i,r){return r(e,t,i)||i}),n),o&&void 0!==n.initializer&&(n.value=n.initializer?n.initializer.call(o):void 0,n.initializer=void 0),void 0===n.initializer&&(Object.defineProperty(e,t,n),n=null),n}let g
+Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0,(0,t.registerDeprecationHandler)(((e,t,i)=>(g?.(e,t),i(e,t)))),(0,l.registerDeprecationHandler)(((e,t)=>g?.(e,t)))
+e.default=(u=new WeakMap,p=new WeakMap,b=new WeakMap,c=class extends r.default{constructor(){var e,t,i,r
+super(...arguments),e=this,t="router",r=this,(i=d)&&Object.defineProperty(e,t,{enumerable:i.enumerable,configurable:i.configurable,writable:i.writable,value:i.initializer?i.initializer.call(r):void 0}),f(this,u,{writable:!0,value:new Map}),f(this,p,{writable:!0,value:new Map}),f(this,b,{writable:!0,value:void 0}),g=this.track
+const o=window.deprecationWorkflow?.config?.workflow||{}
+for(const n of o)y(this,u).set(n.matchId,n.handler)
+document.addEventListener("visibilitychange",this.handleVisibilityChanged),this.router.on("routeWillChange",this.debouncedReport)}willDestroy(){g=null,window.removeEventListener("visibilitychange",this.handleVisibilityChanged),this.router.off("routeWillChange",this.debouncedReport),(0,i.cancel)(y(this,b)),super.willDestroy()}handleVisibilityChanged(){"visible"!==document.visibilityState&&this.report()}track(e,t){if("silence"===y(this,u).get(t.id))return
+if("browser-extension"===(0,o.default)()?.type)return
+let i=y(this,p).get(t.id)||0
+i+=1,y(this,p).set(t.id,i)}debouncedReport(){h(this,b,(0,n.default)(this.report,1e4))}report(){if((0,i.cancel)(y(this,b)),0===y(this,p).size)return
+const e=Object.fromEntries(y(this,p).entries())
+y(this,p).clear()
+const t=new FormData
+t.append("data",JSON.stringify(e)),navigator.sendBeacon((0,a.default)("/deprecation-collector/log"),t)}},d=w(c.prototype,"router",[r.inject],{configurable:!0,enumerable:!0,writable:!0,initializer:null}),w(c.prototype,"handleVisibilityChanged",[s.bind],Object.getOwnPropertyDescriptor(c.prototype,"handleVisibilityChanged"),c.prototype),w(c.prototype,"track",[s.bind],Object.getOwnPropertyDescriptor(c.prototype,"track"),c.prototype),w(c.prototype,"debouncedReport",[s.bind],Object.getOwnPropertyDescriptor(c.prototype,"debouncedReport"),c.prototype),w(c.prototype,"report",[s.bind],Object.getOwnPropertyDescriptor(c.prototype,"report"),c.prototype),c)}))
+
+//# sourceMappingURL=discourse-deprecation-collector-52800742812539c4369c2b208acae973f094f9239b18872531f68c0a57496b89.map
+//!
+
+;
