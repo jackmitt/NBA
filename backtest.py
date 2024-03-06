@@ -156,9 +156,14 @@ def edge(row, spread_total, open_close, pred_actual):
         elif (row[open_close+'_'+spread_total+'_result'] == 'P'):
             return (0)
 
-def bankroll_growth_graph(pred, model, start_br=10000, kelly_div = 10):
+def bankroll_growth_graph(pred, model, playoff_reg, start_br=10000, kelly_div = 10):
     if (not os.path.exists('./figures/betting/' + model)):
         os.mkdir('./figures/betting/' + model)
+    
+    if (playoff_reg == 'reg'):
+        pred = pred[pred["game_type"].str.contains('Regular Season')].reset_index(drop=True)
+    else:
+        pred = pred[pred["game_type"].str.contains('Playoffs')].reset_index(drop=True)
     
     for x in ['open','close']:
         for y in ['spread','total']:
@@ -191,15 +196,20 @@ def bankroll_growth_graph(pred, model, start_br=10000, kelly_div = 10):
             plt.plot(bet_num, bankroll)
             plt.xlabel("Bet Number")
             plt.ylabel("Bankroll $")
-            plt.title("Growth of $" + str(start_br) + " on " + y.capitalize() + " Bets at " + x.capitalize() + " From 2007-08 through 2018-19", fontsize=17)
+            plt.title("Growth of $" + str(start_br) + " on " + y.capitalize() + " Bets at " + x.capitalize() + " From 2014-15 through 2018-19", fontsize=17)
             plt.figtext(0.75,0.85,"Return per Bet: "+str((net_win/total_bet).round(3)), fontsize=15)
             if (x=='open'):
                 plt.figtext(0.13,0.85,"Avg Weighted Line Movement: "+str((weight_lm/total_bet).round(3)), fontsize=15)
             plt.gcf().set_size_inches(16,9)
-            plt.savefig('./figures/betting/' + model + '/' + x + '_' + y + '_bankroll.png', dpi=100)
+            plt.savefig('./figures/betting/' + model + '/' + playoff_reg + '_' + x + '_' + y + '_bankroll.png', dpi=100)
             plt.clf()
 
-def calibration_curve_edge(pred, model):
+def calibration_curve_edge(pred, model, playoff_reg):
+    if (playoff_reg == 'reg'):
+        pred = pred[pred["game_type"].str.contains('Regular Season')].reset_index(drop=True)
+    else:
+        pred = pred[pred["game_type"].str.contains('Playoffs')].reset_index(drop=True)
+
     for x in ['open','close']:
         for y in ['spread','total']:
             pred_edge = list(pred['pred_'+x+'_'+y+'_edge'])
@@ -226,7 +236,7 @@ def calibration_curve_edge(pred, model):
             ax.scatter(binned_pred, binned_actual, s=binned_n, alpha = 0.5)
             plt.xlabel("Predicted Edge")
             plt.ylabel("Actual Edge")
-            plt.title("Calibration Curve for " + y.capitalize() + " Bets at " + x.capitalize() + " From 2007-08 through 2018-19", fontsize=17)
+            plt.title("Calibration Curve for " + y.capitalize() + " Bets at " + x.capitalize() + " From 2014-15 through 2018-19", fontsize=17)
             plt.ylim(-0.1,0.25)
             plt.figtext(0.81,0.86,"Correct Calibration", fontsize=10, c="g")
             plt.figtext(0.81,0.84,"Minimum Breakeven", fontsize=10, c="b")
@@ -235,13 +245,13 @@ def calibration_curve_edge(pred, model):
             ax.axline((0, 0), slope=0, c="b")
             ax.axline((0, 0), slope=1, c="g")
             plt.gcf().set_size_inches(16,9)
-            plt.savefig('./figures/betting/' + model + '/' + x + '_' + y + '_calibration_curve.png', dpi=100)
+            plt.savefig('./figures/betting/' + model + '/' + playoff_reg + '_' + x + '_' + y + '_calibration_curve.png', dpi=100)
             plt.clf()
 
 
 
 #takes the name of the model; file with the name must exist in /predictions/betting/pre_bet/
-#2007-08 thru 2018-19
+#2014-15 thru 2018-19
 def backtest_bet(model):
     odds = pd.read_csv('./database/odds.csv')
     pred = pd.read_csv('./predictions/betting/pre_bet/' + model + '.csv')
@@ -253,7 +263,7 @@ def backtest_bet(model):
     odds = odds.drop(columns=drop_cols)
 
     seasons = ""
-    for yr in range(2007, 2019):
+    for yr in range(2014, 2019):
         seasons += str(yr) + "-" + str(yr+1)[2:4]+"|"
     pred = pred[pred["season"].str.contains(seasons[:-1])]
     
@@ -315,7 +325,7 @@ def backtest_bet(model):
     pred.to_csv("./predictions/betting/post_bet/"+model+".csv", index=False)
     
 
-def backtest_eval(model):
+def backtest_eval(model,playoff_reg):
     pred = pd.read_csv('predictions/betting/post_bet/'+model+'.csv')
     pred['actual_spread'] = pred['h_score'] - pred['a_score']
     pred['actual_total'] = pred['h_score'] + pred['a_score']
@@ -327,9 +337,11 @@ def backtest_eval(model):
             for z in ['pred','actual']:
                 pred[z+'_'+x+'_'+y+'_edge'] = pred.apply(edge, args=(y,x,z),axis=1)
     
-    bankroll_growth_graph(pred,model)
-    calibration_curve_edge(pred,model)
+    bankroll_growth_graph(pred,model,playoff_reg)
+    calibration_curve_edge(pred,model,playoff_reg)
 
-       
-backtest_bet('player_eff_bhm_usg')
-backtest_eval('player_eff_bhm_usg')
+ 
+backtest_bet('first_xgb')
+backtest_eval('first_xgb','reg')
+backtest_bet('second_xgb')
+backtest_eval('second_xgb','reg')

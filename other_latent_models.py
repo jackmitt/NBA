@@ -464,6 +464,7 @@ def team_reb_pct_arma(weight):
     # plt.hist(priors[3])
     # plt.show()
 
+#0.2 is optimal
 def usg_pct_arma(weight):
     player_bs = pd.read_csv("./database/advanced_boxscores_players.csv")
     team_bs = pd.read_csv("./database/traditional_boxscores_teams.csv")
@@ -1289,8 +1290,245 @@ def team_ftr_defense(per_game_fatten_beta, per_season_fatten_beta):
     print (per_season_fatten_beta)
     return (np.mean(abs_error))
 
+#optimal is 0.85, 0.2
+def usg_3pt(per_game_fatten_beta, per_season_fatten_beta):
+    player_bs = pd.read_csv("./database/traditional_boxscores_players.csv")
+    team_bs = pd.read_csv("./database/traditional_boxscores_teams.csv")
+    games = pd.read_csv("./database/games.csv")
+    seasons = ""
+    for yr in range(1996, 2003):
+        seasons += str(yr) + "-" + str(yr+1)[2:4]+"|"
+    games = games[games["season"].str.contains(seasons[:-1])]
+    games = games[games["game_type"].str.contains("Regular Season|Playoffs")]
+    teams = games['h_team_id'].unique()
+    players = player_bs['player_id'].unique()
+    games['game_date'] = pd.to_datetime(games['game_date'])
+
+    #player_bs['seconds'] = player_bs['minutes'].dropna().transform(lambda x: int(x.split(":")[0]) * 60 + int(x.split(":")[1]))
+
+    features = []
+
+    priors = {}
+    for i in (players):
+        priors[i] = [0,0]
+
+    last_game_season = -1
+    abs_error = []
+    for date in tqdm(games['game_date'].unique()):
+        game_ids = games.loc[games['game_date']==date,]['game_id'].unique()       
+
+        for gid in game_ids:
+            cur_game = player_bs.loc[player_bs["game_id"] == gid,].dropna().reset_index()
+            cur_season = games.loc[games["game_id"] == gid, ]["season"].to_list()[0]
+            team_game = team_bs.loc[team_bs["game_id"] == gid,].reset_index()
+
+            if (last_game_season != cur_season and last_game_season != -1):
+                for player in players:
+                    priors[player][0] *= per_season_fatten_beta
+                    priors[player][1] *= per_season_fatten_beta
+            last_game_season = cur_season
+            
+
+            try:
+                #pace_test = cur_game.at[0,"pace"]
+                h_id = team_game['team_id'].unique()[0]
+                a_id = team_game['team_id'].unique()[1]
+            except:
+                if (cur_season != "1996-97"):
+                    cur_f = {}
+                    features.append(cur_f)
+                continue
+            
+            #total_sec = cur_game.loc[cur_game['team_id'] == h_id, ]['seconds'].sum() / 5
+
+            for x in [h_id,a_id]:
+                cur_side = cur_game.loc[cur_game['team_id']==x,].reset_index(drop=True)
+                total_attempted = cur_side['threePointersAttempted'].sum()
+                for index, row in cur_side.iterrows():
+                    cur_f = {'game_id':row['game_id'],'player_id':row['player_id'],'team_id':row['team_id'],'minutes':row['minutes']}
+                    if (priors[row['player_id']][1] + priors[row['player_id']][0] > 0):
+                        cur_f['pred_3pt_usg'] = priors[row['player_id']][0] / (priors[row['player_id']][1] + priors[row['player_id']][0])
+                    if (total_attempted > 0 and (priors[row['player_id']][1] + priors[row['player_id']][0] > 0)):
+                        cur_f['actual_3pt_usg'] = (row['threePointersAttempted']) / (total_attempted)
+                        abs_error.append(abs(cur_f['actual_3pt_usg'] - cur_f['pred_3pt_usg']))
+                    if (cur_season != "1996-97"):
+                        features.append(cur_f)
+
+                    #Update
+                    priors[row['player_id']][0] += row['threePointersAttempted']
+                    priors[row['player_id']][1] += total_attempted - row['threePointersAttempted']
+
+                    priors[row['player_id']][0] *= per_game_fatten_beta
+                    priors[row['player_id']][1] *= per_game_fatten_beta
+        
+    fdf = pd.DataFrame(features)
+
+    fdf.to_csv("./predictions/latent/bayes_3pt_usg_" + str(per_game_fatten_beta) + "_" + str(per_season_fatten_beta) + ".csv", index=False)
+    print (np.mean(abs_error))
+    print (per_game_fatten_beta)
+    print (per_season_fatten_beta)
+    return (np.mean(abs_error))
+
+#optimal is 0.85, 0.2
+def usg_2pt(per_game_fatten_beta, per_season_fatten_beta):
+    player_bs = pd.read_csv("./database/traditional_boxscores_players.csv")
+    team_bs = pd.read_csv("./database/traditional_boxscores_teams.csv")
+    games = pd.read_csv("./database/games.csv")
+    seasons = ""
+    for yr in range(1996, 2003):
+        seasons += str(yr) + "-" + str(yr+1)[2:4]+"|"
+    games = games[games["season"].str.contains(seasons[:-1])]
+    games = games[games["game_type"].str.contains("Regular Season|Playoffs")]
+    teams = games['h_team_id'].unique()
+    players = player_bs['player_id'].unique()
+    games['game_date'] = pd.to_datetime(games['game_date'])
+
+    #player_bs['seconds'] = player_bs['minutes'].dropna().transform(lambda x: int(x.split(":")[0]) * 60 + int(x.split(":")[1]))
+
+    features = []
+
+    priors = {}
+    for i in (players):
+        priors[i] = [0,0]
+
+    last_game_season = -1
+    abs_error = []
+    for date in tqdm(games['game_date'].unique()):
+        game_ids = games.loc[games['game_date']==date,]['game_id'].unique()       
+
+        for gid in game_ids:
+            cur_game = player_bs.loc[player_bs["game_id"] == gid,].dropna().reset_index()
+            cur_season = games.loc[games["game_id"] == gid, ]["season"].to_list()[0]
+            team_game = team_bs.loc[team_bs["game_id"] == gid,].reset_index()
+
+            if (last_game_season != cur_season and last_game_season != -1):
+                for player in players:
+                    priors[player][0] *= per_season_fatten_beta
+                    priors[player][1] *= per_season_fatten_beta
+            last_game_season = cur_season
+            
+
+            try:
+                #pace_test = cur_game.at[0,"pace"]
+                h_id = team_game['team_id'].unique()[0]
+                a_id = team_game['team_id'].unique()[1]
+            except:
+                if (cur_season != "1996-97"):
+                    cur_f = {}
+                    features.append(cur_f)
+                continue
+            
+            #total_sec = cur_game.loc[cur_game['team_id'] == h_id, ]['seconds'].sum() / 5
+
+            for x in [h_id,a_id]:
+                cur_side = cur_game.loc[cur_game['team_id']==x,].reset_index(drop=True)
+                total_attempted = cur_side['fieldGoalsAttempted'].sum() - cur_side['threePointersAttempted'].sum()
+                for index, row in cur_side.iterrows():
+                    cur_f = {'game_id':row['game_id'],'player_id':row['player_id'],'team_id':row['team_id'],'minutes':row['minutes']}
+                    if (priors[row['player_id']][1] + priors[row['player_id']][0] > 0):
+                        cur_f['pred_2pt_usg'] = priors[row['player_id']][0] / (priors[row['player_id']][1] + priors[row['player_id']][0])
+                    if (total_attempted > 0 and (priors[row['player_id']][1] + priors[row['player_id']][0] > 0)):
+                        cur_f['actual_2pt_usg'] = (row['fieldGoalsAttempted'] - row['threePointersAttempted']) / (total_attempted)
+                        abs_error.append(abs(cur_f['actual_2pt_usg'] - cur_f['pred_2pt_usg']))
+                    if (cur_season != "1996-97"):
+                        features.append(cur_f)
+
+                    #Update
+                    priors[row['player_id']][0] += row['fieldGoalsAttempted'] - row['threePointersAttempted']
+                    priors[row['player_id']][1] += total_attempted - (row['fieldGoalsAttempted'] - row['threePointersAttempted'])
+
+                    priors[row['player_id']][0] *= per_game_fatten_beta
+                    priors[row['player_id']][1] *= per_game_fatten_beta
+        
+    fdf = pd.DataFrame(features)
+
+    fdf.to_csv("./predictions/latent/bayes_2pt_usg_" + str(per_game_fatten_beta) + "_" + str(per_season_fatten_beta) + ".csv", index=False)
+    print (np.mean(abs_error))
+    print (per_game_fatten_beta)
+    print (per_season_fatten_beta)
+    return (np.mean(abs_error))
+
+#optimal is 0.85, 0.2
+def usg_fg(per_game_fatten_beta, per_season_fatten_beta):
+    player_bs = pd.read_csv("./database/traditional_boxscores_players.csv")
+    team_bs = pd.read_csv("./database/traditional_boxscores_teams.csv")
+    games = pd.read_csv("./database/games.csv")
+    seasons = ""
+    for yr in range(1996, 2003):
+        seasons += str(yr) + "-" + str(yr+1)[2:4]+"|"
+    games = games[games["season"].str.contains(seasons[:-1])]
+    games = games[games["game_type"].str.contains("Regular Season|Playoffs")]
+    teams = games['h_team_id'].unique()
+    players = player_bs['player_id'].unique()
+    games['game_date'] = pd.to_datetime(games['game_date'])
+
+    #player_bs['seconds'] = player_bs['minutes'].dropna().transform(lambda x: int(x.split(":")[0]) * 60 + int(x.split(":")[1]))
+
+    features = []
+
+    priors = {}
+    for i in (players):
+        priors[i] = [0,0]
+
+    last_game_season = -1
+    abs_error = []
+    for date in tqdm(games['game_date'].unique()):
+        game_ids = games.loc[games['game_date']==date,]['game_id'].unique()       
+
+        for gid in game_ids:
+            cur_game = player_bs.loc[player_bs["game_id"] == gid,].dropna().reset_index()
+            cur_season = games.loc[games["game_id"] == gid, ]["season"].to_list()[0]
+            team_game = team_bs.loc[team_bs["game_id"] == gid,].reset_index()
+
+            if (last_game_season != cur_season and last_game_season != -1):
+                for player in players:
+                    priors[player][0] *= per_season_fatten_beta
+                    priors[player][1] *= per_season_fatten_beta
+            last_game_season = cur_season
+            
+
+            try:
+                #pace_test = cur_game.at[0,"pace"]
+                h_id = team_game['team_id'].unique()[0]
+                a_id = team_game['team_id'].unique()[1]
+            except:
+                if (cur_season != "1996-97"):
+                    cur_f = {}
+                    features.append(cur_f)
+                continue
+            
+            #total_sec = cur_game.loc[cur_game['team_id'] == h_id, ]['seconds'].sum() / 5
+
+            for x in [h_id,a_id]:
+                cur_side = cur_game.loc[cur_game['team_id']==x,].reset_index(drop=True)
+                total_attempted = cur_side['fieldGoalsAttempted'].sum()
+                for index, row in cur_side.iterrows():
+                    cur_f = {'game_id':row['game_id'],'player_id':row['player_id'],'team_id':row['team_id'],'minutes':row['minutes']}
+                    if (priors[row['player_id']][1] + priors[row['player_id']][0] > 0):
+                        cur_f['pred_fg_usg'] = priors[row['player_id']][0] / (priors[row['player_id']][1] + priors[row['player_id']][0])
+                    if (total_attempted > 0 and (priors[row['player_id']][1] + priors[row['player_id']][0] > 0)):
+                        cur_f['actual_fg_usg'] = (row['fieldGoalsAttempted']) / (total_attempted)
+                        abs_error.append(abs(cur_f['actual_fg_usg'] - cur_f['pred_fg_usg']))
+                    if (cur_season != "1996-97"):
+                        features.append(cur_f)
+
+                    #Update
+                    priors[row['player_id']][0] += row['fieldGoalsAttempted']
+                    priors[row['player_id']][1] += total_attempted - (row['fieldGoalsAttempted'])
+
+                    priors[row['player_id']][0] *= per_game_fatten_beta
+                    priors[row['player_id']][1] *= per_game_fatten_beta
+        
+    fdf = pd.DataFrame(features)
+
+    fdf.to_csv("./predictions/latent/bayes_fg_usg_" + str(per_game_fatten_beta) + "_" + str(per_season_fatten_beta) + ".csv", index=False)
+    print (np.mean(abs_error))
+    print (per_game_fatten_beta)
+    print (per_season_fatten_beta)
+    return (np.mean(abs_error))
+
 #for x in [0.8,0.825,0.85,0.875,0.9,0.91,0.92,0.93,0.94,0.95,0.96,0.97,0.98,0.99,1]:
 #for x in [0.99,0.991,0.992,0.993,0.994,0.995,0.996,0.997,0.998,0.999,1]:
 #for x in [0.97,0.972,0.974,0.976,0.978,0.98,0.982,0.984,0.986,0.988,0.99,0.992,0.994,0.996,0.998,1]:
 for x in [0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1]:
-    team_ftr_defense(0.96,x)
+    usg_fg(0.85,x)
