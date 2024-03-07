@@ -572,6 +572,11 @@ def third():
             
     player_bs['seconds'] = player_bs['minutes'].dropna().transform(lambda x: int(x.split(":")[0]) * 60 + int(x.split(":")[1]))
 
+    team_schedule = {}
+    for team in teams:
+        team_schedule[team] = list(games.loc[games['h_team_id']==team,]['game_date']) + list(games.loc[games['a_team_id']==team,]['game_date'])
+        team_schedule[team].sort()
+
     features = []
 
     p_priors = {'3pt_pct_off':{},'2pt_pct_off':{},'ft_pct':{},'to_pct_off':{},"ftr_off":{}}
@@ -591,6 +596,15 @@ def third():
     for i in teams:
         t_priors['oreb_pct'][i] = 0.3
         t_priors['dreb_pct'][i] = 0.7
+
+    #matchup form
+    mu_form = {'3pt_pct':{},'2pt_pct':{},'to_pct':{},'ftr':{},'oreb_pct':{},'eff':{}}
+    for i in teams:
+        for j in teams:
+            if (i < j):
+                for key in mu_form:
+                    #first list is for team i and second is for team j
+                    mu_form[key][str(i)+'/'+str(j)] = [[],[]]
 
 
     last_lineup = {}
@@ -642,8 +656,6 @@ def third():
                 for index, row in cur_game.loc[cur_game['team_id'] == x, ].iterrows():
                     cur_lineup[x][row['player_id']] = row['seconds']/total_sec
 
-            
-
 
             for x in [h_id, a_id]:
                 if (x == h_id):
@@ -651,96 +663,154 @@ def third():
                 else:
                     y = h_id
                 
-                cur_f = {'game_id':team_game.at[0,'game_id'],'date':date,'season':cur_season,'off_team_id':x,'def_team_id':y}
+                cur_f = {'game_id':team_game.at[0,'game_id'],'date':date,'season':cur_season,'off_team_id':x,'def_team_id':y,
+                         'off_b2b_leg_1':0,'off_b2b_leg_2':0,'def_b2b_leg_1':0,'def_b2b_leg_2':0}
+
+                if (date + datetime.timedelta(days=1) in team_schedule[x]):
+                    cur_f['off_b2b_leg_1'] = 1
+                if (date - datetime.timedelta(days=1) in team_schedule[x]):
+                    cur_f['off_b2b_leg_2'] = 1
+
+                if (date + datetime.timedelta(days=1) in team_schedule[y]):
+                    cur_f['def_b2b_leg_1'] = 1
+                if (date - datetime.timedelta(days=1) in team_schedule[y]):
+                    cur_f['def_b2b_leg_2'] = 1
+
+                #for scaling up the stats in the case when some players cant have their contribution count and everyone else's contribution needs to count for more than their playing time would allow
+                tracker = {}
 
                 for yyy in ['last_','cur_']:
                     for key in p_priors:
                         if (key not in ['ftr_off','ft_pct']):
                             cur_f[yyy+'pred_'+key] = 0
+                            cur_f[yyy+'pred_'+key+'_last_5'] = 0
+                            cur_f[yyy+'pred_'+key+'_last_10'] = 0
+                            tracker[yyy+'pred_'+key] = 0
+                            tracker[yyy+'pred_'+key+'_last_5'] = 0
+                            tracker[yyy+'pred_'+key+'_last_10'] = 0
                     cur_f[yyy+'pred_ftrXftp_off'] = 0
                     cur_f[yyy+'pred_ftrXftp_def'] = 0
+                    cur_f[yyy+'pred_ftrXftp_off'+'_last_5'] = 0
+                    cur_f[yyy+'pred_ftrXftp_def'+'_last_5'] = 0
+                    cur_f[yyy+'pred_ftrXftp_off'+'_last_10'] = 0
+                    cur_f[yyy+'pred_ftrXftp_def'+'_last_10'] = 0
+                    tracker[yyy+'pred_ftrXftp_off'] = 0
+                    tracker[yyy+'pred_ftrXftp_def'] = 0
+                    tracker[yyy+'pred_ftrXftp_off'+'_last_5'] = 0
+                    tracker[yyy+'pred_ftrXftp_def'+'_last_5'] = 0
+                    tracker[yyy+'pred_ftrXftp_off'+'_last_10'] = 0
+                    tracker[yyy+'pred_ftrXftp_def'+'_last_10'] = 0
 
                 if (x == h_id):
                     cur_f['home_off'] = 1
                 else:
                     cur_f['home_off'] = 0
 
-
                 for player in last_lineup[x]:
                     #3pt_pct_off
                     if (p_priors['3pt_pct_off'][player][1] + p_priors['3pt_pct_off'][player][0] > 0):
                         cur_f['last_pred_3pt_pct_off'] += last_lineup[x][player] * (p_priors['3pt_pct_off'][player][0] / (p_priors['3pt_pct_off'][player][1] + p_priors['3pt_pct_off'][player][0]))
+                        tracker['last_pred_3pt_pct_off'] += last_lineup[x][player]
                         if (len(p_form['3pt_pct_off'][player][0]) >= 10):
                             cur_f['last_pred_3pt_pct_off_last_10'] += last_lineup[x][player] * (np.sum(p_form['3pt_pct_off'][player][0][-10:]) /  np.sum(p_form['3pt_pct_off'][player][1][-10:]))
+                            tracker['last_pred_3pt_pct_off_last_10'] += last_lineup[x][player]
                         if (len(p_form['3pt_pct_off'][player][0]) >= 5):
                             cur_f['last_pred_3pt_pct_off_last_5'] += last_lineup[x][player] * (np.sum(p_form['3pt_pct_off'][player][0][-5:]) /  np.sum(p_form['3pt_pct_off'][player][1][-5:]))
+                            tracker['last_pred_3pt_pct_off_last_5'] += last_lineup[x][player]
                     #2pt_pct_off
                     if (p_priors['2pt_pct_off'][player][1] + p_priors['2pt_pct_off'][player][0] > 0):
                         cur_f['last_pred_2pt_pct_off'] += last_lineup[x][player] * (p_priors['2pt_pct_off'][player][0] / (p_priors['2pt_pct_off'][player][1] + p_priors['2pt_pct_off'][player][0]))
+                        tracker['last_pred_2pt_pct_off'] += last_lineup[x][player]
                         if (len(p_form['2pt_pct_off'][player][0]) >= 10):
                             cur_f['last_pred_2pt_pct_off_last_10'] += last_lineup[x][player] * (np.sum(p_form['2pt_pct_off'][player][0][-10:]) /  np.sum(p_form['2pt_pct_off'][player][1][-10:]))
+                            tracker['last_pred_2pt_pct_off_last_10'] += last_lineup[x][player]
                         if (len(p_form['2pt_pct_off'][player][0]) >= 5):
                             cur_f['last_pred_2pt_pct_off_last_5'] += last_lineup[x][player] * (np.sum(p_form['2pt_pct_off'][player][0][-5:]) /  np.sum(p_form['2pt_pct_off'][player][1][-5:]))
+                            tracker['last_pred_2pt_pct_off_last_5'] += last_lineup[x][player]
                     #to_pct_off
                     if (p_priors['to_pct_off'][player][1] + p_priors['to_pct_off'][player][0] > 0):
                         cur_f['last_pred_to_pct_off'] += last_lineup[x][player] * (p_priors['to_pct_off'][player][0] / (p_priors['to_pct_off'][player][1] + p_priors['to_pct_off'][player][0]))
+                        tracker['last_pred_to_pct_off'] += last_lineup[x][player]
                         if (len(p_form['to_pct_off'][player][0]) >= 10):
                             cur_f['last_pred_to_pct_off_last_10'] += last_lineup[x][player] * (np.sum(p_form['to_pct_off'][player][0][-10:]) /  np.sum(p_form['to_pct_off'][player][1][-10:]))
+                            tracker['last_pred_to_pct_off_last_10'] += last_lineup[x][player]
                         if (len(p_form['to_pct_off'][player][0]) >= 5):
                             cur_f['last_pred_to_pct_off_last_5'] += last_lineup[x][player] * (np.sum(p_form['to_pct_off'][player][0][-5:]) /  np.sum(p_form['to_pct_off'][player][1][-5:]))
+                            tracker['last_pred_to_pct_off_last_5'] += last_lineup[x][player]
                     #free throw pct _ ftr offense interaction
                     if (p_priors['ft_pct'][player][1] + p_priors['ft_pct'][player][0] > 0 and p_priors['ftr_off'][player][1] + p_priors['ftr_off'][player][0] > 0):
                         cur_f['last_pred_ftrXftp_off'] += last_lineup[x][player] * (p_priors['ftr_off'][player][0] / (p_priors['ftr_off'][player][1] + p_priors['ftr_off'][player][0])) * (p_priors['ft_pct'][player][0] / (p_priors['ft_pct'][player][1] + p_priors['ft_pct'][player][0]))
+                        tracker['last_pred_ftrXftp_off'] += last_lineup[x][player]
                         if (len(p_form['ftr_off'][player][0]) >= 10):
                             cur_f['last_pred_ftrXftp_off_last_10'] += last_lineup[x][player] * (np.sum(p_form['ftr_off'][player][0][-10:]) /  np.sum(p_form['ftr_off'][player][1][-10:])) * (np.sum(p_form['ft_pct'][player][0][-10:]) / np.sum(p_form['ft_pct'][player][1][-10:]))
+                            tracker['last_pred_ftrXftp_off_last_10'] += last_lineup[x][player]
                         if (len(p_form['ftr_off'][player][0]) >= 5):
                             cur_f['last_pred_ftrXftp_off_last_5'] += last_lineup[x][player] * (np.sum(p_form['ftr_off'][player][0][-5:]) /  np.sum(p_form['ftr_off'][player][1][-5:])) * (np.sum(p_form['ft_pct'][player][0][-5:]) / np.sum(p_form['ft_pct'][player][1][-5:]))
+                            tracker['last_pred_ftrXftp_off_last_5'] += last_lineup[x][player]
                     #free throw pct _ ftr defense interaction
                     if (p_priors['ft_pct'][player][1] + p_priors['ft_pct'][player][0] > 0 and t_priors['ftr_def'][y][1] + t_priors['ftr_def'][y][0] > 0):
                         cur_f['last_pred_ftrXftp_def'] += last_lineup[x][player] * (t_priors['ftr_def'][y][0] / (t_priors['ftr_def'][y][1] + t_priors['ftr_def'][y][0])) * (p_priors['ft_pct'][player][0] / (p_priors['ft_pct'][player][1] + p_priors['ft_pct'][player][0]))
-                        if (len(p_form['ft_pct_off'][player][0]) >= 10 and len(t_form['ftr_def'][y]) >= 10):
-                            cur_f['last_pred_ftrXftp_def_last_10'] += last_lineup[x][player] * t_form['ftr_def'][y][-10:] * (np.sum(p_form['ft_pct'][player][0][-10:]) / np.sum(p_form['ft_pct'][player][1][-10:]))
-                        if (len(p_form['ft_pct_off'][player][0]) >= 5 and len(t_form['ftr_def'][y]) >= 5):
-                            cur_f['last_pred_ftrXftp_def_last_5'] += last_lineup[x][player] * t_form['ftr_def'][y][-5:] * (np.sum(p_form['ft_pct'][player][0][-5:]) / np.sum(p_form['ft_pct'][player][1][-5:]))
+                        tracker['last_pred_ftrXftp_def'] += last_lineup[x][player]
+                        if (len(p_form['ft_pct'][player][0]) >= 10 and len(t_form['ftr_def'][y]) >= 10):
+                            cur_f['last_pred_ftrXftp_def_last_10'] += last_lineup[x][player] * np.average(t_form['ftr_def'][y][-10:]) * (np.sum(p_form['ft_pct'][player][0][-10:]) / np.sum(p_form['ft_pct'][player][1][-10:]))
+                            tracker['last_pred_ftrXftp_def_last_10'] += last_lineup[x][player]
+                        if (len(p_form['ft_pct'][player][0]) >= 5 and len(t_form['ftr_def'][y]) >= 5):
+                            cur_f['last_pred_ftrXftp_def_last_5'] += last_lineup[x][player] * np.average(t_form['ftr_def'][y][-5:]) * (np.sum(p_form['ft_pct'][player][0][-5:]) / np.sum(p_form['ft_pct'][player][1][-5:]))
+                            tracker['last_pred_ftrXftp_def_last_5'] += last_lineup[x][player]
 
                 #player features
                 for index, row in cur_game.loc[cur_game['team_id'] == x, ].iterrows():
                     #3pt_pct_off
-                    if (p_priors['3pt_pct_off'][row['player']][1] + p_priors['3pt_pct_off'][row['player']][0] > 0):
-                        cur_f['cur_pred_3pt_pct_off'] += cur_lineup[x][row['player']] * (p_priors['3pt_pct_off'][row['player']][0] / (p_priors['3pt_pct_off'][row['player']][1] + p_priors['3pt_pct_off'][row['player']][0]))
-                        if (len(p_form['3pt_pct_off'][row['player']][0]) >= 10):
-                            cur_f['cur_pred_3pt_pct_off_last_10'] += cur_lineup[x][row['player']] * (np.sum(p_form['3pt_pct_off'][row['player']][0][-10:]) /  np.sum(p_form['3pt_pct_off'][row['player']][1][-10:]))
-                        if (len(p_form['3pt_pct_off'][row['player']][0]) >= 5):
-                            cur_f['cur_pred_3pt_pct_off_last_5'] += cur_lineup[x][row['player']] * (np.sum(p_form['3pt_pct_off'][row['player']][0][-5:]) /  np.sum(p_form['3pt_pct_off'][row['player']][1][-5:]))
+                    if (p_priors['3pt_pct_off'][row['player_id']][1] + p_priors['3pt_pct_off'][row['player_id']][0] > 0):
+                        cur_f['cur_pred_3pt_pct_off'] += cur_lineup[x][row['player_id']] * (p_priors['3pt_pct_off'][row['player_id']][0] / (p_priors['3pt_pct_off'][row['player_id']][1] + p_priors['3pt_pct_off'][row['player_id']][0]))
+                        tracker['cur_pred_3pt_pct_off'] += cur_lineup[x][row['player_id']]
+                        if (len(p_form['3pt_pct_off'][row['player_id']][0]) >= 10):
+                            cur_f['cur_pred_3pt_pct_off_last_10'] += cur_lineup[x][row['player_id']] * (np.sum(p_form['3pt_pct_off'][row['player_id']][0][-10:]) /  np.sum(p_form['3pt_pct_off'][row['player_id']][1][-10:]))
+                            tracker['cur_pred_3pt_pct_off_last_10'] += cur_lineup[x][row['player_id']]
+                        if (len(p_form['3pt_pct_off'][row['player_id']][0]) >= 5):
+                            cur_f['cur_pred_3pt_pct_off_last_5'] += cur_lineup[x][row['player_id']] * (np.sum(p_form['3pt_pct_off'][row['player_id']][0][-5:]) /  np.sum(p_form['3pt_pct_off'][row['player_id']][1][-5:]))
+                            tracker['cur_pred_3pt_pct_off_last_5'] += cur_lineup[x][row['player_id']]
                     #2pt_pct_off
-                    if (p_priors['2pt_pct_off'][row['player']][1] + p_priors['2pt_pct_off'][row['player']][0] > 0):
-                        cur_f['cur_pred_2pt_pct_off'] += cur_lineup[x][row['player']] * (p_priors['2pt_pct_off'][row['player']][0] / (p_priors['2pt_pct_off'][row['player']][1] + p_priors['2pt_pct_off'][row['player']][0]))
-                        if (len(p_form['2pt_pct_off'][row['player']][0]) >= 10):
-                            cur_f['cur_pred_2pt_pct_off_last_10'] += cur_lineup[x][row['player']] * (np.sum(p_form['2pt_pct_off'][row['player']][0][-10:]) /  np.sum(p_form['2pt_pct_off'][row['player']][1][-10:]))
-                        if (len(p_form['2pt_pct_off'][row['player']][0]) >= 5):
-                            cur_f['cur_pred_2pt_pct_off_last_5'] += cur_lineup[x][row['player']] * (np.sum(p_form['2pt_pct_off'][row['player']][0][-5:]) /  np.sum(p_form['2pt_pct_off'][row['player']][1][-5:]))
+                    if (p_priors['2pt_pct_off'][row['player_id']][1] + p_priors['2pt_pct_off'][row['player_id']][0] > 0):
+                        cur_f['cur_pred_2pt_pct_off'] += cur_lineup[x][row['player_id']] * (p_priors['2pt_pct_off'][row['player_id']][0] / (p_priors['2pt_pct_off'][row['player_id']][1] + p_priors['2pt_pct_off'][row['player_id']][0]))
+                        tracker['cur_pred_2pt_pct_off'] += cur_lineup[x][row['player_id']]
+                        if (len(p_form['2pt_pct_off'][row['player_id']][0]) >= 10):
+                            cur_f['cur_pred_2pt_pct_off_last_10'] += cur_lineup[x][row['player_id']] * (np.sum(p_form['2pt_pct_off'][row['player_id']][0][-10:]) /  np.sum(p_form['2pt_pct_off'][row['player_id']][1][-10:]))
+                            tracker['cur_pred_2pt_pct_off_last_10'] += cur_lineup[x][row['player_id']]
+                        if (len(p_form['2pt_pct_off'][row['player_id']][0]) >= 5):
+                            cur_f['cur_pred_2pt_pct_off_last_5'] += cur_lineup[x][row['player_id']] * (np.sum(p_form['2pt_pct_off'][row['player_id']][0][-5:]) /  np.sum(p_form['2pt_pct_off'][row['player_id']][1][-5:]))
+                            tracker['cur_pred_2pt_pct_off_last_5'] += cur_lineup[x][row['player_id']]
                     #to_pct_off
-                    if (p_priors['to_pct_off'][row['player']][1] + p_priors['to_pct_off'][row['player']][0] > 0):
-                        cur_f['cur_pred_to_pct_off'] += cur_lineup[x][row['player']] * (p_priors['to_pct_off'][row['player']][0] / (p_priors['to_pct_off'][row['player']][1] + p_priors['to_pct_off'][row['player']][0]))
-                        if (len(p_form['to_pct_off'][row['player']][0]) >= 10):
-                            cur_f['cur_pred_to_pct_off_last_10'] += cur_lineup[x][row['player']] * (np.sum(p_form['to_pct_off'][row['player']][0][-10:]) /  np.sum(p_form['to_pct_off'][row['player']][1][-10:]))
-                        if (len(p_form['to_pct_off'][row['player']][0]) >= 5):
-                            cur_f['cur_pred_to_pct_off_last_5'] += cur_lineup[x][row['player']] * (np.sum(p_form['to_pct_off'][row['player']][0][-5:]) /  np.sum(p_form['to_pct_off'][row['player']][1][-5:]))
+                    if (p_priors['to_pct_off'][row['player_id']][1] + p_priors['to_pct_off'][row['player_id']][0] > 0):
+                        cur_f['cur_pred_to_pct_off'] += cur_lineup[x][row['player_id']] * (p_priors['to_pct_off'][row['player_id']][0] / (p_priors['to_pct_off'][row['player_id']][1] + p_priors['to_pct_off'][row['player_id']][0]))
+                        tracker['cur_pred_to_pct_off'] += cur_lineup[x][row['player_id']]
+                        if (len(p_form['to_pct_off'][row['player_id']][0]) >= 10):
+                            cur_f['cur_pred_to_pct_off_last_10'] += cur_lineup[x][row['player_id']] * (np.sum(p_form['to_pct_off'][row['player_id']][0][-10:]) /  np.sum(p_form['to_pct_off'][row['player_id']][1][-10:]))
+                            tracker['cur_pred_to_pct_off_last_10'] += cur_lineup[x][row['player_id']]
+                        if (len(p_form['to_pct_off'][row['player_id']][0]) >= 5):
+                            cur_f['cur_pred_to_pct_off_last_5'] += cur_lineup[x][row['player_id']] * (np.sum(p_form['to_pct_off'][row['player_id']][0][-5:]) /  np.sum(p_form['to_pct_off'][row['player_id']][1][-5:]))
+                            tracker['cur_pred_to_pct_off_last_5'] += cur_lineup[x][row['player_id']]
                     #free throw pct _ ftr offense interaction
-                    if (p_priors['ft_pct'][row['player']][1] + p_priors['ft_pct'][row['player']][0] > 0 and p_priors['ftr_off'][row['player']][1] + p_priors['ftr_off'][row['player']][0] > 0):
-                        cur_f['cur_pred_ftrXftp_off'] += cur_lineup[x][row['player']] * (p_priors['ftr_off'][row['player']][0] / (p_priors['ftr_off'][row['player']][1] + p_priors['ftr_off'][row['player']][0])) * (p_priors['ft_pct'][row['player']][0] / (p_priors['ft_pct'][row['player']][1] + p_priors['ft_pct'][row['player']][0]))
-                        if (len(p_form['ftr_off'][row['player']][0]) >= 10):
-                            cur_f['cur_pred_ftrXftp_off_last_10'] += cur_lineup[x][row['player']] * (np.sum(p_form['ftr_off'][row['player']][0][-10:]) /  np.sum(p_form['ftr_off'][row['player']][1][-10:])) * (np.sum(p_form['ft_pct'][row['player']][0][-10:]) / np.sum(p_form['ft_pct'][row['player']][1][-10:]))
-                        if (len(p_form['ftr_off'][row['player']][0]) >= 5):
-                            cur_f['cur_pred_ftrXftp_off_last_5'] += cur_lineup[x][row['player']] * (np.sum(p_form['ftr_off'][row['player']][0][-5:]) /  np.sum(p_form['ftr_off'][row['player']][1][-5:])) * (np.sum(p_form['ft_pct'][row['player']][0][-5:]) / np.sum(p_form['ft_pct'][row['player']][1][-5:]))
+                    if (p_priors['ft_pct'][row['player_id']][1] + p_priors['ft_pct'][row['player_id']][0] > 0 and p_priors['ftr_off'][row['player_id']][1] + p_priors['ftr_off'][row['player_id']][0] > 0):
+                        cur_f['cur_pred_ftrXftp_off'] += cur_lineup[x][row['player_id']] * (p_priors['ftr_off'][row['player_id']][0] / (p_priors['ftr_off'][row['player_id']][1] + p_priors['ftr_off'][row['player_id']][0])) * (p_priors['ft_pct'][row['player_id']][0] / (p_priors['ft_pct'][row['player_id']][1] + p_priors['ft_pct'][row['player_id']][0]))
+                        tracker['cur_pred_ftrXftp_off'] += cur_lineup[x][row['player_id']]
+                        if (len(p_form['ftr_off'][row['player_id']][0]) >= 10):
+                            cur_f['cur_pred_ftrXftp_off_last_10'] += cur_lineup[x][row['player_id']] * (np.sum(p_form['ftr_off'][row['player_id']][0][-10:]) /  np.sum(p_form['ftr_off'][row['player_id']][1][-10:])) * (np.sum(p_form['ft_pct'][row['player_id']][0][-10:]) / np.sum(p_form['ft_pct'][row['player_id']][1][-10:]))
+                            tracker['cur_pred_ftrXftp_off_last_10'] += cur_lineup[x][row['player_id']]
+                        if (len(p_form['ftr_off'][row['player_id']][0]) >= 5):
+                            cur_f['cur_pred_ftrXftp_off_last_5'] += cur_lineup[x][row['player_id']] * (np.sum(p_form['ftr_off'][row['player_id']][0][-5:]) /  np.sum(p_form['ftr_off'][row['player_id']][1][-5:])) * (np.sum(p_form['ft_pct'][row['player_id']][0][-5:]) / np.sum(p_form['ft_pct'][row['player_id']][1][-5:]))
+                            tracker['cur_pred_ftrXftp_off_last_5'] += cur_lineup[x][row['player_id']]
                     #free throw pct _ ftr defense interaction
-                    if (p_priors['ft_pct'][row['player']][1] + p_priors['ft_pct'][row['player']][0] > 0 and t_priors['ftr_def'][y][1] + t_priors['ftr_def'][y][0] > 0):
-                        cur_f['cur_pred_ftrXftp_def'] += cur_lineup[x][row['player']] * (t_priors['ftr_def'][y][0] / (t_priors['ftr_def'][y][1] + t_priors['ftr_def'][y][0])) * (p_priors['ft_pct'][row['player']][0] / (p_priors['ft_pct'][row['player']][1] + p_priors['ft_pct'][row['player']][0]))
-                        if (len(p_form['ft_pct_off'][row['player']][0]) >= 10 and len(t_form['ftr_def'][y]) >= 10):
-                            cur_f['cur_pred_ftrXftp_def_last_10'] += cur_lineup[x][row['player']] * np.sum(t_form['ftr_def'][y][-10:]) * (np.sum(p_form['ft_pct'][row['player']][0][-10:]) / np.sum(p_form['ft_pct'][row['player']][1][-10:]))
-                        if (len(p_form['ft_pct_off'][row['player']][0]) >= 5 and len(t_form['ftr_def'][y]) >= 5):
-                            cur_f['cur_pred_ftrXftp_def_last_5'] += cur_lineup[x][row['player']] * np.sum(t_form['ftr_def'][y][-5:]) * (np.sum(p_form['ft_pct'][row['player']][0][-5:]) / np.sum(p_form['ft_pct'][row['player']][1][-5:]))
-
+                    if (p_priors['ft_pct'][row['player_id']][1] + p_priors['ft_pct'][row['player_id']][0] > 0 and t_priors['ftr_def'][y][1] + t_priors['ftr_def'][y][0] > 0):
+                        cur_f['cur_pred_ftrXftp_def'] += cur_lineup[x][row['player_id']] * (t_priors['ftr_def'][y][0] / (t_priors['ftr_def'][y][1] + t_priors['ftr_def'][y][0])) * (p_priors['ft_pct'][row['player_id']][0] / (p_priors['ft_pct'][row['player_id']][1] + p_priors['ft_pct'][row['player_id']][0]))
+                        tracker['cur_pred_ftrXftp_def'] += cur_lineup[x][row['player_id']]
+                        if (len(p_form['ft_pct'][row['player_id']][0]) >= 10 and len(t_form['ftr_def'][y]) >= 10):
+                            cur_f['cur_pred_ftrXftp_def_last_10'] += cur_lineup[x][row['player_id']] * np.average(t_form['ftr_def'][y][-10:]) * (np.sum(p_form['ft_pct'][row['player_id']][0][-10:]) / np.sum(p_form['ft_pct'][row['player_id']][1][-10:]))
+                            tracker['cur_pred_ftrXftp_def_last_10'] += cur_lineup[x][row['player_id']]
+                        if (len(p_form['ft_pct'][row['player_id']][0]) >= 5 and len(t_form['ftr_def'][y]) >= 5):
+                            cur_f['cur_pred_ftrXftp_def_last_5'] += cur_lineup[x][row['player_id']] * np.average(t_form['ftr_def'][y][-5:]) * (np.sum(p_form['ft_pct'][row['player_id']][0][-5:]) / np.sum(p_form['ft_pct'][row['player_id']][1][-5:]))
+                            tracker['cur_pred_ftrXftp_def_last_5'] += cur_lineup[x][row['player_id']]
+                    
                     #Update player stuff
                     p_priors['3pt_pct_off'][row['player_id']][0] += row['threePointersMade']
                     p_priors['3pt_pct_off'][row['player_id']][1] += row['threePointersAttempted'] - row['threePointersMade']
@@ -767,50 +837,72 @@ def third():
                     p_priors['ftr_off'][row['player_id']][0] *= fatten['ftr_off']
                     p_priors['ftr_off'][row['player_id']][1] *= fatten['ftr_off']
 
-                    p_form['3pt_pct_off'][row['player_id']][0].append(row['threePointersMade'])
-                    p_form['3pt_pct_off'][row['player_id']][1].append(row['threePointersAttempted'])
+                    if (row['threePointersAttempted'] > 0):
+                        p_form['3pt_pct_off'][row['player_id']][0].append(row['threePointersMade'])
+                        p_form['3pt_pct_off'][row['player_id']][1].append(row['threePointersAttempted'])
                     
-                    p_form['2pt_pct_off'][row['player_id']][0].append((row['fieldGoalsMade'] - row['threePointersMade']))
-                    p_form['2pt_pct_off'][row['player_id']][1].append((row['fieldGoalsAttempted'] - row['threePointersAttempted']))
+                    if ((row['fieldGoalsAttempted'] - row['threePointersAttempted']) > 0):
+                        p_form['2pt_pct_off'][row['player_id']][0].append((row['fieldGoalsMade'] - row['threePointersMade']))
+                        p_form['2pt_pct_off'][row['player_id']][1].append((row['fieldGoalsAttempted'] - row['threePointersAttempted']))
 
-                    p_form['ft_pct_off'][row['player_id']][0].append(row['freeThrowsMade'])
-                    p_form['ft_pct_off'][row['player_id']][1].append(row['freeThrowsAttempted'])
+                    if (row['freeThrowsAttempted'] > 0):
+                        p_form['ft_pct'][row['player_id']][0].append(row['freeThrowsMade'])
+                        p_form['ft_pct'][row['player_id']][1].append(row['freeThrowsAttempted'])
 
-                    p_form['to_pct_off'][row['player_id']][0].append(row['turnovers'])
-                    p_form['to_pct_off'][row['player_id']][1].append(row['fieldGoalsAttempted'] + row['freeThrowsAttempted']*0.44 + row['assists'] + row['turnovers'])
+                    if (row['fieldGoalsAttempted'] + row['freeThrowsAttempted']*0.44 + row['assists'] + row['turnovers'] > 0):
+                        p_form['to_pct_off'][row['player_id']][0].append(row['turnovers'])
+                        p_form['to_pct_off'][row['player_id']][1].append(row['fieldGoalsAttempted'] + row['freeThrowsAttempted']*0.44 + row['assists'] + row['turnovers'])
 
-                    p_form['ftr_off'][row['player_id']][0].append(row['freeThrowsAttempted'])
-                    p_form['ftr_off'][row['player_id']][1].append(row['fieldGoalsAttempted'] + row['freeThrowsAttempted'])
+                    if (row['fieldGoalsAttempted'] + row['freeThrowsAttempted'] > 0):
+                        p_form['ftr_off'][row['player_id']][0].append(row['freeThrowsAttempted'])
+                        p_form['ftr_off'][row['player_id']][1].append(row['fieldGoalsAttempted'] + row['freeThrowsAttempted'])
 
                 #team features
                 if (t_priors['3pt_pct_def'][y][1] + t_priors['3pt_pct_def'][y][0] > 0):
                     cur_f['pred_3pt_pct_def'] = (t_priors['3pt_pct_def'][y][0] / (t_priors['3pt_pct_def'][y][1] + t_priors['3pt_pct_def'][y][0]))
                     if (len(t_form['3pt_pct_def'][y]) >= 10):
-                        cur_f['pred_3pt_pct_def_last_10'] = np.sum(t_form['3pt_pct_def'][y][-10:])
+                        cur_f['pred_3pt_pct_def_last_10'] = np.average(t_form['3pt_pct_def'][y][-10:])
                     if (len(t_form['3pt_pct_def'][y]) >= 5):
-                        cur_f['pred_3pt_pct_def_last_5'] = np.sum(t_form['3pt_pct_def'][y][-5:])
+                        cur_f['pred_3pt_pct_def_last_5'] = np.average(t_form['3pt_pct_def'][y][-5:])
                 if (t_priors['2pt_pct_def'][y][1] + t_priors['2pt_pct_def'][y][0] > 0):
                     cur_f['pred_2pt_pct_def'] = (t_priors['2pt_pct_def'][y][0] / (t_priors['2pt_pct_def'][y][1] + t_priors['2pt_pct_def'][y][0]))
                     if (len(t_form['2pt_pct_def'][y]) >= 10):
-                        cur_f['pred_2pt_pct_def_last_10'] = np.sum(t_form['2pt_pct_def'][y][-10:])
+                        cur_f['pred_2pt_pct_def_last_10'] = np.average(t_form['2pt_pct_def'][y][-10:])
                     if (len(t_form['2pt_pct_def'][y]) >= 5):
-                        cur_f['pred_2pt_pct_def_last_5'] = np.sum(t_form['2pt_pct_def'][y][-5:])
+                        cur_f['pred_2pt_pct_def_last_5'] = np.average(t_form['2pt_pct_def'][y][-5:])
                 if (t_priors['to_pct_def'][y][1] + t_priors['to_pct_def'][y][0] > 0):
                     cur_f['pred_to_pct_def'] = (t_priors['to_pct_def'][y][0] / (t_priors['to_pct_def'][y][1] + t_priors['to_pct_def'][y][0]))
                     if (len(t_form['to_pct_def'][y]) >= 10):
-                        cur_f['pred_to_pct_def_last_10'] = np.sum(t_form['to_pct_def'][y][-10:])
+                        cur_f['pred_to_pct_def_last_10'] = np.average(t_form['to_pct_def'][y][-10:])
                     if (len(t_form['to_pct_def'][y]) >= 5):
-                        cur_f['pred_to_pct_def_last_5'] = np.sum(t_form['to_pct_def'][y][-5:])
+                        cur_f['pred_to_pct_def_last_5'] = np.average(t_form['to_pct_def'][y][-5:])
                 cur_f['pred_oreb_pct_off'] = t_priors['oreb_pct'][x]
-                if (len(t_form['oreb_pct_off'][x]) >= 10):
-                    cur_f['pred_oreb_pct_off_last_10'] = np.sum(t_form['oreb_pct'][x][-10:])
-                if (len(t_form['oreb_pct_off'][x]) >= 5):
-                    cur_f['pred_oreb_pct_off_last_5'] = np.sum(t_form['oreb_pct'][x][-5:])
+                if (len(t_form['oreb_pct'][x]) >= 10):
+                    cur_f['pred_oreb_pct_off_last_10'] = np.average(t_form['oreb_pct'][x][-10:])
+                if (len(t_form['oreb_pct'][x]) >= 5):
+                    cur_f['pred_oreb_pct_off_last_5'] = np.average(t_form['oreb_pct'][x][-5:])
                 cur_f['pred_oreb_pct_def'] = 1 - t_priors['dreb_pct'][y]
                 if (len(t_form['dreb_pct'][y]) >= 10):
-                    cur_f['pred_oreb_pct_def_last_10'] = 10 - np.sum(t_form['dreb_pct'][y][-10:])
+                    cur_f['pred_oreb_pct_def_last_10'] = 1 - np.average(t_form['dreb_pct'][y][-10:])
                 if (len(t_form['dreb_pct'][y]) >= 5):
-                    cur_f['pred_oreb_pct_def_last_5'] = 5 - np.sum(t_form['dreb_pct'][y][-5:])
+                    cur_f['pred_oreb_pct_def_last_5'] = 1 - np.average(t_form['dreb_pct'][y][-5:])
+
+                if (x < y):
+                    if (len(mu_form['3pt_pct'][str(x)+'/'+str(y)][0]) >= 3):
+                        cur_f['pred_3pt_pct_matchup_form'] = np.average(mu_form['3pt_pct'][str(x)+'/'+str(y)][0][-3:])
+                        cur_f['pred_2pt_pct_matchup_form'] = np.average(mu_form['2pt_pct'][str(x)+'/'+str(y)][0][-3:])
+                        cur_f['pred_to_pct_matchup_form'] = np.average(mu_form['to_pct'][str(x)+'/'+str(y)][0][-3:])
+                        cur_f['pred_ftr_matchup_form'] = np.average(mu_form['ftr'][str(x)+'/'+str(y)][0][-3:])
+                        cur_f['pred_oreb_pct_matchup_form'] = np.average(mu_form['oreb_pct'][str(x)+'/'+str(y)][0][-3:])
+                        cur_f['pred_rtg_matchup_form'] = np.average(mu_form['eff'][str(x)+'/'+str(y)][0][-3:])
+                else:
+                    if (len(mu_form['3pt_pct'][str(y)+'/'+str(x)][1]) >= 3):
+                        cur_f['pred_3pt_pct_matchup_form'] = np.average(mu_form['3pt_pct'][str(y)+'/'+str(x)][1][-3:])
+                        cur_f['pred_2pt_pct_matchup_form'] = np.average(mu_form['2pt_pct'][str(y)+'/'+str(x)][1][-3:])
+                        cur_f['pred_to_pct_matchup_form'] = np.average(mu_form['to_pct'][str(y)+'/'+str(x)][1][-3:])
+                        cur_f['pred_ftr_matchup_form'] = np.average(mu_form['ftr'][str(y)+'/'+str(x)][1][-3:])
+                        cur_f['pred_oreb_pct_matchup_form'] = np.average(mu_form['oreb_pct'][str(y)+'/'+str(x)][1][-3:])
+                        cur_f['pred_rtg_matchup_form'] = np.average(mu_form['eff'][str(y)+'/'+str(x)][1][-3:])
 
                 if (x == h_id):
                     ind = 0
@@ -845,7 +937,8 @@ def third():
                 t_priors['oreb_pct'][x] += (actual_oreb_pct - pred_oreb_pct) * fatten['oreb_pct']
                 t_priors['dreb_pct'][y] += ((1-actual_oreb_pct) - (1-pred_oreb_pct)) * fatten['dreb_pct']
 
-                t_form['3pt_pct_def'][y].append(team_game.at[ind,'threePointersMade'] / team_game.at[ind,'threePointersAttempted'])
+                if (team_game.at[ind,'threePointersAttempted'] > 0):
+                    t_form['3pt_pct_def'][y].append(team_game.at[ind,'threePointersMade'] / team_game.at[ind,'threePointersAttempted'])
 
                 t_form['2pt_pct_def'][y].append((team_game.at[ind,'fieldGoalsMade'] - team_game.at[ind,'threePointersMade']) / (team_game.at[ind,'fieldGoalsAttempted'] - team_game.at[ind,'threePointersAttempted']))
 
@@ -856,10 +949,70 @@ def third():
                 t_form['oreb_pct'][x].append(actual_oreb_pct)
 
                 t_form['dreb_pct'][y].append(1-actual_oreb_pct)
+
+                #a_id so it only updates once and it does it on the second loop
+                if (x == a_id and x < y):
+                    if (team_game.at[0,'threePointersAttempted'] > 0):
+                        mu_form['3pt_pct'][str(x)+'/'+str(y)][1].append(team_game.at[0,'threePointersMade'] / team_game.at[0,'threePointersAttempted'])
+                    if (team_game.at[1,'threePointersAttempted'] > 0):
+                        mu_form['3pt_pct'][str(x)+'/'+str(y)][0].append(team_game.at[1,'threePointersMade'] / team_game.at[1,'threePointersAttempted'])
+
+                    mu_form['2pt_pct'][str(x)+'/'+str(y)][1].append((team_game.at[0,'fieldGoalsMade'] - team_game.at[0,'threePointersMade']) / (team_game.at[0,'fieldGoalsAttempted'] - team_game.at[0,'threePointersAttempted']))
+                    mu_form['2pt_pct'][str(x)+'/'+str(y)][0].append((team_game.at[1,'fieldGoalsMade'] - team_game.at[1,'threePointersMade']) / (team_game.at[1,'fieldGoalsAttempted'] - team_game.at[1,'threePointersAttempted']))
+
+                    mu_form['to_pct'][str(x)+'/'+str(y)][1].append(team_game.at[0,'turnovers'] / (team_game.at[0,'fieldGoalsAttempted'] + 0.44*team_game.at[0,'freeThrowsAttempted'] + team_game.at[0,'turnovers']))
+                    mu_form['to_pct'][str(x)+'/'+str(y)][0].append(team_game.at[1,'turnovers'] / (team_game.at[1,'fieldGoalsAttempted'] + 0.44*team_game.at[1,'freeThrowsAttempted'] + team_game.at[1,'turnovers']))
+
+                    mu_form['ftr'][str(x)+'/'+str(y)][1].append(team_game.at[0,'freeThrowsAttempted'] / (team_game.at[0,'freeThrowsAttempted'] + team_game.at[0,'fieldGoalsAttempted']))
+                    mu_form['ftr'][str(x)+'/'+str(y)][0].append(team_game.at[1,'freeThrowsAttempted'] / (team_game.at[1,'freeThrowsAttempted'] + team_game.at[1,'fieldGoalsAttempted']))
+
+                    mu_form['oreb_pct'][str(x)+'/'+str(y)][1].append(team_game.at[0,'reboundsOffensive'] / (team_game.at[0,'reboundsOffensive'] + team_game.at[1,'reboundsDefensive']))
+                    mu_form['oreb_pct'][str(x)+'/'+str(y)][0].append(team_game.at[1,'reboundsOffensive'] / (team_game.at[1,'reboundsOffensive'] + team_game.at[0,'reboundsDefensive']))
+
+                    mu_form['eff'][str(x)+'/'+str(y)][1].append(team_adv_game.at[0,'offensiveRating'])
+                    mu_form['eff'][str(x)+'/'+str(y)][0].append(team_adv_game.at[1,'offensiveRating'])
+                elif (x == a_id and x > y):
+                    if (team_game.at[0,'threePointersAttempted'] > 0):
+                        mu_form['3pt_pct'][str(y)+'/'+str(x)][0].append(team_game.at[0,'threePointersMade'] / team_game.at[0,'threePointersAttempted'])
+                    if (team_game.at[1,'threePointersAttempted'] > 0):
+                        mu_form['3pt_pct'][str(y)+'/'+str(x)][1].append(team_game.at[1,'threePointersMade'] / team_game.at[1,'threePointersAttempted'])
+
+                    mu_form['2pt_pct'][str(y)+'/'+str(x)][0].append((team_game.at[0,'fieldGoalsMade'] - team_game.at[0,'threePointersMade']) / (team_game.at[0,'fieldGoalsAttempted'] - team_game.at[0,'threePointersAttempted']))
+                    mu_form['2pt_pct'][str(y)+'/'+str(x)][1].append((team_game.at[1,'fieldGoalsMade'] - team_game.at[1,'threePointersMade']) / (team_game.at[1,'fieldGoalsAttempted'] - team_game.at[1,'threePointersAttempted']))
+
+                    mu_form['to_pct'][str(y)+'/'+str(x)][0].append(team_game.at[0,'turnovers'] / (team_game.at[0,'fieldGoalsAttempted'] + 0.44*team_game.at[0,'freeThrowsAttempted'] + team_game.at[0,'turnovers']))
+                    mu_form['to_pct'][str(y)+'/'+str(x)][1].append(team_game.at[1,'turnovers'] / (team_game.at[1,'fieldGoalsAttempted'] + 0.44*team_game.at[1,'freeThrowsAttempted'] + team_game.at[1,'turnovers']))
+
+                    mu_form['ftr'][str(y)+'/'+str(x)][0].append(team_game.at[0,'freeThrowsAttempted'] / (team_game.at[0,'freeThrowsAttempted'] + team_game.at[0,'fieldGoalsAttempted']))
+                    mu_form['ftr'][str(y)+'/'+str(x)][1].append(team_game.at[1,'freeThrowsAttempted'] / (team_game.at[1,'freeThrowsAttempted'] + team_game.at[1,'fieldGoalsAttempted']))
+
+                    mu_form['oreb_pct'][str(y)+'/'+str(x)][0].append(team_game.at[0,'reboundsOffensive'] / (team_game.at[0,'reboundsOffensive'] + team_game.at[1,'reboundsDefensive']))
+                    mu_form['oreb_pct'][str(y)+'/'+str(x)][1].append(team_game.at[1,'reboundsOffensive'] / (team_game.at[1,'reboundsOffensive'] + team_game.at[0,'reboundsDefensive']))
+
+                    mu_form['eff'][str(y)+'/'+str(x)][0].append(team_adv_game.at[0,'offensiveRating'])
+                    mu_form['eff'][str(y)+'/'+str(x)][1].append(team_adv_game.at[1,'offensiveRating'])
                 
                 cur_f['actual_eff'] = team_adv_game.at[ind,'offensiveRating']
 
                 if (cur_season != "1996-97"):
+                    for yyy in ['last_','cur_']:
+                        for key in p_priors:
+                            if (key not in ['ftr_off','ft_pct']):
+                                for xxx in ['','_last_5','_last_10']:
+                                    if (tracker[yyy+'pred_'+key+xxx] == 0):
+                                        cur_f[yyy+'pred_'+key+xxx] = np.nan
+                                    else:
+                                        cur_f[yyy+'pred_'+key+xxx] = cur_f[yyy+'pred_'+key+xxx] / tracker[yyy+'pred_'+key+xxx]
+                        for xxx in ['','_last_5','_last_10']:
+                            if (tracker[yyy+'pred_ftrXftp_off'+xxx] == 0):
+                                cur_f[yyy+'pred_ftrXftp_off'+xxx] = np.nan
+                            else:
+                                cur_f[yyy+'pred_ftrXftp_off'+xxx] = cur_f[yyy+'pred_ftrXftp_off'+xxx] / tracker[yyy+'pred_ftrXftp_off'+xxx]
+                            if (tracker[yyy+'pred_ftrXftp_def'+xxx] == 0):
+                                cur_f[yyy+'pred_ftrXftp_def'+xxx] = np.nan
+                            else:
+                                cur_f[yyy+'pred_ftrXftp_def'+xxx] = cur_f[yyy+'pred_ftrXftp_def'+xxx] / tracker[yyy+'pred_ftrXftp_def'+xxx]
+                
                     features.append(cur_f)
 
             for x in [h_id, a_id]:
@@ -870,6 +1023,6 @@ def third():
     
     fdf = pd.DataFrame(features)
 
-    fdf.to_csv("./intermediates/regression_formatted/first.csv", index=False)
+    fdf.to_csv("./intermediates/regression_formatted/third.csv", index=False)
 
-second()
+third()
