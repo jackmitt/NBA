@@ -994,6 +994,16 @@ def third():
                 
                 cur_f['actual_eff'] = team_adv_game.at[ind,'offensiveRating']
 
+                #these are for analyzing results
+                cur_f['significant_player_removed'] = 0
+                cur_f['significant_player_added'] = 0
+                if (cur_season != "1996-97"):
+                    for player in cur_lineup[x]:
+                        if (cur_lineup[x][player] > 0.116 and player not in last_lineup[x]):
+                            cur_f['significant_player_added'] = 1
+                    for player in last_lineup[x]:
+                        if (last_lineup[x][player] > 0.116 and player not in cur_lineup[x]):
+                            cur_f['significant_player_removed'] = 1
                 if (cur_season != "1996-97"):
                     for yyy in ['last_','cur_']:
                         for key in p_priors:

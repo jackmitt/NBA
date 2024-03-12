@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 import scipy.stats as stats
 import pickle
 import datetime
+import backtest as bt
 
 #Generates figures from the naive_pace models
 def naive_pace_team():
@@ -528,4 +529,109 @@ def usg_pct():
     
     fig.write_image("./figures/usg/bayes_usg_table.png")
 
-eff_player()
+def scoring_margin_dist():
+    bs = pd.read_csv('./database/traditional_boxscores_teams.csv')
+    games = pd.read_csv('./database/games.csv')
+    seasons = ""
+    for yr in range(1997, 2014):
+        seasons += str(yr) + "-" + str(yr+1)[2:4]+"|"
+    games = games[games["season"].str.contains(seasons[:-1])].reset_index()
+
+    marg = []
+    for gid in games['game_id'].unique():
+        cur = bs.loc[bs['game_id']==gid,].reset_index()
+        if (len(cur.index) == 2):
+            marg.append(abs(cur.at[0,'points'] - cur.at[1,'points']))
+    x = list(range(1,51))
+    count_ = []
+    for i in range(1,51):
+        count_.append(marg.count(i)/len(marg))
+    print (np.average(marg))
+    print (count_[0:6]/np.sum(count_[0:6]))
+    plt.bar(x, count_)
+    plt.title("Actual Spread Distribution of the Train Set")
+    plt.xlabel("Margin of Victory")
+    plt.ylabel("Relative Frequency")
+    plt.show()
+    plt.close()
+
+def example_margin_dist(pace, h_rtg, a_rtg, home_marg_only=False, bandaid=False):
+    if (bandaid):
+        dist = bt.score_joint_pmf_bandaid(pace, h_rtg, a_rtg)
+    else:
+        dist = bt.score_joint_pmf(pace, h_rtg, a_rtg)
+    print (np.sum(dist))
+    marg = np.zeros(50)
+    total = 0
+    for i in range(275):
+        for j in range(275):
+            if (home_marg_only):
+                if (i < j or i - j > 50):
+                    continue
+                marg[i-j-1] += dist[i][j]
+                total += dist[i][j]
+            else:
+                if (abs(i - j) > 50):
+                    continue
+                marg[abs(i-j)-1] += dist[i][j]
+    if (home_marg_only):
+        marg = marg / total
+        if (not bandaid):
+            plt.title("Independent Spread Distribution of Home Team in a Forecasted Game w/ pace, h_rtg, a_rtg of " + str(pace) + ", " + str(h_rtg) + ", " + str(a_rtg))
+        else:
+            plt.title("Modified Dependency Spread Distribution of Home Team in a Forecasted Game w/ pace, h_rtg, a_rtg of " + str(pace) + ", " + str(h_rtg) + ", " + str(a_rtg))
+    else:
+        if (not bandaid):
+            plt.title("Independent Spread Distribution of a Forecasted Game w/ pace, h_rtg, a_rtg of " + str(pace) + ", " + str(h_rtg) + ", " + str(a_rtg))
+        else:
+            plt.title("Modified Dependency Spread Distribution of a Forecasted Game w/ pace, h_rtg, a_rtg of " + str(pace) + ", " + str(h_rtg) + ", " + str(a_rtg))
+    plt.bar(list(range(1,51)), marg)
+    plt.xlabel("Margin of Victory")
+    plt.ylabel("Probability")
+    plt.show()
+    plt.close()
+
+def scoring_dist():
+    bs = pd.read_csv('./database/traditional_boxscores_teams.csv')
+    games = pd.read_csv('./database/games.csv')
+    seasons = ""
+    for yr in range(1997, 2014):
+        seasons += str(yr) + "-" + str(yr+1)[2:4]+"|"
+    games = games[games["season"].str.contains(seasons[:-1])].reset_index()
+
+    pts = []
+    for gid in games['game_id'].unique():
+        cur = bs.loc[bs['game_id']==gid,].reset_index()
+        if (len(cur.index) == 2):
+            pts.append(cur.at[0,'points'])
+            pts.append(cur.at[1,'points'])
+    x = list(range(60,181))
+    count_ = []
+    for i in range(60,181):
+        count_.append(pts.count(i)/len(pts))
+    print (np.average(pts))
+    print (np.var(pts))
+    plt.bar(x, count_)
+    plt.title("Actual Point Distribution of the Train Set")
+    plt.xlabel("Points Scored")
+    plt.ylabel("Relative Frequency")
+    plt.show()
+    plt.close()
+
+def example_scoring_dist(pace, rtg, bandaid=False):
+    if (bandaid):
+        dist = bt.score_joint_pmf_bandaid(pace, rtg, 100)
+    else:
+        dist = bt.score_joint_pmf(pace, rtg, 100)
+    team_dist = []
+    for i in range(275):
+        team_dist.append(np.sum(dist[i]))
+    plt.title("Scoring Distribution where Mean = Variance of a Forecasted Game w/ pace, rtg of " + str(pace) + ", " + str(rtg))
+    plt.bar(list(range(0,275)), team_dist)
+    plt.xlabel("Points Scored")
+    plt.ylabel("Probability")
+    plt.show()
+    plt.close()
+
+#example_margin_dist(80,110,90,True,True)
+example_scoring_dist(100,100)
